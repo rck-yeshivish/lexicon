@@ -1,0 +1,27 @@
+# A Tale of Two Arks
+
+<!-- Sefer Bereishis / Noach -->
+
+Ibn Ezra (to Gen. 6:14) explains that Noah’s Ark was just that, an ark—not a boat. This is why it is called a *teivah* (“ark” or “closet”). The ark was not in the shape of a typical boat, so the Bible dos not refer to it as a *sefina* or *onia*, and it didn’t even have paddles to be rowed, which is why it isn’t called a *shayit*.
+
+hebrew kufsa comes from latin capsa (related to the English capsul?)
+
+Izhak Manilov commented to me that perhaps תיבה from יושבת=שיבה=sits firmly [the aramaic word for yeshiva = mesivta with a tav replacing the Hebrew shin].
+
+We are all familiar with two very different arks that are mentioned in the Bible: The Ark of Noah and the Ark of the Covenant. The Ark of Noah was a large wooden boat which Noah constructed for housing his family during the floods of the Great Deluge (Gen. 6–9), while the Ark of the Covenant was a wooden box coated in gold in which the tablets of the Ten Commandments and a Torah Scroll were stored. While in English both of these somewhat dissimilar items are conveniently labelled “arks”, the discerning reader might notice that in Hebrew, two different words are used. The Ark of Noah is called a *teivah* and the Ark of the Covenant is called an *aron*. The two words clearly refer to types of storage implements, but since they are two different words, they cannot mean the exact same thing. What then is the difference between the words *teivah* and *aron* which can justify translating both words as “ark”, yet show that the two words actually bear different connotations?
+
+In the Bible, the word *teivah* appears in two contexts: the Ark of Noah and the basket wherein the infant Moshe was placed before his mother left him on the Nile River (Ex. 2:3). The word *aron* is also used in two contexts in the Bible: the Ark of the Covenant and the coffin within which the body of the deceased Joseph was placed (Gen. 50:26). The usage of these terms in the Bible may help us determine the differences between them.
+
+Based on the contexts in which these two words are invoked, we may argue that the difference between them is in *where* the arks are used. The word *teivah* is only used for a storage device kept afloat on the water, while the word *aron* refers to storage place that need not necessarily involve floating on water. So, it seems that the difference between the types of containers meant by *teivah* and the types meant by *aron* is that the former is only used for storing something atop a body of water, while the latter is not.
+
+Alternatively, we may suppose that the distinction between these two forms of storing lies in *what* is being stored. In the Biblical examples, the word *teivah* refers specifically to “storing” a live person, i.e. Noah and his family or the baby Moshe. Rabbi Aharon Marcus (1843–1916) points out that the word *teivah* is related to the word *bayit* (house) because they both contain the same letters. This implies that a *teivah*, in some ways, is like a person’s home. The word *aron*, on the other hand, refers to other types of storage—even storing inanimate articles like the Tablets or Joseph’s corpse.
+
+All of this explains the difference between the words *teivah* and *aron* in the Biblical sense. However, when we include rabbinic usage of the words, the matter becomes far more complicated. In Rabbinic Hebrew, we find the words *teivah* and *aron* used almost interchangeably. For example, one Mishnah (*Taanit* 2:1) tells about how on communal days of fast, the *teivah* would be taken outside to the city plaza in a show of public outcry and another Mishnah (*Megillah* 3:1) rules that monies received from selling a synagogue building can only be used for purchasing a *teivah* or something holier than a *teivah.* What does the Mishnah mean when it refers to a *teivah* in these cases*?* The commentators discuss whether the Mishnah refers to the Holy Ark of a synagogue which houses the Torah Scrolls or the table (known as *bimah*) upon which the Torah Scrolls are placed while being read. Either way, the word *teivah* in the language of the Mishnah does not refer exclusively to something floating on the sea or housing a live person, which defeats the definition given above.
+
+Likewise, the Talmud Yerushalmi (*Shekalim* 6:1) explains the structure of the Ark of the Covenant—which the Bible calls an *aron*. It explains that the Ark was actually made up of three *teivah*s (in this context, boxes), two golden and one wooden. The wooden box was placed inside one of the golden boxes and the other golden box was placed inside the wooden box so that all exposed surfaces were golden with the wood hidden underneath. Thus, this three-*teivah* structure made up what is known as the *aron*. This passage, as well, disproves our prior assumptions about the nature of the differences between the words *teivah* and *aron*.
+
+Finally, Modern Hebrew offers a clear delineation between the two terms (although historically its distinction may not be well-grounded) because in Modern Hebrew, the word *teivah* refers to a storage chest and the word *aron* refers to a closet.[^10]
+
+---
+
+[^10]: קסת הסופר (בראשית ו:יד). תוספות שבת לב: כתבו על שקורין לארון הקדש ארנא - לארון שבבית הכנסת, אף על גב דבכל דוכתי קרי ליה תיבה כדתנן העובר לפני התיבה היורד לפני התיבה (ברכות פ"ה דף לד.) אור"י אשכחן נמי דקרי ליה ארון כדאמר תשעה וארון מצטרפין (שם פ"ז דף מז:).

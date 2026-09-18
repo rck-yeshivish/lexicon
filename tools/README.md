@@ -27,6 +27,25 @@ pieces in:
 - **`make_batches.py <dir> --size 11`** splits that into agent-sized batches.
   `--exclude <tsv>` holds back what a running agent already has.
 
+## Run when the author sends a new manuscript
+
+He revises the book as he goes, so a fresh `WTDBAW.docx` is the one place his
+later corrections are written down. Drop it on the old one and run these three.
+
+- **`split_manuscript.py`** writes `chapters/` and `chapters.json`. Then
+  `git diff sources/klein-book-manuscript/chapters` is the list of what he
+  changed, one correction at a time, which is what the entries then follow.
+- **`map_manuscript.py --report`** rebuilds `chapter-essay-map.json` and names
+  the three things worth acting on: chapters matching no published essay (an
+  essay the corpus lacks), chapters whose essays no entry uses, and published
+  essays no chapter matched.
+- **`klein_sources.py --report`** rebuilds `references/klein-sources.json` from
+  the Hebrew source footnote at the end of each essay, which is where his exact
+  loci live. `--entry <file>` prints one entry's list. The report ends with the
+  shorthand its table does not cover, most cited first; that list is the
+  question to put to the author, since guessing an attribution is worse than
+  leaving the Hebrew as it stands.
+
 ## Occasional
 
 - **`lookup.py <term>`** searches entries then the raw corpus, by Hebrew

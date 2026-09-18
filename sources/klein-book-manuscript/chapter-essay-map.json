@@ -3,3044 +3,7788 @@
   "n": 1,
   "file": "001-from-before.md",
   "title": "From Before",
+  "section": "TO DO",
+  "parsha": "",
+  "words": 0,
   "essays": [],
-  "published_share": 0
+  "entries": []
  },
  {
   "n": 2,
   "file": "002-cities-of-egypt.md",
   "title": "Cities of Egypt",
+  "section": "TO DO",
+  "parsha": "",
+  "words": 105,
   "essays": [],
-  "published_share": 0.0
+  "entries": []
  },
  {
   "n": 3,
   "file": "003-flying-sparks.md",
   "title": "Flying Sparks",
+  "section": "TO DO",
+  "parsha": "",
+  "words": 878,
   "essays": [
-   "6817"
+   {
+    "id": "6817",
+    "title": "Introduction - Synonyms in the Hebrew Language",
+    "share": 0.82,
+    "entries": [
+     "coming-biah-halichah-atah.md",
+     "king-melech-moshel.md",
+     "synonyms-davar-vayomer-vayidaber.md"
+    ]
+   }
   ],
-  "published_share": 0.76
+  "entries": [
+   "coming-biah-halichah-atah.md",
+   "king-melech-moshel.md",
+   "synonyms-davar-vayomer-vayidaber.md"
+  ]
  },
  {
   "n": 4,
   "file": "004-in-the-beginning.md",
   "title": "In the Beginning…",
+  "section": "Sefer Bereishis",
+  "parsha": "Bereishis",
+  "words": 3174,
   "essays": [
-   "11562",
-   "11087",
-   "11095"
+   {
+    "id": "11562",
+    "title": "Bereishis: In the Beginning...",
+    "share": 1.0,
+    "entries": [
+     "beginning-reishis-techilah-kedem.md",
+     "poison-eres-rosh-chamat-sam-hamaves.md"
+    ]
+   }
   ],
-  "published_share": 0.94
+  "entries": [
+   "beginning-reishis-techilah-kedem.md",
+   "poison-eres-rosh-chamat-sam-hamaves.md"
+  ]
  },
  {
   "n": 5,
-  "file": "005-be-a-man.md",
-  "title": "Be a Man",
+  "file": "005-article-about-nothing.md",
+  "title": "Article About Nothing",
+  "section": "Sefer Bereishis",
+  "parsha": "Bereishis",
+  "words": 5286,
   "essays": [
-   "8444",
-   "11394"
+   {
+    "id": "11087",
+    "title": "An Article About Nothing (Part 2 of 2)",
+    "share": 0.96,
+    "entries": [
+     "blemish-mum-pgam-simpon.md",
+     "nothing-hevel-rik-tohu-bohu.md"
+    ]
+   },
+   {
+    "id": "11095",
+    "title": "An Article About Nothing (Part 1 of 2)",
+    "share": 0.97,
+    "entries": [
+     "nothing-hevel-rik-tohu-bohu.md"
+    ]
+   }
   ],
-  "published_share": 0.89
+  "entries": [
+   "blemish-mum-pgam-simpon.md",
+   "nothing-hevel-rik-tohu-bohu.md"
+  ]
  },
  {
   "n": 6,
-  "file": "006-enter-the-garden.md",
-  "title": "Enter the Garden",
+  "file": "006-be-a-man.md",
+  "title": "Be a Man",
+  "section": "Sefer Bereishis",
+  "parsha": "Bereishis",
+  "words": 1635,
   "essays": [
-   "11106",
-   "11105"
+   {
+    "id": "8444",
+    "title": "Bereishet - Be a Man",
+    "share": 0.93,
+    "entries": [
+     "angel-classes-kruvim-chayos-ishim.md",
+     "man-adam-ish-enosh-gever.md"
+    ]
+   }
   ],
-  "published_share": 0.99
+  "entries": [
+   "angel-classes-kruvim-chayos-ishim.md",
+   "man-adam-ish-enosh-gever.md"
+  ]
  },
  {
   "n": 7,
-  "file": "007-the-shiloach-waters.md",
-  "title": "The Shiloach Waters",
+  "file": "007-enter-the-garden.md",
+  "title": "Enter the Garden",
+  "section": "Sefer Bereishis",
+  "parsha": "Bereishis",
+  "words": 4121,
   "essays": [
-   "11019"
+   {
+    "id": "11106",
+    "title": "Enter the Garden (Part 2 of 2)",
+    "share": 0.99,
+    "entries": [
+     "garden-gan-pardes-bustan.md"
+    ]
+   },
+   {
+    "id": "11105",
+    "title": "Enter the Garden (Part 1 of 2)",
+    "share": 0.98,
+    "entries": [
+     "garden-gan-pardes-bustan.md"
+    ]
+   }
   ],
-  "published_share": 0.99
+  "entries": [
+   "garden-gan-pardes-bustan.md"
+  ]
  },
  {
   "n": 8,
-  "file": "008-sleepy-words.md",
-  "title": "Sleepy Words",
+  "file": "008-the-shiloach-waters.md",
+  "title": "The Shiloach Waters",
+  "section": "Sefer Bereishis",
+  "parsha": "Bereishis",
+  "words": 1965,
   "essays": [
-   "11120",
-   "11119",
-   "10931"
+   {
+    "id": "11019",
+    "title": "Matos Masei: The Shiloach Waters",
+    "share": 1.0,
+    "entries": [
+     "spring-gichon-shiloach-gachon.md"
+    ]
+   }
   ],
-  "published_share": 0.9
+  "entries": [
+   "spring-gichon-shiloach-gachon.md"
+  ]
  },
  {
   "n": 9,
-  "file": "009-the-sword-of-methusaleh.md",
-  "title": "The Sword of Methusaleh",
+  "file": "009-sleepy-words.md",
+  "title": "Sleepy Words",
+  "section": "Sefer Bereishis",
+  "parsha": "Bereishis",
+  "words": 3988,
   "essays": [
-   "7366"
+   {
+    "id": "11120",
+    "title": "Sleepy Words (Part 2/2)",
+    "share": 0.98,
+    "entries": [
+     "sleep-sheinah-tardeimah-tenumah.md"
+    ]
+   },
+   {
+    "id": "11119",
+    "title": "Bereishit: Sleepy Words (Part 1/2)",
+    "share": 0.96,
+    "entries": [
+     "sleep-sheinah-tardeimah-tenumah.md"
+    ]
+   }
   ],
-  "published_share": 0.08
+  "entries": [
+   "sleep-sheinah-tardeimah-tenumah.md"
+  ]
  },
  {
   "n": 10,
-  "file": "010-a-tale-of-two-arks.md",
-  "title": "A Tale of Two Arks",
+  "file": "010-the-sword-of-methusaleh.md",
+  "title": "The Sword of Methusaleh",
+  "section": "Sefer Bereishis",
+  "parsha": "Noach",
+  "words": 1125,
   "essays": [
-   "9775",
-   "6943",
-   "9405"
+   {
+    "id": "90001",
+    "title": "The Sword of Methusaleh",
+    "share": 1.0,
+    "entries": [
+     "sword-cherev-shelach-sakin.md"
+    ]
+   }
   ],
-  "published_share": 0.85
+  "entries": [
+   "sword-cherev-shelach-sakin.md"
+  ]
  },
  {
   "n": 11,
-  "file": "011-names-of-a-people.md",
-  "title": "Names of a People",
+  "file": "011-a-tale-of-two-arks.md",
+  "title": "A Tale of Two Arks",
+  "section": "Sefer Bereishis",
+  "parsha": "Noach",
+  "words": 887,
   "essays": [
-   "7961"
+   {
+    "id": "6943",
+    "title": "A Tale of Two Arks",
+    "share": 0.91,
+    "entries": [
+     "ark-teivah-aron.md"
+    ]
+   }
   ],
-  "published_share": 0.92
+  "entries": [
+   "ark-teivah-aron.md"
+  ]
  },
  {
   "n": 12,
-  "file": "012-ashkenaz-and-teutonic-jews.md",
-  "title": "Ashkenaz and Teutonic Jews",
+  "file": "012-on-dryland.md",
+  "title": "On Dryland",
+  "section": "Sefer Bereishis",
+  "parsha": "Noach",
+  "words": 2140,
   "essays": [
-   "11563"
+   {
+    "id": "9775",
+    "title": "On Dry Land",
+    "share": 0.85,
+    "entries": [
+     "destruction-churban-shemamah.md",
+     "dry-yavesh-chorev-negev.md"
+    ]
+   }
   ],
-  "published_share": 0.98
+  "entries": [
+   "destruction-churban-shemamah.md",
+   "dry-yavesh-chorev-negev.md"
+  ]
  },
  {
   "n": 13,
-  "file": "013-the-princess-gaze.md",
-  "title": "The Princess’ Gaze",
+  "file": "013-names-of-a-people.md",
+  "title": "Names of a People",
+  "section": "Sefer Bereishis",
+  "parsha": "Noach",
+  "words": 941,
   "essays": [
-   "11581",
-   "11580"
+   {
+    "id": "7961",
+    "title": "Names of a People",
+    "share": 0.91,
+    "entries": [
+     "people-ivri-yisrael-yehudi.md"
+    ]
+   }
   ],
-  "published_share": 0.88
+  "entries": [
+   "people-ivri-yisrael-yehudi.md"
+  ]
  },
  {
   "n": 14,
-  "file": "014-eighth-month.md",
-  "title": "Eighth Month",
+  "file": "014-ashkenaz-and-teutonic-jews.md",
+  "title": "Ashkenaz and Teutonic Jews",
+  "section": "Sefer Bereishis",
+  "parsha": "Noach",
+  "words": 2591,
   "essays": [
-   "11123",
-   "11411"
+   {
+    "id": "11563",
+    "title": "Noach: Ashkenaz and Teutonic Jews",
+    "share": 0.99,
+    "entries": [
+     "germany-ashkenaz-germamia-lotir.md"
+    ]
+   }
   ],
-  "published_share": 0.96
+  "entries": [
+   "germany-ashkenaz-germamia-lotir.md"
+  ]
  },
  {
   "n": 15,
-  "file": "015-prime-property.md",
-  "title": "Prime Property",
+  "file": "015-the-princess-gaze.md",
+  "title": "The Princess’ Gaze",
+  "section": "Sefer Bereishis",
+  "parsha": "Noach",
+  "words": 3254,
   "essays": [
-   "10695"
+   {
+    "id": "11581",
+    "title": "Vayera: The Princess' Gaze (Part 2/2)",
+    "share": 0.96,
+    "entries": [
+     "princess-sarai-sarah-yiscah.md"
+    ]
+   },
+   {
+    "id": "11580",
+    "title": "Lech Lecha: The Princess' Gaze (Part 1/2)",
+    "share": 0.99,
+    "entries": [
+     "princess-sarai-sarah-yiscah.md"
+    ]
+   }
   ],
-  "published_share": 0.94
+  "entries": [
+   "princess-sarai-sarah-yiscah.md"
+  ]
  },
  {
   "n": 16,
-  "file": "016-dirt-dust-and-ashes.md",
-  "title": "Dirt, Dust, and Ashes",
+  "file": "016-eighth-month.md",
+  "title": "Eighth Month",
+  "section": "Sefer Bereishis",
+  "parsha": "Noach",
+  "words": 2586,
   "essays": [
-   "8467",
-   "8333",
-   "8181"
+   {
+    "id": "11123",
+    "title": "Lech Lecha: Eighth Month",
+    "share": 0.96,
+    "entries": [
+     "month-bul-marcheshvan.md",
+     "rain-geshem-matar-yoreh-malkosh.md"
+    ]
+   }
   ],
-  "published_share": 0.89
+  "entries": [
+   "month-bul-marcheshvan.md",
+   "rain-geshem-matar-yoreh-malkosh.md"
+  ]
  },
  {
   "n": 17,
-  "file": "017-seeking-completion.md",
-  "title": "Seeking Completion",
+  "file": "017-prime-property.md",
+  "title": "Prime Property",
+  "section": "Sefer Bereishis",
+  "parsha": "Lech Lecha",
+  "words": 1956,
   "essays": [
-   "9396",
-   "8816"
+   {
+    "id": "10695",
+    "title": "Prime Property",
+    "share": 0.99,
+    "entries": [
+     "property-rechush-mikneh-nechasim.md"
+    ]
+   }
   ],
-  "published_share": 0.9
+  "entries": [
+   "property-rechush-mikneh-nechasim.md"
+  ]
  },
  {
   "n": 18,
-  "file": "018-a-laughing-matter.md",
-  "title": "A Laughing Matter",
+  "file": "018-dirt-dust-and-ashes.md",
+  "title": "Dirt, Dust, and Ashes",
+  "section": "Sefer Bereishis",
+  "parsha": "Lech Lecha",
+  "words": 1506,
   "essays": [
-   "8903"
+   {
+    "id": "8467",
+    "title": "Dirt, Dust and Ashes",
+    "share": 0.86,
+    "entries": [
+     "dust-afar-eifer-avak-deshen.md"
+    ]
+   }
   ],
-  "published_share": 0.82
+  "entries": [
+   "dust-afar-eifer-avak-deshen.md"
+  ]
  },
  {
   "n": 19,
-  "file": "019-energizing-the-tired-and-exhausted.md",
-  "title": "Energizing the Tired and Exhausted",
+  "file": "019-seeking-completion.md",
+  "title": "Seeking Completion",
+  "section": "Sefer Bereishis",
+  "parsha": "Lech Lecha",
+  "words": 1707,
   "essays": [
-   "6774"
+   {
+    "id": "9396",
+    "title": "Seeking Completion",
+    "share": 0.88,
+    "entries": [
+     "completeness-tam-shalem-tamim.md"
+    ]
+   }
   ],
-  "published_share": 0.86
+  "entries": [
+   "completeness-tam-shalem-tamim.md"
+  ]
  },
  {
   "n": 20,
-  "file": "020-seeing-is-believing.md",
-  "title": "Seeing is Believing",
+  "file": "020-a-laughing-matter.md",
+  "title": "A Laughing Matter",
+  "section": "Sefer Bereishis",
+  "parsha": "Lech Lecha",
+  "words": 1558,
   "essays": [
-   "7463"
+   {
+    "id": "8903",
+    "title": "A Laughing Matter",
+    "share": 0.82,
+    "entries": [
+     "laughter-tzchok-schok.md"
+    ]
+   }
   ],
-  "published_share": 0.69
+  "entries": [
+   "laughter-tzchok-schok.md"
+  ]
  },
  {
   "n": 21,
-  "file": "021-be-my-guest.md",
-  "title": "Be My Guest",
+  "file": "021-energizing-the-tired-and-exhausted.md",
+  "title": "Energizing the Tired and Exhausted",
+  "section": "Sefer Bereishis",
+  "parsha": "Lech Lecha",
+  "words": 699,
   "essays": [
-   "10698"
+   {
+    "id": "6774",
+    "title": "Energizing the Tired and Exhausted",
+    "share": 0.88,
+    "entries": [
+     "tired-ayef-yaef-yagea.md"
+    ]
+   }
   ],
-  "published_share": 0.91
+  "entries": [
+   "tired-ayef-yaef-yagea.md"
+  ]
  },
  {
   "n": 22,
-  "file": "022-where-are-you.md",
-  "title": "Where Are You?",
+  "file": "022-seeing-is-believing.md",
+  "title": "Seeing is Believing",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayera",
+  "words": 1203,
   "essays": [
-   "8478"
+   {
+    "id": "7463",
+    "title": "Seeing is Believing",
+    "share": 0.82,
+    "entries": [
+     "seeing-raah-hibit-tzofeh.md"
+    ]
+   }
   ],
-  "published_share": 0.82
+  "entries": [
+   "seeing-raah-hibit-tzofeh.md"
+  ]
  },
  {
   "n": 23,
-  "file": "023-the-man-with-enough-light.md",
-  "title": "The Man with Enough Light",
+  "file": "023-be-my-guest.md",
+  "title": "Be My Guest",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayera",
+  "words": 1793,
   "essays": [
-   "7974"
+   {
+    "id": "10698",
+    "title": "Be My Guest",
+    "share": 0.99,
+    "entries": [
+     "guest-oreach-ushpiz-achsanai.md"
+    ]
+   }
   ],
-  "published_share": 0.79
+  "entries": [
+   "guest-oreach-ushpiz-achsanai.md"
+  ]
  },
  {
   "n": 24,
-  "file": "024-getting-pushy.md",
-  "title": "Getting Pushy",
+  "file": "024-where-are-you.md",
+  "title": "Where Are You?",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayera",
+  "words": 1014,
   "essays": [
-   "11128"
+   {
+    "id": "8478",
+    "title": "Where are You",
+    "share": 0.85,
+    "entries": [
+     "where-ayeh-eifoh-anah.md"
+    ]
+   }
   ],
-  "published_share": 0.99
+  "entries": [
+   "where-ayeh-eifoh-anah.md"
+  ]
  },
  {
   "n": 25,
-  "file": "025-words-for-words.md",
-  "title": "Words for Words",
+  "file": "025-the-man-with-enough-light.md",
+  "title": "The Man with Enough Light",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayera",
+  "words": 1037,
   "essays": [
-   "9405",
-   "6943"
+   {
+    "id": "7974",
+    "title": "The Man with Enough Light",
+    "share": 0.78,
+    "entries": [
+     "blindness-iver-suma-sagi-nahor-sanverim.md"
+    ]
+   }
   ],
-  "published_share": 0.94
+  "entries": [
+   "blindness-iver-suma-sagi-nahor-sanverim.md"
+  ]
  },
  {
   "n": 26,
-  "file": "026-elephants-galore.md",
-  "title": "Elephants Galore",
+  "file": "026-getting-pushy.md",
+  "title": "Getting Pushy",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayera",
+  "words": 2464,
   "essays": [
-   "9416",
-   "8913"
+   {
+    "id": "11128",
+    "title": "Vayera: Getting Pushy",
+    "share": 0.99,
+    "entries": [
+     "pushing-potzer-docheh-dochef-hadof.md"
+    ]
+   }
   ],
-  "published_share": 0.79
+  "entries": [
+   "pushing-potzer-docheh-dochef-hadof.md"
+  ]
  },
  {
   "n": 27,
-  "file": "027-take-a-bow.md",
-  "title": "Take a Bow",
-  "essays": [],
-  "published_share": 0.0
+  "file": "027-words-for-words.md",
+  "title": "Words for Words",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayera",
+  "words": 1628,
+  "essays": [
+   {
+    "id": "9405",
+    "title": "Words for Words",
+    "share": 0.95,
+    "entries": [
+     "ark-teivah-aron.md",
+     "word-milah-teivah-davar.md"
+    ]
+   }
+  ],
+  "entries": [
+   "ark-teivah-aron.md",
+   "word-milah-teivah-davar.md"
+  ]
  },
  {
   "n": 28,
-  "file": "028-the-old-man-and-the-see.md",
-  "title": "The Old Man and the See",
+  "file": "028-elephants-galore.md",
+  "title": "Elephants Galore",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayera",
+  "words": 1443,
   "essays": [
-   "8487",
-   "11119",
-   "8444"
+   {
+    "id": "8913",
+    "title": "Elephants Galore",
+    "share": 0.78,
+    "entries": [
+     "elephant-pil-shenhav.md"
+    ]
+   }
   ],
-  "published_share": 0.41
+  "entries": [
+   "elephant-pil-shenhav.md"
+  ]
  },
  {
   "n": 29,
-  "file": "029-maybe-yes-maybe-no.md",
-  "title": "Maybe Yes, Maybe No",
+  "file": "029-the-city-of-four-and-more.md",
+  "title": "The City of Four and More",
+  "section": "Sefer Bereishis",
+  "parsha": "Chayei Sarah",
+  "words": 1571,
   "essays": [
-   "7483"
+   {
+    "id": "9416",
+    "title": "The City of Four",
+    "share": 0.88,
+    "entries": [
+     "hebron-chevron-kiryas-arba-mamre-eshkol.md"
+    ]
+   }
   ],
-  "published_share": 0.72
+  "entries": [
+   "hebron-chevron-kiryas-arba-mamre-eshkol.md"
+  ]
  },
  {
   "n": 30,
-  "file": "030-take-a-drink.md",
-  "title": "Take a Drink",
+  "file": "030-take-a-bow.md",
+  "title": "Take a Bow",
+  "section": "Sefer Bereishis",
+  "parsha": "Chayei Sarah",
+  "words": 987,
   "essays": [
-   "10709",
-   "9126"
+   {
+    "id": "90002",
+    "title": "Take a Bow",
+    "share": 0.98,
+    "entries": [
+     "bowing-kidah-kriah-hishtachavaah.md"
+    ]
+   }
   ],
-  "published_share": 0.98
+  "entries": [
+   "bowing-kidah-kriah-hishtachavaah.md"
+  ]
  },
  {
   "n": 31,
-  "file": "031-all-wrapped-up.md",
-  "title": "All Wrapped Up",
+  "file": "031-the-old-man-and-the-see.md",
+  "title": "The Old Man and the See",
+  "section": "Sefer Bereishis",
+  "parsha": "Chayei Sarah",
+  "words": 1880,
   "essays": [
-   "11584"
+   {
+    "id": "8487",
+    "title": "The Old Man and the See",
+    "share": 0.81,
+    "entries": [
+     "old-zaken-seivah-yashish.md"
+    ]
+   }
   ],
-  "published_share": 0.99
+  "entries": [
+   "old-zaken-seivah-yashish.md"
+  ]
  },
  {
   "n": 32,
-  "file": "032-true-love.md",
-  "title": "True Love",
+  "file": "032-maybe-yes-maybe-no.md",
+  "title": "Maybe Yes, Maybe No",
+  "section": "Sefer Bereishis",
+  "parsha": "Chayei Sarah",
+  "words": 1392,
   "essays": [
-   "10714",
-   "10983"
+   {
+    "id": "7483",
+    "title": "Maybe Yes, Maybe No",
+    "share": 0.86,
+    "entries": [
+     "maybe-ulai-pen.md"
+    ]
+   }
   ],
-  "published_share": 0.98
+  "entries": [
+   "maybe-ulai-pen.md"
+  ]
  },
  {
   "n": 33,
-  "file": "033-the-unaffiliated-nations.md",
-  "title": "The Unaffiliated Nations",
+  "file": "033-take-a-drink.md",
+  "title": "Take a Drink",
+  "section": "Sefer Bereishis",
+  "parsha": "Chayei Sarah",
+  "words": 2067,
   "essays": [
-   "7491"
+   {
+    "id": "10709",
+    "title": "Chayei Sarah: Take a Drink",
+    "share": 0.98,
+    "entries": [
+     "drinking-shtiyah-hashkaah-gemiah.md"
+    ]
+   }
   ],
-  "published_share": 0.84
+  "entries": [
+   "drinking-shtiyah-hashkaah-gemiah.md"
+  ]
  },
  {
   "n": 34,
-  "file": "034-noble-clothes.md",
-  "title": "Noble Clothes",
+  "file": "034-all-wrapped-up.md",
+  "title": "All Wrapped Up",
+  "section": "Sefer Bereishis",
+  "parsha": "Chayei Sarah",
+  "words": 2035,
   "essays": [
-   "11594",
-   "8497",
-   "9907"
+   {
+    "id": "11584",
+    "title": "Chayei Sarah: All Wrapped Up",
+    "share": 0.99,
+    "entries": [
+     "veil-tzaif-redid.md"
+    ]
+   }
   ],
-  "published_share": 0.91
+  "entries": [
+   "veil-tzaif-redid.md"
+  ]
  },
  {
   "n": 35,
-  "file": "035-boys-and-girls.md",
-  "title": "Boys and Girls",
+  "file": "035-true-love.md",
+  "title": "True Love",
+  "section": "Sefer Bereishis",
+  "parsha": "Chayei Sarah",
+  "words": 4981,
   "essays": [
-   "8922",
-   "8933",
-   "11069"
+   {
+    "id": "10714",
+    "title": "True Love (Part 1/2)",
+    "share": 0.98,
+    "entries": [
+     "love-ahavah-chibah.md"
+    ]
+   },
+   {
+    "id": "10983",
+    "title": "True Love (Part 2/2)",
+    "share": 0.98,
+    "entries": [
+     "judgment-din-rachamim.md",
+     "love-ahavah-chibah.md",
+     "mercy-rachum-chanun-chus-chemlah.md"
+    ]
+   }
   ],
-  "published_share": 0.73
+  "entries": [
+   "judgment-din-rachamim.md",
+   "love-ahavah-chibah.md",
+   "mercy-rachum-chanun-chus-chemlah.md"
+  ]
  },
  {
   "n": 36,
-  "file": "036-disgraceful-disparagement.md",
-  "title": "Disgraceful Disparagement",
+  "file": "036-the-unaffiliated-nations.md",
+  "title": "The Unaffiliated Nations",
+  "section": "Sefer Bereishis",
+  "parsha": "Toldos",
+  "words": 1587,
   "essays": [
-   "9428"
+   {
+    "id": "7491",
+    "title": "The Unaffiliated Nations",
+    "share": 0.84,
+    "entries": [
+     "nation-goy-am-leom-umah.md"
+    ]
+   }
   ],
-  "published_share": 0.93
+  "entries": [
+   "nation-goy-am-leom-umah.md"
+  ]
  },
  {
   "n": 37,
-  "file": "037-the-doers-and-fighters.md",
-  "title": "The Doers and Fighters",
+  "file": "037-noble-clothes.md",
+  "title": "Noble Clothes",
+  "section": "Sefer Bereishis",
+  "parsha": "Toldos",
+  "words": 2237,
   "essays": [
-   "10720"
+   {
+    "id": "11594",
+    "title": "Toldot: Noble Clothes",
+    "share": 0.97,
+    "entries": [
+     "garment-aderet-glima-itztala.md"
+    ]
+   }
   ],
-  "published_share": 0.96
+  "entries": [
+   "garment-aderet-glima-itztala.md"
+  ]
  },
  {
   "n": 38,
-  "file": "038-like-a-rock.md",
-  "title": "Like a Rock",
+  "file": "038-smooth-sliding-glad-gliding.md",
+  "title": "Smooth Sliding & Glad Gliding",
+  "section": "Sefer Bereishis",
+  "parsha": "Toldos",
+  "words": 1301,
   "essays": [
-   "8000",
-   "7499",
-   "7990"
+   {
+    "id": "8497",
+    "title": "Smooth Sliding and Glad Gliding",
+    "share": 0.83,
+    "entries": [
+     "smooth-chalak-shua-mishi.md"
+    ]
+   }
   ],
-  "published_share": 0.84
+  "entries": [
+   "smooth-chalak-shua-mishi.md"
+  ]
  },
  {
   "n": 39,
-  "file": "039-name-of-the-plain.md",
-  "title": "Name of the Plain",
+  "file": "039-boys-and-girls.md",
+  "title": "Boys and Girls",
+  "section": "Sefer Bereishis",
+  "parsha": "Toldos",
+  "words": 3879,
   "essays": [
-   "11608"
+   {
+    "id": "8922",
+    "title": "Chayei Sarah: Boys and Girls (Part 1)",
+    "share": 0.85,
+    "entries": [
+     "child-yeled-olel-roveh-ravya.md",
+     "youth-naar-almah-elem.md"
+    ]
+   },
+   {
+    "id": "8933",
+    "title": "Toldot: Boys and Girls (Part 2)",
+    "share": 0.87,
+    "entries": [
+     "child-yeled-olel-roveh-ravya.md",
+     "youth-naar-almah-elem.md"
+    ]
+   }
   ],
-  "published_share": 0.98
+  "entries": [
+   "child-yeled-olel-roveh-ravya.md",
+   "youth-naar-almah-elem.md"
+  ]
  },
  {
   "n": 40,
-  "file": "040-gad-luck-to-you.md",
-  "title": "Gad Luck to You",
+  "file": "040-disgraceful-disparagement.md",
+  "title": "Disgraceful Disparagement",
+  "section": "Sefer Bereishis",
+  "parsha": "Toldos",
+  "words": 1408,
   "essays": [
-   "10730"
+   {
+    "id": "9428",
+    "title": "Disgraceful Disparagement",
+    "share": 0.93,
+    "entries": [
+     "disgrace-bizayon-kalon-zilzul-gnai.md"
+    ]
+   }
   ],
-  "published_share": 0.9
+  "entries": [
+   "disgrace-bizayon-kalon-zilzul-gnai.md"
+  ]
  },
  {
   "n": 41,
-  "file": "041-castle-in-the-sky.md",
-  "title": "Castle in the Sky",
+  "file": "041-the-doers-and-fighters.md",
+  "title": "The Doers and Fighters",
+  "section": "Sefer Bereishis",
+  "parsha": "Toldos",
+  "words": 1841,
   "essays": [
-   "8941"
+   {
+    "id": "10720",
+    "title": "Toldos: The Doers and Fighters",
+    "share": 0.98,
+    "entries": [
+     "activist-askan-shtadlan-macher.md",
+     "angel-malach-shaliach.md"
+    ]
+   }
   ],
-  "published_share": 0.83
+  "entries": [
+   "activist-askan-shtadlan-macher.md",
+   "angel-malach-shaliach.md"
+  ]
  },
  {
   "n": 42,
-  "file": "042-the-ovine-and-caprine-families.md",
-  "title": "The Ovine and Caprine Families",
+  "file": "042-like-a-rock.md",
+  "title": "Like a Rock",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayeitzei",
+  "words": 1925,
   "essays": [
-   "11139",
-   "9436",
-   "8505"
+   {
+    "id": "8000",
+    "title": "Like a Rock (Part 2)",
+    "share": 0.91,
+    "entries": [
+     "rock-even-sela.md",
+     "rock-tzur-chalamish.md"
+    ]
+   },
+   {
+    "id": "7990",
+    "title": "Like a Rock (Part 1)",
+    "share": 0.86,
+    "entries": [
+     "coins-shekel-sela-beka-darkemon.md",
+     "rock-even-sela.md"
+    ]
+   }
   ],
-  "published_share": 0.88
+  "entries": [
+   "coins-shekel-sela-beka-darkemon.md",
+   "rock-even-sela.md",
+   "rock-tzur-chalamish.md"
+  ]
  },
  {
   "n": 43,
-  "file": "043-angels-and-agents.md",
-  "title": "Angels and Agents",
+  "file": "043-stoned-and-high-altars.md",
+  "title": "Stoned and High Altars",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayeitzei",
+  "words": 1165,
   "essays": [
-   "7512"
+   {
+    "id": "7499",
+    "title": "Stones and High Altars",
+    "share": 0.9,
+    "entries": [
+     "altar-mizbeach-matzeivah-bamah.md"
+    ]
+   }
   ],
-  "published_share": 0.76
+  "entries": [
+   "altar-mizbeach-matzeivah-bamah.md"
+  ]
  },
  {
   "n": 44,
-  "file": "044-good-morning-sunshine.md",
-  "title": "Good Morning Sunshine",
+  "file": "044-name-of-the-plain.md",
+  "title": "Name of the Plain",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayeitzei",
+  "words": 2330,
   "essays": [
-   "8518"
+   {
+    "id": "11608",
+    "title": "Vayeitzei: Name of the Plain",
+    "share": 0.98,
+    "entries": [
+     "plain-mishor-sharon-eil-kikar.md"
+    ]
+   }
   ],
-  "published_share": 0.85
+  "entries": [
+   "plain-mishor-sharon-eil-kikar.md"
+  ]
  },
  {
   "n": 45,
-  "file": "045-the-gift-of-giving.md",
-  "title": "The Gift of Giving",
+  "file": "045-gad-luck-to-you.md",
+  "title": "Gad Luck to You",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayeitzei",
+  "words": 2481,
   "essays": [
-   "7982"
+   {
+    "id": "10730",
+    "title": "Vayetzei: Gad Luck to You",
+    "share": 0.96,
+    "entries": [
+     "fortune-mazal-gad-mazar.md"
+    ]
+   }
   ],
-  "published_share": 0.61
+  "entries": [
+   "fortune-mazal-gad-mazar.md"
+  ]
  },
  {
   "n": 46,
-  "file": "046-go-camel.md",
-  "title": "Go Camel",
+  "file": "046-castle-in-the-sky.md",
+  "title": "Castle in the Sky",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayeitzei",
+  "words": 1789,
   "essays": [
-   "11619",
-   "9554"
+   {
+    "id": "8941",
+    "title": "Castle in the Sky",
+    "share": 0.85,
+    "entries": [
+     "guard-shemirah-netzirah-netirah.md",
+     "palace-zvul-armon-apadna-tirah.md",
+     "plain-mishor-sharon-eil-kikar.md"
+    ]
+   }
   ],
-  "published_share": 0.97
+  "entries": [
+   "guard-shemirah-netzirah-netirah.md",
+   "palace-zvul-armon-apadna-tirah.md",
+   "plain-mishor-sharon-eil-kikar.md"
+  ]
  },
  {
   "n": 47,
-  "file": "047-family-matters.md",
-  "title": "Family Matters",
+  "file": "047-the-ovine-and-caprine-families.md",
+  "title": "The Ovine and Caprine Families",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayeitzei",
+  "words": 1642,
   "essays": [
-   "9448",
-   "8120"
+   {
+    "id": "8505",
+    "title": "The Ovine and Caprine Families",
+    "share": 0.83,
+    "entries": [
+     "child-yeled-olel-roveh-ravya.md",
+     "horn-shofar-keren-yovel-chatzotzros.md",
+     "sheep-and-goats-seh-keves-ayil-eiz.md",
+     "strength-koach-gevurah-ometz-chozek.md"
+    ]
+   }
   ],
-  "published_share": 0.81
+  "entries": [
+   "child-yeled-olel-roveh-ravya.md",
+   "horn-shofar-keren-yovel-chatzotzros.md",
+   "sheep-and-goats-seh-keves-ayil-eiz.md",
+   "strength-koach-gevurah-ometz-chozek.md"
+  ]
  },
  {
   "n": 48,
-  "file": "048-playing-with-fire.md",
-  "title": "Playing with Fire",
+  "file": "048-all-about-almonds.md",
+  "title": "All About Almonds",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayeitzei",
+  "words": 1684,
   "essays": [
-   "8007",
-   "8076"
+   {
+    "id": "9436",
+    "title": "Almonds in the Bible",
+    "share": 0.89,
+    "entries": [
+     "almond-luz-shaked.md"
+    ]
+   }
   ],
-  "published_share": 0.87
+  "entries": [
+   "almond-luz-shaked.md"
+  ]
  },
  {
   "n": 49,
-  "file": "049-saving-survivors.md",
-  "title": "Saving Survivors",
+  "file": "049-just-testify.md",
+  "title": "Just Testify!",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayeitzei",
+  "words": 2185,
   "essays": [
-   "11148"
+   {
+    "id": "11139",
+    "title": "Vayeitzei: Testify!",
+    "share": 0.98,
+    "entries": [
+     "witness-eid-sahad.md"
+    ]
+   }
   ],
-  "published_share": 0.99
+  "entries": [
+   "witness-eid-sahad.md"
+  ]
  },
  {
   "n": 50,
-  "file": "050-the-amazing-multi-named-joseph.md",
-  "title": "The Amazing Multi-Named Joseph",
+  "file": "050-angels-and-agents.md",
+  "title": "Angels and Agents",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayishlach",
+  "words": 1104,
   "essays": [
-   "10750"
+   {
+    "id": "7512",
+    "title": "Angels and Agents",
+    "share": 0.86,
+    "entries": [
+     "angel-malach-shaliach.md",
+     "work-melachah-avodah.md"
+    ]
+   }
   ],
-  "published_share": 0.93
+  "entries": [
+   "angel-malach-shaliach.md",
+   "work-melachah-avodah.md"
+  ]
  },
  {
   "n": 51,
-  "file": "051-lost-or-mistaken.md",
-  "title": "Lost or Mistaken",
+  "file": "051-good-morning-sunshine.md",
+  "title": "Good Morning Sunshine",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayishlach",
+  "words": 1369,
   "essays": [
-   "7804"
+   {
+    "id": "8518",
+    "title": "Good Morning Sunshine",
+    "share": 0.89,
+    "entries": [
+     "morning-shachar-boker-tzafra.md"
+    ]
+   }
   ],
-  "published_share": 0.52
+  "entries": [
+   "morning-shachar-boker-tzafra.md"
+  ]
  },
  {
   "n": 52,
-  "file": "052-a-real-toss-up.md",
-  "title": "A Real Toss Up",
+  "file": "052-the-gift-of-giving.md",
+  "title": "The Gift of Giving",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayishlach",
+  "words": 1404,
   "essays": [
-   "8528"
+   {
+    "id": "7982",
+    "title": "The Gift of Giving",
+    "share": 0.67,
+    "entries": [
+     "gift-minchah-matanah-shai.md"
+    ]
+   }
   ],
-  "published_share": 0.89
+  "entries": [
+   "gift-minchah-matanah-shai.md"
+  ]
  },
  {
   "n": 53,
-  "file": "053-mercantile-man.md",
-  "title": "Mercantile Man",
+  "file": "053-go-camel.md",
+  "title": "Go Camel",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayishlach",
+  "words": 3109,
   "essays": [
-   "11160"
+   {
+    "id": "11619",
+    "title": "Vayishlach: Go Camel",
+    "share": 0.97,
+    "entries": [
+     "camel-gamal-nakah-becher-kar.md"
+    ]
+   }
   ],
-  "published_share": 0.97
+  "entries": [
+   "camel-gamal-nakah-becher-kar.md"
+  ]
  },
  {
   "n": 54,
-  "file": "054-wake-up-time.md",
-  "title": "Wake-up Time",
+  "file": "054-family-matters.md",
+  "title": "Family Matters",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayishlach",
+  "words": 2063,
   "essays": [
-   "9473"
+   {
+    "id": "9448",
+    "title": "Family Matters",
+    "share": 0.89,
+    "entries": [
+     "family-mishpachah-bayis-sheer-machaneh.md",
+     "handmaid-amah-shifchah-eved.md"
+    ]
+   }
   ],
-  "published_share": 0.81
+  "entries": [
+   "family-mishpachah-bayis-sheer-machaneh.md",
+   "handmaid-amah-shifchah-eved.md"
+  ]
  },
  {
   "n": 55,
-  "file": "055-say-it-clear.md",
-  "title": "Say it Clear",
+  "file": "055-playing-with-fire.md",
+  "title": "Playing with Fire",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayishlach",
+  "words": 1161,
   "essays": [
-   "11178",
-   "11170",
-   "11314"
+   {
+    "id": "8007",
+    "title": "Playing with Fire",
+    "share": 0.89,
+    "entries": [
+     "fire-aish-lehavah-shalheves-lapid.md"
+    ]
+   }
   ],
-  "published_share": 0.97
+  "entries": [
+   "fire-aish-lehavah-shalheves-lapid.md"
+  ]
  },
  {
   "n": 56,
-  "file": "056-famishing-famines.md",
-  "title": "Famishing Famines",
+  "file": "056-saving-survivors.md",
+  "title": "Saving Survivors",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayishlach",
+  "words": 2677,
   "essays": [
-   "10761",
-   "10970"
+   {
+    "id": "11148",
+    "title": "Vayishlach: Saving Survivors",
+    "share": 0.99,
+    "entries": [
+     "survivor-pleitah-sarid-klitah.md"
+    ]
+   }
   ],
-  "published_share": 1.02
+  "entries": [
+   "survivor-pleitah-sarid-klitah.md"
+  ]
  },
  {
   "n": 57,
-  "file": "057-slaughtering-and-butchering.md",
-  "title": "Slaughtering and Butchering",
+  "file": "057-the-amazing-multi-named-joseph.md",
+  "title": "The Amazing Multi-Named Joseph",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayeshev",
+  "words": 2104,
   "essays": [
-   "8980",
-   "8023",
-   "9658"
+   {
+    "id": "10750",
+    "title": "Vayeshev: The Amazing Multi-Named Joseph",
+    "share": 0.97,
+    "entries": [
+     "names-yosef-yehosef-avreich-tzafnas-paneach.md"
+    ]
+   }
   ],
-  "published_share": 0.76
+  "entries": [
+   "names-yosef-yehosef-avreich-tzafnas-paneach.md"
+  ]
  },
  {
   "n": 58,
-  "file": "058-all-tied-up.md",
-  "title": "All Tied Up",
+  "file": "058-lost-or-mistaken.md",
+  "title": "Lost or Mistaken",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayeshev",
+  "words": 1032,
   "essays": [
-   "10970",
-   "9211",
-   "10761"
+   {
+    "id": "7804",
+    "title": "Lost or Mistaken",
+    "share": 0.52,
+    "entries": [
+     "straying-toeh-taut.md"
+    ]
+   }
   ],
-  "published_share": 1.02
+  "entries": [
+   "straying-toeh-taut.md"
+  ]
  },
  {
   "n": 59,
-  "file": "059-on-misers-and-cheapskates.md",
-  "title": "On Misers and Cheapskates",
+  "file": "059-a-real-toss-up.md",
+  "title": "A Real Toss Up",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayeshev",
+  "words": 1594,
   "essays": [
-   "9734"
+   {
+    "id": "8528",
+    "title": "A Real Toss Up",
+    "share": 0.93,
+    "entries": [
+     "throw-hashlachah-zerikah-hazayah-ramah.md"
+    ]
+   }
   ],
-  "published_share": 0.81
+  "entries": [
+   "throw-hashlachah-zerikah-hazayah-ramah.md"
+  ]
  },
  {
   "n": 60,
-  "file": "060-speaking-in-tongues.md",
-  "title": "Speaking in Tongues",
+  "file": "060-mercantile-man.md",
+  "title": "Mercantile Man",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayeshev",
+  "words": 2493,
   "essays": [
-   "7548"
+   {
+    "id": "11160",
+    "title": "Vayeshev: Mercantile Man",
+    "share": 0.98,
+    "entries": [
+     "merchant-socher-rochel-cnaani-tagar.md"
+    ]
+   }
   ],
-  "published_share": 0.94
+  "entries": [
+   "merchant-socher-rochel-cnaani-tagar.md"
+  ]
  },
  {
   "n": 61,
-  "file": "061-a-biblical-feast.md",
-  "title": "A Biblical Feast",
+  "file": "061-wake-up-time.md",
+  "title": "Wake-up Time",
+  "section": "Sefer Bereishis",
+  "parsha": "Miketz",
+  "words": 1686,
   "essays": [
-   "8546"
+   {
+    "id": "9473",
+    "title": "Wake-up Time",
+    "share": 0.88,
+    "entries": [
+     "blindness-iver-suma-sagi-nahor-sanverim.md",
+     "waking-yekitzah-oorah.md"
+    ]
+   }
   ],
-  "published_share": 0.9
+  "entries": [
+   "blindness-iver-suma-sagi-nahor-sanverim.md",
+   "waking-yekitzah-oorah.md"
+  ]
  },
  {
   "n": 62,
-  "file": "062-jacobs-three-names.md",
-  "title": "Jacob’s Three Names",
+  "file": "062-say-it-clear.md",
+  "title": "Say it Clear",
+  "section": "Sefer Bereishis",
+  "parsha": "Miketz",
+  "words": 4737,
   "essays": [
-   "8553"
+   {
+    "id": "11178",
+    "title": "Vayigash: Say it Clear (Part 2/2)",
+    "share": 0.99,
+    "entries": [
+     "explanation-peirush-beiur-hesber-pesher.md",
+     "trust-bitachon-machseh-tikvah.md"
+    ]
+   },
+   {
+    "id": "11170",
+    "title": "Miketz: Say it Clear (Part 1/2)",
+    "share": 0.97,
+    "entries": [
+     "explanation-peirush-beiur-hesber-pesher.md"
+    ]
+   }
   ],
-  "published_share": 0.69
+  "entries": [
+   "explanation-peirush-beiur-hesber-pesher.md",
+   "trust-bitachon-machseh-tikvah.md"
+  ]
  },
  {
   "n": 63,
-  "file": "063-shouldering-the-burden.md",
-  "title": "Shouldering the Burden",
+  "file": "063-famishing-famines.md",
+  "title": "Famishing Famines",
+  "section": "Sefer Bereishis",
+  "parsha": "Miketz",
+  "words": 1690,
   "essays": [
-   "7562"
+   {
+    "id": "10761",
+    "title": "Famishing Famines",
+    "share": 0.98,
+    "entries": [
+     "famine-raav-kafan-batzores.md"
+    ]
+   }
   ],
-  "published_share": 0.89
+  "entries": [
+   "famine-raav-kafan-batzores.md"
+  ]
  },
  {
   "n": 64,
-  "file": "064-say-your-prayers.md",
-  "title": "Say your Prayers",
+  "file": "064-slaughtering-and-butchering.md",
+  "title": "Slaughtering and Butchering",
+  "section": "Sefer Bereishis",
+  "parsha": "Miketz",
+  "words": 1357,
   "essays": [
-   "7090"
+   {
+    "id": "8023",
+    "title": "Slaughtering and Butchering",
+    "share": 0.66,
+    "entries": [
+     "slaughter-shechitah-zevichah-tevichah.md"
+    ]
+   }
   ],
-  "published_share": 0.73
+  "entries": [
+   "slaughter-shechitah-zevichah-tevichah.md"
+  ]
  },
  {
   "n": 65,
-  "file": "065-crouching-lion-hidden-blessing.md",
-  "title": "Crouching Lion, Hidden Blessing",
+  "file": "065-coming-closer.md",
+  "title": "Coming Closer",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayigash",
+  "words": 1677,
   "essays": [
-   "8039"
+   {
+    "id": "8980",
+    "title": "Vayigash: Coming Close",
+    "share": 0.85,
+    "entries": [
+     "approach-gishah-kiruv.md"
+    ]
+   }
   ],
-  "published_share": 0.58
+  "entries": [
+   "approach-gishah-kiruv.md"
+  ]
  },
  {
   "n": 66,
-  "file": "066-through-the-grapevine.md",
-  "title": "Through the Grapevine",
+  "file": "066-all-tied-up.md",
+  "title": "All Tied Up",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayigash",
+  "words": 2276,
   "essays": [
-   "9491",
-   "11489"
+   {
+    "id": "10970",
+    "title": "All Tied Up",
+    "share": 0.97,
+    "entries": [
+     "prohibition-azharah-issur-lav.md",
+     "rebuke-mussar-tochachah.md",
+     "tying-keshirah-asirah-kafut.md"
+    ]
+   }
   ],
-  "published_share": 0.91
+  "entries": [
+   "prohibition-azharah-issur-lav.md",
+   "rebuke-mussar-tochachah.md",
+   "tying-keshirah-asirah-kafut.md"
+  ]
  },
  {
   "n": 67,
-  "file": "067-white-is-light.md",
-  "title": "White is Light",
+  "file": "067-on-misers-and-cheapskates.md",
+  "title": "On Misers and Cheapskates",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayigash",
+  "words": 2206,
   "essays": [
-   "11188"
+   {
+    "id": "9734",
+    "title": "On Misers and Cheapskates",
+    "share": 0.88,
+    "entries": [
+     "miser-kilay-tzaykan-kamtzan.md"
+    ]
+   }
   ],
-  "published_share": 0.93
+  "entries": [
+   "miser-kilay-tzaykan-kamtzan.md"
+  ]
  },
  {
   "n": 68,
-  "file": "068-boats-ships-and-nautical-rhapsody.md",
-  "title": "Boats, Ships, and Nautical Rhapsody",
+  "file": "068-speaking-in-tongues.md",
+  "title": "Speaking in Tongues",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayigash",
+  "words": 945,
   "essays": [
-   "8991"
+   {
+    "id": "7548",
+    "title": "Speaking in Tongues",
+    "share": 0.9,
+    "entries": [
+     "language-safah-lashon.md"
+    ]
+   }
   ],
-  "published_share": 0.68
+  "entries": [
+   "language-safah-lashon.md"
+  ]
  },
  {
   "n": 69,
-  "file": "069-good-and-pleasant.md",
-  "title": "Good and Pleasant",
+  "file": "069-a-biblical-feast.md",
+  "title": "A Biblical Feast",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayigash",
+  "words": 1291,
   "essays": [
-   "11655"
+   {
+    "id": "8546",
+    "title": "A Biblical Feast",
+    "share": 0.89,
+    "entries": [
+     "food-ochel-shever-tevuah-dagan.md"
+    ]
+   }
   ],
-  "published_share": 0.95
+  "entries": [
+   "food-ochel-shever-tevuah-dagan.md"
+  ]
  },
  {
   "n": 70,
-  "file": "070-them-bones-and-themselves.md",
-  "title": "Them Bones and Themselves",
+  "file": "070-jacobs-three-names.md",
+  "title": "Jacob’s Three Names",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayechi",
+  "words": 1516,
   "essays": [
-   "10785",
-   "9745"
+   {
+    "id": "8553",
+    "title": "Jacob's Three Names",
+    "share": 0.84,
+    "entries": [
+     "names-yaakov-yisrael-yeshurun.md",
+     "people-ivri-yisrael-yehudi.md"
+    ]
+   }
   ],
-  "published_share": 0.98
+  "entries": [
+   "names-yaakov-yisrael-yeshurun.md",
+   "people-ivri-yisrael-yehudi.md"
+  ]
  },
  {
   "n": 71,
-  "file": "071-olives-and-oil.md",
-  "title": "Olives and Oil",
+  "file": "071-shouldering-the-burden.md",
+  "title": "Shouldering the Burden",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayechi",
+  "words": 891,
   "essays": [
-   "7061"
+   {
+    "id": "7562",
+    "title": "Shouldering the Burden",
+    "share": 0.88,
+    "entries": [
+     "shoulder-shechem-katef.md"
+    ]
+   }
   ],
-  "published_share": 0.65
+  "entries": [
+   "shoulder-shechem-katef.md"
+  ]
  },
  {
   "n": 72,
-  "file": "072-around-in-concentric-circles.md",
-  "title": "Around in Concentric Circles",
+  "file": "072-say-your-prayers.md",
+  "title": "Say your Prayers",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayechi",
+  "words": 680,
   "essays": [
-   "7530"
+   {
+    "id": "7090",
+    "title": "Say your Prayers",
+    "share": 0.78,
+    "entries": [
+     "prayer-tefillah-bakashah-techinah.md"
+    ]
+   }
   ],
-  "published_share": 0.73
+  "entries": [
+   "prayer-tefillah-bakashah-techinah.md"
+  ]
  },
  {
   "n": 73,
-  "file": "073-holy-priests-vs-unholy-priests.md",
-  "title": "Holy Priests vs. Unholy Priests",
+  "file": "073-crouching-lion-hidden-blessing.md",
+  "title": "Crouching Lion, Hidden Blessing",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayechi",
+  "words": 1491,
   "essays": [
-   "8529",
-   "8953",
-   "9632"
+   {
+    "id": "8039",
+    "title": "Crouching Lion, Hidden Blessing",
+    "share": 0.79,
+    "entries": [
+     "lion-aryeh-kfir-lavi-layish.md"
+    ]
+   }
   ],
-  "published_share": 0.71
+  "entries": [
+   "lion-aryeh-kfir-lavi-layish.md"
+  ]
  },
  {
   "n": 74,
-  "file": "074-to-be-a-wise-guy.md",
-  "title": "To Be a Wise Guy",
+  "file": "074-through-the-grapevine.md",
+  "title": "Through the Grapevine",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayechi",
+  "words": 2190,
   "essays": [
-   "8959",
-   "8969"
+   {
+    "id": "9491",
+    "title": "Through the Grapevine",
+    "share": 0.94,
+    "entries": [
+     "grapevine-gefen-sorek-shdeimah.md"
+    ]
+   }
   ],
-  "published_share": 0.7
+  "entries": [
+   "grapevine-gefen-sorek-shdeimah.md"
+  ]
  },
  {
   "n": 75,
-  "file": "075-seeking-salvation.md",
-  "title": "Seeking Salvation",
+  "file": "075-white-is-light.md",
+  "title": "White is Light",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayechi",
+  "words": 3497,
   "essays": [
-   "9464"
+   {
+    "id": "11188",
+    "title": "Vayechi: White is Light",
+    "share": 0.99,
+    "entries": [
+     "white-lavan-chivar-tzochar.md"
+    ]
+   }
   ],
-  "published_share": 0.94
+  "entries": [
+   "white-lavan-chivar-tzochar.md"
+  ]
  },
  {
   "n": 76,
-  "file": "076-cans-of-oil.md",
-  "title": "Cans of Oil",
+  "file": "076-boats-ships-and-nautical-rhapsody.md",
+  "title": "Boats, Ships, and Nautical Rhapsody",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayechi",
+  "words": 1854,
   "essays": [
-   "10751"
+   {
+    "id": "8991",
+    "title": "Vayechi: Boats, Ships and Nautical Rhapsody",
+    "share": 0.72,
+    "entries": [
+     "boats-oniah-sefinah-rafsodah.md"
+    ]
+   }
   ],
-  "published_share": 0.96
+  "entries": [
+   "boats-oniah-sefinah-rafsodah.md"
+  ]
  },
  {
   "n": 77,
-  "file": "077-the-hebrew-hammers.md",
-  "title": "The Hebrew Hammers",
+  "file": "077-good-and-pleasant.md",
+  "title": "Good and Pleasant",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayechi",
+  "words": 2464,
   "essays": [
-   "11627",
-   "11634"
+   {
+    "id": "11655",
+    "title": "Vayechi: Good and Pleasant",
+    "share": 0.98,
+    "entries": [
+     "good-tov-noam-shapir.md"
+    ]
+   }
   ],
-  "published_share": 0.97
+  "entries": [
+   "good-tov-noam-shapir.md"
+  ]
  },
  {
   "n": 78,
-  "file": "078-the-pharaoh-and-the-king.md",
-  "title": "The Pharaoh and the King",
+  "file": "078-them-bones-and-themselves.md",
+  "title": "Them Bones and Themselves",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayechi",
+  "words": 2307,
   "essays": [
-   "7572"
+   {
+    "id": "10785",
+    "title": "Them Bones and Themselves",
+    "share": 0.99,
+    "entries": [
+     "bone-etzem-gerem.md"
+    ]
+   }
   ],
-  "published_share": 0.78
+  "entries": [
+   "bone-etzem-gerem.md"
+  ]
  },
  {
   "n": 79,
-  "file": "079-a-panoply-of-canopies.md",
-  "title": "A Panoply of Canopies",
+  "file": "079-olives-and-oil.md",
+  "title": "Olives and Oil",
+  "section": "Chanuka",
+  "parsha": "",
+  "words": 1163,
   "essays": [
-   "9005",
-   "7103"
+   {
+    "id": "7061",
+    "title": "Olives and Oil",
+    "share": 0.93,
+    "entries": [
+     "oil-shemen-yitzhar.md"
+    ]
+   }
   ],
-  "published_share": 0.79
+  "entries": [
+   "oil-shemen-yitzhar.md"
+  ]
  },
  {
   "n": 80,
-  "file": "080-moses-many-names.md",
-  "title": "Moses’ Many Names",
+  "file": "080-around-in-concentric-circles.md",
+  "title": "Around in Concentric Circles",
+  "section": "Chanuka",
+  "parsha": "",
+  "words": 1096,
   "essays": [
-   "9503"
+   {
+    "id": "7530",
+    "title": "Around in Concentric Circles",
+    "share": 0.83,
+    "entries": [
+     "around-saviv-heikef-afef-chug.md"
+    ]
+   }
   ],
-  "published_share": 0.82
+  "entries": [
+   "around-saviv-heikef-afef-chug.md"
+  ]
  },
  {
   "n": 81,
-  "file": "081-prophets-and-visionaries.md",
-  "title": "Prophets and Visionaries",
+  "file": "081-holy-priests-vs-unholy-priests.md",
+  "title": "Holy Priests vs. Unholy Priests",
+  "section": "Chanuka",
+  "parsha": "",
+  "words": 1654,
   "essays": [
-   "8052",
-   "10935"
+   {
+    "id": "8529",
+    "title": "Holy Priests vs. Unholy Priests",
+    "share": 0.91,
+    "entries": [
+     "priest-kohen-komer.md"
+    ]
+   }
   ],
-  "published_share": 0.87
+  "entries": [
+   "priest-kohen-komer.md"
+  ]
  },
  {
   "n": 82,
-  "file": "082-here-we-go.md",
-  "title": "Here we go",
+  "file": "082-pick-your-wax.md",
+  "title": "Pick your Wax",
+  "section": "Chanuka",
+  "parsha": "",
+  "words": 1144,
   "essays": [
-   "11665"
+   {
+    "id": "8953",
+    "title": "Pick your Wax - Chanukah",
+    "share": 0.82,
+    "entries": [
+     "wax-donag-shaavah-kira.md"
+    ]
+   }
   ],
-  "published_share": 0.98
+  "entries": [
+   "wax-donag-shaavah-kira.md"
+  ]
  },
  {
   "n": 83,
-  "file": "083-drawing-water.md",
-  "title": "Drawing Water",
+  "file": "083-to-be-a-wise-guy.md",
+  "title": "To Be a Wise Guy",
+  "section": "Chanuka",
+  "parsha": "",
+  "words": 3145,
   "essays": [
-   "10786"
+   {
+    "id": "8959",
+    "title": "To Be a Wise Guy (Part 1 of 2)",
+    "share": 0.75,
+    "entries": [
+     "wisdom-chochmah-binah-daat-tevunah.md"
+    ]
+   },
+   {
+    "id": "8969",
+    "title": "Miketz: To Be a Wise Guy (Part 2 of 2)",
+    "share": 0.73,
+    "entries": [
+     "wisdom-chochmah-binah-daat-tevunah.md"
+    ]
+   }
   ],
-  "published_share": 0.98
+  "entries": [
+   "wisdom-chochmah-binah-daat-tevunah.md"
+  ]
  },
  {
   "n": 84,
-  "file": "084-pulling-drawing.md",
-  "title": "Pulling & Drawing",
+  "file": "084-seeking-salvation.md",
+  "title": "Seeking Salvation",
+  "section": "Chanuka",
+  "parsha": "",
+  "words": 1254,
   "essays": [
-   "11200",
-   "9513",
-   "8400"
+   {
+    "id": "9464",
+    "title": "Seeking Salvation",
+    "share": 0.94,
+    "entries": [
+     "crying-out-tzaakah-zaakah-shaavah.md",
+     "salvation-yeshuah-teshuah-hatzalah-purkan.md"
+    ]
+   }
   ],
-  "published_share": 0.96
+  "entries": [
+   "crying-out-tzaakah-zaakah-shaavah.md",
+   "salvation-yeshuah-teshuah-hatzalah-purkan.md"
+  ]
  },
  {
   "n": 85,
-  "file": "085-my-dear-deer.md",
-  "title": "My Dear Deer",
+  "file": "085-cans-of-oil.md",
+  "title": "Cans of Oil",
+  "section": "Chanuka",
+  "parsha": "",
+  "words": 2132,
   "essays": [
-   "8563"
+   {
+    "id": "10751",
+    "title": "Miketz: Cans of Oil",
+    "share": 0.98,
+    "entries": [
+     "vessel-pach-kankan-kad-chavis.md"
+    ]
+   }
   ],
-  "published_share": 0.75
+  "entries": [
+   "vessel-pach-kankan-kad-chavis.md"
+  ]
  },
  {
   "n": 86,
-  "file": "086-the-trick-of-magi.md",
-  "title": "The Trick of Magi",
+  "file": "086-the-hebrew-hammers.md",
+  "title": "The Hebrew Hammers",
+  "section": "Chanuka",
+  "parsha": "",
+  "words": 4672,
   "essays": [
-   "10804"
+   {
+    "id": "11627",
+    "title": "Vayeshev: The Hebrew Hammers (Part 1/2)",
+    "share": 0.95,
+    "entries": [
+     "hammer-makevet-patish-kurnas.md"
+    ]
+   },
+   {
+    "id": "11634",
+    "title": "Miketz: The Hebrew Hammers (Part 2/2)",
+    "share": 0.96,
+    "entries": [
+     "hammer-makevet-patish-kurnas.md"
+    ]
+   }
   ],
-  "published_share": 0.95
+  "entries": [
+   "hammer-makevet-patish-kurnas.md"
+  ]
  },
  {
   "n": 87,
-  "file": "087-the-vertically-challenged.md",
-  "title": "The Vertically-Challenged",
+  "file": "087-the-pharaoh-and-the-king.md",
+  "title": "The Pharaoh and the King",
+  "section": "Shemos",
+  "parsha": "Shemos",
+  "words": 1335,
   "essays": [
-   "11205",
-   "11763"
+   {
+    "id": "7572",
+    "title": "The Pharaoh and the King",
+    "share": 0.87,
+    "entries": [
+     "pharaoh-paroh-melech-mitzrayim.md"
+    ]
+   }
   ],
-  "published_share": 0.97
+  "entries": [
+   "pharaoh-paroh-melech-mitzrayim.md"
+  ]
  },
  {
   "n": 88,
-  "file": "088-plague-of-plagues.md",
-  "title": "Plague of Plagues",
+  "file": "088-a-panoply-of-canopies.md",
+  "title": "A Panoply of Canopies",
+  "section": "Shemos",
+  "parsha": "Shemos",
+  "words": 897,
   "essays": [
-   "7579"
+   {
+    "id": "7103",
+    "title": "A Panoply of Canopies",
+    "share": 0.77,
+    "entries": [
+     "canopy-apiryon-chuppah-succah.md"
+    ]
+   }
   ],
-  "published_share": 0.8
+  "entries": [
+   "canopy-apiryon-chuppah-succah.md"
+  ]
  },
  {
   "n": 89,
-  "file": "089-marshes-marshes-marshes.md",
-  "title": "Marshes, Marshes, Marshes",
+  "file": "089-hard-work-hard-hearts.md",
+  "title": "Hard Work & Hard Hearts",
+  "section": "Shemos",
+  "parsha": "Shemos",
+  "words": 1898,
   "essays": [
-   "9031"
+   {
+    "id": "9005",
+    "title": "Shemot: Hard Work and Hard Hearts",
+    "share": 0.87,
+    "entries": [
+     "hard-kashah-kashiach-perech.md"
+    ]
+   }
   ],
-  "published_share": 0.76
+  "entries": [
+   "hard-kashah-kashiach-perech.md"
+  ]
  },
  {
   "n": 90,
-  "file": "090-down-by-the-river.md",
-  "title": "Down by the River",
+  "file": "090-moses-many-names.md",
+  "title": "Moses’ Many Names",
+  "section": "Shemos",
+  "parsha": "Shemos",
+  "words": 1795,
   "essays": [
-   "8076",
-   "8007"
+   {
+    "id": "9503",
+    "title": "Moses' Many Names",
+    "share": 0.84,
+    "entries": [
+     "names-moshe-yered-avigdor-yekusiel.md"
+    ]
+   }
   ],
-  "published_share": 0.85
+  "entries": [
+   "names-moshe-yered-avigdor-yekusiel.md"
+  ]
  },
  {
   "n": 91,
-  "file": "091-lice-aint-nice.md",
-  "title": "Lice Ain’t Nice",
+  "file": "091-prophets-and-visionaries.md",
+  "title": "Prophets and Visionaries",
+  "section": "Shemos",
+  "parsha": "Shemos",
+  "words": 1371,
   "essays": [
-   "11666",
-   "11462"
+   {
+    "id": "8052",
+    "title": "Prophets and Visionaries",
+    "share": 0.92,
+    "entries": [
+     "prophet-navi-roeh-chozeh.md"
+    ]
+   }
   ],
-  "published_share": 0.98
+  "entries": [
+   "prophet-navi-roeh-chozeh.md"
+  ]
  },
  {
   "n": 92,
-  "file": "092-just-because.md",
-  "title": "Just Because",
+  "file": "092-here-we-go.md",
+  "title": "Here we go",
+  "section": "Shemos",
+  "parsha": "Shemos",
+  "words": 2541,
   "essays": [
-   "7110"
+   {
+    "id": "11665",
+    "title": "Shemot: Here We Go",
+    "share": 0.99,
+    "entries": [
+     "here-halom-poh-heinah-zeh-koh.md"
+    ]
+   }
   ],
-  "published_share": 0.58
+  "entries": [
+   "here-halom-poh-heinah-zeh-koh.md"
+  ]
  },
  {
   "n": 93,
-  "file": "093-stop-it.md",
-  "title": "Stop It!",
+  "file": "093-drawing-water.md",
+  "title": "Drawing Water",
+  "section": "Shemos",
+  "parsha": "Shemos",
+  "words": 2098,
   "essays": [
-   "9513",
-   "8400",
-   "11200"
+   {
+    "id": "10786",
+    "title": "Shemos: Drawing Water",
+    "share": 0.98,
+    "entries": [
+     "drawing-water-dalah-shoev.md",
+     "poor-ani-evyon-dal-rash.md"
+    ]
+   }
   ],
-  "published_share": 0.9
+  "entries": [
+   "drawing-water-dalah-shoev.md",
+   "poor-ani-evyon-dal-rash.md"
+  ]
  },
  {
   "n": 94,
-  "file": "094-come-to-pharaoh.md",
-  "title": "Come To Pharaoh",
+  "file": "094-pulling-drawing.md",
+  "title": "Pulling & Drawing",
+  "section": "Shemos",
+  "parsha": "Shemos",
+  "words": 2875,
   "essays": [
-   "9039"
+   {
+    "id": "11200",
+    "title": "Shemos: Pulling & Drawing",
+    "share": 0.99,
+    "entries": [
+     "drawing-water-dalah-shoev.md",
+     "names-moshe-yered-avigdor-yekusiel.md",
+     "pulling-moshe-moshech-shoev-shoef.md"
+    ]
+   }
   ],
-  "published_share": 0.86
+  "entries": [
+   "drawing-water-dalah-shoev.md",
+   "names-moshe-yered-avigdor-yekusiel.md",
+   "pulling-moshe-moshech-shoev-shoef.md"
+  ]
  },
  {
   "n": 95,
-  "file": "095-army-of-grasshoppers.md",
-  "title": "Army of Grasshoppers",
+  "file": "095-my-dear-deer.md",
+  "title": "My Dear Deer",
+  "section": "Shemos",
+  "parsha": "Shemos",
+  "words": 1536,
   "essays": [
-   "7592"
+   {
+    "id": "8563",
+    "title": "My Dear Deer",
+    "share": 0.83,
+    "entries": [
+     "splendor-tzvi-tzivyon-tzava.md"
+    ]
+   }
   ],
-  "published_share": 0.77
+  "entries": [
+   "splendor-tzvi-tzivyon-tzava.md"
+  ]
  },
  {
   "n": 96,
-  "file": "096-put-in-place.md",
-  "title": "Put in Place",
+  "file": "096-the-trick-of-magi.md",
+  "title": "The Trick of Magi",
+  "section": "Shemos",
+  "parsha": "Vaera",
+  "words": 2198,
   "essays": [
-   "9523"
+   {
+    "id": "10804",
+    "title": "Vaera: The Trick of Magi",
+    "share": 0.99,
+    "entries": [
+     "magic-lahat-lat-ittim.md"
+    ]
+   }
   ],
-  "published_share": 0.92
+  "entries": [
+   "magic-lahat-lat-ittim.md"
+  ]
  },
  {
   "n": 97,
-  "file": "097-please-stand-up.md",
-  "title": "Please Stand Up",
+  "file": "097-the-vertically-challenged.md",
+  "title": "The Vertically-Challenged",
+  "section": "Shemos",
+  "parsha": "Vaera",
+  "words": 1716,
   "essays": [
-   "10810"
+   {
+    "id": "11205",
+    "title": "Vaera: The Vertically-Challenged",
+    "share": 0.99,
+    "entries": [
+     "poor-ani-evyon-dal-rash.md",
+     "short-gamad-namuch-gutz-nanas.md"
+    ]
+   }
   ],
-  "published_share": 1.0
+  "entries": [
+   "poor-ani-evyon-dal-rash.md",
+   "short-gamad-namuch-gutz-nanas.md"
+  ]
  },
  {
   "n": 98,
-  "file": "098-the-sign-is-coming.md",
-  "title": "The Sign is Coming…",
+  "file": "098-plague-of-plagues.md",
+  "title": "Plague of Plagues",
+  "section": "Shemos",
+  "parsha": "Vaera",
+  "words": 1143,
   "essays": [
-   "8085"
+   {
+    "id": "7579",
+    "title": "Plague of Plagues",
+    "share": 0.8,
+    "entries": [
+     "plague-dever-mageifah-negef.md"
+    ]
+   }
   ],
-  "published_share": 0.68
+  "entries": [
+   "plague-dever-mageifah-negef.md"
+  ]
  },
  {
   "n": 99,
-  "file": "099-turning-off-the-lights.md",
-  "title": "Turning off the Lights",
+  "file": "099-marshes-marshes-marshes.md",
+  "title": "Marshes, Marshes, Marshes",
+  "section": "Shemos",
+  "parsha": "Vaera",
+  "words": 1049,
   "essays": [
-   "7123"
+   {
+    "id": "9031",
+    "title": "Marshes, Marshes, Marshes",
+    "share": 0.78,
+    "entries": [
+     "linen-sheish-bahd-butz-pishtim.md",
+     "marsh-achu-agam-bitzah.md"
+    ]
+   }
   ],
-  "published_share": 0.84
+  "entries": [
+   "linen-sheish-bahd-butz-pishtim.md",
+   "marsh-achu-agam-bitzah.md"
+  ]
  },
  {
   "n": 100,
-  "file": "100-follow-the-leader.md",
-  "title": "Follow the Leader",
+  "file": "100-down-by-the-river.md",
+  "title": "Down by the River",
+  "section": "Shemos",
+  "parsha": "Vaera",
+  "words": 953,
   "essays": [
-   "11678",
-   "11677"
+   {
+    "id": "8076",
+    "title": "Down by the River",
+    "share": 0.9,
+    "entries": [
+     "river-nahar-yeor-nachal.md"
+    ]
+   }
   ],
-  "published_share": 1.0
+  "entries": [
+   "river-nahar-yeor-nachal.md"
+  ]
  },
  {
   "n": 101,
-  "file": "101-thats-a-flogging.md",
-  "title": "That’s a Flogging",
+  "file": "101-lice-aint-nice.md",
+  "title": "Lice Ain’t Nice",
+  "section": "Shemos",
+  "parsha": "Vaera",
+  "words": 2094,
   "essays": [
-   "8584"
+   {
+    "id": "11666",
+    "title": "VaEra: Lice Ain't Nice",
+    "share": 0.97,
+    "entries": [
+     "lice-kinnim-kalmta-parosh.md"
+    ]
+   }
   ],
-  "published_share": 0.77
+  "entries": [
+   "lice-kinnim-kalmta-parosh.md"
+  ]
  },
  {
   "n": 102,
-  "file": "102-filling-your-phylacteries.md",
-  "title": "Filling your Phylacteries",
+  "file": "102-just-because.md",
+  "title": "Just Because",
+  "section": "Shemos",
+  "parsha": "Vaera",
+  "words": 903,
   "essays": [
-   "11218",
-   "11413"
+   {
+    "id": "7110",
+    "title": "Just Because",
+    "share": 0.8,
+    "entries": [
+     "because-baavur-biglal-bishvil.md"
+    ]
+   }
   ],
-  "published_share": 0.94
+  "entries": [
+   "because-baavur-biglal-bishvil.md"
+  ]
  },
  {
   "n": 103,
-  "file": "103-armed-and-ready.md",
-  "title": "Armed and Ready",
+  "file": "103-stop-it.md",
+  "title": "Stop It!",
+  "section": "Shemos",
+  "parsha": "Vaera",
+  "words": 2148,
   "essays": [
-   "11613",
-   "11006"
+   {
+    "id": "9513",
+    "title": "Stop It!",
+    "share": 0.9,
+    "entries": [
+     "stopping-chadal-mana-chasach-kala-pasak.md"
+    ]
+   }
   ],
-  "published_share": 0.97
+  "entries": [
+   "stopping-chadal-mana-chasach-kala-pasak.md"
+  ]
  },
  {
   "n": 104,
-  "file": "104-cut-it-out.md",
-  "title": "Cut it out!",
+  "file": "104-come-to-pharaoh.md",
+  "title": "Come To Pharaoh",
+  "section": "Shemos",
+  "parsha": "Bo",
+  "words": 1360,
   "essays": [
-   "8107",
-   "8098",
-   "8613"
+   {
+    "id": "9039",
+    "title": "Bo: Come To Pharaoh",
+    "share": 0.86,
+    "entries": [
+     "coming-biah-halichah-atah.md",
+     "sign-oht-mofet.md",
+     "synonyms-davar-vayomer-vayidaber.md"
+    ]
+   }
   ],
-  "published_share": 0.75
+  "entries": [
+   "coming-biah-halichah-atah.md",
+   "sign-oht-mofet.md",
+   "synonyms-davar-vayomer-vayidaber.md"
+  ]
  },
  {
   "n": 105,
-  "file": "105-afraid-of-fright-or-ready-to-fight.md",
-  "title": "Afraid of Fright or Ready to Fight",
+  "file": "105-army-of-grasshoppers.md",
+  "title": "Army of Grasshoppers",
+  "section": "Shemos",
+  "parsha": "Bo",
+  "words": 1122,
   "essays": [
-   "7018"
+   {
+    "id": "7592",
+    "title": "Army of Grasshoppers",
+    "share": 0.79,
+    "entries": [
+     "locust-arbeh-gazam-yelek-chasil.md"
+    ]
+   }
   ],
-  "published_share": 0.82
+  "entries": [
+   "locust-arbeh-gazam-yelek-chasil.md"
+  ]
  },
  {
   "n": 106,
-  "file": "106-piles-and-piles.md",
-  "title": "Piles and Piles",
+  "file": "106-put-in-place.md",
+  "title": "Put in Place",
+  "section": "Shemos",
+  "parsha": "Bo",
+  "words": 1880,
   "essays": [
-   "9534",
-   "8594"
+   {
+    "id": "9523",
+    "title": "Put in Place",
+    "share": 0.94,
+    "entries": [
+     "placing-natan-sam-shat.md"
+    ]
+   }
   ],
-  "published_share": 0.82
+  "entries": [
+   "placing-natan-sam-shat.md"
+  ]
  },
  {
   "n": 107,
-  "file": "107-sweet-and-pleasant.md",
-  "title": "Sweet and Pleasant",
+  "file": "107-please-stand-up.md",
+  "title": "Please Stand Up",
+  "section": "Shemos",
+  "parsha": "Bo",
+  "words": 1831,
   "essays": [
-   "7611"
+   {
+    "id": "10810",
+    "title": "Parshas Bo: Please Stand Up",
+    "share": 1.0,
+    "entries": [
+     "altar-mizbeach-matzeivah-bamah.md",
+     "standing-nitzav-amidah.md",
+     "tombstone-matzeivah-tziyun-nefesh.md"
+    ]
+   }
   ],
-  "published_share": 0.85
+  "entries": [
+   "altar-mizbeach-matzeivah-bamah.md",
+   "standing-nitzav-amidah.md",
+   "tombstone-matzeivah-tziyun-nefesh.md"
+  ]
  },
  {
   "n": 108,
-  "file": "108-the-wormy-place.md",
-  "title": "The Wormy Place",
+  "file": "108-the-sign-is-coming.md",
+  "title": "The Sign is Coming…",
+  "section": "Shemos",
+  "parsha": "Bo",
+  "words": 1440,
   "essays": [
-   "11902",
-   "10931"
+   {
+    "id": "8085",
+    "title": "The Sign is Coming",
+    "share": 0.86,
+    "entries": [
+     "sign-oht-mofet.md"
+    ]
+   }
   ],
-  "published_share": 1.01
+  "entries": [
+   "sign-oht-mofet.md"
+  ]
  },
  {
   "n": 109,
-  "file": "109-through-the-looking-window.md",
-  "title": "Through the Looking Window",
+  "file": "109-turning-off-the-lights.md",
+  "title": "Turning off the Lights",
+  "section": "Shemos",
+  "parsha": "Bo",
+  "words": 891,
   "essays": [
-   "10818",
-   "9056"
+   {
+    "id": "7123",
+    "title": "Turning off the Lights",
+    "share": 0.88,
+    "entries": [
+     "darkness-choshech-afeilah.md"
+    ]
+   }
   ],
-  "published_share": 0.87
+  "entries": [
+   "darkness-choshech-afeilah.md"
+  ]
  },
  {
   "n": 110,
-  "file": "110-g-ds-best-friend.md",
-  "title": "G-d’s Best Friend",
+  "file": "110-follow-the-leader.md",
+  "title": "Follow the Leader",
+  "section": "Shemos",
+  "parsha": "Bo",
+  "words": 3755,
   "essays": [
-   "7620"
+   {
+    "id": "11678",
+    "title": "Beshalach: Follow the Leader (Part 2/2)",
+    "share": 0.98,
+    "entries": [
+     "leading-noheg-molich-nachah-nohel.md"
+    ]
+   },
+   {
+    "id": "11677",
+    "title": "Bo: Follow the Leader (Part 1/2)",
+    "share": 1.0,
+    "entries": [
+     "leading-noheg-molich-nachah-nohel.md"
+    ]
+   }
   ],
-  "published_share": 0.67
+  "entries": [
+   "leading-noheg-molich-nachah-nohel.md"
+  ]
  },
  {
   "n": 111,
-  "file": "111-heat-with-the-in-laws.md",
-  "title": "Heat with the In-laws",
+  "file": "111-thats-a-flogging.md",
+  "title": "That’s a Flogging",
+  "section": "Shemos",
+  "parsha": "Bo",
+  "words": 1213,
   "essays": [
-   "8605"
+   {
+    "id": "8584",
+    "title": "That's a Flogging",
+    "share": 0.82,
+    "entries": [
+     "flogging-makkot-malkut.md"
+    ]
+   }
   ],
-  "published_share": 0.81
+  "entries": [
+   "flogging-makkot-malkut.md"
+  ]
  },
  {
   "n": 112,
-  "file": "112-just-winging-it.md",
-  "title": "Just Winging It",
+  "file": "112-filling-your-phylacteries.md",
+  "title": "Filling your Phylacteries",
+  "section": "Shemos",
+  "parsha": "Bo",
+  "words": 2535,
   "essays": [
-   "9070"
+   {
+    "id": "11218",
+    "title": "Bo: Filling your Phylacteries",
+    "share": 0.99,
+    "entries": [
+     "fringes-tzitzis-gedilim-petil.md",
+     "phylacteries-totafos-tefillin.md",
+     "prayer-tefillah-bakashah-techinah.md"
+    ]
+   }
   ],
-  "published_share": 0.89
+  "entries": [
+   "fringes-tzitzis-gedilim-petil.md",
+   "phylacteries-totafos-tefillin.md",
+   "prayer-tefillah-bakashah-techinah.md"
+  ]
  },
  {
   "n": 113,
-  "file": "113-laundering-and-cleaning.md",
-  "title": "Laundering and Cleaning",
+  "file": "113-armed-and-ready.md",
+  "title": "Armed and Ready",
+  "section": "Shemos",
+  "parsha": "Bishalach",
+  "words": 2651,
   "essays": [
-   "9544"
+   {
+    "id": "11613",
+    "title": "Bishalach: Armed and Ready",
+    "share": 0.98,
+    "entries": [
+     "armed-chamush-chalutz-mezuyan.md"
+    ]
+   }
   ],
-  "published_share": 0.97
+  "entries": [
+   "armed-chamush-chalutz-mezuyan.md"
+  ]
  },
  {
   "n": 114,
-  "file": "114-myself-and-i.md",
-  "title": "Myself and I",
+  "file": "114-cut-it-out.md",
+  "title": "Cut it out!",
+  "section": "Shemos",
+  "parsha": "Bishalach",
+  "words": 2702,
   "essays": [
-   "7144"
+   {
+    "id": "8107",
+    "title": "Cut it Out! (Part 2 of 2)",
+    "share": 0.89,
+    "entries": [
+     "cutting-bokea-korea-gozer.md"
+    ]
+   },
+   {
+    "id": "8098",
+    "title": "Cut it Out! (Part 1 of 2)",
+    "share": 0.78,
+    "entries": [
+     "cutting-bokea-korea-gozer.md"
+    ]
+   }
   ],
-  "published_share": 0.88
+  "entries": [
+   "cutting-bokea-korea-gozer.md"
+  ]
  },
  {
   "n": 115,
-  "file": "115-murder-he-wrote.md",
-  "title": "Murder He Wrote",
+  "file": "115-afraid-of-fright-or-ready-to-fight.md",
+  "title": "Afraid of Fright or Ready to Fight",
+  "section": "Shemos",
+  "parsha": "Bishalach",
+  "words": 709,
   "essays": [
-   "10820",
-   "10935"
+   {
+    "id": "7018",
+    "title": "Afraid of Fright or Ready to Fight",
+    "share": 0.86,
+    "entries": [
+     "fear-eimah-pachad-yirah-daagah.md"
+    ]
+   }
   ],
-  "published_share": 1.01
+  "entries": [
+   "fear-eimah-pachad-yirah-daagah.md"
+  ]
  },
  {
   "n": 116,
-  "file": "116-write-it-down.md",
-  "title": "Write it down",
+  "file": "116-piles-and-piles.md",
+  "title": "Piles and Piles",
+  "section": "Shemos",
+  "parsha": "Bishalach",
+  "words": 1548,
   "essays": [
-   "11687"
+   {
+    "id": "9534",
+    "title": "Piles and Piles",
+    "share": 0.95,
+    "entries": [
+     "pile-areimah-chamarim-gadish.md"
+    ]
+   }
   ],
-  "published_share": 0.99
+  "entries": [
+   "pile-areimah-chamarim-gadish.md"
+  ]
  },
  {
   "n": 117,
-  "file": "117-stairs-to-above.md",
-  "title": "Stairs to Above",
+  "file": "117-take-your-booty.md",
+  "title": "Take Your Booty",
+  "section": "Shemos",
+  "parsha": "Bishalach",
+  "words": 1737,
   "essays": [
-   "11245"
+   {
+    "id": "8594",
+    "title": "Take Your Spoils",
+    "share": 0.93,
+    "entries": [
+     "spoils-shalal-bizah-malkoach.md"
+    ]
+   }
   ],
-  "published_share": 0.99
+  "entries": [
+   "spoils-shalal-bizah-malkoach.md"
+  ]
  },
  {
   "n": 118,
-  "file": "118-forever-and-ever.md",
-  "title": "Forever and Ever",
+  "file": "118-sweet-and-pleasant.md",
+  "title": "Sweet and Pleasant",
+  "section": "Shemos",
+  "parsha": "Bishalach",
+  "words": 1046,
   "essays": [
-   "7633"
+   {
+    "id": "7611",
+    "title": "Sweet and Pleasant",
+    "share": 0.84,
+    "entries": [
+     "good-tov-noam-shapir.md",
+     "sweet-matok-areiv-naim.md"
+    ]
+   }
   ],
-  "published_share": 0.8
+  "entries": [
+   "good-tov-noam-shapir.md",
+   "sweet-matok-areiv-naim.md"
+  ]
  },
  {
   "n": 119,
-  "file": "119-the-handmaids-deal.md",
-  "title": "The Handmaid’s Deal",
+  "file": "119-the-wormy-place.md",
+  "title": "The Wormy Place",
+  "section": "Shemos",
+  "parsha": "Bishalach",
+  "words": 2720,
   "essays": [
-   "8120",
-   "9448"
+   {
+    "id": "11902",
+    "title": "Matos-Masei: The Wormy Place",
+    "share": 1.0,
+    "entries": [
+     "worm-rimah-toleah.md"
+    ]
+   }
   ],
-  "published_share": 0.86
+  "entries": [
+   "worm-rimah-toleah.md"
+  ]
  },
  {
   "n": 120,
-  "file": "120-feeding-the-lie.md",
-  "title": "Feeding the Lie",
+  "file": "120-through-the-looking-window.md",
+  "title": "Through the Looking Window",
+  "section": "Shemos",
+  "parsha": "Bishalach",
+  "words": 1520,
   "essays": [
-   "9080"
+   {
+    "id": "9056",
+    "title": "Beshalach: Through the Looking Window",
+    "share": 0.84,
+    "entries": [
+     "window-chalon-eshnav.md"
+    ]
+   }
   ],
-  "published_share": 0.79
+  "entries": [
+   "window-chalon-eshnav.md"
+  ]
  },
  {
   "n": 121,
-  "file": "121-stealing-and-robbing.md",
-  "title": "Stealing and Robbing",
+  "file": "121-scribes-to-count-on.md",
+  "title": "Scribes to Count On",
+  "section": "Shemos",
+  "parsha": "Bishalach",
+  "words": 2127,
   "essays": [
-   "8613",
-   "9642",
-   "8098"
+   {
+    "id": "10818",
+    "title": "Bishalach: Scribal Culture",
+    "share": 0.96,
+    "entries": [
+     "scribe-sofer-lavlar.md"
+    ]
+   }
   ],
-  "published_share": 0.9
+  "entries": [
+   "scribe-sofer-lavlar.md"
+  ]
  },
  {
   "n": 122,
-  "file": "122-boorish-animals.md",
-  "title": "Boorish Animals",
+  "file": "122-g-ds-best-friend.md",
+  "title": "G-d’s Best Friend",
+  "section": "Shemos",
+  "parsha": "Yisro",
+  "words": 1260,
   "essays": [
-   "10832"
+   {
+    "id": "7620",
+    "title": "G-d's Best Friend",
+    "share": 0.82,
+    "entries": [
+     "friend-reya-chaver-amit.md"
+    ]
+   }
   ],
-  "published_share": 0.96
+  "entries": [
+   "friend-reya-chaver-amit.md"
+  ]
  },
  {
   "n": 123,
-  "file": "123-hidden-things.md",
-  "title": "Hidden Things",
+  "file": "123-heat-with-the-in-laws.md",
+  "title": "Heat with the In-laws",
+  "section": "Shemos",
+  "parsha": "Yisro",
+  "words": 1325,
   "essays": [
-   "11696"
+   {
+    "id": "8605",
+    "title": "Heat with the In-Laws",
+    "share": 0.88,
+    "entries": [
+     "in-laws-cham-chosen.md"
+    ]
+   }
   ],
-  "published_share": 0.98
+  "entries": [
+   "in-laws-cham-chosen.md"
+  ]
  },
  {
   "n": 124,
-  "file": "124-bruisers-and-bleeders.md",
-  "title": "Bruisers and Bleeders",
+  "file": "124-just-winging-it.md",
+  "title": "Just Winging It",
+  "section": "Shemos",
+  "parsha": "Yisro",
+  "words": 1524,
   "essays": [
-   "11252"
+   {
+    "id": "9070",
+    "title": "Yitro: Just Winging It",
+    "share": 0.89,
+    "entries": [
+     "bird-of-tzipor-kanaf.md",
+     "wing-kanaf-ever-agaf.md"
+    ]
+   }
   ],
-  "published_share": 0.94
+  "entries": [
+   "bird-of-tzipor-kanaf.md",
+   "wing-kanaf-ever-agaf.md"
+  ]
  },
  {
   "n": 125,
-  "file": "125-digging-deeper.md",
-  "title": "Digging Deeper",
+  "file": "125-laundering-and-cleaning.md",
+  "title": "Laundering and Cleaning",
+  "section": "Shemos",
+  "parsha": "Yisro",
+  "words": 1963,
   "essays": [
-   "9554",
-   "11619",
-   "8271"
+   {
+    "id": "9544",
+    "title": "Laundering and Cleaning",
+    "share": 0.97,
+    "entries": [
+     "washing-kevisah-rechitzah-shetifah-hadachah.md"
+    ]
+   }
   ],
-  "published_share": 0.88
+  "entries": [
+   "washing-kevisah-rechitzah-shetifah-hadachah.md"
+  ]
  },
  {
   "n": 126,
-  "file": "126-rabbi-of-robbers.md",
-  "title": "Rabbi of Robbers",
+  "file": "126-myself-and-i.md",
+  "title": "Myself and I",
+  "section": "Shemos",
+  "parsha": "Yisro",
+  "words": 1229,
   "essays": [
-   "7153"
+   {
+    "id": "7144",
+    "title": "Myself and I",
+    "share": 0.92,
+    "entries": [
+     "first-person-anochi-ani.md"
+    ]
+   }
   ],
-  "published_share": 0.79
+  "entries": [
+   "first-person-anochi-ani.md"
+  ]
  },
  {
   "n": 127,
-  "file": "127-sacred-spaces.md",
-  "title": "Sacred Spaces",
+  "file": "127-murder-he-wrote.md",
+  "title": "Murder He Wrote",
+  "section": "Shemos",
+  "parsha": "Yisro",
+  "words": 2190,
   "essays": [
-   "7164"
+   {
+    "id": "10820",
+    "title": "Yisro: Murder He Wrote",
+    "share": 0.97,
+    "entries": [
+     "murder-retzichah-harigah-ketilah.md"
+    ]
+   }
   ],
-  "published_share": 0.79
+  "entries": [
+   "murder-retzichah-harigah-ketilah.md"
+  ]
  },
  {
   "n": 128,
-  "file": "128-a-table-for-thee.md",
-  "title": "A Table for Thee",
+  "file": "128-write-it-down.md",
+  "title": "Write it down",
+  "section": "Shemos",
+  "parsha": "Yisro",
+  "words": 2624,
   "essays": [
-   "11261"
+   {
+    "id": "11687",
+    "title": "Yisro: Write it down",
+    "share": 0.99,
+    "entries": [
+     "artisan-charash-choshev-rokem.md",
+     "freedom-cheirus-chofesh-dror.md",
+     "idols-elilim-gilulim-shikutzim.md",
+     "writing-ketivah-charut-chakuk.md"
+    ]
+   }
   ],
-  "published_share": 0.92
+  "entries": [
+   "artisan-charash-choshev-rokem.md",
+   "freedom-cheirus-chofesh-dror.md",
+   "idols-elilim-gilulim-shikutzim.md",
+   "writing-ketivah-charut-chakuk.md"
+  ]
  },
  {
   "n": 129,
-  "file": "129-color-me.md",
-  "title": "Color Me",
+  "file": "129-stairs-to-above.md",
+  "title": "Stairs to Above",
+  "section": "Shemos",
+  "parsha": "Yisro",
+  "words": 1812,
   "essays": [
-   "11705"
+   {
+    "id": "11245",
+    "title": "Yisro: Stairs to Above",
+    "share": 0.99,
+    "entries": [
+     "level-madreigah-maalah-sulam.md"
+    ]
+   }
   ],
-  "published_share": 0.87
+  "entries": [
+   "level-madreigah-maalah-sulam.md"
+  ]
  },
  {
   "n": 130,
-  "file": "130-raise-the-curtain.md",
-  "title": "Raise the Curtain",
+  "file": "130-forever-and-ever.md",
+  "title": "Forever and Ever",
+  "section": "Shemos",
+  "parsha": "Mishpatim",
+  "words": 1360,
   "essays": [
-   "8157"
+   {
+    "id": "7633",
+    "title": "Forever and Ever",
+    "share": 0.85,
+    "entries": [
+     "forever-olam-netzach-selah-vaed.md"
+    ]
+   }
   ],
-  "published_share": 0.85
+  "entries": [
+   "forever-olam-netzach-selah-vaed.md"
+  ]
  },
  {
   "n": 131,
-  "file": "131-cherubic-children-and-other-angels.md",
-  "title": "Cherubic Children and Other Angels",
+  "file": "131-the-handmaids-deal.md",
+  "title": "The Handmaid’s Deal",
+  "section": "Shemos",
+  "parsha": "Mishpatim",
+  "words": 1144,
   "essays": [
-   "8129"
+   {
+    "id": "8120",
+    "title": "The Handmaid's Deal",
+    "share": 0.88,
+    "entries": [
+     "handmaid-amah-shifchah-eved.md"
+    ]
+   }
   ],
-  "published_share": 0.69
+  "entries": [
+   "handmaid-amah-shifchah-eved.md"
+  ]
  },
  {
   "n": 132,
-  "file": "132-foreheads-and-fadihot.md",
-  "title": "Foreheads and Fadihot",
+  "file": "132-feeding-the-lie.md",
+  "title": "Feeding the Lie",
+  "section": "Shemos",
+  "parsha": "Mishpatim",
+  "words": 1459,
   "essays": [
-   "8622"
+   {
+    "id": "9080",
+    "title": "Mishpatim: Feeding the Lie",
+    "share": 0.82,
+    "entries": [
+     "lie-sheker-kazav-kachash.md"
+    ]
+   }
   ],
-  "published_share": 0.88
+  "entries": [
+   "lie-sheker-kazav-kachash.md"
+  ]
  },
  {
   "n": 133,
-  "file": "133-the-true-blue.md",
-  "title": "The True Blue",
+  "file": "133-stealing-and-robbing.md",
+  "title": "Stealing and Robbing",
+  "section": "Shemos",
+  "parsha": "Mishpatim",
+  "words": 1554,
   "essays": [
-   "8167"
+   {
+    "id": "8613",
+    "title": "Stealing and Robbing",
+    "share": 0.88,
+    "entries": [
+     "theft-genevah-gezeilah-chamas.md"
+    ]
+   }
   ],
-  "published_share": 0.71
+  "entries": [
+   "theft-genevah-gezeilah-chamas.md"
+  ]
  },
  {
   "n": 134,
-  "file": "134-the-color-purple.md",
-  "title": "The Color Purple",
+  "file": "134-boorish-animals.md",
+  "title": "Boorish Animals",
+  "section": "Shemos",
+  "parsha": "Mishpatim",
+  "words": 1804,
   "essays": [
-   "9575"
+   {
+    "id": "10832",
+    "title": "Mishpatim: Boorish Animals",
+    "share": 0.95,
+    "entries": [
+     "beast-beir-behemah-baar-bur.md",
+     "explanation-peirush-beiur-hesber-pesher.md"
+    ]
+   }
   ],
-  "published_share": 0.92
+  "entries": [
+   "beast-beir-behemah-baar-bur.md",
+   "explanation-peirush-beiur-hesber-pesher.md"
+  ]
  },
  {
   "n": 135,
-  "file": "135-hats-and-belts.md",
-  "title": "Hats and Belts",
+  "file": "135-hidden-things.md",
+  "title": "Hidden Things",
+  "section": "Shemos",
+  "parsha": "Mishpatim",
+  "words": 2437,
   "essays": [
-   "7195"
+   {
+    "id": "11696",
+    "title": "Mishpatim: Hidden Things",
+    "share": 0.98,
+    "entries": [
+     "hidden-tzafun-safun-tamun-ganuz.md"
+    ]
+   }
   ],
-  "published_share": 0.66
+  "entries": [
+   "hidden-tzafun-safun-tamun-ganuz.md"
+  ]
  },
  {
   "n": 136,
-  "file": "136-is-cotton-a-type-of-linen.md",
-  "title": "Is Cotton a Type of Linen?",
+  "file": "136-bruisers-and-bleeders.md",
+  "title": "Bruisers and Bleeders",
+  "section": "Shemos",
+  "parsha": "Mishpatim",
+  "words": 1965,
   "essays": [
-   "8140"
+   {
+    "id": "11252",
+    "title": "Mishpatim: Bruisers and Bleeders",
+    "share": 0.98,
+    "entries": [
+     "wound-petza-chaburah-chovel.md"
+    ]
+   }
   ],
-  "published_share": 0.66
+  "entries": [
+   "wound-petza-chaburah-chovel.md"
+  ]
  },
  {
   "n": 137,
-  "file": "137-better-late-than.md",
-  "title": "Better Late Than…",
+  "file": "137-digging-deeper.md",
+  "title": "Digging Deeper",
+  "section": "Shemos",
+  "parsha": "Mishpatim",
+  "words": 2027,
   "essays": [
-   "8644",
-   "8654"
+   {
+    "id": "9554",
+    "title": "Digging Deeper",
+    "share": 0.85,
+    "entries": [
+     "dig-karah-chafirah-chatzivah.md",
+     "shame-bushah-klimah-cherpah.md",
+     "spying-latur-leragel.md"
+    ]
+   }
   ],
-  "published_share": 0.88
+  "entries": [
+   "dig-karah-chafirah-chatzivah.md",
+   "shame-bushah-klimah-cherpah.md",
+   "spying-latur-leragel.md"
+  ]
  },
  {
   "n": 138,
-  "file": "138-awesome-balsam.md",
-  "title": "Awesome Balsam",
+  "file": "138-rabbi-of-robbers.md",
+  "title": "Rabbi of Robbers",
+  "section": "Shemos",
+  "parsha": "Mishpatim",
+  "words": 837,
   "essays": [
-   "10824",
-   "9795"
+   {
+    "id": "7153",
+    "title": "Rabbi of Robbers",
+    "share": 0.87,
+    "entries": [
+     "master-adon-ribbon-rav.md"
+    ]
+   }
   ],
-  "published_share": 1.0
+  "entries": [
+   "master-adon-ribbon-rav.md"
+  ]
  },
  {
   "n": 139,
-  "file": "139-why-which-why.md",
-  "title": "Why? Which why?",
+  "file": "139-sacred-spaces.md",
+  "title": "Sacred Spaces",
+  "section": "Shemos",
+  "parsha": "Terumah",
+  "words": 935,
   "essays": [
-   "7039"
+   {
+    "id": "7164",
+    "title": "Sacred Spaces",
+    "share": 0.82,
+    "entries": [
+     "sanctuary-mishkan-mikdash.md"
+    ]
+   }
   ],
-  "published_share": 0.94
+  "entries": [
+   "sanctuary-mishkan-mikdash.md"
+  ]
  },
  {
   "n": 140,
-  "file": "140-mercy-or-pity.md",
-  "title": "Mercy or Pity",
+  "file": "140-a-table-for-thee.md",
+  "title": "A Table for Thee",
+  "section": "Shemos",
+  "parsha": "Terumah",
+  "words": 2248,
   "essays": [
-   "8654",
-   "7679",
-   "8644"
+   {
+    "id": "11261",
+    "title": "Terumah: A Table for Thee",
+    "share": 0.99,
+    "entries": [
+     "table-shulchan-petora-taka-tavla.md"
+    ]
+   }
   ],
-  "published_share": 0.67
+  "entries": [
+   "table-shulchan-petora-taka-tavla.md"
+  ]
  },
  {
   "n": 141,
-  "file": "141-my-clothes-and-me.md",
-  "title": "My Clothes and Me",
+  "file": "141-color-me.md",
+  "title": "Color Me",
+  "section": "Shemos",
+  "parsha": "Terumah",
+  "words": 3015,
   "essays": [
-   "7658"
+   {
+    "id": "11705",
+    "title": "Terumah: Color Me",
+    "share": 0.97,
+    "entries": [
+     "color-tzeva-gavan-ein-mareh.md"
+    ]
+   }
   ],
-  "published_share": 0.72
+  "entries": [
+   "color-tzeva-gavan-ein-mareh.md"
+  ]
  },
  {
   "n": 142,
-  "file": "142-solomons-seven-names.md",
-  "title": "Solomon’s Seven Names",
+  "file": "142-raise-the-curtain.md",
+  "title": "Raise the Curtain",
+  "section": "Shemos",
+  "parsha": "Terumah",
+  "words": 1098,
   "essays": [
-   "8149"
+   {
+    "id": "8157",
+    "title": "Raise the Curtain",
+    "share": 0.82,
+    "entries": [
+     "curtain-parochet-masach-vilon-pargod.md"
+    ]
+   }
   ],
-  "published_share": 0.86
+  "entries": [
+   "curtain-parochet-masach-vilon-pargod.md"
+  ]
  },
  {
   "n": 143,
-  "file": "143-on-hooks-and-hangers.md",
-  "title": "On Hooks and Hangers",
+  "file": "143-cherubic-children-and-other-angels.md",
+  "title": "Cherubic Children and Other Angels",
+  "section": "Shemos",
+  "parsha": "Terumah",
+  "words": 1456,
   "essays": [
-   "9565"
+   {
+    "id": "8129",
+    "title": "Cherubic Children and Other Angels",
+    "share": 0.81,
+    "entries": [
+     "angel-classes-kruvim-chayos-ishim.md",
+     "angel-malach-shaliach.md"
+    ]
+   }
   ],
-  "published_share": 0.95
+  "entries": [
+   "angel-classes-kruvim-chayos-ishim.md",
+   "angel-malach-shaliach.md"
+  ]
  },
  {
   "n": 144,
-  "file": "144-in-the-middle.md",
-  "title": "In the Middle",
+  "file": "144-foreheads-and-fadihot.md",
+  "title": "Foreheads and Fadihot",
+  "section": "Shemos",
+  "parsha": "Titzaveh",
+  "words": 1362,
   "essays": [
-   "9785",
-   "11613"
+   {
+    "id": "8622",
+    "title": "Foreheads and Fadihot",
+    "share": 0.88,
+    "entries": [
+     "forehead-meitzach-padachat.md"
+    ]
+   }
   ],
-  "published_share": 0.9
+  "entries": [
+   "forehead-meitzach-padachat.md"
+  ]
  },
  {
   "n": 145,
-  "file": "145-turning-the-corner.md",
-  "title": "Turning the Corner",
+  "file": "145-the-true-blue.md",
+  "title": "The True Blue",
+  "section": "Shemos",
+  "parsha": "Titzaveh",
+  "words": 1149,
   "essays": [
-   "10884",
-   "10883",
-   "9992"
+   {
+    "id": "8167",
+    "title": "The True Blue",
+    "share": 0.74,
+    "entries": [
+     "blue-sapir-techeiles-kachol.md"
+    ]
+   }
   ],
-  "published_share": 1.0
+  "entries": [
+   "blue-sapir-techeiles-kachol.md"
+  ]
  },
  {
   "n": 146,
-  "file": "146-crafty-artisans.md",
-  "title": "Crafty Artisans",
+  "file": "146-the-color-purple.md",
+  "title": "The Color Purple",
+  "section": "Shemos",
+  "parsha": "Titzaveh",
+  "words": 1936,
   "essays": [
-   "11298"
+   {
+    "id": "9575",
+    "title": "The Color Purple",
+    "share": 0.94,
+    "entries": [
+     "purple-argaman-segol-lilach.md"
+    ]
+   }
   ],
-  "published_share": 0.95
+  "entries": [
+   "purple-argaman-segol-lilach.md"
+  ]
  },
  {
   "n": 147,
-  "file": "147-tree-words.md",
-  "title": "Tree Words",
+  "file": "147-hats-and-belts.md",
+  "title": "Hats and Belts",
+  "section": "Shemos",
+  "parsha": "Titzaveh",
+  "words": 1052,
   "essays": [
-   "7133"
+   {
+    "id": "7195",
+    "title": "Hats and Belts",
+    "share": 0.91,
+    "entries": [
+     "hat-and-belt-mitznefes-migbaas-avnet.md"
+    ]
+   }
   ],
-  "published_share": 0.76
+  "entries": [
+   "hat-and-belt-mitznefes-migbaas-avnet.md"
+  ]
  },
  {
   "n": 148,
-  "file": "148-the-beauty-of-adar.md",
-  "title": "The Beauty of Adar",
+  "file": "148-is-cotton-a-type-of-linen.md",
+  "title": "Is Cotton a Type of Linen?",
+  "section": "Shemos",
+  "parsha": "Titzaveh",
+  "words": 1355,
   "essays": [
-   "9595",
-   "7644"
+   {
+    "id": "8140",
+    "title": "Is Cotton a Type of Linen?",
+    "share": 0.79,
+    "entries": [
+     "linen-sheish-bahd-butz-pishtim.md"
+    ]
+   }
   ],
-  "published_share": 0.83
+  "entries": [
+   "linen-sheish-bahd-butz-pishtim.md"
+  ]
  },
  {
   "n": 149,
-  "file": "149-parshas-zachor-remember-forever.md",
-  "title": "Parshas Zachor: Remember Forever",
+  "file": "149-better-late-than.md",
+  "title": "Better Late Than…",
+  "section": "Shemos",
+  "parsha": "Ki Sisa",
+  "words": 1322,
   "essays": [
-   "9110"
+   {
+    "id": "8644",
+    "title": "Better Late Than â€¦â€¦..",
+    "share": 0.85,
+    "entries": [
+     "delay-boshesh-ichur-hismahmeah.md"
+    ]
+   }
   ],
-  "published_share": 0.8
+  "entries": [
+   "delay-boshesh-ichur-hismahmeah.md"
+  ]
  },
  {
   "n": 150,
-  "file": "150-parshas-parah-seeing-red.md",
-  "title": "Parshas Parah: Seeing Red",
+  "file": "150-awesome-balsam.md",
+  "title": "Awesome Balsam",
+  "section": "Shemos",
+  "parsha": "Ki Sisa",
+  "words": 2229,
   "essays": [
-   "11743",
-   "11763",
-   "11742"
+   {
+    "id": "10824",
+    "title": "Ki Sisa: Awesome Balsam",
+    "share": 0.98,
+    "entries": [
+     "balsam-panag-tzari-afarsemon.md"
+    ]
+   }
   ],
-  "published_share": 0.97
+  "entries": [
+   "balsam-panag-tzari-afarsemon.md"
+  ]
  },
  {
   "n": 151,
-  "file": "151-parshas-hachodesh-old-month-versus-new-month.md",
-  "title": "Parshas HaChodesh: Old Month versus New Month",
+  "file": "151-why-which-why.md",
+  "title": "Why? Which why?",
+  "section": "Shemos",
+  "parsha": "Ki Sisa",
+  "words": 853,
   "essays": [
-   "7687"
+   {
+    "id": "7039",
+    "title": "Why? Which \\\"Why\\\"?",
+    "share": 0.95,
+    "entries": [
+     "why-lamah-madua.md"
+    ]
+   }
   ],
-  "published_share": 0.51
+  "entries": [
+   "why-lamah-madua.md"
+  ]
  },
  {
   "n": 152,
-  "file": "152-party-hardy.md",
-  "title": "Party Hardy",
+  "file": "152-mercy-or-pity.md",
+  "title": "Mercy or Pity",
+  "section": "Shemos",
+  "parsha": "Ki Sisa",
+  "words": 1121,
   "essays": [
-   "7176"
+   {
+    "id": "7679",
+    "title": "Mercy or Pity",
+    "share": 0.82,
+    "entries": [
+     "mercy-rachum-chanun-chus-chemlah.md"
+    ]
+   }
   ],
-  "published_share": 0.75
+  "entries": [
+   "mercy-rachum-chanun-chus-chemlah.md"
+  ]
  },
  {
   "n": 153,
-  "file": "153-playing-the-lottery.md",
-  "title": "Playing the Lottery",
+  "file": "153-laborious-work-angelic-creativity.md",
+  "title": "Laborious Work & Angelic Creativity",
+  "section": "Shemos",
+  "parsha": "Vayakhel",
+  "words": 1455,
   "essays": [
-   "8181",
-   "8333",
-   "8467"
+   {
+    "id": "8654",
+    "title": "Laborious Work and Angelic Creativity",
+    "share": 0.69,
+    "entries": [
+     "work-melachah-avodah.md"
+    ]
+   }
   ],
-  "published_share": 0.78
+  "entries": [
+   "work-melachah-avodah.md"
+  ]
  },
  {
   "n": 154,
-  "file": "154-to-remain-silent.md",
-  "title": "To Remain Silent",
+  "file": "154-my-clothes-and-me.md",
+  "title": "My Clothes and Me",
+  "section": "Shemos",
+  "parsha": "Vayakhel",
+  "words": 871,
   "essays": [
-   "8634"
+   {
+    "id": "7658",
+    "title": "My Clothes and Me",
+    "share": 0.7,
+    "entries": [
+     "clothing-beged-levush-kesus-simlah.md"
+    ]
+   }
   ],
-  "published_share": 0.79
+  "entries": [
+   "clothing-beged-levush-kesus-simlah.md"
+  ]
  },
  {
   "n": 155,
-  "file": "155-fake-faces.md",
-  "title": "Fake Faces",
+  "file": "155-solomons-seven-names.md",
+  "title": "Solomon’s Seven Names",
+  "section": "Shemos",
+  "parsha": "Vayakhel",
+  "words": 1177,
   "essays": [
-   "9092"
+   {
+    "id": "8149",
+    "title": "Solomon's Seven Names",
+    "share": 0.86,
+    "entries": [
+     "names-shlomo-koheles-agur-lemuel.md"
+    ]
+   }
   ],
-  "published_share": 0.73
+  "entries": [
+   "names-shlomo-koheles-agur-lemuel.md"
+  ]
  },
  {
   "n": 156,
-  "file": "156-heavy-honors.md",
-  "title": "Heavy Honors",
+  "file": "156-on-hooks-and-hangers.md",
+  "title": "On Hooks and Hangers",
+  "section": "Shemos",
+  "parsha": "Pekudai",
+  "words": 1349,
   "essays": [
-   "11724"
+   {
+    "id": "9565",
+    "title": "On Hooks and Hangers",
+    "share": 0.97,
+    "entries": [
+     "hook-vav-agmon-shfataim.md"
+    ]
+   }
   ],
-  "published_share": 0.97
+  "entries": [
+   "hook-vav-agmon-shfataim.md"
+  ]
  },
  {
   "n": 157,
-  "file": "157-between-books-and-scrolls.md",
-  "title": "Between Books and Scrolls",
+  "file": "157-in-the-middle.md",
+  "title": "In the Middle",
+  "section": "Shemos",
+  "parsha": "Pekudai",
+  "words": 2354,
   "essays": [
-   "9581",
-   "8217"
+   {
+    "id": "9785",
+    "title": "In the Middle",
+    "share": 0.95,
+    "entries": [
+     "middle-emtza-merkaz-lev-tabur.md"
+    ]
+   }
   ],
-  "published_share": 0.88
+  "entries": [
+   "middle-emtza-merkaz-lev-tabur.md"
+  ]
  },
  {
   "n": 158,
-  "file": "158-pick-your-poison.md",
-  "title": "Pick your Poison",
+  "file": "158-turning-the-corner.md",
+  "title": "Turning the Corner",
+  "section": "Shemos",
+  "parsha": "Pekudai",
+  "words": 3302,
   "essays": [
-   "9632",
-   "9616",
-   "9603"
+   {
+    "id": "10884",
+    "title": "Vayakhel-Pekudai: Turning the Corner (Part 1/2)",
+    "share": 0.97,
+    "entries": [
+     "corner-peah-keren-zavit-pinah.md"
+    ]
+   },
+   {
+    "id": "10883",
+    "title": "Vayikra: Turning the Corner (Part 2/2)",
+    "share": 0.96,
+    "entries": [
+     "corner-peah-keren-zavit-pinah.md"
+    ]
+   }
   ],
-  "published_share": 0.78
+  "entries": [
+   "corner-peah-keren-zavit-pinah.md"
+  ]
  },
  {
   "n": 159,
-  "file": "159-speedy-horsepower.md",
-  "title": "Speedy Horsepower",
+  "file": "159-crafty-artisans.md",
+  "title": "Crafty Artisans",
+  "section": "Shemos",
+  "parsha": "Pekudai",
+  "words": 2189,
   "essays": [
-   "11286",
-   "11326",
-   "11285"
+   {
+    "id": "11298",
+    "title": "Pekudai: Crafty Artisans",
+    "share": 0.98,
+    "entries": [
+     "artisan-charash-choshev-rokem.md"
+    ]
+   }
   ],
-  "published_share": 0.75
+  "entries": [
+   "artisan-charash-choshev-rokem.md"
+  ]
  },
  {
   "n": 160,
-  "file": "160-do-the-din.md",
-  "title": "Do the Din",
+  "file": "160-tree-words.md",
+  "title": "Tree Words",
+  "section": "Shemos",
+  "parsha": "Tu B’Shvat",
+  "words": 1006,
   "essays": [
-   "11715"
+   {
+    "id": "7133",
+    "title": "Tree Words",
+    "share": 0.84,
+    "entries": [
+     "tree-eitz-ilan.md"
+    ]
+   }
   ],
-  "published_share": 0.92
+  "entries": [
+   "tree-eitz-ilan.md"
+  ]
  },
  {
   "n": 161,
-  "file": "161-for-crying-out-loud.md",
-  "title": "For Crying Out Loud",
+  "file": "161-the-beauty-of-adar.md",
+  "title": "The Beauty of Adar",
+  "section": "Shemos",
+  "parsha": "4 Parshiyos",
+  "words": 1780,
   "essays": [
-   "7655"
+   {
+    "id": "7644",
+    "title": "The Beauty of Adar",
+    "share": 0.87,
+    "entries": [
+     "beauty-hod-hadar.md",
+     "citron-hadar-etrog-tapuach.md",
+     "praise-hallel-shevach-hodaah-kilus.md"
+    ]
+   }
   ],
-  "published_share": 0.75
+  "entries": [
+   "beauty-hod-hadar.md",
+   "citron-hadar-etrog-tapuach.md",
+   "praise-hallel-shevach-hodaah-kilus.md"
+  ]
  },
  {
   "n": 162,
-  "file": "162-freezing-cold.md",
-  "title": "Freezing Cold",
+  "file": "162-parshas-shekalim-a-shekel-for-a-sela.md",
+  "title": "Parshas Shekalim: A Shekel for a Sela",
+  "section": "Shemos",
+  "parsha": "4 Parshiyos",
+  "words": 2119,
   "essays": [
-   "9482"
+   {
+    "id": "9595",
+    "title": "Vayakhel (Shabbat Shekalim)",
+    "share": 0.84,
+    "entries": [
+     "coins-shekel-sela-beka-darkemon.md"
+    ]
+   }
   ],
-  "published_share": 0.78
+  "entries": [
+   "coins-shekel-sela-beka-darkemon.md"
+  ]
  },
  {
   "n": 163,
-  "file": "163-running-on-willpower.md",
-  "title": "Running on Willpower",
+  "file": "163-parshas-zachor-remember-forever.md",
+  "title": "Parshas Zachor: Remember Forever",
+  "section": "Shemos",
+  "parsha": "4 Parshiyos",
+  "words": 2276,
   "essays": [
-   "8573"
+   {
+    "id": "9110",
+    "title": "Ki Tisa: Remember Forever",
+    "share": 0.87,
+    "entries": [
+     "counting-sefirah-mispar-minyan.md",
+     "remember-zachor-pakad.md"
+    ]
+   }
   ],
-  "published_share": 0.85
+  "entries": [
+   "counting-sefirah-mispar-minyan.md",
+   "remember-zachor-pakad.md"
+  ]
  },
  {
   "n": 164,
-  "file": "164-fowl-language-and-poultry.md",
-  "title": "Fowl Language and Poultry",
+  "file": "164-parshas-parah-seeing-red.md",
+  "title": "Parshas Parah: Seeing Red",
+  "section": "Shemos",
+  "parsha": "4 Parshiyos",
+  "words": 6147,
   "essays": [
-   "7009"
+   {
+    "id": "11743",
+    "title": "Pekudai: Seeing Red (Part 2/3)",
+    "share": 0.95,
+    "entries": [
+     "grapevine-gefen-sorek-shdeimah.md",
+     "red-adom-shani-chamutz.md",
+     "white-lavan-chivar-tzochar.md"
+    ]
+   },
+   {
+    "id": "11763",
+    "title": "Vayikra: Seeing Red (Part 3/3)",
+    "share": 0.98,
+    "entries": [
+     "red-adom-shani-chamutz.md"
+    ]
+   },
+   {
+    "id": "11742",
+    "title": "Vayakhel/Parah: Seeing Red (Part 1/2)",
+    "share": 0.97,
+    "entries": [
+     "red-adom-shani-chamutz.md"
+    ]
+   }
   ],
-  "published_share": 0.46
+  "entries": [
+   "grapevine-gefen-sorek-shdeimah.md",
+   "red-adom-shani-chamutz.md",
+   "white-lavan-chivar-tzochar.md"
+  ]
  },
  {
   "n": 165,
-  "file": "165-the-kidneys-advisory.md",
-  "title": "The Kidneys Advisory",
+  "file": "165-parshas-hachodesh-old-month-versus-new-month.md",
+  "title": "Parshas HaChodesh: Old Month versus New Month",
+  "section": "Shemos",
+  "parsha": "4 Parshiyos",
+  "words": 1154,
   "essays": [
-   "11307"
+   {
+    "id": "7687",
+    "title": "Old Month versus New Month",
+    "share": 0.78,
+    "entries": [
+     "month-chodesh-yerach.md"
+    ]
+   }
   ],
-  "published_share": 0.92
+  "entries": [
+   "month-chodesh-yerach.md"
+  ]
  },
  {
   "n": 166,
-  "file": "166-the-gorgeous-windpipe.md",
-  "title": "The Gorgeous Windpipe",
+  "file": "166-party-hardy.md",
+  "title": "Party Hardy",
+  "section": "Shemos",
+  "parsha": "Purim",
+  "words": 901,
   "essays": [
-   "9745",
-   "10785"
+   {
+    "id": "7176",
+    "title": "Party Hardy",
+    "share": 0.88,
+    "entries": [
+     "meal-seudah-mishteh-mesibah.md"
+    ]
+   }
   ],
-  "published_share": 0.87
+  "entries": [
+   "meal-seudah-mishteh-mesibah.md"
+  ]
  },
  {
   "n": 167,
-  "file": "167-anatomy-of-a-soul.md",
-  "title": "Anatomy of a Soul",
+  "file": "167-playing-the-lottery.md",
+  "title": "Playing the Lottery",
+  "section": "Shemos",
+  "parsha": "Purim",
+  "words": 1427,
   "essays": [
-   "8759",
-   "8768",
-   "8779"
+   {
+    "id": "8181",
+    "title": "Playing the Lottery",
+    "share": 0.86,
+    "entries": [
+     "lottery-goral-pur-payis-cholesh.md"
+    ]
+   }
   ],
-  "published_share": 0.9
+  "entries": [
+   "lottery-goral-pur-payis-cholesh.md"
+  ]
  },
  {
   "n": 168,
-  "file": "168-the-chayah-and-yechidah.md",
-  "title": "The Chayah and Yechidah",
+  "file": "168-to-remain-silent.md",
+  "title": "To Remain Silent",
+  "section": "Shemos",
+  "parsha": "Purim",
+  "words": 1730,
   "essays": [
-   "8779",
-   "8759",
-   "8768"
+   {
+    "id": "8634",
+    "title": "To Remain Silent",
+    "share": 0.85,
+    "entries": [
+     "silence-cheresh-shetikah-dom-chashah.md"
+    ]
+   }
   ],
-  "published_share": 0.91
+  "entries": [
+   "silence-cheresh-shetikah-dom-chashah.md"
+  ]
  },
  {
   "n": 169,
-  "file": "169-good-fat-bad-fat.md",
-  "title": "Good Fat, Bad Fat",
+  "file": "169-fake-faces.md",
+  "title": "Fake Faces",
+  "section": "Shemos",
+  "parsha": "Purim",
+  "words": 1340,
   "essays": [
-   "11314",
-   "11170"
+   {
+    "id": "9092",
+    "title": "Purim: Fake Faces",
+    "share": 0.76,
+    "entries": [
+     "mask-masveh-masechah-partzuf.md"
+    ]
+   }
   ],
-  "published_share": 0.97
+  "entries": [
+   "mask-masveh-masechah-partzuf.md"
+  ]
  },
  {
   "n": 170,
-  "file": "170-the-nosey-truth.md",
-  "title": "The Nosey Truth",
+  "file": "170-heavy-honors.md",
+  "title": "Heavy Honors",
+  "section": "Shemos",
+  "parsha": "Purim",
+  "words": 2302,
   "essays": [
-   "11327"
+   {
+    "id": "11724",
+    "title": "Ki Sisa/Purim: Heavy Honors",
+    "share": 0.97,
+    "entries": [
+     "honor-kavod-yakar.md"
+    ]
+   }
   ],
-  "published_share": 0.99
+  "entries": [
+   "honor-kavod-yakar.md"
+  ]
  },
  {
   "n": 171,
-  "file": "171-types-of-species.md",
-  "title": "Types of Species",
+  "file": "171-between-books-and-scrolls.md",
+  "title": "Between Books and Scrolls",
+  "section": "Shemos",
+  "parsha": "Purim",
+  "words": 2742,
   "essays": [
-   "10897",
-   "11438"
+   {
+    "id": "9581",
+    "title": "Between Books and Scrolls",
+    "share": 0.94,
+    "entries": [
+     "book-sefer-iggeret-megillah.md",
+     "counting-sefirah-mispar-minyan.md",
+     "document-gett-shtar.md",
+     "scribe-sofer-lavlar.md"
+    ]
+   }
   ],
-  "published_share": 0.93
+  "entries": [
+   "book-sefer-iggeret-megillah.md",
+   "counting-sefirah-mispar-minyan.md",
+   "document-gett-shtar.md",
+   "scribe-sofer-lavlar.md"
+  ]
  },
  {
   "n": 172,
-  "file": "172-wet-words.md",
-  "title": "Wet Words",
+  "file": "172-pick-your-poison.md",
+  "title": "Pick your Poison",
+  "section": "Shemos",
+  "parsha": "Purim",
+  "words": 2024,
   "essays": [
-   "11276"
+   {
+    "id": "9603",
+    "title": "Pick Your Poison",
+    "share": 0.83,
+    "entries": [
+     "anger-cheimah-ketzef-charon-rogez.md",
+     "poison-eres-rosh-chamat-sam-hamaves.md"
+    ]
+   }
   ],
-  "published_share": 0.95
+  "entries": [
+   "anger-cheimah-ketzef-charon-rogez.md",
+   "poison-eres-rosh-chamat-sam-hamaves.md"
+  ]
  },
  {
   "n": 173,
-  "file": "173-dancing-away.md",
-  "title": "Dancing Away",
+  "file": "173-words-for-wine.md",
+  "title": "Words for Wine",
+  "section": "Shemos",
+  "parsha": "Purim",
+  "words": 5014,
   "essays": [
-   "11784"
+   {
+    "id": "9632",
+    "title": "Words for Wine (Part 2)",
+    "share": 0.81,
+    "entries": [
+     "wine-yayin-tirosh-chemer-shechar.md"
+    ]
+   },
+   {
+    "id": "9616",
+    "title": "Words for Wine (Part 1)",
+    "share": 0.86,
+    "entries": [
+     "wine-yayin-tirosh-chemer-shechar.md"
+    ]
+   }
   ],
-  "published_share": 0.98
+  "entries": [
+   "wine-yayin-tirosh-chemer-shechar.md"
+  ]
  },
  {
   "n": 174,
-  "file": "174-the-cutter.md",
-  "title": "The Cutter",
+  "file": "174-speedy-horsepower.md",
+  "title": "Speedy Horsepower",
+  "section": "Shemos",
+  "parsha": "Purim",
+  "words": 3592,
   "essays": [
-   "11342",
-   "11520"
+   {
+    "id": "10842",
+    "title": "Purim/Trumah: Speedy Horsepower (Part 1/2)",
+    "share": 0.98,
+    "entries": [
+     "horse-sus-rechesh-achashtranim.md"
+    ]
+   },
+   {
+    "id": "10843",
+    "title": "Purim/Titzaveh: Speedy Horsepower (Part 2/2)",
+    "share": 0.95,
+    "entries": [
+     "horse-sus-rechesh-achashtranim.md"
+    ]
+   }
   ],
-  "published_share": 0.92
+  "entries": [
+   "horse-sus-rechesh-achashtranim.md"
+  ]
  },
  {
   "n": 175,
-  "file": "175-haircut-time.md",
-  "title": "Haircut Time",
+  "file": "175-myrrh-myrtle.md",
+  "title": "Myrrh & Myrtle",
+  "section": "Shemos",
+  "parsha": "Purim",
+  "words": 4531,
   "essays": [
-   "9642",
-   "8613",
-   "9756"
+   {
+    "id": "11286",
+    "title": "Vayakhel: Myrrh & Myrtle (Part 2)",
+    "share": 0.96,
+    "entries": [
+     "names-mordechai-esther-hadassah.md"
+    ]
+   },
+   {
+    "id": "11326",
+    "title": "Vayakhel: Myrrh & Myrtle (Part 2)",
+    "share": 0.96,
+    "entries": [
+     "names-mordechai-esther-hadassah.md"
+    ]
+   },
+   {
+    "id": "11285",
+    "title": "Ki Sisa/Purim Katan: Myrrh & Myrtle (Part 1)",
+    "share": 0.98,
+    "entries": [
+     "names-mordechai-esther-hadassah.md"
+    ]
+   }
   ],
-  "published_share": 0.83
+  "entries": [
+   "names-mordechai-esther-hadassah.md"
+  ]
  },
  {
   "n": 176,
-  "file": "176-spot-on-tzarat.md",
-  "title": "Spot on Tzar’at",
+  "file": "176-do-the-din.md",
+  "title": "Do the Din",
+  "section": "Shemos",
+  "parsha": "Purim",
+  "words": 3372,
   "essays": [
-   "11793"
+   {
+    "id": "11715",
+    "title": "Tetzaveh/Purim: Do the Din",
+    "share": 0.97,
+    "entries": [
+     "judgment-din-rachamim.md",
+     "law-din-mishpat-chok-dat.md"
+    ]
+   }
   ],
-  "published_share": 1.0
+  "entries": [
+   "judgment-din-rachamim.md",
+   "law-din-mishpat-chok-dat.md"
+  ]
  },
  {
   "n": 177,
-  "file": "177-rule-of-thumb.md",
-  "title": "Rule of Thumb",
-  "essays": [],
-  "published_share": 0.0
+  "file": "177-for-crying-out-loud.md",
+  "title": "For Crying Out Loud",
+  "section": "Shemos",
+  "parsha": "Purim",
+  "words": 998,
+  "essays": [
+   {
+    "id": "7655",
+    "title": "For Crying Out Loud",
+    "share": 0.75,
+    "entries": [
+     "crying-out-tzaakah-zaakah-shaavah.md"
+    ]
+   }
+  ],
+  "entries": [
+   "crying-out-tzaakah-zaakah-shaavah.md"
+  ]
  },
  {
   "n": 178,
-  "file": "178-confronting-death.md",
-  "title": "Confronting Death",
+  "file": "178-freezing-cold.md",
+  "title": "Freezing Cold",
+  "section": "Vayikra",
+  "parsha": "Vayikra",
+  "words": 1688,
   "essays": [
-   "10907"
+   {
+    "id": "9482",
+    "title": "Freezing Cold",
+    "share": 0.88,
+    "entries": [
+     "cold-kor-tzinah.md",
+     "thorns-kotz-dardar-sneh-charul.md"
+    ]
+   }
   ],
-  "published_share": 0.92
+  "entries": [
+   "cold-kor-tzinah.md",
+   "thorns-kotz-dardar-sneh-charul.md"
+  ]
  },
  {
   "n": 179,
-  "file": "179-on-the-tombstone.md",
-  "title": "On the Tombstone",
+  "file": "179-running-on-willpower.md",
+  "title": "Running on Willpower",
+  "section": "Vayikra",
+  "parsha": "Vayikra",
+  "words": 1361,
   "essays": [
-   "7730"
+   {
+    "id": "8573",
+    "title": "Running on Willpower",
+    "share": 0.9,
+    "entries": [
+     "will-ratzon-chefetz.md"
+    ]
+   }
   ],
-  "published_share": 0.76
+  "entries": [
+   "will-ratzon-chefetz.md"
+  ]
  },
  {
   "n": 180,
-  "file": "180-say-uncle.md",
-  "title": "Say Uncle",
+  "file": "180-fowl-language-and-poultry.md",
+  "title": "Fowl Language and Poultry",
+  "section": "Vayikra",
+  "parsha": "Vayikra",
+  "words": 1300,
   "essays": [
-   "9184"
+   {
+    "id": "7009",
+    "title": "Fowl Language and Poultry",
+    "share": 0.7,
+    "entries": [
+     "bird-of-tzipor-kanaf.md",
+     "wing-kanaf-ever-agaf.md"
+    ]
+   }
   ],
-  "published_share": 0.78
+  "entries": [
+   "bird-of-tzipor-kanaf.md",
+   "wing-kanaf-ever-agaf.md"
+  ]
  },
  {
   "n": 181,
-  "file": "181-karet-and-ariri.md",
-  "title": "Karet and Ariri",
+  "file": "181-the-kidneys-advisory.md",
+  "title": "The Kidneys Advisory",
+  "section": "Vayikra",
+  "parsha": "Vayikra",
+  "words": 1973,
   "essays": [
-   "8271",
-   "9554"
+   {
+    "id": "11307",
+    "title": "Vayikra: The Kidneys Advisory",
+    "share": 0.97,
+    "entries": [
+     "kidneys-kilayos-atzeh-tuchos.md"
+    ]
+   }
   ],
-  "published_share": 0.8
+  "entries": [
+   "kidneys-kilayos-atzeh-tuchos.md"
+  ]
  },
  {
   "n": 182,
-  "file": "182-the-watchers-and-guardians.md",
-  "title": "The Watchers and Guardians",
+  "file": "182-the-gorgeous-windpipe.md",
+  "title": "The Gorgeous Windpipe",
+  "section": "Vayikra",
+  "parsha": "Tzav",
+  "words": 2248,
   "essays": [
-   "11813"
+   {
+    "id": "9745",
+    "title": "The Gorgeous Windpipe",
+    "share": 0.91,
+    "entries": [
+     "throat-garon-gargeres-kaneh.md"
+    ]
+   }
   ],
-  "published_share": 0.99
+  "entries": [
+   "throat-garon-gargeres-kaneh.md"
+  ]
  },
  {
   "n": 183,
-  "file": "183-burke-and-rebuke.md",
-  "title": "Burke and Rebuke",
+  "file": "183-anatomy-of-a-soul.md",
+  "title": "Anatomy of a Soul",
+  "section": "Vayikra",
+  "parsha": "Tzav",
+  "words": 4414,
   "essays": [
-   "7260",
-   "10970"
+   {
+    "id": "8759",
+    "title": "Take a Breather (Part 1)",
+    "share": 0.9,
+    "entries": [
+     "soul-nefesh-ruach-neshamah-chayah-yechidah.md"
+    ]
+   },
+   {
+    "id": "8779",
+    "title": "The Chayah and Yechidah (Part 3 of 3)",
+    "share": 0.82,
+    "entries": [
+     "soul-nefesh-ruach-neshamah-chayah-yechidah.md"
+    ]
+   },
+   {
+    "id": "8768",
+    "title": "Anatomy of a Soul (Part 2 of 3)",
+    "share": 0.82,
+    "entries": [
+     "soul-nefesh-ruach-neshamah-chayah-yechidah.md"
+    ]
+   }
   ],
-  "published_share": 0.96
+  "entries": [
+   "soul-nefesh-ruach-neshamah-chayah-yechidah.md"
+  ]
  },
  {
   "n": 184,
-  "file": "184-top-ten-words-for-idols.md",
-  "title": "Top Ten Words for Idols",
+  "file": "184-good-fat-bad-fat.md",
+  "title": "Good Fat, Bad Fat",
+  "section": "Vayikra",
+  "parsha": "Tzav",
+  "words": 2125,
   "essays": [
-   "8198"
+   {
+    "id": "11314",
+    "title": "Tzav: Good Fat, Bad Fat",
+    "share": 0.99,
+    "entries": [
+     "fat-cheilev-shuman-pader.md"
+    ]
+   }
   ],
-  "published_share": 0.8
+  "entries": [
+   "fat-cheilev-shuman-pader.md"
+  ]
  },
  {
   "n": 185,
-  "file": "185-now-and-forthwith.md",
-  "title": "Now and Forthwith!",
+  "file": "185-the-nosey-truth.md",
+  "title": "The Nosey Truth",
+  "section": "Vayikra",
+  "parsha": "Shemini",
+  "words": 2741,
   "essays": [
-   "7426",
-   "7409"
+   {
+    "id": "11327",
+    "title": "Shemini: The Nosey Truth",
+    "share": 1.0,
+    "entries": [
+     "anger-cheimah-ketzef-charon-rogez.md",
+     "nose-af-chotem-nichirayim.md",
+     "slaughter-shechitah-zevichah-tevichah.md"
+    ]
+   }
   ],
-  "published_share": 0.82
+  "entries": [
+   "anger-cheimah-ketzef-charon-rogez.md",
+   "nose-af-chotem-nichirayim.md",
+   "slaughter-shechitah-zevichah-tevichah.md"
+  ]
  },
  {
   "n": 186,
-  "file": "186-a-window-into-widows.md",
-  "title": "A Window into Widows",
+  "file": "186-types-of-species.md",
+  "title": "Types of Species",
+  "section": "Vayikra",
+  "parsha": "Shemini",
+  "words": 2409,
   "essays": [
-   "11816",
-   "11817"
+   {
+    "id": "10897",
+    "title": "Shemini: Types of Species",
+    "share": 0.97,
+    "entries": [
+     "counting-sefirah-mispar-minyan.md",
+     "species-min-zan-sug.md"
+    ]
+   }
   ],
-  "published_share": 0.98
+  "entries": [
+   "counting-sefirah-mispar-minyan.md",
+   "species-min-zan-sug.md"
+  ]
  },
  {
   "n": 187,
-  "file": "187-rose-by-another-name.md",
-  "title": "Rose by Another Name",
+  "file": "187-wet-words.md",
+  "title": "Wet Words",
+  "section": "Vayikra",
+  "parsha": "Shemini",
+  "words": 2703,
   "essays": [
-   "11391"
+   {
+    "id": "11276",
+    "title": "Titzaveh: Wet Words",
+    "share": 0.99,
+    "entries": [
+     "bread-lechem-kikar-challah-pat.md",
+     "wet-lach-ratuv-raanan.md"
+    ]
+   }
   ],
-  "published_share": 0.97
+  "entries": [
+   "bread-lechem-kikar-challah-pat.md",
+   "wet-lach-ratuv-raanan.md"
+  ]
  },
  {
   "n": 188,
-  "file": "188-blemished-imperfections.md",
-  "title": "Blemished Imperfections",
+  "file": "188-dancing-away.md",
+  "title": "Dancing Away",
+  "section": "Vayikra",
+  "parsha": "Shemini",
+  "words": 2229,
   "essays": [
-   "8696",
-   "9138"
+   {
+    "id": "11784",
+    "title": "Shemini: Dancing Away",
+    "share": 0.98,
+    "entries": [
+     "dancing-rikud-kirkur-pizuz.md"
+    ]
+   }
   ],
-  "published_share": 1.58
+  "entries": [
+   "dancing-rikud-kirkur-pizuz.md"
+  ]
  },
  {
   "n": 189,
-  "file": "189-trends-in-time.md",
-  "title": "Trends in Time",
+  "file": "189-the-cutter.md",
+  "title": "The Cutter",
+  "section": "Vayikra",
+  "parsha": "Tazria",
+  "words": 2219,
   "essays": [
-   "7396"
+   {
+    "id": "11342",
+    "title": "Tazria: The Cutter",
+    "share": 0.97,
+    "entries": [
+     "artisan-charash-choshev-rokem.md",
+     "circumciser-mohel-gozer-rofeh-uman.md"
+    ]
+   }
   ],
-  "published_share": 0.73
+  "entries": [
+   "artisan-charash-choshev-rokem.md",
+   "circumciser-mohel-gozer-rofeh-uman.md"
+  ]
  },
  {
   "n": 190,
-  "file": "190-getting-stoned.md",
-  "title": "Getting Stoned",
+  "file": "190-haircut-time.md",
+  "title": "Haircut Time",
+  "section": "Vayikra",
+  "parsha": "Tazria",
+  "words": 2096,
   "essays": [
-   "10935",
-   "9694",
-   "9682"
+   {
+    "id": "9642",
+    "title": "Haircut Time",
+    "share": 0.82,
+    "entries": [
+     "border-gevul-techum-meitzar-sfar.md",
+     "haircut-giluach-gizah-galav-sapar.md",
+     "telling-haggadah-sippur.md"
+    ]
+   }
   ],
-  "published_share": 0.92
+  "entries": [
+   "border-gevul-techum-meitzar-sfar.md",
+   "haircut-giluach-gizah-galav-sapar.md",
+   "telling-haggadah-sippur.md"
+  ]
  },
  {
   "n": 191,
-  "file": "191-trusting-and-relying-on-g-d.md",
-  "title": "Trusting and Relying on G-d",
+  "file": "191-spot-on-tzarat.md",
+  "title": "Spot on Tzar’at",
+  "section": "Vayikra",
+  "parsha": "Metzora",
+  "words": 2955,
   "essays": [
-   "8836",
-   "9877"
+   {
+    "id": "11793",
+    "title": "Tazria/Metzora: Spot on (Tzar'at)",
+    "share": 0.99,
+    "entries": [
+     "leprosy-tzaraas-nega-metzora.md"
+    ]
+   }
   ],
-  "published_share": 1.68
+  "entries": [
+   "leprosy-tzaraas-nega-metzora.md"
+  ]
  },
  {
   "n": 192,
-  "file": "192-divorce-bills-and-other-documents.md",
-  "title": "Divorce Bills and other Documents",
+  "file": "192-rule-of-thumb.md",
+  "title": "Rule of Thumb",
+  "section": "Vayikra",
+  "parsha": "Metzora",
+  "words": 1317,
   "essays": [
-   "8704"
+   {
+    "id": "90003",
+    "title": "Rule of Thumb",
+    "share": 0.97,
+    "entries": [
+     "thumb-bohen-gudal-agudal.md"
+    ]
+   }
   ],
-  "published_share": 0.64
+  "entries": [
+   "thumb-bohen-gudal-agudal.md"
+  ]
  },
  {
   "n": 193,
-  "file": "193-settled-citizens.md",
-  "title": "Settled Citizens",
+  "file": "193-confronting-death.md",
+  "title": "Confronting Death",
+  "section": "Vayikra",
+  "parsha": "Acharei Mos",
+  "words": 1531,
   "essays": [
-   "9199"
+   {
+    "id": "10907",
+    "title": "Acharei Mos: Confronting Death",
+    "share": 0.99,
+    "entries": [
+     "death-mitah-petirah.md"
+    ]
+   }
   ],
-  "published_share": 0.75
+  "entries": [
+   "death-mitah-petirah.md"
+  ]
  },
  {
   "n": 194,
-  "file": "194-the-poor-and-unfortunate.md",
-  "title": "The Poor and Unfortunate",
+  "file": "194-on-the-tombstone.md",
+  "title": "On the Tombstone",
+  "section": "Vayikra",
+  "parsha": "Acharei Mos",
+  "words": 890,
   "essays": [
-   "8245"
+   {
+    "id": "7730",
+    "title": "On the Tombstone",
+    "share": 0.83,
+    "entries": [
+     "tombstone-matzeivah-tziyun-nefesh.md"
+    ]
+   }
   ],
-  "published_share": 0.88
+  "entries": [
+   "tombstone-matzeivah-tziyun-nefesh.md"
+  ]
  },
  {
   "n": 195,
-  "file": "195-peace-and-quiet.md",
-  "title": "Peace and Quiet",
+  "file": "195-say-uncle.md",
+  "title": "Say Uncle",
+  "section": "Vayikra",
+  "parsha": "Acharei Mos",
+  "words": 1628,
   "essays": [
-   "8816",
-   "9396"
+   {
+    "id": "9184",
+    "title": "Say Uncle",
+    "share": 0.76,
+    "entries": [
+     "uncle-dod-misaref.md"
+    ]
+   }
   ],
-  "published_share": 0.92
+  "entries": [
+   "uncle-dod-misaref.md"
+  ]
  },
  {
   "n": 196,
-  "file": "196-coincidence-or-happenstance.md",
-  "title": "Coincidence or Happenstance?",
+  "file": "196-karet-and-ariri.md",
+  "title": "Karet and Ariri",
+  "section": "Vayikra",
+  "parsha": "Acharei Mos",
+  "words": 1258,
   "essays": [
-   "11822",
-   "11821"
+   {
+    "id": "8271",
+    "title": "Karet and Ariri",
+    "share": 0.86,
+    "entries": [
+     "cutting-bokea-korea-gozer.md",
+     "excision-karet-ariri.md"
+    ]
+   }
   ],
-  "published_share": 0.96
+  "entries": [
+   "cutting-bokea-korea-gozer.md",
+   "excision-karet-ariri.md"
+  ]
  },
  {
   "n": 197,
-  "file": "197-all-about-money.md",
-  "title": "All About Money",
+  "file": "197-the-watchers-and-guardians.md",
+  "title": "The Watchers and Guardians",
+  "section": "Vayikra",
+  "parsha": "Kedoshim",
+  "words": 2251,
   "essays": [
-   "11394",
-   "11742",
-   "8444"
+   {
+    "id": "11813",
+    "title": "Acharei Mos/Kedoshim: The Watchers and Guardians",
+    "share": 0.99,
+    "entries": [
+     "guard-shemirah-netzirah-netirah.md"
+    ]
+   }
   ],
-  "published_share": 0.97
+  "entries": [
+   "guard-shemirah-netzirah-netirah.md"
+  ]
  },
  {
   "n": 198,
-  "file": "198-words-of-redemption.md",
-  "title": "Words of Redemption",
+  "file": "198-burke-and-rebuke.md",
+  "title": "Burke and Rebuke",
+  "section": "Vayikra",
+  "parsha": "Kedoshim",
+  "words": 754,
   "essays": [
-   "8714",
-   "7742"
+   {
+    "id": "7260",
+    "title": "Burke and Rebuke",
+    "share": 0.93,
+    "entries": [
+     "rebuke-mussar-tochachah.md"
+    ]
+   }
   ],
-  "published_share": 0.82
+  "entries": [
+   "rebuke-mussar-tochachah.md"
+  ]
  },
  {
   "n": 199,
-  "file": "199-veggies-for-the-dipping.md",
-  "title": "Veggies for the Dipping",
+  "file": "199-top-ten-words-for-idols.md",
+  "title": "Top Ten Words for Idols",
+  "section": "Vayikra",
+  "parsha": "Kedoshim",
+  "words": 1106,
   "essays": [
-   "11353"
+   {
+    "id": "8198",
+    "title": "Top Ten Words for Idols",
+    "share": 0.83,
+    "entries": [
+     "idols-elilim-gilulim-shikutzim.md",
+     "mask-masveh-masechah-partzuf.md"
+    ]
+   }
   ],
-  "published_share": 0.95
+  "entries": [
+   "idols-elilim-gilulim-shikutzim.md",
+   "mask-masveh-masechah-partzuf.md"
+  ]
  },
  {
   "n": 200,
-  "file": "200-eating-cake.md",
-  "title": "Eating Cake",
+  "file": "200-now-and-forthwith.md",
+  "title": "Now and Forthwith!",
+  "section": "Vayikra",
+  "parsha": "Kedoshim",
+  "words": 1350,
   "essays": [
-   "11363"
+   {
+    "id": "7426",
+    "title": "Forthwith in the Fourth Dimension",
+    "share": 0.83,
+    "entries": [
+     "immediately-teikef-miyad-lealter-otyom.md"
+    ]
+   },
+   {
+    "id": "7409",
+    "title": "Elul 2: Now!",
+    "share": 0.89,
+    "entries": [
+     "now-atah-na-achshav.md"
+    ]
+   }
   ],
-  "published_share": 0.96
+  "entries": [
+   "immediately-teikef-miyad-lealter-otyom.md",
+   "now-atah-na-achshav.md"
+  ]
  },
  {
   "n": 201,
-  "file": "201-jumping-for-passover.md",
-  "title": "Jumping for Passover",
+  "file": "201-a-window-into-widows.md",
+  "title": "A Window into Widows",
+  "section": "Vayikra",
+  "parsha": "Emor",
+  "words": 3329,
   "essays": [
-   "7204",
-   "7218"
+   {
+    "id": "11816",
+    "title": "Behar/Bechukosai: A Window into Widows (Part 2/2)",
+    "share": 0.98,
+    "entries": [
+     "widow-almanah-alman-armalta.md"
+    ]
+   },
+   {
+    "id": "11817",
+    "title": "Emor: A Window into Widows (Part 1/2)",
+    "share": 0.98,
+    "entries": [
+     "widow-almanah-alman-armalta.md"
+    ]
+   }
   ],
-  "published_share": 0.81
+  "entries": [
+   "widow-almanah-alman-armalta.md"
+  ]
  },
  {
   "n": 202,
-  "file": "202-escape-from-patros.md",
-  "title": "Escape from Patros",
+  "file": "202-rose-by-another-name.md",
+  "title": "Rose by Another Name",
+  "section": "Vayikra",
+  "parsha": "Emor",
+  "words": 2428,
   "essays": [
-   "10890"
+   {
+    "id": "11391",
+    "title": "Emor: Rose by Another Name",
+    "share": 0.99,
+    "entries": [
+     "rose-shoshanah-chavatzeles-vered.md"
+    ]
+   }
   ],
-  "published_share": 0.96
+  "entries": [
+   "rose-shoshanah-chavatzeles-vered.md"
+  ]
  },
  {
   "n": 203,
-  "file": "203-defining-freedom.md",
-  "title": "Defining Freedom",
+  "file": "203-blemished-imperfections.md",
+  "title": "Blemished Imperfections",
+  "section": "Vayikra",
+  "parsha": "Emor",
+  "words": 2249,
   "essays": [
-   "7707"
+   {
+    "id": "8696",
+    "title": "Blemished Imperfections",
+    "share": 0.81,
+    "entries": [
+     "blemish-mum-pgam-simpon.md",
+     "nothing-hevel-rik-tohu-bohu.md"
+    ]
+   },
+   {
+    "id": "9138",
+    "title": "A Perfect Sacrifice",
+    "share": 0.77,
+    "entries": [
+     "blemish-mum-pgam-simpon.md",
+     "nothing-hevel-rik-tohu-bohu.md"
+    ]
+   }
   ],
-  "published_share": 0.7
+  "entries": [
+   "blemish-mum-pgam-simpon.md",
+   "nothing-hevel-rik-tohu-bohu.md"
+  ]
  },
  {
   "n": 204,
-  "file": "204-telling-the-story-part-1-2.md",
-  "title": "Telling the Story (Part 1/2)",
+  "file": "204-trends-in-time.md",
+  "title": "Trends in Time",
+  "section": "Vayikra",
+  "parsha": "Emor",
+  "words": 1081,
   "essays": [
-   "8217",
-   "8272"
+   {
+    "id": "7396",
+    "title": "Elul 1: Trends in Time",
+    "share": 0.82,
+    "entries": [
+     "time-eit-zman-moed-shaah.md"
+    ]
+   }
   ],
-  "published_share": 0.89
+  "entries": [
+   "time-eit-zman-moed-shaah.md"
+  ]
  },
  {
   "n": 205,
-  "file": "205-telling-the-story-part-2-2.md",
-  "title": "Telling the Story (Part 2/2)",
+  "file": "205-getting-stoned.md",
+  "title": "Getting Stoned",
+  "section": "Vayikra",
+  "parsha": "Emor",
+  "words": 3569,
   "essays": [
-   "8217",
-   "9581"
+   {
+    "id": "10935",
+    "title": "Emor: Getting Stoned",
+    "share": 0.99,
+    "entries": [
+     "stoning-sekilah-regimah.md"
+    ]
+   }
   ],
-  "published_share": 0.8
+  "entries": [
+   "stoning-sekilah-regimah.md"
+  ]
  },
  {
   "n": 206,
-  "file": "206-putting-pressure.md",
-  "title": "Putting Pressure",
+  "file": "206-the-seventh-year-of-slipping-away.md",
+  "title": "The Seventh Year of Slipping Away",
+  "section": "Vayikra",
+  "parsha": "Behar",
+  "words": 5227,
   "essays": [
-   "9658",
-   "9682",
-   "8980"
+   {
+    "id": "9694",
+    "title": "The Year of Seven (Part 2 of 2)",
+    "share": 0.93,
+    "entries": [
+     "return-shuv-chazarah.md",
+     "seven-sheva-shavua-shevuah.md"
+    ]
+   },
+   {
+    "id": "9682",
+    "title": "The Year of Slipping Away (Part 1 of 2)",
+    "share": 0.95,
+    "entries": [
+     "pressure-lachatz-dchak-negisah-atz.md",
+     "slipping-off-shemittah-chalitzah-shalaf.md"
+    ]
+   }
   ],
-  "published_share": 0.79
+  "entries": [
+   "pressure-lachatz-dchak-negisah-atz.md",
+   "return-shuv-chazarah.md",
+   "seven-sheva-shavua-shevuah.md",
+   "slipping-off-shemittah-chalitzah-shalaf.md"
+  ]
  },
  {
   "n": 207,
-  "file": "207-sing-and-song.md",
-  "title": "Sing and Song",
+  "file": "207-trusting-and-relying-on-g-d.md",
+  "title": "Trusting and Relying on G-d",
+  "section": "Vayikra",
+  "parsha": "Behar",
+  "words": 1678,
   "essays": [
-   "8681"
+   {
+    "id": "8836",
+    "title": "Trusting and Relying on G-d",
+    "share": 0.89,
+    "entries": [
+     "staff-mateh-shevet-makel.md",
+     "trust-bitachon-machseh-tikvah.md"
+    ]
+   },
+   {
+    "id": "9877",
+    "title": "Trusting and Relying on G-d",
+    "share": 0.89,
+    "entries": [
+     "staff-mateh-shevet-makel.md",
+     "trust-bitachon-machseh-tikvah.md"
+    ]
+   }
   ],
-  "published_share": 0.87
+  "entries": [
+   "staff-mateh-shevet-makel.md",
+   "trust-bitachon-machseh-tikvah.md"
+  ]
  },
  {
   "n": 208,
-  "file": "208-the-sickle-and-the-exile.md",
-  "title": "The Sickle and the Exile",
+  "file": "208-divorce-bills-and-other-documents.md",
+  "title": "Divorce Bills and other Documents",
+  "section": "Vayikra",
+  "parsha": "Behar",
+  "words": 2337,
   "essays": [
-   "9153"
+   {
+    "id": "8704",
+    "title": "Divorce Bills and Other Documents",
+    "share": 0.9,
+    "entries": [
+     "document-gett-shtar.md"
+    ]
+   }
   ],
-  "published_share": 0.76
+  "entries": [
+   "document-gett-shtar.md"
+  ]
  },
  {
   "n": 209,
-  "file": "209-when-just-counting-doesnt-count.md",
-  "title": "When Just Counting Doesn’t Count",
+  "file": "209-settled-citizens.md",
+  "title": "Settled Citizens",
+  "section": "Vayikra",
+  "parsha": "Behar",
+  "words": 2215,
   "essays": [
-   "7251"
+   {
+    "id": "9199",
+    "title": "Behar - Bechukotai: Settled Citizens",
+    "share": 0.87,
+    "entries": [
+     "resident-ger-toshav-ezrach.md"
+    ]
+   }
   ],
-  "published_share": 0.65
+  "entries": [
+   "resident-ger-toshav-ezrach.md"
+  ]
  },
  {
   "n": 210,
-  "file": "210-boys-and-bars.md",
-  "title": "Boys and Bars",
+  "file": "210-the-poor-and-unfortunate.md",
+  "title": "The Poor and Unfortunate",
+  "section": "Vayikra",
+  "parsha": "Behar",
+  "words": 1559,
   "essays": [
-   "8257"
+   {
+    "id": "8245",
+    "title": "The Poor and Unfortunate",
+    "share": 0.92,
+    "entries": [
+     "poor-ani-evyon-dal-rash.md"
+    ]
+   }
   ],
-  "published_share": 0.87
+  "entries": [
+   "poor-ani-evyon-dal-rash.md"
+  ]
  },
  {
   "n": 211,
-  "file": "211-the-shiny-month.md",
-  "title": "The Shiny Month",
+  "file": "211-peace-and-quiet.md",
+  "title": "Peace and Quiet",
+  "section": "Vayikra",
+  "parsha": "Bechukosai",
+  "words": 1565,
   "essays": [
-   "11411",
-   "11123",
-   "10884"
+   {
+    "id": "8816",
+    "title": "Peace and Quiet",
+    "share": 0.94,
+    "entries": [
+     "peace-shalom-sheket-shalvah.md"
+    ]
+   }
   ],
-  "published_share": 0.79
+  "entries": [
+   "peace-shalom-sheket-shalvah.md"
+  ]
  },
  {
   "n": 212,
-  "file": "212-bamidbar-out-in-the-wild.md",
-  "title": "Bamidbar: Out in the Wild",
+  "file": "212-coincidence-or-happenstance.md",
+  "title": "Coincidence or Happenstance?",
+  "section": "Vayikra",
+  "parsha": "Bechukosai",
+  "words": 2922,
   "essays": [
-   "10940"
+   {
+    "id": "11822",
+    "title": "Naso: Coincidence or Happenstance? (Part 2/2)",
+    "share": 0.99,
+    "entries": [
+     "chance-mikreh-keri-teunah-irua.md"
+    ]
+   },
+   {
+    "id": "11821",
+    "title": "Bamidbar/Shavuot: Coincidence or Happenstance? (Part 1/2)",
+    "share": 0.99,
+    "entries": [
+     "chance-mikreh-keri-teunah-irua.md"
+    ]
+   }
   ],
-  "published_share": 0.99
+  "entries": [
+   "chance-mikreh-keri-teunah-irua.md"
+  ]
  },
  {
   "n": 213,
-  "file": "213-a-word-for-a-thought.md",
-  "title": "A Word for a Thought",
+  "file": "213-all-about-money.md",
+  "title": "All About Money",
+  "section": "Vayikra",
+  "parsha": "Bechukosai",
+  "words": 2753,
   "essays": [
-   "7082"
+   {
+    "id": "11394",
+    "title": "Bechukosai: All About Money",
+    "share": 0.98,
+    "entries": [
+     "money-mammon-damim-maos.md",
+     "property-rechush-mikneh-nechasim.md"
+    ]
+   }
   ],
-  "published_share": 0.68
+  "entries": [
+   "money-mammon-damim-maos.md",
+   "property-rechush-mikneh-nechasim.md"
+  ]
  },
  {
   "n": 214,
-  "file": "214-strange-aliens.md",
-  "title": "Strange Aliens",
+  "file": "214-words-of-redemption.md",
+  "title": "Words of Redemption",
+  "section": "Vayikra",
+  "parsha": "Bechukosai",
+  "words": 1063,
   "essays": [
-   "9192"
+   {
+    "id": "7742",
+    "title": "Words of Redemption",
+    "share": 0.74,
+    "entries": [
+     "redemption-geulah-pidyon.md"
+    ]
+   }
   ],
-  "published_share": 0.37
+  "entries": [
+   "redemption-geulah-pidyon.md"
+  ]
  },
  {
   "n": 215,
-  "file": "215-on-clouds.md",
-  "title": "On Clouds",
+  "file": "215-the-old-switcheroo.md",
+  "title": "The Old Switcheroo",
+  "section": "Vayikra",
+  "parsha": "Bechukosai",
+  "words": 1371,
   "essays": [
-   "8287"
+   {
+    "id": "8714",
+    "title": "Old Switcheroo",
+    "share": 0.9,
+    "entries": [
+     "exchange-temurah-chalifah.md"
+    ]
+   }
   ],
-  "published_share": 0.8
+  "entries": [
+   "exchange-temurah-chalifah.md"
+  ]
  },
  {
   "n": 216,
-  "file": "216-razors-edge.md",
-  "title": "Razor’s Edge",
+  "file": "216-veggies-for-the-dipping.md",
+  "title": "Veggies for the Dipping",
+  "section": "Vayikra",
+  "parsha": "Pesach",
+  "words": 2254,
   "essays": [
-   "7768"
+   {
+    "id": "11353",
+    "title": "Metzorah/Shabbos HaGadol: Veggies for the Dipping",
+    "share": 0.96,
+    "entries": [
+     "linen-sheish-bahd-butz-pishtim.md",
+     "vegetable-yerek-yarok-karpas.md"
+    ]
+   }
   ],
-  "published_share": 0.72
+  "entries": [
+   "linen-sheish-bahd-butz-pishtim.md",
+   "vegetable-yerek-yarok-karpas.md"
+  ]
  },
  {
   "n": 217,
-  "file": "217-a-crown-is-a-crown.md",
-  "title": "A Crown is a Crown",
+  "file": "217-eating-cake.md",
+  "title": "Eating Cake",
+  "section": "Vayikra",
+  "parsha": "Pesach",
+  "words": 2071,
   "essays": [
-   "6876"
+   {
+    "id": "11363",
+    "title": "Pesach: Eating Cake",
+    "share": 0.97,
+    "entries": [
+     "bread-lechem-kikar-challah-pat.md",
+     "cake-ugah-chararah-gluskos.md"
+    ]
+   }
   ],
-  "published_share": 0.44
+  "entries": [
+   "bread-lechem-kikar-challah-pat.md",
+   "cake-ugah-chararah-gluskos.md"
+  ]
  },
  {
   "n": 218,
-  "file": "218-a-variety-of-enemies.md",
-  "title": "A Variety of Enemies",
+  "file": "218-jumping-for-passover.md",
+  "title": "Jumping for Passover",
+  "section": "Vayikra",
+  "parsha": "Pesach",
+  "words": 1990,
   "essays": [
-   "6828",
-   "7779"
+   {
+    "id": "7204",
+    "title": "Jumping for Passover: Part 1",
+    "share": 0.93,
+    "entries": [
+     "jumping-pesach-dilug-kefitzah.md"
+    ]
+   },
+   {
+    "id": "7218",
+    "title": "Jumping for Passover: Part 2",
+    "share": 0.9,
+    "entries": [
+     "jumping-pesach-dilug-kefitzah.md"
+    ]
+   }
   ],
-  "published_share": 0.61
+  "entries": [
+   "jumping-pesach-dilug-kefitzah.md"
+  ]
  },
  {
   "n": 219,
-  "file": "219-running-away.md",
-  "title": "Running Away",
+  "file": "219-escape-from-patros.md",
+  "title": "Escape from Patros",
+  "section": "Vayikra",
+  "parsha": "Pesach",
+  "words": 2754,
   "essays": [
-   "7779",
-   "6828"
+   {
+    "id": "10890",
+    "title": "Tzav-Pesach: Escape from Patros",
+    "share": 0.99,
+    "entries": [
+     "egypt-mitzrayim-patros-rahav.md"
+    ]
+   }
   ],
-  "published_share": 0.97
+  "entries": [
+   "egypt-mitzrayim-patros-rahav.md"
+  ]
  },
  {
   "n": 220,
-  "file": "220-lift-wave.md",
-  "title": "Lift & Wave",
+  "file": "220-defining-freedom.md",
+  "title": "Defining Freedom",
+  "section": "Vayikra",
+  "parsha": "Pesach",
+  "words": 1663,
   "essays": [
-   "11422"
+   {
+    "id": "7707",
+    "title": "Defining Freedom",
+    "share": 0.84,
+    "entries": [
+     "freedom-cheirus-chofesh-dror.md"
+    ]
+   }
   ],
-  "published_share": 0.98
+  "entries": [
+   "freedom-cheirus-chofesh-dror.md"
+  ]
  },
  {
   "n": 221,
-  "file": "221-deleterious-desires.md",
-  "title": "Deleterious Desires",
+  "file": "221-telling-the-story-part-1-2.md",
+  "title": "Telling the Story (Part 1/2)",
+  "section": "Vayikra",
+  "parsha": "Pesach",
+  "words": 1356,
   "essays": [
-   "7292"
+   {
+    "id": "8217",
+    "title": "Pesach: Telling the Story",
+    "share": 0.42,
+    "entries": [
+     "border-gevul-techum-meitzar-sfar.md",
+     "counting-sefirah-mispar-minyan.md",
+     "telling-haggadah-sippur.md"
+    ]
+   }
   ],
-  "published_share": 0.78
+  "entries": [
+   "border-gevul-techum-meitzar-sfar.md",
+   "counting-sefirah-mispar-minyan.md",
+   "telling-haggadah-sippur.md"
+  ]
  },
  {
   "n": 222,
-  "file": "222-chew-that.md",
-  "title": "Chew That",
+  "file": "222-telling-the-story-part-2-2.md",
+  "title": "Telling the Story (Part 2/2)",
+  "section": "Vayikra",
+  "parsha": "Pesach",
+  "words": 1500,
   "essays": [
-   "11831"
+   {
+    "id": "8217",
+    "title": "Pesach: Telling the Story",
+    "share": 0.42,
+    "entries": [
+     "border-gevul-techum-meitzar-sfar.md",
+     "counting-sefirah-mispar-minyan.md",
+     "telling-haggadah-sippur.md"
+    ]
+   }
   ],
-  "published_share": 1.0
+  "entries": [
+   "border-gevul-techum-meitzar-sfar.md",
+   "counting-sefirah-mispar-minyan.md",
+   "telling-haggadah-sippur.md"
+  ]
  },
  {
   "n": 223,
-  "file": "223-a-coriander-conundrum.md",
-  "title": "A Coriander Conundrum",
+  "file": "223-putting-pressure.md",
+  "title": "Putting Pressure",
+  "section": "Vayikra",
+  "parsha": "Pesach",
+  "words": 2119,
   "essays": [
-   "8735",
-   "8439"
+   {
+    "id": "9658",
+    "title": "Pesach: Putting Pressure",
+    "share": 0.79,
+    "entries": [
+     "pressure-lachatz-dchak-negisah-atz.md"
+    ]
+   }
   ],
-  "published_share": 0.91
+  "entries": [
+   "pressure-lachatz-dchak-negisah-atz.md"
+  ]
  },
  {
   "n": 224,
-  "file": "224-fishy-words.md",
-  "title": "Fishy Words",
+  "file": "224-sing-and-song.md",
+  "title": "Sing and Song",
+  "section": "Vayikra",
+  "parsha": "Pesach",
+  "words": 2121,
   "essays": [
-   "9228",
-   "9234"
+   {
+    "id": "8681",
+    "title": "PESACH: Sing and Song",
+    "share": 0.91,
+    "entries": [
+     "song-shirah-zimrah-mizmor.md"
+    ]
+   }
   ],
-  "published_share": 0.84
+  "entries": [
+   "song-shirah-zimrah-mizmor.md"
+  ]
  },
  {
   "n": 225,
-  "file": "225-message-on-a-pole.md",
-  "title": "Message on a Pole",
+  "file": "225-the-sickle-and-the-exile.md",
+  "title": "The Sickle and the Exile",
+  "section": "Vayikra",
+  "parsha": "Sefiras HaOmer",
+  "words": 1509,
   "essays": [
-   "11433"
+   {
+    "id": "9153",
+    "title": "Pesach: The Sickle and the Exile",
+    "share": 0.83,
+    "entries": [
+     "sickle-chermesh-magal.md"
+    ]
+   }
   ],
-  "published_share": 0.93
+  "entries": [
+   "sickle-chermesh-magal.md"
+  ]
  },
  {
   "n": 226,
-  "file": "226-of-corpses-and-carcasses.md",
-  "title": "Of Corpses and Carcasses",
+  "file": "226-when-just-counting-doesnt-count.md",
+  "title": "When Just Counting Doesn’t Count",
+  "section": "Vayikra",
+  "parsha": "Sefiras HaOmer",
+  "words": 1306,
   "essays": [
-   "7788"
+   {
+    "id": "7251",
+    "title": "When Just Counting Doesn't Count",
+    "share": 0.81,
+    "entries": [
+     "counting-sefirah-mispar-minyan.md",
+     "haircut-giluach-gizah-galav-sapar.md"
+    ]
+   }
   ],
-  "published_share": 0.73
+  "entries": [
+   "counting-sefirah-mispar-minyan.md",
+   "haircut-giluach-gizah-galav-sapar.md"
+  ]
  },
  {
   "n": 227,
-  "file": "227-learning-the-ropes.md",
-  "title": "Learning the Ropes",
+  "file": "227-boys-and-bars.md",
+  "title": "Boys and Bars",
+  "section": "Vayikra",
+  "parsha": "Sefiras HaOmer",
+  "words": 1238,
   "essays": [
-   "10974"
+   {
+    "id": "8257",
+    "title": "Boys and Bars",
+    "share": 0.88,
+    "entries": [
+     "son-ben-bar.md"
+    ]
+   }
   ],
-  "published_share": 0.98
+  "entries": [
+   "son-ben-bar.md"
+  ]
  },
  {
   "n": 228,
-  "file": "228-spy-versus-spy.md",
-  "title": "Spy versus Spy",
+  "file": "228-the-shiny-month.md",
+  "title": "The Shiny Month",
+  "section": "Vayikra",
+  "parsha": "Sefiras HaOmer",
+  "words": 2863,
   "essays": [
-   "7302"
+   {
+    "id": "11411",
+    "title": "The Shiny Month",
+    "share": 0.96,
+    "entries": [
+     "second-month-ziv-iyar.md"
+    ]
+   }
   ],
-  "published_share": 0.5
+  "entries": [
+   "second-month-ziv-iyar.md"
+  ]
  },
  {
   "n": 229,
-  "file": "229-kneading-the-dough.md",
-  "title": "Kneading the Dough",
+  "file": "229-bamidbar-out-in-the-wild.md",
+  "title": "Bamidbar: Out in the Wild",
+  "section": "Bamidbar",
+  "parsha": "Bamidbar",
+  "words": 2266,
   "essays": [
-   "8744"
+   {
+    "id": "10940",
+    "title": "Bamidbar: Out in the Wild",
+    "share": 0.98,
+    "entries": [
+     "boats-oniah-sefinah-rafsodah.md",
+     "speech-dibbur-amirah.md",
+     "wilderness-midbar-aravah-tziyah.md"
+    ]
+   }
   ],
-  "published_share": 0.69
+  "entries": [
+   "boats-oniah-sefinah-rafsodah.md",
+   "speech-dibbur-amirah.md",
+   "wilderness-midbar-aravah-tziyah.md"
+  ]
  },
  {
   "n": 230,
-  "file": "230-growing-the-fringes.md",
-  "title": "Growing the Fringes",
+  "file": "230-a-word-for-a-thought.md",
+  "title": "A Word for a Thought",
+  "section": "Bamidbar",
+  "parsha": "Bamidbar",
+  "words": 676,
   "essays": [
-   "11856",
-   "11857"
+   {
+    "id": "7082",
+    "title": "A Word for a Thought",
+    "share": 0.75,
+    "entries": [
+     "thought-machshavah-hirhur-raayon.md"
+    ]
+   }
   ],
-  "published_share": 0.98
+  "entries": [
+   "thought-machshavah-hirhur-raayon.md"
+  ]
  },
  {
   "n": 231,
-  "file": "231-revolting-revolutions.md",
-  "title": "Revolting Revolutions",
+  "file": "231-strange-aliens.md",
+  "title": "Strange Aliens",
+  "section": "Bamidbar",
+  "parsha": "Bamidbar",
+  "words": 1676,
   "essays": [
-   "9245"
+   {
+    "id": "9192",
+    "title": "Strange Aliens",
+    "share": 0.86,
+    "entries": [
+     "stranger-zar-nachri-hedyot.md"
+    ]
+   }
   ],
-  "published_share": 0.79
+  "entries": [
+   "stranger-zar-nachri-hedyot.md"
+  ]
  },
  {
   "n": 232,
-  "file": "232-the-land-down-under.md",
-  "title": "The Land Down Under",
-  "essays": [
-   "7313"
-  ],
-  "published_share": 0.81
+  "file": "232-my-husband-my-man.md",
+  "title": "My Husband, My Man",
+  "section": "Bamidbar",
+  "parsha": "Bamidbar",
+  "words": 2354,
+  "essays": [],
+  "entries": []
  },
  {
   "n": 233,
-  "file": "233-names-of-the-underworld.md",
-  "title": "Names of the Underworld",
+  "file": "233-on-clouds.md",
+  "title": "On Clouds",
+  "section": "Bamidbar",
+  "parsha": "Naso",
+  "words": 1417,
   "essays": [
-   "8304"
+   {
+    "id": "8287",
+    "title": "On Clouds",
+    "share": 0.79,
+    "entries": [
+     "breast-shadayim-dadim-atinim.md",
+     "clouds-anan-av-eid-nasi-chaziz.md"
+    ]
+   }
   ],
-  "published_share": 0.83
+  "entries": [
+   "breast-shadayim-dadim-atinim.md",
+   "clouds-anan-av-eid-nasi-chaziz.md"
+  ]
  },
  {
   "n": 234,
-  "file": "234-all-about-hair.md",
-  "title": "All About Hair",
+  "file": "234-razors-edge.md",
+  "title": "Razor’s Edge",
+  "section": "Bamidbar",
+  "parsha": "Naso",
+  "words": 685,
   "essays": [
-   "8754"
+   {
+    "id": "7768",
+    "title": "Razor's Edge",
+    "share": 0.75,
+    "entries": [
+     "razor-taar-morah.md"
+    ]
+   }
   ],
-  "published_share": 0.72
+  "entries": [
+   "razor-taar-morah.md"
+  ]
  },
  {
   "n": 235,
-  "file": "235-the-one-and-only.md",
-  "title": "The One and Only",
+  "file": "235-a-crown-is-a-crown.md",
+  "title": "A Crown is a Crown",
+  "section": "Bamidbar",
+  "parsha": "Naso",
+  "words": 1597,
   "essays": [
-   "10975"
+   {
+    "id": "6876",
+    "title": "A Crown is a Crown",
+    "share": 0.89,
+    "entries": [
+     "crown-keter-atarah-nezer.md"
+    ]
+   }
   ],
-  "published_share": 0.99
+  "entries": [
+   "crown-keter-atarah-nezer.md"
+  ]
  },
  {
   "n": 236,
-  "file": "236-out-in-public.md",
-  "title": "Out in Public",
+  "file": "236-a-variety-of-enemies.md",
+  "title": "A Variety of Enemies",
+  "section": "Bamidbar",
+  "parsha": "Naso",
+  "words": 1017,
   "essays": [
-   "11449"
+   {
+    "id": "6828",
+    "title": "A Variety of Enemies",
+    "share": 0.92,
+    "entries": [
+     "enemy-oyev-soneh-tzar.md"
+    ]
+   }
   ],
-  "published_share": 0.97
+  "entries": [
+   "enemy-oyev-soneh-tzar.md"
+  ]
  },
  {
   "n": 237,
-  "file": "237-laws-and-orders.md",
-  "title": "Laws and Orders",
+  "file": "237-running-away.md",
+  "title": "Running Away",
+  "section": "Bamidbar",
+  "parsha": "Naso",
+  "words": 1024,
   "essays": [
-   "8315"
+   {
+    "id": "7779",
+    "title": "Running Away",
+    "share": 0.86,
+    "entries": [
+     "fleeing-nas-boreach.md"
+    ]
+   }
   ],
-  "published_share": 0.87
+  "entries": [
+   "fleeing-nas-boreach.md"
+  ]
  },
  {
   "n": 238,
-  "file": "238-let-them-eat-bread.md",
-  "title": "Let Them Eat Bread",
+  "file": "238-lift-wave.md",
+  "title": "Lift & Wave",
+  "section": "Bamidbar",
+  "parsha": "Behaloscha",
+  "words": 2639,
   "essays": [
-   "7815"
+   {
+    "id": "11422",
+    "title": "Behaaloscha: Lift & Wave",
+    "share": 0.99,
+    "entries": [
+     "waving-terumah-tenufah.md"
+    ]
+   }
   ],
-  "published_share": 0.79
+  "entries": [
+   "waving-terumah-tenufah.md"
+  ]
  },
  {
   "n": 239,
-  "file": "239-the-right-site.md",
-  "title": "The Right Site",
+  "file": "239-deleterious-desires.md",
+  "title": "Deleterious Desires",
+  "section": "Bamidbar",
+  "parsha": "Behaloscha",
+  "words": 1321,
   "essays": [
-   "10994"
+   {
+    "id": "7292",
+    "title": "Deleterious Desires",
+    "share": 0.93,
+    "entries": [
+     "desire-taavah-chemdah.md"
+    ]
+   }
   ],
-  "published_share": 0.99
+  "entries": [
+   "desire-taavah-chemdah.md"
+  ]
  },
  {
   "n": 240,
-  "file": "240-words-for-war.md",
-  "title": "Words for War",
+  "file": "240-chew-that.md",
+  "title": "Chew That",
+  "section": "Bamidbar",
+  "parsha": "Behaloscha",
+  "words": 2294,
   "essays": [
-   "11889"
+   {
+    "id": "11831",
+    "title": "Behaaloscha: Chew That",
+    "share": 1.0,
+    "entries": [
+     "chew-koses-loes.md"
+    ]
+   }
   ],
-  "published_share": 0.93
+  "entries": [
+   "chew-koses-loes.md"
+  ]
  },
  {
   "n": 241,
-  "file": "241-biblical-refuseniks.md",
-  "title": "Biblical Refuseniks",
+  "file": "241-a-coriander-conundrum.md",
+  "title": "A Coriander Conundrum",
+  "section": "Bamidbar",
+  "parsha": "Behaloscha",
+  "words": 1273,
   "essays": [
-   "9254"
+   {
+    "id": "8735",
+    "title": "A Coriander Conundrum",
+    "share": 0.89,
+    "entries": [
+     "coriander-gad-kusbarta.md"
+    ]
+   }
   ],
-  "published_share": 0.8
+  "entries": [
+   "coriander-gad-kusbarta.md"
+  ]
  },
  {
   "n": 242,
-  "file": "242-slithering-serpents-and-sea-snakes.md",
-  "title": "Slithering Serpents and Sea Snakes",
+  "file": "242-fishy-words.md",
+  "title": "Fishy Words",
+  "section": "Bamidbar",
+  "parsha": "Behaloscha",
+  "words": 3378,
   "essays": [
-   "7321",
-   "7341"
+   {
+    "id": "9228",
+    "title": "Fishy Words (Part 1/2)",
+    "share": 0.83,
+    "entries": [
+     "fear-eimah-pachad-yirah-daagah.md",
+     "fish-dag-dagah.md",
+     "food-ochel-shever-tevuah-dagan.md"
+    ]
+   },
+   {
+    "id": "9234",
+    "title": "Fun with Fish (Part 2/2)",
+    "share": 0.89,
+    "entries": [
+     "fish-nun-kavra-shibuta.md",
+     "snake-nachash-saraph-tanin-peten.md"
+    ]
+   }
   ],
-  "published_share": 0.73
+  "entries": [
+   "fear-eimah-pachad-yirah-daagah.md",
+   "fish-dag-dagah.md",
+   "fish-nun-kavra-shibuta.md",
+   "food-ochel-shever-tevuah-dagan.md",
+   "snake-nachash-saraph-tanin-peten.md"
+  ]
  },
  {
   "n": 243,
-  "file": "243-lick-it-up.md",
-  "title": "Lick It Up",
+  "file": "243-message-on-a-pole.md",
+  "title": "Message on a Pole",
+  "section": "Bamidbar",
+  "parsha": "Shelach",
+  "words": 3126,
   "essays": [
-   "11448",
-   "8584"
+   {
+    "id": "11433",
+    "title": "Shelach: Message on a Pole",
+    "share": 0.99,
+    "entries": [
+     "pole-mot-bad-neis-toren-shapud.md"
+    ]
+   }
   ],
-  "published_share": 1.0
+  "entries": [
+   "pole-mot-bad-neis-toren-shapud.md"
+  ]
  },
  {
   "n": 244,
-  "file": "244-balaams-numa.md",
-  "title": "Balaam’s Numa",
+  "file": "244-of-corpses-and-carcasses.md",
+  "title": "Of Corpses and Carcasses",
+  "section": "Bamidbar",
+  "parsha": "Shelach",
+  "words": 1046,
   "essays": [
-   "9266"
+   {
+    "id": "7788",
+    "title": "Of Corpses and Carcasses",
+    "share": 0.77,
+    "entries": [
+     "corpse-peger-neveilah-challal.md"
+    ]
+   }
   ],
-  "published_share": 0.8
+  "entries": [
+   "corpse-peger-neveilah-challal.md"
+  ]
  },
  {
   "n": 245,
-  "file": "245-an-asinine-essay.md",
-  "title": "An Asinine Essay",
+  "file": "245-learning-the-ropes.md",
+  "title": "Learning the Ropes",
+  "section": "Bamidbar",
+  "parsha": "Shelach",
+  "words": 2006,
   "essays": [
-   "11871",
-   "11869",
-   "8933"
+   {
+    "id": "10974",
+    "title": "Shelach: Learning the Ropes",
+    "share": 0.98,
+    "entries": [
+     "fringes-tzitzis-gedilim-petil.md",
+     "lottery-goral-pur-payis-cholesh.md",
+     "rope-chevel-chut-avot.md",
+     "wound-petza-chaburah-chovel.md"
+    ]
+   }
   ],
-  "published_share": 0.99
+  "entries": [
+   "fringes-tzitzis-gedilim-petil.md",
+   "lottery-goral-pur-payis-cholesh.md",
+   "rope-chevel-chut-avot.md",
+   "wound-petza-chaburah-chovel.md"
+  ]
  },
  {
   "n": 246,
-  "file": "246-are-you-really-with-me.md",
-  "title": "Are You Really “With Me”?",
+  "file": "246-spy-versus-spy.md",
+  "title": "Spy versus Spy",
+  "section": "Bamidbar",
+  "parsha": "Shelach",
+  "words": 1360,
   "essays": [
-   "8323"
+   {
+    "id": "7302",
+    "title": "Spy versus Spy",
+    "share": 0.87,
+    "entries": [
+     "dig-karah-chafirah-chatzivah.md",
+     "shame-bushah-klimah-cherpah.md",
+     "spying-latur-leragel.md"
+    ]
+   }
   ],
-  "published_share": 0.78
+  "entries": [
+   "dig-karah-chafirah-chatzivah.md",
+   "shame-bushah-klimah-cherpah.md",
+   "spying-latur-leragel.md"
+  ]
  },
  {
   "n": 247,
-  "file": "247-muzzled-up.md",
-  "title": "Muzzled Up",
+  "file": "247-kneading-the-dough.md",
+  "title": "Kneading the Dough",
+  "section": "Bamidbar",
+  "parsha": "Shelach",
+  "words": 1509,
   "essays": [
-   "11006",
-   "11613",
-   "11010"
+   {
+    "id": "8744",
+    "title": "Kneading the Dough",
+    "share": 0.87,
+    "entries": [
+     "dough-arisah-batzek-issah.md"
+    ]
+   }
   ],
-  "published_share": 1.0
+  "entries": [
+   "dough-arisah-batzek-issah.md"
+  ]
  },
  {
   "n": 248,
-  "file": "248-foot-festivals.md",
-  "title": "Foot Festivals",
+  "file": "248-growing-the-fringes.md",
+  "title": "Growing the Fringes",
+  "section": "Bamidbar",
+  "parsha": "Shelach",
+  "words": 3056,
   "essays": [
-   "7828"
+   {
+    "id": "11856",
+    "title": "Korach: Growing the Fringes (Part 2/2)",
+    "share": 0.97,
+    "entries": [
+     "fringes-tzitzis-gedilim-petil.md",
+     "garment-aderet-glima-itztala.md"
+    ]
+   },
+   {
+    "id": "11857",
+    "title": "Shelach: Growing the Fringes (Part 1/2)",
+    "share": 0.96,
+    "entries": [
+     "fringes-tzitzis-gedilim-petil.md"
+    ]
+   }
   ],
-  "published_share": 0.73
+  "entries": [
+   "fringes-tzitzis-gedilim-petil.md",
+   "garment-aderet-glima-itztala.md"
+  ]
  },
  {
   "n": 249,
-  "file": "249-a-collection-of-curses.md",
-  "title": "A Collection of Curses",
+  "file": "249-revolting-revolutions.md",
+  "title": "Revolting Revolutions",
+  "section": "Bamidbar",
+  "parsha": "Korach",
+  "words": 1758,
   "essays": [
-   "7049"
+   {
+    "id": "9245",
+    "title": "Revolting Revolutions",
+    "share": 0.88,
+    "entries": [
+     "rebellion-pesha-meridah-meri.md",
+     "sin-chet-avon-pesha.md"
+    ]
+   }
   ],
-  "published_share": 0.64
+  "entries": [
+   "rebellion-pesha-meridah-meri.md",
+   "sin-chet-avon-pesha.md"
+  ]
  },
  {
   "n": 250,
-  "file": "250-performance-platforms.md",
-  "title": "Performance Platforms",
+  "file": "250-the-land-down-under.md",
+  "title": "The Land Down Under",
+  "section": "Bamidbar",
+  "parsha": "Korach",
+  "words": 1005,
   "essays": [
-   "11462",
-   "11666"
+   {
+    "id": "7313",
+    "title": "The Land Down Under",
+    "share": 0.87,
+    "entries": [
+     "land-eretz-adamah.md"
+    ]
+   }
   ],
-  "published_share": 0.99
+  "entries": [
+   "land-eretz-adamah.md"
+  ]
  },
  {
   "n": 251,
-  "file": "251-piercing-spears.md",
-  "title": "Piercing Spears",
+  "file": "251-names-of-the-underworld.md",
+  "title": "Names of the Underworld",
+  "section": "Bamidbar",
+  "parsha": "Korach",
+  "words": 1705,
   "essays": [
-   "11010",
-   "11006",
-   "9795"
+   {
+    "id": "8304",
+    "title": "Names of the Underworld",
+    "share": 0.91,
+    "entries": [
+     "names-shlomo-koheles-agur-lemuel.md",
+     "underworld-gehinnom-sheol-shachat-avadon.md"
+    ]
+   }
   ],
-  "published_share": 0.98
+  "entries": [
+   "names-shlomo-koheles-agur-lemuel.md",
+   "underworld-gehinnom-sheol-shachat-avadon.md"
+  ]
  },
  {
   "n": 252,
-  "file": "252-a-heritage-of-inheritance.md",
-  "title": "A Heritage of Inheritance",
+  "file": "252-all-about-hair.md",
+  "title": "All About Hair",
+  "section": "Bamidbar",
+  "parsha": "Korach",
+  "words": 1562,
   "essays": [
-   "7839"
+   {
+    "id": "8754",
+    "title": "All About Hair",
+    "share": 0.83,
+    "entries": [
+     "hair-saar-mazia-binta-nimah.md"
+    ]
+   }
   ],
-  "published_share": 0.61
+  "entries": [
+   "hair-saar-mazia-binta-nimah.md"
+  ]
  },
  {
   "n": 253,
-  "file": "253-bovine-words-cows-and-cowboys.md",
-  "title": "Bovine Words: Cows and Cowboys",
+  "file": "253-the-one-and-only.md",
+  "title": "The One and Only",
+  "section": "Bamidbar",
+  "parsha": "Korach",
+  "words": 2565,
   "essays": [
-   "8333",
-   "8181",
-   "8467"
+   {
+    "id": "10975",
+    "title": "Korach: The One and Only",
+    "share": 0.98,
+    "entries": [
+     "one-echad-achad-chad.md"
+    ]
+   }
   ],
-  "published_share": 0.81
+  "entries": [
+   "one-echad-achad-chad.md"
+  ]
  },
  {
   "n": 254,
-  "file": "254-flour-power.md",
-  "title": "Flour Power",
+  "file": "254-out-in-public.md",
+  "title": "Out in Public",
+  "section": "Bamidbar",
+  "parsha": "Chukas",
+  "words": 2248,
   "essays": [
-   "9275",
-   "10020",
-   "8846"
+   {
+    "id": "11449",
+    "title": "Chukas: Out in Public",
+    "share": 0.99,
+    "entries": [
+     "egypt-mitzrayim-patros-rahav.md",
+     "public-rabim-tzibbur-parhessya-pumbi.md"
+    ]
+   }
   ],
-  "published_share": 0.92
+  "entries": [
+   "egypt-mitzrayim-patros-rahav.md",
+   "public-rabim-tzibbur-parhessya-pumbi.md"
+  ]
  },
  {
   "n": 255,
-  "file": "255-united-we-fast.md",
-  "title": "United We Fast",
+  "file": "255-laws-and-orders.md",
+  "title": "Laws and Orders",
+  "section": "Bamidbar",
+  "parsha": "Chukas",
+  "words": 1749,
   "essays": [
-   "7332"
+   {
+    "id": "8315",
+    "title": "Laws and Orders",
+    "share": 0.92,
+    "entries": [
+     "law-din-mishpat-chok-dat.md"
+    ]
+   }
   ],
-  "published_share": 0.63
+  "entries": [
+   "law-din-mishpat-chok-dat.md"
+  ]
  },
  {
   "n": 256,
-  "file": "256-tribesmen-stick-together.md",
-  "title": "Tribesmen Stick Together",
+  "file": "256-let-them-eat-bread.md",
+  "title": "Let Them Eat Bread",
+  "section": "Bamidbar",
+  "parsha": "Chukas",
+  "words": 1024,
   "essays": [
-   "7357"
+   {
+    "id": "7815",
+    "title": "Let Them Eat Bread",
+    "share": 0.87,
+    "entries": [
+     "bread-lechem-kikar-challah-pat.md",
+     "plain-mishor-sharon-eil-kikar.md"
+    ]
+   }
   ],
-  "published_share": 0.73
+  "entries": [
+   "bread-lechem-kikar-challah-pat.md",
+   "plain-mishor-sharon-eil-kikar.md"
+  ]
  },
  {
   "n": 257,
-  "file": "257-of-oaths-and-promises.md",
-  "title": "Of Oaths and Promises",
+  "file": "257-the-right-site.md",
+  "title": "The Right Site",
+  "section": "Bamidbar",
+  "parsha": "Chukas",
+  "words": 2038,
   "essays": [
-   "6963"
+   {
+    "id": "10994",
+    "title": "Chukas: The Right Site",
+    "share": 0.98,
+    "entries": [
+     "place-makom-atar-duchta.md"
+    ]
+   }
   ],
-  "published_share": 0.91
+  "entries": [
+   "place-makom-atar-duchta.md"
+  ]
  },
  {
   "n": 258,
-  "file": "258-null-and-void.md",
-  "title": "Null and Void",
+  "file": "258-words-for-war.md",
+  "title": "Words for War",
+  "section": "Bamidbar",
+  "parsha": "Chukas",
+  "words": 2600,
   "essays": [
-   "7851"
+   {
+    "id": "11889",
+    "title": "Chukas: Words for War",
+    "share": 0.96,
+    "entries": [
+     "approach-gishah-kiruv.md",
+     "bread-lechem-kikar-challah-pat.md",
+     "war-milchamah-krav-pulmus.md"
+    ]
+   }
   ],
-  "published_share": 0.78
+  "entries": [
+   "approach-gishah-kiruv.md",
+   "bread-lechem-kikar-challah-pat.md",
+   "war-milchamah-krav-pulmus.md"
+  ]
  },
  {
   "n": 259,
-  "file": "259-welcome-to-rooster-city.md",
-  "title": "Welcome to Rooster City",
+  "file": "259-biblical-refuseniks.md",
+  "title": "Biblical Refuseniks",
+  "section": "Bamidbar",
+  "parsha": "Chukas",
+  "words": 1488,
   "essays": [
-   "9288"
+   {
+    "id": "9254",
+    "title": "Biblical Refuseniks",
+    "share": 0.81,
+    "entries": [
+     "refusal-miun-siruv.md"
+    ]
+   }
   ],
-  "published_share": 0.75
+  "entries": [
+   "refusal-miun-siruv.md"
+  ]
  },
  {
   "n": 260,
-  "file": "260-wheres-the-gold.md",
-  "title": "Where’s the Gold?",
+  "file": "260-slithering-serpents-and-sea-snakes.md",
+  "title": "Slithering Serpents and Sea Snakes",
+  "section": "Bamidbar",
+  "parsha": "Chukas",
+  "words": 1658,
   "essays": [
-   "8724"
+   {
+    "id": "7321",
+    "title": "Slithering Serpents and Sea Snakes - Part 1",
+    "share": 0.78,
+    "entries": [
+     "fish-nun-kavra-shibuta.md",
+     "snake-nachash-saraph-tanin-peten.md"
+    ]
+   },
+   {
+    "id": "7341",
+    "title": "Slithering Serpents and Sea Snakes - Part 2",
+    "share": 0.73,
+    "entries": [
+     "snake-nachash-saraph-tanin-peten.md"
+    ]
+   }
   ],
-  "published_share": 0.79
+  "entries": [
+   "fish-nun-kavra-shibuta.md",
+   "snake-nachash-saraph-tanin-peten.md"
+  ]
  },
  {
   "n": 261,
-  "file": "261-heavy-taxes-and-empty-pockets.md",
-  "title": "Heavy Taxes and Empty Pockets",
+  "file": "261-lick-it-up.md",
+  "title": "Lick It Up",
+  "section": "Bamidbar",
+  "parsha": "Balak",
+  "words": 2018,
   "essays": [
-   "8339"
+   {
+    "id": "11448",
+    "title": "Balak: Lick It Up",
+    "share": 0.98,
+    "entries": [
+     "licking-lechichah-lekikah.md"
+    ]
+   }
   ],
-  "published_share": 0.8
+  "entries": [
+   "licking-lechichah-lekikah.md"
+  ]
  },
  {
   "n": 262,
-  "file": "262-when-suddenly.md",
-  "title": "When Suddenly…",
+  "file": "262-balaams-numa.md",
+  "title": "Balaam’s Numa",
+  "section": "Bamidbar",
+  "parsha": "Balak",
+  "words": 1669,
   "essays": [
-   "8790"
+   {
+    "id": "9266",
+    "title": "Balaam's Numa",
+    "share": 0.85,
+    "entries": [
+     "speech-neum-yichaveh-yabia-siach.md"
+    ]
+   }
   ],
-  "published_share": 0.85
+  "entries": [
+   "speech-neum-yichaveh-yabia-siach.md"
+  ]
  },
  {
   "n": 263,
-  "file": "263-on-the-border.md",
-  "title": "On the Border",
+  "file": "263-an-asinine-essay.md",
+  "title": "An Asinine Essay",
+  "section": "Bamidbar",
+  "parsha": "Balak",
+  "words": 3778,
   "essays": [
-   "11471"
+   {
+    "id": "11871",
+    "title": "Balak: An Asinine Essay (Part 1/2)",
+    "share": 0.95,
+    "entries": [
+     "donkey-chamor-aton-pere-ayir-pered.md"
+    ]
+   },
+   {
+    "id": "11869",
+    "title": "Pinchas: An Asinine Essay (Part 2/2)",
+    "share": 0.99,
+    "entries": [
+     "donkey-chamor-aton-pere-ayir-pered.md"
+    ]
+   }
   ],
-  "published_share": 0.98
+  "entries": [
+   "donkey-chamor-aton-pere-ayir-pered.md"
+  ]
  },
  {
   "n": 264,
-  "file": "264-the-names-of-jericho.md",
-  "title": "The Names of Jericho",
+  "file": "264-are-you-really-with-me.md",
+  "title": "Are You Really “With Me”?",
+  "section": "Bamidbar",
+  "parsha": "Balak",
+  "words": 1555,
   "essays": [
-   "9795",
-   "10824",
-   "11010"
+   {
+    "id": "8323",
+    "title": "Are You Really \\\"With Me\\\"?",
+    "share": 0.88,
+    "entries": [
+     "with-es-im.md"
+    ]
+   }
   ],
-  "published_share": 0.8
+  "entries": [
+   "with-es-im.md"
+  ]
  },
  {
   "n": 265,
-  "file": "265-of-thorns-and-thistles.md",
-  "title": "Of Thorns and Thistles",
+  "file": "265-muzzled-up.md",
+  "title": "Muzzled Up",
+  "section": "Bamidbar",
+  "parsha": "Balak",
+  "words": 2718,
   "essays": [
-   "9809",
-   "10883"
+   {
+    "id": "11006",
+    "title": "Balak: Muzzled Up",
+    "share": 0.99,
+    "entries": [
+     "muzzle-resen-meteg-zemam.md",
+     "secret-sod-raz-tamir.md"
+    ]
+   }
   ],
-  "published_share": 0.94
+  "entries": [
+   "muzzle-resen-meteg-zemam.md",
+   "secret-sod-raz-tamir.md"
+  ]
  },
  {
   "n": 266,
-  "file": "266-the-shining-sea-of-galilee.md",
-  "title": "The Shining Sea of Galilee",
+  "file": "266-foot-festivals.md",
+  "title": "Foot Festivals",
+  "section": "Bamidbar",
+  "parsha": "Balak",
+  "words": 1004,
   "essays": [
-   "8351"
+   {
+    "id": "7828",
+    "title": "Foot Festivals",
+    "share": 0.8,
+    "entries": [
+     "foot-paam-regel.md"
+    ]
+   }
   ],
-  "published_share": 0.82
+  "entries": [
+   "foot-paam-regel.md"
+  ]
  },
  {
   "n": 267,
-  "file": "267-of-heretics-and-apostates.md",
-  "title": "Of Heretics and Apostates",
+  "file": "267-a-collection-of-curses.md",
+  "title": "A Collection of Curses",
+  "section": "Bamidbar",
+  "parsha": "Balak",
+  "words": 1102,
   "essays": [
-   "11438",
-   "10897"
+   {
+    "id": "7049",
+    "title": "Clarifying a Collection of Curses",
+    "share": 0.96,
+    "entries": [
+     "curse-arur-kelalah-allah-kavah.md"
+    ]
+   }
   ],
-  "published_share": 0.95
+  "entries": [
+   "curse-arur-kelalah-allah-kavah.md"
+  ]
  },
  {
   "n": 268,
-  "file": "268-just-say-no.md",
-  "title": "Just Say No",
+  "file": "268-performance-platforms.md",
+  "title": "Performance Platforms",
+  "section": "Bamidbar",
+  "parsha": "Pinchas",
+  "words": 2348,
   "essays": [
-   "10949"
+   {
+    "id": "11462",
+    "title": "Pinchas: Performance Platforms",
+    "share": 0.98,
+    "entries": [
+     "platform-kan-duchan-bimah-basis.md"
+    ]
+   }
   ],
-  "published_share": 1.0
+  "entries": [
+   "platform-kan-duchan-bimah-basis.md"
+  ]
  },
  {
   "n": 269,
-  "file": "269-brilliant-prohibitions.md",
-  "title": "Brilliant Prohibitions",
+  "file": "269-piercing-spears.md",
+  "title": "Piercing Spears",
+  "section": "Bamidbar",
+  "parsha": "Pinchas",
+  "words": 2072,
   "essays": [
-   "9211",
-   "10970"
+   {
+    "id": "11010",
+    "title": "Pinchas: Piercing Spears",
+    "share": 0.97,
+    "entries": [
+     "spear-romach-chanit-kidon.md"
+    ]
+   }
   ],
-  "published_share": 0.88
+  "entries": [
+   "spear-romach-chanit-kidon.md"
+  ]
  },
  {
   "n": 270,
-  "file": "270-of-demons-and-spirits.md",
-  "title": "Of Demons and Spirits",
-  "essays": [],
-  "published_share": 0.0
+  "file": "270-a-heritage-of-inheritance.md",
+  "title": "A Heritage of Inheritance",
+  "section": "Bamidbar",
+  "parsha": "Pinchas",
+  "words": 903,
+  "essays": [
+   {
+    "id": "7839",
+    "title": "A Heritage of Inheritance",
+    "share": 0.62,
+    "entries": [
+     "inheritance-nachalah-yerushah-achuzah.md"
+    ]
+   }
+  ],
+  "entries": [
+   "inheritance-nachalah-yerushah-achuzah.md"
+  ]
  },
  {
   "n": 271,
-  "file": "271-getting-dirty.md",
-  "title": "Getting Dirty",
+  "file": "271-bovine-words-cows-and-cowboys.md",
+  "title": "Bovine Words: Cows and Cowboys",
+  "section": "Bamidbar",
+  "parsha": "Pinchas",
+  "words": 1586,
   "essays": [
-   "11413",
-   "11218"
+   {
+    "id": "8333",
+    "title": "Bovine Words: Cows and Cowboys",
+    "share": 0.83,
+    "entries": [
+     "cattle-shor-par-egel-bakar.md"
+    ]
+   }
   ],
-  "published_share": 1.01
+  "entries": [
+   "cattle-shor-par-egel-bakar.md"
+  ]
  },
  {
   "n": 272,
-  "file": "272-more-cheese-please.md",
-  "title": "More Cheese Please",
+  "file": "272-flour-power.md",
+  "title": "Flour Power",
+  "section": "Bamidbar",
+  "parsha": "Pinchas",
+  "words": 1514,
   "essays": [
-   "9723",
-   "7377"
+   {
+    "id": "9275",
+    "title": "Flour Power",
+    "share": 0.88,
+    "entries": [
+     "flour-kemach-soles.md"
+    ]
+   }
   ],
-  "published_share": 0.89
+  "entries": [
+   "flour-kemach-soles.md"
+  ]
  },
  {
   "n": 273,
-  "file": "273-the-mountain-of-many-names.md",
-  "title": "The Mountain of Many Names",
+  "file": "273-united-we-fast.md",
+  "title": "United We Fast",
+  "section": "Bamidbar",
+  "parsha": "Pinchas",
+  "words": 1597,
   "essays": [
-   "7377",
-   "9723"
+   {
+    "id": "7332",
+    "title": "United We Fast",
+    "share": 0.77,
+    "entries": [
+     "fasting-tzom-taanis.md"
+    ]
+   }
   ],
-  "published_share": 0.97
+  "entries": [
+   "fasting-tzom-taanis.md"
+  ]
  },
  {
   "n": 274,
-  "file": "274-stop-its-shavuot.md",
-  "title": "Stop! It’s Shavuot",
+  "file": "274-tribesmen-stick-together.md",
+  "title": "Tribesmen Stick Together",
+  "section": "Bamidbar",
+  "parsha": "Mattos",
+  "words": 1406,
   "essays": [
-   "7758"
+   {
+    "id": "7357",
+    "title": "Tribesmen Stick Together",
+    "share": 0.9,
+    "entries": [
+     "staff-mateh-shevet-makel.md"
+    ]
+   }
   ],
-  "published_share": 0.74
+  "entries": [
+   "staff-mateh-shevet-makel.md"
+  ]
  },
  {
   "n": 275,
-  "file": "275-thats-amore.md",
-  "title": "That’s Amore!",
+  "file": "275-of-oaths-and-promises.md",
+  "title": "Of Oaths and Promises",
+  "section": "Bamidbar",
+  "parsha": "Mattos",
+  "words": 762,
   "essays": [
-   "8272",
-   "8217"
+   {
+    "id": "6963",
+    "title": "Of Oaths and Promises",
+    "share": 0.92,
+    "entries": [
+     "vow-neder-shevuah-nedavah.md"
+    ]
+   }
   ],
-  "published_share": 0.64
+  "entries": [
+   "vow-neder-shevuah-nedavah.md"
+  ]
  },
  {
   "n": 276,
-  "file": "276-the-number-eleven.md",
-  "title": "The Number Eleven",
+  "file": "276-null-and-void.md",
+  "title": "Null and Void",
+  "section": "Bamidbar",
+  "parsha": "Mattos",
+  "words": 881,
   "essays": [
-   "7864"
+   {
+    "id": "7851",
+    "title": "Null and Void",
+    "share": 0.81,
+    "entries": [
+     "nullify-heini-heifer-batel.md"
+    ]
+   }
   ],
-  "published_share": 0.59
+  "entries": [
+   "nullify-heini-heifer-batel.md"
+  ]
  },
  {
   "n": 277,
-  "file": "277-the-sharp-river.md",
-  "title": "The Sharp River",
+  "file": "277-welcome-to-rooster-city.md",
+  "title": "Welcome to Rooster City",
+  "section": "Bamidbar",
+  "parsha": "Mattos",
+  "words": 1560,
   "essays": [
-   "11903"
+   {
+    "id": "9288",
+    "title": "Welcome to Rooster City",
+    "share": 0.8,
+    "entries": [
+     "rooster-gever-sechvi-tarnegol.md"
+    ]
+   }
   ],
-  "published_share": 0.99
+  "entries": [
+   "rooster-gever-sechvi-tarnegol.md"
+  ]
  },
  {
   "n": 278,
-  "file": "278-empty-exaggerations.md",
-  "title": "Empty Exaggerations",
+  "file": "278-wheres-the-gold.md",
+  "title": "Where’s the Gold?",
+  "section": "Bamidbar",
+  "parsha": "Mattos",
+  "words": 2082,
   "essays": [
-   "9756",
-   "9642",
-   "8613"
+   {
+    "id": "8724",
+    "title": "Where's The Gold?",
+    "share": 0.85,
+    "entries": [
+     "gold-zahav-paz-kesem-charutz.md"
+    ]
+   }
   ],
-  "published_share": 0.83
+  "entries": [
+   "gold-zahav-paz-kesem-charutz.md"
+  ]
  },
  {
   "n": 279,
-  "file": "279-beds-of-the-righteous.md",
-  "title": "Beds of the Righteous",
+  "file": "279-heavy-taxes-and-empty-pockets.md",
+  "title": "Heavy Taxes and Empty Pockets",
+  "section": "Bamidbar",
+  "parsha": "Mattos",
+  "words": 1373,
   "essays": [
-   "8364",
-   "7927",
-   "10824"
+   {
+    "id": "8339",
+    "title": "Heavy Taxes and Empty Pockets",
+    "share": 0.85,
+    "entries": [
+     "tax-mas-meches.md"
+    ]
+   }
   ],
-  "published_share": 0.8
+  "entries": [
+   "tax-mas-meches.md"
+  ]
  },
  {
   "n": 280,
-  "file": "280-words-of-destruction.md",
-  "title": "Words of Destruction",
+  "file": "280-when-suddenly.md",
+  "title": "When Suddenly…",
+  "section": "Bamidbar",
+  "parsha": "Masei",
+  "words": 1809,
   "essays": [
-   "7366"
+   {
+    "id": "8790",
+    "title": "When Suddenlyâ€¦",
+    "share": 0.88,
+    "entries": [
+     "suddenly-peta-pitom.md"
+    ]
+   }
   ],
-  "published_share": 0.67
+  "entries": [
+   "suddenly-peta-pitom.md"
+  ]
  },
  {
   "n": 281,
-  "file": "281-dont-trample-on-me.md",
-  "title": "Don’t Trample On Me",
+  "file": "281-on-the-border.md",
+  "title": "On the Border",
+  "section": "Bamidbar",
+  "parsha": "Masei",
+  "words": 2184,
   "essays": [
-   "11024"
+   {
+    "id": "11471",
+    "title": "Matos/Masei: On the Border",
+    "share": 0.97,
+    "entries": [
+     "border-gevul-techum-meitzar-sfar.md"
+    ]
+   }
   ],
-  "published_share": 0.99
+  "entries": [
+   "border-gevul-techum-meitzar-sfar.md"
+  ]
  },
  {
   "n": 282,
-  "file": "282-looking-four-directions.md",
-  "title": "Looking Four Directions",
+  "file": "282-the-names-of-jericho.md",
+  "title": "The Names of Jericho",
+  "section": "Bamidbar",
+  "parsha": "Masei",
+  "words": 2089,
   "essays": [
-   "7029"
+   {
+    "id": "9795",
+    "title": "Matot: The Names of Jericho",
+    "share": 0.9,
+    "entries": [
+     "jericho-yereicho-yericho.md",
+     "sun-and-moon-shemesh-chamah-yareach.md"
+    ]
+   }
   ],
-  "published_share": 0.68
+  "entries": [
+   "jericho-yereicho-yericho.md",
+   "sun-and-moon-shemesh-chamah-yareach.md"
+  ]
  },
  {
   "n": 283,
-  "file": "283-the-ultimate-teacher.md",
-  "title": "The Ultimate Teacher",
+  "file": "283-of-thorns-and-thistles.md",
+  "title": "Of Thorns and Thistles",
+  "section": "Bamidbar",
+  "parsha": "Masei",
+  "words": 3692,
   "essays": [
-   "9308",
-   "11523",
-   "8333"
+   {
+    "id": "9809",
+    "title": "Of Thorns and Thistles",
+    "share": 0.93,
+    "entries": [
+     "refusal-miun-siruv.md",
+     "thorns-kotz-dardar-sneh-charul.md"
+    ]
+   }
   ],
-  "published_share": 0.88
+  "entries": [
+   "refusal-miun-siruv.md",
+   "thorns-kotz-dardar-sneh-charul.md"
+  ]
  },
  {
   "n": 284,
-  "file": "284-forget-about-it.md",
-  "title": "Forget About It",
+  "file": "284-the-shining-sea-of-galilee.md",
+  "title": "The Shining Sea of Galilee",
+  "section": "Bamidbar",
+  "parsha": "Masei",
+  "words": 1138,
   "essays": [
-   "8389"
+   {
+    "id": "8351",
+    "title": "The Shining Sea of Galilee",
+    "share": 0.87,
+    "entries": [
+     "kinneres-ginosar-tiveria.md"
+    ]
+   }
   ],
-  "published_share": 0.82
+  "entries": [
+   "kinneres-ginosar-tiveria.md"
+  ]
  },
  {
   "n": 285,
-  "file": "285-listen-up.md",
-  "title": "Listen up!",
+  "file": "285-of-heretics-and-apostates.md",
+  "title": "Of Heretics and Apostates",
+  "section": "Bamidbar",
+  "parsha": "Shavuos",
+  "words": 2593,
   "essays": [
-   "6850"
+   {
+    "id": "11438",
+    "title": "Korach: Of Heretics and Apostates",
+    "share": 0.95,
+    "entries": [
+     "heretic-min-apikores-kofer-meshumad.md"
+    ]
+   }
   ],
-  "published_share": 0.42
+  "entries": [
+   "heretic-min-apikores-kofer-meshumad.md"
+  ]
  },
  {
   "n": 286,
-  "file": "286-nursing-from-the-good.md",
-  "title": "Nursing from the Good",
+  "file": "286-just-say-no.md",
+  "title": "Just Say No",
+  "section": "Bamidbar",
+  "parsha": "Shavuos",
+  "words": 2281,
   "essays": [
-   "11489",
-   "9491"
+   {
+    "id": "10949",
+    "title": "Naso/Shavuos: Just Say No",
+    "share": 1.0,
+    "entries": [
+     "negation-lo-al-bal.md"
+    ]
+   }
   ],
-  "published_share": 0.99
+  "entries": [
+   "negation-lo-al-bal.md"
+  ]
  },
  {
   "n": 287,
-  "file": "287-making-mountains-out-of-hills.md",
-  "title": "Making Mountains out of Hills",
-  "essays": [],
-  "published_share": 0.0
+  "file": "287-brilliant-prohibitions.md",
+  "title": "Brilliant Prohibitions",
+  "section": "Bamidbar",
+  "parsha": "Shavuos",
+  "words": 1540,
+  "essays": [
+   {
+    "id": "9211",
+    "title": "Shavuot: Brilliant Prohibitions",
+    "share": 0.87,
+    "entries": [
+     "prohibition-azharah-issur-lav.md"
+    ]
+   }
+  ],
+  "entries": [
+   "prohibition-azharah-issur-lav.md"
+  ]
  },
  {
   "n": 288,
-  "file": "288-subtleties-of-simcha-and-sasson.md",
-  "title": "Subtleties of Simcha and Sasson",
-  "essays": [
-   "6839"
-  ],
-  "published_share": 0.88
+  "file": "288-of-demons-and-spirits.md",
+  "title": "Of Demons and Spirits",
+  "section": "Bamidbar",
+  "parsha": "Shavuos",
+  "words": 1262,
+  "essays": [],
+  "entries": []
  },
  {
   "n": 289,
-  "file": "289-rain-rain-come-again.md",
-  "title": "Rain, Rain Come Again",
+  "file": "289-getting-dirty.md",
+  "title": "Getting Dirty",
+  "section": "Bamidbar",
+  "parsha": "Shavuos",
+  "words": 2637,
   "essays": [
-   "6861"
+   {
+    "id": "11413",
+    "title": "Shavuos: Getting Dirty",
+    "share": 0.99,
+    "entries": [
+     "anger-cheimah-ketzef-charon-rogez.md",
+     "curse-arur-kelalah-allah-kavah.md",
+     "dirt-zuhamah-lichluch-tinuf-goal.md"
+    ]
+   }
   ],
-  "published_share": 0.64
+  "entries": [
+   "anger-cheimah-ketzef-charon-rogez.md",
+   "curse-arur-kelalah-allah-kavah.md",
+   "dirt-zuhamah-lichluch-tinuf-goal.md"
+  ]
  },
  {
   "n": 290,
-  "file": "290-dont-be-a-behamah-or-a-chayah.md",
-  "title": "Don't be a Behamah or a Chayah",
+  "file": "290-more-cheese-please.md",
+  "title": "More Cheese Please",
+  "section": "Bamidbar",
+  "parsha": "Shavuos",
+  "words": 2453,
   "essays": [
-   "6999"
+   {
+    "id": "9723",
+    "title": "More Cheese Please",
+    "share": 0.9,
+    "entries": [
+     "cheese-gvinah-charitz-shfot.md",
+     "sinai-chorev-gavnunim-bashan.md"
+    ]
+   }
   ],
-  "published_share": 0.62
+  "entries": [
+   "cheese-gvinah-charitz-shfot.md",
+   "sinai-chorev-gavnunim-bashan.md"
+  ]
  },
  {
   "n": 291,
-  "file": "291-my-three-suns-and-moons.md",
-  "title": "My Three Suns (and Moons)",
+  "file": "291-the-mountain-of-many-names.md",
+  "title": "The Mountain of Many Names",
+  "section": "Bamidbar",
+  "parsha": "Shavuos",
+  "words": 831,
   "essays": [
-   "6916"
+   {
+    "id": "7377",
+    "title": "The Mountain of Many Names",
+    "share": 0.99,
+    "entries": [
+     "sinai-chorev-gavnunim-bashan.md"
+    ]
+   }
   ],
-  "published_share": 0.64
+  "entries": [
+   "sinai-chorev-gavnunim-bashan.md"
+  ]
  },
  {
   "n": 292,
-  "file": "292-taking-collateral.md",
-  "title": "Taking Collateral",
+  "file": "292-stop-its-shavuot.md",
+  "title": "Stop! It’s Shavuot",
+  "section": "Bamidbar",
+  "parsha": "Shavuos",
+  "words": 1764,
   "essays": [
-   "11066"
+   {
+    "id": "7758",
+    "title": "Stop! It's Shavuot!",
+    "share": 0.78,
+    "entries": [
+     "seven-sheva-shavua-shevuah.md",
+     "shavuos-atzeres-katzir-bikkurim.md"
+    ]
+   }
   ],
-  "published_share": 0.99
+  "entries": [
+   "seven-sheva-shavua-shevuah.md",
+   "shavuos-atzeres-katzir-bikkurim.md"
+  ]
  },
  {
   "n": 293,
-  "file": "293-indulging-in-pleasure.md",
-  "title": "Indulging in Pleasure",
+  "file": "293-thats-amore.md",
+  "title": "That’s Amore!",
+  "section": "Bamidbar",
+  "parsha": "Shavuos",
+  "words": 3513,
   "essays": [
-   "8295"
+   {
+    "id": "8272",
+    "title": "Shavuot Special Feature!",
+    "share": 0.8,
+    "entries": [
+     "speech-dibbur-amirah.md"
+    ]
+   }
   ],
-  "published_share": 0.66
+  "entries": [
+   "speech-dibbur-amirah.md"
+  ]
  },
  {
   "n": 294,
-  "file": "294-enter-the-gate.md",
-  "title": "Enter the Gate",
+  "file": "294-the-number-eleven.md",
+  "title": "The Number Eleven",
+  "section": "Devarim",
+  "parsha": "Devarim",
+  "words": 1275,
   "essays": [
-   "10740"
+   {
+    "id": "7864",
+    "title": "The Number Eleven",
+    "share": 0.87,
+    "entries": [
+     "eleven-achad-asar-ashtei-asar.md"
+    ]
+   }
   ],
-  "published_share": 0.85
+  "entries": [
+   "eleven-achad-asar-ashtei-asar.md"
+  ]
  },
  {
   "n": 295,
-  "file": "295-cutting-tools.md",
-  "title": "Cutting Tools",
+  "file": "295-the-sharp-river.md",
+  "title": "The Sharp River",
+  "section": "Devarim",
+  "parsha": "Devarim",
+  "words": 2738,
   "essays": [
-   "11644"
+   {
+    "id": "11903",
+    "title": "Devarim: The Sharp River",
+    "share": 1.0,
+    "entries": [
+     "tigris-chidekel-diglat.md"
+    ]
+   }
   ],
-  "published_share": 0.91
+  "entries": [
+   "tigris-chidekel-diglat.md"
+  ]
  },
  {
   "n": 296,
-  "file": "296-showing-teeth.md",
-  "title": "Showing Teeth",
+  "file": "296-empty-exaggerations.md",
+  "title": "Empty Exaggerations",
+  "section": "Devarim",
+  "parsha": "Devarim",
+  "words": 2261,
   "essays": [
-   "10931",
-   "11902",
-   "11119"
+   {
+    "id": "9756",
+    "title": "Empty Exaggerations",
+    "share": 0.82,
+    "entries": [
+     "exaggeration-havai-guzma.md",
+     "locust-arbeh-gazam-yelek-chasil.md"
+    ]
+   }
   ],
-  "published_share": 0.97
+  "entries": [
+   "exaggeration-havai-guzma.md",
+   "locust-arbeh-gazam-yelek-chasil.md"
+  ]
  },
  {
   "n": 297,
-  "file": "297-anger-issues.md",
-  "title": "Anger Issues",
+  "file": "297-beds-of-the-righteous.md",
+  "title": "Beds of the Righteous",
+  "section": "Devarim",
+  "parsha": "Devarim",
+  "words": 1440,
   "essays": [
-   "9296"
+   {
+    "id": "8364",
+    "title": "Beds of the Righteous",
+    "share": 0.87,
+    "entries": [
+     "bed-mitah-eres.md"
+    ]
+   }
   ],
-  "published_share": 0.78
+  "entries": [
+   "bed-mitah-eres.md"
+  ]
  },
  {
   "n": 298,
-  "file": "298-getting-drunk.md",
-  "title": "Getting Drunk",
+  "file": "298-words-of-destruction.md",
+  "title": "Words of Destruction",
+  "section": "Devarim",
+  "parsha": "Devarim",
+  "words": 1163,
   "essays": [
-   "11520",
-   "11342",
-   "9632"
+   {
+    "id": "7366",
+    "title": "Words of Destruction",
+    "share": 0.88,
+    "entries": [
+     "destruction-churban-shemamah.md",
+     "dry-yavesh-chorev-negev.md"
+    ]
+   }
   ],
-  "published_share": 0.99
+  "entries": [
+   "destruction-churban-shemamah.md",
+   "dry-yavesh-chorev-negev.md"
+  ]
  },
  {
   "n": 299,
-  "file": "299-flowering-chicklings.md",
-  "title": "Flowering Chicklings",
+  "file": "299-dont-trample-on-me.md",
+  "title": "Don’t Trample On Me",
+  "section": "Devarim",
+  "parsha": "Devarim",
+  "words": 1951,
   "essays": [
-   "9906",
-   "11871"
+   {
+    "id": "11024",
+    "title": "Don't Trample On Me",
+    "share": 0.98,
+    "entries": [
+     "path-derech-orach.md",
+     "platform-kan-duchan-bimah-basis.md",
+     "trampling-romes-dorech-boss.md"
+    ]
+   }
   ],
-  "published_share": 0.96
+  "entries": [
+   "path-derech-orach.md",
+   "platform-kan-duchan-bimah-basis.md",
+   "trampling-romes-dorech-boss.md"
+  ]
  },
  {
   "n": 300,
-  "file": "300-single-guys.md",
-  "title": "Single Guys",
+  "file": "300-compare-dont-trample-on-me.md",
+  "title": "COMPARE Don’t Trample On Me",
+  "section": "Devarim",
+  "parsha": "Devarim",
+  "words": 1951,
   "essays": [
-   "11069",
-   "9338",
-   "10883"
+   {
+    "id": "11024",
+    "title": "Don't Trample On Me",
+    "share": 0.98,
+    "entries": [
+     "path-derech-orach.md",
+     "platform-kan-duchan-bimah-basis.md",
+     "trampling-romes-dorech-boss.md"
+    ]
+   }
   ],
-  "published_share": 0.92
+  "entries": [
+   "path-derech-orach.md",
+   "platform-kan-duchan-bimah-basis.md",
+   "trampling-romes-dorech-boss.md"
+  ]
  },
  {
   "n": 301,
-  "file": "301-seasoning-the-land.md",
-  "title": "Seasoning the Land",
+  "file": "301-looking-four-directions.md",
+  "title": "Looking Four Directions",
+  "section": "Devarim",
+  "parsha": "Voeschanan",
+  "words": 1086,
   "essays": [
-   "9359",
-   "9346",
-   "8573"
+   {
+    "id": "7029",
+    "title": "Looking Four Directions",
+    "share": 0.93,
+    "entries": [
+     "directions-tzafon-darom-mizrach-maarav.md"
+    ]
+   }
   ],
-  "published_share": 0.88
+  "entries": [
+   "directions-tzafon-darom-mizrach-maarav.md"
+  ]
  },
  {
   "n": 302,
-  "file": "302-a-basket-case.md",
-  "title": "A Basket Case",
+  "file": "302-the-ultimate-teacher.md",
+  "title": "The Ultimate Teacher",
+  "section": "Devarim",
+  "parsha": "Voeschanan",
+  "words": 1956,
   "essays": [
-   "10020",
-   "8846",
-   "9275"
+   {
+    "id": "9308",
+    "title": "The Ultimate Teacher",
+    "share": 0.87,
+    "entries": [
+     "cattle-shor-par-egel-bakar.md",
+     "rain-geshem-matar-yoreh-malkosh.md",
+     "teaching-horaah-limmud-alef.md"
+    ]
+   }
   ],
-  "published_share": 1.84
+  "entries": [
+   "cattle-shor-par-egel-bakar.md",
+   "rain-geshem-matar-yoreh-malkosh.md",
+   "teaching-horaah-limmud-alef.md"
+  ]
  },
  {
   "n": 303,
-  "file": "303-no-more-boils.md",
-  "title": "No More Boils",
+  "file": "303-forget-about-it.md",
+  "title": "Forget About It",
+  "section": "Devarim",
+  "parsha": "Voeschanan",
+  "words": 1628,
   "essays": [
-   "11523",
-   "9308"
+   {
+    "id": "8389",
+    "title": "Forget About It",
+    "share": 0.82,
+    "entries": [
+     "forgetting-shachach-nashah.md"
+    ]
+   }
   ],
-  "published_share": 0.56
+  "entries": [
+   "forgetting-shachach-nashah.md"
+  ]
  },
  {
   "n": 304,
-  "file": "304-the-strong-ones.md",
-  "title": "The Strong Ones",
+  "file": "304-listen-up.md",
+  "title": "Listen up!",
+  "section": "Devarim",
+  "parsha": "Voeschanan",
+  "words": 1393,
   "essays": [
-   "8857",
-   "8868",
-   "11743"
+   {
+    "id": "6850",
+    "title": "Listen Up!",
+    "share": 0.72,
+    "entries": [
+     "hearing-shema-haazinu.md"
+    ]
+   }
   ],
-  "published_share": 0.83
+  "entries": [
+   "hearing-shema-haazinu.md"
+  ]
  },
  {
   "n": 305,
-  "file": "305-straying-from-the-path.md",
-  "title": "Straying from the Path",
+  "file": "305-nursing-from-the-good.md",
+  "title": "Nursing from the Good",
+  "section": "Devarim",
+  "parsha": "Voeschanan",
+  "words": 2758,
   "essays": [
-   "7927",
-   "8364"
+   {
+    "id": "11489",
+    "title": "Nursing from the Good",
+    "share": 0.97,
+    "entries": [
+     "breast-shadayim-dadim-atinim.md"
+    ]
+   }
   ],
-  "published_share": 0.8
+  "entries": [
+   "breast-shadayim-dadim-atinim.md"
+  ]
  },
  {
   "n": 306,
-  "file": "306-ten-expressions-of-praise.md",
-  "title": "Ten Expressions of Praise",
-  "essays": [
-   "6934"
-  ],
-  "published_share": 0.76
+  "file": "306-making-mountains-out-of-hills.md",
+  "title": "Making Mountains out of Hills",
+  "section": "Devarim",
+  "parsha": "Eikev",
+  "words": 838,
+  "essays": [],
+  "entries": []
  },
  {
   "n": 307,
-  "file": "307-animal-sounds.md",
-  "title": "Animal Sounds",
+  "file": "307-subtleties-of-simcha-and-sasson.md",
+  "title": "Subtleties of *Simcha* and *Sasson*",
+  "section": "Devarim",
+  "parsha": "Eikev",
+  "words": 744,
   "essays": [
-   "9126",
-   "8933",
-   "11869"
+   {
+    "id": "6839",
+    "title": "Subtleties of Simcha and Sasson",
+    "share": 0.92,
+    "entries": [
+     "joy-simchah-sasson-gilah.md"
+    ]
+   }
   ],
-  "published_share": 0.93
+  "entries": [
+   "joy-simchah-sasson-gilah.md"
+  ]
  },
  {
   "n": 308,
-  "file": "308-holy-matrimony.md",
-  "title": "Holy Matrimony",
+  "file": "308-rain-rain-come-again.md",
+  "title": "Rain, Rain Come Again",
+  "section": "Devarim",
+  "parsha": "Eikev",
+  "words": 896,
   "essays": [
-   "8883"
+   {
+    "id": "6861",
+    "title": "Rain, Rain Come Again",
+    "share": 0.93,
+    "entries": [
+     "rain-geshem-matar-yoreh-malkosh.md"
+    ]
+   }
   ],
-  "published_share": 0.84
+  "entries": [
+   "rain-geshem-matar-yoreh-malkosh.md"
+  ]
  },
  {
   "n": 309,
-  "file": "309-all-mixed-up.md",
-  "title": "All Mixed Up",
+  "file": "309-dont-be-a-behamah-or-a-chayah.md",
+  "title": "Don't be a Behamah or a Chayah",
+  "section": "Devarim",
+  "parsha": "Re’ay",
+  "words": 642,
   "essays": [
-   "11480"
+   {
+    "id": "6999",
+    "title": "Don't be a Behemah or a Chayah!",
+    "share": 0.67,
+    "entries": [
+     "animal-behemah-chayah.md"
+    ]
+   }
   ],
-  "published_share": 0.99
+  "entries": [
+   "animal-behemah-chayah.md"
+  ]
  },
  {
   "n": 310,
-  "file": "310-twin-cities-of-zion-and-jerusalem.md",
-  "title": "Twin Cities of Zion and Jerusalem",
+  "file": "310-my-three-suns-and-moons.md",
+  "title": "My Three Suns (and Moons)",
+  "section": "Devarim",
+  "parsha": "Re’ay",
+  "words": 866,
   "essays": [
-   "7874"
+   {
+    "id": "6916",
+    "title": "My Three Suns (and Moons)",
+    "share": 0.82,
+    "entries": [
+     "sun-and-moon-shemesh-chamah-yareach.md"
+    ]
+   }
   ],
-  "published_share": 0.73
+  "entries": [
+   "sun-and-moon-shemesh-chamah-yareach.md"
+  ]
  },
  {
   "n": 311,
-  "file": "311-remembering-the-wall.md",
-  "title": "Remembering the Wall",
+  "file": "311-taking-collateral.md",
+  "title": "Taking Collateral",
+  "section": "Devarim",
+  "parsha": "Re’ay",
+  "words": 2080,
   "essays": [
-   "11898",
-   "8373",
-   "9992"
+   {
+    "id": "11066",
+    "title": "Taking Collateral",
+    "share": 0.98,
+    "entries": [
+     "collateral-mashkon-chaval-avot-rahan.md",
+     "wound-petza-chaburah-chovel.md"
+    ]
+   }
   ],
-  "published_share": 0.95
+  "entries": [
+   "collateral-mashkon-chaval-avot-rahan.md",
+   "wound-petza-chaburah-chovel.md"
+  ]
  },
  {
   "n": 312,
-  "file": "312-ways-and-means.md",
-  "title": "Ways and Means",
+  "file": "312-indulging-in-pleasure.md",
+  "title": "Indulging in Pleasure",
+  "section": "Devarim",
+  "parsha": "Re’ay",
+  "words": 1698,
   "essays": [
-   "9368",
-   "7893",
-   "7917"
+   {
+    "id": "8295",
+    "title": "Indulging in Pleasure",
+    "share": 0.88,
+    "entries": [
+     "pleasure-oneg-eden-pinuk.md"
+    ]
+   }
   ],
-  "published_share": 0.83
+  "entries": [
+   "pleasure-oneg-eden-pinuk.md"
+  ]
  },
  {
   "n": 313,
-  "file": "313-shake-quake.md",
-  "title": "Shake & Quake",
+  "file": "313-enter-the-gate.md",
+  "title": "Enter the Gate",
+  "section": "Devarim",
+  "parsha": "Shoftim",
+  "words": 2179,
   "essays": [
-   "11526",
-   "11544",
-   "11527"
+   {
+    "id": "10740",
+    "title": "Vayishlach: Enter the Gate",
+    "share": 0.96,
+    "entries": [
+     "gate-shaar-tera-bava.md"
+    ]
+   }
   ],
-  "published_share": 0.98
+  "entries": [
+   "gate-shaar-tera-bava.md"
+  ]
  },
  {
   "n": 314,
-  "file": "314-divine-dictator-or-populist-king.md",
-  "title": "Divine Dictator or Populist King",
+  "file": "314-cutting-tools.md",
+  "title": "Cutting Tools",
+  "section": "Devarim",
+  "parsha": "Shoftim",
+  "words": 2348,
   "essays": [
-   "6893"
+   {
+    "id": "11644",
+    "title": "Vayigash: Cutting Tools",
+    "share": 0.96,
+    "entries": [
+     "cutting-tools-garzen-kardum-maatzad.md"
+    ]
+   }
   ],
-  "published_share": 0.61
+  "entries": [
+   "cutting-tools-garzen-kardum-maatzad.md"
+  ]
  },
  {
   "n": 315,
-  "file": "315-degrees-of-sin.md",
-  "title": "Degrees of Sin",
+  "file": "315-showing-teeth.md",
+  "title": "Showing Teeth",
+  "section": "Devarim",
+  "parsha": "Shoftim",
+  "words": 2437,
   "essays": [
-   "7940"
+   {
+    "id": "10931",
+    "title": "Showing Teeth",
+    "share": 0.98,
+    "entries": [
+     "chew-koses-loes.md",
+     "teeth-shein-mesalos-kaka.md"
+    ]
+   }
   ],
-  "published_share": 0.79
+  "entries": [
+   "chew-koses-loes.md",
+   "teeth-shein-mesalos-kaka.md"
+  ]
  },
  {
   "n": 316,
-  "file": "316-forms-of-forgiveness.md",
-  "title": "Forms of Forgiveness",
+  "file": "316-anger-issues.md",
+  "title": "Anger Issues",
+  "section": "Devarim",
+  "parsha": "Shoftim",
+  "words": 2163,
   "essays": [
-   "8400",
-   "8422",
-   "9513"
+   {
+    "id": "9296",
+    "title": "Anger Issues",
+    "share": 0.81,
+    "entries": [
+     "anger-cheimah-ketzef-charon-rogez.md"
+    ]
+   }
   ],
-  "published_share": 0.54
+  "entries": [
+   "anger-cheimah-ketzef-charon-rogez.md"
+  ]
  },
  {
   "n": 317,
-  "file": "317-an-utter-embarrassment.md",
-  "title": "An Utter Embarrassment",
+  "file": "317-getting-drunk.md",
+  "title": "Getting Drunk",
+  "section": "Devarim",
+  "parsha": "Ki Saytzei",
+  "words": 1802,
   "essays": [
-   "9907",
-   "11594"
+   {
+    "id": "11520",
+    "title": "Ki Seitzei: Getting Drunk",
+    "share": 0.96,
+    "entries": [
+     "drunkenness-sove-shachar-sheichar.md"
+    ]
+   }
   ],
-  "published_share": 0.98
+  "entries": [
+   "drunkenness-sove-shachar-sheichar.md"
+  ]
  },
  {
   "n": 318,
-  "file": "318-the-shofars-horn.md",
-  "title": "The Shofar’s Horn",
+  "file": "318-flowering-chicklings.md",
+  "title": "Flowering Chicklings",
+  "section": "Devarim",
+  "parsha": "Ki Saytzei",
+  "words": 1582,
   "essays": [
-   "9992",
-   "10060",
-   "8439"
+   {
+    "id": "9906",
+    "title": "Ki Saytzei: Flowering Chicklings",
+    "share": 0.98,
+    "entries": [
+     "chick-efroach-gozal-pargit-nipol.md"
+    ]
+   }
   ],
-  "published_share": 1.51
+  "entries": [
+   "chick-efroach-gozal-pargit-nipol.md"
+  ]
  },
  {
   "n": 319,
-  "file": "319-the-beautiful-citron.md",
-  "title": "The Beautiful Citron",
+  "file": "319-single-guys.md",
+  "title": "Single Guys",
+  "section": "Devarim",
+  "parsha": "Ki Saytzei",
+  "words": 2316,
   "essays": [
-   "10130",
-   "10055"
+   {
+    "id": "11069",
+    "title": "Single Guys",
+    "share": 0.99,
+    "entries": [
+     "unmarried-ravak-panui-bachur.md"
+    ]
+   }
   ],
-  "published_share": 0.93
+  "entries": [
+   "unmarried-ravak-panui-bachur.md"
+  ]
  },
  {
   "n": 320,
-  "file": "320-chair-of-thrones.md",
-  "title": "Chair of Thrones",
+  "file": "320-sorts-of-siblings.md",
+  "title": "Sorts of Siblings",
+  "section": "Devarim",
+  "parsha": "Ki Saytzei",
+  "words": 2087,
   "essays": [
-   "10930"
+   {
+    "id": "9338",
+    "title": "Sort of Siblings",
+    "share": 0.89,
+    "entries": [
+     "altar-mizbeach-matzeivah-bamah.md",
+     "in-laws-cham-chosen.md",
+     "platform-kan-duchan-bimah-basis.md",
+     "sibling-in-law-yavam-yevamah-giss.md"
+    ]
+   }
   ],
-  "published_share": 0.98
+  "entries": [
+   "altar-mizbeach-matzeivah-bamah.md",
+   "in-laws-cham-chosen.md",
+   "platform-kan-duchan-bimah-basis.md",
+   "sibling-in-law-yavam-yevamah-giss.md"
+  ]
+ },
+ {
+  "n": 321,
+  "file": "321-seasoning-the-land.md",
+  "title": "Seasoning the Land",
+  "section": "Devarim",
+  "parsha": "Ki Savo",
+  "words": 2364,
+  "essays": [
+   {
+    "id": "9359",
+    "title": "Seasoning the Land (Part 2) - Nitzavim / Rosh Hashanah:",
+    "share": 0.86,
+    "entries": [
+     "dry-yavesh-chorev-negev.md",
+     "earth-taivel-arka-cheled.md",
+     "stopping-chadal-mana-chasach-kala-pasak.md"
+    ]
+   },
+   {
+    "id": "9346",
+    "title": "Seasoning the Land",
+    "share": 0.79,
+    "entries": [
+     "desire-taavah-chemdah.md",
+     "land-eretz-adamah-ratzon.md",
+     "land-eretz-adamah.md"
+    ]
+   }
+  ],
+  "entries": [
+   "desire-taavah-chemdah.md",
+   "dry-yavesh-chorev-negev.md",
+   "earth-taivel-arka-cheled.md",
+   "land-eretz-adamah-ratzon.md",
+   "land-eretz-adamah.md",
+   "stopping-chadal-mana-chasach-kala-pasak.md"
+  ]
+ },
+ {
+  "n": 322,
+  "file": "322-a-basket-case.md",
+  "title": "A Basket Case",
+  "section": "Devarim",
+  "parsha": "Ki Savo",
+  "words": 1201,
+  "essays": [
+   {
+    "id": "10020",
+    "title": "A Basket Case",
+    "share": 0.92,
+    "entries": [
+     "basket-tene-sal-keluv.md"
+    ]
+   },
+   {
+    "id": "8846",
+    "title": "A Basket Case",
+    "share": 0.92,
+    "entries": [
+     "basket-tene-sal-keluv.md"
+    ]
+   }
+  ],
+  "entries": [
+   "basket-tene-sal-keluv.md"
+  ]
+ },
+ {
+  "n": 323,
+  "file": "323-no-more-boils.md",
+  "title": "No More Boils",
+  "section": "Devarim",
+  "parsha": "Ki Savo",
+  "words": 2316,
+  "essays": [
+   {
+    "id": "11523",
+    "title": "Ki Savo: No More Boils",
+    "share": 0.98,
+    "entries": [
+     "boils-shechin-garav-cheres.md"
+    ]
+   }
+  ],
+  "entries": [
+   "boils-shechin-garav-cheres.md"
+  ]
+ },
+ {
+  "n": 324,
+  "file": "324-output-understood.md",
+  "title": "Output Understood",
+  "section": "Devarim",
+  "parsha": "Ki Savo",
+  "words": 1677,
+  "essays": [],
+  "entries": []
+ },
+ {
+  "n": 325,
+  "file": "325-the-strong-ones.md",
+  "title": "The Strong Ones",
+  "section": "Devarim",
+  "parsha": "Nitzavim-Vayelech",
+  "words": 3812,
+  "essays": [
+   {
+    "id": "8857",
+    "title": "The Strong Ones",
+    "share": 0.92,
+    "entries": [
+     "strength-koach-gevurah-ometz-chozek.md",
+     "tree-eitz-ilan.md"
+    ]
+   },
+   {
+    "id": "8868",
+    "title": "The Power to Hold Back",
+    "share": 0.89,
+    "entries": [
+     "strength-koach-gevurah-ometz-chozek.md"
+    ]
+   }
+  ],
+  "entries": [
+   "strength-koach-gevurah-ometz-chozek.md",
+   "tree-eitz-ilan.md"
+  ]
+ },
+ {
+  "n": 326,
+  "file": "326-straying-from-the-path.md",
+  "title": "Straying from the Path",
+  "section": "Devarim",
+  "parsha": "Nitzavim-Vayelech",
+  "words": 986,
+  "essays": [
+   {
+    "id": "7927",
+    "title": "Straying from the Path",
+    "share": 0.84,
+    "entries": [
+     "straying-zenus-stiyah.md"
+    ]
+   }
+  ],
+  "entries": [
+   "straying-zenus-stiyah.md"
+  ]
+ },
+ {
+  "n": 327,
+  "file": "327-ten-expressions-of-praise.md",
+  "title": "Ten Expressions of Praise",
+  "section": "Devarim",
+  "parsha": "Haazinu",
+  "words": 882,
+  "essays": [
+   {
+    "id": "6934",
+    "title": "Ten Expressions of Praise",
+    "share": 0.88,
+    "entries": [
+     "praise-hallel-shevach-hodaah-kilus.md"
+    ]
+   }
+  ],
+  "entries": [
+   "praise-hallel-shevach-hodaah-kilus.md"
+  ]
+ },
+ {
+  "n": 328,
+  "file": "328-animal-sounds.md",
+  "title": "Animal Sounds",
+  "section": "Devarim",
+  "parsha": "V’Zos HaBrachah",
+  "words": 2046,
+  "essays": [
+   {
+    "id": "9126",
+    "title": "Vayakhel/Pekudei: Animal Sounds",
+    "share": 0.88,
+    "entries": [
+     "animal-behemah-chayah.md",
+     "animal-sounds-shoeg-nohem-noer.md",
+     "beast-beir-behemah-baar-bur.md",
+     "drinking-shtiyah-hashkaah-gemiah.md"
+    ]
+   }
+  ],
+  "entries": [
+   "animal-behemah-chayah.md",
+   "animal-sounds-shoeg-nohem-noer.md",
+   "beast-beir-behemah-baar-bur.md",
+   "drinking-shtiyah-hashkaah-gemiah.md"
+  ]
+ },
+ {
+  "n": 329,
+  "file": "329-holy-matrimony.md",
+  "title": "Holy Matrimony",
+  "section": "Devarim",
+  "parsha": "V’Zos HaBrachah",
+  "words": 1971,
+  "essays": [
+   {
+    "id": "8883",
+    "title": "Holy Matrimony",
+    "share": 0.86,
+    "entries": [
+     "betrothal-erusin-kiddushin-nissuin.md"
+    ]
+   }
+  ],
+  "entries": [
+   "betrothal-erusin-kiddushin-nissuin.md"
+  ]
+ },
+ {
+  "n": 330,
+  "file": "330-all-mixed-up.md",
+  "title": "All Mixed Up",
+  "section": "Devarim",
+  "parsha": "Tisha B’Av and Nachamu",
+  "words": 2897,
+  "essays": [
+   {
+    "id": "11480",
+    "title": "Devarim: All Mixed Up",
+    "share": 0.99,
+    "entries": [
+     "mixing-iruv-mizug-dimua.md"
+    ]
+   }
+  ],
+  "entries": [
+   "mixing-iruv-mizug-dimua.md"
+  ]
+ },
+ {
+  "n": 331,
+  "file": "331-twin-cities-of-zion-and-jerusalem.md",
+  "title": "Twin Cities of Zion and Jerusalem",
+  "section": "Devarim",
+  "parsha": "Tisha B’Av and Nachamu",
+  "words": 1467,
+  "essays": [
+   {
+    "id": "7874",
+    "title": "Twin Cities: Zion and Jerusalem",
+    "share": 0.76,
+    "entries": [
+     "jerusalem-tziyon-yerushalayim.md"
+    ]
+   }
+  ],
+  "entries": [
+   "jerusalem-tziyon-yerushalayim.md"
+  ]
+ },
+ {
+  "n": 332,
+  "file": "332-remembering-the-wall.md",
+  "title": "Remembering the Wall",
+  "section": "Devarim",
+  "parsha": "Tisha B’Av and Nachamu",
+  "words": 1757,
+  "essays": [
+   {
+    "id": "8373",
+    "title": "Remembering the Wall",
+    "share": 0.89,
+    "entries": [
+     "wall-chomah-kir-shur-kotel.md"
+    ]
+   }
+  ],
+  "entries": [
+   "wall-chomah-kir-shur-kotel.md"
+  ]
+ },
+ {
+  "n": 333,
+  "file": "333-a-time-to-whistle.md",
+  "title": "A Time to Whistle",
+  "section": "Devarim",
+  "parsha": "Tisha B’Av and Nachamu",
+  "words": 2334,
+  "essays": [
+   {
+    "id": "11898",
+    "title": "Voeschanan - A Time to Whistle",
+    "share": 1.0,
+    "entries": [
+     "whistle-shreikah-tziftzuf.md"
+    ]
+   }
+  ],
+  "entries": [
+   "whistle-shreikah-tziftzuf.md"
+  ]
+ },
+ {
+  "n": 334,
+  "file": "334-ways-and-means.md",
+  "title": "Ways and Means",
+  "section": "Devarim",
+  "parsha": "Elul/Rosh HaShanah/Yom Kippur",
+  "words": 2123,
+  "essays": [
+   {
+    "id": "7893",
+    "title": "Roads and Paths, Ways and Means",
+    "share": 0.84,
+    "entries": [
+     "path-derech-orach.md"
+    ]
+   },
+   {
+    "id": "7917",
+    "title": "On the Straight and Narrow",
+    "share": 0.74,
+    "entries": [
+     "because-baavur-biglal-bishvil.md",
+     "paths-netiv-mesilah-shvil-mishol.md"
+    ]
+   }
+  ],
+  "entries": [
+   "because-baavur-biglal-bishvil.md",
+   "path-derech-orach.md",
+   "paths-netiv-mesilah-shvil-mishol.md"
+  ]
+ },
+ {
+  "n": 335,
+  "file": "335-calling-the-defender.md",
+  "title": "Calling the Defender",
+  "section": "Devarim",
+  "parsha": "Elul/Rosh HaShanah/Yom Kippur",
+  "words": 2020,
+  "essays": [
+   {
+    "id": "9368",
+    "title": "Calling the Defender - Vayelech / Yom Kippur",
+    "share": 0.88,
+    "entries": [
+     "advocate-meilitz-praklit-sanegor.md"
+    ]
+   }
+  ],
+  "entries": [
+   "advocate-meilitz-praklit-sanegor.md"
+  ]
+ },
+ {
+  "n": 336,
+  "file": "336-shake-quake.md",
+  "title": "Shake & Quake",
+  "section": "Devarim",
+  "parsha": "Elul/Rosh HaShanah/Yom Kippur",
+  "words": 6120,
+  "essays": [
+   {
+    "id": "11526",
+    "title": "Yom Kippur: Shake & Quake (Pt. 2/3)",
+    "share": 0.99,
+    "entries": [
+     "trembling-raadah-retet-raash.md"
+    ]
+   },
+   {
+    "id": "11544",
+    "title": "Nitzavim-Vayelech: Shake & Quake (Pt. 1/3)",
+    "share": 0.97,
+    "entries": [
+     "trembling-chil-dachil-zachal.md"
+    ]
+   },
+   {
+    "id": "11527",
+    "title": "Sukkot: Shake & Quake (Pt. 3/3)",
+    "share": 0.98,
+    "entries": [
+     "anger-cheimah-ketzef-charon-rogez.md",
+     "trembling-raadah-retet-raash.md"
+    ]
+   }
+  ],
+  "entries": [
+   "anger-cheimah-ketzef-charon-rogez.md",
+   "trembling-chil-dachil-zachal.md",
+   "trembling-raadah-retet-raash.md"
+  ]
+ },
+ {
+  "n": 337,
+  "file": "337-divine-dictator-or-populist-king.md",
+  "title": "Divine Dictator or Populist King",
+  "section": "Devarim",
+  "parsha": "Elul/Rosh HaShanah/Yom Kippur",
+  "words": 1028,
+  "essays": [
+   {
+    "id": "6893",
+    "title": "Divine Dictator or Populist King?",
+    "share": 0.8,
+    "entries": [
+     "king-melech-moshel.md"
+    ]
+   }
+  ],
+  "entries": [
+   "king-melech-moshel.md"
+  ]
+ },
+ {
+  "n": 338,
+  "file": "338-degrees-of-sin.md",
+  "title": "Degrees of Sin",
+  "section": "Devarim",
+  "parsha": "Elul/Rosh HaShanah/Yom Kippur",
+  "words": 1202,
+  "essays": [
+   {
+    "id": "7940",
+    "title": "Degrees of Sin",
+    "share": 0.88,
+    "entries": [
+     "sin-chet-avon-pesha.md"
+    ]
+   }
+  ],
+  "entries": [
+   "sin-chet-avon-pesha.md"
+  ]
+ },
+ {
+  "n": 339,
+  "file": "339-forms-of-forgiveness.md",
+  "title": "Forms of Forgiveness",
+  "section": "Devarim",
+  "parsha": "Elul/Rosh HaShanah/Yom Kippur",
+  "words": 1894,
+  "essays": [
+   {
+    "id": "8400",
+    "title": "Forms of Forgiveness",
+    "share": 0.85,
+    "entries": [
+     "forgiveness-mechilah-selichah-kapparah.md"
+    ]
+   }
+  ],
+  "entries": [
+   "forgiveness-mechilah-selichah-kapparah.md"
+  ]
+ },
+ {
+  "n": 340,
+  "file": "340-real-teshuvah-return-to-sender.md",
+  "title": "Real Teshuvah — Return to Sender",
+  "section": "Devarim",
+  "parsha": "Elul/Rosh HaShanah/Yom Kippur",
+  "words": 1663,
+  "essays": [
+   {
+    "id": "8422",
+    "title": "Return to Sender: The True Meaning of Teshuva",
+    "share": 0.72,
+    "entries": [
+     "return-shuv-chazarah.md",
+     "spoils-shalal-bizah-malkoach.md"
+    ]
+   }
+  ],
+  "entries": [
+   "return-shuv-chazarah.md",
+   "spoils-shalal-bizah-malkoach.md"
+  ]
+ },
+ {
+  "n": 341,
+  "file": "341-an-utter-embarrassment.md",
+  "title": "An Utter Embarrassment",
+  "section": "Devarim",
+  "parsha": "Elul/Rosh HaShanah/Yom Kippur",
+  "words": 1798,
+  "essays": [
+   {
+    "id": "9907",
+    "title": "An Utter Embarrassment",
+    "share": 0.98,
+    "entries": [
+     "delay-boshesh-ichur-hismahmeah.md",
+     "money-mammon-damim-maos.md",
+     "shame-bushah-klimah-cherpah.md"
+    ]
+   }
+  ],
+  "entries": [
+   "delay-boshesh-ichur-hismahmeah.md",
+   "money-mammon-damim-maos.md",
+   "shame-bushah-klimah-cherpah.md"
+  ]
+ },
+ {
+  "n": 342,
+  "file": "342-the-shofars-horn.md",
+  "title": "The Shofar’s Horn",
+  "section": "Devarim",
+  "parsha": "Elul/Rosh HaShanah/Yom Kippur",
+  "words": 2810,
+  "essays": [
+   {
+    "id": "10060",
+    "title": "Nitzavim/Vayelech/RH: The Shofar's Horn",
+    "share": 0.99,
+    "entries": [
+     "good-tov-noam-shapir.md",
+     "horn-shofar-keren-yovel-chatzotzros.md"
+    ]
+   },
+   {
+    "id": "9992",
+    "title": "Nitzavim/Vayelech/RH: The Shofar's Horn",
+    "share": 0.99,
+    "entries": [
+     "good-tov-noam-shapir.md",
+     "horn-shofar-keren-yovel-chatzotzros.md"
+    ]
+   }
+  ],
+  "entries": [
+   "good-tov-noam-shapir.md",
+   "horn-shofar-keren-yovel-chatzotzros.md"
+  ]
+ },
+ {
+  "n": 343,
+  "file": "343-the-majestic-holiday-of-gathering.md",
+  "title": "The Majestic Holiday of Gathering",
+  "section": "Devarim",
+  "parsha": "Sukkos/Simchas Torah",
+  "words": 2048,
+  "essays": [
+   {
+    "id": "8439",
+    "title": "Succot â€“ the Majestic Holiday of Gathering",
+    "share": 0.87,
+    "entries": [
+     "gathering-asifah-kovetz-kehillah-agur.md"
+    ]
+   }
+  ],
+  "entries": [
+   "gathering-asifah-kovetz-kehillah-agur.md"
+  ]
+ },
+ {
+  "n": 344,
+  "file": "344-the-beautiful-citron.md",
+  "title": "The Beautiful Citron",
+  "section": "Devarim",
+  "parsha": "Sukkos/Simchas Torah",
+  "words": 2097,
+  "essays": [
+   {
+    "id": "10055",
+    "title": "The Beautiful Citron",
+    "share": 0.96,
+    "entries": [
+     "citron-hadar-etrog-tapuach.md"
+    ]
+   }
+  ],
+  "entries": [
+   "citron-hadar-etrog-tapuach.md"
+  ]
+ },
+ {
+  "n": 345,
+  "file": "345-revealing-the-secret.md",
+  "title": "Revealing the Secret",
+  "section": "Devarim",
+  "parsha": "Sukkos/Simchas Torah",
+  "words": 2682,
+  "essays": [
+   {
+    "id": "10130",
+    "title": "Sukkos - Bereishis - Revealing the Secret",
+    "share": 0.99,
+    "entries": [
+     "secret-sod-raz-tamir.md"
+    ]
+   }
+  ],
+  "entries": [
+   "secret-sod-raz-tamir.md"
+  ]
+ },
+ {
+  "n": 346,
+  "file": "346-chair-of-thrones.md",
+  "title": "Chair of Thrones",
+  "section": "Devarim",
+  "parsha": "Shabbos Rosh Chodesh",
+  "words": 1837,
+  "essays": [
+   {
+    "id": "10930",
+    "title": "Chair of Thrones",
+    "share": 0.98,
+    "entries": [
+     "chair-kisse-keis-kursa.md"
+    ]
+   }
+  ],
+  "entries": [
+   "chair-kisse-keis-kursa.md"
+  ]
  }
 ]

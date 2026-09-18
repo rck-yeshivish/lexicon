@@ -24,15 +24,39 @@ Every entry in `../entries/` must trace to a file here. Orthodox sources only.
 
 
 ### Klein, *What's in a Word? Synonyms in the Hebrew Language* (book manuscript)
-- `klein-book-manuscript/WTDBAW.docx`, from the author, as of 14 September 2026: the column
+- `klein-book-manuscript/WTDBAW.docx`, from the author, as of 18 September 2026: the column
   gathered into a book by parsha, 1,258 pages, with footnotes and his working notes.
   Unpublished and still being edited; held for private research use, never for the site.
-- `chapters/` is the text split one essay per file (footnotes kept); `chapter-essay-map.json`
-  maps each chapter to the corpus essay it matches by content. It holds 371 of the 375
-  harvested essays, a typical chapter being about 87% the published text plus revisions,
-  and five essays the corpus lacks.
+  This copy carries the 21 corrections he made after reading the verification pass, which
+  `git log -p` on the chapters shows one by one.
+- **Split.** `python tools/split_manuscript.py` writes `chapters/`, one essay per file with
+  its footnotes, and `chapters.json`. The book's outline carries the shape, and Word stores
+  it two ways: a Heading style on some paragraphs, a direct `outlineLvl` on the rest. Reading
+  only the styles finds 122 of the 346 essays, so both are read. A level four heading is a
+  section inside an essay, which is what a multi-part column looks like once its parts are
+  joined, so it stays inside the chapter rather than starting a new one.
+- **Map.** `python tools/map_manuscript.py --report` writes `chapter-essay-map.json`, matching
+  chapters to published essays by eight-word shingles rather than by title, since the site
+  retitles pieces and prefixes the parsha. 340 of the 346 chapters match an essay and 377 of
+  the 378 harvested essays are claimed. Four chapters are essays the corpus lacks: *Making
+  Mountains out of Hills*, which was published on the author's Times of Israel blog on
+  15 May 2019 and which the harvest missed, and *My Husband, My Man*, *Of Demons and Spirits*
+  and *Output Understood*, which appear in neither catalogue.
+- **His source lists.** Most essays end with a footnote listing in Hebrew everything the essay
+  quotes, which is the only place many citations are written down, because the essays
+  frequently name a rabbi without saying where he wrote it. `python tools/klein_sources.py`
+  parses those lists to `../references/klein-sources.json`. Where a source is missing from a
+  list, the author's rule is that the place is obvious: Kohut's *Aruch HaShalem*, Radak's
+  *Sefer HaShorashim*, Rav Pappenheim's *Cheshek Shlomo* on that root, or Rashi or Radak on
+  that pasuk. `מהרשא"ו` is Rabbi Shlomo Aharon Wertheimer's *Beiurei Shemos Nirdafim*, and the
+  parentheses after it name the entry there that treats those words.
 - **Use:** to correct an error the author has since fixed (a locus, a name, a date); not as
-  a source for claims the published essays do not make.
+  a source for claims the published essays do make differently. The one exception the author
+  has since allowed is an essay the published corpus does not hold at all: *My Husband, My
+  Man*, *Of Demons and Spirits* and *Output Understood* are entries drawn from the chapter
+  alone, and their source line is `ms:<chapter>.md` because there is nothing to link to.
+  Each chapter opens with the author's own working notes before the essay proper begins, and
+  those notes are not the essay; the entries follow the essay and leave the notes alone.
 
 ### Klein, "Learning to differentiate between apparent synonyms" (Babel, 2020)
 - `klein-babel-2020/` holds the PDF and its extracted text. Rabbi Klein writing

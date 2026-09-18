@@ -1,7 +1,5 @@
 # (front matter)
 
-<!--  /  -->
-
 Sheretz = sheketz = remes (אוצר נדרפים תפב)
 
 לסת – לחי (cheek, see koebrnick on לעס)
@@ -10,7 +8,7 @@ storm = סערה סופה זעפה נחשול
 
 טמע = בלל
 
-A Poet as You Know it = piyyut-selichah-kinnos-pizmon-shalmon-krovetz-yotzrot = yehoshua steinberg in nimmukei lashon (yalkut shorashim to פזז) says that pizmon comes from פזז, sefer tishbi (LOOK AT MEFORSHIM THERE) says it's targumic for screaming, sefer aruch says it's from Persian. Payytan
+A Poet as You Know it = piyyut-selichah-kinnos-pizmon-shalmon-krovetz-yotzrot = yehoshua steinberg in nimmukei lashon (yalkut shorashim to פזז) says that pizmon comes from פזז, sefer tishbi (LOOK AT MEFORSHIM THERE) says it's targumic for screaming, sefer aruch says it's from Persian. Payytan. Silluk is related to סלק (meaning עולה) because it is a type of poem that "elevates" a person before he is to recite keddushah.
 
 Rabbi Eliyahu Benamozegh (Eim L’Mikra to Gen. 41:1) קץ can mean beginning or end (edge). Same as תכלה and תחלה.
 

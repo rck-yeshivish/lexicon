@@ -1,6 +1,6 @@
 # Cities of Egypt
 
-<!-- TO DO /  -->
+<!-- TO DO -->
 
 ערי מצרים: מף = נף, נא, חנס (ישעיה ל:ד) = תחפנחס (ת"י ורש"י) בחילוף אותיות. צען סין? Land of Sinim (Isa. 49:12) Pelesium? Heliopolis?
 
