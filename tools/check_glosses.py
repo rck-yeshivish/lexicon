@@ -17,6 +17,13 @@ human review is for, and why a gloss stays "draft" until one has read it.
 House style is checked too: no em dashes, no AI register, and no binyan names
 in the line that stands in the root's row, which is written for a reader who
 has no Hebrew grammar.
+
+Two more are about the English being English. A citation printed in Hebrew, as
+the edition prints it, is refused: the reader this is written for cannot read
+(ירמיה כב, יד), and a citation in Hebrew is invisible to the check above that
+tests whether he cites it at all. And a block that is nearly all Hebrew is
+refused, since a part whose point rests on a phrase left unrendered gives a
+reader without Hebrew nothing.
 """
 import json, pathlib, re, sys, unicodedata
 
@@ -110,6 +117,13 @@ BOOK_RX = "|".join(sorted((re.escape(b) for b in BOOKS), key=len, reverse=True))
 HEB_CITE = re.compile(r"\(\s*(?:(%s)(?![א-ת]))?[^()]{0,12}?([א-ת]{1,6})'?,\s*([א-ת]{1,6})'?\s*\)" % BOOK_RX)
 
 
+# A citation printed the way the edition prints it, in Hebrew. Drafters have
+# copied these straight out of his text; they belong in English on our side.
+HEB_PRINTED = re.compile(r"\([^)]*[א-ת][^)]*,\s*[א-ת]{1,6}'?\s*\)")
+ENG_CITE = re.compile(r"\([A-Z][A-Za-z ]+\s\d+:\d+\)")
+ENG_WORD = re.compile(r"[A-Za-z][A-Za-z'’]*")
+
+
 def gematria(s):
     n = sum(GEM.get(c, 0) for c in s if c in GEM)
     return n if n else None
@@ -193,6 +207,21 @@ def main():
                 say(f"{where}: em or en dash")
             if AI.search(s):
                 say(f"{where}: {AI.search(s).group(0)!r}")
+            m = HEB_PRINTED.search(s)
+            if m:
+                say(f"{where}: {m.group(0)!r} cites in Hebrew; name the book in English")
+            # A part that is nearly all Hebrew leaves the reader it was written
+            # for with nothing. Citations are not prose, so they do not count
+            # toward the English. The floor is set below the thinnest part that
+            # earns its place, one whose point is grammatical and whose quoted
+            # pesukim are the evidence for it rather than the thing being said.
+            if not where.endswith(".h"):
+                body = ENG_CITE.sub(" ", s)
+                heb = sum(len(h.replace(" ", "")) for h in HEB.findall(body))
+                eng = len(ENG_WORD.findall(body))
+                if heb > 40 and eng / heb < 0.10:
+                    say(f"{where}: {eng} words of English to {heb} letters of Hebrew; "
+                        f"give the phrases their English")
             for phrase in HEB.findall(s):
                 f = flat(phrase)
                 if len(f.replace(" ", "")) > 2 and f not in text:
