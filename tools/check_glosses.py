@@ -43,7 +43,10 @@ NAMED = {
     "Targum Yonasan": ["תרגום יונתן", "תרגם יונתן"],
     "Targum": ["תרגום", "תרגם", "התרגום"],
     "Onkelos": ["אנקלוס"],
-    "Rabbi Yaakov ben Elazar": ["רבי יעקב בן אלעזר", "רבי יעקב בן אילעזר"],
+    # The edition prints his name twelve times as אלעזר, twice as אלעור with a
+    # vav for the zayin, and once as אילעזר. The same slip it makes on Ibn Ezra.
+    "Rabbi Yaakov ben Elazar": ["רבי יעקב בן אלעזר", "רבי יעקב בן אילעזר",
+                                "רבי יעקב בן אלעור"],
     "Rav Saadiah Gaon": ["רבי סעדיה", "סעדיה"],
     "the Mesorah": ["המסורת", "המסורה"],
     "Rav Yitzchak ibn Giat": ["אבן גיאת"],
