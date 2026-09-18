@@ -96,7 +96,9 @@ BOOKS = {
 }
 BOOK_RX = "|".join(sorted((re.escape(b) for b in BOOKS), key=len, reverse=True))
 # A citation as the edition prints it: "(ישעיה נז, א)", or "(שם לב, כו)" for an ibid.
-HEB_CITE = re.compile(r"\(\s*(%s)?[^()]{0,12}?([א-ת]{1,6})'?,\s*([א-ת]{1,6})'?\s*\)" % BOOK_RX)
+# The book name must end where it ends: without this, the edition's misprint
+# מלאכים for מלכים matches the prefix מלאכי and resolves to Malachi.
+HEB_CITE = re.compile(r"\(\s*(?:(%s)(?![א-ת]))?[^()]{0,12}?([א-ת]{1,6})'?,\s*([א-ת]{1,6})'?\s*\)" % BOOK_RX)
 
 
 def gematria(s):
