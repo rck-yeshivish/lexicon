@@ -69,6 +69,12 @@ pieces in:
   form in each pasuk) and its citations as `.ref` spans, which is what makes
   a long entry readable. `--reformat` reads again any entry stored without
   `html`, and `--homonyms` any root stored before second entries were kept.
+- **`show_root.py`** prints his entry for a root with the clusters of ours that
+  name it. `--todo N` lists the roots still without English, most cited first;
+  `--finish N` groups them by the entry each would complete, the entries nearest
+  done first. Prefer `--finish`: working by root frequency leaves many entries
+  showing some of their roots in English and not others, which reads as a fault
+  rather than as work in progress.
 - **`check_glosses.py`** checks `references/radak-gloss.json`, the English the
   roots page shows above Radak's Hebrew, against his own entries: every Hebrew
   phrase quoted must be in the entry, every pasuk cited must be one he cites,

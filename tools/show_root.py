@@ -63,6 +63,27 @@ def show(key, roots, glosses, use):
 def main():
     roots, glosses, use = *load(), uses()
     args = sys.argv[1:]
+    if args[:1] == ["--finish"]:
+        # Roots grouped by the entry they would complete, the entries nearest
+        # done first. Working by root frequency leaves many entries showing
+        # some of their roots in English and not others, which reads as a fault
+        # rather than as work in progress; this finishes them one at a time.
+        n = int(args[1]) if len(args) > 1 else 8
+        done = lambda k: bool(roots.get(k)) and all(
+            q["hw"] in glosses for q in [roots[k]] + roots[k].get("more", []))
+        by_entry = {}
+        for k, u in use.items():
+            if not roots.get(k):
+                continue
+            for c in set(u["clusters"]):
+                by_entry.setdefault(c, []).append(k)
+        open_ = [(c, [k for k in ks if not done(k)], len(ks)) for c, ks in by_entry.items()]
+        open_ = sorted((o for o in open_ if o[1]), key=lambda o: (len(o[1]), -o[2]))
+        for c, left, total in open_[:n]:
+            print(f"\n### {c}: {len(left)} of {total} roots still without English")
+            print("   ", " ".join(left))
+        print(f"\n[{len(open_)} entries not yet finished]")
+        return
     if args[:1] == ["--todo"]:
         n = int(args[1]) if len(args) > 1 else 10
         want = sorted(use, key=lambda k: -len(use[k]["clusters"]))
