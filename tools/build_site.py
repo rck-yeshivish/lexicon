@@ -2192,6 +2192,12 @@ function initBrowse(mode){
   const noun = mode === "en" ? "terms" : mode === "roots" ? "roots" : "words";
   const show = l => {
     btns.forEach(b => b.classList.toggle("on", b.dataset.l === l));
+    // An open Radak panel is a sibling of its row and not a row itself, so
+    // hiding the rows would leave it standing on its own under a letter it
+    // does not belong to. Picking a letter closes it.
+    list.querySelectorAll(".rad-open").forEach(p => p.remove());
+    list.querySelectorAll('.r[aria-expanded="true"]')
+        .forEach(r => r.setAttribute("aria-expanded", "false"));
     let n = 0;
     for(const r of rows){
       const hit = !l || r.dataset.l === l;
