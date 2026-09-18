@@ -83,8 +83,10 @@ spared. *Meilitz* can be traced either to מ-ל-צ or to ל-ו-צ.
   his reasoning.
 - Rabbi Shlomo Pappenheim takes the core of ל-צ as logical verbalization, usable
   for good (*meilitz*) or for ill (*leitzanus*, mockery); elsewhere he holds
-  that in many roots a prefixed mem reverses the two-letter core, so *leitz*
-  (scorn) becomes *meilitz* (justification, defense). Modern Hebrew's *leitzan*,
+  that in many three-letter roots a prefixed mem turns the meaning of the
+  two-letter core into its exact opposite, the letters standing as they are, so
+  *leitz* (scorn) becomes *meilitz* (justification, defense). Modern Hebrew's
+  *leitzan*,
   a clown, comes from *leitz* but has lost the pejorative edge.
 
 ### praklit (פרקליט)

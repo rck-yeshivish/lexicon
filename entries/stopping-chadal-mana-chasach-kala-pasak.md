@@ -148,7 +148,7 @@ and so they do (9:33), and Pharaoh sees they have ceased and hardens his heart
   foot from their paths (Mishlei 1:15), a conscious decision not to keep company
   with the wicked.
 - Rabbi Shlomo Pappenheim derives *mana* from the biliteral נ-ע, movement (as in
-  *tenuah*), on his theory that in many roots an initial mem inverts the
+  *tenuah*), on his theory that in many roots an initial mem inverts the sense of the
   two-letter root that follows: ח-ק engrave against מחק erase, ל-צ scorn against
   מליץ defend, ר-ד rule against מרד rebel, so *mana* is the opposite of motion.
 - Wertheimer cites Shmuel II 13:13 for its willful force.

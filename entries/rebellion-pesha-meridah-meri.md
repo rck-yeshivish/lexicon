@@ -15,7 +15,7 @@ words:
     tr: meridah
     en: revolt
     nk: מְרִידָה
-    distinct: revolt as a counter-response, throwing off a present ruler; the subjects asserting control, mem reversing ר-ד, lording over (Pappenheim); shares letters with merudim, downtrodden, joined by Rav Hirsch and split by Machberes Menachem
+    distinct: revolt as a counter-response, throwing off a present ruler; the subjects asserting control, a prefixed mem reversing the sense of ר-ד, lording over (Pappenheim); shares letters with merudim, downtrodden, joined by Rav Hirsch and split by Machberes Menachem
   - he: מרי
     tr: meri
     en: defiance
@@ -94,8 +94,9 @@ Bereishis 14:4, Melachim II 18:20, Yeshayahu 36:5, Yechezkel 2:3.)
   the standing of a respected human being.
 - Rabbi Shlomo Pappenheim also takes ר-ד as the root, the root of *rodeh*,
   lording over others and keeping them down (Bereishis 1:28, Vayikra 25:43); in
-  his system a mem prefixed to a biliteral often reverses it, so מ-ר-ד is the
-  opposite of lording over, namely the subjects asserting control.
+  his system a mem prefixed to a biliteral often turns its meaning about, the
+  letters standing as they are, so מ-ר-ד is the opposite of lording over, namely
+  the subjects asserting control.
 - The Gemara (*Sanhedrin* 49a) learns the death penalty for a *mored b'malchus*
   from Yehoshua 1:18, "any man who defies (*yamreh*) your mouth."
 
