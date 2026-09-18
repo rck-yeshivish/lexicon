@@ -82,8 +82,13 @@ pieces in:
   English renders the Hebrew rightly, which is what a human review is for, so a
   gloss stays `draft` until a person has read it against the source. It also
   refuses a citation printed in Hebrew and a part that is nearly all Hebrew,
-  both of which fail the reader the glosses are written for. Run it with
-  `check_entries.py` after writing any. `GLOSS-BRIEF.md` is the drafting brief.
+  both of which fail the reader the glosses are written for. `--thin` sets his
+  longest entries against the English written for them, thinnest first: it
+  cannot say a gloss is wrong, only that much of an entry has gone unreported,
+  which is a different fault from invention and invisible to every other check
+  here. That is how שׁבע was found carrying 23 characters on an entry of 3,654
+  that holds the week and the swearing of an oath as well as the number. Run it
+  with `check_entries.py` after writing any. `GLOSS-BRIEF.md` is the brief.
 - **`fetch_radak_pesukim.py [--refresh]`** saves the pesukim Radak cites, the
   ones `pesukim.json` does not already hold, to `references/radak-pesukim.json`,
   so the roots page can show a citation's text. Run it after
