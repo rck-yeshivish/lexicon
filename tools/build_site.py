@@ -1144,13 +1144,13 @@ def entry_page(e):
                "Where the authorities disagree": "disagree"}.get(headname, "")
         i = sid(headname)
         if headname == "Rendering guidance":
-            # Collapsed by default: most readers come to understand the words,
-            # not to translate them, and this section is advice for the second
-            # group. <details> needs no script, and a crawler or an LLM reading
-            # the HTML still gets the full text.
-            parts.append(f'<details class="guide" id="{i}"><summary><h2>{html.escape(headname)}</h2>'
-                         f'<span class="guide-hint">For translators</span></summary>{cites.link(md(mdtext))}</details>')
-            toc.append((i, headname, []))
+            # Not on the site. It is advice for a translator rather than an
+            # account of the words, which is what VERIFY means by not wanting
+            # that focus on the platform, and the collapsed panel it used to sit
+            # in was the least opened thing on the page. The section stays in the
+            # entries and now goes out through INDEX.md, which is where whoever
+            # wants it is reading. The cross-references that used to be appended
+            # just above it still are: that happens further up, before this.
             continue
         if headname == "At a glance" and glance_cards(mdtext):
             note = ('<p class="root-note">Words from one root, not synonyms: each card is a meaning of its own.</p>'
@@ -1508,6 +1508,11 @@ Entries are marked `status: draft`: sourced and checked for consistency, but
 not yet read one by one against the essays they rest on. Where a word has no
 per-word ruling, the site says which group it belongs to rather than implying
 its neighbours' glosses are its own meaning.
+
+This site says what the words mean and how the authorities separate them. It
+does not tell anyone how to translate them: each entry has a Rendering guidance
+section, and it is deliberately not published here. Do not read a gloss on these
+pages as the rendering to use.
 """)
 
     emit(f'assets/{ASSETS["css"]}', CSS)

@@ -9,6 +9,11 @@ distinction attributed to the authority who makes it, and disagreements between
 authorities laid out rather than flattened. Part 2 below gives each entry's full
 ruling so you can often decide without opening anything.
 
+Each entry in Part 2 carries its *Bottom line* and then its *Rendering guidance*.
+The Bottom line says what the words mean and how the authorities separate them;
+the Rendering guidance is the one place in this guide that says how to put them
+into English, and it is not on the website, only here.
+
 ---
 
 ## Part 1: Hebrew headwords (alef-bet order)
@@ -2091,189 +2096,1001 @@ its Bottom line; open it rather than guessing from the neighbouring words.
 
 *Gishah* is **to approach** in the strong sense: coming right up to something, and usually across a gap of standing or in awe of it. *Kiruv* is **to draw near** or **bring closer**, a step taken while still on the way, between parties on a level. So when Yehudah *vayigash* to the viceroy (Bereishis 44:18), Rabbi Klein's own conclusion, drawn twice and marked each time as what "it seems," is that he came up close and personal rather than merely nearer, and that he did so very deliberately, as a further step in his campaign for Binyamin's release; on the first of those readings, Rabbi Klein says, Yehudah may even have come close in a threatening way, as certain midrashic sources imply. In Aramaic the distinction disappears: Targum typically renders both by *kiruv* cognates.
 
+**Rendering guidance.**
+
+- Default: גישה "approached," קרב "drew near" or "brought near." Where the two
+  stand in one pasuk, as at Vayikra 2:8, the English must show two stages: "he
+  brings it near to the kohen, and the kohen brings it up to the mizbeiach."
+- Trap: English "approach" and "come close" will each cover both words. If a
+  passage argues from the Torah's choice of one over the other (Devarim 25:1
+  against Malachi 3:5; Vayikra 18:6), the rendering has to keep them apart or the
+  argument evaporates.
+- ויגש in Bereishis 44:18 is "then Yehudah came right up to him," not "approached
+  him," if the derashos on his boldness are in play.
+- קרבן stays "*korban*" or "offering," never "sacrifice of drawing near"; the
+  etymology belongs in a note.
+- Do not import the contrast into Aramaic. Targum renders both by *kiruv*
+  cognates (Bereishis 18:23, 33:6, 44:18 for *gishah*; Bereishis 20:4, Shemos
+  14:10, Vayikra 1:2 for *kiruv*), so a Targum-based argument cannot carry it.
+- Modern *kiruv*, "outreach," is a borrowed use; keep it transliterated and do not
+  read it back into a pasuk.
+
 **חמוש / חלוץ / מזוין / זין / ויירק / חומש / חלצים / אזן** — armed | chamush, chamushim, chomesh, chimesh, chalutz, chalutzim, chalatzim, chalitzah | reviewed | [armed-chamush-chalutz-mezuyan.md](entries/armed-chamush-chalutz-mezuyan.md)
 
 All three mean **armed**, and the Midrashim equate them outright: *Bamidbar Rabbah* 13:20 says *chamushim* means *chalutzim*, while *Mechilta d'Rabbi Yishmael* to Shemos 13:18 and *Shemos Rabbah* 20:19 say it means *mezuyanim*. *Chamush* is the Chumash's word (Shemos 13:18), tied by the grammarians to the *chomesh*, the part of the body where a weapon is typically girded, and by the derashos to *chamesh*, five. *Chalutz* is, on Rabbi Shlomo Pappenheim's reading, the **vanguard**, the men drawn out to go at the head of the army. *Mezuyan* is post-biblical, from Aramaic *zayin*, a weapon. Targum renders *chamush* in all four places by *zariz*, ready at a moment's notice, and often renders *chalutz* the same way; Onkelos gives *vayarek* of Avraham by *zariz* too. At Shemos 13:18 "armed" and "a fifth of them" are both live readings of one word.
+
+**Rendering guidance.**
+
+- Shemos 13:18: render "armed" with Ramban and the peshat, and footnote the
+  Mechilta's "one in five." Do not try to carry both in the English; a hedge
+  like "arrayed in fifties" satisfies neither reading.
+- Trap: English "armed" absorbs all three, and "arms" absorbs *zayin*, *neshek*
+  and *klei zayin*. Where the words stand together (the Midrashim equating
+  *chamushim* with *chalutzim* and with *mezuyanim*), that flattening is the
+  point and is fine; where a source distinguishes them (Malbim to Yehoshua
+  4:12), give *chalutzim* "the vanguard" or "the men drawn out" and keep
+  "armed" for *chamushim*.
+- *Chalutzim* of Bamidbar 32 is "as a vanguard" or "in the lead, armed," not
+  "pioneers"; whether the modern sense grows out of the biblical one is itself
+  disputed (the *Aspaklaria* exchange above), so it does not belong in a
+  translation of the pasuk.
+- *Chomesh* in Shmuel is the "lower abdomen" or "the fifth rib," with Sanhedrin
+  49a; do not render it "belly," which loses the anatomical precision the Gemara
+  is supplying.
+- Bereishis 41:34, *v'chimesh*: pick one, "he shall take a fifth" (Rashbam, Ibn
+  Ezra, Radak) or "he shall organize" (Onkelos, Rashi), and name the other in
+  a note. The two readings are not compatible in one English clause.
+- *Zayin* stays transliterated where the source is playing on the letter-name
+  (the *Avos d'Rabbi Nosson* passage, the absence of zayin from Tehillim 91);
+  elsewhere it is "weapon."
 
 **חרש / חשב / רקם / אמן / חרש** — artisan | charash, choresh, charashim, choshev, maaseh choshev, rokem, roikem, rikmah | reviewed | [artisan-charash-choshev-rokem.md](entries/artisan-charash-choshev-rokem.md)
 
 The Torah's three words for Betzalel's and Oholiav's skills (Shemos 35:35, 38:23) are not synonyms. *Charash* is the **craftsman** who reshapes raw material, wood, stone or metal. *Choshev* is the **designer**, who plans and combines finished materials into a figured work, hence *maaseh choshev* brocade. *Rokem* is the **embroiderer**, working in colors. Both are embroidery, and the Gemara (Yoma 72b) distinguishes them by how many faces the work shows.
 
+**Rendering guidance.**
+
+- Shemos 35:35 and 38:23: "craftsman, designer and embroiderer" is the safe set,
+  but in a Mishkan passage keep *maaseh choshev* and *maaseh rokem*
+  transliterated with a gloss. Rashi and the Rambam disagree about which is
+  which, so an English word commits the translation to one side silently.
+- Trap: "embroiderer" absorbs *choshev* and *rokem* together, and "craftsman"
+  absorbs *charash* and *uman*. Where the Torah lists all three, three distinct
+  English words are required.
+- *Charash* in a navi's list of exiles (Melachim II 24:14): "craftsmen," not
+  "smiths," since the word covers wood, stone and metal alike.
+- *Chacham charashim* (Yeshayahu 3:3): render it and footnote the machlokes.
+  "Skilled artisan" follows Ibn Ezra and the Gra; "master craftsman" follows
+  Radak; "one wise in Torah" follows Rashi and the Gemara. Do not blend them.
+- Aramaic *charash* as sorcerer must never be rendered "craftsman"; when both
+  senses are in play in one sugya, transliterate.
+
 **קידה / כריעה / השתחוויה / סגידה** — bowing | kidah, kida, kiddah, kriah, keriah, keri'ah, kriyah, hishtachavaah | reviewed | [bowing-kidah-kriah-hishtachavaah.md](entries/bowing-kidah-kriah-hishtachavaah.md)
 
 The Gemara (Megillah 22b, Berachos 34b) teaches that the three are not synonyms but three kinds of bowing: *kidah* is bowing the face, *kriah* is kneeling, and *hishtachavaah* is full prostration with hands and feet stretched out. Maharsha explains that each bows the head and some add more: *kidah* with the body otherwise erect, *kriah* on the knees, *hishtachavaah* stretched out on the floor. *Segidah* is Aramaic for *hishtachavaah* according to Radak; Malbim holds that the act may be the same but the purpose differs.
+
+**Rendering guidance.**
+
+- Trap: English "bow" absorbs all four. Where *kidah* and *hishtachavaah* stand
+  together, as in *vayikod ha'ish vayishtachu* (Bereishis 24:26), "bowed and
+  prostrated himself" keeps the Gemara's two distinct acts; "bowed and bowed
+  down" loses them.
+- "Worship" for *hishtachavaah* hides the physical act the Gemara defines and
+  Malbim's point that it gives honor. In Yeshayahu 44:17, where *segidah* and
+  *hishtachavaah* appear together, Malbim's reading needs two different words.
 
 **בוא / בא / ביאה / הליכה / הלך / אתה** — coming | bo, boh, biah, bi'ah, lavo, lehavi, lech, leich | reviewed | [coming-biah-halichah-atah.md](entries/coming-biah-halichah-atah.md)
 
 *Bo* is **come**: it looks at the destination, and, as Rabbi Shlomo Pappenheim explains, it covers both the arriving and the being on the way. *Lech* is **go**. Just how the pair divides is not settled: the Tosafists' reading of the makkos pesukim seems to suggest that *bo* somehow implies entering where *lech* does not, and Rabbi Klein offers two theories of his own, that *bo* fixes on the destination and *lech* on the place of departure, or else that *halichah* names the act of walking while *biah* names a change of place however it came about. He adds that a concordance would have to be consulted to see how well any of these theories pans out. *Atah* is **arrive**: like *bo* it faces the destination, but it names only the arrival and never the journey (Rabbi Pappenheim, cited by Malbim). *Bo* and *atah* are not interchangeable.
 
+**Rendering guidance.**
+
+- Keep the English pair honest: *bo* is "come," *lech* is "go." Where the same
+  parashah alternates them, as the makkos do, hold the pair even when English
+  idiom would prefer otherwise, because the Tosafists' reading of *bo el
+  Pharaoh* depends on it.
+- *Bo el Pharaoh* in a work that follows the Tosafists or the Zohar is better
+  rendered "come in to Pharaoh," which keeps the sense of entering.
+- *Atah*: "arrive," "has come," "came upon." Not a plain "come," which throws
+  away the finality.
+- Trap: English "come" absorbs both *bo* and *atah*, and English "go" will
+  quietly absorb *bo* whenever the sentence is about travel. If a phrase has
+  both (a prophecy of what will *atah* to one who *ba*), render the *bo* as
+  coming and the *atah* as arriving, and do not smooth the two together.
+- Participles: *ba* of a man still on the road is "coming," not "has come." The
+  Rachel and Yosef pesukim are the test cases.
+
 **בקיעה / קריעה / גזירה / חתיכה / בתר / נתח / פתיתה / מילה / פלח / קטב / פרימה / גדע / קציצה / קטיפה / כרת** — cutting | bokea, bekiah, bakia, korea, kriah, kriyah, keriah, gozer | reviewed | [cutting-bokea-korea-gozer.md](entries/cutting-bokea-korea-gozer.md)
 
 *Bokea* is **splitting open**, from the inside outward. *Korea* is **tearing**, and specifically of something soft, by a force from outside. *Gozer* is **cutting** with a blade through something thick, and by extension **decreeing**. *Chatichah* is the ordinary Rabbinic word for **cutting**, originally cutting in half. The splitting of the sea is called by all three verbs in different sources, each saying something different about who did what to what.
+
+**Rendering guidance.**
+
+- Keep the three sea-verbs distinct in English: "split open" for *bokea*, "tear"
+  or "rend" for *korea*, "cut" for *gozer*. *Krias Yam Suf* is conventionally
+  "the splitting of the sea," which is fine as a fixed English phrase, but where
+  a passage is asking why the Oral Torah says *korea*, render it "tearing" so the
+  question survives translation.
+- Trap: "split" will swallow both *bokea* and *korea*, and English has no natural
+  way to mark inside-out against outside-in. Where a source turns on that
+  difference, say it: "burst open from within," "torn open from without."
+- *Gezeirah* in a mussar or halachic passage is "decree." Where a source plays on
+  the cutting sense (Tehillim 136:13 and Rav Hirsch there), let the English carry
+  both: "cut" in the body, "decreed" noted alongside.
+- *Kriah* for mourning stays transliterated or reads "rending," never "cutting."
+- *Netach* and *chatichah* both reach English "piece." If a passage counts pieces,
+  *besarim* is two, *nesachim* is many.
+- Where *primah* and *kriah* appear together, mark the difference: one tear that
+  unravels the whole against one tear that removes one piece.
 
 **ריקוד / כרכור / פיזוז / פזז / רקד / מרקד / מכרכר / מפזז** — dancing | rikud, rikkud, rikod, rekidah, miraked, mirakedin, kirkur, micharker | reviewed | [dancing-rikud-kirkur-pizuz.md](entries/dancing-rikud-kirkur-pizuz.md)
 
 *Rikud* is the general word for **dancing**, and per Rabbi Moshe Tedeschi-Ashkenazi it names the joy that is the occasion for it; the other two, it seems to Rabbi Klein, describe specific acts of dancing. *Kirkur* (*micharker*) is the footwork: **whirling, capering**, which Rabbi Yosef Kara glosses as circular motion. *Pizuz* (*mifazez*) is the wild, fast part: **prancing** or **leaping about**, the hands and fingers moving with the feet. At Shmuel II 6:14 David is only *micharker*, and at 6:16, through Michal's eyes, he is *mifazez umecharker*. For Rabbi Zev Atlas, the added verb names what truly irked Michal.
 
+**Rendering guidance.**
+
+- Shmuel II 6:14 "David was whirling with all his might before Hashem"; 6:16
+  "leaping and whirling before Hashem." The pair must be two English words, and
+  the extra verb must appear only in the second pasuk.
+- Trap: English "dance" absorbs all three. Keep "dance" for *rikud*, which is
+  the neutral term, and force "whirl" or "caper" and "leap" or "prance" for the
+  other two wherever they stand together (Rambam, *Hilchos Lulav* 8:13).
+- Second trap: Rambam's 8:13 against 8:14 is a register distinction; if the
+  sages "danced" while the crowd "pranced and whirled," the English carries what
+  the Hebrew carried. Do not level the two halachos.
+- *Rikud* in the halachos of Shabbos is a term of art. Where the Yerushalmi's
+  definition is in play, render it "dancing (a step that keeps one foot on the
+  ground)" and keep *kefitzah* as "jumping," both feet off.
+- *Mifazez* in a mussar context (*ama peziza*, Reuven's *pachaz*) is "rash" or
+  "impetuous," not "dancing." The root carries speed; the passage decides
+  whether the speed is joy or recklessness.
+
 **כרה / חפר / חפירה / חצב / חציבה / הכרה** — dig | karah, kara, korah, chafirah, chafira, chofer, chafar, chatzivah | reviewed | [dig-karah-chafirah-chatzivah.md](entries/dig-karah-chafirah-chatzivah.md)
 
 *Karah* is the opening of a dig, the preparatory or partial digging that does not finish the work: **dig** in the sense of **begin to dig, hollow out**. *Chafirah* (verb *chofer*) is digging carried to completion and depth, down to the water: **dig out, dig through**; in the abstract, **search out**. *Chatzivah* is hewing rock with a tool: **hew, quarry** (Malbim; Rabbi Yosef Kara instead makes it digging a round pit). A verse that uses both verbs of one pit (Tehillim 7:16; Bereishis 26:25 against 26:32; Bamidbar 21:18) is not repeating itself, and *karah* is the *earlier, lesser* act (Malbim, Mecklenburg, Netziv, Rav Hirsch, Rabbi Shaul Bruch).
+
+**Rendering guidance.**
+
+- *Karah* alone: "dug," but where the halachah or the narrative turns on
+  incompleteness (Shemos 21:33, Bereishis 50:5) let the English show it:
+  "began to dig," "hollowed out," "prepared" for the grave.
+- *Chafirah* alone: "dug," "dug out"; of a well, "dug through to water." In
+  the abstract, "search out," "probe," "spy out," and hear Mecklenburg's
+  warning that it can shade into digging up dirt on someone.
+- The pair in one verse: Tehillim 7:16 "he dug a pit and dug it out";
+  Bamidbar 21:18 "the officers dug it out, the nobles of the people hollowed
+  it," keeping Rabbi Bruch's reversed order and its weight.
+- *Chatzivah*: "hew" or "quarry" (Malbim); if the text is about the shape of
+  the hole rather than the rock, Rabbi Yosef Kara's "round pit" is the
+  minority.
+- Trap: "dig" absorbs *karah* and *chafirah*, and "search" or "investigate"
+  could absorb abstract *chafirah* along with unrelated verbs of inquiry.
+  Where two digging verbs appear together, one English verb per Hebrew verb.
+- *Hakarah* (recognition) is a Pappenheim derivative, not a member of this
+  cluster; render it "recognition" and do not import the digging image unless
+  the text itself draws on Pappenheim.
 
 **דלה / שאב / דלי / דליות / דל** — drawing water | dalah, dalo, daloh, dilitani, yidlenah, shoev, shoeiv, shaav | reviewed | [drawing-water-dalah-shoev.md](entries/drawing-water-dalah-shoev.md)
 
 Both verbs mean **draw water**, and the difference is effort. *Dalah* is drawing from a deep well, lowering the pail and hauling it up: **draw up** or **draw out** (Malbim). *Shoev* is drawing without effort, most commonly where the water is already at hand, from a spring or surface pool: plain **draw**.
 
+**Rendering guidance.**
+
+- Yisro's daughters and Moshe at the well (Shemos 2:16-19) use *dalah*: "drew
+  up" water, with the labor in view. That is the wording the Shemini Atzeres
+  request for rain quotes back, *dalah dalah lanu*.
+- Yeshayahu 12:3, *"u'shavtem mayim b'sasson mimaayanei hayeshuah,"* uses
+  *shoev* precisely because the source is a spring (*maayan*). Render simply
+  "draw."
+- Mishlei 20:5: counsel in a man's heart is deep water and the man of
+  understanding *yidlenah*, "draws it out," the effortful verb, matching the
+  depth.
+- Rivkah at the well (Bereishis 24:11-45) is *shoev* throughout even though it
+  is a well, because the Midrash (*Bereishis Rabbah* 60:5) says the water rose
+  to meet her. The easy verb records the miracle.
+- Trap: English "draw" absorbs both, and also *moshech* (pull) and *mashui*
+  (drawn out, as in Moshe's name), which belong to a separate cluster. Where a
+  passage sets the two against each other, mark *dalah* with "draw up" or
+  "haul up" and keep bare "draw" for *shoev*.
+
 **שתיה / השקאה / משקה / הגמיאיני / תשוקה / שוקק / משק** — drinking | shtiyah, shesiyah, lishtos, lishtot, hashkaah, lehashkos, lehashkot, hishkah | reviewed | [drinking-shtiyah-hashkaah-gemiah.md](entries/drinking-shtiyah-hashkaah-gemiah.md)
 
 *Lishtos* is **to drink**, the act itself, and it is said only of people and animals; over 220 appearances in Tanach. *Lehashkos* is **to give to drink**, to water: it names the providing and not the drinking, and so is almost always in *hifil*; over 60 appearances, and it covers watering the ground as well as people and beasts. *Mashkeh* is the **beverage**, sometimes with the implication of an alcoholic one. *Hagmieini* is the servant's word, something along the lines of **let me drink**; Rashi ties its root to the Mishnaic word for **swallowing**. In the Rivkah narrative the Torah alternates the two roots. Rabbi Reuven Chaim Klein asks why Hebrew should have two different roots for drinking and giving to drink, when eating and feeding come off one root (א-כ-ל, *lechol* and *leha'achil*), and why the active *lishtos* should be confined to man and beast while the causative *lehashkos* reaches even to plants. He has wondered about these questions for years and has not yet found a satisfactory answer. What follows are etymological insights, not a resolution.
+
+**Rendering guidance.**
+
+- לשתות: "to drink." להשקות: "to give to drink," "to water," "to let drink."
+  Never "to drink" for the *hifil*.
+- משקה: "drink" or "beverage"; where the context is a feast, "strong drink" may be
+  right, but do not import alcohol where the Hebrew has not.
+- הגמיאיני: "let me sip," or "give me a swallow" where Rashi's ג-מ-ע reading is
+  being followed. "Let me drink" is not wrong but loses the word entirely.
+- Trap: English "drink" absorbs *lishtos* and *lehashkos* both. In Bereishis 24
+  the two alternate within single pesukim (24:14, 24:18, 24:19, 24:46), and the
+  point of the test is that Rivkah both drank and watered. Render "and she drank"
+  against "and she gave the camels to drink," and never merge them.
+- Second trap: תשוקה, שוק and שוק all belong to the same root as *lehashkos* on
+  every one of these readings, but in ordinary prose they are desire, thigh, and
+  market. Bring the connection out only where a source is darshening it.
 
 **סבא / שכר / שיכרון / שכר / זולל** — drunkenness | sove, soveh, sova, sava, savim, sovim, savaim, savyuta | reviewed | [drunkenness-sove-shachar-sheichar.md](entries/drunkenness-sove-shachar-sheichar.md)
 
 *Sove* is **swilling**, drinking intoxicants to excess; by Malbim it names the drinking itself, whether or not the drinker actually got drunk. *Shachar* is **getting drunk**, the state achieved. The noun *sheichar* is the **strong drink** that produces it. In the *ben sorer u'moreh* pasuk, *zollel* is the meat side (gluttony) and *sove* the drink side (swilling).
 
+**Rendering guidance.**
+
+- זולל וסובא (Devarim 21:20): "a glutton and a swiller," or "gorging on meat and
+  swilling wine." The Mishnah (*Sanhedrin* 8:2) fixes *zollel* to meat and *sove*
+  to wine, so the pair must stay two words in English.
+- Trap: "drunkard" for *sove*. It states the result, and by Malbim *sove* names
+  the drinking without asserting the result; reserve "drunk / drunkenness" for
+  ש-כ-ר. Where a passage contrasts them, "he swilled" against "he became drunk."
+- Note the halachic layer: *Sanhedrin* 71a and *Sifrei Ki Seitzei* 219 concede
+  that the wine reading of *sove* has no proof from the pasuk in Devarim, only a
+  hint from Mishlei 23:20, and Rambam (*Hilchos Mamrim* 7:1) grounds it in
+  tradition. So *sove* on its own is best rendered "swilling" or "drinking
+  himself drunk," not "drinking wine."
+- שכר as a noun in a pasuk: "strong drink" (Vayikra 10:9, Bamidbar 6:3) rather
+  than "beer"; save "beer" for the Rabbinic usage.
+- Do not render both סבא and שכר as "drink." One is the excess, the other the
+  substance or the state.
+
 **תמורה / חליפה / חלף / המר ימיר** — exchange | temurah, temura, hamer yamir, yamir, vayamiru, chalifah, chalifa, chalipha | reviewed | [exchange-temurah-chalifah.md](entries/exchange-temurah-chalifah.md)
 
 *Temurah* is **substitution**: putting a second thing in the place of the first, with the eye on the man who does it (Malbim) and, in several readings, on a downgrade (Rabbi Shapira-Frankfurter, Wertheimer, Rav Hirsch). *Chalifah* is **exchange** or **swapping out**: the eye is on the thing being gotten rid of (Rav Hirsch), and it is the neutral (Wertheimer) or even upgrading (Shapira-Frankfurter) word. Vayikra 27:10 uses both of the same prohibited act; Vayikra 27:33, stating the consequence, uses only *hamer yamir*. *Chalifah* is not merely a stylistic variant.
+
+**Rendering guidance.**
+
+- Where the two stand together in the parashah of *temurah*, render *temurah*
+  "substitute" and *chalifah* "exchange." English "swap" and "change" will
+  absorb both without a trace, so keep them out of a passage that turns on the
+  pair.
+- *Hamer yamir* (Vayikra 27:10, 27:33): "if he shall indeed substitute." Rav
+  Hirsch's point rides on the fact that the second pasuk uses only this root, so
+  a translation that renders both roots "exchange" destroys the derashah.
+- Tehillim 106:20 *vayamiru*: "and they exchanged their glory," but if the
+  Malbim's reading is being cited, "and they traded away" or "and they put in
+  its place" carries the *gavra* sense better; the point is that the change was
+  on their side, not on Hashem's.
+- *Chalaf* as the slaughtering knife: leave it transliterated. Translating it
+  "knife" loses Rav Hirsch's derivation from moving an animal from one state to
+  another, which is the whole reason the word is discussed.
+- Trap: "replace" reads naturally for both. Reserve it for *temurah*, where the
+  substitute is the point, and never use it for the Yeshayahu 2:18 *yachalof*,
+  where nothing takes the idols' place.
 
 **נס / ניסה / בורח / בריחה / רץ / ערק** — fleeing | nas, nos, nisah, nissah, vayanusu, veyanusu, boreach, borach | reviewed | [fleeing-nas-boreach.md](entries/fleeing-nas-boreach.md)
 
 *Nas* is **fleeing** from a danger already upon a man, openly and in terror. *Boreach* is **running away** from a feared future threat, with nobody actually in pursuit, and usually done quietly so as not to be seen. Sforno and Malbim agree on that core. *Boreach* is the one that carries stealth and a threat not yet arrived.
 
+**Rendering guidance.**
+
+- נס: "flee," or "fled" plainly. Bamidbar 10:35, *veyanusu mesanecha mipanecha*:
+  "and let those who hate You flee before You." The pursuit is present, so the
+  strong verb is right.
+- ברח: "run away," or "escape." Yaakov leaving Lavan (Bereishis 31:21) and Yonah
+  from before Hashem (Yonah 1:3) are both *boreach*, and both are quiet
+  departures ahead of a trouble not yet arrived.
+- Trap: English "flee" absorbs both. Where a passage or a *meforash* is turning
+  on the difference, split them: "flee" for *nas*, "slip away" or "run off" for
+  *boreach*, which keeps Malbim's stealth.
+- Trap: do not write "fled from an unseen pursuer" for *boreach*. Sforno's point
+  is that there is no pursuer at all yet, only the fear of one.
+- Trap: where *nas* means running toward (Shemos 14:27), "flee" is wrong. Render
+  it "ran," and note the exception rather than forcing Malbim's rule onto the
+  pasuk.
+
 **מכה / מכות / מלקות / לקה** — flogging | makkah, maka, makkot, makkos, malkut, malkus, malkuyot, lakah | reviewed | [flogging-makkot-malkut.md](entries/flogging-makkot-malkut.md)
 
 *Makkah* is a **blow**, and from there a **wound** and a **plague**; cognates of *makkah* are the Torah's own language for judicial **lashes**, and the plural *makkot* names them. *Malkut* is the Mishnaic word for the same punishment, **flogging**, which the linguist Avraham Even-Shoshan derives from the Aramaic root ל-ק-ה. On Even-Shoshan's account the two mean essentially the same thing in different languages, and Rabbi Klein posits from this that the masechta simply carries a Hebrew name and an Aramaic one. Two other authorities do read a real difference of scope into the pair, in opposite directions; and in any case *makkeh* is the one who strikes and *lokeh* the one struck (Rabbi Eliyahu HaBachur). The Tiferes Yisrael holds that *lakah* can mean impaired rather than struck.
+
+**Rendering guidance.**
+
+- מכה alone: "blow" for the act, "wound" for the mark, "plague" for a
+  visitation. Eser Makkos = the Ten Plagues; "ten blows" only where a passage
+  plays on the literal sense.
+- מכות in a halachic context: "lashes." מלקות: "flogging" or "lashes."
+- לקה: "was struck" of a person, but "was impaired," "was defective," or "was
+  eclipsed" where no striking is meant. "The sun was struck" in Sukkah 29a
+  imports a blow the sugya is not describing.
+- Trap: English "lashes" covers *makkot* and *malkut* both, and usually should.
+  Where it must not is a passage distinguishing Torah lashes from *makkos
+  mardus*: on Rabbi Shmuel Taieb's reading the choice of word is the ruling, so
+  keep the Hebrew and gloss it. When the two roots meet in one sentence the
+  active/passive split is the guide: *makkeh* strikes, *lokeh* receives.
 
 **מחילה / סליחה / כפרה** — forgiveness | mechilah, mechila, mechilas, mechilat, mochel, mocheil, mechal, selichah | reviewed | [forgiveness-mechilah-selichah-kapparah.md](entries/forgiveness-mechilah-selichah-kapparah.md)
 
 *Selichah* is **forgiveness** proper: the bond between the sinner and the One sinned against is mended (Rav Hirsch); it is the Biblical word (*salachti*, Bamidbar 14:20). *Mechilah* is **pardon**: the penalty remitted (Rav Hirsch); it is Rabbinic, never Biblical, and doubles as the word for forgoing what one is owed. *Kapparah* is **atonement**: every consequence of the sin wiped out (Rav Hirsch), at a price and usually through a korban (Malbim). The liturgy's סלח לנו, מחל לנו, כפר לנו uses all three. Rav Hirsch's three-way map is slightly more comprehensive than the others: neither Mecklenburg nor Wertheimer addresses how their two words differ from *kapparah* at all.
 
+**Rendering guidance.**
+
+- The triple: "forgive us, pardon us, grant us atonement." Keep three words.
+- *Mechilah* between people or in money: "waive," "forgo," "excuse" ("he
+  waived his honor," "she forgave the debt" in the plain financial sense).
+  "Pardon" is for the penal sense.
+- *Kapparah* is never "forgiveness": it carries the korban, the price, the
+  covering. "Atonement" is the settled English and Yom Kippur fixes it.
+- Trap: "forgiveness" absorbs all three, and "atone" is sometimes stretched to
+  *selichah*. If a passage turns on the order or the strength of the words
+  (Mecklenburg's deferral versus erasure, Wertheimer's slow versus immediate),
+  the English must keep three distinct nouns.
+- The sin pairings are a useful check: *selichah* for *avon*, *mechilah* for
+  *pesha*, *kapparah* for *chet* (see the sin entry, [sin](sin-chet-avon-pesha.html)).
+
 **אסיפה / קבץ / אגודה / קהילה / עדה / אגר** — gathering | asifah, asaf, asof, leesof, asif, kovetz, kavatz, lekavetz | reviewed | [gathering-asifah-kovetz-kehillah-agur.md](entries/gathering-asifah-kovetz-kehillah-agur.md)
 
 On the reading of Rabbi Yehuda Leib Edel, Rashi and Malbim, *asifah* is **gathering in**, bringing scattered things to where they belong, and *kovetz* is **collecting**, with no bringing-in implied. *Aggudah* goes further: the gathered are **bound** into one unit. *Kehillah* is an **assembly** of people, *eidah* for Bedersi a **congregation** joined for a purpose, *agur* is **stockpiling** for later.
+
+**Rendering guidance.**
+
+- Bereishis 49:1-2 is the test case; "gather yourselves" twice destroys it.
+  Render *he'asfu* "come in together" and *hikavtzu* "draw close together."
+- *Chag HaAsif*: "the Festival of the Ingathering," not "of the Gathering."
+  *Asifah* of death: "he was gathered to his people," passive.
+- *Aggudah*: "bundle" for the lulav, "band" for people, never "gathering."
+- Trap: "assembly" absorbs *kehillah*, *eidah* and *asifah* alike. Keep
+  "assembly" for *kehillah*, "congregation" for *eidah*, and give *asifah* a
+  verb rather than a noun wherever the English allows.
 
 **שמירה / נצירה / נטירה** — guarding | shemirah, shmirah, shemira, shomer, shamar, tishmor, netzirah, netzira | reviewed | [guard-shemirah-netzirah-netirah.md](entries/guard-shemirah-netzirah-netirah.md)
 
 *Shemirah* is the general word: **guard**, **watch**, **keep**, and by extension **wait for** something whose hour has not yet come; for the *Siddur HaRokeach* and Rabbi Wertheimer it is bounded in time. *Netzirah* is, for the Vilna Gaon and Wertheimer, the stronger watch, and for the Rokeach and Wertheimer the perpetual one: **safeguard**, **watch over** (unceasingly). *Netirah*, for Malbim, is holding something in the mind: **harbor** (a grudge), **hold on to**. *Lo sitor* (Vayikra 19:18) does not mean "do not guard" but "do not keep it stored up inside."
 
+**Rendering guidance.**
+
+- Vayikra 19:18: *lo sitor* is "do not bear a grudge" or "do not harbor it," and
+  the point Rashi is making is that outward compliance with the grudge intact is
+  the *aveirah*. Never render it "do not guard."
+- Trap: English "keep" covers all three, and "watch over" covers *shemirah* and
+  *netzirah*. Where a pasuk pairs them, split them: Mishlei 2:8 as "to safeguard
+  the ways of justice, and the way of His devoted ones it watches"; Tehillim
+  105:45 as "that they keep His statutes and guard His teachings."
+- Where *shemirah* means waiting (Bereishis 37:11, Tehillim 130:3, Shmuel I
+  1:12), "kept the matter in mind" or "waited" is right and "guarded" is wrong.
+  Yaakov is not protecting anything; he is holding the thing until its time.
+- If a passage follows the Vilna Gaon or the Rokeach, *netzirah* should read as
+  the heavier or the permanent watch, and the English should carry that
+  ("watched over always," "never let go of"). If it follows Rabbi Analak, the
+  contrast to draw is active against passive instead. Do not blend the two.
+
 **גילוח / גזיזה / גלב / ספר / מגלב / מספרים / תער** — haircut | giluach, gilu'ach, galach, gizah, geziza, gezizah, gozez, geiz | reviewed | [haircut-giluach-gizah-galav-sapar.md](entries/haircut-giluach-gizah-galav-sapar.md)
 
 *Giluach* is **shaving**, for Rabbi Shlomo Pappenheim a person's hair cut down to the skin; *gizah* is **shearing**, typically an animal's wool, and a cut that leaves something standing. *Galav* is a **barber** (or his razor), a *hapax legomenon* in Yechezkel 5:1. *Sapar* is not Biblical at all: it is the Targumic and Mishnaic word, "barber" and "to give a haircut," and it is the ordinary word today. The Torah uses *giluach* for the *metzora* and the Nazir.
+
+**Rendering guidance.**
+
+- *Metzora* and Nazir passages: "shave," never "cut his hair." Sotah 16a's "like
+  a gourd" is the standard, and Golumb hangs Onkelos's whole word choice on it.
+- Animal wool: "shear." *Reishis hageiz* is "the first of the shearing."
+- *Gizah* of a person (Iyov 1:20): "cut off his hair," since Pappenheim calls
+  this the borrowed use; keep the animal register out of a *pasuk* about a
+  mourner.
+- Yechezkel 5:1: "a barber's razor" (Radak). "Razor" alone loses that the word
+  names the man.
+- Trap: English "cut" absorbs *giluach* and *gizah* both. Where Pappenheim's
+  second distinction is at issue, use "shave clean" against "trim" or "crop," so
+  the close cut and the cut that leaves stubble stay apart.
+- Trap: *l'saper* means both "to give a haircut" and "to tell." In a Mishnaic
+  citation check which one the context wants before reaching for "recount."
 
 **פסח / דילוג / קפיצה / פיסח** — jumping | pesach, pesah, poseach, piseach, pisei'ach, dilug, dilluk, doleg | reviewed | [jumping-pesach-dilug-kefitzah.md](entries/jumping-pesach-dilug-kefitzah.md)
 
 On Rabbi Klein's account, *dilug* is **skipping**: the focus is on what got passed over. *Kefitzah* is **leaping**: the focus is on covering ground fast. *Pesach* holds both, and that, he explains, is what Rashi means when he calls it an expression of *dilug* and *kefitzah* together.
 
+**Rendering guidance.**
+
+- Shir HaShirim 2:8, מדלג על ההרים מקפץ על הגבעות: "leaping over the mountains,
+  bounding over the hills." Two English verbs, and keep the taller obstacle with
+  *midaleg*.
+- *Pesach* and *pasach*: "pass over," in the makkah, the korban, and the name of
+  the Yom Tov alike. "Jump over" loses the skipping sense and imports a body.
+- *Kefitzah* in an idiom of haste ("*kafatz v'nishba*"): "he blurted out an
+  oath," not "he jumped." The word has gone over to speed and rashness.
+- *Kefitzas haderech* stays transliterated with a gloss; "shortening of the way"
+  is the sense, but the phrase is a fixed term.
+- Trap: English "jump" will swallow *dilug*, *kefitzah* and *pesach* together.
+  Assign "skip" to *dilug*, "leap" or "bound" to *kefitzah*, and "pass over" to
+  *pesach*, then hold the assignment across the passage.
+- Trap: in a *derashah* on Rashi's comment, both components have to survive into
+  English, or the whole point (that *Pesach* is the two at once) collapses.
+
 **נוהג / מוליך / נחה / נהל / מנהג / מנהיג / מנהל** — leading | noheg, nohaig, nihag, vayinhag, yinhagu, manhig, minhag, nahag | reviewed | [leading-noheg-molich-nachah-nohel.md](entries/leading-noheg-molich-nachah-nohel.md)
 
 Four verbs, all "lead," and they are not interchangeable. *Noheg* is to **drive**: leading by force, from strength, keeping the charges on a fixed course, and, unlike *nachah* and *nohel*, it can sometimes be used of leading something to its ruin. *Molich* is to **take** or **bring**, a form of *holech*, moving people from one place or state to another. *Nachah* is to **guide**: leading that shields those led from harm and brings them to rest. *Nohel* is to **lead with care**, the leader who not only shields but provides and sustains. Shiras HaYam sets *nachisa* and *neihalta* in one pasuk (Shemos 15:13), and Rabbi Pappenheim reads the pasuk as built on the contrast between them.
+
+**Rendering guidance.**
+
+- Fix one English verb to each and hold it through a passage: *noheg* "drive"
+  (or "lead" where "drive" is too harsh), *molich* "take" or "bring", *nachah*
+  "guide", *nohel* "lead gently" or "sustain".
+- The worked example is Shemos 15:13. "You guided (*nachisa*) with Your kindness
+  the nation You redeemed; You led them with care (*neihalta*) in Your strength
+  to Your holy abode." One "led" for both flattens the pasuk, since the first
+  half is rescue from harm and the second is being brought home and provided for.
+- Trap: English "lead" absorbs all four. Where a source is comparing them (a
+  Malbim, a Pappenheim), never render two of them with the same word in the same paragraph.
+- *Noheg* of a negative outcome should be "drove," not "led": the chariots that
+  drove their riders into the sea (Shemos 14:25), Lavan's charge that Yaakov
+  drove his daughters off like captives (Bereishis 31:26).
+- *Minhag* is "custom". Where a source plays
+  on *minhag* and *noheg* together, the English needs the link spelled out,
+  since "custom" and "drive" share nothing.
 
 **לחיכה / לקיקה / חיך / ילק / מליקה** — licking | lechichah, lechicha, lechikhah, lichach, lakak, lekikah, lekika, yalok | reviewed | [licking-lechichah-lekikah.md](entries/licking-lechichah-lekikah.md)
 
 Both mean **lick**, and Ibn Saruk and Radak define one by the other. Where they are told apart, *lekikah* is **lapping up** liquid, the dog-at-the-water sound (Rabbi Moshe Tedeschi-Ashkenazi); *lechichah* is **licking away** something firmer, an ox stripping a field bare (Bamidbar 22:4). English "lick" in the sense of *defeat* grew out of Bamidbar 22:4 itself; that the English word's two senses, smiting and licking, resemble ל-ק-ה and ל-ק-ק is something linguists would probably put down to chance.
 
+**Rendering guidance.**
+
+- Bamidbar 22:4 (*yelachaku*, twice): "lick away" or "lick clean." Do not soften
+  to "graze"; the mashal wants the totality of what the ox leaves behind.
+- Shoftim 7:5-7 (*yalok*, *hamelakekim*): "lap" and "the lappers." English
+  "lick" here loses the dog and loses the test.
+- Melachim I 21:19 (dogs and blood): "lick" is right and should stay ugly.
+- Trap: English "lick" absorbs both words without a trace. If a passage sets the
+  two side by side, or a derashah hangs on the root (Amalek, Balak), fix
+  *lekikah* to "lap" and reserve "lick" for *lechichah*, and say in a note that
+  the Hebrew uses two roots.
+- Second trap: "lick" in English also means to beat or defeat, an idiom
+  traced to Bamidbar 22:4 itself. That makes "lick" serviceable in
+  Balak's mouth, but never use it that way for *lekikah*.
+
 **עירוב / מזיגה / דימוע / דמעה / זג / נבוך / בוכה / נחמה** — mixing | iruv, eiruv, irbuv, taarovet, taaruvos, hisarvu, vayisarvu, mizug | reviewed | [mixing-iruv-mizug-dimua.md](entries/mixing-iruv-mizug-dimua.md)
 
 *Iruv* is for **dry** things intermingling: **mixing, intermingling**. *Mizug* is for **liquids**, specifically the pouring of one into another: **mixing, diluting** (a cup of wine). *Dimua* is the Mishnaic term for mixing, used for instance of **terumah** that has fallen into unsanctified produce: **commingling**. *Dimua* and *dimah* ("tear") are the same root ד-מ-ע, and how the two senses relate has been the subject of much discussion; most of the commentators below hold them connected, Ibn Janach being the one who does not.
+
+**Rendering guidance.**
+
+- Choose by state of matter: people, seed and populations intermingling take
+  *iruv* ("mixed in with," "intermingled"); wine and water take *mizug*.
+- A cup at the Seder: "they **mixed** him a cup," not "poured." The Mishnah's
+  verb is about dilution, and "poured" loses it.
+- *Dimua* in a halachic context: keep it, "the mixture became *meduma*," and
+  gloss once. English "mixed" will not carry the terumah-specific rule.
+- Trap: English "mix" absorbs all three at once. Where a source lines them up,
+  fix the renderings (intermingle / dilute / commingle) before translating.
+- Trap: *dimah* is both "tear" and the terumah-tithe. Shemos 22:28 is not about
+  tears; render by the tithe and footnote the tear sense if a drashah needs it.
+- Where ד-מ-ע means tear and mixture at once (Bava Basra 15a, where one view is
+  that Yehoshua wrote the last eight pesukim of the Torah and another that
+  Moshe wrote them *b'dema*), name the reading you follow: "with tears," that
+  is, while crying, the classical understanding, so Ritva and *Sheilas Yaavetz*
+  vol. 1 §13; in tears instead of ink, so Rashba and Maharsha,
+  and Rabbi Dovid Tzvi Hoffmann prefers this since the Gemara said *b'dema* and
+  not *b'dima'os*; or letters written mixed up and unreadable until after his
+  death, so the Vilna Gaon (*HaKsav VeHaKabbalah* to Devarim 34:5; *Kol
+  Eliyahu*), with Rabbi Kalonymos Kalman Epstein reading *dema* as Moshe's own
+  mind clouded as at no other prophecy.
 
 **רציחה / הריגה / קטילה / מיתה** — murder | retzichah, retzicha, rotzeach, ratzach, tirtzach, harigah, hariga, harag | reviewed | [murder-retzichah-harigah-ketilah.md](entries/murder-retzichah-harigah-ketilah.md)
 
 *Retzichah* is **murder**: killing with no legal warrant, and the word itself passes the verdict. *Harigah* is **killing** plain, lawful or not, direct or brought about at a distance, and it covers animals and plants as well as people. *Ketilah* is the Aramaic word the Targumim use for both, the ordinary Aramaic for **kill**; in the few Hebrew pesukim it is disputed. *Lo tirtzach* means "do not murder," not "do not kill," and the choice of root, Bedersi explains, confines the prohibition of extra-judicial killing to people, not animals or plants.
 
+**Rendering guidance.**
+
+- *Lo tirtzach*: "do not murder." "Thou shalt not kill" is the classic English
+  error, and it makes the Torah forbid what it elsewhere commands.
+- Trap: English "kill" absorbs all three roots. Where a passage contrasts them,
+  use "murder" for *retzichah* and "kill" or "put to death" for *harigah*.
+- הרג of an animal or a plant: "kill," never "murder"; where a king brought a
+  death about at a distance (Shmuel II 12:9), "had him killed."
+- קטל in a Targum or a sugya: "kill"; where it means "cut," "cut."
+
 **הניא / יניא / הפר / הפרה / בטל / בטלה / פור / נא** — nullify | heini, heni, yani, hafarah, hafaras nedarim, heifer, hefer, batel | reviewed | [nullify-heini-heifer-batel.md](entries/nullify-heini-heifer-batel.md)
 
 *Heini* (*yani*) works on what has not yet come about: **restrain**, **hold back**, stop a plan from being carried out. *Heifer* works on what already exists: **annul**, **break**, crumble a standing legal reality out of being. That is why Bamidbar 30 uses both of a husband nullifying his wife's neder: he *heini*s her plan and *heifer*s the vow (Rabbi Shlomo Aharon Wertheimer). *Batel* is the Rabbinic word, apparently Aramaic in origin: **void**, and by extension **idle, futile**.
+
+**Rendering guidance.**
+
+- In Bamidbar 30, distinguish: *heini* is "restrain" or "hold her back";
+  *heifer* is "annul" or "void." "He annulled her vow and restrained her" keeps
+  both alive.
+- Tehillim 33:10 has both verbs, and the pairing is worth keeping visible: the
+  *heini* clause is "He frustrates the designs of the peoples," where there is
+  no standing instrument to annul. Do not attach "annuls" to that clause.
+- *Heifer bris* (Yeshayahu 24:5 and its like): "broke the covenant," which
+  keeps the *pur* image; "violated" loses it.
+- *Batel* and *bitul* stay transliterated in halachic contexts (*bitul
+  chametz*, *bitul b'rov*, *bitul Torah*) with a gloss at first use. In plain
+  prose, "void" or "nullified."
+- Trap: English "nullify" will swallow all three. Where a source is reading the
+  Torah's switch between *heini* and *heifer*, keep the Hebrew visible; a
+  translation that says "annul" twice has erased the derashah.
+- *Batalah* in a mussar passage is "idleness," not "nullification"; the two
+  senses of the root do not travel together into English.
 
 **נתן / שם / שת / סמים / בשם / אסם / סימן / שתות / שתי** — placing | natan, nasan, sam, sim, som, shat, shas, shes | reviewed | [placing-natan-sam-shat.md](entries/placing-natan-sam-shat.md)
 
 Rabbi Shlomo Pappenheim ranks the three by how deliberate and how lasting the placing is. *Natan* is the loosest: **put** something down, anywhere. *Sam* is **place**, into a spot designated for it, as part of a plan, but for no stated duration. *Shat* is **set** or **lay**, placed into an order and meant to stay there indefinitely.
 
+**Rendering guidance.**
+
+- נתן: "put." Keep the plainest English verb for the plainest Hebrew one.
+- שם: "place" or "set in place."
+- שת: "set" or "lay," and where the permanence is the *chiddush*, "set for all
+  time" or "established."
+- Trap: "put" will swallow all three. Shemos 40:18 alternates *natan*, *sam*,
+  *natan* in one pasuk; three "put"s destroy the reason the Torah alternated.
+- Trap: לא שת לבו and לא שם לבו both come out "he did not take it to heart."
+  Where both appear (Shemos 7:22 against 9:21), distinguish them:
+  "would not set his heart to it" against "did not give it a thought."
+- Trap: do not upgrade *sam* to permanence. It says a designated place, not a
+  lasting one; the duration is what *shat* adds.
+- Frequency, as a check on how marked *shat* is: by Even-Shoshan's concordance,
+  cognates of *shat* appear some 85 times in Tanach, and cognates of *sam* five
+  hundred times more than that.
+
 **לחץ / דחק / נגישה / נוגשים / אץ / אלץ** — pressure | lachatz, lochatzim, lochatz, dchak, dechak, d'chak, negisah, negisha | reviewed | [pressure-lachatz-dchak-negisah-atz.md](entries/pressure-lachatz-dchak-negisah-atz.md)
 
 *Lachatz* is **pressure** applied; on Rabbi Shimon Schwab the eye is on the one applying it. *D'chak* is **crowding** or **squeezing out**, and on Rabbi Shlomo Pappenheim's crudest sense it is shoving a man from his place so that someone else can have it. How the two differ is itself disputed, with five readings that do not agree, Rabbi Eliezer Ashkenazi and Pappenheim taking opposite sides on which of the two carries the malice. *Negisah* is the **taskmaster's driving**, relentless and up close. *Atz* is **hurrying** someone along, or on Rabbi Posen's Targum reading physically pushing him. *Alatz* is **pressing with words**, cajoling on Pappenheim, tied to *lachatz* by Ramban and Radak, and read as making a man angry by Ibn Janach. The Haggadah's *v'es lachatzeinu, zeh had'chak* is a gloss of one by the other.
+
+**Rendering guidance.**
+
+- Devarim 26:7 with the Haggadah: "and our pressure, this is the crowding," or
+  better, keep both transliterated and gloss once. Rendering both "oppression"
+  or both "affliction" leaves the reader with a derashah that explains a word by
+  itself.
+- Shemos 5:13: "the taskmasters pressed them," with *nogsim* as "taskmasters"
+  and *atzim* as "urging them on" or "driving them to hurry." Two verbs of
+  pressure sit in one clause, so one English word will not do for both.
+- Bereishis 19:15: "the malachim urged Lot on." If Rabbi Posen's reading is
+  wanted, "pressed Lot" and note the Targum; Pappenheim's reading gives "hurried
+  Lot."
+- Shoftim 16:16: "she pressed him with her words," or following Pappenheim "she
+  cajoled him." Following Ibn Janach it would be "she vexed him"; say which.
+- Devarim 15:2, *lo yigos*: "he shall not press [for payment]." Not "oppress,"
+  which is too strong for a creditor collecting a real debt, and Malbim's
+  *negisah*/*nosheh* line depends on the difference.
+- Trap: English "oppress" and "press" will absorb *lachatz*, *d'chak* and
+  *negisah* at once, and "urge" will absorb *atz* and *alatz*. Where two stand
+  in one pasuk or one derashah, give each its own word; where one stands alone
+  in narrative, plain "pressed" is right.
 
 **משה / משך / שאב / שאף / משי** — pulling and drawing | moshe, mashah, mishitihu, yamsheini, mashui, moshech, meshech, shoev | reviewed | [pulling-moshe-moshech-shoev-shoef.md](entries/pulling-moshe-moshech-shoev-shoef.md)
 
 *Moshech* is the general verb: **pull, draw**, taking something from its place toward oneself. *Moshe* is narrow and almost always in water: **draw out of the water** (Rashbam). *Shoev* is **draw water**, in almost all biblical instances from a well; *shoef* is its air counterpart, **inhale**, and in *sheifah*, **yearning**. Wertheimer is the one who holds the water/air line in practice.
 
+**Rendering guidance.**
+
+- Keep "draw out of the water" for *moshe*; bare "drew" loses the name's point.
+- *Moshech* takes "pull" when a person or object is moved, "draw" when the sense
+  is toward oneself, "prolong" when it is time or sound.
+- Where *shoev* and *shoef* stand near each other, render "draw" and "inhale";
+  never let "draw in" cover both.
+- Trap: a passage with both *moshe* and *moshech* reads as repetition in English
+  unless the water is marked in the one and left out of the other.
+- On why the name is Moshe (active) and not Mashui (passive), see the section
+  above. Render "Moshe" and let a note carry the readings; Rabbi Klein does not
+  pick among them, closing only that the name "encompasses various
+  interpretations, reflecting his destiny to lead, save, and liberate."
+
 **פוצר / דוחה / דוחף / הדף / דופק** — pushing | potzer, potzeir, patzar, docheh, dochech, dachah, dechitani, dechi | reviewed | [pushing-potzer-docheh-dochef-hadof.md](entries/pushing-potzer-docheh-dochef-hadof.md)
 
 *Potzer* is to **press** or **urge** someone until he relents; it is almost always about a person's will, not his body. *Docheh* is to **push away**, to remove a thing from its place, and in halachic Hebrew for one law to **override** another. *Dochef* is to **hurry** someone, pushed into moving faster than planned. *Hadof* is to **thrust away** or **dislodge**, particularly what is loosely held. *Dofek* is repeated beating: to **knock** at a door, to **drive** animals too hard, later a **pulse**. *Docheh* in a sugya is not physical at all.
+
+**Rendering guidance.**
+
+- Trap: one English "push" swallows all five. Assign them: *potzer* "press" or
+  "urge," *docheh* "push away" or "override," *dochef* "hurry," *hadof* "thrust
+  away," *dofek* "knock" or "drive."
+- *Docheh* in a halachic sentence never means bodily pushing. "Aseh docheh lo
+  saaseh" is "a positive command overrides a prohibition," and "pushes away" is
+  a translation of the metaphor, not of the law.
+- Bereishis 19:3 and 19:9 use the same verb six pesukim apart, once of a host's
+  hospitality and once of a mob. Keep the same English root in both if you can
+  ("pressed," "pressed hard upon"), since the repetition is the Torah's, but
+  Mecklenburg's reading of the second lets you write "shoved" there.
+- Shir HaShirim 5:2 turns on whether *dofek* is gentle or forceful. "Knocks"
+  holds both; "pounds" commits you.
 
 **מוסר / תוכחה / תוכחת / יסורים** — rebuke | mussar, musar, mosar, yissurin, yisurin, yissurim, yisurim, tochachah | reviewed | [rebuke-mussar-tochachah.md](entries/rebuke-mussar-tochachah.md)
 
 *Tochachah* is **reproof** (or **rebuke**): spoken, argued, proving to the other that he did wrong, about his past deeds, and possible between equals. *Mussar* is **discipline** (or **chastisement**): from a superior to a subordinate, by word or by blow, aimed at his future conduct; the Vilna Gaon ties it to *yissurin*, afflictions.
 
+**Rendering guidance.**
+
+- The pair מוסר ותוכחת (as in Mishlei, e.g. 5:12): "discipline and reproof."
+  Two words, and the order of the Hebrew.
+- *Tochachah* standalone: "reproof" where the argument is the point, "rebuke"
+  where the register is blunt. The two Torah passages keep their proper name,
+  "the Tochachah."
+- *Mussar* standalone in the sense of chastisement: "discipline,"
+  "chastisement," or "correction" (Malbim's future-facing sense); of Hashem's
+  afflictions, "chastening." In the sense of the ethical discipline, "moral
+  instruction," or the transliteration.
+- Trap: "rebuke" absorbs both words, and "discipline" in English also names a
+  field of study, which happens to match *mussar*'s second sense but blurs
+  the first. When a passage turns on the Gaon's mouth-versus-limbs line or
+  Malbim's past-versus-future line, the English must show which word is
+  which.
+- Where a derashah draws on the kinship to *yissurin* (the Gaon), render
+  *yissurin* "afflictions" or "sufferings" and keep *mussar* as "discipline,"
+  so the two stay visibly related.
+
 **גאולה / פדיון / פדות / גואל / פודה / גאל / פדה / פדע** — redemption | geulah, ge'ulah, geula, goel, go'el, pidyon, pidyan, pedus | reviewed | [redemption-geulah-pidyon.md](entries/redemption-geulah-pidyon.md)
 
 *Pidyon* (verb *podeh*) is redemption by exchange: **ransom**, **buying back**, the fact of being freed. *Geulah* (verb *goel*) is redemption by right of kinship and by force, with no payment: **redemption**, **deliverance**, and it carries the sense of being raised up, not merely let out. Several explanations run in the same direction (the Chatam Sofer, Rabbi Menachem Mendel of Kosov, Malbim), each making *geulah* the fuller term and *pidyon* the bare one; the Vilna Gaon sets exchange against sheer force, and Rabbi Chaim of Brisk and Rabbi Shmuel Tuvia Stern cut the difference on other axes.
+
+**Rendering guidance.**
+
+- פדיון with a price in view (*pidyon haben*, *pidyon shevuyim*, redeeming
+  hekdesh or a field): "redemption" is conventional, but where the passage
+  turns on the exchange, prefer "ransom" or "buying back," or gloss "(a
+  redemption by exchange)."
+- גאולה: "redemption" is the settled English; "deliverance" where the sense is
+  rescue by force. When *geulah* is contrasted with *pidyon*, let the English
+  show the lift (Chatam Sofer): "not merely rescued but redeemed."
+- גואל as the kinsman (*goel hadam*, the *goel* of Rus): "redeemer" keeps the
+  kinship sense that Malbim's closeness principle reads into the word; do not
+  write "avenger" alone.
+- Trap: English "redemption" absorbs both words. In a passage that names them
+  together (the Vilna Gaon's two redemptions of Pesach night, or a derashah on
+  why one pasuk says *podeh* and another *goel*), keep both Hebrew words
+  visible and render *pidyon* as "ransom/exchange" and *geulah* as
+  "redemption."
+- The Aramaic *purkan* belongs to this field as well; see the salvation entry
+  ([salvation](salvation-yeshuah-teshuah-hatzalah-purkan.html)) for that cluster.
 
 **שוב / תשובה / השבה / חזרה / שבת** — return | shuv, shuva, shuvah, teshuva, teshuvah, hashava, hashavah, lehashiv | reviewed | [return-shuv-chazarah.md](entries/return-shuv-chazarah.md)
 
 *Shuv* is returning **to** a place or condition: **return**, and *teshuvah* is **repentance** precisely because it is a return. *Chazarah* is the about-face itself, the act of **turning back** or **reverting** from where one now stands. *Shuv* names the destination, *chazarah* names the U-turn. *Chazarah* is Mishnaic; it never appears in Tanach.
 
+**Rendering guidance.**
+
+- *Teshuvah*: **repentance**, and where the drashah turns on
+  the root, gloss it "the return." Do not render it "atonement"; that is
+  *kapparah* and belongs to a different cluster.
+- *Shuv* in a pasuk: **return** or **turn back**. Where the pasuk is about
+  reverting to sin (Yechezkel 33:18), "turns back" carries the sense.
+- *Chazarah* in Rabbinic Hebrew: **going back**, **reverting**, **retracting**,
+  or **repeating**, whichever the context wants; *chozer bo* is "retracts."
+- Trap: English "return" will absorb both words. When a passage uses them
+  together (the colloquial *chazar b'teshuvah*), do not write "returned in
+  return." Render the pair by its two motions: he turned his life around and
+  came back.
+- Do not use *chazarah* to explain a Biblical verse's word choice; the word is
+  not Biblical.
+
 **ישועה / תשועה / הצלה / פורקן / שועה / מושיע / מציל** — salvation | yeshuah, yeshua, yeshuos, yeshuot, teshuah, teshua, teshuos, teshuot | reviewed | [salvation-yeshuah-teshuah-hatzalah-purkan.md](entries/salvation-yeshuah-teshuah-hatzalah-purkan.md)
 
 *Yeshuah* and *teshuah* are **salvation**, specifically salvation that answers a cry (*shav'ah*) for help, and for the Rokeach total release from oppression. *Hatzalah* is **rescue**, being pulled out of danger (root sense "separate, remove"). The Rokeach calls it partial or temporary next to *yeshuah*; Malbim has it carrying more, protection from future troubles on top of the saving. *Purkan* (Aramaic, the Targum's *pidyon*) is **redemption**, being bought back.
+
+**Rendering guidance.**
+
+- ישועה: "salvation"; in a pasuk, "deliverance" also serves. תשועה: "salvation"
+  or "deliverance"; where Rav Hirsch's reading fits (a war, a freedom
+  regained), "victory" is defensible with a gloss.
+- הצלה: "rescue," "saving," "being saved"; מציל: "rescuer," "one who saves."
+  Not "salvation."
+- פורקן in a tefillah: "redemption"; leave it beside *teshuah* as two words,
+  not one.
+- Trap: English "salvation" (and "save") absorbs *yeshuah*, *teshuah*, and
+  *hatzalah* alike. In *Al HaNissim* (פורקן ... תשועה) or a derashah on why a
+  pasuk says *vayoshi'a* rather than *vayatzel*, keep each Hebrew word its own
+  English: purkan "redemption," teshuah "salvation," hatzalah "rescue."
+- When the three appear together, keep them apart by aspect, which is how Rabbi
+  Klein himself sums up: *purkan* is the redeeming aspect, as though Hashem
+  bought us back after proverbially selling us; *teshuah* is salvation as a
+  response to our prayers for help; *hatzalah* is salvation as the separating of
+  us from a dangerous position.
 
 **חטא / עון / פשע / עבירה** — sin | chet, cheit, chait, chatas, chatat, chataim, chatati, chatasi | reviewed | [sin-chet-avon-pesha.md](entries/sin-chet-avon-pesha.md)
 
 *Chet* is the general and lightest word: **sin**, and beside its neighbors the **inadvertent sin** (*shogeg*). *Avon* is **iniquity**, the wanton or intentional sin (*meizid*). *Pesha* is the **rebellious sin**, done to defy Hashem. That is the Gemara's ladder (Yoma 36b), and the *vidui* keeps its ascending order: "I have sinned, I have done iniquity, I have rebelled." Rabbi Netanel Weil: the difference between *chet* and *avon* holds only when the two stand together; a lone *chet* or *avon* covers every kind of sin and is simply "sin." *Aveirah*, the Rabbinic catch-all, is **transgression**.
 
+**Rendering guidance.**
+
+- The triple, in the *vidui* or in a pasuk: "sin, iniquity, and rebellious
+  sin" (or as verbs, "I have sinned, I have done iniquity, I have rebelled").
+  Keep the ascending order; never collapse two of them into "sin."
+- Standalone: *chet* is "sin"; *avon* is "sin" too (Weil), and "iniquity" only
+  where the text sets it against *chet*; *pesha* alone is "rebellious sin" or
+  "willful transgression," so the defiance stays audible.
+- *Chet* is "inadvertent," not "accidental" or "a mistake": the *vidui*
+  confesses it, and Rabbi Moshe Shapiro reads it as a goal missed.
+- Trap: "sin" absorbs all three, and "transgression" is ambiguous between
+  *pesha* and *aveirah*. Reserve "transgression" for *aveirah*; give *pesha*
+  the word "rebellious."
+- Malbim and Peirush HaRokeach re-sort the three (by motive; by benefit). If a
+  derashah turns on their reading, follow it and say so; otherwise the Gemara's
+  *shogeg* / *meizid* / *mered* ladder is the default.
+
 **שחיטה / זביחה / טביחה / טבח / נחירה** — slaughter | shechitah, shechita, shechitas, zevichah, zevicha, zevach, zevah, tevichah | reviewed | [slaughter-shechitah-zevichah-tevichah.md](entries/slaughter-shechitah-zevichah-tevichah.md)
 
 *Shechitah* is **ritual slaughter** in the halachic sense, and by Rabbi Shlomo Pappenheim's reading it is also the **general word for putting a living thing to death**. *Zevichah* is slaughter **for a purpose**, above all **sacrificial slaughter**. *Tevichah* is slaughter **for eating**, killing an animal for food in a general way, even outside the frame of ritual slaughter. Rabbi Yonah ibn Janach dissents on that last word entirely and reads *tevichah* as **cooking**.
+
+**Rendering guidance.**
+
+- *u'tevoach tevach* (Bereishis 43:16): the cognate accusative wants an English
+  doubling, "slaughter a slaughtering" or, better in a chumash context, "have an
+  animal slaughtered and butchered."
+- Trap: "slaughter" absorbs all three. Reserve plain **slaughter** for
+  *shechitah*, use **sacrifice** or **slaughter as a korban** for *zevichah*,
+  and **butcher** or **slaughter for food** for *tevichah*.
+- Where *zevichah* and *shechitah* appear together in one passage, do not
+  flatten them; Ralbag to Devarim 12:21 makes the gap load-bearing (*zevichah*
+  can take in *nechirah*, which is not valid *shechitah*).
+- *sar ha'tabachim*: "chief of the butchers" follows Rashi, "chief executioner"
+  follows Onkelos, Ibn Ezra and Ramban. Pick one and footnote the other; do not
+  write a compromise that says neither.
+- *nechirah* is **stabbing**, never "slaughtering," even where Chullin 17a calls
+  it the Noahide's *shechitah*.
 
 **שמיטה / חליצה / שלף / של / אלץ** — slipping off | shemittah, shmita, shemitah, shamat, hishmit, chalitzah, chalitza, chalatz | reviewed | [slipping-off-shemittah-chalitzah-shalaf.md](entries/slipping-off-shemittah-chalitzah-shalaf.md)
 
 *Shemittah* is **releasing**: loosening one's grip so that a thing slips out of one's control, which may be why the same word covers letting a field lie and letting a debt go. *Chalitzah* is **extracting** something from what encloses it. *Shalaf* is **drawing** a thing quickly out of a loose holder, most often a sword from its sheath. *Shal* is a shoe **slipped off** with no hands at all. Shoresh Yesha draws a three-way distinction among the shoe-removal verbs.
 
+**Rendering guidance.**
+
+- *Shemittah*: keep it transliterated as the name of the year, and render the
+  verb "release" or "let go," not "cancel." "Cancel" is a bookkeeping word and
+  loses the picture of a hand opening.
+- Trap: English "remove" will absorb *shal*, *shalaf*, and *chalitzah* at once.
+  Where a passage names the manner of removal, mark it: "slipped off," "drew
+  off," "drew out."
+- Second trap: *chalitzah* has four senses in one Midrash. In Devarim 3:18 the
+  *chalutzim* are armed men, not extracted ones; in Tehillim 140:2 *chaltzeini*
+  is "rescue me." Do not carry the shoe ceremony's sense into either.
+- The *chalitzah* ceremony itself stays transliterated; "the removal of the shoe"
+  as a gloss, once.
+- *Shalaf* of a sword is "drew," never "unsheathed" when the pasuk also names the
+  sheath, or the English says the same thing twice.
+
 **תור / רגל / מרגלים / תרים / חפר** — spying | tor, tur, latur, lasur, tarim, ragel, leragel, meragel | reviewed | [spying-latur-leragel.md](entries/spying-latur-leragel.md)
 
 The two verbs are not interchangeable. *Latur* is to **scout out** with an eye for what is good; *leragel* is to **spy out** with an eye for what is weak (Rabbi Yaakov Tzvi Mecklenburg). Bamidbar calls Moshe's twelve *tarim*, **scouts**, throughout; Tanach never calls them *meraglim*, the traditional name, which is drawn from the verb Devarim uses looking back (*leragel*, alongside *veyachperu*).
+
+**Rendering guidance.**
+
+- Bamidbar 13-14: "scout out the Land," "the scouts." Reserve "spies" for where
+  the Hebrew has a cognate of *ragel*.
+- Devarim 1:22-24: the digging verb, then "and they spied it out." The shift in
+  verbs carries Devarim's hindsight and must survive into English. At 1:22 the
+  verb stands in the people's request ("that they may dig out the land for us").
+- Bereishis 42 and Yehoshua 2:1: "spies" is right. In Bereishis 42 the context
+  is decidedly negative; in Yehoshua 2:1 the men are sent to find the city's
+  vulnerabilities.
+- Trap: English "spy" absorbs both roots, and the traditional name *meraglim*
+  for Moshe's men pulls a translator toward it even where the Hebrew says
+  *tarim*. Where a passage quotes both the Bamidbar and the Devarim account,
+  keep "scouts" for the first and "spies" for the second, and let the difference
+  do the work.
 
 **סקילה / רגימה / מרגמה / רגם** — stoning | sekilah, skilah, sakal, saklu, sakel, regimah, regem, ragam | reviewed | [stoning-sekilah-regimah.md](entries/stoning-sekilah-regimah.md)
 
 Both mean **stoning**, and Targum renders both *sekilah* and *regimah* as *regimah* (Rabbi Eliyahu HaBachur, *Meturgeman*). Rabbi Shlomo Pappenheim makes *sekilah* the act of throwing and *regimah* the result, the victim subdued and immobile; Yashar similarly makes *sekilah* stoning that need not kill, hence the Torah's added "he shall be put to death," and *regimah* stoning to death. Rabbi Yehuda Leib Shapira-Frankfurter: *sekilah* is a means of killing that one stone could accomplish, *regimah* a whole heap thrown by many. *Sefer HaChochmah* reverses the pair, and Rabbi Moshe Tedeschi-Ashkenazi admits no clear line holds in usage. The root ס-ק-ל also means clearing a field of stones, the opposite use of stones (Ibn Janach, Radak).
 
+**Rendering guidance.**
+
+- Default: *sekilah* **stoning**, *regimah* **stoning to death**. Where both
+  appear in one pasuk (Yehoshua 7:25) they must read differently in English, or
+  the mefarshim there become unintelligible.
+- The trap is "stoning," which absorbs both; and the opposite trap is ס-ק-ל in a
+  field, where Yeshayahu 62:10 means **clear it of stones** and "stone" inverts
+  the pasuk.
+- Where *sekilah* did not kill (Shmuel II 16:6), write **pelted him with
+  stones**, not "stoned him," which in English implies death.
+- *Margeimah* (Mishlei 26:8) is a **sling** or **catapult**, an instrument, not
+  an act. And in a Targum *regimah* renders both Hebrew words (*Meturgeman*), so
+  do not read into the Aramaic a distinction that the Hebrew carries.
+
 **חדל / מנע / חשך / כלא / פסק** — stopping | chadal, chodel, vechadal, mana, mona, timna, chasach, chosech | reviewed | [stopping-chadal-mana-chasach-kala-pasak.md](entries/stopping-chadal-mana-chasach-kala-pasak.md)
 
 *Chadal* is **cease**: for Rabbi Yosef Grayever it stops because it cannot go on, and for Rabbi Shlomo Pappenheim and Malbim the halt comes from the person or thing itself, with no verdict on whether it is right (Pappenheim). *Mana* is **withhold**, a conscious refusal (Grayever), willful and total (Rabbi Shlomo Aharon Wertheimer), and for Pappenheim a withholding of what ought not be withheld. *Chasach* is **hold back** or **spare**: stopping a thing before it starts (Grayever) or interrupting one under way (Wertheimer); for Pappenheim, followed by Malbim, a check from outside, and for Pappenheim a rightly applied one. *Kala* stops because the goal is reached or the reason has lapsed (Grayever, Wertheimer), or, for Malbim, is detained against its nature: **cease**, **be held back**. *Pasak* is **break off** in the middle (Grayever). Grayever himself allows that colloquially the words interchange, and that each keeps its own connotation in most, not all, of its appearances.
+
+**Rendering guidance.**
+
+- Bereishis 22:12: "you did not hold back your son from Me." Not "withhold";
+  that is *mana*'s word, and the pasuk's *chasach* is, for Wertheimer, an
+  interruption rather than an absolute withholding.
+- Shemos 36:6: "and the people were restrained from bringing," or "ceased
+  bringing." For Grayever the reason had lapsed, not the will.
+- Trap: English "stop" flattens all five, and "withhold" will quietly cover both
+  *mana* and *chasach*. Keep "withhold" for *mana* only.
+- A Targum quoted inside a Hebrew passage is not evidence for the Hebrew
+  distinction; Onkelos uses one Aramaic word for several of these.
 
 **זנות / זנה / סטיה / שטה / סוטה / שוטה / שטן / שיטה** — straying from a path | zenus, zenut, zanah, zonah, vezanu, zan, mazon, stiyah | reviewed | [straying-zenus-stiyah.md](entries/straying-zenus-stiyah.md)
 
 Both roots denote deviating from a given path. *Zonah* literally refers to one who has strayed from a set of expectations: idolatry and adultery both eschew an expected loyalty, to Hashem or to a spouse, which is why Tanach, especially Hoshea and Yechezkel, uses words of sexual deviance for theistic infidelity. Rabbi Shlomo Pappenheim reaches the same breadth from the other end: *zenus* comes from ז-ן, sustenance, first named deviance from the sexual norm, and only then came to mean deviance from any expectation, idol worship included. *Stiyah* is **deviation** from a specific track, and Rabbi Klein traces the same root through *sotah*, *satan*, *shoteh* and *ruach shtus*; Rabbi Moshe Shapiro relates *shitah*, the ordered approach, to it as its diametric opposite. Rabbi Aharon Marcus goes further, proposing that the letter tet by itself denotes movement to the side, so that *chet*, sin, is a straying.
 
+**Rendering guidance.**
+
+- *Zanah* / *v'zanu* of the nation after other gods: "stray after," "go astray
+  after." "Whoring after" is the older English convention and reads coarse;
+  "be unfaithful to" loses the path image.
+- *Zonah* in Vayikra 21:7 is a halachic category, not an occupation. Where the
+  halachah is the subject, keep *zonah* and gloss it.
+- *Shoteh* in a halachic list (*cheresh, shoteh v'katan*) is "one who is not of
+  sound mind," not "fool." Of a plant or a bechor it is "irregular" or
+  "abnormal."
+- Trap: English "stray" would absorb *zenus*, *stiyah*, and also *toeh* and
+  *taus*, which are a separate cluster (see [straying and error](straying-toeh-taut.html)).
+- The three words for sin, *chet*, *avon* and *pesha*, have their own entry
+  ([sin](sin-chet-avon-pesha.html)); Rabbi Aharon Marcus's readings above are additional
+  to what is recorded there, not a replacement for it.
+
 **פליטה / פליט / שריד / קליטה / מקלט / שרד** — survivor | pleitah, pleita, peleitah, palit, palet, pelet, sarid, sridah | reviewed | [survivor-pleitah-sarid-klitah.md](entries/survivor-pleitah-sarid-klitah.md)
 
 The Targumim generally render *klitah* and *pleitah* alike, with the Aramaic word for salvation (*shizba*/*shaziv*), which suggests that in some ways the two are synonyms, both "saving" in general. At the core, though, *pleitah* is rescue by **expulsion**: one is spit out of the danger, so a *palit* is a **refugee**. *Klitah* is rescue by **reception**: one is taken in, as a *miklat* receives him, so it is **refuge**, **taking in**. For Malbim and Bedersi *sarid* is the one who was caught and could not get out and lived anyway: **survivor** or **remnant**. Rabbi Avraham Yitzchak Shain, accounting for another pattern in their usage, explains that the *palit* was totally surrounded and spit out, while the *sarid* was not necessarily totally enveloped. *Sarid u'palit* is a stock pair.
+
+**Rendering guidance.**
+
+- The stock pair שריד ופליט: "neither survivor nor refugee," or "no remnant and
+  no fugitive." Do not render both with "survivor"; the pasuk is exhaustive by
+  covering two different ways out.
+- פליט in a narrative (Bereishis 14:13): "a fugitive" or "a refugee," not "a
+  survivor," since the point is that he got away.
+- שריד standing alone: "remnant" where the sense is quantitative (Yeshayahu 1:9
+  with the Gra), "survivor" where it is about a person who lived through it.
+- Trap: English "escape" covers both the *palit* who fled and the *sarid* who
+  merely was not killed; mark the flight in the *palit* line explicitly.
+- Trap: קלט does not mean "save." Translate it "receive," "take in" or "catch,"
+  and let the rescue follow from the context, since the same verb is used for
+  being seized to one's death (Yevamos 79a).
 
 **גניבה / גנב / גזילה / גזלן / חמס / חמסן / חמצן / לסטים** — theft | genevah, genivah, geneivah, ganav, gannav, gezeilah, gezelah, gezel | reviewed | [theft-genevah-gezeilah-chamas.md](entries/theft-genevah-gezeilah-chamas.md)
 
 *Genevah* is theft **by stealth**: the *ganav* hides himself. It is **stealing**, and the actor a **thief**. *Gezeilah* is taking **openly**, in public or by force: **robbery**, and the actor a **robber**. The distinction is visibility. The Torah imposes extra fines on the *ganav* (double, and four or five times for a slaughtered or sold animal) and none on the *gazlan*, because the *ganav* shows more respect for man than for Hashem (Bava Kamma 79b). *Chamas* appears in Tanach as theft (Rashi to Bereishis 6:13) but not always exclusively so, sometimes as general **violence** or **injustice**; in Chazal a *chamsan* is a coercive buyer who does pay, a wrongdoer but not technically a thief or robber. *Listim* is a Greek loanword for a **robber** or brigand, and whether an armed *listim* counts as *ganav* or *gazlan* is disputed among the authorities.
 
+**Rendering guidance.**
+
+- *Genevah* / *ganav*: **stealing**, **theft**, **thief**. *Gezeilah* /
+  *gazlan*: **robbery**, **robber**. Hold this pairing everywhere; the fines,
+  the derashos, and the mussar all hang on it.
+- *Chamas* in a pasuk: decide by context, "robbery" or "theft" where it is fixed
+  on stealing (Bereishis 6:13 with Rashi), **violence** or **injustice** where
+  it is not. The Rabbinic *chamsan* is neither thief nor
+  robber: **a coercive buyer**, or leave it transliterated.
+- *Listim*: **brigand** or **armed robber**; "bandit" also works. Do not resolve
+  him into *ganav* or *gazlan* in the English, since the authorities dispute it.
+- Trap: English "theft" and "stealing" will absorb *genevah* and *gezeilah*
+  together, and the whole passage in Bava Kamma 79b becomes unreadable. When
+  both stand in one sentence, take "steal" for the first and "rob" or "seize by
+  force" for the second, and never let "steal" do both jobs.
+- Trap: "robbery" is also the natural English for *chamas* in Bereishis 6:13,
+  which then collides with *gezeilah*. If both words are live in the passage,
+  render *chamas* "lawlessness" or "violent wrongdoing" and reserve "robbery"
+  for *gezeilah*.
+
 **השלכה / זריקה / הזיה / רמה** — throwing | hashlachah, hashlacha, vayashlech, vatashlech, zerikah, zerika, zarak, zarko | reviewed | [throw-hashlachah-zerikah-hazayah-ramah.md](entries/throw-hashlachah-zerikah-hazayah-ramah.md)
 
 *Hashlachah* is usually careless, disparaging throwing: **throw away**, **cast off**, or even **drop** (Rabbi Shlomo Pappenheim); it does not show whether the thrower means to hit anything, and for Maharal it does not imply force, though Rabbi Pappenheim concedes purposeful uses too. *Zerikah* is, for Rabbi Pappenheim, purposely causing something to land in a chosen spot, typically matter that spreads as it falls, so **throw**, and where the object is fine or liquid, **sprinkle**; in Chazal it is a general term for throwing, which sometimes connotes throwing purposefully and forcefully (Maharal: it implies force). *Hazayah* is *zerikah* at a longer distance (Rabbi Pappenheim) or by hand rather than with a vessel (Malbim): **sprinkle**. *Ramah* is throwing upward in an arc so that it lands exactly on its target: **hurl**, **shoot**. Rabbi Yehoshua Hartman suggests that Rashbam, like Maharal, took *hashlachah* as dropping without force.
+
+**Rendering guidance.**
+
+- Trap: English "throw" absorbs all four. Reserve plain "throw" for *zerikah*
+  and render *hashlachah* "cast away," "throw down," "fling aside," or "drop," so
+  the contempt in the Hebrew survives; where it is purposeful (Aharon's staff),
+  plain "cast" or "throw" is right.
+- Yosef in the pit (Bereishis 37:24): "they flung him into the pit," not "placed"
+  and not "hurled with all their strength"; the word marks that he was tossed
+  there haphazardly.
+- Moshe and the Luchos: if the passage follows Rashbam (as Rabbi Hartman reads
+  him), "he let the Luchos drop" is the reading the Hebrew supports; "hurled"
+  contradicts it.
+- *Zerikas hadam* and *hazayah* in a *korbanos* context: Rabbi Reuven Chaim Klein calls
+  *zerikas hadam* "sprinkling," but in a passage that lists both, keep them
+  apart, "throwing" or "dashing" the blood for *zerikah* and "sprinkling" for
+  *hazayah*; one English "sprinkle" for both loses the
+  halachic distinction.
+- Modern Hebrew *hashlachos*, "consequences," has no Biblical or rabbinic
+  standing; do not read it back into a pasuk.
 
 **רומס / דורך / בוס / רמש** — trampling | romes, ramas, remos, tirmos, romsem, dorech, darach, tidroch | reviewed | [trampling-romes-dorech-boss.md](entries/trampling-romes-dorech-boss.md)
 
 *Dorech* is neutral: **tread**, **step on**, and in a winepress or olive press **press** (Malbim). *Romes* is destructive: **trample**, walking in a damaging way (Malbim), with the full force of the body so as to smash what lies under the foot (Rav Hirsch). *Boss* is **trample down**: for Rabbi Shlomo Pappenheim, treading on what is not necessarily destined to be trodden on, so that the act registers that the walker does not think it important, and Rabbi Moshe Tedeschi-Ashkenazi expresses a similar sentiment (*boss* as kin to *boz*, disgrace). But Rashi equates *boss* with *romes*, and Rabbi Klein finds *boss* used in very much the same ways as the other two. Tedeschi also reads *romes* and *dorech* by the ground rather than the act, and Pappenheim takes *romes* as treading on what is meant to be walked on. Tehillim 91:13 has *tidroch* and *tirmos* in one pasuk.
 
+**Rendering guidance.**
+
+- Tehillim 91:13 is the test case: *tidroch* on the lion and the snake, *tirmos* on the
+  cub and the serpent. "You shall tread upon the lion and the adder; you shall trample
+  the young lion and the serpent." Letting "trample" cover both loses the difference
+  Malbim draws between the verbs.
+- The trap is English "trample," which absorbs all three. Reserve it for *romes*; give
+  *dorech* "tread" or "step on," *boss* "trample down" or "crush underfoot."
+- A *dorech* in a press is **press** or **tread out**, never "trample": Michah 6:15 and
+  Amos 9:13 are constructive work, which is Malbim's point.
+- *Remes* is a noun for the creature, not a verb: **creeping things**, with no trampling
+  carried into it. Where a mefaresh equates *boss* with *romes* (Rashi does), follow him
+  inside the quotation and keep the distinction for the running text.
+- Do not carry English "boss" into Hebrew *boss*: Rabbi Klein, citing the OED, traces
+  the English word to Dutch *baas* and gives up his own earlier guess at a link.
+
 **קשירה / אסירה / קטירה / כפות / צרור / עקידה / חבישה / חיתול / איסור** — tying | keshirah, keshira, kesher, kasher, asirah, asira, assur, asir | reviewed | [tying-keshirah-asirah-kafut.md](entries/tying-keshirah-asirah-kafut.md)
 
 For Malbim, *keshirah* is **tying** where the thing tied consents to it: **bind, tie, join**; *asirah* is **tying down** without the consent of what is tied: **bind, detain, restrain**, and it is the root of *assir* (prisoner) and *issur* (prohibition). *Kafut* is the Aramaic and Mishnaic **tied down**; one way of reading it ties it to *kefiyah*, compulsion; Rashi glosses it sometimes with *asirah* and sometimes with *keshirah*; and Dr. Michael Sokoloff connects it to a different Aramaic root altogether. *Tzror* is **binding tight**, a union of strongly attached parts (Pappenheim). *Ketirah* is the Aramaic of *keshirah*, Targum's standard rendering of it (HaBachur), by a shin-to-tav shift, presuming tav and tes interchange (Rabbi Yaakov Berger). On Malbim's consent test, consent belongs to *keshirah*, its absence to *asirah*.
+
+**Rendering guidance.**
+
+- Default: קשירה "tie" or "bind"; אסירה "tie down," "bind," "detain."
+- קשר as a political noun: "conspiracy," and the tying metaphor is live; a
+  derashah on the root can be carried with "bound together in a plot."
+- Trap: English "bind" absorbs *keshirah*, *asirah* and *kafus* alike. Where a
+  passage turns on Malbim's consent test, force the difference: *keshirah* "tie
+  himself to," *asirah* "is tied down."
+- Second trap: *issur* is normally just "prohibition," and the tie is dead
+  metaphor in ordinary halachic prose. Revive it only where the source is
+  actually darshening the root, as Malbim does with *issur* (and Rabbi
+  Mecklenburg with *mussar*).
+- Where *kafus* and *akeidah* stand together (Tamid 4:1), keep both: "not tied
+  down but bound as for an *akeidah*," since the Mishnah sets the two apart.
+- עקידה of Yitzchak stays *Akeidah*, not "the tying."
 
 **מלחמה / לוחם / קרב / פולמוס / טרוניא / קניגיא** — war | milchamah, milchama, lochem, locheim, krav, kerav, pulmus, pulmos | reviewed | [war-milchamah-krav-pulmus.md](entries/war-milchamah-krav-pulmus.md)
 
 *Milchamah* is the common Biblical word for **war**, over three hundred times in Tanach, with the verb *lochem*, **to wage war** (also around three hundred). *Krav* also means **war, battle, combat**, in such phrases as *yom krav* and *klei krav*. *Pulmus* is Mishnaic, from Greek *polemos*, war, found three times in one Mishnah (*Sotah* 9:14). Rabbi Klein presents these, with *b'tarunya* and *kenigia* (the last three Greek), as apparent synonyms and draws no line between *milchamah* and *krav*. The disputes are over the root of *milchamah* (bread and war from ל-ח-ם, or from ח-ם, heat, or "coming together"), over *b'tarunya* (battle, or Greek tyranny), and over *kenigia* (war, or hunting, which the Greek *kynigia* supports).
 
+**Rendering guidance.**
+
+- *Milchamah*: "war." *Krav*: "battle" or "combat." Where both stand in one
+  passage, keeping English "war" off *krav* keeps the two Hebrew words visible;
+  Rabbi Klein himself treats them as apparent synonyms.
+- *Yom krav* is "day of battle," not "day of war," and *klei krav* is "weapons"
+  or literally "instruments of battle."
+- *Pulmus* with a Roman name attached: "the war of Vespasian," or "the Vespasian
+  campaign." Never "the polemic," and never "the controversy."
+- *B'tarunya* in *Avodah Zarah* 3a: follow the *Mussaf HeAruch*, as Rabbi Klein does, and render "Hashem does not act tyrannically toward His creatures,"
+  noting the reading *batrunya*, "does not enter into battle with them," which
+  Rabbi Klein says he once held, if the passage turns on it.
+- *Kenigia*: "do battle with" follows Rabbeinu Gershom and the Rashba; "hunt"
+  follows the Rashbam, and Rabbi Klein adds that the Greek *kynigia* means
+  hunting. Pick one and say which; the Leviasan aggadah reads differently under
+  each.
+- Trap: a passage that plays on *lechem* and *milchamah* together (Radak, Rav
+  Hirsch, Rabbi Shlomo Pappenheim, and the TDOT all connect them) cannot be
+  rendered without keeping the Hebrew visible; translate and gloss rather than
+  substitute.
+
 **כביסה / רחיצה / שטיפה / הדחה / מריקה / תמרוק / קינוח** — washing | kevisah, kevissah, kibbus, vchibsu, rechitzah, rechitza, rachatz, shetifah | reviewed | [washing-kevisah-rechitzah-shetifah-hadachah.md](entries/washing-kevisah-rechitzah-shetifah-hadachah.md)
 
 *Kevisah* is **laundering**: for Rabbi Shlomo Pappenheim, objects only, never a body, and (in his second formulation) with the water going right through the cloth. *Rechitzah* is **washing** a body or a part of one, by immersion or by pouring (Pappenheim); Rabbi Shlomo Aharon Wertheimer allows it outside or inside. *Shetifah* is **sluicing**: under flowing water (Pappenheim), with much water (Wertheimer; Radak calls it the stronger washing). *Hadachah* is typically translated **rinsing**, the same exterior work with little water (Wertheimer); *Sefer HaShem* instead distinguishes it from *rechitzah* by what is removed, blood against filth. *Merikah* is, for Rabbi Avraham Bedersi, not water-cleaning at all but **scouring**, buffing off rust or tarnish; Rashi and Rambam read it within the washing of a vessel, inside against outside or a matter of thoroughness. *Kinuach*, Rabbinic only, is **wiping**. Vayikra 6:21 (*merikah*, *shetifah*) and Yeshayahu 4:4 (*rechitzah*, *hadachah*) each put two of them in a single verse.
 
+**Rendering guidance.**
+
+- Vayikra 6:21, ומרק ושטף במים: "it shall be scoured and sluiced with water."
+  Two words for two acts. Rashi has them as inside and outside, Rambam as two
+  grades of thoroughness, so avoid an English pair that picks one reading.
+- Yeshayahu 4:4: "when Hashem will have washed away the filth of the daughters
+  of Tzion and rinsed out the blood of Yerushalayim." Keep "washed" for
+  *rechitzah* and "rinsed" for *hadachah*; the distribution is the basis of
+  Wertheimer's proof, and *Sefer HaShem* reads the same pasuk.
+- כביסה: "launder" or "wash [clothes]," never "bathe." רחיצה of a person:
+  "wash" or "bathe." Pappenheim's rule is object against body; an English "wash"
+  for both loses it.
+- Trap: "rinse" will take both *shetifah* and *hadachah*. Reserve "rinse" for
+  *hadachah* and use "sluice," "flush" or "wash under running water" for
+  *shetifah*, which carries *mayim rabim* with it.
+- תמרוק in Esther: "beauty treatment" or "cosmetic regimen," not "purification";
+  Bedersi and Rashi's tie to *merikah* make it a smoothing of the skin.
+- קינוח: "wipe." Not for water-washing; for Rashi the point is that what is
+  wiped is finished with.
+
 **מלאכה / עבודה / מלאכת עבודה / שירות** — work | melachah, melacha, melakhah, melochoh, meleches, melechet, melachos, melachot | reviewed | [work-melachah-avodah.md](entries/work-melachah-avodah.md)
 
 *Melachah* is typically translated **work** or labor; in hilchos Shabbos it names thirty-nine specific categories and does not forbid other laborious activity. Its apparent synonym is *avodah*. For Ramban *avodah* is a subset of *melachah*: *meleches avodah*, forbidden on Yom Tov, is all work other than food preparation, while Shabbos and Yom Kippur forbid all *melachah*. Abarbanel holds the two are true synonyms. Others distinguish them: *melachah*, **work**, is an act that improves an object (Rabbi Yitzchak Shmuel Reggio), work defined by its product (Rabbi Aharon Leib Steinman), creative activity even in thought (Rabbi Naftali Hertz Wessely), the idea carried into reality as by a *malach* (Rav Hirsch), a person's own free thought realized (Rabbi Tzvi Yehuda Kook), or the lighter task (the Satmar Rav; the Tosafists on Kehas). *Avodah* is then **labor** or **service**: the worker's own toil, brute work, work owed to a master, hard or obligatory (Rav Hirsch, Alshich, Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim), and, turned toward Heaven, the **service** of Hashem. *Sheirus* is light **service**.
+
+**Rendering guidance.**
+
+- *Meleches avodah* (the Yom Tov prohibition): "laborious work," or "work of
+  labor"; on Ramban's reading, work other than food preparation. Do not flatten
+  it to "work," which is the Shabbos term.
+- *Melachah* in hilchos Shabbos: "work" as a technical term, or transliterated.
+  "Labor," though a usual translation, can mislead here, since the prohibition
+  covers thirty-nine categories and not other laborious activity; Rav Hirsch's
+  creative sense may be glossed once.
+- *Avodah* of Hashem, of the Beis HaMikdash, of the Leviim: "service." Of a
+  worker or a slave: "labor," "toil." Reggio's and Steinman's line (the act
+  versus the object) is a useful check when the passage is about the person
+  laboring rather than the thing made.
+- Trap: "work" absorbs both, and "service" for *avodah* can be lost when the
+  context is secular; the reverse error is to give *melachah* "service." When
+  the two stand together (Kehas against Gershon and Merari; Ramban's
+  *meleches avodah*), the English must keep the product word and the toil
+  word apart.
+- Where a derashah draws on *malach* (Rav Hirsch, Rav Tzvi Yehuda Kook, the
+  Satmar Rav), keep the kinship legible: "work, as an angel executes a charge."
 
 
 ### body
@@ -2282,121 +3099,627 @@ For Malbim, *keshirah* is **tying** where the thing tied consents to it: **bind,
 
 *Iver* is the Biblical **blind man** and *ivaron* his **blindness**; *suma* is the same in Aramaic. *Sagi nahor*, "light enough," is the euphemism. *Sanverim* is the harder word: it occurs three times in Tanach, and a wide range of scholars have tried to say how it differs from *ivaron*, some of them reading it as a **dazzlement** or disordering of sight rather than plain absence of sight. For Rabbi Shlomo Pappenheim *iver* names an eye that works but is covered over, which is what makes the bribed-judge metaphor work.
 
+**Rendering guidance.**
+
+- עור: "blind"; עורון: "blindness." Where Pappenheim's reading is in play,
+  "clouded" or "covered over" belongs in the surrounding prose, not the word.
+- סומא: "blind man"; transliterate only where the passage is about the word.
+- סגי נהור: keep the Aramaic and gloss it, "a *sagi nahor*, literally one with
+  light enough." "Blind" throws away the euphemism and the Kli Yakar with it.
+- סנורים: "dazzlement," or "a confusion of sight," with the pshat you follow in
+  a note. "Blindness" is the standard rendering and the standard mistake.
+- Trap: English "blindness" will take *ivaron*, *sanverim*, and *sagi nahor*
+  together. If a passage puts *sanverim* beside *iver* (a derashah comparing
+  Sodom to an ordinary blind man), the point is that they are different
+  afflictions; give them different English.
+
 **שחין / גרב / חרס / ילפת / אבעבועות** — boils | shechin, shchin, shichana, garav, gerev, cheres, charas, yalefet | reviewed | [boils-shechin-garav-cheres.md](entries/boils-shechin-garav-cheres.md)
 
 *Shechin* is the umbrella word: **boils**, or more exactly an **inflamed sore**, a wound gone hot, not a burn. The other three seem to be kinds of it. Paired, *garav* is the **moist** sort and *cheres* the **dry**; *garav* on its own means the dry sort (Rashi). *Yalefet* is the sort that **clings**, never leaving the man. *Avabuos* are the **blisters** of the makkah in Mitzrayim. *Garav* changes meaning depending on whether *cheres* stands beside it.
+
+**Rendering guidance.**
+
+- Devarim 28:27 has three of the words in one pasuk. Render them apart: "with the boils of
+  Mitzrayim, and with hemorrhoids, and with moist boils and dry boils from which you cannot
+  be healed." Letting "boils" or "sores" cover *shechin*, *garav* and *cheres* alike is the
+  standard failure, and it makes Rashi on the verse unreadable.
+- Check whether *cheres* is present before rendering *garav*. Vayikra 21:20 has *garav*
+  without *cheres*, so there it means **dry boils**, the opposite of its sense in Devarim.
+- *Yalefet* has no clean English. **Clinging boils** with a gloss, or transliterate and
+  gloss; not "ringworm" or a modern diagnosis, since the sources define it by permanence.
+- Do not carry the "heat" of the root into the rendering of *shechin*: a *shechin* is not a
+  burn, and Nega'im 9:1 says so explicitly.
 
 **עצם / גרם / גרמא / גרמני** — bone | etzem, atzamos, atzamot, atzmi, atzmo, atzmus, gerem, garem | reviewed | [bone-etzem-gerem.md](entries/bone-etzem-gerem.md)
 
 Both mean **bone**, and both also mean **the thing itself**. *Etzem* is the bone as something hard, strong, and self-contained, and for Rabbi Shlomo Aharon Wertheimer the general word; *gerem* is the bone as one part within a frame, which is why the same root gives a single step of a staircase and, in rabbinic Hebrew, *grama*, indirect **causation** (Rav Hirsch). The Vilna Gaon puts the line differently: *etzem* is the bone's hard outside, *gerem* the hollow inside where the marrow is.
 
+**Rendering guidance.**
+
+- Both words are "bone." Where a passage sets them beside each other, or a
+  commentary turns on which one the pasuk used, mark the difference: *etzem* as
+  the bone in its strength, *gerem* as the bone within the frame, or the Vilna
+  Gaon's outside against inside.
+- Trap: "bone" and "self" are the same Hebrew word, so a phrase like *b'etzem
+  hayom hazeh* is "on that very day," not anything skeletal. Do not carry the
+  bone into it, and do not lose it either when a derashah plays on both.
+- *Grama* is a term of art in nezikin; leave it transliterated and gloss it once
+  as indirect causation. Translating it "cause" flattens the whole distinction
+  between *grama* and direct damage.
+- *Chamor garem*: Rashi's "strong-boned donkey" is the standard rendering, but a
+  translation that follows Ralbag says the opposite, so name whose reading is
+  being used rather than writing a compromise.
+- *Germani* stays transliterated. "German" commits to the Vilna Gaon and
+  "white-skinned" to Rambam, and the Mishnah's point survives either way only if
+  the word is left standing.
+
 **שדים / שד / דדים / דד / עטינים / זיז / לשד** — breast | shadayim, shadaim, shad, shod, dadim, dad, atinim, atin | reviewed | [breast-shadayim-dadim-atinim.md](entries/breast-shadayim-dadim-atinim.md)
 
 *Shadayim* (singular *shad* or *shod*) is the standard Biblical word: **breasts**, twenty-four times in Tanach, only once in Chumash (Bereishis 49:25). *Dadim* is the rarer Biblical pair-word, and by the Mishnah's Hebrew it plainly means **breasts** too, including breast-shaped **spigots**. *Atinim* is a hapax in Iyov 21:24, understood by the Ralbag and others as **breasts**; in Modern Hebrew it is the **udders** of a milk-producing animal or a human **nipple**. *Ziz* (Yeshayahu 66:11) is disputed: Radak reads it as *ziv*, **radiance**, while Shadal and Gesenius read it as **breast**. Rabbi Shlomo of Urbino (*Ohel Moed*) lists the first three as Biblical synonyms, though Malbim holds that *dadim* and *shadayim* name different parts of the body.
+
+**Rendering guidance.**
+
+- *Shadayim*, *dadim*, and *atinim* alone: "breasts" for the first two, "breasts"
+  or, where the subject is livestock, "udders" for *atinim*.
+- Yechezkel 23:3 pairs *shadayim* and *dadim* in one pasuk, and English "breasts"
+  cannot carry both. Follow the Machberes and Radak and render the couplet with
+  two words ("their breasts were pressed, their maiden bosom kneaded"), or follow
+  Malbim and render *dadim* the lower parts; say which reading you took.
+- *Ziz* in Yeshayahu 66:11: "radiance" follows Radak, "breast" follows Shadal,
+  Gesenius and *Daas Mikra*, "protrusion" follows Mitchell First reading Malbim.
+  The pasuk already has *shod* for breast,
+  which is what makes Radak's reading avoid a flat repetition.
+- *L'shad hashamen* (Bamidbar 11:8): "the richness of oil" reads well, but where
+  the derashah of *Yoma* 75a is in play, keep the Hebrew and gloss both readings.
+- *Dadim* of the kiyor (*Yoma* 3:10): "spigots," not "breasts"; the shape is the
+  reason for the word, not the meaning in context.
+- Trap: a discussion turning on Rabbi Shlomo Pappenheim's roots (ש-ד as
+  abnormality, ד as protrusion, ע-ט as insatiability) cannot survive translation
+  of the derived words alone. Keep the Hebrew and translate the sense.
 
 **כסס / כסיסה / לעס / לעיסה / יקוסס / כסנין / קסקס** — chewing | koses, kosses, kas, kesisah, kesisa, kisisah, lachus, lo'es | reviewed | [chew-koses-loes.md](entries/chew-koses-loes.md)
 
 Both are rabbinic; neither is biblical, and Biblical Hebrew has no plain verb for chewing at all (*maaleh geirah* means brings up the cud, not chews it). *Koses* is to **chew**, on Rashi's definitions, in the sense of gnawing something raw or eating it in an unusual way, and *lo'es*, on Rabbi Meir Mazuz's reading, is to **chew** in the ordinary sense of working food before swallowing. Rashi flatly equates them (*lo'es* means *koses*). Rabbi Reuven Chaim Klein's own suggestion is that perhaps no semantic difference is called for at all, since the two seem to come from different languages. Where a passage turns on the word choice, members of the Mazuz family seem to presume a difference: Rabbi Meir Mazuz has *le'isah* typically implying chewing toward swallowing while *kesisah* does not necessarily carry that implication, and Rabbi Yitzchak Barda has *kesisah* the more enjoying chew and *le'isah* the more workaday one. Rabbi Klein grants that the difference the Mazuz family presumes is hard to substantiate, and hard even to state exactly.
 
+**Rendering guidance.**
+
+- Default both to "chew." Rashi's own gloss makes any forced English
+  distinction misleading in a plain translation.
+- Trap: "chew" absorbs both, and "munch" will pull *koses* toward the snack
+  sense of *kisnin*. Where a sugya turns on the word choice (Rema against the
+  Ravyah at *Orach Chaim* 567:3; *Arim Nissi* on Pesachim 39b), do not
+  translate at all; keep both transliterated and set the dispute out.
+- *Koses* in the berachos sugya is "chews [it raw]"; supply the bracket, since
+  the whole halachah rests on the food being eaten in its unprocessed state.
+- *Pas haba'ah b'kisnin* stays transliterated. Radak's "treats one munches at a
+  celebration" is a gloss for a note, not a rendering.
+- Bamidbar 11:33, *bein shineihem*, is "between their teeth," not "while they
+  were still chewing"; the Torah has no verb for chewing and the phrase should
+  not acquire one.
+- *Maaleh geirah* (Vayikra 11:3-7, Devarim 14:6-8) is "brings up its cud," not
+  "chews its cud," wherever the literal wording is load-bearing.
+
 **בגד / לבוש / מלבוש / כסות / שמלה / שלמה / מד / מעיל / מעטה** — clothing | beged, begadim, levush, malbush, lovesh, kesus, kesut, sut | reviewed | [clothing-beged-levush-kesus-simlah.md](entries/clothing-beged-levush-kesus-simlah.md)
 
 *Beged* is the general word, **garment**, and covers the rest (Malbim). *Levush* is not a garment-type but what one dresses in, so **apparel**, and in practice the distinctive dress of a station (*levush malchus*). *Kesus* is a **covering**, draped rather than put on; *simlah* (or *salmah*) a **cloak**, a *kesus* that also confers honor. *Mad* is the **fitted garment**, *me'il* the **outer robe**, *maateh* any **wrap**. The difference between *beged* and *levush* carries two separate derashos.
+
+**Rendering guidance.**
+
+- Trap: "clothing" will absorb *beged*, *levush* and *malbush*. Where a passage
+  plays *beged* against *levush* (the Karliner's two dressings of the soul, or a
+  mussar piece on the facade), use two English words: "garment" and "apparel."
+- *Levush malchus* is "royal apparel"; the point is the station, not the cloth.
+- *Kesus* in halachah (*kesus ishto*, a pledge) is "covering" as a maintenance
+  category, not a specific item.
+- *Me'il* in the Mishkan chapters is the Kohen Gadol's "robe"; do not vary it to
+  "cloak," which belongs to *simlah*.
+- Where *beged* and *kesus* appear together and tailoring is at issue, decide
+  first whether the source follows Malbim's general *beged* with a draped
+  *kesus*, or the Maharik.
 
 **פגר / נבלה / חלל / פגרים** — corpse | peger, pegarim, peggar, neveilah, nevelah, nevela, challal, chalal | reviewed | [corpse-peger-neveilah-challal.md](entries/corpse-peger-neveilah-challal.md)
 
 *Peger* is a human **corpse**, and by Rabbi Eliyahu HaBachur the rotting body of a rasha. *Neveilah* is a **carcass**, an animal that died without shechitah, and by the same authority it can name a human body too, but only one killed by an outside force. *Challal* literally means **empty** or **cavity**: a body emptied of its soul is like an empty vessel. *Neveilah* in a halachic passage is a technical term.
 
+**Rendering guidance.**
+
+- *Peger*: **corpse**, and in a passage of judgment or contempt **carcass** is
+  right for a human body too. Bamidbar 14 is deliberately harsh; do not soften
+  it to "bodies."
+- *Neveilah* in halachah: leave it as ***neveilah***, or render **an
+  unslaughtered carcass**. Never "roadkill" or a merely descriptive "dead
+  animal"; the word is a status.
+- *Challal*: **the slain** where a person is meant, **hollow** or **cavity**
+  where the root's plain sense is in play. *Chalal* of a kohen's child:
+  **disqualified**, with the emptying sense glossed once.
+- Trap: English "corpse" absorbs all three, and "carcass" absorbs *peger* and
+  *neveilah*. Where a source contrasts them, or where *neveilah* is a halachic
+  category and *peger* a description in the same sentence, hold two English
+  words apart.
+- Second trap: *challal* is a family, not a word. In one paragraph it may run
+  from a dead body to *chullin* to *Chol HaMoed*; keep the thread of
+  "emptiness" visible in English rather than translating each occurrence
+  independently.
+
 **זוהמה / לכלוך / טינוף / אלח / גועל** — dirt | zuhamah, zuhama, zohamah, mezuham, lichluch, likhlukh, lichluchis, tinuf | reviewed | [dirt-zuhamah-lichluch-tinuf-goal.md](entries/dirt-zuhamah-lichluch-tinuf-goal.md)
 
 *Go'al* is dirtying by something inherently disgusting (blood, excrement, forbidden food): **defilement, befouling**. *Tinuf* and *lichluch* are dirtying by something not necessarily disgusting in itself but unwanted where it landed (Rabbi Shlomo Pappenheim): **soiling** and **grime**, with *lichluch* wet in its one mishnaic use (*Mikvaos* 9:4). *Zuhamah* is the unwanted residue that clings and usually smells: **filth**. *Elach* is the spoiling of something homogeneous by an incompatible admixture: **tainted, sullied**. The difference is whether the dirtying agent is disgusting in itself (*go'al*), merely misplaced (*tinuf*, *lichluch*), or a foreign element mixed in (*elach*). The distinctions are not agreed, though: Rabbi Tanchum HaYerushalmi writes fairly clearly, in at least two places, that *tinuf*, *lichluch* and *zuhamah* are all synonymous, and Pappenheim himself seems to equate *lichluch* with *tinuf*, as do Ibn Janach and Radak.
+
+**Rendering guidance.**
+
+- The famous *zuhamah* of the snake (*Shabbos* 146a, *Yevamos* 103b, *Avodah
+  Zarah* 26b), which the primordial snake injected into Chavah and of which all
+  Israel was cured at Sinai, is best left transliterated in a mussar or aggadic
+  context. On Rabbi Klein's reading, *zuhamah* in general means dirtiness, but
+  in this context it may refer to physical or spiritual deformities, or to
+  susceptibility to death, both of which temporarily left the Jewish People at
+  Sinai. So "filth" alone loses the sense.
+- Trap: English "defile" will swallow *go'al*, *tinuf* and *tamei* alike. Keep
+  "defile" for *go'al* (the agent is genuinely repulsive), use "soil" for
+  *tinuf*, and never let either stand for ritual *tumah*, which is a different
+  category entirely.
+- Second trap: "dirty" absorbs *lichluch* and *tinuf*. When a passage turns on
+  the wet/dry distinction (*Mikvaos* 9:4), render *lichluch* as "wet grime" and
+  keep "soiling" for *tinuf*.
+- *Elach* rarely wants "dirty" at all. Tehillim 14:3, *ne'elachu*, reads better
+  as "they have become tainted" or "gone rancid" than "they are filthy."
+- *Mezuham* of a person (*Berachos* 53b) is "unclean and foul-smelling," not
+  merely "dirty"; the odor is the operative fact.
 
 **צואה / פרש / גלל / זבל / ראי / חרא / טחורים / עפלים** — excrement | tzoah, tzoeh, tzoa, peresh, galal, gelalim, zevel, ree | draft | [excrement-tzoah-peresh-galal-zevel.md](entries/excrement-tzoah-peresh-galal-zevel.md)
 
 *Tzoah* is the general word and the human one: in Tanach and in the Mishnah it never means animal droppings. The others are each specific. *Peresh* is what is still inside the slaughtered animal and was never voided, and in Tanach it belongs to the sacrifices. *Zevel* is animal manure, and unlike *peresh* it has already left the body. *Galal* is named for its round shape, the pellet. *Ree* is what the body could not take in because too much was eaten. *Chara* is the coarse word, and the Mesorah will not let it be read aloud, substituting *tzoah* in its place.
 
+**Rendering guidance.**
+
+"Excrement" belongs to *tzoah*, which is the general word and the only one that
+is specifically human; using it for the others loses what each of them adds.
+*Peresh* wants a rendering that keeps it inside the animal, so "dung" alone is
+too loose where the contrast with *zevel* is live, and something like
+"intestinal contents" or "the dung in its innards" carries Rabbi Strashun's
+distinction. *Zevel* is "manure," *galal* is "dung" and can take "pellet" where
+the shape is the point, and *ree* has no one English word: where its sense
+matters it needs a phrase.
+
+*Chara* is the trap. Because Tanach never has it read, a translation that puts a
+coarse English word in the text reverses what the Mesorah does; the received
+reading is *tzoah*, and a note is the place for the written form. The same holds
+at Devarim 28:27, where the read word is *techorim*.
+
+For the etymologies, Rabbi Klein observes that English *excrement* happens to
+work the same way the Hebrew words do: *ex-* is "out," as *tzoah* is, and
+*crement* is from the Latin *cernere*, to sift or separate, as *peresh* is.
+
 **חלב / שומן / פדר / תרבא / חלב** — fat | cheilev, chelev, chelavim, chelvei hatamid, shuman, shumman, pader, peder | reviewed | [fat-cheilev-shuman-pader.md](entries/fat-cheilev-shuman-pader.md)
 
 *Cheilev* is **fat**, and in halachic contexts specifically the **forbidden fat**: the hard visceral globs offered on the mizbeach and barred from eating. *Shuman* is post-biblical and names the **permitted fat**, the soft fat attached to the meat. *Pader* is contested: most of the grammarians read it as simply **fat**, a synonym of *cheilev*; Ramban narrows it to the **thin fatty membrane** dividing the innards; and a group of grammarians drops the fat sense altogether for the **organ cluster** of trachea, lungs, heart, and liver. *Tarba* is the Aramaic standing in for *cheilev*. *Cheilev* is also sometimes borrowed for **the choicest part** of a non-animal thing, where it does not refer to animal fat at all.
+
+**Rendering guidance.**
+
+- Trap: "fat" will absorb *cheilev*, *shuman*, and *pader*. In a korbanos or
+  kashrus passage, render *cheilev* "the forbidden fat" (or leave it
+  transliterated and gloss it once), *shuman* "permitted fat," and *pader* by
+  the reading you are following, "fatty membrane" or "suet."
+- *Cheilev* in a non-animal context is "the choicest" or "the richest," never
+  "the fat": *v'achaltem es cheilev ha'aretz* is "you shall eat the fat of the
+  land" only as an English idiom, and where the idiom does not carry, write "the
+  best of the land."
+- Where a sugya sets *cheilev* against *shuman*, the contrast is the whole
+  point, so do not translate both "fat" and rely on the reader.
+- *Chelvei hatamid* is not "the fats of the tamid" in the literal sense; on
+  Rashi's reading it means the portions burned on the mizbeach. Translate the
+  law, not the anatomy, and note the variant texts.
+- *Pader* is contested. Most of the grammarians make it a plain synonym of
+  *cheilev*, so if the passage does not depend on it, "fat" or "suet" follows
+  the majority; if it does depend on it, name the view (Ramban's membrane, Rabbi
+  Goldman's covering spread of fat, or Rabbi Saadia Gaon's organ cluster) rather
+  than smoothing the machlokes away.
 
 **פעם / רגל / פעמון / פעמותיו** — foot | paam, paamim, peamim, paamosav, paamotav, paamon, poem, regel | reviewed | [foot-paam-regel.md](entries/foot-paam-regel.md)
 
 Both words mean **foot** and both can mean **time, instance**. *Regel* is the plain foot, the limb. *Paam*, for Rabbi Pappenheim, is the foot as it strikes the ground, a **step**, and from there **each occurrence**; Rabbi Walkin likewise takes "step" as its primary sense. For Malbim its core sense is **corner** (the low corner of a thing), the feet being a man's lower corner. *Shalosh regalim* and *shalosh peamim* both mean "three times." *Regel* in the sense of "instance" occurs in Tanach in only two contexts, Bilaam's donkey (Bamidbar 22:28 and 32) and the three festivals (Shemos 23:14); elsewhere it is usually the limb.
 
+**Rendering guidance.**
+
+- *Regel*: "foot." *Paam*: "step" as a movement, "time" or "instance" as a
+  count, "corner" only where the sense is a low corner of an object.
+- Trap: English "time" absorbs both *paam* and *regel* in the counting sense,
+  and English "foot" absorbs both in the bodily sense, so a passage that plays
+  the two words against each other (Yeshayahu 26:6; the donkey saying *shalosh
+  regalim* where *shalosh peamim* was expected) will read flat. Where the point
+  is the choice of word, keep the Hebrew and gloss it.
+- *Shalosh regalim* as the festivals: Rabbi Klein renders Shemos 23:14 literally,
+  "the three times." Render "the three festivals," or keep
+  *shalosh regalim* transliterated, since English "three times" there reads as a
+  count and not as the pilgrimage; "three times" is the right rendering at
+  Bamidbar 22:28 and 32, where the phrase is identical.
+- Where a derashah rests on *paam* meaning movement rather than a limb (Rabbi
+  Walkin on the Aron), do not translate *paamosav* as "its corners"; that reading
+  needs "its feet," and the disagreement between Rashi and Ibn Ezra should be
+  noted rather than silently decided.
+- Yechezkel 1:7: *regel yesharah*, the single straight foot of the malachim. Do
+  not import "step" there; the whole force of the contrast is that they do not
+  move.
+
 **מצח / פדחת / ציץ / צח** — forehead | meitzach, metzach, meizach, mitzcho, padachat, padachas, padachta, pedachat | reviewed | [forehead-meitzach-padachat.md](entries/forehead-meitzach-padachat.md)
 
 *Meitzach* is the biblical word, some thirteen times in Tanach; *padachat* is the word of Chazal, absent from Tanach. From the Geonim onward they are treated as the same thing in two strata of the language (Rav Hai Gaon; Rabbeinu Chananel; *Sefer HeAruch*), and Rashi's glossing *padachat* as *meitzach* every time suggests that he too took them as synonyms, so on that view both are **forehead**. At Shemos 28:38, since most authorities hold the *tzitz* sat above the forehead where the *tefillin* go, the Ritva and *Tosafos Yeshanim* either read the pasuk as "above his *meitzach*" or take biblical *meitzach* as **the top of the head**, or at least as including the top of the head along with the forehead.
+
+**Rendering guidance.**
+
+- *Padachat* in the Mishnah and Gemara: "forehead," with no hesitation.
+- *Meitzach* in Tanach generally: "forehead," or "brow" where the register
+  wants it (*chazak meitzach*, a hard brow).
+- Shemos 28:38: "upon his forehead," with a note that most hold the *tzitz* sat
+  above the forehead, and that the Ritva and *Tosafos Yeshanim* read the word
+  either as "above" or as the crown of the head. If your source is arguing from
+  the placement, follow whichever reading it uses and say so.
+- *Azus metzach*: "brazenness," literally "hardness of forehead." Where the
+  vidui is being quoted, keep the siddur's own pointing rather than normalizing
+  it.
+- Trap: English "forehead" covers both Hebrew words and hides the fact that they
+  belong to different layers of the language. Where a Rishon is proving that
+  *meitzach* and *padachat* are or are not the same, the two must stay visible;
+  transliterate rather than translate in that argument.
+- Second trap: "brow" in English can mean the eyebrow. Do not use it where the
+  anatomy is at stake, as at Niddah 3:5.
 
 **שער / שערה / שערא / מזיא / בינתא / נימא** — hair | saar, sear, se'ar, saarah, searah, saara, sara, mazia | reviewed | [hair-saar-mazia-binta-nimah.md](entries/hair-saar-mazia-binta-nimah.md)
 
 *Saar* (Aramaic *saara*) is the plain word for hair, whether one strand or the whole growth: **hair**. Rabbi Klein found no earlier theory of how the Aramaic words divide the field, and offers his own suggestion: *mazia* is a patch of hair, **hair** or **a head of hair**; *binta* is one single strand, **a hair**; *nimah* is a hair that protrudes or is unwanted, and outside the hair sense it is a **string** or **thread**. *Binta* and *mazia* stand side by side in Yoma 69b and Bava Metzia 84b, where a single *binta* comes loose from the *mazia*.
 
+**Rendering guidance.**
+
+- Yoma 69b and Bava Metzia 84b: render the pair as "a hair slipped out of his
+  hair" only if you are willing to lose the point. Better: "one strand came away
+  from his hair." English "hair" would otherwise absorb both words in one
+  sentence.
+- *Binta* on its own: "a hair" or "a single strand," never "hair" as a mass
+  noun. Berachos 8a reads "like drawing a hair out of milk."
+- *Nimah* in a *tevilah* or *tzitzis* context: keep the string sense in view;
+  "a loose thread" for a garment, "a hair" for the body, and in a passage that
+  plays on both (a bowstring beside a hair), say so rather than choosing one.
+- *Sa'ar* in a *nega'im* or *taharah* context: follow the Tosafos Yom Tov and
+  translate *se'arah* as "a hair," *se'ar* as "the hair," where the halachah
+  turns on one strand against a patch (Negaim 4:1, Niddah 3:2).
+- Trap: Korach's name means bald, and the two sources on his grievance choose
+  different Aramaic. The *Zohar* (Tazria 49a) has him resenting being left
+  shaven of *saara* while Aharon was decked in clothes befitting a king; the
+  Gemara (Sanhedrin 110a) has his wife telling him the shaving of the Levi'im
+  (Bamidbar 8:7) was to humiliate him, using *mazia*. If a piece quotes both, do
+  not silently harmonize them into one English word without noting the
+  difference.
+
 **כליות / עצה / טוחות** — kidneys | kilayos, kilayot, kilyah, kulya, atzeh, aitzeh, tuchos, tuchot | reviewed | [kidneys-kilayos-atzeh-tuchos.md](entries/kidneys-kilayos-atzeh-tuchos.md)
 
 *Kilayos* is the plain word for **kidneys**, and in a *pasuk* about Hashem searching a man it is his **innermost thoughts**. *Tuchos* is a poetic word for the same organ: **kidneys** by Chazal's reading, **innards** by Ibn Ezra's. *Atzeh* is a hapax and genuinely disputed: **kidneys** on the Gemara's reading, **the base of the spine** on Targum Onkelos's. Both *kilayos* and *tuchos* appear only in the plural.
+
+**Rendering guidance.**
+
+- Korbanos context: כליות is "kidneys," flatly. Do not reach for "reins," the old
+  English rendering Rabbi Klein notes is often used (it is kin to English *renal*
+  and *adrenaline*); it is now unreadable.
+- Where Hashem "tests the heart and the kidneys," keep "kidneys" and gloss; the
+  derashos depend on the anatomy.
+- Trap: English "kidneys" would absorb all three words and hide the machlokes at
+  Vayikra 3:9. Render עצה as "kidneys" or "base of the spine" with a note naming
+  Chullin 11a against Targum Onkelos, never silently.
+- טוחות is poetic. "Inmost being" reads well in Tehillim 51:8, but a translation
+  that is tracking Chazal should keep "kidneys" and gloss.
+- כליות חטה (Devarim 32:14) is "kidney-fat of wheat" or "the choicest of the
+  wheat," depending on whether Rashi or *Chizkuni* is being followed.
 
 **צרעת / נגע / צרוע / מצורע / צרעה** — leprosy | tzaraas, tzaraat, tzara'at, nega, nego, negaim, negoim, tzarua | reviewed | [leprosy-tzaraas-nega-metzora.md](entries/leprosy-tzaraas-nega-metzora.md)
 
 *Tzaraas* is the **affliction itself**; *nega* is the **spot**, for Rabbi Shlomo Pappenheim the point of contact where the affliction strikes. On the Arizal's reading *tzaraas* is the impurity that has taken hold and *nega* the Divine blow that brings it to the surface, so that where the Torah pairs them, *nega tzaraas*, it is naming two things and not one. *Tzarua* and *metzora* both mean **leper**; of four explanations of why the Torah alternates them, Perlmutter's is that *tzarua* is the man while the affliction is on him and *metzora* still fits him until the purification is complete. The affliction has been rendered leprosy, Hansen's disease, epilepsy, mold and mere skin discoloration, and Rav Hirsch holds that an affliction that is merely pathological is by definition not a *nega* at all.
 
+**Rendering guidance.**
+
+- *Tzaraas* is best left transliterated in a Torah context. "Leprosy" imports a
+  modern diagnosis the sources do not make, and on Rav Hirsch's reading it names
+  precisely the thing a *nega* is not.
+- *Nega*: "spot" where the surface mark is meant, "affliction" where the blow is
+  meant. Plural *negaim*; the masechta is *Negaim*.
+- Trap: English "affliction" will absorb both *tzaraas* and *nega*, and the
+  Arizal's whole distinction dies with it. In the doubled phrase *nega tzaraas*,
+  translate two words, "a spot of *tzaraas*," never one.
+- Second trap: "leper" absorbs *tzarua* and *metzora* alike. Where a passage
+  turns on the man's stage (afflicted, healed, purified), mark the difference,
+  for instance "one bearing the affliction" against "one under the laws of the
+  *metzora*."
+- *Tzirah* keeps "hornet" in a plain rendering of Shemos 23:28, Devarim 7:20,
+  Yehoshua 24:12, with a note where Ibn Ezra's "malady" reading is being used.
+
 **מסוה / מסכה / פרצוף / סותה / מסכת** — mask | masveh, masechah, masecha, masekhah, partzuf, partzufim, partzufa, suto | reviewed | [mask-masveh-masechah-partzuf.md](entries/mask-masveh-masechah-partzuf.md)
 
 *Masveh* is the Biblical **mask** or **veil**, and it appears only of the covering Moshe Rabbeinu put over his face. *Masechah* in Tanach is not a mask at all but a **molten image**, cast metal, as in *egel masechah*; the modern sense of "mask" is a later development. *Partzuf* is a **face**, a Greek loan-word, and it is the word the early poskim use for the Purim custom.
+
+**Rendering guidance.**
+
+- Trap: English "mask" will absorb *masveh*, *partzuf*, and modern *masechah*.
+  In a pasuk, *masveh* is "mask" or "veil" and *masechah* is "molten image";
+  never let the second take the first's English.
+- Shemos 34:33-35: "veil" reads better than "mask" for Moshe Rabbeinu, since the
+  point is shielding others from the light, not disguise.
+- In a teshuvah or minhagim sefer on Purim, render *partzufim* "masks," with the
+  literal "faces" in a gloss where the wordplay matters.
+- *Masechet* in a Mishnaic context is "woof threads"; in a bibliographic one it
+  is "tractate." Do not carry the weaving sense into a citation.
 
 **אף / חוטם / נחירים / חור / אפים** — nose | af, ahf, apayim, appayim, anpin, chotem, chotam, chotmin | reviewed | [nose-af-chotem-nichirayim.md](entries/nose-af-chotem-nichirayim.md)
 
 *Af* is the biblical word: **nose** in a minority of its appearances, **anger** or **even, also** in most, and in the dual *apayim* usually **face**. *Chotem* is the rabbinic word for the organ, and in the plural *chotmin* the **nostrils** proper. *Nichirayim* is a single biblical word for the two **nostrils** as openings (Iyov 41:12).
 
+**Rendering guidance.**
+
+- Default *af* to "anger" and check for a nose, not the reverse. "Wrath" or
+  "fury" for *charon af*, "slow to anger" for *erech apayim*; do not put a nose
+  into either English phrase.
+- Trap: English "nose" absorbs *af*, *chotem* and *nichirayim*. Where a passage
+  gives *chotem* in the singular and plural in one breath (*Middos* 3:2), the
+  English must alternate "nose" and "nostrils"; the Gemara's point at *Sanhedrin*
+  52a about four *chotmin* for two men only works as "nostrils."
+- Where Targum is at issue, follow Rabbi Eliyahu Bachur's rule: Targum *anaf*
+  signals that the Hebrew *af* means face, Targum *nechar* that it means nose.
+  That is a usable check on an ambiguous pasuk.
+- *Apayim* in *vayishtachu apayim artzah* is "on his face," never "on his
+  nostrils." *Apayim* is only "two noses" etymologically, not in usage.
+- *Echetam* (Yeshayahu 48:9): "I will hold back" or "I will restrain My anger."
+  Rashi's reading wants the restraint visible; "I will be forgiving" (Menachem
+  Ibn Saruk) is a different translation, and one should not blend the two.
+
 **דבר / מגפה / נגף / צפרדע / דבורה** — plague | dever, mageifah, magefah, mageifos, mageifotai, negef, nogef, tzfardea | reviewed | [plague-dever-mageifah-negef.md](entries/plague-dever-mageifah-negef.md)
 
 *Dever* is **pestilence**, a lethal contagious disease. *Mageifah* is the wider word for a **plague** or **blow**, from a root that means striking, and by Rashi's reading it does not by itself mean anything fatal. *Negef*, *mageifah*'s first cousin, is the exception: Malbim reads it as a plague that does kill, and Rashi glosses it as *dever*. Following Rashi, Rabbi Klein takes *mageifah* as any striking and *dever* as a plague that brings death, though Abarbanel holds *mageifah* inherently lethal. On Rabbi Klein's own summary a *mageifah* is just a plague while a *dever* is an especially deadly one. Rabbi Yair Chaim Bachrach, against a sage who made *mageifah* the deadlier of the two, shows that the difference between the words does not lie in the extent of their impact.
+
+**Rendering guidance.**
+
+- דבר: "pestilence." Keep it, even where "plague" reads more naturally; it is
+  the word that carries contagion and certain death.
+- מגפה: "plague" in a narrative, "blow" or "striking" where Rashi's sense is
+  the point (Shemos 21:22, a blow to a pregnant woman, is not a plague at all).
+- נגף: "plague" too, but if *negef* and *mageifah* stand together, render
+  *negef* "deadly plague" and *mageifah* "affliction" so Malbim's distinction
+  survives.
+- Trap: English "plague" absorbs all three. Shemos 9:14-15 puts *mageifos* and
+  *dever* side by side ("all My plagues... stricken you with *dever*"); render
+  the first "plagues" and the second "pestilence," or the passage collapses into
+  a tautology.
+- Trap: do not translate *mageifah* as though it reports a death toll. It
+  reports what the striker did; the toll, if any, is elsewhere in the pasuk.
 
 **תער / מורה / מתער** — razor | taar, taer, morah, mora, mitaar, temurah, mumar | reviewed | [razor-taar-morah.md](entries/razor-taar-morah.md)
 
 *Taar* is the plain word for a **razor**; the Torah uses it for the *nazir* (Bamidbar 6:5). *Morah* is the word the Neviim use in the same formula (Shoftim 13:5, 16:17; Shmuel I 1:11), and it is contested: Radak renders it **razor** throughout, while Targum and Rashi render it **scissors** by Shimshon and **the fear of men** by Shmuel. Rabbi Klein's own conclusion is an admission: he has found no source that clearly explains the difference between the two words, and has been unable to work out why the Torah says *taar* and the Neviim say *morah*.
 
+**Rendering guidance.**
+
+- תער: "razor," always.
+- מורה: "razor" by default, following Radak.
+- Trap: at Shmuel I 1:11 the choice of English decides the *machlokes*. "No
+  razor shall come upon his head" commits to Rabbi Nehorai and Radak; "no fear
+  of man shall come upon him" commits to Rabbi Yossi, Targum and Rashi. Do not
+  choose silently; where the passage bears on whether Shmuel was a *nazir*,
+  give one reading in the body and the other in a note.
+- Trap: English "razor" absorbs *taar* and *morah* both, which is usually
+  harmless, but not where *Vayikra Rabbah* 10:5 is being darshened. There the
+  derashah runs on the sound of *morah* as fear, and the English must hold both:
+  "the razor, the *morah*, of which the hair alone is afraid."
+- Do not manufacture a distinction between the two words in a footnote. Rabbi
+  Klein looked and found none, and could not account for why the Torah says
+  *taar* and the Neviim say *morah*.
+
 **גמד / גומד / נמוך / גוץ / ננס / גדם / מך** — shortness of stature | gamad, gamadim, gomed, gemed, namuch, namoch, nemucha, gutz | reviewed | [short-gamad-namuch-gutz-nanas.md](entries/short-gamad-namuch-gutz-nanas.md)
 
 *Gomed* is a **measure**, an *amah* or a cut-down *amah*, and *gamadim* in Yechezkel are read either as sounders of the sea's depth or as **dwarfs** an *amah* tall. *Namuch* is **low**, the plain Rabbinic word for short in height, of a person or a fence alike. *Gutz* is **stunted**; the derivation Rabbi Reuven Chaim Klein finds more plausible than its two rivals is a Semitic one, from an Aramaic sense of cutting off, as though the man's height had been cut short. *Nanas* is the Rabbinic term for a **dwarf**, and equally for short boards or low walls. *Gamad*, *namuch* and *nanas* are not confined to people. The Gemara (Moed Katan 18a) says that the Pharaoh of Moshe's day was but one *amah* tall, which, Rabbi Reuven Chaim Klein observes, gives a different spin to the scene of Moshe and Aharon standing before him.
+
+**Rendering guidance.**
+
+- Trap: "short" will absorb all four. Where a sugya or a commentary pairs two of
+  them, render *namuch* "low," *gutz* "stunted" or "short-statured," and *nanas*
+  "dwarf."
+- *Gomed* in Shoftim 3:16 is a unit of length, not a description of Ehud. Write
+  "a *gomed* in length" and gloss it once with the dispute (an *amah*, or less
+  than an *amah*); "a cubit long" quietly decides the machlokes.
+- *Gamadim* at Yechezkel 27:11 is genuinely contested. Say which Rashi you are
+  following, the sounders or the dwarfs, rather than picking silently.
+- In halachic contexts *namuch* and *nanas* often describe objects. "A *nanas*
+  board" is a low board; do not personify it.
+- The Moed Katan 18a description of Pharaoh as one *amah* tall is a statement
+  about stature, and Chazal's word for such a man is *nanas*. Keep the register
+  plain; Rabbi Reuven Chaim Klein himself notes in passing that the English word "midget" is no
+  longer socially acceptable, and modern clinical vocabulary does not belong in a
+  rendering of a Gemara either.
 
 **שכם / כתף** — shoulder | shechem, shchem, sh'chem, katef, kasef, kesef, k'sefayim, kesefos | reviewed | [shoulder-shechem-katef.md](entries/shoulder-shechem-katef.md)
 
 Both mean **shoulder**, and no single ruling settles them. One division (the *Ohel Moed*'s second view, with Radak): *katef* is the shoulder proper, the whole shoulder; *shechem* is the part of it directly opposite the neck, so **upper shoulder**. In Iyov 31:22, which sets the two in a spatial relation, *shechem* seems rather to be the **upper back**. *Shechem* also carries the borrowed senses of a parcel carried there and, from that, a **portion** or allotment.
 
+**Rendering guidance.**
+
+- When only one of the two appears, "shoulder" is right for either.
+- Bereishis 49:15 (*vayeit shichmo*): "he lowered his shoulder to carry the
+  burden," or "bent his shoulder." The image is a beast under a yoke; keep it
+  singular and physical.
+- Bereishis 48:22 (*shechem echad*): decide between "one portion" and "Shechem"
+  and let a note carry the other; do not blend them into "one shoulder."
+- Trap: English "shoulder" absorbs both, and Iyov 31:22 is the one pasuk where
+  that is fatal, since the two words stand in a spatial relation to each other.
+  Render there "let my shoulder fall from its blade" or "my shoulder from my
+  upper back," and note that Radak would invert the anatomy.
+
 **שינה / תרדמה / תנומה / לינה / דורמיטא / ישן / שכיבה** — sleep | sheinah, sheina, sheintah, yashein, yashen, yashan, tardeimah, tardema | reviewed | [sleep-sheinah-tardeimah-tenumah.md](entries/sleep-sheinah-tardeimah-tenumah.md)
 
 *Sheinah* is ordinary **sleep**, and doubles as the general term. *Tardeimah* is **deep sleep**, the sleep that overpowers a man rather than being chosen. *Tenumah* is **drowsiness** or **dozing**, the half-asleep state in which one still answers to his name. *Linah*, technically speaking, is not "sleeping" at all but **leaving something overnight**, though it generally takes in the hours people sleep, and it governs meat and a corpse as readily as a guest. Ibn Ezra ranks *tenumah* under *sheinah* under *tardeimah*, and Radak, *Peirush HaRokeach*, Rabbi Sternbuch, Rabbi Wertheimer and Rabbi Yosef Nechemias follow that ranking or a similar one; the Netziv disagrees with it and makes *tardeimah* the *lighter* sleep of one just dropping off, which is why it precedes *vayishan*. Both readings stand.
+
+**Rendering guidance.**
+
+- שינה: "sleep." תרדמה: "deep sleep." תנומה: "slumber," "drowsiness," "dozing."
+  מתנמנם: "dozing," or "half asleep" where the Gemara's definition is in play.
+- לינה: "staying overnight," and of an object "left overnight." Never "sleeping"
+  when the subject is meat, wages, or a body.
+- Trap: English "sleep" and "slumber" cover all three, and loose usage destroys
+  Rambam's *shofar* line, where *sheinah* and *tardeimah* are two conditions in
+  one sentence. Render that pair "sleep" and "deep slumber," in that order.
+- Second trap: Bereishis 2:21 has *tardeimah* and *vayishan* consecutively, and
+  they are not a repetition. Give them two English words, and say whose ranking
+  you follow, since Radak and the Netziv order the depth oppositely.
 
 **נצב / עמידה / עומד / התיצב / מצבה** — standing | nitzav, nitzavim, nitzavta, hisyatzvu, hityatzvu, vatetatzav, mutzav, matzeivah | reviewed | [standing-nitzav-amidah.md](entries/standing-nitzav-amidah.md)
 
 *Amidah* is plain **standing**: upright and stationary, the posture opposite sitting, lying and walking, with no purpose implied (Rabbi Shlomo Pappenheim, Malbim). *Nitzav* is **taking up a position**, standing for a reason, in readiness or anticipation: so the Midrash (*etimos*, "ready"), Pappenheim, Malbim (typically with special effort), Rabbi Shimon Dov Ber Analak and Rabbi Yaakov Tzvi Mecklenburg. Two other readings stand beside it: Rabbi Tzvi Elimelech Shapiro of Dinov, who concedes there are counter-proofs, makes *nitzav* standing anew and *amidah* standing already; Rabbi Shlomo Aharon Wertheimer makes *nitzav* prolonged standing, which implies that *amidah* could even be momentary. Several of these authorities build on a pasuk's switch from one to the other, though *Metzudas David* holds the two synonymous at Divrei HaYamim II 20:17.
 
+**Rendering guidance.**
+
+- Default: *amidah* "stood," *nitzav* "stood ready" or "took up his stand."
+  Where the anticipation is the point, "posted himself" and "stationed himself"
+  are better still.
+- Shemos 18:13-14: "the people stood over Moshe" for the narrator, "the whole
+  people stands waiting on you" for Yisro. If both read "stand," Rabbi Analak's
+  reading disappears from the page.
+- Yeshayahu 3:13: "Hashem takes His stand to contend, and He stands to judge the
+  nations." Two different English verbs are required; for Rabbi Shapiro the
+  derashah is the switch.
+- Divrei HaYamim II 20:17: "take your stand, stand firm, and see the salvation of
+  Hashem." If following *Metzudas David*, "stand fast, stand still" as a rousing
+  doublet is fine, but say which reading is taken.
+- Trap: English "stand" absorbs both roots completely, and the passages that
+  matter are exactly the ones where both appear. Where only one root appears in
+  a narrative and nothing turns on it, plain "stood" is right for either;
+  reserve the marked rendering for the contrasts.
+- *Matzeivah* stays transliterated (a monument or single-stone altar), not
+  "pillar," when Wertheimer's derivation from long standing is in play.
+
 **שן / מתלעות / מלתעות / ככא / ניבי / גלל / חיט** — teeth | shein, shen, shina, shinayim, mesalos, metallot, mitalot, maltaos | reviewed | [teeth-shein-mesalos-kaka.md](entries/teeth-shein-mesalos-kaka.md)
 
 *Shein* is the ordinary word for a **tooth**, and by extension **ivory** and the "teeth" of a tool. *Mesalos* and *malteos* are one word with the lamed and tav switched, and how they differ from *shein* is answered three ways: they are the **molars**, the thick teeth at the back, against *shein* the front incisors (Rabbi Tedeschi; Rashi, Radak and the *Biur HaGra* likewise make them the thick teeth deeper in the mouth); they are the **fangs** protruding from a wild animal's mouth (Ibn Parchon); or *shein* is the general term and they the specific one, whether fangs, tusks or molars. *Kaka* is the Targum's Aramaic for *shein*, *nivi* its Aramaic for *mesalos*, and Rabbi Klein finds the difference between the Hebrew pair evident from that split. *Gallal* is "tooth" only as the Gemara reads it, in context the tort category of tooth damage. *Chit*, in Rabbinic literature only in one Mishnah and its Sifra parallel, is disputed: the **gums** (Rashi) or the **teeth** themselves (the Mainz commentary ascribed to Rabbeinu Gershom, and the *Aruch*).
+
+**Rendering guidance.**
+
+- *Shein*: **tooth**, or **ivory** where the object is made of it. In the tort
+  sugyos leave it transliterated, *shein*, since it names a category.
+- *Mesalos* / *malteos*: **molars** following Rabbi Tedeschi, with Rashi, Radak
+  and the Gra; **fangs** where the subject is a beast and Ibn Parchon's reading
+  fits. Do not silently write "teeth."
+- *Kaka* and *nivi* stay transliterated in a Gemara passage, glossed once from
+  the Hebrew they translate; for *nivi* on Chullin 59a say which of Rashi's two
+  explanations you follow.
+- *Chit*: **gums** or **teeth**, whichever the posek in front of you follows;
+  say which.
+- Trap: English "teeth" covers *shein*, *mesalos*, *malteos*, *kaka*, *nivi*,
+  and *gallal* alike. Wherever two of them stand in one pasuk or one sugya
+  (Mishlei 30:14; Berachos 56a; Chullin 59a), the passage is drawing the line
+  English erases. Give the general word "teeth" and the specific one "molars,"
+  or transliterate the second.
 
 **גרון / גרגרת / קנה / ושט / גרגרן** — throat | garon, garone, gargeres, gargeret, gargeros, gargerot, kaneh, kane | reviewed | [throat-garon-gargeres-kaneh.md](entries/throat-garon-gargeres-kaneh.md)
 
 All three name the **windpipe**, and whether they are truly synonymous is disputed. For Rabbi Yaakov Emden they are one organ in three strata of the language: *garon* the Biblical word, *gargeres* the Mishnaic, *kaneh* the Talmudic (Rabbi Tanchum HaYerushalmi likewise calls *gargeres* and *kaneh* two words for one thing). For Rabbi Yaakov Weil *gargeres* and *kaneh* are two parts of the windpipe, the ringed exterior and the inner membrane, and the difference has halachic weight. In Tanach *garon* and *gargeres* often mean the visible **throat** or **neck** rather than the pipe inside it, and Rabbi Pappenheim even takes *garon* as the food pipe first; from the Mishnah on, *gargeres* and *kaneh* are technical and their partner is *veshet*, the **food pipe**. In any *shechitah* context *gargeres* or *kaneh* is the windpipe and *veshet* the esophagus.
 
+**Rendering guidance.**
+
+- In Tanach: *garon* is "throat" where speech or adornment is in view, and "neck"
+  in Yeshayahu 3:16 and Yechezkel 16:11. *Gargeros* in Mishlei is "neck" or
+  "throat," not "windpipes"; the plural is a feature of the word, not a count.
+- In halachic text: *gargeres* and *kaneh* are "windpipe," *veshet* is "food
+  pipe" or "esophagus," every time. This is the trap: English "throat" will
+  absorb *garon*, *gargeres*, and *kaneh* together, and in *Chullin* that is
+  not a stylistic loss but a substantive error, since the whole discussion turns
+  on which of two pipes was cut.
+- Where *gargeres* and *kaneh* stand near each other and a measurement is at
+  stake, do not merge them; Rabbi Yaakov Weil reads them as outer rings against
+  inner membrane.
+- *Gargaran*: "glutton." Where the passage plays on the word's link to the
+  windpipe, keep the Hebrew and let a note carry the play.
+- *Kaneh* elsewhere stays "reed" or "stalk"; the anatomical sense must not leak
+  back into Tanach, where it never has it.
+
 **בהן / גודל / אגודל / זקפא / רברבתא / אליון** — thumb | bohen, bohein, bohan, gudal, godel, gudel, agudal, agudel | reviewed | [thumb-bohen-gudal-agudal.md](entries/thumb-bohen-gudal-agudal.md)
 
 *Bohen* is the Torah's word for the **thumb** and the **big toe**; *gudal* and *agudal*, which may be used interchangeably, are its apparent synonyms in later Hebrew. Rashi equates *bohen* with *gudal* in one place, and elsewhere cites Toras Kohanim that the *bohen* is the **middle joint** of the *gudal*. *Zikfa*, *ravravta* and *ilyon* are Aramaic for the thumb, *ilyon* the Targumim's word for *bohen*.
+
+**Rendering guidance.**
+
+- Trap: "thumb" absorbs *bohen* and *gudal*; where Toras Kohanim reads *bohen* as
+  the middle joint of the *gudal*, "thumb" for both collapses the point.
+- In Midrash Tanchuma's play on *elyon* and *ilyon*, give both, or the pun is lost.
 
 **עיף / יעף / יגע** — tired | ayef, ayeif, yaef, yaeif, yaaf, yagea, yagia, yaga | reviewed | [tired-ayef-yaef-yagea.md](entries/tired-ayef-yaef-yagea.md)
 
 *Ayef* is **tired**, the common word and the one Modern Hebrew kept. *Yaef* is the same three letters in a different order. Some explain the two as one word by metathesis (the Rid compares *kesev* and *keves*); Rabbi Shimon Schwab reads them as two degrees, *ayef* tired but with some energy left, *yaef* **exhausted**, with nothing left, which for him is why the morning berachah says *ha'nosen la'yaef koach*. *Yagea* is **worn out**, tiredness from a different cause: for Malbim, (over)exertion, against the natural low energy of *ayef*; for Rabbi Yosef of Saragossa, the speed of one's actions, against the persistence of *ayef*.
 
+**Rendering guidance.**
+
+- The berachah *ha'nosen la'yaef koach*: **"Who gives strength to the exhausted."**
+  "Tired" there flattens exactly the word Schwab says the berachah chose on purpose.
+  Schwab's comment is on the berachah's word choice; Rabbi Klein himself translates the
+  pasuk, Yeshayahu 40:29, "to the tired (*yaef*)." On the metathesis view the two words
+  are one and "tired" is not a loss.
+- Devarim 25:18 puts *ayef* and *yagea* side by side. Render them separately: **"weary
+  and worn out"**, or **"faint and exhausted from toil"**. One English word covering
+  both is the standard failure here.
+- Keep **thirsty** available for a standalone *ayef* where the context is water (Iyov
+  22:7, Tehillim 63:2), and note the fatigue sense rather than losing it.
+- *Yagea* as an adjective is **worn out**; the related noun *yegiah* is **toil**, and
+  should not be translated as tiredness.
+
 **יקיצה / עורה / ויקץ / מקיץ / מעורר / ער / נעור** — waking | yekitzah, yekitza, hakitzah, vayikatz, mekitz, hekitz, oorah, urah | reviewed | [waking-yekitzah-oorah.md](entries/waking-yekitzah-oorah.md)
 
 *Yekitzah* is **waking up**; *oorah* is **rousing** or **stirring**. How they differ is disputed; there are three views. Rabbi Shlomo Pappenheim: *yekitzah* is sudden and complete, asleep one moment and awake the next, while *oorah* is gradual and includes the half-asleep state (so "my heart is awake," Shir HaShirim 5:2). Rabbi Yechezkel Pannet seems to suggest that *orer* suits waking from deep sleep and *yekitzah* waking one who merely dozed off. Malbim: two stages of one process, *oorah* first (coming to one's senses), then *yekitzah* (getting up and staying awake); and in Chavakuk 2:19 *yekitzah* is the more responsive waking, *oorah* the most basic. Rabbi Klein adds his own suggestion that *yekitzah* is the end of a dream or other false impression, since most of its Biblical occurrences follow a dream or drunkenness.
+
+**Rendering guidance.**
+
+- Default renderings: *vayikatz* "he awoke"; *hekitz / meikitz* "wakes,"
+  "rouses from sleep"; *oorah / uri* "awake!" or "rouse yourself"; *me'orer*
+  "who rouses"; *er* "awake" as an adjective; *hisorerus* "arousal" or
+  "stirring," never "wakefulness."
+- Trap: English "awaken" will absorb both roots. Where they stand in one phrase
+  (*Nishmas*; Chavakuk 2:19), split them, for example "who rouses the sleeping
+  and wakes those who have dozed off." A single verb used twice destroys both
+  Rabbi Pannet's reading and Malbim's.
+- When *yekitzah* follows a dream or a drunken sleep (Bereishis 28:16, 41:4,
+  41:7; Bereishis 9:24; Yoel 1:5), "awoke" is enough; do not add "suddenly."
+  Pappenheim's suddenness, for those who follow him, is carried by the word
+  itself, and spelling it out in English overtranslates.
+- *Hisorerus*, the later term of art for an inner stirring: keep it transliterated and gloss it once.
+- The ק-ץ family (*keitz*, *ketzeh*, *kayitz*, *ketzitzah*, *kotz*) is shared
+  with the "corner" cluster; see [corner](corner-peah-keren-zavit-pinah.html), where
+  Pappenheim runs the same root through *katzeh*.
 
 **כנף / אבר / אגף / גף / גדפא / נוצה** — wing | kanaf, kenaf, kanfei, ever, eiver, evrah, avir, abir | reviewed | [wing-kanaf-ever-agaf.md](entries/wing-kanaf-ever-agaf.md)
 
 In Devarim 32:11 *kanaf* and *ever* stand in one pasuk (after Shemos 19:4, "wings of eagles"); *agaf* is found only in Yechezkel. *Kanaf* is the **wing**. Rabbi Shlomo Aharon Wertheimer makes it specifically the outermost part, farthest from the body, the part that casts shade and so stands for protection; Bedersi explains that because the wing sits at the edge of the bird, *kanaf* came to mean the **edge** or **corner** of a garment or a place. *Ever*, which Rabbi Klein's own translation renders "wing," many prefer to translate **pinion**, the whole outer part of the wing with its flight feathers; Bedersi makes it any **limb**, the wing being the strongest, and in Rabbinic Hebrew it means any limb. *Agaf* is, for Rabbi Wertheimer, the part of the wing nearest the body, whence a town branching off a city. Dr. Chaim Tawil compares the three to Akkadian *kappu*, *abru* and *aggapu*; such Semitic parallels, Rabbi Klein notes, do not quite explain how the words differ. The Biblical word for a feather is *notzah*; the Aramaic *gadfa* is a feather, a wing bone, or the wing itself.
 
+**Rendering guidance.**
+
+- כנף on a bird: "wing." On a garment or a land: "corner," "edge," or "hem,"
+  following Bedersi's periphery sense.
+- Devarim 32:11: Rabbi Klein's own translation renders both words "wings."
+  Those who prefer "pinion" for *ever* keep the two apart: "He spreads His
+  wings… He bears them on His pinions."
+- Trap: English "wing" will absorb *kanaf*, *ever* and *agaf* together. Where
+  two of them appear, "wing" for *kanaf* and "pinion" for *ever* keep them
+  distinct; for *agaf*, Rabbi Wertheimer's reading points to the inner wing or,
+  by extension, an outlying town.
+- אבר in Chazal: "limb," not "wing," unless a bird is the subject.
+
 **פצע / חבורה / חובל / חברבורות** — wound | petza, peza, potzeh, potzea, chaburah, chabura, chavurah, chovel | reviewed | [wound-petza-chaburah-chovel.md](entries/wound-petza-chaburah-chovel.md)
 
 On Rashi's reading (to Shemos 21:25), which the Vilna Gaon shares, *petza* is an **open wound**, a **laceration** that breaks the skin and bleeds, and *chaburah* a **bruise**, blood pooled under skin that stayed whole. Rav Saadia Gaon, cited by Ibn Ezra, makes *petza* a broken bone and *chaburah* the bleeding wound; the Rashbam seems to make both open wounds, *petza* the graver. *Chovel* is the Rabbinic verb, **to injure**. The pair stands together in Bereishis 4:23, Shemos 21:25, Yeshayahu 1:6 and Mishlei 20:30.
+
+**Rendering guidance.**
+
+- Trap: English "wound" absorbs both. Where they stand together, on Rashi's
+  reading render "a laceration for a laceration, a bruise for a bruise" (Shemos
+  21:25), or keep the Hebrew beside "wound" as Rabbi Klein does.
+- Lemech's boast (Bereishis 4:23) puts the pair in parallel stichs; keep two
+  distinct English nouns so the parallelism survives.
+- Where a source follows Rav Saadia Gaon rather than Rashi, *petza* is a
+  "fracture" and *chaburah* the bleeding wound; where it follows the Rashbam,
+  both are cuts, the graver and the slighter. Check which view the commentary in
+  hand is working with before translating the pasuk.
+- *Chovel* in a halachic passage is "one who injures" or "wounding," not
+  "bruising"; the bruise is the *chaburah* that results.
 
 
 ### cognition
@@ -2405,33 +3728,191 @@ On Rashi's reading (to Shemos 21:25), which the Vilna Gaon shares, *petza* is an
 
 *Shachach* is the ordinary word, over a hundred times in Tanach and the word Devarim uses for every warning not to forget: **forget**. *Nashah* is rare and, on the reading of Malbim and Rav Hirsch, heavier: **forget entirely, put out of mind for good**. Malbim: what is *shachach* can still be recalled, what is *nashah* cannot. Rav Hirsch adds the moral note, that *nashah* attaches to a man who held the thing lightly, so he bears more of the blame for the forgetting. Rabbi Eliyahu Katz disagrees with both of them and denies that there is any difference at all.
 
+**Rendering guidance.**
+
+- Default: *shachach* = **forget**. Reserve the heavier English for *nashah*.
+- *Nashah* standing alone (Bereishis 41:51): "Hashem has made me **forget**
+  entirely," or "has put out of my mind." Menashe's name carries the finality;
+  a bare "forget" loses why Yosef chose the rarer word.
+- The two in one pasuk (Devarim 32:18): the Hebrew moves from *teshi* to
+  *vatishkach*, so do not render both with the same English verb. "You grew
+  unmindful of the Rock that bore you, and forgot the God Who brought you
+  forth" keeps them distinct without importing a claim about order.
+- Trap: English "forget" will absorb both words, and "neglect" will quietly
+  smuggle in Rav Hirsch's moral reading where the source has not made it.
+  Use "forget" for *shachach*; choose the *nashah* rendering by which
+  authority the passage follows, and say so in a note.
+- Do not render *shachach* as "lose" or "blank on"; the register is wrong, and
+  Devarim's warnings are commands about a state of mind, not lapses.
+
 **שמע / האזין / אוזן** — hearing | shema, shma, tishma, shamoa, shomea, haazinu, haazin, haazanah | reviewed | [hearing-shema-haazinu.md](entries/hearing-shema-haazinu.md)
 
 *Haazinu* is from *ozen*, an ear: **give ear**, the plain physical act of listening. *Shema* is **hear** in the fuller sense, taking in what is said and understanding it (Malbim), or hearkening in answer to a call (Rokeach). On distance, the Sifrei has *haazinu* for what is near and *shema* for what is far; Chizkuni, Abarbanel and Rabbi Yitzchak Arama hold the reverse. Devarim 32:1 and Yeshayahu 1:2 assign the two Hebrew verbs to heaven and earth in opposite order, and both distance readings are offered to explain that reversal.
+
+**Rendering guidance.**
+
+- Devarim 32:1: "Give ear, O heavens, and I will speak; and let the earth hear
+  the words of my mouth." Yeshayahu 1:2: "Hear, O heavens, and give ear, O
+  earth." Keep "give ear" for *haazinu* and "hear" for *shema* in both, so the
+  reversal is visible in English. This is the whole datum.
+- שמע ישראל (Devarim 6:4): "Hear, O Yisrael." Not "listen"; by Malbim the word
+  already carries understanding, and by Rokeach it carries answering a call,
+  both of which "hear" holds and "listen" weakens.
+- Trap: English "listen" is the natural word for attentive hearing and will pull
+  toward *shema*, while "hear" sounds passive and will pull toward *haazinu*,
+  which is the reverse of the Hebrew. Resist the instinct: *haazinu* is the ear,
+  *shema* is the mind.
+- Where *shema* means to obey (*shamoa tishme'u*), render "hearken" or "obey"
+  and note the shift.
+- If a passage follows Chizkuni, Abarbanel or Rabbi Yitzchak Arama rather than
+  the Sifrei, say which view the rendering assumes rather than choosing silently;
+  the two sides assign near and far to opposite words, and each explains the
+  difference between Moshe and Yeshayahu accordingly.
 
 **זכור / זכר / זכרון / פקד / פקידה / פקדון / שמור** — remember | zachor, zachar, zecher, zeicher, zechirah, zikaron, zichronos, zichronot | reviewed | [remember-zachor-pakad.md](entries/remember-zachor-pakad.md)
 
 *Zachor* is remembering in the mind: **remember, call to mind**. *Pakad* is remembering that issues in action: **attend to, take note of** (and in the right context "count," "appoint," "punish," "deposit"). Rabbi Shlomo Aharon Wertheimer, capsulizing Malbim's stance: *zechirah* is in thought, *pekidah* is in action.
 
+**Rendering guidance.**
+
+- *Zachor* in the six mitzvos of remembrance: **remember**, plain.
+- *Pakad* of Hashem toward a person: **took note of**, or **remembered** with
+  the consequence named, since in the cases cited the pasuk supplies one
+  (Sarah conceives, the redemption begins). "Visited" is the old rendering and
+  reads archaic.
+- *Pakad* in a census or a list: **counted**, **mustered**; *nifkad*:
+  **missing**, not "unremembered."
+- Trap: English "remember" will absorb both words. In a passage that contrasts
+  them, or in *Yaaleh V'Yavo* where both appear in one breath, hold the
+  distinction: *zachreinu* "remember us," *ufakdeinu* "and take account of us."
+- *Zecher* is not automatically "memory." Check whether the pasuk wants
+  **trace** or **scent** (Hoshea 14:8) before defaulting.
+- Of the six commandments, the one that does not use *zachor* is Devarim 4:9
+  (*hishamer lecha... pen tishkach*); Devarim 9:7 does use *zechor*, alongside
+  *al tishkach*.
+
 **ראה / הביט / משקיף / השקיף / צופה / שור / מציץ / משגיח** — seeing | raah, ra'ah, roeh, hibit, hibbit, habatah, hashkafah, mashkif | reviewed | [seeing-raah-hibit-tzofeh.md](entries/seeing-raah-hibit-tzofeh.md)
 
 *Ra'ah* is plain **seeing**, the eye doing its work, including what a man happens upon without meaning to. *Hibit* is the more deliberate **look**, though Rabbi Yaakov Tzvi Mecklenburg denies that the word itself denotes deliberateness; in the Midrash it is the look of one positioned above what he sees. *Mashkif* is **looking out** or **down** from a height, one who sees without being seen; in the Chumash Rashi takes it as boding ill. *Tzofeh* is **gazing** at what is not present to the eye, which is why a navi is sometimes called a *tzofeh* and why waiting for what has not yet come is *mitzapeh*. *Shur* is seeing from far off, *metzitz* is **peeking** through a narrow opening, and *mashgiach* is watching that acts on what it sees.
+
+**Rendering guidance.**
+
+- *Ra'ah*: "see." *Hibit*: "look" or "gaze at," and where the Midrash's sense is
+  in play, "look down at."
+- *Mashkif*: "look out" or "peer down," and in Bereishis 18:16 and its like keep
+  the ominous edge Rashi gives it ("looked down upon"). Devarim 26:15 is
+  "look down from Your holy dwelling" in the good sense, and the exception should
+  be visible if the passage darshens it.
+- *Tzofeh*: "gaze" for the abstract seeing, "watchman" for the sentry, "seer" for
+  the navi. *Mitzapeh*: "await" or "look forward to," never plain "see."
+- *Metzitz*: "peek" or "peer," and keep the constriction; "look" loses the whole
+  word.
+- *Mashgiach*: "oversee" or "watch over," not "observe," which is passive and
+  cancels Rabbi Moshe Shapiro's point. *Hashgachah*: "Divine Providence."
+- Trap: a pasuk that pairs two of these (Yeshayahu 5:12 with *ra'ah* and *hibit*;
+  Koheles 5:1 in the Midrash) must show the pair in English. Use "see" for one
+  and "look intently" or "look down" for the other, and say in a note which
+  authority you followed, since the Gaon and Rabbi Mecklenburg divide *hibit*
+  differently.
 
 **תעה / תועה / תועים / טעה / טעות / מטעה / טעותא** — straying and error | taah, ta'ah, toeh, to'eh, toim, toeim, toah, taut | reviewed | [straying-toeh-taut.md](entries/straying-toeh-taut.md)
 
 The two are essentially pronounced alike and spelled differently, and the general assumption among the commentators is that **תעה (tav) is "lost, stray"** and **טעה (tet) is "err, make a mistake"**; throughout Rabbinic literature *ta'us* always means a mistake. Whether they differ is disputed. Rabbi Eliyahu HaBachur draws the line as straying off the path against an error of heart or intellect. Rabbi Avraham Aharon Broide rejects that: the tav word too means erring, and Radak writes that the two are the same word, the tav being the preferred orthography in Scripture and the tet in Rabbinic sources. Rabbi Yaakov Zev Lev reconciles the positions: Hebrew has two words, Aramaic only one. Rabbi Shlomo Aharon Wertheimer, also disagreeing with HaBachur, holds that both can mean one lost on the road and differ in how he is lost: the *to'eh* with a tav is at a complete loss which way to go, the *to'eh* with a tet thinks he knows where he is going and has taken the wrong path for the right one.
 
+**Rendering guidance.**
+
+- תעה: **stray**, **wander**, **be lost**. In *Uva LeTzion*, *to'im* is
+  **those who are lost**, as Rabbi Klein renders it.
+- טעה / טעות: **err**, **a mistake**. In a sugya, *ta'us* is **an error**,
+  never "a straying."
+- Causative forms are **mislead, lead astray** for either spelling; Rabbi
+  Klein reads the one tet occurrence, Yechezkel 13:10, as open to both
+  "led astray" and "led into a mistake."
+- Trap: English "astray" and "err" each cover both Hebrew words, and "went
+  astray" will quietly decide Yechezkel 13:10 for you. Where a source turns on
+  the spelling (a derashah, a Targum comparison), name the letter: "*ta'ah*
+  with a tav."
+- Second trap: do not translate the tav word as "mistaken" in a passage that is
+  arguing Rabbi Eliyahu HaBachur's distinction, and do not translate it as
+  merely "lost" in a passage arguing Rabbi Broide's. The rendering has to
+  follow whichever view the passage is working with.
+- Wertheimer's reading gives a usable middle: **lost and at a loss which way
+  to go** (tav) against **lost and sure he knows the way** (tet).
+
 **הוראה / למוד / אלף / הדרכה / תורה / תלפיות / אלוף** — teaching | horaah, hora'ah, lhorot, lehorot, yoreh, moreh, limmud, limud | reviewed | [teaching-horaah-limmud-alef.md](entries/teaching-horaah-limmud-alef.md)
 
 For Shadal, cited by Malbim, *hora'ah* is **instruction** given once in the expectation that the pupil will retain it, and *limmud* is **teaching by drilling**, repeating a lesson until it is engraved in the pupil's heart; in Mishnaic Hebrew *hora'ah* narrows to **halachic ruling**. *Alef* is read two ways: for Malbim, teaching that happens **inadvertently**, a person or thing serving as the example from which a lesson is drawn; for Rabbi Pappenheim, the learner's **firm grasp** of material won through repeated instruction. *Hadrachah*, Malbim's contrast term, is **guidance** or counsel in applying what one already knows, not necessarily new information. *Hora'ah* and *limmud* are stages, not synonyms (Shadal and Rav Hirsch, as Rabbi Klein pairs them), and Shadal reads a whole tragedy in Tanach off the difference.
+
+**Rendering guidance.**
+
+- Trap: English "teach" will absorb *hora'ah*, *limmud*, and *alef*. Where a
+  passage sets two of them against each other, use "instruct" for *hora'ah*,
+  "drill" or "teach thoroughly" for *limmud*, and "train" or "school" for
+  *alef* (the last fits Rabbi Pappenheim better than Malbim).
+- *Hora'ah* in a Mishnaic or halachic context is "ruling," not "teaching."
+- Where a mussar passage cites Melachim II 12:3, keep the verb visible: "as
+  Yehoyada instructed him," so that the contrast with drilling survives in
+  English.
+- *Hadrachah* is "guidance" or "counsel," not "instruction," which would pull it
+  back into *hora'ah*.
+- *Alef* as a noun in a pasuk is an ox; as a verb it is to train or teach. In an
+  unpointed text let the context decide, and note that the Vilna Gaon's derashah
+  on Mishlei 14:4 turns on reading the ox-word in its teaching sense.
 
 **מחשבה / הרהור / רעיון** — thought | machshavah, machshava, machashavah, machshavos, machshavot, hirhur, hirhurim, harhor | reviewed | [thought-machshavah-hirhur-raayon.md](entries/thought-machshavah-hirhur-raayon.md)
 
 *Machshavah* is the deliberate, worked-out thought, kin to *cheshbon*: **thought**. *Raayon* is, for Rabbi Shlomo Aharon Wertheimer, the spark that surfaces unbidden and may upon deliberation be developed: **idea**, **notion**; but Rashi (to Berachos 55b) and Ramban treat it as a synonym of *machshavah*, the Yad Ramah makes it simply the Aramaic for *machshavah*, and Rashi to Daniel defines it as *hirhur*. *Hirhur* is, for the Vilna Gaon, a thought already formulated into possible words, or alternatively a thought of the heart rather than the brain: **musing**, or where the heart sense governs **stirring**. On the Gaon's first reading *hirhur* is thought already put into words, and in Rabbi Klein's synthesis of the three it is the *last* stage, thought at the threshold of speech.
 
+**Rendering guidance.**
+
+- *Machshavah* alone: "thought"; where the calculation sense is felt
+  (*cheshbon*), "design" or "intention" can serve, but "thought" is the
+  default.
+- *Raayon* alone in Tanach or Aramaic: "thought," with Rashi, Ramban and the Yad
+  Ramah. In a later text that contrasts it with *machshavah*: "idea" or
+  "notion," with Wertheimer, and keep "thought" free for *machshavah*.
+- *Hirhur* alone: "musing" when the sense is silent inner speech; "stirring"
+  when the heart sense governs (the Gaon's alternative reading). Do not render
+  it "reflection," which suggests the deliberate *machshavah*.
+- The three together, or a passage that ranks them: follow Rabbi Klein's track
+  of thought, *raayon* (spark), *machshavah* (developed thought), *hirhur*
+  (thought shaped into unspoken words), and give each its own English.
+- Trap: "thought" absorbs all three, and "idea" absorbs *raayon* and
+  *machshavah*. If the passage does not turn on the difference, "thought" for
+  each is acceptable; if it does, one English word per Hebrew word.
+- The pair *hogeh*/*higayon* names the process of following a thought to its
+  conclusion: "contemplation," "reasoning it through," not a fourth noun for
+  "thought."
+
 **חכמה / בינה / תבונה / דעת / חכם / נבון** — wisdom | chochmah, chochma, chachmah, chokhmah, binah, bina, tevunah, tevuna | reviewed | [wisdom-chochmah-binah-daat-tevunah.md](entries/wisdom-chochmah-binah-daat-tevunah.md)
 
 Jewish tradition has long seen the Menorah as a symbol of wisdom (Bava Basra 25b); the three terms together form the basis of Jewish epistemology. *Chochmah* is **wisdom**: for Rashi, after the *Sifrei*, what one hears and learns from others, and Chazal's *chacham* gathers from every source; for Malbim, practical wisdom, the smart way of acting. *Binah* (with *tevunah*, which most use almost interchangeably) is **understanding**, understanding one matter from within another (Chagigah 14a), building on what one already holds (a *navon* is **discerning**). *Daat* is **knowledge**, and its readings are many: grasping the reason behind a lesson (Rashi and Bartenura to Avos 3:17); *ruach hakodesh* (Rashi to Shemos 31:3) or reconciliation (Rashi to Chagigah 12a), which Rabbi Shmuel Yaakov Burnstein unites as connection; the joining of intellect and emotion (Rabbi Chaim Friedlander); thinking of new ideas oneself (Rabbeinu Yonah); the certainty of what *binah* concludes (Malbim); and, for the kabbalists and Ramchal, the synthesis of the other two. Everyone agrees that *chochmah* is the *lowest* of the three (Shemos Rabbah 41:3; Rashi to Shabbos 31a); whether *binah* or *daat* ranks higher is disputed (the Maharal against some sources, see Maharsha).
+
+**Rendering guidance.**
+
+- The triad חכמה תבונה ודעת (Shemos 31:3): "wisdom, understanding, and
+  knowledge," in that order.
+- The pair חכמה ובינה (Devarim 4:6): "wisdom and understanding" (Rabbi Klein
+  has "wisdom and insightfulness"). The absence of *daat* is load-bearing (Rabbi
+  Yaakov Chaim Sofer: the nations reach *chochmah* and *binah* but not *daat*;
+  his brother Rabbi Eliyahu Tzion Sofer, from Eichah Rabbah 2:13: not even
+  *binah*), so do not pad the pair with "knowledge."
+- נבון וחכם (Bereishis 41:33, 41:39): "discerning and wise" (Rabbi Klein has
+  "insightful and wise"), in Hebrew order. For Rabbi Yaakov Chaim Sofer the
+  same silence about *daat* is the point: Pharaoh could not see that Yosef was
+  also a *yodea*.
+- *Binah* and *tevunah* alone: both "understanding." Where a passage contrasts
+  them, say whose distinction is followed: Rabbi Pappenheim (the whole against
+  its parts), the Vilna Gaon to Mishlei 2 (*tevunah* the reflection that
+  qualifies), or the Gaon in *Chemdah Genuzah* (*tevunah* the understanding one
+  can explain to others).
+- *Daat* alone: "knowledge"; if the passage turns on connection,
+  reconciliation, or certainty, keep *daat* transliterated with a gloss.
+- *Chacham* in Tanach, above all in Koheles: a sage, a religious scholar of
+  Torah (Bedersi). Of a craft or a scheme it is the skilled or the cunning.
+- Trap: loose English "wisdom" absorbs *binah* and *daat*, and loose
+  "knowledge" absorbs *chochmah* and *daat*. Where a derashah orders or ranks
+  them, give one English word per Hebrew word.
 
 
 ### emotion
@@ -2440,57 +3921,305 @@ Jewish tradition has long seen the Menorah as a symbol of wisdom (Bava Basra 25b
 
 *Kaas* is the plain, generic word: **anger**. *Cheimah* is heated anger held in the heart: **wrath**. *Charon* is anger past heat to burning: **burning anger**; the idiom *charon af*, **fierce anger**. *Evrah* overflows its object onto others: **fury**. *Zaam* is angry contempt that breaks into cursing: **indignation**. *Ketzef* is anger at the boil, outward and visible: **rage**. *Rogez* is the body shaken out of its calm: **agitation**. *Af* is anger on the face: **anger**. Rabbi Shlomo Pappenheim ranks them by intensity (kaas, zaam, cheimah, charon, charon af, ketzef, evrah).
 
+**Rendering guidance.**
+
+- Standalone כעס: "anger," the hypernym; do not dress it up. חרון אף: "burning
+  anger" or "fierce anger," one phrase for the idiom. Bare חרון: "burning anger"
+  (Bedersi: hotter than *cheimah*).
+- אף וחמה together (Devarim 9:19): "anger and wrath," in that order; the Vilna Gaon
+  reads *af* as the earlier stage, so the English pair must ascend.
+- באף ובחמה ובקצף גדול (Devarim 29:27): "in anger, in wrath, and in great rage,"
+  ascending. עברה וזעם (Tehillim 78:49): "fury and indignation."
+- רוגז: check whether the pasuk means anger at all (Bedersi: sometimes fear or
+  trembling); "agitation" is safe when the sense is uncertain.
+- Trap: "wrath" swallows *cheimah*, *charon*, *evrah*, and *ketzef* alike, and
+  "anger" swallows all seventeen; where the passage lists, pairs, or darshens the
+  words, give each its own English in Pappenheim's order.
+- Trap: *zaam* is not "wrath"; it carries contempt (Ibn Janach, Bedersi) and cursing
+  (Malbim), so "indignation." *Atzvus* beside *charon* is "upset."
+
 **תאוה / חמדה / חפץ** — desire | taavah, ta'avah, taava, tayvah, tayvuh, taivah, taavos, hitavu | reviewed | [desire-taavah-chemdah.md](entries/desire-taavah-chemdah.md)
 
 *Taavah* is **craving**, and in a mussar context **lust**: the desire whose fulfillment is direct bodily pleasure, born of the man's own appetite and imagination (Vilna Gaon; Malbim). The word almost exclusively conjures the desire for intimacy. *Chemdah* is **coveting**: desire drawn by the object's own worth and roused by seeing it, typically for money, a house, fine clothes (Vilna Gaon; Rabbi Pappenheim and Rabbi Mecklenburg; Malbim). *Chefetz*, the Vilna Gaon's word for desire for food, seems to sit between them, as Rabbi Klein suggests: plain **desire** (see the *ratzon* entry). Chagigah 11b applies the two to theft and illicit relations, and the Vilna Gaon explains that it does so respectively: *chemdah* with theft, *taavah* with illicit relations. The contrast between the two is inside (*taavah*) against outside (*chemdah*).
+
+**Rendering guidance.**
+
+- *taavah*: "craving" as the neutral word; "lust" where the object is intimacy
+  or the register is mussar; "appetite" for the bodily faculty in general.
+  Plural *taavos*: "cravings", "lusts". *Baal taavah*: "a man of appetite".
+- *chemdah*: "covet" as a verb, "coveting" as the noun; the adjective *nechmad*
+  is "desirable" (the thing's own worth, which is the point). "Greed" is
+  acceptable when the object is money, since that is the Gaon's own example.
+- *chefetz*: "desire"; never "lust".
+- Together, Chagigah 11b: "coveting leads to theft, craving to *arayos*." Keep
+  two English words; the Gemara's whole point is the pairing.
+- Trap: "desire" absorbs all three. A second trap: "lust" for *chemdah*. The
+  Gaon's rule is that *chemdah* is never a bodily pleasure, so "lust for money"
+  is a mistranslation of the Hebrew even where it is idiomatic English.
+- The inside/outside test settles hard cases: if the passage stresses that the
+  man wanted before he ever saw (imagination, appetite), it is *taavah* and
+  reads "craving"; if it stresses the thing's attractions, it is *chemdah* and
+  reads "coveting".
 
 **אימה / פחד / מורא / יראה / דאגה** — fear | eimah, eima, aimah, aima, pachad, pachas, morah, mora | reviewed | [fear-eimah-pachad-yirah-daagah.md](entries/fear-eimah-pachad-yirah-daagah.md)
 
 For Ibn Ezra, *eimah* is the felt emotion of being afraid: **dread, terror**. *Pachad* is the sudden, short-lived start of fear, for Ibn Ezra its outward manifestation: **fright, fear**. *Yirah* and its noun *morah* are the sustained fear that has built up over time: **fear** (the general word). *Daagah* is fear of a loss or of a coming evil: **worry, anxiety**. Rashi contrasts *pachad* as sudden with *morah* as pent up over time; for Rabbi Shlomo Aharon Wertheimer *pachad* is brief and *morah* continual and therefore the more intense.
 
+**Rendering guidance.**
+
+- אימתה ופחד (Shemos 15:16): "terror and dread" or "dread and fright"; two words,
+  two renderings. Since the far/near assignment is disputed, do not build a
+  rendering on it; Ibn Ezra's inner/outer split (the feeling, then its
+  manifestation) is the safer basis for the pair.
+- פחדכם ומוראכם (Devarim 11:25): "the fright of you and the fear of you," keeping
+  *pachad* as the sudden start and *morah* as the settled fear.
+- Standalone יראה of a threat: "fear." Standalone פחד: "fright" when the suddenness
+  matters, "fear" otherwise, but never "terror" as if it were the graver word.
+- דאגה: "worry" or "anxiety," never "fear"; Mishlei 12:25 reads "worry in a man's
+  heart."
+- Trap: English "fear" absorbs all four. When the pasuk pairs or lists them, or a
+  derashah turns on the sequence, give each its own word.
+- Trap: "dread" is a fair rendering of *eimah* but also of settled *morah*; reserve
+  it for *eimah* when both are in play.
+- Scope: Rabbi Klein treats fear as the emotion before a threat. *Yiras Shamayim* as
+  awe or reverence is a separate usage he does not take up; do not import rulings
+  for that from here.
+
 **שמחה / ששון / גילה / גיל / רינה / רנה / דיצה / חדוה** — joy | simchah, simcha, sasson, sason, sosson, gilah, gila, gil | reviewed | [joy-simchah-sasson-gilah.md](entries/joy-simchah-sasson-gilah.md)
 
 *Simchah* is the inner, continual gladness: **joy, gladness**. *Sasson* is joy shown outwardly, in dress, music, celebration: **rejoicing** (Malbim); for the Vilna Gaon it is the joy attained at the end, where *simchah* begins the pursuit. *Gilah* is a burst of joy that does not last (Malbim), or the joy of recalling past joys (Gra): **exultation, a burst of joy**. *Rinah* is joy that breaks into song of Hashem's praise: **joyous song**. *Ditzah* and *chedvah* are, on many commentators' account, Aramaic forms of the word for joy: **mirth, delight**. Both ששון ושמחה and שמחה וששון are scriptural, and Chazal darshen the order (Sukkah 48b).
+
+**Rendering guidance.**
+
+- ששון ושמחה: "rejoicing and gladness" (or "joy and gladness"); שמחה וששון:
+  "gladness and rejoicing." Keep the Hebrew order; the Gemara darshens it.
+- The wedding berachah's list, ששון ושמחה... גילה רינה דיצה וחדוה: give each its own
+  English (rejoicing, gladness, exultation, song, mirth, delight); a translator who
+  writes "joy, joy, joy" has erased the berachah.
+- Standalone שמחה: "joy" or "gladness." Avoid "happiness"; it reads
+  modern and flattens the inner/outer split.
+- גיל / גילה standing alone: "exultation" or "a burst of joy"; beside שמחה, let it
+  be the sharper, shorter word.
+- Trap: English "joy" absorbs *simchah*, *sasson*, and *gilah*. "Rejoicing" (a
+  doing) is the natural English for outward *sasson*, "gladness" or "joy" (a
+  feeling) for inner *simchah*; hold that line when they meet.
+- Trap: *yagon* is the antonym of *simchah*, not of *sasson*; *aveilus*, and
+  *anachah*, "a sigh," are the antonyms of *sasson* (Malbim). A passage that
+  opposes joy to mourning is speaking of outward joy.
 
 **צחוק / שחוק / יצחק / ישחק / מצחק** — laughter | tzchok, tzechok, tzchoq, metzachek, vayitzchak, yitzchak, schok, sechok | reviewed | [laughter-tzchok-schok.md](entries/laughter-tzchok-schok.md)
 
 *Tzchok* and *s'chok* are the same word: **laughter**, with sin and tzadi interchanging, and the lexicographers find no difference of meaning between them. Both run the full range from laughing and playing to mocking and deriding. The whole discussion of *Yitzchak* against *Yischak* is therefore not lexical but homiletical and kabbalistic.
 
+**Rendering guidance.**
+
+- Default rendering for both spellings: "laughter," "laugh." Where the context
+  is derision (*metzachek* of Yishmael, Shimshon made to perform), render
+  "mock," "make sport," "make sport of," and note the root is the same word as
+  the laughter of joy. Rav Hirsch's point is that Hebrew does not have two
+  words here, and an English rendering that supplies two must say so.
+- Trap: English "laugh" and "mock" will pull apart what Hebrew holds together,
+  and conversely a reader shown "laugh" twice will miss that Sarah's laughter
+  (Bereishis 18:12) and her *tzchok* at the birth (21:6) are differently read
+  by the mefarshim. Take Onkelos and Rashi at 21:6 as joy expressed outwardly.
+- The names stay as they are printed: *Yitzchak* where the text has a tzadi,
+  *Yischak* where it has a sin. Never normalize one to the other, and never
+  translate the difference; the four *Yischak* pesukim are the whole basis of
+  every derashah above.
+- *S'chok* in Tehillim 126:2 is "laughter" and belongs to the future; in mussar
+  prose *s'chok* often means frivolity, and "levity" serves better there than
+  "laughter."
+
 **אהבה / אהוב / אוהב / רחים / רחימו / חיבה / חביב / חובב / עגב / עגבים** — love | ahavah, ahava, ahuv, ahuvah, ohev, ahavim, rechim, r'chim | reviewed | [love-ahavah-chibah.md](entries/love-ahavah-chibah.md)
 
 *Ahavah* is the general word and the widest: **love**; in its true sense the love that gives itself to the beloved (Rav Hirsch, Rabbi Eliyahu Lopian) and embraces the whole person, faults included (Rabbi Yosef Zechariah Stern). *Chibah* is love held close and inward, love of what is dear in someone: **fondness, affection**; *chaviv*, **dear**. *Rechim* is the Targum's Aramaic for *ahavah* (in Hebrew the root is usually mercy, save Tehillim 18:2): **love**. *Agav* is love in its negative form: **lust**, not the positive love the others name. On the readings above *chibah* is not a plain synonym; beside *ahavah* it is the narrower, inner, selective word. Rabbi Klein himself, though, offers the other possibility, that *chibah* is no different from *ahavah* and may even be etymologically the same word, so the distinction is not closed.
+
+**Rendering guidance.**
+
+- Standalone אהבה: "love." Do not upgrade to "true love" or "selfless love" unless
+  the passage is making Rav Hirsch's or Rabbi Lopian's point.
+- חיבה alone: "fondness" or "affection"; חביב: "dear." חבה יתרה (Avos 3:14): "a
+  special fondness," not "extra love."
+- אהבה and חיבה together: "love and fondness" (or "love and affection"), keeping
+  *ahavah* as the wider word and *chibah* as the inner, selective one.
+- דחילו ורחימו: "fear and love"; *rechimu* is simply Aramaic *ahavah*.
+- עגב, עגבים: "lust," "lewd love"; never bare "love." Yechezkel 23 turns on the
+  contrast.
+- Trap: English "love" absorbs *ahavah*, *chibah*, and *rechim*, and is misapplied
+  to *agav*. Where two stand side by side, or a derashah turns on ואהבת against a
+  *chibah* cognate, assign each its own word.
+- Trap: "beloved" absorbs *ahuv* and *chaviv*. When both appear, *ahuv* is "beloved"
+  and *chaviv* is "dear." And ארחמך (Tehillim 18:2) is "I will love You," not "I
+  will have mercy on You."
 
 **רחום / רחמים / רחמנות / חנון / חן / חנינה / חוס / חס / חמלה** — mercy | rachum, rachamim, rachamin, rachmanus, rachmanut, chanun, chanan, chein | reviewed | [mercy-rachum-chanun-chus-chemlah.md](entries/mercy-rachum-chanun-chus-chemlah.md)
 
 *Rachum* (*rachamim*) is **mercy**, **compassion**; in Rabbi Klein's own analysis, the savior is moved by the sufferer's plight and acts. *Chanun* (*chein*) is **grace**, **favor**: the sufferer finds favor and is given a free gift he need not deserve (Rashi: *matnas chinam*). *Chus* is **sparing**, refusing to let something be lost because one values it; *chemlah* is **pity** that will not see a thing ruined for its own worth, and it can reach the one who cannot ask (Malbim, Wertheimer). So for Rabbi Klein *rachum* looks at the giver's heart, *chanun* at the receiver's standing; other commentators divide the two differently.
 
+**Rendering guidance.**
+
+- רחום / רחמים: "merciful," "mercy," "compassion"; רחמנות as a middah:
+  "compassion" (or transliterate *rachmanus* in a mussar text).
+- חנון / חן: "gracious," "grace," "favor"; חנינה: "pardon," "clemency."
+- חוס / חס: "spare," "have regard for" (Yonah 4:10, *chasta* on the kikayon, reads
+  "you took pity on," but the sense is sparing a loss); חמלה: "pity,"
+  "compassion for" in the sense of not letting a thing be spoiled.
+- Trap: English "mercy" and "pity" each absorb three of these. In the
+  Thirteen Attributes and wherever רחום וחנון stand together, keep "merciful
+  and gracious"; where חמלה or חוס joins them, use "pity" or "spare" so the
+  third word is not a repeat.
+- Together, order and attribution follow the pasuk (Rabbeinu Bachaya notes
+  both orders occur); do not reorder for climax as one does with *bushah* and
+  *klimah*.
+
 **שלום / שלוה / שקט / השקט / שאנן / שלאנן / שלו / שלם** — peace | shalom, sholom, shalem, shaleim, shalvah, shalva, shalev, shaleiv | reviewed | [peace-shalom-sheket-shalvah.md](entries/peace-shalom-sheket-shalvah.md)
 
 *Shalom* is the general word: **peace**, the absence of war and, at root, wholeness with nothing lacking (Rabbi Shlomo Pappenheim). *Shalvah* is peace felt within, or a pocket of peace inside a larger discord: **tranquility, ease** (Malbim, Pappenheim), with a shadow of complacency (Bedersi, Rav Hirsch). *Sheket* is the cessation of motion and outward disturbance: **quiet, stillness, calm**; whether it ranks above *shalom* (Bedersi) or below it as a mere ceasefire (Rabbi Shlomo Aharon Wertheimer) is disputed, and both readings stay live. *Shaanan* is the fullest rest, free even of the busyness of prosperity: **serenity** (Bedersi, Pappenheim).
+
+**Rendering guidance.**
+
+- Shabbos Minchah, מנוחת שלום ושלוה והשקט ובטח: "a rest of peace, tranquility,
+  quiet, and security"; four words, four renderings. Bereishis Rabbah 10:9 lists
+  שאנן, נחת, שלוה, השקט as what Shabbos rest created, and Rashi (*Sefer HaPardes*)
+  finds them in Yeshayahu 32:18; a translator who collapses them loses the Midrash.
+- שלום ושקט (Divrei HaYamim I 22:9, of Shlomo's reign): "peace and quiet"; the
+  English idiom happens to be exact, and it keeps the two words apart.
+- Standalone שלוה in mussar: "tranquility" or "ease." When the passage itself warns
+  against it (the *shalu* double sense), "complacent ease" is fair; otherwise do not
+  smuggle the warning in.
+- שאנן: "serene," "untroubled"; as a noun, "serenity."
+- Trap: English "peace" absorbs *shalom* and *shalvah*; "quiet" absorbs *sheket* and
+  *shaanan*; "calm" absorbs *sheket*, *shalvah*, and *shaanan*. Where two meet, hold
+  *shalom* to "peace" (parties), *shalvah* to "tranquility" (the self), *sheket* to
+  "quiet" (the scene), *shaanan* to "serenity" (the fullest).
+- Trap: *sheket* is not automatically the deeper word. Bedersi and Wertheimer rank it
+  in opposite directions; in a passage that contrasts it with *shalom*, follow the
+  author's own argument rather than a fixed scale.
 
 **עדן / עדנה / מעדנים / עדין / עונג / ענג / ענוג / פינוק / תפנוקים** — pleasure | eden, edna, ednah, maadanim, ma'adanim, maadanei melech, adin, adinah | reviewed | [pleasure-oneg-eden-pinuk.md](entries/pleasure-oneg-eden-pinuk.md)
 
 *Eden* (with *ednah*, *maadanim*) is on Rabbi Shlomo Pappenheim primarily pleasure of the body, and in Tanach it is almost always of taste and touch: **sensual pleasure, delight of the senses**; *maadanim*, **delicacies**. *Oneg* is primarily pleasure of the soul, mind and heart, even when it arrives by way of the body: **delight, enjoyment**; *oneg Shabbos* is therefore delight in Shabbos, which may come through good food, not physical pleasure. Rav Hirsch reads *oneg* on other lines altogether, as being surrounded by favorable conditions. *Pinuk* is for Pappenheim not pleasure at all but playfulness and flattery, a claim that fits the one pasuk but does not account for the Targumim, which use *pinuk* words for both *oneg* and *eden*: **pampering, indulgence**.
 
+**Rendering guidance.**
+
+- עונג שבת: "delight in Shabbos" or "Shabbos delight"; never "Shabbos pleasures" as
+  if it named the food. The food is the vehicle (Pappenheim).
+- מעדנים: "delicacies"; מעדני מלך: "royal delicacies."
+- עדן / עדנה of a person: "sensual pleasure," "delight of the senses"; Bereishis
+  18:12 follows whichever commentator the passage follows (youth, smooth skin,
+  conjugal pleasure). גן עדן stays *Gan Eden*.
+- פינוק: "pampering," "indulgence"; מפנק as a verb, "to pamper," "to indulge."
+  Mishlei 29:21 reads "who pampers his slave from youth."
+- Together: תפנוקי מעדנים (*Mah Yedidus*): "delectable delicacies," one doubled idea
+  in two languages, not two kinds of pleasure.
+- Trap: English "pleasure" absorbs *eden* and *oneg*, and "delight" can do the
+  same. When both appear, or when a passage argues body against soul, keep *eden*
+  on the side of the senses and *oneg* on the side of the soul.
+- Trap: *adin* (Yeshayahu 47:8) is "delicate, dainty," not "pleasant."
+
 **בושה / כלימה / חרפה / חפרה** — shame | bushah, busha, boshet, klimah, kelimah, klima, cherpah, cherpa | reviewed | [shame-bushah-klimah-cherpah.md](entries/shame-bushah-klimah-cherpah.md)
 
 *Bushah* is the general, milder word: **shame**. *Klimah* is the graver, inherently disgraceful kind: **humiliation** (or **disgrace**). *Cherpah* is shame inflicted by another's insult or reproach: **disgrace, reproach**; its partner *chafrah* is the mortified wish to dig a hole and hide: **mortification**. In Tanach *bushah* is always written first when it stands beside *klimah* or *cherpah*. *Why* it stands first is disputed: the grammarians read the order as ascending intensity, while others read it as chronological sequence.
+
+**Rendering guidance.**
+
+- Doubled pair בושה וכלימה: "shame and humiliation." Keep the order; the Hebrew
+  order is fixed, though what it marks is disputed.
+- Standalone בושה in a mussar context: "shame." Do not reach for "embarrassment";
+  it reads light and modern.
+- כלימה alone: "humiliation" when the source is another person, "disgrace" when
+  the deed itself is the disgrace.
+- חרפה: "disgrace" or "reproach" (KJV-style "reproach" fits a pasuk); חפרה:
+  "mortified" as a verb, "mortification" as a noun.
+- Trap: English "shame" can cover all three. If the passage turns on the
+  difference (a list, an ascending pair, a derashah on the order), do not let
+  one English word absorb two Hebrew ones.
 
 **חיל / חלחל / דחיל / זחל / אזחיל / זחלתי** — trembling | chil, chal, chalu, chalchalah, vatischalchal, dachil, dechilah, dachla | reviewed | [trembling-chil-dachil-zachal.md](entries/trembling-chil-dachil-zachal.md)
 
 *Chil* is the commonest of the three in Biblical Hebrew: **fear** and the **trembling** that fear produces, the word Tanach often uses of a woman's labor pangs. For Rav Hirsch it is a specific fear, of what one's place will be in a changing order; for Rabbi Shlomo Pappenheim the whole body spasming at something frightening. *Dachil* is the Aramaic word: **fearsome, dread**, typically used by Targum for *yirah*, *nora* and *pachad*. Rabbi Klein gives two possibilities: *chil* and *dachil* may simply be Hebrew against Aramaic for one thing, or, in light of Rav Hirsch, *chil* seems to be the specific fear and *dachil* the more general one. *Zachal* carries two senses in Tanach, **crawling** and **fear**, and the fear sense may well be the Aramaic *dachil* Hebraicized, dalet to zayin (*Metzudas Tzion*, repeated by Rabbi David Golumb and Rabbi Asher Weiser). The piyut *Yarasi Befitzchi Si* sets all three in rhyme.
 
+**Rendering guidance.**
+
+- *Chil*: "trembling," "shuddering," or "writhing" for the birth-pang pesukim.
+  Not "fear" alone where the body's reaction is the point (Pappenheim); where
+  Rav Hirsch's reading governs, the fear of one's place in a new order, say so.
+- *Chalchalah* / *vatischalchal*: "convulsed," "was seized with trembling."
+  "Was greatly distressed" is too mild, and Megillah 15a shows how strong it
+  is.
+- *Dachil*: "fearsome" or "dread" when descriptive, "fear" when it renders
+  *yirah* or *pachad*. In *b'dichilu u'rechimu* keep the Aramaic and gloss
+  "through fear and love" (Rabbi Klein's rendering) or "with awe and love."
+- Trap: English "fear" absorbs *chil*, *dachil*, and *zachal*, and the piyut
+  *Yarasi Befitzchi Si* (Rabbi Yekusiel bar Moshe, the chazzan's opening
+  supplication in Shacharis Shemoneh Esrei on the first day of Rosh Hashanah)
+  sets all three in rhyme, plus *nora*. Rabbi Klein translates "awesome" for
+  *nora*, "fearsome" for *dachil*, "I trepidate" for *azchil*, "fear" for *chil*;
+  a rendering that varies the English keeps the three apart.
+- *Zochel* in Devarim 32:24: follow Rashi ("those that crawl in the dust") or
+  Ibn Ezra ("those that are feared"), and say which; do not blend them.
+
 **רעדה / זיע / זעוה / רתת / רטט / רעש / רגז / געש / חרד** — trembling | raadah, raada, raad, vatirad, marid, ziyah, ziya, zia | reviewed | [trembling-raadah-retet-raash.md](entries/trembling-raadah-retet-raash.md)
 
 *Ra'adah* is **trembling**: primarily felt within the body and not seen (Wertheimer), or inner fear so full that it breaks out in tremors (Malbim). *Ziyah* is a **shudder**, a quiver felt rather than seen (Pappenheim), Onkelos's word for *vayecherad* at Sinai and Targum's standard word for *ra'ash*. *Retet* is the **lighter** tremble (Wertheimer). *Ra'ash* is **quaking** or **tumult**, vigorous movement of any kind, and also loud noise. *Rogez* is **agitation**, physical in Hebrew (Shadal) and anger in Biblical Aramaic (Rashbam), though not always anger (Bedersi). *Chareid* is **trembling** too, the word behind *chareidim*. Yoma 4b strings several of these together and Shmuel II 22:8 puts three in one pasuk.
+
+**Rendering guidance.**
+
+- Yoma 4b's list: give each term its own English. "With dread, with fear, with
+  trembling and with shuddering" keeps each term apart; repeating one word loses
+  the drashah. In Shmuel II 22:8, three verbs, three words, ascending per Malbim
+  (Rabbi Reuven Landau reverses *ra'ash* and *rogez*).
+- Trap: English "shaking" absorbs *ra'adah*, *retet*, *ra'ash* and *rogez* at
+  once. Reserve "quake" for *ra'ash*, "shudder" for *ziyah*, "tremble" for
+  *ra'adah* and *retet*, and let *rogez* take "agitation" by context.
+- רגז in Aramaic: "anger" (Rashbam). In Hebrew, by context: "trembling" or
+  "agitation" (Shadal), but "anger" where the passage calls for it, as in
+  *b'rogez racheim tizkor* (Chavakuk 3:2); Bedersi warns that it is not always
+  anger.
 
 **בטחון / בטח / מחסה / תקוה / תוחלת / חכוי / סמיכה / משען / סעד / שבר / כסל** — trust | bitachon, bitochon, betach, boteach, machseh, machaseh, chasah, lachasos | reviewed | [trust-bitachon-machseh-tikvah.md](entries/trust-bitachon-machseh-tikvah.md)
 
 *Bitachon* is **trust**, the inner confidence that the future will be good (Malbim: a state of the heart, silent about action). *Machseh* is **refuge**, trust lived out (Malbim), or trust in Hashem beyond what He promised (Vilna Gaon). *Tikvah* is **hope**, *tocheles* **expectant waiting** with some doubt, *chikui* **waiting** in full certainty (Wertheimer's scale of certainty). *Semichah* is **leaning**, *mishan* **leaning for support**, on two different lines: for Malbim *semichah* is with one's whole weight and *mishan* only partial; for Pappenheim *somech* covers any leaning, even by choice, and *mishan* is leaning out of need. *Saad* is **support** given (Malbim: to one unaware of it; Pappenheim: to one who needs *mishan*), or, as Rabbi Moshe Tzuriel suggests, **help**, the beneficiary also doing his part. *Sever* is **hopeful looking-to**; *kesel* **assurance** that nothing bad will happen (Malbim). Chovos HaLevavos counts these as ten levels of one thing.
 
+**Rendering guidance.**
+
+- בטחון: "trust" (in a mussar text keep *bitachon* transliterated once the
+  term is established). בטח as adverb: "securely," "in safety."
+- מחסה: "refuge," "shelter"; לחסות בה׳: "to take refuge in Hashem." Do not
+  write "trust" for it beside בטח (Tehillim 118:9 sets them against each
+  other).
+- תקוה: "hope"; תוחלת: "expectation," "waiting hope"; חכוי / מחכה: "awaiting,"
+  "waiting for."
+- סמיכה / סומך: "leaning," "leans on"; משען / נשען: "support," "relies on";
+  סעד / סועד: "support," "sustains," "helps" (Tzuriel).
+- שבר / משבר: "look to in hope"; כסל: "assurance," "confidence" (Mishlei 3:26).
+- Trap: English "trust" (and "rely") absorbs at least six of these. When a text
+  lists them (the ten of Chovos HaLevavos; a pasuk with two, like Mishlei 14:26
+  or Tehillim 118:9), give each its own English and keep the author's order; where the
+  order is a ladder (Wertheimer's *tocheles* < *tikvah* < *chikui*), make it
+  climb in English too.
+
 **רצון / חפץ / צבי** — will | ratzon, ratson, razon, rotzeh, rotze, retzono, retzoncha, retzon Hashem | reviewed | [will-ratzon-chefetz.md](entries/will-ratzon-chefetz.md)
 
 *Ratzon* is **will**; *chefetz* is **desire**. A number of commentators make *chefetz* the stronger, more physical desire and *ratzon* the subtler wish to do right: for Rabbi Shlomo Pappenheim the difference is intensity, for Rabbi Tzvi Yehuda Kook *chefetz* is stronger because more concrete, for Rabbi Margolios it is the animal drive against the innate wish to do good. Malbim makes *ratzon* the mind's chosen wanting, and so aimed at the good, and *chefetz* the soul's emotional pull that comes unchosen and can fasten on what is bad; Rabbi Avraham Bedersi disputes that *chefetz* is ever unchosen, since Hashem is called *chafetz*. Rabbi Yehuda Leib Edel offers a totally different axis: *ratzon* can name means as well as ends, *chefetz* only the final goal. *Tzvi* in the sense of wanting is **yearning**, a wanting that persists (Rabbi Pappenheim).
+
+**Rendering guidance.**
+
+- *ratzon*: "will" as a noun, "wants" or "wills" as a verb. *Retzon Hashem*:
+  "Hashem's will", never "Hashem's desire".
+- *chefetz*: "desire"; as a verb "desires", or "wishes to" where the object is
+  an act. Where it blocks the will (yibum), "he does not wish to" is fine, but
+  keep it a different English word from the one used for *ratzon*.
+- *tzvi* in the desire sense: "yearning" or "longing"; do not use "coveted",
+  which belongs to *chemdah*.
+- Together, Tehillim 40:9: "To do Your will I have desired." The will is
+  Hashem's; the desire is the man's engine for doing it (Rabbi Margolios).
+- Trap: "desire" absorbs *ratzon* and *chefetz*; "want" absorbs all three. If
+  the passage turns on the difference (setting the will against the pull of the body), hold "will" for *ratzon* and "desire" for *chefetz*.
+- Rabbi Edel's axis is worth keeping when the subject is Hashem: His *chefetz*
+  may read "purpose" and His *ratzon* "will" (Makkos 3:16).
+- Rabbi Klein does not define *cheshek* (חשק); Targum treats it like
+  *chefetz*. Render "longing" and check the dedicated entry once one exists.
 
 
 ### nature
@@ -2499,257 +4228,1365 @@ For Ibn Ezra, *eimah* is the felt emotion of being afraid: **dread, terror**. *P
 
 *Shaked* is the Hebrew word for the **almond**, and its root ש-ק-ד seems to be the one meaning watchful and diligent, a link that may already be at work in the *nevuah* in Yirmiyahu 1:11 to 12, where **almond** plays on **vigilant**. *Luz* means the same thing in Arabic, according to Rabbi Saadia Gaon as Radak and Ibn Ezra cite him, and Rabbi Klein reaches Aramaic as his own hedged upshot, so **almond** again, though a substantial set of *Rishonim* read *luz* as **hazel** and Targum Onkelos never once renders *shaked* as *luz*. Rabbi Klein's upshot is a hedged one: it seems that *luz* is an Aramaic word and *shaked* a genuinely Hebrew one, in which case the two mean exactly the same thing and differ only by language.
 
+**Rendering guidance.**
+
+- Yirmiyahu 1:11 to 12: the pun is the message. "A branch of an almond tree...
+  for I am watchful over My word to perform it," with a note that *shaked* and
+  *shoked* are the same letters. An English that renders *shoked* as "diligent"
+  in one clause and "hasten" in the other kills it.
+- Trap: English "almond" would absorb *luz* and *shaked* both, which is fine for
+  the Targum Yonasan and wrong for Targum Onkelos, who keeps them apart. In a
+  passage that quotes Onkelos, or Rashi to Bereishis 30:38, render *luz* as
+  "hazel" and say which *Rishon* is being followed.
+- Bereishis 30:37: leave the identification open where the text does. "*Luz*
+  rods" with a gloss beats a confident "almond rods" when Onkelos declined to
+  translate the word at all.
+- Shemos 25:33: *meshukadim* is "shaped like almond blossoms," not "hastened."
+  Keep the root's second sense out of the Menorah's description.
+- *Halaz*: "that one" or "yonder"; do not import the almond sense unless quoting
+  *Sechel Tov*, and then mark it as *derush*.
+
 **בהמה / בהמות / חיה / חיות** — animal | behemah, beheimah, behema, behemot, behemos, beheimos, chayah, chaya | reviewed | [animal-behemah-chayah.md](entries/animal-behemah-chayah.md)
 
 *Behemah* is **a domesticated animal**, one that lives among people and serves them; *chayah* is **a wild animal**, one that lives in open country (Ibn Ezra and Radak). Ramban suggests a different line, by diet: *behemos* eat only plants, *chayos* eat flesh. Both views remain live, the Netziv rejecting Ramban and Rabbi Chaim Kanievsky defending him. These are halachic categories before they are descriptions: *cheilev* is forbidden only in a *behemah*, and *kisui hadam* applies, among animals, only to a *chayah*.
+
+**Rendering guidance.**
+
+- Where the halachic category is at stake, render the category: "domesticated
+  animal (*behemah*)" and "wild animal (*chayah*)," or keep the Hebrew and gloss
+  it once. "Beast" and "animal" will not carry *cheilev* or *kisui hadam*.
+- In narrative or *mussar*, *behemah* is "beast" or "animal" and *chayah* is
+  "wild beast"; where a *baal mussar* contrasts a man with a
+  *behemah*, "beast" is the right word, since the point is the lack of a human
+  faculty, not the animal's habitat.
+- Trap: English "animal" absorbs both, and "cattle" absorbs *behemah* while
+  losing the pig and the donkey. Where a pasuk or a Gemara lists *behemah*
+  *chayah* together (a merism for the whole animal world), render "domestic
+  animals and wild ones" rather than "animals and beasts," which says nothing.
+- Colloquially, Rabbi Klein notes, a Yiddish-speaking bubby calls wild children
+  *chayos* or *behemos*; in that register the word is a rebuke to stop acting
+  like an animal, and "you animals" carries it better than either taxonomy.
+- Second trap: do not carry Ramban's diet criterion into an English rendering,
+  since "herbivore" and "carnivore" are his reading of the categories, not the
+  words' meaning. Keep them in a note.
 
 **שואג / נוהם / יהגה / נוער / שוקק / נוהק** — animal sounds | shoeg, shoeig, shaag, nohem, noheim, naham, yehegeh, yehgeh | reviewed | [animal-sounds-shoeg-nohem-noer.md](entries/animal-sounds-shoeg-nohem-noer.md)
 
 Biblical Hebrew assigns each animal its own verb, exactly as English does not let a cow bark. Rabbi Klein sees onomatopoeia at work: he holds that in all languages the words for animal sounds seem to derive from the sounds themselves, and that societies sometimes hear those sounds differently, which is why an American child says a rooster crows "cock-a-doodle-do" and an Israeli child "koo-koo-ri-koo", and why a dog goes "bow-wow" in one place and "hav-hav" in another. A lion has four verbs: *shoeg* is **roars** (hunger, dominance), *nohem* is **growls** (satisfaction turned wild), *yehegeh* is **moans** (steady and sustained, also said of a dove), and *noer* is a sudden **roar** let out by a cub. A bear is *shokek*, a wild donkey *nohek* (**brays**), a cow *goeh* (**bellows**), a horse *tzohel* (**neighs**), a bird *mitzaftzef* (**chirps**), a dog *novayach* (**barks**). The point of listing the four lion verbs is that they differ.
 
+**Rendering guidance.**
+
+- Trap: English "roar" will swallow *shoeg*, *nohem*, and *noer* at once. When a
+  passage lists them together, differentiate: "roars," "growls," "lets out a
+  cry."
+- *Yehegeh* is the hardest, since one English word must serve a lion and a dove.
+  "Moans" carries both; "murmurs" fits the dove alone and loses the lion.
+- Never translate an animal verb by the animal's English convention when the
+  Hebrew has deliberately borrowed a different animal's verb. Berachos 3a's
+  *noer* of a donkey is a borrowing (*Sefer HeAruch*), and flattening it to
+  "brays" erases the point.
+- An apocryphal Midrash on the enchanted animals etched into Shlomo HaMelech's
+  throne (cited by the kabbalistic *Sodi Razi*, *Hilchos Kisei*, ascribed to
+  Rabbi Elazar Rokeach of Worms, and by Rabbi Avraham ben Shlomo of Yemen to
+  Melachim I 10:18) supplies further verbs, most of them found nowhere in Tanach:
+  a hart *tzohel*, a tiger *tzorayach*, a sheep *chonev*, a wolf *zorer* or
+  *zored*, a deer *mifaret*, a bear *migamgem*, a donkey or ibex *mavrim* or
+  *mavris*, an elephant *nohem* or *tofes*, a *re'em* *mitzaltzel*, a giraffe
+  *milavlev*. Treat these as aggadic, not as Biblical usage.
+
 **פנג / צרי / נטף / קטף / בושם / בשמים / אפרסמון / בלסם / אפופלסמון** — balsam | panag, pannag, tzari, tzori, tzri, nataf, notef, ketaf | reviewed | [balsam-panag-tzari-afarsemon.md](entries/balsam-panag-tzari-afarsemon.md)
 
 *Tzari* is, for Rambam and *Bereishis Rabbah*, the balsam resin of Tanach and of the *ketores*, **balm** or **balsam** (Rashi has theriaca); the incense's own biblical name for the same ingredient is *nataf*, literally **the dripping one**. *Bosem*/*besamim* is the wide word, **fragrance, spices**, never balsam specifically in Tanach. *Afarsemon* is the Rabbinic word for **balsam oil**. *Panag* is a *hapax legomenon* at Yechezkel 27:17; *Yossiphon* reads it as balsam and Rashi cites that, presumably endorsing it, but Radak objects that if *tzari* is balsam, *panag* is unlikely to be, since Yechezkel lists *panag* and *tzari* separately.
+
+**Rendering guidance.**
+
+- צרי in Chumash and Neviim: "balm" (Bereishis 37:25, 43:11; "is there no balm
+  in Gilad," Yirmiyahu 8:22). In the *ketores* list: "balsam," or *tzari* with a
+  gloss, since Rashi's theriaca and Rambam's *al-balasan* differ.
+- נטף: "the dripping resin," or "*nataf*, the sap that drips." Do not render it
+  "balsam"; the word names the manner, and the Targum's *ketaf* names the tree.
+- בושם/בשמים: "fragrance," "spices," "perfumes." Never "balsam" in a pasuk.
+- אפרסמון: "balsam oil." Never "persimmon."
+- Trap: "balsam" absorbs all four. Yechezkel 27:17 has *panag* and *tzari* in
+  one list, which is Radak's objection; rendering both "balsam" silently answers
+  a question the meforshim left open. Transliterate *panag*.
+- Where *bosem* and *afarsemon* stand together, keep "spices" against "balsam
+  oil": the *shemen hamishchah* recipe uses *besamim* and did not call for
+  balsam, while its informal counterpart did.
 
 **בעיר / בהמה / חיה / בער / בור** — beast and boor | beir, be'ir, beira, behemah, beheimah, behema, chayah, chaya | reviewed | [beast-beir-behemah-baar-bur.md](entries/beast-beir-behemah-baar-bur.md)
 
 *Behemah* is the ordinary word for a **domesticated animal**; *chayah* a **wild animal**; *be'ir* a rare word for a **beast**, and for Rav Hirsch the most subdued of the three, doing nothing but what instinct drives it to. The same root gives *ba'ar*, the **brute** or **boor**, and on one view the Mishnaic *bur*, the **uncultured man**. A pasuk that pairs *ba'ar* with *behemah* (Tehillim 73:22) may allude to the connection between beast and boor.
 
+**Rendering guidance.**
+
+- Trap: English "beast" swallows *be'ir* and *behemah* both, and "brute"
+  swallows *ba'ar* and *bur*. Fix *behemah* as "animal," and reserve "beast" for
+  *be'ir* where the two stand together.
+- Tehillim 73:22, where *ba'ar* and *behemah* sit in one pasuk, wants two
+  different English words: "brute" for the man, "animal" for the comparison.
+- Shemos 22:4, the damages pasuk, is *be'ir*: "his animal" reads naturally, but
+  where the sugya turns on the word, say "his beast" and gloss.
+- Do not render *bur* "boor"; that English word carries a different insult.
+
 **עוף / ציפור / כנף / צפרא** — bird | of, ohf, oaf, tzipor, tzippor, tsipor, kanaf, canaf | reviewed | [bird-of-tzipor-kanaf.md](entries/bird-of-tzipor-kanaf.md)
 
 *Of* is the broad word, **fowl** or anything that flies. *Tzipor* is the narrower **bird**, and what narrows it is disputed: every bird as against insects (Radak), only a kosher bird (Sifri and Rambam), or the small chirping songbird that greets the morning (Ramban). *Kanaf* is literally **winged creature**, the wing itself doing the naming, and it reaches to grasshoppers and other winged insects. All three stand in one pasuk, Bereishis 7:14, where Rashi reads *kol kanaf* as including what *kol tzipor* had not covered.
+
+**Rendering guidance.**
+
+- Bereishis 7:14, כל עוף למינהו כל צפור כל כנף: keep the three distinct.
+  "Every *of* after its kind, every bird, every winged thing" carries Rashi's
+  inclusion; "every bird... every bird... every bird" does not.
+- In a *shiluach hakein* passage, *tzipor* is load-bearing for the halachah.
+  Render it "bird" and gloss the Sifri and Rambam reading, or write "kosher
+  bird" outright if the passage is deriving the din.
+- Where the sense is the dawn songbird (Ramban), "songbird" or "small bird"
+  beats plain "bird," especially in a poetic or *mussar* passage that leans on
+  the bird's trust and its morning song.
+- Trap: English "bird" will absorb both *of* and *tzipor*. Keep "fowl" for *of*
+  in a Torah-legal setting (*of tahor*, *of tamei*), and reserve "bird" for
+  *tzipor*. For *kanaf*, "winged creature" is worth the extra word, since the
+  whole point is that it is not restricted to birds.
 
 **ספיר / תכלת / כחול** — blue | sapir, sappir, sampiryon, sanpiryon, techeilet, techeiles, techelet, kachol | reviewed | [blue-sapir-techeiles-kachol.md](entries/blue-sapir-techeiles-kachol.md)
 
 The Torah has no word for the color blue. *Sapir* is a **stone**, *techeiles* a **dyed wool**, and *kachol* comes from the name of a cosmetic powder; its range runs to dark and black.
 
+**Rendering guidance.**
+
+- ספיר: "sapphire," and where the passage is describing appearance rather than
+  material, add what the pasuk itself adds ("like the clear sky," Shemos 24:10)
+  rather than supplying a hue.
+- תכלת: keep it transliterated, *techeiles*, glossed once as the dye of the
+  chilazon commanded for tzitzis. "Blue" is a translation of a guess.
+- כחול: "dark," or "kohl-colored" where the cosmetic is in view; "blue" only
+  following Rashi on the marble.
+- Trap: English "blue" will absorb all three, and a reader will conclude the
+  Torah names a color. Where two of them appear together, the pairing is the
+  point: the Midrash comparing *techeiles* to *sapir* is comparing a dye to a
+  stone, and the flags of Yissachar and Dan are *kachol* against *sapir*.
+  Different English for each, every time.
+- In a passage where Rashi glosses *techeiles* as *yarok*, do not render *yarok*
+  "green." His *yarok* is a wide band, and "green" makes his gloss look like a
+  contradiction of the Midrash.
+
 **גמל / נאקה / בכר / בכרה / כר / כרכרות** — camel | gamal, gamalim, gemalim, nakah, naakah, becher, bechor, bichrah | reviewed | [camel-gamal-nakah-becher-kar.md](entries/camel-gamal-nakah-becher-kar.md)
 
 These are not synonyms but stages and kinds. *Becher* (masculine) and *bichrah* (feminine) are the **young camel**, newly born and not yet able to carry loads; grown, it becomes *gamal* for a male and *nakah* for a female (Rabbi Nosson of Rome, *Sefer HeAruch*). *Gamal* is the default word and can cover females too when no distinction is being drawn; Tanach marks a she-camel by the phrase *gemalim meinikos*, nursing camels (Bereishis 32:16). *Kar* and *kirkaros* are contested, and not every view takes either of them as a camel.
+
+**Rendering guidance.**
+
+- Trap: "camel" alone will absorb *gamal*, *nakah*, *becher*, and *bichrah*.
+  Where the age or sex is doing work, write "she-camel," "young camel," "young
+  she-camel."
+- Bereishis 32:16 lists *gemalim meinikos* and their young against thirty male
+  camels. Render the first "nursing she-camels," not "camels," or Yaakov's gift
+  loses its structure.
+- Yirmiyahu 2:23: *bichrah kalah* is "a swift young she-camel." "Young camel"
+  drops the feminine, and with it Rashi's point about a beast never yoked.
+- *Kar* in Bereishis 31:34 must be the saddle-basket, since Rachel sits on it.
+  *Kar* in Yeshayahu 16:1 is disputed; do not silently harmonize the two.
+- Do not press *gamal* into "dromedary" or "Bactrian." Tanach does not mark the
+  distinction. Sokoloff's "dromedary" is a gloss on Targum's Aramaic *hugnei*,
+  not on *gamal*, and even there *hugnei* is a Greek loanword for "of good
+  stock"; keep the two apart.
 
 **שור / פר / פרה / עגל / עגלה / אלף / בקר / בוקר** — cattle | shor, tor, par, parah, para, egel, eglah, egla | reviewed | [cattle-shor-par-egel-bakar.md](entries/cattle-shor-par-egel-bakar.md)
 
 *Shor* is the **ox**, and it bears that name from the day it is born. *Par* is the **bull**, *parah* the **cow** or **heifer**, and the name attaches only once the animal is grown. *Egel* and *eglah* are the male and female **calf**. *Aleph* is the strong working **ox** of Tanach's poetry, eight appearances. *Bakar* is the collective, **cattle**, and its *boker* is the **herdsman**. *Shor* is not a synonym for *par* at any age.
 
+**Rendering guidance.**
+
+- שור: "ox." פר: "bull," and in a korban context keep the technical *par* where
+  the halachah names it (*par he'elem davar*, *par kohen mashiach*).
+- פרה: "cow," and "heifer" for *Parah Adumah* by long usage. עגל / עגלה: "calf,"
+  with the sex supplied where it matters (*Eglah Arufah* is a female calf, and
+  that is load-bearing).
+- אלף in a pasuk: "ox" or "oxen," in a poetic register; "cattle" flattens it.
+  בקר: "cattle"; בוקר of a person: "herdsman." "Cowboy" is accurate
+  but too modern a register for most prose.
+- Trap: English "ox" will swallow *shor*, *par* and *aleph* at once. Where
+  HaKallir or a Midrash is counting the five names (as with the fivefold payment
+  of Shemos 21:37), the translation has to keep five distinct English words, or
+  the count collapses.
+- Second trap: בקר is cattle and בוקר is morning, from one root. Check the
+  vocalization before rendering.
+- Do not let "cow" stand for *par*. The Hebrew pair is sexed, and *par* is the
+  fertile male on Rabbi Pappenheim's whole reading.
+
 **גבינה / חריץ / שפות / גבן / גב / גבנונים** — cheese | gvinah, gevinah, gvina, charitz, charitzei hechalav, shfot, shefot, shfot bakar | reviewed | [cheese-gvinah-charitz-shfot.md](entries/cheese-gvinah-charitz-shfot.md)
 
 *Gvinah* is the ordinary word and the one Chazal use: **cheese**. *Charitz* (*charitzei hechalav*, Shmuel I 17:18) and *shfot* (*shfot bakar*, Shmuel II 17:29) each occur once, and Targum Yonasan renders both as *guvnin d'chalva*, cheese; but each is disputed, *charitz* possibly meaning unweaned kids or milk still in the udder, *shfot* possibly the udders themselves or butter. On Rabbi Avraham Maskileison's reading, that dispute is why Bechoros 6b cites the *charitz* pasuk only as a possible proof.
+
+**Rendering guidance.**
+
+- Render all three "cheese" where the Targum's reading is followed, and say
+  which authority you follow when it matters.
+- Trap: English "cheese" absorbs *gvinah*, *charitz*, and *shfot*. Where a
+  source builds on the difference (Rabbi Pappenheim's spreadable *shfot*
+  against heaped *gvinah*; Bechoros 6b's choice of proof text), keep the
+  Hebrew.
+- *Charitzei hechalav*: "rounds of cheese" reads well, but a footnote must
+  carry the *Midrash Shmuel* reading, since "cheese" silently decides a
+  machlokes.
+- *Giben* is "hunchback" to some commentators and "one with overgrown eyebrows"
+  on the Mishnah's reading; do not render it "deformed," which loses both.
+- *Gavnunim* in Tehillim 68:16-17: "many-peaked mountain"; keep the *gvinah*
+  wordplay for a note, not the rendering.
 
 **אפרוח / גוזל / פרגית / ניפול** — chick | efroach, efroah, efroch, gozal, gozel, gozla, pargit, pargis | reviewed | [chick-efroach-gozal-pargit-nipol.md](entries/chick-efroach-gozal-pargit-nipol.md)
 
 *Efroach* is the Torah's word for a **hatchling**, the bird that has just "flowered" out of its egg. *Gozal* is a **fledgling**, primarily a young dove but extended to any young bird; where the two are contrasted (Rabbi Yaakov Kamenetsky, Rabbi Shmuel Ashkenazi) the *efroach* is the younger, still tied to its mother, and the *gozal* the older, already able to fly in some limited way. *Pargit* is a Rabbinic word for a **young chicken**. *Nipol* is, per Rabbeinu Gershom and Rambam, a **fallen nestling**, defined by the halachic case, not the species. The whole point of a passage may be which stage is meant.
 
+**Rendering guidance.**
+
+- אפרוח in the *shiluach haken* passage: "hatchling," or "fledgling" if the
+  context needs a word that also covers eggs' issue generally. Do not write
+  "chick"; it pulls toward barnyard poultry and loses the flowering image the
+  root carries.
+- גוזל standing alone in Chumash: "young dove" at Bereishis 15:9 (*Bereishis
+  Rabbah* 44:14 and Targum Onkelos both identify it as a dove there), "fledgling"
+  at Devarim 32:11, where the bird is an eagle.
+- Trap: English "fledgling" will absorb both *efroach* and *gozal*. If a passage
+  turns on the pair, follow Rabbi Yaakov Kamenetsky and Rabbi Shmuel Ashkenazi
+  and render *efroach* as the younger stage ("hatchling," still nest-bound) and
+  *gozal* as the older ("fledgling," flying a little). Rabbi Ashkenazi himself
+  notes a counter-case: *Tosefta Chullin* 10:2 uses *efroach* for a bird that
+  already flies and no longer needs its mother, so do not force the distinction
+  where the source does not want it.
+- Where Targum Yonasan renders *efroach* as *gozal* (Devarim 22:6) while Targum
+  Onkelos keeps *efroach*, do not flatten the two Targumim into one English
+  word; the divergence is itself the datum.
+- פרגית: "young chicken," never "pargit" untranslated and never the modern
+  restaurant sense.
+- ניפול: "a fallen nestling," with the halachic sense supplied; "small bird"
+  loses the falling that defines the case.
+
 **הדר / אתרוג / אתרונגא / טרונגא / תפוח** — citron | hadar, esrog, etrog, esrogim, etrogim, etroga, esroga, etronga | reviewed | [citron-hadar-etrog-tapuach.md](entries/citron-hadar-etrog-tapuach.md)
 
 *Hadar* means **beautiful** or **splendid**; nothing in the word says citron. The Torah's *pri eitz hadar* (Vayikra 23:40) is the esrog by Mesorah, and the Gemara's derivations are asmachta (Ibn Ezra, Rambam). *Esrog* is the **citron**, the Mishnaic and Targumic name. *Tapuach* is an **apple**, though in Shir HaShirim 2:3 Rabbeinu Tam reads it as a citron (whether there alone or generally is unclear).
+
+**Rendering guidance.**
+
+- הדר in Vayikra 23:40: "a beautiful fruit of a tree," or "the fruit of a
+  beautiful tree" where the ambiguity matters. Do not write "citron" in the
+  pasuk itself; that is the halachic identification, and it erases the gap
+  Chazal, Ibn Ezra, and the Ramban work on.
+- אתרוג: "esrog" in a frum register, "citron" where a general reader needs the
+  botanical word; Ashkenazi *esrog* and Sephardi *etrog* are both correct.
+- אתרונגא: keep the form and gloss it, since Kiddushin 70a is about the word
+  itself; "citron" for all three of them destroys the story.
+- תפוח: "apple." Only in Shir HaShirim 2:3 is "citron" a live option, and there
+  a note is better than a silent substitution.
+- Trap: English "citron" will absorb *hadar*, *esrog*, *trunga*, and Rabbeinu
+  Tam's *tapuach* alike. Where two of them stand in one passage (a derashah
+  linking *hadar* to *esrog*, or the Ramban's claim that they are one word in
+  two languages), keep them distinct or the argument vanishes.
 
 **ענן / עב / אד / נשיא / חזיז / נבל / כף / נוד** — clouds | anan, ananim, av, avim, eid, ed, eidim, edim | reviewed | [clouds-anan-av-eid-nasi-chaziz.md](entries/clouds-anan-av-eid-nasi-chaziz.md)
 
 *Anan* is the plain, general **cloud** (close to a hundred times in Tanach). *Av* is the **thick cloud** that darkens the sky. *Eid* is the **rising vapor** or mist that clouds are formed from. *Nasi* is the **rain cloud**, for Pappenheim either the one that carries water or the one light enough to be lifted. *Chaziz* is the **thundercloud** that comes with lightning (Pappenheim). Chazal count these five as the words for cloud.
 
+**Rendering guidance.**
+
+- Where the Midrash is being quoted, keep all five words transliterated and gloss
+  each once. The passage is a list of five names; translating each as "cloud"
+  deletes the very thing being counted.
+- In ordinary prose: *anan* "cloud," *av* "thick cloud" (plural "thick clouds"),
+  *eid* "mist" or "vapor," *nasi* "rain cloud," *chaziz* "thundercloud."
+- Bereishis 2:6, *v'eid yaaleh min ha'aretz*: "a mist would rise from the earth"
+  follows Rabbeinu Bachya and is the safe rendering. "Cloud" here
+  would be defensible only when quoting the Yerushalmi's list.
+- Trap: English "cloud" absorbs *anan*, *av*, *nasi* and *chaziz* without
+  complaint. When two of them appear in one pasuk or one derashah, force the
+  modifier ("thick cloud," "rain cloud"); when one stands alone in narrative,
+  plain "cloud" is right.
+- *Nesiim* in Mishlei 25:14 (*nesiim v'ruach v'geshem ayin*) needs "clouds and
+  wind but no rain"; do not let the literal "princes" in, and do not gloss it
+  "princes" in the body even though that is the word's other sense.
+
 **קור / קר / צנה / צנים / צננים / צונן / מצונן** — cold | kor, kar, karim, mayim karim, tzinah, tzina, tzinim, tzninim | reviewed | [cold-kor-tzinah.md](entries/cold-kor-tzinah.md)
 
 *Tzinah* is ordinary coldness, the kind a body is built to withstand: **cold, chill**. *Kor* is the severe kind, the cold that hurts: **bitter cold, freezing** (Rabbi Shlomo Pappenheim). Rabbi Yehoshua Steinberg draws the line differently: *kor* is the drop in temperature, *tzinah* is a cold that surrounds and envelops a person like snow. Both words are rare in Tanach.
+
+**Rendering guidance.**
+
+- Default: *tzinah* = **cold** or **chill**; *kor* = **bitter cold** or
+  **freezing**. Reserve "cool" for *tzonen* against hot, never for *kor*.
+- Bereishis 8:22, *kor vachom*: "cold and heat." The pair is a merism for the
+  whole year, so the plain word is right there even though *kor* is the strong
+  term; if the passage is being darshened on intensity, note it.
+- Mishlei 25:13, *ketzinas sheleg beyom katzir*: "like the **chill** of snow on
+  a harvest day." Following Rabbi Steinberg, "the enveloping cold of snow" is
+  defensible where the drashah needs the covering sense; say which reading you
+  took.
+- Trap: English "cold" absorbs both words and "chilly" collapses the scale. Fix
+  the grades before translating a passage that has both, and do not let *kor*
+  come out milder than *tzinah*.
+- Trap: *tzinah* is also "shield." Decide by context,
+  and where a commentary is deliberately playing the two senses off each other
+  (Rabbi Moshe Kimchi, Abarbanel), transliterate once and gloss both senses
+  rather than picking one and losing the argument.
 
 **צבע / גוון / עין / מראה** — color | tzeva, tzeva', tzova, tzovea, tzovei'a, tzivonim, tzavua, gavan | reviewed | [color-tzeva-gavan-ein-mareh.md](entries/color-tzeva-gavan-ein-mareh.md)
 
 *Tzeva* is **color** in the sense of dye: the colorant, and the color a thing has been given (from *tzovea*, dyeing; for Shadal, an artificial color). *Ein*, construct of *ayin*, is a thing's own single **color**; Rambam sometimes uses *tzeva* for colors, but in other cases consistently uses *ein*. *Mareh* is the **appearance**, the whole picture of a thing, which could include its color (Malbim); for Shadal it is a sight that may include more than one color. *Gavan* is Aramaic, **color** or **shade**, and belongs to Talmudic and Targumic language, not to Tanach. Between *tzeva* and *gavan* Rabbi Reuven Chaim Klein would say the difference is simply one of origin: *tzeva* is the native Hebrew word, *gavan* an Aramaic borrowing of an Indo-European word.
 
+**Rendering guidance.**
+
+- Default: *tzeva* "dye" or "color" (as a dyer's word), *ein* "color," *mareh*
+  "appearance," *gavan* "color" or "shade" in an Aramaic quotation.
+- Trap: in Vayikra 13, *ein* and *mareh* stand within a few pesukim of each
+  other. Rendering both "appearance," or both "color," destroys Malbim's
+  distinction, on which the halachah of the *nega* turns. Give *ein* "color" and
+  *mareh* "appearance" and keep them apart throughout the perek.
+- Second trap: *tzeva* in a Shabbos context is the melachah of *tzovea*, dyeing;
+  leave it transliterated where the melachah is named. *Tzavua* of a person is
+  "two-faced," not "colorful" (Rashi to *Sotah* 22b). *Ein hatzeva* (Rambam,
+  *Shabbos* 9:14) is a colorant, not "the color of the color."
+
 **ים / מערב / אחרון / מזרח / קדם / פנים / צפון / שמאל / אסתן / דרום / נגב / תימן / ימין** — compass directions | yam, maarav, ma'arav, meurav, acharon, mizrach, kedem, kodem | reviewed | [directions-tzafon-darom-mizrach-maarav.md](entries/directions-tzafon-darom-mizrach-maarav.md)
 
 Each direction has three Hebrew names, and each name says *why*: **east** is *mizrach* (where the sun shines out), *kedem* (the sun's first, forward position), or *panim* (facewards); **west** is *yam* (seaward, toward the Mediterranean), *maarav* (where shadows blur), or *acharon* (the sun's last place); **north** is *tzafon* (on one explanation, hidden from the sun), *smol* (left), or the Aramaic *estan*; **south** is *darom* (the sun's daytime path), *negev* (the dry country), or *teiman*/*yamin* (right). Bereishis 28:14 pairs *yam*, *kedem*, *tzafon*, *negev*; Devarim 3:27 pairs *yam*, *tzafon*, *mizrach*, *teiman*. Rabbi Klein's own answer to why the doublets exist: the several names each fix on a different aspect of the same direction, and are generally based either on the movements of the sun or on certain topographical features of Eretz Yisrael.
+
+**Rendering guidance.**
+
+- In ordinary narrative render the compass point: *tzafon* **north**, *negev*
+  **south**, *kedem* **east**, *yam* **west**. Do not translate *yam* as "sea"
+  in a direction list or *negev* as "the Negev" where the pasuk means south.
+- Where a passage plays on the sense, gloss once and move on: *tzafon* as
+  **the hidden side**, *negev* as **the dry country**, *kedem* as **the
+  forward side**.
+- Trap: English "east" absorbs *mizrach*, *kedem* and *panim*, and "south"
+  absorbs *darom*, *negev* and *teiman*. When two of them stand in one pasuk,
+  or when a source contrasts *kedem* with *mizrach*, keep them apart by
+  glossing the second: "east (*kedem*, the forward side)."
+- Second trap: *kedem* carries both space and time.
+  Check whether the pasuk means eastward or aforetime before settling on
+  either.
+- *Smol* and *yamin* are only north and south when the speaker faces east.
+  Where the orientation is a person's own body, they stay left and right.
 
 **גד / כוסבר / כוסברתא / גידא / גודגדניות / מגד / מגדים / מגדנות** — coriander | gad, gada, gida, kusbar, kusbara, kusbarta, kusbarat, gudgedaniyot | reviewed | [coriander-gad-kusbarta.md](entries/coriander-gad-kusbarta.md)
 
 *Gad*, the seed the man resembled (Shemos 16:31, Bamidbar 11:7), is most widely identified as **coriander**: so Targum Yonasan, Menachem Ibn Saruk, Radak, and Rashi, who render it with the Aramaic *kusbarta* and the Old French *coliander*. Rav Hai Gaon, quoted by Rabbi Yehudah Ibn Balaam, says **mustard seed** instead, and Ibn Ezra records both and leaves it open. Onkelos declines to translate at all. "White *gad* seed" does not mean the seed is white. Rashi, the Rashbam, and Radak all say the man was white and only its shape was like a *gad* seed, and that *gad* seeds are not white.
 
+**Rendering guidance.**
+
+- *Zera gad* in Shemos 16:31 and Bamidbar 11:7: "coriander seed," with a note for
+  Rav Hai Gaon's mustard seed if the passage weighs the identification. Onkelos's
+  refusal to render it is itself worth a note.
+- Do not write "white coriander seed." Render "white, like coriander seed" or
+  "white, and shaped like coriander seed," which is what Rashi, the Rashbam, and
+  Radak insist the pasuk means.
+- Trap: American English separates *cilantro* (from the Spanish for coriander),
+  the leaves and stalks, from *coriander*, the seed; *culantro*, etymologically
+  a synonym, in practice names a different plant native to the Americas. The
+  pesukim speak of the seed, so "coriander" is the only right word there;
+  "cilantro" would put the wrong part of the plant in the pasuk.
+- Second trap: *gad* also names the tribe of Gad and, elsewhere in Tanach, fortune
+  (and *gid* a sinew). Do not carry the plant sense into those, nor Rabbi Shlomo
+  Pappenheim's shared root into a translation; his connection is a derivation, not
+  a gloss.
+- *Kusbarta* in *Avodah Zarah* 10b: keep the Aramaic and translate the wordplay
+  in a note. No English word can carry both "coriander" and the two readings of
+  the message.
+
 **חושך / אפילה / אפלה** — darkness | choshech, chosheich, hoshech, chosech, afeilah, afelah, afela, ofel | reviewed | [darkness-choshech-afeilah.md](entries/darkness-choshech-afeilah.md)
 
 *Choshech* is plain **darkness**, the dark of an ordinary night. *Afeilah* is **thick darkness**, something darker than *choshech* (Radak). At Makkas Choshech (Shemos 10:22) they stand together, *choshech afeilah*, and the added *afeilah* implies a stronger darkness.
+
+**Rendering guidance.**
+
+- Shemos 10:21 to 23: *choshech* alone is "darkness"; *choshech afeilah* is "a
+  thick darkness" or "a darkness of gloom", never "darkness, darkness".
+- Trap: English "darkness" absorbs both. Where a passage pairs them or builds
+  on the difference, reserve "darkness" for *choshech* and give *afeilah* an
+  adjective: thick, utter, palpable.
+- *Me'afeilah l'or gadol* in the Haggadah: "from thick darkness to a great
+  light." Keeping "great" is not decoration; Wertheimer's point rests on it.
+- Yeshayahu 45:7, *yotzer ohr u'vorei choshech*: "Who forms light and creates
+  darkness." Do not soften "creates" to "brings about"; the machlokes above
+  lives in that verb.
 
 **חמור / חמורה / אתון / פרא / ערוד / עיר / סיח / פרד / פרדה / ימים** — donkey | chamor, chamorim, chamorah, aton, asson, atonot, atonos, atonim | reviewed | [donkey-chamor-aton-pere-ayir-pered.md](entries/donkey-chamor-aton-pere-ayir-pered.md)
 
 These are different animals, not stylistic variants. *Chamor* is the domesticated donkey and, in Biblical Hebrew, of either sex (Radak): **donkey**. *Aton* is the she-donkey, the **jenny** or **she-ass** (Radak; Bilaam's animal through Bamidbar 22). *Pere* (Aramaic *arud*) is the undomesticated **wild ass**; Radak classes *chamor* as a *behemah* and *pere* as a *chayah*. *Ayir* is the young one, a **foal**; *pered* is the **mule**. Zecharyah 9:9 puts *chamor* and *ayir* in one pasuk.
 
+**Rendering guidance.**
+
+- Zecharyah 9:9: "riding on a *chamor*, and on an *ayir*, the foal of *asonos*."
+  Three words, three renderings. One repeated "donkey" makes the pasuk read as a
+  stammer instead of a description.
+- Trap: English "ass" and "donkey" between them absorb *chamor*, *aton*, *pere*
+  and *ayir*. Fix "donkey" to *chamor*, "she-donkey" to *aton*, "wild ass" to
+  *pere*, "foal" to *ayir*, and hold to it across the passage.
+- Bamidbar 22: Bilaam's animal is an *aton* every time. "His donkey" passes as
+  narrative English, but where a *derashah* turns on her being female, say
+  she-donkey.
+- Bereishis 16:12, *pere adam*: "a wild ass of a man." On Rav Hirsch's reading
+  the force is unrestraint, not stupidity; "a wild man" loses the animal and the
+  point together.
+- *Pered* is "mule," and *yeimim* on Shadal are "hinnies." Where a piece quotes
+  Rashi and the Yerushalmi both, name the disagreement rather than picking an
+  English that settles it quietly; Onkelos read *yeimim* as giants.
+- In a rabbinic text do not carry the Biblical values over: *ayir* there may be a
+  young horse, and a young donkey is *sayach*.
+
 **יבש / חרב / נגב / יבשה / חרבה** — dry | yavesh, yaveish, yavshah, yabashah, yabasha, vativash, chorev, charev | reviewed | [dry-yavesh-chorev-negev.md](entries/dry-yavesh-chorev-negev.md)
 
 *Charev* is **dried** in the partial sense: the surface has dried but moisture remains underneath. *Yavesh* is **dry** outright, drained through and through. The order is fixed: wherever the two stand together, *charev* comes first and *yavesh* second (Malbim). *Negev* is **arid** or **parched**, closer to *charev* than to *yavesh* (Rabbi Yaakov Zev Lev), and in Tanach it usually means "south" rather than "dry" at all.
+
+**Rendering guidance.**
+
+- Bereishis 8:13-14 and Shemos 14:21-22 both stage the drying. Render the first
+  "the waters had drained" or "the surface had dried" and the second "the land
+  was dry." Using "dry" twice erases the whole reading of the Vilna Gaon and the
+  Malbim, and the staged reading Rabbi Klein draws out of Mecklenburg.
+- *Yabashah* as a noun opposite the sea: "dry land." *Charavah* in the same
+  role: "dry ground," with the sense of ground firm enough to cross.
+- Vayikra 7:10 *chareivah*: "dry," meaning without oil. If the passage is citing
+  Wertheimer, say "unmixed with oil" and note the word, since a plain "dry"
+  invites the very objection he is answering.
+- Trap: English "dry" absorbs all three. When two appear in one pasuk, the first
+  must be weaker than the second; when *negev* means the region, leave it as the
+  proper name Negev and do not translate it "the dry land," which would collide
+  with *yabashah*.
+- *Vativash yado* (Melachim I 13:4): "his hand withered." Not "dried," which
+  reads literally where the pasuk is figurative.
 
 **עפר / אפר / אבק / דשן** — dust | afar, ofor, eifer, efer, avak, ovok, deshen, doshen | reviewed | [dust-afar-eifer-avak-deshen.md](entries/dust-afar-eifer-avak-deshen.md)
 
 *Afar* is **dirt** or **soil**, the general word, and the one that can grow things. *Eifer* is **ashes**, what fire leaves, and it grows nothing. *Avak* is **dust**, fine powder produced by pulverizing rather than by burning. *Deshen* is a narrower word for ashes, tied by Rabbi Pappenheim to fat and by Rabbi Yehuda Leib Shapira-Frankfurter to the Mikdash. The difference between *afar* and *eifer* is fertility, which is what makes it significant that the Torah calls the ashes of the Parah Adumah *afar* and not *eifer*.
 
+**Rendering guidance.**
+
+- Default renderings: *afar* "dirt" or "soil," *eifer* "ashes," *avak* "dust,"
+  *deshen* "ashes" with the qualifier the context supplies (the Mikdash's ashes,
+  or "fatty ash").
+- The pair *afar va'eifer* (Bereishis 18:27): "dirt and ashes." Do not soften it
+  to "dust and ashes," which is the King James phrase and quietly swaps *afar*
+  for *avak*, losing the Netziv's past-and-future reading entirely.
+- Trap: English "dust" absorbs *afar*, *eifer* and *avak* at once. Reserve "dust"
+  for *avak*, and where the passage turns on growth against sterility, make the
+  contrast explicit rather than trusting one English word to carry it.
+- Bamidbar 19:17: render *afar* there as "dirt" or "earth," not "ashes," even
+  though the referent is ash. The unexpected word is the whole point.
+- *Avak lashon hara* and its siblings: keep *avak* transliterated, or render "the
+  dust of," never "a trace of," which loses the image of brushing the boundary.
+- Rabbi Pappenheim concludes that despite the distinctions, these words are close
+  enough that sources often use them interchangeably; do not force a distinction
+  onto a passage that is not making one.
+
 **תבל / ארקא / חלד / חדל / חרבה / יבשה / קרקע** — earth (the seven names) | taivel, tevel, teivel, arka, arah, ara, cheled, chedel | reviewed | [earth-taivel-arka-cheled.md](entries/earth-taivel-arka-cheled.md)
 
 Avos d'Rabbi Nasan (version 1, ch. 37) counts seven words for the earth: *eretz*, *adamah*, *arka*, *charavah*, *yabashah*, *taivel*, *cheled*. Of these, *taivel* is **the inhabited world**, the settled parts as against *eretz* for the whole (Malbim); *arka* is **earth**, a hapax in the one Aramaic pasuk of Yirmiyahu; *cheled* is **the transient world**, the earth under time; *charavah* and *yabashah* are **dry land**. *Taivel* is not *tevel*, abomination: same letters, different nikud, one root. And *karka* is not on this list at all.
+
+**Rendering guidance.**
+
+- Trap: English "earth" and "world" take *eretz*, *taivel*, and *cheled* alike.
+  Give *taivel* "the inhabited world" and *cheled* "the fleeting world" wherever
+  a pasuk pairs one of them with *eretz*.
+- Tehillim 24:1: "To Hashem belongs the land and its fullness, the inhabited
+  world and those who dwell in it." Both halves as "the earth" flattens it.
+- *Tevel* as abomination (Vayikra 18:23) is never "world"; check the nikud.
+- *Karka* in a Gemara is "ground," but in a pasuk it is the floor of a building
+  or of the sea. Bedersi's caution is worth keeping.
 
 **פיל / שנהב / שנהבים / פלדש** — elephant | pil, pila, pilim, pilei, shenhav, shenhab, shenhabim, shenhavim | reviewed | [elephant-pil-shenhav.md](entries/elephant-pil-shenhav.md)
 
 *Pil* is the ordinary word for **elephant**, but it is post-biblical; it belongs to the language of Chazal, not to Tanach. *Shenhav* (plural *shenhabim*) is the biblical word, and most of the commentators render it **ivory**, not the animal (Targum, Rashi, Radak, Metzudos, Ralbag, Rabbi Yosef Karo). A minority read it as the elephant itself (Ibn Janach, seemingly; HaKallir; Rabbi Avraham ben Shlomo; and the commentary printed as Rashi to Divrei HaYamim). Even on the minority reading, Rabbi Reuven Chaim Klein holds, the word focuses on the elephant specifically as the source of ivory. That is the difference he settles on: *shenhav* names the beast for its tusks, while post-biblical *pil* names it for other properties, its superlative mass or possibly its knack for burying the dead.
 
+**Rendering guidance.**
+
+- *Shenhabim* in Shlomo's cargo list: "ivory." If the passage is arguing from
+  the *taamim* or from the shape of the list, say in a note that the accents
+  group it with the animals and that a minority renders "elephants."
+- *Pil* in a Gemara: "elephant," plainly. Do not reach back for "shenhav"; the
+  words belong to different strata of the language.
+- Trap: English "ivory" and "elephant" split cleanly, but *shenhav* on the
+  minority reading is both at once. Where a source turns on that double sense
+  (the beast named for what it yields), render "ivory" and gloss, rather than
+  choosing "elephant" and losing the material the pasuk is listing.
+- Second trap: a derashah on *pil* and *pele*, or on *pil* and *nefilim*, cannot
+  survive translation. Keep the Hebrew in the body and put the wordplay in a
+  note.
+
 **רעב / כפן / בצורת** — famine | raav, raavon, kafan, kefan, kafna, kefina, kafnah, batzores | reviewed | [famine-raav-kafan-batzores.md](entries/famine-raav-kafan-batzores.md)
 
 *Ra'av* is the standard word, some 130 occurrences: **famine**, or **hunger** when the subject is a person. *Kafan* appears in Hebrew only twice, both in Iyov (5:22, 30:3), and is the harder case: it may be simply the Aramaic word for the same thing, or, on various readings, the famine of prices or of a stomach that has stopped complaining. *Batzores* is the rabbinic term; the Biblical *shnas batzores* Rashi glosses as **a year of famine** (the famine sense seemingly closest to the root's third meaning, withholding). Where *kafan* stands beside *ra'av* in the same passage, the pairing is what suggests that the two differ.
+
+**Rendering guidance.**
+
+- Default: *ra'av* "famine" (of a land) or "hunger" (of a person); *batzores*
+  "famine," and in *shnas batzores* "a year of famine"; *kafan* per whichever
+  reading the passage follows.
+- Trap: English "famine" absorbs all three. Where a source is building on the
+  *ra'av*/*kafan* contrast, split them in English: "famine and dearth,"
+  "scarcity and starvation," or spell the distinction out. In Iyov 5 the two
+  stand in one passage (*ra'av* in 5:20, *kafan* in 5:22), and a single English
+  word erases the point.
+- Trap: *batzores* is not interchangeable with *ra'av* in a rabbinic text. When
+  Chazal say *shnas batzores* they mean the crop failure; *ra'av* names what the
+  people are suffering.
+- Where the Vilna Gaon's reading is in play, *kafan* is not less food but food
+  that does not satisfy; "famine" is then actively wrong. "Want" or "unsated
+  hunger" carries it.
+- Do not smooth *kafnah* in Yechezkel 17:7 to "gathered" without a note; Rashi
+  and Radak read the same word in opposite directions there.
 
 **אש / אור / להב / להבה / שלהבת / להט / לפיד / אבוקה / נר / נורא / שרגא** — fire | aish, esh, eish, ur, or, ohr, lahav, lehavah | reviewed | [fire-aish-lehavah-shalheves-lapid.md](entries/fire-aish-lehavah-shalheves-lapid.md)
 
 *Aish* is the general word: **fire**. *Ur* is a **fire** too, but a smaller one (Malbim). *Lahav* and *lehavah* are the **flame** that shoots outward from a fire, which is why the same word means a **blade**. *Shalheves* is a flame gripping some material it is consuming. *Lahat* is fire moving fast, a **blaze**. *Lapid* is a **torch**, the object carrying the fire, and *avukah* a multi-wick torch against *ner*, the single-wick **lamp**. *Lehavah* is not a bigger fire than *aish*; it is the outward-reaching part of one.
 
+**Rendering guidance.**
+
+- אש: "fire." Plain, always.
+- אור (as fire): "fire," and where the contrast with *aish* matters, "a small
+  fire" or "embers"; never "light," which is the other pointing of the same
+  letters.
+- להב / להבה: "flame." Where it is a weapon, "blade." If a passage plays on
+  both senses, keep "flame" in the body and note the blade sense rather than
+  splitting the word into two English words mid-derashah.
+- שלהבת: "flame" as well, but if it stands beside *lehavah* render it "flame
+  clinging to the coal" or similar; Rabbi Shlomo Pappenheim's point is the
+  attachment.
+- להט: "blaze," or the verb "blazed."
+- לפיד: "torch." אבוקה: "torch" too, so where both appear, make *avukah* a
+  "multi-wick torch" and reserve plain "torch" for *lapid*.
+- נר: "lamp" in Tanach, "candle" in a Chanukah or Shabbos context.
+- Trap: English "flame" will absorb *lehavah*, *shalheves* and *lahat* at once,
+  and "fire" will absorb *aish* and *ur*. Ovadiah 1:18 sets *aish* and *lehavah*
+  in one pasuk; render "a fire... a flame," never "a fire... a blaze," which
+  reverses the relation by making the second sound larger than the first.
+
 **דג / דגה / דאג / נונא / מוניני / גילדנא / טרית / אברומא / צחנתא** — fish | dag, dagim, dagah, daga, digas, digat, digei, dayag | reviewed | [fish-dag-dagah.md](entries/fish-dag-dagah.md)
 
 *Dag* is **a fish**, the singular; *dagah* is the loaded form, and what it adds is disputed: **a large fish or a small one** (Chazal), **a female fish** (Rashi and others), **a dead fish** (Zohar), or **fish as a collective**, the species rather than the individual (Ibn Ezra). Most of the sources that take up the difference focus on the switch from *dag* to *dagah* in Yonah 2:1 and 2:2. Rashi glosses several Aramaic words in the Gemara (*avruma*, *munini*, *gildna*, *tzachanta*) as **small fish**.
+
+**Rendering guidance.**
+
+- *Dag*: "fish" (singular, a fish). *Dagah*: "fish" as well in plain narrative,
+  but where the passage or a commentary is trading on the form, say what it
+  means: "the fish, big and small," "a female fish," "a dead fish," "the fish"
+  as a collective.
+- Trap: English "fish" is singular and plural at once, so it will absorb *dag*,
+  *dagah*, and *dagim* without a trace. In Yonah 2:1-2 that is fatal; the entire
+  midrashic reading hangs on the one-letter change. Render "a fish" then "the
+  fish" and carry the distinction in a note, or spell it out in the body.
+- Trap: *da'agah* (worry) and *dagah* (fish) look alike and, for Rabbi
+  Pappenheim, are related. Do not let a wordplay on the pair pass as an
+  etymological claim in a translation; the mainstream lexicographers give them
+  separate roots.
+- *V'yidgu* (Bereishis 48:16) is a verb, not a noun: "may they multiply like
+  fish," not "may they be fish."
+- The Aramaic diminutives all render "small fish." Where a sugya turns on the
+  species (kashrus signs, brine), keep the Aramaic transliterated and gloss it
+  once, rather than committing to a modern species name in the body.
 
 **נון / כוורא / שיבוטא / סנדל / תנין / נין** — fish | nun, nuna, nuni, kavra, kevara, shibuta, shibbuta, sandal | reviewed | [fish-nun-kavra-shibuta.md](entries/fish-nun-kavra-shibuta.md)
 
 *Dag* is the Hebrew for fish and the only one Tanach uses; *nun* and *kavra* are its Aramaic counterparts, both **fish**. *Shibuta* and *sandal* are named species. *Tanin* is a **sea monster**. *Nun* never occurs in Tanach in the sense of fish; where it does occur, in *Yehoshua bin Nun*, it is a man's name, and the fish sense is a derashah on it.
 
+**Rendering guidance.**
+
+- *Nun* and *kavra* in a Gemara are both simply **fish**; do not manufacture a
+  distinction the sugya does not need.
+- The trap is "fish" absorbing the named species. Where Chullin 109b names *shibuta* or
+  Niddah 25b names *sandal*, keep the Hebrew and gloss it ("the shibuta fish"), since
+  the identification is disputed and an English species name commits you to one side of
+  it.
+- *Tanin* must not be rendered "fish": **sea monster** at Bereishis 1:21, and elsewhere
+  a serpent, as context decides. *Nin* is **descendant**, never fish.
+- In *Yehoshua bin Nun*, render **son of Nun**, a name; bring the fish sense in only
+  where a derashah is quoted, and say that it is a derashah.
+
 **אוכל / מזון / יבול / תבואה / תנובה / דגן / בר / שבר / עבור** — food | ochel, ochl, maachal, machal, mazon, mezonos, mezonot, yevul | reviewed | [food-ochel-shever-tevuah-dagan.md](entries/food-ochel-shever-tevuah-dagan.md)
 
 *Ochel* is **food**, anything eaten, the widest word. *Mazon* is **sustenance**, food that actually nourishes. Of the produce words: *tevuah* is **crop**, what comes forth (ripe or not); *tenuvah* is **ripe produce**; *yevul* is **produce** seen as perishable; *dagan* is threshed **grain**; *bar* is grain **cleaned of its chaff**; *shever* is **provisions**, grain bought in a famine. Onkelos renders *ochel*, *bar*, *shever* and *dagan* all by *avur*.
+
+**Rendering guidance.**
+
+- Default renderings: *ochel* "food"; *mazon* "sustenance" or "nourishment";
+  *yevul* "produce"; *tevuah* "crop" or "yield"; *tenuvah* "ripe produce";
+  *dagan* "grain"; *bar* "cleaned grain" or "kernels"; *shever* "provisions" or
+  "rations."
+- Trap: English "grain" will absorb *dagan*, *bar* and *shever* together, and
+  "produce" will absorb *yevul*, *tevuah* and *tenuvah*. Where two stand in one
+  pasuk (Amos 8:5 has *shever* and *bar*), translate the state of the grain and
+  not just the substance: "provisions" against "cleaned grain."
+- Do not read Onkelos back into the Hebrew. His single *avur* is a feature of
+  Aramaic, not evidence that the Hebrew words are synonyms; Radak's *avur* is
+  itself a distinct thing, old grain.
+- *Mezonos* in a halachic context stays transliterated. So does *tevuah* where
+  it is the technical produce of the year for maaser or shemittah.
+- The King James Version renders *bar* as "corn," which then meant any staple
+  grain with the seed still in, not maize. "Corn" is a false friend; use
+  "grain."
+- *Shever* in the Yosef narrative is a purchase, not a gift. "To buy provisions"
+  keeps Rabbeinu Bachaya's sense of a sale; "to get food" loses it.
 
 **מזל / גד / מזר** — fortune | mazal, mazel, mazalos, mazalot, mazaltov, gad, gada, mazar | reviewed | [fortune-mazal-gad-mazar.md](entries/fortune-mazal-gad-mazar.md)
 
 In its one Biblical use *mazal* seems to be a **constellation**; in Chazal it is also the **destiny** or Divine influence channeled to a person or thing. *Gad* is **fortune**, and more precisely the spiritual force assigned to a particular thing (Rabbi Shlomo Pappenheim). *Mazar* is a hapax: a **constellation** for most commentators, Rashi among them, a particular star or group of stars for Ibn Ezra. *Mazal tov*, as the prevailing custom uses it, refers to Hashem's bestowal of good, not to blind chance.
 
+**Rendering guidance.**
+
+- מזלות in Melachim II 23:5 and Iyov 38:32 is "constellations," not "planets" and
+  not "signs of the zodiac" unless the source says so.
+- Trap: English "luck" will absorb both *mazal* and *gad*, and it carries exactly
+  the sense of blind chance that the sources deny. Use "fortune," "destiny," or
+  "the heavenly influence"; keep "*mazal tov*" transliterated as a greeting.
+- Where *gad* and *mazal* appear together (Rashi glosses the first with the
+  second at Bereishis 30:11), keep "fortune" and "*mazal*" distinct in English.
+- Yeshayahu 65:11 is a name of an idolatrous power; capitalize it as Gad and note
+  it, rather than rendering "luck."
+- גד also means coriander seed in two pesukim, an unrelated word; check context.
+
 **גן / גנה / פרדס / בוסתן / קן / מגן** — garden | gan, ginah, gina, ginot, ginos, ginunyita, pardes, pardeis | reviewed | [garden-gan-pardes-bustan.md](entries/garden-gan-pardes-bustan.md)
 
 *Gan* is the general **garden**, an enclosed and guarded plot; in Tanach it is the only common one of the three, and in the Mishnah it appears as *ginah*. *Pardes* is usually **orchard**, and on Bedersi's reading the narrower and grander word; Koheles names both in one pasuk (Koheles 2:5), which suggests they are not synonyms. *Bustan* is Talmudic Aramaic for a **garden**, a Persian word, and Rashi in places defines it by *pardes* while Rashbam defines it by *gan*.
+
+**Rendering guidance.**
+
+- *Gan* in Tanach and *ginah* in the Mishnah: "garden" for both; the shift is one
+  of stratum, not sense. *Pardes*: "orchard," and "park" only where the passage
+  is about royal pleasure grounds and Bedersi's reading is in play.
+- Koheles 2:5, where both appear: "gardens and orchards." This is the one pasuk
+  where a single English word for both destroys the verse. *Bustan*: "garden,"
+  noting that Rashi glosses it *pardes* and Rashbam *gan*.
+- Trap: English "garden" absorbs all three, and "paradise" absorbs *pardes* and
+  *Gan Eden* together. In Chagigah 14b keep "the *Pardes*" untranslated; the
+  Gemara is naming a place, and "paradise" hands the reader a foreign picture.
+- Second trap: a source building on *gan* and *haganah*, or *gan* and *ken*,
+  cannot survive in English; keep the Hebrew and put the link in a note.
 
 **גפן / שורק / שורקה / שדמה / שריג / סרק** — grapevine | gefen, gafna, sorek, soreik, sorekah, shdeimah, shedeimah, shdeimot | reviewed | [grapevine-gefen-sorek-shdeimah.md](entries/grapevine-gefen-sorek-shdeimah.md)
 
 *Gefen* is the plain word: **grapevine**. *Sorek* is not a second word for the same thing but a **choice vine**, the best stock, by most readings. *Shdeimah* is the disputed one: Rashi makes it a **grain field**, the grammarians a **vine**, Rabbi Shlomo Pappenheim simply rich, nourishing **ground**. *Sarig* is the **tendril**. Rabbi Shlomo of Urbino (*Ohel Moed*) lists *gefen*, *sorek*, and *shdeimah* together as "grapevines", but not everybody agrees that *shdeimah* refers to a grapevine. Rabbi Klein suggests that perhaps all these different explanations of *sorek* are somehow describing the same thing.
 
+**Rendering guidance.**
+
+- Bereishis 49:11 pairs *gefen* and *sorekah*. Do not print "grapevine" twice.
+  "He will tie his donkey to the vine, and his young donkey to the choice vine"
+  keeps the escalation that Targum Yonasan and Radak hear in *sorek*.
+- Devarim 32:32 pairs *gefen* and *shdeimos*: following Rashi, "of the fields
+  of Amorah"; following Rabbeinu Bachaya and the grammarians, both are vines.
+- Trap: English "vine" will swallow *gefen*, *sorek*, and *sarig* together.
+  Reserve "vine" for *gefen*, "choice vine" for *sorek*, "tendril" for *sarig*.
+  Where a passage turns on Kesubos 111b, keep *sorekah* and *srak* distinct in
+  the English or the drashah on the spelling disappears.
+
 **סוס / רכש / אחשתרנים / רמכים / רמך** — horse | sus, susim, sussim, rechesh, rechashim, richashei, achashtranim, achashtran | reviewed | [horse-sus-rechesh-achashtranim.md](entries/horse-sus-rechesh-achashtranim.md)
 
 *Sus* is the ordinary **horse**. *Rechesh* is a particular kind, fast, used for couriers or for pulling: **swift steed** or **courier horse**, not plain "horse." *Achashtranim* and *remachim* occur together only in Esther 8:10, and Megillah 18a says outright that we do not know what they mean; many commentators make *achashtranim* **mules** and *remachim* the **mares** that bore them.
+
+**Rendering guidance.**
+
+- Esther 8:10 is the whole problem in one verse. A defensible rendering: "the
+  couriers riding swift steeds, the royal mules, offspring of the mares," with a
+  note that Megillah 18a says the last two words are not known. Rendering all
+  four as "horses" erases the difficulty the Gemara itself flags.
+- Trap: English "horse" swallows *sus* and *rechesh* together. Where a pasuk has
+  both (Esther 8:10, Melachim I 5:8), give *sus* "horses" and *rechesh* "swift
+  steeds," as Radak's argument from those pesukim requires.
+- Kilayim 8:5: render *ramach* "wild horse" after Rambam, not "mare."
 
 **ארץ / אדמה** — land | eretz, aretz, aratzos, aratzot, adamah, adama, admas, admat | reviewed | [land-eretz-adamah.md](entries/land-eretz-adamah.md)
 
 *Eretz* is **land** as territory: a country, a nation's settled land, and by extension the earth itself down to its core. *Adamah* is **ground**: the arable surface, the soil worked for crops. The Gra, Malbim and Rabbi Moravsky make *eretz* the broader word, and the last two confine *adamah* to the thin top layer; the Maharshal inverts it.
 
+**Rendering guidance.**
+
+- *Eretz*: **land**, or **country** where a nation's territory is meant, or
+  **earth** where the whole world is (*shamayim va'aretz*). *Eretz Yisrael* stays
+  as it is.
+- *Adamah*: **ground**, or **soil** where farming is in view. "Land" for
+  *adamah* should be reserved for the idiom "the face of the earth."
+- *Adam min ha'adamah*: keep the echo. Where a passage builds on man being taken
+  from the *adamah*, "ground" preserves it and "earth" muffles it.
+- Trap: English "earth" absorbs both words outright, and "land" absorbs both
+  nearly as well. At Bamidbar 16:30-34 the entire question is why the pasuk
+  switched, so the English must switch too: "ground" for the first stage,
+  "land" for the second.
+- Trap: do not carry one commentator's scale of breadth into another's passage.
+  Malbim and Rabbi Moravsky are opposed to the Maharshal on which word reaches
+  deeper.
+
 **ארץ / אדמה / רצון / חפץ** — land (running versus passive) | eretz, aretz, ratz, ratzah, ratzon, ritzah, adamah, adama | reviewed | [land-eretz-adamah-ratzon.md](entries/land-eretz-adamah-ratzon.md)
 
 *Eretz* is **land** and *adamah* is **ground**, and the difference lies in the two roots: *eretz* from REISH-TZADI, running, and *adamah* from DALET-MEM, likeness and so inertness. *Eretz* is therefore the active land, and often Eretz Yisrael in particular; *adamah* the passive ground, and often the lands outside it. *Ratzon* belongs to the same root as *eretz*: it is a person's **will** at its deepest, as against *chefetz*, the immediate goal in front of him. Avos d'Rabbi Nasan (version 1, ch. 37) teaches that as there are seven heavens so there are seven words for the earth: *eretz*, *adamah*, *arka*, *charavah*, *yabashah*, *taivel* and *cheled*. Of these, this entry treats *eretz* and *adamah*.
+
+**Rendering guidance.**
+
+- Trap: English "earth" absorbs *eretz* and *adamah* together, and "land" will
+  take *adamah* if you let it. Hold "land" for *eretz* and "ground" or "soil" for
+  *adamah*.
+- Where an unqualified *eretz* stands in a Torah passage about mitzvos of the
+  Land, "the Land" with a capital is usually right, and *adamah* in the same
+  passage is "the ground," not a second name for the same place.
+- A derashah on *eretz* and *ratz* cannot survive in English. Transliterate and
+  gloss: "*eretz*, land, from *ratz*, running."
+- *Ratzon* against *chefetz*: "will" and "desire" will not carry the distinction
+  on their own; where a passage turns on it, say "ultimate will" for *ratzon* and
+  keep "desire" or "object" for *chefetz*.
 
 **כנים / כנם / כנה / כן / קלמתא / כלמי / פרעש** — lice | kinnim, kinim, kinam, kinah, kein, ken, kalmta, kalmei | reviewed | [lice-kinnim-kalmta-parosh.md](entries/lice-kinnim-kalmta-parosh.md)
 
 *Kinnim* is **lice**, the plural; *kinam* is the same creature named as a **species**; *kinah* is a single **louse**, a word of the Mishnah and Gemara rather than of Tanach. The Aramaic is *kalmta*, and in the Gemara *kalmei*. A *parosh* is a **flea**, for *Metzudas Tzion* a black *kinah* that jumps. At Yeshayahu 51:6 and Bamidbar 13:33 the standard reading of *kein* is "so, likewise"; certain commentators read it as "louse", a possibility first proposed at Yeshayahu 51:6 by the seventeenth century Dutch Protestant scholar Ludovicus de Dieu and taken up by others, Malbim among them.
 
+**Rendering guidance.**
+
+- The makkah is "lice". Where the Torah writes *kinam*, "the lice" or "the
+  vermin" reads better than "a louse"; the form is collective, not singular.
+- Trap: English "lice" will take in *kinnim*, *kinah*, *kalmta*, and *parosh*
+  together. Keep "flea" for *parosh*; when David's line becomes "a single
+  louse" the image of a jumping, uncatchable creature is lost.
+- *Kein* in Bamidbar 13:33 stays "so" or "likewise" in the body. If Malbim's
+  reading is being taught, give it as his and keep it out of the pasuk itself.
+- In a Gemara passage, translate *kalmei* as "lice" and note that it is the
+  Targum's word; do not invent a distinct English creature for it.
+
 **ארי / אריה / כפיר / לביא / ליש / שחל / שחץ / גור** — lion | ari, aryeh, arye, kfir, kefir, lavi, laviyah, layish | reviewed | [lion-aryeh-kfir-lavi-layish.md](entries/lion-aryeh-kfir-lavi-layish.md)
 
 All of these are words for a **lion**, and Chazal count six or seven of them. The sources divide on what the set is. The sources of the first group seem to take all seven as the same animal, named for seven different attributes of it or human reactions to it (Sanhedrin 95a; *Yalkut Shimoni*). Others take them as stages of a lion's life, and differ among themselves: Radak's progression runs *gur* the nursing cub, then *kfir*, then *aryeh*, then *lavi*, then *layish*, each stage stronger than the last, and he does not say where *shachal* fits; the Vilna Gaon has three stages only, *kfir*, *aryeh*, *shachal*; Abarbanel flattens the set to two, *gur* and *kfir* young, *aryeh*, *layish* and *lavi* grown. Others still read some of these words as other animals altogether.
+
+**Rendering guidance.**
+
+- גור / גור אריה: "lion cub," or "a young lion" where the cub sense would read
+  oddly. כפיר: "young lion." אריה / ארי: "lion." לביא: "lion," or "lioness" if
+  following the Vilna Gaon. ליש: "old lion," or "lioness" on the same view. שחל
+  and שחץ: "lion," with the reading you follow noted.
+- Trap: English "lion" covers all seven at once, and both of the famous pesukim
+  put two of them in one clause. Bereishis 49:9 has *gur aryeh*, then *aryeh*,
+  then *lavi*; Bamidbar 24:9 has *ari* and *lavi*. Render them with two distinct
+  English words ("he crouches like a lion, like a great lion, who shall rouse
+  him") or the parallel is lost.
+- Second trap: the two frameworks are not compatible. Chazal's derashos read all
+  seven as one animal under seven names; Radak reads them as an aging sequence.
+  Do not mix a derashah from the first into a translation built on the second.
+- Where a source is counting the names (Sanhedrin 95a, *Yalkut Shimoni*), the
+  names must stay transliterated in the list, or the count cannot be seen.
 
 **ארבה / גזם / ילק / חסיל / חגב / סלעם / חרגול / צלצל / צפוני / חנמל** — locust | arbeh, arbe, gazam, yelek, yelak, chasil, chagav, chagavim | reviewed | [locust-arbeh-gazam-yelek-chasil.md](entries/locust-arbeh-gazam-yelek-chasil.md)
 
 It seems to Rabbi Klein that these are species names and not merely synonyms, though he says plainly that it is not known for sure what each one is. *Arbeh* is both one species and the umbrella word, the **locust** swarm. *Gazam* is the cutter, *yelek* the licker, *chasil* the finisher, and in Yoel 1:4 they arrive in a fixed order, *gazam*, *arbeh*, *yelek*, *chasil*, each eating what the one before left. *Chagav* is also the general term for **kosher** grasshoppers (Meiri, *Beis HaBechirah*, and Rabbi Shmuel ben Meshullam of Gerona, *Ohel Mo'ed*). In a plague context the sense is a devouring swarm.
 
+**Rendering guidance.**
+
+- Yoel 1:4 is the test case. "What the *gazam* left the *arbeh* ate, and what the
+  *arbeh* left the *yelek* ate, and what the *yelek* left the *chasil* ate."
+  Either transliterate all four, or give four different English words (cutter
+  locust, swarming locust, licking locust, finishing locust) with a note. Never
+  write "locust" four times; the escalation is the *nevuah*.
+- Trap: English "grasshopper" and "locust" between them absorb all nine or ten
+  words. Reserve "locust" for a swarm that devours (*arbeh* in the *makkah*,
+  Yoel's four) and "grasshopper" for the *kashrus* discussion of Vayikra 11:22,
+  where the insect is being classed, not feared.
+- Vayikra 11:22: the four names are species and should stay transliterated, with
+  a gloss, because no one can pin them to modern species with confidence. Where a
+  passage rules on them, say with Meiri that *chagav* doubles as the class name.
+- *Arbeh* used as an umbrella (Midrash HaGadol on Shemos 10:14, where the *arbeh*
+  of the plague contains seven kinds) needs "the locust plague" or "the locust
+  host," not "the *arbeh* species," or the Midrash contradicts itself in English.
+- *Tzlatzel* in Devarim 28:42: if the passage is quoting Rashi, "locust"; if
+  Ramban, "the clash of armies." The word cannot be rendered without deciding,
+  so decide out loud in a note.
+
 **אחו / אגם / ביצה / סוף / גומא / בוץ** — marsh | achu, achoo, agam, agama, agamim, bitzah, bitza, bitzaim | reviewed | [marsh-achu-agam-bitzah.md](entries/marsh-achu-agam-bitzah.md)
 
 *Agam* is a **marsh**, and Rashi also glosses it as a standing **pond**. *Bitzah* is a **mire**, ground held in mud, from *botz*, mud. *Achu* divides the meforshim: Rashi makes it a **marsh**, plain and simple; Ramban and Rav Hirsch make it the **riverbank growth**, the reeds and grasses, not the place. *Suf* is not a marsh at all but the **reeds** that grow in one, which is why *Yam Suf* is the Sea of Reeds. Iyov 8:11 puts *bitzah* and *achu* in one pasuk with *gome* beside them.
+
+**Rendering guidance.**
+
+- Iyov 8:11, the pasuk that carries three of these words: "Can the *gome* shoot
+  up without a mire, can the *achu* grow tall without water?" Render *bitzah*
+  "mire" and leave *achu* transliterated or as "marsh-grass," since Rashi and
+  Ramban disagree on whether it is the place or the plant. Do not render *bitzah*
+  and *achu* both "marsh"; Rashi's proof depends on their being two words.
+- אגם in the makkos: "marshes" (Shemos 7:19). "Ponds" is defensible on Rashi's
+  Old French but sits oddly in a list that already has rivers and canals.
+- ביצה: "mire" or "swampy ground," not "swamp" flat, so that *agam* keeps
+  "marsh." The English pair marsh/swamp is too close to carry the distinction.
+- ים סוף: "Sea of Reeds," never "Red Sea." *Suf* is the reed, and by Rabbi
+  Avraham Meir HaKohen Glanzer's reading of Rashi it is not a word for marsh at
+  all, so "Swamp Sea" is wrong too.
+- Trap: Rashi glosses *achu*, *agam* and *bitzah* all three with the same Old
+  French *maresc*. That is Rashi telling a reader what the word points at, not a
+  claim that Hebrew has three names for one thing. Do not use his laaz to
+  license one English word for all three.
+- אחו in Bereishis 41: if the translation follows Ramban, "in the reed grass";
+  if Rashi, "in the marsh." Say which; the pesukim about Pharaoh's cows read
+  differently under each.
+- On "marsh" against "swamp" in English, Rabbi Klein uses the two
+  interchangeably, and notes from Google Books' Ngram Viewer that
+  *marsh* was the more common word in print from 1800 to 1850, *swamp* from 1850
+  to 1970, *marsh* again from 1970 to 2000, and *swamp* once more since.
 
 **הר / גבעה / פסגה** — mountain | har, harim, givah, giva, givaah, givaos, givaot, pisgah | draft | [mountain-har-givah-pisgah.md](entries/mountain-har-givah-pisgah.md)
 
 *Har* is the **mountain** and *givah* the **hill**, and what separates them is disputed. The Vilna Gaon takes it as shape: a *har* rises to a point, a *givah* is flat on top, a plateau. Malbim takes it as height and position: a *har* is the tall one, *givaos* the ring of lower hills around it. Radak stands substantially with the Vilna Gaon. *Pisgah* is the uncommon third word, a **peak** higher than an ordinary mountain and so the place to look out from. When Shir HaShirim sets the two side by side, *Chazal* read the pair as the two sets of forebears, and the mystical reading that follows turns on the shape, not on the height.
 
+**Rendering guidance.**
+
+Where the two stand together, "mountain" and "hill" carry the pair, and the
+order in the pasuk is *har* first. The trap is that English "hill" says only
+"smaller," which is Malbim's reading and not the Vilna Gaon's: on his reading
+the *givah* is distinguished by being flat-topped, and a rendering that leans on
+size alone loses the shape the mystical reading needs. Where an entry has to
+choose, "hill" for *givah* and "plateau" only where the flat top is the point.
+*Pisgah* is a peak or a summit; where the pasuk has it as a vantage, "lookout"
+carries the sense the commentators give it.
+
+For Shir HaShirim 2:8, "skipping over the *harim* and jumping over the
+*givaos*," *Rosh Hashanah* 11a reads the first of the merit of the *avos* and
+the second of the merit of the *imahos*, which the mystical reading then ties to
+the point and the plateau.
+
 **שמן / יצהר / צהר** — oil | shemen, shamen, shuman, shemen zayis, shemen zayit, yitzhar, itzhar, tzohar | reviewed | [oil-shemen-yitzhar.md](entries/oil-shemen-yitzhar.md)
 
 *Shemen* is the general word, **oil**. Rabbi Klein argues that *yitzhar*, by contrast, is **olive oil** in itself: the Torah must say *shemen zayis zach* to specify **pure olive oil**, while *yitzhar* is never paired with *zayis* in Tanach. Every occurrence of *yitzhar* is agricultural, the yield of the press.
+
+**Rendering guidance.**
+
+- Trap: English "oil" absorbs both. In the produce lists where *dagan, tirosh
+  v'yitzhar* stand together, render "grain, wine and oil"; the triad is fixed,
+  and forcing "olive oil" there overtranslates one member against its neighbors.
+- *Shemen* on its own is "oil," and only "olive oil" where *zayis* is present or
+  the Menorah is the subject.
+- Where a source contrasts the two words (a derashah on Korach's name, or a
+  discussion of the press), keep them apart: *yitzhar* "fresh-pressed olive oil,"
+  *shemen* "oil."
+- Iyov 24:11, the verb form, is "they press out oil," following Rashi.
+- The name is Yitzhar, roman and untranslated; do not gloss it "Oil" in the body,
+  and save the wordplay for a note.
 
 **מישור / שרון / איל / ככר / אבל / פדן** — plain | mishor, meishar, mishur, sharon, sharona, eil, eil paran, elon | reviewed | [plain-mishor-sharon-eil-kikar.md](entries/plain-mishor-sharon-eil-kikar.md)
 
 *Mishor* is the neutral word: **plain**, any level stretch, and it may be barren. *Sharon* is a **fertile plain**, rich enough to farm (Radak), and in at least some of its appearances in Tanach, if not all, it is the proper name of a specific region. *Eil* / *eilonei* is contested: **plain** for Targum Onkelos, the **name** of a particular plain for Rashi, and **wooded land outside a city** for Ramban. *Kikar* is the **grassland plain** of the Yarden, *avel* a bare **prairie**, and *padan* the Aramaic of *sadeh*, **field** (Shadal). *Mishor* sometimes means moral straightness rather than a plain.
 
+**Rendering guidance.**
+
+- Trap: English "plain" absorbs *mishor*, *sharon*, *eil*, *kikar*, and *avel*
+  at once. Where a commentary is working the difference, mark it: "level
+  ground," "fertile plain," "grassland," "bare prairie."
+- *Mishor* in Tehillim or mussar prose is usually moral, not topographical.
+  "Level path" or "straight road" preserves both senses where the pasuk plays on
+  them; "plain" throws the moral sense away.
+- Where Rashi calls a word "the name of the plain," treat it as a proper noun
+  and capitalize it, since translating it as a common noun silently adopts
+  Onkelos against Rashi.
+- Names built on these words stay names, and they are not modern coinages: Alon,
+  a man of Shimon (Divrei HaYamim I 4:37); Elon, one or two of Esav's
+  fathers-in-law (Bereishis 26:34, 36:2), a son of Zevulun (Bereishis 46:14,
+  Bamidbar 26:26), and a judge from Zevulun (Shoftim 12:11-12); Elah, the son of
+  Baasha (Melachim I 16:6, 16:8, 16:13-14), the father of Hoshea ben Elah, last
+  king of the northern kingdom (Melachim II 15:30, 17:1, 18:1, 18:9), a son of
+  Kalev (Divrei HaYamim I 4:15), and the head of a Binyamite family (Divrei
+  HaYamim I 9:8). Sharon is a place-name before it is anything else.
+
 **ארס / סם המות / ראש / רוש / חמת / רעל / תרעלה / עכס / לענה** — poison | eres, iras, sam hamaves, sam hamavet, sam hachaim, samim, rosh, rowsh | reviewed | [poison-eres-rosh-chamat-sam-hamaves.md](entries/poison-eres-rosh-chamat-sam-hamaves.md)
 
 *Eres* is **venom**, most often snake venom, and it is Talmudic, not Biblical. *Sam hamaves* is the general **poison**, literally the potion of death, and never venom. *Rosh* is **poison** in Tanach, drawn either from a snake's head or from a poisonous plant. *Chamat* is **venom** as what an angered snake emits. *Ra'al* is disputed: poison, or a draught that leaves a man limp and reeling. Chullin 3:5 shows that *sam hamaves* is not venom.
+
+**Rendering guidance.**
+
+- *Eres*: "venom." Never "poison" in a sugya where a snake is in view, since
+  Avodah Zarah 31b turns on which creatures' *eres* is lethal.
+- *Sam hamaves*: "deadly poison," or "a deadly drug" where the substance is fed
+  or administered. Chullin 3:5 lists it beside a snakebite, so rendering it
+  "venom" makes the Mishnah repeat itself.
+- *Rosh* in a pasuk: "poison," with the *rosh*/head wordplay noted where Rashi's
+  derivation is cited; paired with *la'anah* (Devarim 29:17), "poison and
+  wormwood," which keeps Rashi and Radak against Rabbi Shlomo of Urbino.
+- *Chamat taninim* (Devarim 32:33): "the venom of serpents," not "poison."
+- *Ra'al* / *tarelah*: "a reeling draught" or "cup of staggering" following
+  Rashi, "poison" only if the reader is told which reading is taken.
+- Trap: English "poison" will take *eres*, *sam hamaves*, *rosh*, *chamat* and
+  *ra'al* without protest, and "venom" will take *eres*, *rosh* and *chamat*.
+  When two appear in one passage, force the split: venom for what a snake emits,
+  poison for what a man administers.
+- *Eches* (Yeshayahu 3:16): pick a side and say so. "They poison with their
+  feet" is Rashi; "they tinkle with their feet" is Ibn Ezra and Radak.
 
 **ארגמן / ארגון / סגול / לילך** — purple | argaman, argamon, argavan, argevan, argevana, argamana, segol, sagol | reviewed | [purple-argaman-segol-lilach.md](entries/purple-argaman-segol-lilach.md)
 
 Classical Hebrew has no word for purple. *Argaman* is not a color word at all: all commentators agree it is **wool dyed** a certain color, and the shade the traditional sources describe is a **red**, whether crimson, orange, or a yellowish red; none of them makes it a mixture of red with blue or green. (One academic reading, Professor Athalya Brenner-Idan's, does stretch the term as far as violet; see below.) The English word "purple" once covered any deep red. *Segol* and *lilach* are Modern Hebrew flower-names pressed into service as color words, with no standing in Tanach.
 
+**Rendering guidance.**
+
+- In Chumash and in the Mishkan and Mikdash passages, keep *argaman*
+  transliterated, glossed once per work as red-dyed wool, beside *techeiles* and
+  *tola'as shani*.
+- Trap: English "purple" will absorb *argaman* and then argue backwards, so that
+  the Mishkan acquires a color no source gives it. If a translation must use
+  "purple," attach the note that the older English sense was a deep red.
+- Second trap: *argaman* and *tola'as shani* are both reds. Where the pasuk lists
+  them together, the English must not give both the same word; on Rasag's reading
+  *tola'as shani* holds the crimson, so *argaman* takes the other shade, which
+  the Yemenite sources make a yellowish red.
+- Never use *segol* or *lilach* to render anything in Tanach; where a modern
+  Hebrew text uses them, "purple" and "lilac" are correct.
+- Where a passage compares *argaman* to fire, to the gold of the *kapores*, or to
+  wine, let the comparison stand in English rather than substituting a color
+  name; the comparison is the source's own evidence for the shade.
+
 **גשם / מטר / יורה / מלקוש** — rain | geshem, geshm, gashmiyus, gashmiyut, matar, mattar, yoreh, moreh | reviewed | [rain-geshem-matar-yoreh-malkosh.md](entries/rain-geshem-matar-yoreh-malkosh.md)
 
 *Geshem* and *matar* both mean **rain**, and the authorities split on which is the general word and which the specific one. *Yoreh* and *malkosh* are rains bound to their times: *yoreh* is **the first rain**, at the start of the rainy season, and *malkosh* **the last rain**, in early spring before the harvest.
+
+**Rendering guidance.**
+
+- Trap: English "rain" swallows *geshem* and *matar* whole. Where a passage sets
+  them against each other, mark the contrast in the prose ("the ordinary rains,
+  and the rain He gives in its season") rather than hunting for two English
+  nouns.
+- Devarim 11:14: "the rain of your land in its time, the first rain and the last
+  rain." "Early rain and latter rain" is the older English and is defensible, but
+  a note should say that these are the opening and closing rains of one season.
+- *Matar* in Bereishis 19:24 and Shemos 9:18 is "rained down," a verb of sending;
+  do not soften it to weather.
+- *Gashmiyus* is "materiality" or "the physical"; it is a
+  derivative of *geshem*, not a word about rain, and should not be glossed as
+  though it were.
 
 **אדום / שני / תולעת שני / חמוץ / אמוץ / שרוק / חום / חכלילי / סומק / זהורית / גיחור** — red | adom, adum, adumah, admoni, adamdam, odem, shani, shni | reviewed | [red-adom-shani-chamutz.md](entries/red-adom-shani-chamutz.md)
 
 *Adom* is plain **red**, and on Radak's comparison at Zecharyah 6:2-3 the stronger red against *chamutz* / *amutz*. *Shani* (*tola'as shani*) is **crimson**, the worm-dye of the Mishkan. *Chamutz* and *amutz* are the weaker red: **red-stained** in Yeshayahu, **chestnut** or burgundy in Zecharyah. *Seruk* is **pink** on Malbim's reading, though Radak takes it only as "colorful"; *chum* is a dark red near black, which in some later sources *seems* to mean **brown**; *chachlilei* is a drinker's **bloodshot** eye, though Ramban ties that word to blue instead. In Aramaic *sumak* is everyday red and *zehoris* the Targum's word for *shani*.
 
+**Rendering guidance.**
+
+- תולעת שני is "crimson wool," not "red wool": the *parah adumah* is red, the wool tied with it crimson.
+- Trap: English "red" swallows *adom*, *shani*, *chamutz*, *chum*, and *sumak*.
+  Zecharyah tests this twice: at 1:8 *adumim serukim* in one phrase, and at
+  6:2-3 *adumim* against *amutzim*. "Red horses ... chestnut horses" keeps
+  Radak's distinction at 6:2-3; "red and pink horses" at 1:8 follows Malbim,
+  where Radak would give only "colorful," so say which you are following.
+- Yeshayahu 63:1-2 pairs *chamutz* and *adom* in adjacent phrases: render
+  *chamutz* "stained red" and *adom* "red," so the second is not a repetition.
+- חכלילי is never plain "red." "Bloodshot," or "dark from wine," keeps the idiom.
+- In a Gemara, סומק is simply "red"; זהורית is "crimson," or transliterated.
+
 **נהר / נהרות / יאור / יאורים / נחל / נחלים** — river | nahar, neharot, neharos, yeor, yeior, yor, yeorim, yeorot | reviewed | [river-nahar-yeor-nachal.md](entries/river-nahar-yeor-nachal.md)
 
 *Nahar* is the default **river**, a natural watercourse fed by tributaries. *Yeor* is the Nile and rivers that behave like it, a river that floods past its banks; Rashi (to Shemos 7:19) glosses it **an irrigation canal**, and standing alone it is **the River**, the Nile. *Nachal* is a **brook** or **wadi**, variously explained as the river that cuts a valley, the seasonal runoff, or the river that runs to the sea, and the same word names the valley itself. Rabbi Malkiel Tzvi Tannenbaum *proposes* that *nahar* and *yeor* are only sharply distinguished when they appear together, so that Rashi's canal is what *yeor* means beside a *nahar*; apart, on his proposal, either word can mean a river of any kind.
+
+**Rendering guidance.**
+
+- *Nahar* standing alone: "river." *Nahar* beside *yeor* (Shemos 7:19): "rivers
+  and canals," following Rashi, and note that on Tannenbaum's proposal the
+  pairing is what forces the split.
+- *Yeor* of Egypt: "the Nile," or "the River" where the pasuk is being quoted and
+  the name would be an intrusion. Only render "canal" where a second word for
+  river is present in the same phrase.
+- *Nachal*: "brook" for a small flowing stream, "wadi" where the dryness matters,
+  "valley" where the topography is the subject (and say which you chose if the
+  passage puns on the two).
+- Trap: English "river" will absorb all three and erase the pesukim that list
+  them together. A verse that names *neharos* and *ye'orim* and *agamim* is
+  cataloguing kinds of water; give each a different English word.
+- Second trap: "stream" is a poor default for *nachal*, because Malbim at
+  Yeshayahu 19:5 makes *nachal* the widest of the three and the *yeor* the
+  smallest stream of the three. Where you follow that passage, do not also call
+  *yeor* a "great river."
+- Where a source builds on Rabbi Pappenheim's *nahar*/*har* link (the river that
+  stands out above its tributaries), the English has to keep "river" and let the
+  note carry the derivation; no English word does both.
 
 **אבן / סלע / לבנה** — rock | even, ehven, avanim, avnei, sela, selah, slaim, selaim | reviewed | [rock-even-sela.md](entries/rock-even-sela.md)
 
 *Even* is the general word: **stone**, any naturally occurring one, as against *leveinah*, a man-made brick (Malbim). *Sela* is a **crag**, a hard rock still fixed in the ground and often a rocky height; because it is so hard and cannot easily be chipped, it became the recognized standard for weights and currencies, and by Mishnaic times it is also the name of a coin. Rabbi Immanuel Chai Ricci puts the difference in attachment (*sela* joined to the ground, *even* loose enough to pick up); Rabbi Shlomo Pappenheim puts it in hardness, with *even* the hypernym that includes *sela*. The Mishnah at *Zevachim* 13:3 sets *even* and *sela* side by side.
 
+**Rendering guidance.**
+
+- *Zevachim* 13:3, Rabbi Shimon holding one liable for offering "on an *even* or
+  a *sela*": "on a stone or a crag." Two English words are required; "on a rock
+  or a stone" reads as a distinction without a difference, and the halachah
+  turns on there being two cases.
+- אבן: "stone," in every register, and especially opposite *leveinah*: "stone
+  and brick," as at Bereishis 11:3, where the builders of Bavel had brick serve
+  them as stone.
+- סלע: "crag" or "rock" where it protrudes or is a height; "*sela*" transliterated
+  where it is the coin, never "coin" alone, which loses why the coin has that
+  name.
+- Trap: English "rock" will take *even*, *sela*, *tzur* and *chalamish*
+  as well. Fix one English word per Hebrew word across a
+  passage and hold to it, rather than choosing by what sounds well in each line.
+- אבני ברד (Yehoshua 10:11): "hailstones," but if the passage is discussing why
+  hail is called stone, render "stones of hail" so the point survives.
+
 **צור / חלמיש / סלע / אבן** — rock | tzur, tzor, tzurim, tzarur, tzorer, tzayir, chalamish, halamish | reviewed | [rock-tzur-chalamish.md](entries/rock-tzur-chalamish.md)
 
 *Even* is the general term for any rock; from there the hardness runs *sela* (hard), *tzur* (harder still, per both Rabbi Shlomo Pappenheim and Malbim), and *chalamish* (per Rabbi Pappenheim, the hardest stones within the *tzur* class). *Tzur* is **flintrock** or **hard rock**, and it is also a divine epithet; Rambam adds a second sense, the quarry a stone is hewn from, hence **source**. *Chalamish* is conventionally **flint**, but Rabbi Shlomo Pappenheim makes it a subdivision of *tzur*, the very hardest stones. On Malbim's account a *sela* is porous and can hold water and a *tzur* cannot, which fits neatly with Rabbi Chaim Vital's calling a *tzur* the stone that gives fire.
+
+**Rendering guidance.**
+
+- Fix one English word per Hebrew word and hold it: *even* "stone," *sela*
+  "crag," *tzur* "flintrock" (or "hard rock"), *chalamish* "flint" or "hardest
+  rock." Devarim 32 uses *tzur* repeatedly and *chalamish* once (32:13); a
+  translation that says "rock" throughout makes the shirah unreadable as an
+  argument.
+- צור as a name of Hashem: capital **Rock**, as in "the Rock, His work is
+  perfect" (Devarim 32:4). Do not lowercase it and do not substitute
+  "Stronghold" or "Refuge," which belong to other words. There are three
+  separate accounts of why Hashem is called *Tzur*, Rambam's source-sense, Rabbi
+  Chaim Friedlander's foundation, and Rabbi Pappenheim's *tzorer*, and "Rock"
+  leaves room for all three.
+- צור הַחלמיש (Devarim 8:15, 32:13): "the flinty rock" or "rock of flint." Do
+  not collapse the construct into one word; the pair is a superlative, the
+  hardest sort of the hard sort.
+- Trap: *tzur* and *sela* in the same passage. Follow Malbim and let the English
+  mark it: a *sela* can hold water, a *tzur* cannot, and per Rabbi Chaim Vital
+  the *tzur* is the fire-stone. If both are "rock," the pesukim look like
+  repetition. (This applies to the *sela* Moshe was told to speak to at
+  Bamidbar 20:8.)
+- Where *tzur* means a quarry or lineage (Yeshayahu 51:1), render "source" or
+  "the rock you were hewn from," and gloss it once; a bare "rock" hides Rambam's
+  reading and with it the parallel to Avraham and Sarah in the next pasuk.
+- צורים as knives (Yehoshua 5:2-3): "flint knives" or "stone knives," not
+  "swords of rock," even though the Hebrew says *charvos*.
 
 **גבר / שכוי / זיז שדי / תרנגול** — rooster | gever, gevurah, sechvi, sekhvi, sechavi, ziz sadai, ziz saday, tarnegol | reviewed | [rooster-gever-sechvi-tarnegol.md](entries/rooster-gever-sechvi-tarnegol.md)
 
 *Tarnegol* is the ordinary word for a **rooster** in Mishnaic Hebrew. *Gever* sometimes means rooster but more often means **man** or **male**; it is taken as the bird in the Mishnah's "call of the *gever*" and by Targum Yonasan on Etzion Gever. *Sechvi* is the genuinely open word: Chazal fix it as **rooster** in the morning berachah, but most mefarshim, Rashi, Ibn Ezra, Radak, Rosh, and Tur among them, read it as the **heart**, or at least as also meaning heart. *Ziz sadai* is a bird of some kind, which Targum renders **wild fowl**.
 
+**Rendering guidance.**
+
+- Trap: "rooster" absorbs *gever*, *sechvi*, and *tarnegol*. In a passage that
+  moves between them, keep *gever* as "the *gever*" or "the cock" and reserve
+  "rooster" for *tarnegol*.
+- *Gever* in Tanach almost always means a man. Bamidbar 24:3, *ne'um hagever*,
+  is "the word of the man"; the rooster reading is a derashah on top of that, not
+  a replacement for it, and both should show if the derashah is being quoted.
+- In the berachah, render *sechvi* as the siddur's own tradition takes it,
+  "rooster," and do not import the heart reading into the tefillah.
+- In Iyov 38:36 the pasuk pairs *tuchos* (the kidneys, or the inward parts) with
+  *sechvi*. If you render *tuchos* internally, "heart" for *sechvi* keeps the
+  parallel; if you render "rooster," the parallel breaks.
+- *Ziz sadai* is best left as a phrase with a gloss, "the wild creature of the
+  field," rather than pinned to a species Tanach does not name.
+
 **שושנה / חבצלת / ורד / נרקיס** — rose | shoshanah, shoshana, shoshan, shoshanim, chavatzeles, chavatzelet, chavatzalet, vered | reviewed | [rose-shoshanah-chavatzeles-vered.md](entries/rose-shoshanah-chavatzeles-vered.md)
 
 *Shoshanah* is the Biblical flower, for Rabbi Eliyahu HaBachur a **rose** (it grows among thorns, and lilies do not), though Modern Hebrew has reassigned it to the **lily**. *Chavatzeles* is either the same flower at a different stage or in a different place, or a **daffodil**; *Shulchan Aruch* defines it as a *narkis*, while also citing a view that it is a lily. *Vered* is post-Biblical **rose**, and the Targumim use it to render *shoshanah*. Shir HaShirim 2:1 sets *chavatzeles* and *shoshanah* side by side in a single pasuk.
+
+**Rendering guidance.**
+
+- Trap: writing "rose" for all three destroys Shir HaShirim 2:1, where
+  *chavatzeles* and *shoshanah* stand in parallel halves of one pasuk. Render
+  them differently ("the rose of the Sharon, the lily of the valleys" is the
+  familiar English, but it commits you), or keep one transliterated with a gloss.
+- In a halachic context on berachos, follow *Shulchan Aruch*: *chavatzeles* is
+  the *narkis*. Elsewhere, follow the mefaresh the passage is quoting.
+- Do not import Modern Hebrew, where *shoshanah* is a lily and *vered* a rose.
+  In Chazal and in Tanach the assignment is not settled, and Rabbi Eliyahu
+  HaBachur rejects the lily for *shoshanah* on the strength of the thorns.
+- Where a source is counting petals (the Zohar's thirteen, the Zohar's five, the
+  six of Ibn Ezra's tradition), keep the number and do not name a species; the
+  number is the point and the species is the inference.
+- *Shoshanah* as a personal name stays Shoshanah, roman and untranslated.
 
 **שה / צאן / עז / תיש / גדי / שעיר / רחל / איל / כבש / כשב / טלה / עתוד / יובל** — sheep and goats | seh, tzon, eiz, ez, izzim, tayish, tayesh, gedi | reviewed | [sheep-and-goats-seh-keves-ayil-eiz.md](entries/sheep-and-goats-seh-keves-ayil-eiz.md)
 
 The words sort by species. General (either species): *seh* = **a lamb or kid**, one animal; *tzon* = **flock**. Goats: *eiz* = **she-goat**, *tayish* = **he-goat**, *gedi* and *seir* = **kid**. Sheep: *rachel* = **ewe**, *ayil* = **ram**, *keves* and *tleh* = **lamb**. *Kesev* is, on one reading, an exact metathesis of *keves*, and on others a slightly older or more general sheep. *Atud* is the word whose meaning is most obscured: it might be any goat, or an extra-large adult goat, or a fat young sheep, or any adult male of either species.
 
+**Rendering guidance.**
+
+- Trap: "sheep" absorbs *seh*, *tzon*, *keves*, *kesev*, and *tleh*. Where a
+  pasuk lists a species pair, keep the pair visible: שה כשבים ושה עזים (Shemos
+  12:5) is "a lamb of the sheep or a kid of the goats," not "a sheep or a goat."
+- *Seh* on its own in a korban context is "lamb" only where the context has
+  already said sheep; otherwise "an animal from the flock" is safer than
+  choosing a species the Hebrew left open.
+- *Tzon* is a collective. "Sheep" for *tzon* loses the goats in it; "flock" keeps
+  them.
+- *Keves* and *kesev*: unless the passage turns on the difference, render both
+  "lamb." If it does turn on it (a derashah on the fourteen *kesev* places, or a
+  count of the two spellings), follow the majority of the later commentators and
+  make *keves* the young one and *kesev* the general or older term, and say
+  whose reading you are following.
+- *Ayil* is "ram," never "deer"; *ayal* is the deer. In an unpointed text check
+  the context before choosing.
+- *Atud*: "he-goat" is the safe default. Where the pasuk is about leading the
+  flock, "leader of the flock" carries the sense the commentators give it.
+
 **נחש / שרף / תנין / צפע / צפעוני / אפעה / עכשוב / פתן / שפיפון** — snake | nachash, nahash, saraph, saraf, seraph, tanin, tannin, tzefa | reviewed | [snake-nachash-saraph-tanin-peten.md](entries/snake-nachash-saraph-tanin-peten.md)
 
 *Nachash* is the general word, **snake**, and on Wertheimer's second reading specifically the snake that can be charmed. *Saraph* is the **fiery serpent** whose venom burns. *Tanin* is the **sea serpent** (Rashi: simply a large fish). *Tzefa* / *tzifoni* is the **viper** so venomous that even its dung is poison, and *efeh* is Rashi's completely evil snake, though Radak holds the two are one creature under two names. *Peten* is the **asp** that charming cannot touch (Wertheimer). *Shephiphon* is a small **adder** that keeps its body on the ground, and *achshuv* is a *hapax* whose identity is unsettled. Avos d'Rabbi Nassan lists the seven beside *nachash*, but scribal errors have crept into our editions and rendered its own treatment unintelligible; the distinctions below come from other sources.
+
+**Rendering guidance.**
+
+- Bereishis 49:17, נחש עלי דרך שפיפון עלי ארח: two words, two renderings. "A
+  snake on the road, an adder on the path." Writing "snake" twice erases the
+  pair.
+- Yeshayahu 30:6, *saraph me'ofef*: "flying fiery serpent," and note Rashi that
+  it has no wings but leaps. "Flying dragon" imports Ibn Janach's picture over
+  Rashi's.
+- *Nachash hanechoshes* and the wilderness snakes: keep *saraph* as "fiery
+  serpent," not "poisonous snake"; the burning is the name.
+- *Tanin* in Bereishis 1:21 is disputed. "Sea serpent" follows the Vilna Gaon,
+  "great fish" follows Rashi. Pick one and footnote the other rather than
+  splitting the difference with "sea monster."
+- Trap: "serpent," "snake," "viper" and "adder" read as free variants in English.
+  In a passage listing several (Tehillim 140:4, Iyov 20:16), fix one English word
+  per Hebrew word and hold it.
+- Trap: *nachash* also means divination, and *lachash* a charm. That overlap is
+  the basis of Wertheimer's distinction, so a passage playing on it needs a note,
+  not one English word carrying both.
 
 **מין / זן / סוג / מינים / תמונה** — species | min, minim, minnim, minei, zan, zen, znim, zenei | reviewed | [species-min-zan-sug.md](entries/species-min-zan-sug.md)
 
 *Min* is the Torah's word: **kind** or **species**, a grouping of individuals alike enough in their properties to be classed as one kind (Ibn Janach, Radak). *Zan* means the same in Aramaic, the word Targum uses for every *min* in Tanach (Rabbi Eliyahu HaBachur); Professor Avi Hurvitz calls it the Late Biblical Hebrew equivalent of Classical *min*, and Dr. Menachem Zvi Kaddari an Old Persian loanword; in its three Hebrew appearances the meforshim argue whether it means "type" at all. *Sug* is post-biblical, in the Mishnah a big container, and in the language of logic the **parent category** (genus) above the *min* (Rambam in Rabbi Moshe Ibn Tibbon's translation, Rabbi Shmuel Ibn Tibbon, the Ran, Ramchal). The Torah's *minim* do not necessarily line up with the species of modern botany and zoology, as Rabbi Klein notes; the Ran reads the *minim* of the Teivah as the ancestors of today's species, though Ramban answers the Teivah's capacity with a miracle instead.
 
+**Rendering guidance.**
+
+- *Lemineihu* in Bereishis and Shemini: "according to its kind." Be careful
+  with "species": Rabbi Klein cautions that the Torah's categories do not
+  necessarily line up with modern taxonomy, and the Ran reads the Teivah's
+  *minim* as ancestral kinds (Ramban posits a miracle instead). Shadal, for his
+  part, likens *min* to Latin *species*, both named from looking alike, so the
+  caution concerns modern taxonomy, not the word's origin.
+- Trap: English "kind," "type" and "sort" will absorb *min*, *zan* and *sug*
+  indifferently. In a logical passage the pair must be fixed: *sug* is "genus,"
+  *min* is "species," and if "species" has been used for *lemineihu* elsewhere
+  in the same work, add the Hebrew in brackets at the logical use.
+- Where a Targum is quoted beside its pasuk, keep one English word across both,
+  since Targum renders every *min* as *zan*; two words would invent a
+  distinction the Targum does not make.
+- Tehillim 144:13 is a genuine fork. "From kind to kind" follows Ibn Janach's
+  Aramaic-sense *zan*; a rendering built on *mazon*, "sustenance," follows
+  Menachem and Rashi. Rav Hirsch seems unsure, and Radak takes each in a
+  different place. Pick one and footnote the other rather than blending them.
+- *Min* as heretic is a separate entry's business; never let "sectarian" or
+  "heretic" bleed into a passage where *min* means kind, and be alert that a
+  derashah may deliberately play on both. In Modern Hebrew *min* also means
+  gender or sex, since it makes two easily defined categories; do not carry that
+  back into a pasuk.
+
 **גיחון / שילוח / גחון / נגיחה / שלח** — spring | gichon, gihon, shiloach, shiloah, shelach, shilucha, gachon, gochon | reviewed | [spring-gichon-shiloach-gachon.md](entries/spring-gichon-shiloach-gachon.md)
 
 *Gichon* and *Shiloach* are, for various rabbinic sages, two names for one body of water, the spring by Yerushalayim: Rashi and Radak say so outright, and Targum renders Gichon as *Shilucha*. Later linguists disagree: for Wilhelm Gesenius the Gichon is the fountain and the Shiloach the aqueduct that channels it, for Avraham Even-Shoshan the Shiloach is a channel or pool the Gichon flows into, and for Professor Carol A. Dray the Gichon lay outside the walls and the Shiloach within. There is also the *other* Gichon: the river of Bereishis 2:13 that circles Kush is, for Rashi and Rabbi Avraham Maimuni, a different river from the Yerushalayim spring, while Rav Saadia Gaon, Ibn Ezra and the Ramah identify the two. *Gachon* (Bereishis 3:14) is not a place at all but the serpent's **belly**, which Rav Hirsch (tentatively) and Rabbi Pappenheim tie to the name Gichon.
+
+**Rendering guidance.**
+
+- Keep both names as proper names. "Aqueduct" (Gesenius) or "channel, pool"
+  (Even-Shoshan) for Shiloach carries their view that it is a different site
+  from the Gichon spring; use such a gloss only where that view is meant, and
+  not where the text follows Rashi and Radak, for whom the names are one water.
+- Where a text says Gichon and the context is Shlomo's coronation (Melachim I
+  1:33, 1:38, 1:45), Chizkiyahu's diversion (Divrei HaYamim II 32:30), or
+  Menashe's wall (Divrei HaYamim II 33:14), add "the Gichon spring by
+  Yerushalayim" on first mention if the reader might otherwise hear Eden.
+- Trap: English "Gihon" absorbs both rivers. If the passage turns on Rashi's
+  distinction, or on Ibn Ezra's identification, name the two explicitly (the
+  Gichon of Eden, the Gichon of Yerushalayim) rather than trusting context.
+- גחון in Bereishis 3:14 is "belly," never "Gichon." Only where a source is
+  building the wordplay (Rav Hirsch, Rabbi Pappenheim) should the English keep
+  both in view, and then by a note, not by the rendering.
+- Talmudic idiom: Kerisus 5b rules that kings must be crowned at a wellspring,
+  symbolizing that their kingship should continue to flow like its current, and
+  brings the pesukim of Shlomo's coronation at the Gichon. Render *maayan* there
+  as "wellspring"; the point is the continuous current.
 
 **שמש / חמה / חרס / ירח / לבנה / סהר** — sun and moon | shemesh, shamash, shimush, chamah, chama, chamanim, cheres, charas | reviewed | [sun-and-moon-shemesh-chamah-yareach.md](entries/sun-and-moon-shemesh-chamah-yareach.md)
 
 Three words each, and each names its luminary by a different aspect, the two threes somewhat paralleling each other. *Shemesh* is the **sun** as servant, doing its assigned work; *chamah* the **sun** as the hot one; *cheres* the **sun** as the baker of pottery, or, as others explain, the pottery-colored one at sunrise and sunset. *Yareach* is the **moon** as the traveler on its path; *levanah* the **moon** as the white one; *sahar* the **crescent**, the moon by its shape, though others note it is an Aramaic loanword sometimes used for the moon. The account is Rabbi Aharon Marcus's, who adds that the words may represent successive stages in man's relationship with the sun and moon.
 
+**Rendering guidance.**
+
+- Default: "the sun" and "the moon" for all six. The aspects are etymological,
+  and forcing them into every rendering makes the English strange.
+- Trap: English has one word for the sun and one for the moon, so a pasuk that
+  pairs two of the Hebrew words will collapse into "the sun and the moon"; where
+  the pairing matters, name the aspects.
+- *Sahar*: "crescent" or "crescent moon" on Rabbi Marcus's reading, where shape
+  is what the word contributes; on the view that it is an Aramaic loanword for
+  the moon, plain "moon" is defensible.
+- Watch the homographs. *Cheres* spelled the same way is the skin affliction of
+  Devarim 28:27, treated in [boils](boils-shechin-garav-cheres.html), and in Mishnaic
+  Hebrew *cheres* is an earthenware shard in the ordinary sense. *Yerach*, the
+  month, is the same root as *yareach* and is treated in
+  [month](month-chodesh-yerach.html); for *lavan*, white, see
+  [white](white-lavan-chivar-tzochar.html), and for the place-name, [Jericho](jericho-yereicho-yericho.html).
+
 **קוץ / חוח / סלון / סירים / דרדר / אטד / חדק / שמיר / שית / ברקן / חרול / קימוש / עקרב / סיכים / סנה** — thorns | kotz, kotzim, koutz, choach, chochim, choah, salon, salonim | reviewed | [thorns-kotz-dardar-sneh-charul.md](entries/thorns-kotz-dardar-sneh-charul.md)
 
 Hebrew has some twenty words in this field. Rabbi Shlomo of Urbino (*Ohel Moed*) lists seventeen in Tanach and treats them as somewhat synonymous, without differentiating the species; Rashi (to Yechezkel 2:6) and Rabbi Saadia Gaon (to Mishlei 15:19) both say in passing that there are twenty; Rabbi Klein, following *Ohel Moed* and adding three more, reaches twenty-one with *na'atzutz*. Some are set against each other: *kotz v'dardar* names two different kinds of thorn; the Vilna Gaon sets *kimosh*, the thorns along a field's edge, against *charul*, the ordinary thorn; Rabbi Pappenheim splits *salon* from *silon*. *Kotz* is a **thorn**; *sneh* a **thornbush** (Rashi, Rabbi Saadia Gaon), used of the Burning Bush; *charul* a **nettle** or thistle as some define it, for Radak a grass-like thorn; *chedek* a **brier**. קוץ ודרדר is two kinds, not a doubled phrase.
+
+**Rendering guidance.**
+
+- קוץ ודרדר (Bereishis 3:18): "thorn and thistle." Two kinds, and the pasuk is
+  listing, not intensifying. Do not render it "thorns and thorns" or fold it
+  into a single English word.
+- סנה: leave it as *sneh* where it names the Burning Bush; the thorn-bush
+  identification belongs in a note, since English "bush" loses the point.
+- שמיר ושית: Yeshayahu's pair needs two English words, "briers and thorns."
+- Trap: English "thorn" will happily absorb *kotz*, *sirim*, *silon*, *chedek*,
+  *charul* and *sikim* at once. Where a pasuk lists two side by side (*kotz
+  uvarkan*, *saravim v'salonim*, *shamir vashayit*), give each its own English
+  word; where one stands alone, plain "thorn" is right.
+- עקרב: "scorpion" wherever it is the creature. Only in Rechavam's threat is a
+  thorn-like implement meant, and there "scorpions" with a note is better.
 
 **חדקל / דגלת / הדקל / תיגרס / דקל** — tigris | chidekel, chidakel, hiddekel, chiddekel, diglat, diglas, deglat, hadekel | reviewed | [tigris-chidekel-diglat.md](entries/tigris-chidekel-diglat.md)
 
 *Chidekel* and *Diglat* are one river under two names, the **Tigris**: *Chidekel* is the Biblical name, *Diglat* the later one that Targum and Shas use. Rashi states explicitly that the Diglat of the Gemara is the Chidekel of Tanach; that the two are cognates, Hebrew and Aramaic, is Shadal's observation. Berachos 59b hears *chad* (sharp) and *kal* (light, swift) in *Chidekel*. *Tigras* in Chullin 59b is a separate word for an animal, not the river, though Abarbanel and Rabbi Binyamin Mussafia tie the river's Greek name to the tiger.
 
+**Rendering guidance.**
+
+- Both names render **Tigris** in running prose. A translation that keeps *Chidekel* in
+  a pasuk and *Diglat* in a Gemara reads as two rivers to anyone who does not already
+  know better; add "the Tigris" on first mention of each.
+- The trap is the reverse one: "Tigris" absorbs both Hebrew words, so wherever the
+  passage is *about* the name (Berachos 59b, Bereishis Rabbah 16:4), print the Hebrew
+  and gloss it.
+- Where Chazal call the river or its people **sharp**, keep "sharp"; Rava's line about
+  the men of Mechoza depends on one word doing duty for the water and for the men.
+- *Tigras* in Chullin 59b is not the river. Render it as the animal the commentary you
+  follow identifies, and say which one you followed.
+
 **עץ / אילן / אילנא** — tree | eitz, etz, atzei, eitzim, ilan, ilana, ilanos, ilanot | reviewed | [tree-eitz-ilan.md](entries/tree-eitz-ilan.md)
 
 *Eitz* seems to be the Hebrew word and *ilan(a)* the Aramaic one (Rabbi Klein's inference from Daniel 4). For Rabbi Chaim Hirschensohn, *Chazal* then divided the field: *ilan* is the **living tree**, *eitz* only the **wood**. In Tanach *eitz* does both jobs. The berachah says *borei pri ha'eitz* over the fruit of an *ilan*, and that is not a slip; Rabbi Betzalel Stern takes it as proof that *Chazal* preferred Biblical Hebrew when fixing the wording of berachos.
+
+**Rendering guidance.**
+
+- In Tanach, *eitz* takes "tree" when it is growing and "wood" when it is cut;
+  the Hebrew gives no help, only the context does. *Atzei shittim* is "shittim
+  wood", *eitz hachaim* is "the Tree of Life".
+- In a Mishnaic or halachic passage, keep the pair distinct, following
+  Hirschensohn: *ilan* is "tree", *eitz* is "wood". Trap: English "tree" will happily cover both words, and
+  then a halachah that turns on standing timber against cut timber reads as a
+  tautology.
+- *Borei pri ha'eitz* stays transliterated; if it must be
+  rendered, "Who creates the fruit of the tree", with a note that the Mishnah
+  says *ilan* in the same line.
 
 **ירק / ירוק / ירקות / כרפס / כרפסא / רק** — vegetable and green | yerek, yarak, yarok, yerakot, yerakos, karpas, karpasa, kusbarta | reviewed | [vegetable-yerek-yarok-karpas.md](entries/vegetable-yerek-yarok-karpas.md)
 
 *Yerek* (plural *yerakos*) is the generic word: **vegetable**, any of them. *Yarok* is the color, **green**, though in Rabbinic Hebrew it technically reaches from yellow through green to blue. *Karpas* is **not** a synonym for *yerek*: in the Mishnah it names one particular plant (the Yerushalmi identifies it as parsley, though Rabbi Reuven Chaim Klein calls the matter "far from settled"), and in Megillas Esther the context, as he reads it, fairly clearly wants a **fabric**, with the commentators divided between a fabric (silk; fine linen), a **color** (green), and, in the Targumim, an association with leek. Seder-night *karpas* does not mean "vegetable"; its popular use seems to have come from a piyut, where it was one item from a list.
 
+**Rendering guidance.**
+
+- *Yerek* / *yerakos*: "vegetable(s)." Not "greens," which narrows it, and not
+  "herb," which is a different plant class.
+- *Yarok*: "green" ordinarily, but in a halachic passage about colors say
+  "*yarok*" and gloss the range, since the Rabbinic word reaches yellow and
+  blue and English "green" does not.
+- *Karpas* stays transliterated in a Seder context; gloss it "the vegetable for
+  the first dipping," not "parsley," since, as Rabbi Reuven Chaim Klein says, no halachah
+  requires one to use *karpas* and communities use potato, onion, cucumber, and
+  even banana or strawberry (*Chasam Sofer*, Orach Chaim 132; *Aruch HaShulchan*
+  473:10; *Piskei Teshuvos* to 473).
+- Trap: English "greens" will absorb *yerek*, *yarok*, and *karpas* at once. In
+  Esther 1:6 render *karpas* with the fabric or color the commentator you are
+  following holds (or leek, with the Targumim), and note the dispute.
+- Where a text pairs *yerek* with *marror*, keep the genus/species relation
+  visible: "bitter herbs and other vegetables," not two coordinate items.
+
 **דונג / שעוה / קירא / נכאת** — wax | donag, donog, shaavah, shaava, shayva, sheava, kira, kiri | reviewed | [wax-donag-shaavah-kira.md](entries/wax-donag-shaavah-kira.md)
 
 *Donag* is the Biblical word for **wax**, and it always appears as the substance that melts in fire; its name is tied to wax's pliability (Rav Hirsch), to its giving light (Rabbi Yehoshua Steinberg), or to Akkadian *dumqu*, "clear" or "shiny" (Avraham Even-Shoshan), and Rabbi Dr. Ernest Klein calls it of uncertain etymology. *Shaavah* is the Mishnaic and Targumic word for the same substance: **beeswax**, or **candle wax** in a halachic context. The Gemara defines it as the refuse of honey, and its name seems to come from SHIN-AYIN, "smooth," for the texture of hardened wax. *Kira* (and *keirosa*, *kiri*) is **wax** too, but a Greek and Latin loan-word, not Hebrew or Aramaic. *Nechot* in the Yosef narrative is generally a **spice**; some make it wax, following the Midrash.
+
+**Rendering guidance.**
+
+- Trap: English "wax" absorbs *donag*, *shaavah*, and *kira* without remainder.
+  Where a passage sets a Biblical verse beside a Mishnaic ruling, keep them
+  apart by register: "wax" for *donag* in a pasuk, "candle wax" or "beeswax"
+  for *shaavah* in a halachic line.
+- A *donag* pasuk almost always turns on melting ("as wax melts before fire,"
+  Tehillim 68:3). Do not translate it as an inert material; the melting is the
+  point of the image.
+- Where the Gemara glosses *shaavah* with *keirosa*, it is giving a foreign
+  equivalent, not a second Hebrew synonym; say so rather than writing "wax,
+  that is, wax."
+- *Nechot*: "spice" in the body, with the Midrashic "wax" in a note.
 
 **לח / רטוב / רענן / רטפש / טופח / מפולם** — wetness | lach, leicho, lachim, ratuv, ratov, yirtavu, rotev, roteiv | reviewed | [wet-lach-ratuv-raanan.md](entries/wet-lach-ratuv-raanan.md)
 
 *Lach* is **moist**: a little wet, and on Rabbi Shlomo Pappenheim's reading the inner moisture of a living thing. *Ratuv* is **wet**. Rashi, Ibn Ezra and Radak simply define it as *lach*, and Rabbi Klein suggests that perhaps the two are not technically synonyms, *lach* being native Hebrew and *ratuv* borrowed from Aramaic; Pappenheim instead makes *ratuv* enough liquid to show on the surface and to wet whatever touches it, moisture that comes from outside, and Rabbi Avraham Bedersi likewise makes it moisture from external water. *Ra'anan* is **fresh, verdant**, for Bedersi the inner moisture that keeps a thing growing. *Rutfash* is **revivified**, flesh restored to youthful moisture. *Tofeach* and *mefulam* are Rabbinic: *tofeach* is **wet**, familiar in the phrase for wet enough to make something else wet; *mefulam* is **wet** for Rashi but **hearty, plump** for the *Aruch*, and Rabbi Klein suggests Rashi may mean **sodden**, so saturated as to be bloated. Pappenheim's difference between a little moisture and enough to wet something else can carry halachic weight.
 
+**Rendering guidance.**
+
+- Trap: "wet" will absorb *lach* and *ratuv*. Use "moist" for *lach*, "wet" or
+  "soaked" for *ratuv*, and keep the pair apart wherever halachah is at stake.
+  Rabbi Klein notes that the kind of difference Pappenheim draws can have
+  practical ramifications: how saturated a fabric must be before light
+  squeezing on Shabbos is *sechitah*, and when a wet food counts as a liquid
+  for *bishul*. *Lach* against *yavesh* is "moist" against "dry" (Bamidbar
+  6:3).
+- *Leicho* at Devarim 34:7 is Moshe Rabbeinu's inner vitality, not surface
+  wetness; "his freshness had not fled" reads correctly, "he was not wet" does
+  not.
+- *Ra'anan* of a tree is "leafy" or "verdant," of a person "fresh"; do not
+  render it "wet," which is *ratuv*'s word even though Ibn Ezra equates them.
+- *Tofeach al menas lehatfiach* is a fixed halachic phrase. Leave it
+  transliterated and gloss it once: damp enough to wet something else.
+- *Mefulam*: "wet" where the passage follows Rashi, "plump" where it follows
+  the *Aruch*.
+
 **לבן / חיור / צחר / חלבון** — white | lavan, laban, livnah, libbun, chivar, chiver, chivaryan, chur | reviewed | [white-lavan-chivar-tzochar.md](entries/white-lavan-chivar-tzochar.md)
 
 *Lavan* is the general Hebrew word: **white**, and for Rabbi Shlomo Pappenheim it seems to be the umbrella for every manifestation of white. *Chivar* is the Aramaic equivalent, the Targumim's standard rendering of *lavan*: **white**, or **pale** where it describes a face. Rashi's glossing of *chivar* as *lavan* implies, perhaps, that the two mean the same and differ only in language, while Pappenheim narrows *chivar* to whiteness caused from outside. *Tzochar* is contested: Rashi reads **white**, while Bedersi, preferring Ibn Janach, reads **combed**, with whiteness only a side effect. *Chelbon* wine (Yechezkel 27:18) is **white wine** for Rashi, rich wine for Menachem and the Peshitta, a wine named for a place in Aram for Radak, and "sweet wine" in the Targum as Rabbi Aharon Marcus reads it. In Shoftim 5:10 and Yechezkel 27:18 the whole question is whether the word means white at all.
+
+**Rendering guidance.**
+
+- Trap: one English "white" will absorb *lavan*, *chivar*, and *tzochar*. Where a
+  passage or a commentary turns on which word is used, keep them apart: *lavan*
+  plain "white," *chivar* "pale" or "blanched" when a face or an outside cause is
+  in view, *tzochar* left with a note.
+- In Shoftim 5:10 do not simply write "white donkeys" without knowing you have
+  chosen Rashi over Bedersi. "Groomed she-donkeys" is the other reading.
+- *Chivar* is Aramaic. Do not present *lavan* and *chivar*
+  as a Hebrew synonym pair; on Rabbi Reuven Chaim Klein's reading of Rashi they are perhaps
+  the same word in two languages, with at most a narrowing in Pappenheim.
+- *Libbun* in a halachic context is not "whitening" in the color sense but firing
+  a vessel to glowing heat; the color word is doing metallurgical work.
 
 **מדבר / ערבה / ציה / צמאון** — wilderness | midbar, midbor, aravah, arava, aravot, arvos, arvot, tziyah | reviewed | [wilderness-midbar-aravah-tziyah.md](entries/wilderness-midbar-aravah-tziyah.md)
 
 Three readings of how the words differ. *Metzudas David* (to Yirmiyahu 50:12) treats them as synonyms, possibly for poetic effect. The Vilna Gaon (to Hoshea 2:5) holds *midbar* and *tziyah* essentially the same, *tziyah* the more intense desolation. Malbim (to Yeshayahu 35:1) separates all three: *midbar* is the **wilderness**, land inherently unfit for settlement or cultivation and so empty of people; *aravah* is a **desert plain** overrun with thorns and wild growth, not bone-dry; *tziyah* is a **parched land**, dried out by prolonged heat. For Malbim *tziyah* and *aravah* are desolate from an outside cause (heat; weeds), *midbar* by its own nature. Early English Bibles themselves split on *midbar*, "desert" (Wycliffe) against "wilderness" (Tyndale, KJV), and Rabbi Klein takes no side.
 
+**Rendering guidance.**
+
+- Yirmiyahu 50:12, all three together: "a wilderness, a parched land, and an
+  arid plain." Do not compress to "a desert waste"; Malbim reads real
+  difference into the sequence. So too Yeshayahu 35:1, where *midbar* and
+  *tziyah* rejoice and the *aravah* is glad: keep the three-way split, since
+  the force of the pasuk is that each kind of emptiness is reversed.
+- Trap: English "desert" will absorb all three, and "wilderness" will absorb
+  *midbar* and *aravah*. Fix one English phrase per Hebrew word at the start of
+  a passage and hold it.
+- *Midbar* in the Chumash's own usage (*Midbar Sinai*, the years in the
+  *midbar*) is "Wilderness," capitalized where it names the period; "Desert of
+  Sinai" reads geographical and loses the sense of a place outside settlement.
+  Rabbi Klein declines to choose between the English
+  Bibles' "desert" and "wilderness."
+- Hoshea 2:5: the pair is climactic, so render *midbar* before *tziyah* as
+  "a wilderness ... a parched land," never the reverse and never with the same
+  word twice, or the Vilna Gaon's escalation disappears.
+- The willow of the arba minim stays *aravah* transliterated; do not translate
+  it as "wilderness-plant" on the strength of the shared root.
+
 **רימה / תולעה / תולע / תולעת / מתלעות / לע** — worm | rimah, rima, toleah, tolea, tola, tolaas, tolaat, tolaim | reviewed | [worm-rimah-toleah.md](entries/worm-rimah-toleah.md)
 
 Hebrew has two words for the worms of the grave, *rimah* and *toleah*, which always stand in that order (*Avos* 3:1 and the Gemara; Yeshayahu 14:11; Iyov 25:6). Rabbi Shaul Goldman explains that *rimah* is **maggots** or larvae, and more broadly decay from within; *toleah* (commonly *tola'as*) is the **worm** that eats, destruction from without. Rabbi Klein reads the fixed order as chronological, and the Netziv and the Vilna Gaon make *rimah* the first, smaller stage of infestation and *toleah* the later, larger worm; in a similar vein Rabbi Moshe Tedeschi-Ashkenazi makes *rimah* a cluster of larvae still in the egg and *toleah* one grown worm. Others draw the line elsewhere: worms of fruit and cheese against worms of the innards and the ground (Rabbi Tedeschi-Ashkenazi's alternative); formed, or seemingly formed, from within against coming from outside (Rav Hirsch); not yet moved from where they were generated against able to crawl, or worms of rot against worms as such (Malbim); creatures that do not eat against creatures that eat as if with teeth (*Midrash Sechel Tov*).
+
+**Rendering guidance.**
+
+- Fixed phrase רימה ותולעה (*Avos* 3:1, Berachos 24b, Nedarim 9b, Bava Basra
+  17a, Bava Metzia 83b, and the midrashim): "maggots and worms." Keep the
+  order, which Rabbi Klein, the Netziv and the Vilna Gaon read as a sequence.
+- Trap: English "worms" absorbs both. If the passage turns on the pair (the
+  manna at Shemos 16:20 and 16:24, or the seven whose bodies were untouched),
+  the two English words must stay two.
+- *Tola'as* alone is usually "worm"; *tola'as shani* is the scarlet dye, which
+  Rabbi Klein glosses "red."
+- *Rimah* names the creatures, larvae or maggots; Rabbi Goldman's broader sense,
+  internal decay, belongs in a note rather than in place of "maggots."
+- מתלעות is "teeth," never "worms," though the lexicographers give both one
+  root; keep the connection to a note.
 
 
 ### other
@@ -2758,305 +5595,1610 @@ Hebrew has two words for the worms of the grave, *rimah* and *toleah*, which alw
 
 *Mitzrayim* is **Egypt**, and also the name of the man from whom the Egyptians descend. *Patros* is properly **Upper Egypt** or the Patrusim who came from Mitzrayim; the *paytanim* use it, and *Ludim*, *Anamim*, and *Lehavim*, for Egypt as a whole, it seems by poetic license, not because the words are synonyms. *Rahav* is a name for Egypt, a word meaning haughty, and the name of its heavenly minister; *eretz Cham*, the Land of Cham, is Tehillim's name for it.
 
+**Rendering guidance.**
+
+- In a piyyut, keep the poet's word and gloss it: "the firstborn of Patros" with
+  a note that Patros is Egypt. The same for *Lud*, *Anamim*, *Lahav*, and
+  *Rahav*; flattening them deletes the poem's device.
+- Trap: English "Egypt" will absorb *Mitzrayim*, *Patros*, *Matzor*, and *Rahav*
+  at once. Reserve "Egypt" for *Mitzrayim* and transliterate the rest.
+- *Mitzrayim* in Shemos 14 may be the nation or the man; translate "the
+  Egyptians" and put *Midrash Sechel Tov* in a note. In a frum text keep
+  *Mitzrayim*, *Mitzrim*, and *Mitzri* transliterated for the people.
+
 **יריחו / ירחו / עיר התמרים / ריח / ירח / תמר** — Jericho | yericho, yereicho, jericho, ir hatmarim, ir hareyach, ir hayareach, reyach, reiach | reviewed | [jericho-yereicho-yericho.md](entries/jericho-yereicho-yericho.md)
 
 One city, two vocalizations, and three descriptive names. *Yericho* (with a yod between the reish and the ches) is the form of Yehoshua and Shmuel II; *Yereicho* (without it) the form of Chumash and of most of the later sefarim. Which vowel carries which sense is not settled: several sources hear *reyach*, scent, in the yod-less *Yereicho* (*Yossiphon* as Rashi reads him, Rabbeinu Yoel, the *Peirush HaRokeach*), while the anonymous editor of the Oraysa *Yossiphon* suggests the opposite alignment, yod present for *reyach* and yod absent for *yareyach*, the moon. **Ir HaTmarim**, the City of Dates, is one of the Bible's names for Jericho, and where it appears without a name Targum and Rashi take it as Jericho.
+
+**Rendering guidance.**
+
+- Render the place-name **Jericho**, or **Yericho** in a work that transliterates place
+  names. Do not render it by a meaning: "the City of Scent" is a title *Yossiphon* gives it,
+  not a translation of the name.
+- The trap is the vowels. Any note or derashah on the name has to show which form the pasuk
+  uses, so print the Hebrew (יריחו or ירחו) in the note; an English text that writes
+  "Jericho" everywhere makes Rabbi Weil's whole proof invisible.
+- *Ir HaTmarim* at Shoftim 1:16: render **the City of Dates** and gloss "(that is,
+  Jericho)" on the authority of Targum and Rashi, rather than substituting the name.
+- *Reyach* is **scent**, never "smell"; *yareyach* is **the moon**; *tamar* is a
+  **date palm**, and *timros* are **columns**, not palms.
 
 **ציון / ירושלים / עיר דוד / מצודת ציון / הר ציון / ציון** — Jerusalem | tziyon, tzion, zion, har tziyon, yerushalayim, yerushalaim, yerushalem, yerushaleim | reviewed | [jerusalem-tziyon-yerushalayim.md](entries/jerusalem-tziyon-yerushalayim.md)
 
 *Tziyon* and *Yerushalayim* do not necessarily name the same place. *Tziyon* is the **City of David**, a separate walled city that only later came inside the walls of **Yerushalayim**; the nechamah formula, "the mourners of Tziyon and Yerushalayim," already implies that they are two. Where *tziyon* stands for the Beis HaMikdash or for Klal Yisrael, it is, on Rabbi Tukachinsky's reading, the common noun *tziyun*, "outstanding", not the place. Where the Hebrew uses *Tziyon* for the whole city, some sources suggest it serves as a synonym, though Rabbi Klein proposes that synecdoche, the part naming the whole, may be the more accurate term.
 
+**Rendering guidance.**
+
+- Never translate *Tziyon* as "Jerusalem" or fold the two into one name. In
+  *HaMakom yenachem eschem b'soch she'ar aveilei Tziyon v'Yerushalayim*, both
+  names stand.
+- Where the tefillos say *v'sechezenah eineinu b'shuvcha l'Tziyon* or
+  *u'mizbeach chadash b'Tziyon tachin*, they name the Mikdash by Tziyon. Keep
+  "Tziyon" in the English and note the synecdoche; writing "Jerusalem" erases
+  the figure. The same holds at Yirmiyahu 31:5 and Tehillim 132:14.
+- Trap: an English text that uses "Zion" loosely for the Jewish people, the
+  city, and the Temple in successive lines makes all three sound like one
+  referent. Follow Tukachinsky and distinguish: the place, the Mikdash, and
+  Klal Yisrael.
+
 **סיני / חורב / הר האלהים / הר בשן / הר גבננים / הר חמד / מוריה** — Mount Sinai | sinai, har sinai, chorev, horev, horeb, har chorev, har haelokim, har ha'elokim | reviewed | [sinai-chorev-gavnunim-bashan.md](entries/sinai-chorev-gavnunim-bashan.md)
 
 One mountain carries many names. **Sinai** is the best known; Tanach also calls it **Har HaElokim**, the Mountain of God, **Har Bashan** and **Har Gavnunim** (Tehillim 68:16), **Har Chemed** (Tehillim 68:17) and **Chorev**, Horeb (Shemos 33:6). Various Midrashic sources explain how each name fits the one mountain, most of them by a play on the name: *sinah*, hatred; *cherev*, a sword; *chemdah*, desire; *giben*, a blemish, or *gevinah*, cheese. Some versions of the Midrash add **Moriah**, which raises the question whether Moriah and Sinai are two mountains or one; both answers are given.
+
+**Rendering guidance.**
+
+- Trap: English "Mount Sinai" will absorb every one of these names. Where a pasuk
+  or a derashah lists them (Tehillim 68:16-17), keep each name as a name and give
+  the word it is read against beside it (*sinah*, *cherev*, *chemdah*, *giben*,
+  *gevinah*), or the derashah disappears.
+- *Har HaElokim*: "the Mountain of God," keeping *Elokim* visible where the point
+  is the attribute of judgment.
+- *Chorev*: "Horeb" or "Chorev," as one mountain with Sinai, never a second place.
+- "The Mountain of Myrrh" in *Yom Shabbaton* is Moriah; rendered only as a
+  description it hides the identification the poem implies.
 
 **מלאך / שליח / ציר / משחית / שלח / מלאכה / שגר / שדר** — angel | malach, mal'ach, malachim, malochim, shaliach, shliach, sheliach, shluchim | reviewed | [angel-malach-shaliach.md](entries/angel-malach-shaliach.md)
 
 *Malach* is a **messenger** who stands in for the sender on a mission the sender would do himself (Pappenheim, Malbim); of Hashem's messengers it is an **angel**, and the same Hebrew word covers both. *Shaliach* is the plain **agent** or **emissary**, one who is sent (on Rav Hirsch's approach, merely a messenger; the Lissa Rav: one who chose to accept the mission). *Tzir* is an **envoy**, a diplomatic messenger, and for Malbim one who reports back. *Malach* is not automatically an angel: the Midrash disputes whether Yaakov's *malachim* were angels or men.
 
+**Rendering guidance.**
+
+- מלאך of Hashem, or where the context is plainly celestial: "angel." מלאך
+  sent by a man: "messenger," "envoy." Where the identity is disputed
+  (Yaakov's *malachim*; the three at Avraham's tent by some readings), write
+  "messengers" and let a note carry the dispute.
+- שליח: "agent" in halachah (*shaliach* of a get, *shelichus*); "emissary,"
+  "messenger" in narrative; transliterate *shaliach* when the halachic
+  concept is the subject.
+- ציר: "envoy," "emissary"; in Mishlei 13:17 (*tzir emunim*) "a faithful
+  envoy."
+- משחית: "destroyer," "destroying angel"; never "angel" bare.
+- Trap: English "messenger" absorbs *malach*, *shaliach*, and *tzir*; and
+  "angel" absorbs *malach* and *mashchis*. When two stand together, or when a
+  derashah asks why the pasuk says *malach* and not *shaliach*, keep each
+  word its own English: *malach* stands in for the sender, *shaliach* is sent,
+  *tzir* carries word both ways.
+
 **כרובים / חיות / אופנים / אראלים / חשמלים / שרפים / מלאכים / אלהים / בני אלהים / אישים / עירין / קדישין / גלגלים** — angel classes | kruvim, keruvim, keruv, kruv, chayos, chayot, chayos hakodesh, ofanim | reviewed | [angel-classes-kruvim-chayos-ishim.md](entries/angel-classes-kruvim-chayos-ishim.md)
 
 These are not synonyms for one another; they are ranks. Rambam (*Hilchos Yesodei HaTorah* 2:7) counts ten, from the *chayos* at the top down to the *ishim* at the bottom: *chayos*, *ofanim*, *erelim*, *chashmalim*, *serafim*, *malachim*, *elohim*, *bnei elohim*, *kruvim*, *ishim*. *Kruvim* are the **cherubim**. One rank does double duty: *malachim*, which is both a rank of its own and the general word for **angels**.
+
+**Rendering guidance.**
+
+- Transliterate the rank names: *chayos*, *ofanim*, *erelim*, *chashmalim*,
+  *serafim*, *ishim*, *irin*, *kadishin*. Gloss each once at first occurrence.
+- *Kruvim* is the exception: **cherubim** is settled English for the two on the
+  Aron.
+- *Malachim*: **angels** where the word is generic, transliterated where a
+  source is listing the ten ranks and *malachim* is one of them. This is the
+  place where a translator most easily loses the sense, because the same English
+  word would then appear twice in one list at two different heights.
+- Trap: "angel" absorbs every word in this entry. When a passage runs the ranks
+  in order, transliterate the whole list rather than translating any member of
+  it, and let the introduction say "ten classes of angels."
+- Trap in the other direction: *chashmal* is the modern Hebrew word for
+  electricity, so the class name wants a gloss at first occurrence lest a reader
+  hear the modern sense.
+- *Elohim* as a rank of angels is not the Divine Name; render it by the class
+  name and let the context carry it. Where a pasuk's *elohim* is being read as
+  angels or as judges, say which, since the English cannot show it.
+- On *malach* against *shaliach* and the general word for a messenger, see the
+  separate entry [angel](angel-malach-shaliach.html).
 
 **תיבה / ארון** — ark | teivah, teiva, tevah, teva, aron, oron, aronos, aronot | reviewed | [ark-teivah-aron.md](entries/ark-teivah-aron.md)
 
 In English both words are **ark**, and in Scripture they do not overlap: *teivah* is Noach's ark and the basket of the infant Moshe, *aron* is the Ark of the Covenant and Yosef's coffin. *Teivah* is an **ark** or **basket** (on the two proposals offered below, a floating vessel or a container for a living person), and *aron* an **ark**, **chest**, or **coffin**. In Rabbinic Hebrew the two words are used almost interchangeably, so a Mishnaic *teivah* may well be an *aron*.
 
+**Rendering guidance.**
+
+- Trap: English "ark" covers both, and in a passage that turns on the difference
+  (a derashah pairing Noach's *teivah* with the *Aron*, say) one English word
+  hides it. Render one of them by its other sense: "Noach's ark" beside "the Ark
+  of the Covenant" works only if the context already separates them; otherwise
+  give *teivah* as "ark" and *aron* as "the Aron."
+- Shemos 2:3: "basket," not "ark," unless the passage is drawing the deliberate
+  parallel to Noach, in which case keep "ark" in both and say so.
+- Bereishis 50:26: "coffin," never "ark."
+- In a Mishnaic or Talmudic quotation, do not import the Biblical distinction. A
+  *teivah* in Taanis 2:1 is a shul fixture; translate it as "the Ark" (or leave
+  it as *teivah* and gloss) and note the machlokes rather than deciding it.
+
 **סביב / היקף / עפף / חוג / חג** — around | saviv, sovev, sivuv, sevivon, sav, saba, soveh, heikef | reviewed | [around-saviv-heikef-afef-chug.md](entries/around-saviv-heikef-afef-chug.md)
 
 *Heikef* is always a full circuit: **circumference**, **circuit** (hence *hakafos*). *Saviv* is going around a center without any guarantee of completing the circle, so **around**, **about**, and even a detour or a roundabout way of speaking; doubled as *saviv saviv* it does mean all the way around (Malbim). *Afef* is encircling that closes in on a man from every side, and Malbim holds it is always for the worse: **envelop**, **beset**. *Chug* is a circle seen from its center, an orbit. Bare *saviv* may concede only an arc.
+
+**Rendering guidance.**
+
+- Trap: English "around" swallows *saviv* and *heikef* both. Give *heikef* a word
+  that means completion ("circuit," "full circle," "circumference") and keep
+  "around" or "about" for *saviv*, so that a passage contrasting them still
+  contrasts in English.
+- *Saviv saviv* is not a stylistic doubling to be trimmed. Following Malbim it
+  means "all the way around," and English should say so.
+- Shemos 13:18: "led them roundabout, by way of the wilderness," not "led them
+  in a circle." Pappenheim's point is that a detour is a *sivuv*.
+- *Hakafos*: leave transliterated with a gloss ("the circuits around the
+  *bimah*"); "processions" loses the completeness the word insists on.
+- Tehillim 116:3: *afafuni* is "beset me" or "closed in on me," never a neutral
+  "surrounded me," if Malbim's reading is being followed.
+- *Chag*: translate as "festival," and bring in the circle sense only when
+  quoting Rabbi Yom Tov Lipmann Heller or Rabbi Wolf Heidenheim, marking it as
+  *derashah* on the word rather than its working meaning.
 
 **טנא / סל / כלוב / דוד / כלכלה / כפיפה** — basket | tene, teneh, teni, sal, salim, sala, keluv, kluv | reviewed | [basket-tene-sal-keluv.md](entries/basket-tene-sal-keluv.md)
 
 *Sal* is the ordinary **basket**, and for Rabbi Pappenheim a **bread basket**. *Tene* is the **fruit basket** of bikkurim, which for him was typically woven loosely so the air could move through it. *Keluv* holds something alive or ripening, so a **basket** for figs and a **cage** for birds; *dud* is a basket or a pot by context, and *kalkalah* is the large Mishnaic **hamper**.
 
+**Rendering guidance.**
+
+- טנא in Ki Savo: "basket," and where the passage turns on the word, "fruit
+  basket." Do not write "wicker basket," which belongs to *kefifah*.
+- Trap: English "basket" absorbs *sal*, *tene*, *keluv*, *dud* and *kalkalah*.
+  If two stand in one passage, give *sal* "basket," *tene* "fruit basket,"
+  *kalkalah* "hamper," and let *keluv* and *dud* take their contents.
+- כלוב: "basket" in Amos 8:1, "cage" in Yirmiyahu 5:27; do not carry the modern
+  "cage" back into the figs. דוד: "basket" for the figs of Yirmiyahu 24, "pot"
+  for Shmuel I 2:14.
+- The Talmudic words are best transliterated with a gloss on first use.
+
 **הוד / הדר / אדר** — beauty | hod, hodaah, hoda'ah, karnei hod, hod malchus, hod malchut, hadar, hadras panim | reviewed | [beauty-hod-hadar.md](entries/beauty-hod-hadar.md)
 
 *Hod* is **splendor** or **majesty**: beauty that is a thing's own, inner and not seen with the eye, the sun's own light (Vilna Gaon; Malbim; Rav Hirsch, of Hashem, "His essence"). *Hadar* is **glory**: outward, visible, reflected beauty, the moon's light, the *esrog*'s fruit, the trappings of kingship without its essence (Vilna Gaon; Malbim; Rabbi Simcha Maimon). *Adar*, the month's name, comes like all the month-names from the Babylonian calendar, where it was Addaru, and seems, on the interchange of the Aramaic aleph with the Hebrew hei, to be correlated with *hadar*. In the fixed pair הוד והדר, *hod* comes first: **splendor and glory**.
+
+**Rendering guidance.**
+
+- *hod*: "splendor" as the default, "majesty" where kingship is in view (Sifrei,
+  *hod malchus*: "royal majesty"). *Karnei hod*: "rays of splendor".
+- *hadar*: "glory"; "beauty" where the sense is plainly physical (*eitz hadar*,
+  *hadras panim*: "a glorious countenance" or "beauty of face"). *Hadar
+  malchus*: "royal glory".
+- Together, הוד והדר (Tehillim 104:1 and the liturgy): "splendor and glory".
+  Do not invert, and do not collapse to "glory and majesty" unless *hod* has
+  been "majesty" throughout the passage.
+- Trap: "glory" (and "majesty") will happily take both words. Assign before
+  drafting: *hod* is the inner, owned light; *hadar* is the outer, reflected
+  light. That inner/outer axis is shared by the Gaon, Malbim and Rav Hirsch, so
+  it is safe to lean on.
+- Second trap: *kavod* is also commonly "glory" (*kevod Hashem*). In a passage
+  with *kavod* and *hadar* both present, give *kavod* "honor" and keep "glory"
+  for *hadar*; see the *kavod* / *yakar* entry.
+- *Hodaah*: "acknowledgment" or "thanksgiving" by context; the etymology
+  supports "acknowledgment" as the root sense.
 
 **בעבור / בגלל / בשביל** — because | baavur, ba'avur, bavur, avur, biglal, bishvil, bi-shvil, shvil | reviewed | [because-baavur-biglal-bishvil.md](entries/because-baavur-biglal-bishvil.md)
 
 *Biglal* is the backward-looking "because": a reason that **already exists** and justifies the act, so it means **on account of** or **because of**. *Baavur* is the forward-looking one: the reason **does not yet exist** and is the intended outcome, so it means **in order that** or **so that**. *Bishvil* is post-Biblical, usually equal to *biglal*, and is the everyday word in modern speech.
 
+**Rendering guidance.**
+
+- Shemos 9:16: "for this purpose have I let you stand," or "in order to show you
+  My strength." Not "because of this," which would say Pharaoh had earned it.
+- *Biglal* in a *pasuk* of consequence (a punishment or a reward for what was
+  done): "on account of," which keeps the eye on the completed cause.
+- Trap: English "because" absorbs *baavur* and *biglal* alike, and the loss is
+  not stylistic but logical, since the two point in opposite directions in time.
+  Reserve "because" for *biglal* and give *baavur* a purpose clause.
+- Trap: "for the sake of" reads as either one. It is safe for *bishvil* and
+  risky for the Biblical pair.
+- In a Mishnaic text, *bishvil* is ordinarily "because"; check Bava Metzia 5:10
+  before assuming it never carries purpose.
+
 **מטה / ערש / ערס / עריסה** — bed | mitah, mita, mittah, eres, eress, arsa, arisah, arisa | reviewed | [bed-mitah-eres.md](entries/bed-mitah-eres.md)
 
 *Mitah* is the ordinary **bed**, close to thirty appearances in Tanach, from a root meaning to incline or stretch out, since a man inclines his body to lie down. *Eres* is the rarer word, nine appearances, and most of the explanations that distinguish the two make it the more particular one: a fitted or special bed, an iron-framed one, a crib, a bed of woven or cross-fastened planks. In many instances Targum renders both by *arsa*. Ramchal holds they are genuine synonyms paired for poetic effect; the other views cited do not treat them as fully synonymous.
+
+**Rendering guidance.**
+
+- מטה: "bed," or "couch" where the source is Malbim's broader sense.
+- ערש: "bed" in plain prose; "bedstead" where the frame is the point (Og's iron
+  *eres*, Devarim 3:11); "crib" or "cradle" where Rashbam's reading is being
+  followed.
+- Trap: "bed" absorbs both, and so does Targum's *arsa*. If a source is
+  darshening the choice of word (Og's *eres* against a *tzaddik*'s *mitah*), the
+  translation has to keep the Hebrew visible or the derashah is lost.
+- Where the two stand together in one verse, take Ramchal's option only if the
+  context is plainly poetic parallelism; otherwise render *mitah* "bed" and
+  *eres* "couch" or "bedstead" so the pair does not collapse.
+- עריסה of *challah* is "dough," not "bed"; keep the connection for a note, not
+  for the body text.
 
 **מום / מאומה / פגם / סימפון / פג** — blemish | mum, moom, mumin, meumah, meuma, pgam, pegam, pagum | reviewed | [blemish-mum-pgam-simpon.md](entries/blemish-mum-pgam-simpon.md)
 
 All three are commonly taken to mean **blemish**, and all three mean something else at root. *Mum* is a **something**, from *meumah*: a small something present that should not be, or absent that should be, which is why it covers both a lack and an excess. *Pgam* is a **nick** or **deficiency**, a groove taken out of something, and by extension a loss of worth or standing. *Simpon* does not mean blemish at all; it is a **cancelling condition**, whatever can void an agreement, and a physical defect is only one instance of it. In *Kesubos* 57b *simpon* belongs to a rule about voidable kiddushin, not a rule about bodies.
 
+**Rendering guidance.**
+
+- Default renderings: *mum* "blemish" (and "defect" for a kohen or an animal);
+  *pgam* "flaw," "nick," "deficiency," or "loss of standing" by context;
+  *simpon* "voiding condition," "cancellation," or the transliteration with a
+  gloss.
+- Trap: English "defect" will take *mum* and *pgam* both. Where a source glosses
+  one by the other (Rashi to *Sanhedrin* 36b explaining *mum* as a family
+  *pgam*), keep two English words and let the gloss do its work: "a *mum*, that
+  is, a family flaw."
+- Second trap, the important one: never render *simpon* "blemish." In *Kesubos*
+  57b the concern is a condition that unwinds the kiddushin retroactively.
+  "A defect that would void the betrothal" is right; "a blemish" is not.
+- *Pagum* of a cup is "used" or "diminished," not "blemished," and *taam
+  lifgam* is "a taste that detracts," a settled halachic idiom worth keeping
+  transliterated with that gloss.
+- *Meumah* in a pasuk is "anything," almost always inside a negative: *lo
+  chasarta meumah*, "you lacked nothing." Do not render it "a blemish" even
+  where a derashah connects the words; give the derashah in a note.
+
 **אניה / ספינה / רפסודה / דוברה / עברה / דוגית / צי** — boats | oniah, oniyah, oni, oniyos, oniyot, sefinah, sefinta, safinah | reviewed | [boats-oniah-sefinah-rafsodah.md](entries/boats-oniah-sefinah-rafsodah.md)
 
 *Oniah* is the general Biblical word, **ship**; *sefinah* is the ordinary Mishnaic word for the same thing, **ship** or **boat**, and appears only once in Tanach. *Rafsodah* and *dovrah* are both a **raft** of tied beams; *avarah* a **ferry**; *dugit* a small **fishing skiff**; *tzi* a **large ship**, usually a warship. In a pasuk *sefinah* is a rarity, in a Mishnah the default word.
+
+**Rendering guidance.**
+
+- Default: אניה "ship," ספינה "ship" in a Mishnah and "boat" where a smaller
+  vessel is meant. Do not manufacture a size difference the sources do not fix.
+- Trap: English "boat" covers *oniah*, *sefinah*, *dugit*, and *arva* at once.
+  Where a sugya turns on two together, as in whether the *dugit* goes with the
+  sale of the *sefinah*, keep "ship" for the large and "skiff" for the small.
+- צי is "warship" only where Malbim is being followed; otherwise "great ship."
+- Aramaic in a Gemara: אילפא is "ship," ערבא "small boat"; do not import the
+  Hebrew distinctions into them.
 
 **ספר / אגרת / מגילה / גליון / שטר / מחזור / קונטרס / כתב** — book | sefer, seforim, sfar, sofer, sippur, mispar, iggeret, igros | reviewed | [book-sefer-iggeret-megillah.md](entries/book-sefer-iggeret-megillah.md)
 
 *Sefer* is the general **book** or written document, and in early medieval usage specifically the **scroll**. *Megillah* is the **scroll** meant to be rolled up, and unqualified it means Megillas Esther. *Iggeret* is a **letter** or **epistle**, on several accounts a short-lived document sent elsewhere. *Gilayon* is a single **sheet**, later a margin and then a **gloss**; *shtar* a **deed** meant to last; *machzor* originally the **codex**, later the yom tov siddur; *kuntres* a **pamphlet**. Esther is called all three of *sefer*, *megillah* and *iggeret*, and each name carries a halachah.
 
+**Rendering guidance.**
+
+- Esther: keep each name where the source uses it. "The Megillah" for the
+  Purim reading, "the Book of Esther" where the pasuk-count or canon is at
+  issue, and "letter" only where the pasuk itself says *iggeret* (Esther
+  9:26-29) or where the sugya turns on it (Megillah 19a).
+- Trap: English "book" absorbs *sefer* and *megillah*, and "letter" absorbs
+  *iggeret*, *shtar*, and *get*. In a halachic passage leave *shtar*, *get*,
+  and *kuntres* transliterated; only *iggeret* is safely "letter."
+- *Sefer* in a citation of a title (*Sefer HaShorashim*, *Sefer Tehillim*)
+  stays transliterated as part of the name; *sefer* as a common noun stays "sefer," not "book," where the reference is to a work of
+  Torah.
+- *Gilayon* is "sheet" in Rabbi Shlomo Pappenheim's sense, "margin" in the
+  later sense, and "gloss" where it names a commentary printed there. Pick from
+  the context; the three are a chain, not synonyms.
+- *Machzor* needs a gloss the first time it appears in a medieval context,
+  since a modern reader hears the yom tov siddur and the source means a codex.
+
 **לחם / ככר / חלה / פת / פיתא / ריפתא / נהמא** — bread | lechem, lachmah, kikar, kikkar, challah, chalah, challos, pat | reviewed | [bread-lechem-kikar-challah-pat.md](entries/bread-lechem-kikar-challah-pat.md)
 
 *Lechem* is the wide word, **bread** in the sense of the staple food, over three hundred times in Tanach. *Kikar* seems to mean a circle; it is the **loaf**, named for its round shape, but in Tanach it usually means a talent of metal or a valley ringed by mountains, not bread. *Challah* in Tanach is a **meal-cake**, almost always one brought as a korban, and in the Mishnah generally the **tithe** separated from dough, not the loaf we call by that name today. *Pat* is a **morsel**, a broken piece, which became a plain synonym for bread in Rabbinic usage. *Rifta* and *nahamah* are the Aramaic words for bread.
+
+**Rendering guidance.**
+
+- לחם in a pasuk: "bread." Where the sense is clearly provisions generally
+  rather than a baked loaf, "food" or "sustenance" is right, but do not use it
+  for a pasuk that is talking about actual bread.
+- ככר לחם: "a loaf of bread." A bare ככר in Tanach is a talent (weight) or a
+  plain; in the Mishnah it is a loaf. Check which corpus you are in before
+  reaching for "loaf."
+- חלה: in Chumash and in the korbanos, "meal-cake." In the Mishnah, "*challah*,"
+  the separated portion, and say so in a gloss. Never write "challah bread" for
+  either; the modern Shabbos loaf is not what the sources mean.
+- Trap: English "loaf" will take both *kikar* and *challah*, and English "bread"
+  will take *lechem*, *pas*, *kikar* and *challah* together. Where two of them
+  stand in one phrase (*kikar lechem*, *pas lechem*), keep the head noun
+  distinct: "a loaf of bread," "a piece of bread," never "some bread" for both.
+- פת: "morsel" or "piece of bread" where the breaking is in view; plain "bread"
+  in ordinary Rabbinic usage (*pas shacharis*, *pas akum*), where the sense of
+  breaking has worn off.
+- Aramaic ריפתא/נהמא in a sugya: "bread." Do not carry the *rifos* sense of
+  pounded grain into them.
 
 **עוגה / חררה / ככר / חלה / גלוסקא / קוגל / פשטידה** — cake | ugah, ugot, ugos, ugiyah, ugiyot, ug ugah, chararah, charara | reviewed | [cake-ugah-chararah-gluskos.md](entries/cake-ugah-chararah-gluskos.md)
 
 *Ugah* is not "cake" in the modern sense: its core is **round**, and as a food, two scholars suggest, it is a **flat round loaf**, which would explain why the Torah calls the matzos of Yetzias Mitzrayim *ugos matzos* (Shemos 12:39). *Chararah* is Rashi's and the Mechilta's gloss on it. *Kikar* is a **loaf** with body, *challah* a **round loaf**, *gluska* the Rabbinic **fine roll**.
 
+**Rendering guidance.**
+
+- Trap: "cake" absorbs *ugah* and *gluska* alike and sweetens both; *ugos matzos* is
+  "flat cakes of matzah," never "matzah cakes."
+- Bereishis 18:6 is "knead and make cakes" in the older English versions; where the
+  midrashic reading is in play, say "flat cakes" so the matzah link survives.
+- Where *ugah* is not food (Chullin 41a, Moed Katan 1:1, Taanis 23a), render by the
+  shape: "a round pit," "he drew a circle."
+- *Kikar lechem* is "a loaf of bread"; using "loaf" for *ugah* in the same passage
+  collapses the flat-against-round distinction. *Gluska* is "a fine roll."
+
 **כסא / כסה / כס / כורסא / קתדרא** — chair | kisse, kise, kisei, kisseh, keis, kes, keseh, kursa | reviewed | [chair-kisse-keis-kursa.md](entries/chair-kisse-keis-kursa.md)
 
 *Kisse* (כסא) is **throne**: not a neutral chair but a seat that marks rank, which is why it is the word for Hashem's *Kisse HaKavod*. *Kisseh* (כסה) and *keis* (כס) are the same word in two rarer spellings, and in the shortened *keis* of Shemos 17:16 the missing letter is the whole point of the derashah. *Kursa* is simply the Aramaic of *kisse*, so a Targum or Gemara *kursa* is still **throne**; the sense **armchair** belongs to Modern Hebrew. *Kathedra* is the Greek word behind English **chair** and **cathedral**, and it turns up four times in the Mishnah.
+
+**Rendering guidance.**
+
+- Default *kisse* to **throne** wherever a king, a judge or Hashem is seated, and to
+  **seat** or **chair** only where the context is plainly domestic. English "chair" is
+  the trap: it absorbs *kisse* and *kathedra* alike and flattens the rank *kisse*
+  carries.
+- Shemos 17:16: render "the throne of Yah" but keep the Hebrew כס visible in a bracket
+  or note, or the derashah on the missing aleph has nothing to stand on. The same holds
+  at Tehillim 81:4, where the wordplay is *keseh*/*kisse*.
+- A Targum or Gemara *kursa* facing a Hebrew *kisse* is not a second word; render both
+  **throne** and do not manufacture a distinction.
+- Pappenheim's family (*kisui*, *kesus*, *kos*, *kis*, *meches*) are cousins of *kisse*,
+  not synonyms; translate each by its own sense and keep the covering idea for a note.
 
 **מקרה / קרי / תאונה / אירוע / מציאה** — chance | mikreh, mikre, keri, keriy, kri, koreh, korot, karahu | reviewed | [chance-mikreh-keri-teunah-irua.md](entries/chance-mikreh-keri-teunah-irua.md)
 
 *Mikreh* is an **occurrence** or **happenstance**, the collision of a person with circumstances he did not arrange. *Keri* is the same root in the Torah's rebuke (Vayikra 26), where it is not a neutral event but **offhandedness** or **flippancy** toward Hashem (Rabbi Shlomo Pappenheim reads it instead as the sinner's provoking posture), and in Mishnaic Hebrew it is the euphemism for a seminal emission. *Te'unah* is a **mishap** or **befalling**, named, on Malbim's reading, for the causes that converge rather than the point of contact. *I'rua* is post-biblical, a plain **event** or **incident**. The whole argument of Vayikra 26 is about attitude, not chance.
 
+**Rendering guidance.**
+
+- Vayikra 26 *keri*: "with offhandedness," "casually," "as happenstance." Never
+  "by accident" or "by chance," which turn the Torah's charge from an attitude
+  into a mishap and break the measure-for-measure of the pasuk.
+- Trap: English "accident" will absorb *mikreh*, *te'unah* and *i'rua* at once.
+  Keep "occurrence/happenstance" for *mikreh*, "mishap/befalling" for *te'unah*,
+  "event/incident" for *i'rua*, and hold the assignment across a passage.
+- Rus 2:3, *vayiker mikreh*: render the doubling, "an occurrence occurred," or
+  "as it happened, she happened upon"; do not smooth it to "she happened to
+  come," which drops the pointed redundancy the pasuk builds on.
+- Koheles 3:19 and 9:2-3 repeat *mikreh*; keep one English word throughout,
+  since the point is that it is the same *mikreh*.
+- Mishnaic *keri* stays transliterated with a gloss at first occurrence. Do not
+  render it "accident," and do not let it borrow the Vayikra sense. Where
+  *mikreh* and *metziah* stand together, "chance occurrence" against "find"
+  carries Malbim's distinction without a footnote.
+
 **תם / תמים / תמימות / שלם / שלמות / שלום** — completeness | tam, tamim, temimah, temimos, temimot, temimus, temimut, tom | reviewed | [completeness-tam-shalem-tamim.md](entries/completeness-tam-shalem-tamim.md)
 
 *Shalem* is **complete**, **whole**: nothing is now lacking, measured as a quantity (Rabbi Shlomo Pappenheim), and having more than enough does not disqualify it. *Tam* / *tamim* is **whole** in quality: an exact match with nothing missing and nothing extra (Rabbeinu Bachaya; Pappenheim); of a korban **unblemished**, of a person **wholehearted** or **wholesome**, of the Torah **perfect**. *Shleimus* is **completeness** or **wholeness**.
+
+**Rendering guidance.**
+
+- *Shleimus*: "completeness" (the state of lacking nothing)
+  or "wholeness." Reach for "perfection" only where the Hebrew itself names
+  the ultimate degree and the context rules out further growth; the
+  *shalem* may still gain, the "perfect" cannot.
+- *Tamim* of a korban: "unblemished." Of a person: "wholehearted" (Malbim's
+  undivided intention) or "whole"; "wholesome" or "simple" for the innocent
+  sense (the Haggadah's *tam*, Yaakov the *ish tam*); of the Torah: "perfect."
+- When the two stand together (Onkelos equates them, so a text may pair them):
+  "whole" for *tam*, "complete" for *shalem*, and let the two English words
+  do the work the Hebrew does.
+- Trap: "complete" absorbs both, and "perfect" absorbs both while adding a
+  ceiling neither word asserts. A derashah that turns on the choice of word
+  (*temimos* of the Omer, *vayitmu* of the mourning) needs the quality-versus-
+  quantity line visible in English.
+- *Shalem* of a person is broad (health, learning, means; Shabbos 33b); do not
+  narrow it to the moral sense that belongs to *tam*.
 
 **פאה / קרן / זוית / פינה / מקצוע / קצה / אתיק / דמשק** — corner | peah, pe'ah, peot, peyot, paat, keren, qeren, karnayim | reviewed | [corner-peah-keren-zavit-pinah.md](entries/corner-peah-keren-zavit-pinah.md)
 
 *Peah* is the broad **corner** or **side** of an area, and in most pesukim simply a **direction** (Onkelos: *ruach*). *Keren* is a **horn**, and a corner as something that juts out (Malbim), in Tanach the corners of the Altar. On Rabbi Pappenheim's distinction, if Rabbi Klein has understood him correctly, *zavit* is the inside of a corner and *pinah* is the outside of it, whence leaders are *pinos*; for Mordechai Zer-Kavod the primary sense of *pinah* in Tanach is not actually "corner" but a raised place, a **prominence** (hence the **cornerstone**). For Pappenheim, *miktzoa* is the sharp **angle** where two sides meet at a point, and *katzeh*, from a root meaning **edge/end**, a right-angled corner. Onkelos renders *pinah*, *miktzoa* and *katzeh* as *zavit*, and *peah* too at the corners of the Shulchan.
 
+**Rendering guidance.**
+
+- Default renderings: *peah* "corner" when it is a corner and "side/direction"
+  when the pasuk pairs it with north, south, east or west; *keren* "horn" unless
+  the context is plainly a corner; *zavit* "corner" (inner); *pinah* "corner"
+  in a building, "cornerstone" or "leading man" when it is figurative;
+  *miktzoa* "angle"; *katzeh* "edge" or "end."
+- Trap: English "corner" will happily absorb *peah*, *zavit*, *pinah*, *miktzoa*
+  and *katzeh* at once. Where the passage turns on the difference (Onkelos
+  levelling four Hebrew words to *zavit*, or Pappenheim's angle grades), name
+  the geometry: "the sharp angle," "the outer corner," "the right-angled edge."
+- *keren zavit* is the Gemara's set phrase for a corner (*Berachos* 53b;
+  *Kiddushin* 66a). Render it as one thing, "a corner," not "the horn of the
+  corner." Rabbi Chaim Ozer Grodzenski (reported by Rabbi Chaim Pinchas
+  Scheinberg at a Degel HaTorah rally) noted the redundancy over a century ago
+  and read the phrase as "a corner of a corner," Torah consigned not even to a
+  whole corner; Rabbi Klein, having reported it, says that an explanation given
+  in a polemic context should probably not be taken as actual linguistic
+  analysis. Treat it as a derashah for a note, not a lexical claim.
+- Mishnaic *peah* is a halachic term of art. Leave it as *peah* and gloss it;
+  "the corner of the field" is misleading, since the *peah* may sit in the
+  middle (Mecklenburg on Mishnah *Peah* 1:3). The Mishnah's *rosh tor*
+  (*Kilayim* 2:7, 3:3, *Keilim* 18:2), literally "ox head" in Aramaic, is
+  likewise not a generic word for corner: Shadal (to Shemos 25:31) explains that
+  it is a corner whose angle is intersected by another line, a shape said to
+  look like an ox's head.
+
 **גרזן / קרדם / מעצד / כשיל / כילפות** — cutting tools | garzen, garzan, kardum, kardom, kordom, kardumo, kardumim, kardumot | reviewed | [cutting-tools-garzen-kardum-maatzad.md](entries/cutting-tools-garzen-kardum-maatzad.md)
 
 *Garzen* is the general Biblical **axe**, and equally the stonecutter's **pick**; it never occurs in Rabbinic Hebrew except when a pasuk is quoted. *Kardum* is the double-headed **adze-axe** or **mattock**, adze on one face and axe on the other. *Maatzad* is the **adze**, the woodworker's shaping tool and the smaller implement of the pair. *Kashil* is the **large axe** and *keilapot* the **hatchets**, both appearing once only, together in one pasuk. *Maatzad* and *kashil* are separated by size, and a real halachah in Bava Kamma turns on it.
+
+**Rendering guidance.**
+
+- Trap: English "axe" will absorb *garzen*, *kardum*, *kashil* and *keilapot* at
+  once. Reserve "axe" for *garzen*, give *kardum* "adze-axe" or "mattock",
+  *maatzad* "adze", *kashil* "large axe" and *keilapot* "hatchets."
+- Tehillim 74:6 puts *kashil* and *keilapot* side by side in one clause. The two
+  must read differently in English ("with axe and hatchets they smashed"), or the
+  pasuk loses its own pairing.
+- Where *garzen* cuts stone (Melachim I 6:7, Yeshayahu 10:15), "pick" or "iron
+  tool" reads better than "axe"; where it cuts wood (Devarim 19:5, 20:19), "axe."
+- Avos 4:5: the familiar English "a spade to dig with" is a translation of the
+  Mishnaic digging sense, not of the Biblical tool. Keep it, but do not carry
+  "spade" back into a pasuk; there Radak's double-headed tool is meant.
+- For *magal* and *chermesh*, the harvesting tools, see
+  [sickle](sickle-chermesh-magal.html); for the *kurnas* Rashi compares the *maatzad* to,
+  see [hammer](hammer-makevet-patish-kurnas.html); for the verbs of cutting, see
+  [cutting](cutting-bokea-korea-gozer.html).
 
 **מיתה / מות / מת / פטירה / נפטר / פטור / נח נפשיה** — death | mitah, misah, mita, mavet, maves, mos, mot, meis | reviewed | [death-mitah-petirah.md](entries/death-mitah-petirah.md)
 
 *Mitah* (*maves*, *meis*) is **death** as the physical end, the parting of body and soul, said of anyone and of animals. *Petirah* (*nifter*) is **passing**, literally "exiting, taking leave," the Rabbinic word for a person leaving This World for the Next; it is generally reserved for the righteous and implies a continuation. *Nifter* is "passed away" or "departed."
 
+**Rendering guidance.**
+
+- מות / מיתה in a pasuk or a halachic setting: "death," "died"; keep the
+  plainness. מיתת בית דין: "death penalty." *Malach HaMaves*: transliterate
+  or "the Angel of Death."
+- נפטר / פטירה of a person: "passed away," "his passing," "departed this
+  world"; the *min ha'olam* idiom may be kept: "departed from the world."
+- Trap: English "death" and "died" absorb both. In a text that pairs them
+  (Chazal's *tzaddikim* alive and *reshaim* dead, or a discussion of why the
+  Gemara says *nifter* and not *meis*), keep "died" for *meis* and "passed"
+  or "departed" for *nifter*, and gloss the Hebrew once.
+- Do not upgrade: a pasuk's *vayamas* is "and he died," even of a *tzaddik*;
+  the honorific belongs to Rabbinic *petirah*, not to the Torah's *mos*.
+- *Patur* in halachah stays "exempt"; do not let the derashah on
+  *patur*/*nifter* pull the legal term toward "released."
+
 **שד / לילית / רוח** — demon | sheid, shed, sheidim, shedim, sheidah, lilis, lilith, lilin | draft | [demon-sheid-lilis-ruach.md](entries/demon-sheid-lilis-ruach.md)
 
 *Sheid* is the **demon**, the general word: *Chazal* put it between the angel and the man, winged and knowing the future like the one, eating and drinking and dying like the other. *Ruach*, the word that plainly means wind or spirit, is the **apparition** with no body and no form at all. *Lilis* is the **female demon**, and whether that is the name of one particular demoness or the name of a whole class of them is disputed, as is what the word means in the one pasuk where it appears. Two of the three are separated by body: the *sheid* has one, the *ruach* has none.
+
+**Rendering guidance.**
+
+Where the three appear in one list, as they do at *Sanhedrin* 109a, they need
+three different English words, and the distinction Rashi draws there is the one
+to keep: "demon" for *sheid*, "apparition" or "spirit" for *ruach*, and for
+*lilin* a word that carries the female sense, since that is what separates them
+from the *sheidim*. "Spirit" for *ruach* is safe here but ambiguous in a book
+that also uses it for *ruach* as soul or wind; where the context is this one,
+"apparition" is the less ambiguous choice.
+
+*Lilis* resists translation, and where the dispute is live a transliteration
+with the sense in a note serves better than picking one of the three readings of
+Yeshayahu 34:14. A rendering that settles it as "screech owl" or "night
+creature" takes Ibn Ezra's or Radak's side against Rashi's without saying so.
 
 **חורבן / חרבה / שממה / שמם / שם** — destruction | churban, chorban, churban habayis, churban habayit, charbah, charba, chorvah, chareiv | reviewed | [destruction-churban-shemamah.md](entries/destruction-churban-shemamah.md)
 
 *Churban* is **destruction**, and in Rabbi Shlomo Pappenheim's sense a place cut off from what kept it alive; the buildings may be standing. *Shemamah* is **desolation**, ruin visible to anyone who looks (Rabbi Mecklenburg), and for Malbim the stronger of the two. Vayikra 26:31 puts both in one pasuk: "I will make your cities a ruin (*charbah*) and lay your sanctuaries waste (*vahashimosi*)."
 
+**Rendering guidance.**
+
+- Default renderings: *churban* "destruction," *charbah* "ruin" or "waste
+  place," *shemamah* "desolation," *shamem* "laid waste" or "desolate."
+- Trap: English "destruction" absorbs both words, and "devastation" absorbs both
+  as well. Where they stand together (Vayikra 26:31), keep one for ח-ר-ב and one
+  for ש-מ-ם, with the *shemamah* word the heavier of the two.
+- *Churban HaBayis* is a fixed term. Leave it transliterated and gloss it once;
+  "the Destruction" with a capital D is acceptable in running English where the
+  reference is unmistakable.
+- Where a passage builds on Pappenheim's sense of *churban* as severance, do not
+  render it "demolition." The point of the word there is precisely that nothing
+  visible was demolished. On Rabbi Klein's reading of Rabbi Chaim of Volozhin
+  (above), *Churban HaBayis* names that severance and *shemamah* names the
+  rubble.
+- *Mishtomem* in a mussar context is "stands astounded," not "is desolate";
+  Radak's two senses share a root but not a rendering.
+
 **דין / רחמים / תקיעה / תרועה / אלקים** — divine judgment | din, rachamim, tekiah, tekiyah, teruah, teruos, teruot, Elokim | reviewed | [judgment-din-rachamim.md](entries/judgment-din-rachamim.md)
 
 *Din* is **judgment** and *rachamim* is **mercy**; as Rabbi Reuven Chaim Klein explains them, the difference between them is where the attention rests. Under *rachamim* the focus is on the Giver, so the flow is constant and unearned. Under *din* the focus is on the receiver, so the flow is measured out by what he deserves. *Din* is not punishment: Hashem gives under *din* too. The Divine Name of *din* is *Elokim*; the four-letter Name is the Name of *rachamim*. In the shofar, *tekiah* (one unbroken sound) answers to *rachamim* and *teruah* (a broken, fragmented sound) to *din*.
+
+**Rendering guidance.**
+
+- *Din* / *rachamim* as a pair: **judgment and mercy**. Where the sense is the
+  mode of Divine conduct rather than a verdict, "the attribute of judgment" and
+  "the attribute of mercy" are safer.
+- Ramban's formulas are best left transliterated with a gloss: *din b'rachamim*
+  (judgment within mercy), *rachamim b'din* (mercy within judgment). Do not
+  invert them; the inner word is the operative one.
+- *Tekiah* and *teruah* stay transliterated in any halachic or shofar context.
+  Where the drashah turns on the sound, gloss once: *tekiah* (an unbroken
+  blast), *teruah* (a broken one).
+- Trap: English "mercy" will also absorb *chesed*, *chanun*, and *rachum*, and
+  English "judgment" will absorb *mishpat* and *din* alike (see the *din /
+  mishpat / chok / dat* entry). If a passage sets *din* against *mishpat*, no
+  single English word may cover both.
+- Trap: *rachamim* is not softness. When *din* and *rachamim* stand together in
+  one phrase, the contrast to carry into English is focus on the receiver
+  against focus on the Giver, not harshness against gentleness.
 
 **עריסה / בצק / עיסה / חלה / ארוסה / ערבה** — dough | arisah, arisa, aristeichem, batzek, batzeik, issah, isah, issa | reviewed | [dough-arisah-batzek-issah.md](entries/dough-arisah-batzek-issah.md)
 
 All three mean **dough**. Where a passage distinguishes them: *arisah* is dough as a **mixture** just kneaded together (the Torah's word in the mitzvah of *challah*), *batzek* is dough already worked into one batch and **rising** (the Torah's word for ordinary dough), and *issah* is the Mishnaic word, dough as the thing that is **kneaded and pressed**. But the distinction is not agreed: Ibn Janach and Radak hold *arisah* and *batzek* to be simply synonymous, and which reading prevails is left open.
 
+**Rendering guidance.**
+
+- Default: **dough** for all three. Reserve a distinguishing rendering for a
+  passage that actually turns on the difference.
+- Where the contrast is live, render *arisah* **the mixed dough** or **your
+  batch of dough** and *batzek* **the risen dough** or **the dough as it
+  swells**. Rabbi Ratzabi floats a halachic consequence, conditionally: if the
+  distinction holds, *challah* should be separated immediately after kneading,
+  while the dough is still *arisah*, before it becomes *batzek*. It is a
+  proposal, not a ruling, and should not be quoted as one.
+- Trap: English "dough" absorbs all three, and "batch" absorbs *batzek* and
+  *issah* both. If a sugya quotes a pasuk with *arisah* and then discusses it
+  in Mishnaic *issah*, keep the two English words distinct so the reader can
+  see which register each sentence is in.
+- *Batzek* outside the bakery is **swollen**, not "doughy": "their feet did not
+  swell."
+- *Arisah* under Rabbeinu Meyuchas is **kneading trough**, not dough. Flag the
+  reading rather than smuggling it into the main text.
+
 **כרת / כריתות / ערירי / ערירים** — excision | karet, kares, kareis, krisus, keritot, kerisos, sefer krisus, ariri | reviewed | [excision-karet-ariri.md](entries/excision-karet-ariri.md)
 
 *Karet* is **excision**, the sinner himself cut off: from his years, from his soul's place in the World of Souls, or from the source his soul hangs on. *Ariri* is **childless**, the line ending rather than the man. Whether they are one punishment or two is a *machlokes*: Rashi holds every *karet* can carry *ariri* with it; Riva holds *ariri* is a separate penalty attaching only to the forbidden marriages.
+
+**Rendering guidance.**
+
+- Keep *karet* transliterated in any halachic passage; it is a term of art with
+  thirty six *aveiros* attached to it. Where an English word is wanted, "excision"
+  or "being cut off," with the gloss "a Divine punishment" at first use.
+- *Ariri*: "childless." Bereishis 15:2 is "I go childless," and Vayikra 20:20 is
+  "they shall be childless," not "they shall be cut off," which would import
+  *karet* into a pasuk that did not say it.
+- The doubled *hikares tikares* (Bamidbar 15:31) is load bearing for Ramban and
+  Rabbeinu Bachya. Render the doubling ("he shall surely be cut off") rather than
+  smoothing it, since two *kareisos* are being derived from it.
+- *Karat bris* is "made a covenant" in idiomatic English, but where a passage is
+  working the cutting sense (Pappenheim, or the *bris bein habesarim*), write
+  "cut a covenant" and let the image stand.
+- Trap: English "cut off" serves for *karet*, for *ariri*, and for *sefer
+  krisus* alike. Fix "cut off" to *karet*, "childless" to *ariri*, and "bill of
+  severance" or plain *get* to *sefer krisus*.
+- Trap: "extirpation" and "excommunication" both drift into range. The second is
+  simply wrong; *karet* is not *cherem*.
 
 **קמח / סולת / גרש / סמידא / קמה** — flour | kemach, soles, solet, solta, geres, geress, semida, semidah | reviewed | [flour-kemach-soles.md](entries/flour-kemach-soles.md)
 
 *Kemach* is ordinary **flour**, ground with the bran and germ still in it: **whole wheat flour**, and by extension anything of the coarser grade. *Soles* is the sifted, refined grade: **fine flour**. Rav Hirsch (Bereishis 18:6) makes the point sharply: the difference is not how fine or coarse the grind is per se, but the difference between whole wheat flour and white flour, *soles* being made of the endosperm alone. So *kemach* has everything in it and *soles* has been sifted clean. Rashi (Bava Metzia 87a) states that *soles* is better than *kemach*.
 
+**Rendering guidance.**
+
+- Default pair: *kemach* = **flour** (or "whole wheat flour" where the contrast
+  is live), *soles* = **fine flour**. "Fine flour" is the safe rendering in a
+  korbanos context and matches the sifting the Mishnah describes.
+- Do not render *soles* as "semolina." The English word does descend from the
+  Aramaic *semida*, as Rabbi Klein notes; but
+  semolina in current English is a coarse durum meal, the opposite of what
+  *soles* means.
+- Trap: English "flour" alone will swallow both words. In any passage that
+  grades them (Avos 5:15, Bava Metzia 87a, the Kimchis maamar) keep the two
+  renderings visibly different, and in a metaphor render the sense, "coarse
+  stock yields coarse stock, but Kimchis's yields the finest."
+- The two together: Bereishis 18:6, *kemach soles*. Bava Metzia 87a reads the
+  doubling as Avraham offering the better grade and Sarah the lesser, so a
+  translation following the Gemara must keep both words distinct. Radak reads
+  the phrase as one thing, *kemach* to be made into *soles*; on his reading
+  render "flour for fine meal." Say which you follow.
+- Where the Torah writes *kemach se'orim* (Bamidbar 5:15), render "barley
+  flour" and let a note carry the point that the coarse word is deliberate.
+
 **טוב / נעם / נעים / שפר / שפיר** — good | tov, tob, tovah, noam, no'am, naim, na'im, neimah | reviewed | [good-tov-noam-shapir.md](entries/good-tov-noam-shapir.md)
 
 *Tov* is **good**, the plain and general word. *Noam* (adjective *naim*) is **pleasant**: goodness felt as beauty that draws a person in; Rabbi Bedersi (*Chosam Tochnis*) defines it as *yofi*. *Shapir* / *shefer* is **fine** or **fitting**: goodness in the sense of well done, proper, meeting the standard; Bedersi defines it as *tov*, and in the Gemara *shapir* is primarily the adverb "well". Two readings of Bedersi's split, neither of them his own words: Rabbi Klein, who freely admits he is probably reading too much into Bedersi, takes *noam* as subjective, personally felt goodness and *shapir* as objective goodness; Rabbi Shaul Goldman holds that even if both are subjective they name different qualities, *noam* attraction and desirability (whatever its basis) and *shapir* plain positivity with no pull in it. *Tov* and *naim* sit together in one pasuk (Bereishis 49:14).
+
+**Rendering guidance.**
+
+- *tov*: "good". Keep it plain; it is the word the others are measured against.
+- *noam* / *naim*: "pleasant", "pleasantness"; "sweet" only in the gastronomic
+  sense (see Rabbi Klein's "Sweet and Pleasant", Jan. 2018). *Darkei noam*:
+  "ways of pleasantness".
+- *shapir* / *shefer*: "fine", "fitting", "well" (Aramaic adverb), "becoming".
+  *Imrei shefer*: "fine sayings" or "goodly words"; not "beautiful words", which
+  hands *shefer* the English that belongs to *yofi* and *noam*.
+- Together, Bereishis 49:14: "he saw that rest was good and the land was
+  pleasant." Tehillim 16:6: "portions have fallen to me in pleasant places; yes,
+  a fine inheritance is mine." Two words, never "good" twice.
+- Trap: "good" absorbs all three, and "beautiful" absorbs *noam* and *shapir*
+  (both lexica define both as *yofi*). If the passage turns on the difference,
+  give *noam* the felt, attractive side and *shapir* the proper, well-made side;
+  that split is common to both readings of Bedersi.
+- Aramaic *shapir* in a Gemara quotation: "well", "rightly", "correctly".
 
 **מקבת / פטיש / קורנס / הלמות / ארזפתא** — hammer | makeves, makevet, makavos, makavot, makavan, patish, patisha, kurnas | reviewed | [hammer-makevet-patish-kurnas.md](entries/hammer-makevet-patish-kurnas.md)
 
 *Makeves* is the heavy hammer, **mallet** or **sledgehammer**, the tool Yael used (Shoftim 4:21); *halmus* is the poetic word for the very same tool (Shoftim 5:26). *Patish* is the plain **hammer**, for Rashi (to Shabbos 21b) the blacksmith's; *kurnas*, Mishnaic only, is the **smith's hammer**. The sources grade their sizes against each other, and HaBachur and the *Aruch* disagree over whether *kurnas* is a big or a small *makeves*.
 
+**Rendering guidance.**
+
+- Shoftim 4:21 and 5:26 are one story told twice. Render מקבת "mallet" and הלמות
+  "mallet" too, so the reader sees it is the same tool.
+- Trap: English "hammer" absorbs all four. Where a source grades two at once
+  (*Sefer HeAruch*; Rashi to Shabbos 21b), keep "hammer" and "sledge" apart.
+- קורנס in a Mishnah or in Rashi is "smith's hammer"; the generic "hammer" is
+  now פטיש.
+- מכבי / מקבי: transliterate "Maccabee"; rendering it "the Hammer" silently
+  picks one side of the machlokes.
+
 **קשה / קשיח / פרך / מקשה / הקש / קושיא / פרוכת** — hard | kashah, kasha, kashe, akasheh, kashiach, kashiah, perech, parech | reviewed | [hard-kashah-kashiach-perech.md](entries/hard-kashah-kashiach-perech.md)
 
 *Kashah* is the general word, and covers both English senses of hard: **hard** as in rigid and unyielding, and **hard** as in difficult. *Kashiach* is not hardness of substance at all but cruelty (Ibn Ezra, Radak), for Rabbi Shlomo Ibn Melech specifically toward those one should love: **cruel, callous**. *Perech* literally breaks, so *avodas perech* is **back-breaking** labor, or, on a second line of reading, **pointless** labor, work with no end and no product. Rabbi Shlomo of Urbino (*Ohel Moed*) lists the three as the Hebrew words for hard.
+
+**Rendering guidance.**
+
+- *Kashah* of an object: "hard," "rigid." Of a task or a decree: "harsh" or
+  "difficult." Of Pharaoh's heart: "harden" is standard, but if Rabbi
+  Mecklenburg's reading is being cited, render "make it hard for his heart to
+  bear" and say so.
+- *Kashiach*: "callous" or "cruel," never "hard." Iyov 39:16 reads "she deals
+  callously with her young"; "hardens herself" keeps the Hebrew image but hides
+  the estrangement Rabbi Shlomo Ibn Melech puts in the word.
+- *Avodas perech*: "back-breaking labor" (Rashi), or "crushing, pointless labor"
+  (Rasag and *Toras Kohanim*). Where a passage cites both, give both, because the
+  halachah in Vayikra 25:43 turns on which one it is.
+- *Mikshah*: "hammered work," or "beaten from a single block," not "hard work."
+- Trap: English "hard" will take *kashah* and *perech* together, and English
+  "hard-hearted" will take *kashah* and *kashiach* together. Rabbi Klein reads
+  the Haggadah's equation of *avodah kashah* with *perech*, and Onkelos's
+  *kashyu*, as suggesting the two are roughly equivalent, and then works through
+  their differences all the same; in translation keep them apart wherever the
+  passage turns on the difference.
 
 **חברון / קרית ארבע / ממרא / אשכול** — hebron | chevron, hevron, chevrone, kiryas arba, kiryat arba, kiryas haarba, mamre, mamrei | reviewed | [hebron-chevron-kiryas-arba-mamre-eshkol.md](entries/hebron-chevron-kiryas-arba-mamre-eshkol.md)
 
 One city, four names (*Bereishis Rabbah* 58:4). **Chevron** is the standing name, which seems to derive from ח-ב-ר, connection or friendship. **Kiryas Arba** is the older one (Yehoshua 14:15), and the live question is whether *arba* is the number, "City of Four," or the personal name of the giants' father, "City of Arba"; Rashi holds each way in a different place, and other scholars suggest a third view, that the name is of non-Semitic origin and originally had nothing to do with either. **Mamre** and **Eshkol** are the names of Avraham's two allies, and the Midrash counts both as names of the city as well.
 
+**Rendering guidance.**
+
+- Render the names, do not translate them: Chevron, Kiryas Arba, Mamre, Eshkol.
+  "The City of Four" belongs in a note or an apposition, not in the pasuk.
+- Trap: English "Hebron" and "Kiryath-arba" look like two towns to a reader. The
+  Torah goes out of its way to say they are one; where a passage names both,
+  keep the identification explicit, "Kiryas Arba, that is Chevron."
+- Where a derashah turns on *arba* meaning four, translate it there and only
+  there, and say whose reading is being used, since Rashi to Yehoshua 14:15
+  takes the opposite view from the Midrash.
+- *Elonei Mamre*: "the Plains of Mamre." Where the passage treats Mamre as the
+  district and Chevron as the city within it, keep them distinct in English;
+  where the Midrash treats them as one name among four, say so.
+- Nachal Eshkol: "the Valley of Eshkol," with "cluster" reserved for the *eshkol*
+  of grapes itself, so that the wordplay in Bamidbar 13:23-24 survives.
+
 **הלום / פה / הנה / זה / כה / כאן** — here | halom, poh, po, pe, heinah, heina, hena, zeh | reviewed | [here-halom-poh-heinah-zeh-koh.md](entries/here-halom-poh-heinah-zeh-koh.md)
 
 *Poh* is the ordinary **here**, and for Luzzatto and Wertheimer the precise one: a specific spot. *Halom* is directional, **hither**, a step arrived at rather than a place stood in (Rav Hirsch, as Dr. Lawrence Resnick sums him up), and Chazal read it as marking a place of royal weight (Zevachim 102a). *Heinah* is **here** as a destination reached from elsewhere (Luzzatto), and, unlike *poh* and *halom*, also **until now** (Bedersi). *Zeh* for place is the loose one, a general area, and *koh* is **thereabouts** (both Luzzatto).
+
+**Rendering guidance.**
+
+- Bamidbar 22:8 against 22:19 is the worked case: Bilam lodges the first
+  delegation *poh*, in his own house, and the second, too many and too grand to
+  house, *zeh*, somewhere in his town (Luzzatto). Never render both "here."
+- Bereishis 15:16 must not read "here" twice: "they shall return here, for the
+  sin of the Emori is not complete until now."
+- Trap: "here" absorbs the whole cluster; where two stand side by side, or a
+  derashah rests on *halom*, mark the difference in the English.
 
 **צפון / ספון / טמון / גנוז / נסתר / מוסתר / נעלם / סתר / מסתור / גניזה / הטמנה / תעלומה** — hidden | tzafun, tzafoon, tsafun, tzofun, safun, sfun, tamun, tomun | reviewed | [hidden-tzafun-safun-tamun-ganuz.md](entries/hidden-tzafun-safun-tamun-ganuz.md)
 
 All six mean "hidden," and Rabbi Shlomo Pappenheim does most of the separating. *Tamun* is **buried, concealed within** something (for Pappenheim, usually the ground). For him *safun* is **stowed, hidden away** deliberately, its outer face seemingly covered, and *tzafun* is **hidden away for safekeeping, stored up**: concealed in order to preserve. *Ganuz* is **stored away, put in the treasury** (Rabbinic: consigned to *genizah*). *Nistar* / *mustar* is **hidden** from sight or from knowledge. For Pappenheim *ne'elam* is **hidden from the mind, beyond one's grasp**.
 
+**Rendering guidance.**
+
+- טמון: "buried," "concealed [in]." ספון: "stowed away," "hidden [beneath]";
+  where the hiding is orderly and deliberate (Pappenheim), "reserved" fits.
+- צפון: "hidden away," "stored up"; where the context is a good held back in
+  reserve, "laid up," "kept in store." Do not write "concealed" or "obscure"
+  for צפון when the passage means treasure held back for its hour: the
+  preserving sense (Pappenheim) is the whole point.
+- גנוז: "stored away," "hidden in safekeeping"; writings, "consigned to genizah."
+- נסתר / הסתר: "hidden," "concealed"; הסתר פנים "the hiding of His face"; סתר
+  as a noun, "secrecy," "a hidden place" (see the secret entry).
+- נעלם: "hidden [from him]," "unknown," "beyond his grasp"; it answers to the
+  mind, not the eye. תעלומות "hidden things," "mysteries."
+- Trap: "hidden" absorbs all six, and "concealed" absorbs טמון and נסתר. When
+  a passage lists two (טמון וצפון, גנוז ונעלם), keep two English words: one
+  for how it is covered, one for why. When צפון and גנוז stand together, both
+  are treasure-words; render צפון "stored up" and גנוז "hidden away."
+
 **וו / ווים / אגמון / שפתים / אנקליות / אגם / גמא** — hook | vav, vavim, vavin, agmon, agmonim, shfataim, shefataim, shefatayim | reviewed | [hook-vav-agmon-shfataim.md](entries/hook-vav-agmon-shfataim.md)
 
 There are seemingly three words for "hook" in Biblical Hebrew and one in Mishnaic. *Vav* seems to be the most basic, the fittings of the Mishkan's pillars, and it occurs nowhere else in Tanach. *Agmon* is a **hooked reed** or thistle, used, as Rabbi Pappenheim explains it, as a fishhook and then for anything bent. *Shfataim* occurs once and is disputed: **hooks** (Targum, Rashi) or a **setting for pots** (Radak, Abarbanel) or a **ledge** (Rabbi Eliezer of Beaugency). *Ankliyot* is the Mishnaic word for a hook, especially its barbed part, and appears to be a Greek loanword; it is what Targum uses for *shfataim* and, at least at Iyov 40:26, for *agmon*.
+
+**Rendering guidance.**
+
+- *Vav* in the Mishkan chapters: **hook**. The pillars' *vavim* are their
+  hooks; the word does not need transliteration except where the letter-name
+  play is the point.
+- *Agmon*: **reed** where the plant is meant (Yeshayahu 58:5, the bowed head
+  like a reed), **hook** where the fishing sense is (Iyov 40:26). Choose by
+  context; the word carries both.
+- *Shfataim*: give the Targum's **hooks** with a gloss for Radak's **hearths**
+  or Rabbi Eliezer of Beaugency's **ledges**, or the reverse; do not print one
+  silently.
+- Trap: English "hook" absorbs *vav*, *agmon*, *ankliyot* and one reading of
+  *shfataim*. Where a source glosses one Hebrew word with another (Rashi
+  explaining *vavim* as *ankliyot*), keep the gloss visible: "*vavim*, that is,
+  *ankliyot*, hooks," rather than "hooks, that is, hooks."
+- Second trap: *agmon* and *gome* both name marsh plants, and "reed" will cover
+  both. Where they stand together, take *gome* as **bulrush** and *agmon* as
+  **hooked reed**.
 
 **כנרת / גניסר / טבריה / כנור** — kinneres | kinneres, kinneret, kineret, yam kinneres, ginosar, genosar, ginnosar, tiveria | reviewed | [kinneres-ginosar-tiveria.md](entries/kinneres-ginosar-tiveria.md)
 
 One lake, three names, each seemingly taken from whichever city on its shore was most prominent at the time: **Kinneret** in Tanach, **Ginosar** in the Targumim and in the works of that era, Josephus included, and **Yamah shel Tiveria**, the Sea of Tiberias, in the Gemara. It seems, Rabbi Klein says, that the lake has no name of its own at all. "The Sea of Galilee" is a regional label and not the term any of these sources uses.
 
+**Rendering guidance.**
+
+- Use the name the source uses: "Kinneres" in a pasuk, "Ginosar" in a Targum,
+  "the Sea of Tiveria" in a sugya. Substituting one for another silently erases
+  the chronology, which is Rabbi Klein's whole point.
+- Trap: English "Sea of Galilee" absorbs all three, and it renders none of them.
+  Rabbi Klein traces the phrase to the Christian Bible, which occasionally calls
+  the lake the Sea of Tiberias but more often the Sea of Galilee, and which is
+  why English speakers know it by that name; Galilee was the administrative name
+  of the whole northern region of Eretz Yisrael in Hasmonean and Herodian times,
+  so this too, he says, is the lake named for its surroundings rather
+  than a name of its own. Keep it out of a Torah text; if a reader needs the
+  identification, put it in a note.
+- Second trap: *kinnor* elsewhere is a harp or lyre and should stay so. Do not
+  import "harp" into the lake's name on the strength of the shape story, for
+  which no early source is given.
+- *Yam* here is a lake. "Sea" is the conventional rendering and is fine, but
+  where the geography matters, say so.
+- Chamas and Rakas are city names, not adjectives; keep them transliterated and
+  let the derashah on "hot" and "empty" be carried in a note.
+
 **מדרגה / מדרגות / מעלה / מעלות / סולם / דרגא** — level | madreigah, madreiga, madrega, madregah, madreigos, madreigot, madregot, maalah | reviewed | [level-madreigah-maalah-sulam.md](entries/level-madreigah-maalah-sulam.md)
 
 *Maalah* (plural *maalos*) is a step *up*, an ascent; in the abstract a **step up, an advantage, a virtue**: physically **step, stair**. *Madreigah* is a graded step or terrace; in later Hebrew a **degree, a level** (of achievement, the spiritual *madreigah* among them). *Sulam* is a **ladder**, though Rashi defines it by *maalos* and *madreigos* alike. In Tanach *maalos* is the ordinary word (some fifty times; *madreigos* only twice), and Rabbi Shlomo Aharon Wertheimer, who alone here separates them by sense, makes *madreigos* a terraced way cut up a mountainside and *maalos* a free-standing stair in a house or courtyard; that is why the altar prohibition says *maalos* (Shemos 20:23).
+
+**Rendering guidance.**
+
+- *Madreigah* in the abstract (a person's *madreigah*, *madreigos* of
+  avodah): "level"; "degree" where a scale is explicit. Physical *madreigos*:
+  "steps," or "terraces" on a hillside (Wertheimer).
+- *Maalah* in the abstract: "virtue," "advantage," "a step up"; in Tanach
+  physical *maalos* are "steps" or "stairs" (the altar, the throne). *Shir
+  HaMaalos*: "Song of Ascents."
+- *Sulam*: "ladder" for Yaakov's dream and in the Mishnah unless the Gemara's
+  context is plainly a fixed stair; then "stairway" is defensible from Rashi.
+- When *maalos* and *madreigos* stand together (Rambam, Hilchos Beis
+  HaBechirah 1:17; Rashi glossing one by the other), the second is a gloss,
+  not a second object; render the Torah's own word and let the gloss be
+  silent or bracketed.
+- Trap: "step" absorbs *maalah* and *madreigah*, and "level" absorbs
+  *madreigah* and abstract *maalah*. Where a text climbs (a ladder of
+  *madreigos*, a *maalah* above a *maalah*), keep one English word per Hebrew
+  word, and remember that only *maalah* carries the upward sense in its root.
 
 **שש / בד / בוץ / פשתים / פשתה / כיתנא / כרפס / צמר גפן / כותנה** — linen | sheish, shesh, bahd, bad, butz, buts, pishtah, pishtan | reviewed | [linen-sheish-bahd-butz-pishtim.md](entries/linen-sheish-bahd-butz-pishtim.md)
 
 All four are linen. *Pishtim* (and *pishtah*, *pishtan*) is **flax**, the raw material. *Butz* is **fine linen** as a material, on one view the Aramaic-Hebrew rendering of the Egyptian *sheish*. *Sheish* is **fine linen** thread, six fibers to the strand, and is the Torah's word for the Mishkan's weaving. *Bahd* is the **single-fiber** linen thread, from *bad*, "alone," and it is the word for the Kohen Gadol's white garments on Yom Kippur. Cotton is not in this family at all: it did not exist in the ancient Near East, and where Rabbinic Hebrew needs it, it says *tzemer gefen*. The modern *kotna* is not the Semitic *kitna*, "linen"; Kutscher traces it to *katan*, "small."
 
+**Rendering guidance.**
+
+- Mishkan and *bigdei kehunah* passages: *sheish* is "fine linen," *bahd* is
+  "linen" (the Yom Kippur *bigdei lavan*), *pishtim* is "flax" or "linen" by
+  context. Holding these apart keeps Ralbag's material-versus-thread distinction
+  visible.
+- Where *sheish* is doing color work rather than fabric work (the Steipler's
+  reading), do not silently write "linen." Give "fine linen" and let a note carry
+  that the Gemara had to establish the material.
+- *Bahd*: resist "alone" in a garment context and resist "linen" in a context of
+  separateness. The same word does both, and which one the pasuk wants is a
+  reading decision.
+- Trap: English "linen" absorbs *sheish*, *bahd*, *butz* and *pishtim* alike. In
+  a passage that lists more than one, give *pishtim* the plant word ("flax"),
+  keep "fine linen" for *sheish* and *butz*, and let *bahd* stand as plain
+  "linen."
+- Trap: never render *kotna* or *tzemer gefen* as linen, or *kitna* as cotton.
+  The two words look alike and belong to different roots.
+
 **אולי / פן / שמא / דלמא** — maybe | ulai, ulay, oolai, pen, shema, sheme, shemay, dilma | reviewed | [maybe-ulai-pen.md](entries/maybe-ulai-pen.md)
 
 *Ulai* is **maybe** for an outcome the speaker wants (or at least expects); *pen* is **lest**, a maybe the speaker hopes will not happen. On Rabbi Eliyahu HaBachur's and Rabbi Immanuel Benevento's view, Biblical Hebrew has no neutral "maybe" at all: every *ulai* and every *pen* carries the speaker's leaning. Rabbi Shlomo of Urbino holds the opposite, that *ulai* is neutral, and Rabbi Klein leaves the machlokes standing, noting a significant problem with the first view. Aramaic *shema* / *dilma* is neutral on all accounts.
+
+**Rendering guidance.**
+
+- אולי: "perhaps" or "maybe." Where a derashah turns on the word, add the
+  leaning in a bracket: "perhaps [as he hoped] the woman will not follow me."
+- פן: "lest," or "in case," never a bare "maybe." "Lest he stretch out his
+  hand" preserves what "maybe he will stretch out his hand" destroys.
+- Trap: English "maybe" absorbs both, and a translation that uses it twice in
+  one passage erases the whole distinction. If *ulai* and *pen* stand near
+  each other, render them with different English words on purpose.
+- Aramaic שמא / דלמא in a Gemara passage: "perhaps," neutral. Do not import
+  the *ulai* leaning into them.
+- Pronunciation of שמא: *shema*, with a kamatz under the mem, is the
+  traditional form; Rabbi Meir Mazuz, a contemporary Sephardic grammarian in
+  Bnei Brak, claims on the basis of HaBachur's vowelization and other sources
+  that the correct pronunciation is *sheme*, with a segol; and the Kaufmann
+  Manuscript, the oldest vowelized manuscript of the Mishnah, consistently
+  vowelizes *shemay*, with a tzeirei.
 
 **אמצע / מרכז / לב / טבור / רכס / אליבא** — middle | emtza, emtzai, metzia, metziyata, merkaz, merkazi, rikuz, lev | reviewed | [middle-emtza-merkaz-lev-tabur.md](entries/middle-emtza-merkaz-lev-tabur.md)
 
 They divide first by period. *Emtza* is the **middle** of Mishnaic Hebrew and does not occur in Tanach. *Merkaz* is **center** and is later still, first used in medieval Hebrew and borrowed from Arabic (Rabbi Shmuel Ibn Tibbon says so himself); it carries the extra sense of "principal, main," as "central" does in English. Tanach says middle with two body words: *lev*, the **heart** or midst of a thing, and *tabur*, the **navel** or central point of a land.
 
+**Rendering guidance.**
+
+- Period-match before you translate. A pasuk gets **midst** or **heart**
+  (*lev*) and **navel** or **center of the land** (*tabur*); a Mishnah gets
+  **middle** (*emtza*); *merkaz* belongs to later Hebrew and to modern usage.
+- Shemos 15:8, *belev yam*: "in the **heart** of the sea." Devarim 4:11, *ad lev
+  hashamayim*: "to the **heart** of heaven." "Middle of the sea" is flat and
+  "center" is anachronistic.
+- Shoftim 9:37, *tabur ha'aretz*: "the **center** of the land," or keep *tabur*
+  and gloss where the drashah wants the navel image.
+- Trap: English "center" will absorb *emtza*, *merkaz*, *lev* and *tabur* at
+  once, and it will also absorb "main, principal," which only *merkaz* carries.
+  When a source contrasts geometric middle with chief importance, use "middle"
+  for the one and "main" or "principal" for the other, and never "central" for
+  both.
+- Trap: *besoch* is inside, not middle. Do not render "in the middle of the
+  garden" for *besoch hagan* unless you follow the Targum's *emtza* and say so;
+  Ramban reads it as simply within.
+
 **רסן / מתג / זמם / פרומביא / אפסר / זמה** — muzzle | resen, ressen, meteg, metheg, zemam, zemama, zomem, zamam | reviewed | [muzzle-resen-meteg-zemam.md](entries/muzzle-resen-meteg-zemam.md)
 
 *Resen* and *meteg* are both the gear that controls a beast. Rabbi Avraham Bedersi has *meteg* the metal bit and *resen* a rope or a leather bit; Dr. David J. A. Clines, with a similar approach, has *meteg* the whole bridle and *resen* the mouthpiece or the reins; Rabbi Moshe Tedeschi-Ashkenazi has the exact opposite of Bedersi, *meteg* the leather strap and *resen* the metal bit. Aramaic *zemam* covers both and is a **muzzle**, the device that closes a mouth. *Prumbia* is the rabbinic **muzzle/halter**; *afsar* is the **reins** by which one takes legal possession of an animal. The noun *zemam* (muzzle) is distinct from its homograph *zomem/zimah* (plot, scheme), though the sources tie them.
+
+**Rendering guidance.**
+
+- Tehillim 32:9, where both appear: "with bit and bridle" keeps them apart,
+  following Bedersi's metal/leather split. Note in a footnote that *Otzar
+  Nirdafim* reverses it rather than silently picking a side.
+- Trap: English "bridle" will happily swallow *resen*, *meteg*, *prumbia* and
+  *afsar* at once. Where a passage turns on the difference (a Mishnah listing
+  the gear, a derashah on Bamidbar 23:16), pick a distinct English word per Hebrew
+  word and hold it for the whole passage.
+- Bamidbar 23:16, *vayasem davar b'fiv*: with Rashi and *Bamidbar Rabbah* 20:20
+  the *davar* is a *resen*, so render "a bit in his mouth" and gloss it as the
+  mouthpiece by which a rider controls a beast; "word" alone loses the image.
+- Do not render the *zemam* group's two senses with one English word. The
+  muzzle is "muzzle"; *zomem* is "plot" or "scheme"; keep *eidim zomemim*
+  transliterated, since "conspiring witnesses" is a halachic term of art.
+- *Zimah* in Vayikra is "licentiousness" or "depravity," not "plot," even
+  though Rabbi Shlomo Pappenheim derives it from the plotting sense.
 
 **מרדכי / פתחיה / בלשן / אסתר / הדסה** — names of Mordechai and Esther | mordechai, mordecai, merodach, petachyah, pesachyah, bilshan, esther, ester | reviewed | [names-mordechai-esther-hadassah.md](entries/names-mordechai-esther-hadassah.md)
 
 All five are names, and each pair is two names, not one. **Mordechai** is the Babylonian name the Megillah uses throughout, **Petachyah** his Hebrew name, **Bilshan**, for the Gemara, a title of his mastery of languages. **Esther** is the name the Megillah uses; **Hadassah** appears once, at Esther 2:7, whose *hi Esther* says they are one woman. Which was her birth name is a Tannaic dispute.
 
+**Rendering guidance.**
+
+- Transliterate all five, roman type, no translated gloss in the body; bring in "myrtle" or
+  "hidden" only in a note, and say whose reading it is.
+- Esther 2:7 is the trap: "he raised Hadassah, that is Esther." Collapsing the names, or
+  rendering Hadassah as "Myrtle," destroys the pasuk's own clarification and the sugya on
+  it; compare *hu haGoral* (Esther 3:7, 9:24).
+- Where the Gemara plays on a name (*mira dachya*, *haster astir*), keep the Hebrew in
+  brackets; these are derashos on sound.
+- Do not write that Mordechai "was named after" a Babylonian deity. Rabbi Klein's
+  own formulation is the one to follow: the name and its variants, current in
+  Babylonian and Persian society, were rooted in the god's name, but by then one
+  bore such a name without being named for an idol.
+
 **משה / ירד / אבי גדור / חבר / אבי סוכו / יקותיאל / אבי זנוח** — names of Moshe | moshe, mosheh, yered, avigdor, avi gedor, chever, chaver, avi socho | reviewed | [names-moshe-yered-avigdor-yekusiel.md](entries/names-moshe-yered-avigdor-yekusiel.md)
 
 These are not synonyms but one man's ten names. The six of Divrei HaYamim I 4:18 (Yered, Avigdor, Chever, Avi-Socho, Yekusiel, Avi-Zanoach) are read as Moshe by *Vayikra Rabbah* 1:3, each expounded from a Hebrew root; four more (Toviah, Shemayah, Ben Nesanel, Levi) follow. The Midrash concludes that of all ten, the Torah and Hashem Himself call him only **Moshe**, the name Basyah gave him.
+
+**Rendering guidance.**
+
+- Trap: an English rendering absorbs the name and kills the derashah. Do not
+  write "the Descender" for Yered or "Father of the Fence" for Avigdor. Keep
+  Yered, Avigdor, Chever, and gloss: "Yered, from *yarad*, to descend."
+- Where the Midrash gives two or three readings of one name, list them; choosing
+  one silently is a translation of the Midrash, not of the pasuk.
+- Names are roman and unitalicized. The words expounded from them (*geder*,
+  *chibbur*, *socheh*, *tikvah*) are terms and take italics or transliteration
+  markup.
+- Divrei HaYamim I 4:18, on Radak's plain sense, names three children born to
+  Kalev by his "Jewish" wife: Yered father of Gedor, Chever father of Socho, and
+  Yekusiel father of Zanoach. Chazal teach that the whole of Divrei HaYamim is
+  written for derashah and is not to be read literally (*Vayikra Rabbah* 1:3),
+  and the Midrash reads all three as Moshe, a reading Rabbi Klein says is bolstered
+  by Basyah's appearing at the end of that very passage. Do not present the
+  Midrash as the pshat.
+- On whether the name Moshe is a Hebrew rendering of the Egyptian names Monius or
+  Mosh, Rabbi Klein raises the question and refers the reader to his own
+  *Lashon HaKodesh: History, Holiness, & Hebrew*, Appendix B, rather than
+  settling it.
 
 **שלמה / ידידיה / קהלת / אגור / יקה / איתיאל / למואל / עלוקה** — names of Shlomo HaMelech | shlomo, shelomo, shelomoh, shalem, shalom, yedidyah, yedidiah, yedid | reviewed | [names-shlomo-koheles-agur-lemuel.md](entries/names-shlomo-koheles-agur-lemuel.md)
 
 Two of the twenty-four books open by ascribing themselves to Shlomo, *Shir HaShirim* and *Mishlei*, and a third, *Koheles*, ascribes itself to Koheles son of David, king of Yerushalayim, whom tradition identifies as Shlomo; that gives three names, and Rabbi Yehoshua ben Levi, the early Amora, adds four more, for seven in all: **Shlomo**, **Yedidyah**, **Koheles**, and the four proper names in the last two chapters of Mishlei, **Agur**, **Yakeh**, **Isiel** and **Lemuel**. Shlomo turns on completeness or peace (*shalem* or *shalom*); Koheles and Agur on gathering; Yakeh on spitting out; and Isiel and Lemuel, in the Midrash, both allude to his justification for exceeding the Torah's limits on a king.
 
+**Rendering guidance.**
+
+- In the body of Mishlei, translate the four as plain proper names: "the words of
+  Agur son of Yakeh," "the words of Lemuel the king." Substituting "Shlomo" for
+  them silently makes the Midrash into the text.
+- Trap: English "gathered" will take *hakhel*, *kahal* and *agar* alike, which is
+  fine when the point is that the names converge, and wrong when a derashah turns
+  on which word a given name is built from. Where both names appear, keep
+  *Koheles* to assembling people and *Agur* to amassing wisdom.
+- *Yedidyah* is best left transliterated with a gloss at first mention, "friend
+  of Hashem", which is how Rabbi Klein renders it; the Anglicised "Jedidiah" reads
+  foreign.
+- Where a passage plays *heikiah* against *Yakeh*, English needs the same verb
+  twice: "spat out" for both, or the wordplay disappears.
+- For the other Midrashic name-clusters see [names of Moshe](names-moshe-yered-avigdor-yekusiel.html)
+  and [names of Yosef](names-yosef-yehosef-avreich-tzafnas-paneach.html).
+
 **יעקב / ישראל / ישורון** — names of Yaakov | yaakov, yakov, jacob, yisrael, yisroel, israel, yeshurun, yeshurin | reviewed | [names-yaakov-yisrael-yeshurun.md](entries/names-yaakov-yisrael-yeshurun.md)
 
 Yaakov, Yisrael and Yeshurun are three names for one man, and though the Torah seems to use the first two almost interchangeably, the commentators distinguish them. Yaakov is the man, and by the Ohr HaChaim's reading the man in a low moment; Yisrael is the man as founder of the nation (Maharal, Rav Hirsch), an added name rather than a replacement (Rabbeinu Bachya); Yeshurun is a rare title of praise, four times in all Tanach, built on *yashar*, and it answers Esav's charge that Yaakov means crooked dealing (Ramban).
+
+**Rendering guidance.**
+
+- Transliterate all three; they are personal and national names, so they take roman
+  type, not italics, and never a translated gloss in the body.
+- The trap is English "Israel," which absorbs *Yisrael* the man, *Yisrael* the nation
+  and (in older translations) *Yeshurun*, usually Englished "Jeshurun." Keep *Yeshurun*
+  distinct, or the Zohar's ranking and the Chasam Sofer on the *choshen* become
+  invisible.
+- Where a source turns on the etymology, gloss it in a note rather than in the text:
+  *Yaakov* from *akeiv*, *Yisrael* from *sar*, *Yeshurun* from *yashar*. Rendering a
+  name by its meaning ("the straight one") loses that it is a name.
+- Bereishis 27:36 must show the wordplay, Esav's *vayaakveini* against the name Yaakov;
+  bracket the Hebrew rather than rewriting the pasuk.
 
 **יוסף / יהוסף / צפנת פענח / אברך / רך** — names of Yosef | yosef, yoseif, yehosef, yehoseif, tzafnas paneach, tzafnat paneach, paneach, paneiach | reviewed | [names-yosef-yehosef-avreich-tzafnas-paneach.md](entries/names-yosef-yehosef-avreich-tzafnas-paneach.md)
 
 *Yosef* is a name; Rachel gave it from *yosef*, "He shall add" (Bereishis 30:24). *Yehosef* is the same person with a hei of Hashem's Name added (Tehillim 81:6). *Tzafnas Paneach* is, by Rashi's reading, **revealer of mysteries**. *Avreich* is read as **father to the king**, **a father in wisdom though young in years**, or **one before whom all kneel**. *Rach* may, on some readings, mean "royal."
 
+**Rendering guidance.**
+
+- Names stay names. Write Yosef, Yehosef, Tzafnas Paneach, and do not translate
+  them in running text; gloss once in a footnote if the derashah needs it.
+- Trap: "Joseph" absorbs both Yosef and Yehosef and destroys Tehillim 81:6,
+  where the whole point is the extra letter. Transliterate both, distinctly.
+- *Avreich* is the trap in the other direction. In a modern sentence it means a
+  kollel man; in Bereishis 41:43 it does not, and importing the modern sense is
+  an anachronism. Where the pasuk is quoted, leave *avreich* and gloss it by the
+  reading the passage assumes.
+- Where *rach* appears with a person (Leah's eyes, David after Avner's death,
+  the pampered woman of Devarim 28:56), "soft," "tender," or "delicate" is the
+  safe rendering; reserve "royal" for a passage explicitly citing that reading.
+
 **הבל / ריק / אפס / תהו / בהו / בלימה / מאומה / כלום / מה / בלי** — nothing | hevel, hevle, havel, rik, reik, reikanya, larik, varik | reviewed | [nothing-hevel-rik-tohu-bohu.md](entries/nothing-hevel-rik-tohu-bohu.md)
 
 All of these are Hebrew words for "nothing," separated by nuances. *Hevel* and *rik*, which *Aleinu* pairs as what the other nations serve, denote the impotence and powerlessness of their imagined deities. Rabbi Avraham Bedersi makes *hevel* the less intense of the two, something that does exist but has no purpose, and *rik* something that does not even exist. For Shadal *hevel* is what appears valuable on the surface and is ultimately shown to be worthless, a **futility**, and *rik* is toiling for a result that yields nothing, labor **for naught**. Malbim takes the exact opposite approach: *hevel* is total "nothingness," and *rik* is what has some value on the surface until one digs deeper. Rabbi Shlomo Pappenheim, tracing each to its two-letter root, makes *rik* (ר-ק, emptying) what is completely lacking in import, as though emptied of its very substance, and *hevel* (ב-ל, negation) what is futile, somewhat substantial but still mostly useless. *Efes*, the "nothing" of *Aleinu*'s "nothing exists besides Him," means "nothing" or "non-existent" in Tanach and also "but, however"; Menachem Ibn Saruk holds that sense distinct, while Radak implies that all its meanings are interrelated. *Tohu* and *bohu*, both commonly translated "nothingness," describe the state of the world before the Six Days of Creation, and the commentators read them in many ways, dividing among other things over which is matter and which is form (Ramban: *tohu* matter, *bohu* form; Ralbag the exact opposite). *Blimah*, *meumah* and *klum*, Rabbi Reuven Chaim Klein holds, are etymologically related, all relating back to *mah*, "what." *Meumah* means "nothing" and can also mean "anything," because Hebrew allows double negatives; *klum*, its Rabbinic counterpart, also means "nothing."
+
+**Rendering guidance.**
+
+- הבל: "futility," or "vanity" in Koheles where the register is fixed. Not
+  "nothing," which loses Bedersi's point that the thing does exist.
+- לריק / ריק of effort: "for naught," "in vain." ריק of a vessel or a place:
+  "empty."
+- תהו ובהו: "formless and void" is the safe pair. If the passage follows Ramban,
+  say so in a note ("unformed matter and form") rather than forcing it into the
+  translation itself, since Ralbag holds the reverse.
+- Trap: English "nothing" will swallow *hevel*, *rik*, *efes*, *tohu* and *klum*
+  at once. Where two of them stand in one phrase (*hevel varik* in *Aleinu*),
+  render them apart: "futility and emptiness," in that order, since the order is
+  Bedersi's whole evidence.
+- Second trap, grammatical: לא ... מאומה and לא ... כלום are Hebrew double
+  negatives that carry a single negative sense. Render "he did not have anything"
+  or "he had nothing," never "he did not have nothing."
+- Where a source darshens *blimah* as holding back (Chullin 89a), do not
+  translate it "nothingness" in that line; the derashah needs "restraint."
 
 **זבול / ארמון / אפדנא / טירה / פלטין** — palace | zvul, zevul, yizbeleini, zevel, armon, almon, apadna, apadena | reviewed | [palace-zvul-armon-apadna-tirah.md](entries/palace-zvul-armon-apadna-tirah.md)
 
 Rabbi Reuven Chaim Klein offers a way of differentiating them. *Armon* is the general word and covers both English senses, **palace** and **castle**. *Apadna* seems to line up with the luxury sense: a **palace**, or in the Gemara a grand hall or room. *Tirah* seems to be associated with the defensive sense: a **fortress** or fortified enclosure. *Paltin* is the late Hebrew for a **palace** in the imperial sense. *Zvul* is a **lofty abode** (Rabbi Dovid Tzvi Hoffmann's suggestion), the dwelling that perfectly suits the one it is meant for (Rav Hirsch), and it is used most often of the Beis HaMikdash. Where it sits relative to the other four Rabbi Reuven Chaim Klein leaves open: the term *zvul*, he writes, "somehow fits in to all of this, I'm just not sure exactly how."
 
+**Rendering guidance.**
+
+- Default *armon* to **palace** in a royal context and **stronghold** or
+  **fortress** in a military one; the word carries both, so let the pasuk
+  decide. Mishlei 18:19 and Eichah 2:5 are the fortress cases.
+- *Tirah*: **fortress**, **citadel**, or "fortified encampment." Do not render
+  it "palace," even though Ibn Ezra equates it with *armon*, unless you are
+  translating Ibn Ezra.
+- *Apadna*: **palace** in Daniel; in the Gemara often **grand hall** or
+  **mansion**, and where Rashi's triclinium is meant, "banquet room."
+- *Zvul*: in a pasuk about the Mikdash, **abode** or "lofty abode," and in
+  Chavakuk 3:11 "their dwelling place." Not "palace," which loses Rav Hirsch's
+  point that the word means a fitting dwelling and not a grand one. Rabbi Reuven
+  Chaim Klein does not place *zvul* against the other four, so do not build a contrast
+  between them into a translation.
+- Trap: English "palace" will absorb *armon*, *apadna*, *paltin*, and even
+  *zvul*. Where two of them stand in one passage, keep "palace" for the
+  luxury word and move *armon* to "stronghold" or *tirah* to "fortress", and
+  hold the assignment for the rest of the passage.
+- The English pair itself is worth keeping straight: a *palace* is a royal
+  residence and the wealth that goes with it, a *castle* is a fortified
+  structure however plain. *Apadna* lines up with the first, *tirah* with the
+  second, and *armon* with both.
+
 **דרך / ארח / אורח / אורחות / רחוב / נתיב / נתיבה / מסלה / מסילה / מעגל / משעול / שביל** — path | derech, derekh, derachim, drachim, dorech, doreich, orach, orah | reviewed | [path-derech-orach.md](entries/path-derech-orach.md)
 
 *Derech* is the **way** or **road**: broad, public, open to everyone. *Orach* is the **path**: short, narrow, less commonly traveled (Vilna Gaon), the road that reaches the outlying towns and villages (Malbim). *Derech* and *orach* are not interchangeable. Pappenheim dissents: they can name one road, *derech* for its length, *orach* for its width. Six more words fill out the cluster: *rechov* is the **street** inside a town, against *derech* the road between towns; *netiv* is the **narrow path**, shorter or narrower than a *derech*, and in the Zohar's approach a private one open only to select individuals; *mesilah* is the **paved road**; *mishol* the **footpath**, for a man on foot; *maagal* the **circular path**, from *igul*, a circle; *shvil* the **downhill path**, from *shafel*, low. Of these six only the Zohar's reading of *netiv* carries a name; the others are anonymous explanations.
+
+**Rendering guidance.**
+
+- The pair (Bereishis 49:17, "a snake on the *derech*, a serpent on the
+  *orach*"): "a snake on the road, a viper on the path." Two different nouns.
+- *Derech* in the moral sense (the way of Hashem, his ways, *derech eretz*):
+  "way." "Road" is for the literal sense; "path" belongs to *orach* and to
+  *netiv*.
+- Where *derech* and *rechov* stand together, keep the scale visible: "road"
+  for what runs between towns, "street" for what runs inside one. That is the
+  only distinction drawn between the two.
+- *Mesilah*, *mishol*, *maagal* and *shvil* each carry one added fact and
+  should not be flattened to "path": "paved road," "footpath," "circular
+  path," and, where the derashah from *shafel* is in play, "the path that goes
+  down." Plain "path" for any of them loses the very thing that named it.
+- *Orchos* in a plural of conduct (*orchos tzaddikim*): "paths." The received
+  English titles ("Ways of the Righteous," "Paths of the Just") are titles and
+  stay as they are; Rabbi Klein uses them so.
+- Trap: "path" absorbs both words in English, and "way" drifts to "manner"
+  and loses the road altogether. When a pasuk or a derashah sets the two side
+  by side (Dan; Mishlei's *derech* and *orach* parallels), the English must
+  keep the broad word and the narrow word apart.
+- Where a derashah reads *derech* from *dorech* (Rabbi Moshe Shapiro), keep
+  "tread" visible: "the way one treads."
 
 **נתיב / רחוב / מסילה / מעגל / משעול / שביל** — paths | netiv, nesiv, netivot, nesivos, rechov, rechovot, rechovos, mesilah | reviewed | [paths-netiv-mesilah-shvil-mishol.md](entries/paths-netiv-mesilah-shvil-mishol.md)
 
 *Rechov* is the **city street**, *mesilah* the **paved** and generally straight road, *netiv* the narrow **path** that only some people use, *mishol* the **footpath** too weak for a wagon, *shvil* the **trail** narrow enough for one ankle at a time, and *maagal* a **roundabout way** that goes nowhere in particular. On width, Rabbeinu Bachya makes a *netiv* narrower than a *derech*, and Malbim and others make a *shvil* narrower than a *netiv*.
 
+**Rendering guidance.**
+
+- Bamidbar 20:17 against 20:19: the two requests must read differently. "Let us
+  pass through your land by the road" (*derech*), then "we will go up by the
+  highway" (*mesilah*). Repeating "road" makes the second request look identical
+  to the first and hides why they rephrased it.
+- Shoftim 5:6, *v'holchei nesivos yelchu orachos akalkalos*: "those who walked
+  the paths went by roundabout ways." Wertheimer's reading depends on *netiv*
+  and the winding alternative standing in contrast, so do not render both
+  "paths."
+- Shoftim 5:20, *mimesilosam*: "from their courses." "Paths" is too weak for the
+  fixed, straight track that is the point.
+- Bamidbar 22:24, *mishol hakeramim*: "the footpath among the vineyards."
+- Trap: English "path" will happily cover *netiv*, *mishol* and *shvil* at once,
+  and "way" will cover *derech*, *orach* and *maagal*. Where a passage lists two
+  or more, force the distinction: *netiv* "path," *mishol* "footpath," *shvil*
+  "trail," *maagal* "roundabout way," *mesilah* "highway" (or, where Malbim's
+  pedestrian sense is in view, the paved walk at the street's edge).
+- *Bishvil* in Rabbinic Hebrew is simply "for the sake of"; do not let
+  Pappenheim's derivation surface in the translation of a Gemara.
+
 **מקום / אתר / דוכתא / אשר** — place | makom, mokom, mekomot, mekomos, atar, atra, asra, atarim | reviewed | [place-makom-atar-duchta.md](entries/place-makom-atar-duchta.md)
 
 *Makom* is the only native Hebrew word for "place." *Atar* is the standard Aramaic word for the same thing, the Targum's regular rendering of *makom*; *duchta* is an Aramaic word for "place," quite common in the Bavli, which Rabbi Reuven Chaim Klein suggests, if the derivation holds, may itself be an Old Persian loanword rather than native Aramaic. These are not shades of meaning but shades of *language*.
+
+**Rendering guidance.**
+
+- *Makom* standing alone: "place." Reach for "site," "location," or "spot" only
+  where the English sentence needs the variety; none of them is a different word
+  in the Hebrew.
+- Where a Rishon glosses *atar* or *duchta* with *makom*, he is translating.
+  Render both "place" and do not manufacture a distinction the gloss denies.
+- Trap: English "place" absorbs all three, so a passage whose point *is* the
+  difference (an Aramaic word explained by a Hebrew one, a Targum's choice) needs
+  the Hebrew or Aramaic kept in the rendering, at least once.
+- *Derech ha'atarim* (Bamidbar 21:1): follow the majority and render "the way of
+  the spies," noting the minority "the way of the sites" if the passage turns on
+  it. Do not present the minority as the plain sense.
+- *Atra* in *Kaddish D'Rabbanan*: "place," in the sense of a locale or community.
+- The Rabbinic *le'alter* ("immediately") is plausibly *al atar*, "on the spot";
+  render it as an expression of time, not of place.
 
 **כן / דוכן / בימה / בסיס / אצטבא / במה** — platform | kan, kein, ken, duchan, duchen, duchenen, duchta, bimah | reviewed | [platform-kan-duchan-bimah-basis.md](entries/platform-kan-duchan-bimah-basis.md)
 
 *Kan* is the Biblical word: a **base**, **stand** or **pedestal**, and by extension a man's **post**. *Duchan* is Mishnaic, the **platform** the Leviim sang from and, in the Gemara, the platform the Kohanim bless from (hence the Yiddish *duchenen*); it is a noun, not a verb. *Bimah* is the **stage** or **dais**, and *basis* the **base** of a vessel, both Mishnaic. *Itztaba* is a raised **platform** or **colonnade**, mostly in the Beis HaMikdash. *Duchan* is not an action; a Kohen goes up *to* the *duchan*.
 
+**Rendering guidance.**
+
+- *Kan*: **base** or **stand** for an object, **post** or **position** for a
+  person. Bereishis 40:13 is "restore you to your post," not "to your base."
+- *Duchan*: **platform**, or leave it transliterated where the Levi'im's
+  *duchan* or Birkas Kohanim is the subject. Never render *duchenen* as
+  "to duchan"; write **to go up for Birkas Kohanim**.
+- *Bimah*: **bimah** in a shul, **platform** or **dais** in the Mishnah's
+  Hakhel and avodah zarah cases.
+- *Basis*: **base**, and in halachah leave *basis l'davar ha'assur* standing.
+- *Itztaba*: **platform** in the Mikdash contexts; do not import "colonnade"
+  unless the passage describes columns.
+- Trap: English "platform" absorbs *duchan*, *bimah* and *itztaba*, and "base"
+  absorbs *kan* and *basis*. Rashi's gloss of *duchan* as *itztaba* is a
+  statement about two words, so keep both visible: "*duchan*, that is, an
+  *itztaba*, a raised platform."
+- Second trap: on Kutscher, *bimah* and *bamah* are not the same word and must
+  not be rendered alike. A *bamah* is a high place of worship; a *bimah* is
+  furniture.
+
 **מוט / בד / נס / תורן / שפוד / זמורה** — pole | mot, mott, motah, motot, motos, bad, badd, badim | reviewed | [pole-mot-bad-neis-toren-shapud.md](entries/pole-mot-bad-neis-toren-shapud.md)
 
 *Mot* is a pole for carrying things, and the feminine *motah* most often the bar of a yoke: **carrying pole, yoke-bar**. *Bad*, which Rabbi Shlomo of Urbino makes a synonym of *mot*, is the carrying pole of the Mishkan vessels: **stave**. *Neis* is a high pole or flagpole (**banner, standard**), and on a ship the **sail**. *Toren* is the **mast** that holds the *neis* up. *Shapud* is a pointed **skewer** or spit.
+
+**Rendering guidance.**
+
+- Bamidbar 13:23: "on the pole" if you follow Mecklenburg, "on the pole
+  [that same branch]" if you follow the Zohar. Do not write "on a pole"; the
+  definite article is what the Zohar's reading rests on.
+- Trap: "pole" absorbs *mot*, *bad*, *neis* and *toren*. Where two stand in one
+  pasuk (*neis* and *toren* in Yeshayahu 33:23), you must differentiate: "mast"
+  and "sail," or "mast" and "banner," never "pole" twice.
+- Second trap: *neis* is "miracle" in later Hebrew and "banner" in Tanach. In
+  liturgical prose ("raise a *neis*") keep "banner"; a reader who hears
+  "miracle" loses the image of the ingathering signal.
+- *Badim* in the Mishkan are "staves," not "poles" and never "rods"; the Torah
+  is careful that they are not removed (Shemos 25:15), and the halachic term of
+  art in English is settled.
+- *Motah* is "yoke-bar" or, in the idiom of Vayikra 26:13, "the bars of your
+  yoke." Do not level it to "yoke," which is *ol*.
+- *Shapud*: "skewer" for food, "spit" for roasting; both are fine, but pick one
+  per passage, since a mishnah often carries the same *shapud* across clauses.
 
 **צבי / צביון / צבא / צב / יציב** — root צ-ב (splendor, desire, consent, army) | tzvi, tzevi, tsvi, tzvi tiferes, ateres tzvi, tzivyon, tzva, tzava | reviewed | [splendor-tzvi-tzivyon-tzava.md](entries/splendor-tzvi-tzivyon-tzava.md)
 
 *Tzvi* carries three senses: **splendor, glory, beauty**; **desire, what is wanted**; and the animal, **deer** or **gazelle**. Rashi (to Yeshayahu 4:2) reads beauty, Radak desire and glory. *Tzivyon* is either **consent** or **ideal form**, depending on the commentator. *Tzava* is a **legion**, a body joined by one shared want. *Eretz hatzvi* is "the Desired Land" on the plain reading, "the Land of the Deer" in the derashos of Chazal.
 
+**Rendering guidance.**
+
+- Trap: English "glory" will absorb *tzvi*, *tiferes* and *pe'er* alike. In
+  *tzvi tiferes* the two are already stacked: "splendor of its glory."
+- *Eretz hatzvi*: "the Desired Land" on the plain reading, "the Land of the
+  Deer" where a derashah runs on the deer's hide or its swiftness; pick by the
+  passage and gloss the other in a note.
+- *Ateres tzvi* (Yeshayahu 28:5) is "crown of splendor," not "crown of beauty."
+- *Tzivyon*: "consent" if the source follows Rashi and Rabbeinu Gershom, "ideal
+  form" if it follows the Ritva; the meforshim decide, not the Gemara's phrase.
+
 **חוט / חבל / כבל / אטון / מיתר / מוסרה / עבות** — rope | chut, chutim, chevel, chavalim, chavalos, kevel, kavel, kabel | reviewed | [rope-chevel-chut-avot.md](entries/rope-chevel-chut-avot.md)
 
 They sort by thickness and by what the cord is doing. *Chut* is the **thread**, the single strand; *chevel* the ordinary **rope**; *avot* the **thick rope** or cable, which Malbim describes as braided from three. *Meitar* is the cord under tension, so a **tent cord** or a **bowstring**; *moseirah* the **bond** that restrains a captive, and *kevel* the iron **fetter**; *eitun*, on Radak's reading, a **cord of fine linen**, once only. Shoftim 16:12 puts *avot* and *chut* in a single sentence, Shimshon snapping the one off his arms as though it were the other.
+
+**Rendering guidance.**
+
+- Trap: "cord" and "rope" between them will absorb *chevel*, *avot*, *meitar*,
+  *moseirah* and *kevel*. Keep thickness and function visible: thread, rope,
+  cable, tent cord, bond, fetter.
+- Shoftim 16:12 is the test case. Delilah bound Shimshon with fresh *avotim* and
+  he snapped them off his arms "like a *chut*." The English must show the
+  distance: "thick new ropes" against "a thread." Render both "cords" and the
+  pasuk says nothing.
+- Tehillim 2:3 pairs *moserot* and *avot* in one breath: "let us snap their bonds
+  and cast off their cables." Two words, two renderings.
+- *Chevel* outside the rope-sense takes an ordinary English word (a portion of
+  land, a band of prophets, birth pangs); only where the passage argues from the
+  root, as Rabbi Shlomo Pappenheim does, is the rope worth surfacing.
+- *Petil* and *gadil* are the tzitzis words of this family: Targum Onkelos
+  renders *petil* (Bamidbar 15:38) as *chut*, and Rav Hirsch ties *gadil*
+  (Devarim 22:12) to *gadol*, one string made thick by many fibers. Both are in
+  [fringes](fringes-tzitzis-gedilim-petil.html); for binding, [tying](tying-keshirah-asirah-kafut.html).
 
 **סוד / רז / רזא / טמיר / כמוס / דבר סתר / סתר / רמז / רוזנים** — secret | sod, sohd, sodos, sodot, raz, roz, raza, razin | reviewed | [secret-sod-raz-tamir.md](entries/secret-sod-raz-tamir.md)
 
 *Sod* in Tanach is **counsel** or **council** (the circle of advisors and the advice they give: Radak, who disagrees with Ibn Janach's split into two distinct senses and holds the two are really one); only in Chazal does it become **secret**, the confidence shared with a few. The Biblical word for a secret proper is *dvar seter*, **a hidden matter** (Pappenheim). *Kamus* is **stored away, sealed up** (Devarim 32:34, once only); for Rav Hirsch, classified information. *Raz* (Aramaic, Daniel) is **mystery**, an idea closed off from the many (Rashi: *seter*, *satum*). *Tamir* is Aramaic **hidden**, Targum's word for many Hebrew hiding-words. In a pasuk, סוד is usually "counsel" or "assembly," not "secret"; in a Gemara it is "secret."
 
+**Rendering guidance.**
+
+- סוד in Tanach: "counsel," "council," "assembly" (סוד ה' ליראיו, "the counsel
+  of Hashem is for those who fear Him"). Check Radak before writing "secret."
+- סוד in Chazal and mussar: "secret"; סודות התורה "the secrets of the Torah";
+  בסוד "in confidence." A whispered-among-a-few nuance is in the word (Ralash
+  in the hidden entry: *sod* is spoken quietly, *seter* known to one alone).
+- דבר סתר: "a secret matter," "a private word." סתר alone: "secrecy," "hiding."
+- כמוס: "stored away," "sealed up," "kept secret"; סוד כמוס "a closely guarded
+  secret."
+- רז: "mystery" (of Daniel, of Kabbalah); רזין דאורייתא "the mysteries of the
+  Torah." Keep "mystery" for רז and "secret" for סוד so the two stay distinct.
+- רמז: "hint," "allusion"; never "secret," though the root is the same.
+- טמיר: "hidden," "concealed"; טמיר ונעלם "hidden and unknowable."
+- Trap: "secret" absorbs סוד, סתר, כמוס, and רז. In a list or a doubled pair
+  (סוד ורז, נסתר וכמוס) give each its own English: counsel/secret, hidden,
+  sealed up, mystery.
+
 **חרמש / מגל** — sickle | chermesh, chermeish, magal, maggal, magla, magal yad, magal kotzer | reviewed | [sickle-chermesh-magal.md](entries/sickle-chermesh-magal.md)
 
 Both mean **sickle**, and the weight of the sources treats them as one tool under two names; the Targumim suggest that *chermesh* is the Hebrew word and *magal* a Hebraicized form of the Aramaic *magla*. That is why the Torah says *meihachel chermesh bakamah* (Devarim 16:9) while the Mishnah's ceremony of cutting the Omer asks the crowd twice *magal zeh?* (Menachos 10:3). The proposal that one is a "sickle" and the other a "scythe" was made by some scholars and rejected by Dr. Shmuel Yeivin.
+
+**Rendering guidance.**
+
+- Devarim 16:9: "from when the sickle is first put to the standing grain."
+  Devarim 23:26: "you shall not raise a sickle against your fellow's standing
+  grain." One English word for both, since the Sifrei and the Targumim treat
+  them as one.
+- Menachos 10:3: keep *magal* transliterated inside the ceremony, since the
+  crowd is being asked to identify the very implement by name and the ritual
+  reads flat as "Is this a sickle? Yes." A gloss on first appearance is enough.
+- Trap: English "sickle" and "scythe" invite a distinction the Hebrew does not
+  make; Yeivin's three arguments are the reason. If a passage sets *chermesh*
+  opposite *magal* it is almost certainly drawing a homiletic contrast (Rabbi
+  Valle's din against rachamim, Rabbi Chaim Vital's malach hamaves), not naming
+  two tools; render both "sickle" and carry the contrast in the transliteration.
+- *Magal yad* is "hand sickle," *magal kotzer* the larger reaping tool; use the
+  modifiers, not two different nouns. This is Yeivin's own point about how
+  Mishnaic Hebrew handled the two sizes.
 
 **אות / מופת / עד** — sign | oht, ot, os, otot, osos, mofet, mofes, mofsim | reviewed | [sign-oht-mofet.md](entries/sign-oht-mofet.md)
 
 *Oht* is a **sign** or **token**, the general word, and it can be entirely natural: the luminaries are an *oht* for the seasons, tefillin are an *oht*, the tribal flags were an *oht*, a letter of the alef-beis is an *oht*. *Mofet* is the narrower word, a **wonder** or **portent**, on some readings (Ramban, Malbim) one that bends nature. For Malbim, every *mofet* is an *oht*, not every *oht* a *mofet*. The makkos are called both (Shemos 10:1-2 and 11:9-10).
 
+**Rendering guidance.**
+
+- אות: "sign," or "token" where the thing is a symbol worn or displayed
+  (tefillin, the blood on the doorpost, a tribal flag). "Letter" for the
+  alef-beis sense, but keep the pun in view if a derashah uses it.
+- מופת: "wonder" or "portent." In a philosophical text following Ibn Tibbon,
+  "demonstration" or "proof," never "wonder."
+- עד: "witness" or "testimony," and note that Pappenheim's contrast with *oht*
+  is about what the thing does to the one who sees it.
+- Trap: English "sign" absorbs both, and in Parshas Bo it must not. The makkos
+  are called an *oht* (Shemos 10:1-2) and a *mofet* (11:9-10) within a few
+  pesukim, and Sforno and Malbim read a different purpose into each. Render the
+  first "sign" and the second "wonder," so the shift stays visible.
+- For the fixed phrase *osos umofsim*, "signs and wonders" is long settled; do
+  not invert it.
+
 **חלק / שוע / שעיע / משעי / שעשוע** — smooth | chalak, chelkat, chelkas, chaluk, shua, shoa, shiiya, shia | reviewed | [smooth-chalak-shua-mishi.md](entries/smooth-chalak-shua-mishi.md)
 
 *Chalak* is the adjective: **smooth**, and where a surface lets things slide, **slippery**. *Shua* and its Aramaic form *shiiya* are, Rabbi Klein concludes in light of Rabbi Yaakov Tzvi Mecklenburg's explanation, not one hundred percent synonymous with it: they name daubing or pasting one material onto another, which incidentally smooths the surface (**smoothed on**, **daubed**, **plastered**). The dispute over *shaatnez* in *Kilayim* 9:8 turns on what *shua* means.
+
+**Rendering guidance.**
+
+- *Chalak* of a person or surface: "smooth." Of ground or a path: "slippery."
+- In *Kilayim* 9:8 do not render *shua* "smooth." Say "combed smooth" if
+  following Rashi, "pressed smooth together" if following Tosafos, and name
+  which; the halachah about felt hangs on it.
+- Vayikra 14:42, *v'tach*: "and he shall plaster the house." Onkelos' *v'yashua*
+  is the evidence that *shua* includes application, and a translation that says
+  merely "smooth the house" destroys the proof.
+- Trap: English "smooth" covers both words and also the verb "to smooth."
+  Reserve bare "smooth" for *chalak*; give *shua* a verb that names the material
+  being applied.
 
 **נפש / רוח / נשמה / חיה / יחידה** — soul | nefesh, nefesh chayah, ruach, ruach hakodesh, neshamah, neshama, nishmas chaim, nishmat chaim | reviewed | [soul-nefesh-ruach-neshamah-chayah-yechidah.md](entries/soul-nefesh-ruach-neshamah-chayah-yechidah.md)
 
 The soul has five names, each for a different aspect of it (Bereishis Rabbah 14:9), and Rabbi Klein's thesis is that they are not mere synonyms. *Nefesh* is the **soul**, which the Midrash ties to blood, the lifeline of physical existence; in Tanach it also means blood, one who has died, will, the self, and a name. *Ruach* is **spirit**: for Rambam primarily air, whence wind and direction, and also the life-giving spirit; it also means prophecy and temperament, and the Midrash makes it the soul's wind-like aspect. *Neshamah*, the **higher soul**, means only the soul, is tied to breathing, and only man has one (Ibn Ezra). *Chayah* is the soul that lives on when the body dies, and *yechidah* its uniqueness (the Midrash). The authorities map the soul's parts onto the faculties, the organs and the stages of life in different ways, and they differ over who has *chayah* and *yechidah* at all.
 
+**Rendering guidance.**
+
+- In Tanach let the sense govern *nefesh*: "life" (Bereishis 19:17), "person"
+  or "soul" in counts, "self" as a reflexive, "appetite" where Rashi reads
+  will. In a mussar text the word is "soul."
+- The triad נפש רוח ונשמה: "soul, spirit, and higher soul," or transliterate
+  all three with a one-time gloss; never let two of them share a word.
+- *Nishmas chaim* (Bereishis 2:7): "breath of life"; *nefesh chayah* in the
+  same verse: "living soul." *Chayah* and *yechidah* elsewhere: transliterate,
+  glossed once as "the life-force" and "the singular soul."
+- Trap: "soul" absorbs *nefesh* and *neshamah*; "spirit" (Mecklenburg's
+  *geist*) and "breath" can each absorb *ruach* and *neshamah*. Where the
+  passage ranks the soul's parts, one English word per Hebrew word.
+
 **רמח / חנית / כידון / אלונקי** — spear | romach, romcha, chanit, chanis, kidon, keedon, alunki, alunkei | reviewed | [spear-romach-chanit-kidon.md](entries/spear-romach-chanit-kidon.md)
 
 *Romach* is the **spear** or **lance** Pinchas took (Bamidbar 25:7), the only one of the three in the Chumash; "spear" is the common translation, and HALOT glosses it "lance." *Chanit* is the **spear** (HALOT's gloss too), for Rabbi Shlomo Pappenheim the weapon of the military camp, from the "encamping" root. *Kidon* is a small *romach* (Rambam), usually thrown at the enemy (Rabbi Tanchum HaYerushalmi), so **javelin** or **dart**; HALOT instead gives "hunting knife/scimitar," and Targum renders it *romcha*. *Alunki* is the rabbinic **lance**, from Greek (Rabbi Shmuel Krauss). For Rabbi Krauss all three are one weapon.
+
+**Rendering guidance.**
+
+- Trap: English "spear" will swallow all three. Following HALOT, "spear" can be
+  reserved for *chanit* and "lance" for *romach* (though the common rendering at
+  Bamidbar 25:7 is "spear"); give *kidon* English marked as smaller, "javelin"
+  or "dart," with Rambam and Rabbi Tanchum, or HALOT's "hunting knife/scimitar."
+  Where *kidon* stands beside *chanit* in one verse (Shmuel I 17:45, Iyov
+  39:23), separate English keeps the verse from reading as a repetition. For
+  Rabbi Krauss the words are synonyms.
+- Bamidbar 25:7 is the sole appearance of *romach* in the Chumash.
+- Do not carry Modern Hebrew back into a pasuk: modern *kidon* means javelin,
+  bayonet, and bicycle handlebar. The first two, Rabbi Reuven Chaim Klein says, are clear
+  outgrowths of the Biblical word, since javelin and bayonet are types of spear.
+  For the handlebar, Dr. Raphael Sappan (1927 to 1995), an expert in the
+  development of Modern Hebrew slang, writes in his additions to Even-Shoshan's
+  dictionary that it comes from the phonetic similarity to the French word for a
+  handlebar; alternatively, Rabbi Reuven Chaim Klein's son Elimelech Klein argues that a
+  biker's hands on the handlebar resemble a javelin thrower's on the javelin.
 
 **כח / גבורה / חזק / אמץ / עצם / עז / איתן / אדיר / כביר / תקיף** — strength | koach, koah, ko'ach, kochos, kochot, gevurah, gevura, gibbor | reviewed | [strength-koach-gevurah-ometz-chozek.md](entries/strength-koach-gevurah-ometz-chozek.md)
 
 *Koach* is **strength**, the general word: the plain ability to do or withstand something (Rabbi Pappenheim); in Tanach and Torah sources generally physical strength, which man shares with beast (Rabbi Soloveitchik). *Gevurah* is **might** or **heroism**: for Rabbi Pappenheim the act that actualizes potential *koach*, for Rabbi Mecklenburg *koach* used to defeat opposition rather than merely withstand it, for Rabbi Soloveitchik the heroism given to man alone to transcend the instinct of survival; the Mishnah's *gibbor* conquers his yetzer (Avos 4:1). On *chozek*: for Bedersi and Wertheimer it is the standard word for **strong** and *ometz* is strength above the normal measure; for Rabbi Pappenheim *chozek* is extra-strength *koach*, the strength by which one stands out above the rest. The Vilna Gaon makes *chozek* outer, physical strength and *ometz* strength of the heart, and *chazak v'ematz* has four more readings besides (below). *Eitan* is strength that holds back (Rabbi Edel) or endures (Rav Hirsch); *adir* the most powerful of a whole group (Rabbi Pappenheim); *oz* strength of spirit that others cannot deter (Wertheimer), or, for Rabbi Wessely, primarily Divine, supernatural power; *takif* strength that surrounds and **overpowers** (Rabbi Pappenheim).
 
+**Rendering guidance.**
+
+- *koach* "strength"; *gevurah* "might", or "heroism" where the passage works
+  with Rabbi Soloveitchik's sense; so the morning berachos can read "who girds
+  Yisrael with might" and "who gives strength to the tired" (Rabbi
+  Soloveitchik would give *gevurah* as "heroism"); *chozek* "strength",
+  *chazak* "strong"; *ometz* "fortitude", "resolve"; *oz* "might", *az* "bold";
+  *eitan* "steadfast"; *adir* "mighty"; *kabir* "mighty in number"; *takif*
+  "overpowering"; *otzem* "vastness" (number) or "innate strength".
+- חזק ואמץ: "be strong and resolute" fits Bedersi and
+  Wertheimer's scale (the greater word second) and the Vilna Gaon's outer
+  strength and strength of heart alike; "strong and courageous" only if
+  "courageous" is held for *ometz* throughout. Malbim's temporary against lasting
+  strength and Rabbi Shapira-Frankfurter's courage to enter against courage to
+  stay are further readings; where a passage works
+  with one of them, the English should follow it.
+- Trap: "strength" absorbs every word here, "power" absorbs *koach*, *oz* and
+  *takif*. When several sit together, assign each its English before drafting
+  and hold it throughout. Rabbi Shlomo of Urbino (a late 15th century Italian
+  scholar) counts 36 Biblical words for strength or power in *Ohel Moed*, his
+  lexicon of synonyms; Yonah Wilheimer (1830 to 1913), the Viennese publisher of
+  its 1881 edition, notes that this is somewhat of an exaggeration.
+
 **מתוק / ערב / נעים** — sweet | matok, mesek, metek, areiv, arev, arav, naim, naeem | reviewed | [sweet-matok-areiv-naim.md](entries/sweet-matok-areiv-naim.md)
 
 *Matok* is **sweet** to the tongue; for Rabbi Pappenheim, the objective taste opposed to bitter. *Areiv* is **pleasing**: for Rabbi Pappenheim, sweetness as this particular person finds it; in Tanach it attaches to a voice, on one view to a scent, and to food only once. *Na'im* is **pleasant**: visual appeal for the Vilna Gaon, and for Rabbi Pappenheim not a physical property at all but the transcendent pleasure of enjoying the thing. Where the Hebrew moves from *matok* to *areiv* it has moved, on Rabbi Pappenheim's reading, from what everyone tastes to what one person happens to love.
+
+**Rendering guidance.**
+
+- מתוק: "sweet," and keep it for the tongue. Where the sense is borrowed (for
+  anything one might argue is good), "sweet" still carries; the word itself is
+  a borrowing.
+- ערב: "pleasing," or "pleasant to him" where the subject matters. Reserve
+  "sweet" for *matok*; if *areiv* has to be "sweet" in a liturgical line
+  (*ve'haarev na*, "make the words of Your Torah sweet in our mouths"), keep
+  the personal sense visible in the surrounding words.
+- נעים: "pleasant." Not "sweet," even where the parallelism tempts it.
+- Trap: English "sweet" will absorb *matok* and *areiv* without complaint. Rabbi
+  Klein suggests, with a "perhaps," why the two prayers use *areiv* rather
+  than *matok*: we ask that the Torah be *areiv* in our mouths because we want
+  it to appeal to us personally, and this might also be why we ask that our
+  prayers be *areiv* before Hashem like korbanos, since, as opposed to
+  paganism, a korban has no intrinsic value but only the value of Hashem's
+  command, so it should appeal to Him by His personal favor. Render both with
+  "sweet" and that suggestion disappears.
+- When two of them stand in one phrase, translate for the axis, not the
+  temperature (on Rabbi Pappenheim's scheme): *matok* is what it is, *areiv* is
+  what it is to you, *na'im* is the pleasure of having it.
 
 **חרב / שלח / סייף / סכין / מאכלת / חלף** — sword and knife | cherev, herev, charba, shelach, shelah, sayif, sayaf, seif | reviewed | [sword-cherev-shelach-sakin.md](entries/sword-cherev-shelach-sakin.md)
 
 *Cherev* and *shelach* are both **swords**; Malbim separates them by use, a *shelach* for stabbing and a *cherev*, he implies, for slicing. *Sayif* is the common Aramaic word for a sword in the Talmud. Tanach's two words for a **knife** are *sakin* and *maacheles*; *chalaf*, the common word for a *shochet*'s knife, is Arabic (Rashi, Rabbeinu Shimshon of Shantz) or Greek (Bartenura).
 
+**Rendering guidance.**
+
+- Trap: "sword" absorbs *cherev*, *shelach* and *sayif*. Beside *cherev*, a word for
+  a stabbing weapon keeps Malbim's distinction; "dagger" is Rabbi Klein's guess.
+- Trap: "knife" absorbs *sakin*, *maacheles* and *chalaf*. Rashi's explanation of
+  *maacheles* at the Akeidah depends on its link to eating, which "knife" hides.
+
 **דבר / ויאמר / וידבר / מלוכה / מושל / בא / אתה** — synonyms | davar, devarim, vayomer, va'yomer, amirah, vayidaber, va'yedaber, dibbur | reviewed | [synonyms-davar-vayomer-vayidaber.md](entries/synonyms-davar-vayomer-vayidaber.md)
 
 Rabbi Klein's founding premise: in Hebrew a word is not a convention but expresses the essence of the thing, which is why *davar* means both **word** and **thing**; every element of creation is a Divine word crystallized into material existence. That raises a problem: why would Hebrew need several words for one concept? The answers usually follow a few templates: the words only seem alike, or they focus on different aspects, or (in verbs) differ in degree or intent, or stand as general term and species, or one is borrowed from another language to make a point, in which case it may mean just what the Hebrew word means. For Malbim *vayomer* is **he said** (brief) and *vayidaber* **he spoke** (extended); for Ibn Ezra *melucha* is **kingship** accepted by the people and *moshel* a **ruler** whether accepted or not; for the *meforshim*, *ba* and *atah* both mean **came**, the second being Aramaic and chosen for that reason.
+
+**Rendering guidance.**
+
+- Fix a stable English word to each Hebrew word across a passage and hold it
+  there. *Vayomer* is "said," *vayidaber* is "spoke"; if the English needs
+  variety, get it from the sentence, not by swapping the pair.
+- Where two synonyms sit in one pasuk, assume the second is doing work. Devarim
+  33:2 and Tehillim 22:29 both look like poetic repetition and are not.
+- Trap: English "speak" and "say" are interchangeable in ordinary prose, so a
+  translator will pick by rhythm. That destroys Malbim's distinction wherever a
+  derashah turns on which verb the Torah used.
+- Trap: an Aramaic word inside a Hebrew pasuk is a signal, not a stylistic
+  accident. Do not smooth *atah* into the same English as *ba* without a note.
+- Where a word is the general term and its partner a species of it (resolution
+  4), the English must keep the hierarchy: a general word for the hypernym, a
+  narrow one for the hyponym, never two words of equal breadth.
 
 **שולחן / פתורא / טכא / טבלא** — table | shulchan, shulchani, petora, petorah, patora, patorta, petoraah, taka | reviewed | [table-shulchan-petora-taka-tavla.md](entries/table-shulchan-petora-taka-tavla.md)
 
 *Shulchan* is the Biblical **table**, and the Aramaic *petora* is its standard equivalent. *Taka* is also glossed *shulchan* by Rashi, and the variant readings of one Talmudic story seem to make it interchangeable with *petora*; but Rabbi Mordechai Dov Yudelovitch, whose view Rabbi Klein adopts, holds that *taka* is the small, private **tray-table** for one, while *petora* is the longer dining table. *Tavla* is for Rabbi Eliyahu HaBachur simply the Rabbinic Hebrew for *shulchan*; for Rash MiShantz it differs, a **board** or table top without legs attached.
 
+**Rendering guidance.**
+
+- Default: שולחן and פתורא = "table"; טכא = "table" in ordinary narrative, but
+  "his own table" or "tray-table" where the sugya contrasts it with another's;
+  טבלא = "board" or "table top," "table" only where no legs are at issue.
+- Trap: English "table" absorbs all four without a murmur. Two places where it
+  must not: Berachos 42a, where the point is that Rava's personal *taka* went
+  and the host's remained, so "the table was removed" flattens the story; and
+  Ohalos 15:2, where a *tavla* rendered "table" imports legs the Rash denies.
+- Where Aramaic *petora* renders Hebrew *shulchan* in a Targum, use one English
+  word for both; the Targum is translating, not distinguishing.
+- שולחני = "moneychanger," but keep the table in view in the Bilaam derashah,
+  where the whole reading depends on it.
+
 **גיהנום / שאול / אבדון / שחת / בור שאון / טיט היון / צלמות / ארץ תחתית / תפת / עלוקה** — underworld | gehinnom, gehinom, sheol, shol, avadon, avaddon, shachat, shachas | reviewed | [underworld-gehinnom-sheol-shachat-avadon.md](entries/underworld-gehinnom-sheol-shachat-avadon.md)
 
 *Gehinnom* is a place name borrowed for the sinner's afterlife, commonly translated "hell" or "purgatory." *Sheol*'s literal meaning is **the grave** (so Rabbi Klein, and so Ibn Ezra maintains), though by derashah it can refer to the soul's purgatory after death (Rashi). *Shachat* in many pesukim means simply a **pit**, and Bedersi also reads "destruction" in it. *Avadon* is either the body's **destruction** after death or the place where souls are **lost** for a time. Eruvin 19a gives seven Biblical terms for Gehinnom, and Maharsha reads them as seven different places within it.
+
+**Rendering guidance.**
+
+- *Gehinnom* stays transliterated: it is a place name, and the Gemara's
+  derashah on it works off its sound. Rabbi Klein records "hell" and
+  "purgatory" as the common renderings without ruling on either, and himself
+  uses "purgatory" for Rashi's derashah on *sheol*.
+- *Sheol*: "the grave" as the default, on Ibn Ezra. Only where a source is
+  reading it as the place of the soul should the English shift, and then say
+  so.
+- Trap: English "pit" will absorb *shachat*, *be'er shachat*, and *bor shaon*
+  at once. In Eruvin 19a and in the *Midrash Konen* list, keep all seven distinct,
+  transliterated with a gloss: "*be'er shachat*, the well of the pit," and so
+  on. The moment two of them read alike the count of seven stops meaning
+  anything.
+- *Tzalmaves*: "the shadow of death," Rabbi Klein's literal rendering.
+- *Tophes* stays a proper name in Yirmiyahu and transliterated in the Gemara's
+  derashah, since the derashah works off the sound of the word.
 
 **צעיף / רדיד / רדידים / עיפא / סודר** — veil | tzaif, tza'if, tzeif, tzanif, redid, radid, redidim, merudad | reviewed | [veil-tzaif-redid.md](entries/veil-tzaif-redid.md)
 
 The Biblical *tza'if* is variously translated **veil**, **shawl**, or **headcloth** (in Modern Hebrew it is a scarf or a mask), and every Biblical *tza'if* and *redid* is a "shawl" worn by a woman. *Tza'if* is the covering of Rivkah and of Tamar; several parse it as spread or floating "on her face" (*Midrash Sechel Tov*, Rabbi Yehudah Aryeh of Carpentras, Rabbi Saadia al Damari), and Gesenius (cited approvingly by Shadal) takes it from a root of wrapping. *Redid* is glossed as a thin *tza'if* for the head (*Sefer HaAruch*), a thin garment (Radak), something like a tallis (Ibn Ezra, on the Arabic), and in Rambam the wrap without which women by custom did not appear in public. Targum pseudo-Yonasan and Targum Yerushalmi always render *tza'if* as *redida*, and Onkelos consistently as *eifa*.
 
+**Rendering guidance.**
+
+- *Tza'if*: **veil**. "Shawl" and "headcloth" are both defensible (Rabbi Reuven Chaim Klein himself says "shawl"), but "veil" is what carries the two Chumash
+  narratives, Rivkah covering herself before Yitzchak and Tamar concealing her
+  identity from Yehudah.
+- *Redid*: **shawl**, or **wrap**. In Rambam's halachos, "wrap" reads better
+  than "veil," since the point is going out into the street properly covered,
+  not concealing the face.
+- Trap: English "veil" will absorb both, and "shawl" will absorb both the other
+  way. Where *tza'if* and *redid* stand together (as they do wherever Onkelos
+  and the other Targumim are compared on one pasuk, or in Rabbi Pappenheim's
+  account of an outer and an inner covering, where the outer one is a *tzanif*
+  or perhaps a *tza'if*), give "veil" to *tza'if* and "shawl" to *redid* and
+  hold it.
+- *Eifa* in Onkelos is not a third garment; it is Onkelos' Aramaic for *tza'if*.
+  Translate it "veil" and note the Aramaic if the sense of folding is at issue.
+- *Sudar* is a man's, so do not render it with the same English used for either
+  of the women's coverings; "cloth" or "shawl" by context.
+
 **פך / קנקן / כד / חבית / קנה** — vessel | pach, pachim, kankan, kankanim, kad, kadim, chavit, chavis | reviewed | [vessel-pach-kankan-kad-chavis.md](entries/vessel-pach-kankan-kad-chavis.md)
 
 *Pach* is a pottery **flask** or **jug**, smaller than a *chavis* (Rashi), used in Tanach only in *pach hashemen*. *Kankan* is a Mishnaic **jug** or **jar**; *kad* is typically translated **jug** or **pitcher**, *chavis* **barrel**. The Mishnah uses *kad* and *chavis* as though interchangeable, because in the vernacular they were not necessarily fixed (Bava Kamma 27a), and Rabbi Reuven Chaim Klein adds *kankan* (from Mishnayos that swap it with both) and *pach* (from the version of Chullin 91a that reads *levado* as *l'kado*). Why does *Maoz Tzur* sing of *kankanim* where the Gemara says *pachim*? Rabbi Reuven Chaim Klein answers that it is poetic license, and that the interchangeability justifies the swap as well; he calls that interchangeability "a real possibility," and concludes that the two "essentially mean the same thing." *Kaneh* is not a container but a **reed**, **stem**, or **tube**, typically hollow.
+
+**Rendering guidance.**
+
+- Trap: English "jug" will absorb *pach*, *kankan* and *kad*, and often that is
+  right. Distinguish only where the passage turns on size: *pach* small flask,
+  *kad* jug, *chavis* barrel.
+- Where a Mishnah shifts from *kad* to *chavis* within one ruling, Bava Kamma
+  27a explains the shift as loose vernacular; keep the Mishnah's two words
+  visible in English rather than repairing them to one.
+- *Pach hashemen* in a Chanukah context: "flask of oil" (Rabbi Reuven Chaim Klein himself says "container").
+- *Kaneh* is never a vessel: "reed," "stem," "branch," or "windpipe."
 
 **חומה / קיר / שור / חיל / חיץ / כותל / מחיצה** — wall | chomah, choma, chomos, chomot, kir, kiros, shur, shura | reviewed | [wall-chomah-kir-shur-kotel.md](entries/wall-chomah-kir-shur-kotel.md)
 
 Rabbi Reuven Chaim Klein's own summary: *chomah* is the **city wall** (or a lookout post), *kir* the generic **structural wall**, *cheil* a **short wall**, *chayitz* a **flimsy partition** and *mechitzah* any partition (Rabbi Moshe Zacuto, where Pappenheim makes *chayitz* synonymous with *mechitzah*), *shur* the Aramaic for *chomah*, *kotel* the Aramaic for *kir*. Where the *cheil* stands is disputed: outside a taller wall, with the empty space between them (Rabbi Shlomo Pappenheim), or a shorter wall inside the *chomah* (Rashi); Radak seems unsure which, and suggests it may be a moat. Rabbi Shlomo of Urbino, as is his wont, holds the six mean exactly the same thing; Rabbi Reuven Chaim Klein sees more to it than that, and Pappenheim's two-letter roots help bring out the nuances.
 
+**Rendering guidance.**
+
+- *Chomah*: **city wall**, or **rampart** where the fortification is the point.
+  *Chomos Yerushalayim* are the walls of the city, not the walls of a building.
+  (Rabbi Reuven Chaim Klein himself writes "the wall of the rampart (the *Cheil*).")
+- *Kir*: **wall**, plain, of a house or of the mizbeach.
+- *Cheil*: **the Cheil**, transliterated, in Mikdash contexts, with a gloss the
+  first time (a shorter wall and the space it marks off; outside or inside the
+  *chomah* according to the view followed). "Rampart" alone will not carry it.
+- *Chayitz*: **partition**; *mechitzah*: **mechitzah** or **divider**. Where
+  Rabbi Moshe Zacuto's distinction is live, *chayitz* is a **flimsy
+  partition**.
+- *Kotel*: **the Kosel** for the Western Wall; otherwise plain **wall**.
+- Trap: English "wall" absorbs all six. Pesachim 86a's *shura uvar-shura* pairs
+  two of them in three words, so render "a wall and a wall's son," keeping the
+  Gemara's image, and gloss which is which.
+- Second trap: *shur* and *chomah* both carry "wall" and "see" (Rabbi Ernest Klein), so a
+  pasuk using either may not be about masonry at all; Rashi seems unsure at
+  Bereishis 49:22.
+
 **אי / איה / איכה / איפה / אן / אנה / לאן / מאין** — where | ey, ei, ayeh, aye, ayeka, ayekah, eifoh, eifo | reviewed | [where-ayeh-eifoh-anah.md](entries/where-ayeh-eifoh-anah.md)
 
 *Eifoh* is the plain **where**, the most common word and, for Rabbi Yehuda Leib Shapira-Frankfurter, the one for run-of-the-mill questions. *Ayeh* (and its cognates *ey*, *ayekah*) is **where is**, and for Shapira-Frankfurter, followed by Rabbi Yaakov Tzvi Mecklenburg, it carries a further charge: the searcher expected the thing to be here and is surprised it is not. Rabbi Shlomo Aharon Wertheimer and Rabbi Shlomo Pappenheim instead set the two apart by how vague the question is. *Anah* is **to where**, a question of destination, not of present place (Pappenheim), and with a prefixed mem, *me'ayin*, it flips to **from where**, a question of origin. Where a pasuk turns on *ayeh*, on Shapira-Frankfurter's reading the surprise at an absence is inside the word.
+
+**Rendering guidance.**
+
+- איה: "Where is…?" is the safe default, but where the context supplies a
+  missing person or thing, "Where has… gone?" or "Why is… not here?" carries
+  what Shapira-Frankfurter and Mecklenburg hear in it.
+- איכה to Adam (Bereishis 3:9): "Where are you?" is correct, and the reading
+  that Hashem asked why he was not in his place belongs in the commentary.
+- אנה and לאן: "to where," "whither," or recast as "Where are you going?"
+  Rendering them "where" alone loses the distinction, since the pasuk asks
+  about the destination.
+- Trap: English "where" absorbs *ayeh*, *eifoh* and *anah* together. If two of
+  them stand in one passage, mark the difference with the verb ("Where is he?"
+  against "Where is he headed?") rather than repeating one adverb.
+- Where *eifoh* clearly does not mean "where" (Yeshayahu 22:1; Shoftim 8:18),
+  translate the sense Rashi gives, and note the alternative reading.
 
 **למה / מדוע** — why | lamah, lama, lammah, madua, maduah, mah deah | reviewed | [why-lamah-madua.md](entries/why-lamah-madua.md)
 
 Both mean **why**, and in many places they seem interchangeable; Ibn Parchon and Radak hold them synonymous, while Rabbi Klein holds that no two Hebrew words mean exactly the same thing. Those who find a difference give four accounts: Rabbi Yaakov Tzvi Mecklenburg and the Malbim make *madua* ask the effective cause and *lamah* the ultimate purpose; Rabbi Shlomo Aharon Wertheimer makes *lamah* imply that the matter is wrong, a complaint or rebuke, and *madua* neutral; others make *lamah* rhetorical and *madua* a request for a real answer; and some make *madua* specifically the question about a ruling or command.
 
+**Rendering guidance.**
+
+- Default *madua* to a plain "why." On Wertheimer's reading it is the word that
+  carries no verdict.
+- Where *lamah* stands in a complaint or a rebuke, let the English sentence
+  carry the tone: "Why would you do this?", "For what?", "And why, then…?"
+  Simply writing "why" leaves the pasuk flat.
+- Trap: English "why" absorbs both words completely. When both appear near each
+  other, or when a commentary is built on the choice of one, mark the difference
+  explicitly rather than translating both identically, and say in a note which
+  word the pasuk used.
+- Where *lamah* is rhetorical, consider dropping the question mark's expectation
+  in the surrounding prose ("as if to say") rather than inventing an English
+  interrogative that Hebrew does not have.
+
 **חלון / אשנב** — window | chalon, chalonot, chalonos, eshnav, eshnabh, ashnav | reviewed | [window-chalon-eshnav.md](entries/window-chalon-eshnav.md)
 
 *Chalon* is the ordinary **window**, thirty-one times in Tanach, and its root describes what a window is: an empty space in a wall (Rabbi Shlomo Pappenheim; Radak and Ibn Janach, under ח-ל-ל). *Eshnav* appears only twice; at Shoftim 5:28 Sisera's mother looks through both. Rashi, Ibn Janach and Radak define *eshnav* as *chalon*, which suggests the two mean the same thing. Others distinguish them, and they do not agree how: a small window (Rabbi Yosef Kara, Meiri), a peephole (Rid), an enchanted window used for divination (Malbim to Shoftim, with *Kli Yakar* reversing the two words), a lens that brings the distant near (Malbim in *Yair Ohr*), a lattice (Menachem Ibn Saruk, Rabbi Moshe David Valle), a shuttered window (Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, and independently Dr. Shmuel Yeivin), or a window for the wind (Rabbi Aharon Marcus, Rabbi Baruch HaLevi Epstein, Rabbi Ernest Klein). Rabbi Reuven Chaim Klein does not choose. Modern Hebrew's *eshnav*, a service window, is a neologism.
+
+**Rendering guidance.**
+
+- חלון: "window." The one reading that departs from this is *Kli Yakar*'s to
+  Shoftim 5:28, where the *chalon* is a divining mirror; that belongs in a note.
+- Shoftim 5:28: give the two words two English renderings. "She peered through
+  the window… through the lattice" or "…through the casement" keeps the pair;
+  "window" twice reads as mere repetition.
+- Trap: English "window" absorbs both. Where a commentary is built on the
+  difference (Malbim, *Kli Yakar*), leave both words plain and explain the
+  reading in a note rather than presuming one.
+- Mishlei 7:6: the Meiri, commenting on this verse, reads "small window";
+  "lattice" follows Ibn Saruk and Valle and carries the sense of looking out
+  unseen.
+- Do not render *eshnav* "service window," which is modern. "Peephole" commits
+  to the Rid's reading, as "lattice" commits to Ibn Saruk and Valle and "small
+  window" to Kara and the Meiri.
 
 **יין / תירוש / חמר / חמרא / שכר / עסיס / מלאה / סבא / דמע / סמדר** — wine | yayin, yayn, yain, tirosh, tiroush, chemer, chamer, chamar | reviewed | [wine-yayin-tirosh-chemer-shechar.md](entries/wine-yayin-tirosh-chemer-shechar.md)
 
 *Yayin* is **wine**, by far the commonest. *Tirosh* is on an earlier tradition **new wine**, *yayin* being old (Ramban, Radak, *Tosafos Rid*, Rashi), a tradition Rabbi Pappenheim's etymology of *tirosh* reflects; Rav Hirsch and Rabbi Dr. Yehuda Felix make it juice not yet fermented, and the Vilna Gaon makes the difference sweetness and the hour of drinking, not age. In Rabbinic Hebrew *tirosh* came to mean a sweet, juicy product and specifically not wine. *Chemer* is **wine**, the ordinary Aramaic word; whether it is named for red (Rabbi Moshe Ibn Ezra, Rabbi Yehuda Ibn Balaam, with Radak tying it to wine's redness), for brown (Rabbi Aharon Marcus) or for fermentation (other linguists; Rav Hirsch) is disputed. *Shechar* is wine for the Nazir on the Targumim and the *Sifrei*; for Rabbi Moshe Ibn Ezra and Ibn Ezra it is any intoxicating drink, **strong drink**; in rabbinic usage it is a drink other than wine, usually mead or beer (Bedersi). Beside the four stand *sove*/*sava* (drunkard, and in Yeshayahu 1:22 wine), *assis* (**pressed juice**), *mel'ayah* and *dim'ah* (Shemos 22:28, disputed between wine, grapes and grain), and *smadar* (unripe grapes, though Dr. Edward Kutscher took it for a wine).
 
+**Rendering guidance.**
+
+- יין: "wine." Do not upgrade it to "old wine" unless the passage contrasts it
+  with *tirosh*; the forty-day tradition belongs in a note.
+- תירוש: "new wine" follows the age reading and Rabbi Pappenheim; "sweet wine"
+  the Vilna Gaon; "grape juice" Rav Hirsch and Dr. Felix, and should be marked
+  as theirs. In Rabbinic Hebrew it is a sweet juice and not wine.
+- Trap: "wine" for both words flattens Hoshea 4:11, where both stand together;
+  render "wine and new wine," or on the Vilna Gaon's reading "wine and sweet
+  wine."
+- שכר: "strong drink" carries Rabbi Moshe Ibn Ezra's wide sense (Vayikra
+  10:9). For the Nazir (Bamidbar 6:3) the Targumim, Rabbeinu Bachaya and the
+  *Sifrei* make it wine; in rabbinic usage it is mead or beer, not wine
+  (Bedersi).
+- עסיס: "pressed juice." *Mel'ayah* (Shemos 22:28) is wine for Targum Yonasan
+  and *Ohel Moed*, with Bamidbar 18:27 pointing the same way, grapes for
+  *Midrash Chefetz*, and grain for Rashbam and Bechor Shor; render by the
+  commentary the passage relies on.
+- סמדר in the Mishnah is unripe grapes, not wine.
+
 **את / אתו / אתי / עם / עמו / עמי** — with | es, et, ito, itto, iti, itti, itah, itam | reviewed | [with-es-im.md](entries/with-es-im.md)
 
 *Es*, where it means "with," and *im* both mean **with**, and Tanach uses now one and now the other. On both views the difference is whether the two parties stand as equals. The Vilna Gaon and Malbim: *im* is "with" in the full sense, two equal and cooperative parties, while *es* does not connote equality: one party is dominant and active, the other passive. Rabbi Shlomo Pappenheim and Rabbi Yaakov Tzvi Mecklenburg take the opposite approach: *im* is circumstantial, they merely happened to be together, while *es* is the stronger, more deliberate and more equal "with." The two schools read the same pesukim in opposite ways (Lot's *itto* and *imo*), though on Bilam Rabbi Mecklenburg's reading mirrors the Gra's.
+
+**Rendering guidance.**
+
+- Ordinary prose, either word: "with." No English preposition marks the
+  distinction, and forcing one ("together with" against "alongside") reads
+  strained if the source is not making the point.
+- Where a source is darshening the switch, supply the sense in a bracket or a
+  note rather than in the preposition: on the Gra's reading of Bilam, "with
+  them [*imahem*, as full partners]" against "with them [*itam*, merely
+  accompanying]."
+- Trap: "with" absorbs both words completely, so a derashah built on the change
+  from *itto* to *imo* simply vanishes in translation unless the Hebrew is kept
+  visible. Where the pair turns up in one passage (Bereishis 12:4 and 13:14;
+  24:32 and 24:54; 50:7 and 50:9), quote both Hebrew forms.
+- Second trap: most appearances of את are the object marker and carry no meaning
+  at all. Before reading "with" into one, check that the word is not simply
+  pointing at the object.
+- Where the source reads the two as opposites, say which school it belongs to,
+  since the Gra and Malbim put the equality in *im* and Rabbi Pappenheim and
+  Rabbi Mecklenburg put it in *es*.
 
 
 ### quantity
@@ -3065,25 +7207,141 @@ Both mean **why**, and in many places they seem interchangeable; Ibn Parchon and
 
 *Shekel* does not mean the same thing in Tanach and in Mishnah. In Tanach a *shekel* is the full weighed coin; the Mishnah calls that coin a *sela* and uses *shekel* for the **half-shekel** of the annual donation (Ramban to Shemos 30:13). Biblical שקל is the **shekel** and Mishnaic סלע the **sela**. *Beka* is **half a shekel**, from "splitting."
 
+**Rendering guidance.**
+
+- Torah context: שקל is "shekel," חצי השקל is "half-shekel," בקע is "a beka
+  (half a shekel)."
+- Mishnah or Gemara context: סלע is "sela," not "shekel." A Mishnaic שקל is
+  "half-shekel," or "a *shekel* (half a Biblical shekel)" where that is unclear."
+- Trap: English "shekel" absorbs both שקל and סלע, which is the very error the
+  sugya turns on. Where a source quotes a pasuk beside a halachah (five
+  *shekalim* / five *selaim* for pidyon haben), keep both words in English.
+- סלע in a Mishnah is not automatically money. Check whether the context is
+  bedrock (Shabbos 6:6) before writing "coin."
+
 **ספירה / ספר / מספר / מונה / מנין / מפקד** — counting | sefirah, sefira, sefiras haomer, sofer, safar, mispar, moneh, monah | reviewed | [counting-sefirah-mispar-minyan.md](entries/counting-sefirah-mispar-minyan.md)
 
 On Rabbi Yaakov Tzvi Mecklenburg's reading, *sofer* / *sefirah* is a count where each unit is marked and matters in itself, and *mispar* is a number that sets a limit. *Moneh* / *minyan* is a count whose point is the total; the single unit is not necessarily significant on its own. *Sefirah* is **counting**, with qualitative weight where the sense is the daily obligation; *moneh* is to **count** or **tally**, and *minyan* a **tally** or, in the shul sense, a **quorum**. The Torah's choice of *sofer* for *Sefiras HaOmer* is deliberate, and it differs from the *moneh* of the Kohen Gadol's sprinklings.
+
+**Rendering guidance.**
+
+- *Sefiras HaOmer*: "the counting of the Omer," and where the source is making
+  the point, say what kind of count it is rather than reaching for a heavier
+  English word. The weight is in the mitzvah, not in the verb.
+- Trap: English "count" absorbs both *sofer* and *moneh*. Where a passage sets
+  them against each other, as the Yom Kippur *moneh* stands against the Omer's
+  *sofer*, mark the difference in the surrounding words: "tallied" for *moneh*,
+  "counted off" or "counted each day" for *sofer*.
+- מספר as a limit is easy to miss. In Devarim 25:2 "a number of lashes" reads
+  as vagueness in English, where the Hebrew means a fixed cap; "a set number"
+  or "a limited number" carries the sense.
+- מנין in a halachic context is "quorum"; in a plain counting context it is
+  "tally" or "the count." Do not import "quorum" into a pasuk.
+- Where the two roots stand in one phrase, keep the qualitative word in the
+  *sefirah* slot, since that is where each unit has its own standing.
 
 **אחד עשר / אחת עשרה / עשתי עשר / עשתי עשרה / עשתי** — eleven | achad asar, achad-asar, achat esreh, achat-esrei, ashtei asar, ashtei-asar, ashtei esreh, ashtei-esrei | reviewed | [eleven-achad-asar-ashtei-asar.md](entries/eleven-achad-asar-ashtei-asar.md)
 
 Both mean eleven, and both stand in the opening pesukim of Devarim: "eleven (*achad asar*) days from Chorev... in the eleventh (*ashtei asar*) month" (Devarim 1:2-3). On Rabbi Klein's tentative reading of *Peirush HaRokeach*, *achad asar* is **eleven** and *ashtei asar* **eleventh**, though he concedes that this does not pan out in every case in Tanach. Rabbi Meir Mintzberg's distinction is that *achad asar* is eleven as a number of its own and *ashtei asar* is eleven as an extension of ten; he points out that *ashtei asar* never takes the definite article, while every other number does.
 
+**Rendering guidance.**
+
+- Default: אחד עשר = "eleven," עשתי עשר = "eleventh," and check the context
+  before overriding, since the correlation is strong but Rabbi Klein concedes it
+  does not hold everywhere.
+- Trap: English "eleven" will absorb both, and in Devarim 1:2-3 that is exactly
+  the loss, since the two forms stand two pesukim apart and the shift is the
+  only signal the text gives. Render the first "eleven days" and the second "the
+  eleventh month," and the Hebrew's own distinction comes through in English
+  without a note.
+- Where a derashah turns on *ashtei*, do not translate the element at all; give
+  the Hebrew and the reading being used, since Ibn Janach's "upon twelve" and
+  Ibn Ezra's "born of ten" point in opposite directions and the choice is the
+  derashah.
+- In a list of ordinals, keep *ashtei asar* in the ordinal series ("the tenth,
+  the eleventh, the twelfth") rather than letting it fall back to a cardinal.
+
 **זהב / פז / כתם / חרוץ / בצר** — gold | zahav, zohov, dahav, paz, mufaz, meufaz, ufaz, mifazez | reviewed | [gold-zahav-paz-kesem-charutz.md](entries/gold-zahav-paz-kesem-charutz.md)
 
 *Zahav* is the general word: **gold**. *Paz*, for most commentators, is **fine gold**, the best and rarest grade (Rabbi Shlomo Aharon Wertheimer). *Kesem* is also fine gold, named for the malleability that lets it be beaten thin (Rabbi Shlomo Pappenheim). *Charutz* is gold as mined, dug out of the ground (Rabbi Aharon Marcus, Rabbi Wertheimer). *Betzer* is contested: gold, silver, a stronghold, and unrefined ore are all live readings of Iyov 22:24. Tehillim 19:11 and 119:127 pair two of them.
+
+**Rendering guidance.**
+
+- Trap: "gold" absorbs all five. Where two stand in one pasuk, differentiate.
+  Tehillim 19:11, "more desirable than gold, than much fine gold"; Tehillim
+  119:127, "more than gold and fine gold." (Tehillim 119:72 pairs *zahav* with
+  silver rather than with *paz*.)
+- Do not render *charutz* "gold" in a passage where its other sense, diligent, is
+  being played on; the Rid reads the two senses as one word, and a derashah may
+  turn on it.
+- In Iyov 22:24 leave *betzer* transliterated or render it "ore," and footnote
+  the four readings. "Gold" there quietly picks Ibn Janach over Rashi.
+- *Kesem* in Niddah and *kesem* in Iyov are the same consonants doing opposite
+  work, precious gold and a defiling stain. Never carry one rendering into the
+  other; note the shared root only where a source makes the point.
+- The compound grades (*zahav sagur*, *zahav shachut*, *zahav parvayim*) are
+  best left in Hebrew with a gloss, since English has no vocabulary for them.
 
 **אחד / אחת / אח / חד / חדה** — one | echad, echod, achad, achat, achas, echat, echas, ach | reviewed | [one-echad-achad-chad.md](entries/one-echad-achad-chad.md)
 
 *Echad* is the ordinary and overwhelmingly common word for **one**, and where Chazal read it closely it means **the one that matters**, the choice or unique one. *Achad* is the rarer form and splits in two (Rabbi Wolf Heidenheim): in the construct ("one of the mountains") it carries the same weight as *echad*, **one of the important ones**; in the absolute, recognisable because a *mem* usually follows ("*achad me...*"), it means **any one of them**, and implies the lesser, not the greater. *Chad* is *echad* with the *aleph* dropped, Aramaic in almost every occurrence. *Achat* / *echat* are the feminine, one word vowelised two ways.
 
+**Rendering guidance.**
+
+- Default: *echad*, *achad*, *achat*, *echat*, *chad* all render "one." The
+  differences are connotative, not lexical, so do not manufacture a distinction
+  in English where the source is not making one.
+- Where a derashah is running, mark it: *echad* as "the one," "that one," or
+  "the choicest"; construct *achad* as "one of the great," "one of the
+  distinguished"; absolute *achad* as "any one of them," "a mere one of them."
+- Trap: English "one of" absorbs both forms of *achad* and erases Heidenheim's
+  whole point. When both forms sit in one pasuk, as at Bamidbar 16:15, translate
+  them differently or the verse reads as pointless repetition. On the reading
+  Heidenheim defends: "I did not take a donkey of one of them, and I did not
+  wrong any one of them." Rashbam, Chizkuni and Ramban read the first clause as
+  "I did not take one donkey from them," so a translation there is choosing a
+  side and should say which.
+- *Chad* in a Hebrew context is a clipped *echad*; in Daniel, Ezra, the Bavli
+  and Targum it is simply the Aramaic for one and needs no comment.
+- *Ach* at Yechezkel 18:10 is a live dispute. Give "brother" (Targum, Rashi)
+  unless following Radak and Ibn Janach, and footnote the other reading.
+
 **ערמה / חמרים / גדיש / עמר / חמר / ערום** — pile | areimah, aremah, aremot, areimos, chamarim, chomer, cheimar, chamran | reviewed | [pile-areimah-chamarim-gadish.md](entries/pile-areimah-chamarim-gadish.md)
 
 *Areimah* is the standard word for a **pile** or **heap**, in Tanach and in Mishnaic Hebrew alike. *Chamarim* (doubled in Shemos 8:10, *chamarim chamarim*) is **heaps upon heaps**, a mass gathered together. *Gadish* is a **stack** of grain still in the sheaf; *omer* is the **bundle** or **sheaf** itself. Rambam seems to equate *areimah* and *gadish*, but Rabbi Shlomo Pappenheim separates them: the difference is threshed grain (*areimah*) against unthreshed (*gadish*). Rabbi Klein reports that he has found no source that distinguishes *areimah* from *chamarim* in meaning.
+
+**Rendering guidance.**
+
+- ערמה: "pile" or "heap." In an agricultural sugya, "pile of grain."
+- חמרים חמרים: keep the doubling; "heaps upon heaps" or "in heap after heap."
+  Do not flatten it to a single "piles."
+- גדיש: "stack" (of sheaves), not "pile," so that it stays distinct from
+  *areimah* on the page.
+- עמר: "sheaf" or "bundle."
+- Trap: English "pile" will happily absorb *areimah*, *chamarim* and *gadish*
+  at once. Where a passage turns on Rabbi Shlomo Pappenheim's threshed against
+  unthreshed, or where *gadish* and *areimah* stand in one sentence, force the
+  split with pile / stack.
+- Trap: נערמו מים (Shemos 15:8) is contested, and the English must choose.
+  *Mechilta* (to Shemos 14:16), which says the waters became *areimos areimos*,
+  Rashbam, who writes that they piled up high like a heap of wheat, Rasag
+  (892-942), and Ibn Ezra in both of his commentaries to Shemos, all read it from
+  *areimah*. Targum Onkelos renders *chakimu mayim*, "the waters became smart,"
+  and this also seems to be Rashi's preferred reading; Chizkuni clarifies that the
+  waters were intelligent enough to pursue the Egyptians and drown them (Rabbi
+  Klein adds that this has nothing to do with added electrolytes), Rabbi Chaim
+  Paltiel that they could tell Jew from Egyptian, and the Tosafistic *Sefer
+  HaGan* that they suddenly gained the knowledge to sing Hashem's praise alongside
+  the Jews. Donash Ibn Librat (920-985) objected to Rasag's reading, but there is
+  an omission in the printed text of his work and his own preferred explanation is
+  missing; Ibn Ezra, whose *Sefas Yeser* defends Rasag against Donash, records
+  only that Donash differs and that his reading should be considered *drash*
+  rather than *pshat*, and Rabbi Klein ventures his own guess that Donash may have
+  preferred the Onkelos and Rashi approach. A third reading, in *Esther Rabbah*
+  3:15, hears *arum* ("naked") in the word: one opinion there says Hashem strips
+  the wicked of their outer clothes in Gehinnom, and another adds that He punished
+  the Egyptians likewise while they were naked, as the first word of *ne'ermu
+  mayim* seems to hint.
 
 
 ### ritual
@@ -3092,81 +7350,415 @@ Both mean eleven, and both stand in the opening pesukim of Devarim: "eleven (*ac
 
 *Mizbeach* is the **altar** proper, built of many stones (or of plated wood in the Mishkan), square, with four horns. *Matzeivah* is the **single-stone altar** or **pillar**, beloved in the days of the Avos and forbidden afterwards; where no sacrifice is in view it is a **pillar** or **monument**, and Ramban denies it is an altar at all. *Bamah* is a **high place**, a **private altar** away from the central place of worship. The Torah itself contrasts the commanded *mizbeach* with the hated *matzeivah*.
 
+**Rendering guidance.**
+
+- Default: *mizbeach* "altar," *matzeivah* "pillar" or "single-stone altar,"
+  *bamah* "high place" or "private altar." Plural *bamos*.
+- Trap: English "altar" will swallow all three. Where a passage sets the
+  commanded *mizbeach* against the hated *matzeivah* (Devarim 16:22 beside
+  16:21), or against the illicit *bamos* of the kings, the English must keep
+  three distinct words or the contrast is lost.
+- Second trap: *matzeivah* in a Chumash context is a place of offering; in modern
+  Hebrew it is a gravestone. Do not let the modern sense leak into a rendering of
+  Yaakov's *matzeivah* at Beis El.
+- With *bamah*, "high place" carries the literal sense and "private altar" the
+  halachic one. Where the passage is about the prohibition rather than the
+  topography, "private altar" is clearer.
+- Where *Mizbeach HaZahav* and *Mizbeach HaChitzon* both appear, render them
+  "the Golden Altar" and "the Outer Altar" rather than transliterating; the
+  contrast is the point.
+
 **אירוסין / קידושין / נישואין / הקדש / שידוכין / מקודשת / ארוסה** — betrothal | erusin, eirusin, arusah, arusa, meorasah, kiddushin, kidushin, mekudeshet | reviewed | [betrothal-erusin-kiddushin-nissuin.md](entries/betrothal-erusin-kiddushin-nissuin.md)
 
 *Erusin* and *kiddushin* name the same halachic act, the first of the two stages of marriage: **betrothal**, after which she is halachically his wife and adultery applies, though the couple may not yet live together. *Nissuin*, effected by chuppah, is the second stage: **marriage** proper. *Shidduchin* is what English calls **engagement**, an agreement to marry later. Modern Hebrew uses *erusin* for engagement, but Rav Hirsch (to Shemos 22:15) already warns that the Torah's *erusin* is not that. Where the two words are contrasted, *kiddushin* carries the *hekdesh* sense of setting apart and *erusin*, on Rabbi Shalom Mansoura's reading, the sense of binding or tying.
+
+**Rendering guidance.**
+
+- *Erusin* and *kiddushin*, standing alone for the halachic act: "betrothal."
+  Never "engagement," and avoid "inchoate marriage," which is heavy and obscure.
+- *Nissuin*: "marriage," or "the second stage of marriage" where the two-stage
+  structure is the subject. *Shidduchin*: "engagement" or "the match."
+- Where a passage contrasts *erusin* with *kiddushin* (Tosafos to *Kiddushin*
+  7b), English "betrothal" will absorb both. Keep the Hebrew terms and translate
+  the concept: "betrothal effected in the language of *kiddushin*."
+- *Mekudeshes* in the formula under the chuppah: "you are betrothed to me," or
+  "designated to me," following Tosafos and the Ra'ah. "Consecrated to me" imports
+  the very sense those Rishonim rule out.
+- *Hekdesh* in this discussion: "consecrated property," so that the analogy to
+  *kiddushin* stays visible.
+- Trap: a Hebrew passage may use *kiddushin* for the act and *kedushah* for the
+  holiness of the union in adjacent lines (the Taz). Do not render both by the
+  same English word; the argument depends on their being felt as related but
+  distinct.
 
 **אפריון / חופה / סוכה / סכך** — canopy | apiryon, apirion, chuppah, chupah, chuppa, chofeh, mechapeh, succah | reviewed | [canopy-apiryon-chuppah-succah.md](entries/canopy-apiryon-chuppah-succah.md)
 
 *Succah* is a **booth**, named for its *sechach*, and the word carries the sense of shelter, a covering that protects from what is above. *Chuppah* is a **canopy**, from *chofeh*, to cover; it says only that the thing is covered on top, with nothing about protection. *Apiryon* Rabbi Klein takes to be more than a canopy: the Mishnah suggests a **mobile enclosure** a woman travels inside, and on the reading of those who tie the word to the Sanskrit *paryanka* it is a **palanquin**, a covered litter carried on poles. On that reading, the mefarshim who gloss *apiryon* as a *chuppah* are stating its halachic function at Amram and Yocheved's remarriage, not equating the two words. Rabbi Klein's working premise is that no two words in Hebrew mean exactly the same thing, so a difference must be found.
 
+**Rendering guidance.**
+
+- Default renderings: *succah* stays transliterated, glossed "booth" once;
+  *chuppah* stays transliterated, glossed "wedding canopy" once; *apiryon*
+  "canopied litter" or "palanquin" if you follow the *paryanka* reading, which
+  also suits Shir HaShirim 3:9, where the pasuk goes on to list its seat.
+- Trap: "canopy" will take *chuppah* and *apiryon* both, and "covering" will
+  take *chuppah* and *sechach* both. Where a source glosses one by the other
+  (*apiryon zu chuppah*), render the gloss as a statement of function: "an
+  *apiryon*, which served as a *chuppah*."
+- *Sechach* is never "roof." It is the covering, and Rashi's protective sense is
+  the point wherever the halachos of Succos are being explained.
+- Where *chofeh* is figurative (covering for another's wrongdoing), do not carry
+  the canopy image into the English; "shield" or "cover for" is right, "canopy"
+  is not.
+
 **מוהל / גוזר / רופא / אומן** — circumciser | mohel, mohala, mohalin, mal, milah, mahul, gozer, gozeir | reviewed | [circumciser-mohel-gozer-rofeh-uman.md](entries/circumciser-mohel-gozer-rofeh-uman.md)
 
 *Mohel* is the **circumciser**. *Gozer* is the **cutter**, the older title, which in a name carries a second sense, halachic decisor. *Rofeh* is a **physician** who performs the circumcision, *uman* a **practitioner** or bloodletter who does; on Rabbi Yissachar Tamar's reading neither means "circumciser" as such. His rule sorts them: a man whose main profession was circumcision alone was a *mohel*, one who also bled and healed a *rofeh* or an *uman*.
+
+**Rendering guidance.**
+
+- מוהל: "mohel" in a frum register ("circumciser" is clinical), and
+  "circumciser" only where the contrast with the other three is the point.
+- גוזר: "cutter." Where it is a title (Rabbi Yehudah HaGozer, Rabbi Yaakov
+  HaGozer) leave it transliterated and gloss it once; "the Circumciser" throws
+  away the decisor sense the honorific was chosen for.
+- רופא: "physician"; אומן: "practitioner" or "bloodletter" as the sugya
+  requires. Do not render either "mohel."
+- Trap: English "circumciser" will absorb all four, and in Bava Basra 21a and
+  Avodah Zarah 26b that is exactly the mistake, since the question there is what
+  the man's trade was. Keep *rofeh* and *uman* in their ordinary senses and let
+  the context supply that he circumcises.
+- Where *milah* and *gezeirah* name the same mitzvah in one passage, render the
+  second "cutting," not "circumcision"; the Aramaic is making a point.
 
 **פרוכת / מסך / וילון / פרגוד** — curtain | parochet, paroches, poroches, masach, massach, vilon, vilan, pargod | reviewed | [curtain-parochet-masach-vilon-pargod.md](entries/curtain-parochet-masach-vilon-pargod.md)
 
 *Paroches* is a **dividing curtain**, the one that marks off one domain from the next; *masach* is a **screen**, a heavy cloth that covers and shields. In the Mishkan the *paroches* separates the Kodesh from the Kodesh HaKodashim and the *masach* hangs over an entrance. *Vilon* and *pargod* are the later Rabbinic words: *vilon* a plain **curtain**, *pargod* a **partition curtain** standing where the *paroches* stands, and in aggadic contexts the screen between Hashem and what is below. On Rabbi Shlomo Pappenheim's reading, *paroches* names a function, not a fabric.
 
+**Rendering guidance.**
+
+- פרוכת: "curtain" in the Mishkan and in a shul, but where Rabbi Shlomo
+  Pappenheim's sense is in play, "partition" or "dividing curtain," since his
+  whole point is that the word names the division and not the cloth.
+- מסך: "screen." Reserve it; do not let it become a second "curtain."
+- וילון: "curtain," plain.
+- פרגוד: "curtain" in a *chuppah* or Mishnah context; in the aggados of
+  *Chagigah* 15a and the Mussaf piyut, keep it transliterated, "from behind the
+  *pargod*," since no English word carries what Rashi loads onto it there.
+- Trap: Shemos 35:12 puts *paroches* and *masach* in one construct phrase,
+  *paroches hamasach*. "The curtain of the curtain" is nonsense; render "the
+  partition screen" or "the dividing curtain that screens," and let Rabbi
+  Shlomo Pappenheim's two functions both survive.
+- Trap: do not render *masach* "veil." It shields from view but is heavy cloth,
+  not gauze; "veil" belongs closer to *vilon*.
+
 **צום / תענית / עינוי / צומת** — fasting | tzom, tzam, tzamnu, tzomos, tzomot, taanis, taanit, taaniyos | reviewed | [fasting-tzom-taanis.md](entries/fasting-tzom-taanis.md)
 
 *Tzom* is the Biblical word for a **fast**, usually abstaining from food; *taanis* is the Mishnaic word for a **fast day**, built on *inui*, **affliction**, and so wider than food alone. The words are not free variants, and two approaches to what separates them are given below; on the first, *Tzom Gedaliah* and *Taanis Esther* carry their words for a reason. *Inui* is affliction, of which fasting is one form.
+
+**Rendering guidance.**
+
+- *Tzom Gedaliah* and *Taanis Esther* keep their Hebrew names; do not
+  standardize both to "the Fast of". If they must be Englished, "the Fast of
+  Gedaliah" and "the Fast of Esther", with a note that the Hebrew words differ.
+- Trap: English "fast" absorbs *tzom*, *taanis*, and *inui* alike. Reserve
+  "fast" for *tzom*, "fast day" for *taanis*, and "affliction" for *inui*. In
+  Yeshayahu 58:3 both appear in one pasuk and the parallelism depends on the
+  difference.
+- On Yom Kippur, the Torah never says *tzom*; it says *v'inisem es
+  nafshoseichem*, "you shall afflict your souls". Writing "you shall fast"
+  narrows a *mitzvah* that includes more than food.
 
 **ציצית / ציץ / גדילים / גדיל / פתיל / טלית / כרוספדין** — fringes | tzitzis, tzitzit, tzitz, tzitzin, gedilim, gedilin, gadil, gedil | reviewed | [fringes-tzitzis-gedilim-petil.md](entries/fringes-tzitzis-gedilim-petil.md)
 
 *Tzitzis* are the **fringes**, named for what protrudes and is therefore seen. *Gedilim* are the same strings named, on the reading of Radak and Rav Hirsch, for the **braided** third that is thickened by twisting. *Petil* is the single **thread** of *techeiles*, named for snug twisting and, in Rav Hirsch's reading, for its separateness. *Tallis* is not the fringes at all but the **four-cornered garment** that carries them, and it is Rabbinic Hebrew only. *Kruspidin* is the Targum's Aramaic for *tzitzis* and *gedilim*, a Greek loanword for the **hem or fringe** of a garment. *Tzitzis* and *tallis* are not interchangeable.
 
+**Rendering guidance.**
+
+- *Tzitzis* stays transliterated; where an English gloss is wanted once,
+  **fringes**, not "tassels."
+- *Gedilim*: **braided cords**, and where the Gemara's ratio is in play, "the
+  braided part." Do not render it "fringes" as well, or Radak's resolution of
+  the two Torah words collapses.
+- *Petil*: **thread** or **cord** (of *techeiles*), singular. Never "fringe."
+- *Tallis*: **tallis**, glossed once as the four-cornered garment. Reserve
+  "prayer shawl" for a translation aimed outside the frum readership, and even
+  then only where nothing in the passage turns on the garment as such.
+- Trap: English "fringes" will swallow *tzitzis*, *gedilim*, and *kruspidin* at
+  once. When a passage sets *tzitzis* against *gedilim* (Menachos 39a and Radak
+  on it), give the first as "fringes" and the second as "braided cords," and let
+  *petil* stay a single thread inside them.
+- Devarim 22:12 beside Bamidbar 15:38: keep the Torah's own switch of word
+  visible in English. The whole derashah is that the Torah used two names for
+  one mitzvah.
+
 **מגבעת / מצנפת / כובע / אבנט / חגור / חגורה / אזור / סינר** — hat and belt | migbaas, migbaat, mitznefes, mitznefet, tznif, tzonef, kova, koba | reviewed | [hat-and-belt-mitznefes-migbaas-avnet.md](entries/hat-and-belt-mitznefes-migbaas-avnet.md)
 
 *Migbaas* is the ordinary *kohen*'s **headdress**, *mitznefes* the *kohen gadol*'s **turban**, and *kova* possibly not a hat at all but a **hard hat** or **helmet**: every one of its six appearances in *Tanach* is a soldier's. For belts, *avnet* is the **sash** of the priestly service, *chagor* the general **belt** for anything that goes around the body, and *eizor* the **girdle** at the waist, worn by strong men. Rashi and Ramban maintain that *migbaas* and *mitznefes* were the same type of hat and are indeed synonyms; the others distinguish them.
+
+**Rendering guidance.**
+
+- Do not let English "hat" absorb all three head words. *Kova* in a pasuk is
+  **helmet**; *migbaas* is **headdress** or **cap**; *mitznefes* is **turban**.
+- Where the two priestly hats stand in one verse or one halachic list (Shemos
+  28:4 and 28:40, Mishnah Yoma 7:5), keep two distinct English words even if you
+  follow Rashi and Ramban that the object is the same, since the passage is
+  distinguishing the *kohen gadol* from the ordinary *kohen*.
+- "Belt" will happily swallow *avnet*, *chagor* and *eizor*. Reserve **sash**
+  for *avnet* in a Mikdash context, **belt** for *chagor*, and **girdle** for
+  *eizor*, especially where the verse is using *eizor* for strength; there
+  "girded" carries the metaphor and "belted" does not.
+- Where a source treats *migbaas* and *mitznefes* as one hat under two names,
+  the useful line is Rabbi Klein's own: *migbaas* names the shape, *mitznefes*
+  names the honor (the honor half rests on *Tosafos HaRosh*).
 
 **שופר / קרן / יובל / חצוצרות / שפופרת / שפר / שפיר** — horn | shofar, shofarot, shofaros, keren, karnayim, kranot, yovel, yoveil | reviewed | [horn-shofar-keren-yovel-chatzotzros.md](entries/horn-shofar-keren-yovel-chatzotzros.md)
 
 *Shofar* names the **ram's horn**, and the word carries the sense of a **hollow tube** (Ran, from *shefoferes*) and of **beauty and fitness** (root ש-פ-ר; Ritva). *Keren* is the general **horn**, still on the animal or off it, and by extension a **ray**, a **corner**, **strength**, and in the Mishnah the **principal** of a debt or investment. *Yovel* is a horn too (Shemos 19:13) and gives its name to the fiftieth year. *Chatzotzros* are the silver **trumpets** of Bamidbar 10:2, though after the Churban *shofaros* came to be called *chatzotzros*. In Rosh Hashanah 3:2 the whole halachah turns on the bovine horn being *called* a *keren*.
 
+**Rendering guidance.**
+
+- *Shofar* transliterated always; "ram's horn" only as a first-mention gloss,
+  and never "trumpet."
+- *Chatzotzros*: "trumpets," in Bamidbar 10:2 "silver trumpets." Where the
+  Gemara records the terms swapping, keep both transliterated.
+- Trap: English "horn" absorbs *keren*, *shofar*, and *yovel*. In *Rosh
+  Hashanah* 3:2 the argument is nominal, not physical, so both Hebrew words
+  must appear: "a cow's horn is unfit, because it is called a *keren* and not a
+  *shofar*."
+- *Keren* in the Mishnah's monetary sense is "principal," in damages *keren*
+  (the goring category, transliterated), for the mizbeach "the horns of the
+  altar," elsewhere "corner." Do not carry one English word across the senses.
+- *Keren* as strength (Tehillim 132:17, 148:14): "horn" reads well and the
+  metaphor survives; do not flatten to "power."
+- *Yovel*: transliterated for the year, "the horn" for Shemos 19:13.
+
 **אלילים / פסל / מסכה / מצבה / עצבים / גלולים / תרפים / שקוצים / חמנים / אשרים** — idols | elilim, elil, pesel, pesilim, masechah, masecha, matzeivah, matzevah | reviewed | [idols-elilim-gilulim-shikutzim.md](entries/idols-elilim-gilulim-shikutzim.md)
 
 Ten words, and they are not interchangeable. *Pesel* is the idol **disqualified** from legitimate worship, *masechah* a **molten image**, *matzeivah* a **standing pillar** that cannot move of itself. *Elilim* are **nothings** (or hollow things), *gilulim* **dung-idols**, *shikutzim* **abominations**, *terafim* things that can **rot**. *Atzabim* are, literally, **bones**, idols made of parts, or the things that grieve their worshippers. *Chamanim* are named from *chamah*, the sun, because they are left standing outside in it. *Asherim* are the idols that get their **validation** only from others, or, on the Raavad's reading, that must be propped back up by others. Unlike the ten Names of Hashem, which name one Being, these ten name different things and different reproaches.
+
+**Rendering guidance.**
+
+- Trap: English "idols" will absorb all ten. Where a pasuk stacks two or three
+  of them, translate each by its own reproach rather than by the category.
+- *Pesel* and *masechah* are a standing pair (*pesel umasechah*): "a carved
+  image and a molten image." They name two manufacturing methods, so do not
+  render either simply "idol."
+- *Elilim* is best rendered "nothings" or "worthless things" where the pasuk is
+  making the *al* point, and "hollow things" where the *chalul* reading is in
+  play. Say which reading you are following if the passage turns on it.
+- *Gilulim*: "dung-idols" is harsh, and it is meant to be. Note the Raavad and
+  Rabbeinu Shimshon restriction, that the contempt is at the object's filthy
+  condition, before importing moral disgust into a passage that is describing
+  mold and rust.
+- *Matzeivah* is not always pejorative in Tanach (Yaakov sets one up), so
+  reserve the idolatrous rendering "pillar" for where the context makes it so.
+- *Asherah* in Tanach is usually a cultic tree or post rather than an abstract
+  "validation." The *ishur* and *yashar* readings above are homiletic
+  derivations of the name, not a license to translate the word that way.
 
 **להט / לט / אטים** — magic | lahat, lahad, lat, laat, lot, ittim, ittym, itim | reviewed | [magic-lahat-lat-ittim.md](entries/magic-lahat-lat-ittim.md)
 
 On the Gemara's reading (Sanhedrin 67b) as Rashi and Ramban explain it, *lahat* (Shemos 7:11) is the trick the practitioner works himself, **sleight of hand** or **magic arts**; *lat* (Shemos 7:22, 8:3, 8:14) is the covert method that works through *sheidim*, **secret arts**. For Onkelos, who treats them as one word, both are **incantation**. *Lahat* elsewhere means **flame** (Bereishis 3:24). The pesukim set the question. Pharaoh's *chartumim* (usually rendered "necromancers") match Aharon's staff with their *lahat* (Shemos 7:11), then match blood and frogs with their *lat* (7:22, 8:3), and at lice fail with their *lat* altogether and concede "the finger of God" (8:14-15). The word changes after the first plague, and that is what the meforshim are commenting on.
 
+**Rendering guidance.**
+
+- Shemos 7:11 בְּלַהֲטֵיהֶם: "with their sleight of hand," or "with their magic
+  arts." Shemos 7:22 and 8:3 בְּלָטֵיהֶם: "with their secret arts."
+- Trap: English "magic" or "sorcery" absorbs both, and "incantation" absorbs both
+  in Onkelos's direction. The Chumash deliberately switches words after the first
+  plague, so one English word for both erases the shift every meforash is
+  commenting on. Keep two English phrases.
+- *Lahat* in Bereishis 3:24 is "the flame of the ever-turning sword," not magic;
+  the magical sense is borrowed from it, not the reverse.
+- *Ittim* in Yeshayahu 19:3 is a different root. Render it "soothsayers" and
+  footnote Rashi's reading that it is an idol's name.
+
 **סעודה / סעד / משתה / מסיבה / הסבה** — meal | seudah, seuda, seudos, seudot, saad, saad lev, mishteh, mishte | reviewed | [meal-seudah-mishteh-mesibah.md](entries/meal-seudah-mishteh-mesibah.md)
 
 *Seudah* is a **meal** generally associated with bread, from *saad*, to sustain; it is the word for the three Shabbos meals. *Mishteh* is a **feast** built on wine, from *shoseh*, to drink; it is the word for the Purim meal and for the banquets of Megillas Esther. *Mesibah* focuses on neither food nor drink: it is the meal at which people **recline**, and only later came to mean a party in general. In Rabbi Klein's summary, each word focuses on one thing: the bread, the wine, or the posture.
+
+**Rendering guidance.**
+
+- Default renderings: *seudah* "meal" (or "festive meal" where the context is
+  Shabbos or Yom Tov); *mishteh* "feast" or "banquet," and "drinking feast"
+  where the wine is the point; *mesibah* "gathering" or "banquet," reserving
+  "party" for later Hebrew.
+- Trap: "feast" will swallow *seudah* and *mishteh* both. Where a sefer sets the
+  Shabbos *seudah* against the Purim *mishteh* (Rabbi Tzaddok's distinction),
+  the English must show the contrast: "the Shabbos meal" against "the Purim
+  drinking feast," or keep both transliterated and gloss each once.
+- *Seudah* is a term of art in halachah (*seudah shelishis*, *seudas mitzvah*).
+  Leave it transliterated; "the third meal" flattens it.
+- Megillas Esther's *mishteh hayayin* is "the wine feast," not "the banquet of
+  wine," which reads as a construct in English where the Hebrew has an idiom.
+- *Mesubin* in the Haggadah is "reclining," never "seated at table."
 
 **שבועות / עצרת / קציר / ביכורים / חמישים / קהל / טנא** — names of Shavuos | shavuos, shavuot, chag hashavuos, chag hashavuot, atzeres, atzeret, asartha, chag hakatzir | reviewed | [shavuos-atzeres-katzir-bikkurim.md](entries/shavuos-atzeres-katzir-bikkurim.md)
 
 Three names are the Torah's: **Shavuos**, Festival of Weeks; **Chag HaKatzir**, Festival of the Harvest; **Yom HaBikkurim**, Day of the First Fruits. Three more are post-Biblical: **Yom HaChamishim**, the Fiftieth Day; **Chag HaTene**, Festival of the Basket; and **Asartha**, the Aramaic of **Atzeres**. *Atzeres* is the name of Chazal and the one the Mishnah and Gemara normally use, though the Torah never applies it to this yom tov. Its sense is disputed, **Assembly** on one reading and **Conclusion** on another.
 
+**Rendering guidance.**
+
+- Keep *Shavuos* untranslated; "Festival of Weeks" belongs in a gloss
+  at first occurrence, and "Pentecost" nowhere.
+- Where a Rabbinic text says *Atzeres* and means this yom tov, write "Atzeres"
+  and gloss it rather than substituting "Shavuos"; the choice of name is usually
+  the point.
+- Trap: "Atzeres" also names Shemini Atzeres and the seventh day of Pesach, and
+  English "Assembly" absorbs *Atzeres*, *kahal* and *asifah* alike. Where a
+  passage sets *Atzeres* beside *Yom HaKahal*, keep the Hebrew for the first.
+- *Chag HaKatzir* takes "Festival of the Harvest," not "of the Reaping";
+  *bikkurim* takes "first fruits," transliterated where it names the mitzvah.
+
 **טוטפות / טוטפת / תפילין / תפילה / נטיפות** — phylacteries | totafot, totafos, totefes, totafta, tefillin, tefilin, tefillah, tefilah | reviewed | [phylacteries-totafos-tefillin.md](entries/phylacteries-totafos-tefillin.md)
 
 *Totafos* is the word of Chumash and belongs to the head alone. *Tefillin* is the Mishnaic word, plural because it names the pair of head and arm together; the singular of one box is *tefillah*. The Torah never calls the arm box *totafos*, which is one of the two reasons Rabbi Pinchas Avraham Meyers and Rabbi Moshe Rachamim Shayo give for the berachah before laying them saying *tefillin* and not the biblical term.
+
+**Rendering guidance.**
+
+- In Chumash: *totafos* as **frontlets**, or transliterated, with a note that it
+  denotes the head tefillin. Onkelos' *tefillin* is a translation of the mitzvah,
+  not of the word.
+- In Mishnah, Gemara, and halachah: *tefillin*, left as is. The English
+  "phylacteries" is a foreign borrowing that reads oddly; use it only
+  where a title or a quoted translation demands it.
+- Trap: "tefillin" in English will absorb *totafos* wherever it appears, and the
+  distinction between them is exactly what a passage on the berachah, or on Rabbi
+  Pappenheim's reading, is about. Where a source quotes the pasuk and then the
+  Mishnaic word in one breath, render the pasuk's word "frontlets" and the
+  Mishnaic word "tefillin" and hold the pair.
+- Singular: one box is *tefillah*, not "a tefillin." In English, "the head
+  tefillin" and "the arm tefillin" read better than a forced singular.
+- On why the berachah says *tefillin* and not *totafos*, see above: Rabbi Pinchas
+  Avraham Meyers and Rabbi Moshe Rachamim Shayo give two answers, that *totafos*
+  covers only the head, and that *totafos* is more likely of foreign origin (per
+  Rabbi Akiva) while *tefillin* is closer to Hebrew.
 
 **תפילה / בקשה / תחינה / תחנון / פלילה / חן** — prayer | tefilla, tefillah, tefila, bakasha, bakashah, bakashot, bakashos, techina | reviewed | [prayer-tefillah-bakashah-techinah.md](entries/prayer-tefillah-bakashah-techinah.md)
 
 *Tefillah* is prayer proper. Rabbi Simcha Maimon offers two ways of taking it against *bakashah*: either it is the praising side of prayer and *bakashah* the asking side, or it is the fixed, formal **prayer** with its nusach and its halachos against an *ad hoc* asking. On Rabbi Yaakov Tzvi Mecklenburg's reading of the root it is a plea that Hashem set right what the petitioner feels is unjust. *Bakashah* is the **request**, the unscripted asking for one's needs. *Techinah* or *tachanun* is **supplication**: the appeal of one who admits he has no claim and asks to be given anyway, out of *chen*, favor. Where Yaakov's sword and bow are darshened (*Bava Basra* 123a), *tefillah* and *bakashah* stand side by side, which suggests they are not the same thing.
 
+**Rendering guidance.**
+
+- Bereishis 48:22 with *Bava Basra* 123a: "my sword" is *tefillah* and "my bow"
+  is *bakashah*. Render them "prayer" and "request," never "prayer" twice.
+  Onkelos already separates them, *tzeloti* and *bausi*.
+- *Tachanunim* in a pasuk or a piyut: "supplications," or "pleas for favor"
+  where the *chen* is the point. Do not use "prayers."
+- *Bakashah* standing alone usually means the asking part of davening;
+  "request" or "petition" both work, but stay consistent.
+- Trap: English "prayer" absorbs all three, and "supplication" will absorb
+  *bakashah* and *techinah* together. Where a passage lists two of them, or
+  builds on the contrast (a claim of justice against a plea for favor), give each
+  its own English word and gloss the Hebrew on first use.
+
 **כהן / כהנים / כומר / כמרים / נכמרו / מכמר** — priest | kohen, kohanim, komer, komrim, kemarim, nichmeru, nichmaru, michmar | reviewed | [priest-kohen-komer.md](entries/priest-kohen-komer.md)
 
 *Kohen* is the general word: a **priest** of any cult, and in Tanach it is used of Poti Phera, Yisro, and the priest of Michah's idol no less than of Aharon's sons. *Komer* is specific: an **idolatrous priest** (Radak, Ibn Kaspi). *Kohen* does not by itself mean an idolatrous priest; the Targum and Rashi decide that case by case. This distinction does not settle Tzefaniah 1:4, where four readings stand, including Targum and Rashi seemingly reversing the usual division and, on Dr. Chaim Tawil's Akkadian evidence, the possibility that the two words are synonyms from two languages.
+
+**Rendering guidance.**
+
+- Aharon's descendants: **Kohen**, capitalized and untranslated. "Priest" for them reads Christian and flattens the halachic term.
+- *Kohen* of a gentile: **priest**, or "chieftain" where Onkelos reads *rabbah*
+  (Yisro, Poti Phera). Say which you followed if the passage is being darshened.
+- *Komer*: **idolatrous priest**, or "priest of the idol." Where Rabbi Eliyahu
+  HaBachur's reading is at issue, "cloistered priest" or "monk."
+- Trap: English "priest" absorbs both words. In Tzefaniah 1:4, where both stand
+  in one pasuk, one English word for both destroys the pasuk; pick a reading,
+  render the two differently, and footnote the other views. Note that on Dr.
+  Tawil's reading the two words really are synonyms, so that a translation
+  distinguishing them takes a side.
+- Trap: do not import "idolatrous" into *kohen* where the Hebrew has not said
+  it. Rashi and the Targum supply that in specific places only, and where the
+  word is bound to a place name it may not mean a priest at all.
 
 **אזהרה / איסור / לאו / אסור / זוהר** — prohibition | azharah, azhara, azharos, azharot, hizhartem, lehazhir, issur, isur | reviewed | [prohibition-azharah-issur-lav.md](entries/prohibition-azharah-issur-lav.md)
 
 *Azharah* is the prohibition as **forewarning**; Rabbi Klein's own summary is that it *seems* to focus on a prohibition as a way of "enlightening" a person as to his duties and expectations, and several authorities read its root as light, so on their reading it puts a person on notice by making his duty clear. *Issur* is the prohibition as a **binding**, the rule that ties a person's hands and takes the act off the table. *Lav* is simply a **negative commandment**, a "no-no" people are enjoined from committing, named for the word *lo*. *Azharah* and *issur* are not two names for one thing. *Azharah* often names the warning aspect of a prohibition as against its punishment aspect (*Yevamos* 3b); *issur* is the substantive prohibited status.
 
+**Rendering guidance.**
+
+- Render *azharah* as "forewarning" or "prohibition," and where a sugya sets it
+  against the punishment aspect, always "warning" against "punishment";
+  "prohibition" alone destroys the pair.
+- Trap: English "prohibition" will swallow *azharah*, *issur* and *lav* alike.
+  When two of them stand in one sentence, keep "forewarning" for *azharah*,
+  "prohibition" for *issur*, and "negative commandment" for *lav*.
+- Second trap: "forbidden" for *assur* is right in halachic prose but wrong in a
+  pasuk, where *assur* is literally bound or imprisoned (Bereishis 39:20).
+- *Azharos* as the name of the Shavuos piyutim is best transliterated and
+  glossed once, "the *Azharos*, the liturgical enumerations of the mitzvos,"
+  rather than translated "Warnings," since on Rabbi Faur's reading they cover
+  the positive commandments too.
+- Where an author is building on Rabbi Avraham Maimuni or Pappenheim,
+  "enlighten" is the load-bearing word and must survive into the English, even
+  though it reads oddly: "you shall enlighten them," not "you shall warn them."
+
 **משכן / מקדש / בית המקדש** — sanctuary | mishkan, mishkon, mikdash, beis hamikdash, bet hamikdash, batei mikdash, shechinah, shechina | reviewed | [sanctuary-mishkan-mikdash.md](entries/sanctuary-mishkan-mikdash.md)
 
 *Mishkan* is the **Mishkan** (English "Tabernacle"), generally the portable Sanctuary of the wilderness and of Gilgal, Shiloh, Nov and Givon. *Mikdash*, or *Beis HaMikdash*, is the permanent **Temple** in Yerushalayim. The distinction is temporary against permanent, and it shows in the building itself: curtains and cloth for the *Mishkan*, walls and a roof for the *Mikdash*. The Gemara does sometimes use the words almost interchangeably, but those are borrowed usages, not evidence that they are synonyms.
+
+**Rendering guidance.**
+
+- Trap: English "Temple" and "Sanctuary" will each cover both words. Keep
+  *Mishkan* transliterated (or "Tabernacle" in an older register) and reserve
+  "Temple" or *Beis HaMikdash* for the permanent building, so a passage that
+  moves from one era to the other stays legible.
+- Where the two words stand together in a Gemara, do not smooth them into one
+  English word on the strength of Eruvin 2a; render both and, if the passage
+  turns on it, note that the usage there is loose.
+- "Mishkan Shiloh" is best left as it stands, with the Mishnah's quasi-*Mikdash*
+  status noted; "the Tabernacle at Shiloh" loses the point that this one had
+  stone walls.
+- *Shechinah* in the same passage is "the Divine Presence" or is left
+  transliterated; do not render it "the Tabernacle" even though the root is
+  shared.
 
 **מצבה / ציון / נפש** — tombstone | matzeivah, matzevah, matzeva, netziv, nitzav, tziyun, tziun, tzion | reviewed | [tombstone-matzeivah-tziyun-nefesh.md](entries/tombstone-matzeivah-tziyun-nefesh.md)
 
 *Matzeivah* is the **monument** or **headstone**, the common word in spoken Hebrew, and the one the Torah uses at Kever Rachel. *Tziyun* is the **marker**. *Nefesh* is the Mishnah's word, literally "soul," used for the structure. Rabbi Yechiel Michel Tukachinsky reads the three as three reasons for erecting a stone at all: to make the grave visible for those who come to daven, to delineate where the body lies so that others (Kohanim especially) avoid tumah, and to honor the departed and his soul. Others read all three instead as the deceased's desire to go on serving Hashem, cut off by death.
 
+**Rendering guidance.**
+
+- Trap: "tombstone" will absorb all three, and in a halachic passage that is a
+  real loss, since on Tukachinsky's reading only *tziyun* carries the tumah
+  function.
+- Do not render *nefesh* "soul" where the Mishnah means the monument; "memorial"
+  or "memorial structure" is right, with the literal sense in a note if the
+  passage plays on it.
+- *Matzeivah* in Bereishis and *matzeivah* as the forbidden altar are one word
+  and two institutions. In a Chumash context render "pillar" for the altar and
+  "monument" over a grave, and note the shared word where a derashah rests on it.
+- *Tziyun* is "marker," not "sign," where graves are the subject; "sign" reads
+  as an omen.
+- Where a source is building on *netziv* and the Resurrection, keep the standing
+  image alive in English ("a stone set upright") rather than flattening to
+  "headstone."
+
 **תרומה / תנופה / נפה / נופת / ענף / אנף / רמות** — waving | terumah, teruma, terumos, terumot, torem, tenufah, tenufa, tenufos | reviewed | [waving-terumah-tenufah.md](entries/waving-terumah-tenufah.md)
 
 Both are used of the ritual waving of a korban, and whether they name two acts is the question in dispute. Rashi (and, it seems, Ibn Ezra) makes *tenufah* **waving** back and forth on the horizontal axis and *terumah* **raising and lowering**, the vertical. Rabbi Shlomo Pappenheim makes *terumah* the up-and-down alone and *tenufah* the broader term covering both axes; Rabbeinu Avraham ben HaRambam has *tenufah* itself cover both; Rabbi Yosef Bechor Shor holds the two synonyms, alternated for elegance; and Targum Onkelos, as Rabbi Yaakov Zev Lev reads him, makes *tenufah* up and down just like *terumah*. Outside the korban, *terumah* is the **separated portion**: of the Mishkan donation Rashi (to Shemos 25:2) renders it "separation," not "lifting," and as the Kohen's tithe the word is parsed *trei mi'meah*, two per hundred.
+
+**Rendering guidance.**
+
+- Default: *tenufah* "waving," *terumah* "raising" (or "the raised portion"),
+  and say once in a note that Rashi assigns the horizontal to the first and the
+  vertical to the second.
+- Trap: "elevation offering" and "wave offering" each absorb both words, and a
+  pasuk like Shemos 29:27 or Vayikra 10:15, which names both acts for the same
+  limbs, becomes a tautology in English. Give two verbs there: "waved ... and
+  raised."
+- *Terumah* the tithe stays transliterated and is never "wave offering."
+  *Terumah* the Mishkan donation is "the portion set aside" or simply
+  "donation," following Rashi's "separation" at Shemos 25:2; do not import
+  lifting into it.
+- Where a passage cites Bechor Shor's synonymy, do not translate the two words
+  differently in that quotation, or his point disappears. Where it cites Rashi
+  or the Rokeach, do.
+- *Lechem Tenufah* (Vayikra 23:17) follows Rashi as "bread of terumah," the
+  loaves raised in sanctity, not "waved bread," unless the passage is about the
+  physical act.
 
 
 ### society
@@ -3175,205 +7767,1106 @@ Both are used of the ritual waving of a korban, and whether they name two acts i
 
 *Meilitz* is the only native Hebrew word of the three: a **go-between**, in Bereishis an **interpreter**, and in the phrase *meilitz yosher* a **defending advocate** who speaks up for a man's uprightness. *Praklit* and *sanegor* are both Greek loanwords for a defender, and the traditional sources cited below define each of them by *meilitz yosher*, so the difference between them comes not from those sources but from what historians of Greek law say the two offices were: the *praklit* the **patron** or **character witness** whose standing and vouching help the defendant, the *synegoros* the **defense counsel** who argues the case before the assembly (and some scholars go as far as saying the *praklit* helped silently, by showing up). *Kategor* is the **accuser** or **prosecutor**. The mishnah that anchors the cluster is Rabbi Eliezer ben Yaakov's, that one who performs a single mitzvah acquires for himself one *praklit* and one who commits a single transgression acquires one *kategor* (*Avos* 4:11); in other cases the antonym of *kategor* is *sanegor*. In Modern Hebrew a *praklit* is a state attorney, who is actually a prosecutor, not a defender.
 
+**Rendering guidance.**
+
+- *Meilitz yosher*: "defending advocate" or "advocate for good," never
+  "translator," which belongs only to Bereishis 42:23.
+- Where *praklit* and *sanegor* stand in one passage, render *praklit*
+  "intercessor" or "character witness" and *sanegor* "defense counsel." English
+  "advocate" will otherwise swallow both.
+- *Kategor* against *sanegor*: "prosecutor" and "defender," and keep the pairing
+  visible, since the derashos on shofar and the golden vestments turn on the one
+  becoming the other.
+- Trap: "defender" alone absorbs *meilitz*, *praklit*, and *sanegor* at once. If
+  the passage lists two of them, or explains one by the other (as Rashi and the
+  Rambam do), differentiate in English.
+- *Praklitin* of *Shabbos* 32a: "advocates" reads well, but the sense is those
+  who vouch for him, so "those who speak for him" is safer where the context is
+  teshuvah and maasim tovim rather than a courtroom.
+
 **גבול / תחום / מיצר / מצרים / ספר / גבלים** — border | gevul, gvul, gvulim, techum, techoma, techumin, meitzar, metzar | reviewed | [border-gevul-techum-meitzar-sfar.md](entries/border-gevul-techum-meitzar-sfar.md)
 
 *Gevul* is the Biblical word and, on Rav Hirsch's reading, names the whole **territory** inside the line, not only the line: "throughout your borders" means the whole country. *Techum* is the Targum's rendering of *gevul* and the Mishnaic word for **the bounded area** (*techum Shabbos*). *Meitzar* (plural *mitzarim*) is the Rabbinic word for a **boundary**, as between adjoining fields, distinct, per Ibn Kuraish, from the Biblical *meitzar* meaning **straits**. *Sfar* typically names not the line itself but what sits near it, the **frontier** or border region exposed to what lies outside. Rashi reads *bein hametzarim* two ways at once: the Three Weeks, taking *mitzarim* from *tzarah*, "sorrow"; and, in the plain sense, "between the boundaries."
+
+**Rendering guidance.**
+
+- Translate *gevul* by the sense the pasuk needs. "Border" for Bamidbar 34,
+  where the line is the subject; "territory" or "throughout your domain" for
+  Shemos 10:4 and 13:7, where "border" would give a false picture of frogs or
+  chametz confined to the edge.
+- Trap: English "boundary" will absorb *gevul*, *techum*, and *meitzar*. Where
+  Rashi glosses with *gevul* and Targum with *techum* on one phrase, that is
+  one gloss in two dialects, not two opinions; render both "boundary" and say
+  so.
+- *Bein hametzarim* as the calendar period stays transliterated, with "the
+  Three Weeks" as the gloss. Where Rashi's second reading is in play, render
+  "between the boundaries" and keep "straits" for the Tehillim 118:5 sense.
+- *Techum Shabbos* stays transliterated, glossed once as "the Shabbos limit."
+- *Sfar* is "frontier" or "border region," never plain "border," since the
+  point in both mishnayos is exposure to the outside.
 
 **ילד / ילדה / עולל / רובה / עלם / טליא / רביא** — child | yeled, yaldah, yalad, valad, toldos, toldot, olel, olal | reviewed | [child-yeled-olel-roveh-ravya.md](entries/child-yeled-olel-roveh-ravya.md)
 
 *Yeled* is the unmarked word for a **child**, and does not necessarily carry an age with it. *Olel* is the **toddler** who has been weaned and gets himself up to look for food. *Roveh* is a **youngster**, in *Midrash Tadshe*'s list between *naar* and *elem*. *Elem* is the **young man** who has nearly reached his full height. In Aramaic, *ravya* and *talya* both mean **boy** or **lad**, and the Targum is not consistent about which Hebrew word each renders. This entry covers the etymologies and the child-words; for *naar* and *almah* themselves see [youth](youth-naar-almah-elem.html).
 
+**Rendering guidance.**
+
+- Trap: English "child" and "boy" will absorb *yeled*, *olel*, *naar*, and *elem*
+  together. Reserve "child" for *yeled*, "toddler" for *olel*, "youth" or "lad"
+  for *naar*, and "young man" for *elem*.
+- Where a source lists the stages in order (*Midrash Tadshe* ch. 6), keep them
+  distinct and ascending: child, youth, youngster, young man, man, elder, old
+  man. A repeated "young man" destroys the list.
+- Do not import a halachic age into a translated pasuk: *yeled* says "born", not
+  "under twenty". Where a drashah wants the age (Rabbi Meir Simcha on Bereishis
+  42:22), put it in a note. With Aramaic, translate the sense the Hebrew carries,
+  not the mapping; Onkelos' *ulemta* at Bereishis 34:4 renders *yaldah* and should
+  still read "girl".
+
 **משכון / חבל / עבוט / רהן / אפותיקי** — collateral | mashkon, maskon, mashkanta, lemashken, chaval, chavol, choveil, chavalah | reviewed | [collateral-mashkon-chaval-avot-rahan.md](entries/collateral-mashkon-chaval-avot-rahan.md)
 
 *Mashkon* is the general **collateral** or **pledge**. *Chaval* is the Biblical verb for **distraining**, seizing a pledge by force once payment is due. *Avot* is a **pledge** handed over by agreement. *Rahan* is security **deposited up front**. *Apoteiki* is property **designated** for collection on default and never surrendered. *Chaval* is taken, *avot* and *rahan* given.
+
+**Rendering guidance.**
+
+- Default: משכון = "collateral" (or "pledge" in a Mishnaic register), חבל =
+  "distrain," עבוט = "pledge," רהן = "deposit," אפותיקי = "designated property."
+- Trap: English "pledge" will absorb *mashkon*, *avot*, and *rahan*, and "take a
+  pledge" will absorb *chaval* too. Two tests keep them apart: did the creditor
+  take it or did the debtor hand it over (*chaval* against *avot*), and was it
+  before the loan or after default (*rahan* against *mashkon*)?
+- When *chaval* and *avot* meet in one sugya (Shemos 22:25 against Devarim
+  24:10-13), render *chaval* with a verb of seizing and *avot* with a noun of
+  giving; the contrast is the halachah. And do not render *apoteiki*
+  "collateral" unqualified: the creditor never holds it.
 
 **עסק / עשק / עסקן / עוסק / שדל / שתדלן / השתדלות / שדר** — communal activist | esek, eisek, osek, iska, issuk, askan, asakan, hitasku | reviewed | [activist-askan-shtadlan-macher.md](entries/activist-askan-shtadlan-macher.md)
 
 An *askan* is a **communal activist**: he is busy with the matter himself and gets it done. A *shtadlan* is an **intercessor** or lobbyist: he works on the authorities to change their position. The Yiddish *macher* is simply a **doer**. Behind them stand *esek*, **dealing** with a matter (and in Tanach, fighting over one), and *shadal*, **making an effort** or **persuading**. Between *askan* and *shtadlan* the whole distinction is that one acts and the other persuades.
 
+**Rendering guidance.**
+
+- The three in one line: an *askan* is busy with the community's affairs and
+  deals with whatever arises; a *shtadlan* intercedes with the authorities to
+  change their minds; a *macher* just does things.
+- Trap: "activist" and "operator" will each swallow both *askan* and
+  *shtadlan*. Where a passage sets them side by side, use "activist" for the
+  first and "intercessor" (or "lobbyist", in a modern setting) for the second.
+- *Hishtadlus* is "effort" or "one's own effort", the Targum's wide sense, not
+  "lobbying". Reserve the persuasion sense of *shadal* for where a second party
+  is being worked on.
+- Bereishis 26:20: *Esek* as a well's name wants a gloss, not a translation.
+  "He called the well Esek, because they had contended with him" keeps the
+  wordplay visible.
+
 **כתר / עטרה / נזר / זר / כליל / תג / תגין** — crown | keter, kesser, kether, atarah, atara, ateres, nezer, neizer | reviewed | [crown-keter-atarah-nezer.md](entries/crown-keter-atarah-nezer.md)
 
 *Keter* is the **royal crown**: all three appearances in Tanach are in the phrase *keser malchus* (Esther 1:11, 2:17, 6:8), and by the Malbim it sits around the head without rising above it, a coronet. *Atarah* is the general **crown** or **wreath**, of any wearer, and it encircles the head and rises above it (Malbim). *Nezer* is the crown of **consecration and separation**, worn by the nazir and the Kohen Gadol, which is why the word marks a man off as set apart, not merely as honored. Some hold *keter* is the general word and the other two are particular kinds, but most read all three as distinct kinds.
+
+**Rendering guidance.**
+
+- *Keser malchus* in Esther: "the royal crown." Do not drop *malchus*; the Hebrew
+  never uses *keter* without it.
+- *Atarah*: "crown," or "wreath" where the context is festive or honorific rather
+  than royal (a chasan's *atarah*, a crown of praise).
+- *Nezer* on the nazir or the Kohen Gadol: "crown" works only if the separation
+  is glossed. Better "the crown of consecration," or render the sense outright,
+  "the consecration of his God is upon his head," and note the crown image.
+- *Tagin*: "crownlets" or "crowns" of the letters, never "tags."
+- Trap: English "crown" will take *keter*, *atarah*, and *nezer* together, and the
+  three differ in shape and in who wears them. Where a passage lists two of them,
+  or darshens the difference, use "royal crown," "crown," and "diadem" and say
+  which authority you followed, since the Malbim's shapes are one reading among
+  others.
 
 **גט / גיטין / שטר / שטרות / ספר כריתות / ספר המקנה** — document | gett, get, git, gittin, gitin, shtar, shetar, shtarot | reviewed | [document-gett-shtar.md](entries/document-gett-shtar.md)
 
 Neither *gett* nor *shtar* is biblical. In the language of Chazal both mean **document**, and both often take a modifier (*gett chov*, *shtar erusin*). *Gett* is the broader of the two for Rabbi Yisrael Yaakov Algazi: every *shtar* may be called a *gett*, not every *gett* a *shtar*. Unmodified, *gett* means **a bill of divorce** (Rashi; Rambam). In Tanach the bill of divorce is *sefer kerisus*, literally **a scroll of cutting** (Devarim 24:1-3; Yeshayahu 50:1), and a deed of sale is *sefer hamiknah* (Yirmiyahu 32).
 
+**Rendering guidance.**
+
+- Unmodified *gett*: "bill of divorce," or leave it as *gett* in a frum register
+  where the reader knows the word. Modified: translate the modifier and keep
+  "writ" or "bond" for the noun (*gett shichrur*, "writ of emancipation").
+- *Shtar*: "document," "deed," or "bond" by context; *shtar chov* is "bond of
+  debt," not "IOU," which is too light for a court instrument.
+- *Sefer kerisus*: "scroll of severance." Do not render it "bill of divorce" in
+  a passage that is drawing the *gett*/*kerisus* connection, or the whole point
+  (that *gett* mirrors the biblical language of cutting) disappears.
+- Trap: English "bill" or "document" will cover *gett* and *shtar* alike, and
+  will also cover *sefer*. If a source turns on Rabbi Algazi's rule that a
+  communal enactment about *shtaros* does not reach a *gett*, the two must stay
+  visibly distinct in English.
+- Second trap: *shoter* is ordinarily "officer," not "scribe." A
+  writing-related rendering ("record-keeper," "organizing officer") belongs to
+  Dr. Chaim Tawil's Akkadian derivation, and Rabbi Eliyahu HaBachur keeps the
+  officer and the document apart altogether. Use either only where the source
+  is one of those readings, and say which.
+
 **אויב / שונא / צר / צורר** — enemy | oyev, oyeiv, oyvecha, soneh, sonei, sonecha, sinah, sina | reviewed | [enemy-oyev-soneh-tzar.md](entries/enemy-oyev-soneh-tzar.md)
 
 *Oyev* is the enemy who acts, or at least plans to act: **enemy**, **foe**. *Soneh* is hatred held inside, shown by what a man refrains from doing: **hater**. *Tzar* (*tzorer*) is open, self-costing hostility: **adversary**, **persecutor**. Bamidbar 10:35 pairs *oyev* and *soneh*, and Rabbi Klein concludes that Moshe davens there that both kinds of Hashem's enemies be vanquished.
+
+**Rendering guidance.**
+
+- Bamidbar 10:35, *kumah Hashem veyafutzu oyvecha veyanusu mesanecha mipanecha*:
+  render as two distinct classes, "let Your enemies be scattered and let those
+  who hate You flee," not "enemies... enemies." On Rabbi Klein's reading Moshe is
+  davening that both kinds of Hashem's enemies be vanquished, the one who fights
+  Him in deed and the one who, it would seem, only despises Him in his heart, so
+  that His glory should keep spreading unimpeded.
+- Vayikra 19:17: *soneh* is a verb here, "hate," and the whole force of the
+  *lav* is that no act is required. Never soften it to "be hostile to."
+- Trap: English "enemy" absorbs *oyev*, *soneh* and *tzar*. Keep "enemy" for
+  *oyev*, "hater" (or "one who hates him") for *soneh*, and "adversary" or
+  "persecutor" for *tzar*/*tzorer*.
+- Where a passage follows the Vilna Gaon, the gloss has to shift: *oyev* is then
+  "an enemy of his body and property," *soneh* "an enemy of his soul." Do not
+  mix the Gaon's division with Malbim's inside one rendering.
 
 **משפחה / בית / מחנה / שאר / שפחה / פמליא** — family | mishpachah, mishpacha, mishpocho, bayis, bayit, bayti, machaneh, machane | reviewed | [family-mishpachah-bayis-sheer-machaneh.md](entries/family-mishpachah-bayis-sheer-machaneh.md)
 
 *Mishpachah* is the ordinary word for **family** (clan, extended kin). *Bayis* is **household** in the sense of the people under one roof, and in several places specifically **wife**. *Machaneh* is more precisely a **camp** than a family, even where it names Yaakov's people. *She'er* is a **blood relative**, kinsman, from the "flesh" sense of the word, and it too can mean **wife**. *Pamalia* is an **entourage** or retinue, human or angelic. Two of these, *machaneh* and *bayis*, name Yaakov's family within a single parashah.
 
+**Rendering guidance.**
+
+- *Mishpachah*: "family." *Bayis* of people: "household." *Machaneh*: "camp."
+  *She'er*: "kinsman," "blood relative," or in the marital contexts "wife."
+- Trap: English "family" will absorb *mishpachah*, *bayis*, and *machaneh*
+  alike. In Vayishlach two of them point at Yaakov's people within a few pesukim
+  (*machaneh*, Bereishis 32:9 and 33:8; *bayis*, 35:2), and the words are making
+  different claims: a body encamped, a household, a lineage. Keep them apart.
+- Trap: *bayis* and *she'er* both narrow to "wife." Do not render either as
+  "wife" unless the context or the halachah demands it; where a derashah turns
+  on the narrowing, render the plain sense and let a note carry the reading.
+- *Pamalia* of angels: "entourage" or "retinue," not "family" and not "household
+  staff." "Court" works where the sense is a body being consulted (Sanhedrin
+  38b).
+- Where a source builds on the *mishpachah*/*shifchah* shared root, "attachment"
+  is the word that carries both; do not translate *shifchah* as "family member."
+
 **חירות / חופש / דרור / חורים / חרות** — freedom | cheirus, cheirut, cheiruseinu, cheiruteinu, chofesh, chofshi, chofshit, dror | reviewed | [freedom-cheirus-chofesh-dror.md](entries/freedom-cheirus-chofesh-dror.md)
 
 *Dror* is freedom from being owned by another: **release**, "free as a bird," the Yovel word. *Chofesh* is freedom from the obligation to serve: **free, released** (a *chofshi* slave owes no more labor). *Cheirus* is the later, rabbinic word: **freedom** as a standing, the *ben chorin*; for Rabbi Jonathan Sacks it is the positive liberty. *Cheirus* never carries the sense of freedom in Tanach, only in Chazal.
+
+**Rendering guidance.**
+
+- *Zman Cheiruseinu*: "the Time of our Freedom." Keep *cheirus* as **freedom**
+  and reserve it for the standing, not the act.
+- Vayikra 25:10 (*ukrasem dror ba'aretz*): "proclaim **release** throughout the
+  land." "Liberty" is serviceable but it flattens the *dar*, dwell-in-your-own-
+  domain sense that Rashi supplies.
+- *Chofshi*: "**free**," and where the context is labor, "free of obligation" or
+  "released from service."
+- Trap: English "freedom" will absorb all three, and "liberty" absorbs *dror*
+  and *cheirus* together. When a source contrasts them (a derashah on
+  *charus*/*cheirus*, a Yovel passage set beside *chofshi*), render *dror* as
+  release, *chofshi* as free of service, and hold "freedom" for *cheirus*.
+- Trap: *charus* ("engraved") and *cheirus* ("freedom") are one consonantal
+  spelling in the Luchos pasuk. In a passage that turns on that pun, transliterate
+  both and gloss, since no English pair reproduces it.
 
 **רע / רעה / חבר / עמית / רעיה** — friend | reya, rea, reah, reyah, reiacha, rayacha, reiati, rayati | reviewed | [friend-reya-chaver-amit.md](entries/friend-reya-chaver-amit.md)
 
 The three run on a scale of closeness. *Amis* is the loosest: **associate, acquaintance**, the man one deals with rather than confides in. *Chaver* is the middle and the default: **friend**, one joined to you in some shared thing. *Reya* is the closest: **companion** or **confidant**, the one you are with frequently and to whom you tell your secrets. Rabbi Elazar Rokeach of Worms and Rabbi Shlomo Aharon Wertheimer both set them in this order.
 
+**Rendering guidance.**
+
+- Set renderings before translating. Rabbi Klein's own English is *chaver* =
+  **friend**, *amis* = **acquaintance**, *reya* = **confidante**; where the
+  secret-keeping sense is not what is live, **associate** for *amis* and
+  **companion** for *reya* carry the same scale.
+- *Ve'ahavta lereiacha kamocha*: the settled English is "love your fellow as
+  yourself." Keep it; the entry's scale is for passages that contrast the
+  words, not for retranslating a pasuk everyone knows.
+- Trap: English "friend" will absorb all three, and "companion" will absorb
+  *chaver* and *reya* together. When a source grades them (Yisro's names,
+  Rokeach's list), render each differently or the whole point disappears.
+- Trap: *chaver* in a Mishnaic context often means
+  something else entirely, the man trusted in matters of tumah and maasros
+  against an *am ha'aretz*. That *chaver* is not on this scale.
+- A wordplay on ר-ע as "broken" (Mishlei 13:20 and the *teruah* connection)
+  cannot be carried in English. Transliterate and gloss.
+
 **שער / תרע / בבא** — gate | shaar, shear, shearim, shiur, tera, tra, tarah, bava | reviewed | [gate-shaar-tera-bava.md](entries/gate-shaar-tera-bava.md)
 
 All three mean **gate**: *shaar* in Hebrew, *tera* in Targumic Aramaic, *bava* in the Aramaic of the Gemara. They are not synonyms within one language; each carries a second, non-architectural sense. *Shaar* in a Mishnah is usually a gate and less commonly a market **price**, and *bava* in a Gemara can also be a **section** of a text, as in Bava Kamma. Whether the textual sense has anything to do with a gate is left open. Rabbi Uriel Frank says it has none; *Tosafos Yom Tov* reads the names of the three masechtos as gates; and Ibn Tibbon ties *shaar* as a section of a book to the one city gate that all its citizens share, and Rabbi Klein thinks it not farfetched to say the same of *bava*.
+
+**Rendering guidance.**
+
+- Default: all three are "gate." In a Mishnah about the Mikdash, שער is "gate";
+  in one about markets, "the going rate."
+- Trap: English "gate" absorbs the textual sense of *bava*, and the result is
+  nonsense. "The first *bava*" of a Mishnah is its opening clause; transliterate
+  the masechta names and leave the etymology to a note.
+- שערים as the divisions of a sefer (*Shaarei Teshuvah*) is conventionally "gates"
+  in English titles; keep the convention, but where a text explains the name,
+  follow Ibn Tibbon rather than inventing an architectural image.
+- שיעור stays transliterated in both senses; "measure" and "lecture" lose the link.
+- תרע needs no separate English; a Targum-based argument cannot distinguish
+  *shaar* from *pesach*, since Targum renders both by it.
 
 **מנחה / מתנה / מתן / שי / תשורה / אשכר / דורון** — gift | minchah, mincha, matanah, matana, matan, matanos, matanot, shai | reviewed | [gift-minchah-matanah-shai.md](entries/gift-minchah-matanah-shai.md)
 
 *Minchah* is a gift of **homage or tribute**: for Rav Hirsch it serves the giver, who is showing his dependence on the receiver. *Matanah* is a gift that serves the **receiver's need**, given with nothing coming back (Wertheimer); it is the word for *matanos la'evyonim*. Rabbi Mecklenburg holds it inappropriate for an offering to Hashem, and Rabbi Klein explains why: Hashem has no needs to fill. *Shai* is a **weighty gift**, on Bedersi's reading substantial in itself and on Wertheimer's weighty in the giver's eyes though not in the receiver's; in Tanach it is always given to Hashem. *Teshurah* is the **showpiece gift** brought when one comes before a great man. *Eshkar* is obscure and disputed. *Doron* is not Hebrew at all; it is the Greek word for "gift" that the Targum uses. *Minchah* is not "meal-offering," it is "gift," and only the sacrificial context narrows it (Rabbi Mecklenburg).
 
+**Rendering guidance.**
+
+- *Minchah* outside the korbanos: **tribute** where submission is the point
+  (Shmuel II 8:2, Melachim II 17:3), **gift** where it is Yaakov to Esav. Inside
+  the korbanos: **meal-offering**, but that is the context speaking, not the
+  word, per Rabbi Mecklenburg's note.
+- *Matanah*: **gift**, plain. *Matanos la'evyonim* stays transliterated.
+- *Shai*: **tribute** in the pesukim where it is brought to Hashem, and never
+  "little present"; on Bedersi's reading the word means the opposite, and even
+  on Wertheimer's the smallness is only in the receiver's eyes.
+- *Teshurah*: **presentation gift**, or "a gift of greeting" where Malbim's
+  setting is in view.
+- *Eshkar*: leave it transliterated and gloss the machlokes; there is no settled
+  English.
+- Trap: English "gift" will absorb *minchah*, *matanah*, *shai*, and *teshurah*
+  at a stroke, and the whole distinction is who the gift serves. If a passage
+  contrasts them, hold the axis: tribute (serves the giver) against gift (serves
+  the receiver).
+- Trap: "offering" reads as sacrificial in English. Do not use it for a
+  *minchah* sent between men.
+
 **אורח / אושפיז / אכסנאי / אכסניה / ארוחה / אורחה** — guest | oreach, orach, orchim, orcha, aruchah, arucha, ushpiz, ushpizin | reviewed | [guest-oreach-ushpiz-achsanai.md](entries/guest-oreach-ushpiz-achsanai.md)
 
 *Oreach* is the biblical **guest**, more precisely the **wayfarer** taken in while travelling; the word is built on *orach*, a road. *Achsanai* is the rabbinic **guest**, and *achsanyah* the **lodging** or the **host** who provides it. *Ushpiz* is Aramaic and cuts both ways: in the Gemara usually the **host**, in the Zohar (the *Ushpizin* of Sukkos) usually the **guest**. *Achsanyah* shares something of that ambiguity: both words can point sometimes to the guest and sometimes to the host.
+
+**Rendering guidance.**
+
+- *Hachnasas orchim* stays transliterated with a gloss at first occurrence; a
+  bare "hospitality" loses the "bringing in" that is the whole mitzvah.
+- Trap: English "host" and "guest" are the very pair the Hebrew blurs. Do not
+  render *ushpiz* or *achsanyah* from a glossary. In a Gemara sugya read it as
+  host by default and check Rashi; in the Zohar or in Sukkos usage read it as
+  guest.
+- *Ushpizin* of Sukkos stays transliterated, not "guests," since Rabbi Shimon
+  Yehuda Leib Goldblit's point is that the Zohar deliberately declined the
+  ordinary Hebrew word.
+- Where *achsanai* and *ushpiz* fall in one sentence, as in Rashi to Bamidbar
+  20:17, translate them as an explicit pair, "guest" and "host," so the reader
+  sees which is which; do not leave both transliterated there.
+- *Oreach* against *achsanai*: both are "guest," but if a passage sets a
+  biblical *oreach* beside a rabbinic *achsanai*, "wayfarer" for the first
+  keeps the road sense that its root carries.
+- *Aruchah* is "meal," not "way." The shared root is an etymology, not a
+  translation.
 
 **אמה / שפחה / עבד** — handmaid | amah, amahot, ama, shifcha, shifchah, shefachot, shifchot, eved | reviewed | [handmaid-amah-shifchah-eved.md](entries/handmaid-amah-shifchah-eved.md)
 
 *Shifchah* is a **bondwoman**, the female counterpart of the *eved*, set to whatever work the household needs. *Amah* is a **maidservant** or **handmaid** in the higher sense: a nursemaid to her master's children (Bedersi) or a housekeeper over the domestic work rather than under it (Rabbi Shlomo Pappenheim). *Eved* is the one word for both the Jewish and the non-Jewish male **slave**. The shorthand that *shifchah* means a non-Jewish woman and *amah* a Jewish one might hold in Rabbinic usage, but it gives only a partial picture of Tanach, where both words cross the line.
 
+**Rendering guidance.**
+
+- אמה: "maidservant" or "handmaid." Where the passage is about nursing or
+  raising the master's children, "nursemaid" carries Bedersi's reading.
+- שפחה: "bondwoman," or "maidservant" only where nothing turns on the contrast.
+- עבד: "slave" of a non-Jew, "bondsman" of an *eved Ivri*; "servant" where the
+  usage is honorific (a servant of Hashem, a king's servant).
+- Trap: English "maidservant" absorbs *amah* and *shifchah* without a trace, and
+  most translations let it. Shmuel I 25 is where it must not: Avigail moves
+  between the two words about herself, and one English word hides the shift. So
+  too Hagar, *shifchah* before Yishmael and *amah* after, Bedersi's whole proof.
+- Do not write "Jewish maidservant" for *amah* and "gentile slavewoman" for
+  *shifchah* in a Chumash translation; that is the Rabbinic convention read back
+  into pesukim that do not observe it.
+
 **מין / אפיקורוס / כופר / משומד / מומר** — heretic | min, minim, minus, minut, apikores, apikoros, epikoros, apikorsim | reviewed | [heretic-min-apikores-kofer-meshumad.md](entries/heretic-min-apikores-kofer-meshumad.md)
 
 Rambam gives a taxonomy (*Hilchos Teshuvah* 3:6-9). *Min* is a **sectarian**, wrong about Hashem Himself. *Apikores* is a **scoffer**, wrong about prophecy, and in practice one who insults Torah and its scholars. *Kofer* is a **denier**, wrong about the Torah, techiyas hameisim or Moshiach. *Meshumad* is an **apostate**, one who has left Klal Yisrael for another faith or is notorious for deliberate transgression. *Mumar* is the tamer word the censors sometimes substituted for *meshumad*, a **convert-out**. In colloquial speech the terms overlap, but in Rambam's codification each carries a specific meaning.
+
+**Rendering guidance.**
+
+- Translating Rambam's list at *Hilchos Teshuvah* 3:6, keep four English words:
+  "sectarians, scoffers, deniers and apostates." A single "heretics" destroys
+  the taxonomy the halachah builds.
+- מין: "sectarian." Avoid "heretic," the generic, and any historical
+  identification the sources do not make.
+- אפיקורוס: "scoffer" where the sense is insulting Torah and talmidei chachamim
+  (*Sanhedrin* 99b, Rambam to the Mishnah); "*apikores*" transliterated where
+  Rambam's three doctrinal denials are meant, since no English word covers them.
+- כופר: "denier," not "unbeliever"; the root is active covering-over. In a
+  Shevuos sugya it is plain "denial" of a claim, so keep heresy out.
+- משומד / מומר: "apostate" and "convert-out," never one word for both. Where a
+  source turns on which is graver, say which view you follow: Rabbi Shmuel David
+  Luzzatto has *meshumad* the coerced-then-willing one and *mumar* the freely
+  willing one; Chasam Sofer has them the other way about.
+- Trap: the berachah against heretics. Where the text reads *malshinim*, render
+  "informers," noting that some argue this is a censored form of the older nusach
+  *meshumadim*, which some still say.
 
 **כבוד / יקר** — honor | kavod, kovod, koved, kaved, kabed, l'chabed, lechabed, kibud | reviewed | [honor-kavod-yakar.md](entries/honor-kavod-yakar.md)
 
 *Kavod* is **honor**: weight, the honor a thing commands by what it is (Malbim: inherent worth, as with a talmid chacham). *Yakar* is **precious** as an adjective and **esteem** or **preciousness** as a noun: value that comes from rarity and from the impact a thing makes (Rabbi Pappenheim; Malbim). In Megillas Esther the noun *yikar* is "esteem" or "honor". The authorities split on which of the two is inherent: Malbim gives that to *kavod*, Rabbi Avraham Vilner to *yakar*, and Rabbi Klein says we are back to square one. *Yakar* means "rare" (Shmuel I 3:1), "costly" (Tehillim 116:15) or "dear" (Yirmiyahu 31:19), by context.
 
+**Rendering guidance.**
+
+- *kavod*: "honor"; *kevod Hashem*: "the glory of Hashem" (the fixed English).
+  *Kaved* in the physical sense: "heavy"; never let the honor sense leak in.
+- *yakar* adjective: "precious" as the default; "dear" of a person; "rare" or
+  "costly" when the context is scarcity or price (Rabbi Pappenheim's three
+  senses). Noun *yekar* / *yikar*: "esteem", or "honor" where no *kavod* is near.
+- Together, Esther 8:16 אורה ושמחה וששון ויקר: "light and gladness and joy and
+  esteem" (or "honor" if the passage does not also use *kavod*).
+- In a Targum, Aramaic *yekara* simply is *kavod*: render "honor" or "glory".
+- Trap: "honor" absorbs both. When *kavod* and *yakar* appear together, hold
+  "honor" for *kavod* and "esteem" or "preciousness" for *yakar*; Malbim's
+  inherent (*kavod*) against rare (*yakar*) is a working gloss for a passage
+  that turns on the difference, but Rabbi Avraham Vilner reads it the other way
+  and Rabbi Klein leaves the question open.
+- Second trap: "precious" as a term of endearment is *yakar* only; do not use it
+  for *chaviv* or *ahuv*.
+
 **איש / בעל** — husband | ish, ishi, ishah, baal, baali, boel, beilah, paal | draft | [husband-ish-baal.md](entries/husband-ish-baal.md)
 
 Both are the **husband**, and Hoshea sets them against each other: "you will call Me *ishi* and you will not call Me *baali* any longer" (Hoshea 2:18). Whether the two differ in meaning at all is the first dispute. Radak, Abarbanel and Maharsha say they do not, and that the pasuk is only about avoiding a word that is also the name of the Canaanite idol. The rest of the authorities say they do, and though they part on the detail they point one way: *baal* is the **master** or **owner**, the one who acts and lords, while *ish* is the husband of a mutual bond, the two as one flesh.
+
+**Rendering guidance.**
+
+Both words say "husband," and a passage that turns on the contrast, Hoshea 2:18
+above all, cannot be carried by "husband" twice. Where the two stand together,
+*ish* takes "husband" and *baal* wants a word that carries mastery: "master" or
+"owner" where the sense is ownership, which is what Maharsha's *baal hashor*
+supports. Where the essay's first view is being followed, though, *baali* and
+*ishi* are synonyms and the point is only the idol's name, so a rendering that
+loads *baal* with domination takes a side in a live dispute.
+
+Outside marriage *baal* is regularly just the owner of a thing, and the trap
+runs the other way: "husband" is wrong wherever the *baal* is the owner of an
+ox, a field or a pit.
 
 **חם / חמות / חתן / חותן / חותנת / מחותנים** — in-laws | cham, chami, chamos, chamot, chosen, choten, chosni, chotni | reviewed | [in-laws-cham-chosen.md](entries/in-laws-cham-chosen.md)
 
 Both pairs mean **father-in-law** and **mother-in-law**; in Biblical Hebrew they differ by whose in-laws they are. Radak: *cham* and *chamos* are always a **wife's** parents-in-law, *chosen* and *choseness* always a **husband's**. In Mishnaic Hebrew *cham* and *chamos* widened to cover a husband's in-laws too, but *chosen* and *choseness* never widened to cover a wife's (*Pri Megadim*). The Hebrew tells which side of the marriage is speaking.
 
+**Rendering guidance.**
+
+- Render both pairs plainly, **father-in-law** and **mother-in-law**. There is
+  no English pair that marks whose in-law is meant.
+- Where the passage turns on the difference (Radak's rule, the *Pri Megadim* on
+  why one pair widened, a drashah on *chosen* and *chasan*), transliterate and
+  gloss: "his *chosen* (his father-in-law, the wife's father)."
+- Trap: English "in-laws" absorbs all four words at once, and worse, it hides
+  the gender of the speaker. In a translation of a dikduk discussion, never
+  write "in-laws" as a blanket.
+- Trap: *cham* is also the ordinary adjective "hot," and Cham is a name. Do not
+  let a play on ח-ם (Pappenheim's heat, or the Aramaic "to see") be rendered as
+  though the pasuk itself said "hot."
+- *Chasan* and *chosen* share a root and look alike in transliteration. Where
+  both appear, spell them apart on the page and gloss the first of each.
+
 **נחלה / ירושה / אחוזה / יורש** — inheritance | nachalah, nachala, nochel, yerushah, yerusha, yoresh, achuzah, achuza | reviewed | [inheritance-nachalah-yerushah-achuzah.md](entries/inheritance-nachalah-yerushah-achuzah.md)
 
 *Nachalah* is **inheritance** in the sense of a patrimony: property that comes down the generations (Malbim), or one portion among several (Shadal). *Yerushah* is **inheritance** as a bare legal transfer: property that passes out of one man's *reshus* into another's, with no assumption that it was willingly given (Malbim), or with no one else sharing in it (Shadal). *Achuzah* is the **holding**, inherited property the heir has actually taken hold of. Several competing approaches separate the first two.
+
+**Rendering guidance.**
+
+- אחוזת נחלה: "an ancestral holding," or "a patrimony taken in possession" where
+  the possession is the point. Do not render it "inheritance of inheritance."
+- Standalone נחלה of Eretz Yisrael or of a shevet: "portion" or "inheritance,"
+  but keep the sense of a share within a division; Shadal's whole point is that
+  the others are taking theirs at the same time.
+- ירושה in a legal or halachic passage: "inheritance." יורש: "heir."
+- Trap: "inheritance" will happily cover *nachalah* and *yerushah* both. When
+  they stand in one passage (as in the parashah of Bnos Tzelafchad, Bamidbar
+  27:1-11, where both appear), differentiate: *yerushah* for the transfer,
+  *nachalah* for the portion that comes down.
+- Grammar trap worth guarding: in Hebrew a man is *yoresh* the deceased person;
+  in English he inherits the deceased's property. "He inherited his father" is
+  not English, and "he was the *yoresh* of the estate" is not the Hebrew idiom.
 
 **מלך / מושל / מלוכה / ממשלה** — king | melech, moshel, meloch, timshol, meluchah, melucha, memshalah, malchus | reviewed | [king-melech-moshel.md](entries/king-melech-moshel.md)
 
 Both words name the same position of power; they differ in how the man got there. A *melech* is **king** by the people's willing acceptance. A *moshel* is a **ruler** who holds them by force or by proven superiority, accepted or not. Where Yosef's brothers set them side by side (Bereishis 37:8), the second word is not mere repetition.
 
+**Rendering guidance.**
+
+- Bereishis 37:8, *hamaloch timloch aleinu im mashol timshol banu*: not a
+  rhetorical doubling. "Will you be **king** over us? Will you **rule** us?"
+  The brothers are asking two things, whether he expects their consent and
+  whether he means to take it without.
+- Tehillim 22:29, *ki laHashem hameluchah umoshel bagoyim*: "for the kingship
+  is Hashem's, and He **rules** over the nations." The Vilna Gaon takes note of
+  an apparent contradiction between this and the other pasuk at the close of
+  Aleinu: here the shift implies two roles, *melech* to Yisrael, who accept His
+  sovereignty, and *moshel* to the nations, who do not, while Zecharyah 14:9,
+  *vehayah Hashem lemelech al kol ha'aretz*, has Him *melech* over the whole
+  world. The answer must be that in time to come, when all truth is revealed,
+  everyone will recognize and accept, so that He will be *melech* universally
+  and not *moshel*.
+- Rosh Hashanah 16a on Malchiyos works only on this distinction (see above).
+  Render *melech* there as **king** and let the commentary carry the point that
+  a *melech* is made by acceptance.
+- Trap: "sovereign," "monarch," and "ruler" all read as free variants of "king"
+  in English. Fix *melech* to king and *moshel* to ruler across a passage and
+  keep them fixed; if a third word for power is present, recast rather than
+  borrow one of these two.
+- Trap: *moshel* in English easily picks up "dictator" or "tyrant." The word
+  says how he came to power, not that he governs badly; use "ruler" and let the
+  context supply the harshness.
+
 **דין / משפט / חק / חוק / דת / נימוס** — law | din, deen, mishpat, mishpot, chok, chuk, chukim, chukkim | reviewed | [law-din-mishpat-chok-dat.md](entries/law-din-mishpat-chok-dat.md)
 
 *Chok* is **statute** (or **decree**): a law whose reason is not revealed (Yoma 67b, Rambam), set and unchanging (Pappenheim). *Mishpat* is **ordinance** or **judgment**: the rational, mostly interpersonal law, and the verdict a judge reaches by weighing two sides (Rambam, Rabbi Moshe Shapiro). *Din* is **judgment** or **law** in the sense of the case and its penalty: the dispute itself (Bedersi), the penal outcome (Wertheimer). *Dat* is **law, edict, royal decree**; in Megillas Esther the king's law, in Devarim 33:2 Divine law. Rabbi Klein calls "religion" a mistranslation and holds that the original sense of *dat* may have nothing to do with religion as such. *Nimus* (Rabbinic, from Greek *nomos*) is **law, rule** as society sets it. On *dat* against *din* Rabbi Klein is explicitly provisional: many answers have been offered over the generations, many of them differing from each other only in nuance; what he gives is a simplified overview, and doing the question justice, he says, would mean working through every instance of both words in Tanach to see which answer is most convincing. Nothing below is presented as settled.
+
+**Rendering guidance.**
+
+- חוקים ומשפטים: "statutes and ordinances" (or "decrees and laws"). Keep the
+  order and keep two words; the pair is the Yoma 67b contrast.
+- דת ודין (Esther 1:13): "law and judgment." Rabbi Yosef Nechemias reads the
+  order as deliberate (practical *dat* before theoretical *din*); do not reorder.
+- Standalone דת in Esther: "edict," "decree," or "law." Not "religion," which
+  Rabbi Klein calls a mistranslation; on his reading the original sense of the
+  word may have nothing to do with religion as such, and the modern *dati* sense
+  should not be read back into the pasuk. Devarim 33:2: "a fiery law."
+  Standalone דין in mussar: "judgment" (*middas hadin*) or "the law" (its
+  strict letter); בעל דין "litigant," גמר דין "sentence."
+- Trap: "law" covers all five, and "judgment" covers both *din* and *mishpat*.
+  Where a passage sets two against each other, give each its own English.
+  "Statute" is *chok* only; *dat* is "edict" (issued), not "engraved."
+  Pappenheim's test case: wage = *mishpat*, tax = *chok*, gratuity = *dat*.
 
 **גורל / פור / פייס / חולש / קלפי / חבל** — lottery | goral, gorel, pur, purim, payis, payes, pais, cholesh | reviewed | [lottery-goral-pur-payis-cholesh.md](entries/lottery-goral-pur-payis-cholesh.md)
 
 *Goral* is the general Hebrew word for a **lot**, and also for the **portion** allotted to a man, often by lot. *Pur* is the word Megillas Esther itself glosses as *goral*; the rishonim cited call it Persian. *Payis* is the Mishnaic word for the **lottery** among the *kohanim* in the Beis HaMikdash, and *kalpi* the **box** the lots are drawn from. *Cholesh* is a rare word for casting lots (Yeshayahu 14:12). *Goral* is both the drawing and the thing drawn.
 
+**Rendering guidance.**
+
+- גורל: "lot" for the drawing, "portion" for what falls out of it. Vayikra 16:8
+  is "lots"; a man's *goral* in life is his "portion."
+- פור: leave as *pur*, transliterated, and let Esther 3:7's own apposition
+  carry it: "a *pur*, that is, a lot."
+- פייס: "lottery" in the Beis HaMikdash context, and where the sugya turns on
+  *Tosafos Yom Tov*'s etymology, gloss it once as the lottery that appeases.
+- קלפי: "lot box," not "urn," which sounds classical rather than Mishnaic.
+- Trap: English "lot" and "lottery" will swallow *goral*, *pur*, *payis* and
+  *cholesh* together. Esther 3:7 puts *pur* and *goral* in one clause; if both
+  become "lot," the pasuk says nothing. Transliterate the first.
+- Trap: where a source (Rabbi Yaakov Lorberbaum) is making *pur* the malign
+  lottery and *goral* the benign one, do not render both "lottery"; use "lot
+  cast in malice" against "allotted portion," or the *chiddush* disappears.
+
 **אדם / אנוש / איש / גבר / אנשים / גבירה / גברת** — man | adam, odom, enosh, anosh, ish, eesh, gever, gevar | reviewed | [man-adam-ish-enosh-gever.md](entries/man-adam-ish-enosh-gever.md)
 
 *Adam* is the species name and the highest term: **man** or **mankind**. *Enosh* is man in his weakness: **mortal**, **frail man** (the plural *anashim* flips to "men of standing," Rashi). *Ish* is one individual, physically mature: **a man**, "man" as against woman or child. *Gever* is man as strength: **man** in the sense of the strong male, and not generic humanity, though whether it is always male is itself disputed (Ibn Ezra says yes, Rabbi Yehuda Leib Edel brings gender-neutral uses against him). The Zohar ranks them (*adam* > *enosh* > *ish* > *gever*).
+
+**Rendering guidance.**
+
+- Standalone אדם in a mussar passage: "man" (generic, no article) or "a
+  person." When the passage is about *gadlus ha'adam* or *tzelem Elokim*, keep
+  *adam* transliterated; the word is carrying the argument.
+- אנוש: "mortal" or "frail man" when the tone is lowering; plain "man" only
+  where the context is neutral. אנשים: "men," and where Rashi's reading is in
+  play, "men of standing."
+- איש: "a man," "each man," "a person"; in the מה אנוש / מה אדם pesukim the
+  contrast is the point, so vary the English.
+- גבר: "man" with the strength sense audible ("a strong man," "the man who");
+  never "mankind."
+- Trap: English "man" absorbs all four. In a list, a doubled pair, or a
+  derashah on why a pasuk says *enosh* rather than *adam*, do not let "man"
+  stand for two Hebrew words; gloss the Hebrew in parentheses or vary the
+  English (mankind / mortal / a man / strong man).
+- Together, a rising or falling sequence follows the Zohar's order: *adam*
+  highest, then *enosh*, *ish*, *gever*. Render so the rank is visible.
 
 **אדון / רבון / רב / רבי** — master | adon, adonai, adoni, ribbon, ribono, rav, rebbi, rebbe | reviewed | [master-adon-ribbon-rav.md](entries/master-adon-ribbon-rav.md)
 
 *Adon* is the Hebrew word for a **master**, and the form *Adonai* is a Name of Hashem. *Ribbon* is the Aramaic equivalent that Targum Onkelos uses for *adon*, an honorific of *rav*, which is itself **master** and in the Mishnah the ordinary word for a slave's owner. Two readings of the difference: the working assumption, that it is simply Hebrew against Aramaic; and the thematic way Rabbi Baruch Aryeh HaLevi Fischer *suggests*, that *adon* is a standing title while *rav*/*ribbon* is used only where there is a subordinate in the master's charge.
 
+**Rendering guidance.**
+
+- אדון: "master." In a berachah or where the word stands for Hashem, "Master"
+  capitalized; *Adonai* itself stays as it is and is not translated.
+- רבון: "Master" as well, so when it stands beside *adon* something must give.
+  In *Ribbon kol hamaasim, Adon kol haneshamos*, render "Master of all deeds,
+  Lord of all souls," or keep *Ribbon* transliterated, so the Vilna Gaon's
+  Aramaic-against-Hebrew reading is still visible.
+- רב: "master" for a slave's owner; in the construct forms of Tanach, "chief"
+  (*rav tabachim*, chief of the executioners) rather than "master," which reads
+  oddly in English.
+- רבי: "Rebbi" or "Rabbi," never "my master" in running text; but where a
+  passage turns on the literal sense, as Reish Lakish's does, gloss it once.
+- Trap: English "Lord" and "Master" will each absorb *adon* and *ribbon*. Any
+  phrase that pairs them is making a distinction, and one English word for both
+  leaves a duplication on the page.
+- Trap: do not treat *rav* as a lesser *adon*. On Rabbi Baruch Aryeh HaLevi
+  Fischer's reading the difference is not rank but whether a subordinate is in
+  view.
+
 **סוחר / רוכל / כנעני / תגר** — merchant | socher, socharim, sechorah, rochel, rocheles, rochelet, rochlim, cnaani | reviewed | [merchant-socher-rochel-cnaani-tagar.md](entries/merchant-socher-rochel-cnaani-tagar.md)
 
 For Malbim (to Yechezkel 17:4, 27:3) the three are a graded set: *socher* is the **wholesaler**, *cnaani* the **trader** in the middle, *rochel* the **peddler** who buys from the *socher* and goes door to door. Standing alone, *socher* is simply **merchant**, and *tagar*, the Aramaic word, is also **merchant** (Rashi, Eruvin 55a, makes him the local seller against the travelling *socher*). *Cnaani*, in a string of pesukim (Bereishis 38:2, Yeshayahu 23:8, Mishlei 31:24, Zecharyah 14:21 as most commentators read it, and with Rashi at Yechezkel 16:29, Hoshea 12:8, Iyov 40:30), means "trader," not "Canaanite."
+
+**Rendering guidance.**
+
+- One word alone: סוחר "merchant," רוכל "peddler," תגר "merchant." Where two or
+  three stand together, grade them: "wholesaler," "trader," "peddler."
+- Trap: English "merchant" absorbs all four. Yeshayahu 23:8 is the test, since
+  *socher* and *cnaani* stand in one sentence; render "merchants" and "traders,"
+  not "merchants" twice.
+- כנעני in Bereishis 38:2, Mishlei 31:24, Yeshayahu 23:8, Yechezkel 16:29, Hoshea
+  12:8, and Iyov 40:30 is "merchant." Writing "Canaanite" at Bereishis 38:2
+  contradicts Pesachim 50a.
+- רכילות stays "talebearing," not "peddling." Where a source pairs *socher* with
+  *tagar* (Eruvin 55a), keep "travelling merchants" against "local dealers."
 
 **כילי / צייקן / קמצן / קמיצה / קומץ** — miser | kilay, keilay, kili, tzaykan, tzaikan, tzaykanim, tzaykanut, kamtzan | reviewed | [miser-kilay-tzaykan-kamtzan.md](entries/miser-kilay-tzaykan-kamtzan.md)
 
 Three words for the same vice, one per layer of the language: *kilay* is the Biblical **miser**, *tzaykan* the Mishnaic **skinflint**, *kamtzan* the post-Mishnaic and Modern Hebrew **cheapskate**. Each carries its own image on the etymologies offered: *kilay* locks his money up (Rabbi Shlomo Pappenheim), *tzaykan* is narrow or, on another possible etymology, hard about parting with it, *kamtzan* measures out the smallest possible amount. *Kilay* is disputed. Commentators such as Radak read it as "miser," the Ashkenazic commentators (Rashi, Mahari Kara, Rabbi Eliezer of Beaugency) as "trickster."
 
+**Rendering guidance.**
+
+- Yeshayahu 32:5-7: if following Radak, "miser" or "churl" against *nadiv*
+  "noble" and *shoa* "man of means." If following Rashi and the Ashkenazic
+  rishonim, "knave" or "schemer." Do not blend the two into "scoundrel," which
+  hides the machlokes.
+- *Tzaykan*: "skinflint" or "tightfisted." Keep the transliteration in a
+  Mussar context, since *Shaar HaTzaykanus* names a virtue and "miserliness"
+  would misrepresent the chapter's title.
+- *Kamtzan*: "cheapskate" in speech, "miser" in prose.
+- *Kemitzah* and *kometz* stay transliterated in any korbanos context; "handful"
+  is wrong, because Rashi's whole point is that the excess is wiped away and it
+  is not a handful but a measured three-finger amount.
+- Trap: English "stingy" will absorb all three, and "miser" will absorb *kilay*
+  and *kamtzan*. When two appear together, or when the point is which layer of
+  Hebrew a word belongs to, keep the transliterations and gloss once.
+- *Ein hakometz masbia es ha'ari*: render "a scant handful does not satisfy the
+  lion" only if the first reading is intended; if the grasshopper reading is
+  meant, *kometz* must stay transliterated with the gloss, since one English
+  word cannot hold both.
+
 **ממון / דמים / מעות / זוז / כסף / מחיר / הון / רכוש** — money | mammon, mamon, mammonos, mammonot, damim, damin, dmei, demei | reviewed | [money-mammon-damim-maos.md](entries/money-mammon-damim-maos.md)
 
 *Mammon* is **money** in the broadest sense, one's assets and holdings; it never appears in Tanach, only from the Mishnah on, and the *Pri Megadim* holds it to be Aramaic. *Damim* is **the price** or **the value** of a thing, always plural, and it is the homonym of *damim*, blood. *Maos* and *zuzim* are coin names that widened into general words for **money**; *kesef* is **silver**, which probably widened the same way. *Mechir* is the Biblical **price**. In a Mishnaic passage *damim* is regularly money, while in Tanach it is generally understood to be blood, with only two pesukim disputed.
+
+**Rendering guidance.**
+
+- ממון: "money" generally, "funds" or "assets" where holdings are meant, "monetary"
+  in *dinei mammonos* ("monetary law," not "civil law," which imports a foreign
+  category).
+- דמים in a Mishnaic or halachic context: "the price," "the value," or "the money."
+  Do not render it "bloods."
+- Trap: the same consonants are blood. When translating a Mishnah, ask what is
+  being paid for; when translating a pasuk, assume blood unless a Rashbam is
+  standing behind you. At Shemos 22:1 give Rashi's "there is no bloodguilt" in
+  the body and Rashbam's monetary reading in a note, since they are the two
+  readings of one word.
+- Second trap: English "money" absorbs *mammon*, *damim*, *maos*, *zuzim* and
+  *kesef* at once. Where two of them meet in a phrase, differentiate: *mammon*
+  "money," *damim* "the price," *maos* "coin."
+- כסף in a monetary clause: "money" (or "silver" where the metal is the point).
+  In *kiddushei kesef* keep it *kesef*.
+- Coin names (*zuz*, *maah*, *maneh*, *dinar*) stay transliterated; they are
+  currency, not translations.
 
 **אשכנז / גרממיא / גרמניא / לותיר / אלמניא / גומר** — names for Germany | ashkenaz, ashkenazi, ashkenazic, leshon ashkenaz, germamia, germania, germaniya, lotir | reviewed | [germany-ashkenaz-germamia-lotir.md](entries/germany-ashkenaz-germamia-lotir.md)
 
 *Ashkenaz* in Tanach is a person and a kingdom (Bereishis 10:3; Yirmiyahu 51:27); Shadal states outright that the Biblical Ashkenaz has nothing to do with Germany, and that the later usage borrows an old name for a new place. From Rashi onward it does mean **Germany**, and *leshon Ashkenaz* means **German**. *Germamia* (the Vilna Gaon: *Germania*) is Chazal's name for that land (*Sefer HeAruch*); *Lotir* is the Rishonim's own **Rhineland**; *Almenia* is **Alemannia**.
 
+**Rendering guidance.**
+
+- Trap: "Germany" absorbs *Ashkenaz*, *Germamia*, *Lotir* and *Almenia* alike,
+  and in a Chumash context it is an anachronism besides. Leave the Biblical
+  *Ashkenaz* as a name and let a note carry the discussion.
+- *Leshon Ashkenaz* in Rashi is "German," not "Yiddish."
+- *Lotir* is best kept as "Lothar," glossed "the Rhineland communities."
+- *Ashkenaz* against *Sefarad* as customs stays "Ashkenaz" and "Sefarad."
+- *Germamia* in a Gemara keeps the Gemara's form, with the Vilna Gaon's
+  emendation in a note rather than silently printed.
+
 **עברי / עבר / ישראל / בני ישראל / יהודי / יהודה** — names of the Jewish people | ivri, ivriim, ivrim, ever, eved ivri, yisrael, bnei yisrael, yisroel | reviewed | [people-ivri-yisrael-yehudi.md](entries/people-ivri-yisrael-yehudi.md)
 
 *Ivri* is **Hebrew**, first applied to Avraham; *Yisrael* and *Bnei Yisrael* are **Israel** and **the Children of Israel**, the Torah's ordinary name for the nation; *Yehudi* is **Jew**, strictly a subject of the Kingdom of Yehudah before it became the name of the whole people. These are not interchangeable registers of the same word: Rabbeinu Bachya holds *Ivri* marks a lower standing than *Yisrael*, which is why the Torah keeps *eved Ivri* for the Jewish slave even after Sinai, by which point the term had otherwise largely fallen out of use in Tanach.
+
+**Rendering guidance.**
+
+- Trap: English "Jew" will absorb all three. In a Chumash context it is almost
+  always wrong: the people are *Bnei Yisrael*, "the Children of Israel," and
+  *Yehudi* does not yet mean what it later means.
+- *Eved Ivri* is "Hebrew bondsman" or "Hebrew slave," never "Jewish slave." The
+  word choice is the whole of Rabbeinu Bachya's point.
+- Where a passage sets *Ivri* against *Yisrael* deliberately (Rabbeinu Bachya's
+  reading), keep "Hebrew" and "Israel"
+  as two distinct English words and do not smooth either to "Jew."
+- Where a later sefer of Tanach uses *Yehudim* of the people at large rather than
+  of subjects of the southern kingdom, "Jews" is right and "Judahites" would be
+  pedantic.
+- Render *ever* by what the derashah needs: "side" for the scale, "the other
+  side" for the river, and let the name Ever stand as a name.
 
 **גוי / עם / לאום / אומה** — nation | goy, goyim, am, ammim, leom, leum, leumim, leomim | reviewed | [nation-goy-am-leom-umah.md](entries/nation-goy-am-leom-umah.md)
 
 *Goy* is the loose word: a **nation** in the sense of a mass of people with no one king over them. *Am* is the tight word: a **people** united under a single king, leader, or under Hashem, and, unlike *goy*, it regularly takes a possessive (*ami*, "My people"). *Leom* is a **nation** bound by a shared religion, so it can cover more than one kingdom (Malbim). *Umah* stands with *leom* against *goy* as a nation that does have a crown (Rabbi Yoel Ibn Shuaib). On Heidenheim's approach it follows that every *am* is also a *goy*, but not every *goy* is an *am*. Colloquially *goy* is "gentile," but it literally means nation, and in Tanach it is applied to Yisrael too.
 
+**Rendering guidance.**
+
+- Bereishis 25:23 stacks all three: *goyim*, *leumim*, *leom*. Do not let
+  "nation" absorb them. A workable rendering keeps "two nations" for *goyim*,
+  "two peoples" or "two kingdoms" for *leumim*, and "one nation" for *leom*,
+  with a note that the Hebrew shifts words.
+- Trap: English "nation" covers *goy*, *am*, *leom*, and *umah* alike. Where
+  the drashah turns on the difference (as it does on this pasuk), reserve
+  "nation" for *goy*, "people" for *am*, and "kingdom" for *leom*.
+- Never render *goy* as "gentile" inside a pasuk. The sense is nation; the
+  gentile sense is a later usage that Mecklenburg's proof from Shemos 21:8
+  accounts for, and it reads as an anachronism in Chumash.
+- *Am Yisrael* is "the Nation of Israel" or "the Jewish People", not "the
+  People of Israel" if that would suggest a geography rather than a body under
+  Hashem.
+
 **אדרת / גלימא / איצטלא / תכריך / טלית / גולם** — outer garment | aderet, aderes, adderet, glima, gelima, gelem, itztala, itztela | reviewed | [garment-aderet-glima-itztala.md](entries/garment-aderet-glima-itztala.md)
 
 *Aderes* is the biblical word: a **mantle**, an outer garment that for Radak displays the wearer's importance. *Glima* is its Aramaic counterpart in the Gemara, an **unfitted robe**, on Rashi's reading a flat sheet of cloth rather than a tailored garment. *Itztala* is a **ceremonial cloak**, an outer garment tied to office and rank. *Tachrich* is a **wrap**, and in the plural *tachrichin* the burial shrouds. Rashi glosses all three of the first as *tallis*, but they can carry slightly different connotations: *glima* stresses the garment's shapelessness, *itztala* the wearer's standing.
+
+**Rendering guidance.**
+
+- Trap: "cloak" or "robe" will absorb *aderes*, *glima*, and *itztala* at once,
+  and Rashi's *tallis* gloss makes the collapse tempting. Where a passage
+  contrasts them, use "mantle" for *aderes*, "robe" for *glima*, and "cloak of
+  office" or "ceremonial cloak" for *itztala*.
+- *Aderes* in the Eliyahu narratives is "mantle." Rabbi Klein attaches the
+  English idiom "assume the mantle" to *itztala*, not to *aderes*, though it also
+  fits Elisha taking up the fallen *aderes* at Melachim II 2:13-14. "Coat" is on
+  Rabbi Klein's own list of accepted renderings, so it is not wrong, only
+  flatter.
+- *Itztala d'rabbanan* is figurative. Render it "the mantle of the sages" or
+  leave it transliterated and gloss it; "the sages' robe" reads as a literal
+  garment and loses the point.
+- *Tachrich* singular is "wrap" (Esther 8:15); *tachrichin* is "shrouds." Never
+  carry the shroud sense back into the Esther pasuk.
+- Where *glima* and *golem* appear in the same sugya (Shabbos 77b), keep the
+  wordplay: "a *glima* is made like a *golem*," with a gloss on the unformed
+  sense, rather than translating both away.
+- *Aderes* rendered *tallis* by the *rishonim* is a definition, not a
+  translation for a modern reader; writing "prayer shawl" for Eliyahu's *aderes*
+  is an anachronism.
 
 **עני / אביון / מסכן / רש / דל / דך / מך / איש תככים / הלך** — poverty | ani, oni, evyon, evyonim, misken, miskein, rash, dal | reviewed | [poor-ani-evyon-dal-rash.md](entries/poor-ani-evyon-dal-rash.md)
 
 *Ani* is **poor**, the general word, a man still holding onto his dignity. *Evyon* is **destitute**, worse off and past the shame of asking. *Dal* is **reduced**, one who has lost what he had, not necessarily a charity case. *Rash* is **dispossessed**, poor from the cradle or stripped of property. *Misken* is **wretched, unfortunate**, poor and despised with it. *Dach* is **emaciated** (physically crushed), *mach* **downtrodden** (crushed by circumstance). *Heilech* is the **itinerant**, a door-to-door beggar or wanderer. The Gemara seems to grade *ani* and *evyon*, and *evyon* is the lower of the two.
 
+**Rendering guidance.**
+
+- Trap: English "poor" will absorb *ani*, *evyon*, *dal*, *rash*, and *mach* at
+  once. Reserve "poor" for *ani*, and give each of the others its own word.
+- The pair עני ואביון is graded, not a doublet: "the poor and the destitute,"
+  in that order. Where a source darshens the order (the Purim *matanos*
+  discussion, Mishlei 31:20), a flattened "the poor and needy" erases the
+  argument.
+- *Matanos la'evyonim*: leave it transliterated. If it must be
+  rendered, "gifts to the destitute," never "gifts to the poor," which
+  contradicts the halachic discussion above.
+- *Dal* against *ani*: since Malbim ties *dal* to loss rather than to
+  eligibility for charity, "the reduced" or "one brought low" beats "the poor
+  man" in a passage about a fall from wealth.
+- *Dach* and *mach* are near-homophones with opposite emphases, physical against
+  circumstantial. Where both appear, "emaciated" and "downtrodden" keep them
+  apart.
+- *Misken* is the only one of these with contempt built in. "Wretched" carries
+  it; "poor" does not.
+
 **שרי / שרה / יסכה / שר / שררה / נסיכה** — princess | sarai, saray, sarah, sara, yiscah, yiskah, iscah, sar | reviewed | [princess-sarai-sarah-yiscah.md](entries/princess-sarai-sarah-yiscah.md)
 
 *Sarai*, with its final yod, reads as **"my princess,"** a princess of her own house and nation; *Sarah* is **"princess"** without limit, over the whole world (*Berachos* 13a, Rashi to Bereishis 17:15). *Yiscah* is a third name an ancient tradition identifies with her (*Megillah* 14a, *Sanhedrin* 69b), read either as **the one who gazed** with ruach hakodesh or **the one all gazed upon** for her beauty; Rashi adds a third sense, *nesichah*, princess again. Ibn Ezra and Shadal are skeptical of the identification.
+
+**Rendering guidance.**
+
+- Bereishis 17:15: "Sarai your wife, you shall not call her name Sarai, for
+  Sarah is her name." Keep both forms in transliteration. If a passage needs
+  the sense rendered, gloss once: *Sarai*, "my princess," against *Sarah*,
+  "princess" outright. Do not translate the names in the pasuk itself.
+- Trap: an English "Sarah" for both. Every derashah on the change (the yod split
+  into two *heis*, the yod moving to Yehoshua's name, Rashi's possessive) needs
+  the two spellings visible in English; a translation that harmonizes them makes
+  the drashos unreadable.
+- שר: "prince" or "officer" by context, not "minister" in a Chumash setting,
+  which sounds governmental. שררה: "rulership," not "authority," which is too
+  thin for what *Berachos* 13a is claiming for her.
+- יסכה: transliterate as *Yiscah*, and gloss with the reading the passage is
+  using, "the one who gazed" for the ruach hakodesh reading, "the one all gazed
+  upon" for the beauty reading. Do not render the name as "Jessica," even
+  though Rabbi Klein holds that *Jessica* is in fact an Anglicization
+  of *Yiscah*; the English name carries none of the pasuk's sense and reads as a
+  modern given name.
+- Where a source treats Yiscah and Sarai as one woman, do not add "that is,
+  Sarah" into the translation; Ibn Ezra and Rabbi Shmuel David Luzzatto doubt
+  the identification, and it belongs in a note.
 
 **רכוש / מקנה / נכסים / רכש / כיס** — property | rechush, rechus, rachash, reches, mikneh, miknei, miknah, kinyan | reviewed | [property-rechush-mikneh-nechasim.md](entries/property-rechush-mikneh-nechasim.md)
 
 *Rechush* is **property** or **possessions**, the movable goods a man has gathered. *Mikneh* is not property at large but **livestock**, the herds that were the ancient world's measure of wealth. *Nechasim*, always plural, is **assets**, the standard word in the Mishnah, where *rechush* and *mikneh* do not appear at all. *Mikneh* shares the root of *kinyan* and looks like a general word for what one has acquired, but it is herds.
 
+**Rendering guidance.**
+
+- Trap: English "property" absorbs all three at once. Keep "livestock" for
+  *mikneh* wherever the passage lets you; a verse with both *rechush* and
+  *mikneh* is drawing a distinction, and "property and property" is no
+  translation. Bereishis 13:6, the herdsmen's quarrel, has *rechush* in the wide
+  sense: render "possessions."
+- *Nechasim* in a Mishnah or Gemara is "assets" or "estate," not "property"; as
+  the standard rabbinic term for a man's *total* assets it wants the financial
+  word.
+- Where a derashah turns on *nechasim* and *kisui*, transliterate and gloss.
+
 **נביא / רואה / חוזה / מחזה / מראה / חזון / ניב / מתורגמן** — prophet | navi, nevi, neviim, roeh, roe, chozeh, choze, machazeh | reviewed | [prophet-navi-roeh-chozeh.md](entries/prophet-navi-roeh-chozeh.md)
 
 All three are words for a **prophet**, but they name different sides of the office. *Navi* is the prophet as **mouth**, the one who brings and speaks Hashem's word, and in Shemos 7:1 it means plainly **spokesman**. *Roeh* is the **seer**, the earlier kind, sought out by individuals, whose vision was sharp. *Chozeh* is the later **visionary**, the Aramaic word for a seer, and the Vilna Gaon takes the switch to Aramaic as a mark of dimmer clarity.
+
+**Rendering guidance.**
+
+- נביא: "prophet." In Shemos 7:1 it is "spokesman," and the English must say so;
+  "Aharon will be your prophet" is unreadable.
+- רואה: "seer." Reserve "seer" for this word alone.
+- חוזה: "visionary," or "seer" with a qualifier where the pasuk needs the
+  parallel. Shmuel I 9:9 and passages that pair the words demand two distinct
+  English words.
+- מראה: "vision" (the clearer kind). מחזה / חזון: "vision" too, so where a
+  source is grading them, render *mareh* "sight" and *machazeh* "vision," or
+  gloss the *machazeh* once as the dimmer grade.
+- Trap: English "prophet" will absorb all three, and "vision" will absorb
+  *mareh* and *machazeh*. Where the passage is the Vilna Gaon's grading, or
+  Shmuel I 9:9's historical note, one English word for two Hebrew ones erases
+  the point being made.
+- Trap: do not turn the *navi*/*roeh* difference into a grading. Malbim's account
+  is one of function and of the generation being served. The grading of clarity
+  is the Vilna Gaon's, and it runs between *roeh* and *chozeh*,
+  not between *navi* and *roeh*.
 
 **רבים / ציבור / פרהסיא / פרסום / פומבי / צנעא** — public | rabim, b'rabim, rav, harbeh, ribo, arbeh, aruvah, rahav | reviewed | [public-rabim-tzibbur-parhessya-pumbi.md](entries/public-rabim-tzibbur-parhessya-pumbi.md)
 
 *B'rabim* is **in front of many**, the plain word for a public setting. *Tzibbur* is the **community** as a body that can own and appoint. *Parhessya* is **openly**, in the eyes of the community, and its foil is *b'tzina*, in private. *Pirsum* is the act, **publicizing**, and *b'pumbi* is a public **spectacle**, an affair made deliberately conspicuous.
 
+**Rendering guidance.**
+
+- *B'rabim*: **in public**, or "before many people." Keep it for Avos 3:11 and
+  for anything about being seen by a crowd.
+- *Tzibbur*: **the community**, or **the congregation** in a tefillah context.
+  *Korban tzibbur* is a "communal offering," never "a public offering." *Shliach
+  tzibbur* stays transliterated, or "the one who leads the congregation."
+- *B'farhessya*: **openly**, or "in public view." *B'tzina*: **in private**.
+  Render them as a matched pair whenever they appear together, since the sugya
+  is built on the contrast.
+- *Pirsum*: **publicizing**, **publicity**. *Pirsumei nisa* stays transliterated
+  with a gloss, "making the miracle known."
+- *B'pumbi*: **with public fanfare**, or "as a public spectacle." Not a plain
+  "in public," which loses the display, and loses the point of the Tanchuma.
+- Trap: English "in public" will absorb *b'rabim*, *b'farhessya*, and *b'pumbi*
+  without a trace. Where two of them stand in one passage, or where a source is
+  comparing the terms, assign "before many," "openly," and "with fanfare" and
+  hold the assignment. And do not let "the public" absorb *tzibbur*, which is a
+  body with standing, not an audience.
+
 **פשע / מרידה / מרי / ממרה / מורה / מורד** — rebellion | pesha, pasha, poshea, nifsha, vayifsha, meridah, mered, mored | reviewed | [rebellion-pesha-meridah-meri.md](entries/rebellion-pesha-meridah-meri.md)
 
 Three words for rebellion, and Rabbi Klein's own summary separates them cleanly. *Pesha* at its core is **negligence** born of laziness, and means **rebellion** only by extension. *Meridah* is **revolt** as a counter-response, especially throwing off a present ruler. *Meri* and *mamre* are **defiance** as switching allegiance, replacing one authority's word with another's. A lazy *poshea* is not a revolutionary, and in the *shomrim* sugya (Shemos 22:8) the *poshea* is **negligent**, not a rebel.
+
+**Rendering guidance.**
+
+- פשע: "rebellion" where a vassal or a nation throws off a ruler; "negligence"
+  in the *shomrim* sugya and wherever the actor is merely careless; "willful
+  sin" in the *chet*/*avon*/*pesha* triad (see the separate entry on that
+  cluster).
+- מרידה / מורד: "revolt," "rebel against." *Mored b'malchus*: "one who rebels
+  against the kingship."
+- מרי / ממרה: "defiance," "defy." *Zaken mamre*: "the rebellious elder,"
+  established usage. *Ben sorer u'moreh*: "wayward and rebellious son."
+- מרודים: "downtrodden," not "rebellious," even though the letters are shared.
+  Yeshayahu 58:7 and Eichah 1:7 are about destitution.
+- Trap: English "rebel" absorbs all three. Where Rashi's opening to Korach
+  (Bamidbar 16:1) sends the reader to *Midrash Tanchuma*, which characterizes
+  Korach's actions as both *pasha* and *meridah*, two "rebellions" makes the
+  Midrash repeat itself; render "he was faithless and he revolted," or gloss the
+  first as the affront of not caring.
+- Trap: do not let Targum's *mored* for *pasha* set the English. Targum is
+  rendering into idiom; Rabbi Shlomo Pappenheim's point is that the Hebrew word
+  carries slackness, not defiance.
 
 **גר / תושב / אזרח / זר / ישיבה / דירה** — resident | ger, gerim, gur, lagur, garti, toshav, toshavim, ezrach | reviewed | [resident-ger-toshav-ezrach.md](entries/resident-ger-toshav-ezrach.md)
 
 *Ger* is the **sojourner**, cut off from his place of origin and living somewhere temporarily; *toshav* is the settled **resident** who is there for the long term; *ezrach* is the **native** or **citizen**, whose family and origins are known to everyone. *Zar* is the plain **stranger**. Rabbi Shlomo Aharon Wertheimer's capsulization: a *ger* is the opposite of an *ezrach* and the opposite of a *toshav*, neither a full-fledged citizen of this land nor an alien resident, but simply living here as one stop in a greater journey. On Mizrachi's reading *ger v'toshav* of Vayikra 25:35 is one person, a *ger toshav*.
 
+**Rendering guidance.**
+
+- Vayikra 25:35, *ger v'soshav*: with Mizrachi, "a *ger toshav*," or "a
+  resident alien," never "a sojourner and a resident," which invents a second
+  person.
+- Bereishis 23:4, where Avraham calls himself both: here the two words **do**
+  describe one man in two respects, so translate both, "a sojourner and a
+  resident among you," and note Rabbi Moshe Kimchi's reading rather than
+  smoothing it to one word.
+- Trap: English "stranger" will absorb *ger*, *zar*, and *nochri* at once, and
+  "resident" will absorb *toshav* and *ezrach*. Fix "sojourner" for *ger*,
+  "resident" for *toshav*, "native" or "citizen" for *ezrach*, "stranger" for
+  *zar*, and hold the assignment through a passage.
+- Halachic *ger* (a convert) stays transliterated; do not render it "stranger"
+  or "proselyte." *Ger tzedek* and *ger toshav* stay transliterated as units.
+- *Ezrach* in a pasuk about mitzvos binding *ha'ezrach v'hager* is "the
+  native-born," not "the citizen"; "citizen" is the modern Hebrew sense and
+  reads civic rather than familial.
+
 **סופר / סופרים / לבלר / ספרא** — scribe | sofer, sofeir, sofrim, soferim, safra, lavlar, livlar, libler | reviewed | [scribe-sofer-lavlar.md](entries/scribe-sofer-lavlar.md)
 
 Both words mean **scribe**, and Rashi uses each to define the other. *Sofer* is the Hebrew word, at home in Tanach and in the Mishnah; *lavlar* is the later term, found in Mishnaic and Talmudic Hebrew and borrowed from Latin. Whether they differ in *meaning* is disputed between two named views (see below). In the plural, *sofrim* in rabbinic usage is often not "scribes" at all but **the Sofrim**, the early Sages.
+
+**Rendering guidance.**
+
+- Render both **scribe**. Where a Mishnah and its Tosefta parallel use the two
+  words for one halachah, keep "scribe" in both and let a note carry the
+  variation; nothing in the halachah turns on it.
+- Trap: English "scribe" also absorbs *sofrim* in the honorific sense. Decide by
+  the phrase, not the word. *Sofer STaM*, *sofer* of a get, *sofer* of a loan
+  document: "scribe." *Divrei sofrim*, *tikkun sofrim*, *mi'divrei sofrim*,
+  *takkanas sofrim*: "the Sofrim," or "the early Sages," left transliterated.
+- Where a passage plays on both senses at once, as the Gemara in Kiddushin does,
+  translate "scribes" and let the derashah on counting be spelled out; a
+  rendering that picks only "counters" loses the pshat of the word.
+- *Safra* in an Aramaic passage is simply the Aramaic of *sofer*; do not treat
+  it as a third term.
 
 **יבם / יבמה / ייבום / גיס / גיסה / חתן / במה** — sibling-in-law | yavam, yevamah, yevamos, yevamot, yibbum, yibum, giss, gis | reviewed | [sibling-in-law-yavam-yevamah-giss.md](entries/sibling-in-law-yavam-yevamah-giss.md)
 
 *Yavam* and *yevamah* belong to *yibbum*: **the levir** and **the widow**, the **brother-in-law** and **sister-in-law** of the mitzvah. *Giss* is the Mishnaic word, a man's word for his wife's brother and, on some views, his sister's husband too. On the view of Rabbi Mecklenburg and others, Biblical Hebrew has no general word for a sibling-in-law, only *eishes achiv*. English "brother-in-law" covers four relations at once, a woman's husband's brother, a woman's sister's husband, a man's wife's brother and a man's sister's husband.
 
+**Rendering guidance.**
+
+- In a *yibbum* sugya, render *yavam* "the levir" and *yevamah* "the widow";
+  "brother-in-law" will not tell a reader which relation is meant.
+- Rus 1:15, Naomi to Rus of Orpah: *yevimtech* is her husband's brother's wife,
+  not a widow awaiting *yibbum*. Render "your sister-in-law" and note it.
+- Bereishis 38:8-9 and Vayikra 18:16, 20:21 say *eishes achiv*. Keep "his
+  brother's wife"; "sister-in-law" erases the point, on Rabbi Mecklenburg's
+  view, that Biblical Hebrew lacks the term.
+- Trap: "brother-in-law" absorbs *yavam*, *giss*, and on Ibn Janach's reading
+  *choten*. Where two appear together, as in *Sanhedrin* 3:4's list of
+  disqualified relatives, spell out each relation.
+
 **בן / בר / בת / ברת / בנות** — son | ben, bar, bat, bas, banos, barat, beris, bar mitzvah | reviewed | [son-ben-bar.md](entries/son-ben-bar.md)
 
 Simplistically speaking, both mean **son** and the difference is language, not sense: *ben* is Hebrew, *bar* is its Aramaic equivalent, which is why Targum renders *ben* as *bar* everywhere. *Bar* in Aramaic also means **outside** or **separate**; for Rabbi Yaakov Margolis that double meaning is why a get says *ben*, and some read a lesson from it into *bar mitzvah*.
+
+**Rendering guidance.**
+
+- Render both "son of," and do not translate the connector in a name. "Rabbi
+  Shimon bar Yochai" stays *bar*; "Yehoshua bin Nun" stays *bin*. Do not
+  normalize one to the other, and note that Rashbi appears in both forms.
+- Trap: an English "son of" absorbs *ben* and *bar* alike, so any source
+  discussing why a get says *ben*, or why the boy is a *bar mitzvah*, cannot be
+  translated word for word; keep the Hebrew and Aramaic words themselves in the
+  sentence and explain around them.
+- *Bar* in its other sense: "outside," "external," and in a Talmudic context
+  often best left as *baraisa*, *bar minan*, *milsa d'bar*.
+- *Ben* in the construct before a noun works as an adjective in Hebrew (a
+  *ben mavess*, a *ben shanah*); render by sense, not by "son of." See
+  *HaKsav VeHaKabbalah* to Shemos 12:43.
 
 **שלל / בז / בזה / מלקוח / שבי / עד / עדי** — spoils of war | shalal, shallal, baz, bizah, biza, bizas, bizat, malkoach | reviewed | [spoils-shalal-bizah-malkoach.md](entries/spoils-shalal-bizah-malkoach.md)
 
 *Shalal* is the general word for **spoils** (Malbim; standing alone, Rav Hirsch); paired with others it is the clothing and jewelry (Rashi) or clothing and vessels (Radak), the valuables taken first (the Gra). *Baz* / *bizah* is **plunder**: the lesser loot taken after the valuables, akin to *bizayon* (the Gra); movable goods other than jewelry (Rashi); property already taken as loot (Malbim). *Malkoach* is **living booty**, people and animals (Rashi); for Radak, animals beside *shevi*, every living thing alone. *Shevi* is **captives**: human prisoners (Radak), all the captured people (Malbim), or living people or animals (the Gra). On *ad* the authorities differ: plunder, as in Aramaic (Rashi); ornamental battle-dress (Pappenheim); jewelry and decorative items, against *shalal* the catch-all (Mecklenburg); or dead animals taken as war prizes, not ordinary booty (Malbim). The Midian account (Bamidbar 31) uses four of them, each doing separate work. Rabbi Klein holds that the words are not truly synonymous. The Egyptians say "I will apportion the *shalal*" (Shemos 15:9), yet what the Jews took from them is *bizas Mitzrayim* and *bizas hayam*, not *shalal*.
 
+**Rendering guidance.**
+
+- Standing alone, *shalal* is **spoils** or **the spoils of war** (Rav Hirsch);
+  in a list it narrows to **clothing and valuables** (Rashi, Radak).
+- *Bizah*: **plunder** or **loot**, and where the Gra's staging matters, "the
+  lesser loot." *Bizas Mitzrayim* and *bizas hayam* keep the transliteration.
+- *Shevi*: **captives**. *Malkoach*: **live captives** or **the captured
+  livestock**, according to whether *shevi* stands beside it (Radak).
+- *Ad* at Bereishis 49:27: **prey** works for the wolf image, and Rashi's
+  "plunder" is close to it; where the Pappenheim or Mecklenburg reading is
+  wanted, **ornaments** or **finery taken in battle**.
+- Trap: "booty" and "spoils" are near-synonyms in English and will flatten the
+  Midian account of Bamidbar 31 into a single word repeated. Assign one English
+  word per Hebrew word for the length of the passage (spoils / plunder / live
+  captives / captives) and hold to it even where it reads slightly stiff.
+- Trap: for the Gra *bizah* is akin to *bizayon*, and for Rabbi Pappenheim its
+  root means "considered unimportant"; Ibn Janach and Radak put it in a root
+  distinct from the verb of disparaging. Where a derashah turns on the sense of
+  disgrace (the Gra on Yeshayahu 10:6), do not render *bizah* with a dignified
+  word.
+
 **מטה / שבט / משענת / מקל / שרביט / חוטר / חוטרא** — staff and tribe | mateh, matot, matos, mattos, shevet, shevatim, shvatim, mishenet | reviewed | [staff-mateh-shevet-makel.md](entries/staff-mateh-shevet-makel.md)
 
 *Mateh* is a **staff** of office, the stick of a dignitary or a man in authority (Malbim, Rabbi Shlomo Aharon Wertheimer), and also a **tribe**, almost exclusively in Bamidbar and Yehoshua. *Shevet* is a **rod**, wound up with force to strike (the Vilna Gaon), the instrument of authority (Rashi) and of flogging, and equally a **tribe**. *Mishenes* is a **cane**, leaned on. *Makel* is a **rod for striking**, in Tanach generally the shepherd's stick. *Sharvit* is the royal **scepter**. *Choter* is probably a Hebraized form of Aramaic *chutra*, staff. On how the two words for tribe differ: citing Shadal, Rabbi Yaakov Tzvi Mecklenburg holds that *shevet* first named the tribe's leader and *mateh* its members; Malbim reads *shevet* as a branch, each tribe a branch of Yaakov's family tree; and Rabbi Zev HaKohen Hoberman calls Yisrael *shevatim* for their authority and responsibility over the nations and *matos* as Yaakov Avinu's cane, the support he leans on to carry his legacy. *Mateh* and *shevet* are both stick and tribe.
+
+**Rendering guidance.**
+
+- Trap: English "staff" or "rod" will absorb *mateh*, *shevet*, and *makel*.
+  Keep "staff" for *mateh*, "rod" for *shevet*, and "stick" or "rod for
+  striking" for *makel*, and do not let one carry two.
+- *Mateh* as "tribe" and *mateh* as "staff" cannot be held together in one
+  English word. Where a derashah turns on the double sense, translate the
+  operative one and gloss the other in a bracket or a note; do not force
+  "branch" to do both jobs.
+- *Mateh Moshe*: "the staff of Moshe." On Wertheimer's application of Rabbi
+  Yaakov of Lissa's scheme the neutral *mateh* fits wonders that were good for
+  Yisrael and bad for Mitzrayim, so avoid English that colors it as an
+  instrument of punishment.
+- *Shevet* in Tehillim 2:9 (iron) is a rod of rule and of shattering, not a
+  tribe; check the material and the verb before choosing.
+- *Mishenes* is "cane" or "support," and in a metaphor the leaning is the whole
+  point, so keep a verb of leaning in the English.
+- *Sharvit* is "scepter" and only that; do not level it to "rod" even where a
+  source equates it with *shevet*.
 
 **זר / זרה / נכרי / נכריה / נכר / חילוני / הדיוט / ממזר** — stranger | zar, zarah, zara, zarim, nachri, nochri, nachriah, nochriyah | reviewed | [stranger-zar-nachri-hedyot.md](entries/stranger-zar-nachri-hedyot.md)
 
 *Zar* and *nachri* both mean "stranger," and it seems from most of the commentators that they measure different distances. A *zar* is estranged **in one respect**, and is often a member of the same nation or household: an **outsider**, a **stranger**. A *nachri* is a complete **foreigner**, strange in many ways, from another nation entirely. Malbim puts the rule in a line: the *nachri* is *more* unfamiliar than the *zar*. Rabbi Shlomo Pappenheim dissents, holding the two equally estranged and differing only in what their roots fix on. In Kodashim contexts *zar* is a technical term, the **non-Kohen**. *Chiloni* is often the Targum's Aramaic for *zar*, and the Midrash's word for a non-Kohen; *hedyot* is a Greek loanword for a **commoner** or **layman**, the ordinary man against the leader, the amateur against the craftsman, the *Kohen hedyot* against the Kohen Gadol.
 
+**Rendering guidance.**
+
+- *Zar* in Kodashim or terumah: **non-Kohen**, always. Elsewhere: **stranger**
+  or **outsider**, and where the estrangement is partial, "one who is a
+  stranger to it."
+- *Nachri*: **foreigner** or **gentile** according to context; *ben-neichar*,
+  **an alien** (Mechilta: a denier).
+- *Hedyot*: **commoner**, **layman**, or **ordinary** as a modifier. Never
+  "idiot."
+- *Chiloni* in the Targum or Midrash: whatever *zar* was rendered in that
+  passage. In a modern context, **secular**.
+- Trap: English "stranger" absorbs both *zar* and *nachri*, and the pesukim that
+  use them together are exactly the pesukim where that ruins the sense. Mishlei
+  27:2, "let a *zar* praise you and not your own mouth, a *nachri* and not your
+  own lips," is climactic: render it "an outsider... a stranger from elsewhere,"
+  keeping the widening distance. The same holds at Yeshayahu 28:21, 61:5,
+  Ovadiah 1:11, and Tehillim 81:10.
+- Trap: do not import "gentile" into *zar*. The *zar* is normally a Jew.
+
 **מס / מסים / מכס / מכסת / מנדה / בלו / הלך / כרגא / גולגלתא / ארנונא / טסקא** — tax | mas, missim, misim, meches, mechess, michsas, michsat, minda | reviewed | [tax-mas-meches.md](entries/tax-mas-meches.md)
 
 *Mas* is the word typically translated **tax**, and in Modern Hebrew it is the generic word; but some scholars argue that a more accurate translation is **corvée work**, compulsory unpaid labor imposed by a sovereign, and the Bible bears that meaning out in several places (the *sarei missim* over the Jews in Mitzrayim, Shlomo HaMelech's conscription). *Meches* is the other Biblical Hebrew word that sometimes means tax: six times, all in Bamidbar 31, of the consecrated share of the Midianite booty given to Hashem. Its origin is disputed three ways: an Akkadian loanword for dues or tributes (Dr. Chaim Tawil); a Hebrew root meaning number (Menachem Ibn Saruk, Chayyuj, Ibn Janach, Radak); a Hebrew root meaning covering, whence the pocket, so the tax that goes into the king's own purse (Rabbi Pappenheim). The Aramaic terms are technical, and the Gemara equates several of them (*belo* is *gulgalta*, which is *karga*; *halach* is *arnona*).
+
+**Rendering guidance.**
+
+- Shemos 1:11, *sarei missim*: "taskmasters" or "officers over the forced
+  labor," not "tax officers." Melachim I 5:27 likewise, "levy" in the sense of
+  conscription.
+- Bamidbar 31:28, *vaharemosa meches laHashem*: "you shall raise up a **levy**
+  for Hashem" or "a tribute." Rabbi Klein counts these as *meches* in the sense
+  of tax.
+- Trap: English "tax" will absorb *mas*, *meches* and every Aramaic term at once,
+  and it will hide the fact that *mas*, on some scholars' reading, is frequently
+  labor. Decide first whether the passage means money or men.
+- Trap: "levy" is a good rendering for both *mas* (a levy of men) and *meches*
+  (a levy for Hashem). If both words appear in one discussion, keep "levy" for
+  one only and choose "tribute" or "conscription" for the other.
+- The Aramaic terms of Ezra 7:24 and the sugya in Bava Basra 8a: transliterate
+  and gloss on first use, and name the reading you are following, since the
+  Gemara and Rabbi Toledano do not divide them the same way.
 
 **פרעה / מלך מצרים / פרעה מלך מצרים** — the Egyptian monarch | paroh, pharaoh, paro, melech mitzrayim, melech mitzraim, paroh melech mitzrayim, poel ra, peh ra | reviewed | [pharaoh-paroh-melech-mitzrayim.md](entries/pharaoh-paroh-melech-mitzrayim.md)
 
 *Paroh* is **Pharaoh**, a title, not a personal name. *Melech Mitzrayim* is **the King of Egypt**, on Rav Chaim Kanievsky's reading the office in its national capacity. The Torah's choice between them is deliberate, and in six places it writes both (*Paroh Melech Mitzrayim*).
 
+**Rendering guidance.**
+
+- *Paroh* alone: "Pharaoh," with no article in English, exactly as the Hebrew
+  has it as a title functioning as a name.
+- *Melech Mitzrayim*: "the King of Egypt." Do not silently upgrade it to
+  "Pharaoh"; the two are not interchangeable in a passage that uses both.
+- The doubled *Paroh Melech Mitzrayim*: "Pharaoh, King of Egypt." Keep both
+  halves; on Rav Chaim Kanievsky's reading the doubling carries the whole
+  distinction between the man and the office.
+- Trap: English "Pharaoh" will absorb *Melech Mitzrayim* wherever a translator
+  is smoothing. Where a piece of mussar or derush turns on the shift (the
+  *Zohar* on Shemos 2:23 is the standing example), a smoothed rendering destroys
+  the passage.
+- *Paroh* is a title, so where a source says "every king of Egypt is called
+  Paroh," write it as a title and not as a name.
+
 **דוד / דודה / מסרפו / מסרף / שרף / אחבוה / חביבי** — uncle | dod, dode, dodah, doda, misaref, mesaref, misarfo, mesarfo | reviewed | [uncle-dod-misaref.md](entries/uncle-dod-misaref.md)
 
 *Dod* is not the English "uncle," which covers four relationships. In Biblical Hebrew it primarily means **father's brother**: Rashi asserts that Scripture never uses *dod* for a mother's brother. In Shir HaShirim it seems to mean **beloved**. *Misaref* is a *hapax legomenon* (Amos 6:10) and is disputed: **maternal uncle** (Ibn Kuraish, Ibn Janach, Radak in *Sefer HaShorashim*; so too the Karaite Yefet ben Ali), a reading Rabbi Klein entertains ("seems to mean one's mother's brother") and then questions; a generic **kinsman** (seemingly Rashi, with the Septuagint, the Peshitta and Ibn Kaspi); a verb of **burning** (Targum Yonasan, Radak in his commentary); or a word from *seraf*, sap or resin (Professor Gary Rendsburg after Yechezkel Kutscher, "to smear with resin"; Rabbi Shlomo Aharon Wertheimer, unwanted offspring). A mother's brother in Tanach is spelled out as "his mother's brother," never *misaref*, and never *dod*.
+
+**Rendering guidance.**
+
+- *Dod* in a halachic or genealogical passage: **paternal uncle**, or "his
+  father's brother" where the English needs to be unambiguous. In Shir HaShirim
+  it is **beloved**, and "uncle" is simply wrong there.
+- *Dodah*: **aunt**, meaning the father's brother's wife, except at Shemos 6:20
+  where it is the father's sister.
+- *Chavivi* in the Gemara, said of a sage: **my uncle**, and on the reading of
+  Rabbi David Cohen and Rabbi Yochanan Sofer the same paternal restriction
+  applies.
+- Trap: English "uncle" covers four relationships and will quietly absorb both
+  *dod* and *misaref*. If a passage is arguing from which word was chosen (Rabbi
+  Kunitz on Esther; Rabbi Cohen and Rabbi Sofer on Rashi's account of Rav and Rav
+  Chiya), the whole point dies the moment both become "uncle." Split them: "his
+  father's brother" against "his mother's brother," and flag the second as
+  disputed.
+- When both stand in Amos 6:10, the safest English is "his uncle and his
+  kinsman," with a note that *misarfo* is a *hapax* read variously as the
+  maternal uncle, a relative, "the one who burns him," or a word from *seraf*,
+  sap.
 
 **רווק / פנוי / פנויה / מופנה / בחור / ריק** — unmarried man | ravak, ravok, revakim, panui, penuyah, penuiah, mufneh, mufnah | reviewed | [unmarried-ravak-panui-bachur.md](entries/unmarried-ravak-panui-bachur.md)
 
 *Ravak* is the Mishnaic word for an **unmarried man**, and whether it covers a divorcé and a widower (Rashi) or only a man never married (Tosafos, Rambam) is a dispute among the commentators on the Mishnah's restrictions. Its etymology is disputed too: "empty" (*Matnos Kehunah*; Rabbi Dr. Ernest Klein, as "more probable"), against Dr. Alexander Kohut's loanword from Arabic meaning "youth." *Panui* is **unattached**, from Mishnaic *panah*, to clear, empty, make available (Rabbi Eliyahu HaBachur), the man being available and open to marriage; Rabbi Shlomo Pappenheim says he is cleared of a family man's obligations. *Bachur* is a **young man**, not exclusively a bachelor: in Tanach it never refers exclusively to an unmarried man, colloquially it does mean one but can technically be said of a married young man, and its one Mishnaic appearance (Taanis 4:8) clearly means unmarried men. *Ravak* and *panui* do not appear in Tanach at all. English "bachelor" does not come from *bachur* but from Latin (Rabbi Dr. Ernest Klein).
 
+**Rendering guidance.**
+
+- *Ravak*: **unmarried man**, or **bachelor** where the Tosafos and Rambam
+  reading is in force and never-married is the point. In a halachic passage
+  leave it transliterated and gloss it once.
+- *Panui* / *penuyah*: **unmarried** in a halachic context, but where the root
+  is doing work, **unattached** or **free**. *Mufnah* in a hermeneutical
+  context is a different application: a word left **available** for derashah.
+- *Bachur*: **young man**. In a Tanach translation never "bachelor" and never
+  "single"; in the Mishnah's one use (Taanis 4:8) the sense is unmarried men;
+  in modern yeshivah usage, leave *bachur* transliterated.
+- Trap: English "single" will absorb *ravak*, *panui*, and colloquial *bachur*
+  at once. Where Rashi puts *revakim penuyim* side by side, do not write "single
+  singles"; render it "unmarried men, unattached."
+- Trap: "choicest" is the etymology of *bachur* (Radak), not a translation of
+  it; and English "bachelor" does not derive from *bachur* (Rabbi Dr. Ernest Klein).
+
 **אלמנה / אלמן / אלמנות / ארמלתא / כרמלית** — widow | almanah, almana, alman, almon, almenus, almenut, almenos, almenot | reviewed | [widow-almanah-alman-armalta.md](entries/widow-almanah-alman-armalta.md)
 
 *Almanah* is **widow**, *alman* **widower**, *almenus* **widowhood**. The Aramaic *armalta* is, as Rabbi Reuven Chaim Klein argues from the fluidity of such consonants and the Semitic cognates, not a synonym but the same word in Aramaic. In Kesubos 1:2 *almanah* covers any previously married woman, divorced as well as widowed, though even in Rabbinic Hebrew it usually means widow. The etymology is disputed: Ibn Janach's muteness (א-ל-ם), which Radak, Ibn Parchon and Rav Hirsch cite approvingly and the Ritva calls the grammarians' derivation, stands beside *al manah* readings, deserted palaces, and academic proposals. And *almenos* in Yeshayahu 13:22 is not widows: Targum Yonasan, Rashi, Radak and others read **palaces**, Abarbanel and Malbim relate it to a hall, and Ibn Ezra and Ibn Kaspi read **palaces emptied** of their dwellers.
 
+**Rendering guidance.**
+
+- Trap: "widow" absorbs *almanah* in both its senses. In Kesubos 1:2 write
+  "a previously married woman" or gloss it, since the halachah covers a divorcee
+  too; in Tanach write "widow."
+- *Armalta* and *almanah* both come out "widow." Where a sugya moves from the
+  Mishnah's Hebrew to the Gemara's Aramaic, do not invent a difference in
+  English; they are one word across two languages.
+- Yeshayahu 13:22: render "their palaces," not "their widows," and footnote Ibn
+  Ezra's "emptied palaces" if the drash on the word matters.
+- Keep *alman* as "widower." English has the word, and dropping it hides that
+  Hebrew marks the masculine at all, which is precisely the Chasam Sofer's
+  question.
+- Where a source expounds *al manah*, do not translate the compound into
+  running English ("no portion"); quote the Hebrew and explain, or the derashah
+  reads as an etymology, which the Chasam Sofer expressly says his is not.
+
 **נער / נערה / עלם / עלמה / נערים** — youth | naar, na'ar, naarah, na'arah, nearim, elem, almah, alma | reviewed | [youth-naar-almah-elem.md](entries/youth-naar-almah-elem.md)
 
 *Naar* and *naarah* are the wide words: **youth**, **lad**, **young woman**. The Gemara's *naarah* is a girl from twelve until six months past maturity (Kesubos 39a), and Rashi reads Yaakov and Esav as *ne'arim* at thirteen (Bereishis 25:27), yet Tanach calls a three-month-old Moshe and a fifty-seven-year-old Yehoshua a *naar*. *Midrash Mishlei* stretches the age to thirty; Rabbi Klein infers that the words may not name an age group at all; Rabbi Eliyahu Mizrachi keeps the age sense and explains the outliers by resemblance, among them anyone serving as an **attendant** (so too Radak); Rabbi Shimon Dov Ber Analak reads it as the tenacious drive of adolescence; and Rabbi Klein relates *naar* to revealing. *Elem* and *almah*, **young man** and **maiden**, are tied by many commentators to *ne'elam*, hidden (Rav Hirsch: potential still undeveloped). Against *naarah*, Ibn Ezra makes *almah* younger, *Peirush HaRokeach* less outgoing, and Rabbeinu Efrayim wiser, one who hides his words; Rabbi Analak makes *elem* sheer strength; *Chizkuni* finds no difference of meaning, only Hebrew against Aramaic. Tanach uses *naar* far outside any age bracket.
+
+**Rendering guidance.**
+
+- *Naar*: **youth** or **lad** in a narrative, **attendant** where the person is
+  serving someone (Yehoshua before Moshe, the lads accompanying Avraham).
+  *Naarah*: **young woman**, or **girl** where she is plainly a child.
+- In halachic contexts *naarah* is a technical stage, from twelve until six
+  months past maturity (Kesubos 39a); "young woman" will not carry that
+  definition, so transliterate it or define it.
+- *Almah*: **maiden**. *Elem*: **young man**. Where a source is working the
+  hidden sense, or Rabbeinu Efrayim's wisdom or Rabbi Analak's strength, say so
+  in a note; the English word cannot carry it.
+- Trap: "young man" and "girl" will absorb *naar* and *elem*, *naarah* and
+  *almah*, without a seam. The Rivkah narrative is the test: she is a *naarah*
+  in Bereishis 24:16 and an *almah* in 24:43, and each explanation above,
+  *Chizkuni*'s included, turns on the two being different words. Give her
+  "young woman" in the one and "maiden" in the other, and let a note carry why.
+- Do not supply an age for *naar* ("a boy of thirteen") unless the commentary
+  being followed gives one, as Rashi does for Yaakov and Esav (Bereishis 25:27).
+  The same word covers a three-month-old and a fifty-seven-year-old, and Rabbi
+  Mizrachi, who keeps the age sense, reaches the outliers only by resemblance.
 
 
 ### speech
@@ -3382,85 +8875,486 @@ Simplistically speaking, both mean **son** and the difference is language, not s
 
 *Tzaakah* and *zaakah* both mean **to cry out**, and Rashi, Ramban, the Zohar, Rabbi Shlomo Pappenheim and others treat them as one word with two interchangeable opening letters. *Shaavah* is not the same: it is **a cry for help**, and Rabbi Yehuda Leib Shapira-Frankfurter holds it is addressed only to Hashem. In *tzaakah* and *zaakah* the sufferer voices his pain, while in *shaavah* he asks outright to be saved (Rabbi Yaakov Tzvi Mecklenburg). Among those who do separate *tzaakah* from *zaakah*, Rabbi Shlomo Aharon Wertheimer and Malbim make *tzaakah* the graver of the two.
 
+**Rendering guidance.**
+
+- *Tzaakah* and *zaakah*: "cry out," "cried out," "an outcry." Use the same
+  English for both unless the passage is arguing from the difference.
+- *Shaavah*: "cried out for help," or "plea." "Cry" alone loses the request,
+  which is the whole of Rabbi Mecklenburg's distinction.
+- Tehillim 107, where all four cries appear: keep one English verb across the
+  four unless you are following Malbim or Rabbi Wertheimer, in which case mark
+  the two *tzaakah* verses ("cried out in anguish") and leave the *zaakah* verses
+  plain, with a note saying what you did and why.
+- Trap: English "cry out" will absorb all three, and "cry" alone will also pull in
+  weeping, which none of these words means. None of the three is *bechi*.
+- Second trap: when a Midrash links two pesukim across the *tzaakah*/*zaakah*
+  line (Esav and Mordechai), an English translation that renders them identically
+  makes the derashah look trivial, and one that renders them differently makes it
+  look impossible. Translate both "cried out" and put the two Hebrew words in a
+  note.
+
 **ארור / קללה / אלה / קבה / מארה** — curse | arur, arrur, kelalah, klalah, kellala, kilel, alah, allah | reviewed | [curse-arur-kelalah-allah-kavah.md](entries/curse-arur-kelalah-allah-kavah.md)
 
 *Arur* is the strong, unrestricted curse: **cursed, a curse** with nothing specified, calling down whatever may come (the Vilna Gaon and Rabbi Mecklenburg; Malbim runs *arur* the other way, see below). *Kelalah* is the weaker word, rooted in *kal*, light: **disparagement**, or a **curse** that must name what it wishes on its target. *Allah* is the curse that invokes Hashem by name (Radak) or, for Rabbi Mecklenburg, one laid down conditionally: **oath-curse, imprecation**. *Kavah* is the curse pronounced in public with the victim named outright. *Arur* and *kelalah* are not one word; Shemos 22:27 uses both of them in a single pasuk.
+
+**Rendering guidance.**
+
+- Shemos 22:27: do not use "curse" twice. "A judge you shall not revile, and a
+  prince among your people you shall not curse" keeps the Vilna Gaon's
+  distinction; a note can carry Rabbi Mecklenburg's reading instead.
+- Bereishis 12:3: "whoever curses you, I will curse" loses the pair. Render the
+  first "whoever calls down a curse on you" and the second "him will I curse,"
+  or gloss the Hebrew.
+- *Arur* standing alone as a declaration: "Cursed be he." *Kelalah* alone:
+  "curse" is acceptable, but "disparagement" is right wherever
+  the passage plays on *kal*.
+- *Allah*: "oath-curse" or "imprecation," never plain "curse," since the whole
+  distinction is that Hashem's Name or a condition is attached. In a shevuah
+  context, "the curse of the oath."
+- Trap: English "curse" absorbs all four. Where two appear in one pasuk or one
+  derashah, differentiate; where only one appears and nothing turns on it,
+  "curse" is fine.
 
 **בזיון / קלון / זלזול / גנאי / גנות** — disgrace | bizayon, bizayyon, bizzayon, vayivez, bazui, bozeh, bozei, kalon | reviewed | [disgrace-bizayon-kalon-zilzul-gnai.md](entries/disgrace-bizayon-kalon-zilzul-gnai.md)
 
 Four words for putting something down. *Kalon* treats a person as a lightweight, worth less than he is: **dishonor, disgrace**. *Bizayon* is stronger, treating him as worth nothing at all: **contempt, disparagement** (Rabbi Shlomo Pappenheim). *Zilzul* is cheapening, selling low what should be dear: **making light of, cheapening**. *Gnai* is post-biblical and is simply the opposite of praise (Rambam): **disgrace, discredit**. *Kalon* lowers a value, *bizayon* cancels it.
 
+**Rendering guidance.**
+
+- *Kalon* in a pasuk: "disgrace" or "dishonor." *Bizayon*: "contempt" where a
+  person is the object, "disparagement" where a value or a mitzvah is.
+- *Zilzul*: "making light of" as a verbal phrase, "cheapening" where the value of
+  the thing is at issue. Avoid "disrespect," which is thin and modern.
+- *Gnai*: "discredit" or "disgrace"; in Pesachim 10:4, "we begin with the
+  disgrace and end with the praise."
+- Trap: English "disgrace" will swallow *kalon*, *bizayon*, and *gnai* without a
+  seam. Where a passage grades them, or where a *mussar* argument turns on
+  *bizayon* being worse than *kalon*, spend the words: "held light" for *kalon*,
+  "held worthless" for *bizayon*.
+- Second trap: *zilzul* and *kalon* look like one word in Aramaic, since the
+  Targum sometimes renders cognates of *kalon* with *zilzul*. Do not cite a
+  Targum as proof that the two Hebrew words are identical.
+- *Kelalah* under this root: a curse is a species of *kalon*, so where a source
+  reads the two together, "make light of" preserves the link that "curse" hides.
+
 **הבאי / הואי / גוזמא / גזמא / גזם / נדרי הבאי** — exaggeration | havai, hava'i, hovai, guzma, guzmah, gozma, gozem, gazam | reviewed | [exaggeration-havai-guzma.md](entries/exaggeration-havai-guzma.md)
 
 Both mean **hyperbole**, and Chazal ostensibly use them interchangeably in the same sugya (Tamid 29a; Chullin 90b); Rabbi Eliyahu HaBachur says outright that they mean the same thing. *Divrei havai* are **words of hyperbole** or **a manner of speech**, and a *guzma* is **an overstatement**. Rabbi Yaakov Emden: a statement called a *guzma* is literally true, and it is only its plain implication that overshoots. Rabbi Menachem Azariah of Fano: *havai* marks something to be taken seriously, though not necessarily literally.
+
+**Rendering guidance.**
+
+- *Divrei havai*: "words of hyperbole," or "a manner of speech." Avoid
+  "exaggeration" alone in a halachic context, which makes the Mishnah sound
+  careless; the Gemara's point is that this is a recognized register.
+- *Nidrei havai*: "vows of hyperbole," never "false vows." The vow is void
+  because nothing was meant, not because something untrue was said.
+- *Guzma*: "an overstatement," or "hyperbole." In Beitzah 4a, where nothing
+  untrue was said at all, "overstatement" is right and "exaggeration" is wrong.
+- Trap: English "exaggeration" absorbs both words and carries an accusation with
+  it. Where a sugya sets *havai* beside *guzma* as two labels for one thing, use
+  "hyperbole" for *havai* and "overstatement" for *guzma* and say in a note that
+  the Gemara treats them as one.
+- Second trap: do not translate either word as "not literally true." Rabbi Yaakov
+  Emden's whole position is that the words *are* true and the implication is not,
+  so an English rendering that decides against him is not neutral.
 
 **פירוש / ביאור / הסבר / פשר / פתרון / פותר / באר / מפורש / סברא / מסביר** — explanation | peirush, perush, pirush, beiur, biur, be'ur, ba'er, hesber | reviewed | [explanation-peirush-beiur-hesber-pesher.md](entries/explanation-peirush-beiur-hesber-pesher.md)
 
 *Peirush* is the plain **explanation** or **commentary**: it makes known what a text says on its surface, its legal and practical sense (Malbim: exoteric). *Beiur* is **elucidation**: it goes beneath the surface to bring up what is hidden (Malbim), at length and in writing, so that the matter is clear (Shadal). *Hesber* is **explanation of the reasoning**, the *svara*: it answers *why*, where *beiur* answers *what* (Rabbi Reuven Subar). *Pesher* and *pitaron* are **interpretation**, the solving of an enigma; *pitaron* in Tanach is dream interpretation only (Radak, Malbim).
 
+**Rendering guidance.**
+
+- פירוש: "explanation," or "commentary" for the written genre (Rashi's
+  *peirush*). מפורש: "explicitly," "expressly."
+- ביאור: "elucidation" (best), "clarification"; as a genre title keep it
+  transliterated. Never "commentary" when it stands beside *peirush*.
+- הסבר: "explanation" with the reasoning audible: "the reasoning," "an account
+  of why"; סברא: "reasoning," "logic," or transliterate in a learning context.
+- פשר / פתרון: "interpretation," "meaning," "solution"; for a dream, always
+  "interpretation."
+- Trap: English "explanation" absorbs *peirush*, *beiur*, and *hesber*. Where
+  a text pairs them (a *peirush* that is not yet a *beiur*; a *beiur* without a
+  *hesber*), grade the English: explanation (surface), elucidation (depth,
+  written out), reasoning (why).
+- Together in a list, keep Malbim's ladder: *peirush* outside, *beiur* inside;
+  and Subar's axis: *beiur* what, *hesber* why.
+
 **שקר / כזב / כחש / אמת** — falsehood | sheker, shekker, kazav, kozev, chazav, kachash, kichesh, michachesh | reviewed | [lie-sheker-kazav-kachash.md](entries/lie-sheker-kazav-kachash.md)
 
 *Sheker* is **falsehood** outright, false already when it was said. Whether it must also be knowing is left open: Rabbi Edel and Mecklenburg say yes, and Rabbi Klein offers a possible defense of Albo's broader *sheker*, which covers the inadvertent untruth too. *Kazav* is **a lie that time exposes**: it sounded true, and only later proves false (the Gra: he meant it when he said it and then did not keep his word). *Kachash* is **denial**, a false answer to a claim already standing against him. The three are not interchangeable; the Yom Kippur confession *b'kachash uvchazav* names two of them side by side.
+
+**Rendering guidance.**
+
+- *Sheker*: **falsehood** in a pasuk (*midvar sheker tirchak*, "keep far from a
+  false matter"), **a lie** in plain prose. Never "a mistake."
+- *Kazav*: **a lie**, and where the passage turns on the Gra's or Malbim's
+  distinction, **a lie that time exposes** or **a broken word**. In Yechezkel's
+  prophecies against the false prophets, **falsehood** with the divination
+  sense noted.
+- *Kachash*: **denial**, or **denying**. Reserve "deceit" for *sheker*.
+- Trap: English "lie" will absorb all three. The confession *al cheit shechatanu
+  lefanecha b'kachash uvchazav* must not read "through lies and lies"; render
+  "through denial and through falsehood."
+- Second trap: *sheker v'chazav* is a real pair, not a doublet for emphasis.
+  Malbim's reading gives you the two vantage points, so render it "false and
+  deceptive" rather than collapsing it.
+- Where Albo's frame is in play, *sheker* is **out of joint with reality** and
+  *kazav* is **out of joint with the heart**; keep the two mismatches visible.
 
 **אנכי / אני / אנך** — first person | anochi, anoki, ani, anoch, anach | reviewed | [first-person-anochi-ani.md](entries/first-person-anochi-ani.md)
 
 Both mean **I**. *Ani* is the plain first person; *anochi* is the emphatic, **I myself**, and it is the weightier and rarer word (*ani* outnumbers it more than two to one in Tanach). Where the two are contrasted, Malbim and Rabbi Pappenheim hold that with *anochi* the news is in the subject (I, and no one else, did it), and with *ani* the news is in the predicate (what I did, as against something else I might have done). But that is not the only reading in the field: Rav Hirsch takes *anochi*'s force to be nearness rather than exclusion, and Rabbi Edel takes the pair to name body and soul. The distinction is applied to *Anochi Hashem Elokecha*.
 
+**Rendering guidance.**
+
+- Default: *ani* is "I," *anochi* is "I myself" or "It is I who." Reserve the
+  heavier English for places where a source is actually reading the emphasis.
+- Trap: English has one word for both. Where a *ma'amar Chazal* or a mussar
+  passage turns on *Anochi* versus *Ani*, transliterate and gloss rather than
+  translating twice as "I" and hoping the reader hears it.
+- *Anochi Hashem Elokecha* (Shemos 20:2): keep the Hebrew, and where an English
+  rendering is needed pick the one your source demands. On Malbim and Rabbi
+  Pappenheim: "I, and none other, am Hashem your God." On Rav Hirsch: the
+  emphasis is not exclusion but nearness, so "I am Hashem your God" with the
+  intimacy carried in a note.
+- Do not render *anochi* as "myself" standing alone; it is a subject pronoun,
+  not a reflexive object.
+- *Anach* in Amos is "plumb line," never "I"; the link belongs to a note.
+
 **שפה / לשון / לשון הקודש** — language | safah, safa, sfat, sefat, lashon, loshon, leshon, lashon hakodesh | reviewed | [language-safah-lashon.md](entries/language-safah-lashon.md)
 
 Both mean **language**, and both are body parts taken over for speech: *safah* is the lip, *lashon* the tongue. Rav Dessler: the lip is outside the body and the tongue inside, so a *lashon* is a language whose speakers have taken its inner content into themselves, while a *safah* is one they hold only externally, its mechanics without its values. That is why Hebrew is *Lashon HaKodesh*, and why the generation of the Haflagah, who spoke the same words with none of their content, had one *safah* (Bereishis 11:1).
+
+**Rendering guidance.**
+
+- Either word standing alone: "language." In a translated pasuk, "one language"
+  for Bereishis 11:1 is right; add "one lip" only in a note if the derashah is
+  being quoted.
+- *Lashon HaKodesh*: leave it transliterated, or "the Holy Tongue." Not "Hebrew"
+  where the sanctity of the language is the subject.
+- Where *safah* and *lashon* stand together or are contrasted, English "language"
+  will absorb both. Render one "tongue" and the other "language," or keep the
+  Hebrew and gloss, since Rav Dessler's whole distinction is which organ the word
+  names.
+- Trap: *lashon* has other uses in rabbinic Hebrew (a wording, a manner of
+  speech, *lashon hara*), and "tongue" will not carry them. Translate by what the
+  passage is doing, not by the body part.
 
 **לא / אל / בל / בלי / בלתי** — negation | lo, al, bal, bli, b'li, bilti, bilui, blo | reviewed | [negation-lo-al-bal.md](entries/negation-lo-al-bal.md)
 
 All three negate. *Lo* is the Torah's word for a standing prohibition and also the plain factual "did not"; *al* is a negative imperative aimed at a future act, "do not" (Rabbi Ber Oppenheimer); *bal* is the word Chazal use to *name* a prohibition already issued in the Torah with *lo*. So *lo sashchis* in a pasuk is **"you shall not destroy"**, while *bal tashchis* in a sugya is **"the prohibition of bal tashchis"**, not a fresh command. *Bal* is not a Rabbinic coinage: it appears close to seventy times in Tanach, though never in Chumash.
 
+**Rendering guidance.**
+
+- *Lo* + imperfect in a pasuk: **you shall not**. *Al* + jussive: **do not**.
+  Keeping the two registers apart matters where a pasuk has both.
+- *Bal* in Tanach: **shall not**, factual, not prohibitive. Tehillim 93:1 is
+  "it shall not falter," not "let it not falter."
+- *Bal* in Chazal: leave it transliterated and name it as a prohibition, **the
+  issur of bal tashchis**, **bal yeira'eh uval yimatzei**. Do not render it as
+  a command in English; that turns a citation into a fresh instruction.
+- Trap: English "not" flattens all three, and "do not destroy" will do for both
+  *lo sashchis* and *bal tashchis*, which is exactly the distinction Chazal
+  built by changing the word. When a passage quotes the pasuk and then the
+  Rabbinic label in one breath, translate the first and transliterate the
+  second.
+- Second trap: *lo* in a pasuk may be the prepositional *lo*, "to him." Rabbi
+  Margolios's answer to the whole question turns on that ambiguity, so read the
+  vowels before rendering.
+
 **הודאה / הלל / שבח / פאר / רומם / הדר / ברכה / עילוי / קילוס / נצח / להודות / להלל / לשבח / לפאר / לרומם / להדר / לברך / לעלה / לקלס / לנצח** — praise | hodaah, hoda'ah, lehodos, lehodot, hallel, lehallel, shevach, leshabeach | reviewed | [praise-hallel-shevach-hodaah-kilus.md](entries/praise-hallel-shevach-hodaah-kilus.md)
 
 The siddur's list (end of Pesukei DeZimrah on Shabbos and Yom Tov, the Haggadah, the close of Hallel) reads, in order: *lehodos* **to thank**, *lehallel* **to praise**, *leshabei'ach* **to laud**, *lefa'er* **to glorify**, *leromem* **to extol**, *lehader* **to beautify**, *levarech* **to bless**, *le'aleh* **to raise high**, *lekales* **to exalt**; Nusach Sefard (Arizal) adds *lenatzei'ach* **to eternalize** after *lehader*, Nusach Ashkenaz (Maharal) omits it. Thanking generally comes before lauding because personal gratitude precedes the general duty (Wertheimer), and *lekales* here is **to exalt**, not to disparage, though the Biblical verb means the latter.
+
+**Rendering guidance.**
+
+- The list as a unit: "to thank, to praise, to laud, to glorify, to extol, to
+  beautify, to bless, to raise high, and to exalt" (Sefard adds "to
+  eternalize" after "to beautify"). Nine or ten distinct English verbs; never
+  merge two, and never reorder.
+- הודאה standalone: "thanks," "acknowledgment"; the root also means
+  "admission," and Wertheimer's ordering rests on that gratitude-as-admission
+  sense.
+- הלל standalone: "praise"; as the name of the psalms, keep *Hallel*.
+- שבח standalone: "praise" is common, but where שבח and הלל stand together
+  render שבח "laud" (or "lauding") so the pair is not one word twice.
+- ברכה of Hashem: "bless" with the Nefesh HaChaim sense understood; do not
+  paraphrase to "acknowledge" in the running text, since the pasuk and the
+  siddur say "bless."
+- קילוס: "exalt," "acclaim"; in a Tanach citation the same root is "mock,"
+  "disparage," so check which register the passage is in.
+- Trap: English "praise" absorbs *hallel*, *shevach*, and, loosely, all ten.
+  When the passage enumerates, hold the ten apart; when it uses one word in
+  passing, "praise" is fine.
+- Trap: "extol" and "exalt" and "raise high" are near-synonyms in English;
+  Rabbi Klein assigns extol to *leromem*, exult to *le'aleh* and exalt to
+  *lekales*; "raise high" serves for *le'aleh*, since "exult" ordinarily
+  means "rejoice". Keep whichever assignment you take fixed.
 
 **מיאון / סירוב / מרי / מרידה / סרבן / סרבים / סלונים** — refusal | miun, mieun, vayimaen, maen, meen, siruv, seiruv, sarvan | reviewed | [refusal-miun-siruv.md](entries/refusal-miun-siruv.md)
 
 *Mi'un* is the biblical word for **refusing**, its cognates appearing forty-six times in Tanach; *siruv* is Aramaic and rabbinic, at most once in Tanach, and even that one instance is disputed. Rabbi Klein gives two approaches to the difference and does not choose between them. On the first, resting on Rabbi Eliyahu HaBachur's observation that the Targumim render most instances of *meridah*, *meri* and *mi'un* alike by *siruv*, it *seems* the two are simply synonyms sourced in different languages: *mi'un* genuine Hebrew, *siruv* a borrowed Aramaic loanword that grew popular in post-biblical Hebrew. On the second, Rabbi Yaakov Dienna's, they are not perfect synonyms: *mi'un* is declining to comply with something asked of one, *siruv* is the utter rejection of the proposition itself, and it *somehow* implies the more intense refusal. Both words also have technical rabbinic senses: *mi'un* is the minor's refusal of her husband, *siruv* is contempt of beis din.
 
+**Rendering guidance.**
+
+- Default both to "refuse." This follows Rabbi Klein's first approach, on which
+  they are the same act in two languages, and is not a ruling against Rabbi
+  Dienna, whom Rabbi Klein leaves standing.
+- Where a source is arguing the difference (Rabbi Yaakov Dienna on Shemos 22:16
+  and Bamidbar 22:13), render *mi'un* "declined" and *siruv* "flatly refused"
+  or "rejected outright," and say which word is which.
+- Trap: English "refuse" absorbs *mi'un*, *siruv*, and also *meri* /
+  *meridah*, which the Targum renders by *siruv* but which is rebellion, not
+  refusal. Keep "rebel" for *meri* even where the Targum uses the refusal word.
+- The technical senses are never translated: *mi'un* of a ketanah and *siruv*
+  of beis din both stay transliterated, with a gloss at first occurrence. A
+  bare "refusal" for either is a mistranslation, not a simplification.
+- *Sarvan* in *Berachos* 5:3 is "one who declines," and needs the Rambam and
+  Bartenura's point in a note, that declining is right in the ordinary case and
+  wrong in this one. Rabbi Klein himself glosses *sarvan* as "refusenik," but
+  that is too modern a register.
+- Bamidbar 22:13, *me'en Hashem*: "Hashem has refused to allow me," and if the
+  Targum's phrasing is under discussion, quote it as "there is no will before
+  Hashem," which is the whole point of the question.
+
 **חרש / שתיקה / דום / חשה / הס** — silence | cheresh, cheiresh, hachareish, tacharishi, tacharishun, charishah, choresh, chorshah | reviewed | [silence-cheresh-shetikah-dom-chashah.md](entries/silence-cheresh-shetikah-dom-chashah.md)
 
 *Cheresh* is thinking silence: **holding one's peace** while turning something over. *Shetikah* is the **quieting down** that follows a commotion. *Dom* is **falling silent**, silence as a state that comes over a person, and at root simply stoppage. *Chashah* is **keeping still**, an inward stillness or a held-back answer. *Hass* alone is transitive: to **hush** others. Mordechai chose *cheresh* specifically (*hachareish tacharishi*, Esther 4:14).
+
+**Rendering guidance.**
+
+- Esther 4:14, *hachareish tacharishi*: "if you indeed hold your peace," not "if
+  you are silent", which loses the point. Mordechai is telling Esther that this is
+  no moment to sit and think out what to say; on Rav Hirsch's reading, that she
+  must not act deaf to the call. So too Shemos 14:14, *v'atem tacharishun*, where
+  Yisrael stands by watching how Hashem wages their war.
+- Vayikra 10:3, *vayidom Aharon*: "and Aharon fell silent." Do not write "was
+  quiet"; *dom* is a stopping, not a mood.
+- Trap: "be silent" in English will absorb *cheresh*, *dom*, and *chashah* alike.
+  Reserve "hold one's peace" for *cheresh*, "fall silent" for *dom*, and "keep
+  still" for *chashah*. *Hass* is never "be silent" but "hush"; it takes an
+  object.
 
 **שיר / שירה / זמר / זמרה / מזמור / זמירות / שיר מזמור / מזמור שיר** — song | shir, sheer, shirah, shira, shiros, shirot, zemer, zimrah | reviewed | [song-shirah-zimrah-mizmor.md](entries/song-shirah-zimrah-mizmor.md)
 
 *Shir* / *shirah* is **song**: the sung, worded song, and the general term for song sacred or secular (Malbim). *Zemer* / *zimrah* is **music**, or **melody**: instrumental music (Ibn Ezra, Radak, Sforno, the Vilna Gaon, Rav Hirsch, Wertheimer), or the tune as against the words (Mecklenburg), and, in what is possibly a second view of Malbim's, the specifically religious song of Hashem's praise; when the two stand together *shirah* comes first, *zimrah* second, because *zimrah* is somehow the higher (Malbim). *Mizmor* is **psalm** as a title, and in the superscriptions *mizmor shir* / *shir mizmor* the *mizmor* is the tune and the *shir* the words (Pappenheim and Pincus, two credible authorities who beg to differ with Ibn Ezra, who holds there is no difference). The American historian Cyrus Gordon (1908-2001) said, in effect, that the ancients were no less talented than we are but expressed their intelligence differently, handling language so deftly that modern scholars take a long time even to notice the riddles in it, let alone their subtleties; Rabbi Klein offers the *shir*/*zemer* pair as one such nuance.
 
+**Rendering guidance.**
+
+- שירו לה' זמרו: "sing to Hashem, play [music]" or "sing and make music."
+  Two verbs in English, in this order.
+- שיר / שירה alone: "song"; שירת הים "the Song of the Sea"; the Torah as
+  שירה, "a song."
+- זמרה alone: "music," "melody," or "song of praise" by context (Malbim's
+  second view); זמירות "hymns," "songs" (Shabbos *zemiros* usually stay transliterated).
+- מזמור as a superscription: "a psalm"; מזמור שיר "a psalm, a song"; keep the
+  Hebrew order and let the reader see two nouns.
+- פסוקי דזמרה: "the Verses of Song" (or keep the Hebrew); Rabbi Klein's gloss
+  is "Verses of Hymns."
+- Trap: English "song" absorbs all three, and "sing" absorbs both verbs. Where
+  the passage pairs them, or a derashah turns on the order (Malbim's rule),
+  give שיר "song/sing" and זמר "music/play," and never invert.
+- Trap: "psalm" is fine for מזמור as a title but not for מזמור in Pincus's
+  sense, the wordless melody; there write "melody."
+- Where the drush is on ז-מ-ר as pruning (Hutner, Noam Elimelech, Pappenheim),
+  the English cannot carry the pun; gloss it once ("*zimrah*, which also means
+  to prune") rather than translating the root into the running line.
+
 **דיבור / אמירה / מאמר / דיברות / לאמר / חטיבה** — speech | dibbur, dibur, dibber, vayidaber, vayedaber, dibbros, dibbrot, dibrot | reviewed | [speech-dibbur-amirah.md](entries/speech-dibbur-amirah.md)
 
 *Dibbur* is speech as an act (**speak, address, discourse**): forceful, bold, and complete whether or not anyone receives it. *Amirah* is speech as communication (**say, tell**): gentle, aimed at a hearer who takes the meaning in. Rashi's "*dibbur* is harsh, *amirah* is soft" is limited from several directions (Mecklenburg, the Gemara on *yadber*, Maharal, *Moshav Zekanim*). Rav Hirsch reads the pair as act of speech against act of communication. But the direction is not settled: Malbim reverses the force of the two, and the Vilna Gaon to Bamidbar 22:5 seems to make *dibbur* the more communicative of them. *Aseres HaDibros* is "Ten Sayings" or "Decalogue"; Rabbi Klein's line is that this "would be better" than "Ten Commandments," said with all due respect to Cecil B. DeMille and Charlton Heston. He renders *Asarah Maamaros* "Ten Sayings" too.
+
+**Rendering guidance.**
+
+- In the recurring *Vayedaber Hashem el Moshe leymor*, keep both verbs
+  distinct: "Hashem spoke to Moshe, saying." "Said... to say" flattens the pair
+  that the Zohar's derashah rests on.
+- Trap: English "said" will absorb both words, and "spoke" will absorb *dibbur*
+  and *nefesh*-level verbs like *siach*. Where a passage contrasts the two
+  (Devarim 32:1; Shemos 19:3; the *maamaros*/*dibros* pairing), force the
+  contrast: "speak" for *dibbur*, "say" for *amirah*, and let the surrounding
+  clause carry the tone rather than smuggling "sternly" into the verb.
+- Do not render *dibbur* as "commanded." Where the Torah wants a command it has
+  *tzivah*. Rabbi Moshe Feinstein builds on *vayomer* in the *tzitzis* parashah
+  (Bamidbar 15:37) precisely because the verb there is not the usual
+  *vayedaber*; he uses the exact opposite of the reasoning Rabbi Klein draws
+  from Malbim.
+- *Aseres HaDibros*: "Ten Sayings" or "Decalogue," which Rabbi Klein says
+  "would be better" than the popular "Ten Commandments." Any derashah on
+  *dibros* against *maamaros* is lost with "Commandments."
+- Where the pasuk pairs *emor* with *ve'amarta* (Vayikra 21:1), render them
+  differently rather than repeating "say" twice: on Mecklenburg's reading the
+  first raises the *kohanim's* status and the second is the plain telling.
 
 **נאם / יחוה / יביע / שיח / שיחה** — speech | neum, ne'um, num, nam, namta, neumta, numita, numati | reviewed | [speech-neum-yichaveh-yabia-siach.md](entries/speech-neum-yichaveh-yabia-siach.md)
 
 *Ne'um*, "word," is used overwhelmingly for the Word of Hashem. It is the solemn declaration whose force is that it is true (Pappenheim) and settled (*Peirush HaRokeach* and Rabbeinu Efrayim): a **declaration**, an **utterance**, in a *nevuah* **thus says**. *Yichaveh* is speech that gives an idea life by bringing it out into the open, or, on Pappenheim's alternative, speech that joins speaker to listener as *ach* to *ach*: **express**, **declare**. *Yabia* is speech welling up from the depths like a spring: **pour forth**, **utter**. *Siach* is discursive, wandering speech that unburdens the speaker: **converse**, **muse**, **pour out one's talk**.
 
+**Rendering guidance.**
+
+- *Ne'um Hashem* is "the declaration of Hashem" or "says Hashem," and in a
+  passage that turns on Pappenheim's reading, the English should carry the
+  finality: "so declares Hashem," not "so speaks Hashem." Bilaam's
+  *ne'um Bilam beno Beor* (Bamidbar 24:3) gets the same weight; the whole point
+  is that his words were binding truth.
+- Trap: English "utterance" would cover *ne'um*, *yabia* and *yichaveh* alike.
+  Assign one each: *ne'um* "declaration," *yabia* "pours forth," *yichaveh*
+  "expresses."
+- Tehillim 19:3 puts *yabia* and *yechaveh* in one pasuk, "*yom l'yom yabia omer
+  velailah lelailah yechaveh daas*." They must differ in English: "day to day
+  pours forth speech, and night to night expresses knowledge." Two identical
+  verbs would erase the parallelism the *meforshim* are reading.
+- Bereishis 24:63, *lasuach basadeh*: "to meditate," "to pour out his thoughts."
+  Following Pappenheim, this is unburdening speech, not conversation with
+  another person.
+- Rabbinic *nam lo*, *numeinu*, *neimah*: translate as ordinary "he said," "we
+  said," "let us say." Do not import the Biblical solemnity into a *sugya*; the
+  register shifted.
+
 **הגדה / מגיד / להגיד / והגדת / תגיד / הגיד / ספור / מספר / לספר / תספר / אגדה** — telling | haggadah, hagadah, higid, lehagid, maggid, magid, vehigadeta, vehigadata | reviewed | [telling-haggadah-sippur.md](entries/telling-haggadah-sippur.md)
 
 *Haggadah* is **telling** in the strong sense: something new, said forcefully, and, at its core in Rabbi Klein's summary, drawing a past event into the listener's present. *Sippur* is the more general **relating** of a story, old or new, and for Rav Moshe Shapiro it carries the sense of many details joined into one whole. Ramban (to Devarim 26:3) seems to treat the two as synonyms; most commentators do not. Why the Torah commands *v'higadta l'vincha* while Chazal call the mitzvah *sippur yetzias Mitzrayim* is answered more than one way: for Rabbi Klein, when the Torah spoke the story was still new, and by the time of Chazal it had been handed down for generations; for Rabbi Yechiel Michel Feinstein, Chazal took the word the Torah uses for the purpose of the miracles (*l'maan tesaper*, Shemos 10:2), where *v'higadta* only teaches how to tell; Rabbi Nosson Gestetner concludes that they are two separate mitzvos.
+
+**Rendering guidance.**
+
+- *V'higadta l'vincha*: **and you shall tell your son**. Where the passage turns
+  on the word, gloss it once: "tell, in the sense of making it new and making
+  it his."
+- *Sippur yetzias Mitzrayim*: **the telling of the Exodus**, or leave the phrase
+  transliterated. *Misaper*: **relate**, **recount**.
+- *Aggadah*: **aggadah**, not "legend" or "fairytale"; Rabbi Klein calls the
+  modern usage an unfair redefinition.
+- Trap: English "tell" absorbs both words, and Rabbi Klein's whole point is
+  that the Torah's verb and Chazal's verb differ. Where a passage sets them side
+  by side, render *haggadah* **declare** or **set before him** and *sippur*
+  **recount**, so the reader can see two acts.
+- Second trap: *higid* in Tanach usually carries the news value. "He told him"
+  is thin; "he brought him word," "he disclosed," or "he declared" holds it.
 
 **נדר / שבועה / נדבה / קונם / נדרים / שבועות** — vow | neder, nedarim, shevuah, shevuot, shevuos, nedavah, nedavos, konam | reviewed | [vow-neder-shevuah-nedavah.md](entries/vow-neder-shevuah-nedavah.md)
 
 *Neder*, commonly translated "promise," works on an **object**, giving it a forbidden status on the model of hekdesh. *Shevuah* is an **oath**: it works on the **person**, binding him to do or not do, and it generally invokes Hashem's name. They are not two grades of one thing: the Gemara (Nedarim 2b) understands them as two different types of verbal expression, each dealt with on its own terms, and the Mishnah gives each its own masechta in a different seder. A *nedavah* is a type of *neder*: one statement that undertakes a korban (sometimes only implicitly) and designates the specific animal. The common English "promise" and "oath," Rabbi Klein says, imply the two are basically synonymous, a *shevuah* being a more serious *neder*.
 
+**Rendering guidance.**
+
+- *Neder*: "vow." *Shevuah*: "oath." Fix these and keep them fixed. Rabbi Klein objects to "promise" and "oath" as a pair, since together they suggest one is
+  a graver form of the other; note that his own paraphrases of a *neder* use
+  "promise" ("I promise that benefits derived from cigarettes shall be
+  forbidden to me").
+- Trap: English "oath" will absorb both, and "vow" is worse, since in ordinary
+  English a vow is personal (a marriage vow), which is precisely the *shevuah*
+  side. Where a passage sets the two against each other (as at Nedarim 2b),
+  keep the Hebrew and gloss on first use.
+- *Nedavah*: "freewill offering" in korbanos contexts; do not render it "gift,"
+  which drops the consecration.
+- *Konam* stays transliterated with a gloss at first use, since the point of
+  the word is that it is a substitute form of *korban*; "prohibition formula"
+  loses it entirely.
+- Bamidbar 30:3 sets both terms in one pasuk. Render "if a man vows a *neder*
+  to Hashem or swears a *shevuah*"; a rendering that gives "makes a vow or
+  swears an oath" without the Hebrew leaves the reader unable to follow the
+  sugya that follows.
+
 **שריקה / צפצוף / משרוקיתא / שרקרק / רחם / שורק** — whistle | shreikah, shrekah, sherikah, sharak, sharku, yishrok, tishrok, sharakrak | reviewed | [whistle-shreikah-tziftzuf.md](entries/whistle-shreikah-tziftzuf.md)
 
 *Shreikah* is a **whistle**, used in two opposite settings: the whistle or hiss of astonishment at a ruined place that had been thriving, and the signal by which Hashem calls the masses to gather, at the end of days to gather His people home. Rabbi Yaakov Berger notes that biblical *shreikah* seemingly always means whistling with the mouth alone, while the Aramaic *mashrokita* of Daniel is an instrument. *Tziftzuf*, its apparent synonym, is **whistling, chirping, tweeting**, the bird's sound, and by extension a low, rapid whisper or half-intelligible **prattle**; in the Rema's halachic usage *mitzaftzef* is simply "to whistle."
+
+**Rendering guidance.**
+
+- *Shreikah* at a ruin: "whistle" works, but "hiss" is often truer to Rashi's
+  through-the-teeth description and avoids the cheerful English connotation.
+  For a place made an object of it, "an object of hissing" reads better than
+  "a place of whistling."
+- *Shreikah* as summons: "whistle for," never "whistle at." Yeshayahu 5:26 and
+  7:18 are calls to muster; Zecharyah 10:8 is a call to come home.
+- *Tziftzuf*: "chirp" or "twitter" for birds, "prattle" or "babble" for people.
+  Reserve "whistle" for ש-ר-ק so the two roots stay apart in English.
+- Trap: English "whistle" will swallow *shreikah*, *tziftzuf* and *mashrokita*
+  at once. Where a passage puts them together, or where a derashah turns on the
+  root (the *Tur* on *tishrok*, the *sharakrak* of *Chullin* 63a), keep ש-ר-ק
+  rendered by "whistle" and push *tziftzuf* to "chirp."
+- Halachic register: the Rema (*Orach Chaim* §338:1) rules that one may be
+  *mitzaftzef* on Shabbos, that is, whistle. Rabbi Yechiel Michel Epstein
+  (*Aruch HaShulchan* there) finds that obvious for the mouth, and whistling
+  with an instrument obviously forbidden, so he proposes that the Rema's
+  novelty is that even whistling with the fingers is allowed. There,
+  *mitzaftzef* is plainly "to whistle," not "to chirp."
+- Modern Hebrew *tziftzuf* (an alarm's beep; and *mitzaftzef* for a man who
+  ignores everyone and goes his own way) is a later development and must not be
+  read back into a pasuk.
 
 **עד / עדות / סהד / קדוש** — witness | eid, ed, eidim, eidus, eidut, eidos, sahad, sahed | reviewed | [witness-eid-sahad.md](entries/witness-eid-sahad.md)
 
 *Eid* is **witness** and *eidus* **testimony**; *sahad* is the Aramaic for the same, **witness**. Lavan named the mound *Yegar Sahadusa*, and Yaakov called it *Gal-Eid* (Bereishis 31:47). Rabbi Klein holds that, strictly speaking, the two are not quite synonyms: their meanings line up, but they come from two languages, as both Talmudim recognise in calling *sahaduta* Aramaic (Yerushalmi Sotah 7:2, Sanhedrin 10:1; Shabbos 115b; Megillah 9a). Malbim and Rabbi Shlomo Aharon Wertheimer nonetheless posit a difference: for Malbim, *eid* attests to conduct toward people and *sahad* to piety before Hashem; for Rabbi Wertheimer, *eid* names how the witness knows and *sahad* how he relays it. *Eid* also means **warn** (Rabbi Shlomo Pappenheim; Shadal makes warning its primary role). One who dies al kiddush Hashem is called a *kadosh*, "holy," where the Syriac, Arabic and English words for a martyr all mean "witness"; Rabbi Klein reads that difference as a statement about how Judaism views martyrdom.
 
+**Rendering guidance.**
+
+- Both עד and סהד render "witness"; עדות is "testimony." Unless a commentary is
+  drawing Malbim's or Rabbi Wertheimer's distinction, do not create an English
+  contrast between them.
+- Bereishis 31:47 is where the two languages meet: transliterate both names,
+  *Yegar Sahadusa* and *Gal-Eid*, and gloss ("both mean 'mound of witness,' the
+  one Aramaic, the other Hebrew").
+- Trap: English "witness" will absorb the warning sense of עד as well. Shemos
+  21:29 (*v'hu'ad bivalav*) and Bereishis 43:3 (*ha'ed he'id banu*) are
+  "warned," not "testified"; "testify" at Shemos 21:29 loses the halachah of the
+  *muad*.
+- עדות of the Aron is "the Testimony" by convention (*Aron ha'Eidus*); the
+  mitzvah class is "*eidos*" or "testimonial mitzvos."
+- Never render *kadosh* in a martyrdom context as "martyr" without keeping the
+  Hebrew or the sense "holy one"; the whole distinction from *shahid* rides on it.
+
 **מילה / תיבה / דבר / מלל / מילתא** — word | milah, mila, milin, millel, milel, yimallel, timallel, millelu | reviewed | [word-milah-teivah-davar.md](entries/word-milah-teivah-davar.md)
 
 *Milah* is the biblical term (Tehillim 19:5, 139:4; Iyov throughout), and for Rabbi Eliyahu HaBachur the **spoken word**; *teivah* in this sense appears only in later rabbinic writing, a grammarians' term as Rabbi Shlomo Pappenheim seems to understand it, and for HaBachur the **written word**, the one behind *roshei teivos*. Rabbi Yosef Teomim differs slightly: *milah* can be written or spoken, *teivah* only written. Rabbi Pappenheim, from מ-ל, "edge," makes *milah* the word cut off as a unit from the sentence. *Davar* is a **word** that is also a **thing**, and for Rabbi Moshe Shapiro that double sense is the point.
 
+**Rendering guidance.**
+
+- Default renderings: *milah* "word" (spoken, on HaBachur); *teivah* "word" in
+  a grammatical or Masoretic context, otherwise "ark" or "box" by plain sense;
+  *davar* "word," "thing," "matter," chosen by context, and where a source plays
+  on both, say so in a note rather than picking one.
+- Trap: a discussion of the text may use *teivah* for the word on the page and
+  *milah* for the word in the mouth. Rendering both as "word" erases HaBachur's
+  distinction. Use "the written word" or "the word as written" for *teivah*
+  where the contrast is live.
+- *Roshei teivos*: "initial letters" or "abbreviation"; "the heads of the
+  words" is the literal gloss.
+- *Millel*: Rabbi Klein renders it "spoken" and "say" (Bereishis 21:7; Tehillim
+  106:2), and it is the Targum's standard word for *amirah*. Where a commentary
+  builds on the Rokeach's sense (at length) or Rabbeinu Efrayim's (truly), bring
+  that out, as at Iyov 33:3, "my lips speak knowledge clearly."
+- Rabbi Pappenheim's *milah* from מ-ל, "edge," is the etymology behind any
+  reading that links *bris milah* to speech; where a text makes that link, it is
+  his, and should be attributed rather than presented as the plain meaning.
+
 **כתיבה / חרות / חרט / חרושה / חקוק / פסל / פיתוח / גליף / רשם** — writing | ketivah, kesivah, ktov, kasav, katav, vayikatev, charut, charus | reviewed | [writing-ketivah-charut-chakuk.md](entries/writing-ketivah-charut-chakuk.md)
 
 *Ketivah* is the general word for **writing**, about 260 times in Tanach, used both of the Luchos and of a Sefer Torah written in ink on parchment. Most of the others are ways of cutting. *Charut* is writing pressed or cut deep into the material: Rabbi Shlomo Pappenheim and, centuries earlier, Rabbi Moshe Zacuto take it from *chor*, a hole, writing that went clean through the stone (Rav Hirsch makes a similar point), while Rashi and Rashbam relate it to ח-ר-ט, the work of the *cheret* (stylus). *Charushah* is **engraving**, which Ibn Saruk files under plowing. *Chakuk* is **incising** small grooves with a stylus (Pappenheim). *Pasal* is technically **engraving or hewing** rather than writing. *Pituach* is the opposite of engraving, **embossing**: the background is cut or pressed down so the letters stand out (*Gittin* 20a). Aramaic *galif*, Targum's word for *pituchei chosam*, Rabbi Yehoshua Steinberg suggests is related to ג-ל-ב, the barber, and Rabbi Ernest Klein derives from Greek *glyphein*. *Resham* is **noting down**, for Pappenheim the writing of only the heads (*rosh*) of a matter.
+
+**Rendering guidance.**
+
+- Default renderings: *ketivah* "write"; *charut* "engraved" or "graven," and
+  "cut through" only where a text follows Pappenheim's reading; *charushah*
+  "engraved" (Yirmiyahu's tablet of the heart); *chakuk* "inscribed"; *pasal*
+  "hew" or "carve"; *pituach* "emboss" or "engrave in relief"; *resham* "note
+  down," "record."
+- Trap: "engrave" will absorb four of these. Where a passage sets them against
+  each other, or where a derashah turns on the choice (Rabbi Moshe Zacuto's
+  argument that the Torah wrote *charut* and not *charushah*), keep them
+  separate in English and say what the cutting does: through the stone, into
+  the stone, around the letters.
+- Second trap: *pituach* is not engraving. The letters of the *tzitz* stood out
+  from their background (*Gittin* 20a). Rendering *pituchei chosam* as "engraved
+  like a signet" reverses the operation; "in relief, as a signet is cut" holds.
+- *Charut* and *cheirus* are one consonantal text. Where a text quotes *al
+  tikri charus ela cheirus*, print both English words and keep the Hebrew:
+  "graven (*charus*); read it rather as freedom (*cheirus*)."
+- *Chok* is "statute." Pappenheim's derivation from engraving is worth a note
+  where a text leans on it, since on his reading a *chok* is the kind of law
+  whose reason is not obvious and which must therefore be written and fixed.
+- *Pesel* is "graven image" in a pasuk and "idol" in running prose; do not
+  render the verb *pasal* as "sculpt," which is too artistic for Shemos 34:1.
 
 
 ### time
@@ -3469,51 +9363,272 @@ The siddur's list (end of Pesukei DeZimrah on Shabbos and Yom Tov, the Haggadah,
 
 *Reishis* is the **beginning** that is also the **foremost**: a starting point that carries importance in its own right. How absolute that starting point is depends on whom you follow: for Malbim it need not be part of a counted sequence at all, while the Vilna Gaon has *reishis* mean the first of a series without denying that something preceded the series. *Rishon* is **first** in a counted series, one of several. *Techilah* is the **onset**, marking (on Malbim's account) that a thing did not exist before, without tying itself to what follows. *Kedem* is **before**, and in space **east**. *Reishis* is valued, not merely ordinal, and Rashi's opening comment and the Netziv's *terumah* reading both depend on that importance.
 
+**Rendering guidance.**
+
+- ראשית: "the beginning," but where the source is leaning on its worth, "the
+  foremost" or "the first and finest." In *reishis chochmah* keep "the beginning
+  of wisdom" and carry the importance in a note.
+- ראשון: "first." תחילה: "at the outset," "at first," "the onset." לכתחילה stays
+  *lechatchilah*.
+- קדם temporal: "before," "of old," "antiquity." Spatial: "east."
+- Trap: English "first" and "beginning" between them absorb *reishis*, *rishon*
+  and *techilah*. Where two of them stand in one pasuk (Yeshayahu 1:26,
+  *rishonah* and *techilah* in consecutive clauses), you must split them, or the
+  Vilna Gaon's whole reading disappears: "as at first" for the one and "as at the
+  very outset" for the other.
+- Second trap: ראש is head, chief, tally, poison, and a personal name (a son of
+  Binyamin, Bereishis 46:21). Check which before reaching for "head."
+- Where *reishis* is a tithe term (*terumah*, *reishis hagez*, *challah*), it is
+  the portion itself, "the first of," not "the beginning."
+
 **בושש / איחור / התמהמה / בשש / בושה** — delay | boshesh, bosheish, bosh, ichur, icher, acheir, achar, hitmahmah | reviewed | [delay-boshesh-ichur-hismahmeah.md](entries/delay-boshesh-ichur-hismahmeah.md)
 
 *Ichur* is the neutral word: **being late**, simply past the appointed time. *Boshesh* is **long overdue**, a delay so far past the hour that those waiting give up, and the word carries the sting of *bushah*, shame. *Hismahmeah* is **tarrying** or **dawdling**, going slower than one should, and Rabbi Shlomo Pappenheim reads it as the one delay that can be right. Shemos 32:1 says *boshesh*, not *ichur*.
+
+**Rendering guidance.**
+
+- Shemos 32:1: "long overdue," "so long in coming," or "held up." Not "was
+  late" or "delayed," which are *ichur* and lose the very anomaly the Midrash
+  and the Rishonim are reading.
+- Trap: English "delay" absorbs all three. Where a passage sets them against
+  each other, use "late" for *ichur*, "long overdue" for *boshesh*, and
+  "tarried" or "lingered" for *hismahmeah*, and hold the assignment.
+- Bereishis 19:16 and Shmuel II 15:28: "he tarried" or "he lingered." Do not
+  use "delayed," which reads as an outside cause; the point is that the man
+  himself was slow.
+- Where a piece quotes Rabbi Shlomo Pappenheim's scheme, keep the three-way
+  valence visible in the English: neutral, blameworthy, and commendable. Where
+  it quotes Mecklenburg's citation of Wessely instead, the valences of *ichur*
+  and *boshesh* swap; do not blend the two readings in one paragraph.
+- *Bushah* is "shame," not "embarrassment"; see the *bushah*
+  cluster entry.
 
 **עולם / נצח / סלה / ועד / עד** — forever | olam, leolam, le'olam, netzach, netzah, selah, sela, vaed | reviewed | [forever-olam-netzach-selah-vaed.md](entries/forever-olam-netzach-selah-vaed.md)
 
 On the Maharsha's reading of Eruvin 54a, *olam* is a very long but bounded span: **for all time**, and for the Hebrew bondsman "until the Yovel," not literally forever; *netzach*, *selah*, and *va'ed* are the truly unbounded words: **forever**, **everlasting**, **for all eternity**. That reading is not the only one: Ibn Saruk and Rabbi Yosef Kimchi treat all four as flat synonyms, and Rabbi Avraham ben Ezriel of Vienna limits the Gemara's finding to the verses where these words stand beside *olam*. Rashi to Shemos 21:6 caps *le'olam* at the fifty-year Yovel cycle, and the Maharsha builds on that. For the Maharsha, when *olam* stands beside one of the other three, the second word is doing work.
 
+**Rendering guidance.**
+
+- *Le'olam* in a *din*: render by the actual span ("for as long as he lives,"
+  "until the Yovel") or write "forever" and gloss it, since Rashi's cap is the
+  standard reading. Never let it stand as bare "forever" where the halachah
+  turns on the limit.
+- The triple in the berachah said just before Shema in the morning, נצח סלה ועד
+  ("Your mercy and Your kindness shall not forsake us"): English "forever"
+  will swallow all three. Wertheimer's grid gives the way out: "unceasingly,
+  continually, for all eternity." That the words differ is precisely the dispute:
+  Rabbi Avraham ben Natan HaYarchi and Abudraham held the phrase redundant and
+  would say only *va'ed*; Rabbi Yitzchak Abuhab kept all three, the piling-up
+  being the point.
+- *Selah* in Tehillim: leave it as *selah*. Choosing "forever" (the Gemara) or a
+  pause marker (Radak, Malbim) hides a real *machlokes*, and no English word
+  holds both.
+- Trap: "eternal" absorbs *olam* and *netzach* alike. Reserve it for *netzach*
+  and give *olam* a phrase with time in it ("for all time," "for generations").
+
 **תיכף / מיד / לאלתר / אותיום / על אתר** — immediately | teikef, tekef, techef, miyad, mi'yad, miyyad, lealter, le'alter | reviewed | [immediately-teikef-miyad-lealter-otyom.md](entries/immediately-teikef-miyad-lealter-otyom.md)
 
 All four are Rabbinic Hebrew, none of them in Tanach, and all four mean "immediately." *Teikef* is **immediately after**, one thing hard on the heels of another (it also means physically pressed close together). *Miyad* is **straightaway**, literally "from hand," which suggests the readiness of what is already in your hand. *Le'alter* is **on the spot**, which some commentators explain as a contraction of *al atar*. *Otyom* is a technical Mishnaic term; Rav Hai Gaon, the *Aruch*, Rashi and Rashba all hold it is a Greek loanword, and the Ancient Greek εὐθέως, *eutheos*, means "immediately."
+
+**Rendering guidance.**
+
+- The doubled *teikef umiyad* (as in *teikef umiyad l'geulah*) is not
+  redundancy for its own sake. Render it as an intensifier, "at once and without
+  delay," rather than "immediately and immediately."
+- *Miyad* on its own: "straightaway" or "at once." Keep "immediately" in reserve
+  as the neutral fallback so it does not absorb every member of the set.
+- *Le'alter*: "on the spot" preserves the *al atar* sense that Pick-Berlin and
+  Emden give; "forthwith" is the register-neutral alternative in a halachic text.
+- *Otyom*: transliterate and gloss, since the word's very identity is disputed.
+  Translating it flat as "immediately" hides the machlokes between Ricci's
+  notarikon and the Geonic-Rishonic reading of a Greek loanword.
+- Trap: English has one workhorse, "immediately," and it will swallow *teikef*,
+  *miyad* and *le'alter* alike. Where a passage lists them, or derives something
+  from which one the Mishnah chose, spread them across "immediately after," "at
+  once," and "on the spot."
 
 **חדש / ירח / ירח** — month | chodesh, chadash, chiddush, rosh chodesh, yerach, yeirach, yareach, yerachim | reviewed | [month-chodesh-yerach.md](entries/month-chodesh-yerach.md)
 
 Both words come out **month** in English, but they name different things. *Chodesh* is properly the **new moon**, the month's beginning, from *chadash*, "new"; "month" is a secondary, borrowed sense (Malbim, Rav Hirsch). *Yerach* Rabbi Klein takes, as a suggestion and not a ruling, to be the month as a full span of days, kin to *yareach*, the moon; Malbim himself reads it as simply a thirty-day period. Where a pasuk uses *chodesh* in a place that calls for *Rosh Chodesh*, it is the new moon, not the month. Practically: by custom a *kesubah* says *chodesh* and a *get* says *yerach* (Levush), so the two are not interchangeable even in a document.
 
+**Rendering guidance.**
+
+- Trap: English "month" absorbs both. Where the passage turns on the word,
+  render *chodesh* "new moon" and *yerach* "month," or gloss the second as
+  "lunar month."
+- Bamidbar 28:14, *olas chodesh b'chodsho*: "the burnt-offering of each new
+  moon in its month" keeps both senses of the same word visible.
+- In a *get* or *kesubah* discussion, do not normalize the two to one English
+  word; the Levush's whole point is the choice of term.
+- *Yareach* is always "moon," never "month," even where the month is what is
+  being counted.
+- Yeshayahu 1:13, *chodesh v'shabbos*, is "new moon and Shabbos"; the pasuk
+  pairs two days, not a month with a day.
+
 **שחר / בוקר / צפרא / קריצתא / שחרות / שחור** — morning | shachar, shakhar, shacharis, shacharit, boker, boqer, tzafra, tsafra | reviewed | [morning-shachar-boker-tzafra.md](entries/morning-shachar-boker-tzafra.md)
 
 *Shachar* is **dawn** or **daybreak**, the first light breaking the night before the sun is up. *Boker* is **morning**, beginning at *haneitz hachamah* and running on into the day. *Shachar* is a point; *boker* is a stretch, and *shachar* comes first. In Tanach *shachar* in the sense of morning appears some twenty times, against more than 200 for *boker*. In Aramaic, Onkelos renders both as *tzafra*, but in Iyov, Mishlei and Tehillim the Targum separates them: *boker* is *tzafra* and *shachar* is *kritzuta*. Both Hebrew roots also carry the sense of seeking out and discerning, which is why *shachar* and *boker* can each mean "search."
+
+**Rendering guidance.**
+
+- Bereishis 32:27, כי עלה השחר: "for dawn has broken," not "for morning has
+  come." The angel's release turns on first light, before sunrise.
+- *Shacharis* stays *Shacharis*. Do not translate the tefillah's name as "morning
+  prayers" in a context that is distinguishing *shachar* from *boker*.
+- *Boker* in a halachic or narrative pasuk: "morning," and let it hold a span. If
+  the passage is about how early someone rose, Wertheimer's own hesitation over
+  Bereishis 22:3 is worth a note rather than a confident rendering.
+- Trap: English "morning" absorbs both words. Keep "dawn" or "daybreak" for
+  *shachar* and "morning" for *boker*; where they stand together, the ascending
+  order is dawn, then morning.
+- Second trap: the same two roots mean "seek out." *Shocher tov* is not about
+  morning, and *bikores* is not about cattle. Let the context, not the root,
+  choose; and where a derashah plays on both senses at once (Ibn Ezra to
+  Tehillim 63:2), say so in a note rather than forcing one English word to do
+  both jobs.
 
 **עתה / נא / עכשיו / כען / כדון / השתא / האידנא / עת / עידן** — now | atah, ata, attah, na, achshav, achshov, achshaiv, kean | reviewed | [now-atah-na-achshav.md](entries/now-atah-na-achshav.md)
 
 *Atah* is the ordinary biblical **now**, over four hundred times, and it carries *eis*, time, in its own letters. *Na* also means **now**, and only secondarily "please" or "raw." *Achshav* is **now** in the language of Chazal and in Modern Hebrew, and never occurs in Tanach. In Aramaic, *ke'an* is the biblical form and the Targum's regular rendering of both *atah* and *na*; *ke'don*, *hashta*, and *ha'idna* are its companions outside Tanach.
 
+**Rendering guidance.**
+
+- *Atah* in a pasuk: "now." Where it opens a clause after an argument (*ve'atah*),
+  "and now" is right and should not be upgraded to "therefore," which decides the
+  logic for the reader.
+- *Na*: "now" where the pasuk is temporal, "please" only where the context is a
+  request. If a source is reading the temporal sense into a place usually taken
+  as "please," keep "now" and note the usual rendering.
+- *Hashta* in the Haggadah: "now." Where an edition prints *ha shaata* as two
+  words, the English is unchanged; the dispute is over the text, not the sense.
+- Trap: English "now" absorbs every word on this list. Where a passage sets two
+  of them against each other, keep the Hebrew and gloss it rather than inventing
+  an English contrast; Rabbi Klein does not distinguish the four Aramaic words
+  from one another in sense, only in etymology.
+- Second trap: never render a pasuk's *atah* with *achshav* in a Hebrew
+  paraphrase, or a mishnah's *achshav* with *atah*. The stratum is itself
+  information.
+
 **זקן / שיבה / ישיש / קשיש / ישן / עתיק / ותיק** — old age | zaken, zakein, seivah, seiva, sevah, yashish, kashish, yashan | reviewed | [old-zaken-seivah-yashish.md](entries/old-zaken-seivah-yashish.md)
 
 The three age words run in ascending order: *zaken* is **an elder** (sixty), *seivah* is **old age** proper (seventy), *yashish* is **the aged**, older still. *Yashan* is **old** of plants and produce, not of people ("aged," "last year's"). *Atik* is **ancient**, old by remoteness in time. *Vatik*, on the explanation Rabbi Reuven Chaim Klein judges more plausible (that of Rabbi Ernest Klein), is not an age word at all but means **veteran** or **senior**, of standing and reliability, not "old."
+
+**Rendering guidance.**
+
+- Trap: "old" absorbs *zaken*, *seivah*, *yashish*, *yashan*, and *atik* at
+  once. Where a passage counts stages or builds a series, keep them apart:
+  "elder ... old age ... the aged."
+- Where זקן and שיבה stand together, render them as an ascent, not as a synonym
+  pair; on Bedersi's reading the second is the later stage.
+- *Yashan* of produce is "aged" or "last year's." Never use it of a person;
+  Shapira-Frankfurter's whole point is that people take *zaken*.
+- *Vatik* / *vatikin*: "veteran," "senior," "the punctilious." Writing "the old
+  ones" for *vatikin* imports an age the word does not carry.
+- *Atik*: "ancient." Reserve it for remoteness in time; where the root is doing
+  spatial work, translate the movement ("moved on," "was weaned").
 
 **זו / זיו / אייר / אויר** — second month | ziv, ziw, iyar, iyyar, avir, aveir, zivsanei olam, zivtanei olam | reviewed | [second-month-ziv-iyar.md](entries/second-month-ziv-iyar.md)
 
 The Torah numbers the months rather than naming them, as it does not name the days of the week either (Ibn Ezra to Devarim 16:1), so the second month is "the second month." Where Tanach does name it, it is **Ziv** (Melachim I 6:1, 6:37), a word meaning **radiance**, and specifically radiance as something given off rather than the source itself (Rabbi Moshe Shapiro). **Iyar** is the name in use since Bavel and appears nowhere in Tanach. How to spell Iyar, with one yud or two, is an unsettled halachic question in a *get*, and the poskim cited conclude that one should optimally write two.
 
+**Rendering guidance.**
+
+- Render the Biblical name as "Ziv," with "the second month" in apposition where
+  the pasuk itself supplies it, and keep "radiance" for the common noun.
+- Trap: English "splendor" or "glory" will absorb *ziv* into *hod* and *kavod*.
+  On Rabbi Moshe Shapiro's reading *ziv* is specifically the emanation from a
+  source, so "radiance" is the safer word; reserve "glory" for *kavod*, which is
+  what *ziv* is the radiance of in Yeshayahu 6:3.
+- In a *get*, the month is written, not translated, and the spelling is the
+  poskim's question, not the translator's. Two yuds is the ruling; note the
+  minhag of some batei din to avoid Iyar altogether.
+- Do not write "Iyar" into a translation of a pasuk that says "the second month";
+  the identification belongs in a note, since the name is post-Biblical.
+- Where a derashah turns on the letters of Iyar, give the Hebrew, since no
+  English can carry an acronym on a Hebrew name.
+
 **שבע / שביעית / שבוע / שבת / שבועה / שבויה** — seven | sheva, sheviis, sheviit, shviis, shavua, shavuah, shavuos, shavuot | reviewed | [seven-sheva-shavua-shevuah.md](entries/seven-sheva-shavua-shevuah.md)
 
 *Sheviis*, "the seventh," is the Sabbatical year, and it is the Mishnah's word for it. *Shavua* is a **week**, but in Daniel, seemingly, and in several mishnayos it is a **seven-year cycle**, so context decides. *Shabbos* is the day, and by synecdoche the **week** it closes (Ramban), and the Sabbatical **year** itself. *Shevuah* is an **oath**, tied to *sheva* by most of the authorities here, though they part on why. *Sheva* is not "seven" where the sources read it as "many" (Rasag to Bereishis 4:24 and Mishlei 24:16).
+
+**Rendering guidance.**
+
+- *Sheviis* and *Shemittah* both name the Sabbatical year; keep whichever the
+  source uses rather than standardizing, since the two words say different things
+  about it (see the *shemittah* entry for the other half of this pair).
+- Trap: English "week" absorbs *shavua* and *shabbos* both, and in Vayikra 23
+  the same English word would then render *shabbos* in two different senses
+  within four pesukim. Follow Onkelos: "the festival day" for the first pair,
+  "weeks" for the second.
+- Second trap: *shavua* in Daniel and in *Sanhedrin* 5:1 is seven years, not
+  seven days. Check what is being counted before writing "week."
+- *Shevuah* is "oath," not "vow"; *neder* is the vow (see the *neder*/*shevuah*
+  entry). Where a derashah turns on *shevuah* and *sheva* together, keep the
+  Hebrew, since no English pair carries it. Where *sheva* or *shivasayim* means
+  "many," say "many"; writing "seven" imports an arithmetic the sources deny.
 
 **פתע / פתאום / פתי / פתוי** — suddenly | peta, feta, pesa, pitom, pitomi, pisom, peti, pesi | reviewed | [suddenly-peta-pitom.md](entries/suddenly-peta-pitom.md)
 
 Both mean **suddenly**, but seem to refer to different degrees of intentionality in the one who did or experienced the sudden event. *Peta* is the rarer word (seven times in Tanach), and the Gemara (Kerisus 9a) holds that it means *shogeg* only; *pitom* (twenty-five times) is for the Gemara the more ambiguous word, reaching *shogeg*, *oness* and even *meizid*. Not all agree: in the Sifrei Rabbi Yoshiya makes *pitom* *oness* and Rabbi Yonatan reverses the pair; Rashi's reading of *peta* as immediacy seems to fit *oness*, and Bartenuro reaches *oness* by another route; Rav Hirsch makes *peta* the subjective surprise and *pitom* the objective one, and Rabbi Pappenheim the exact opposite. Most sources point to a marked difference, though Ibn Ezra seems to say the two are one and the same. Where they stand together, as in Bamidbar 6:9, the Gemara reads them as a halachic pair.
 
+**Rendering guidance.**
+
+- The couplet פתע פתאום (Bamidbar 6:9): render it as two words. "With sudden
+  suddenness" is stiff but honest; "suddenly, all at once" reads better and
+  still keeps two terms. A single "suddenly" destroys the drashah.
+- Trap: English "suddenly" covers both words completely, so any passage that
+  distinguishes them needs the difference carried in an added phrase, not in
+  the adverb, and the phrase has to follow the view in play: for the Gemara and
+  Rav Hirsch *peta* is the surprise one could have foreseen ("unwarily"), for
+  Rashi's immediacy it is "too quickly to guard against"; *pitom* for Rav
+  Hirsch is "with no warning at all."
+- Where a passage is quoting Kerisus 9a, keep *shogeg*, *oness* and *meizid* in
+  transliteration; "by mistake," "by accident" and "on purpose" are serviceable
+  glosses but blur the halachic categories if used alone.
+- פתי in Mishlei: "simpleton" or "simple-minded fool" (Rabbi Klein renders
+  Mishlei 14:15 and 22:3 with "fool"); on Rav Hirsch's reading the word is
+  about being open and easily swayed.
+
 **בול / מרחשון / חשון / מבול / גשם** — the eighth month | bul, marcheshvan, mar cheshvan, cheshvan, marachshwan, shvan, mabul, geshem | reviewed | [month-bul-marcheshvan.md](entries/month-bul-marcheshvan.md)
 
 **Bul** and **Marcheshvan** name the same month; in most of Tanach it is simply *chodesh hashemini*, **the eighth month**, counted from Nissan. Bul is the older, pre-exilic name (Melachim I 6:38); Marcheshvan never appears in Tanach but does appear in the Mishnah. Whether the *mar* of Marcheshvan is even a separate element is disputed. Alongside them, *mabul* is **flood** and *geshem* **rain**; for Rabbi Moshe Shapiro they are the same waters, the difference lying in whether the people deserve blessing.
 
+**Rendering guidance.**
+
+- Render the month names by transliteration: **Bul**, **Marcheshvan**, **Cheshvan**. Where
+  Tanach says *chodesh hashemini*, translate it, **the eighth month**.
+- The trap is "the eighth month" absorbing the name Bul. Melachim I 6:38 has both in one
+  verse, *b'yerach Bul hu hachodesh hashemini*, and writing "the eighth month" twice erases
+  the pasuk's own gloss.
+- Never render Marcheshvan as "bitter Cheshvan": that is one disputed reading of one
+  disputed element, and poskim are found on both sides, with no ruling between them.
+- *Mabul* is **the Flood** in Bereishis and **flood** elsewhere; *geshem* is **rain**. Do
+  not let one English word cover both: they are the same water under two verdicts.
+
 **עת / זמן / מועד / שעה / עתיד / מזומן** — time | eit, eis, et, es, ittim, itim, zman, zeman | reviewed | [time-eit-zman-moed-shaah.md](entries/time-eit-zman-moed-shaah.md)
 
 *Zman* is **time** in general, the span or flow (Wertheimer: the most general of the three; Rav Hirsch: time in general; Maharal: the flow of time as an existing element of creation). *Eit* is **a time**, a point or portion within the span (anonymous "others": a point; Rav Hirsch: a portion); for Malbim it is a natural unit of time that nature itself shows, "rain in its *eit*." *Moed* is **appointed time**, the most specific preset point (Wertheimer), set by man or by Hashem, hence the *moadim* (Malbim). The scheme is not agreed: Malbim puts *zman* with *moed* as time set by man, and Rabbi Yaakov Emden makes *moed* the beginning of an appointed time, *zman* its whole duration and *eit* any point within it, while conceding that in practical usage all these words may be used interchangeably. *Shaah* beside *eit* is **hour**, the hours of the day against the seasons of the year (Rama). For the Rama, בכל עת ובכל שעה is not a redundancy; he rejects those who say only *bechol eit* and reads two measures, "at every season and every hour," though Rabbi Yaakov Emden takes issue with his limiting *eit* to the seasons.
+
+**Rendering guidance.**
+
+- בכל עת ובכל שעה: "at every season and at every hour" (Rama), or "at every
+  time and every hour," which does not commit to the Rama's reading of *eit*
+  that Emden contests. Keep two nouns; do not write "always."
+- עת alone: "a time," "the time [for]," "season" (עת לכל חפץ, "a time for
+  every purpose"); בעתו "in its season," "at its proper time."
+- זמן alone: "time" (the span, the flow); זמן קבוע "a set time"; בזמן הזה "in
+  this time / at this season" (the berachah: "at this season" is customary).
+- מועד: "appointed time," "set time"; the festivals are "the *moadim*" or
+  "the appointed festivals," never bare "holidays."
+- שעה beside עת: "hour." Standalone שעה in the "moment" sense: unsettled here;
+  see above.
+- Trap: English "time" absorbs עת, זמן, and מועד, and English "moment" would
+  absorb עת and שעה. Where two stand together (עת וזמן, זמן ומועד), use the
+  Wertheimer ladder: general "time," then "a time," then "appointed time."
+  Emden's concession (the three interchange in practical usage) means the
+  ladder is a tool for doubled phrases, not a claim that every occurrence is
+  technical.
+- When the passage turns on preparation (Rabbi Moshe Shapiro, Pappenheim),
+  a gloss such as "time (*zman*, the time made ready)" may be earned; do not
+  build the etymology into the running English.
 

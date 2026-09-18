@@ -89,6 +89,9 @@ for p in sorted(ENTRIES.glob("*.md")):
         "domain": fm.get("domain", "other"),
         "status": fm.get("status", "draft"),
         "bottom": one_paragraph(section(t, "Bottom line")),
+        # Whole, not flowed into one line: it is the one place the guide
+        # tells anyone how to translate, and it carries lists.
+        "rendering": section(t, "Rendering guidance"),
         "words": word_block(t),
     })
 
@@ -113,6 +116,10 @@ out = ["# Lexicon index", "",
        "distinction attributed to the authority who makes it, and disagreements between",
        "authorities laid out rather than flattened. Part 2 below gives each entry's full",
        "ruling so you can often decide without opening anything.", "",
+       "Each entry in Part 2 carries its *Bottom line* and then its *Rendering guidance*.",
+       "The Bottom line says what the words mean and how the authorities separate them;",
+       "the Rendering guidance is the one place in this guide that says how to put them",
+       "into English, and it is not on the website, only here.", "",
        "---", "",
        "## Part 1: Hebrew headwords (alef-bet order)", "",
        "Where a row names an English rendering, that rendering is that word's own.",
@@ -142,6 +149,8 @@ for e in sorted(entries, key=lambda x: (x["domain"], x["cluster"])):
     out += [f"**{heb}** — {e['cluster']} | {tr} | {e['status']} | [{e['file']}](entries/{e['file']})", ""]
     if e["bottom"]:
         out += [e["bottom"], ""]
+    if e["rendering"]:
+        out += ["**Rendering guidance.**", "", e["rendering"], ""]
 
 (ROOT / "INDEX.md").write_text("\n".join(out) + "\n", encoding="utf-8")
 print(f"INDEX.md: {len(entries)} entries, {len(heads)} Hebrew headwords "
