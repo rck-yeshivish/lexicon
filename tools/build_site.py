@@ -416,6 +416,28 @@ def radak_headword(root):
     return (f'<span class="rootnote">{lead} <bdi lang="he">{hw}</bdi></span>')
 
 
+def radak_pair(root):
+    """His entry beside its English rather than under it: the summary on the
+    left, his Hebrew on the right. Where the same letters carry two of his
+    roots, each gets its own pair. Narrow screens stack them, since two columns
+    of this at phone width would leave four words to a line."""
+    e = SHORASHIM["roots"].get(root_key(root)) or {}
+    parts = [e] + e.get("more", []) if e else []
+    out = []
+    for p in parts:
+        en = gloss_block(p, heading=False)
+        body = citable(p.get("html") or html.escape(p.get("text", "")))
+        if p.get("found"):
+            body = body.replace(p["found"], f'<mark>{p["found"]}</mark>', 1)
+        head = (f'<p class="rad-hw" dir="ltr" lang="en">Radak’s root '
+                f'<bdi lang="he">{html.escape(p["hw"].replace("שֹ", "שׂ"))}</bdi></p>'
+                if len(parts) > 1 else "")
+        out.append(f'<div class="rad-pair{"" if en else " alone"}">'
+                   f'{f"<div class=\"rad-pair-en\">{en}</div>" if en else ""}'
+                   f'<div class="rad-text" dir="rtl" lang="he">{head}<p>{body}</p></div></div>')
+    return "".join(out)
+
+
 def radak_html(root, label=True):
     """The same entry with the edition's markup: the root's form bold in each
     pasuk, each citation in a .ref span. tools/fetch_shorashim.py has already
@@ -473,10 +495,11 @@ def gloss(part, field):
     return (GLOSS["glosses"].get(part.get("hw", "")) or {}).get(field, "")
 
 
-def gloss_block(part):
-    """The English above his Hebrew in the panel, labelled as ours, not his.
-    Each part of "more" is one thing his entry holds, under its own heading, so
-    a long entry reads as a few short answers rather than a paragraph."""
+def gloss_block(part, heading=True):
+    """The English for one of his entries, labelled as ours and not his. Each
+    part of "more" is one thing his entry holds, under its own heading, so a
+    long entry reads as a few short answers rather than a paragraph. The entry
+    page names the whole section, so it asks for no heading here."""
     sense = gloss(part, "sense")
     if not sense:
         return ""
@@ -484,8 +507,8 @@ def gloss_block(part):
         f'<div class="rad-en-p"><p class="rad-en-t">{html.escape(m["h"])}</p>'
         f'<p class="rad-en-b">{html.escape(m["t"])}</p></div>'
         for m in gloss(part, "more") or [])
-    return (f'<div class="rad-en" dir="ltr" lang="en">'
-            f'<p class="rad-en-h">In English, our summary of his entry</p>'
+    head = '<p class="rad-en-h">In English, our summary of his entry</p>' if heading else ""
+    return (f'<div class="rad-en" dir="ltr" lang="en">{head}'
             f'<p class="rad-en-s">{html.escape(sense)}</p>{more}</div>')
 
 
@@ -932,8 +955,7 @@ def radak_section(e):
     # that root's English had been written yet.
     blocks = "".join(
         f'<h4><a href="../roots.html#r-{root_key(r)}" dir="rtl" lang="he">{html.escape(r)}</a>'
-        f'{radak_headword(r)}</h4>'
-        f'<div class="rad-text" dir="rtl" lang="he">{radak_html(r, label=False)}</div>'
+        f'{radak_headword(r)}</h4>{radak_pair(r)}'
         for r in roots)
     one = len(roots) == 1
     return (f'<details class="radak" id="s-radak"><summary>'
@@ -1695,6 +1717,23 @@ p.rad-hw bdi{font-family:var(--heb);font-size:17px;color:var(--accent)}
 .radak h4 .rootnote{font:400 13px/1.4 var(--ui);color:var(--faint)}
 .radak h4 .rootnote bdi{font-family:var(--heb);font-size:15px}
 .rad-text{margin:0 0 0 auto}
+/* On the entry page his Hebrew sits beside its English rather than under it,
+   and both run smaller and tighter than on the roots page: the section is
+   background, and two columns let a reader put the one against the other. */
+.rad-pair{display:grid;gap:4px 26px;margin:0 0 6px}
+.radak .rad-pair .rad-text{font-size:17px;line-height:1.75;max-width:none;margin:0}
+.radak .rad-pair .rad-text p{max-width:none;margin:0 0 8px}
+.rad-pair-en .rad-en{border:0;padding:0;margin:0;max-width:none}
+.rad-pair-en .rad-en-s{font:400 14.5px/1.55 var(--ui);color:var(--ink)}
+.rad-pair-en .rad-en-p{margin:9px 0 0}
+.rad-pair-en .rad-en-t{font-size:11.5px}
+.rad-pair-en .rad-en-b{font:400 13.5px/1.6 var(--ui)}
+.radak .rad-pair .rad-pasuk{margin:8px 0}
+.radak .rad-pair .rad-pasuk-t{font-size:16px;line-height:1.6}
+@media (min-width:900px){
+  .rad-pair{grid-template-columns:minmax(0,1fr) minmax(0,1.05fr);align-items:start}
+  .rad-pair.alone{grid-template-columns:minmax(0,1fr)}
+}
 @media (max-width:760px){.rows.roots .r{grid-template-columns:90px minmax(0,1fr) auto;row-gap:4px;gap:10px}
   .rows.roots .rexp{grid-column:3;grid-row:1}
   .rhead{display:none}
