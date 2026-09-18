@@ -14590,6 +14590,414 @@
   },
   "בוץ": {
    "sense": "Butz is linen: וְתַכְרִיךְ בּוּץ (Esther 8:15), a robe of butz; and the Targum renders מִֽכְנְסֵי־בַד (Vayikra 6:3), linen breeches, with this word."
+  },
+  "זמן": {
+   "sense": "An appointed time, a span fixed in advance.",
+   "more": [
+    {
+     "h": "The times he brings",
+     "t": "וָאֶתְּנָה לוֹ זְמָן (Nechemiah 2:6), and I set him a time; לַכֹּל זְמָן וְעֵת (Koheles 3:1), everything has its time and its season; and יְמֵי הַפֻּרִים הָאֵלֶּה בִּזְמַנֵּיהֶם (Esther 9:31), these days of Purim at their times, which he glosses as year by year."
+    },
+    {
+     "h": "Times set beforehand",
+     "t": "לְעִתִּים מְזֻמָּנִים (Ezra 10:14) and בְּעִתִּים מְזֻמָּנוֹת (Nechemiah 13:31), at times appointed; of these he says only that their sense is known."
+    }
+   ]
+  },
+  "יעד": {
+   "sense": "To appoint or set a time, and to designate; the noun מוֹעֵד is both the appointed time and the place where people meet at it.",
+   "more": [
+    {
+     "h": "Designating",
+     "t": "מִן־הַמּוֹעֵד אֲשֶׁר יְעָדוֹ (Shmuel II 20:5), the set time he had appointed him, and וְאִם־לִבְנוֹ יִיעָדֶנָּה (Shemos 21:9), if he designates her for his son."
+    },
+    {
+     "h": "Meeting and being summoned",
+     "t": "וְנוֹעַדְתִּי לְךָ שָׁם (Shemos 25:22), I will meet with you there, and כִּי־הִנֵּה הַמְּלָכִים נוֹעֲדוּ (Tehillim 48:5), for behold the kings had assembled. He puts the whole of it under summoning."
+    },
+    {
+     "h": "Against Rabbi Yehudah",
+     "t": "Rabbi Yehudah set יוֹעִידֶנִּי apart to a sense of its own; Radak says there is no need, since these too are summoning. כִּי מִי כָמוֹנִי וּמִי יֹעִידֶנִּי (Yirmiyahu 49:19) he reads as who will summon for Me one like Me, and וְאִם־לְמִשְׁפָּט מִי יוֹעִידֵנִי (Iyov 9:19) as who will summon me to judgment with Hashem."
+    },
+    {
+     "h": "The appointed time",
+     "t": "בְּמֹעֵד שְׁנַת הַשְּׁמִטָּה (Devarim 31:10), at the set time of the shemittah year; מוֹעֵד וְשַׁבָּת (Eichah 2:6), festival and Shabbos; and לַשַּׁבָּתוֹת וְלֶחֳדָשִׁים וְלַמּוֹעֲדוֹת (Divrei HaYamim II 8:13), which he says all mean a time, times."
+    },
+    {
+     "h": "The hour of the korban",
+     "t": "מֵהַבֹּקֶר וְעַד־עֵת מוֹעֵד (Shmuel II 24:15) he takes as the time of the offering, which he puts at four hours, and brings Targum Yonasan, who renders it from the slaughtering of the tamid until it is brought up."
+    },
+    {
+     "h": "The place of meeting",
+     "t": "A place where people gather at a known time is called a מוֹעֵד. שָׁאֲגוּ צֹרְרֶיךָ בְּקֶרֶב מוֹעֲדֶךָ (Tehillim 74:4), your foes roared in the midst of your meeting place, he takes of the Beis HaMikdash, where all Yisrael would meet, and so שָׂרְפוּ כָל־מוֹעֲדֵי־אֵל (Tehillim 74:8), they burned all the meeting places of Hashem. קְרִאֵי מוֹעֵד (Bamidbar 16:2) are those called when the great men met on some matter, since they were men of standing."
+    },
+    {
+     "h": "Why the Ohel Moed",
+     "t": "The אהל מועד is so called because Yisrael would gather there, and further because Hashem met with Moshe there, as וְנוֹעַדְתִּי לְךָ שָׁם (Shemos 25:22) says."
+    },
+    {
+     "h": "Other places so named",
+     "t": "וְאֵשֵׁב בְּהַר־מוֹעֵד בְּיַרְכְּתֵי צָפוֹן (Yeshayahu 14:13), I will sit on the mount of meeting in the far north, is a place where all the kings gather to him, which he says is Bavel; וּבֵית מוֹעֵד לְכָל־חָי (Iyov 30:23), a meeting house for all the living, is the grave, where every living thing is appointed to come at its end; and עָרֵי הַמּוּעָדָה (Yehoshua 20:9) are the cities where anyone who killed by accident was to gather."
+    },
+    {
+     "h": "The congregation",
+     "t": "The assembly is called an עֵדָה, as קְרִיאֵי הָעֵדָה (Bamidbar 26:9), those called of the congregation, because they are summoned together in their gathering; and so a swarm, וְהִנֵּה עֲדַת דְּבוֹרִים (Shoftim 14:8), a company of bees, gathered as though each had been summoned to the next."
+    }
+   ]
+  },
+  "שׁעה": {
+   "sense": "To turn toward, and so to regard or rely on; in other senses, to be alarmed, and to leave off.",
+   "more": [
+    {
+     "h": "Turning toward",
+     "t": "וְאֶל־קַיִן וְאֶל־מִנְחָתוֹ לֹא שָׁעָה (Bereishis 4:5), He did not turn to Kayin and his offering, while of Hevel, אֶל־הֶבֶל וְאֶל־מִנְחָתוֹ (Bereishis 4:4), He did turn. He glosses both as turning, in the way of אַל־תֵּפֶן אֶל־מִנְחָתָם (Bamidbar 16:15), do not turn to their offering."
+    },
+    {
+     "h": "Turning right and left",
+     "t": "יִשְׁעוּ וְאֵין מֹשִׁיעַ (Shmuel II 22:42) he reads as turning this way and that with none to save; or it is like יְשַׁוְּעוּ (Tehillim 18:42), they cry out, so that שׁוּעַ and שָׁעָה would be one sense."
+    },
+    {
+     "h": "Relying",
+     "t": "In another sense, יִשְׁעֶה הָאָדָם עַל־עֹשֵׂהוּ (Yeshayahu 17:7), a man will look to his Maker; וְלֹא יִשְׁעֶה אֶל־הַמִּזְבְּחוֹת (Yeshayahu 17:8), he will not look to the altars; וְלֹא שָׁעוּ עַל־קְדוֹשׁ יִשְׂרָאֵל (Yeshayahu 31:1), they did not look to the Holy One of Yisrael; and וְאַל־יִשְׁעוּ בְּדִבְרֵי־שָׁקֶר (Shemos 5:9), let them not look to words of falsehood. He gives the sense as trust, and adds that these may be explained from the first sense too."
+    },
+    {
+     "h": "Alarm",
+     "t": "וְלֹא תִשְׁעֶינָה עֵינֵי רֹאִים (Yeshayahu 32:3), the eyes of those who see will not be dimmed, and אַל־תִּשְׁתָּע כִּי־אֲנִי אֱלֹהֶיךָ (Yeshayahu 41:10), be not dismayed, for I am your God, he gives as alarm and fear. The first he also allows from וְעֵינָיו הָשַׁע (Yeshayahu 6:10), two roots with one sense."
+    },
+    {
+     "h": "Wax, in Bereishis Rabbah",
+     "t": "On אַל־תִּשְׁתָּע Bereishis Rabbah reads, do not be like שעוה, wax, which is the דונג, meaning do not melt like wax before fire. Radak adds that wax is beyond doubt from this root."
+    },
+    {
+     "h": "Leaving off",
+     "t": "שְׁעֵה מֵעָלָיו וְיֶחְדָּל (Iyov 14:6), turn away from him that he may rest, and שְׁעוּ מִנִּי אֲמָרֵר בַּבֶּכִי (Yeshayahu 22:4), leave me be, that I may weep bitterly. His father explains אַל־תִּשְׁתָּע from this sense, do not go slack."
+    },
+    {
+     "h": "Delight, and telling",
+     "t": "וְאֶשְׁעָה בְחֻקֶּיךָ תָמִיד (Tehillim 119:117), I will delight in Your statutes always, he takes with תּוֹרָתְךָ שַׁעֲשֻׁעָי (Tehillim 119:92), Your Torah is my delight, the kamatz standing in for a segol; or as a sense of recounting, from the Targum of וַיְסַפֵּר (Bereishis 37:10), which is וְאִשְׁתָּעֵי. So too וְנִשְׁתָּעָה (Yeshayahu 41:23), let us tell it, where the kamatz again stands where a segol would; but Targum Yonasan renders it as looking, and on that it belongs to the first sense."
+    },
+    {
+     "h": "Filed elsewhere",
+     "t": "וּבְמַיִם לֹא־רֻחַצְתְּ לְמִשְׁעִי (Yechezkel 16:4), you were not washed in water, he gives no sense here, saying he has written it under the root שוע."
+    }
+   ]
+  },
+  "שׁלל": {
+   "sense": "To take spoil, and the spoil taken.",
+   "more": [
+    {
+     "h": "The verb",
+     "t": "וְשָׁלַל שְׁלָלָהּ (Yechezkel 29:19), he will take its spoil; כִּי אַתָּה שַׁלּוֹתָ גּוֹיִם רַבִּים (Chavakuk 2:8), because you plundered many nations; and in the same pasuk יְשָׁלּוּךָ כָּל־יֶתֶר עַמִּים, all the rest of the peoples will plunder you."
+    },
+    {
+     "h": "Led off stripped",
+     "t": "שׁוֹלָל וְעָרוֹם (Michah 1:8), stripped and bare. On מוֹלִיךְ יוֹעֲצִים שׁוֹלָל (Iyov 12:17) he says each of the counsellors is led off so, his counsel availing him nothing; others take שׁוֹלָל as stripped of understanding, like וְשֹׁפְטִים יְהוֹלֵל in the same pasuk, and He makes fools of judges."
+    },
+    {
+     "h": "As though despoiled",
+     "t": "אֶשְׁתּוֹלְלוּ אַבִּירֵי לֵב (Tehillim 76:6), the stout of heart were despoiled, where the alef stands in place of a hei; and וְסָר מֵרָע מִשְׁתּוֹלֵל (Yeshayahu 59:15), which he reads as though they had despoiled the man who turns from evil, so that he is not to be found."
+    },
+    {
+     "h": "The noun",
+     "t": "וְאֶת־הַמַּלְקוֹחַ וְאֶת־הַשָּׁלָל (Bamidbar 31:12), the booty and the spoil, and זֶה שְׁלַל דָּוִד (Shmuel I 30:20), this is David's spoil. וְהָיְתָה לְךָ נַפְשְׁךָ לְשָׁלָל (Yirmiyahu 39:18), your life will be yours as spoil, he glosses as gain, as though you had taken it as plunder."
+    },
+    {
+     "h": "Near to it",
+     "t": "שֹׁל־תָּשֹׁלּוּ לָהּ (Rus 2:16) he brings as close to this sense, meaning let ears fall for her out of the bundles."
+    }
+   ]
+  },
+  "בזז": {
+   "sense": "To plunder, and the plunder taken; he gives it the sense of שלל.",
+   "more": [
+    {
+     "h": "The verb",
+     "t": "וּבָזַז בִּזָּהּ (Yechezkel 29:19), he will plunder its plunder; בָּזְזוּ לָהֶם בְּנֵי יִשְׂרָאֵל (Yehoshua 11:14), Bnei Yisrael plundered for themselves; בַּזּוֹנוּ לָנוּ (Devarim 3:7), we plundered for ourselves; שְׁאֵרִית עַמִּי יְבָזּוּם (Tzefaniah 2:9), the remnant of My people will plunder them; and וּשְׁלָלָם לָבוֹז (Esther 8:11), their spoil to plunder."
+    },
+    {
+     "h": "A form left light",
+     "t": "In וְנָבֹזָה בָהֶם עַד־אוֹר הַבֹּקֶר (Shmuel I 14:36), let us plunder among them until the morning light, the zayin is left without its dagesh, which he says belongs to it by right."
+    },
+    {
+     "h": "Being plundered",
+     "t": "וְהִבּוֹז תִּבּוֹז (Yeshayahu 24:3), it shall surely be plundered, and חֶרֶב אֶל־אוֹצְרֹתֶיהָ וּבֻזָּזוּ (Yirmiyahu 50:37), a sword upon her treasuries, and they were plundered."
+    },
+    {
+     "h": "The noun",
+     "t": "וּבַבִּזָּה לֹא שָׁלְחוּ אֶת־יָדָם (Esther 9:10), they did not put out their hand to the plunder, and without the hei, יֶתֶר הַבָּז (Bamidbar 31:32), the rest of the plunder."
+    }
+   ]
+  },
+  "לקח": {
+   "sense": "To take, in every use of taking; and from it a purchase, booty carried off, and a teaching received.",
+   "more": [
+    {
+     "h": "The plain verb",
+     "t": "וְאֶתְכֶם לָקַח (Devarim 4:20), and you He took. Where the first letter drops, קָח עַל־מַיִם רַבִּים (Yechezkel 17:5), take it to abundant waters, and the kamatz keeps it apart from the command. From how heavily the word is used, both that letter and the kuf's dagesh fall away in most places, as in וְאֶקְחָה פַת־לֶחֶם (Bereishis 18:5), let me fetch a morsel of bread."
+    },
+    {
+     "h": "Taking oneself, taking counsel",
+     "t": "וַיִּקַּח קֹרַח (Bamidbar 16:1) he reads as Korach taking himself along with his fellows, and they took counsel in the matter; so too וַיִּקְחוּ שְׁלֹשִׁים מֵרֵעִים (Shoftim 14:12), thirty companions were taken, and וְאַבְשָׁלֹם לָקַח (Shmuel II 18:18), who took this counsel upon himself. תִּקַּח־לָהּ (Bereishis 38:23) he glosses as let her keep them for herself, and do not go after them again."
+    },
+    {
+     "h": "The passing of tzaddikim",
+     "t": "כִּי־לָקַח אֹתוֹ אֱלֹהִים (Bereishis 5:24), for Hashem took him; כִּי יִקָּחֵנִי סֶלָה (Tehillim 49:16), for He will take me; and וְאַחַר כָּבוֹד תִּקָּחֵנִי (Tehillim 73:24), and afterward You will take me in honour. These he sets apart as said of the death of the righteous."
+    },
+    {
+     "h": "Being taken",
+     "t": "הוּא בַּעֲוֹנוֹ נִלְקָח (Yechezkel 33:6), he is taken for his own sin; וַאֲרוֹן הָאֱלֹהִים נִלְקָחָה (Shmuel I 4:17), the Aron of Hashem was captured; and וְאֵשׁ מִתְלַקַּחַת (Shemos 9:24), fire taking hold of itself."
+    },
+    {
+     "h": "Booty, and its three words",
+     "t": "מַלְקוֹחַ is what is carried off: אֶת־הַשְּׁבִי וְאֶת־הַמַּלְקוֹחַ (Bamidbar 31:12) and וּמַלְקוֹחַ עָרִיץ (Yeshayahu 49:25), the booty of the tyrant. Where the three words stand together he divides them: שבי of people, מלקוח of animals, שלל of clothing and vessels. One comes in place of another all the same: וְחָצִיתָ אֶת־הַמַּלְקוֹחַ (Bamidbar 31:27) is said of man and beast alike, and זֶה שְׁלַל דָּוִד (Shmuel I 30:20) of animals."
+    },
+    {
+     "h": "Buying and selling",
+     "t": "וּמִקַּח־שֹׁחַד (Divrei HaYamim II 19:7), the taking of a bribe; הַמְבִיאִים אֶת־הַמַּקָּחוֹת (Nechemiah 10:32), those who brought in the wares; and in the words of Chazal (Bava Metzia 2a) מקח וממכר, buying and selling. From this he reads לֹקְחֵי חִטִּים (Shmuel II 4:6) as though buyers of wheat, and brings Targum Yonasan, who renders it so; and זָמְמָה שָׂדֶה וַתִּקָּחֵהוּ (Mishlei 31:16), she considered a field and bought it."
+    },
+    {
+     "h": "Tongs, and the palate",
+     "t": "The tongs are called מלקחים because they take hold of a thing: בְּמֶלְקָחַיִם לָקַח מֵעַל הַמִּזְבֵּחַ (Yeshayahu 6:6), with tongs he took from upon the mizbeach, and וּמַלְקָחֶיהָ וּמַחְתֹּתֶיהָ (Shemos 37:23), its tongs and its pans, named in the pair form since they are two. The menorah's tongs served to lift the wicks out of the oil, set them straight and draw them to the mouths of the lamps. וּלְשׁוֹנִי מֻדְבָּק מַלְקוֹחָי (Tehillim 22:16), my tongue cleaves to my palate: what lies above the tongue and beneath it is so called, since they close and take the food in chewing."
+    },
+    {
+     "h": "A teaching taken",
+     "t": "In the sense of knowledge, כִּי לֶקַח טוֹב נָתַתִּי לָכֶם (Mishlei 4:2), for I have given you a good teaching; וְיוֹסֶף לֶקַח (Mishlei 1:5), he will add learning; יַעֲרֹף כַּמָּטָר לִקְחִי (Devarim 32:2), my teaching will fall as the rain; and הִטַּתּוּ בְּרֹב לִקְחָהּ (Mishlei 7:21), she turned him with her much persuading. From this he reads הַלֹּקְחִים לְשׁוֹנָם וַיִּנְאֲמוּ נְאֻם (Yirmiyahu 23:31), who take their tongue and declare a declaration, like לְשׁוֹנָם יַחֲלִיקוּן (Tehillim 5:10), they make their tongue smooth."
+    },
+    {
+     "h": "Against Rabbi Yonah",
+     "t": "Rabbi Yonah read וַיִּקְחוּ הָאֲנָשִׁים מִצֵּידָם (Yehoshua 9:14) from this sense of learning, that they learned and knew from the dryness of the provision that the truth was with them. Radak holds there is no need to take it out of the plain sense of taking: the men of Yisrael took of their provision and ate, to confirm the covenant with them. So too וַיִּקַּח וַיִּתֵּן אֶת־הָעֵדֻת (Shemos 40:20) is as it sounds, he took the luchos of the covenant and put them in the Aron."
+    }
+   ]
+  },
+  "שׁבה": {
+   "sense": "To take captive, and the captives taken.",
+   "more": [
+    {
+     "h": "The verb",
+     "t": "אֲשֶׁר־שָׁבָה יִשְׁמָעֵאל (Yirmiyahu 41:14), whom Yishmael had taken captive; וַיִּשְׁבְּ מִמֶּנּוּ שֶׁבִי (Bamidbar 21:2 in his edition), he took captives from him; וְשָׁבִיתָ שִׁבְיוֹ (Devarim 21:10), and you take his captives; and שֹׁבִים לְשֹׁבֵיהֶם (Yeshayahu 14:2), taking their captors captive."
+    },
+    {
+     "h": "Taken captive",
+     "t": "כִּי נִשְׁבָּה אָחִיו (Bereishis 14:14), for his brother had been taken captive, and וּנְשֵׁיהֶם וּבְנֵיהֶם וּבְנֹתֵיהֶם נִשְׁבּוּ, their wives and sons and daughters had been taken captive. Of these he says only that their sense is known."
+    },
+    {
+     "h": "The captive woman",
+     "t": "שְׁבִיָּה בַּת־צִיּוֹן (Yeshayahu 52:2), captive daughter of Tzion; for a man, he says, the form would be שָׁבִי, on the pattern of עָנִי, a poor man."
+    },
+    {
+     "h": "Where Yonasan differs",
+     "t": "קוּמִי שְּׁבִי יְרוּשָׁלָם (Yeshayahu 52:2) he brings among the nouns of captivity, and notes that Targum Yonasan took it instead from יָשַׁב, to sit: arise, sit upon the throne of honour, Yerushalayim."
+    },
+    {
+     "h": "The other patterns",
+     "t": "וְרָאִיתָ בַּשִּׁבְיָה (Devarim 21:11), and you see among the captive women; וּבְנֹתָיו בַּשְּׁבִית (Bamidbar 21:29), his daughters in captivity; שְׁבִיתֵנוּ (Tehillim 126:4), our captivity; and with a shuruk, אֶת־שְׁבוּתְךָ (Devarim 30:3), your captivity, and שְׁבוּת אָהֳלֵי יַעֲקוֹב (Yirmiyahu 30:18), the captivity of the tents of Yaakov."
+    },
+    {
+     "h": "A stone under this root",
+     "t": "לֶשֶׁם שְׁבוֹ (Shemos 28:19), leshem and shevo, he files here, saying the shevo is one of the precious stones, and giving its Arabic name."
+    }
+   ]
+  },
+  "שׁלך": {
+   "sense": "To throw or cast down; and so to cast out of a place, and to cast a lot.",
+   "more": [
+    {
+     "h": "Casting",
+     "t": "הִשְׁלִיךְ מִשָּׁמַיִם אֶרֶץ (Eichah 2:1), He cast earth down from heaven; וַתַּשְׁלֵךְ אֶת־הַיֶּלֶד (Bereishis 21:15), she cast the child down; הַשְׁלִיכוּ אֹתוֹ אֶל־הַבּוֹר (Bereishis 37:22), throw him into the pit; and מַשְׁלִיךְ קַרְחוֹ כְפִתִּים (Tehillim 147:17), casting His ice like crumbs. He gives the whole of it as throwing and felling."
+    },
+    {
+     "h": "Cast out of a place",
+     "t": "כִּי הִשְׁלִיכוּ מִשְׁכְּנוֹתֵינוּ (Yirmiyahu 9:18) he reads as they cast us out of our dwellings, in the way of וְלֹא־תָקִיא אֶתְכֶם הָאָרֶץ (Vayikra 20:22), that the land should not vomit you out."
+    },
+    {
+     "h": "Casting a lot",
+     "t": "וּפֹה אַשְׁלִיךְ לָכֶם גּוֹרָל (Yehoshua 18:8), and here I will cast a lot for you."
+    },
+    {
+     "h": "Of the thing thrown",
+     "t": "וְהֻשְׁלַךְ מְכוֹן מִקְדָּשׁוֹ (Daniel 8:11), the place of His Mikdash was cast down; עָלֶיךָ הָשְׁלַכְתִּי מֵרָחֶם (Tehillim 22:11), upon You I was cast from the womb; and וַתֻּשְׁלְכִי אֶל־פְּנֵי הַשָּׂדֶה (Yechezkel 16:5), you were cast out on the open field."
+    },
+    {
+     "h": "Said loosely, of haste",
+     "t": "וַיַּשְׁלִכוּ הָרָצִים וְהַשָּׁלִשִׁים וַיֵּלְכוּ (Melachim II 10:25), the runners and the officers flung them down and went: this he says is said by extension, from how hurried and quick they were when they were sent to the city of Beis HaBaal to break the pillars."
+    },
+    {
+     "h": "The bird, and the gate",
+     "t": "וְאֶת־הַשָּׁלָךְ (Vayikra 11:17) Chachamim explained (Chullin 63a) as the one that draws fish out of the sea, and Onkelos renders it in the same way. אֲשֶׁר בְּשַׁלֶּכֶת (Yeshayahu 6:13) he takes as the name of a gate of the Beis HaMikdash, the one named עִם שַׁעַר שַׁלֶּכֶת (Divrei HaYamim I 26:16), with the gate of Shalleches, while Targum Yonasan took it as a word of casting."
+    },
+    {
+     "h": "Yonasan on the whole pasuk",
+     "t": "He brings Targum Yonasan's rendering of that pasuk entire: like the terebinth and the oak, whose leaves fall and look dry while they are still moist and keep seed in them, so the exile of Yisrael will be gathered in and returned to their land, for the holy seed is their planting."
+    }
+   ]
+  },
+  "זרק": {
+   "sense": "To throw, and in particular to dash or sprinkle a liquid.",
+   "more": [
+    {
+     "h": "Throwing and dashing",
+     "t": "וּזְרָקוֹ מֹשֶׁה הַשָּׁמַיְמָה (Shemos 9:8), Moshe threw it toward the heavens; וַחֲצִי הַדָּם זָרַק עַל־הַמִּזְבֵּחַ (Shemos 24:6), half the blood he dashed on the mizbeach; and וְזָרַקְתִּי עֲלֵיכֶם מַיִם טְהוֹרִים וּטְהַרְתֶּם (Yechezkel 36:25), I will throw pure water upon you and you will be pure."
+    },
+    {
+     "h": "Grey hair",
+     "t": "גַּם־שֵׂיבָה זָרְקָה בּוֹ (Hoshea 7:9), grey too is scattered through him, he takes either as a verb standing on its own, the grey having been cast into him, or as saying that his own nature cast the grey into him, since grey comes of a man's nature."
+    },
+    {
+     "h": "Not sprinkled",
+     "t": "כִּי מֵי נִדָּה לֹא־זֹרַק עָלָיו (Bamidbar 19:13), for the water of sprinkling was not thrown upon him."
+    },
+    {
+     "h": "The basin",
+     "t": "The vessel one throws from is a מִזְרָק: וְיָעָיו וּמִזְרְקֹתָיו (Shemos 27:3), its shovels and its basins; כַּמִּזְרָקִים לִפְנֵי הַמִּזְבֵּחַ (Zechariah 14:20), like the basins before the mizbeach; and מִזְרְקֵי־כֶסֶף (Bamidbar 7:84), basins of silver."
+    },
+    {
+     "h": "Drinking from basins",
+     "t": "הַשֹּׁתִים בְּמִזְרְקֵי יַיִן (Amos 6:6), who drink wine from basins: he says the governed word is missing, and they drink their wine in basins of silver or gold; or else the form stands for מזרקים. He sets חַלּוֹנֵי שְׁקֻפִים (Melachim I 6:4) and נִטְעֵי נַעֲמָנִים (Yeshayahu 17:10) beside it."
+    }
+   ]
+  },
+  "נזה": {
+   "sense": "To spatter or sprinkle, said of blood and of the waters of purification.",
+   "more": [
+    {
+     "h": "Blood spattering",
+     "t": "וַאֲשֶׁר יִזֶּה מִדָּמָהּ עַל־הַבֶּגֶד (Vayikra 6:20), whatever of its blood spatters on a garment, and וַיִּז מִדָּמָהּ אֶל־הַקִּיר (Melachim II 9:33), some of her blood spattered on the wall."
+    },
+    {
+     "h": "Sprinkling by hand",
+     "t": "וְהִזָּה אֶל־הַבַּיִת (Vayikra 14:51), he shall sprinkle toward the house; יַזֶּה שֶׁבַע־פְּעָמִים (Vayikra 16:14), he shall sprinkle seven times; הַזֵּה עֲלֵיהֶם מֵי חַטָּאת (Bamidbar 8:7), sprinkle the waters of the chatas upon them; and וַיַּז מִמֶּנּוּ (Vayikra 8:11), and he sprinkled some of it. He says the sense of sprinkling is known, and that it is the sense of dripping."
+    },
+    {
+     "h": "The one who carries the water",
+     "t": "On וּמַזֵּה מֵי־הַנִּדָּה (Bamidbar 19:21) he brings Chazal (Niddah 9a), that the one who sprinkles stays tahor and the pasuk speaks rather of one who carries, who takes a severe tumah that makes tamei the clothes upon him, unlike one who only touches, who need not launder his clothes; and the form מִזֵּה was used to say that he is not tamei until there is enough of it for a sprinkling. On that reading מזה is a noun on the pattern of מַטֶּה, and the pasuk means that whoever carries the sprinkling of the water of the niddah shall launder his clothes."
+    },
+    {
+     "h": "Many nations",
+     "t": "כֵּן יַזֶּה גּוֹיִם רַבִּים (Yeshayahu 52:15), so will he sprinkle many nations, he takes in the sense of speaking, a verb that carries an object; the edition sets a foreign word beside it."
+    }
+   ]
+  },
+  "רמה": {
+   "sense": "To throw, as an arrow from a bow; and in another sense, to deceive.",
+   "more": [
+    {
+     "h": "Throwing",
+     "t": "רָמָה בַיָּם (Shemos 15:1), He cast into the sea; פָּרָשׁ וְרֹמֵה קֶשֶׁת (Yirmiyahu 4:29), horseman and bowman; נוֹשְׁקֵי רוֹמֵי־קָשֶׁת (Tehillim 78:9), armed shooters of the bow; and רָמַת לֶחִי (Shoftim 15:17), the casting of the jawbone. The sense of throwing, he says, is well known, and from it he takes the noun in הָיוּ כְּקֶשֶׁת רְמִיָּה (Hoshea 7:16), they were like a bow that throws."
+    },
+    {
+     "h": "Rabbi Yonah on a hard pasuk",
+     "t": "Rabbi Yonah read וּמִלֵּאתִי הַגֵּאָיוֹת רָמוּתֶךָ (Yechezkel 32:5) from this sense, and I will fill the valleys with what you cast down, meaning that the slain of your multitude will fall there."
+    },
+    {
+     "h": "Deceit",
+     "t": "כֵּן־אִישׁ רִמָּה אֶת־רֵעֵהוּ (Mishlei 26:19), so a man deceived his fellow; לָמָּה רִמִּיתָנִי (Shmuel I 28:12), why did you deceive me; הֵמָּה רִמּוּנִי (Eichah 1:19), they deceived me; and וְאִם־לְרַמּוֹתַנִי לְצָרַי (Divrei HaYamim I 12:17), but if to betray me to my foes."
+    },
+    {
+     "h": "The nouns of deceit",
+     "t": "וְלוֹ תְּדַבְּרוּ רְמִיָּה (Iyov 13:7), will you speak deceit for Him, on the pattern of בִּצְדִיָּה (Bamidbar 35:20); לָשׁוֹן רְמִיָּה (Tehillim 120:3), a deceitful tongue; הֶחֱזִיקוּ בַּתַּרְמִית (Yirmiyahu 8:5), they held fast to deceit; and מֹאזְנֵי מִרְמָה (Mishlei 11:1), scales of fraud."
+    },
+    {
+     "h": "Where his father reads a place",
+     "t": "בְּתָרְמָה לֵאמֹר (Shoftim 9:31), in Tormah, saying, his father explains as the name of a place, since no word of that pattern with an added tav is found."
+    },
+    {
+     "h": "The bow again",
+     "t": "He ends that כְּקֶשֶׁת רְמִיָּה may belong to the sense of deceit instead, a bow that shoots deceitfully so that no one notices it; and so כְּתַעַר מְלֻטָּשׁ עֹשֵׂה רְמִיָּה (Tehillim 52:4), like a sharpened razor working deceit."
+    }
+   ]
+  },
+  "רטב": {
+   "sense": "To be moist; he gives it simply as the sense of wetness.",
+   "more": [
+    {
+     "h": "The two pesukim",
+     "t": "רָטֹב הוּא לִפְנֵי־שָׁמֶשׁ (Iyov 8:16), he is moist before the sun, and מִזֶּרֶם הָרִים יִרְטָבוּ (Iyov 24:8), they are drenched by the mountain rains. The entry holds no more than this."
+    }
+   ]
+  },
+  "רען": {
+   "sense": "Fresh and full of sap, as a green tree is; he gives the sense as wetness.",
+   "more": [
+    {
+     "h": "Verb or adjective by the stress",
+     "t": "The word doubles its last letter. וְכִפָּתוֹ לֹא רַעֲנָנָה (Iyov 15:32), his branch will not be fresh, he calls a verb of past time, because the stress falls back; אַף־עַרְשֵׂנוּ רַעֲנָנָה (Shir HaShirim 1:16), our couch too is fresh, is an adjective, because the stress falls at the end."
+    },
+    {
+     "h": "Green and moist",
+     "t": "כְּזַיִת רַעֲנָן (Tehillim 52:10), like a fresh olive tree; וְהָיָה עָלֵהוּ רַעֲנָן (Yirmiyahu 17:8), its leaf will stay green; and in the plural, which takes a dagesh, דְּשֵׁנִים וְרַעֲנַנִּים יִהְיוּ (Tehillim 92:15), they will be full of sap and fresh."
+    },
+    {
+     "h": "Fresh oil",
+     "t": "בְּשֶׁמֶן רַעֲנָן (Tehillim 92:11), with fresh oil, he glosses as new oil."
+    }
+   ]
+  },
+  "רטפשׁ": {
+   "sense": "Said of flesh made young again; from its setting he reads it as having grown soft.",
+   "more": [
+    {
+     "h": "The one pasuk",
+     "t": "רֻטֲפַשׁ בְּשָׂרוֹ מִנֹּעַר (Iyov 33:25), his flesh grew fresh again beyond a youth's; the word itself, he says, is to be taken from its place as meaning it became tender."
+    },
+    {
+     "h": "A word made of two",
+     "t": "Some say it is two words joined, רטוב and פש, moist and increasing, the second from the Targum of פְּרוּ וּרְבוּ (Bereishis 1:28), be fruitful and multiply, which is פּוּשׁוּ וּסְגוּ."
+    },
+    {
+     "h": "Read by atbash",
+     "t": "They explained further that רטפש is רטוב by atbash, the peh standing for a vav and the shin for a beis. Its Targum is אִתְחֲלִישׁ בִּסְרֵיהּ, his flesh grew weak."
+    }
+   ]
+  },
+  "טפח": {
+   "sense": "A tefach, the handbreadth measure; and a verb of patting, used of rearing a child.",
+   "more": [
+    {
+     "h": "The measure",
+     "t": "מִסְגֶּרֶת טֹפַח (Shemos 25:25), a rim a handbreadth wide, and שֵׁשׁ־אַמּוֹת בָּאַמָּה וָטֹפַח (Yechezkel 40:5), six cubits by the cubit and a handbreadth; in another form, וְעָבְיוֹ טֶפַח (Divrei HaYamim II 4:5), its thickness a handbreadth. In Tanach the plural is feminine, הִנֵּה טְפָחוֹת נָתַתָּה יָמַי (Tehillim 39:6), while Chazal use it as a masculine, טפחים."
+    },
+    {
+     "h": "Tefach and zeres",
+     "t": "The tefach is of a kind with the זרת, the span, but not of one size with it: the span is measured by the fingers of the hand spread apart and the tefach by four fingers held together, and the span is three tefachim, as he has written."
+    },
+    {
+     "h": "How short his days are",
+     "t": "הִנֵּה טְפָחוֹת נָתַתָּה יָמַי, You have made my days handbreadths, he reads against what comes before it, וּמִדַּת יָמַי מַה־הִיא (Tehillim 39:5), what is the measure of my days: as the tefach's measure is small, so is the measure of his days. Even were he to live all a man can live, his days are handbreadths, as כִּי אֶלֶף שָׁנִים בְּעֵינֶיךָ כְּיוֹם אֶתְמוֹל (Tehillim 90:4), a thousand years in Your eyes are as yesterday."
+    },
+    {
+     "h": "Built by the handbreadth",
+     "t": "וּמִמַּסַּד עַד־הַטְּפָחוֹת (Melachim I 7:9), from the foundation to the coping, he reads as from the foundation up to the wall above, which was built to the handbreadth measure; Targum Yonasan renders it finished by handbreadths."
+    },
+    {
+     "h": "Patting a child",
+     "t": "וִימִינִי טִפְּחָה שָׁמָיִם (Yeshayahu 48:13), My right hand spread out the heavens, which some precise sefarim point otherwise. אֲשֶׁר־טִפַּחְתִּי וְרִבִּיתִי (Eichah 2:22), whom I reared and raised: טִפַּחְתִּי, he says, is of the rearing of children, since so they do to an infant, patting him and straightening his limbs each time they swaddle him. So too עֹלֲלֵי טִפֻּחִים (Eichah 2:20), infants who are patted and reared while small and whose upbringing is seen to, and who were then eaten."
+    },
+    {
+     "h": "The mitpachas",
+     "t": "הָבִי הַמִּטְפַּחַת אֲשֶׁר־עָלַיִךְ (Rus 3:15), give me the cloth that is upon you, he glosses as a veil, and so וְהַמִּטְפָּחוֹת וְהַחֲרִיטִים (Yeshayahu 3:22), veils. He brings Chazal (Megillah 26b), that worn mitpachos of sefarim are made into shrouds for a meis mitzvah, and that is their genizah. Some explain הַמִּטְפָּחוֹת from the first sense, as gloves, for which he gives a foreign word."
+    }
+   ]
+  },
+  "פאה": {
+   "sense": "The side, edge or corner of a thing; and a verb of scattering to every side.",
+   "more": [
+    {
+     "h": "The side",
+     "t": "לַפֵּאָה הָאֶחָת (Shemos 27:9), for the one side; עַל אַרְבַּע הַפֵּאֹת (Shemos 25:26), on the four corners; and וּמָחַץ פַּאֲתֵי מוֹאָב (Bamidbar 24:17), and he will smite the corners of Moav. The end of anything and its far edge, he says, is called a פאה."
+    },
+    {
+     "h": "Scattered to every side",
+     "t": "קְצוּצֵי פֵאָה (Yirmiyahu 9:25) he takes as those cut off and scattered to every side, and from it אָמַרְתִּי אַפְאֵיהֶם (Devarim 32:26), I said I would scatter them, which he glosses as I will scatter them into every corner."
+    },
+    {
+     "h": "The corner of head and beard",
+     "t": "On לֹא תַקִּפוּ פְּאַת רֹאשְׁכֶם (Vayikra 19:27), do not round off the corner of your head, Chachamim explained (Makkos 20b) that it is the end of the head, the line that levels his temples with the back of his ears and with his forehead. פְּאַת זְקָנֶךָ in the same pasuk, the corner of your beard, he glosses as שבולת הזקן, the tip of the beard."
+    },
+    {
+     "h": "One more he allows",
+     "t": "פָּתְהֵן יְעָרֶה (Yeshayahu 3:17) may be explained from this root, he says, giving it no rendering here, and adds that more is written under the root פות."
+    }
+   ]
   }
  }
 }

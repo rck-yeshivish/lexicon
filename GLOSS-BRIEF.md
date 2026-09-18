@@ -51,6 +51,13 @@ the entry each would complete.
    chapter and pasuk from his Hebrew and write the book's name in English. A
    citation left in Hebrew is one the reader cannot read and one the check
    cannot verify against his own citations.
+
+   What he brings from outside Tanach goes the same way, named in English with
+   the place he gives: a masechta by daf, `(Sanhedrin 63b)`, as a hundred-odd
+   already do; a Mishnah by chapter and mishnah, `(Avos 5:15)`; a midrash by its
+   parsha, `(Bereishis Rabbah 43)`. Where the edition prints the address in a
+   form that will not carry over, name the work and leave the address off rather
+   than reproduce his Hebrew or invent a form of your own.
 4. **Lead with what the word means.** Grammar is named only where he rests
    something on it, and then by what it does, since binyan names are not
    English.
