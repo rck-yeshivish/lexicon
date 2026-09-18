@@ -72,7 +72,7 @@ intrinsically mean olive oil.
 ### yitzhar (יצהר)
 - Rabbi Yosef Kimchi (*Sefer HaGalui*) roots the word in *tzohar*, light. His
   son Radak explains him: oil is a peculiarly clear and shining substance, and
-  for the same reason olive oil is called "gold" (Zechariah 4:12).
+  for the same reason olive oil is called "gold" (Zecharyah 4:12).
 - Ibn Ezra (to Iyov 24:11) takes *tzohar* in its other sense, "noon," since oil
   is burned for light and that light resembles the sun at midday.
 
@@ -107,4 +107,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Olives and Oil](https://articles.ohr.edu/articles/olives-and-oil)," *What's in a Word?*, Ohr Somayach, 24 December 2016.
 
-Cited in the essay: Shemos 6:18, 2:10; Iyov 24:11; Zechariah 4:12; Shabbos 26b; *Machberes Menachem*; Radak, *Sefer HaShorashim*; Rabbi Yosef Kimchi, *Sefer HaGalui*; Ibn Ezra to Iyov 24:11.
+Cited in the essay: Shemos 6:18, 2:10; Iyov 24:11; Zecharyah 4:12; Shabbos 26b; *Machberes Menachem*; Radak, *Sefer HaShorashim*; Rabbi Yosef Kimchi, *Sefer HaGalui*; Ibn Ezra to Iyov 24:11.

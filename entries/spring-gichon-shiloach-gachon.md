@@ -98,7 +98,7 @@ through Yeshayahu to save Yerushalayim; an alternate tradition sees his act as
 noble (Radak to Divrei HaYamim II 32:30; Radal to *Pirkei DeRabbi Eliezer* 9:30).
 A story is told of Rabbi Chaim Vital, whom the Arizal faulted in a dream for not
 reopening the waters of the Gichon, which would have rectified Chizkiyahu's sin
-and brought the Final Redemption (in line with Zechariah 14:8).
+and brought the Final Redemption (in line with Zecharyah 14:8).
 
 ### Shiloach (שילוח)
 When the Mishnah records Chizkiyahu's blocking of the Gichon it uses the name
@@ -191,4 +191,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Matos Masei: The Shiloach Waters](https://articles.ohr.edu/articles/matos-masei-the-shiloach-waters)," *What's in a Word?*, Ohr Somayach, 15 July 2023.
 
-Cited in the essay: Bereishis 2:13, 3:14; Melachim I 1:33, 1:38, 1:45; Yeshayahu 8:6; Michah 4:10; Zechariah 14:8; Tehillim 22:10; Iyov 38:8; Nechemiah 3:15; Divrei HaYamim II 32:4, 32:30, 33:14; Mishnah *Pesachim* 4:9 and *Sukkah* 4:10; Berachos 10b; Kerisus 5b; Rashi to Bereishis 2:13, Melachim I 1:33, Yeshayahu 8:6, Berachos 10b, Sukkah 48a and Kerisus 5b; Targum to Melachim I 1:33 and Yeshayahu 8:6; Ibn Janach and Radak, *Sefer HaShorashim* (ג-ו-ח); Radak to Bereishis 2:13, Melachim I 1:33 and Divrei HaYamim II 32:30; Rabbi Yosef Kimchi; Ibn Ezra to Shemos 2:11; Rav Saadia Gaon; the Ramah, cited by *HaKosev* to *Ein Yaakov*, Horayos 12a; Rabbi Avraham Maimuni, with the glosses of Rabbi Moshe Maimon; Radal to *Pirkei DeRabbi Eliezer* 9:30; Rav Hirsch to Bereishis 3:14; Rabbi Shlomo Pappenheim; Rabbi Moshe Ibn Chaviv, *Get Pashut*, Even HaEzer 128:37; Rabbi Yoel Teitelbaum, *Divrei Yoel*, Even HaEzer 125; Rama, Even HaEzer 128:3; Wilhelm Gesenius; Avraham Even-Shoshan's concordance; Professor Carol A. Dray; the Septuagint.
+Cited in the essay: Bereishis 2:13, 3:14; Melachim I 1:33, 1:38, 1:45; Yeshayahu 8:6; Michah 4:10; Zecharyah 14:8; Tehillim 22:10; Iyov 38:8; Nechemiah 3:15; Divrei HaYamim II 32:4, 32:30, 33:14; Mishnah *Pesachim* 4:9 and *Sukkah* 4:10; Berachos 10b; Kerisus 5b; Rashi to Bereishis 2:13, Melachim I 1:33, Yeshayahu 8:6, Berachos 10b, Sukkah 48a and Kerisus 5b; Targum to Melachim I 1:33 and Yeshayahu 8:6; Ibn Janach and Radak, *Sefer HaShorashim* (ג-ו-ח); Radak to Bereishis 2:13, Melachim I 1:33 and Divrei HaYamim II 32:30; Rabbi Yosef Kimchi; Ibn Ezra to Shemos 2:11; Rav Saadia Gaon; the Ramah, cited by *HaKosev* to *Ein Yaakov*, Horayos 12a; Rabbi Avraham Maimuni, with the glosses of Rabbi Moshe Maimon; Radal to *Pirkei DeRabbi Eliezer* 9:30; Rav Hirsch to Bereishis 3:14; Rabbi Shlomo Pappenheim; Rabbi Moshe Ibn Chaviv, *Get Pashut*, Even HaEzer 128:37; Rabbi Yoel Teitelbaum, *Divrei Yoel*, Even HaEzer 125; Rama, Even HaEzer 128:3; Wilhelm Gesenius; Avraham Even-Shoshan's concordance; Professor Carol A. Dray; the Septuagint.

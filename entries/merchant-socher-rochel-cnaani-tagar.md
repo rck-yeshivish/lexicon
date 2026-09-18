@@ -38,7 +38,7 @@ the **peddler** who buys from the *socher* and goes door to door. Standing alone
 *socher* is simply **merchant**, and *tagar*, the Aramaic word, is also
 **merchant** (Rashi, Eruvin 55a, makes him the local seller against the
 travelling *socher*). *Cnaani*, in a string of pesukim (Bereishis 38:2,
-Yeshayahu 23:8, Mishlei 31:24, Zechariah 14:21 as most commentators read it, and
+Yeshayahu 23:8, Mishlei 31:24, Zecharyah 14:21 as most commentators read it, and
 with Rashi at Yechezkel 16:29, Hoshea 12:8, Iyov 40:30), means "trader," not
 "Canaanite."
 
@@ -146,7 +146,7 @@ gentilic for the Canaanite people, once they gained fame as traders the word
 widened to anyone in that trade. An inscription attributed
 to Pharaoh Rameses III seemingly uses *cnaani* in this latter sense.
 
-Zechariah 14:21 foretells a Messianic era, long after the Canaanites had ceased
+Zecharyah 14:21 foretells a Messianic era, long after the Canaanites had ceased
 to exist as a nation, in which there will be no *cnaani* in the Beis HaMikdash.
 The commentators explain the prediction in various ways, most of them taking it
 to mean that there will no longer be any need for merchants to offer their
@@ -237,4 +237,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Vayeshev: Mercantile Man](https://articles.ohr.edu/articles/vayeshev-mercantile-man)," *What's in a Word?*, Ohr Somayach, 9 December 2023.
 
-Cited in the essay: Bereishis 24:3, 24:37, 27:46, 28:1, 28:6, 37:28, 38:2; Vayikra 19:16 with Rashi; Mishlei 3:14, 11:13, 20:19, 31:24; Yirmiyahu 6:28, 9:3; Yeshayahu 23:8 with Rashi, Radak and *Metzudas Tzion*; Yechezkel 17:4 and 27:3 with Malbim, and 22:9; Zechariah 14:21 with Rashi; Tehillim 38:11; Melachim I 10:15, 10:28; Divrei HaYamim I 2:3 with Targum Rav Yosef; Pesachim 50a and 53b; Eruvin 55a and Erchin 23b with Rashi; Shabbos 13a, 56a, 90a, 91b; Yevamos 24b, 63b; Kiddushin 82a; Bava Kamma 82a; Bava Basra 22a; Nazir 21a (pseudo-Rashi); Moed Katan 10b; Sotah 47b; Bava Basra 29b with Rashbam; *Bereishis Rabbah* 85:4; *Tanchuma* Masei 9 with Rabbi Shlomo Fischer; Zohar Lech Lecha 80a with Meiri to Mishlei 31:24; *Chosam Tochnis*; *Sefer HaTishbi*; *Aruch HaShalem*.
+Cited in the essay: Bereishis 24:3, 24:37, 27:46, 28:1, 28:6, 37:28, 38:2; Vayikra 19:16 with Rashi; Mishlei 3:14, 11:13, 20:19, 31:24; Yirmiyahu 6:28, 9:3; Yeshayahu 23:8 with Rashi, Radak and *Metzudas Tzion*; Yechezkel 17:4 and 27:3 with Malbim, and 22:9; Zecharyah 14:21 with Rashi; Tehillim 38:11; Melachim I 10:15, 10:28; Divrei HaYamim I 2:3 with Targum Rav Yosef; Pesachim 50a and 53b; Eruvin 55a and Erchin 23b with Rashi; Shabbos 13a, 56a, 90a, 91b; Yevamos 24b, 63b; Kiddushin 82a; Bava Kamma 82a; Bava Basra 22a; Nazir 21a (pseudo-Rashi); Moed Katan 10b; Sotah 47b; Bava Basra 29b with Rashbam; *Bereishis Rabbah* 85:4; *Tanchuma* Masei 9 with Rabbi Shlomo Fischer; Zohar Lech Lecha 80a with Meiri to Mishlei 31:24; *Chosam Tochnis*; *Sefer HaTishbi*; *Aruch HaShalem*.

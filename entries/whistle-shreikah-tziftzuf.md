@@ -53,7 +53,7 @@ rapid whisper or half-intelligible **prattle**; in the Rema's halachic usage
 ### shreikah (שריקה)
 Root ש-ר-ק.
 
-- Radak (*Sefer HaShorashim*, and to Zechariah 10:8) quite prosaically defines
+- Radak (*Sefer HaShorashim*, and to Zecharyah 10:8) quite prosaically defines
   it broadly as moving the lips to produce a sound.
 - Rabbi Shlomo Ibn Parchon (*Machberes HeAruch*) expands on it: specifically
   puckering the lips and exhaling air through them; he adds that the vowel
@@ -77,7 +77,7 @@ had fallen still.
 impelling a multitude of Egyptian soldiers to gather and invade Ashur
 (Yeshayahu 7:18), and whistles to the nations to gather against Yisrael
 (Yeshayahu 5:26). In the most uplifting sense, He whistles to gather His people
-in from exile (Zechariah 10:8); Rashi there explains it from the way whistlers
+in from exile (Zecharyah 10:8); Rashi there explains it from the way whistlers
 whistle to call those who have gotten lost. In the same way, Hashem will invite
 all who have strayed to return to Him. The *Tur* (*Orach Chaim* §286) famously
 explains the
@@ -94,7 +94,7 @@ in nature.
 *Chullin* 63a identifies the non-kosher *racham* (Vayikra 11:18; Devarim 14:17)
 as the *sharakrak*, a name clearly derived from ש-ר-ק, and teaches that its
 sitting on the ground and chirping or whistling is a sign of Mashiach's
-approach, citing Zechariah 10:8. *Perek Shirah* gives that same pasuk as the
+approach, citing Zecharyah 10:8. *Perek Shirah* gives that same pasuk as the
 *racham*'s song. Maharsha (to *Chullin* 63a), Rabbi Avraham Palagi (*Avraham
 Anochi* to Yeshayahu §52) and Rabbi Shlomo Tapiero (*Mikveh HaMayim* to
 Yeshayahu 52:7) resolve the "feet of the herald" of Yeshayahu 52:7, where one
@@ -184,7 +184,7 @@ and that he is convinced English *cheep* is connected to the *tzif* of *tziftzuf
   For a place made an object of it, "an object of hissing" reads better than
   "a place of whistling."
 - *Shreikah* as summons: "whistle for," never "whistle at." Yeshayahu 5:26 and
-  7:18 are calls to muster; Zechariah 10:8 is a call to come home.
+  7:18 are calls to muster; Zecharyah 10:8 is a call to come home.
 - *Tziftzuf*: "chirp" or "twitter" for birds, "prattle" or "babble" for people.
   Reserve "whistle" for ש-ר-ק so the two roots stay apart in English.
 - Trap: English "whistle" will swallow *shreikah*, *tziftzuf* and *mashrokita*
@@ -209,4 +209,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Voeschanan - A Time to Whistle](https://articles.ohr.edu/articles/voeschanan-a-time-to-whistle)," *What's in a Word?*, Ohr Somayach, 9 August 2025.
 
-Cited in the essay: Bereishis 49:11; Vayikra 11:18, 14:4 (Rashi and Ramban); Devarim 14:17; Melachim I 9:8; Yeshayahu 5:26, 7:18, 8:19, 10:14, 29:4, 38:14, 52:7; Yirmiyahu 19:8, 25:9, 29:18, 50:13; Yechezkel 17:5 (Rabbi Moshe Kimchi); Zechariah 10:8 (Rashi, Radak); Eichah 2:15 to 16 (Rashi); Daniel 3:5 (Ibn Ezra, Rashi), 3:7, 3:10, 3:15; *Chullin* 63a; *Perek Shirah*; *Tur, Orach Chaim* §286; Rema and *Aruch HaShulchan, Orach Chaim* §338:1; Radak and Ibn Janach, *Sefer HaShorashim*; Rabbi Shlomo Ibn Parchon, *Machberes HeAruch*; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Shaul Goldman; Rabbi Yaakov Berger, *Milon Leshon Mikra* (unpublished); Maharsha to *Chullin* 63a; Rabbi Avraham Palagi, *Avraham Anochi* to Yeshayahu §52; Rabbi Shlomo Tapiero, *Mikveh HaMayim* to Yeshayahu 52:7; Rabbi Yissachar Shlomo Teichtal, *Eim HaBanim Semeichah* 2:12; Rabbi Amitai Ben-David, *Sichas Chullin* to *Chullin* 63a; the Lubavitcher Rebbe; the Rashaz, *Ohr Torah* to Bereishis 49:11; Rabbi Efrayim Greenblatt, *Rivevos Efrayim* 8:604; the *Chazon Ish*, cited in *Orchos Shabbos* ch. 21 fn. 60; Rabbi Chaim Kanievsky, in *Aliba D'Hilchasa* vol. 69 p. 83; Rabbi Yosef Yitzchok Lerner, *Shemiras HaGuf VeHaNefesh Tinyana* p. 454.
+Cited in the essay: Bereishis 49:11; Vayikra 11:18, 14:4 (Rashi and Ramban); Devarim 14:17; Melachim I 9:8; Yeshayahu 5:26, 7:18, 8:19, 10:14, 29:4, 38:14, 52:7; Yirmiyahu 19:8, 25:9, 29:18, 50:13; Yechezkel 17:5 (Rabbi Moshe Kimchi); Zecharyah 10:8 (Rashi, Radak); Eichah 2:15 to 16 (Rashi); Daniel 3:5 (Ibn Ezra, Rashi), 3:7, 3:10, 3:15; *Chullin* 63a; *Perek Shirah*; *Tur, Orach Chaim* §286; Rema and *Aruch HaShulchan, Orach Chaim* §338:1; Radak and Ibn Janach, *Sefer HaShorashim*; Rabbi Shlomo Ibn Parchon, *Machberes HeAruch*; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Shaul Goldman; Rabbi Yaakov Berger, *Milon Leshon Mikra* (unpublished); Maharsha to *Chullin* 63a; Rabbi Avraham Palagi, *Avraham Anochi* to Yeshayahu §52; Rabbi Shlomo Tapiero, *Mikveh HaMayim* to Yeshayahu 52:7; Rabbi Yissachar Shlomo Teichtal, *Eim HaBanim Semeichah* 2:12; Rabbi Amitai Ben-David, *Sichas Chullin* to *Chullin* 63a; the Lubavitcher Rebbe; the Rashaz, *Ohr Torah* to Bereishis 49:11; Rabbi Efrayim Greenblatt, *Rivevos Efrayim* 8:604; the *Chazon Ish*, cited in *Orchos Shabbos* ch. 21 fn. 60; Rabbi Chaim Kanievsky, in *Aliba D'Hilchasa* vol. 69 p. 83; Rabbi Yosef Yitzchok Lerner, *Shemiras HaGuf VeHaNefesh Tinyana* p. 454.

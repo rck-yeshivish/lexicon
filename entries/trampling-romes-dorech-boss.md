@@ -129,7 +129,7 @@ even describe the constructive act of the presses: olives at Michah 6:15, grapes
 
 ### boss (בוס)
 Words related to *boss* appear a little over ten times: Yeshayahu 14:19, 14:25,
-63:6, 63:18; Yirmiyahu 12:10; Yechezkel 16:6, 16:22; Zechariah 10:5; Tehillim
+63:6, 63:18; Yirmiyahu 12:10; Yechezkel 16:6, 16:22; Zecharyah 10:5; Tehillim
 44:6, 60:14, 108:14; Mishlei 27:7.
 
 - Pappenheim builds two other words on the root ב-ס. *Eivus*, a feeding trough,
@@ -184,4 +184,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Don't Trample On Me](https://articles.ohr.edu/articles/dont-trample-on-me)," *What's in a Word?*, Ohr Somayach, 22 July 2023.
 
-Cited in the essay: Bereishis 1:21 (Rav Hirsch), 1:24 (Ramban); Devarim 11:24, 33:29; Yehoshua 1:3; Yeshayahu 1:12, 14:19, 14:25, 16:10, 63:2, 63:6, 63:18; Yirmiyahu 12:10, 48:33; Yechezkel 16:6, 16:22; Amos 9:13; Michah 6:15; Zechariah 10:5; Tehillim 44:6, 60:14, 91:13, 108:14; Mishlei 27:7; Nechemiah 13:15; Rashi to Tehillim 44:6, 60:14, Yeshayahu 14:25, Mishlei 27:7; Kiddushin 66a with Rashi; Shabbos 47a, 117a, 120b, 125b, 142a; Pesachim 83a; Avodah Zarah 8b; Chullin 125a; Menachem Ibn Saruk; Rabbi Yonah Ibn Janach; Shlomo Ibn Parchon, *Machberes HeAruch*; Ibn Chayyuj; Rabbi Yosef Kimchi, *Sefer HaGalui*; Radak, *Sefer HaShorashim*; Malbim, *Sefer HaCarmel* s.v. רמס; Rabbi Shlomo Pappenheim; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim*; Rabbi Yisroel Zev Horowitz; the *Oxford English Dictionary* on English *boss*.
+Cited in the essay: Bereishis 1:21 (Rav Hirsch), 1:24 (Ramban); Devarim 11:24, 33:29; Yehoshua 1:3; Yeshayahu 1:12, 14:19, 14:25, 16:10, 63:2, 63:6, 63:18; Yirmiyahu 12:10, 48:33; Yechezkel 16:6, 16:22; Amos 9:13; Michah 6:15; Zecharyah 10:5; Tehillim 44:6, 60:14, 91:13, 108:14; Mishlei 27:7; Nechemiah 13:15; Rashi to Tehillim 44:6, 60:14, Yeshayahu 14:25, Mishlei 27:7; Kiddushin 66a with Rashi; Shabbos 47a, 117a, 120b, 125b, 142a; Pesachim 83a; Avodah Zarah 8b; Chullin 125a; Menachem Ibn Saruk; Rabbi Yonah Ibn Janach; Shlomo Ibn Parchon, *Machberes HeAruch*; Ibn Chayyuj; Rabbi Yosef Kimchi, *Sefer HaGalui*; Radak, *Sefer HaShorashim*; Malbim, *Sefer HaCarmel* s.v. רמס; Rabbi Shlomo Pappenheim; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim*; Rabbi Yisroel Zev Horowitz; the *Oxford English Dictionary* on English *boss*.

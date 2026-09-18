@@ -79,7 +79,7 @@ preserves the sense. The gathering reading is the one that carries a
 ## Distinctions
 
 ### tzom (צום)
-Zechariah 8:19, foretelling a time when the four fast days will be turned into
+Zecharyah 8:19, foretelling a time when the four fast days will be turned into
 holidays, days of joy and gladness, names them by their months: the fast of the
 fourth (17
 Tammuz, when the walls were breached), the fifth (9 Av, the destruction and the
@@ -132,4 +132,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[United We Fast](https://articles.ohr.edu/articles/united-we-fast)," *What's in a Word?*, Ohr Somayach, 8 July 2017.
 
-Cited in the essay: Zechariah 8:19; Vayikra 16:29 to 31, 23:27 to 32; Bamidbar 29:7; Ezra 9:5; Melachim I 21:9 with Radak; Radak, *Sefer HaShorashim*, in the name of his father; *Chullin* 4:7 on *tzomes hagidim*; Yeshayahu 58:3 to 6; Kerisus 6b; Rambam, *Hilchos Nedarim* and *Hilchos Taaniyos*; Rema, *Orach Chaim* 686:2; Rabbi Akiva Shlomo Deutsch-Dayan of Geneva; Rabbi Avraham Etiel Gurwitz; Rabbi Yechiel Heilpern, citing Rabbi Moshe Di'Segovia Benveniste.
+Cited in the essay: Zecharyah 8:19; Vayikra 16:29 to 31, 23:27 to 32; Bamidbar 29:7; Ezra 9:5; Melachim I 21:9 with Radak; Radak, *Sefer HaShorashim*, in the name of his father; *Chullin* 4:7 on *tzomes hagidim*; Yeshayahu 58:3 to 6; Kerisus 6b; Rambam, *Hilchos Nedarim* and *Hilchos Taaniyos*; Rema, *Orach Chaim* 686:2; Rabbi Akiva Shlomo Deutsch-Dayan of Geneva; Rabbi Avraham Etiel Gurwitz; Rabbi Yechiel Heilpern, citing Rabbi Moshe Di'Segovia Benveniste.

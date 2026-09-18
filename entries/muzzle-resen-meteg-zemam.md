@@ -130,7 +130,7 @@ for muzzling. *Bereishis Rabbah* 41:5, Targum Yonasan and Targum Yerushalmi (to
 Bereishis 13:7), relating the tradition Rashi cites there, all use cognates of
 *zemam* for the muzzle Avraham was particular to put on his animals, while Lot
 was not as careful. The homograph *zomem* means to plot (Tehillim 37:12;
-ascribed even to Hashem, Yirmiyahu 51:12, Eichah 2:17, Zechariah 1:6; the
+ascribed even to Hashem, Yirmiyahu 51:12, Eichah 2:17, Zecharyah 1:6; the
 conspiring witnesses of Devarim 19:19 and the *eidim zomemim* of the Mishnah,
 Bava Kamma 7:3, Sanhedrin 6:2, Makkos 1:3 and 1:6), and *zimah* is the
 licentious scheme of Vayikra 18:17 and 20:14.
@@ -202,4 +202,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Balak: Muzzled Up](https://articles.ohr.edu/articles/balak-muzzled-up)," *What's in a Word?*, Ohr Somayach, 1 July 2023.
 
-Cited in the essay: Bereishis 10:12, 13:7; Bamidbar 23:16 with Rashi and *Bamidbar Rabbah* 20:20; Vayikra 18:17, 20:14; Devarim 19:19, 25:4; Yeshayahu 30:28, 37:29; Yirmiyahu 51:12; Yechezkel 46:14; Amos 6:11; Zechariah 1:6; Melachim II 19:28; Shmuel II 8:1; Mishlei 26:3; Tehillim 2:2, 32:9, 37:12, 140:9; Iyov 30:11, 41:5; Shir HaShirim 5:2; Eichah 2:17; Radak to Yeshayahu 30:28 and *Sefer HaShorashim* s.v. רסן and s.v. מתג; Bedersi, *Chosam Tochnis*; Dr. David J. A. Clines, *Dictionary of Classical Hebrew*; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim*; *Ohalei Yehuda*; Rav Hirsch to Tehillim 2:2; Mecklenburg and Shadal to Vayikra 18:17; Mishnah *Terumos* 9:3, *Shabbos* 5:1, *Keilim* 11:5, *Bava Kamma* 7:3, *Sanhedrin* 6:2, *Makkos* 1:3 and 1:6; Bava Kamma 17b; Kiddushin 27a-b; Bava Basra 53b; Yevamos 37b; *Bereishis Rabbah* 41:5, 45:7, 75:9; Targum Yonasan to Bamidbar 19:2; Dr. Alexander Kohut on the Greek *phorbeia*.
+Cited in the essay: Bereishis 10:12, 13:7; Bamidbar 23:16 with Rashi and *Bamidbar Rabbah* 20:20; Vayikra 18:17, 20:14; Devarim 19:19, 25:4; Yeshayahu 30:28, 37:29; Yirmiyahu 51:12; Yechezkel 46:14; Amos 6:11; Zecharyah 1:6; Melachim II 19:28; Shmuel II 8:1; Mishlei 26:3; Tehillim 2:2, 32:9, 37:12, 140:9; Iyov 30:11, 41:5; Shir HaShirim 5:2; Eichah 2:17; Radak to Yeshayahu 30:28 and *Sefer HaShorashim* s.v. רסן and s.v. מתג; Bedersi, *Chosam Tochnis*; Dr. David J. A. Clines, *Dictionary of Classical Hebrew*; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim*; *Ohalei Yehuda*; Rav Hirsch to Tehillim 2:2; Mecklenburg and Shadal to Vayikra 18:17; Mishnah *Terumos* 9:3, *Shabbos* 5:1, *Keilim* 11:5, *Bava Kamma* 7:3, *Sanhedrin* 6:2, *Makkos* 1:3 and 1:6; Bava Kamma 17b; Kiddushin 27a-b; Bava Basra 53b; Yevamos 37b; *Bereishis Rabbah* 41:5, 45:7, 75:9; Targum Yonasan to Bamidbar 19:2; Dr. Alexander Kohut on the Greek *phorbeia*.

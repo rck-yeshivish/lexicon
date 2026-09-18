@@ -135,7 +135,7 @@ good" (*tov*, Shemos 2:2). Most people today say Tuviah, though Tanach vowelizes
 it Toviah; Dr. Alexander Beider notes in his *Dictionary of Ashkenazi Given
 Names* that scholars do not know what caused the vowel shift. Others in Tanach
 seemingly bear the name: the head of a family that returned with Zerubavel (Ezra 2:60,
-Nechemiah 7:62), a kohen in the early Second Beis HaMikdash period (Zechariah
+Nechemiah 7:62), a kohen in the early Second Beis HaMikdash period (Zecharyah
 6:10, 6:14), and the Ammonite slave who tried to thwart Nechemiah's rebuilding of
 Yerushalayim (Nechemiah 2:10-19, 3:35, 4:1, 6-7, 13:4-7). **Shemayah** (Divrei HaYamim I 24:6),
 because Hashem heard (*shama*) his tefillos; the man of that name in Divrei
@@ -202,4 +202,4 @@ Rabbi Reuven Chaim Klein, "[Moses' Many Names](https://articles.ohr.edu/articles
 
 Rabbi Reuven Chaim Klein, "[Shemos: Pulling & Drawing](https://articles.ohr.edu/articles/shemos-pulling-drawing)," *What's in a Word?*, Ohr Somayach, 6 January 2024.
 
-Cited in the essay: Divrei HaYamim I 4:18 and 24:6; Shemos 2:1-2, 2:10 with Rashbam and Rashi, 2:22, 4:20, 32:32; Bamidbar 11:2; Shoftim 18:30; Shmuel II 22:17; Tehillim 18:17; Melachim I 12:22; Ezra 2:60; Nechemiah 2:10-19, 3:35, 4:1, 6-7, 7:62, 13:4-7; Zechariah 6:10, 6:14; Yirmiyahu 29:31-32; Divrei HaYamim II 12:5-15; *Vayikra Rabbah* 1:3; *Shemos Rabbah* 1:26; Megillah 13a; Taanis 9a; Zevachim 102a; Bava Basra 15a and 109b-110a; Avos 1:1; Vilna Gaon and *Targum Rav Yosef* to Divrei HaYamim I 4:18; Ibn Ezra to Shemos 2:22 and 4:20; *Shalsheles HaKabbalah*; *Sefer HaYashar* and *Yalkut Shimoni* Shemos 166; *Divrei HaYamim Shel Moshe*, printed in Rabbi J. D. Eisenstein's *Otzar Midrashim* p. 358; the piyyut *Yetziv Pisgam*; Dr. Alexander Beider, *Dictionary of Ashkenazi Given Names*.
+Cited in the essay: Divrei HaYamim I 4:18 and 24:6; Shemos 2:1-2, 2:10 with Rashbam and Rashi, 2:22, 4:20, 32:32; Bamidbar 11:2; Shoftim 18:30; Shmuel II 22:17; Tehillim 18:17; Melachim I 12:22; Ezra 2:60; Nechemiah 2:10-19, 3:35, 4:1, 6-7, 7:62, 13:4-7; Zecharyah 6:10, 6:14; Yirmiyahu 29:31-32; Divrei HaYamim II 12:5-15; *Vayikra Rabbah* 1:3; *Shemos Rabbah* 1:26; Megillah 13a; Taanis 9a; Zevachim 102a; Bava Basra 15a and 109b-110a; Avos 1:1; Vilna Gaon and *Targum Rav Yosef* to Divrei HaYamim I 4:18; Ibn Ezra to Shemos 2:22 and 4:20; *Shalsheles HaKabbalah*; *Sefer HaYashar* and *Yalkut Shimoni* Shemos 166; *Divrei HaYamim Shel Moshe*, printed in Rabbi J. D. Eisenstein's *Otzar Midrashim* p. 358; the piyyut *Yetziv Pisgam*; Dr. Alexander Beider, *Dictionary of Ashkenazi Given Names*.

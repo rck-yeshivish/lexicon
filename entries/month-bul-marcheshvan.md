@@ -163,7 +163,7 @@ simply "Shvan"; Rabbi Reuven Chaim Klein was not able to learn more by press tim
 ### Bul (בול)
 Melachim I 6:38, the completion of the Beis HaMikdash "in the month of Bul, which is the
 eighth month," the one occurrence in Tanach; elsewhere the month is only *chodesh
-hashemini* (Melachim I 12:32-33, Zechariah 1:1).
+hashemini* (Melachim I 12:32-33, Zecharyah 1:1).
 
 A homily on the name: since Kiddushin 30a has it that the middle letter of the Torah is
 the vav of *gachon* (Vayikra 11:42), Rabbi Yosef Chaim of Baghdad (1832-1909) reads the
@@ -217,4 +217,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Lech Lecha: Eighth Month](https://articles.ohr.edu/articles/lech-lecha-eighth-month)," *What's in a Word?*, Ohr Somayach, 28 October 2023.
 
-Cited in the essay: Bereishis 1:1, 6:17, 7:11-12, 8:4-5; Shemos 12:2 with Ramban; Vayikra 11:42; Melachim I 6:38, 12:32-33; Yeshayahu 40:15, 44:19; Zechariah 1:1; Rosh Hashanah 11b; Kiddushin 30a; Yerushalmi Rosh Hashanah 1:2; Mishnah Taanis 1:3-4; *Midrash Tanchuma Noach* §11; Bereishis Rabbah 48:9 with Rashi; Targum Yonasan and Radak to Melachim I 6:38; *Machberes Menachem*; Ibn Janach, *Sefer HaShorashim*; *Aruch HaShulchan* and *Pri Chadash* to *Even HaEzer* §126 with *Pischei Teshuvah* §126:12; *Nachalas Shivah*; *Midrash HaChefetz*; *Sefer HaKushyos*; *Otzar Peninim* §28; Devarim 34:12; Vayikra 2:7; Targum pseudo-Yonasan to Bereishis 7:11; *Aruch HaShalem*; the Ashmunezer II sarcophagus inscription; the Old Assyrian and Babylonian Arahsamna inscriptions.
+Cited in the essay: Bereishis 1:1, 6:17, 7:11-12, 8:4-5; Shemos 12:2 with Ramban; Vayikra 11:42; Melachim I 6:38, 12:32-33; Yeshayahu 40:15, 44:19; Zecharyah 1:1; Rosh Hashanah 11b; Kiddushin 30a; Yerushalmi Rosh Hashanah 1:2; Mishnah Taanis 1:3-4; *Midrash Tanchuma Noach* §11; Bereishis Rabbah 48:9 with Rashi; Targum Yonasan and Radak to Melachim I 6:38; *Machberes Menachem*; Ibn Janach, *Sefer HaShorashim*; *Aruch HaShulchan* and *Pri Chadash* to *Even HaEzer* §126 with *Pischei Teshuvah* §126:12; *Nachalas Shivah*; *Midrash HaChefetz*; *Sefer HaKushyos*; *Otzar Peninim* §28; Devarim 34:12; Vayikra 2:7; Targum pseudo-Yonasan to Bereishis 7:11; *Aruch HaShalem*; the Ashmunezer II sarcophagus inscription; the Old Assyrian and Babylonian Arahsamna inscriptions.

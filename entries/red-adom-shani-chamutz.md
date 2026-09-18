@@ -9,7 +9,7 @@ words:
   - he: אדום
     tr: adom
     en: red
-    distinct: the general word for red; Radak (to Zechariah 6:2-3) sets it against chamutz/amutz as the stronger red of the two
+    distinct: the general word for red; Radak (to Zecharyah 6:2-3) sets it against chamutz/amutz as the stronger red of the two
   - he: שני
     tr: shani
     en: crimson
@@ -42,10 +42,10 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Adom* is plain **red**, and on Radak's comparison at Zechariah 6:2-3 the
+*Adom* is plain **red**, and on Radak's comparison at Zecharyah 6:2-3 the
 stronger red against *chamutz* / *amutz*. *Shani* (*tola'as shani*) is
 **crimson**, the worm-dye of the Mishkan. *Chamutz* and *amutz* are the weaker red: **red-stained**
-in Yeshayahu, **chestnut** or burgundy in Zechariah. *Seruk* is **pink** on
+in Yeshayahu, **chestnut** or burgundy in Zecharyah. *Seruk* is **pink** on
 Malbim's reading, though Radak takes it only as "colorful"; *chum* is a dark red
 near black, which in some later sources *seems* to mean **brown**; *chachlilei* is a drinker's
 **bloodshot** eye, though Ramban ties that word to blue instead. In Aramaic
@@ -55,7 +55,7 @@ near black, which in some later sources *seems* to mean **brown**; *chachlilei* 
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| אדום | adom | red | the general word; the stronger red against chamutz/amutz (Radak to Zechariah 6:2-3) |
+| אדום | adom | red | the general word; the stronger red against chamutz/amutz (Radak to Zecharyah 6:2-3) |
 | שני | shani | crimson | worm-dyed wool; crimson (Rabbi Saadia Gaon, Ibn Ezra, Radak), a deep red with a slight blue cast |
 | חמוץ | chamutz | red-stained | blood- or wine-stained garments (Ibn Janach, Radak); hapax, Yeshayahu 63:1 |
 | אמוץ | amutz | chestnut, burgundy | chamutz with aleph; a weaker red than adom (Radak) |
@@ -66,9 +66,9 @@ near black, which in some later sources *seems* to mean **brown**; *chachlilei* 
 
 **What *seruk* means.**
 
-- Radak (to Zechariah 1:8 and *Sefer HaShorashim*) takes *serukim* as "colorful"
+- Radak (to Zecharyah 1:8 and *Sefer HaShorashim*) takes *serukim* as "colorful"
   in a generic sense, without saying which color.
-- Malbim (to Zechariah 1:8) explains it as "pink" or "light red."
+- Malbim (to Zecharyah 1:8) explains it as "pink" or "light red."
 
 **Whether *chachlilei* is red.** Rabbi Moshe Tedeschi-Ashkenazi makes it the
 reddened white of the eye, from *kalil*, "crown"; others,
@@ -165,7 +165,7 @@ tramps in the winepress?" (Yeshayahu 63:1-2).
   Radak himself agrees that *timchatz* (Tehillim 68:24), with those consonants
   in that order, also refers to becoming reddened.
 
-Zechariah's *amutzim* horses (6:3) are the same word, since the guttural aleph
+Zecharyah's *amutzim* horses (6:3) are the same word, since the guttural aleph
 and ches are often interchangeable (Ibn Janach, Radak), and since that vision
 also has *adumim* horses (6:2), Radak adds that *chamutz* / *amutz* differs from
 *adom* in not being as strong a red.
@@ -194,8 +194,8 @@ discoloration, Rashbam holds that shining and red are connected. Rashbam and
 Chizkuni also cite Melachim II 3:22 to that effect.
 
 ### seruk (שרוק) and the rouge words
-*Seruk*: Zechariah's other vision of red horses calls them *susim adumim serukim*
-(Zechariah 1:8); *sorek* is a high-quality red grape (Bereishis 49:11, Yeshayahu
+*Seruk*: Zecharyah's other vision of red horses calls them *susim adumim serukim*
+(Zecharyah 1:8); *sorek* is a high-quality red grape (Bereishis 49:11, Yeshayahu
 5:2, 16:8, Yirmiyahu 2:21). This word looks like *zerach*
 in another way, since it *seems* cognate to the Arabic *sharaqa*, "shining
 brightly," and the Persian *sorkh*, "red" or "scarlet," which again links shining
@@ -340,7 +340,7 @@ Proto-Indo-European root *reudh-*, "red," the ancestor of English *red*, *rose*,
 
 - תולעת שני is "crimson wool," not "red wool": the *parah adumah* is red, the wool tied with it crimson.
 - Trap: English "red" swallows *adom*, *shani*, *chamutz*, *chum*, and *sumak*.
-  Zechariah tests this twice: at 1:8 *adumim serukim* in one phrase, and at
+  Zecharyah tests this twice: at 1:8 *adumim serukim* in one phrase, and at
   6:2-3 *adumim* against *amutzim*. "Red horses ... chestnut horses" keeps
   Radak's distinction at 6:2-3; "red and pink horses" at 1:8 follows Malbim,
   where Radak would give only "colorful," so say which you are following.
@@ -361,4 +361,4 @@ Rabbi Reuven Chaim Klein, "[Pekudai: Seeing Red (Part 2/3)](https://articles.ohr
 
 Rabbi Reuven Chaim Klein, "[Vayikra: Seeing Red (Part 3/3)](https://articles.ohr.edu/articles/vayikra-seeing-red-part-33)," *What's in a Word?*, Ohr Somayach, 5 April 2025.
 
-Cited in the essay: Bereishis 25:25, 25:30, 30:32-33, 30:35, 30:40, 36:26, 36:36, 38:30, 49:11; Shemos 25:5, 26:14, 28:17, 35:7, 35:23, 36:19, 39:34; Vayikra 13-14, 14:4, 14:6, 14:49, 14:51-52; Bamidbar 19:2, 19:6; Yehoshua 2:18, 2:21; Shoftim 16:4; Shmuel I 16:12, 17:42; Shmuel II 1:24; Melachim II 3:22; Yeshayahu 1:18, 3:16, 5:2, 16:8, 63:1-2; Yirmiyahu 2:21, 4:30; Yechezkel 27:18; Nachum 2:4; Zechariah 1:8, 6:2-3; Tehillim 68:24, 75:9; Mishlei 23:29, 23:31, 31:21; Shir HaShirim 4:3, 5:10; Eichah 4:5, 4:7, 5:10; Ezra 2:47; Nechemiah 7:49; Divrei HaYamim I 1:41, 1:47; Divrei HaYamim II 2:6, 26:19; Mishnah Shabbos 9:3, 12:4, Shekalim 4:2, Yoma 4:2, 6:6, Gittin 2:3, Bechoros 7:6, 9:7, Middos 3:1; Tosefta *Berachos* 7:3; Berachos 20a, 31b, 58b, 59b; Shabbos 95a; Pesachim 25b; Yoma 82b; Moed Katan 9b; Kesubos 17a; Gittin 69a, 69b; Bava Basra 84a; Sanhedrin 14a, 74a; Avodah Zarah 33b; Bechoros 45b; Yerushalmi *Kilayim* 9:1 and *Berachos* 9:1; *Bereishis Rabbah* 51:2; *Toras Kohanim*, Metzora, with Raavad and Rash M'Shantz; Rashi to Bereishis 25:25, 30:32, Vayikra 13:39, Berachos 31b, 58b, 59b, Bechoros 45b, Avodah Zarah 33b and Gittin 69b; pseudo-Rashi to Divrei HaYamim II 2:6; Rabbi Saadia Gaon, Ibn Ezra and Rabbi Avraham Maimuni to Shemos 25:4; Ibn Ezra, Long Commentary to Shemos 2:3; Ibn Ezra and Mahari Kara to Eichah 4:5; Meiri; Rashbam and Chizkuni to Bereishis 38:30; Ramban to Bereishis 49:12; the *Ohr HaChaim* to Bereishis 38:28; Radak to Yeshayahu 63:1, Tehillim 75:9 and Zechariah 1:8, 6:2-3; Malbim to Yeshayahu 1:18 and Zechariah 1:8; Shadal to Bereishis 30:32, Shemos 20:5 and 25:4; *Midrash Chefetz* and *Meor Ha'Afeilah* to Shemos 25:4; Rema, *Yoreh Deah* 178:1; *Sefer HeAruch* and Rabbeinu Chananel to Berachos 20a; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Eliyahu HaBachur, *Meturgeman*; Rabbi Tanchum HaYerushalmi; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Yaakov Hibbert; Rabbi Yosef Noach Wilkover; the Peshitta; Dr. Alexander Kohut, *Aruch HaShalem*; Rabbi Ernest Klein; Marcus Jastrow; David J. A. Clines, *A Dictionary of Classical Hebrew*.
+Cited in the essay: Bereishis 25:25, 25:30, 30:32-33, 30:35, 30:40, 36:26, 36:36, 38:30, 49:11; Shemos 25:5, 26:14, 28:17, 35:7, 35:23, 36:19, 39:34; Vayikra 13-14, 14:4, 14:6, 14:49, 14:51-52; Bamidbar 19:2, 19:6; Yehoshua 2:18, 2:21; Shoftim 16:4; Shmuel I 16:12, 17:42; Shmuel II 1:24; Melachim II 3:22; Yeshayahu 1:18, 3:16, 5:2, 16:8, 63:1-2; Yirmiyahu 2:21, 4:30; Yechezkel 27:18; Nachum 2:4; Zecharyah 1:8, 6:2-3; Tehillim 68:24, 75:9; Mishlei 23:29, 23:31, 31:21; Shir HaShirim 4:3, 5:10; Eichah 4:5, 4:7, 5:10; Ezra 2:47; Nechemiah 7:49; Divrei HaYamim I 1:41, 1:47; Divrei HaYamim II 2:6, 26:19; Mishnah Shabbos 9:3, 12:4, Shekalim 4:2, Yoma 4:2, 6:6, Gittin 2:3, Bechoros 7:6, 9:7, Middos 3:1; Tosefta *Berachos* 7:3; Berachos 20a, 31b, 58b, 59b; Shabbos 95a; Pesachim 25b; Yoma 82b; Moed Katan 9b; Kesubos 17a; Gittin 69a, 69b; Bava Basra 84a; Sanhedrin 14a, 74a; Avodah Zarah 33b; Bechoros 45b; Yerushalmi *Kilayim* 9:1 and *Berachos* 9:1; *Bereishis Rabbah* 51:2; *Toras Kohanim*, Metzora, with Raavad and Rash M'Shantz; Rashi to Bereishis 25:25, 30:32, Vayikra 13:39, Berachos 31b, 58b, 59b, Bechoros 45b, Avodah Zarah 33b and Gittin 69b; pseudo-Rashi to Divrei HaYamim II 2:6; Rabbi Saadia Gaon, Ibn Ezra and Rabbi Avraham Maimuni to Shemos 25:4; Ibn Ezra, Long Commentary to Shemos 2:3; Ibn Ezra and Mahari Kara to Eichah 4:5; Meiri; Rashbam and Chizkuni to Bereishis 38:30; Ramban to Bereishis 49:12; the *Ohr HaChaim* to Bereishis 38:28; Radak to Yeshayahu 63:1, Tehillim 75:9 and Zecharyah 1:8, 6:2-3; Malbim to Yeshayahu 1:18 and Zecharyah 1:8; Shadal to Bereishis 30:32, Shemos 20:5 and 25:4; *Midrash Chefetz* and *Meor Ha'Afeilah* to Shemos 25:4; Rema, *Yoreh Deah* 178:1; *Sefer HeAruch* and Rabbeinu Chananel to Berachos 20a; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Eliyahu HaBachur, *Meturgeman*; Rabbi Tanchum HaYerushalmi; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Yaakov Hibbert; Rabbi Yosef Noach Wilkover; the Peshitta; Dr. Alexander Kohut, *Aruch HaShalem*; Rabbi Ernest Klein; Marcus Jastrow; David J. A. Clines, *A Dictionary of Classical Hebrew*.

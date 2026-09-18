@@ -87,7 +87,7 @@ holds the two equal in position and different only in origin.
   is Hashem's, and He **rules** over the nations." The Vilna Gaon takes note of
   an apparent contradiction between this and the other pasuk at the close of
   Aleinu: here the shift implies two roles, *melech* to Yisrael, who accept His
-  sovereignty, and *moshel* to the nations, who do not, while Zechariah 14:9,
+  sovereignty, and *moshel* to the nations, who do not, while Zecharyah 14:9,
   *vehayah Hashem lemelech al kol ha'aretz*, has Him *melech* over the whole
   world. The answer must be that in time to come, when all truth is revealed,
   everyone will recognize and accept, so that He will be *melech* universally
@@ -113,4 +113,4 @@ Rabbi Reuven Chaim Klein, "[Divine Dictator or Populist King?](https://articles.
 
 Rabbi Reuven Chaim Klein, "[Introduction: Synonyms in the Hebrew Language](https://articles.ohr.edu/articles/introduction-synonyms-in-the-hebrew-language)," *What's in a Word?*, Ohr Somayach, 25 June 2016.
 
-Cited in the essay: Bereishis 37:8; Pirkei d'Rabbi Eliezer ch. 16; Shoftim 8:22; Rosh Hashanah 16a; Tehillim 22:29 with Ibn Ezra; Zechariah 14:9; the Vilna Gaon; Rabbi Moshe Soloveitchik of Switzerland.
+Cited in the essay: Bereishis 37:8; Pirkei d'Rabbi Eliezer ch. 16; Shoftim 8:22; Rosh Hashanah 16a; Tehillim 22:29 with Ibn Ezra; Zecharyah 14:9; the Vilna Gaon; Rabbi Moshe Soloveitchik of Switzerland.

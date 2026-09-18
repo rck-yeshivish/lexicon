@@ -120,7 +120,7 @@ Literally "prince."
   as against heavy clouds that tend to come down like fog.
 
 ### chaziz (חזיז)
-Iyov 28:26, Zechariah 10:1.
+Iyov 28:26, Zecharyah 10:1.
 - Chazal: from *chazon* and *chezyonos*, sight, since the flora that grow from
   the rain might be colored differently; others, because Hashem sends such
   clouds as signs in Heaven for man to read.
@@ -173,4 +173,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[On Clouds](https://articles.ohr.edu/articles/on-clouds)," *What's in a Word?*, Ohr Somayach, 15 June 2019.
 
-Cited in the essay: Yerushalmi Taanis 3:3; *Midrash Tehillim* 135; *Bereishis Rabbah* 13:12; Bereishis 2:6, 49:25 with *Peirush HaRokeach*; Shemos 19:9, 20:18 with Rashi; Devarim 32:35 (Targum); Shoftim 5:4; Shmuel II 22:12; Tehillim 135:7; Mishlei 25:14; Iyov 28:26, 36:32, 38:37; Eichah 3:41; Zechariah 10:1; Avodah Zarah 1:1; Rashi to Taanis 6b; Pappenheim on the roots ע, ע-ב, ד, ש-א and ח-ז; *Sefer HaChochmah*; Rabbeinu Bachya; Ibn Ezra; *Midrash Lekach Tov* (*Pesikta Zutrasa*); Rabbi Shlomo of Urbino, *Ohel Moed*; Menachem Ibn Saruk, *Machberes*; Ibn Janach, *Sefer HaShorashim*; Rabbi Yehudah Ibn Balaam, *Sefer HaTzimud*; *Midrash Chuppas Eliyahu Rabbah*; *Metzudas Tzion*; Rabbi Yaakov Chaim Sofer; the Zohar.
+Cited in the essay: Yerushalmi Taanis 3:3; *Midrash Tehillim* 135; *Bereishis Rabbah* 13:12; Bereishis 2:6, 49:25 with *Peirush HaRokeach*; Shemos 19:9, 20:18 with Rashi; Devarim 32:35 (Targum); Shoftim 5:4; Shmuel II 22:12; Tehillim 135:7; Mishlei 25:14; Iyov 28:26, 36:32, 38:37; Eichah 3:41; Zecharyah 10:1; Avodah Zarah 1:1; Rashi to Taanis 6b; Pappenheim on the roots ע, ע-ב, ד, ש-א and ח-ז; *Sefer HaChochmah*; Rabbeinu Bachya; Ibn Ezra; *Midrash Lekach Tov* (*Pesikta Zutrasa*); Rabbi Shlomo of Urbino, *Ohel Moed*; Menachem Ibn Saruk, *Machberes*; Ibn Janach, *Sefer HaShorashim*; Rabbi Yehudah Ibn Balaam, *Sefer HaTzimud*; *Midrash Chuppas Eliyahu Rabbah*; *Metzudas Tzion*; Rabbi Yaakov Chaim Sofer; the Zohar.

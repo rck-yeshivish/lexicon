@@ -110,7 +110,7 @@ Two lines of explanation.
   imagined in the empty cavity of their worshippers' hearts.
 - The printed Rashi there instead links *elilim* to *chalalim*, corpses,
   ostensibly because idols, like corpses, are lifeless things.
-- Separately, Rashi (Vayikra 19:4; Yirmiyahu 14:14; Zechariah 11:17; Iyov 13:4),
+- Separately, Rashi (Vayikra 19:4; Yirmiyahu 14:14; Zecharyah 11:17; Iyov 13:4),
   Ibn Ezra (Vayikra 19:4), and Ramban (Iyov 13:4) derive *elil* from *al*,
   "not": the sheer nothingness of an idol's power.
 
@@ -212,4 +212,4 @@ Rabbi Reuven Chaim Klein, "[Top Ten Words for Idols](https://articles.ohr.edu/ar
 
 Rabbi Reuven Chaim Klein, "[Yisro: Write it down](https://articles.ohr.edu/articles/yisro-write-it-down)," *What's in a Word?*, Ohr Somayach, 15 February 2025.
 
-Cited in the essay: *Avos d'Rabbi Nosson* ch. 34; Vayikra 19:4 with Rashi and Ibn Ezra; Devarim 4:16 with Rav Hirsch; Melachim I 5:32; Yirmiyahu 14:14; Chavakuk 2:18; Zechariah 11:17; Iyov 13:4 with Rashi and Ramban; Shabbos 149a with Rashi, Rabbeinu Nissim and Ritva; Rabbeinu Shimshon of Shantz and *Pirush HaRaavad* to *Toras Kohanim*; *She'iltos d'Rav Achai Gaon*; the Netziv; Malbim; Rabbi Shlomo Pappenheim; Rabbi Eliyahu Benamozegh; Maharitatz.
+Cited in the essay: *Avos d'Rabbi Nosson* ch. 34; Vayikra 19:4 with Rashi and Ibn Ezra; Devarim 4:16 with Rav Hirsch; Melachim I 5:32; Yirmiyahu 14:14; Chavakuk 2:18; Zecharyah 11:17; Iyov 13:4 with Rashi and Ramban; Shabbos 149a with Rashi, Rabbeinu Nissim and Ritva; Rabbeinu Shimshon of Shantz and *Pirush HaRaavad* to *Toras Kohanim*; *She'iltos d'Rav Achai Gaon*; the Netziv; Malbim; Rabbi Shlomo Pappenheim; Rabbi Eliyahu Benamozegh; Maharitatz.

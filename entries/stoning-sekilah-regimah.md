@@ -157,19 +157,19 @@ to a fool." *Margeimah* seemingly derives from ר-ג-ם as throwing, and the
 Gemara (Chullin 133a) almost certainly alludes to this when it derives from the
 verse that teaching an unworthy student is like throwing a stone to Merculis.
 
-Regem-Melech, who with Sarezer asked Zechariah about the fast of Av (Zechariah
+Regem-Melech, who with Sarezer asked Zecharyah about the fast of Av (Zecharyah
 7:2), and Regem of Yehudah (Divrei HaYamim I 2:47) seem to take their names
 somehow from ר-ג-ם.
 - *Mishnas Rabbi Eliezer* (ch. 3) makes the two askers Nevuchadnetzar's officers
   who converted.
 - Menachem Ibn Saruk: *regem melech* is not a name but "royal delegation,"
   *regem* meaning a grouping; others, "royal officials," *regem* meaning
-  officers (Ibn Ezra to Zechariah 7:2, Tehillim 68:28).
-- Abarbanel (to Zechariah 7:7, *Mashmia Yeshuah* 14:2): perhaps a title for his
+  officers (Ibn Ezra to Zecharyah 7:2, Tehillim 68:28).
+- Abarbanel (to Zecharyah 7:7, *Mashmia Yeshuah* 14:2): perhaps a title for his
   role at court. Since the Ugaritic equivalent of ר-ג-ם means "say, announce,
   answer," Rabbi Klein suggests Regem-Melech may have been the king's herald,
   and that Sarezer is perhaps *sar otzar*, treasurer.
-- Radak (to Zechariah 7:2 and *Sefer HaShorashim*) and Ibn Ezra (to Zechariah
+- Radak (to Zecharyah 7:2 and *Sefer HaShorashim*) and Ibn Ezra (to Zecharyah
   7:2) favor a real name.
 - Avraham Shmuel Herschberg (1858 to 1943) claims Regem was a god of the air,
   making Regem-Melech theophoric; Rabbi Klein could not substantiate this and
@@ -219,4 +219,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Emor: Getting Stoned](https://articles.ohr.edu/articles/emor-getting-stoned)," *What's in a Word?*, Ohr Somayach, 6 May 2023.
 
-Cited in the essay: Shemos 8:22, 17:4, 19:13, 21:28-29, 21:32, 26:1; Vayikra 20:2, 20:27, 24:10-23, 24:16; Bamidbar 14:10, 15:35-36; Devarim 13:11, 17:5, 21:21, 22:21, 22:24; Yehoshua 7:25; Shmuel I 30:6; Shmuel II 16:6, 16:13; Melachim I 12:18, 21:10-15; Yeshayahu 5:2, 62:10; Yechezkel 16:40, 23:47; Zechariah 7:2, 7:7; Tehillim 68:28; Mishlei 26:8; Iyov 21:33, 38:38; Ezra 4:7; Divrei HaYamim I 2:47; Divrei HaYamim II 10:18, 24:21; Mishnah *Shevi'is* 2:3 and 3:7, *Sukkah* 4:9, *Sanhedrin* 6:1, 6:4, 7:4, *Eduyos* 5:6; Chullin 133a; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Yosef Kimchi, *Sefer HaGalui* and *Sefer HaChukah*; Rashi, Targum and Radak to Yehoshua 7:25; Meiri to Mishlei 26:8; Rabbi Eliyahu HaBachur, *Meturgeman* and *Sefer HaTishbi*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* (עמ' 548, עמ' 798); Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim*; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Vayikra 24:16; Yashar; Rabbi Yehuda Leib Shapira-Frankfurter, *HaRechasim LeVik'ah* to Vayikra 24:15; *Sefer HaChochmah*; Rav Hirsch to Shemos 26:1; Rabbi Yehoshua Steinberg; Rabbi Yaakov Berger, *Milon Leshon Mikra*; *Ohalei Yehuda*; Rabbi Aharon Marcus; Rabbi Avi Kobernick, *Hipuch Osiyos*; Rabbi Yitzchak Ginsburgh; *Mishnas Rabbi Eliezer* ch. 3; Ibn Ezra to Zechariah 7:2 and Tehillim 68:28; Radak to Zechariah 7:2; Abarbanel to Zechariah 7:7 and *Mashmia Yeshuah* 14:2; Avraham Shmuel Herschberg; Rabbi Refael Gruskin; Rabbi Chaim Hirschensohn; Rabbi Yaakov Yehudah Zilberberg Di Kasif; Rabbi Binyamin Kohen-Shauli; Rabbi Yaakov Loyfer, introduction to Targum Onkelos in *Otzar HaRishonim*.
+Cited in the essay: Shemos 8:22, 17:4, 19:13, 21:28-29, 21:32, 26:1; Vayikra 20:2, 20:27, 24:10-23, 24:16; Bamidbar 14:10, 15:35-36; Devarim 13:11, 17:5, 21:21, 22:21, 22:24; Yehoshua 7:25; Shmuel I 30:6; Shmuel II 16:6, 16:13; Melachim I 12:18, 21:10-15; Yeshayahu 5:2, 62:10; Yechezkel 16:40, 23:47; Zecharyah 7:2, 7:7; Tehillim 68:28; Mishlei 26:8; Iyov 21:33, 38:38; Ezra 4:7; Divrei HaYamim I 2:47; Divrei HaYamim II 10:18, 24:21; Mishnah *Shevi'is* 2:3 and 3:7, *Sukkah* 4:9, *Sanhedrin* 6:1, 6:4, 7:4, *Eduyos* 5:6; Chullin 133a; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Yosef Kimchi, *Sefer HaGalui* and *Sefer HaChukah*; Rashi, Targum and Radak to Yehoshua 7:25; Meiri to Mishlei 26:8; Rabbi Eliyahu HaBachur, *Meturgeman* and *Sefer HaTishbi*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* (עמ' 548, עמ' 798); Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim*; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Vayikra 24:16; Yashar; Rabbi Yehuda Leib Shapira-Frankfurter, *HaRechasim LeVik'ah* to Vayikra 24:15; *Sefer HaChochmah*; Rav Hirsch to Shemos 26:1; Rabbi Yehoshua Steinberg; Rabbi Yaakov Berger, *Milon Leshon Mikra*; *Ohalei Yehuda*; Rabbi Aharon Marcus; Rabbi Avi Kobernick, *Hipuch Osiyos*; Rabbi Yitzchak Ginsburgh; *Mishnas Rabbi Eliezer* ch. 3; Ibn Ezra to Zecharyah 7:2 and Tehillim 68:28; Radak to Zecharyah 7:2; Abarbanel to Zecharyah 7:7 and *Mashmia Yeshuah* 14:2; Avraham Shmuel Herschberg; Rabbi Refael Gruskin; Rabbi Chaim Hirschensohn; Rabbi Yaakov Yehudah Zilberberg Di Kasif; Rabbi Binyamin Kohen-Shauli; Rabbi Yaakov Loyfer, introduction to Targum Onkelos in *Otzar HaRishonim*.

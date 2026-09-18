@@ -152,7 +152,7 @@ Rashi (to Chullin 53a) gives *meuh* for Hebrew *nohem* and *mikarkar* for
 *goeh*; for horses (Chullin 79a, Sotah 42a) he gives *tznif* against Biblical
 *tzohel*, though *tznif* elsewhere describes a wild chicken (*Targum Sheini* to
 Esther 1:2). None of the three appears in Tanach. Separately, *tzanif* in
-Biblical Hebrew is a crown (Yeshayahu 62:3, Zechariah 3:5, Iyov 29:14); Rav
+Biblical Hebrew is a crown (Yeshayahu 62:3, Zecharyah 3:5, Iyov 29:14); Rav
 Hirsch (to Devarim 25:18) links it to *zanav*, a tail, on the interchange of
 tzadi with zayin and peh with beis.
 
