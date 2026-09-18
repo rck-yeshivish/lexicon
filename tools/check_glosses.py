@@ -59,7 +59,11 @@ NAMED = {
     # any of the others, and neither does the one place he says Yonasan did not
     # render the word at all.
     "Targum Yonasan": ["תרגום יונתן", "תרגם יונתן", "יונתן תרגם", "יונתן תרגום",
-                       "תרגמו יונתן", "יונתן לא תרגם", "יונתן פירש"],
+                       "תרגמו יונתן", "יונתן לא תרגם", "יונתן פירש",
+                       # Three times he gives not a rendering but a view: וכן דעת
+                       # יונתן, and once that view is why Yonasan left a word
+                       # untranslated.
+                       "דעת יונתן"],
     "Targum": ["תרגום", "תרגם", "התרגום"],
     "Onkelos": ["אנקלוס"],
     # The edition prints his name twelve times as אלעזר, twice as אלעור with a
@@ -121,6 +125,8 @@ BOOKS = {
     "צפניה": "Zephaniah", "חגי": "Haggai", "זכריה": "Zechariah", "מלאכי": "Malachi",
     "תהלים": "Psalms", "משלי": "Proverbs", "איוב": "Job", "שיר השירים": "Song of Songs",
     "רות": "Ruth", "איכה": "Lamentations", "קהלת": "Ecclesiastes", "אסתר": "Esther",
+    # The edition sets Koheles once as קהלית, which Sefaria did not link.
+    "קהלית": "Ecclesiastes",
     "דניאל": "Daniel", "עזרא": "Ezra", "נחמיה": "Nehemiah",
     "דברי הימים א": "I Chronicles", "דברי הימים ב": "II Chronicles",
 }

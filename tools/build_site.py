@@ -1820,6 +1820,9 @@ p.rad-hw bdi{font-family:var(--heb);font-size:17px;color:var(--accent)}
   .rhead{display:none}
   .rad-open{padding:14px 16px 16px}
   .rad-body,.rad-text{font-size:18px;line-height:1.8}
+  /* A fold is opened by thumb here, so its row is a 44px target. */
+  .rad-en-d>summary{padding:12px 0 12px 18px;font-size:13.5px}
+  .rad-en-d>summary::before{top:11px}
   .rows.roots .rad{grid-column:1/-1}}
 .rows.roots .h{font-size:20px;line-height:1.3}
 .rlinks{color:var(--dim);font-size:14px;line-height:1.5}
