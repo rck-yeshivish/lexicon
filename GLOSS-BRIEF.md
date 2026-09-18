@@ -75,6 +75,12 @@ the entry each would complete.
 - **Naming an authority he does not name.** Rabbi Yonah, Ibn Ezra, the Targum,
   Rav Saadiah Gaon, Rashi, the Mesorah, Chazal and the rest go in only where his
   Hebrew names them.
+- **"He" straight after naming somebody else.** Throughout a gloss "he" is
+  Radak, but in the sentence after another authority is named it reads as that
+  authority. It matters most where he closes by endorsing a view: והוא נכון is
+  "and it is correct", him affirming what he has just reported, and "and he
+  holds that right" made it sound as though Rabbi Yehudah were approving his own
+  filing. Name Radak there.
 
 ## Same letters, other word
 
