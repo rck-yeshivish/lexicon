@@ -129,4 +129,4 @@ Rabbi Reuven Chaim Klein, "[Say your Prayers](https://articles.ohr.edu/articles/
 
 Rabbi Reuven Chaim Klein, "[Bo: Filling your Phylacteries](https://articles.ohr.edu/articles/bo-filling-your-phylacteries)," *What's in a Word?*, Ohr Somayach, 20 January 2024.
 
-Cited in the essay: Bereishis 27:22, 48:22 with Targum Onkelos; *Bava Basra* 123a; Shemos 21:22; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Simcha Maimon; Rabbi Shmuel Laniado; the Maharal, *Be'er HaGolah* §4:2.
+Cited in the essay: Bereishis 27:22, 48:22 with Targum Onkelos; *Bava Basra* 123a; Shemos 21:22; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* (בראשית כ:יז, ר"פ ואתחנן, פתיחה לעיון תפילה); Rabbi Simcha Maimon; Rabbi Shmuel Laniado; the Maharal, *Be'er HaGolah* §4:2.

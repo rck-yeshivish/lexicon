@@ -190,4 +190,4 @@ Rabbi Reuven Chaim Klein, "Learning to differentiate between apparent synonyms,"
 
 Rabbi Reuven Chaim Klein, "[Don't Trample On Me](https://articles.ohr.edu/articles/dont-trample-on-me)," *What's in a Word?*, Ohr Somayach, 22 July 2023.
 
-Cited in the essay: Bereishis 49:17 with Rabbi Tzvi Hirsch Shlez; Mishlei 2:20 with Wertheimer, *Beiurei Shemos Nirdafim* (דרך וכו'); Zohar Vayakhel 215a and Kedoshim 88a; Yeshayahu 63:2 and Rashi to Devarim 33:29 on *dorech*; Radak on *oreach*; Rabbi Moshe Shapiro on *dorech* as the treading down of trials; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim*; Vilna Gaon; Malbim.
+Cited in the essay: Bereishis 49:17 with Rabbi Tzvi Hirsch Shlez; Mishlei 2:20 with Wertheimer, *Beiurei Shemos Nirdafim* (דרך וכו'); Zohar Vayakhel 215a and Kedoshim 88a; Yeshayahu 63:2 and Rashi to Devarim 33:29 on *dorech*; Radak on *oreach*; Rabbi Moshe Shapiro on *dorech* as the treading down of trials; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim*; Vilna Gaon; Malbim, *Sefer HaCarmel* s.v. מסלה, ארח, נתיב.

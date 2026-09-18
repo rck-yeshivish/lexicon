@@ -170,4 +170,4 @@ Rabbi Reuven Chaim Klein, "[Ki Tisa: Remember Forever](https://articles.ohr.edu/
 
 Rabbi Reuven Chaim Klein, "[Shemini: Types of Species](https://articles.ohr.edu/articles/shemini-types-of-species)," *What's in a Word?*, Ohr Somayach, 15 April 2023.
 
-Cited in the essay: Vayikra 23:15-16; Devarim 25:2; Bamidbar 1:21, 2:32, 31:49; Shmuel I 15:4; Yeshayahu 38:10; Avos ch. 6; the masechtos *Sotah* and *Shevuos*; the Yom Kippur liturgy on the Kohen Gadol's sprinklings; the Vilna Gaon; Rabbi Wertheimer; Rabbi Shlomo Pappenheim of Breslau; Rabbi Yaakov Tzvi Mecklenburg (*HaKsav VeHaKabbalah*); Rabbi Moshe Shapiro; Malbim.
+Cited in the essay: Vayikra 23:15-16; Devarim 25:2; Bamidbar 1:21, 2:32, 31:49; Shmuel I 15:4; Yeshayahu 38:10; Avos ch. 6; the masechtos *Sotah* and *Shevuos*; the Yom Kippur liturgy on the Kohen Gadol's sprinklings; the Vilna Gaon; Rabbi Wertheimer, *Beiurei Shemos Nirdafim* s.v. זכר\פקד, אמר-ספר; Rabbi Shlomo Pappenheim of Breslau; Rabbi Yaakov Tzvi Mecklenburg (*HaKsav VeHaKabbalah*); Rabbi Moshe Shapiro; Malbim, *Yair Ohr* (אות ז' סימ ו זכר\פקד), and *Sefer HaCarmel* s.v. מגיד מספר.

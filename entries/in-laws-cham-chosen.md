@@ -152,4 +152,4 @@ Rabbi Reuven Chaim Klein, "[Heat with the In-Laws](https://articles.ohr.edu/arti
 
 Rabbi Reuven Chaim Klein, "[Sort of Siblings](https://articles.ohr.edu/articles/sort-of-siblings)," *What's in a Word?*, Ohr Somayach, 21 August 2021.
 
-Cited in the essay: Shemos 18:1-27; Devarim 27:23; Bamidbar 10:29; Shoftim 4:11; Ibn Janach; Bereishis 38:13, 38:25; Rus 2:11-3:17; Shir HaShirim 8:7; Tehillim 51:7; Kesubos 1:5; Yevamos 1:1 and 15:4; Radak, *Sefer HaShorashim*; Rav Hirsch; Rabbi Shlomo Pappenheim; Rabbi Menachem Azariah of Fano; the *Pri Megadim*, in a letter on dikduk; *Shem MiShimon* (Rabbi Shimon Pollack).
+Cited in the essay: Shemos 18:1-27; Devarim 27:23; Bamidbar 10:29; Shoftim 4:11; Ibn Janach; Bereishis 38:13, 38:25; Rus 2:11-3:17; Shir HaShirim 8:7; Tehillim 51:7; Kesubos 1:5; Yevamos 1:1 and 15:4; Radak, *Sefer HaShorashim*; Rav Hirsch; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. חם, חת; Rabbi Menachem Azariah of Fano; the *Pri Megadim*, in a letter on dikduk; *Shem MiShimon* (Rabbi Shimon Pollack).
