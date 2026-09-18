@@ -80,8 +80,10 @@ pieces in:
   phrase quoted must be in the entry, every pasuk cited must be one he cites,
   every authority named must be one he names. It cannot tell whether the
   English renders the Hebrew rightly, which is what a human review is for, so a
-  gloss stays `draft` until a person has read it against the source. Run it
-  with `check_entries.py` after writing any.
+  gloss stays `draft` until a person has read it against the source. It also
+  refuses a citation printed in Hebrew and a part that is nearly all Hebrew,
+  both of which fail the reader the glosses are written for. Run it with
+  `check_entries.py` after writing any. `GLOSS-BRIEF.md` is the drafting brief.
 - **`fetch_radak_pesukim.py [--refresh]`** saves the pesukim Radak cites, the
   ones `pesukim.json` does not already hold, to `references/radak-pesukim.json`,
   so the roots page can show a citation's text. Run it after

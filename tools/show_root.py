@@ -6,7 +6,7 @@
 
 Written for whoever is drafting references/radak-gloss.json, by hand or
 otherwise: everything needed to write a gloss is here, and nothing has to be
-fetched. A root he files under another headword prints that headword, and a
+fetched. GLOSS-BRIEF.md is the brief for writing them. A root he files under another headword prints that headword, and a
 root he treats twice prints both entries.
 """
 import json, pathlib, re, sys, collections
