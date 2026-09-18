@@ -1,7 +1,7 @@
 ---
 cluster: love
 hebrew: [אהבה, אהוב, אוהב, רחים, רחימו, חיבה, חביב, חובב, עגב, עגבים]
-roots: [א-ה-ב, ר-ח-ם, ח-ב-ב, ע-ג-ב]
+roots: [א-ה-ב, ר-ח-ם, ח-ב-ה, ע-ג-ב]
 translit: [ahavah, ahava, ahuv, ahuvah, ohev, ahavim, rechim, r'chim, rechimu, rachim, dechilu urechimu, chibah, chiba, chibbah, chaviv, chavivus, chavivut, chovev, agav, agavim, ugav]
 english: [love, fondness, affection, endearment, dear, beloved, lust]
 domain: emotion
@@ -9,7 +9,7 @@ words:
   - he: אהבה
     tr: ahavah
     en: love
-    distinct: the general and widest word; true love gives itself to the beloved, from hav, to give (Rav Hirsch, Rabbi Eliyahu Lopian); desire awakened in a positive direction, from א-ב (Pappenheim); embraces the whole person, faults included (Rabbi Yosef Zechariah Stern)
+    distinct: the general and widest word; true love gives itself to the beloved, from hav, to give (Rav Hirsch), which Rabbi Eliyahu Lopian teaches as mussar without the etymology; desire awakened in a positive direction, from א-ב (Pappenheim); embraces the whole person, faults included (Rabbi Yosef Zechariah Stern)
   - he: חיבה
     tr: chibah
     en: fondness, affection
@@ -119,7 +119,7 @@ heavily" or "to be excited"; on that basis Gesenius connects *ahavah*, *hav*,
 heavy breathing.
 
 ### chibah (חיבה) and chaviv (חביב)
-Root ח-ב-ב. Cognates are already in Tanach: Hashem calls the Jews *chovev amim*,
+Root ח-ב-ה. Cognates are already in Tanach: Hashem calls the Jews *chovev amim*,
 "beloved of the nations" (Devarim 33:3), and one of the names of Moshe's
 father-in-law Yisro was Chovav, likewise related to *chibah*. The Targum to
 Tehillim 18:2, rendering *erchamcha*, uses a cognate of *chibah*.

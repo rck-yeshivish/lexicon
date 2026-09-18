@@ -48,7 +48,7 @@ therefore the more intense.
 |---|---|---|---|
 | אימה | eimah | dread, terror | the inner feeling of fear (Ibn Ezra); far or near threat, versions disagree (Rashi) |
 | פחד | pachad | fright, fear | sudden and brief (Rashi, Wertheimer); humans only (Wertheimer); fear's outward show (Ibn Ezra) |
-| יראה | yirah | fear | the general word; sustained, pent-up fear (Rashi), the more intense (Wertheimer) |
+| יראה | yirah | fear | fear in general; of its pair מורא, Rashi gives fear long pent up and Wertheimer the more intense |
 | דאגה | daagah | worry, anxiety | fear of loss or coming evil (Rashi); what will surely happen (Beis HaLevi) |
 
 ## Distinctions
