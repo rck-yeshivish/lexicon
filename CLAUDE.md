@@ -28,6 +28,18 @@ the protocol for looking a word up.
    or Ugaritic cognate, a Greek or Latin etymology, or a named academic, that
    material belongs in the entry, attributed the way he attributes it. What you
    may not do is bring in material of your own from outside the article.
+
+   A citation is the one thing an entry may quietly put right. Where the essay
+   prints a chapter or a pasuk that is plainly a slip, the entry gives the
+   correct one without a note, and the audits have found it doing so: Rav
+   Hirsch to Bereishis 17:7 given as 17:17, the pasuk that has ויצחק; Hoshea
+   5:19 given as Mishlei 5:19, the one with אהבים, Hoshea having only fourteen
+   chapters; Iyov 21:21 as 21:12, which has the עוגב; Shmuel I 12:4 as Shmuel
+   II 12:4, Nasan's parable with the הלך. The bar is certainty and not
+   likelihood: put it right only where the text itself settles it, as each of
+   those does, and check it against references/pesukim.json rather than from
+   memory. Where you are not certain, keep what the essay prints and say in the
+   entry that it is the essay's.
 3. **Disputes stay disputes.** Name each view and its holder. The Bottom line
    says the authorities differ and does not choose between them. Never smooth a
    machlokes into one answer.
