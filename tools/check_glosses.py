@@ -34,7 +34,7 @@ BINYAN = re.compile(r"\b(hif'?il|pi'?el|nif'?al|pu'?al|hitpa'?el|hishtaf'?el|bin
 # The house rule bars journey as a figure, not a day's journey, which is what
 # מהלך יום plainly is.
 AI = re.compile(r"\b(delve|leverage|underscore\w*|a testament to|it'?s worth noting|"
-                r"navigat\w+|(?<!day's )(?<!days' )journey|tapestry|realm)\b", re.I)
+                r"navigat\w+|(?<!day's )(?<!days' )journey|tapestry|realm|whence)\b", re.I)
 # Authorities he may be said to bring, and how his Hebrew names them.
 NAMED = {
     "Rabbi Yonah": ["רבי יונה"],
