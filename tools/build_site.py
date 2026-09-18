@@ -324,6 +324,13 @@ def collect():
     # so the essay keeps only the words no other entry has.
     elsewhere = {w["k"] for w in words if w["s"] != METHOD}
     words = [w for w in words if w["s"] != METHOD or w["k"] not in elsewhere]
+    # The same on the English side, which it never reached: the essay was
+    # listing word, thing, ruler and kingship in the A to Z beside the Word and
+    # King entries that actually treat them. It keeps said, spoke and came,
+    # which no entry claims.
+    en_elsewhere = {x["e"].lower() for x in english if x["s"] != METHOD}
+    english = [x for x in english
+               if x["s"] != METHOD or x["e"].lower() not in en_elsewhere]
     return entries, words, english
 
 
@@ -1061,7 +1068,9 @@ def entry_page(e):
             'only his examples, and each is covered on its own page: '
             '<a href="speech-dibbur-amirah.html">Speech</a> (<em>vayomer</em>, <em>vayidaber</em>), '
             '<a href="king-melech-moshel.html">King</a> (<em>melucha</em>, <em>moshel</em>), and '
-            '<a href="coming-biah-halichah-atah.html">Coming</a> (<em>ba</em>, <em>atah</em>).</p></div>')
+            '<a href="coming-biah-halichah-atah.html">Coming</a> (<em>ba</em>, <em>atah</em>). '
+            'It belongs with <a href="../method.html">About</a>, which carries the same '
+            'question from his article in <em>Babel</em>.</p></div>')
     elif not has_cards:
         parts[0] += f'\n<p class="heb-title">{heb}</p>'
     # Each word's own distinction reads before the disputes about them.
@@ -1116,7 +1125,10 @@ def entry_page(e):
         # somehow does not, so the list cannot be dropped.
         if headname in ("Rendering guidance", "Sources") and xref:
             items = "".join(
-                f'<li><a href="{html.escape(s)}.html">{html.escape(c[:1].upper() + c[1:])}</a>'
+                f'<li><a href="{html.escape(s)}.html">'
+                # "Synonyms" alone reads as a group of synonyms called synonyms,
+                # which is the one thing that page is not.
+                f'{html.escape("Synonyms: the method" if s == METHOD else c[:1].upper() + c[1:])}</a>'
                 f'<span class="xw">{inline(w)}</span></li>'
                 for c, s, w in xref)
             parts.append(f'<section class="xref" id="s-also"><h2>Also discussed in</h2><ul>{items}</ul></section>')
@@ -1428,9 +1440,18 @@ def main():
                 '<button class="tab on" data-pane="summary">Summary</button>'
                 '<button class="tab" data-pane="article">The article</button></div>'
                 if pdf_pane else "")
+        # His own introduction to the column answers the same question this page
+        # does, from a different source, and it is a full page of its own rather
+        # than a group of synonyms. It belongs here rather than loose among the
+        # entries, so About carries the way in to it.
+        intro = (f'<div class="method-note"><p><strong>Rabbi Klein\'s own introduction.</strong> '
+                 f'The summary above is drawn from his article in <em>Babel</em>. He opened the '
+                 f'column itself with the same question, why Hebrew should need several words for '
+                 f'one thing, and answered it with the templates the answers tend to follow. That '
+                 f'is <a href="entries/{METHOD}.html">a page of its own</a>.</p></div>')
         emit("method.html", shell("Methodology — What’s in a Word?",
                                   f'<article class="entry prose">{tabs}'
-                                  f'<div class="pane" id="pane-summary">{md(body)}</div>'
+                                  f'<div class="pane" id="pane-summary">{md(body)}{intro}</div>'
                                   f'{pdf_pane}</article>',
                                   active="me"))
 
