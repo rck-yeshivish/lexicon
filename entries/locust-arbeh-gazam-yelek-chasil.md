@@ -105,7 +105,7 @@ as *govai*, as does the Targum to Yoel.
 ### yelek (ילק)
 - Radak: from *melakek*, to lick, for its habit of licking and chewing at the
   grass. Third in Yoel's sequence.
-- Nachum 3:15 describes the *yelek* as one that "spreads out and flies away,"
+- Nachum 3:16 describes the *yelek* as one that "spreads out and flies away,"
   and on that Malbim builds a life cycle: born as a kind of worm, then a cocoon,
   then emerging winged. Rabbi Klein adds that after consulting Ohr Somayach's
   resident zoologist, Rabbi Richard Jacobs, he has been unable to confirm that
@@ -190,4 +190,4 @@ Rabbi Reuven Chaim Klein, "[Army of Grasshoppers](https://articles.ohr.edu/artic
 
 Rabbi Reuven Chaim Klein, "[Empty Exaggerations](https://articles.ohr.edu/articles/empty-exaggerations)," *What's in a Word?*, Ohr Somayach, 2 July 2022.
 
-Cited in the essay: Bereishis 31:19, 38:12; Shemos 10:14; Vayikra 11:22; Devarim 28:42, 32:24; Tehillim 72:6, 78:47 with Rashi; Yoel 1:4, 2:20 with Rashi and Radak; Nachum 3:15 with Malbim; Amos 7:1 with Radak; Divrei HaYamim I 13:8; Chullin 63b, 65a; Bava Kamma 116b with Rashi; *Midrash HaGadol* to Shemos 10:14; *Midrash Sechel Tov*; Meiri, *Beis HaBechirah*; Rabbi Shmuel ben Meshullam of Gerona, *Ohel Mo'ed*; Rav Chaim Kanievsky, *Karnei Chagavim* 2; Rabbeinu Bachya to Devarim 28:42; *Peirush HaRokeach*; Rav Saadia Gaon, Ralbag and Ramban on *tzlatzel*; Targum to Yoel.
+Cited in the essay: Bereishis 31:19, 38:12; Shemos 10:14; Vayikra 11:22; Devarim 28:42, 32:24; Tehillim 72:6, 78:47 with Rashi; Yoel 1:4, 2:20 with Rashi and Radak; Nachum 3:16 with Malbim; Amos 7:1 with Radak; Divrei HaYamim I 13:8; Chullin 63b, 65a; Bava Kamma 116b with Rashi; *Midrash HaGadol* to Shemos 10:14; *Midrash Sechel Tov*; Meiri, *Beis HaBechirah*; Rabbi Shmuel ben Meshullam of Gerona, *Ohel Mo'ed*; Rav Chaim Kanievsky, *Karnei Chagavim* 2; Rabbeinu Bachya to Devarim 28:42; *Peirush HaRokeach*; Rav Saadia Gaon, Ralbag and Ramban on *tzlatzel*; Targum to Yoel.

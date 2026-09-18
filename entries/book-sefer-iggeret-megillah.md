@@ -193,7 +193,8 @@ Rashi's Gemara commentary the *kuntres*, and though Rashi does not use the word
 of his own work he uses it of his rebbi's commentary (to Gittin 82a).
 
 - Rabbi Binyamin Mussafia, Rabbi Ernest Klein and Rabbi Daniel Sperber derive it
-  from the Greek *commentaries*, Rabbi Sperber explaining the term from the
+  from the Greek for commentaries, κομμεντάριον, Rabbi Sperber explaining the
+  term from the
   records of the public register that documented official government acts.
 - Rabbi Eliyahu HaBachur (*Sefer HaTishbi*) derives it instead from the Latin
   *quinternus*, a quire of five sheets of paper.

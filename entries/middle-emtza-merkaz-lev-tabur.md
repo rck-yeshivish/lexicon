@@ -79,7 +79,7 @@ yields Germanic *midja* and Latin *medius*, and through them the English
 
 In Talmudic and Targumic Aramaic the initial *aleph* drops and the word is
 *metzia* or *metziyasa* (Targum to Bereishis 1:6, 2:9; Shemos 26:28; Shoftim
-16:29; Iyov 20:13; Tehillim 45:10, 135:9). Hence *Bava Metzia*, the Middle Gate,
+16:29; Iyov 20:13; Tehillim 48:10, 135:9). Hence *Bava Metzia*, the Middle Gate,
 beside *Bava Kamma* and *Bava Basra*, and not *Bava Emtzai*.
 
 ### merkaz (מרכז)
@@ -208,4 +208,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[In the Middle](https://articles.ohr.edu/articles/in-the-middle)," *What's in a Word?*, Ohr Somayach, 16 July 2022.
 
-Cited in the essay: Yeshayahu 28:20, 40:4; Bereishis 1:6, 2:9, 12:5; Shemos 15:8, 26:28, 28:28, 39:21; Devarim 4:11; Shoftim 9:37, 16:29; Shmuel II 18:14; Yechezkel 27:4, 27:25-27, 28:2, 28:8, 38:12; Tehillim 31:21, 45:10, 46:3, 135:9; Iyov 20:13; Shabbos 18:3; Sotah 9:4; Bechoros 7:5; Ramban to Bereishis 2:9; *Shu"t Maharit* vol. 2, Even HaEzer 8.
+Cited in the essay: Yeshayahu 28:20, 40:4; Bereishis 1:6, 2:9, 12:5; Shemos 15:8, 26:28, 28:28, 39:21; Devarim 4:11; Shoftim 9:37, 16:29; Shmuel II 18:14; Yechezkel 27:4, 27:25-27, 28:2, 28:8, 38:12; Tehillim 31:21, 46:3, 48:10, 135:9; Iyov 20:13; Shabbos 18:3; Sotah 9:4; Bechoros 7:5; Ramban to Bereishis 2:9; *Shu"t Maharit* vol. 2, Even HaEzer 8.

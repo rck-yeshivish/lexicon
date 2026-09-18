@@ -180,7 +180,7 @@ expressions of lust, lewd songs (Yechezkel 33:31-32). Rabbi Yehuda Leib Edel:
 *agav* is marked by outward professions of love, lewd gestures and songs; that,
 Rabbi Klein notes, makes it the opposite of *chibah* as Lubetzky reads it. The
 same root gives the *ugav*, an unidentified musical instrument mentioned four
-times (Bereishis 4:21; Iyov 21:21, 30:31; Tehillim 150:4).
+times (Bereishis 4:21; Iyov 21:12, 30:31; Tehillim 150:4).
 
 - Shadal (Bereishis 4:21) surmises that *ugav* is a portmanteau of *al* and
   *gav*, "on the back," and does not connect it to *agav* in the sense of love.

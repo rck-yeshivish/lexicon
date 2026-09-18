@@ -18,7 +18,7 @@ words:
   - he: וילון
     tr: vilon
     en: curtain
-    distinct: a later Rabbinic word for a plain curtain, four times in the Mishnah; a loanword, velum, related to English veil; also the name of the first heaven, the curtain over the entrance to the heavens
+    distinct: a later Rabbinic word for a plain curtain, four times in the Mishnah; a Latin loanword, velum, related to English veil; also the name of the first heaven, the curtain over the entrance to the heavens
   - he: פרגוד
     tr: pargod
     en: partition curtain
@@ -48,7 +48,7 @@ between Hashem and what is below. On Rabbi Shlomo Pappenheim's reading,
 |---|---|---|---|
 | פרוכת | paroches | dividing curtain | divides Kodesh from Kodesh HaKodashim (Rashi); a function, not a fabric (Pappenheim) |
 | מסך | masach | screen | covers an entrance (Rashi); heavy cloth that shields from view (Pappenheim) |
-| וילון | vilon | curtain | the plain Rabbinic curtain, a loanword (*velum*); the first of seven heavens |
+| וילון | vilon | curtain | the plain Rabbinic curtain, a Latin loanword (*velum*); the first of seven heavens |
 | פרגוד | pargod | partition curtain | stands where the *paroches* stands (Rav Hai Gaon); in aggadah, what screens Hashem (Rashi) |
 
 ## Distinctions
@@ -93,8 +93,8 @@ outside.
 Four times in the Mishnah (*Keilim* 20:6, 24:13, 27:9, and *Negaim* 11:11), and
 the name of the first of the seven heavens (*Chagigah* 12b), because it serves
 as the curtain over the entrance to the heavens. The origins of the word are
-neither Hebrew nor Aramaic: it is a loanword from the Greek *velum*,
-which is related to the English *veil*. *Velum* survives in English scientific
+neither Hebrew nor Aramaic: it is a loanword from the Latin *velum*, which
+the Greek βῆλον in turn borrowed, and which is related to the English *veil*. *Velum* survives in English scientific
 terminology for a thin veil-like membrane, and the English *reveal* and *unveil*
 literally mean to undo a veiling.
 

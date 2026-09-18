@@ -38,7 +38,7 @@ words:
 sources:
   - wiaw:9603 "Pick Your Poison" (2022-03-05) https://articles.ohr.edu/articles/pick-your-poison
   - wiaw:11562 "Bereishis: In the Beginning..." (2024-10-26) https://articles.ohr.edu/articles/bereishis-in-the-beginning
-authorities: [Rashi, Ibn Ezra, Radak, Vilna Gaon, Rabbi Yeshayah of Trani, Rabbeinu Efrayim, Rabbi Shlomo Pappenheim, Rabbi Shlomo of Urbino, Rabbi Menachem Azariah of Fano, Targum Sheini, Midrash Sechel Tov, Midrash Aggadah, Daas Zekeinim, Rabbi Yehuda Feliks, Yossiphon, Mechilta, Midrash Tanchuma, Dr. Alexander Kohut, Rabbi Ernest Klein, Avraham Even-Shoshan, Comprehensive Aramaic Lexicon, Rav Hirsch]
+authorities: [Rashi, Ibn Ezra, Radak, Vilna Gaon, Rabbi Yeshayah of Trani, Rabbeinu Efrayim, Rabbi Shlomo Pappenheim, Rabbi Shlomo of Urbino, Rabbi Menachem Azariah of Fano, Targum Rishon, Targum Sheini, Midrash Sechel Tov, Midrash Aggadah, Daas Zekeinim, Rabbi Yehuda Feliks, Yossiphon, Mechilta, Midrash Tanchuma, Dr. Alexander Kohut, Rabbi Ernest Klein, Avraham Even-Shoshan, Comprehensive Aramaic Lexicon, Rav Hirsch]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -79,9 +79,10 @@ venom only when angered or whether the venom sits always on its teeth. So *eres*
 is not the general word for poison but venom, most often a snake's; this is what
 Bigsan and Seresh meant to put in Achashverosh's cup (Megillah 13b). An
 alternate tradition has them planning to kill him in his sleep and present his
-severed head to the Greek kings (*Yossiphon* ch. 4), and *Targum Sheini* to
+severed head to the Greek kings (*Yossiphon* ch. 4), and *Targum Rishon* to
 Esther 2:21 combines the two, having them poison Esther with a *sam hamaves*
-first and then slay her husband.
+first and then slay her husband; *Targum Sheini* there has them put a
+poisonous snake in the king's golden cup instead.
 
 The origins of *eres* are shrouded in mystery.
 
@@ -228,4 +229,4 @@ Rabbi Reuven Chaim Klein, "[Pick Your Poison](https://articles.ohr.edu/articles/
 
 Rabbi Reuven Chaim Klein, "[Bereishis: In the Beginning...](https://articles.ohr.edu/articles/bereishis-in-the-beginning)," *What's in a Word?*, Ohr Somayach, 26 October 2024.
 
-Cited in the essay: Bereishis 24:33 with *Midrash Sechel Tov*, *Midrash Aggadah* and *Daas Zekeinim*; Shemos 4:24-26, 15:22, 30:7, 30:34, 40:27; Vayikra 16:12; Devarim 29:17, 32:32, 32:33; Yehoshua 15:16-17; Shoftim 1:12-13; Yeshayahu 3:16, 3:18, 3:19, 51:17, 51:22; Yirmiyahu 8:14; Nachum 2:4; Zechariah 12:2; Tehillim 58:5, 60:5; Mishlei 7:22; Iyov 20:16; Eichah 3:19; Divrei HaYamim I 2:49, II 2:3, 13:11, 22:10; Esther 2:21 with *Targum Sheini*; *Yossiphon* ch. 4; Megillah 13b; Shabbos 62b; Yoma 9b; Eruvin 56a; Taanis 7a; Gittin 35a; Sotah 3b; Avodah Zarah 30b, 31b; Sukkah 50a; Sanhedrin 78a; Bava Kamma 23b, 47b, 56a, 115b; Mishnah Chullin 3:5; *Mechilta* to Shemos 15:22; *Midrash Tanchuma*, *Beshalach* 18; Targum; Rashi, Ibn Ezra and Radak (with *Sefer HaShorashim*) to the pesukim above; the Vilna Gaon; Rabbi Yeshayah of Trani; Rabbeinu Efrayim; Rabbi Menachem Azariah of Fano; Rabbi Shlomo Pappenheim; Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Dr. Yehuda Feliks; Dr. Alexander Kohut; Rabbi Ernest Klein; Avraham Even-Shoshan; the *Comprehensive Aramaic Lexicon*; Rav Hirsch to Devarim 29:17.
+Cited in the essay: Bereishis 24:33 with *Midrash Sechel Tov*, *Midrash Aggadah* and *Daas Zekeinim*; Shemos 4:24-26, 15:22, 30:7, 30:34, 40:27; Vayikra 16:12; Devarim 29:17, 32:32, 32:33; Yehoshua 15:16-17; Shoftim 1:12-13; Yeshayahu 3:16, 3:18, 3:19, 51:17, 51:22; Yirmiyahu 8:14; Nachum 2:4; Zechariah 12:2; Tehillim 58:5, 60:5; Mishlei 7:22; Iyov 20:16; Eichah 3:19; Divrei HaYamim I 2:49, II 2:3, 13:11, 22:10; Esther 2:21 with *Targum Rishon* and *Targum Sheini*; *Yossiphon* ch. 4; Megillah 13b; Shabbos 62b; Yoma 9b; Eruvin 56a; Taanis 7a; Gittin 35a; Sotah 3b; Avodah Zarah 30b, 31b; Sukkah 50a; Sanhedrin 78a; Bava Kamma 23b, 47b, 56a, 115b; Mishnah Chullin 3:5; *Mechilta* to Shemos 15:22; *Midrash Tanchuma*, *Beshalach* 18; Targum; Rashi, Ibn Ezra and Radak (with *Sefer HaShorashim*) to the pesukim above; the Vilna Gaon; Rabbi Yeshayah of Trani; Rabbeinu Efrayim; Rabbi Menachem Azariah of Fano; Rabbi Shlomo Pappenheim; Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Dr. Yehuda Feliks; Dr. Alexander Kohut; Rabbi Ernest Klein; Avraham Even-Shoshan; the *Comprehensive Aramaic Lexicon*; Rav Hirsch to Devarim 29:17.

@@ -55,7 +55,7 @@ word names stairs by their upward use, as English "elevator" and "escalator"
 do, because going up is the feat; a stair goes down too, but the word looks
 up. Tanach: the six *maalos* of Shlomo's throne (Melachim I 10:19), which
 Rashi glosses as *madreigos* and Targum Yonasan as *dargin*; the fifteen
-*Shir HaMaalos* (Tehillim 120-135), matched by the Mishnah (Sukkah 5:4) to
+*Shir HaMaalos* (Tehillim 120-134), matched by the Mishnah (Sukkah 5:4) to
 the fifteen steps on which the Leviim sang between the courtyards; the three
 *maalos* of the stone before the Menorah (Tamid 3:9), on which the Kohen stood
 to set it up. In the parallel to Shlomo's throne, pseudo-Rashi (to Divrei

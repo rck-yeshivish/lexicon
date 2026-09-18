@@ -203,7 +203,7 @@ original sense may have had nothing to do with religion as such.
   extra-judicial deterrent to others minded to defy the king (*dat*); this is
   why the Megillah puts *dat* before *din*, though in theory *din* should come
   first.
-- Ibn Ezra (to Esther 1:3): *dat* is the law of the land, here of the kings of
+- Ibn Ezra (to Esther 1:13): *dat* is the law of the land, here of the kings of
   Persia and Media, and *din* the particular verdict decreed on the offender;
   alternatively, he suggests, *dat* is what Divine fate dictates and *din* what
   the astrological forces decree, a reading also cited by Rabbi Moshe Chalavah

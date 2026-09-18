@@ -116,7 +116,7 @@ Birkas Kohanim, even outside the Mikdash (Shabbos 118b, Rosh Hashanah 28b and
   a *Reish Duchana*, on account of his standing as a public lecturer who spoke
   from a special lectern or platform; Rabbi Menachem Kasher (*Torah Shleimah*
   vol. 26 p. 289) points out that this is not entirely accurate, since at the
-  one place the term appears (Bava Basra 21) Rashi explains it as a low-level
+  one place the term appears (Bava Basra 21a) Rashi explains it as a low-level
   teacher's assistant paid to drill the children in what the main teacher had
   taught.
 
@@ -157,7 +157,7 @@ has hexed linguists and historians like Max Weinreich for generations.
 A loanword, in the Mishnah once, for the base of a candelabrum (Keilim 11:7).
 Its halachic career is larger: *basis l'davar ha'assur*, a permitted object
 serving as the base for a forbidden one and thereby becoming forbidden itself
-(Shabbos 47a, 117a, 120b, 125b, 142a; Pesachim 83a; Chullin 125).
+(Shabbos 47a, 117a, 120b, 125b, 142a; Pesachim 83a; Chullin 125a).
 
 - The loan is from the Latin and Greek *basis*, base, step, pedestal, foot,
   going, the forebear of English *basis*, *base* and *basic*, and, through the
@@ -219,4 +219,4 @@ Rabbi Reuven Chaim Klein, "[Sort of Siblings](https://articles.ohr.edu/articles/
 
 Rabbi Reuven Chaim Klein, "[Don't Trample On Me](https://articles.ohr.edu/articles/dont-trample-on-me)," *What's in a Word?*, Ohr Somayach, 22 July 2023.
 
-Cited in the essay: Shemos 30:18, 30:28, 31:9, 35:16, 38:8, 39:39, 40:11; Vayikra 8:11; Bereishis 40:13, 41:13; Bamidbar 6:23 with *Kerem Tzvi*; Mishnah Yoma 5:3-4, Arachin 2:6, Middos 2:6, Kiddushin 4:5, Sotah 7:8, Avodah Zarah 1:7, Keilim 11:7, Pesachim 1:5, Shekalim 8:4, Sukkah 4:4, Niddah 9:3; Taanis 29a; Arachin 11a-11b; Yoma 15b; Sukkah 51a; Megillah 24b; Shabbos 47a, 117a, 118b, 120b, 125b, 142a; Pesachim 83a; Chullin 125; Rosh Hashanah 28b, 31b; Sotah 38b, 40a, 48a; Menachos 44a; Kiddushin 71a; Bava Basra 21 with Rashi; Rashi to Sukkah 51b, Avodah Zarah 16a, Sotah 41a, Taanis 29a and Arachin 11b; Rambam to Keilim 2:3; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*, with Rabbi Yaakov Emden's *Ezer Ohr*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; *Degel HaTorah* §11 and *Mekor Baruch* vol. 3 p. 1442; *Torah Shleimah* vol. 26 p. 289; Even Shoshan's concordance; Rabbi Ernest Klein's etymological dictionary of Hebrew; Professor Edward Yechezkel Kutscher, *Milim V'Toldoteihen*; Julius Pokorny's Proto-Indo-European dictionary; Max Weinreich.
+Cited in the essay: Shemos 30:18, 30:28, 31:9, 35:16, 38:8, 39:39, 40:11; Vayikra 8:11; Bereishis 40:13, 41:13; Bamidbar 6:23 with *Kerem Tzvi*; Mishnah Yoma 5:3-4, Arachin 2:6, Middos 2:6, Kiddushin 4:5, Sotah 7:8, Avodah Zarah 1:7, Keilim 11:7, Pesachim 1:5, Shekalim 8:4, Sukkah 4:4, Niddah 9:3; Taanis 29a; Arachin 11a-11b; Yoma 15b; Sukkah 51a; Megillah 24b; Shabbos 47a, 117a, 118b, 120b, 125b, 142a; Pesachim 83a; Chullin 125a; Rosh Hashanah 28b, 31b; Sotah 38b, 40a, 48a; Menachos 44a; Kiddushin 71a; Bava Basra 21a with Rashi; Rashi to Sukkah 51b, Avodah Zarah 16a, Sotah 41a, Taanis 29a and Arachin 11b; Rambam to Keilim 2:3; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*, with Rabbi Yaakov Emden's *Ezer Ohr*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; *Degel HaTorah* §11 and *Mekor Baruch* vol. 3 p. 1442; *Torah Shleimah* vol. 26 p. 289; Even Shoshan's concordance; Rabbi Ernest Klein's etymological dictionary of Hebrew; Professor Edward Yechezkel Kutscher, *Milim V'Toldoteihen*; Julius Pokorny's Proto-Indo-European dictionary; Max Weinreich.

@@ -64,7 +64,7 @@ A note on spelling: *podeh* is generally spelled with a heh, but in one place
 (Iyov 33:24) Scripture replaces the heh with an ayin (פדע).
 
 - Rashi there reads *pedaehu* as *pedahu*, the ayin standing for an
-  interchangeable aleph, and Ramban (to Shemos 21:14) likewise treats it as the
+  interchangeable aleph, and Ramban (to Devarim 21:14) likewise treats it as the
   same word.
 - Ibn Janach, Menachem Ibn Saruk, and Radak, however, have separate entries for
   the heh form and the ayin form in their lexicons of Hebrew roots, implying
@@ -129,4 +129,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Words of Redemption](https://articles.ohr.edu/articles/words-of-redemption)," *What's in a Word?*, Ohr Somayach, 5 May 2018.
 
-Cited in the essay: Vayikra 25:25-55, 27:9-34; Bamidbar 35:19; Iyov 33:24 with Rashi; Ramban to Shemos 21:14; the Vilna Gaon; Rabbi Chaim Soloveitchik of Brisk; the Chatam Sofer; Rabbi Menachem Mendel Hager of Kosov; Malbim; Rabbi Shmuel Tuvia Stern; Ibn Janach, Menachem Ibn Saruk and Radak.
+Cited in the essay: Vayikra 25:25-55, 27:9-34; Bamidbar 35:19; Iyov 33:24 with Rashi; Ramban to Devarim 21:14; the Vilna Gaon; Rabbi Chaim Soloveitchik of Brisk; the Chatam Sofer; Rabbi Menachem Mendel Hager of Kosov; Malbim; Rabbi Shmuel Tuvia Stern; Ibn Janach, Menachem Ibn Saruk and Radak.

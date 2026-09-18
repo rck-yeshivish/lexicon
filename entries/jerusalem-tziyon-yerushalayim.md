@@ -10,7 +10,7 @@ words:
     tr: Tziyon
     en: Tziyon (Zion)
     nk: צִיּוֹן
-    distinct: not necessarily the same place as Yerushalayim; the City of David, walled separately and outside Yerushalayim proper (Rashi to Sotah 9a and Yoma 78a, Rabbi Ashtori HaParchi, Radbaz, Rabbi Elazar Azkiri), though for Rabbi Yechiel Michel Tukachinsky it is at times a neighborhood within the city
+    distinct: not necessarily the same place as Yerushalayim; the City of David, walled separately and outside Yerushalayim proper (Rashi to Sotah 9a and Yoma 77b, Rabbi Ashtori HaParchi, Radbaz, Rabbi Elazar Azkiri), though for Rabbi Yechiel Michel Tukachinsky it is at times a neighborhood within the city
   - he: ירושלים
     tr: Yerushalayim
     en: Yerushalayim (Jerusalem)
@@ -54,7 +54,7 @@ accurate term.
   Melachim I 8:1 (and Divrei HaYamim II 5:2) that they are two: Shlomo gathered
   the elders *in Yerushalayim* in order to bring the Aron up *from the City of
   David, which is Tziyon*.
-- Rashi (to Sotah 9a, Yoma 78a) says flatly that Tziyon is outside Yerushalayim.
+- Rashi (to Sotah 9a, Yoma 77b) says flatly that Tziyon is outside Yerushalayim.
 - Rabbi Yechiel Michel Tukachinsky disagrees with some of this: *Tziyon* in
   Tanach is not always an adjoining city but at times a neighborhood inside
   Yerushalayim.
@@ -153,4 +153,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Twin Cities: Zion and Jerusalem](https://articles.ohr.edu/articles/twin-cities-zion-and-jerusalem)," *What's in a Word?*, Ohr Somayach, 28 July 2018.
 
-Cited in the essay: Melachim I 8:1 and Divrei HaYamim II 5:2; Shmuel II 8:7 with Rashi; Rashi to Sotah 9a and Yoma 78a; Vilna Gaon to Yeshayahu 1:9; Tehillim 48:3 with Ibn Ezra, Radak, and Rashi citing Dunash ibn Labrat; *Midrash Socher Tov* and Rabbi Yosef Tuv-Elem, *Tzafnas Panei'ach*, to Vayikra 1:11; Yirmiyahu 31:5; Tehillim 132:14, 2:6, 133:1 with Targum; Yoel 4:17; Yeshayahu 51:3; *Shekalim* 8:1; *Zohar*, *Idra Zuta* 296b; Rabbi Ashtori HaParchi, the Radbaz and Rabbi Elazar Azkiri; *Har HaKodesh* by Rabbi Moshe Nachum Shapiro; *Ir HaKodesh VeHaMikdash* by Rabbi Yechiel Michel Tukachinsky.
+Cited in the essay: Melachim I 8:1 and Divrei HaYamim II 5:2; Shmuel II 8:7 with Rashi; Rashi to Sotah 9a and Yoma 77b; Vilna Gaon to Yeshayahu 1:9; Tehillim 48:3 with Ibn Ezra, Radak, and Rashi citing Dunash ibn Labrat; *Midrash Socher Tov* and Rabbi Yosef Tuv-Elem, *Tzafnas Panei'ach*, to Vayikra 1:11; Yirmiyahu 31:5; Tehillim 132:14, 2:6, 133:1 with Targum; Yoel 4:17; Yeshayahu 51:3; *Shekalim* 8:1; *Zohar*, *Idra Zuta* 296b; Rabbi Ashtori HaParchi, the Radbaz and Rabbi Elazar Azkiri; *Har HaKodesh* by Rabbi Moshe Nachum Shapiro; *Ir HaKodesh VeHaMikdash* by Rabbi Yechiel Michel Tukachinsky.

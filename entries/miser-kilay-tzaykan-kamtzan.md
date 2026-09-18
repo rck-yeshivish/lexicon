@@ -150,7 +150,7 @@ minimal seeding the land gave three-finger loads of produce. This too relates to
 *kemitzah* as smallest measure.
 
 The Aramaic *kamtza* seems to belong here too. Targum uses it for *arbeh*
-(Mishlei 30:27), *yelek* (Nachum 3:15) and *chagav* (Bamidbar 13:33, Yeshayahu
+(Mishlei 30:27), *yelek* (Nachum 3:15-16) and *chagav* (Bamidbar 13:33, Yeshayahu
 40:22), all grasshoppers, and this perhaps relates to *kemitzah* and *kamtzan*
 in that a single grasshopper out of a whole swarm is a small quantity from
 within a much larger pool. There are two readings of *ein hakometz masbia es
@@ -196,4 +196,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[On Misers and Cheapskates](https://articles.ohr.edu/articles/on-misers-and-cheapskates)," *What's in a Word?*, Ohr Somayach, 18 June 2022.
 
-Cited in the essay: Yeshayahu 32:5, 32:7, 40:22; Bereishis 37:18, 41:47; Vayikra 2:2, 5:12, 6:8; Bamidbar 5:26, 13:33, 25:18; Malachi 1:14; Mishlei 30:27; Nachum 3:15; Avos 5:10; Pesachim 7:8 and 81b; Eruvin 49a; Berachos 3b; Sanhedrin 16a; Sotah 41b; Gittin 55b; Menachos 11a and 86a; Chullin 46a; Zevachim 64b; Kesubos 8b; *Bereishis Rabbah* 51:1; Radak and Ibn Janach, *Sefer HaShorashim*; Maharal, *Netzach Yisrael* ch. 5; *Toldos HaTeva*; *Sefer HaMishkalim*; *Sefer HaChaim*; Tosefta Sotah 13.
+Cited in the essay: Yeshayahu 32:5, 32:7, 40:22; Bereishis 37:18, 41:47; Vayikra 2:2, 5:12, 6:8; Bamidbar 5:26, 13:33, 25:18; Malachi 1:14; Mishlei 30:27; Nachum 3:15-16; Avos 5:10; Pesachim 7:8 and 81b; Eruvin 49a; Berachos 3b; Sanhedrin 16a; Sotah 41b; Gittin 55b; Menachos 11a and 86a; Chullin 46a; Zevachim 64b; Kesubos 8b; *Bereishis Rabbah* 51:1; Radak and Ibn Janach, *Sefer HaShorashim*; Maharal, *Netzach Yisrael* ch. 5; *Toldos HaTeva*; *Sefer HaMishkalim*; *Sefer HaChaim*; Tosefta Sotah 13.
