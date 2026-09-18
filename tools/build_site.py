@@ -436,7 +436,9 @@ def radak_pair(root):
         # f-string expression is a syntax error before Python 3.12, and the
         # deploy runs 3.11.
         left = f'<div class="rad-pair-en">{en}</div>' if en else ""
-        out.append(f'<div class="rad-pair{"" if en else " alone"}">{left}'
+        # The letter its citations were filed under, so the page can fetch the
+        # right chunk of pesukim when one is opened.
+        out.append(f'<div class="rad-pair{"" if en else " alone"}" data-l="{root_key(root)[:1]}">{left}'
                    f'<div class="rad-text" dir="rtl" lang="he">{head}<p>{body}</p></div></div>')
     return "".join(out)
 
@@ -1163,7 +1165,9 @@ def entry_page(e):
     rail = cites.rail()
     page = (f'<div class="entry-layout{" has-rail" if rail else ""}">{nav}\n'
             + "\n".join(parts) + rail + "</div>")
-    return shell(f'{title} — What’s in a Word?', page, depth=1, active="")
+    # His citations open their pesukim here too, not only on the roots page.
+    return shell(f'{title} — What’s in a Word?', page, depth=1, active="",
+                 extra_js='<script>wireEntryCites();</script>')
 
 
 # ------------------------------------------------------------------------ build
@@ -1785,9 +1789,12 @@ header.bare .brand{flex:1}
 .rad-body>p:not(.rad-hw),.rad-text>p:not(.rad-hw){max-width:46em;margin-left:auto}
 .rad-body strong,.rad-text strong{font-weight:700;color:var(--accent)}
 .rad-body .ref,.rad-text .ref{font-size:.72em;color:var(--faint);white-space:nowrap}
-.rad-body .ref.has-p{cursor:pointer;border-bottom:1px dotted var(--accent)}
-.rad-body .ref.has-p:hover{color:var(--accent)}
-.rad-body .ref.on{color:var(--accent);background:var(--accent-soft);border-radius:3px}
+/* The affordance was scoped to .rad-body, which an entry page never had and the
+   roots page stopped having when its panel became two columns: the citations
+   still opened, but nothing showed they could be opened. */
+.rad-body .ref.has-p,.rad-text .ref.has-p{cursor:pointer;border-bottom:1px dotted var(--accent)}
+.rad-body .ref.has-p:hover,.rad-text .ref.has-p:hover{color:var(--accent)}
+.rad-body .ref.on,.rad-text .ref.on{color:var(--accent);background:var(--accent-soft);border-radius:3px}
 /* The pasuk opens as a block where it is cited, so his text keeps the whole
    width of the card and carries on under it. */
 .rad-pasuk{display:block;margin:10px 0;padding:10px 14px;background:var(--bg);
@@ -2273,6 +2280,50 @@ function wire(){
   });
 }
 
+// A pasuk he cites opens where it is cited, on the roots page and on an entry
+// page alike. The pesukim are chunked by the first letter of the root, so a
+// card carries the letter its citations were filed under, and the base is "" on
+// the roots page and "../" from an entry.
+const PES = {};
+async function wireCites(card, letter, base){
+  const show = async span => {
+    if(!PES[letter]){
+      try{ PES[letter] = await fetch(`${base}pesukim/${encodeURIComponent(letter)}.json`).then(r => r.json()); }
+      catch(err){ PES[letter] = {}; }
+    }
+    const t = PES[letter][span.dataset.r];
+    if(!t) return;
+    const was = span.classList.contains("on");
+    card.querySelectorAll(".ref.on").forEach(x => x.classList.remove("on"));
+    card.querySelectorAll(".rad-pasuk").forEach(x => x.remove());
+    if(was) return;
+    span.classList.add("on");
+    // A block inside his paragraph, so the pasuk opens where it is cited and
+    // his text carries on under it at the full width of the card.
+    const d = document.createElement("div");
+    d.className = "rad-pasuk"; d.dir = "rtl"; d.lang = "he";
+    d.innerHTML = `<span class="rad-pasuk-r">${span.textContent.replace(/^\(|\)$/g, "")}</span>`
+      + `<span class="rad-pasuk-t">${t.replace(/[&<>]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]))}</span>`;
+    span.after(d);
+  };
+  card.addEventListener("click", e => {
+    const span = e.target.closest(".ref.has-p");
+    if(span) show(span);
+  });
+  card.addEventListener("keydown", e => {
+    if(e.key !== "Enter" && e.key !== " ") return;
+    const span = e.target.closest(".ref.has-p");
+    if(span){ e.preventDefault(); show(span); }
+  });
+}
+
+// An entry page shows his entries for several roots at once, each filed under
+// its own letter, so every pair is wired to the chunk its citations are in.
+function wireEntryCites(){
+  const up = document.body.dataset.up || "";
+  document.querySelectorAll(".rad-pair[data-l]").forEach(p => wireCites(p, p.dataset.l, up));
+}
+
 // The roots page: open a row to read Radak on that root. His dictionary is
 // two megabytes, so a letter's worth is fetched the first time it is wanted.
 function wireRoots(){
@@ -2299,7 +2350,7 @@ function wireRoots(){
     el.innerHTML = `<p class="rad-who">Radak, <em>Sefer HaShorashim</em>, on the root `
       + `<bdi lang="he">${row.querySelector(".h").textContent}</bdi></p>${text}`;
     row.after(el);
-    wireCites(el, letter);
+    wireCites(el, letter, "");
     row.setAttribute("aria-expanded", "true");
   };
   list.addEventListener("click", e => {
@@ -2309,38 +2360,6 @@ function wireRoots(){
   // A pasuk he cites, shown beside his text on a wide screen and under the
   // line on anything narrower. A letter's pesukim are fetched once, when the
   // first citation in that letter is pressed.
-  const pes = {};
-  async function wireCites(card, letter){
-    const show = async span => {
-      if(!pes[letter]){
-        try{ pes[letter] = await fetch(`pesukim/${encodeURIComponent(letter)}.json`).then(r => r.json()); }
-        catch(err){ pes[letter] = {}; }
-      }
-      const t = pes[letter][span.dataset.r];
-      if(!t) return;
-      const was = span.classList.contains("on");
-      card.querySelectorAll(".ref.on").forEach(x => x.classList.remove("on"));
-      card.querySelectorAll(".rad-pasuk").forEach(x => x.remove());
-      if(was) return;
-      span.classList.add("on");
-      // A block inside his paragraph, so the pasuk opens where it is cited and
-      // his text carries on under it at the full width of the card.
-      const d = document.createElement("div");
-      d.className = "rad-pasuk"; d.dir = "rtl"; d.lang = "he";
-      d.innerHTML = `<span class="rad-pasuk-r">${span.textContent.replace(/^\(|\)$/g, "")}</span>`
-        + `<span class="rad-pasuk-t">${t.replace(/[&<>]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]))}</span>`;
-      span.after(d);
-    };
-    card.addEventListener("click", e => {
-      const span = e.target.closest(".ref.has-p");
-      if(span) show(span);
-    });
-    card.addEventListener("keydown", e => {
-      if(e.key !== "Enter" && e.key !== " ") return;
-      const span = e.target.closest(".ref.has-p");
-      if(span){ e.preventDefault(); show(span); }
-    });
-  }
   list.addEventListener("keydown", e => {
     if(e.key !== "Enter" && e.key !== " ") return;
     const row = e.target.closest(".r.has-rad");
