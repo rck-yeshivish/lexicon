@@ -432,8 +432,11 @@ def radak_pair(root):
         head = (f'<p class="rad-hw" dir="ltr" lang="en">Radak’s root '
                 f'<bdi lang="he">{html.escape(p["hw"].replace("שֹ", "שׂ"))}</bdi></p>'
                 if len(parts) > 1 else "")
-        out.append(f'<div class="rad-pair{"" if en else " alone"}">'
-                   f'{f"<div class=\"rad-pair-en\">{en}</div>" if en else ""}'
+        # Built without nesting one f-string inside another: a backslash in an
+        # f-string expression is a syntax error before Python 3.12, and the
+        # deploy runs 3.11.
+        left = f'<div class="rad-pair-en">{en}</div>' if en else ""
+        out.append(f'<div class="rad-pair{"" if en else " alone"}">{left}'
                    f'<div class="rad-text" dir="rtl" lang="he">{head}<p>{body}</p></div></div>')
     return "".join(out)
 

@@ -5,7 +5,7 @@ order, source line format, no em dashes, no AI-register words, no narration
 ("the article explains"), "Notes for a project" present, and length: over 140
 lines warns, over 240 fails.
 """
-import re, sys, pathlib
+import re, subprocess, sys, pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 NIKUD = re.compile("[֑-ׇ]")
@@ -127,6 +127,42 @@ def check(p):
     return errs, warn
 
 
+def deploy_python():
+    """Every tool must compile under the Python the deploy runs, not the one on
+    this machine. The two drifted once and cost a run of silent failures: a
+    nested f-string built the site here on 3.14 and was a syntax error on the
+    runner's 3.11, so every push went green locally and red in Actions while the
+    site served a version from before the whole Radak section.
+
+    This has to be a real interpreter. ast.parse's feature_version does not
+    reject it, because the f-string change is in the tokenizer; asked to read
+    that line as 3.11 it says yes, and the deploy still says no."""
+    want = (ROOT / ".python-version").read_text(encoding="utf-8").strip()
+    exe = None
+    if sys.version.split()[0].startswith(want):
+        exe = sys.executable
+    else:
+        for cmd in (["uv", "python", "find", want], ["py", f"-{want}", "-c", "import sys;print(sys.executable)"]):
+            try:
+                r = subprocess.run(cmd, capture_output=True, text=True, timeout=60)
+            except (OSError, subprocess.SubprocessError):
+                continue
+            path = r.stdout.strip().splitlines()[-1] if r.returncode == 0 and r.stdout.strip() else ""
+            if path and pathlib.Path(path).exists():
+                exe = path
+                break
+    if not exe:
+        return [], [f"no Python {want} here, so the deploy's syntax went unchecked "
+                    f"(`uv python install {want}` gives it one)"]
+    r = subprocess.run([exe, "-m", "compileall", "-q", str(ROOT / "tools")],
+                       capture_output=True, text=True)
+    if r.returncode:
+        tail = (r.stdout + r.stderr).strip().splitlines()
+        return ([f"tools will not compile on Python {want}, which the deploy runs:"]
+                + [f"  {l}" for l in tail[-6:]]), []
+    return [], []
+
+
 def main():
     files = [pathlib.Path(a) for a in sys.argv[1:]] or sorted((ROOT / "entries").glob("*.md"))
     bad = 0
@@ -143,8 +179,13 @@ def main():
             print(f"     - {e}")
         for w in warn:
             print(f"     ~ {w}")
+    stale, unchecked = deploy_python()
+    for s in stale:
+        print(f"FAIL {s}")
+    for w in unchecked:
+        print(f"warn {w}")
     print(f"\n{len(files) - bad}/{len(files)} entries pass")
-    sys.exit(1 if bad else 0)
+    sys.exit(1 if bad or stale else 0)
 
 
 if __name__ == "__main__":
