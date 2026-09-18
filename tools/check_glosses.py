@@ -135,7 +135,9 @@ BOOKS = {
     "יואל": "Joel", "עמוס": "Amos", "עובדיה": "Obadiah", "עבדיה": "Obadiah",
     "יונה": "Jonah", "מיכה": "Micah", "נחום": "Nahum", "חבקוק": "Habakkuk",
     "צפניה": "Zephaniah", "חגי": "Haggai", "זכריה": "Zechariah", "מלאכי": "Malachi",
-    "תהלים": "Psalms", "משלי": "Proverbs", "איוב": "Job", "שיר השירים": "Song of Songs",
+    # Twice the yud drops out of Tehillim, at (תהלם צ, י) and (תהלם כה, ד).
+    "תהלים": "Psalms", "תהלם": "Psalms",
+    "משלי": "Proverbs", "איוב": "Job", "שיר השירים": "Song of Songs",
     "רות": "Ruth", "איכה": "Lamentations", "קהלת": "Ecclesiastes", "אסתר": "Esther",
     # The edition sets Koheles once as קהלית, which Sefaria did not link.
     "קהלית": "Ecclesiastes",
