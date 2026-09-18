@@ -162,6 +162,24 @@ only entry under those letters is the threshing floor. Do not force a
 connection: say plainly what his entry is about, which is what tells a reader
 the two are different words.
 
+## How to pick what to audit
+
+Auditing by index, taking headwords in whatever order a list holds them, turns
+up three or four faults in a batch of twenty-four. Auditing by *class* turns up
+ten times that. The seam above is the class that has paid best: search his
+Hebrew for an authority named (רבותינו, רבי יונה, רבי יהודה, אדני אבי, התרגום,
+יונתן, אונקלוס, רבינו שלמה, אבן עזרא, יעקב בן אלעזר, הגאון, מנחם, יש מפרשים,
+יש מי ש, ויש אומרים) followed within a couple of hundred characters by one of
+his hand-off words (פירוש, כלומר, רצה לומר, רצונו לומר, והוא ש, ויש לפרש, ואף
+על פי כן, ויתכן, ואין צורך, ולדעתי, ועל דעתי, ואני אומר), and audit those
+headwords whose gloss names somebody. Twenty-nine such headwords held
+twenty-eight faults. Rank them by the number of seams times the number of gloss
+parts that name anyone, and the densest come first.
+
+The reason it works is that the fault is structural and not random: the English
+has to decide where one man stops speaking and the next begins, and his Hebrew
+marks that boundary with a word rather than with punctuation.
+
 ## Checking
 
 ```
