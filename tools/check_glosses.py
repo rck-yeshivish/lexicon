@@ -74,6 +74,9 @@ NAMED = {
     "Rabbi Yaakov ben Elazar": ["יעקב בן אלעזר", "יעקב בן אילעזר",
                                 "יעקב בן אלעור"],
     "Rav Saadiah Gaon": ["רבי סעדיה", "סעדיה"],
+    # Named once, at קלס, on saying ויתקלס in Kaddish. A drafter named him and
+    # said plainly that nothing was checking it, which is how this got in.
+    "Rav Amram(?: Gaon)?": ["רב עמרם"],
     # Bare, so the prefixed במסורת counts: he writes it three times, and with
     # the definite article on the needle a true sentence about what the Mesorah
     # does not carry was refused.
@@ -86,7 +89,8 @@ NAMED = {
     # He is הרב אבן גיאת in one entry and הרב רבי יצחק גיאת in another, so the
     # needle is the surname and the key takes either English form.
     "(?:Rav|Rabbi) Yitzchak (?:ibn )?Giat|the Gaon Ibn Giat": ["גיאת"],
-    "Rashi": ["רבינו שלמה", "רש\"י"],
+    # Nine times plene, once defective: וכתב רבנו שלמה ז"ל at שֹרד.
+    "Rashi": ["רבינו שלמה", "רבנו שלמה", "רש\"י"],
     "the Gaon": ["הגאון"],
     # Only where his father is the one saying something: a son's father in plain
     # English, as in a son's inheritance from his father, claims nothing.

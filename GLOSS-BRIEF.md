@@ -78,6 +78,13 @@ the entry each would complete.
   edition": that tells a reader his edition puts the pasuk in the Chumash, and
   Bamidbar 32:5 is a real pasuk about something else. Quote the phrase, give it
   its English, and leave it uncited.
+- **The same goes for a chapter number that lands somewhere real.** At כתר בי
+  יכתירו צדיקים is printed (תהלים קטב, ח), a קטב for קמב: that reads as Tehillim
+  111:8, a real pasuk and the wrong one, where the pasuk is 142:8. "In his
+  edition" is for a number a pasuk or two out, not for one that sends a reader
+  somewhere else entirely. The check cannot help here, since it reads his
+  printed citation the same way you do and finds them agreeing; only your eye
+  catches it. Quote the phrase, give it its English, leave it uncited.
 - **Naming an authority he does not name.** Rabbi Yonah, Ibn Ezra, the Targum,
   Rav Saadiah Gaon, Rashi, the Mesorah, Chazal and the rest go in only where his
   Hebrew names them.
