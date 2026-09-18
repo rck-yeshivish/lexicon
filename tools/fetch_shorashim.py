@@ -163,6 +163,8 @@ FILED_UNDER = {
     "אממ": "אמ", "נכא": "נכת=נכאת", "ארל": "אראל=אראלמ",
     # sin for our samech, and his note in רמס: והנכתב בשי"ן ענינו קרוב לזה
     "כרס": "כרש=כרשו", "רמש": "רמס",
+    # Added to his own entry rather than standing in for it: see lookup().
+    "שיר": "+שור=שִׁיר",
 }
 
 TOKEN = re.compile("[א-ת֑-ׇֽֿׁׂׅׄ]+")
@@ -205,13 +207,24 @@ def lookup(letters, targets, heads):
     """A root's entries: by its own headword, or by FILED_UNDER where Radak's
     entry bears the table out. A root he has twice (shin and sin) keeps both."""
     found = [e for e in (entry(hw) for hw in heads.get(letters, [])) if e]
-    if not found:
-        for under in FILED_UNDER.get(letters, "").split():
-            under, _, form = under.partition("=")
+    # A filing marked with + is added to whatever his own headword gave, rather
+    # than standing in for it. Our שיר is the song, and his entry under those
+    # letters is the ornament, ענקיא ושירי, with no singing in it; the singing is
+    # under שור, a hollow root. Both belong on that root, and ordered() puts the
+    # one that cites the entry's word first.
+    add = [u for u in FILED_UNDER.get(letters, "").split() if u.startswith("+")]
+    if not found or add:
+        for under in (add or FILED_UNDER.get(letters, "").split()):
+            # The form asked for must not be overwritten by the one found: the
+            # loop runs once per headword these letters carry, and reusing the
+            # name made the second headword be searched for the first one's hit.
+            # That is how שיר took his שֹור, the princes, and missed שׁור, the
+            # singing, which is the entry the filing is for.
+            under, _, want = under.lstrip("+").partition("=")
             for e in (entry(hw) for hw in heads.get(under, [])):
-                form = e and cited(e, {form} if form else targets)
-                if form:
-                    found.append(dict(e, under=e["hw"], found=form))
+                hit = e and cited(e, {want} if want else targets)
+                if hit and not any(p["hw"] == e["hw"] for p in found):
+                    found.append(dict(e, under=e["hw"], found=hit))
         if letters in FILED_UNDER and not found:
             print(f"  {letters}: FILED_UNDER names {FILED_UNDER[letters]}, but no entry there cites "
                   f"{' '.join(sorted(targets))}; left empty")
@@ -263,10 +276,17 @@ def main():
     # --reformat reads again the entries stored before the markup was kept, and
     # --homonyms the roots stored before a second entry of the same letters was.
     retry, reformat, homonyms = (f in sys.argv for f in ("--retry-empty", "--reformat", "--homonyms"))
-    todo = [k for k in sorted(want)
-            if k not in have or (retry and not have[k])
-            or (reformat and have[k] and "html" not in have[k])
-            or (homonyms and have[k] and len(heads.get(k, [])) > 1 and "more" not in have[k])]
+    # --root reads named roots again and nothing else, for a filing added to
+    # FILED_UNDER after the dictionary was already down: refetching all 930 to
+    # correct one of them asks Sefaria for the whole work a second time.
+    named = {fold(a) for a in sys.argv[1:] if not a.startswith("--") and LETTERS.search(a)}
+    if named:
+        todo = [k for k in sorted(want) if k in named]
+    else:
+        todo = [k for k in sorted(want)
+                if k not in have or (retry and not have[k])
+                or (reformat and have[k] and "html" not in have[k])
+                or (homonyms and have[k] and len(heads.get(k, [])) > 1 and "more" not in have[k])]
     print(f"{len(want)} roots of three letters or more; {len(todo)} to fetch")
     found = 0
     for i, letters in enumerate(todo, 1):
@@ -277,8 +297,12 @@ def main():
             e = None
         have[letters] = e or have.get(letters) or {}
         found += bool(e)
-        for part in ([e] + e.get("more", []) if e and e.get("under") else []):
-            print(f"  {letters} ({' '.join(sorted(want[letters]))}): under {part['under']}, citing {part['found']}")
+        # Each filed part is reported on its own: with an added filing the
+        # first part is his own headword and carries no "under" at all.
+        for part in ([e] + e.get("more", []) if e else []):
+            if part.get("under"):
+                print(f"  {letters} ({' '.join(sorted(want[letters]))}): "
+                      f"under {part['under']}, citing {part['found']}")
         if i % 25 == 0 or i == len(todo):
             save(store)
             print(f"  {i}/{len(todo)} ({found} found)", flush=True)

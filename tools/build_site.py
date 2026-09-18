@@ -557,7 +557,11 @@ def gloss_block(part, heading=True, summary=False, with_sense=True):
             f'<div class="rad-en-p"><p class="rad-en-t">{en_text(m["h"])}</p>'
             f'<p class="rad-en-b">{en_text(m["t"])}</p></div>'
             for m in parts)
-    head = '<p class="rad-en-h">In English, our summary of his entry</p>' if heading else ""
+    # Not "our summary": where his entry is a line or two the gloss gives the
+    # whole of it, and 68 of them do, so a standing promise of a summary
+    # contradicted the part headed "The whole entry" right under it. "Our
+    # account" is true of both and still says the words are ours, not his.
+    head = '<p class="rad-en-h">In English, our account of his entry</p>' if heading else ""
     line = f'<p class="rad-en-s">{en_text(sense)}</p>' if with_sense else ""
     return f'<div class="rad-en" dir="ltr" lang="en">{head}{line}{more}</div>'
 
