@@ -52,7 +52,9 @@ NAMED = {
                                 "רבי יעקב בן אלעור"],
     "Rav Saadiah Gaon": ["רבי סעדיה", "סעדיה"],
     "the Mesorah": ["המסורת", "המסורה"],
-    "Rav Yitzchak ibn Giat": ["אבן גיאת"],
+    # He is הרב אבן גיאת in one entry and הרב רבי יצחק גיאת in another, so the
+    # needle is the surname and the key takes either English form.
+    "(?:Rav|Rabbi) Yitzchak (?:ibn )?Giat|the Gaon Ibn Giat": ["גיאת"],
     "Rashi": ["רבינו שלמה", "רש\"י"],
     "the Gaon": ["הגאון"],
     # Only where his father is the one saying something: a son's father in plain
