@@ -449,8 +449,8 @@ def radak_html(root, label=True):
     does not print the root once as a heading and again as a line under it."""
     e = SHORASHIM["roots"].get(root_key(root)) or {}
     parts = [e] + e.get("more", []) if e else []
-    if len(parts) == 1 and not e.get("under") and not gloss(e, "sense"):
-        return citable(e.get("html") or html.escape(e.get("text", "")))
+    if not parts:
+        return ""
     # More than one entry answers to these letters, or Radak files the word
     # under another root. Either way each entry is named by his own headword.
     # The edition marks sin with a holam on the shin; give it its own dot.
@@ -463,7 +463,13 @@ def radak_html(root, label=True):
             body = body.replace(p["found"], f'<mark>{p["found"]}</mark>', 1)
         head = (f'<p class="rad-hw" dir="ltr" lang="en">{note} <bdi lang="he">{hw}</bdi></p>'
                 if label or len(parts) > 1 else "")
-        out.append(f'{gloss_block(p)}{head}<p>{body}</p>')
+        # The row this panel opens from already carries the sense line, so a
+        # single entry does not print it twice. Where the letters carry two of
+        # his roots the row can only show one, and the second needs its own.
+        en = gloss_block(p, with_sense=len(parts) > 1)
+        left = f'<div class="rad-pair-en">{en}</div>' if en else ""
+        out.append(f'<div class="rad-pair{"" if en else " alone"}">{left}'
+                   f'<div class="rad-text" dir="rtl" lang="he">{head}<p>{body}</p></div></div>')
     return "".join(out)
 
 
@@ -515,7 +521,7 @@ def en_text(s):
                        html.escape(s, quote=False))
 
 
-def gloss_block(part, heading=True, summary=False):
+def gloss_block(part, heading=True, summary=False, with_sense=True):
     """The English for one of his entries, labelled as ours and not his. Each
     part of "more" is one thing his entry holds, under its own heading, so a
     long entry reads as a few short answers rather than a paragraph. The entry
@@ -533,6 +539,8 @@ def gloss_block(part, heading=True, summary=False):
     if not sense:
         return ""
     parts = gloss(part, "more") or []
+    if not with_sense and not parts:
+        return ""
     if summary:
         more = "".join(
             f'<details class="rad-en-d"><summary>{en_text(m["h"])}</summary>'
@@ -545,8 +553,8 @@ def gloss_block(part, heading=True, summary=False):
             f'<p class="rad-en-b">{en_text(m["t"])}</p></div>'
             for m in parts)
     head = '<p class="rad-en-h">In English, our summary of his entry</p>' if heading else ""
-    return (f'<div class="rad-en" dir="ltr" lang="en">{head}'
-            f'<p class="rad-en-s">{en_text(sense)}</p>{more}</div>')
+    line = f'<p class="rad-en-s">{en_text(sense)}</p>' if with_sense else ""
+    return f'<div class="rad-en" dir="ltr" lang="en">{head}{line}{more}</div>'
 
 
 def radak_opening(text, n=120):
@@ -1333,12 +1341,20 @@ def main():
         under = owner.get(e.get("hw", "")) if e.get("under") else None
         sense = "" if under and under != r else "  ".join(
             x for x in (gloss(part, "sense") for part in ([e] + e.get("more", []) if e else [])) if x)
+        # A root of one or two letters is not a fault in the data. The essays
+        # discuss them: Rabbi Pappenheim traces gan to the single letter gimmel,
+        # with precedent in Machberes Menachem and in Rashi. Radak's dictionary
+        # is built on roots of three, so it has nothing for any of the 316 of
+        # them, and an empty cell there read as something broken.
+        n = len(root_key(r))
         rad = (f'<span class="rad points">Radak has this under '
                f'<a href="#r-{root_key(under)}" dir="rtl" lang="he">{html.escape(under)}</a></span>'
                if under and under != r else
                f'<span class="rad sense">{html.escape(sense)}</span>' if sense else
                f'<span class="rad" dir="rtl" lang="he">{html.escape(radak_opening(text))}</span>'
-               if text and not under else '<span class="rad"></span>')
+               if text and not under else
+               f'<span class="rad none">{"One" if n == 1 else "Two"}-letter root, '
+               f'no entry of his</span>' if n < 3 else '<span class="rad"></span>')
         rrows.append(f'<div class="r{" has-rad" if text else ""}" data-l="{first}" data-k="{root_key(r)}"'
                      f'{" tabindex=0 role=button aria-expanded=false" if text else ""}>'
                      f'<span class="h" id="r-{root_key(r)}" dir="rtl" lang="he">{html.escape(r)}</span>'
@@ -1710,6 +1726,7 @@ header.bare .brand{flex:1}
 .rad.sense{font:400 15px/1.5 var(--ui);color:var(--ink);text-align:left}
 .rad.points{font:400 14px/1.5 var(--ui);color:var(--faint);text-align:left}
 .rad.points a{font-size:16px;color:var(--dim)}
+.rad.none{font:400 13.5px/1.5 var(--ui);color:var(--faint);font-style:italic;text-align:left}
 /* It sits inside his Hebrew, which is RTL, so a narrow block would be held to
    the right; these margins keep the English at the left edge of the card. It
    takes the same measure as his Hebrew below it, so the two end on the same
@@ -1786,6 +1803,14 @@ p.rad-hw bdi{font-family:var(--heb);font-size:17px;color:var(--accent)}
 .rad-pair-en .rad-en-b{font:400 13.5px/1.6 var(--ui)}
 .radak .rad-pair .rad-pasuk{margin:8px 0}
 .radak .rad-pair .rad-pasuk-t{font-size:16px;line-height:1.6}
+/* The roots page pairs the same way, but it is the page a reader comes to for
+   the whole entry, so its parts stand open and both sides run larger. */
+.rad-open .rad-pair{margin:0 0 20px}
+.rad-open .rad-pair:last-child{margin-bottom:0}
+.rad-pair .rad-text>p:not(.rad-hw){max-width:none;margin-left:0}
+.rad-open .rad-pair-en .rad-en{padding:0;border:0}
+.rad-open .rad-pair-en .rad-en-s{font:400 16px/1.6 var(--ui)}
+.rad-open .rad-pair-en .rad-en-b{font:400 14.5px/1.7 var(--ui)}
 @media (min-width:900px){
   .rad-pair{grid-template-columns:minmax(0,1fr) minmax(0,1.05fr);align-items:start}
   .rad-pair.alone{grid-template-columns:minmax(0,1fr)}
@@ -2250,9 +2275,10 @@ function wireRoots(){
     // The text was cut down to <strong> and .ref spans when it was fetched.
     const el = document.createElement("div");
     el.className = "rad-open";
+    // The chunk already carries his Hebrew and its English as two columns, each
+    // with its own direction, so it is not wrapped in one right-to-left block.
     el.innerHTML = `<p class="rad-who">Radak, <em>Sefer HaShorashim</em>, on the root `
-      + `<bdi lang="he">${row.querySelector(".h").textContent}</bdi></p>`
-      + `<div class="rad-body" dir="rtl" lang="he">${text}</div>`;
+      + `<bdi lang="he">${row.querySelector(".h").textContent}</bdi></p>${text}`;
     row.after(el);
     wireCites(el, letter);
     row.setAttribute("aria-expanded", "true");
