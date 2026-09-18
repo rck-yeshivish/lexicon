@@ -17,7 +17,7 @@ words:
   - he: קמצן
     tr: kamtzan
     en: cheapskate
-    distinct: the post-Mishnaic and living word; from ק-מ-צ, the kemitzah of a minchah, held to three fingers with the excess wiped away (Rashi), so he stores his wealth and keeps to the least anyone can get from him
+    distinct: the post-Mishnaic and living word; from ק-מ-ץ, the kemitzah of a minchah, held to three fingers with the excess wiped away (Rashi), so he stores his wealth and keeps to the least anyone can get from him
 sources:
   - wiaw:9734 "On Misers and Cheapskates" (2022-06-18) https://articles.ohr.edu/articles/on-misers-and-cheapskates
 authorities: [Radak, Ibn Janach, Rabbi Shlomo Pappenheim, Ibn Ezra, Rashi, Mahari Kara, Rabbi Eliezer of Beaugency, Menachem Ibn Saruk, Rabbeinu Chananel, Rabbi Ernest Klein, Rashbam, Rabbi Chaim of Friedberg, Maharal, Orchos Tzaddikim, Rabbeinu Yonah, Solomon Rabinowitz, Mendele Mocher Seforim, Alexander Kohut]
@@ -137,7 +137,7 @@ lechem hapanim and still got only a bean's worth), and
 cognates appear in the Gemara, especially as verbs, where in some places Rashi
 again reaches for *atzar* (Menachos 86a, Chullin 46a; Rashbam to Bava Basra 52b).
 
-The root is ק-מ-צ, seven times in Tanach, six of them the *kemitzah* of a
+The root is ק-מ-ץ, seven times in Tanach, six of them the *kemitzah* of a
 minchah (Vayikra 2:2, 5:12, 6:8, Bamidbar 5:26). Rashi (Vayikra 2:2, Kesubos 8b,
 Zevachim 64b, Menachos 11a): the kohen closes his three middle fingers over his
 palm to take the flour and wipes away the excess with thumb and pinky, so that

@@ -9,7 +9,7 @@ words:
   - he: משכון
     tr: mashkon
     en: collateral, pledge
-    distinct: the general Mishnaic noun; from ש-כ-נ, an item that "dwells" in the creditor's house until redeemed (Rabbi Eliyahu HaBachur), and for Tosafos Yom Tov given for a debt already owed
+    distinct: the general Mishnaic noun; from ש-כ-ן, an item that "dwells" in the creditor's house until redeemed (Rabbi Eliyahu HaBachur), and for Tosafos Yom Tov given for a debt already owed
   - he: חבל
     tr: chaval
     en: to distrain, to seize as security
@@ -95,7 +95,7 @@ debtor's property without transfer of possession or title.
 
 ### mashkon (משכון)
 Not in Tanach; Mishnaic (Sheviis 10:2, Bava Metzia 6:7, Shevuos 6:7). Rabbi
-Eliyahu HaBachur (*Sefer HaTishbi*): the root is ש-כ-נ, "dwell, settle," with a
+Eliyahu HaBachur (*Sefer HaTishbi*): the root is ש-כ-ן, "dwell, settle," with a
 prefixed mem, since the collateral dwells in the creditor's house until
 redeemed; the mem was then felt as a root letter, giving *lemashken*, to take or
 designate a collateral (Peah 8:8,

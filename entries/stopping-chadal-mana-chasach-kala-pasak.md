@@ -76,7 +76,7 @@ keeps its own connotation in most, not all, of its appearances.
 - Rabbi Shlomo Pappenheim (1740 to 1814) frames it differently: *chasach* stops
   an act that the laws of morality or nature say should be stopped, so that it
   is in a sense an antonym of *mana*, and he derives it from ח-ס (caring) with
-  ס-כ (protection), one who stops another from a reprehensible act. Malbim
+  ס-ך (protection), one who stops another from a reprehensible act. Malbim
   explicitly follows him that *chasach* names an impediment from outside the
   actor.
 
@@ -149,7 +149,7 @@ and so they do (9:33), and Pharaoh sees they have ceased and hardens his heart
   with the wicked.
 - Rabbi Shlomo Pappenheim derives *mana* from the biliteral נ-ע, movement (as in
   *tenuah*), on his theory that in many roots an initial mem inverts the sense of the
-  two-letter root that follows: ח-ק engrave against מחק erase, ל-צ scorn against
+  two-letter root that follows: ח-ק engrave against מחק erase, ל-ץ scorn against
   מליץ defend, ר-ד rule against מרד rebel, so *mana* is the opposite of motion.
 - Wertheimer cites Shmuel II 13:13 for its willful force.
 

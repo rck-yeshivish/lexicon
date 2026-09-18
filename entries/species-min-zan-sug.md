@@ -10,7 +10,7 @@ words:
     tr: min
     en: kind, species
     nk: מִין
-    distinct: the Torah's word, a grouping of individuals alike enough to be classed as one kind (Ibn Janach, Radak); things alike but not identical, like Latin species (Shadal); from מ-נ, ordering what counts (Rabbi Shlomo Pappenheim); in logic the species under a sug
+    distinct: the Torah's word, a grouping of individuals alike enough to be classed as one kind (Ibn Janach, Radak); things alike but not identical, like Latin species (Shadal); from מ-ן, ordering what counts (Rabbi Shlomo Pappenheim); in logic the species under a sug
   - he: זן
     tr: zan
     en: kind, type
@@ -80,7 +80,7 @@ they could not categorize, "for they did not know what it was" (Shemos 16:15).
 - Rabbi Eliyahu HaBachur (1469 to 1549, *Sefer HaTishbi*) takes a different
   approach, associating *min* in this sense with the pagan deity Meni (Yeshayahu
   65:11).
-- Rabbi Shlomo Pappenheim (1740 to 1814) takes the two-letter root מ-נ as
+- Rabbi Shlomo Pappenheim (1740 to 1814) takes the two-letter root מ-ן as
   "creating order out of causes and effects." One group of its derivatives is
   headed by *moneh* and *minyan*, counting, which creates mathematical order by
   quantifying a set of givens; *min* derives from it too, since it likewise
@@ -101,7 +101,7 @@ appearance of the instrument, possibly a *hapax legomenon*, and it is contested.
 - Donash Ibn Labrat (920 to 990) disagrees with Rav Saadia: the *dagesh* in the
   *nun* sets *minnim* apart from *minim*, making it the name of a specific
   instrument unrelated to *min*; this seems to be the approach of *Machberes
-  Menachem* (entry on מ-נ), Ibn Janach and Radak (each in his *Sefer
+  Menachem* (entry on מ-ן), Ibn Janach and Radak (each in his *Sefer
   HaShorashim*) and Rashi (to Tehillim 150:4).
 - Rabbi Yehoshua (Jeremy) Steinberg of the Veromemanu Foundation proposes that
   *minnim* is a metathesis of *nimim*, "hairs, strings," and so specifically a
@@ -147,7 +147,7 @@ the Aramaic means.
 
 Rabbi Pappenheim, whose way is to set aside Aramaic meanings as far as possible
 in favor of uniquely Hebrew explanations, ignores the possibility of a Hebrew
-*zan* equal to the Aramaic and derives both Hebrew forms from the two-letter ז-נ,
+*zan* equal to the Aramaic and derives both Hebrew forms from the two-letter ז-ן,
 sustenance and the fulfillment of needs: the first *zan* from *mazon*; the
 second as related to *zenus*, lust (a vice that comes from overindulging in
 sustenance), since it was a type of spice that served as an aphrodisiac (see

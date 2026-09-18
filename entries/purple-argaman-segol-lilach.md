@@ -106,22 +106,22 @@ fused together or loanwords borrowed from another language.
   and Ugaritic words meaning "tribute" or "offering," which would evoke
   *argaman* as an expensive dyed cloth often paid as tribute.
 - Rashi (to Tehillim 68:28), basing himself on *Machberes Menachem*, *seems* to
-  explain *argaman* from the triliteral ר-ג-מ, which usually means gathering, or
+  explain *argaman* from the triliteral ר-ג-ם, which usually means gathering, or
   stoning a person to death, and which is in turn related to ר-ק-ם, embroidery,
   possibly through the interchangeability of *kuf* and *gimmel*. Rashi does not
   say so himself, but Rabbi Reuven Chaim Klein observes that the common
   denominator across those meanings is gathering things together, stones to kill
   or threads to make needlework, and that this perhaps suggests Rashi follows
   Raavad's panoply of shades.
-- Ibn Ezra (to Mishlei 26:8) also *seems* to take *argaman* from ר-ג-מ, but
+- Ibn Ezra (to Mishlei 26:8) also *seems* to take *argaman* from ר-ג-ם, but
   explains that root as exalted things, so that *argaman* seemingly names an
   exalted sort of dyed fabric.
 - *Ohalei Yehudah* offers a portmanteau of *oreg* (weaving) and *manah* (a
   respectable portion), *argaman* being an important garment in the ancient
   world; alternatively, and this he prefers, *argavan* comprises א-ו-ר (light)
-  with ג-ו-נ (color or appearance), for the bright color it denotes. Rabbi
+  with ג-ו-ן (color or appearance), for the bright color it denotes. Rabbi
   Reuven Chaim Klein adds a proposal of his own, that *argavan* could be seen as
-  a contraction of א-ר-ג with ג-ו-נ, the middle *gimmel* belonging to both
+  a contraction of א-ר-ג with ג-ו-ן, the middle *gimmel* belonging to both
   etymons.
 - The Midrash (*Bamidbar Rabbah* 12:4) reads *argaman* homiletically as the sun,
   which prepares, literally weaves (*oreg*), different forms of sustenance

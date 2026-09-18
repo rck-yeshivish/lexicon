@@ -54,7 +54,7 @@ to a rule about voidable kiddushin, not a rule about bodies.
 ### mum (מום), meumah (מאומה)
 The Torah's word for the defect that disqualifies a kohen from serving or an
 animal from the mizbeach, with its two lists at Vayikra 21:16 to 23 and 22:17 to
-25. Rabbi Shlomo Pappenheim (1740 to 1814): the source is the biliteral מ-מ, the
+25. Rabbi Shlomo Pappenheim (1740 to 1814): the source is the biliteral מ-ם, the
 smallest quantity, which gives *meumah*, "something," usually in the
 negative, *lo meumah*, nothing at all (Bereishis 30:31, 39:23; Melachim I
 10:21). A *mum*, then, is a "something" whose presence or absence leaves the
@@ -66,7 +66,7 @@ that puts it past complete, which is equally a defect.
   speck on an otherwise clean surface and then any flaw. Rashi (to Bereishis
   22:12) already links *mum* and *meumah* by derash.
 - Rav Hirsch reads *meumah* as the smallest possible scrap of existence, a
-  something barely larger than nothing, from the root א-מ, which gives *eim*,
+  something barely larger than nothing, from the root א-ם, which gives *eim*,
   mother, the source of existence, and *im*, "if," the precondition for anything
   existing at all.
 - The most popular etymology traces *meumah* instead to the biliteral מ-ה,
@@ -141,7 +141,7 @@ already in the days of Daniel, citing *sumponia* there (Daniel 3:5, 3:10, 3:15).
   implied.
 - The early commentary on Onkelos ascribed to Rabbi Yaakov Dienna (printed as
   *Patshegen*, *Tzintzenes HaMan*, and *Sefer HaYair*) offers a Semitic
-  derivation instead, from ס-י-מ, erasing or destroying, with *pon* somehow
+  derivation instead, from ס-י-ם, erasing or destroying, with *pon* somehow
   pointing back to something from the past (Rabbi Reuven Chaim Klein flags that
   step as unexplained), and reaches the same result as Rashi: retroactive
   cancellation.

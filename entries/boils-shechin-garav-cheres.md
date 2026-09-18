@@ -141,7 +141,7 @@ A hapax legomenon at Vayikra 21:20 (the list recurs at 22:22).
 
 - Rashi, from Bechoros 41a: from *melafefes*, what attaches, since it
   accompanies a man to the day he dies.
-- Pappenheim (*Cheshek Shlomo*) reaches the same sense from the biliteral ל-פ
+- Pappenheim (*Cheshek Shlomo*) reaches the same sense from the biliteral ל-ף
   (the opening yud and closing tav extraneous), a strong hold from which it is
   hard to break free: *aluf*, a chieftain ruling from strength; *elef*, a
   thousand, the constituency a warlord needs before he can claim the title

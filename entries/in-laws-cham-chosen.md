@@ -61,7 +61,7 @@ The wife's words. Yehudah is called Tamar's
 - Rav Hirsch: in a traditional patriarchal society, where marriage is viewed as
   a woman leaving her parents' family and joining her husband's, his relatives
   stand around her like a *chomah*, a wall; hence *cham* and *chamos*.
-- Rabbi Shlomo Pappenheim reads the same letters as the biliteral ח-מ, hot: a
+- Rabbi Shlomo Pappenheim reads the same letters as the biliteral ח-ם, hot: a
   bride must stress the warm love she receives from her new relatives in order
   to honor her husband, and love is spoken of metaphorically as fire (Shir
   HaShirim 8:7), so it makes sense that she names them from the root of heat.
@@ -71,7 +71,7 @@ The wife's words. Yehudah is called Tamar's
   *yechemasni* ("birth," Tehillim 51:7).
 
 The *Pri Megadim* (Rabbi Yosef Teomim-Frankel), in a letter on dikduk, suggests
-working from the Aramaic instead: ח-מ there means "to see," and the Targumim always
+working from the Aramaic instead: ח-ם there means "to see," and the Targumim always
 render Hebrew *chosen*/*choseness* with cognates of *cham*/*chamos*. A woman's
 mother-in-law is *chamos* because she is forever watching her daughter-in-law,
 for good or otherwise (Yevamos 15:4 presumes that the two are always assumed to
@@ -137,7 +137,7 @@ from the fact that a man who uses the Biblical *chosni* will usually say
   the gender of the speaker. In a translation of a dikduk discussion, never
   write "in-laws" as a blanket.
 - Trap: *cham* is also the ordinary adjective "hot," and Cham is a name. Do not
-  let a play on ח-מ (Pappenheim's heat, or the Aramaic "to see") be rendered as
+  let a play on ח-ם (Pappenheim's heat, or the Aramaic "to see") be rendered as
   though the pasuk itself said "hot."
 - *Chasan* and *chosen* share a root and look alike in transliteration. Where
   both appear, spell them apart on the page and gloss the first of each.

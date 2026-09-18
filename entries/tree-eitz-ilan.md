@@ -49,7 +49,7 @@ Countless times in Tanach: *eitz hadaas*, *eitz hachaim*, *atzei shittim*,
 - Rabbi Shlomo Pappenheim relates it to *atzum*, strong, and *etzem*, bone, as
   it denotes the strength and durability of a tree, against other, flimsy forms
   of flora such as grass.
-- Rabbi Moshe Shapiro finds a common theme in all words containing ע-צ: an
+- Rabbi Moshe Shapiro finds a common theme in all words containing ע-ץ: an
   *eitz* contains within itself everything that will be created from it, as
   *etzem*, self, contains the sum total of one's potential.
 

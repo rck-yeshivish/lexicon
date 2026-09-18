@@ -149,7 +149,7 @@ is no longer current (responsa *Divrei Malkiel* 6:18).
 - Rabbi Aharon Marcus departs slightly: the core meaning is "brown," so *chemer*
   is wine's reddish-brown color, and *chamor*, the donkey, and *yachmur*
   (Devarim 14:5; Melachim I 5:3) are brownish beasts; the core is the biliteral
-  ח-מ, source of *chum*, "brown," and *cham*, "hot" (the link between these two,
+  ח-ם, source of *chum*, "brown," and *cham*, "hot" (the link between these two,
   Rabbi Klein suggests, may be that what burns in great heat often turns brown).
   Rabbi Marcus even claims German *braun*, "brown," is related to *brennen*,
   "burning" (and Rabbi Klein adds that the same could be said of the English
@@ -180,13 +180,13 @@ Over 140 appearances in its forms (*yayn* in construct).
 - Menachem Ibn Saruk, Ibn Janach and Radak take the root as the triliteral
   י-י-ן.
 - Rabbi Shlomo Pappenheim (1740 to 1814) takes both *yayin* and *onaah* from the
-  biliteral י-נ, trickery or deception, since wine tastes sweet at first and
+  biliteral י-ן, trickery or deception, since wine tastes sweet at first and
   then betrays the drinker, taking away his capacity to think properly; he
   derives from it *yaven*, quicksand, which looks like dry land, and *yonah*,
   the dove, naive and easily tricked. Rabbi Klein notes that the Samaria
   Ostracon and other ancient texts found by archaeologists spell the word with
   one yod (though how it was pronounced cannot be known), which gives some
-  support to a root י-נ.
+  support to a root י-ן.
 - Dr. Edward Yechezkel Kutscher (1909 to 1971) theorized that the original form
   began with a vav (*vayin*) that, as often happens with an initial vav, became
   a yod; though he held most resemblances between Indo-European and Semitic

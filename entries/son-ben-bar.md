@@ -9,7 +9,7 @@ words:
   - he: בן
     tr: ben
     en: son
-    distinct: the Hebrew word and the word of Tanach, written in a get (Rabbi Yaakov Margolis); from ב-נ, building and producing, the child as the product of his parents' marriage (Rabbi Shlomo Pappenheim, Rabbi Meir Mintzberg)
+    distinct: the Hebrew word and the word of Tanach, written in a get (Rabbi Yaakov Margolis); from ב-ן, building and producing, the child as the product of his parents' marriage (Rabbi Shlomo Pappenheim, Rabbi Meir Mintzberg)
   - he: בר
     tr: bar
     en: son
@@ -42,12 +42,12 @@ says *ben*, and some read a lesson from it into *bar mitzvah*.
 
 ### ben (בן)
 The Hebrew word, and the word of Tanach. Rabbi Shlomo Pappenheim of Breslau
-(1740-1814) traces it, as is his way, to the two-letter root ב-נ, building and
+(1740-1814) traces it, as is his way, to the two-letter root ב-ן, building and
 producing: children are produced from their parents' marriage. From the same
 root he brings *binyan* (building), the building materials *even* (stone) and
 *teven* (straw), *avnayim* (a birthing chair, which helps the birthing along),
 and *binah*/*tevunah* (understanding), which are the products of contemplation
-and thought. He holds that *bas* (daughter) is also from ב-נ and should really
+and thought. He holds that *bas* (daughter) is also from ב-ן and should really
 be spelled *banas*, as it is in other Semitic languages, the nun generally
 dropping out in the singular and returning in the plural *banos*.
 

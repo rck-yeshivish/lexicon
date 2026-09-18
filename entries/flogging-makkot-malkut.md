@@ -132,7 +132,7 @@ linguists would say the resemblance to the Semitic ל-ק-ה ("hitting") and ל-�
 
 Modern Hebrew says
 *leharbitz* or *marbitz* for hitting, spanking, or beating someone up, from
-ר-ב-צ, which in Biblical Hebrew means crouching, stretching out, and lying down;
+ר-ב-ץ, which in Biblical Hebrew means crouching, stretching out, and lying down;
 the sense was later extended to beating a man down so that he is left spread out
 on the floor.
 

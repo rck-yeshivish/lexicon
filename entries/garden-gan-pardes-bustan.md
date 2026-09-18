@@ -64,8 +64,8 @@ Canaanite town Gina of the Amarna letters.
 
 On the root:
 
-- **Guarding.** Menachem Ibn Saruk traces *gan* to the biliteral ג-נ, Ibn Janach
-  and Radak to ג-נ-נ, and both to the same root as *haganah*, protection. A
+- **Guarding.** Menachem Ibn Saruk traces *gan* to the biliteral ג-ן, Ibn Janach
+  and Radak to ג-נ-ן, and both to the same root as *haganah*, protection. A
   garden is what a man fences and guards so that what grows in it is not
   trampled. Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) makes it explicit, with
   *yagen* (Yeshayahu 31:5), *migen* (Bereishis 14:20), and *magen*, a shield, on

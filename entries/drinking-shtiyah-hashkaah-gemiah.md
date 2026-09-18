@@ -23,7 +23,7 @@ words:
   - he: הגמיאיני
     tr: hagmieini
     en: let me drink
-    distinct: the servant's own request, used once in the parashah; the early lexicographers give the root ג-מ-א; Rashi ties it to Mishnaic ג-מ-ע, swallowing (Rashi); Pappenheim to ג-מ, drinking the way a reed soaks up water (Rabbi Shlomo Pappenheim)
+    distinct: the servant's own request, used once in the parashah; the early lexicographers give the root ג-מ-א; Rashi ties it to Mishnaic ג-מ-ע, swallowing (Rashi); Pappenheim to ג-ם, drinking the way a reed soaks up water (Rabbi Shlomo Pappenheim)
 sources:
   - wiaw:10709 "Chayei Sarah: Take a Drink" (2022-11-12) https://articles.ohr.edu/articles/chayei-sarah-take-a-drink
   - wiaw:9126 "Vayakhel/Pekudei: Animal Sounds" (2021-03-13) https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds
@@ -138,7 +138,7 @@ me drink."
   on the Gemara (Shabbos 77a), which debates whether that Mishnaic word takes an
   *aleph* or an *ayin* and adduces the pasuk of *hagmieini* as proof for the
   *aleph*.
-- Rabbi Shlomo Pappenheim instead traces it to the biliteral ג-מ, spongy or
+- Rabbi Shlomo Pappenheim instead traces it to the biliteral ג-ם, spongy or
   absorbent material, which gives *gome*, the spongy reed of marshy wetlands:
   the request is to drink the way a reed soaks up water.
 
@@ -153,7 +153,7 @@ Rabbi Reuven Chaim Klein offers two further possibilities of his own.
 
 He adds that the rabbinic *lugma* (a cheekful) and *legimah* (a sip) may well be
 related to *hagmieini*, although Rabbi Ernest Klein writes that the origin of
-the rabbinic ל-ג-מ is unknown and may in fact be borrowed from the Greek
+the rabbinic ל-ג-ם is unknown and may in fact be borrowed from the Greek
 *lygmos*, "swallowing."
 
 ### how the parashah uses them

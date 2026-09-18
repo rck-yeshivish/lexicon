@@ -136,7 +136,7 @@ Exodus. Since one of the verbs for the sea's splitting is *gozer* (Tehillim
 allusion to the 210 years the Jews were in Egypt.
 
 ### rofeh (רופא) and uman (אומן)
-Roots ר-פ-א, "heal," and א-מ-נ, "craft." A talmid chacham may not live in a
+Roots ר-פ-א, "heal," and א-מ-ן, "craft." A talmid chacham may not live in a
 city that has no *rofeh* and no *uman* (Bava Basra 21a; Sanhedrin 17b); Rashi
 there takes *rofeh* as a circumciser for Jewish children and *uman* as a
 bloodletter or barber. Where no Jewish circumciser is at hand, the Gemara

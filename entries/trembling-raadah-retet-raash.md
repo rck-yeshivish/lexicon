@@ -149,7 +149,7 @@ Yirmiyahu 15:4) writes that the vav of *za'avah* is not part of its root ז-ע.
 *Zava'ah*, an earthquake (Berachos 54a), the trembling of the earth, now understood
 as pressure from the interaction of tectonic plates; Pappenheim, following the
 science of his day, explained it as air and gases trapped underground. Pappenheim also derives two words for anger
-from ז-ע: *za'am* (with a final mem) and *za'af* (with the biliteral א-פ, the
+from ז-ע: *za'am* (with a final mem) and *za'af* (with the biliteral א-ף, the
 face, its shaking reflecting anger). Rabbi Mordechai Kohen of Safed (*Siftei
 Kohen* to Bamidbar 15:27) writes that one who sins by mistake with *avodah zarah*
 brings an *eiz* (ע-ז) as a sin-offering so that it should shake (ז-ע) him into

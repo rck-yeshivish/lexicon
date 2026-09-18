@@ -187,7 +187,7 @@ Klein says, a tight knot certainly fits.
   40, 31:8 to 12); elsewhere only in *beis eiked* (II Melachim 10:12, 10:14),
   which Radak's father explains as the place shepherds tied down sheep for
   shearing.
-- ע-נ-ד: twice (Iyov 31:36, Mishlei 6:21), and some see a metathesized ע-ד-נ in
+- ע-נ-ד: twice (Iyov 31:36, Mishlei 6:21), and some see a metathesized ע-ד-ן in
   Iyov 38:31. Malbim: tying on something that serves as an ornament. Modern
   Hebrew uses it for putting on a wristwatch.
 - ח-ב-ש: saddling a donkey (Bereishis 22:3, Bamidbar 22:21, Shoftim 19:10,

@@ -45,7 +45,7 @@ of stones (Ibn Janach, Radak).
 |---|---|---|---|
 | סקילה | sekilah | stoning, pelting | the act of throwing, not necessarily fatal (Yashar); one stone could in theory suffice (Shapira-Frankfurter) |
 | רגימה | regimah | stoning to death | the result: subdued and immobile (Pappenheim); a heap thrown, typically by "the entire nation" (Shapira-Frankfurter) |
-| מרגמה | margeimah | sling, catapult | the launching device (Mishlei 26:8), seemingly from ר-ג-מ |
+| מרגמה | margeimah | sling, catapult | the launching device (Mishlei 26:8), seemingly from ר-ג-ם |
 
 ## Where the authorities disagree
 
@@ -142,31 +142,31 @@ those present.
   *regimah* to *regev*, "clump of dirt" (Iyov 21:33, 38:38), both a gathering of
   smaller parts, by the interchange of MEM and BEIS; this resembles Tedeschi's
   account of *sekilah*.
-- Rav Hirsch (to Shemos 26:1) links ר-ג-מ to ר-ק-מ, embroidery, by the
+- Rav Hirsch (to Shemos 26:1) links ר-ג-ם to ר-ק-ם, embroidery, by the
   interchange of GIMMEL and KUF: one piles stones on top of a person, the other
   sews a picture on top of a fabric.
 - Rabbi Avi Kobernick (*Hipuch Osiyos*) ties it to the permutations ג-מ-ר
-  (finish off), מ-ג-ר (destroy, as in *usimager*) and ג-ר-מ (break), all
+  (finish off), מ-ג-ר (destroy, as in *usimager*) and ג-ר-ם (break), all
   destruction.
-- Rabbi Yitzchak Ginsburgh notes that the gematria of ר-ג-מ (243) exceeds that
+- Rabbi Yitzchak Ginsburgh notes that the gematria of ר-ג-ם (243) exceeds that
   of ס-ק-ל (190) by 53, the gematria of *even*, stone.
 
 ### margeimah (מרגמה) and the wider root
 Mishlei 26:8: "like tying a stone to a catapult (*margeimah*), so is giving honor
-to a fool." *Margeimah* seemingly derives from ר-ג-מ as throwing, and the
+to a fool." *Margeimah* seemingly derives from ר-ג-ם as throwing, and the
 Gemara (Chullin 133a) almost certainly alludes to this when it derives from the
 verse that teaching an unworthy student is like throwing a stone to Merculis.
 
 Regem-Melech, who with Sarezer asked Zechariah about the fast of Av (Zechariah
 7:2), and Regem of Yehudah (Divrei HaYamim I 2:47) seem to take their names
-somehow from ר-ג-מ.
+somehow from ר-ג-ם.
 - *Mishnas Rabbi Eliezer* (ch. 3) makes the two askers Nevuchadnetzar's officers
   who converted.
 - Menachem Ibn Saruk: *regem melech* is not a name but "royal delegation,"
   *regem* meaning a grouping; others, "royal officials," *regem* meaning
   officers (Ibn Ezra to Zechariah 7:2, Tehillim 68:28).
 - Abarbanel (to Zechariah 7:7, *Mashmia Yeshuah* 14:2): perhaps a title for his
-  role at court. Since the Ugaritic equivalent of ר-ג-מ means "say, announce,
+  role at court. Since the Ugaritic equivalent of ר-ג-ם means "say, announce,
   answer," Rabbi Klein suggests Regem-Melech may have been the king's herald,
   and that Sarezer is perhaps *sar otzar*, treasurer.
 - Radak (to Zechariah 7:2 and *Sefer HaShorashim*) and Ibn Ezra (to Zechariah
@@ -175,11 +175,11 @@ somehow from ר-ג-מ.
   making Regem-Melech theophoric; Rabbi Klein could not substantiate this and
   found no other source for such a deity.
 
-Two further words are traced to ר-ג-מ. *Argaman*, purple cloth: Rabbi Yosef
+Two further words are traced to ר-ג-ם. *Argaman*, purple cloth: Rabbi Yosef
 Kimchi (*Sefer HaGalui*, *Sefer HaChukah*) takes it from the root with ALEF and
 NUN added, from the "officers" sense, since only prominent officials might wear
 it; Meiri (to Mishlei 26:8) adopts this, Radak (*Sefer HaShorashim*) cites it,
-and Rabbi Eliyahu HaBachur (*Sefer HaTishbi*) compares *esnan* from ת-נ.
+and Rabbi Eliyahu HaBachur (*Sefer HaTishbi*) compares *esnan* from ת-ן.
 *Targum*, translation (Ezra 4:7), is seemingly from the root, though the
 relationship is not clear.
 - Rabbi Refael Gruskin: as *regimah* throws stones from place to place, *targum*
@@ -191,7 +191,7 @@ relationship is not clear.
 - Rabbi Binyamin Kohen-Shauli (1942 to 1971): a metathesis of Aramaic ג-מ-ר, to
   learn.
 - Rabbi Yaakov Loyfer (introduction to Targum Onkelos in *Otzar HaRishonim*):
-  "elucidated speech," from ר-ג-מ as the Ugaritic "say."
+  "elucidated speech," from ר-ג-ם as the Ugaritic "say."
 
 Rabbi Klein compares Yiddish *taytsh*, "translate," an early form of German
 *deutsch* before the *t* became *d* under Grimm's Law, and cognate with English

@@ -67,9 +67,9 @@ typically hollow.
 - The early lexicographers derive *pach* from *mefakim*, the flow of liquid
   (Yechezkel 47:2, Shekalim 6:3, Middos 2:6), the *pach* being what liquid flows
   or is poured from. The triliteralists take the root as פ-כ-ה (Radak, *Sefer
-  HaShorashim*), the biliteralists as a two-letter פ-כ (*Machberes Menachem*,
+  HaShorashim*), the biliteralists as a two-letter פ-ך (*Machberes Menachem*,
   Rashi to Yechezkel 47:2).
-- Rabbi Shlomo Pappenheim also takes the root as פ-כ but gives it the sense of
+- Rabbi Shlomo Pappenheim also takes the root as פ-ך but gives it the sense of
   *reversal*, parent of *hafuch*: a flask with a narrow opening, which must be
   turned upside down to empty. He relates *puch*, eye makeup (II Melachim 9:30,
   Yirmiyahu 4:30), to it, since such kohl was typically stored in a *pach*, and

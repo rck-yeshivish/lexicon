@@ -94,8 +94,8 @@ The Torah's second verb in the same prohibition.
   (Bereishis 41:14, Shmuel II 12:20); in Modern Hebrew a *chalifah* is a suit.
 - Malbim: *chalifah* looks at the objects switched, not the switcher.
 
-Root: most read ח-ל-פ. Pappenheim (*Yerios Shlomo*) builds it from two biliterals,
-ח-ל (circle, turning) and א-פ (face, present), so *chalifah* is pivoting away
+Root: most read ח-ל-ף. Pappenheim (*Yerios Shlomo*) builds it from two biliterals,
+ח-ל (circle, turning) and א-ף (face, present), so *chalifah* is pivoting away
 from the present situation. This somewhat echoes Rav Hirsch on what one is getting
 rid of, and it runs against what Pappenheim himself writes in *Cheshek Shlomo*,
 where *temurah* is "out with the old" and *chalifah* "in with the new";
@@ -129,4 +129,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Old Switcheroo](https://articles.ohr.edu/articles/old-switcheroo)," *What's in a Word?*, Ohr Somayach, 23 May 2020.
 
-Cited in the essay: Vayikra 27:10 and 27:33; Bereishis 35:2 and 41:14; Shmuel II 12:20; Yeshayahu 2:18; Tehillim 106:20; Pappenheim, *Cheshek Shlomo* s.v. מר and *Yerios Shlomo* on ח-ל-פ.
+Cited in the essay: Vayikra 27:10 and 27:33; Bereishis 35:2 and 41:14; Shmuel II 12:20; Yeshayahu 2:18; Tehillim 106:20; Pappenheim, *Cheshek Shlomo* s.v. מר and *Yerios Shlomo* on ח-ל-ף.

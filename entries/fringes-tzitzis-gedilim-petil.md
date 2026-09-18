@@ -64,7 +64,7 @@ fringe** of a garment. *Tzitzis* and *tallis* are not interchangeable.
 ## Distinctions
 
 ### tzitzis (ציצית)
-The classical lexicographers of the triliteral school trace *tzitzis* to צ-י-צ,
+The classical lexicographers of the triliteral school trace *tzitzis* to צ-י-ץ,
 a root that yields "sprouting," "peeking," "branch, wing, fin," and *tzitz*, the
 Kohen Gadol's forehead plate.
 
@@ -88,7 +88,7 @@ In Mishnaic Hebrew the shreds of foreskin left after a milah are *tzitzin*
   "exit" the garment they are tied to.
 - Menachem Ibn Saruk (*Machberes Menachem*) implies the same monoliteral root,
   although he does not actually list *tzitzis* as a declension of it.
-- Rav Hirsch (to Shemos 28:36), by his phonetic method, links צ-י-צ to ש-י-ש
+- Rav Hirsch (to Shemos 28:36), by his phonetic method, links צ-י-ץ to ש-י-ש
   (*sasson*, gladness as the outward showing of inner happiness) and to ז-י-ז
   (*ziz*, the mammary gland as the outward showing of the inner motherly
   instinct to provide nourishment), so that *tzitz* is what protrudes from a
@@ -131,7 +131,7 @@ The difference from *tzitzis*: Menachos 39a requires a third of the strings'
 length to be *gadil* (braided) and two thirds to hang loose like a branch
 (*anaf*). Radak (*Sefer HaShorashim*) uses that Gemara to resolve why the Torah
 sometimes says *gedilim* and sometimes *tzitzis*: one part of the string is a
-branch, which is the "branch" sense of צ-י-צ, and the other is a braid. Rav
+branch, which is the "branch" sense of צ-י-ץ, and the other is a braid. Rav
 Hirsch (to Bamidbar 15:38) reads it similarly. Rabbi Reuven Chaim Klein then
 floats a further step of his own ("I was thinking that perhaps"): the mitzvah
 appears in three pesukim, *tzitzis* in two of them (Bamidbar 15:38, 15:39) and

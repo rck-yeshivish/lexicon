@@ -93,7 +93,7 @@ Primarily "house," the building.
 
 ### machaneh (מחנה)
 The grammarians are unanimous that the root means "dwelling" or "stopping over":
-ח-נ-ה for the triliteralists (Ibn Chayyuj, Ibn Janach, Radak), ח-נ for the
+ח-נ-ה for the triliteralists (Ibn Chayyuj, Ibn Janach, Radak), ח-ן for the
 biliteralists (Ibn Saruk, and Rabbi Pappenheim, who elsewhere reduces it further
 to ח). Rabbi Pappenheim's core sense is the opposite of being in transit. Rav
 Hirsch: Yaakov's people are a *machaneh* because they are a group settled in one

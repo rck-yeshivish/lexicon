@@ -74,7 +74,7 @@ distinction among the shoe-removal verbs.
 Rabbi Reuven Chaim Klein raises a difficulty of his own here and leaves it open.
 He finds it perplexing that the Gemara names a load mounted on an animal a *shlif*
 (*Bava Kamma* 3a; see Rashi to *Bava Kamma* 17b, *Shabbos* 154b, *Eruvin* 16a,
-*Kiddushin* 22b), a word seemingly derived from ש-ל-פ, and says outright that he
+*Kiddushin* 22b), a word seemingly derived from ש-ל-ף, and says outright that he
 does not understand why a word for a parcel one hopes will *not* slip off the
 animal's back should derive from the act of slipping off. He offers two possibilities: perhaps *shlif*
 names precisely that hope, or perhaps *shalaf* in fact denotes the same untying
@@ -139,7 +139,7 @@ quotations of these pesukim (*Nazir* 8b, *Sotah* 41a, *Gittin* 36a, *Bava Metzia
 places).
 
 ### chalitzah (חליצה)
-Root ח-ל-צ.
+Root ח-ל-ץ.
 
 - The Midrash (*Vayikra Rabbah* 34:15) gives four senses: slipping, as in the
   *yevamah* drawing the shoe off her brother-in-law's foot (Devarim 25:9);
@@ -175,7 +175,7 @@ loins.
 20:35, 20:46; Shmuel I 17:51, 31:4; Shmuel II 24:9; Melachim II 3:26; Divrei
 HaYamim I 10:4, 21:16, 21:25), and less commonly of slipping off a shoe for
 symbolic deal-making, the ancient equivalent of a handshake (Rus 4:7-8).
-Pappenheim parses it as a portmanteau of ש-ל, removing, with א-פ, face, taking
+Pappenheim parses it as a portmanteau of ש-ל, removing, with א-ף, face, taking
 something out in a confrontational, in-your-face way. Yoktan, son of Ever, had a
 son named Shalaf (Bereishis 10:26), and Targum Yonasan there with Targum Rav
 Yosef (to Divrei HaYamim I 1:20) say he was the first to draw water off rivers

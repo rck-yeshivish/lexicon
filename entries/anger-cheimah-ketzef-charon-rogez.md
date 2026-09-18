@@ -49,7 +49,7 @@ words:
     tr: anaf
     en: anger
     nk: אָנַף
-    distinct: the same word as af with an extra nun (Rabbeinu Efrayim), or the true root of af, whose nun sometimes drops out (Radak); anger that spurs one to immediate revenge (Rokeach); from נ-פ, the body convulsing with anger (Pappenheim)
+    distinct: the same word as af with an extra nun (Rabbeinu Efrayim), or the true root of af, whose nun sometimes drops out (Radak); anger that spurs one to immediate revenge (Rokeach); from נ-ף, the body convulsing with anger (Pappenheim)
   - he: עשן
     tr: ashan
     en: smoke, anger
@@ -246,7 +246,7 @@ In Modern Hebrew *katzefet* is whipped cream.
   Radak writes the exact opposite, that the true root of *af* is א-נ-ף and the
   nun sometimes drops out.
 - Rokeach: *anaf* is anger that spurs one to immediate revenge.
-- Pappenheim, as an aside, traces *anaf* instead to the biliteral נ-פ, movement,
+- Pappenheim, as an aside, traces *anaf* instead to the biliteral נ-ף, movement,
   the body twitching and convulsing out of sheer anger.
 
 The non-kosher *anafah* of Vayikra 11:19 and Devarim 14:18 is explained by the

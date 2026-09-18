@@ -84,7 +84,7 @@ creates the fruit *ha'adamah*, of the ground.
   (Shabbos 30b), and so says *eretz*, the land that will by then break free of
   its curse and return to its pure, unblemished state.
 
-Rabbi Shlomo Pappenheim derives *adamah* from the biliteral ד-מ, similarity,
+Rabbi Shlomo Pappenheim derives *adamah* from the biliteral ד-ם, similarity,
 whence *domem*, inactive: the *adamah* is where plants grow and are active, while
 the *adamah* itself remains passive. Rabbi Yaakov Tzvi Mecklenburg builds on this
 to explain why an unqualified *eretz* in the Torah often means the Holy Land and

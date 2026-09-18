@@ -74,20 +74,19 @@ yosher* is the Hebrew term the others are explained by. Its plain sense in
 Bereishis 42:23 is an interpreter standing between two parties, and more broadly
 a middle-man. The full phrase comes from Iyov 33:23-24, where a single *meilitz*
 angel out of a thousand tells of a man's *yashro*, his straightness, and he is
-spared. *Meilitz* can be traced either to מ-ל-צ or to ל-ו-צ.
+spared. *Meilitz* can be traced either to מ-ל-ץ or to ל-ו-ץ.
 
-- Ibn Janach and Radak relate the first to מ-ר-צ, *meretz* (fluency,
+- Ibn Janach and Radak relate the first to מ-ר-ץ, *meretz* (fluency,
   persistence), by the interchange of lammed and reish, and on that reading the
   word seems to name the smoothness and consistency the advocate's speech
-  requires; they also trace it to ל-ו-צ (thinking, explaining), so that it names
+  requires; they also trace it to ל-ו-ץ (thinking, explaining), so that it names
   his reasoning.
-- Rabbi Shlomo Pappenheim takes the core of ל-צ as logical verbalization, usable
+- Rabbi Shlomo Pappenheim takes the core of ל-ץ as logical verbalization, usable
   for good (*meilitz*) or for ill (*leitzanus*, mockery); elsewhere he holds
   that in many three-letter roots a prefixed mem turns the meaning of the
   two-letter core into its exact opposite, the letters standing as they are, so
   *leitz* (scorn) becomes *meilitz* (justification, defense). Modern Hebrew's
-  *leitzan*,
-  a clown, comes from *leitz* but has lost the pejorative edge.
+  *leitzan*, a clown, comes from *leitz* but has lost the pejorative edge.
 
 ### praklit (פרקליט)
 A loanword, not Hebrew. It appears in Targum as the Aramaic rendering of

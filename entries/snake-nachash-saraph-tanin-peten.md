@@ -43,7 +43,7 @@ words:
   - he: שפיפון
     tr: shephiphon
     en: adder
-    distinct: a small snake that moves with its body always touching the ground, from ש-פ, closeness (Mecklenburg); from Akkadian shepu, foot, a name for the footless serpent (Rabbi Aharon Marcus); its final nun marks it small (Wertheimer), though the Rokeach contradicts himself on its size (Stahl)
+    distinct: a small snake that moves with its body always touching the ground, from ש-ף, closeness (Mecklenburg); from Akkadian shepu, foot, a name for the footless serpent (Rabbi Aharon Marcus); its final nun marks it small (Wertheimer), though the Rokeach contradicts himself on its size (Stahl)
 sources:
   - wiaw:7321 "Slithering Serpents and Sea Snakes - Part 1" (2017-07-01) https://articles.ohr.edu/articles/slithering-serpents-and-sea-snakes-part-1
   - wiaw:7341 "Slithering Serpents and Sea Snakes - Part 2" (2017-07-15) https://articles.ohr.edu/articles/slithering-serpents-and-sea-snakes-part-2
@@ -184,7 +184,7 @@ say, which in Hebrew is an *achavish*.
 ### shephiphon (שפיפון)
 Once in Tanach, Bereishis 49:17; Yerushalmi Terumos 8:3 describes it as
 resembling a single hair.
-- Rabbi Yaakov Tzvi Mecklenburg (1785-1865): from the two-letter ש-פ, associated
+- Rabbi Yaakov Tzvi Mecklenburg (1785-1865): from the two-letter ש-ף, associated
   with closeness and attachment between things (as in *shifshuf*, rubbing),
   since this snake gets about by wiggling and crawling with its body always
   touching the ground.

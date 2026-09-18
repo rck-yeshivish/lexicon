@@ -51,7 +51,7 @@ and entered the four *chotem* of the two men. It is *chotem*, the Rabbinic
 word, that the Gemara uses there.
 
 ### af (אף)
-Root: Menachem Ibn Saruk and Ibn Janach give א-פ; Radak gives א-נ-פ. Either way
+Root: Menachem Ibn Saruk and Ibn Janach give א-ף; Radak gives א-נ-ף. Either way
 a wide family of words might be related to it: nose, anger, face, "even, also,
 although," and baking. In general, singular *af* is one nose; the dual *apayim*, literally two noses, is
 the whole face. Rabbi Aharon Marcus: the face divides on a left-right axis
@@ -62,7 +62,7 @@ telling pattern in Targum: where *af* means face, Targum typically gives *anaf*;
 where it means nose, Targum gives a form of *nechar*. The Aramaic
 *anaf* is itself likely a cognate of the Hebrew *af*, with a nun inserted in
 the middle as often happens, and Arabic has a similar *anf*, "nose"; and
-Biblical Hebrew has a root א-נ-פ yielding verbs of becoming angry, which
+Biblical Hebrew has a root א-נ-ף yielding verbs of becoming angry, which
 is the same nose-anger link again.
 
 - Rashi (to Devarim 29:19, Shmuel II 22:9, Yeshayahu 48:9, Tehillim 18:9,

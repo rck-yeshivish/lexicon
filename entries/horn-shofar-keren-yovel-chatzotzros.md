@@ -118,7 +118,7 @@ to the late Biblical *tzfir* (Daniel 8:5, 8:8, 8:21; Ezra 8:35; Divrei HaYamim I
 and ayin may interchange.
 
 ### keren (קרן)
-Menachem Ibn Saruk, Ibn Janach, and Radak: root ק-ר-נ, both an animal's horn
+Menachem Ibn Saruk, Ibn Janach, and Radak: root ק-ר-ן, both an animal's horn
 and a ray of light. The link is plain: a beam projects from its source as a horn
 juts from the head. Extensions: strength (Yechezkel 29:21, Tehillim 132:17, 148:14), since the
 horn gives an animal's gore its power; a horn-shaped vessel (Shmuel I 16:1,

@@ -93,7 +93,7 @@ The word in the makkos: "over their rivers, over their canals, over their
 Three times in Tanach: Iyov 8:11 and 40:21, Yechezkel 47:11. Muddy, swampy
 ground, from *botz*, mud (Yirmiyahu 38:22).
 
-- Rabbi Shlomo Pappenheim takes both from the two-letter ב-צ, matter of a
+- Rabbi Shlomo Pappenheim takes both from the two-letter ב-ץ, matter of a
   mucus-like consistency, whose commonest derivative is *beitzah*, an egg,
   typically gooey inside (the singular *beitzah* never appears in Tanach, only
   the plural *beitzim*, as at Devarim 22:6). Mud fits: not pourable like water,

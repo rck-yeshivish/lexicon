@@ -21,7 +21,7 @@ words:
   - he: אמץ
     tr: ometz
     en: fortitude, resolve
-    distinct: strength above the normal measure (Bedersi, Wertheimer); strength of the heart (Vilna Gaon, Malbim); resilient strength that recharges and never falters (Malbim to Yeshayahu 28:2); spiritual resolve to stay in the battle (Shapira-Frankfurter); squeezing out every last ounce of energy, from מ-צ (Pappenheim)
+    distinct: strength above the normal measure (Bedersi, Wertheimer); strength of the heart (Vilna Gaon, Malbim); resilient strength that recharges and never falters (Malbim to Yeshayahu 28:2); spiritual resolve to stay in the battle (Shapira-Frankfurter); squeezing out every last ounce of energy, from מ-ץ (Pappenheim)
   - he: עז
     tr: oz
     en: might
@@ -47,7 +47,7 @@ words:
   - he: תקיף
     tr: takif
     en: overpowering
-    distinct: strength that can surround and overpower another, from ק-פ, a circle, and the strength actually to overpower, against chozek that withstands (Pappenheim); Hashem's all-encompassing power (Rabbi Edel); the Targumim's Aramaic for chozek and oz
+    distinct: strength that can surround and overpower another, from ק-ף, a circle, and the strength actually to overpower, against chozek that withstands (Pappenheim); Hashem's all-encompassing power (Rabbi Edel); the Targumim's Aramaic for chozek and oz
 sources:
   - wiaw:8868 "The Power to Hold Back" (2020-09-26) https://articles.ohr.edu/articles/the-power-to-hold-back
   - wiaw:8857 "The Strong Ones" (2020-09-12) https://articles.ohr.edu/articles/the-strong-ones
@@ -164,7 +164,7 @@ people say it to Yehoshua (1:18); David says it to Shlomo (Divrei HaYamim I
    more effort he must exert to keep performing good deeds and not lose himself
    in the theoretical world of study, and that super-human fortifying of the
    will is properly *ometz*.
-6. Rabbi Shlomo Pappenheim of Breslau (1740 to 1814): *ometz* is from מ-צ,
+6. Rabbi Shlomo Pappenheim of Breslau (1740 to 1814): *ometz* is from מ-ץ,
    sucking or squeezing (*mitz*, juice; *metzitzah*, sucking), a person
    squeezing out every last ounce of energy. Red horses are *amutzim*
    (Zechariah 6:3) because their exertion brings their blood to the surface of
@@ -186,7 +186,7 @@ ability by which one person stands out above the rest, and calling someone
   quality and not only quantity. Alternatively, it is borrowed from *etzem*,
   bone, the strongest part of the body.
 
-- Rabbi Moshe Shapiro (1935 to 2017) finds a common theme in all words with ע-צ:
+- Rabbi Moshe Shapiro (1935 to 2017) finds a common theme in all words with ע-ץ:
   *eitz*, a tree, contains within itself everything that will come from it;
   *etzem*, self, the sum of one's potential; *atzuv*, sad, one who retreats into
   himself and does not expand outward; *atzel*, lazy, who keeps his potential
@@ -194,7 +194,7 @@ ability by which one person stands out above the rest, and calling someone
   advice, which an honest advisor can give only as far as he grasps the *etzem*
   of the matter. So *otzem* is potential strength pent up within a person and
   not yet outwardly expressed. (Rabbi Pappenheim offers a similar exposition of
-  ע-צ.)
+  ע-ץ.)
 - Rabbi Aharon Marcus (1843 to 1916): a tree is *eitz* for its hard, strong
   trunk, and *atzuv* is related to *eitz* as wood, a dry state bereft of life
   and happiness; in a fascinating twist he connects *otzem* and *eitz* to *oz*,
@@ -289,7 +289,7 @@ components are equally powerful.
 *Takif*: the standard Aramaic of the Targumim for *chozek* and *oz*, and also a
 Hebrew word in Tanach (see Esther 9:29, 10:2; Koheles 4:12; Daniel 4:27).
 
-- Rabbi Pappenheim traces it to ק-פ, a complete circle (*hakafah*/*heikef*,
+- Rabbi Pappenheim traces it to ק-ף, a complete circle (*hakafah*/*heikef*,
   circumference, encircle; *kafah*/*kafui*, frozen, since the outer perimeter of
   a liquid freezes first; he also relates *kof*, monkey, to this root but admits
   he does not know how to explain the connection). His etymology recalls his

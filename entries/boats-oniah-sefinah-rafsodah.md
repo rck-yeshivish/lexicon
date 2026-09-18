@@ -109,7 +109,7 @@ Tarsus or Tunis (Melachim I 10:22, 22:49; Yeshayahu 2:16; Tehillim 48:8);
 shayit* (Yeshayahu 33:21), either rowboats, since *shotim* are sticks or
 paddle-rods (Radak), or a general term for boats that "swim," *shat*, on the
 surface (Rashi). Rabbi Shlomo
-Pappenheim traces it to the biliteral א-נ, "where," since a ship goes where the
+Pappenheim traces it to the biliteral א-ן, "where," since a ship goes where the
 water pushes it, so a watcher asks where it is bound; Rav Hirsch (to Bereishis
 16:8) says only that the *oniah* brings a person to a "where."
 

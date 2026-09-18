@@ -107,7 +107,7 @@ Derashos, and the question of why dairy is eaten on Shavuos:
 Yishai sends David with ten *charitzei hechalav* to the officer (Shmuel I
 17:18). Targum Yonasan, Rashi, and *Machberes Menachem* read cheese, and
 Bechoros 6b uses the pasuk as one of two proofs that milk and its products are
-permitted and are not *eiver min hachai*. On why the root ח-ר-צ should mean
+permitted and are not *eiver min hachai*. On why the root ח-ר-ץ should mean
 cheese:
 - Radak (*Sefer HaShorashim*) and Rabbi Avraham ben Shlomo, pieces of fresh
   cheese, whose making somehow involves a shaking that resembles threshing, and
@@ -142,7 +142,7 @@ Targum Yonasan again renders *guvnin d'chalav*.
 - *Midrash Shocher Tov* (to Tehillim 3): not ordinary cheese, but cow's cheese
   so slick flies slid off it; Rabbi Chaim Dov Rabinowitz (*Daas Sofrim* there)
   reads that as heavily preserved cheese fit for a long journey.
-- Radak and *Metzudas Tzion* tie the word to ש-פ, rubbing and massaging (Iyov
+- Radak and *Metzudas Tzion* tie the word to ש-ף, rubbing and massaging (Iyov
   33:21; Radak, *Sefer HaShorashim*).
 - Rabbi Pappenheim defines the biliteral as movement by rubbing, shifting a
   thing without lifting it, and takes *shfot bakar* as soft, spreadable cheese.

@@ -9,7 +9,7 @@ words:
   - he: יוסף
     tr: Yosef
     en: Yosef
-    distinct: from yosef, "He shall add," as Rachel said at his birth (Bereishis 30:24); Rabbi Shlomo Pappenheim reads the yud as non-root and takes it from ס-פ, "end," adding meaning extending a boundary
+    distinct: from yosef, "He shall add," as Rachel said at his birth (Bereishis 30:24); Rabbi Shlomo Pappenheim reads the yud as non-root and takes it from ס-ף, "end," adding meaning extending a boundary
   - he: יהוסף
     tr: Yehosef
     en: Yehosef
@@ -44,7 +44,7 @@ readings, mean "royal."
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| יוסף | Yosef | Yosef | "He shall add" (Bereishis 30:24); from ס-פ, "end," on Pappenheim's reading |
+| יוסף | Yosef | Yosef | "He shall add" (Bereishis 30:24); from ס-ף, "end," on Pappenheim's reading |
 | יהוסף | Yehosef | Yehosef | the extra hei of the Divine Name, earned in Potiphar's house (Sotah 10b, 36b) |
 | צפנת פענח | Tzafnas Paneach | revealer of mysteries | Pharaoh's title for him (Rashi); "concealer of mysteries" (Chasam Sofer) |
 | אברך | avreich | father to the king / young sage | *av* + *reich* (Onkelos), *av* + *rach* (Bereishis Rabbah), or *berech*, kneeling (Sifrei) |
@@ -76,12 +76,12 @@ three.
    surpassing wisdom against his youth. This is the source of the modern use of
    *avreich* for a young man in kollel.
 3. **One before whom all kneel.** Others in *Sifrei Devarim* 1 take it from
-   ב-ר-כ, *berech*, a knee. The Taz in *Divrei Dovid* notes why: these
+   ב-ר-ך, *berech*, a knee. The Taz in *Divrei Dovid* notes why: these
    authorities rejected splitting the name into two words at all, so they needed
    a single root. *Targum Yonasan* synthesizes the first and third readings.
 
 **Whether Tzafnas Paneach reveals or conceals.** *Bereishis Rabbah* 90:4 gives
-four readings; three take *tzafnas* from צ-פ-נ, hidden. On *paneach* there is
+four readings; three take *tzafnas* from צ-פ-ן, hidden. On *paneach* there is
 less agreement.
 - In the Midrash, some combine פ-ע (appearing) with נ-ח (easing or placating):
   Yosef unravels hidden matters easily, or he settles people's questions by
@@ -136,11 +136,11 @@ shoulders while the choshen reads *Yosef* (see *Minchas Chinuch* 99).
 ## Distinctions
 
 ### Yosef (יוסף)
-- Root י-ס-פ for early lexicographers such as Ibn Chayyuj, Ibn Janach, and
+- Root י-ס-ף for early lexicographers such as Ibn Chayyuj, Ibn Janach, and
   Radak: to add. Rachel exclaims *asaf* (Hashem has gathered up my disgrace) and
   names him *Yosef* (may Hashem add me another son), Bereishis 30:23-24.
 - Rabbi Shlomo Pappenheim treats the yud as extraneous and takes the core as
-  ס-פ, "end," which yields *sof* (an end), *sayif* (a sword, which ends a life),
+  ס-ף, "end," which yields *sof* (an end), *sayif* (a sword, which ends a life),
   *safah* (a lip, edge, or riverbank), *saf* (a threshold, a domain's edge), and
   *asifah* (gathering, which redraws a set's boundaries). Adding, on this
   reading, is extending an end to where it had not reached.

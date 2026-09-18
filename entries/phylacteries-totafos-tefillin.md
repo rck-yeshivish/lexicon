@@ -61,7 +61,7 @@ cognates in Mishnaic Hebrew and find *totefes*, an article of women's jewelry
 (Shabbos 6:1, see Shabbos 57b), and the Aramaicized *totafta*, a bracelet
 (Targum to Shmuel II 1:10, and see Yechezkel 24:17). Ibn Janach and Radak (each
 in *Sefer HaShorashim*) take the same line and assign the word a root of its
-own, ט-ט-פ, which occurs nowhere in Tanach but here; so too Rashbam (to Shemos
+own, ט-ט-ף, which occurs nowhere in Tanach but here; so too Rashbam (to Shemos
 13:9) and possibly the Zohar (Bo 43a). Rabbi Yaakov Tzvi Mecklenburg (1785-1865)
 develops it: the tefillin are an ornament, a Jew's way of announcing to the world
 that he is proud to stand in Hashem's service. This also explains why the Gemara
@@ -79,11 +79,11 @@ be related to seeing.
 
 **Dripping.**
 - Menachem Ibn Saruk (920-970; *Machberes Menachem*, cited by Rashi to Shemos
-  13:16) takes the word from the biliteral ט-פ, which yields four categories:
+  13:16) takes the word from the biliteral ט-ף, which yields four categories:
   *taf* (children), *notef*/*tipah* (dripping), *netifos* (adornments and
   niceties), and *matif* (speech, preaching). He explicitly classes *totafos*
   with the last of these, but offers no further justification for the assertion.
-- A separate approach connects *totafos* to the "dripping" sense of (נ)ט-פ:
+- A separate approach connects *totafos* to the "dripping" sense of (נ)ט-ף:
   Rabbi Yissocher Ber Eilenberg (1550-1623; *Tzeidah LaDerech* to Shemos 13:16)
   quotes in the name of his teacher Rabbi Mordechai Yaffe (1530-1612) that
   tefillin picture the trickle-down of how Hashem sustains the world: the black
@@ -95,7 +95,7 @@ be related to seeing.
   (Yeshayahu 3:19).
 
 **Secondary or subordinate.** Rabbi Shlomo Pappenheim (1740-1814; *Chesheik
-Shlomo*) champions Ibn Saruk's biliteralism and gives ט-פ the core sense of what
+Shlomo*) champions Ibn Saruk's biliteralism and gives ט-ף the core sense of what
 is secondary or subordinate to a main element: *taf*, the children secondary to
 the household's master and mistress; a *tipah*, the small insignificant droplet
 that falls from a larger body of liquid; *matif*, prophetic or hortatory speech

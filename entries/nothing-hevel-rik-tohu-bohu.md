@@ -35,7 +35,7 @@ words:
     tr: meumah
     en: nothing, anything
     nk: מְאוּמָה
-    distinct: nothing, and also anything, since Hebrew allows double negatives; from mah, what (Rabbi Yehudah Aryeh of Carpentras, Gesenius), or from מ-מ, the smallest amount (Rabbi Shlomo Pappenheim), a smidgen of existence (Rav Hirsch)
+    distinct: nothing, and also anything, since Hebrew allows double negatives; from mah, what (Rabbi Yehudah Aryeh of Carpentras, Gesenius), or from מ-ם, the smallest amount (Rabbi Shlomo Pappenheim), a smidgen of existence (Rav Hirsch)
   - he: כלום
     tr: klum
     en: nothing
@@ -272,7 +272,7 @@ than before.
 
 Rabbi Yitzchak Zeldin (eighteenth-century Germany) writes in *Shoresh Yesha*
 that *efes* and its metathesized counterpart *osef*, "gathering," are both
-related to the root ס-פ, *sof*, "end, edge": *osef* is a contraction of *ein
+related to the root ס-ף, *sof*, "end, edge": *osef* is a contraction of *ein
 sof*, "there is no end," because it consciously tests the limits of the "end" by
 gathering more, while *efes* denotes something whose beginning and end meet,
 because it is non-existent or close to it.
@@ -438,14 +438,14 @@ philologist Wilhelm Gesenius also offers this etymology in his lexicon of
 Biblical Hebrew and Aramaic, and compares its construction to that of the Latin
 *quidquid*, which means basically the same thing. Rabbi Dr. Ernest Klein cites
 this explanation but rejects it on technical grounds. Rabbi Shlomo Pappenheim
-traces *meumah* to the two-letter root מ-מ, which denotes "the smallest amount,"
+traces *meumah* to the two-letter root מ-ם, which denotes "the smallest amount,"
 so that *meumah* meaning "nothing" really means "not even something" (for
 example, Bereishis 30:31, 39:23; Melachim I 10:21). For him Biblical *meumah* is
 on par with the Rabbinic *mah shehu*, from *mah*, "what," and *shehu*, "that it
 is," meaning "whatever amount that it is," and *kol shehu*, from *kol*, "all,
 any," and *shehu*, meaning "any amount that it is." Rav Hirsch similarly
 explains *meumah* as the smallest possible smidgen of existence, a "something"
-only a bit bigger than "nothing," and gives its root as א-מ, which means
+only a bit bigger than "nothing," and gives its root as א-ם, which means
 "mother" (the source of all life and existence) and "if" (the precondition
 necessary for anything to exist).
 

@@ -124,7 +124,7 @@ Gad and Reuven that their soldiers go *chalutzim* (Bamidbar 32:30, 32:32;
 Devarim 3:18). Rashi (to Bamidbar 21:3) simply defines *chalutzim* as
 *mezuyanim*.
 
-The root ח-ל-צ yields removing something from its place, slipping off a garment,
+The root ח-ל-ץ yields removing something from its place, slipping off a garment,
 rescuing from danger, and *chalatzim*, the thighs, loins or hips; it also gives
 the given name Cheletz, one of David's warriors (Shmuel II 23:26; Divrei HaYamim
 I 11:27, 27:10) and another man of that name (Divrei HaYamim I 2:39).

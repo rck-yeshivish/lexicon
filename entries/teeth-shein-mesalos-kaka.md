@@ -95,7 +95,7 @@ us "stun the teeth" of the wicked son.
 - *Shoresh Yesha* argues that *shein* is more closely related to *shinun*:
   chewing, like sharpening, is a repetitive motion, meant to break the food
   down.
-- Rabbi David Chaim Chelouche (1920 to 2016) links ש-ן to ס-נ (*sneh*,
+- Rabbi David Chaim Chelouche (1920 to 2016) links ש-ן to ס-ן (*sneh*,
   thornbush), the thorns on a branch resembling sharp teeth.
 
 ### mesalos (מתלעות) and malteos (מלתעות)

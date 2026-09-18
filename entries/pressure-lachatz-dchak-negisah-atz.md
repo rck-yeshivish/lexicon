@@ -26,7 +26,7 @@ words:
     tr: alatz
     en: pressing with words
     nk: אָלַץ
-    distinct: a hapax, Delilah pressing Shimshon; cajoling with words, from ל-צ as in melitzah (Pappenheim); tied to lachatz (Ramban, Radak); making a man angry (Ibn Janach); Chazal read it as Delilah slipping away from beneath him (Sotah 9b)
+    distinct: a hapax, Delilah pressing Shimshon; cajoling with words, from ל-ץ as in melitzah (Pappenheim); tied to lachatz (Ramban, Radak); making a man angry (Ibn Janach); Chazal read it as Delilah slipping away from beneath him (Sotah 9b)
 sources:
   - wiaw:9658 "Pesach: Putting Pressure" (2022-04-16) https://articles.ohr.edu/articles/pesach-putting-pressure
   - wiaw:9682 "The Year of Slipping Away (Part 1 of 2)" (2022-05-14) https://articles.ohr.edu/articles/the-year-of-slipping-away-part-1-of-2
@@ -142,7 +142,7 @@ Bereishis 19:15, *vayaitzu hamalachim b'Lot*.
 
 - Onkelos renders it *d'chak*, and Rabbi Posen concludes from this that the
   malachim did not merely urge Lot verbally but physically pushed him out.
-- Pappenheim reads it otherwise: from the biliteral א-צ and ultimately the
+- Pappenheim reads it otherwise: from the biliteral א-ץ and ultimately the
   single letter צ, going out, so *atz* is pressing a man to move faster. The
   malachim pressed Lot to leave sooner; the *nogsim* pressed the Jews to work
   faster. One who is hurried has no patience for the next stage and feels
@@ -164,7 +164,7 @@ Once in Tanach: Delilah pressing Shimshon for the secret of his strength
   (*Ben Yehoyada* to Sotah 9b).
 - Ibn Janach dissents, glossing the verb "making him angry" rather than putting
   pressure on him.
-- Pappenheim traces it to ל-צ, logical verbalizing, whence *melitzah* (verbal
+- Pappenheim traces it to ל-ץ, logical verbalizing, whence *melitzah* (verbal
   justification or defense, also translation) and *leitzanus* (scorn or
   mockery), so *alatz* is the adept use of words to cajole a man and convince
   him into something.

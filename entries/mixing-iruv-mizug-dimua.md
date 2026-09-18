@@ -148,7 +148,7 @@ hem ba'aretz* (Shemos 14:3).
   the future held, and Algazi adds that *navochah* also bears on *bocheh*, one
   of the last avenues left them being to cry out to Hashem to save them.
 - Rabbi Shlomo Pappenheim of Breslau (*Cheshek Shlomo*) likewise traces both
-  *bocheh* and *navoch* to the biliteral ב-כ, whose core sense he sees as
+  *bocheh* and *navoch* to the biliteral ב-ך, whose core sense he sees as
   confusion and perplexity, weeping being the involuntary outward reflex of
   confused feelings (cited too in *HaKsav VeHaKabbalah* to Bereishis 50:3).
 - Rabbi Eliyahu Menachem Margulies (*Emunas Eliezer*) develops the point that

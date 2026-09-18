@@ -57,7 +57,7 @@ relations at once, a woman's husband's brother, a woman's sister's husband, a ma
 
 **Why the levir is a *yavam*.**
 
-- Rabbi Shlomo Pappenheim of Breslau (1740-1814) traces it to the biliteral ב-מ,
+- Rabbi Shlomo Pappenheim of Breslau (1740-1814) traces it to the biliteral ב-ם,
   whose core sense shows in *bam*, "in them" or "through them," which he further
   breaks down into two monoliteral roots, the beis of "in, through" and the mem
   of "them," so that the two-letter root denotes the conglomeration and meeting
@@ -174,7 +174,7 @@ senses, each attested at several loci, including "mixing" (among them
   of mixing: an army is fighters mixed for a common cause, thickness is mass
   concentrated in one place, and intimacy is two parties joined close, so that
   *giss* / *gissa* fits a root about families mixing together in matrimony, which
-  he finds reminiscent of Rabbi Pappenheim's ב-מ.
+  he finds reminiscent of Rabbi Pappenheim's ב-ם.
 
 The same root gives *gassus* or *gassus ruach*, haughtiness (*Avos* 4:7 and
 Targum to Tehillim 10:2, 10:4, 76:13, 101:5, and Mishlei 16:18), the arrogant man

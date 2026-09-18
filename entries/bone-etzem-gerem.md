@@ -52,7 +52,7 @@ the bone's hard outside, *gerem* the hollow inside where the marrow is.
    bone as one piece of a bigger structure. *Gerem hamaalos*, a single step
    of a staircase (Melachim II 9:13, and see *Metzudas Tzion* there), illustrates
    the point; hence, for Rav Hirsch, *grama* for causation as one link in a causal chain, and hence the verb of
-   ג-ר-מ for breaking, that is, pulling the parts of a system apart.
+   ג-ר-ם for breaking, that is, pulling the parts of a system apart.
 2. **General against large.** Rabbi Shlomo Aharon Wertheimer: *etzem* is the
    general word for bone of every kind. A fetus is at first fleshy tissue, and as
    it develops parts of that tissue close up and harden into bone (Iyov 10:11;
@@ -94,7 +94,7 @@ gazelle (49:21), Binyamin to a wolf (49:27). What, then, did he call Yissachar?
 **Yigarem (Bamidbar 24:8).** Bilam's blessing that Israel will consume their
 enemies "and their bones *yigarem*."
 
-- Menachem Ibn Saruk (*Machberes Menachem*): ג-ר-מ has two senses, bone and
+- Menachem Ibn Saruk (*Machberes Menachem*): ג-ר-ם has two senses, bone and
   breaking, and here it means they will break them; Rashi cites him.
 - Rashi himself prefers gnawing: scraping (*gorer*) the meat off the bone with
   the teeth and sucking out the marrow, leaving the bone bare (see also Rashi to
@@ -122,7 +122,7 @@ Yosef charged his brothers to carry his *atzamos* out of Mitzrayim (Bereishis
 pronouns *atzmi*, *atzmo*, *atzmecha*, literally "my bones," for "myself." Hebrew
 has several such words for the self, each naming a different part: *nafshi* from
 the soul, *gufi* from the body, *galmi* from one's matter, *atzmi* from the
-bones. Menachem Ibn Saruk lists five senses of ע-צ-מ: bone; a visible hue
+bones. Menachem Ibn Saruk lists five senses of ע-צ-ם: bone; a visible hue
 (Shemos 24:10; Eichah 4:7; Tehillim 139:15); strength (Bereishis 26:16; Shemos
 1:7, 1:9; Yeshayahu 40:29, 41:21; Tehillim 38:20); shutting the eye (Yeshayahu
 29:10, 33:15); and the thing itself (Bereishis 7:13; Shemos 12:41). Rabbi Shlomo

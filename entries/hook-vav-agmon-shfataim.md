@@ -101,7 +101,7 @@ a synonym of *vav* and *shfataim*.
 - *Machberes Menachem* defines it as a cane with a hooked top.
 - Radak takes it as a kind of reed, reading א-ג-ם against ג-מ-א by metathesis,
   from which *gome*, reed.
-- Rabbi Shlomo Pappenheim works the same ground from the two-letter root ג-מ,
+- Rabbi Shlomo Pappenheim works the same ground from the two-letter root ג-ם,
   absorbent or spongy matter: *agam* is a swamp, which soaks up water and stays
   wet; *gome* is the spongy reed that grows there; *agmon* is primarily a
   hook-topped thistle that also commonly grows in such marshland; it was
@@ -120,8 +120,8 @@ Once only, Yechezkel 40:43.
 - But Radak himself (in his commentary and in *Sefer HaShorashim* s.v. ש-פ-ת)
   and Abarbanel explain *shfataim* instead as the **place** on which pots were
   set, a sort of stovetop; *Machberes Menachem* implies the same by filing the
-  word under his fifth category of the ש-פ root. Rabbi Pappenheim also follows
-  this approach, deriving it from the two-letter root ש-פ, moving without
+  word under his fifth category of the ש-ף root. Rabbi Pappenheim also follows
+  this approach, deriving it from the two-letter root ש-ף, moving without
   lifting the feet from the ground: Bilaam who went *shefi* (Bamidbar 23:3), the
   *ashafim* (Daniel 1:20, 2:2, 2:10), and the *shefifon*, the snake that never
   lifts itself off the floor. On that reading *shfataim* is where the pots sit

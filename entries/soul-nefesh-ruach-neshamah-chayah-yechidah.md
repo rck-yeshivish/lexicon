@@ -92,10 +92,10 @@ deceased's name is typically engraved on it.
   to פ-שׂ, which also means expansion (*HaKsav VeHaKabbalah* to Shemos 23:12,
   31:17 and Devarim 12:23; see also Rashi to Iyov 35:15).
 - Rabbi Aharon Marcus gives two etymologies. First, *nefesh* is *neshef*,
-  blowing (Shemos 15:10, Yeshayahu 40:24), its letters reordered as נ-ש-פ, which
+  blowing (Shemos 15:10, Yeshayahu 40:24), its letters reordered as נ-ש-ף, which
   ties *nefesh* to *neshamah* and *neshimah*, breathing; the unspoken basis of
   that link is the interchange of פ and מ. Alternatively, it comes from the
-  two-letter root נ-פ, movement, recalling the constant movement of breathing,
+  two-letter root נ-ף, movement, recalling the constant movement of breathing,
   as in *napach*, blowing (Bereishis 2:7, Yeshayahu 54:16), *nafah*, sifting,
   *nofef*, waving (Yeshayahu 10:32, 30:28, 13:2), and *nafatz*, spreading
   (Bereishis 9:19, Shmuel I 13:11).

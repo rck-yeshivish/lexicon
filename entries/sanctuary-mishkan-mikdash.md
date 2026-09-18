@@ -54,7 +54,7 @@ stepping-stone between the temporary *Mishkan* and the permanent *Mikdash*.
 ## Distinctions
 
 ### Mishkan (משכן)
-Root ש-כ-נ, the root of *le'shaken* and of *Shechinah*: the place where Hashem's
+Root ש-כ-ן, the root of *le'shaken* and of *Shechinah*: the place where Hashem's
 Presence dwells. Its structure was cloth: the Kodesh HaKodashim marked off by a
 curtain, and ten curtains over the whole, because the building was made to be
 taken down and carried. It stood mobile for the forty years in the wilderness,

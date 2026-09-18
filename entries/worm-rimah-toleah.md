@@ -62,7 +62,7 @@ bodies were not given to *rimah* and *toleah*; Bava Metzia 83b) and the Midrash
 5 and 12), though curiously never in the Yerushalmi. Ibn Janach, Radak (each
 in *Sefer HaShorashim*) and Rabbi Shlomo Ibn Parchon (*Machberes HeAruch*)
 trace it to ר-מ-ם; Menachem Ibn Saruk (*Machberes Menachem*) to the biliteral
-ר-מ. Either way the root family (with ר-ו-ם) covers lifting, exalting,
+ר-ם. Either way the root family (with ר-ו-ם) covers lifting, exalting,
 separating, removing, producing, and throwing.
 
 On which of those senses yields "maggot," the authorities split.
@@ -85,7 +85,7 @@ On which of those senses yields "maggot," the authorities split.
   its body barely lifts off the ground.
 - Rabbi David Chaim Chelouche (*Michtam L'David Luach HaShorashim* to Tehillim
   24:4; *Ohr Chadash Luach HaShorashim* to Shemos 16:20): a root can carry a
-  thing and its exact opposite, so ר-מ gives the exalted *ram* and the lowest of
+  thing and its exact opposite, so ר-ם gives the exalted *ram* and the lowest of
   the low, *rimah*, with *mirmah* and *ramai* in between, seeming exalted and
   being the reverse.
 - Rabbi Moshe Tedeschi-Ashkenazi suggests relating *rimah* to ר-ב, through the

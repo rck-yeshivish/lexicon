@@ -78,9 +78,9 @@ being pushed around or coerced, and some of these words carry both.
 
 **Where dochef comes from.**
 - Menachem Ibn Saruk, Ibn Janach, and Radak all trace it to the triliteral
-  ד-ח-פ.
+  ד-ח-ף.
 - Rabbi Shlomo Pappenheim instead reads it as a fusion of two biliteral roots,
-  ד-ח (push) and א-פ (*af*, face or nose): to push someone's face away,
+  ד-ח (push) and א-ף (*af*, face or nose): to push someone's face away,
   symbolizing the rejection of his presence and the urgency to redirect himself
   toward another task.
 - Separately, Rabbi David Golumb writes that *hadof* is related to *dochef*,
@@ -90,7 +90,7 @@ being pushed around or coerced, and some of these words carry both.
 
 **How hadof differs from docheh.**
 
-- Rabbi Pappenheim derives *hadof* from ד-פ, "pushing away with ease," and
+- Rabbi Pappenheim derives *hadof* from ד-ף, "pushing away with ease," and
   illustrates it with Geichazi shoving the Shunamis woman (Melachim II 4:27),
   which he says was easy because she was on a mountain and the incline made her
   footing more precarious.
@@ -147,7 +147,7 @@ to pushing or pressuring. In Talmudic usage a positive command
 *docheh* an argument.
 
 ### dochef (דוחף)
-Root ד-ח-פ, five occurrences, usually urgent: Achashverosh's couriers driven out
+Root ד-ח-ף, five occurrences, usually urgent: Achashverosh's couriers driven out
 with his decrees (Esther 3:15, 8:14), Haman hurrying home after leading Mordechai
 through the city (Esther 6:12), Uziyahu (Azariah), king of Yehudah, suddenly
 struck with tzaraas on his forehead in the Beis HaMikdash and *nidchaf* to leave
@@ -155,7 +155,7 @@ the premises as quickly as possible (Divrei HaYamim II 26:20), and Tehillim
 140:12. Modern Hebrew uses the adjective *dachuf* for an urgent, pressing matter.
 
 ### hadof (הדף)
-Root ה-ד-פ. Hashem pushing out the Canaanite nations (Devarim 6:19, 9:4,
+Root ה-ד-ף. Hashem pushing out the Canaanite nations (Devarim 6:19, 9:4,
 Yehoshua 23:5); pushing a man to his death, whether by accident (Bamidbar 35:22)
 or deliberately (Bamidbar 35:20); Geichazi and the Shunamis woman (Melachim II
 4:27).
@@ -167,8 +167,8 @@ or deliberately (Bamidbar 35:20); Geichazi and the Shunamis woman (Melachim II
   *dofan* is used in a borrowed sense, of a child born by Cesarean section or
   otherwise by cutting through a physiological barrier to remove the child from
   the womb. Pappenheim also brings *dofi* (Tehillim 50:20), a fault or misdeed.
-- Rav Hirsch (to Bamidbar 35:20) groups *hadof* with ע-ד-פ (*adif*, extra),
-  ח-ט-פ (*chatifah*, seizing), ח-ט-ב (*chativah*, cutting off), and ע-ט-פ
+- Rav Hirsch (to Bamidbar 35:20) groups *hadof* with ע-ד-ף (*adif*, extra),
+  ח-ט-ף (*chatifah*, seizing), ח-ט-ב (*chativah*, cutting off), and ע-ט-ף
   (*atifah*, wrapping or enveloping), on the interchange of hei, ayin and ches
   and of dalet and tes. The theme uniting all five is something deemed extra or
   even extraneous: *hadof* pushes a thing away because it is superfluous, *adif*
@@ -182,7 +182,7 @@ travel with Eisav because driving (*defakum*) his flocks hard would kill them
 (Bereishis 33:13); "the voice of my beloved knocks, open for me" (Shir HaShirim
 5:2); the men of Givah *mitdapkim* at the door (Shoftim 19:22). Shadal (to
 Bereishis 33:13) gives the root as "to knock, bang, beat, push," and cites his
-student Rabbi Abraham Grego of Verona, who posits that it derives from ד-פ,
+student Rabbi Abraham Grego of Verona, who posits that it derives from ד-ף,
 alongside the roots of *dochef* and *hadof*. The persistent sound of a knock on a
 door resembles the persistent beat of the heart, and Ramban (in his responsa
 misattributed to *Rashba* §127) already uses *dofek* for a heartbeat, a usage

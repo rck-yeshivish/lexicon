@@ -46,9 +46,9 @@ since most of its Biblical occurrences follow a dream or drunkenness.
 
 ### yekitzah (יקיצה)
 - The triliteralists, Ibn Chayyuj, Ibn Janach and Radak, take it from the
-  triliteral י-ק-צ, "wake up."
+  triliteral י-ק-ץ, "wake up."
 - Menachem Ibn Saruk (*Machberes Menachem*) instead files it under the biliteral
-  ק-צ, which also carries border, summer, pressure, disgust, cutting and thorn;
+  ק-ץ, which also carries border, summer, pressure, disgust, cutting and thorn;
   he does not intimate how these connect to waking, but some connections can be
   gleaned from other commentators.
 
@@ -59,7 +59,7 @@ the same way. To Bereishis 41:4 he adds the *katz* of revulsion: a man who has e
 his fill is sickened by more food, and a body that has slept its fill likewise
 rejects more sleep and wakes.
 
-Rabbi Shlomo Pappenheim (1740 to 1814) takes the core of ק-צ as "end/edge,"
+Rabbi Shlomo Pappenheim (1740 to 1814) takes the core of ק-ץ as "end/edge,"
 spatially (*ketzeh*, the edge of an area, Bereishis 23:9; Melachim II 7:8) and temporally (*keitz*, the end of a span, Bereishis 6:13;
 Tehillim 119:96; Daniel 11:35, 12:13, and *mikeitz* from it, the mem added).
 *Kayitz* is the end of the year, the last season before Rosh HaShanah.
@@ -146,7 +146,7 @@ for sleeping with the two for waking.
   Pappenheim's suddenness, for those who follow him, is carried by the word
   itself, and spelling it out in English overtranslates.
 - *Hisorerus*, the later term of art for an inner stirring: keep it transliterated and gloss it once.
-- The ק-צ family (*keitz*, *ketzeh*, *kayitz*, *ketzitzah*, *kotz*) is shared
+- The ק-ץ family (*keitz*, *ketzeh*, *kayitz*, *ketzitzah*, *kotz*) is shared
   with the "corner" cluster; see [corner](corner-peah-keren-zavit-pinah.html), where
   Pappenheim runs the same root through *katzeh*.
 

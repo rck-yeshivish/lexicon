@@ -118,7 +118,7 @@ the Hebrew: *kitna* is flax unprocessed and still in the ground, *butz* is linen
 already worked.
 
 Rabbi Shlomo Pappenheim, who traces *botz*, mud, and *bitzah*, marsh, to the
-biliteral ב-צ, a fluid of mucus-like consistency, also asserts that *butz*
+biliteral ב-ץ, a fluid of mucus-like consistency, also asserts that *butz*
 (Esther 1:6, 8:15; Yechezkel 27:16) refers specifically to a type of flax or
 linen that grows in watery soil like that of a *bitzah*.
 

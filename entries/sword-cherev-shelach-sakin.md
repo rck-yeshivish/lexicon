@@ -73,7 +73,7 @@ Arabic (Rashi, Rabbeinu Shimshon of Shantz) or Greek (Bartenura).
 **The origin of *sakin*.**
 - Rabbi Shlomo Pappenheim: related to *sikim*, a kind of thorn (Bamidbar 33:55),
   for the likeness of knives to thorns.
-- Rabbi Klein suggests the root ס-כ, to spread or smear, as a table knife spreads
+- Rabbi Klein suggests the root ס-ך, to spread or smear, as a table knife spreads
   butter; or perhaps *sakanah*, danger, the risk of a knife fight or other misuse.
 
 ## Distinctions

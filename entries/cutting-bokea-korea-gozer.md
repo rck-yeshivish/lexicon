@@ -210,7 +210,7 @@ an illness that cuts the innards without severing them. *Primah* (Vayikra 13:45,
 makes one more tear separating one piece from the whole, while one act of
 *primah* starts many pieces coming away at once, as a loosely woven fabric
 unravels. *Gada*, truncating in order to destroy or render useless. *Ketzitzah*,
-chopping with a single strong blow, from ק-צ, "end," since chopping creates two
+chopping with a single strong blow, from ק-ץ, "end," since chopping creates two
 new ends. *Ketifah*, severing what was only flimsily attached, the word for
 plucking a flower. *Kares*, cutting in the sense of spiritual excision. Rabbi
 Pappenheim (*Yerios Shlomo*) makes *karet* a general word for cutting, whether

@@ -113,7 +113,7 @@ exactly is forbidden (above).
 Literally a high place, hence a private altar, since these were commonly built
 on higher ground; it is related to *bimah*, the raised platform from
 which the Torah is read. Rabbi Shlomo Pappenheim traces *bamah* to the
-biliteral root ב-מ, the conglomeration and meeting point of multiple parties: a
+biliteral root ב-ם, the conglomeration and meeting point of multiple parties: a
 *bamah* is a site at which many people gathered in communal worship, and it
 also denotes a high place (which many commentators take as the word's original
 meaning) because such gatherings typically happened at elevated places to

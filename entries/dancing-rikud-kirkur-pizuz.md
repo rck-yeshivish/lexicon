@@ -101,7 +101,7 @@ the Aron.
   the movement of such well-fed, free-ranging animals, who appear to dance in
   their happy state.
 - Tedeschi-Ashkenazi reads the root as a compound of *kar* (כ-ר) and *rach*
-  (ר-כ, "soft, young," the same two letters reversed): young *karim* tend to
+  (ר-ך, "soft, young," the same two letters reversed): young *karim* tend to
   have excess energy and jump about more than usual. He further speculates that
   *micharker* is related to the Latin *circulus*, whence the English *circle*,
   since young calves and sheep tend to move in circles rather than straight
@@ -144,7 +144,7 @@ strengthening.
   by it (*Shabbos* 55b on Bereishis 49:4), and a Sadducee sneered at Israel as
   an *ama peziza*, a hasty nation, for saying *na'aseh* before *nishma*
   (*Kesubos* 112a, *Shabbos* 88a, on Shemos 24:7).
-- Tedeschi-Ashkenazi (*Hoil Moshe* to Shmuel II 6:16) links פ-ז-ז to פ-צ-צ, to
+- Tedeschi-Ashkenazi (*Hoil Moshe* to Shmuel II 6:16) links פ-ז-ז to פ-צ-ץ, to
   burst or scatter: the dancer seems to explode from place to place; and he
   suggests that perhaps fine gold is called *paz* because beating it into a thin
   sheet sends little pieces flying, as though the metal were exploding.

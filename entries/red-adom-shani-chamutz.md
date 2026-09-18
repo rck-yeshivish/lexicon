@@ -162,7 +162,7 @@ also has *adumim* horses (6:2), Radak adds that *chamutz* / *amutz* differs from
   this meaning, since in girding one's strength the red blood inside begins to
   boil in the red parts of the innards; Rabbi Reuven Chaim Klein remarks that he
   is not sure what this means.
-- Similarly, Rabbi Pappenheim traces *amutzim* to the biliteral מ-צ, which he
+- Similarly, Rabbi Pappenheim traces *amutzim* to the biliteral מ-ץ, which he
   defines as sucking or squeezing, the root also of *mitz*, juice, *metzitzah*,
   sucking, and *ometz*, power, in the sense that using that force means
   squeezing out every last bit; red horses are *amutzim* because they exert so

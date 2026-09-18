@@ -89,7 +89,7 @@ word means white at all.
   *tzochar* to "pristine" or "clean," which in his view shows the core meaning
   is not quite white. Those are Radal's (1798 to 1855) tie to *tzach*, clean,
   clear, pristine, and Rabbi Benzion Chaim Lubetzky's (d. 1945) rearrangement of
-  צ-ח-ר into ר-ח-צ, *rechitzah*, washing, both suggested independently by Rabbi
+  צ-ח-ר into ר-ח-ץ, *rechitzah*, washing, both suggested independently by Rabbi
   Dovberish Rosenberg of Zurich in *Davar Tov*.
 - Continuing from *tzach*, Rabbi Tedeschi (*Otzar Nirdafim*) and Rabbi Yehudah
   Aryeh of Carpentras (*Aholei Yehuda*) read it as a portmanteau of *tzach* and
@@ -119,7 +119,7 @@ word means white at all.
 ## Distinctions
 
 ### lavan (לבן)
-Root ל-ב-נ for all the classical lexicographers, which makes it kin to
+Root ל-ב-ן for all the classical lexicographers, which makes it kin to
 *leveinah* (brick), *levanah* (the moon), *livneh* (white poplar or styrax), and
 *levonah* (frankincense). *Leveinah* appears twelve times in Tanach, mostly in
 Shemos of the bricks the enslaved Jews had to make, with a verb for preparing

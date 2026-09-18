@@ -173,8 +173,8 @@ illness has made him thin.
   but is pressed by obligations beyond his means.
 - Pappenheim traces the root to the kaf element of striking, one struck by bad
   *mazal*.
-- Others give the root as מ-ו-כ (Ibn Janach and Radak), מ-כ-כ (Ibn Chayyuj) or
-  מ-כ (Menachem Ibn Saruk).
+- Others give the root as מ-ו-ך (Ibn Janach and Radak), מ-כ-ך (Ibn Chayyuj) or
+  מ-ך (Menachem Ibn Saruk).
 - Rabbi Dr. Ernest Klein, echoing Rabbi Eliyahu Bachur's *Sefer HaTishbi*,
   explains the Rabbinic *namuch*, low, as a secondary base form of the nifal of
   *mach*: the grammatical nun denotes one who has become lowered, and the

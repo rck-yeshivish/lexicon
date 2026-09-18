@@ -10,11 +10,11 @@ words:
     tr: paroches
     en: dividing curtain
     nk: פָּרוֹכֶת
-    distinct: the curtain separating a king from his people, in the Mishkan the Kodesh from the Kodesh HaKodashim (Rashi); from פ-ר-כ, a breaking off to begin something new, so any barrier setting the border between two domains, not a fabric (Rabbi Shlomo Pappenheim); a feature of Hashem's glory (Shoresh Yesha)
+    distinct: the curtain separating a king from his people, in the Mishkan the Kodesh from the Kodesh HaKodashim (Rashi); from פ-ר-ך, a breaking off to begin something new, so any barrier setting the border between two domains, not a fabric (Rabbi Shlomo Pappenheim); a feature of Hashem's glory (Shoresh Yesha)
   - he: מסך
     tr: masach
     en: screen
-    distinct: the curtain covering the entrance to a building or room (Rashi); from ס-כ, covering, a heavy cloth that keeps a thing from onlookers' eyes or protects it, laid over it or hung at its side (Rabbi Shlomo Pappenheim)
+    distinct: the curtain covering the entrance to a building or room (Rashi); from ס-ך, covering, a heavy cloth that keeps a thing from onlookers' eyes or protects it, laid over it or hung at its side (Rabbi Shlomo Pappenheim)
   - he: וילון
     tr: vilon
     en: curtain
@@ -57,7 +57,7 @@ between Hashem and what is below. On Rabbi Shlomo Pappenheim's reading,
 - Rashi (to Shemos 26:31): a *paroches* is the curtain separating a king from
   his people; in the Mishkan it divides the Kodesh from the Kodesh HaKodashim
   (Shemos 26:31-33).
-- Rabbi Shlomo Pappenheim derives it from פ-ר-כ, a breaking off whose point is
+- Rabbi Shlomo Pappenheim derives it from פ-ר-ך, a breaking off whose point is
   to begin something new. So *avodas perech* (Shemos 1:13) was torture because
   the Egyptians kept interrupting the Jews mid-task and pushing them onto
   something else, and a *pircha* in the language of the Gemara is the question
@@ -74,7 +74,7 @@ between Hashem and what is below. On Rabbi Shlomo Pappenheim's reading,
 ### masach (מסך)
 - Rashi (to Shemos 26:36, and see Shemos 35:12): a *masach* is the curtain
   covering the entrance to a building or a room.
-- Rabbi Shlomo Pappenheim derives it from ס-כ, "covering," the root behind
+- Rabbi Shlomo Pappenheim derives it from ס-ך, "covering," the root behind
   *sukkah* (covered with *sechach*) and the Modern Hebrew *maseichah* ("mask,"
   covering the face). A *masach* is thus a screen that keeps a thing from the
   eyes of onlookers, and more broadly any thick cloth used for protection,

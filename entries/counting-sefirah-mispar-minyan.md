@@ -117,7 +117,7 @@ Root מ-נ-ה.
 
 - Mecklenburg derives *moneh* from *maneh*, a respectable portion, so that what
   enters a *moneh* count is by definition worth counting.
-- Rabbi Shlomo Pappenheim takes the two-letter root מ-נ as creating order out of
+- Rabbi Shlomo Pappenheim takes the two-letter root מ-ן as creating order out of
   causes and effects, and heads one group of its derivatives with *moneh* and
   *minyan*, since counting seeks to create mathematical order by quantifying a
   set of givens; *min*, a species, derives from the same root, since it too

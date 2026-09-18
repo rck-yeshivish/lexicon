@@ -77,13 +77,13 @@ be said of the cedar, hyssop and crimson thread thrown into the burning of the
 Ramban (to Bereishis 21:15) offers two readings of *vatashlech*: Hagar
 **abandoned** Yishmael, so *hashlachah* is a form of forsaking; or she **sent
 him away**, proved from Devarim 29:27 and Tehillim 51:13, which in effect lets
-ש-ל-כ mean the same as its near-homonym ש-ל-ח (near, since in the Ashkenazi
+ש-ל-ך mean the same as its near-homonym ש-ל-ח (near, since in the Ashkenazi
 pronunciation ches and chaf sound alike).
 
 - On the root, most grammarians, such as Menachem Ibn Saruk, Ibn Janach and
-  Radak, take it as the triliteral ש-ל-כ.
+  Radak, take it as the triliteral ש-ל-ך.
 - Rabbi Pappenheim instead builds it from two biliterals, ש-ל ("throwing out")
-  and ל-כ ("going").
+  and ל-ך ("going").
 - Linguists propose a similar theory, cited by Ernest Klein and Avraham
   Even-Shoshan in their dictionaries: the rare *shaphel* conjugation, in which
   an initial *shin* is not part of the root but denotes creating the situation

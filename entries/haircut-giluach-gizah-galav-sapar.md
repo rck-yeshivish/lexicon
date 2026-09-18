@@ -123,7 +123,7 @@ you take" (Yechezkel 5:1).
   read Arabic instead of Greek.
 - Dr. Chaim Tawil, for his part, holds *galav* is clearly a loanword from the
   Akkadian *gallabu*, barber.
-- Rav Hirsch (to Tehillim 74:6) connects ג-ל-ב to ק-ל-פ, "peel" in Rabbinic
+- Rav Hirsch (to Tehillim 74:6) connects ג-ל-ב to ק-ל-ף, "peel" in Rabbinic
   Hebrew, by the interchange of gimmel with kuf and beis with peh; indeed, Rabbi
   Klein observes, a haircut that lays bare what was covered can be similar to
   peeling.

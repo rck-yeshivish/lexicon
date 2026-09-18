@@ -65,7 +65,7 @@ Several read the word as a contraction.
   paneha*, floats on her face.
 
 The classical lexicographers (including Ibn Saruk, Ibn Janach, and Radak) all
-trace it to the root צ-ע-פ. Wilhelm Gesenius argues that צ-ע-פ is a permutation of ע-ט-פ, wrapping, by the interchange of tet
+trace it to the root צ-ע-ף. Wilhelm Gesenius argues that צ-ע-ף is a permutation of ע-ט-ף, wrapping, by the interchange of tet
 and tzadi together with metathesis; Shadal (to Bereishis 24:65) cites this
 approvingly.
 
@@ -83,7 +83,7 @@ consistently renders it *eifa* (ע-פ-א).
   folding, or wrapping (see Targum Onkelos to Shemos 26:9, 28:16), because the
   *tza'if* was so thin as to be fairly see-through and had to be folded over to
   be opaque enough to obscure the wearer's hair. Rabbi Yehoshua Steinberg of the
-  Veromemanu Foundation adds that this sense of the Aramaic ע-פ is similar to
+  Veromemanu Foundation adds that this sense of the Aramaic ע-ף is similar to
   the Hebrew ע-ב (*av*, thick), and the two roots might be connected by the
   interchange of peh and beis.
 - Alternatively, Rabbi Yitzchak Ratzabi (a prominent Yemenite rabbi in the Neve
@@ -96,11 +96,11 @@ consistently renders it *eifa* (ע-פ-א).
 
 Rav Hirsch has two comments.
 
-- To Bereishis 24:65 he suggests that צ-ע-פ is related to ש-א-פ, by the
+- To Bereishis 24:65 he suggests that צ-ע-ף is related to ש-א-ף, by the
   interchange of tzadi with shin and of ayin with aleph: that root is drawing
   into oneself by inhaling, as one draws the *tza'if* close by wrapping it
   snugly.
-- To Bereishis 40:6 he relates it to the phonetically similar ז-ע-פ (upset,
+- To Bereishis 40:6 he relates it to the phonetically similar ז-ע-ף (upset,
   troubled): a *tza'if* veils the face from without, while a troubled
   countenance is veiled from within, looking like that of a sleeping or dead
   person, the life missing from the expression.

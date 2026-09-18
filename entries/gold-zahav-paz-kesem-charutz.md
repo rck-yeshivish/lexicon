@@ -21,7 +21,7 @@ words:
   - he: חרוץ
     tr: charutz
     en: gold (mined)
-    distinct: gold got by digging, from ח-ר-צ, cutting with a sharp tool (Rabbi Aharon Marcus, Wertheimer); or gold that makes a man diligent, charutz in its other sense (Rabbi Yeshayah of Trani)
+    distinct: gold got by digging, from ח-ר-ץ, cutting with a sharp tool (Rabbi Aharon Marcus, Wertheimer); or gold that makes a man diligent, charutz in its other sense (Rabbi Yeshayah of Trani)
   - he: בצר
     tr: betzer
     en: gold ore
@@ -172,7 +172,7 @@ Orange.)
 Six occurrences as gold.
 - *Charutz* is the standard Phoenician (Tyrian) and Akkadian word for gold, and
   some scholars therefore claim Hebrew borrowed it from those languages.
-- Against that, Rabbi Aharon Marcus: from ח-ר-צ, cutting or digging with a sharp
+- Against that, Rabbi Aharon Marcus: from ח-ר-ץ, cutting or digging with a sharp
   instrument, since gold is dug out of the earth; Rabbi Wertheimer says the
   same.
 - Rabbi Yeshayah of Trani takes it from the word's other sense: gold is called

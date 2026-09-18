@@ -61,7 +61,7 @@ merits. That is *din*: the receiver is the object of focus, so the influx can be
 curtailed, delayed, or portioned. In Tanach the plain word *elohim* can also
 denote a human judge, and calling Hashem *Elokim* invokes exactly that role,
 the Judge of all Creation. Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) traces
-*din* to the two-letter root ד-נ, judicial decision-making and its execution,
+*din* to the two-letter root ד-ן, judicial decision-making and its execution,
 whence *dan* (to judge), *din*, *dayan* (a judge), *madon* (litigation), *adon*
 (a master, one with jurisdiction to make decisions about another), *Adonai*
 (the Name referring to Hashem as the Master of all creation), and *medinah* (a

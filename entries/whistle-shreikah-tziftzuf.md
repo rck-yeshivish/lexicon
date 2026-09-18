@@ -129,7 +129,7 @@ Yeshayahu (8:19, 10:14, 29:4, 38:14). A noun of the same four letters,
   there.
 - Ibn Janach and Radak (*Sefer HaShorashim*) trace *tziftzuf* to the four-letter
   צ-פ-צ-ף.
-- Menachem Ibn Saruk instead reads it as the doubled biliteral צ-פ, and Rabbi
+- Menachem Ibn Saruk instead reads it as the doubled biliteral צ-ף, and Rabbi
   Shlomo Pappenheim (*Cheshek Shlomo*), implicitly following him, writes at
   length on that root: its core is something that spreads on top of something
   else, giving *tzofeh* and *mitzpeh* (a gaze spread over a wide field), then

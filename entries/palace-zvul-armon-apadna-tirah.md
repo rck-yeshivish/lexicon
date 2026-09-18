@@ -91,8 +91,8 @@ The most common word, 32 times in Tanach.
 
 - Ibn Janach and Rabbi Shlomo Pappenheim put the root at ר-ו-ם, height, palaces
   being tall buildings.
-- Radak cites that and then concludes that *armon* has a root of its own, א-ר-מ.
-- Menachem Ibn Saruk assigns it the four-letter root א-ר-מ-נ.
+- Radak cites that and then concludes that *armon* has a root of its own, א-ר-ם.
+- Menachem Ibn Saruk assigns it the four-letter root א-ר-מ-ן.
 - Ibn Janach, invoking the interchange of lamed and reish, holds that *almon*
   (Yechezkel 19:7, Yeshayahu 13:22) is the same word.
 

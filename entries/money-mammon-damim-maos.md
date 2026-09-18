@@ -81,7 +81,7 @@ Targum's standard Aramaic for the Biblical *hon* (wealth) and *rechush*
   counting.
 - Rabbi Ernest Klein, in his etymological dictionaries of Hebrew and of English,
   writes that it most probably derives from *ma'amon*, a deposit or trust, from
-  א-מ-נ, true or trustworthy, with the opening mem added to the core root.
+  א-מ-ן, true or trustworthy, with the opening mem added to the core root.
 - The word also appears in the Christian Bible as a personification and
   deification of the greedy pursuit of wealth; and Rabbi Yitzchok Schmelkes of
   Lvov (1827-1905, responsa *Beis Yitzchak*, Yoreh Deah vol. 1 §152) explains

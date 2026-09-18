@@ -110,7 +110,7 @@ that he must flee to a city of refuge (Devarim 19:5), and the prohibition agains
 felling a fruit tree in a siege (Devarim 20:19). Twice it cuts stone: Yeshayahu
 10:15, where the axe boasts against the one who hews with it, and Melachim I 6:7, where no iron tool was heard in the building of the
 Beis HaMikdash. Rav Hirsch (to Shemos 26:6) groups ג-ר-ז with the phonetically
-near roots ק-ר-ס ("crashing, tearing"), ג-ר-ס ("grinding, crushing") and ק-ר-צ
+near roots ק-ר-ס ("crashing, tearing"), ג-ר-ס ("grinding, crushing") and ק-ר-ץ
 ("cutting, severing"), since GIMMEL and KUF interchange, as do ZAYIN, SAMECH and
 TZADI, and finds one sense running through all four: cutting, breaking or
 separating by force.

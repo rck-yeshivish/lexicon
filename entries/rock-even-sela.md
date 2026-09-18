@@ -70,7 +70,7 @@ then, is the difference between an *even* and a *sela*?
   specific kinds, *avnei hasadeh*, rocks of the field, *avnei yakar*, precious
   stones, and *avnei shayish*, usually said to be marble, though Rabbi Klein
   notes that in the Judean Formation limestone is a likelier candidate.
-  Pappenheim argues that the root is the two-letter ב-נ, building, since most
+  Pappenheim argues that the root is the two-letter ב-ן, building, since most
   rocks are usable for construction and building is the commonest use of rock.
   Because rocks are hard, *even* was then borrowed for any matter in a solid
   state, as in *avnei barad*, rocks of hail, at Yehoshua 10:11: hail is not

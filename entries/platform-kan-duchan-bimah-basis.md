@@ -12,11 +12,11 @@ words:
     tr: kan
     en: base, stand
     nk: כֵּן
-    distinct: the Biblical word for the base or pedestal on which something rests, as of the kiyor, and by extension a man's post; from כ-נ, the footing of a thing, kin to kein and nachon (Pappenheim)
+    distinct: the Biblical word for the base or pedestal on which something rests, as of the kiyor, and by extension a man's post; from כ-ן, the footing of a thing, kin to kein and nachon (Pappenheim)
   - he: דוכן
     tr: duchan
     en: platform
-    distinct: Mishnaic, the platform the Leviim sang from and, in the Gemara, the one the Kohanim bless from; a noun, not a verb (Rabbi Eliyahu HaBachur); kin to Aramaic duchta, place (Rabbi Yaakov Emden), or from ד-ו-כ, flattening (Ferber)
+    distinct: Mishnaic, the platform the Leviim sang from and, in the Gemara, the one the Kohanim bless from; a noun, not a verb (Rabbi Eliyahu HaBachur); kin to Aramaic duchta, place (Rabbi Yaakov Emden), or from ד-ו-ך, flattening (Ferber)
   - he: בימה
     tr: bimah
     en: stage, dais
@@ -70,7 +70,7 @@ be restored *al kanecha*, to your post (Bereishis 40:13, fulfilled at 41:13).
 In this sense the word appears seventeen times in Tanach, on Even Shoshan's
 concordance. In the Mishnah it is the golden *kan* on which the Kohen Gadol set
 the vessel of blood on Yom Kippur (Yoma 5:3-4). Rabbi Shlomo Pappenheim (*Cheshek
-Shlomo*) traces it to the two-letter root כ-נ, base or basis, physical or
+Shlomo*) traces it to the two-letter root כ-ן, base or basis, physical or
 abstract, and gathers under it *kein* (yes) and *nachon* (correct), which
 affirm that a thing has a valid footing, and *tochnis* (plan) and *hachanah*
 (preparation), the footing of any serious undertaking. He derives *kohen* from
@@ -98,7 +98,7 @@ Birkas Kohanim, even outside the Mikdash (Shabbos 118b, Rosh Hashanah 28b and
   readings: a portmanteau of the Greek prefix *du-*, double, with the Biblical
   Hebrew *kan*, base, since an elevated platform might be twice the width of the
   stairs that lead up to it, so that it literally means "double base"; or from
-  the root ד-ו-כ, to smash or flatten, since the *duchan* was typically a small
+  the root ד-ו-ך, to smash or flatten, since the *duchan* was typically a small
   area and those standing on it might have to squeeze together.
 - Rabbi Reuven Chaim Klein extends that second reading on his own: the
   Proto-Indo-European root *plat-*, originally "to spread" or "to flatten,"
@@ -146,7 +146,7 @@ has hexed linguists and historians like Max Weinreich for generations.
   languages, Arabic *buhma*, Aramaic *bamata*, Moabite *bamat*, Akkadian
   *bamtu*, Ugaritic *bmt*.
 - Rabbi Shlomo Pappenheim derives *bamah*, private altar, from the biliteral
-  ב-מ, as in *bam*, "in them," which he takes to denote the meeting point of
+  ב-ם, as in *bam*, "in them," which he takes to denote the meeting point of
   multiple parties: the *bamah* was a site at which many people gathered in
   communal worship.
 - *Bamah* also denotes a "high place," which many commentators understand to be

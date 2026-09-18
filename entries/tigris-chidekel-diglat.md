@@ -145,7 +145,7 @@ to change it.
   notes the similarity of those two roots: a *degel* is a standard seen from
   afar, a palm a tall tree seen from a distance.
 - Rabbi Reuven Chaim Klein adds that the river might connect to ד-ק-ל, and maybe
-  even to ד-ג-נ, *dagan*, grain, since its water let both grow in the fertile
+  even to ד-ג-ן, *dagan*, grain, since its water let both grow in the fertile
   crescent.
 
 ### Tiglat-Pileser

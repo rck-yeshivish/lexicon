@@ -67,7 +67,7 @@ from a well; *shoef* is its air counterpart, **inhale**, and in *sheifah*,
   roots. He theorizes about triliteral roots that open with a *mem*: in many of
   them the semantic core is the two letters after the *mem*, and the *mem*
   itself flips that core to its exact opposite. His examples: ח-ק, engrave,
-  against מחק, erase; ל-צ, scorn, against מליץ, justification or defense; ע-ד,
+  against מחק, erase; ל-ץ, scorn, against מליץ, justification or defense; ע-ד,
   connecting to an end-goal, against מעד, slipping or tripping, which sets one
   off-goal; ר-ד, governing, against מרד, rebellion; ש-ל, excluded from one's
   domain, against מושל, included in one's dominion; and נ-ע, movement, against

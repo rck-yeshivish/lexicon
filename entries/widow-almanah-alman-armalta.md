@@ -57,7 +57,7 @@ hall, and Ibn Ezra and Ibn Kaspi read **palaces emptied** of their dwellers.
 ## Where the authorities disagree
 
 **Where almanah comes from.** On the surface the word is quadriliteral,
-א-ל-מ-נ, with a feminine hei; four-letter roots are rare, and many grammarians
+א-ל-מ-ן, with a feminine hei; four-letter roots are rare, and many grammarians
 argue that words with ostensibly four- or five-letter roots are often loanwords.
 The readings:
 
@@ -68,11 +68,11 @@ The readings:
    Hirsch (to Shemos 22:21) cite it approvingly. Menachem Ibn Saruk omits
    *almanah* and *alman* from *Machberes Menachem* entirely, so there is no way
    of knowing his view.
-2. **From ל-מ-נ, poor.** The *Theological Dictionary of the Old Testament*
-   mentions the possibility of a root ל-מ-נ, otherwise attested in Akkadian
+2. **From ל-מ-ן, poor.** The *Theological Dictionary of the Old Testament*
+   mentions the possibility of a root ל-מ-ן, otherwise attested in Akkadian
    *lemnu*, "poor."
 3. **From al plus manah, "no portion."** The Chasam Sofer (responsa *Even
-   HaEzer* vol. 2 §170), reading א-ל as "not" and מ-נ as portion or substance
+   HaEzer* vol. 2 §170), reading א-ל as "not" and מ-ן as portion or substance
    (as in *mahn*): husband and wife each provide sustenance to the other, and
    the survivor is left bereft of it, hence *almanah* or *alman*. Rabbi Yaakov
    Tzvi Mecklenburg (*HaKsav VeHaKabbalah* to Shemos 22:21) offers a similar

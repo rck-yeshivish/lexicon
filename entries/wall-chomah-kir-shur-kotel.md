@@ -9,7 +9,7 @@ words:
   - he: חומה
     tr: chomah
     en: city wall
-    distinct: always a wall around a city or a large and important building, or a lookout post (Rabbi Klein); from ח-מ, heat, its purpose protection from warfare (Rabbi Shlomo Pappenheim); also related to sight (Raavan, Rav Hirsch)
+    distinct: always a wall around a city or a large and important building, or a lookout post (Rabbi Klein); from ח-ם, heat, its purpose protection from warfare (Rabbi Shlomo Pappenheim); also related to sight (Raavan, Rav Hirsch)
   - he: קיר
     tr: kir
     en: structural wall
@@ -75,7 +75,7 @@ the nuances.
 Over 130 appearances, always a wall surrounding a city or a large and important
 building.
 - Rabbi Pappenheim, like Menachem Ibn Saruk, traces it to the two-letter root
-  ח-מ, which he explains as primarily heat: from it *milchamah*, the culmination
+  ח-ם, which he explains as primarily heat: from it *milchamah*, the culmination
   of a heated clash of parties, and so, he suggests, perhaps *chomah*, whose
   main purpose is to protect a city from warfare; or else because the wall might
   block cool winds and keep the city warm.
@@ -146,9 +146,9 @@ Yirmiyahu 5:10 and Iyov 24:11), but common in the Targumim as *shura*, rendering
 
 ### chayitz (חיץ)
 A single appearance in Tanach, Yechezkel 13:10.
-- Ibn Janach: the yud stands in for a second tzadi, so the root is ח-צ-צ, to
+- Ibn Janach: the yud stands in for a second tzadi, so the root is ח-צ-ץ, to
   partition.
-- Rabbi Pappenheim likewise puts it under ח-צ, dividing in two, with *chatzi*,
+- Rabbi Pappenheim likewise puts it under ח-ץ, dividing in two, with *chatzi*,
   *chatzos*, *chutz* and *cheitz*, and theorizes that *chayitz* is a wall
   dividing one domain into two, equivalent to the Mishnaic *mechitzah* (Bava
   Basra 1:1).

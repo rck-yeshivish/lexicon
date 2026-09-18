@@ -127,7 +127,7 @@ Beyond the lion's four, Rabbi Pappenheim traces several of these verbs to their
 core two-letter roots. *Goeh*, a cow's moo, comes from ג-ע, exertion to the point
 of exhaustion, which also gives *yagea* (tired), *yegiyah* (toiling) and *geviyah*
 (expiration, death), since a cow exerts much effort in letting out those moos.
-*Mitzaftzef*, chirping, comes from צ-פ, the root behind *mitzapeh* and *zipui*
+*Mitzaftzef*, chirping, comes from צ-ף, the root behind *mitzapeh* and *zipui*
 (coating), *tzofeh* (gaze) and *tzipiyah* (anticipation), the bird's chirp
 expressing its anticipation and hope for its mate or its food. *Novayach*,
 barking, comes from ב-ח, sound that travels through the air, whose only other
@@ -158,7 +158,7 @@ tzadi with zayin and peh with beis.
 
 ### behemah (בהמה)
 - Rabbi Yaakov Tzvi Mecklenburg: the very word for a domestic animal is built on
-  ה-מ(-ה), "incoherent noise," the same root Rabbi Pappenheim reads in *nohem*.
+  ה-ם(-ה), "incoherent noise," the same root Rabbi Pappenheim reads in *nohem*.
 - Rabbi Aharon Marcus (1843-1916) similarly reads it as ב-ה-ה, an onomatopoeic
   rendering of a common animal sound, "baaaa," and links it to the ancient Latin
   and Old Irish *bo(s)*, the etymon of English *bovine*, related also to Greek

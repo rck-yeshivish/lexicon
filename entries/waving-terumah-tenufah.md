@@ -124,7 +124,7 @@ out that Onkelos renders *terumah* of the miluim thigh as "separating," not
   physical wave.
 
 ### The roots
-In both words the initial tav is not part of the root, which is ר-ו-ם and נ-ו-פ
+In both words the initial tav is not part of the root, which is ר-ו-ם and נ-ו-ף
 respectively. Ibn Janach (introduction to *Sefer HaRikmah*) and the Rambam
 (commentary to Mishnah *Terumos* 1:1) note that in rabbinic Hebrew the tav of
 *terumah* is treated as part of the root, hence *torem*.
@@ -136,7 +136,7 @@ ground) and *rimon* (the fruit especially prone to the *rimah*). *Terumah* is
 lifting one item up out of the rest of one's possessions to give it as a tithe
 or gift for a higher purpose.
 
-Rabbi Shlomo Pappenheim on נ-ו-פ, core meaning upward movement: *l'hanif* (to
+Rabbi Shlomo Pappenheim on נ-ו-ף, core meaning upward movement: *l'hanif* (to
 lift, especially a sickle), *l'nofef* (to wave), *nafah* (a sifter), *nof* (the
 top branch), *anaf* (a form of anger), *anafah* (a bird), *niuf*
 (licentiousness). If both roots mean lifting, what separates the words? His
@@ -156,7 +156,7 @@ and not upward, as *tenufah* is back-and-forth motion and not necessarily up
 and down.
 
 *Nofes*, flowing honey (Tehillim 19:11, *nofes tzufim*), also seems to belong to
-נ-ו-פ.
+נ-ו-ף.
 
 - Rabbi Shlomo Pappenheim ties it to *nof*, since the nectar sits at the top of
   the branch or plant, or alternatively to *tenufah*, since honey was put on
@@ -171,13 +171,13 @@ and down.
 ### Names from the two roots
 *Ramos* as topographical heights gives Ramos Gilad (sometimes spelled with a
 silent alef after the reish) and the modern place-names built on it. Rabbi Klein
-knows of no biblical place-name from נ-ו-פ; the nearest is Memphis, written
+knows of no biblical place-name from נ-ו-ף; the nearest is Memphis, written
 Moph once (Hoshea 9:6) and more often Noph (Yeshayahu 19:13; Yirmiyahu 2:16,
 44:1, 46:14, 46:19; Yechezkel 30:13, 30:16), but that is more likely a Hebrew
 adaptation of a foreign name. So too with personal names: ר-ו-ם gives Ram (Rus
 4:19; Divrei HaYamim I 2:9, 2:25), Yirmiyahu (a yud, the ר-ם element, and three
 letters of the Shem) and Yoram (two letters of the Shem and the ר-ם element),
-while as far as he knows נ-ו-פ gives none. Rabbi Yehoshua Steinberg (of
+while as far as he knows נ-ו-ף gives none. Rabbi Yehoshua Steinberg (of
 the Veromemanu Foundation) suggests that Remalyahu, father of Pekach king of
 Israel, is ר-ם plus the grammatical lamed plus three letters of the Shem;
 others take it from an otherwise unattested root ר-מ-ל.
@@ -210,4 +210,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Behaaloscha: Lift & Wave](https://articles.ohr.edu/articles/behaaloscha-lift-wave)," *What's in a Word?*, Ohr Somayach, 22 June 2024.
 
-Cited in the essay: Shemos 25:2, 29:24, 29:26-27, 35:22; Vayikra 7:28-38 (7:30, 7:32, 7:34), 8:27, 8:29, 9:21, 10:14-15, 14:12, 14:24, 23:11-12, 23:17, 23:20; Bamidbar 5:25, 6:20, 8:11-21; Rashi to Shemos 25:2, 29:24, 29:26-27, Vayikra 7:34, 10:15, 23:17; Ibn Ezra, long commentary to Shemos 29:27; *Toras Kohanim, Tzav parshasa* 11; Menachos 62a; Mishnah *Menachos* 5:6 and *Terumos* 4:3; Zohar *Korach* 179a; the Rambam's commentary to Mishnah *Terumos* 1:1 and 4:3; *Sefer HaChinuch* 507; Ibn Janach, introduction to *Sefer HaRikmah*; Ramban to Vayikra 10:15; *Peirush HaRokeach* to Shemos 29:27, Vayikra 7:30, 7:34; Baal HaTurim to Vayikra 7:30; Rabbeinu Avraham ben HaRambam and Rabbi Yosef Bechor Shor to Shemos 29:24; Targum Onkelos with Rabbi Yaakov Zev Lev's *Me'at Tzari* to Shemos 29:24 and 29:27; Rabbi Shmuel Botnick; Rabbi Yehuda Kalats, *Miseach Ilmim* to Shemos 25:2; Rabbi Shlomo Pappenheim on ר-ו-ם and נ-ו-פ; *Meshech Chochmah* to Shemos 29:27; *HaKsav VeHaKabbalah* to Devarim 23:26; Rav Hirsch to Tehillim 48:3; Tehillim 19:11 with Rashi to Mishlei 7:17; Rabbi Yehudah Aryeh of Carpentras, *Aholei Yehuda*; Iyov 28:18; Hoshea 9:6; Yeshayahu 19:13; Yirmiyahu 2:16, 44:1, 46:14, 46:19; Yechezkel 30:13, 30:16; Rus 4:19; Divrei HaYamim I 2:9, 2:25; Rabbi Yehoshua Steinberg.
+Cited in the essay: Shemos 25:2, 29:24, 29:26-27, 35:22; Vayikra 7:28-38 (7:30, 7:32, 7:34), 8:27, 8:29, 9:21, 10:14-15, 14:12, 14:24, 23:11-12, 23:17, 23:20; Bamidbar 5:25, 6:20, 8:11-21; Rashi to Shemos 25:2, 29:24, 29:26-27, Vayikra 7:34, 10:15, 23:17; Ibn Ezra, long commentary to Shemos 29:27; *Toras Kohanim, Tzav parshasa* 11; Menachos 62a; Mishnah *Menachos* 5:6 and *Terumos* 4:3; Zohar *Korach* 179a; the Rambam's commentary to Mishnah *Terumos* 1:1 and 4:3; *Sefer HaChinuch* 507; Ibn Janach, introduction to *Sefer HaRikmah*; Ramban to Vayikra 10:15; *Peirush HaRokeach* to Shemos 29:27, Vayikra 7:30, 7:34; Baal HaTurim to Vayikra 7:30; Rabbeinu Avraham ben HaRambam and Rabbi Yosef Bechor Shor to Shemos 29:24; Targum Onkelos with Rabbi Yaakov Zev Lev's *Me'at Tzari* to Shemos 29:24 and 29:27; Rabbi Shmuel Botnick; Rabbi Yehuda Kalats, *Miseach Ilmim* to Shemos 25:2; Rabbi Shlomo Pappenheim on ר-ו-ם and נ-ו-ף; *Meshech Chochmah* to Shemos 29:27; *HaKsav VeHaKabbalah* to Devarim 23:26; Rav Hirsch to Tehillim 48:3; Tehillim 19:11 with Rashi to Mishlei 7:17; Rabbi Yehudah Aryeh of Carpentras, *Aholei Yehuda*; Iyov 28:18; Hoshea 9:6; Yeshayahu 19:13; Yirmiyahu 2:16, 44:1, 46:14, 46:19; Yechezkel 30:13, 30:16; Rus 4:19; Divrei HaYamim I 2:9, 2:25; Rabbi Yehoshua Steinberg.

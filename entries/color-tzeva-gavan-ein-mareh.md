@@ -88,14 +88,14 @@ being a microcosm of something.
    absence in the earlier Aramaic works (the Targumim, save *sasgavana* above
    and the relatively late Targum to Esther) and its occurrence only in later
    Aramaic heavy with Persian influence, such as the Bavli; he adds that on this
-   showing the vav of ג-ו-נ was originally sounded as the vowel *u* and only
+   showing the vav of ג-ו-ן was originally sounded as the vowel *u* and only
    later as a consonant. Rabbi Ernest Klein, in his etymological dictionary of
    Hebrew, likewise derives *gavan* from Old Persian, and Dr. Alexander Kohut
    connects it to the Sanskrit *gaona/gauna*, which apparently also means
    "color"; Sanskrit and Old Persian both belong to the
    Indo-Iranian branch of Indo-European and share a common ancestor.
 
-**Whether the Aramaic root ג-ו-נ has one meaning or three.** Rabbi Eliyahu
+**Whether the Aramaic root ג-ו-ן has one meaning or three.** Rabbi Eliyahu
 Bachur (*Sefer HaTishbi*, *Meturgeman*) gives three separate entries: form or
 likeness (Targum of *k'demus*, Tehillim 58:5), color, and topic or subject
 (Targum of *inyan*, Koheles 1:13, 2:23). Rabbi Aharon Fuld, in his glosses to

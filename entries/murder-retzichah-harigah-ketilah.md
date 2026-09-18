@@ -119,7 +119,7 @@ though the killing is permitted; Rav Hirsch (to Shemos 20:13) addresses it.
   crimes; and to ר-צ-ה, "will," and the Aramaic ר-ש-ה, "permission," so that
   murder is an illegitimate expression of a man's free will, though otherwise he
   has permission to want whatever he chooses.
-- Rabbi Yaakov Berger suggests reading ר-צ-ח as a metathesized form of ח-ר-צ,
+- Rabbi Yaakov Berger suggests reading ר-צ-ח as a metathesized form of ח-ר-ץ,
   "cutting," the murderer cutting off another's life.
 
 ### harigah (הריגה)

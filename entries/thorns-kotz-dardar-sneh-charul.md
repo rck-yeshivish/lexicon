@@ -9,7 +9,7 @@ words:
   - he: קוץ
     tr: kotz
     en: thorn
-    distinct: the thorn, named for its many sharp ends, from ק-צ, the end of a thing (Pappenheim)
+    distinct: the thorn, named for its many sharp ends, from ק-ץ, the end of a thing (Pappenheim)
   - he: דרדר
     tr: dardar
     en: thistle
@@ -17,7 +17,7 @@ words:
   - he: סנה
     tr: sneh
     en: thornbush
-    distinct: the Burning Bush, a thorn bush (Rashi, Rabbi Saadia Gaon); a messy bush in which every kind of thorn grows, from ס-נ, disorder (Pappenheim); thorns like sharp teeth, from ש-ן (Rabbi David Chaim Chelouche)
+    distinct: the Burning Bush, a thorn bush (Rashi, Rabbi Saadia Gaon); a messy bush in which every kind of thorn grows, from ס-ן, disorder (Pappenheim); thorns like sharp teeth, from ש-ן (Rabbi David Chaim Chelouche)
   - he: סלון
     tr: salon
     en: thorn, thistle
@@ -65,7 +65,7 @@ words:
   - he: סיכים
     tr: sikim
     en: fence-thorn
-    distinct: the thorn of fences, sharing ש-ו-כ with mesuchah, a fence (Radak); linked to siyag (Rav Hirsch); from ס-כ, to cover or protect (Pappenheim)
+    distinct: the thorn of fences, sharing ש-ו-ך with mesuchah, a fence (Radak); linked to siyag (Rav Hirsch); from ס-ך, to cover or protect (Pappenheim)
 sources:
   - wiaw:9809 "Of Thorns and Thistles" (2022-08-06) https://articles.ohr.edu/articles/of-thorns-and-thistles
   - wiaw:9482 "Freezing Cold" (2021-12-11) https://articles.ohr.edu/articles/freezing-cold
@@ -116,9 +116,9 @@ thistle as some define it, for Radak a grass-like thorn; *chedek* a **brier**.
 Twelve times in Tanach as thorn, and at least once as a person's name (Divrei
 HaYamim I 4:8).
 
-- The triliteralists Ibn Janach and Radak read ק-ו-צ.
-- Menachem Ibn Saruk, a biliteralist, reads ק-צ.
-- Rabbi Shlomo Pappenheim, another biliteralist, gives ק-צ the core sense of the
+- The triliteralists Ibn Janach and Radak read ק-ו-ץ.
+- Menachem Ibn Saruk, a biliteralist, reads ק-ץ.
+- Rabbi Shlomo Pappenheim, another biliteralist, gives ק-ץ the core sense of the
   end or conclusion of a thing (*keitz*, *ketzeh*, *katz*, *ketzitzah*,
   *kayitz*, *yekitzah*, *katzin*), so *kotz* is named for its many sharp ends.
 
@@ -140,9 +140,9 @@ Six times, all of the Burning Bush (Shemos 3:2-4, Devarim 33:16).
   elsewhere explains as thorns (Rashi to Avodah Zarah 47b, Eruvin 34b), so for
   him it is a thorn bush; so too, explicitly, Rabbi Saadia Gaon's *Tafsir* to
   Shemos 3:2, cited by Ibn Ezra's long commentary there.
-- Rabbi Pappenheim: from ס-נ, chaos and disorder (whence *ason*, mishap), a
+- Rabbi Pappenheim: from ס-ן, chaos and disorder (whence *ason*, mishap), a
   messy bush in which thorns of every kind grow.
-- Rabbi David Chaim Chelouche, the late Chief Rabbi of Netanya, relates ס-נ to
+- Rabbi David Chaim Chelouche, the late Chief Rabbi of Netanya, relates ס-ן to
   ש-ן, tooth, since the thorns on a branch look like sharp teeth.
 
 ### salon / silon (סלון)
@@ -162,9 +162,9 @@ Rabbi Klein reasons, would somehow recall a thorn.
 
 - *Tzninim* (Bamidbar 33:55): *Ohalei Yehuda* relates it to *sneh*, most likely
   through the interchange of tzadi and samech.
-- Rav Hirsch (to Tehillim 91:4) relates צ-נ to ש-נ, through the interchange of
+- Rav Hirsch (to Tehillim 91:4) relates צ-ן to ש-ן, through the interchange of
   tzadi and shin, sharpness, as in *v'shinantam* and *shen*.
-- Rabbi Pappenheim takes the core sense of צ-נ as thorn outright, whence
+- Rabbi Pappenheim takes the core sense of צ-ן as thorn outright, whence
   *tzinah* (a spiked weapon), *tzinah* (sharp cold) and *tznumah* (grain damaged
   by cold).
 - Where most commentators take *sikim* and *tzninim* as kinds of thorn, Rashbam
@@ -268,11 +268,11 @@ too, though not all commentators agree.
 *Sikim* (Bamidbar 33:55) is the fence-thorn:
 - Radak in *Sefer HaShorashim* notes that fences were typically made of thorns,
   so *mesuchah*, a fence (Michah 7:4, Yechezkel 28:13, Mishlei 15:19, Yeshayahu
-  5:5), shares its root ש-ו-כ, and in his father's name derives *sakin*, knife
+  5:5), shares its root ש-ו-ך, and in his father's name derives *sakin*, knife
   (once, Mishlei 23:2), from *sikim* too.
 - Rav Hirsch (to Bamidbar 33:55) links the fence sense to *sugah*/*siyag* by the
   interchange of kaf and gimmel.
-- Rabbi Pappenheim takes ס-כ, to spread, cover or protect, since the thorn fence
+- Rabbi Pappenheim takes ס-ך, to spread, cover or protect, since the thorn fence
   protects the field.
 
 In Modern Hebrew *sikah* is a pin.

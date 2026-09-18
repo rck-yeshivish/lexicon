@@ -108,7 +108,7 @@ linguists trace the English word differently.
 
 ### an, anah, le'an (אן, אנה, לאן)
 *An* (Shmuel I 10:14; Iyov 8:2), with its more common derivatives *anah* in
-Biblical Hebrew and *le'an* in Rabbinic Hebrew. Root א-נ. Rabbi Pappenheim:
+Biblical Hebrew and *le'an* in Rabbinic Hebrew. Root א-ן. Rabbi Pappenheim:
 where *ayeh* and *eifoh* ask after a thing's current location, this root asks
 after its destination, "to where." He derives *aniyah*, a ship, from it: a
 ship does not run straight to its port but is pushed about by the water, so its

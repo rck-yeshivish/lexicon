@@ -122,7 +122,7 @@ words. Rabbi Reuven Chaim Klein disagrees: there seem to be a few Biblical examp
 "and I have cleared (*pinisi*) the house" (Bereishis 24:31).
 
 Rabbi Shlomo Pappenheim (1740 to 1814) bridges the Biblical and Rabbinic usage
-through the two-letter root פ-נ, whose core he identifies as "frontside,
+through the two-letter root פ-ן, whose core he identifies as "frontside,
 surface." Its chief derivatives are *panim*/*pnei* ("face") and *pnim*
 ("interior"), the most important facets of a thing, and the Biblical verb
 *panah*, turning so that a different side, the most prestigious flank, faces

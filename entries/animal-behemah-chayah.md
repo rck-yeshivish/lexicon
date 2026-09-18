@@ -58,7 +58,7 @@ are descriptions:
 - Ramban instead defines *behemos* as the herbivores, animals that feed solely
   on plants and other flora.
 - Rabbi Yaakov Tzvi Mecklenburg relates the word itself to the noises animals
-  make, building *behemah* on ה-מ(-ה), incoherent noise.
+  make, building *behemah* on ה-ם(-ה), incoherent noise.
 - Rabbi Aharon Marcus similarly derives it from ב-ה-ה, an onomatopoeic rendering
   of a common animal sound.
 

@@ -11,7 +11,7 @@ words:
   - he: שינה
     tr: sheinah
     en: sleep
-    distinct: ordinary sleep and the general term, the senses weakened but not wholly severed (Rav Hirsch); a sleeper rehashing the day's thoughts, from ש-נ, doubling (Rabbi Shlomo Pappenheim); deeper than tenumah, lighter than tardeimah (Ibn Ezra); goes with rest and tranquility (Bedersi)
+    distinct: ordinary sleep and the general term, the senses weakened but not wholly severed (Rav Hirsch); a sleeper rehashing the day's thoughts, from ש-ן, doubling (Rabbi Shlomo Pappenheim); deeper than tenumah, lighter than tardeimah (Ibn Ezra); goes with rest and tranquility (Bedersi)
   - he: תרדמה
     tr: tardeimah
     en: deep sleep
@@ -70,14 +70,14 @@ readings stand.
 
 ### sheinah (שינה)
 - The triliteral lexicographers, Ibn Chayyuj (945-1000), Ibn Janach (990-1050)
-  and Radak (1160-1235), give the root י-ש-נ.
+  and Radak (1160-1235), give the root י-ש-ן.
 - Rabbi Yitzchak Zeldin (18th-century Germany, *Shoresh Yesha*) notes the root
   carries both "sleep" and "old" and says the two meanings are one and the same;
   Rabbi Klein calls the remark a bit unclear and reads it, tentatively, as Rav
   Hirsch's point (to Bereishis 24:1), that the older a man gets the more his
   energy is sapped and the more he needs sleep.
 - The biliteralist Menachem Ibn Saruk (920-970), in *Machberes Menachem*, gives
-  ש-נ, whose core meaning Rabbi Shlomo Pappenheim defines as "doubling"
+  ש-ן, whose core meaning Rabbi Shlomo Pappenheim defines as "doubling"
   (*shnayim*, *shanah* to repeat, *shinun* sharpening by repeated rubbing,
   *shinui* change, *shein* the tooth because most people grow two sets, *shanah*
   the year, *yashan* the old); *sheinah* belongs there because a sleeping man
@@ -123,7 +123,7 @@ winter hibernation. Radal and *Yidei Moshe* (to *Bereishis Rabbah* there) sugges
 emending the Midrash to read *durmitah* instead of *mortima*.
 
 ### tenumah (תנומה)
-Root נ-ו-מ (Ibn Chayyuj, Ibn Janach, Radak) or the biliteral נ-מ (Ibn Saruk,
+Root נ-ו-ם (Ibn Chayyuj, Ibn Janach, Radak) or the biliteral נ-ם (Ibn Saruk,
 Rabbi Shlomo Pappenheim). The Mishnah's *misnamnem* (Yoma 1:7; Pesachim 10:8;
 Megillah 2:2) is its diminutive, formed by doubling the two core consonants, and
 the Gemara defines it (Megillah 18b): *nim velo nim, tir velo tir* (*nim* being
@@ -211,7 +211,7 @@ saw he was a mere mortal.
   gives up on life and dies.
 
 ### linah (לינה) and durmita (דורמיטא)
-Roots ל-ו-נ and ל-י-נ (or ל-נ per Ibn Saruk); Shadal (to Bereishis 24:23) already
+Roots ל-ו-ן and ל-י-ן (or ל-ן per Ibn Saruk); Shadal (to Bereishis 24:23) already
 clarifies that both roots mean exactly the same thing despite the different
 middle letter. Eliezer asked whether there was room *lalin* and Rivkah answered
 that there was place *lalun* (Bereishis 24:23-24), that is, room to stay the
@@ -224,7 +224,7 @@ subject is not even a living person. Rabbi Shlomo Pappenheim ties *linah*
 etymologically to *laylah*, tracing both to the biliteral ל-ל (see also
 *HaKsav VeHaKabbalah* to Devarim 21:23). *Malon*, from the same root, is any
 place one stays overnight (Bereishis 42:27; Shemos 4:24; Yehoshua 4:3;
-Yeshayahu 10:29), and in Modern Hebrew a hotel. The root ל-ו-נ also gives
+Yeshayahu 10:29), and in Modern Hebrew a hotel. The root ל-ו-ן also gives
 "complaining," a wholly different concept, which Rav Hirsch (to Shemos 15:24)
 bridges as the common notion of seeking protection and safety: in *linah* safe
 lodging for the night, in complaining the solace of airing one's grievances in

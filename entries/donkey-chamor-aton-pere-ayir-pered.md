@@ -125,7 +125,7 @@ as with *par* and *parah*, *egel* and *eglah*, *keves* and *kivsah*.
   its own but is typically attached to another word: male donkeys being known
   for an elevated libido (see Yechezkel 23:20), the *aton*'s role is to be
   attached to the male.
-- Rav Hirsch (to Bereishis 12:16, Shemos 14:27) links א-ת-ן to א-ד-נ, *tav* and
+- Rav Hirsch (to Bereishis 12:16, Shemos 14:27) links א-ת-ן to א-ד-ן, *tav* and
   *dalet* interchanging, so the name marks her load-bearing capacity, as an
   *eden*, one of the silver sockets holding up the beams of the Mishkan, holds
   up what stands on it.

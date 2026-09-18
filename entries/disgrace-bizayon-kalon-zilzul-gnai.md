@@ -117,7 +117,7 @@ origins or its slavery in Mitzrayim. The adjective is *megunah*.
   be within shade, and further connects *gnai*/*genus* to the Arabic *janyya*,
   "crime." Rabbi Reuven Chaim Klein adds that perhaps the shade sense might be
   related to the English "to cast a shadow" over something. That Aramaic root
-  evidently goes back to Rabbi Pappenheim's biliteral ג-נ, protection, which
+  evidently goes back to Rabbi Pappenheim's biliteral ג-ן, protection, which
   yields *gan*, a guarded and protected plot, *niggun*, a melody whose variety
   of sounds mimics the variety of flora in a garden, and *magen*, a shield.
 - On the pairing of *gnai* with *gan* the Maggid of Kozhnitz (Rabbi Yisroel

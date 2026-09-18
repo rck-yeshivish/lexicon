@@ -80,7 +80,7 @@ interchangeable in some contexts.
 - Others who work with two-letter roots do connect them: Rabbi Yaakov Tzvi
   Mecklenburg, since *afar* is indispensable to growing *pri*; and Rabbi Aharon
   Marcus (*Barzilai*), who traces both *afar* and *eifer* to פ-ר, and elsewhere
-  (*Keses HaSofer*) reads *afar* as a fusion of ע-פ, "flying," with פ-ר.
+  (*Keses HaSofer*) reads *afar* as a fusion of ע-ף, "flying," with פ-ר.
 
 ### eifer (אפר)
 Ashes, the product of burning. Rabbi Pappenheim traces it to the biliteral פ-ר,

@@ -119,7 +119,7 @@ Pappenheim's definition, against *boss*: treading on what is meant to be walked 
 usually is.
 
 ### dorech (דורך)
-From ד-ר-כ, whose derivatives appear over seven hundred and fifty times in Tanach, and
+From ד-ר-ך, whose derivatives appear over seven hundred and fifty times in Tanach, and
 which also yields *derech*, a path; *dorech* is the footfall of one walking a trail.
 Devarim 11:24 (cited again at Yehoshua 1:3), "wherever the palm of your foot will tread,"
 and Devarim 33:29, "you will tread over their high places," both refer to conquering the

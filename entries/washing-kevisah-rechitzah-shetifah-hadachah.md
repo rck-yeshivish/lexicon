@@ -111,7 +111,7 @@ have been for cleanliness alone.
   *shetifah*).
 
 ### shetifah (שטיפה)
-- Rabbi Shlomo Pappenheim: the root ש-ט-פ means flow or stream; *shetifah* is
+- Rabbi Shlomo Pappenheim: the root ש-ט-ף means flow or stream; *shetifah* is
   holding a body or an object under running water and shaking it so the current
   does the cleaning. Unlike the other two it always brings the item to the
   water, never the water to the item, and it covers both bodies (Vayikra 15:11)

@@ -9,7 +9,7 @@ words:
   - he: כנים
     tr: kinnim
     en: lice
-    distinct: the plural, "many lice"; the classical lexicographers (Ibn Janach, Rashbam, Ibn Ezra, Ibn Parchon) hold the mem is not part of the root, which is the biliteral כ-נ
+    distinct: the plural, "many lice"; the classical lexicographers (Ibn Janach, Rashbam, Ibn Ezra, Ibn Parchon) hold the mem is not part of the root, which is the biliteral כ-ן
   - he: כנם
     tr: kinam
     en: the lice
@@ -60,7 +60,7 @@ de Dieu and taken up by others, Malbim among them.
 ## Where the authorities disagree
 
 **Where kinnim comes from.** Both readings run through Pappenheim's biliteral
-כ-נ, whose core sense he gives as "base", the root of *kein* and *nachon* (a
+כ-ן, whose core sense he gives as "base", the root of *kein* and *nachon* (a
 claim resting on a valid basis), *tochnis* and *hachanah* (the groundwork of
 any undertaking), *kohen* (who sees to the preparations for the *avodah*),
 *kavanah*, and *kan*, a stand or base on which a thing rests.
@@ -79,8 +79,8 @@ Hirsch's is the simpler explanation.
 
 - Ibn Janach (*Sefer HaShorashim*), Rashbam, Ibn Ezra (to Shemos 8:12), and Ibn
   Parchon (*Machberes HeAruch*) all take pains to say it is not: the root is the
-  biliteral כ-נ, *kinnim* is the plural, *kinam* the species. Ibn Saruk and
-  Radak likewise trace the word to כ-נ.
+  biliteral כ-ן, *kinnim* is the plural, *kinam* the species. Ibn Saruk and
+  Radak likewise trace the word to כ-ן.
 - Against them stands Rabbi Klein's own thesis: he believes that *kinnim* and
   the two Aramaic words are not synonyms at all but three forms of one word. His
   reasoning is that no cognate of the Aramaic word turns up in Ugaritic or

@@ -57,10 +57,10 @@ Both *kilayos* and *tuchos* appear only in the plural.
 - Against them, Targum Onkelos (to Vayikra 3:9; see *Meleches Shlomo* to Chullin
   3:1), *Sefer HeAruch*, *Sefer HaTishbi*, Ibn Janach, and Radak read it as the
   end of the spine, the last two taking the root as ע-צ-ה, though Radak grants
-  that Chazal evidently read it as from י-ע-צ.
+  that Chazal evidently read it as from י-ע-ץ.
 - Ibn Ezra says only that the sense may be gleaned from context, and rejects any
   link to *eitz*, "tree," which is what Menachem Ibn Saruk implies by filing
-  *atzeh* under ע-צ, and what Rabbeinu Bachya, Shadal, and Rabbi Shlomo
+  *atzeh* under ע-ץ, and what Rabbeinu Bachya, Shadal, and Rabbi Shlomo
   Pappenheim say outright: the spine with its ribs looks like a trunk with
   branches.
 

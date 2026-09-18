@@ -13,7 +13,7 @@ words:
   - he: בינה
     tr: binah
     en: understanding
-    distinct: understanding one matter from within another; telling one datum from another, from bein (Bedersi); building on an idea, from ב-נ (Pappenheim); the abstract counterpart of chochmah (Malbim); the big picture against tevunah's parts (Pappenheim); the Oral Torah (the Vilna Gaon)
+    distinct: understanding one matter from within another; telling one datum from another, from bein (Bedersi); building on an idea, from ב-ן (Pappenheim); the abstract counterpart of chochmah (Malbim); the big picture against tevunah's parts (Pappenheim); the Oral Torah (the Vilna Gaon)
   - he: תבונה
     tr: tevunah
     en: understanding
@@ -77,7 +77,7 @@ Root ח-כ-ם.
   for ill as well (Yirmiyahu 4:22); but when Tanach speaks of a *chacham*,
   especially in Koheles, it means a religious scholar, a sage who has mastered
   the Torah and the Divine arts.
-- Rabbi Shlomo Pappenheim (1740 to 1814): ח-כ is waiting or delaying, as in
+- Rabbi Shlomo Pappenheim (1740 to 1814): ח-ך is waiting or delaying, as in
   *mechakeh* (Yeshayahu 30:18; Chavakuk 2:3; Daniel 12:12; Iyov 32:4) and
   *chakah*, the fishing net one sets and waits by (Iyov 40:25; Yeshayahu 19:8;
   Chavakuk 1:15), so the *chacham* is the unhurried learner who waits to
@@ -97,7 +97,7 @@ Root ב-י-ן.
 - Bedersi: from *bein*, "between"; the *navon* applies relevant data and
   excludes the irrelevant, telling one datum from another, and so reaches new
   conclusions.
-- Pappenheim: from ב-נ, building (*boneh*; *even* and *teven*, building
+- Pappenheim: from ב-ן, building (*boneh*; *even* and *teven*, building
   materials; *ben* and *bas*; *avnayim*, the birthing stool); *binah* builds on
   an idea by applying it elsewhere and extrapolating. (English *maven* comes
   from *meivin* by way of Yiddish.)

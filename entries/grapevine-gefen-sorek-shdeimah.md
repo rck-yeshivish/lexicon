@@ -9,7 +9,7 @@ words:
   - he: גפן
     tr: gefen
     en: grapevine
-    distinct: the ordinary, unmarked word for a vine, 55 times in Tanach; the early grammarians (Ibn Saruk, Ibn Janach, Radak) take the root as ג-פ-נ, while Rabbi Shlomo Pappenheim derives it from ג-פ, outward protrusion, for the vine's wing-like shoots
+    distinct: the ordinary, unmarked word for a vine, 55 times in Tanach; the early grammarians (Ibn Saruk, Ibn Janach, Radak) take the root as ג-פ-ן, while Rabbi Shlomo Pappenheim derives it from ג-ף, outward protrusion, for the vine's wing-like shoots
   - he: שורק
     tr: sorek
     en: choice vine
@@ -48,7 +48,7 @@ thing.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| גפן | gefen | grapevine | the common, unmarked word (55 times); root ג-פ-נ (Ibn Saruk, Ibn Janach, Radak) or ג-פ, protruding (Pappenheim) |
+| גפן | gefen | grapevine | the common, unmarked word (55 times); root ג-פ-ן (Ibn Saruk, Ibn Janach, Radak) or ג-ף, protruding (Pappenheim) |
 | שורק | sorek | choice vine | the choicest stock (Targum Yonasan, Ibn Janach, Radak), seedless grapes (Ibn Ghiyyat); or tendrils/plantable shoots (Rashi) |
 | שדמה | shdeimah | field (or vine) | grain field (Rashi) against vine (Ibn Janach, Ibn Ezra, Radak, Rabbeinu Bachaya); nourishing ground (Pappenheim); poor field (*Ohalei Yehuda*, *Shoresh Yesha*) |
 | שריג | sarig | tendril | the twining shoot of Bereishis 40:10; seemingly from ש-ר-ג, entangling; Ibn Saruk equates sorek with it, possibly via the kuf and gimmel interchange |
@@ -65,7 +65,7 @@ thing.
   either, but land juicy enough to feed what grows in it.
 - **A poor field**: *Ohalei Yehuda* and *Shoresh Yesha*, a portmanteau of
   *sadeh*, field, and *mah*, what, seemingly invoking the shin and sin
-  interchange, with mem interchanging with peh to link ש-ד-ם to ש-ד-פ,
+  interchange, with mem interchanging with peh to link ש-ד-ם to ש-ד-ף,
   wind-blasted (Ibn Janach and Radak make a similar point at Yeshayahu 37:27,
   though not for every instance).
 
@@ -88,14 +88,14 @@ same thing.
 
 **The root of gefen.**
 - The early grammarians (Ibn Saruk, Ibn Janach, Radak) hold the triliteral
-  ג-פ-נ.
-- Pappenheim derives it from the biliteral ג-פ, outward protrusion, with *gaf*
+  ג-פ-ן.
+- Pappenheim derives it from the biliteral ג-ף, outward protrusion, with *gaf*
   (side, Mishlei 9:3), a bird's wing, *guf* (the body as the outward projection
   of the person), *mageifah* (a plague spreading by contact), and *agaf* (a
   flank of troops spread like wings; in Modern Hebrew a department within a
   larger body).
 - *Shoresh Yesha*, implicitly invoking the gimmel and kaf interchange, relates
-  ג-פ-נ to כ-פ-נ, famine, since wine makes a man hungry (Pesachim 107b to 108a).
+  ג-פ-ן to כ-פ-ן, famine, since wine makes a man hungry (Pesachim 107b to 108a).
 
 In Ugaritic and Canaanite mythological texts the *gefen* is deified as an
 idolatrous god named Gapnu, understood there to be a messenger of Baal.

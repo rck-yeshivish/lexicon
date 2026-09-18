@@ -82,8 +82,8 @@ itself.
   *ganav*, thief, through the interchange of kaf with gimmel and peh with beis:
   both conceal, the wing covering part of the bird's body, or carrying it so
   high that it is out of sight, as the thief works unseen.
-- Rabbi Pappenheim (*Yerios Shlomo*) assigns *kanaf* to the biliteral כ-פ but
-  offers no thematic link, and his exposition of כ-פ as "receptacle" in *Cheshek
+- Rabbi Pappenheim (*Yerios Shlomo*) assigns *kanaf* to the biliteral כ-ף but
+  offers no thematic link, and his exposition of כ-ף as "receptacle" in *Cheshek
   Shlomo* (whence *kaf*, the palm, and *kapayim*, the heavens draped over the
   horizon like a dome) does not mention *kanaf* at all. Rabbi Klein surmises, in
   the absence of an explanation from Rabbi Pappenheim, that *kanaf* would then
@@ -91,15 +91,15 @@ itself.
 
 **What agaf is built on.**
 - *Agaf* seems to be cognate with the Biblical Aramaic *gapin*, wings (Daniel
-  7:4, 7:6), which, Rabbi Klein infers, suggests a biliteral root ג-פ with a
+  7:4, 7:6), which, Rabbi Klein infers, suggests a biliteral root ג-ף with a
   non-essential aleph. Rabbi Pappenheim holds exactly that: the aleph of *agaf*,
-  as of *ever*, is not root. He gives ג-פ the core sense of outward protrusion,
+  as of *ever*, is not root. He gives ג-ף the core sense of outward protrusion,
   apt for a wing, and puts in the same family *gap* or *guf*, the body, a
   person's outward projection as against the soul within, which, he also
   suggests, is a person's means of moving about as wings are a bird's; *negef*
   and *mageifah*, disease that spreads outward; and *gefen*, the cluster of
   grapes spreading from its stem like wings.
-- Menachem Ibn Saruk compares the triliteral כ-נ-ף with the biliteral ג-פ: as
+- Menachem Ibn Saruk compares the triliteral כ-נ-ף with the biliteral ג-ף: as
   *kanaf* means a wing and also the periphery of a place, so *gaf* in Mishlei
   9:3 means the edges of a land. Rabbi Klein suggests that perhaps the two roots
   are related through the interchange of kaf and gimmel and the

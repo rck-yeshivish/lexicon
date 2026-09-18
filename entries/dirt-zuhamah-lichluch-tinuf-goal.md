@@ -90,7 +90,7 @@ the spiritual grime of forbidden food (to Daniel 1:8). The Gemara's anecdote in
 ben Rabbi Yose's ruling that the name fits.
 
 ### tinuf (טינוף)
-Root ט-נ-פ, once in Tanach: "I have washed my feet, how shall I dirty them"
+Root ט-נ-ף, once in Tanach: "I have washed my feet, how shall I dirty them"
 (Shir HaShirim 5:3). Three mishnaic uses: *tinofes*, spoiled produce tolerated
 up to a twenty-fourth in a wholesale purchase (*Bava Basra* 6:2); uterine blood
 that has *tinuf* (*Bechoros* 3:1); feet dirtied in a cave pool (*Machshirin*
@@ -107,7 +107,7 @@ necessarily repulsive in itself; ketchup is desirable as food until it lands on
 a shirt. So too the lover of Shir HaShirim: the dirt on the floor may not be
 undesirable in itself, but clinging to her newly washed feet it makes them feel dirty. In a
 separate discussion Pappenheim derives *tinuf* from the biblical two-letter
-root ט-פ. *Machberes Menachem* lists four categories of words as coming from
+root ט-ף. *Machberes Menachem* lists four categories of words as coming from
 that root: *taf*, children; *notef*/*tipah*, dripping; *netifos*, adornments
 and niceties; and *matif*, speech or preaching. Pappenheim gives the core sense
 of the root as "secondary, subordinate," and reads *tinuf* accordingly: the

@@ -79,7 +79,7 @@ The word's other sense is "shield," and the two are linked in both directions.
   keeps to himself, winter is the season of withdrawing indoors, and a shield
   likewise covers and conceals.
 
-Rabbi Shlomo Pappenheim traces *tzinah* to the biliteral צ-נ, whose core sense
+Rabbi Shlomo Pappenheim traces *tzinah* to the biliteral צ-ן, whose core sense
 is a thorn. The *tzinah* shield is the spiked kind, used to strike as well as
 to guard; *tzinah* as cold is the stinging bite of frost, like the prick of a
 thorn. Rav Hirsch (Shemos 16:33) similarly: *tzinah* is primarily a *painful*

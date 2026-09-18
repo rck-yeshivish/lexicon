@@ -79,11 +79,11 @@ large Mishnaic **hamper**.
   fact to derive from the Akkadian *sallu*, which likewise means basket.
 
 **Where tene comes from.**
-- Rabbi Pappenheim: the aleph is not root, the root being ט-נ, and the word
+- Rabbi Pappenheim: the aleph is not root, the root being ט-ן, and the word
   names a basket typically woven with gaps so that air reaches the fruit and
   keeps it from spoiling; from the same root he takes *eitun* (Mishlei 7:16),
   cloth woven loosely enough to breathe, and Rabbi Yaakov Tzvi Mecklenburg adds
-  that the ט-נ in *shaatnez* likewise carries weaving.
+  that the ט-ן in *shaatnez* likewise carries weaving.
 - Rabbi Aharon Marcus keeps the link to *eitun* but holds both are of Egyptian
   origin, and Rabbi Ernest Klein likewise treats *tene* as an Egyptian loanword.
 - Rabbi David Chaim Chelouche connects it instead to *beten*, a stomach, a

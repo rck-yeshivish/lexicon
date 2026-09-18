@@ -58,7 +58,7 @@ Avos out of Eretz Yisrael (Bereishis 12:10, 26:1, 45:11).
   pangs, whose body is empty and whose soul craves food.
 
 ### kafan (כפן)
-Root כ-פ-נ. Multiple commentators, the earliest of whom seems to be Ibn Saruk
+Root כ-פ-ן. Multiple commentators, the earliest of whom seems to be Ibn Saruk
 (*Machberes Menachem*), have noted that Targum's regular renderings of *ra'av*
 are *k'fan*, *kafna*, *kfina*, all from that same root. Rabbi Klein infers that
 it is quite possible *ra'av* is Hebrew and *kafan* Aramaic, the two being not
@@ -95,7 +95,7 @@ The readings:
   famine. In line with this, *Ohalei Yehuda* also notes that *kafan* can mean
   scattering or spreading out. In that sense, it is possible that *kafan* is a
   metathesis of *kanaf* (wing), which a bird spreads to fly.
-- Rabbi Shlomo Pappenheim offers a similar explanation: from the biliteral כ-פ,
+- Rabbi Shlomo Pappenheim offers a similar explanation: from the biliteral כ-ף,
   receptacle, which yields *kaf* (palm), *kofef* (bending, the act that turns a
   palm into a receptacle), *akifah* (enforcement, which compels others to bend
   to an authority), *kippah* (dome, a palm-like structure), *kofeh* (turning a
@@ -137,7 +137,7 @@ and twice as *ultzana* (33:19, 37:19). The Targum to Iyov, Mishlei, and Tehillim
 is written in a different style from the other Targumim, its language closer to
 the Syriac dialect of Aramaic, so it is not surprising that it sometimes uses a
 different Aramaic word for "famine" there. As an aside, *ultzan*/*ultzana* seem to
-derive from the Hebrew root א-ל-צ, the root of Biblical *alatz*.
+derive from the Hebrew root א-ל-ץ, the root of Biblical *alatz*.
 
 ## Rendering guidance
 
