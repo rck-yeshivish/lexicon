@@ -133,7 +133,7 @@ Iyov 31:32), and throughout Shas and Midrash.
 
 - HaBachur (*Sefer HaTishbi*): the guest lodging temporarily is the *achsanai*,
   and the inn or host itself the *achsanyah*. As with *ushpiz*, the two words
-  sometimes get mixed up. In *Meturgaman* HaBachur renders *achsanyah* by the
+  sometimes get mixed up. In *Meturgeman* HaBachur renders *achsanyah* by the
   German and Yiddish *gast*; related are the Jewish surname Gastwirth,
   innkeeper, and German *Gasthaus*, guest house.
 - Rabbi Dr. Ernest Klein claims *achsanyah* derives from Greek *xenos*,
@@ -195,4 +195,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Be My Guest](https://articles.ohr.edu/articles/be-my-guest)," *What's in a Word?*, Ohr Somayach, 12 November 2022.
 
-Cited in the essay: Shoftim 19:17, Shmuel II 12:4, Yirmiyahu 9:1 and 14:8; Bereishis 37:25; Yeshayahu 21:13; Yirmiyahu 40:3, 52:34; Mishlei 15:17; Melachim II 25:30; Radak and Ibn Janach, *Sefer HaShorashim* s.v. ארח; Ibn Saruk, *Machberes*; Rabbi Shlomo Pappenheim on biliteral ר-ח; Zohar *Emor* 103b; Bava Metzia 24a with Rashi and Rabbeinu Chananel; Shabbos 140b; Eruvin 53b with Rashi and Tosafos; Beitzah 4a; Taanis 24b with *Dikdukei Sofrim*; Daniel 1:3; Mishnah *Demai* 3:1 and *Chullin* 8:2; Targum to Iyov 31:32; Arachin 16b with Rashi to Bereishis 13:3; Berachos 63b with Rashi; Rashi to Bamidbar 20:17, *Bamidbar Rabbah* 19:15, *Midrash Tanchuma, Chukas* 12; *Sefer HaTishbi* and *Meturgaman*; Rabbi Dr. Alexander Kohut, Rabbi Shmuel Krauss, and Ludwig Koehler and Walter Baumgartner's lexicon of biblical Hebrew and Aramaic on Ashpenaz.
+Cited in the essay: Shoftim 19:17, Shmuel II 12:4, Yirmiyahu 9:1 and 14:8; Bereishis 37:25; Yeshayahu 21:13; Yirmiyahu 40:3, 52:34; Mishlei 15:17; Melachim II 25:30; Radak and Ibn Janach, *Sefer HaShorashim* s.v. ארח; Ibn Saruk, *Machberes*; Rabbi Shlomo Pappenheim on biliteral ר-ח; Zohar *Emor* 103b; Bava Metzia 24a with Rashi and Rabbeinu Chananel; Shabbos 140b; Eruvin 53b with Rashi and Tosafos; Beitzah 4a; Taanis 24b with *Dikdukei Sofrim*; Daniel 1:3; Mishnah *Demai* 3:1 and *Chullin* 8:2; Targum to Iyov 31:32; Arachin 16b with Rashi to Bereishis 13:3; Berachos 63b with Rashi; Rashi to Bamidbar 20:17, *Bamidbar Rabbah* 19:15, *Midrash Tanchuma, Chukas* 12; *Sefer HaTishbi* and *Meturgeman*; Rabbi Dr. Alexander Kohut, Rabbi Shmuel Krauss, and Ludwig Koehler and Walter Baumgartner's lexicon of biblical Hebrew and Aramaic on Ashpenaz.

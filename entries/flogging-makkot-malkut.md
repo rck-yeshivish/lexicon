@@ -116,7 +116,7 @@ Hebrew.
   root ל-ק-ה, "hit" or "damage," and compares it to the Akkadian *laku*,
   "weakened"; he adds that the vocalization *malkut* is commonly mispronounced
   *malkot*.
-- Rabbi Eliyahu HaBachur (*Meturgaman* and *Sefer HaTishbi*) gives the Targum's
+- Rabbi Eliyahu HaBachur (*Meturgeman* and *Sefer HaTishbi*) gives the Targum's
   rule: wherever the Torah's *makkah* means striking someone to punish or
   chastise him, the Targum renders it with a word from *lakah*; where the
   striking is meant simply to hurt or even to kill, the Targum uses words
@@ -159,4 +159,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[That's a Flogging](https://articles.ohr.edu/articles/thats-a-flogging)," *What's in a Word?*, Ohr Somayach, 1 February 2020.
 
-Cited in the essay: Devarim 25:2-3; Bamidbar 22:4; Sanhedrin 10a; Sukkah 29a and 33b; Menachem Ibn Saruk; Rabbi Shlomo Pappenheim; Ibn Chayyuj; Ibn Janach; Radak; Rabbi Eliyahu HaBachur, *Meturgaman* and *Sefer HaTishbi*; Rabbi Naftali HaKohen Katz, *Semichas Chachamim*; Rabbi Shmuel Taieb, *Shemen Tov*; Tiferes Yisrael; Rabbi Elazar Rokeach, *Maaseh Rokeach*; Avraham Even-Shoshan's dictionary.
+Cited in the essay: Devarim 25:2-3; Bamidbar 22:4; Sanhedrin 10a; Sukkah 29a and 33b; Menachem Ibn Saruk; Rabbi Shlomo Pappenheim; Ibn Chayyuj; Ibn Janach; Radak; Rabbi Eliyahu HaBachur, *Meturgeman* and *Sefer HaTishbi*; Rabbi Naftali HaKohen Katz, *Semichas Chachamim*; Rabbi Shmuel Taieb, *Shemen Tov*; Tiferes Yisrael; Rabbi Elazar Rokeach, *Maaseh Rokeach*; Avraham Even-Shoshan's dictionary.

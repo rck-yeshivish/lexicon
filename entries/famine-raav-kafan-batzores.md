@@ -131,7 +131,7 @@ stays narrow.
 
 ### The Aramaic
 Targum's usual word for *ra'av* is *kafna*. But Rabbi Eliyahu HaBachur
-(*Meturgaman*) notes that Targum to Iyov renders *kafan* itself as *ultzan*
+(*Meturgeman*) notes that Targum to Iyov renders *kafan* itself as *ultzan*
 (5:22, 30:3), and Targum to Tehillim renders *ra'av* once as *kafna* (105:16)
 and twice as *ultzana* (33:19, 37:19). The Targum to Iyov, Mishlei, and Tehillim
 is written in a different style from the other Targumim, its language closer to
@@ -166,4 +166,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Famishing Famines](https://articles.ohr.edu/articles/famishing-famines)," *What's in a Word?*, Ohr Somayach, 31 December 2022.
 
-Cited in the essay: Bereishis 12:10, 26:1, 45:11; Vayikra 26:5 with Rashi, 26:26; Yirmiyahu 17:8 with Rashi; Yechezkel 17:7 with Rashi and Radak; Iyov 5:20, 5:22, 30:3, with Ralbag and Ibn Ezra to 5:22; Tehillim 33:19, 37:19, 105:16; Targum to Iyov and Tehillim; Taanis 3:1; Avos 5:8; Shabbos 73b; Pesachim 56a, 66b; Eiruvin 51b; Yevamos 15b; Kesubos 10b, 106a; Gittin 12a; Zevachim 117a; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Yosef Kimchi, *Sefer HaGalui* and commentary to Iyov 5:22; Radak, *Sefer HaShorashim*; Rabbi Shmuel Masnuth, *Maayan Ganim* to Iyov 5:22; Tashbetz, *Ohev Mishpat* to Iyov 5:22; Rabbi Yehudah Aryeh of Carpentras, *Ohalei Yehuda*; Rabbi Shlomo Pappenheim; the Vilna Gaon; Rabbi Shlomo Aharon Wertheimer; Rabbi Eliyahu HaBachur, *Meturgaman*; Rabbi Dr. Moshe Zidel.
+Cited in the essay: Bereishis 12:10, 26:1, 45:11; Vayikra 26:5 with Rashi, 26:26; Yirmiyahu 17:8 with Rashi; Yechezkel 17:7 with Rashi and Radak; Iyov 5:20, 5:22, 30:3, with Ralbag and Ibn Ezra to 5:22; Tehillim 33:19, 37:19, 105:16; Targum to Iyov and Tehillim; Taanis 3:1; Avos 5:8; Shabbos 73b; Pesachim 56a, 66b; Eiruvin 51b; Yevamos 15b; Kesubos 10b, 106a; Gittin 12a; Zevachim 117a; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Yosef Kimchi, *Sefer HaGalui* and commentary to Iyov 5:22; Radak, *Sefer HaShorashim*; Rabbi Shmuel Masnuth, *Maayan Ganim* to Iyov 5:22; Tashbetz, *Ohev Mishpat* to Iyov 5:22; Rabbi Yehudah Aryeh of Carpentras, *Ohalei Yehuda*; Rabbi Shlomo Pappenheim; the Vilna Gaon; Rabbi Shlomo Aharon Wertheimer; Rabbi Eliyahu HaBachur, *Meturgeman*; Rabbi Dr. Moshe Zidel.

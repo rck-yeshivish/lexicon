@@ -29,7 +29,7 @@ updated: 2026-09-10
 ## Bottom line
 
 Both mean **stoning**, and Targum renders both *sekilah* and *regimah* as
-*regimah* (Rabbi Eliyahu HaBachur, *Meturgaman*). Rabbi Shlomo Pappenheim makes
+*regimah* (Rabbi Eliyahu HaBachur, *Meturgeman*). Rabbi Shlomo Pappenheim makes
 *sekilah* the act of throwing and *regimah* the result, the victim subdued and
 immobile; Yashar similarly makes *sekilah* stoning that need not kill, hence the
 Torah's added "he shall be put to death," and *regimah* stoning to death. Rabbi
@@ -208,7 +208,7 @@ Rabbi Klein compares Yiddish *taytsh*, "translate," an early form of German
 - Where *sekilah* did not kill (Shmuel II 16:6), write **pelted him with
   stones**, not "stoned him," which in English implies death.
 - *Margeimah* (Mishlei 26:8) is a **sling** or **catapult**, an instrument, not
-  an act. And in a Targum *regimah* renders both Hebrew words (*Meturgaman*), so
+  an act. And in a Targum *regimah* renders both Hebrew words (*Meturgeman*), so
   do not read into the Aramaic a distinction that the Hebrew carries.
 
 ## Notes for a project
@@ -219,4 +219,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Emor: Getting Stoned](https://articles.ohr.edu/articles/emor-getting-stoned)," *What's in a Word?*, Ohr Somayach, 6 May 2023.
 
-Cited in the essay: Shemos 8:22, 17:4, 19:13, 21:28-29, 21:32, 26:1; Vayikra 20:2, 20:27, 24:10-23, 24:16; Bamidbar 14:10, 15:35-36; Devarim 13:11, 17:5, 21:21, 22:21, 22:24; Yehoshua 7:25; Shmuel I 30:6; Shmuel II 16:6, 16:13; Melachim I 12:18, 21:10-15; Yeshayahu 5:2, 62:10; Yechezkel 16:40, 23:47; Zechariah 7:2, 7:7; Tehillim 68:28; Mishlei 26:8; Iyov 21:33, 38:38; Ezra 4:7; Divrei HaYamim I 2:47; Divrei HaYamim II 10:18, 24:21; Mishnah *Shevi'is* 2:3 and 3:7, *Sukkah* 4:9, *Sanhedrin* 6:1, 6:4, 7:4, *Eduyos* 5:6; Chullin 133a; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Yosef Kimchi, *Sefer HaGalui* and *Sefer HaChukah*; Rashi, Targum and Radak to Yehoshua 7:25; Meiri to Mishlei 26:8; Rabbi Eliyahu HaBachur, *Meturgaman* and *Sefer HaTishbi*; Rabbi Shlomo Pappenheim; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim*; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Vayikra 24:16; Yashar; Rabbi Yehuda Leib Shapira-Frankfurter; *Sefer HaChochmah*; Rav Hirsch to Shemos 26:1; Rabbi Yehoshua Steinberg; Rabbi Yaakov Berger, *Milon Leshon Mikra*; *Ohalei Yehuda*; Rabbi Aharon Marcus; Rabbi Avi Kobernick, *Hipuch Osiyos*; Rabbi Yitzchak Ginsburgh; *Mishnas Rabbi Eliezer* ch. 3; Ibn Ezra to Zechariah 7:2 and Tehillim 68:28; Radak to Zechariah 7:2; Abarbanel to Zechariah 7:7 and *Mashmia Yeshuah* 14:2; Avraham Shmuel Herschberg; Rabbi Refael Gruskin; Rabbi Chaim Hirschensohn; Rabbi Yaakov Yehudah Zilberberg Di Kasif; Rabbi Binyamin Kohen-Shauli; Rabbi Yaakov Loyfer, introduction to Targum Onkelos in *Otzar HaRishonim*.
+Cited in the essay: Shemos 8:22, 17:4, 19:13, 21:28-29, 21:32, 26:1; Vayikra 20:2, 20:27, 24:10-23, 24:16; Bamidbar 14:10, 15:35-36; Devarim 13:11, 17:5, 21:21, 22:21, 22:24; Yehoshua 7:25; Shmuel I 30:6; Shmuel II 16:6, 16:13; Melachim I 12:18, 21:10-15; Yeshayahu 5:2, 62:10; Yechezkel 16:40, 23:47; Zechariah 7:2, 7:7; Tehillim 68:28; Mishlei 26:8; Iyov 21:33, 38:38; Ezra 4:7; Divrei HaYamim I 2:47; Divrei HaYamim II 10:18, 24:21; Mishnah *Shevi'is* 2:3 and 3:7, *Sukkah* 4:9, *Sanhedrin* 6:1, 6:4, 7:4, *Eduyos* 5:6; Chullin 133a; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Yosef Kimchi, *Sefer HaGalui* and *Sefer HaChukah*; Rashi, Targum and Radak to Yehoshua 7:25; Meiri to Mishlei 26:8; Rabbi Eliyahu HaBachur, *Meturgeman* and *Sefer HaTishbi*; Rabbi Shlomo Pappenheim; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim*; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Vayikra 24:16; Yashar; Rabbi Yehuda Leib Shapira-Frankfurter; *Sefer HaChochmah*; Rav Hirsch to Shemos 26:1; Rabbi Yehoshua Steinberg; Rabbi Yaakov Berger, *Milon Leshon Mikra*; *Ohalei Yehuda*; Rabbi Aharon Marcus; Rabbi Avi Kobernick, *Hipuch Osiyos*; Rabbi Yitzchak Ginsburgh; *Mishnas Rabbi Eliezer* ch. 3; Ibn Ezra to Zechariah 7:2 and Tehillim 68:28; Radak to Zechariah 7:2; Abarbanel to Zechariah 7:7 and *Mashmia Yeshuah* 14:2; Avraham Shmuel Herschberg; Rabbi Refael Gruskin; Rabbi Chaim Hirschensohn; Rabbi Yaakov Yehudah Zilberberg Di Kasif; Rabbi Binyamin Kohen-Shauli; Rabbi Yaakov Loyfer, introduction to Targum Onkelos in *Otzar HaRishonim*.

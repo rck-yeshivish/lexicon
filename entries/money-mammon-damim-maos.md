@@ -72,7 +72,7 @@ Absent from Tanach, frequent from the Mishnah on: loving Hashem "with all your
 the exemption of one liable to death from monetary payment (Kesubos 3:2), and
 Rabbi Yishmael's advice that one who wants to grow wise should occupy himself
 with *dinei mammonos* (Bava Basra 10:8). Rabbi Natan of Rome (*Sefer HeAruch*)
-and Rabbi Eliyahu HaBachur (*Sefer HaTishbi*, *Meturgaman*): *mammon* is
+and Rabbi Eliyahu HaBachur (*Sefer HaTishbi*, *Meturgeman*): *mammon* is
 Targum's standard Aramaic for the Biblical *hon* (wealth) and *rechush*
 (property). Etymologies:
 
@@ -229,4 +229,4 @@ Rabbi Reuven Chaim Klein, "[Bechukosai: All About Money](https://articles.ohr.ed
 
 Rabbi Reuven Chaim Klein, "[An Utter Embarrassment](https://articles.ohr.edu/articles/an-utter-embarrassment)," *What's in a Word?*, Ohr Somayach, 17 September 2022.
 
-Cited in the essay: Devarim 6:5; Berachos 9:5; Kesubos 2:9, 3:2, 66b; Bava Basra 10:8; *Bamidbar Rabbah* 22:8; Koheles 5:9, 10:19; Shemos 22:1, 30:13; Tehillim 72:14; II Shmuel 24:24; Yeshayahu 45:13, 55:1; Bamidbar 20:19, 32:1; Bereishis 1:27; Nedarim 64b; Bava Kamma 119a; Avos 2:8, 4:11; *Sefer HeAruch*; *Sefer HaTishbi* and *Meturgaman*; *Beis Yitzchak* Yoreh Deah 1:152; *Binah L'Itim* derush 69; *Ragli Mevaser*; *Leshon Chachamim*; *Daas Zekeinim* to Bamidbar 32:1; Yeshayahu 65:11 (Meni); *Iggeres HaTiyul*; *Ezer Ohr* (glosses to *Sefer HaTishbi*); *Midrash Shmuel* to Avos 2:8; *Hafla'ah* to Kesubos 66b; Maharal, *Netivos Olam*, *Nesiv HaOsher* ch. 2.
+Cited in the essay: Devarim 6:5; Berachos 9:5; Kesubos 2:9, 3:2, 66b; Bava Basra 10:8; *Bamidbar Rabbah* 22:8; Koheles 5:9, 10:19; Shemos 22:1, 30:13; Tehillim 72:14; II Shmuel 24:24; Yeshayahu 45:13, 55:1; Bamidbar 20:19, 32:1; Bereishis 1:27; Nedarim 64b; Bava Kamma 119a; Avos 2:8, 4:11; *Sefer HeAruch*; *Sefer HaTishbi* and *Meturgeman*; *Beis Yitzchak* Yoreh Deah 1:152; *Binah L'Itim* derush 69; *Ragli Mevaser*; *Leshon Chachamim*; *Daas Zekeinim* to Bamidbar 32:1; Yeshayahu 65:11 (Meni); *Iggeres HaTiyul*; *Ezer Ohr* (glosses to *Sefer HaTishbi*); *Midrash Shmuel* to Avos 2:8; *Hafla'ah* to Kesubos 66b; Maharal, *Netivos Olam*, *Nesiv HaOsher* ch. 2.

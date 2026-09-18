@@ -125,7 +125,7 @@ written with the intention that it last a long time (ostensibly so as to serve a
 evidence of the transaction or event it records), while an *iggeret* is not
 intended as long-term documentation. Whether it is the same root as *shoter*, the officer, is
 disputed.
-- Rabbi Eliyahu HaBachur (*Meturgaman*) gives ש-ט-ר two separate entries, the
+- Rabbi Eliyahu HaBachur (*Meturgeman*) gives ש-ט-ר two separate entries, the
   enforcing officer and the document, and treats the two senses as separate.
 - Rav Hirsch (to Shemos 5:6) joins them: a *shtar* is the creditor's best means
   of presenting his grievances and enforcing his dues, so both words off ש-ט-ר
@@ -177,4 +177,4 @@ Rabbi Reuven Chaim Klein, "[Divorce Bills and Other Documents](https://articles.
 
 Rabbi Reuven Chaim Klein, "[Between Books and Scrolls](https://articles.ohr.edu/articles/between-books-and-scrolls)," *What's in a Word?*, Ohr Somayach, 19 February 2022.
 
-Cited in the essay: Devarim 24:1-3; Yeshayahu 50:1; Yirmiyahu 32; Yechezkel 22:25; Shemos 5:6; Gittin 2a, 10a, 19b, 65b; Bava Kamma 95a; Bava Basra 49a, 154b, 160a, 167b; Kesubos 19a, 79a, 102b; Kiddushin 9b; Moed Katan 18b; Berachos 56a; Mishnah Gittin 2:5 with Rambam; *Sefer HaChaim*; *Sefer HaTishbi*; *Meturgaman*; *Divrei Eliyahu*; *Taama DeKra* to Devarim 24:1; *Levush*, Even HaEzer 125:11; *Kolbo* 76; Dr. Chaim Tawil; Rabbi Eliezer Herstik; Ritva.
+Cited in the essay: Devarim 24:1-3; Yeshayahu 50:1; Yirmiyahu 32; Yechezkel 22:25; Shemos 5:6; Gittin 2a, 10a, 19b, 65b; Bava Kamma 95a; Bava Basra 49a, 154b, 160a, 167b; Kesubos 19a, 79a, 102b; Kiddushin 9b; Moed Katan 18b; Berachos 56a; Mishnah Gittin 2:5 with Rambam; *Sefer HaChaim*; *Sefer HaTishbi*; *Meturgeman*; *Divrei Eliyahu*; *Taama DeKra* to Devarim 24:1; *Levush*, Even HaEzer 125:11; *Kolbo* 76; Dr. Chaim Tawil; Rabbi Eliezer Herstik; Ritva.

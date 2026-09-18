@@ -80,7 +80,7 @@ mistake.
   difference of opinions: in Hebrew there is a difference between the tav and
   tet words, but in Aramaic there is only one word, spelled with a tet, carrying
   both meanings. Rabbi Klein adds that Rabbi Eliyahu HaBachur himself already
-  acknowledged this in his *Meturgaman*, where he correctly asserts that
+  acknowledged this in his *Meturgeman*, where he correctly asserts that
   wherever cognates of the tav word appear in Tanach, the Targumim replace the
   tav with a tet.
 
@@ -132,4 +132,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Lost or Mistaken](https://articles.ohr.edu/articles/lost-or-mistaken)," *What's in a Word?*, Ohr Somayach, 16 June 2018.
 
-Cited in the essay: Bereishis 21:14 with Targum Onkelos; Bamidbar 5:12 with *Kli Yakar*; Yechezkel 13:10; Hoshea 4:12; Tehillim 95:10; the *Uva LeTzion* prayer; Pirkei DeRabbi Eliezer ch. 30 with Rabbi Avraham Aharon Broide, *Bayis HaGadol*; Rabbi Eliyahu HaBachur, glosses to Radak's *Sefer HaShorashim*, and *Meturgaman*; Radak, *Sefer HaShorashim* s.v. תף; Rabbi Yosef Kimchi, *Sefer Zikaron*; Rabbi Yaakov Zev Lev, *Me'at Tzari*; Rabbi Shlomo Aharon Wertheimer, *Bi'urei Shemos HaNirdafim* (first edition, second volume); Rambam, Hilchos Avodah Zarah ch. 1; the Targumim.
+Cited in the essay: Bereishis 21:14 with Targum Onkelos; Bamidbar 5:12 with *Kli Yakar*; Yechezkel 13:10; Hoshea 4:12; Tehillim 95:10; the *Uva LeTzion* prayer; Pirkei DeRabbi Eliezer ch. 30 with Rabbi Avraham Aharon Broide, *Bayis HaGadol*; Rabbi Eliyahu HaBachur, glosses to Radak's *Sefer HaShorashim*, and *Meturgeman*; Radak, *Sefer HaShorashim* s.v. תף; Rabbi Yosef Kimchi, *Sefer Zikaron*; Rabbi Yaakov Zev Lev, *Me'at Tzari*; Rabbi Shlomo Aharon Wertheimer, *Bi'urei Shemos HaNirdafim* (first edition, second volume); Rambam, Hilchos Avodah Zarah ch. 1; the Targumim.

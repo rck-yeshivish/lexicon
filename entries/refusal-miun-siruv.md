@@ -92,7 +92,7 @@ In that same perek Hashem uses forms of *meri* /
 *meridah* six times and Targum renders each with a cognate of *siruv*; and
 where Yechezkel 2:3 uses *pesha* for rebellion, Targum renders it with an
 Aramaicized *meridah*. Rabbi Eliyahu HaBachur (1469-1549) points out in *Sefer
-HaTishbi* and *Meturgaman* that most instances of the Hebrew *meridah*, *meri*
+HaTishbi* and *Meturgeman* that most instances of the Hebrew *meridah*, *meri*
 and *mi'un* in the Torah are rendered by the Targumim as *siruv*. In light of
 this, Rabbi Klein writes, it *seems* that the two are indeed synonyms but are
 sourced in different languages: *mi'un* and its cognates, appearing many times
@@ -189,4 +189,4 @@ Rabbi Reuven Chaim Klein, "[Biblical Refuseniks](https://articles.ohr.edu/articl
 
 Rabbi Reuven Chaim Klein, "[Of Thorns and Thistles](https://articles.ohr.edu/articles/of-thorns-and-thistles)," *What's in a Word?*, Ohr Somayach, 6 August 2022.
 
-Cited in the essay: Bereishis 37:35, 39:8, 48:19; Shemos 7:27 with Midrash *Sechel Tov*, 22:16; Bamidbar 20:21, 22:13; Shmuel II 13:9; Yechezkel 2:3, 2:6 with Menachem Ibn Saruk, Donash Ibn Labrat, Rashi, Mahari Kara and Radak, 28:24; Mishnah *Berachos* 5:3 with the Rambam and Bartenura, *Nedarim* 8:7 with *Tosafos Yom Tov*, *Moed Katan* 3:3, *Yevamos* 13:1-6, *Bava Metzia* 1:8, *Sanhedrin* 1:3, *Chullin* 1:7; Rashi to Bava Kamma 28a, 32b and Chullin 94a; Targum Onkelos; Rabbi Shlomo Pappenheim; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* and *Meturgaman*; the commentary to Targum Onkelos ascribed to Rabbi Yaakov Dienna (*Patshegen*, *Sefer HaYair*), to Shemos 22:16 and Bamidbar 22:13; the *Oxford English Dictionary*.
+Cited in the essay: Bereishis 37:35, 39:8, 48:19; Shemos 7:27 with Midrash *Sechel Tov*, 22:16; Bamidbar 20:21, 22:13; Shmuel II 13:9; Yechezkel 2:3, 2:6 with Menachem Ibn Saruk, Donash Ibn Labrat, Rashi, Mahari Kara and Radak, 28:24; Mishnah *Berachos* 5:3 with the Rambam and Bartenura, *Nedarim* 8:7 with *Tosafos Yom Tov*, *Moed Katan* 3:3, *Yevamos* 13:1-6, *Bava Metzia* 1:8, *Sanhedrin* 1:3, *Chullin* 1:7; Rashi to Bava Kamma 28a, 32b and Chullin 94a; Targum Onkelos; Rabbi Shlomo Pappenheim; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* and *Meturgeman*; the commentary to Targum Onkelos ascribed to Rabbi Yaakov Dienna (*Patshegen*, *Sefer HaYair*), to Shemos 22:16 and Bamidbar 22:13; the *Oxford English Dictionary*.

@@ -111,7 +111,7 @@ begins with *genus* and concludes with praise, that is, begins the telling from
 the point at which the nation was in utter disgrace, its pre-Avrahamic pagan
 origins or its slavery in Mitzrayim. The adjective is *megunah*.
 
-- Rabbi Eliyahu HaBachur, in *Meturgaman*, files *gnai* under a four-letter root
+- Rabbi Eliyahu HaBachur, in *Meturgeman*, files *gnai* under a four-letter root
   ג-נ-א-י of its own.
 - Rabbi Dr. Ernest Klein traces it instead to an Aramaic root ג-נ-י meaning to
   be within shade, and further connects *gnai*/*genus* to the Arabic *janyya*,
@@ -153,4 +153,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Disgraceful Disparagement](https://articles.ohr.edu/articles/disgraceful-disparagement)," *What's in a Word?*, Ohr Somayach, 6 November 2021.
 
-Cited in the essay: Bereishis 25:34 (with Rashi), 16:4, 8:11; Esther 3:6; Malachi 1:6-8; Ovadiah 1:2; Shmuel II 2:18; Yeshayahu 19:1, 18:5; Shemos 18:22; Melachim I 12:4; Devarim 25:3, 27:16; Eichah 1:8; Iyov 40:4; Mishlei 12:9; Yeshayahu 46:6; Mishnah Shabbos 6:4, Yoma 3:11, Pesachim 10:4, with Rambam's commentary to the first two; Rabbi Eliyahu HaBachur, *Meturgaman*; Rabbi Dr. Ernest Klein.
+Cited in the essay: Bereishis 25:34 (with Rashi), 16:4, 8:11; Esther 3:6; Malachi 1:6-8; Ovadiah 1:2; Shmuel II 2:18; Yeshayahu 19:1, 18:5; Shemos 18:22; Melachim I 12:4; Devarim 25:3, 27:16; Eichah 1:8; Iyov 40:4; Mishlei 12:9; Yeshayahu 46:6; Mishnah Shabbos 6:4, Yoma 3:11, Pesachim 10:4, with Rambam's commentary to the first two; Rabbi Eliyahu HaBachur, *Meturgeman*; Rabbi Dr. Ernest Klein.

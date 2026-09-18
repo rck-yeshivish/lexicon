@@ -127,7 +127,7 @@ means "good," goodness being something both desirable and beautiful.
   *tzav*).
 - The Aramaic *tzva* appears in Daniel in the sense of "wishes" or "wants";
   Rabbi Eliyahu HaBachur (1469 to 1549), also known as Elias Levita, writes in
-  *Meturgaman* that *tzva* means *emes v'yatziv*, "true and well-grounded"; he
+  *Meturgeman* that *tzva* means *emes v'yatziv*, "true and well-grounded"; he
   also explains *tamrukei*, "cosmetics" (Esther 2:3-12), which Aramaic renders
   *tzavhata*, as an expression of beauty and glory.
 - *Tzava* itself, colloquially "army," literally means "legion," a gathering of
@@ -167,4 +167,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[My Dear Deer](https://articles.ohr.edu/articles/my-dear-deer)," *What's in a Word?*, Ohr Somayach, 18 January 2020.
 
-Cited in the essay: Bereishis 24:13; Shemos 2:4; Vayikra 11:29; Bamidbar 5:21-22, 7:3; Devarim 11:10, 14:5, 29:9; Yeshayahu 4:2, 13:19, 28:1, 28:4, 28:5, 66:20; Yirmiyahu 3:19; Yechezkel 7:20, 20:6; Zechariah 7:14; Malachi 3:12; Tehillim 106:24; Shir HaShirim 2:9, 2:17, 8:14; Esther 2:3-12; Daniel 8:9, 11:16, 11:41; Rosh Hashanah 11a; Kesubos 112a; Chullin 60a; *Sifrei* to Devarim 11:10; *Shemos Rabbah* 32:2; *Bamidbar Rabbah* 12:17; Midrash *Shocher Tov* to Tehillim 5; Targum to Yechezkel 7:20 and Yirmiyahu 3:19; Rashi to Yeshayahu 4:2; Radak to Yeshayahu 4:2 and 13:19, Yechezkel 7:20 and Yirmiyahu 3:19; Rashi and Rabbeinu Gershom on *tzivyon*; the Ritva; Rabbi Nosson of Rome, *Sefer HeAruch*; Ibn Ezra and Ralbag to Daniel 8:9; Rav Saadia Gaon to Daniel 11:16; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; Rabbi Eliyahu HaBachur, *Meturgaman*; Rabbi Chaim Friedlander; Rav Hirsch.
+Cited in the essay: Bereishis 24:13; Shemos 2:4; Vayikra 11:29; Bamidbar 5:21-22, 7:3; Devarim 11:10, 14:5, 29:9; Yeshayahu 4:2, 13:19, 28:1, 28:4, 28:5, 66:20; Yirmiyahu 3:19; Yechezkel 7:20, 20:6; Zechariah 7:14; Malachi 3:12; Tehillim 106:24; Shir HaShirim 2:9, 2:17, 8:14; Esther 2:3-12; Daniel 8:9, 11:16, 11:41; Rosh Hashanah 11a; Kesubos 112a; Chullin 60a; *Sifrei* to Devarim 11:10; *Shemos Rabbah* 32:2; *Bamidbar Rabbah* 12:17; Midrash *Shocher Tov* to Tehillim 5; Targum to Yechezkel 7:20 and Yirmiyahu 3:19; Rashi to Yeshayahu 4:2; Radak to Yeshayahu 4:2 and 13:19, Yechezkel 7:20 and Yirmiyahu 3:19; Rashi and Rabbeinu Gershom on *tzivyon*; the Ritva; Rabbi Nosson of Rome, *Sefer HeAruch*; Ibn Ezra and Ralbag to Daniel 8:9; Rav Saadia Gaon to Daniel 11:16; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; Rabbi Eliyahu HaBachur, *Meturgeman*; Rabbi Chaim Friedlander; Rav Hirsch.

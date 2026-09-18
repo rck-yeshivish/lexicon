@@ -81,7 +81,7 @@ never surrendered. *Chaval* is taken, *avot* and *rahan* given.
 read it as a portmanteau of the Aramaic *a'po te'hei ka'i*, "upon here shall you
 be," that is, a declaration to the creditor that he is to collect his debt from
 here, from this particular item.
-Rabbi Eliyahu HaBachur in *Meturgaman* cites that tradition as well but notes
+Rabbi Eliyahu HaBachur in *Meturgeman* cites that tradition as well but notes
 that the word is in fact Greek. Rabbi Dr. Daniel Sperber, in his *Dictionary of
 Greek and Latin Legal Terms in Rabbinic Literature*, likewise identifies it as
 the Greek ὑποθήκη (*hypotheke*), literally to put
@@ -173,4 +173,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Taking Collateral](https://articles.ohr.edu/articles/taking-collateral)," *What's in a Word?*, Ohr Somayach, 26 August 2023.
 
-Cited in the essay: Shemos 22:25 with Rashi and Rav Hirsch; Devarim 15:6, 15:8, 24:6, 24:10-13, 24:17; Yechezkel 18:7; Mishlei 22:7; Tehillim 2:3, 37:35; Yoel 2:7; Chavakuk 2:6; Mishnah Sheviis 10:2, Bava Metzia 5:7 and 6:7, Shevuos 6:7, Eduyos 8:2 with Tosafos Yom Tov, Gittin 4:4, Keilim 23:2, Taharos 10:4-5, Peah 8:8, Kesubos 11:3, Arachin 5:6; Bava Kamma 11b and 115a, Bava Basra 44b, Gittin 40b, Kesubos 54a, with Rashi; Rambam, *Hilchos Maaser Sheini* 3:18; *Sefer HeAruch*; *Sefer HaTishbi* and *Meturgaman*; Menachem Ibn Saruk, Rabbi Yonah Ibn Janach and Radak; Rabbi Shlomo Pappenheim; Tedeschi-Ashkenazi, *Otzar Nirdafim*; Even-Shoshan's concordance; Rabbi Dr. Daniel Sperber, *Dictionary of Greek and Latin Legal Terms in Rabbinic Literature*; Merriam-Webster.
+Cited in the essay: Shemos 22:25 with Rashi and Rav Hirsch; Devarim 15:6, 15:8, 24:6, 24:10-13, 24:17; Yechezkel 18:7; Mishlei 22:7; Tehillim 2:3, 37:35; Yoel 2:7; Chavakuk 2:6; Mishnah Sheviis 10:2, Bava Metzia 5:7 and 6:7, Shevuos 6:7, Eduyos 8:2 with Tosafos Yom Tov, Gittin 4:4, Keilim 23:2, Taharos 10:4-5, Peah 8:8, Kesubos 11:3, Arachin 5:6; Bava Kamma 11b and 115a, Bava Basra 44b, Gittin 40b, Kesubos 54a, with Rashi; Rambam, *Hilchos Maaser Sheini* 3:18; *Sefer HeAruch*; *Sefer HaTishbi* and *Meturgeman*; Menachem Ibn Saruk, Rabbi Yonah Ibn Janach and Radak; Rabbi Shlomo Pappenheim; Tedeschi-Ashkenazi, *Otzar Nirdafim*; Even-Shoshan's concordance; Rabbi Dr. Daniel Sperber, *Dictionary of Greek and Latin Legal Terms in Rabbinic Literature*; Merriam-Webster.

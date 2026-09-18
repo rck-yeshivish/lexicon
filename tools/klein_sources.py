@@ -53,7 +53,7 @@ WORKS = {
     'אוצר נרדפים': ('Otzar Nirdafim', 'Rabbi Moshe Tedeschi-Ashkenazi'),
     'ספר התשבי': ('Sefer HaTishbi', 'Rabbi Eliyahu HaBachur'),
     'התשבי': ('Sefer HaTishbi', 'Rabbi Eliyahu HaBachur'),
-    'מתורגמן': ('Meturgaman', 'Rabbi Eliyahu HaBachur'),
+    'מתורגמן': ('Meturgeman', 'Rabbi Eliyahu HaBachur'),
     'חותם תכנית': ('Chotam Tochnit', 'Rabbi Avraham Bedersi'),
     'חותם תוכנית': ('Chotam Tochnit', 'Rabbi Avraham Bedersi'),
     'הרכסים לבקעה': ('HaRechasim LeVik\'ah', 'Rabbi Yehuda Leib Shapira-Frankfurter'),

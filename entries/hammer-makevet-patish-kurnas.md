@@ -52,7 +52,7 @@ whether *kurnas* is a big or a small *makeves*.
 ## Where the authorities disagree
 
 **Which hammer is bigger.**
-- Rabbi Eliyahu HaBachur (*Meturgaman*): *kurnas* is a big *makeves*.
+- Rabbi Eliyahu HaBachur (*Meturgeman*): *kurnas* is a big *makeves*.
 - Rabbi Nosson of Rome (*Sefer HeAruch*): *kurnas* is a small *makeves* and a
   big *patish*.
 - Rashi (to Shabbos 21b): *patish* is a big *kurnas*, the blacksmith's, though
@@ -188,4 +188,4 @@ Rabbi Reuven Chaim Klein, "[Vayeshev: The Hebrew Hammers (Part 1/2)](https://art
 
 Rabbi Reuven Chaim Klein, "[Miketz: The Hebrew Hammers (Part 2/2)](https://articles.ohr.edu/articles/miketz-the-hebrew-hammers-part-22)," *What's in a Word?*, Ohr Somayach, 28 December 2024.
 
-Cited in the essay: Shoftim 4:21, 5:26; Yeshayahu 41:7, 44:12, 51:1; Yirmiyahu 10:4, 23:29, 50:23; Melachim I 6:7; Shemos 15:11, 25:31; Bamidbar 10:2, 11:31; Iyov 9:26; Tehillim 73:10; Mishnah Keilim 13:4, 29:5, 29:6 and 29:7, Shabbos 12:1 and 17:2, Parah 3:11, Bechoros 7:1; Bechoros 43b with Rashi and the Mainz Commentary ascribed to Rabbeinu Gershom; Shabbos 21b, 73a; Moed Katan 11a; Berachos 34a; Megillah 25a; Gittin 56b; Bava Basra 20a; Menachos 28a; *Sifrei HaShorashim*; *Machberes Menachem*; *Meturgaman*; *Sefer HeAruch* and *Mussaf HeAruch*; *Yerios Shlomo* and *Cheshek Shlomo*; *Aholei Yehuda*; Rabbi Ernest Klein and Dr. Alexander Kohut (*Aruch Completum*) on *kurnas*; *Peirush HaRokeach* to Shemos 15:11, *Tzror HaMor*, *Zohar Chadash* 73b with *Biur HaGra*, and *Ohr Yakar* on Maccabee; Abraham Kahana and Rabbi Eliyahu Shmuel Hartom on the kuf spelling of Maccabee.
+Cited in the essay: Shoftim 4:21, 5:26; Yeshayahu 41:7, 44:12, 51:1; Yirmiyahu 10:4, 23:29, 50:23; Melachim I 6:7; Shemos 15:11, 25:31; Bamidbar 10:2, 11:31; Iyov 9:26; Tehillim 73:10; Mishnah Keilim 13:4, 29:5, 29:6 and 29:7, Shabbos 12:1 and 17:2, Parah 3:11, Bechoros 7:1; Bechoros 43b with Rashi and the Mainz Commentary ascribed to Rabbeinu Gershom; Shabbos 21b, 73a; Moed Katan 11a; Berachos 34a; Megillah 25a; Gittin 56b; Bava Basra 20a; Menachos 28a; *Sifrei HaShorashim*; *Machberes Menachem*; *Meturgeman*; *Sefer HeAruch* and *Mussaf HeAruch*; *Yerios Shlomo* and *Cheshek Shlomo*; *Aholei Yehuda*; Rabbi Ernest Klein and Dr. Alexander Kohut (*Aruch Completum*) on *kurnas*; *Peirush HaRokeach* to Shemos 15:11, *Tzror HaMor*, *Zohar Chadash* 73b with *Biur HaGra*, and *Ohr Yakar* on Maccabee; Abraham Kahana and Rabbi Eliyahu Shmuel Hartom on the kuf spelling of Maccabee.

@@ -302,7 +302,7 @@ once in Mishnah: a husband must tell his agent plainly to write and give a *get*
 and "free her," "sustain her," "do for her as the *nimus*" or "do for her as is
 fit" are hints too vague to authorize it (Gittin 6:5), *nimus* there meaning the
 law. It occurs elsewhere in both Talmuds, as in Mordechai being "crowned by his
-*nimusim*" (Megillah 12b). Rabbi Eliyahu HaBachur (*Meturgaman*, *Sefer HaTishbi*):
+*nimusim*" (Megillah 12b). Rabbi Eliyahu HaBachur (*Meturgeman*, *Sefer HaTishbi*):
 Targum uses it for *chok* (Vayikra 18:3), *mishpat* (Shmuel I 2:13, Melachim I
 18:28, Yechezkel 5:7 and 20:18), and *torah* (Tehillim 1:2, Mishlei 1:8). Many
 of the sources above on *dat* in fact use *nimus* to define it; Rabbi Nissim of

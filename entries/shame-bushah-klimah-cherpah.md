@@ -166,7 +166,7 @@ the face, so that *cherpah* would be no more than a metathesized *chafrah*.
 Targum typically renders *bushah* as *bahat* and *klimah* as *kissuf*; hence the
 Talmudic Aramaic *ichsaf*, to become ashamed, and the kabbalistic *nehama
 d'kisufa*, "the bread of shame," for the Divine sustenance Hashem grants a man
-who is undeserving. Rabbi Eliyahu HaBachur (1469 to 1549) in *Meturgaman* points out
+who is undeserving. Rabbi Eliyahu HaBachur (1469 to 1549) in *Meturgeman* points out
 that *cherpah* is usually rendered by Targum as *chisda* or the like, which led
 the Maggid of Kozhnitz (Rabbi Yisroel Hopstein, 1737 to 1814) to read *chassid* as
 one ashamed at the thought that he could accomplish anything on his own without
@@ -208,4 +208,4 @@ Rabbi Reuven Chaim Klein, "[Digging Deeper](https://articles.ohr.edu/articles/di
 
 Rabbi Reuven Chaim Klein, "[Spy versus Spy](https://articles.ohr.edu/articles/spy-versus-spy)," *What's in a Word?*, Ohr Somayach, 17 June 2017.
 
-Cited in the essay: Vayikra 13:59 with Rav Hirsch, and 19:20; Devarim 1:22; Yeshayahu 45:16 with Radak; Yirmiyahu 2:26; Tzefaniah 2:1 with Rabbi Yosef Kimchi; Tehillim 139:16 with Rav Hirsch; *Bava Metzia* 58b; Radak, *Sefer HaShorashim*; Rabbeinu Yonah, *Shaarei Teshuvah*; Rabbi Avraham Bedersi, *Chotam Tochnit*; Isaac Satanow; Rabbi Yehuda Leib Shapira-Frankfurter; Malbim; Rabbi Shlomo Aharon Wertheimer; Rabbi David Chaim Chelouche; Rabbi Yehuda Leib Edel; Rabbi David Golumb; Rabbi Yaakov Tzvi Mecklenburg; Targum; Rabbi Eliyahu HaBachur, *Meturgaman*; the Maggid of Kozhnitz; Maharal, *Netivos Olam*, *Nesiv HaOsher*, ch. 2.
+Cited in the essay: Vayikra 13:59 with Rav Hirsch, and 19:20; Devarim 1:22; Yeshayahu 45:16 with Radak; Yirmiyahu 2:26; Tzefaniah 2:1 with Rabbi Yosef Kimchi; Tehillim 139:16 with Rav Hirsch; *Bava Metzia* 58b; Radak, *Sefer HaShorashim*; Rabbeinu Yonah, *Shaarei Teshuvah*; Rabbi Avraham Bedersi, *Chotam Tochnit*; Isaac Satanow; Rabbi Yehuda Leib Shapira-Frankfurter; Malbim; Rabbi Shlomo Aharon Wertheimer; Rabbi David Chaim Chelouche; Rabbi Yehuda Leib Edel; Rabbi David Golumb; Rabbi Yaakov Tzvi Mecklenburg; Targum; Rabbi Eliyahu HaBachur, *Meturgeman*; the Maggid of Kozhnitz; Maharal, *Netivos Olam*, *Nesiv HaOsher*, ch. 2.

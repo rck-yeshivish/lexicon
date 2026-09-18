@@ -109,7 +109,7 @@ and *mikneh* always appear in the singular.
   owned. *Ohalei Yehudah* understands that *rechesh* itself relates back to
   *reches*, because a harness or stirrup was tied to the horse for riding.
 - Rabbi Natan of Rome (*Sefer HeAruch*) and Rabbi Eliyahu HaBachur (*Sefer
-  HaTishbi* and *Meturgaman*) write that Targum typically renders *rechush*,
+  HaTishbi* and *Meturgeman*) write that Targum typically renders *rechush*,
   like *hon*, wealth, into Aramaic as *mammon*.
 
 ### mikneh (מקנה)
@@ -188,4 +188,4 @@ Rabbi Reuven Chaim Klein, "[Prime Property](https://articles.ohr.edu/articles/pr
 
 Rabbi Reuven Chaim Klein, "[Bechukosai: All About Money](https://articles.ohr.edu/articles/bechukosai-all-about-money)," *What's in a Word?*, Ohr Somayach, 1 June 2024.
 
-Cited in the essay: Bereishis 12:5, 13:2, 13:6, 14:11, 14:12, 14:16, 14:19, 14:21, 15:14, 31:18, 34:23, 36:6-7; Shemos 12:4, 28:28 with Rashi; Yehoshua 22:8; Shoftim 12:6; Yeshayahu 1:3; Koheles 5:18, 6:2; Ezra 6:8, 7:26; Divrei HaYamim II 1:11, 1:12; Mishnah Peah 3:6-8, Kesubos 8:1-2, Bava Basra 8:3-7, Avos 2:7; Bamidbar Rabbah 22:8; Radak to Bereishis 12:5, 14:11 and *Sefer HaShorashim*; Ibn Ezra to Bereishis 12:5; Rav Hirsch to Bereishis 12:5, 13:2, 31:18; Ramban to Bereishis 14:19, 34:23; *Midrash Sechel Tov* to Bereishis 31:18, 36:6-7; Rabbi Shmuel de Ucedah, *Midrash Shmuel* to Avos 2:8; Rabbi Shimon Yehuda Leib Goldblit; *Shoresh Yesha*; *Ohalei Yehudah*; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; Solomon Rabinowitz; Naftali Tur-Sinai; Dr. Gerald Leonard Cohen, *Comments on Etymology*; Rabbi Natan of Rome, *Sefer HeAruch*; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* and *Meturgaman*.
+Cited in the essay: Bereishis 12:5, 13:2, 13:6, 14:11, 14:12, 14:16, 14:19, 14:21, 15:14, 31:18, 34:23, 36:6-7; Shemos 12:4, 28:28 with Rashi; Yehoshua 22:8; Shoftim 12:6; Yeshayahu 1:3; Koheles 5:18, 6:2; Ezra 6:8, 7:26; Divrei HaYamim II 1:11, 1:12; Mishnah Peah 3:6-8, Kesubos 8:1-2, Bava Basra 8:3-7, Avos 2:7; Bamidbar Rabbah 22:8; Radak to Bereishis 12:5, 14:11 and *Sefer HaShorashim*; Ibn Ezra to Bereishis 12:5; Rav Hirsch to Bereishis 12:5, 13:2, 31:18; Ramban to Bereishis 14:19, 34:23; *Midrash Sechel Tov* to Bereishis 31:18, 36:6-7; Rabbi Shmuel de Ucedah, *Midrash Shmuel* to Avos 2:8; Rabbi Shimon Yehuda Leib Goldblit; *Shoresh Yesha*; *Ohalei Yehudah*; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; Solomon Rabinowitz; Naftali Tur-Sinai; Dr. Gerald Leonard Cohen, *Comments on Etymology*; Rabbi Natan of Rome, *Sefer HeAruch*; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* and *Meturgeman*.
