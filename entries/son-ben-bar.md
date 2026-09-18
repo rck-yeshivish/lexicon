@@ -135,4 +135,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Boys and Bars](https://articles.ohr.edu/articles/boys-and-bars)," *What's in a Word?*, Ohr Somayach, 25 May 2019.
 
-Cited in the essay: Shemos 12:43 with *HaKsav VeHaKabbalah*; Mishlei 31:2 with Malbim; Rabbi Shlomo Pappenheim; Rabbi Yaakov Margolis, *Seder HaGet*; the Maharshal; the Maharik; Rema, *Even HaEzer* 126:30 and 129:7; Rabbi Eliyahu HaBachur, *Meturgeman*; Rabbi David Ovadiah, in the name of Rabbi Meir Simcha of Dvinsk; Rabbi Alexander Sender Feuerstein; Rabbi Meir Mintzberg; Rabbi Yehuda ben Kalonymos of Speyer, *Yichusei Tannaim V'Amoraim*.
+Cited in the essay: Shemos 12:43 with *HaKsav VeHaKabbalah*; Mishlei 31:2 with Malbim; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. בר and בן; Rabbi Yaakov Margolis, *Seder HaGet*; the Maharshal; the Maharik; Rema, *Even HaEzer* 126:30 and 129:7; Rabbi Eliyahu HaBachur, *Meturgeman*; Rabbi David Ovadiah, in the name of Rabbi Meir Simcha of Dvinsk; Rabbi Alexander Sender Feuerstein; Rabbi Meir Mintzberg; Rabbi Yehuda ben Kalonymos of Speyer, *Yichusei Tannaim V'Amoraim*.

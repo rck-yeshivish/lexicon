@@ -88,7 +88,7 @@ tav in Hoshea 13:1, with a tet in Yirmiyahu 49:24.
 
 It makes sense to treat the two spellings as one word, tav and tet
 interchanging, a point already made by rabbinic philologists such as Rabbi
-Avraham Bedersi (*Chotam Tochnit*), Rabbi Yosef Kimchi (*Sefer HaGalui*), Rabbi
+Avraham Bedersi (*Chosam Tochnis*), Rabbi Yosef Kimchi (*Sefer HaGalui*), Rabbi
 Shlomo Ibn Parchon (*Machberes HeAruch*), and others.
 
 **The order of intensity in Shmuel II 22:8 (Tehillim 18:8).**
@@ -197,7 +197,7 @@ interchangeable, though both roots end in ע-ש.
   (Shabbos 156a, Kiddushin 40b), and in that sense we pray *b'rogez racheim
   tizkor*, from Chavakuk 3:2. Yiddish *broiges* comes from *b'rogez* and
   reflects only that one meaning.
-- Rabbi Avraham Bedersi (*Chotam Tochnit*, on words for anger) clarifies that
+- Rabbi Avraham Bedersi (*Chosam Tochnis*, on words for anger) clarifies that
   though *rogez* sometimes means angered, it is not always tied to anger, and
   sometimes means shaking out of fear.
 
@@ -225,4 +225,4 @@ Rabbi Reuven Chaim Klein, "[Yom Kippur: Shake & Quake (Pt. 2/3)](https://article
 
 Rabbi Reuven Chaim Klein, "[Sukkot: Shake & Quake (Pt. 3/3)](https://articles.ohr.edu/articles/sukkot-shake-quake-pt-33)," *What's in a Word?*, Ohr Somayach, 19 October 2024.
 
-Cited in the essay: Bereishis 3:19, 27:33, 45:24 (Shadal, Rashbam); Shemos 15:14 (Shadal), 15:15 (Onkelos), 19:16, 19:18 (Onkelos), 20:15 (Mechilta, *Baal HaTurim*); Vayikra 20:18 (Rashi); Bamidbar 15:27 (*Siftei Kohen*), 33:24 to 25; Devarim 28:25 (Onkelos, Rashi), 28:65; Yehoshua 24:30; Shoftim 2:9; Shmuel I 20:30 (Rashi); Shmuel II 22:8, 23:30; Yeshayahu 66:5; Yirmiyahu 5:22, 15:4 (Rashi), 24:9, 25:16, 29:18, 34:17, 46:7 to 8, 49:24; Yechezkel 3:12 (Targum Yonasan), 23:46; Hoshea 13:1; Amos 1:1; Chavakuk 3:2; Zechariah 14:5; Tehillim 2:11, 18:8, 55:5, 104:32; Iyov 34:20, 39:24; Rus 3:8; Esther 5:9; Daniel 10:11; Divrei HaYamim I 11:32; Divrei HaYamim II 29:8; Taanis 4:8, 30b; Bava Basra 121a; Yoma 4b; Berachos 54a; Chullin 24a to 24b; Avodah Zarah 32b, 40b, 61b; Shabbos 156a; Kiddushin 40b; *Mechilta D'Rabbi Yishmael, BaChodesh* §9; *Devarim Rabbah* 11:10; Rabbi Shlomo Aharon Wertheimer; Malbim, *Yair Ohr*, and as cited in *Sefer HaCarmel*; Rabbi Shlomo Pappenheim; Radak and Rabbi Yonah Ibn Janach, *Sefer HaShorashim*; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Avraham Bedersi, *Chotam Tochnit*; Rabbi Yosef Kimchi, *Sefer HaGalui*; Rabbi Shlomo Ibn Parchon, *Machberes HeAruch*; Rabbi Reuven Landau, *Degel Machaneh Reuven* §61; Rabbi Mordechai Kohen of Safed, *Siftei Kohen*; Even-Shoshan's concordance; the liturgy (*U'Nesaneh Tokef*, *U'va L'Tzion*, the long Tachanun).
+Cited in the essay: Bereishis 3:19, 27:33, 45:24 (Shadal, Rashbam); Shemos 15:14 (Shadal), 15:15 (Onkelos), 19:16, 19:18 (Onkelos), 20:15 (Mechilta, *Baal HaTurim*); Vayikra 20:18 (Rashi); Bamidbar 15:27 (*Siftei Kohen*), 33:24 to 25; Devarim 28:25 (Onkelos, Rashi), 28:65; Yehoshua 24:30; Shoftim 2:9; Shmuel I 20:30 (Rashi); Shmuel II 22:8, 23:30; Yeshayahu 66:5; Yirmiyahu 5:22, 15:4 (Rashi), 24:9, 25:16, 29:18, 34:17, 46:7 to 8, 49:24; Yechezkel 3:12 (Targum Yonasan), 23:46; Hoshea 13:1; Amos 1:1; Chavakuk 3:2; Zechariah 14:5; Tehillim 2:11, 18:8, 55:5, 104:32; Iyov 34:20, 39:24; Rus 3:8; Esther 5:9; Daniel 10:11; Divrei HaYamim I 11:32; Divrei HaYamim II 29:8; Taanis 4:8, 30b; Bava Basra 121a; Yoma 4b; Berachos 54a; Chullin 24a to 24b; Avodah Zarah 32b, 40b, 61b; Shabbos 156a; Kiddushin 40b; *Mechilta D'Rabbi Yishmael, BaChodesh* §9; *Devarim Rabbah* 11:10; Rabbi Shlomo Aharon Wertheimer; Malbim, *Yair Ohr*, and as cited in *Sefer HaCarmel*; Rabbi Shlomo Pappenheim; Radak and Rabbi Yonah Ibn Janach, *Sefer HaShorashim*; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Avraham Bedersi, *Chosam Tochnis*; Rabbi Yosef Kimchi, *Sefer HaGalui*; Rabbi Shlomo Ibn Parchon, *Machberes HeAruch*; Rabbi Reuven Landau, *Degel Machaneh Reuven* §61; Rabbi Mordechai Kohen of Safed, *Siftei Kohen*; Even-Shoshan's concordance; the liturgy (*U'Nesaneh Tokef*, *U'va L'Tzion*, the long Tachanun).

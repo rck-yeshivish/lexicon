@@ -120,4 +120,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Energizing the Tired and Exhausted](https://articles.ohr.edu/articles/energizing-the-tired-and-exhausted)," *What's in a Word?*, Ohr Somayach, 28 October 2017.
 
-Cited in the essay: Yeshayahu 40:29; Devarim 25:18; Shmuel II 17:2; Koheles 1:8; Iyov 22:7; Tehillim 63:2; the Rid (Rabbi Yeshayah of Trani), comparing *kesev* and *keves*; Rabbi Shimon Schwab on *ha'nosen la'yaef koach*; Rabbi Shlomo Aharon Wertheimer; Radak, *Sefer HaShorashim*; Rabbi Yosef of Saragossa; Malbim.
+Cited in the essay: Yeshayahu 40:29; Devarim 25:18; Shmuel II 17:2; Koheles 1:8; Iyov 22:7; Tehillim 63:2; the Rid (Rabbi Yeshayah of Trani), comparing *kesev* and *keves*; Rabbi Shimon Schwab on *ha'nosen la'yaef koach*; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. עיף\יגע\עמל; Radak, *Sefer HaShorashim*; Rabbi Yosef of Saragossa; Malbim.

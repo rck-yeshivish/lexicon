@@ -110,4 +110,4 @@ Rabbi Reuven Chaim Klein, "[Don't be a Behemah or a Chayah!](https://articles.oh
 
 Rabbi Reuven Chaim Klein, "[Vayakhel/Pekudei: Animal Sounds](https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds)," *What's in a Word?*, Ohr Somayach, 13 March 2021.
 
-Cited in the essay: Ibn Ezra and Radak; Ramban; the Netziv, from Bava Kamma 19b; Rabbi Chaim Kanievsky, letter to Rabbi Chaim Tzvi Lehrfeld; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Aharon Marcus.
+Cited in the essay: Ibn Ezra and Radak; Ramban; the Netziv, from Bava Kamma 19b; Rabbi Chaim Kanievsky, letter to Rabbi Chaim Tzvi Lehrfeld; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Vayikra 1:1; Rabbi Aharon Marcus.

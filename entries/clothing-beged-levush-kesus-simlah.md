@@ -150,4 +150,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[My Clothes and Me](https://articles.ohr.edu/articles/my-clothes-and-me)," *What's in a Word?*, Ohr Somayach, 24 February 2018.
 
-Cited in the essay: Bereishis 49:11; Shemos 22:25 with Ibn Ezra; Shabbos 77b; Bava Kamma 91b; Malbim; Rabbi Shlomo Pappenheim; Rabbi Shlomo Aharon Wertheimer; the Maharik; Rabbi Moshe Shapiro; Rabbi Shlomo of Karlin.
+Cited in the essay: Bereishis 49:11; Shemos 22:25 with Ibn Ezra; Shabbos 77b; Bava Kamma 91b; Malbim, *Yair Ohr* (מערכת ב' אות ג'); Rabbi Shlomo Pappenheim, *Yerios Shlomo* (חוברת י"א, יריעה מז); Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* (בגד/שמלה); the Maharik; Rabbi Moshe Shapiro; Rabbi Shlomo of Karlin.

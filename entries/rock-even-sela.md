@@ -138,4 +138,4 @@ Rabbi Reuven Chaim Klein, "[Like a Rock (Part 1)](https://articles.ohr.edu/artic
 
 Rabbi Reuven Chaim Klein, "[Like a Rock (Part 2)](https://articles.ohr.edu/articles/like-a-rock-part-2)," *What's in a Word?*, Ohr Somayach, 24 November 2018.
 
-Cited in the essay: Bereishis 28:11, 28:18, 29:10, 49:24; Yehoshua 10:11; Yirmiyahu 23:29; Mishnah *Zevachim* 13:3; Malbim; Rabbi Immanuel Chai Ricci; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Shemos 4:25 and Devarim 9:9; Rabbi Aharon Marcus; Aaron Kahn.
+Cited in the essay: Bereishis 28:11, 28:18, 29:10, 49:24; Yehoshua 10:11; Yirmiyahu 23:29; Mishnah *Zevachim* 13:3; Malbim, *Sefer HaCarmel* s.v. אבן; Rabbi Immanuel Chai Ricci; Rabbi Shlomo Pappenheim, *Yerios Shlomo* (חוברת י"א, יריעה נ'); Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Shemos 4:25 and Devarim 9:9; Rabbi Aharon Marcus, *Keses HaSofer*; Aaron Kahn.

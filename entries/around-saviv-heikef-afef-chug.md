@@ -140,4 +140,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Around in Concentric Circles](https://articles.ohr.edu/articles/around-in-concentric-circles)," *What's in a Word?*, Ohr Somayach, 9 December 2017.
 
-Cited in the essay: Shemos 13:18; Devarim 16:15, 21:20; Shmuel I 30:16 with Radak and *Sefer HeAruch*; Shmuel II 14:20; Yeshayahu 56:12; Mishlei 23:20; Tehillim 91:4, 116:3 to 4 with Malbim; Iyov 15:10; Mishnah Taanis 3:8.
+Cited in the essay: Shemos 13:18; Devarim 16:15, 21:20; Shmuel I 30:16 with Radak and *Sefer HeAruch*; Shmuel II 14:20; Yeshayahu 56:12; Mishlei 23:20; Tehillim 91:4, 116:3 to 4 with Malbim, *Sefer HaCarmel* s.v. אפף, הקף and סבב, and *Yair Ohr* (מערכת ש אות ו' באמצע דבריו); Iyov 15:10; Mishnah Taanis 3:8.

@@ -135,4 +135,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Take a Bow](https://groups.google.com/g/whats-in-a-word/c/7yPb1reWKno)," *What's in a Word?*, 1 November 2018.
 
-Cited in the essay: Bereishis 18:2, 23:7, 23:12, 24:26, 24:48, 24:52 (and Targum); Melachim I 1:31, 8:54; Yeshayahu 44 to 46, 44:17, 49:23; Megillah 22b; Berachos 34b; Sukkah 53a; Tosafos; Maharsha; Rabbi Shlomo Pappenheim; Malbim; Rav Hirsch; Radak, *Sefer HaShorashim*.
+Cited in the essay: Bereishis 18:2, 23:7, 23:12, 24:26, 24:48, 24:52 (and Targum); Melachim I 1:31, 8:54; Yeshayahu 44 to 46, 44:17, 49:23; Megillah 22b; Berachos 34b; Sukkah 53a; Tosafos; Maharsha; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. קד, and *Yerios Shlomo* (חוברת ג', יריעה ח'); Malbim, *Sefer HaCarmel* s.v. ראש קדקדק מצח and סגד; Rav Hirsch; Radak, *Sefer HaShorashim*.

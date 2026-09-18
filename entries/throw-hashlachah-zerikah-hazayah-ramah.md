@@ -168,4 +168,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[A Real Toss Up](https://articles.ohr.edu/articles/a-real-toss-up)," *What's in a Word?*, Ohr Somayach, 21 December 2019.
 
-Cited in the essay: Bereishis 21:15, 37:20, 37:22, 37:24; Shemos 1:22, 7:10, 9:8, 15:1, 22:30, 32:19, 32:24; Bamidbar 19:6; Devarim 29:27; Tehillim 51:13; Mishnah Shabbos 11:1; Chagigah 15a; Rabbi Shlomo Pappenheim; Ramban to Bereishis 21:15; Rashi and Maharal to Shemos 9:8; Rashbam to Shemos 32:19; Rabbi Yehoshua Hartman; Malbim; Menachem Ibn Saruk; Ibn Janach; Radak; the dictionaries of Ernest Klein and Avraham Even-Shoshan; Rabbi Moshe Shapiro; the Targumim.
+Cited in the essay: Bereishis 21:15, 37:20, 37:22, 37:24; Shemos 1:22, 7:10, 9:8, 15:1, 22:30, 32:19, 32:24; Bamidbar 19:6; Devarim 29:27; Tehillim 51:13; Mishnah Shabbos 11:1; Chagigah 15a; Rabbi Shlomo Pappenheim, *Yerios Shlomo* (חוברת ג יריעה י"ג); Ramban to Bereishis 21:15; Rashi and Maharal to Shemos 9:8; Rashbam to Shemos 32:19; Rabbi Yehoshua Hartman; Malbim, *Sefer HaCarmel* s.v. זריקה הזיה; Menachem Ibn Saruk; Ibn Janach; Radak; the dictionaries of Ernest Klein and Avraham Even-Shoshan; Rabbi Moshe Shapiro; the Targumim.

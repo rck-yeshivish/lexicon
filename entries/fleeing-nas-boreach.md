@@ -116,4 +116,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Running Away](https://articles.ohr.edu/articles/running-away)," *What's in a Word?*, Ohr Somayach, 2 June 2018.
 
-Cited in the essay: Bamidbar 10:35; Bereishis 31:21; Yonah 1:3; Shemos 14:27; Yirmiyahu 16:19; Iyov 30:3; Sforno to Bereishis 31:21 and Yonah 1:3; Malbim on *nas*, *boreach* and *ratz*; *Sefer HaChochmah* ascribed to Rabbi Elazar Rokeach of Worms; Rabbi Naftali Hertz Treves, *Sefer HaGur*; Rabbi Shlomo Aharon Wertheimer; Targum Onkelos.
+Cited in the essay: Bamidbar 10:35; Bereishis 31:21; Yonah 1:3; Shemos 14:27; Yirmiyahu 16:19; Iyov 30:3; Sforno to Bereishis 31:21 and Yonah 1:3; Malbim on *nas*, *boreach* and *ratz*; *Sefer HaChochmah* ascribed to Rabbi Elazar Rokeach of Worms; Rabbi Naftali Hertz Treves, *Sefer HaGur*; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* (ברח\נס); Targum Onkelos.

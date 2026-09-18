@@ -189,4 +189,4 @@ Rabbi Reuven Chaim Klein, "[Degrees of Sin](https://articles.ohr.edu/articles/de
 
 Rabbi Reuven Chaim Klein, "[Revolting Revolutions](https://articles.ohr.edu/articles/revolting-revolutions)," *What's in a Word?*, Ohr Somayach, 12 June 2021.
 
-Cited in the essay: Melachim I 1:21 with Rashi; Shemos 22:8; Bava Kamma 21b, 29a; Mishlei 1:10 and 13:6 with the Vilna Gaon; Mishnah Yoma 4:2; Yoma 36b; Shabbos 40a; Rambam, *Hilchos Teshuvah*, with Rabbi Yosef Babad, *Minchas Chinuch*, and Rabbi Elazar Menachem Mann Shach; Rabbi Yechezkel Landau; Rabbi Moshe Shapiro; Rabbi Shlomo Pappenheim; Malbim; *Peirush HaRokeach*; Rabbi Netanel Weil; Rabbi Yaakov Tzvi Mecklenburg.
+Cited in the essay: Melachim I 1:21 with Rashi; Shemos 22:8; Bava Kamma 21b, 29a; Mishlei 1:10 and 13:6 with the Vilna Gaon; Mishnah Yoma 4:2; Yoma 36b; Shabbos 40a; Rambam, *Hilchos Teshuvah*, with Rabbi Yosef Babad, *Minchas Chinuch*, and Rabbi Elazar Menachem Mann Shach; Rabbi Yechezkel Landau; Rabbi Moshe Shapiro; Rabbi Shlomo Pappenheim; Malbim, *Sefer HaCarmel* (ח"א ערך חטא); *Peirush HaRokeach*; Rabbi Netanel Weil; Rabbi Yaakov Tzvi Mecklenburg.

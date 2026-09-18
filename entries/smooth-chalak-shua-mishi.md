@@ -146,4 +146,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Smooth Sliding and Glad Gliding](https://articles.ohr.edu/articles/smooth-sliding-and-glad-gliding)," *What's in a Word?*, Ohr Somayach, 30 November 2019.
 
-Cited in the essay: Bereishis 27:11 with the Targumim, and 27:16; Vayikra 14:42 with Targum Onkelos, and 19:19; Devarim 22:11; Yeshayahu 6:10, 32:3; Yechezkel 16:4 with Radak, Rashi and Menachem Ibn Saruk; Mishnah *Kilayim* 9:8 with the Rambam's commentary; Rashi and Tosafos to Yevamos 5b; Radak, *Sefer HaShorashim* s.v. משע; Rabbi Avraham Vilner, *Tirgem Avraham*; Rabbi Yaakov Tzvi Mecklenburg.
+Cited in the essay: Bereishis 27:11 with the Targumim, and 27:16; Vayikra 14:42 with Targum Onkelos, and 19:19; Devarim 22:11; Yeshayahu 6:10, 32:3; Yechezkel 16:4 with Radak, Rashi and Menachem Ibn Saruk; Mishnah *Kilayim* 9:8 with the Rambam's commentary; Rashi and Tosafos to Yevamos 5b; Radak, *Sefer HaShorashim* s.v. משע; Rabbi Avraham Vilner, *Tirgem Avraham*; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Vayikra 19:19, Devarim 32:9.

@@ -158,4 +158,4 @@ Rabbi Reuven Chaim Klein, "[The Mountain of Many Names](https://groups.google.co
 
 Rabbi Reuven Chaim Klein, "[More Cheese Please](https://articles.ohr.edu/articles/more-cheese-please)," *What's in a Word?*, Ohr Somayach, 4 June 2022.
 
-Cited in the essay: Tehillim 68:16-17; Shemos 21 onward, 33:6; Vayikra 21:20; the Midrash; the Zohar; Rabbi Yehudah HaLevi, *Yom Shabbaton*; Rabbi Berachiah Baruch Shapiro; Rabbi Naftali Katz; Rabbi Shlomo Pappenheim; Alexander Kohut, *Aruch HaShalem*.
+Cited in the essay: Tehillim 68:16-17; Shemos 21 onward, 33:6; Vayikra 21:20; the Midrash; the Zohar; Rabbi Yehudah HaLevi, *Yom Shabbaton*; Rabbi Berachiah Baruch Shapiro; Rabbi Naftali Katz; Rabbi Shlomo Pappenheim, *Yerios Shlomo*, *Cheshek Shlomo* s.v. גב, and *Cheshek Shlomo* s.v. שף) יריעות שלמה עמ' 347 (מהדו"ח; Alexander Kohut, *Aruch HaShalem*.

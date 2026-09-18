@@ -109,4 +109,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Why? Which 'Why'?](https://articles.ohr.edu/articles/why-which-why)" *What's in a Word?*, Ohr Somayach, 10 December 2016.
 
-Cited in the essay: Ibn Parchon; Radak; Rabbeinu Yonah Ibn Janach, *Sefer Rikmah* (cited also by Radak); Ibn Ezra to Shemos 18:14; Ramban to Bereishis 30:20; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Shemos 5:4; the Malbim; Rabbi Shlomo Aharon Wertheimer.
+Cited in the essay: Ibn Parchon; Radak, *Sefer HaShorashim* s.v. מדע; Rabbeinu Yonah Ibn Janach, *Sefer Rikmah* (cited also by Radak); Ibn Ezra to Shemos 18:14; Ramban to Bereishis 30:20; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Shemos 5:4; the Malbim, *Sefer HaCarmel* (ח"ב ערך מדוע\למה); Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* (מדוע\למה).

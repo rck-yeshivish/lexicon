@@ -158,4 +158,4 @@ Rabbi Reuven Chaim Klein, "[Return to Sender: The True Meaning of Teshuva](https
 
 Rabbi Reuven Chaim Klein, "[The Year of Seven (Part 2 of 2)](https://articles.ohr.edu/articles/the-year-of-seven-part-2-of-2)," *What's in a Word?*, Ohr Somayach, 21 May 2022.
 
-Cited in the essay: Bereishis 24:5; Vayikra 5:23, 11:2; Devarim 22:1, 30:2; Yechezkel 18:21-27, 33:18-19; Hoshea 14:2; Berachos 29a; Rabbi Shlomo Pappenheim; Rabbi Eliyahu HaBachur (Elias Levita); Rabbi Menachem Ricanati to Vayikra 11:2; Rabbeinu Bachaya; Rabbi David Ibn Zimra; Rabbi Yosef Ibn Kaspi; Rabbi Yaakov Tzvi Mecklenburg.
+Cited in the essay: Bereishis 24:5; Vayikra 5:23, 11:2; Devarim 22:1, 30:2; Yechezkel 18:21-27, 33:18-19; Hoshea 14:2; Berachos 29a; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. שב; Rabbi Eliyahu HaBachur (Elias Levita); Rabbi Menachem Ricanati to Vayikra 11:2; Rabbeinu Bachaya; Rabbi David Ibn Zimra; Rabbi Yosef Ibn Kaspi; Rabbi Yaakov Tzvi Mecklenburg.

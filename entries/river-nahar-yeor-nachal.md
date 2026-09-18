@@ -143,4 +143,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Down by the River](https://articles.ohr.edu/articles/down-by-the-river)," *What's in a Word?*, Ohr Somayach, 5 January 2019.
 
-Cited in the essay: Bereishis 2:11; Shemos 7:19 with Rashi; Yeshayahu 19:5 and Yirmiyahu 46:7 with Malbim; Koheles 1:7; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* and *Yerios Shlomo*; Rabbi Shlomo Aharon Wertheimer; Rabbi Malkiel Tzvi Tannenbaum of Lomzha, *Divrei Malkiel*.
+Cited in the essay: Bereishis 2:11; Shemos 7:19 with Rashi; Yeshayahu 19:5 and Yirmiyahu 46:7 with Malbim; Koheles 1:7; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* and *Yerios Shlomo*; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. ים\נהר\נחל; Rabbi Malkiel Tzvi Tannenbaum of Lomzha, *Divrei Malkiel*.

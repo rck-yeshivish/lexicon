@@ -145,4 +145,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Prophets and Visionaries](https://articles.ohr.edu/articles/prophets-and-visionaries)," *What's in a Word?*, Ohr Somayach, 29 December 2018.
 
-Cited in the essay: Shemos 7:1 with Rashi, Ibn Ezra, Targum Onkelos and Rasag; Bereishis 15:1, 20:7 with Rashbam and Rav Hirsch; Bamidbar 24:4, 24:16; Shmuel I 9 and 9:9 with Radak; Yeshayahu 1:1, 57:19; Mishlei 22:12; Nechemiah 6:7 with Rashi; *Avos d'Rabbi Nasan* ch. 34; Rabbi Yonah Ibn Janach and Radak, *Sefer HaShorashim*; the Vilna Gaon to Mishlei 22:12 and Yeshayahu 1:1; Malbim; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus.
+Cited in the essay: Shemos 7:1 with Rashi, Ibn Ezra, Targum Onkelos and Rasag; Bereishis 15:1, 20:7 with Rashbam and Rav Hirsch; Bamidbar 24:4, 24:16; Shmuel I 9 and 9:9 with Radak; Yeshayahu 1:1, 57:19; Mishlei 22:12; Nechemiah 6:7 with Rashi; *Avos d'Rabbi Nasan* ch. 34; Rabbi Yonah Ibn Janach and Radak, *Sefer HaShorashim*; the Vilna Gaon to Mishlei 22:12 and Yeshayahu 1:1; Malbim; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus, *Keses HaSofer* (מארקוס, עמ' שצח).

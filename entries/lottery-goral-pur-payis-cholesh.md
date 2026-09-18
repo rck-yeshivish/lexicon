@@ -180,4 +180,4 @@ Rabbi Reuven Chaim Klein, "[Playing the Lottery](https://articles.ohr.edu/articl
 
 Rabbi Reuven Chaim Klein, "[Shelach: Learning the Ropes](https://articles.ohr.edu/articles/shelach-learning-the-ropes)," *What's in a Word?*, Ohr Somayach, 10 June 2023.
 
-Cited in the essay: Esther 3:7 and 9:26; Vayikra 16:8; Bamidbar 26:55; Shemos 12:2, 16:15, 17:13; Yeshayahu 14:12, 24:19; Hoshea 13:13; *Yoma* 2:2-4, 22a, 39a; *Shabbos* 23:2 and 149b; *Yalkut Shimoni*, Shemos §265; *Pesikta d'Rav Kahana* §3:1; Rabbi Shlomo Pappenheim; *Tosafos Yom Tov*.
+Cited in the essay: Esther 3:7 and 9:26; Vayikra 16:8; Bamidbar 26:55; Shemos 12:2, 16:15, 17:13; Yeshayahu 14:12, 24:19; Hoshea 13:13; *Yoma* 2:2-4, 22a, 39a; *Shabbos* 23:2 and 149b; *Yalkut Shimoni*, Shemos §265; *Pesikta d'Rav Kahana* §3:1; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. פר; *Tosafos Yom Tov*.

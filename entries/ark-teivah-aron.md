@@ -104,4 +104,4 @@ Rabbi Reuven Chaim Klein, "[A Tale of Two Arks](https://articles.ohr.edu/article
 
 Rabbi Reuven Chaim Klein, "[Words for Words](https://articles.ohr.edu/articles/words-for-words)," *What's in a Word?*, Ohr Somayach, 23 October 2021.
 
-Cited in the essay: Bereishis 6 to 9 and 50:26; Shemos 2:3; Mishnah Taanis 2:1; Mishnah Megillah 3:1; Yerushalmi Shekalim 6:1; Rabbi Aharon Marcus; Ibn Janach and Radak, *Sefer HaShorashim*; Rav Hirsch to Bereishis 6:14.
+Cited in the essay: Bereishis 6 to 9 and 50:26; Shemos 2:3; Mishnah Taanis 2:1; Mishnah Megillah 3:1; Yerushalmi Shekalim 6:1; Rabbi Aharon Marcus, *Keses HaSofer*; Ibn Janach and Radak, *Sefer HaShorashim*; Rav Hirsch to Bereishis 6:14.

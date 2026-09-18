@@ -168,4 +168,4 @@ Rabbi Reuven Chaim Klein, "[Ten Expressions of Praise](https://articles.ohr.edu/
 
 Rabbi Reuven Chaim Klein, "[The Beauty of Adar](https://articles.ohr.edu/articles/the-beauty-of-adar)," *What's in a Word?*, Ohr Somayach, 17 February 2018.
 
-Cited in the essay: the close of Pesukei DeZimrah on Shabbos and Yom Tov, the Haggadah, and the concluding berachah of Hallel; the Arizal (Nusach Sefard); the Maharal of Prague (Nusach Ashkenaz); Abudraham; Rabbi Chaim Volozhiner, *Nefesh HaChaim* Shaar 2; Rabbi Shimshon Pincus; Rabbi Shlomo Aharon Wertheimer; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg; Franz Boas.
+Cited in the essay: the close of Pesukei DeZimrah on Shabbos and Yom Tov, the Haggadah, and the concluding berachah of Hallel; the Arizal (Nusach Sefard); the Maharal of Prague (Nusach Ashkenaz); Abudraham; Rabbi Chaim Volozhiner, *Nefesh HaChaim* Shaar 2; Rabbi Shimshon Pincus; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. שבח\הדאה\קלס\הלל; Rabbi Shlomo Pappenheim, *Yerios Shlomo* (ח"ב חוברת ד' יריעה ג'); Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Vayikra 19:32; Franz Boas.

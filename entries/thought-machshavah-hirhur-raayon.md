@@ -130,4 +130,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[A Word for a Thought](https://articles.ohr.edu/articles/a-word-for-a-thought)," *What's in a Word?*, Ohr Somayach, 7 January 2017.
 
-Cited in the essay: the Vilna Gaon, commentary to *Sefer Yetzirah*; Rabbi Pinchas HaLevi Horowitz; Rashi to Berachos 55b and Daniel 2:29-30; Ramban to Bamidbar 2:14; Rabbi Meir HaLevi Abulafia, *Yad Ramah* to Sanhedrin 38b; Rabbi Shlomo Aharon Wertheimer.
+Cited in the essay: the Vilna Gaon, commentary to *Sefer Yetzirah*; Rabbi Pinchas HaLevi Horowitz; Rashi to Berachos 55b and Daniel 2:29-30; Ramban to Bamidbar 2:14; Rabbi Meir HaLevi Abulafia, *Yad Ramah* to Sanhedrin 38b; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. חשב\רעה.

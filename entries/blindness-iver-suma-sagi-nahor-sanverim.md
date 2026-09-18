@@ -156,4 +156,4 @@ Rabbi Reuven Chaim Klein, "[The Man with Enough Light](https://articles.ohr.edu/
 
 Rabbi Reuven Chaim Klein, "[Wake-up Time](https://articles.ohr.edu/articles/wake-up-time)," *What's in a Word?*, Ohr Somayach, 4 December 2021.
 
-Cited in the essay: Bereishis 19:11 with Rashbam and Malbim; Vayikra 19:14; Bamidbar 24:4 with *Kli Yakar*; Devarim 3:9 with Rashi, 16:19; Melachim II 6:18; Bava Basra 16a; Avodah Zarah 20b; Zohar; Dr. Fred Rosner, *Medicine in the Bible and the Talmud*; *Shoresh Yesha*.
+Cited in the essay: Bereishis 19:11 with Rashbam and Malbim, *Sefer HaCarmel* s.v. יקץ and עור; Vayikra 19:14; Bamidbar 24:4 with *Kli Yakar*; Devarim 3:9 with Rashi, 16:19; Melachim II 6:18; Bava Basra 16a; Avodah Zarah 20b; Zohar; Dr. Fred Rosner, *Medicine in the Bible and the Talmud*; *Shoresh Yesha*.

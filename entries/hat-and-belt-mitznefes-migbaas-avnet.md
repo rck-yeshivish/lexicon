@@ -150,4 +150,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Hats and Belts](https://articles.ohr.edu/articles/hats-and-belts)," *What's in a Word?*, Ohr Somayach, 25 March 2017.
 
-Cited in the essay: Mishnah Yoma 7:5; Yoma 71b with *Tosafos HaRosh*; Shemos 28:4, 28:40; Shmuel I 17:5, Yeshayahu 59:17, Yirmiyahu 46:4, Yechezkel 27:10 and 38:5, Divrei HaYamim II 26:14 for *kova*; the Meiri, the Vilna Gaon, Abarbanel, Rambam, Rashi, Ramban and Malbim; Josephus on the shape of the priestly cap.
+Cited in the essay: Mishnah Yoma 7:5; Yoma 71b with *Tosafos HaRosh*; Shemos 28:4, 28:40; Shmuel I 17:5, Yeshayahu 59:17, Yirmiyahu 46:4, Yechezkel 27:10 and 38:5, Divrei HaYamim II 26:14 for *kova*; the Meiri, the Vilna Gaon, Abarbanel, Rambam, Rashi, Ramban and Malbim, *Sefer HaCarmel*; Josephus on the shape of the priestly cap.

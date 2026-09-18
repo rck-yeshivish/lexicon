@@ -157,4 +157,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Like a Rock (Part 2)](https://articles.ohr.edu/articles/like-a-rock-part-2)," *What's in a Word?*, Ohr Somayach, 24 November 2018.
 
-Cited in the essay: Shemos 4:25, 39:11; Devarim 8:15, 32:4, 32:13, 32:18, 32:30; Yehoshua 5:2-3; Shmuel I 2:2 with *Berachos* 10a; Yeshayahu 26:4, 50:7, 51:1-2; Tehillim 114:8; Iyov 28:9; Rambam, *Moreh Nevuchim* 1:16; Rabbi Yosef Kimchi, *Sefer HaGalui*; Rabbi Shlomo Pappenheim; Malbim; Rabbi Chaim Vital; Rabbi Yisrael Menachem Mendel Sacharov; Rabbi Moshe Teitelbaum; Rabbi Chaim Friedlander; Mohs' Scale of Mineral Hardness.
+Cited in the essay: Shemos 4:25, 39:11; Devarim 8:15, 32:4, 32:13, 32:18, 32:30; Yehoshua 5:2-3; Shmuel I 2:2 with *Berachos* 10a; Yeshayahu 26:4, 50:7, 51:1-2; Tehillim 114:8; Iyov 28:9; Rambam, *Moreh Nevuchim* 1:16; Rabbi Yosef Kimchi, *Sefer HaGalui*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* (חוברת י"א, יריעה נ'); Malbim, *Sefer HaCarmel* s.v. אבן; Rabbi Chaim Vital; Rabbi Yisrael Menachem Mendel Sacharov; Rabbi Moshe Teitelbaum; Rabbi Chaim Friedlander; Mohs' Scale of Mineral Hardness.

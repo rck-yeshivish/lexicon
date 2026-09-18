@@ -58,7 +58,7 @@ chronological sequence.
 **Why bushah always precedes klimah in a pasuk.** Three readings.
 
 1. **Intensity.** Radak (to Yeshayahu 45:16 and *Sefer HaShorashim*), Rabbeinu
-   Yonah (*Shaarei Teshuvah*), and Rabbi Avraham Bedersi (*Chotam Tochnit*):
+   Yonah (*Shaarei Teshuvah*), and Rabbi Avraham Bedersi (*Chosam Tochnis*):
    the milder word comes first, so *bushah* is the lighter shame. Bedersi makes
    this his general approach to Hebrew synonyms, holding that in general, when
    several synonyms for one concept appear in tandem, Tanach sets them in
@@ -104,7 +104,7 @@ Root ב-ו-ש. The hypernym.
   hypernym covering shame for a positive thing (a humble man shamed at being
   praised for a good deed) as well as for a negative one, while *klimah* is a
   hyponym confined to the negative reason.
-- Rabbi Avraham Bedersi (*Chotam Tochnit*): *bushah* is the shame of an
+- Rabbi Avraham Bedersi (*Chosam Tochnis*): *bushah* is the shame of an
   expectation that failed, whether of something happening or of one's own
   ability to do something; *chafrah* he makes its inverse, shame at something
   happening that was not supposed to happen.
@@ -208,4 +208,4 @@ Rabbi Reuven Chaim Klein, "[Digging Deeper](https://articles.ohr.edu/articles/di
 
 Rabbi Reuven Chaim Klein, "[Spy versus Spy](https://articles.ohr.edu/articles/spy-versus-spy)," *What's in a Word?*, Ohr Somayach, 17 June 2017.
 
-Cited in the essay: Vayikra 13:59 with Rav Hirsch, and 19:20; Devarim 1:22; Yeshayahu 45:16 with Radak; Yirmiyahu 2:26; Tzefaniah 2:1 with Rabbi Yosef Kimchi; Tehillim 139:16 with Rav Hirsch; *Bava Metzia* 58b; Radak, *Sefer HaShorashim* s.v. כלם; Rabbeinu Yonah, *Shaarei Teshuvah*, shaar 1, the sixth *ikar*; Rabbi Avraham Bedersi, *Chotam Tochnit*, p. 78 onwards; Isaac Satanow, his notes to *HaShorashim* called *Sefas Emes*, s.v. כלם; Rabbi Yehuda Leib Shapira-Frankfurter, *HaRechasim LeVik'ah* to Bereishis 2:25; Malbim, *Sefer HaCarmel* s.v. בושה/כלימה, כלם and חפר, and *Yair Ohr*, os 2 siman 9 and os 8 siman 37; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. בושה/כלימה/חרפה/חפר; Rabbi David Chaim Chelouche, *Ohr Chadash* to Vayikra 19:20 and his *luach hashorashim* s.v. חרפה; Rabbi Yehuda Leib Edel, *Redifei Maya* s.v. בוש; Rabbi David Golumb; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Bereishis 26:25, Bamidbar 13:16 and Devarim 1:22; Targum; Rabbi Eliyahu HaBachur, *Meturgeman* s.v. בהת and כסף; the Maggid of Kozhnitz; Maharal, *Netivos Olam*, *Nesiv HaOsher*, ch. 2.
+Cited in the essay: Vayikra 13:59 with Rav Hirsch, and 19:20; Devarim 1:22; Yeshayahu 45:16 with Radak; Yirmiyahu 2:26; Tzefaniah 2:1 with Rabbi Yosef Kimchi; Tehillim 139:16 with Rav Hirsch; *Bava Metzia* 58b; Radak, *Sefer HaShorashim* s.v. כלם; Rabbeinu Yonah, *Shaarei Teshuvah*, shaar 1, the sixth *ikar*; Rabbi Avraham Bedersi, *Chosam Tochnis*, p. 78 onwards; Isaac Satanow, his notes to *HaShorashim* called *Sefas Emes*, s.v. כלם; Rabbi Yehuda Leib Shapira-Frankfurter, *HaRechasim LeVik'ah* to Bereishis 2:25; Malbim, *Sefer HaCarmel* s.v. בושה/כלימה, כלם and חפר, and *Yair Ohr*, os 2 siman 9 and os 8 siman 37; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. בושה/כלימה/חרפה/חפר; Rabbi David Chaim Chelouche, *Ohr Chadash* to Vayikra 19:20 and his *luach hashorashim* s.v. חרפה; Rabbi Yehuda Leib Edel, *Redifei Maya* s.v. בוש; Rabbi David Golumb; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Bereishis 26:25, Bamidbar 13:16 and Devarim 1:22; Targum; Rabbi Eliyahu HaBachur, *Meturgeman* s.v. בהת and כסף; the Maggid of Kozhnitz; Maharal, *Netivos Olam*, *Nesiv HaOsher*, ch. 2.

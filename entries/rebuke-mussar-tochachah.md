@@ -123,4 +123,4 @@ Rabbi Reuven Chaim Klein, "[Burke and Rebuke](https://articles.ohr.edu/articles/
 
 Rabbi Reuven Chaim Klein, "[All Tied Up](https://articles.ohr.edu/articles/all-tied-up)," *What's in a Word?*, Ohr Somayach, 3 June 2023.
 
-Cited in the essay: Vayikra 19:17, 26:14-43; Devarim 28:15-68; the Vilna Gaon; Malbim; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg; Edmund Burke; Jonathan Edwards, *Sinners in the Hands of an Angry God*.
+Cited in the essay: Vayikra 19:17, 26:14-43; Devarim 28:15-68; the Vilna Gaon; Malbim; Rabbi Shlomo Pappenheim, *Yerios Shlomo* (צוריאל עמ' 288/291, 412/412). ביאור הגר"א (משלי ה:יב, ט:ז, טו:י, איוב ה:יז, ביאורי אגדות רבב"ח בב"ב מאמר באו חשבון, וע"ע באבן שלמה פרק ד' אות ט"ו); Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Devarim 16:9; Edmund Burke; Jonathan Edwards, *Sinners in the Hands of an Angry God*.

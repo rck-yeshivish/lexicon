@@ -127,4 +127,4 @@ Rabbi Reuven Chaim Klein, "[Clarifying a Collection of Curses](https://articles.
 
 Rabbi Reuven Chaim Klein, "[Shavuos: Getting Dirty](https://articles.ohr.edu/articles/shavuos-getting-dirty)," *What's in a Word?*, Ohr Somayach, 8 June 2024.
 
-Cited in the essay: Shemos 22:27; Bereishis 12:3; Devarim 28:20 (*me'erah*); Bamidbar 1:17; the Vilna Gaon; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Malbim; Radak; Rav Hirsch to Tehillim 14:3.
+Cited in the essay: Shemos 22:27; Bereishis 12:3; Devarim 28:20 (*me'erah*); Bamidbar 1:17; the Vilna Gaon, *Aderes Eliyahu* to Shemos 22:27; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Malbim, *Sefer HaCarmel* (ח"א ערך ארה לי\קבה לי); Radak; Rav Hirsch to Tehillim 14:3.

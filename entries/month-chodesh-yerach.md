@@ -122,4 +122,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Old Month versus New Month](https://articles.ohr.edu/articles/old-month-versus-new-month)," *What's in a Word?*, Ohr Somayach, 17 March 2018.
 
-Cited in the essay: Bamidbar 28:14; Shmuel I 20:18; Yeshayahu 1:13; Devarim 24:5, 33:14; Malbim and Rav Hirsch on *chodesh* and *yerach*; Rabbi Aharon Marcus; *Levush* on the wording of a *get* and a *kesubah*.
+Cited in the essay: Bamidbar 28:14; Shmuel I 20:18; Yeshayahu 1:13; Devarim 24:5, 33:14; Malbim and Rav Hirsch on *chodesh* and *yerach*; Rabbi Aharon Marcus, *Barzilai* (עמ' 130); *Levush* on the wording of a *get* and a *kesubah*.

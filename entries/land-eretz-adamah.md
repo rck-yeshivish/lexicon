@@ -138,4 +138,4 @@ Rabbi Reuven Chaim Klein, "[The Land Down Under](https://articles.ohr.edu/articl
 
 Rabbi Reuven Chaim Klein, "[Seasoning the Land](https://articles.ohr.edu/articles/seasoning-the-land)," *What's in a Word?*, Ohr Somayach, 28 August 2021.
 
-Cited in the essay: Bamidbar 16:30-34, 26:10; Devarim 11:6; Tehillim 104:14; Bereishis 3:17; Rashi to Bereishis 6:13; Yerushalmi Taanis 1:3; Shabbos 30b; the berachos of *hamotzi lechem min ha'aretz* and *borei pri ha'adamah*; Bereishis Rabbah 5:8; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg.
+Cited in the essay: Bamidbar 16:30-34, 26:10; Devarim 11:6; Tehillim 104:14; Bereishis 3:17; Rashi to Bereishis 6:13; Yerushalmi Taanis 1:3; Shabbos 30b; the berachos of *hamotzi lechem min ha'aretz* and *borei pri ha'adamah*; Bereishis Rabbah 5:8; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. דם and רץ; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Devarim 12:1.

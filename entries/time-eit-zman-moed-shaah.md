@@ -154,4 +154,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Elul 1: Trends in Time](https://articles.ohr.edu/articles/elul-1-trends-in-time)," *What's in a Word?*, Ohr Somayach, 2 September 2017.
 
-Cited in the essay: Rabbi Moshe Shapiro; Rabbi Shlomo Pappenheim, with Vayikra 16:21 (*ish itti*); Rabbi Eliyahu HaBachur; Maharal, *Netzach Yisrael* 26; Malbim; the Targumim; Rabbi Shlomo Aharon Wertheimer; Rav Hirsch; the Rama (Rabbi Moshe Isserles) on *bechol eit u'vechol shaah* in Birkas HaMazon and Shemoneh Esrei; Rabbi Yaakov Emden.
+Cited in the essay: Rabbi Moshe Shapiro; Rabbi Shlomo Pappenheim, with Vayikra 16:21 (*ish itti*); Rabbi Eliyahu HaBachur; Maharal, *Netzach Yisrael* 26; Malbim, *Sefer HaCarmel* s.v. עת\זמן and מועד; the Targumim; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. זמן\עת\כסא, זמן\עת, מועד\עד\זמן; Rav Hirsch; the Rama (Rabbi Moshe Isserles) on *bechol eit u'vechol shaah* in Birkas HaMazon and Shemoneh Esrei; Rabbi Yaakov Emden.

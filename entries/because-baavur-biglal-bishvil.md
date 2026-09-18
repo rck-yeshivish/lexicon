@@ -109,4 +109,4 @@ Rabbi Reuven Chaim Klein, "[Just Because](https://articles.ohr.edu/articles/just
 
 Rabbi Reuven Chaim Klein, "[On the Straight and Narrow](https://articles.ohr.edu/articles/on-the-straight-and-narrow)," *What's in a Word?*, Ohr Somayach, 1 September 2018.
 
-Cited in the essay: Shemos 9:16; Mishnah Bava Metzia 5:10; Pirkei d'Rabbi Eliezer, chapters 42 and 43; Rabbi Wolf Heidenheim, Rabbi Yaakov Tzvi Mecklenburg and Malbim; Rabbi Shlomo Pappenheim.
+Cited in the essay: Shemos 9:16; Mishnah Bava Metzia 5:10; Pirkei d'Rabbi Eliezer, chapters 42 and 43; Rabbi Wolf Heidenheim, Rabbi Yaakov Tzvi Mecklenburg and Malbim; Rabbi Shlomo Pappenheim, *Yerios Shlomo* (עמ' 202 ולהלן).

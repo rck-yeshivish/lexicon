@@ -152,4 +152,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Seeking Salvation](https://articles.ohr.edu/articles/seeking-salvation)," *What's in a Word?*, Ohr Somayach, 27 November 2021.
 
-Cited in the essay: *Al HaNissim*; Shemos 2:17, and 3:22 and 14:13 with Rav Hirsch; Devarim 22:27, and 32:2 with Rav Hirsch; Yirmiyahu 15:20 with Malbim; Eichah 5:8; Tehillim 136:24; Bava Kamma 80a with Rashi, Tosafos and *Sefer HeAruch*; *Shemos Rabbah* 1:32; Radak and Ibn Janach on נ-צ-ל; Rabbi Shlomo Pappenheim; *Peirush HaRokeach*; Rabbi Yechiel Michel Heilpern; Rabbi Chanoch Zundel of Bialystok; Rabbi Yitzchak Eliyahu Landau of Dubno.
+Cited in the essay: *Al HaNissim*; Shemos 2:17, and 3:22 and 14:13 with Rav Hirsch; Devarim 22:27, and 32:2 with Rav Hirsch; Yirmiyahu 15:20 with Malbim, *Yair Ohr* (מערכת י אות טו); Eichah 5:8; Tehillim 136:24; Bava Kamma 80a with Rashi, Tosafos and *Sefer HeAruch*; *Shemos Rabbah* 1:32; Radak and Ibn Janach on נ-צ-ל; Rabbi Shlomo Pappenheim; *Peirush HaRokeach*; Rabbi Yechiel Michel Heilpern; Rabbi Chanoch Zundel of Bialystok; Rabbi Yitzchak Eliyahu Landau of Dubno.

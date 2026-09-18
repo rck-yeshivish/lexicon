@@ -135,4 +135,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Straying from the Path](https://articles.ohr.edu/articles/straying-from-the-path)," *What's in a Word?*, Ohr Somayach, 8 September 2018.
 
-Cited in the essay: Vayikra 21:7; Bamidbar 25:1; Devarim 31:16; Kesubos 59b; Yevamos 16b; Succah 32b; Sotah 3a; Rabbi Shlomo Pappenheim; Rabbi Moshe Shapiro; Rabbi Aharon Marcus.
+Cited in the essay: Vayikra 21:7; Bamidbar 25:1; Devarim 31:16; Kesubos 59b; Yevamos 16b; Succah 32b; Sotah 3a; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. זן; Rabbi Moshe Shapiro; Rabbi Aharon Marcus.

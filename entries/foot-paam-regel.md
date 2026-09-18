@@ -117,4 +117,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Foot Festivals](https://articles.ohr.edu/articles/foot-festivals)," *What's in a Word?*, Ohr Somayach, 30 June 2018.
 
-Cited in the essay: Bamidbar 22:25, 22:28, 22:32; Shemos 23:14, 25:12; Yeshayahu 26:6, 42:14; Bereishis 41:8; Yechezkel 1:7; Shir HaShirim 7:2; Targum Onkelos, Rashi, Ibn Ezra, and Ramban to Shemos 25:12; Malbim; Rabbi Shlomo Pappenheim; Rabbi Shmuel Dovid Walkin.
+Cited in the essay: Bamidbar 22:25, 22:28, 22:32; Shemos 23:14, 25:12; Yeshayahu 26:6, 42:14; Bereishis 41:8; Yechezkel 1:7; Shir HaShirim 7:2; Targum Onkelos, Rashi, Ibn Ezra, and Ramban to Shemos 25:12; Malbim, *Sefer HaCarmel* (ח"ב ערך פעם); Rabbi Shlomo Pappenheim, *Yerios Shlomo* (ו:ב); Rabbi Shmuel Dovid Walkin.

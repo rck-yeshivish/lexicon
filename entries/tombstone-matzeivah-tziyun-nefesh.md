@@ -152,4 +152,4 @@ Rabbi Reuven Chaim Klein, "[On the Tombstone](https://articles.ohr.edu/articles/
 
 Rabbi Reuven Chaim Klein, "[Parshas Bo: Please Stand Up](https://articles.ohr.edu/articles/parshas-bo-please-stand-up)," *What's in a Word?*, Ohr Somayach, 28 January 2023.
 
-Cited in the essay: Bereishis 23:8 (Rashi) and 35:20; Shemos 31:17; Vayikra 21:1 to 4; Melachim II 23:17; Yechezkel 39:15; Tehillim 95:7; Shekalim 2:5; Ohalos 7:1; Moed Katan 28a; Sanhedrin 98a; Rabbi Yechiel Michel Tukachinsky, *Gesher HaChaim*; Rabbi Shlomo Zalman Ehrenreich; Rabbi Moshe Shick; Rabbi Asher Pollak; Rabbi Eliyahu Katz; Rabbi Shlomo Aharon Wertheimer.
+Cited in the essay: Bereishis 23:8 (Rashi) and 35:20; Shemos 31:17; Vayikra 21:1 to 4; Melachim II 23:17; Yechezkel 39:15; Tehillim 95:7; Shekalim 2:5; Ohalos 7:1; Moed Katan 28a; Sanhedrin 98a; Rabbi Yechiel Michel Tukachinsky, *Gesher HaChaim*; Rabbi Shlomo Zalman Ehrenreich; Rabbi Moshe Shick; Rabbi Asher Pollak; Rabbi Eliyahu Katz; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. יצב, עמד and קם.

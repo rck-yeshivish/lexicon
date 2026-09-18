@@ -151,4 +151,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Sweet and Pleasant](https://articles.ohr.edu/articles/sweet-and-pleasant)," *What's in a Word?*, Ohr Somayach, 27 January 2018.
 
-Cited in the essay: Shemos 15:25; Mishlei 20:17; Shir HaShirim 2:14; Berachos 43a (*borei shemen areiv*); the *ve'haarev na* berachah of Birchos HaTorah and the *ve'se'erav lefanecha* passage before Birkas Kohanim in the Yom Tov Mussaf; the Vilna Gaon; Rabbi Shlomo Pappenheim.
+Cited in the essay: Shemos 15:25; Mishlei 20:17; Shir HaShirim 2:14; Berachos 43a (*borei shemen areiv*); the *ve'haarev na* berachah of Birchos HaTorah and the *ve'se'erav lefanecha* passage before Birkas Kohanim in the Yom Tov Mussaf; the Vilna Gaon; Rabbi Shlomo Pappenheim, *Yerios Shlomo* (חוברת ז יריעה ט).

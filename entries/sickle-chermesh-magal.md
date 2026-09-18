@@ -158,4 +158,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Pesach: The Sickle and the Exile](https://articles.ohr.edu/articles/pesach-the-sickle-and-the-exile)," *What's in a Word?*, Ohr Somayach, 27 March 2021.
 
-Cited in the essay: Bereishis 25:6 with Rav Hirsch; Devarim 16:9 with Rabbi Chaim Vital, and 23:26 with the *Sifrei*; Yirmiyahu 50:16; Yoel 4:13; Mishnah Peah 4:4 and Sheviis 4:6, 5:6 with the Rambam's commentary, Menachos 10:3, Keilim 13:1, 15:4; Tosefta Bava Metzia 2:14; the Targumim; Radak, *Sefer HaShorashim*; Rabbi David Chaim Chelouche; Rabbi Moshe David Valle; Rabbi Shlomo Pappenheim; Dr. Shmuel Yeivin; Dr. Shlomo Mandelkorn, *Heichal HaKodesh*.
+Cited in the essay: Bereishis 25:6 with Rav Hirsch; Devarim 16:9 with Rabbi Chaim Vital, and 23:26 with the *Sifrei*; Yirmiyahu 50:16; Yoel 4:13; Mishnah Peah 4:4 and Sheviis 4:6, 5:6 with the Rambam's commentary, Menachos 10:3, Keilim 13:1, 15:4; Tosefta Bava Metzia 2:14; the Targumim; Radak, *Sefer HaShorashim*; Rabbi David Chaim Chelouche, *Ohr Chadash* to Devarim 16:9; Rabbi Moshe David Valle; Rabbi Shlomo Pappenheim; Dr. Shmuel Yeivin; Dr. Shlomo Mandelkorn, *Heichal HaKodesh*.

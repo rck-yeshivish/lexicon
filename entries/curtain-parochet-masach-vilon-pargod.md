@@ -150,4 +150,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Raise the Curtain](https://articles.ohr.edu/articles/raise-the-curtain)," *What's in a Word?*, Ohr Somayach, 2 March 2019.
 
-Cited in the essay: Shemos 1:13, 26:31, 26:31-33, 26:36, 35:12; Shmuel II 17:19; Tehillim 105:39; *Keilim* 20:6, 24:13, 27:9, 29:1; *Negaim* 11:11; *Chagigah* 12b and 15a; *Bava Metzia* 59a; *Berachos* 18b; Rashi to Shemos 26:31, 26:36 and 35:12; *Sefer HeAruch* s.v. *pargod*; Rav Hai Gaon to *Keilim* 29:1; *Shoresh Yesha*; Rabbi Shlomo Pappenheim; Rabbi Ernest Klein.
+Cited in the essay: Shemos 1:13, 26:31, 26:31-33, 26:36, 35:12; Shmuel II 17:19; Tehillim 105:39; *Keilim* 20:6, 24:13, 27:9, 29:1; *Negaim* 11:11; *Chagigah* 12b and 15a; *Bava Metzia* 59a; *Berachos* 18b; Rashi to Shemos 26:31, 26:36 and 35:12; *Sefer HeAruch* s.v. *pargod*; Rav Hai Gaon to *Keilim* 29:1; *Shoresh Yesha*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* (עמ' 630, 842-843), and *Cheshek Shlomo* s.v. סך; Rabbi Ernest Klein.

@@ -129,4 +129,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Words of Redemption](https://articles.ohr.edu/articles/words-of-redemption)," *What's in a Word?*, Ohr Somayach, 5 May 2018.
 
-Cited in the essay: Vayikra 25:25-55, 27:9-34; Bamidbar 35:19; Iyov 33:24 with Rashi; Ramban to Devarim 21:14; the Vilna Gaon; Rabbi Chaim Soloveitchik of Brisk; the Chatam Sofer; Rabbi Menachem Mendel Hager of Kosov; Malbim; Rabbi Shmuel Tuvia Stern; Ibn Janach, Menachem Ibn Saruk and Radak.
+Cited in the essay: Vayikra 25:25-55, 27:9-34; Bamidbar 35:19; Iyov 33:24 with Rashi; Ramban to Devarim 21:14; the Vilna Gaon; Rabbi Chaim Soloveitchik of Brisk; the Chatam Sofer; Rabbi Menachem Mendel Hager of Kosov; Malbim, *Sefer HaCarmel* s.v. גאל, פדה, פדע; Rabbi Shmuel Tuvia Stern; Ibn Janach, Menachem Ibn Saruk and Radak.

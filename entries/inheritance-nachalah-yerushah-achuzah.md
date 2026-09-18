@@ -122,4 +122,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[A Heritage of Inheritance](https://articles.ohr.edu/articles/a-heritage-of-inheritance)," *What's in a Word?*, Ohr Somayach, 7 July 2018.
 
-Cited in the essay: Bamidbar 27:1-11; Devarim 21:16, 32:8; Bereishis 15:3; Malbim; Shadal; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg; Rav Hirsch.
+Cited in the essay: Bamidbar 27:1-11; Devarim 21:16, 32:8; Bereishis 15:3; Malbim, *Yair Ohr* s.v. י' אות יג, and *Sefer HaCarmel* s.v. אחזה; Shadal; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Bereishis 21:10; Rav Hirsch.
