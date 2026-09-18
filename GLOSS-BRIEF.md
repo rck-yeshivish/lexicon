@@ -76,11 +76,25 @@ the entry each would complete.
    like passives or reflexives carry his `[הפעיל]` or `[פעל]` immediately before
    the pasuk quoted; and at פטר and בוס transitivity is his own term, `והפעל
    העובר` and `תאר יוצא`. One was wrong, at סכך, where it stood directly above a
-   kal with an object, and that one now reads "of one who covers another". A
-   second was wrong at רבה, where the run marked `הפעל הכבד [הִפְעִיל]` holds
-   מַרְבֵּה רַגְלַיִם, which governs nothing; that one now reads "in the heavy
-   form". The convention stands, but it is a claim about the run and not only
-   about the label: read the pesukim under it before using it.
+   kal with an object, and that one now reads "of one who covers another".
+
+   The seam sweep then broke it four more times, which is five failures in the
+   sixty-odd places it is used, and they are worth listing because they are all
+   one fault. At רבה the run marked `הפעל הכבד [הִפְעִיל]` holds מַרְבֵּה
+   רַגְלַיִם, which governs nothing. At עור he splits his own `[הפעיל]` run
+   himself, three words `פעלים יוצאים` and two `פעלים עומדים`, so the English
+   had to contradict itself two clauses later. At עמד the same run holds
+   וּמֶלֶךְ יִשְׂרָאֵל הָיָה מַעֲמִיד בַּמֶּרְכָּבָה, which governs nothing and
+   which he glosses reflexively, היה מחזיק עצמו ומתחזק. At לון the one word
+   under the heading that governs no object is מָקוֹם לָנוּ לָלִין, and the note
+   that would make it transitive, `כמו להלין`, had been dropped with the label;
+   and a `והנפעל` there was called a passive over a word that is active.
+
+   The convention is a claim about the run and not about the label, so read the
+   pesukim under it before using it. Where his own words settle the case, as at
+   עור and עמד, give his labels and not the convention. Whether the convention
+   should stand at all, at a known failure rate of about one in twelve, is the
+   site owner's call and not a drafter's.
 
 5. **Do not narrate the entry.** "He brings X for reading Y" is about the page;
    what X reads, and why, is about the word. The exception is an entry that
