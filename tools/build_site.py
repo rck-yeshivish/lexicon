@@ -912,13 +912,25 @@ def root_line(e):
     links = " &middot; ".join(
         f'<a href="../roots.html#r-{root_key(r)}" dir="rtl" lang="he">{html.escape(r)}</a>'
         for r in sorted(roots, key=root_sort))
-    blocks = "".join(
-        f'<h4 dir="rtl" lang="he">{html.escape(r)}</h4>'
-        f'<div class="rad-text" dir="rtl" lang="he">{radak_html(r)}</div>'
-        for r in sorted(roots, key=root_sort) if radak(r))
-    more = (f'<details class="radak"><summary>Radak on {"this root" if blocks.count("<h4") == 1 else "these roots"}'
-            f'</summary>{blocks}<p class="radak-credit">{RADAK_CREDIT}</p></details>') if blocks else ""
-    return f'\n<p class="rootline">{links}</p>{more}'
+    return f'\n<p class="rootline">{links}</p>'
+
+
+def radak_section(e):
+    """His entries on the entry's roots, at the foot of the page with the other
+    sources. It is background on where the words come from, not a way in to the
+    cluster, and under the title it stood between the reader and the first thing
+    the entry has to say."""
+    roots = [r for r in sorted(e.get("roots", []), key=root_sort) if radak(r)]
+    if not roots:
+        return ""
+    blocks = "".join(f'<h4 dir="rtl" lang="he">{html.escape(r)}</h4>'
+                     f'<div class="rad-text" dir="rtl" lang="he">{radak_html(r)}</div>'
+                     for r in roots)
+    one = len(roots) == 1
+    return (f'<details class="radak" id="s-radak"><summary>'
+            f'<h2>Radak on {"this root" if one else "these roots"}</h2>'
+            f'<span class="guide-hint">Sefer HaShorashim</span></summary>'
+            f'{blocks}<p class="radak-credit">{RADAK_CREDIT}</p></details>')
 
 
 def entry_page(e):
@@ -1039,6 +1051,10 @@ def entry_page(e):
         body = cites.link(body)
         parts.append(f'<section class="{cls}" id="{i}"><h2>{html.escape(headname)}</h2>{body}</section>')
         toc.append((i, headname, subs))
+    radak_block = radak_section(e)
+    if radak_block:
+        parts.append(radak_block)
+        toc.append(("s-radak", "Radak on the roots", []))
     parts.append("</article>")
     links = []
     for i, name, subs in toc:
@@ -1659,8 +1675,6 @@ p.rad-hw{font-family:var(--ui);direction:ltr;font-size:13px;line-height:1.5;colo
 .rad-body mark,.rad-text mark{background:var(--accent-soft);color:inherit;border-radius:4px;padding:0 3px}
 p.rad-hw bdi{font-family:var(--heb);font-size:17px;color:var(--accent)}
 .radak-credit{color:var(--faint);font-size:13px;margin:22px 0 0;line-height:1.5}
-.radak{margin:0 0 18px}
-.radak summary{cursor:pointer;color:var(--dim);font-size:15px}
 .radak h4{font-family:var(--heb);font-size:19px;margin:14px 0 2px;color:var(--accent)}
 .rad-text{margin:0 0 0 auto}
 @media (max-width:760px){.rows.roots .r{grid-template-columns:90px minmax(0,1fr) auto;row-gap:4px;gap:10px}
@@ -1846,16 +1860,16 @@ li > .ppop{margin-inline-start:-1.4em}
 :not([lang="he"]) > bdi[lang="he"]{font-size:1.08em;line-height:1}
 .disagree{border-left:3px solid var(--line);padding-left:20px}
 .tablewrap{overflow-x:auto;margin:0 0 16px}
-details.guide{margin:28px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
-details.guide>summary{display:flex;align-items:baseline;gap:12px;padding:14px 2px;cursor:pointer;
+details.guide,details.radak{margin:28px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+details.guide>summary,details.radak>summary{display:flex;align-items:baseline;gap:12px;padding:14px 2px;cursor:pointer;
   list-style:none;-webkit-user-select:none;user-select:none}
-details.guide>summary::-webkit-details-marker{display:none}
-details.guide>summary h2{margin:0;display:inline}
-details.guide>summary::before{content:"";flex:0 0 auto;width:7px;height:7px;align-self:center;
+details.guide>summary::-webkit-details-marker,details.radak>summary::-webkit-details-marker{display:none}
+details.guide>summary h2,details.radak>summary h2{margin:0;display:inline}
+details.guide>summary::before,details.radak>summary::before{content:"";flex:0 0 auto;width:7px;height:7px;align-self:center;
   border-right:2px solid var(--faint);border-bottom:2px solid var(--faint);
   transform:rotate(-45deg);transition:transform .15s}
-details.guide[open]>summary::before{transform:rotate(45deg)}
-details.guide>summary:hover h2{color:var(--accent)}
+details.guide[open]>summary::before,details.radak[open]>summary::before{transform:rotate(45deg)}
+details.guide>summary:hover h2,details.radak>summary:hover h2{color:var(--accent)}
 .guide-hint{color:var(--faint);font-size:13px;font-weight:500}
 details.guide[open]>summary{padding-bottom:6px}
 details.guide>:not(summary){padding-bottom:10px}
