@@ -60,15 +60,27 @@ the entry each would complete.
    than reproduce his Hebrew or invent a form of your own.
 4. **Lead with what the word means.** Grammar is named only where he rests
    something on it, and then by what it does, since binyan names are not
-   English.
+   English. עומד is intransitive and יוצא transitive; פועל עבר is a past verb;
+   הכבד and הפעל הכבד are the heavy form. The bare עובר is transitive as well,
+   which the corpus settles three times over: at עמם פועל עובר labels
+   עֲמָמוּהוּ, carrying an object suffix, and at פטר and חלץ הפעל העובר stands
+   in explicit contrast to עומד. The one place it will not bear that reading is
+   דשׁן, where וְדָשֵׁן governs nothing and the contrast he draws is with תאר,
+   an adjective, exactly as at אור he sets פועל עבר against בינוני; either the
+   edition has slipped a vav into עבר or the label is a tense there. That gloss
+   reports the contrast and rests on neither reading, which is what to do when
+   his label and his examples pull apart.
    The standing way of doing that, "where the verb takes an object", was
    checked against his own labels in all 59 places it appears. Thirty-eight sit
    under a heavy form he marks himself, `[הפעיל]` or `[פעל]`; three that looked
    like passives or reflexives carry his `[הפעיל]` or `[פעל]` immediately before
    the pasuk quoted; and at פטר and בוס transitivity is his own term, `והפעל
    העובר` and `תאר יוצא`. One was wrong, at סכך, where it stood directly above a
-   kal with an object, and that one now reads "of one who covers another". The
-   convention stands; check the label before using it.
+   kal with an object, and that one now reads "of one who covers another". A
+   second was wrong at רבה, where the run marked `הפעל הכבד [הִפְעִיל]` holds
+   מַרְבֵּה רַגְלַיִם, which governs nothing; that one now reads "in the heavy
+   form". The convention stands, but it is a claim about the run and not only
+   about the label: read the pesukim under it before using it.
 
 5. **Do not narrate the entry.** "He brings X for reading Y" is about the page;
    what X reads, and why, is about the word. The exception is an entry that
@@ -113,6 +125,28 @@ the entry each would complete.
 - **Naming an authority he does not name.** Rabbi Yonah, Ibn Ezra, the Targum,
   Rav Saadiah Gaon, Rashi, the Mesorah, Chazal and the rest go in only where his
   Hebrew names them.
+- **Giving the lemma a sense he reports in somebody else's name.** At קצה he
+  explains אֶת־הֶעָפָר אֲשֶׁר הִקְצוּ as הסיעו אותו לקצה הבית, they moved the
+  dust to the edge of the house, which is his own reading off קָצֶה, an edge;
+  the peeling sense comes next and is Yonasan's, ויונתן תרגם לשון קלוף. A gloss
+  that renders the lemma "the dust that they scraped off" has taken Yonasan's
+  reading for the plain one, and his explanation then reads as a restatement of
+  Yonasan rather than the alternative to him. Check whose the plain sense is
+  before writing it as the word's.
+- **A verb whose subject is the clause before.** At טטף ואמרו שהם ד' בתים
+  follows רבותינו ז"ל, so the four batim are Chazal's count and not his ruling.
+  ואמרו, ופירשו and the like carry the subject forward; read back to find it.
+- **A Masoretic note inverted.** לית is "unique", never a denial: לית מלא the
+  only one written full, לית חסר the only one defective, לית סגול the only one
+  so pointed, ב' בתרי לישני twice in two senses. At אחז he writes שם איש and
+  then cites והמסורת עליו לית שום בר נש in support of it; his own usage at חמם,
+  לית קמץ וכל שום בר נש כותיה, shows שום בר נש is the category the word is
+  unique within. A gloss that read it as "no man's name at all" had him citing
+  a note against the reading he had just given.
+- **A heading that settles what the part leaves open.** At דשׁן he writes והנה
+  לא תרגם והדשן או תרגם אותו משרית אתורא, an either/or about Yonasan, and the
+  heading had picked the first branch as fact. The heading may not decide what
+  he declines to.
 - **"He" straight after naming somebody else.** Throughout a gloss "he" is
   Radak, but in the sentence after another authority is named it reads as that
   authority. It matters most where he closes by endorsing a view: והוא נכון is
