@@ -61,6 +61,8 @@ NAMED = {
     # render the word at all.
     "Targum Yonasan": ["תרגום יונתן", "תרגם יונתן", "יונתן תרגם", "יונתן תרגום",
                        "תרגמו יונתן", "יונתן לא תרגם", "יונתן פירש",
+                       # and once with the verb first, ופירש יונתן
+                       "פירש יונתן",
                        # Three times he gives not a rendering but a view: וכן דעת
                        # יונתן, and once that view is why Yonasan left a word
                        # untranslated.
