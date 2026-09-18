@@ -521,20 +521,24 @@ def gloss_block(part, heading=True, summary=False):
     long entry reads as a few short answers rather than a paragraph. The entry
     page names the whole section, so it asks for no heading here.
 
-    `summary` keeps the sense line and the headings and drops the bodies. It is
-    for the entry page, where his entry stands beside its English in two
-    columns: the parts render every pasuk he quotes and then say what each one
-    says, so in full they run half again as long as the Hebrew they summarise,
-    and a column billed as the summary finished a screen below its source. The
-    headings alone say what the entry holds, and the root's own page has the
-    whole of it."""
+    `summary` folds each part behind its heading. It is for the entry page,
+    where his entry stands beside its English in two columns: the parts render
+    every pasuk he quotes and then say what each one says, so open they run half
+    again as long as the Hebrew they summarise, and a column billed as the
+    summary finished a screen below its source. Folded, the column is the sense
+    line and a short list of what the entry holds, and every word is still a
+    click away. Headings alone were tried first and gave the reader too little:
+    "The things to come" is not worth a line unless it opens."""
     sense = gloss(part, "sense")
     if not sense:
         return ""
     parts = gloss(part, "more") or []
     if summary:
-        more = ("".join(f'<li>{en_text(m["h"])}</li>' for m in parts))
-        more = f'<ul class="rad-en-l">{more}</ul>' if more else ""
+        more = "".join(
+            f'<details class="rad-en-d"><summary>{en_text(m["h"])}</summary>'
+            f'<p class="rad-en-b">{en_text(m["t"])}</p></details>'
+            for m in parts)
+        more = f'<div class="rad-en-l">{more}</div>' if more else ""
     else:
         more = "".join(
             f'<div class="rad-en-p"><p class="rad-en-t">{en_text(m["h"])}</p>'
@@ -1717,10 +1721,20 @@ header.bare .brand{flex:1}
 .rad-en-s{font:400 17px/1.55 var(--ui);color:var(--ink);margin:0}
 .rad-en-p{margin:13px 0 0}
 .rad-en-t{font:600 12.5px/1.4 var(--ui);color:var(--ink);margin:0 0 1px}
-/* The summary column's list of what his entry holds, one line a part. */
-.rad-en-l{margin:9px 0 0;padding:0 0 0 17px;list-style:disc}
-.rad-en-l li{font:400 13.5px/1.6 var(--ui);color:var(--dim);margin:0 0 3px}
-.rad-en-l li::marker{color:var(--faint)}
+/* The summary column: what his entry holds, a line a part, each opening on to
+   the whole of it. Folded it keeps the column near the length of the Hebrew it
+   sits beside; opened it loses the reader nothing. */
+.rad-en-l{margin:9px 0 0}
+.rad-en-d{border-top:1px solid var(--line)}
+.rad-en-d:last-child{border-bottom:1px solid var(--line)}
+.rad-en-d>summary{font:600 12.5px/1.45 var(--ui);color:var(--ink);padding:6px 0 6px 15px;
+  position:relative;cursor:pointer;list-style:none}
+.rad-en-d>summary::-webkit-details-marker{display:none}
+.rad-en-d>summary::before{content:"\203a";position:absolute;left:2px;top:5px;color:var(--accent);
+  font-size:14px;line-height:1.3;transition:transform .12s ease;transform-origin:50% 55%}
+.rad-en-d[open]>summary::before{transform:rotate(90deg)}
+.rad-en-d>summary:hover{color:var(--accent)}
+.rad-en-d>.rad-en-b{padding:0 0 9px 15px}
 .rad-en-b{font:400 15.5px/1.7 var(--ui);color:var(--dim);margin:0}
 .rad-en-b bdi,.rad-en-b [lang="he"]{font-family:var(--heb)}
 .rad-en bdi,.rad-en-s bdi{font-family:var(--heb)}
