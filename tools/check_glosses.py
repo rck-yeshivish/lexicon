@@ -38,7 +38,8 @@ AI = re.compile(r"\b(delve|leverage|underscore\w*|a testament to|it'?s worth not
 # Authorities he may be said to bring, and how his Hebrew names them.
 NAMED = {
     "Rabbi Yonah": ["רבי יונה"],
-    "Ibn Ezra": ["אבן עזרא", "אברהם אבן עזרא"],
+    # The edition sets his name אבן עורא in places, with a vav for the zayin.
+    "Ibn Ezra": ["אבן עזרא", "אבן עורא"],
     "Targum Yonasan": ["תרגום יונתן", "תרגם יונתן"],
     "Targum": ["תרגום", "תרגם", "התרגום"],
     "Onkelos": ["אנקלוס"],
