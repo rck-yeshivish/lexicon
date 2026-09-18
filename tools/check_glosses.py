@@ -81,8 +81,9 @@ NAMED = {
     "Rav Amram(?: Gaon)?": ["רב עמרם"],
     # Bare, so the prefixed במסורת counts: he writes it three times, and with
     # the definite article on the needle a true sentence about what the Mesorah
-    # does not carry was refused.
-    "the Mesorah": ["מסורת", "מסורה"],
+    # does not carry was refused. The edition also drops the vav eight times,
+    # המסרה and once המסרת.
+    "the Mesorah": ["מסורת", "מסורה", "מסרה", "מסרת"],
     # Rabbi Moshe Kimchi, whom he names as his brother: ורבי אחי רבי משה ז"ל
     # פירש. Policed like his father, and only where the brother is the one
     # saying something.
@@ -162,6 +163,10 @@ ENG_WORD = re.compile(r"[A-Za-z][A-Za-z'’]*")
 # letter inside it: בדברי הימים (א' יז, ו), בספר מלכים (א' י, יד). HEB_CITE wants
 # the book within the brackets, so it read these as a bare chapter and pasuk with
 # no book at all, and a true citation of his was refused.
+# Twenty times an ibid carries one number, not two: after (תהלים עו, יא) he
+# writes (שם ב) for the second pasuk of that same chapter. Read as a chapter and
+# pasuk it is nothing, so a citation he plainly makes was refused.
+SHAM_ONE = re.compile(r"\(\s*שם\s+([א-ת]{1,4})'?\s*\)")
 VOL = {"א": "I", "ב": "II"}
 OUTSIDE_BOOK = {"דברי הימים": "Chronicles", "שמואל": "Samuel", "מלכים": "Kings"}
 OUTSIDE = re.compile(r"(דברי הימים|שמואל|מלכים)\s*\(\s*([אב])'?\s*"
@@ -179,6 +184,23 @@ def numbered(text):
     spellings the linker misses. Returns the full keys where the book is named
     and the bare chapter and pasuk where it is not."""
     keys, pairs = set(), set()
+    # Where each citation leaves the book and chapter standing, so a one-number
+    # ibid after it can be read against them.
+    where = []
+    book = chapter = None
+    for m in HEB_CITE.finditer(text):
+        if m.group(1):
+            book = BOOKS[m.group(1)]
+        c = gematria(m.group(2))
+        if c:
+            chapter = c
+        where.append((m.end(), book, chapter))
+    for m in SHAM_ONE.finditer(text):
+        v = gematria(m.group(1))
+        prior = [w for w in where if w[0] <= m.start()]
+        if v and prior and prior[-1][1] and prior[-1][2]:
+            keys.add(f"{prior[-1][1]}.{prior[-1][2]}.{v}")
+            pairs.add((prior[-1][2], v))
     for m in HEB_CITE.finditer(text):
         c, v = gematria(m.group(2)), gematria(m.group(3))
         if not (c and v):
