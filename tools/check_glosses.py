@@ -65,7 +65,10 @@ NAMED = {
     "Rabbi Yaakov ben Elazar": ["יעקב בן אלעזר", "יעקב בן אילעזר",
                                 "יעקב בן אלעור"],
     "Rav Saadiah Gaon": ["רבי סעדיה", "סעדיה"],
-    "the Mesorah": ["המסורת", "המסורה"],
+    # Bare, so the prefixed במסורת counts: he writes it three times, and with
+    # the definite article on the needle a true sentence about what the Mesorah
+    # does not carry was refused.
+    "the Mesorah": ["מסורת", "מסורה"],
     # He is הרב אבן גיאת in one entry and הרב רבי יצחק גיאת in another, so the
     # needle is the surname and the key takes either English form.
     "(?:Rav|Rabbi) Yitzchak (?:ibn )?Giat|the Gaon Ibn Giat": ["גיאת"],
