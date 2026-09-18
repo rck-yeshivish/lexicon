@@ -51,7 +51,7 @@ chronological sequence.
 | בושה | bushah | shame | mildest; written first in a pair (Radak); can be social only, without contrition (Edel) |
 | כלימה | kelimah | humiliation | graver; inflicted from outside (Malbim); the deed itself is disgraceful (Edel) |
 | חרפה | cherpah | disgrace, reproach | follows another's insult (Wertheimer); disparagement rather than shame (Bedersi); more intense than *bushah* and *klimah* (Chelouche) |
-| חפרה | chafrah | mortification | wanting to dig a hole and hide; most intense (Malbim) |
+| חפרה | chafrah | mortification | wanting to dig a hole and hide (Wertheimer); the most intense, wanting to bury one's head (Malbim) |
 
 ## Where the authorities disagree
 

@@ -17,7 +17,7 @@ words:
   - he: תבונה
     tr: tevunah
     en: understanding
-    distinct: used almost interchangeably with binah by most; breaking the big picture into its parts (Pappenheim); the reflection that qualifies chochmah or binah (the Vilna Gaon), or understanding thorough enough to explain to others (Chemdah Genuzah)
+    distinct: used almost interchangeably with binah by most; breaking the big picture into its parts (Pappenheim); the reflection that qualifies chochmah or binah, or understanding thorough enough to explain to others, both the Vilna Gaon, the second in his Chemdah Genuzah
   - he: דעת
     tr: daat
     en: knowledge
