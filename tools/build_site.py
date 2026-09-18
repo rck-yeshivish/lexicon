@@ -403,14 +403,29 @@ def radak(root):
     return (SHORASHIM["roots"].get(root_key(root)) or {}).get("text", "")
 
 
-def radak_html(root):
+def radak_headword(root):
+    """His headword for a root, and whether it is the root itself or the place
+    he files it under; "" where the letters are his own headword and nothing
+    needs saying. The edition marks sin with a holam on the shin, so give it
+    its own dot."""
+    e = SHORASHIM["roots"].get(root_key(root)) or {}
+    if not e or (not e.get("under") and not e.get("more")):
+        return ""
+    hw = html.escape(e["hw"].replace("שֹ", "שׂ"))
+    lead = "he files it under" if e.get("under") else "his headword"
+    return (f'<span class="rootnote">{lead} <bdi lang="he">{hw}</bdi></span>')
+
+
+def radak_html(root, label=True):
     """The same entry with the edition's markup: the root's form bold in each
     pasuk, each citation in a .ref span. tools/fetch_shorashim.py has already
-    cut it down to those two tags, so it goes into the page as it stands."""
+    cut it down to those two tags, so it goes into the page as it stands.
+    With label False the caller names his headword itself, so the entry page
+    does not print the root once as a heading and again as a line under it."""
     e = SHORASHIM["roots"].get(root_key(root)) or {}
     parts = [e] + e.get("more", []) if e else []
     if len(parts) == 1 and not e.get("under") and not gloss(e, "sense"):
-        return e.get("html") or html.escape(e.get("text", ""))
+        return citable(e.get("html") or html.escape(e.get("text", "")))
     # More than one entry answers to these letters, or Radak files the word
     # under another root. Either way each entry is named by his own headword.
     # The edition marks sin with a holam on the shin; give it its own dot.
@@ -421,9 +436,9 @@ def radak_html(root):
         body = citable(p.get("html") or html.escape(p.get("text", "")))
         if p.get("found"):                            # the form he cites, so it can be found in a long entry
             body = body.replace(p["found"], f'<mark>{p["found"]}</mark>', 1)
-        out.append(f'{gloss_block(p)}'
-                   f'<p class="rad-hw" dir="ltr" lang="en">{note} <bdi lang="he">{hw}</bdi></p>'
-                   f'<p>{body}</p>')
+        head = (f'<p class="rad-hw" dir="ltr" lang="en">{note} <bdi lang="he">{hw}</bdi></p>'
+                if label or len(parts) > 1 else "")
+        out.append(f'{gloss_block(p)}{head}<p>{body}</p>')
     return "".join(out)
 
 
@@ -903,18 +918,6 @@ def questions_html(items):
                    f'<span class="chev" aria-hidden="true">&rsaquo;</span></a>' for a in items)
 
 
-def root_line(e):
-    """The entry's roots under its title, each linking to the root's place in
-    the root index. The method essay has none."""
-    roots = [r for r in e.get("roots", []) if root_key(r)]
-    if not roots:
-        return ""
-    links = " &middot; ".join(
-        f'<a href="../roots.html#r-{root_key(r)}" dir="rtl" lang="he">{html.escape(r)}</a>'
-        for r in sorted(roots, key=root_sort))
-    return f'\n<p class="rootline">{links}</p>'
-
-
 def radak_section(e):
     """His entries on the entry's roots, at the foot of the page with the other
     sources. It is background on where the words come from, not a way in to the
@@ -923,9 +926,15 @@ def radak_section(e):
     roots = [r for r in sorted(e.get("roots", []), key=root_sort) if radak(r)]
     if not roots:
         return ""
-    blocks = "".join(f'<h4 dir="rtl" lang="he">{html.escape(r)}</h4>'
-                     f'<div class="rad-text" dir="rtl" lang="he">{radak_html(r)}</div>'
-                     for r in roots)
+    # One heading a root, carrying the root as our entries write it and, only
+    # where it differs, his own headword. Before this the root was named twice
+    # by two different routes, and which one a reader saw depended on whether
+    # that root's English had been written yet.
+    blocks = "".join(
+        f'<h4><a href="../roots.html#r-{root_key(r)}" dir="rtl" lang="he">{html.escape(r)}</a>'
+        f'{radak_headword(r)}</h4>'
+        f'<div class="rad-text" dir="rtl" lang="he">{radak_html(r, label=False)}</div>'
+        for r in roots)
     one = len(roots) == 1
     return (f'<details class="radak" id="s-radak"><summary>'
             f'<h2>Radak on {"this root" if one else "these roots"}</h2>'
@@ -946,9 +955,10 @@ def entry_page(e):
     # "other" is the catch-all domain and tells a reader nothing, so it gets no label.
     title = e["cluster"]
     eyebrow = '<p class="eyebrow">method</p>\n' if e["slug"] == METHOD else "" if e["domain"] == "other" else f'<p class="eyebrow">{html.escape(e["domain"])}</p>\n'
+    radak_block = radak_section(e)
     parts = [f'''<article class="entry">
 {anchors}
-{eyebrow}<h1>{html.escape(title)}</h1>{root_line(e)}''']
+{eyebrow}<h1>{html.escape(title)}</h1>''']
     # Where the entry has word cards they come first: they are the easiest thing
     # on the page to read, and the Bottom line mostly restates them. It follows
     # as a plain "In short" for what the cards do not carry (how the words
@@ -1023,6 +1033,12 @@ def entry_page(e):
                 for c, s, w in XREF[e["slug"]])
             parts.append(f'<section class="xref" id="s-also"><h2>Also discussed in</h2><ul>{items}</ul></section>')
             toc.append(("s-also", "Also discussed in", []))
+        # It belongs with the sources and before them: background on where the
+        # words come from, once the entry has had its say.
+        if headname == "Sources" and radak_block:
+            parts.append(radak_block)
+            toc.append(("s-radak", "Radak on the roots", []))
+            radak_block = ""
         cls = {"Bottom line": "bottomline", "At a glance": "glance",
                "Where the authorities disagree": "disagree"}.get(headname, "")
         i = sid(headname)
@@ -1051,8 +1067,7 @@ def entry_page(e):
         body = cites.link(body)
         parts.append(f'<section class="{cls}" id="{i}"><h2>{html.escape(headname)}</h2>{body}</section>')
         toc.append((i, headname, subs))
-    radak_block = radak_section(e)
-    if radak_block:
+    if radak_block:                       # an entry with no Sources section
         parts.append(radak_block)
         toc.append(("s-radak", "Radak on the roots", []))
     parts.append("</article>")
@@ -1675,7 +1690,10 @@ p.rad-hw{font-family:var(--ui);direction:ltr;font-size:13px;line-height:1.5;colo
 .rad-body mark,.rad-text mark{background:var(--accent-soft);color:inherit;border-radius:4px;padding:0 3px}
 p.rad-hw bdi{font-family:var(--heb);font-size:17px;color:var(--accent)}
 .radak-credit{color:var(--faint);font-size:13px;margin:22px 0 0;line-height:1.5}
-.radak h4{font-family:var(--heb);font-size:19px;margin:14px 0 2px;color:var(--accent)}
+.radak h4{display:flex;align-items:baseline;gap:10px;margin:22px 0 4px;font-size:15px}
+.radak h4 a{font-family:var(--heb);font-size:20px;color:var(--accent)}
+.radak h4 .rootnote{font:400 13px/1.4 var(--ui);color:var(--faint)}
+.radak h4 .rootnote bdi{font-family:var(--heb);font-size:15px}
 .rad-text{margin:0 0 0 auto}
 @media (max-width:760px){.rows.roots .r{grid-template-columns:90px minmax(0,1fr) auto;row-gap:4px;gap:10px}
   .rows.roots .rexp{grid-column:3;grid-row:1}
@@ -1686,9 +1704,6 @@ p.rad-hw bdi{font-family:var(--heb);font-size:17px;color:var(--accent)}
 .rows.roots .h{font-size:20px;line-height:1.3}
 .rlinks{color:var(--dim);font-size:14px;line-height:1.5}
 .rlinks a{color:var(--ink)}
-.rootline{margin:-4px 0 14px;font-size:15px;color:var(--dim)}
-.rootline a{color:var(--dim);font-family:var(--heb);font-size:1.08em}
-.rootline a:hover{color:var(--accent)}
 .rows.en3 .cl{text-align:right}
 .rows .tx{min-width:0}
 .rows .r{color:var(--ink)}
