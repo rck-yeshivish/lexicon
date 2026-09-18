@@ -1616,15 +1616,17 @@ header.bare .brand{flex:1}
 .rad.points{font:400 14px/1.5 var(--ui);color:var(--faint);text-align:left}
 .rad.points a{font-size:16px;color:var(--dim)}
 /* It sits inside his Hebrew, which is RTL, so a narrow block would be held to
-   the right; these margins keep the English at the left edge of the card. */
+   the right; these margins keep the English at the left edge of the card. It
+   takes the same measure as his Hebrew below it, so the two end on the same
+   line and the card does not look as though something were missing. */
 .rad-en{font-family:var(--ui);direction:ltr;margin:0 auto 18px 0;padding:0 0 16px;text-align:left;
-  max-width:33em;border-bottom:1px solid var(--line)}
+  max-width:46em;border-bottom:1px solid var(--line)}
 .rad-en-h{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--faint);
   font-weight:600;margin:0 0 8px}
-.rad-en-s{font:400 16.5px/1.5 var(--ui);color:var(--ink);margin:0}
+.rad-en-s{font:400 17px/1.55 var(--ui);color:var(--ink);margin:0}
 .rad-en-p{margin:13px 0 0}
 .rad-en-t{font:600 12.5px/1.4 var(--ui);color:var(--ink);margin:0 0 2px}
-.rad-en-b{font:400 15px/1.62 var(--ui);color:var(--dim);margin:0}
+.rad-en-b{font:400 15.5px/1.7 var(--ui);color:var(--dim);margin:0}
 .rad-en-b bdi,.rad-en-b [lang="he"]{font-family:var(--heb)}
 .rad-en bdi,.rad-en-s bdi{font-family:var(--heb)}
 .rhead{display:grid;grid-template-columns:110px minmax(0,220px) minmax(0,1fr);gap:18px;padding:0 6px 6px;
