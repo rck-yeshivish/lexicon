@@ -58,6 +58,15 @@ the entry each would complete.
    parsha, `(Bereishis Rabbah 43)`. Where the edition prints the address in a
    form that will not carry over, name the work and leave the address off rather
    than reproduce his Hebrew or invent a form of your own.
+   The standing way of doing that, "where the verb takes an object", was
+   checked against his own labels in all 59 places it appears. Thirty-eight sit
+   under a heavy form he marks himself, `[הפעיל]` or `[פעל]`; three that looked
+   like passives or reflexives carry his `[הפעיל]` or `[פעל]` immediately before
+   the pasuk quoted; and at פטר and בוס transitivity is his own term, `והפעל
+   העובר` and `תאר יוצא`. One was wrong, at סכך, where it stood directly above a
+   kal with an object, and that one now reads "of one who covers another". The
+   convention stands; check the label before using it.
+
 4. **Lead with what the word means.** Grammar is named only where he rests
    something on it, and then by what it does, since binyan names are not
    English.
