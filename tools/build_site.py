@@ -2291,12 +2291,14 @@ async function wireCites(card, letter, base){
       try{ PES[letter] = await fetch(`${base}pesukim/${encodeURIComponent(letter)}.json`).then(r => r.json()); }
       catch(err){ PES[letter] = {}; }
     }
-    const t = PES[letter][span.dataset.r];
-    if(!t) return;
+    // Whatever is open closes first, before the new pasuk is looked up. Leaving
+    // it open when the lookup fails is what reads as a citation being stuck:
+    // the reader clicks another and the page appears to ignore them.
     const was = span.classList.contains("on");
     card.querySelectorAll(".ref.on").forEach(x => x.classList.remove("on"));
     card.querySelectorAll(".rad-pasuk").forEach(x => x.remove());
-    if(was) return;
+    const t = PES[letter][span.dataset.r];
+    if(was || !t) return;
     span.classList.add("on");
     // A block inside his paragraph, so the pasuk opens where it is cited and
     // his text carries on under it at the full width of the card.
