@@ -52,11 +52,12 @@ on Pages, which is why the workflow says `pages deploy` and why the live address
 is `whatsinaword.pages.dev`.
 
 That matters because the two commands do not compete: they publish to two
-different places. A `wrangler deploy` run here in September created the Worker
-at `whatsinaword.yehron.workers.dev`, and because nothing has run it since, that
-copy has sat at 342 entries while Pages moved on. A stale public copy of the
-site is worse than none, so it wants either retiring in the Cloudflare dashboard
-or a redirect to the Pages address.
+different places. A `wrangler deploy` run on 10 September created a Worker at
+`whatsinaword.yehron.workers.dev`, and because nothing ran it again, that copy
+sat at 342 entries while Pages moved on, publicly readable and eight days out of
+date. It was deleted on 18 September and that address now returns 404. If a
+`wrangler deploy` is ever run here again it will recreate it, which is the
+reason this file no longer gives that command anywhere.
 
 ## Before sharing the link
 
