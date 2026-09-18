@@ -60,8 +60,8 @@ NAMED = {
     # Only where his father is the one saying something: a son's father in plain
     # English, as in a son's inheritance from his father, claims nothing.
     "his father (?:reads|takes|explains|holds|says|writes|sets|glosses|brings|puts)":
-        # The edition prints it plene in most entries and defective in some.
-        ["אדוני אבי", "אדני אבי"],
+        # Plene, defective, and once with a resh for the daled.
+        ["אדוני אבי", "אדני אבי", "ארוני אבי"],
     # He names them רבותינו 318 times and רז"ל three, so both count.
     "Chachamim": ["רבותינו", "רז\"ל"],
     "Chazal": ["רבותינו", "רז\"ל", "משנה", "פרק"],

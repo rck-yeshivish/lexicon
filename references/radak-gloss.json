@@ -10,7 +10,8 @@
   ],
   "status": "draft",
   "keyed_by": "Radak's headword as references/shorashim.json stores it, so an entry serving two roots (גרז for both גרז and גרזן) is glossed once.",
-  "same letters, other word": "A root's letters sometimes carry a word he treats and a word our entry means, and his dictionary has only the first. The throat entry names ג-ר-ן, and his only entry under those letters is the threshing floor; he has no headword for גרון at all. The gloss says plainly what his entry is about, which is what tells a reader the two are different words. Checking for this mechanically was tried and abandoned: asking whether his entry cites any of the entry's own words flags 123 roots, and nearly all of them are ours naming a later form (גניזה, דירה, הרהור) of the very root he does treat."
+  "same letters, other word": "A root's letters sometimes carry a word he treats and a word our entry means, and his dictionary has only the first. The throat entry names ג-ר-ן, and his only entry under those letters is the threshing floor; he has no headword for גרון at all. The gloss says plainly what his entry is about, which is what tells a reader the two are different words. Checking for this mechanically was tried and abandoned: asking whether his entry cites any of the entry's own words flags 123 roots, and nearly all of them are ours naming a later form (גניזה, דירה, הרהור) of the very root he does treat.",
+  "a corrupt entry": "Sefaria's entry under נצח is broken at the source, not in our copy: it opens with מנצחים להעביד את העם and a reference with no book, then runs straight into material about reaching and overtaking that belongs to another root and never returns. Re-fetching gives the same 367 characters. Its gloss says the text breaks off, and the root wants a human eye and a better text before it can be glossed properly. Looking for others of its kind mechanically was tried and failed: testing whether an entry's text carries its own headword's letters flags 18 roots, all but none of them hollow roots like גוח against גחי, and it does not flag נצח at all, since מנצחים carries the letters perfectly well. Reading is what catches this."
  },
  "glosses": {
   "אבד": {
@@ -6048,6 +6049,284 @@
     {
      "h": "Her maid, or her arm",
      "t": "וַתִּשְׁלַח אֶת־ אֲמָתָהּ (Shemos 2:5), she sent her maidservant. The reading is disputed: some read אַמָּתָהּ with a dagesh, from אַמָּה אָרְכּוֹ (Shemos 30:2), a cubit its length, and so Rav Saadiah Gaon explained it in his Arabic commentary, that she stretched out her arm."
+    }
+   ]
+  },
+  "צום": {
+   "sense": "To fast, and צוֹם, a fast; though where a fast is called and teshuvah is not the matter, his father wrote that צוֹם is a gathering.",
+   "more": [
+    {
+     "h": "The verb and the noun",
+     "t": "לָמָּה צַּמְנוּ וְלֹא רָאִיתָ (Yeshayahu 58:3), why have we fasted and You did not see, וַיָּצֻמוּ שִׁבְעַת יָמִים (Shmuel I 31:13), they fasted seven days, וַיָּצָם דָּוִד צוֹם (Shmuel II 12:16), and וְצוּמוּ עָלַי וְאַל תֹּאכְלוּ וְאַל תִּשְׁתּוּ (Esther 4:16), fast for me and do not eat and do not drink. The noun is וַיִּקְרְאוּ צוֹם (Yonah 3:5), they called a fast, with the feminine plural דִּבְרֵי הַצֹּמוֹת (Esther 9:31), of which he says only that it is known."
+    },
+    {
+     "h": "Did you fast for Me?",
+     "t": "הֲצוֹם צַמְתֻּנִי אָנִי (Zechariah 7:5) he reads: did you fast on My account? Did I command you to fast? It was for your fathers' sins that the House was destroyed. And what have you settled with Me by your fasting or by your eating and drinking, on the way of אִם צָדַקְתָּ מַה תִּתֶּן לוֹ (Iyov 35:7), if you are righteous, what do you give Him? That is, do justice, truth, kindness and mercy and you will not fast at all, for the House you fast over will be built, and you will rejoice in its building and eat and drink."
+    },
+    {
+     "h": "Where צוֹם is a gathering",
+     "t": "On קִרְאוּ צוֹם וְהֹשִׁיבוּ אֶת נָבוֹת בְּרֹאשׁ הָעָם (Melachim I 21:9) his father wrote that it is not a word for fasting but for assembling, from צומת הגידין in the Talmud, the meeting of the sinews; and so every calling of a צוֹם that is not in a matter of teshuvah, and so בְּיוֹם צוֹם (Yirmiyahu 36:6), on a day of assembly."
+    }
+   ]
+  },
+  "צמת": {
+   "sense": "To cut off; all of the forms, he ends, are one sense of כריתה, cutting off.",
+   "more": [
+    {
+     "h": "Being cut off",
+     "t": "צָמְתוּ בַבּוֹר חַיָּי (Eichah 3:53), they cut off my life in the pit. In the passive, בְּעֵת יְזֹרְבוּ נִצְמָתוּ (Iyov 6:17), when they grow hot they are cut off; and some explain that one as נתחברו, they were joined together, from צומת הגידין in the words of Chazal. The noun is לַצְּמִיתֻת לַקֹּנֶה אֹתוֹ (Vayikra 25:30), cut off to the one who bought it."
+    },
+    {
+     "h": "Where the verb takes an object",
+     "t": "צִמְּתַתְנִי קִנְאָתִי (Tehillim 119:139), my zeal has cut me off, בִּעוּתֶיךָ צִמְּתוּתֻנִי (Tehillim 88:17), Your terrors have cut me off, אוֹתוֹ אַצְמִית (Tehillim 101:5), him will I cut off, הִצְמַתָּה כָּל זוֹנֶה מִמֶּךָּ (Tehillim 73:27), You have cut off everyone who strays from You, and וּמְשַׂנְאַי אַצְמִיתֵם (Tehillim 18:41), I will cut off those who hate me."
+    }
+   ]
+  },
+  "נצח": {
+   "sense": "The text here breaks off after מְנַצְּחִים לְהַעֲבִיד אֶת הָעָם, overseers set over the people at their work, and runs on into words of reaching.",
+   "more": [
+    {
+     "h": "What the rest of it holds",
+     "t": "כִּי שִׂיחַ וְכִי שִׂיג לוֹ (Melachim I 18:27), which he reads as that he has business with another, or is taken up with the overtaking of his enemies in war; all of them, he says, are ההדבקה וההגעה, cleaving to a thing and reaching it. שִׂיג is a noun with its nun missing, as שִׂיא is in אִם יַעֲלֶה לַשָּׁמַיִם שִׂיאוֹ (Iyov 20:6), though his loftiness mount to the heavens. Written with a samech, וְתַסֵּג וְלֹא תַפְלִיט (Michah 6:14) is that she reaches pregnancy and does not bring it forth but casts it."
+    }
+   ]
+  },
+  "סלה": {
+   "sense": "To tread down and trample; and in a second sense, to be set at a price.",
+   "more": [
+    {
+     "h": "Treading down",
+     "t": "סָלִיתָ כָּל שׁוֹגִים מֵחֻקֶּיךָ (Tehillim 119:118) and סִלָּה כָל אַבִּירַי (Eichah 1:15). Their sense may be taken from מסלה, a highway, even though the two are separate roots: you have trodden and trampled all who stray from Your statutes, and he trod and trampled all my mighty ones in my midst."
+    },
+    {
+     "h": "Setting at a price",
+     "t": "לֹא תְסֻלֶּה בְּכֶתֶם אוֹפִיר (Iyov 28:16), of which he says לא תעריך, it is not to be valued; and he points to what he has already written at the root סָלָא."
+    }
+   ]
+  },
+  "רבע": {
+   "sense": "To be four-square; and the number four, with רֶבַע and רְבִיעִית for a fourth part and רְבִיעִי for fourth.",
+   "more": [
+    {
+     "h": "Four-square",
+     "t": "רָבוּעַ יִהְיֶה הַמִּזְבֵּחַ (Shemos 27:1), that its sides be equal, its length as its breadth; so רְבִיעִית of the terumah (Yechezkel 45:20), that it be square, its length as its breadth, and מְזוּזוֹת עֲצֵי שָׁמֶן מֵאֵת רְבִעִית (Melachim I 6:33), that on all its sides they were squared, which Targum Yonasan renders מִן אַרְבְּעָה סִטְרֵיהוֹן מְרַבְּעִין, squared from their four sides. Also מְרֻבַּע סָבִיב (Yechezkel 45:2) and וְרֹחַב מֵאָה אַמָּה מְרֻבָּעַת (Yechezkel 40:47), a hundred cubits broad, squared."
+    },
+    {
+     "h": "The number, and the fourth part",
+     "t": "לְאַרְבָּעָה רָאשִׁים (Bereishis 2:10), to four heads, and אֶל אַרְבַּעַת מִקְצוֹעֵי הֶחָצֵר (Yechezkel 46:21), to the four corners of the court; for the feminine, without a heh, וְאַרְבַּע צֹאן (Shemos 21:37), four sheep. וְאֶת הַכִּבְשָׂה יְשַׁלֵּם אַרְבַּעְתָּיִם (Shmuel II 12:6) is two times four, double as the law has it, since of one who steals a sheep four sheep are said for the one. The part of the four is רֶבַע הַהִין (Shemos 29:40), a quarter of a hin, with אֶל אַרְבַּעַת רְבָעָיו (Yechezkel 43:16), וּמִסְפָּר אֶת רֹבַע יִשְׂרָאֵל (Bamidbar 23:10), and רְבִיעִת הַהִין (Shemos 29:40)."
+    },
+    {
+     "h": "Fourth, and the fourth generation",
+     "t": "יוֹם רְבִיעִי (Bereishis 1:19), the fourth day, בְּנֵי רְבִעִים (Melachim II 10:30), sons of the fourth generation, and in another pattern וְעַל רִבֵּעִים (Shemos 34:6), and upon the fourth generation."
+    },
+    {
+     "h": "לְרִבְעָהּ, and where he differs",
+     "t": "Rabbi Yonah wrote that לְרִבְעָהּ תֶּבֶל הוּא (Vayikra 18:23) is derived from this sense of four, and לֹא תַרְבִּיעַ כִּלְאַיִם (Vayikra 19:19) stands here as well. The right account, he says, is that they are of the sense of אָרְחִי וְרִבְעִי זֵרִיתָ (Tehillim 139:3), my path and my lying down, which is what the Targum puts for וַתִּרְבַּץ תַּחַת בִּלְעָם (Bamidbar 22:27), and she lay down under Bilam, rendering it וּרְבַעַת."
+    }
+   ]
+  },
+  "שׁכל": {
+   "sense": "To be bereaved of children, and where the verb takes an object, to bereave; and in another sense אֶשְׁכּוֹל, a cluster.",
+   "more": [
+    {
+     "h": "Being bereaved",
+     "t": "כַּאֲשֶׁר שָׁכֹלְתִּי שָׁכָלְתִּי (Bereishis 43:14), as I have been bereaved, I am bereaved; לָמָה אֶשְׁכַּל גַּם שְׁנֵיכֶם (Bereishis 27:45), which he reads as why should I be bereaved of both of you, or on account of both of you; and כֵּן תִּשְׁכַּל מִנָּשִׁים (Shmuel I 15:33), more than the rest of the women. The adjective is וַאֲנִי שְׁכוּלָה וְגַלְמוּדָה (Yeshayahu 49:21), and the nouns וְלֹא אֵדַע שְׁכוֹל (Yeshayahu 47:8), I shall not know bereavement, שְׁכוֹל לְנַפְשִׁי (Tehillim 35:12) and שְׁכוֹל וְאַלְמֹן (Yeshayahu 47:9), bereavement and widowhood."
+    },
+    {
+     "h": "Of flock, cattle and vine",
+     "t": "רְחֵלֶיךָ וְעִזֶּיךָ לֹא שִׁכֵּלוּ (Bereishis 31:38), your ewes and your she-goats did not lose their young, תְּפַלֵּט פָּרָתוֹ וְלֹא תְשַׁכֵּל (Iyov 21:10), his cow calves and does not lose her calf, וְלֹא תְשַׁכֵּל לָכֶם הַגֶּפֶן (Malachi 3:11), the vine will not cast its fruit for you, and מְשַׁכֵּלָה וַעֲקָרָה (Shemos 23:26), one that loses her young and one that is barren. The adjective is כְּדֹב שַׁכּוּל (Hoshea 13:8), a bereaved bear, and וְשַׁכֻּלָה אֵין בָּהֶם (Shir HaShirim 4:2), with a patach under the shin; the noun is שִׁכּוּל, with the plural בְּנֵי שִׁכֻּלָיִךְ (Yeshayahu 49:20), the shin there carrying a chirik."
+    },
+    {
+     "h": "Where the verb takes an object",
+     "t": "שִׁכַּלְתִּי אִבַּדְתִּי אֶת עַמִּי (Yirmiyahu 15:7), I have bereaved, I have destroyed My people; כַּאֲשֶׁר שִׁכְּלָה נָשִׁים חַרְבֶּךָ (Shmuel I 15:33), as your sword has bereaved women; אֹתִי שִׁכַּלְתֶּם (Bereishis 42:36), you have bereaved me; מִחוּץ תְּשַׁכֶּל חֶרֶב (Devarim 32:25); אַעֲבִיר בָּאָרֶץ וְשִׁכְּלָתָּה (Yechezkel 14:15); וְחַיָּה רָעָה וְשִׁכְּלֻךְ (Yechezkel 5:17); and וְהָאָרֶץ מְשַׁכָּלֶת (Melachim II 2:19), the land bereaving. Also רֶחֶם מַשְׁכִּיל (Hoshea 9:14), a womb that bereaves, and כְּגִבּוֹר מַשְׁכִּיל (Yirmiyahu 50:9)."
+    },
+    {
+     "h": "וּמְשַׁכָּלֶת, how it is read",
+     "t": "On וְלֹא יִהְיֶה מִשָּׁם עוֹד מָוֶת וּמְשַׁכָּלֶת he says the word of being already stated stands for two, the sense being that she will not be bereaving; or else משכלות is a noun. He weighs too whether וְהָאָרֶץ מְשַׁכָּלֶת takes only two, like מְשַׁכֵּלָה וַעֲקָרָה, and so of וּמְשַׁכֶּלֶת in Yechezkel 36:13."
+    },
+    {
+     "h": "אֶשְׁכּוֹל, the cluster",
+     "t": "אֵין אֶשְׁכּוֹל לֶאֱכוֹל (Michah 7:1), no cluster to eat, וְאֶשְׁכּוֹל עֲנָבִים אֶחָד (Bamidbar 13:23), one cluster of grapes, and אֶשְׁכֹּל הַכֹּפֶר (Shir HaShirim 1:11). The plurals are וְשָׁדַיִךְ לְאַשְׁכֹּלוֹת (Shir HaShirim 7:8), with a patach under the alef, כְּאֶשְׁכְּלוֹת הַגֶּפֶן (Shir HaShirim 7:9), with a segol, אַשְׁכְּלֹת מְרֹרֹת (Devarim 32:32), clusters of bitterness, and הִבְשִׁילוּ אַשְׁכְּלֹתֶיהָ עֲנָבִים (Bereishis 40:10), its clusters ripened into grapes. The single berries are called עֲנָבִים, grapes, and what holds them is called an אֶשְׁכּוֹל, for which he gives the name in his own vernacular."
+    }
+   ]
+  },
+  "נצר": {
+   "sense": "To guard and to keep; the נוֹצְרִים are watchmen; in a second sense, laid waste; and נֵצֶר, a shoot or a branch.",
+   "more": [
+    {
+     "h": "Guarding and keeping",
+     "t": "עֵדֹתֶיךָ נָצָרְתִּי (Tehillim 119:22), I have kept Your testimonies, נֹצֵר תְּאֵנָה יֹאכַל פִּרְיָהּ (Mishlei 27:18), one who tends a fig tree eats its fruit, לְנֹצְרֵי בְרִיתוֹ (Tehillim 25:10), to those who keep His covenant, נְצֹר לְשׁוֹנְךָ מֵרָע (Tehillim 34:14), guard your tongue from evil, and וּבְרִיתְךָ יִנְצֹרוּ (Devarim 33:9); all of them, he ends, are guarding. With the first root letter dropped, צוֹר תְּעוּדָה (Yeshayahu 8:16), which Targum Yonasan renders נְבִיָא טַר סַהֲדוּתָא, prophet, keep the testimony."
+    },
+    {
+     "h": "What is kept out of reach",
+     "t": "וּנְצֻרוֹת וְלֹא יְדַעְתָּם (Yeshayahu 48:6) are things kept back and too high to be reached and known; וְהַנִּשְׁאָר וְהַנָּצוּר (Yechezkel 6:12) is one kept from being reached; and שִׁית זוֹנָה וּנְצֻרַת לֵב (Mishlei 7:10) is שמורת לב, guarded of heart, meaning that no man can take her and entice her, but she entices men."
+    },
+    {
+     "h": "The watchmen",
+     "t": "מִמִּגְדַּל נוֹצְרִים (Melachim II 17:9) are the lookouts who stand in the tower, a tower not for settlement but for the watchman to stand in. So too קָרְאוּ נֹצְרִים בְּהַר אֶפְרָיִם (Yirmiyahu 31:6): the watchmen and keepers call out קומו ונעלה ציון, arise and let us go up to Tzion. Or נצרים may be a people named for their place, but the first is the right one. Rabbi Yonah explained נֹצְרִים בָּאִים מֵאֶרֶץ הַמֶּרְחָק (Yirmiyahu 4:16) as a people named after Nevuchadnetzar, and his father explains it so as well."
+    },
+    {
+     "h": "A second sense: laid waste",
+     "t": "וּבַנְּצוּרִים יָלִינוּ (Yeshayahu 65:4) and כְּעִיר נְצוּרָה (Yeshayahu 1:8) are of the sense of חרבה, ruin. From this his father reads וּנְצֻרַת לב as חרבת דעת, ruined of understanding, writing that so it stands in the words of the philosopher, ישבו עולמם בחרבן שכלם, they settle their world in the ruin of their intellect; and he said it of the harlot, that she is חרבת שכל, ruined of mind."
+    },
+    {
+     "h": "נֵצֶר, a shoot",
+     "t": "וְנֵצֶר מִשָּׁרָשָׁיו יִפְרֶה (Yeshayahu 11:1), a shoot will grow from his roots, and כְּנֵצֶר נִתְעָב (Yeshayahu 14:19); their sense is יונק או ענף, a sucker or a branch. כְּנֵצֶר נִתְעָב is that as a man throws away the loathsome shoot that does not thrive, pulling it out of its pit and casting it off, so you were cast out of your grave."
+    }
+   ]
+  },
+  "נטר": {
+   "sense": "To keep and to guard, and so to keep a grudge; and from it the מַטָּרָה, the mark set up to be shot at, and the court of the guard.",
+   "more": [
+    {
+     "h": "Keeping, and keeping a grudge",
+     "t": "הֲיִנְטֹר לְעוֹלָם (Yirmiyahu 3:5), will He keep it forever, וְנוֹטֵר הוּא לְאֹיְבָיו (Nachum 1:2), He keeps it for His enemies, לֹא אֶטּוֹר לְעוֹלָם (Yirmiyahu 3:12), I will not keep it forever, לֹא תִקֹּם וְלֹא תִטֹּר (Vayikra 19:18), do not take revenge and do not bear a grudge, and שָׂמֻנִי נֹטֵרָה אֶת הַכְּרָמִים (Shir HaShirim 1:6), they set me to keep the vineyards; all of them are guarding. The Targum of וַיִּשְׁמֹר (Bereishis 26:5) is וּנְטַר."
+    },
+    {
+     "h": "The מַטָּרָה",
+     "t": "The thing set up for arrows to be shot at is called a מַטָּרָה: וַיְקִימֵנִי לוֹ לְמַטָּרָה (Iyov 16:12), He set me up for Himself as a mark, and with an alef in place of the heh, כַּמַּטָּרָא לַחֵץ (Eichah 3:12). Derived from the same sense is בַּחֲצַר הַמַּטָּרָה (Yirmiyahu 32:2), the court of the guard, as it is said in this matter וַיֶּאֱסֹף אֹתָם אֶל מִשְׁמָר (Bereishis 42:17), he gathered them into ward; and בְּשַׁעַר הַמַּטָּרָה (Nechemiah 12:39), where the guards stood."
+    }
+   ]
+  },
+  "מסך": {
+   "sense": "To mix: a spirit of confusion poured into a people, and the mixing of water with wine; and מֶסֶךְ and מִמְסָךְ, mixed wine.",
+   "more": [
+    {
+     "h": "Mixing and confusion",
+     "t": "מָסַךְ בְּקִרְבָּהּ רוּחַ עִוְעִים (Yeshayahu 19:14), which he takes as תערובות ובלבול, mixture and confusion. So also of the tempering that is the mixing of water with wine: מָסְכָה יֵינָהּ (Mishlei 9:2), she has mixed her wine, and וּשְׁתוּ בְּיַיִן מָסָכְתִּי (Mishlei 9:5), drink of the wine I have mixed."
+    },
+    {
+     "h": "The nouns",
+     "t": "מָלֵא מֶסֶךְ (Tehillim 75:9), full of mixture; and in another pattern לַחְקוֹר מִמְסָךְ (Mishlei 23:30), to search out mixed wine, and לַמְנִי מִמְסָךְ (Yeshayahu 65:11)."
+    },
+    {
+     "h": "מְסֻכָתֶךָ, and where he differs",
+     "t": "Rabbi Yonah put כָּל אֶבֶן יְקָרָה מְסֻכָתֶךָ (Yechezkel 28:13) under this root in one of its senses, meaning mixed with you. The right account, he says, is that it is from the root שֹוךְ, of the sense of הָסֵר מְשׂוּכָּתוֹ (Yeshayahu 5:5), remove its hedge; and though the one is written with a samech and the other with a shin they are one, the sense being that your hedge is of precious stones."
+    }
+   ]
+  },
+  "אשׁר": {
+   "sense": "אֲשֶׁר, the relative word, standing also for if, for so, for in order that, and for and; אֲשֵׁרָה, a worshipped tree; אַשְׁרֵי, happy; and אֲשֻׁרַי, steps.",
+   "more": [
+    {
+     "h": "What אֲשֶׁר stands for",
+     "t": "הָאֲנָשִׁים אֲשֶׁר שָׁלַח מֹשֶׁה (Bamidbar 13:16), the men Moshe sent, and וְקָם הַבַּיִת אֲשֶׁר בָּעִיר (Vayikra 25:30): of these he says only that their sense is known. It stands in place of אִם, if: אֲשֶׁר נָשִׂיא יֶחֱטָא (Vayikra 4:22) and אֶת הַבְּרָכָה אֲשֶׁר תִּשְׁמְעוּ (Devarim 11:27) are if a ruler sins, if you listen. In place of כֵּן, so, in Shaul's words to Shmuel, אֲשֶׁר שָׁמַעְתִּי בְּקוֹל (Shmuel I 15:20). In place of לְמַעַן, in order that: אֲשֶׁר יִיטַב לְךָ וּלְבָנֶיךָ אַחֲרֶיךָ (Devarim 4:40). And in place of a vav: טוֹב אֲשֶׁר יָפֶה (Koheles 5:17) and עָוֹן אֲשֶׁר חֵטְא (Hoshea 12:9) are good and fair, iniquity and sin."
+    },
+    {
+     "h": "אֲשֶׁר with a letter before it",
+     "t": "The kaf of likeness is added to it, כַּאֲשֶׁר עָשָׂה (Vayikra 8:34), as he did, and so in many places; sometimes it is missing, and אֲשֶׁר רְאִיתֶם אֶת מִצְרַיִם (Shemos 14:13) stands for כאשר ראיתם, as you have seen. A beis comes on it for because: בַּאֲשֶׁר אַתְּ אִשְׁתּוֹ (Bereishis 39:9), because you are his wife. And a beis comes on it to point at a place: בַּאֲשֶׁר כָּרַע שָׁם נָפַל שָׁדוּד (Shoftim 5:26), where he sank there he fell slain, and וּבַאֲשֶׁר חֲלָלִים שָׁם הוּא (Iyov 39:30)."
+    },
+    {
+     "h": "אֲשֵׁרָה, the worshipped tree",
+     "t": "לֹא תִטַּע לְךָ אֲשֵׁרָה כָּל עֵץ (Devarim 16:21): any tree that they serve, or that they plant in honour of the one they serve, is called an אֲשֵׁרָה. Its plural takes the masculine ending, בָּמוֹת וּמַצֵּבוֹת וַאֲשֵׁרִים (Melachim I 14:23), and so וְאֶת אֲשֵׁרָיו תִּכְרֹתוּן (Shemos 34:13), you shall cut down its asheiros, and וַאֲשֵׁרֵיהֶם תִּשְׂרְפוּן בָּאֵשׁ (Devarim 12:3)."
+    },
+    {
+     "h": "אַשְׁרֵי, and calling a man happy",
+     "t": "אַשְׁרֵי הָאִישׁ אֲשֶׁר לֹא הָלַךְ (Tehillim 1:1), happy is the man who has not walked, and אַשְׁרֶיךָ יִשְׂרָאֵל מִי כָמוֹךָ (Devarim 33:29). It is a plural noun on the weight of אַחֲלֵי אֲדֹנִי (Melachim II 5:3), except that its alef is of the root while the alef of אחלי is added. The verb is to say of someone that he is happy: בְּאָשְׁרִי כִּי אִשְּׁרוּנִי בָּנוֹת (Bereishis 30:13), כִּי אֹזֶן שָׁמְעָה וַתְּאַשְּׁרֵנִי (Iyov 29:11), רָאוּהָ בָנוֹת וַיְאַשְּׁרוּהָ (Shir HaShirim 6:9), and וְתֹמְכֶיהָ מְאֻשָּׁר (Mishlei 3:18), of whom they say אשריו, happy is he."
+    },
+    {
+     "h": "אֲשֻׁרַי, step and path",
+     "t": "תָּמֹךְ אֲשֻׁרַי (Tehillim 17:5) are דרכי או רגלי, my ways or my feet; so בַּאֲשֻׁרוֹ אָחֲזָה רַגְלִי (Iyov 23:11) and לֹא תִמְעַד אֲשֻׁרָיו (Tehillim 37:31), not even one of his steps will slip, the word being feminine like רגל, a foot. In another pattern, with a dagesh, אִם תִּטֶּה אַשֻּׁרִי מִנִי הַדָּרֶךְ (Iyov 31:7); all such are נתיב ודרך, track and way. The simple verb is וְאִשְׁרוּ בְּדֶרֶךְ בִּינָה (Mishlei 9:6), and where it takes an object it is to lead along a way: וְאַל תְּאַשֵּׁר בְּדֶרֶךְ רָעִים (Mishlei 4:14), do not tread, וְאַשֵּׁר בַּדֶּרֶךְ לִבֶּךָ (Mishlei 23:19), which he glosses as the known way that I taught you, the way of wisdom, מְאַשְּׁרֵי הָעָם הַזֶּה (Yeshayahu 9:15), those who lead this people, and אַשְּׁרוּ חָמוֹץ (Yeshayahu 1:17), lead the oppressed; or in these the alef stands for a yud, מְיַשְּׁרֵי, those who set this people straight."
+    },
+    {
+     "h": "אָשׁוּר, and the tree תְּאַשּׁוּר",
+     "t": "עַל דֶּרֶךְ אָשׁוּר (Hoshea 13:7) may be the simple verb of this root; or it may be from אֲשׁוּרֶנּוּ וְלֹא קָרוֹב (Bamidbar 24:17), I behold him but not near, its alef the one that speaks of itself, the sense being that as a leopard is ready to tear, so I watch and look to tear them, as he says אֶפְגְּשֵׁם כְּדֹב שַׁכּוּל (Hoshea 13:8), I will meet them like a bereaved bear. תִּדְהָר וּתְאַשּׁוּר (Yeshayahu 41:19) is עץ ממין ארז, a tree of the cedar kind; Rabbi Yonah wrote that it goes by an Arabic name and that it is what is called בוס\"ו in the vernacular, and the Targum says אֶשְׁכְּרוֹעִין. Targum Yonasan puts קַרְשֵׁךְ עָשׂוּ שֵׁן בַּת אֲשֻׁרִים (Yechezkel 27:6) as דַפִּין דְאֶשְׁכְּרוֹעִין מְכַבְשִׁין בְּשֵׁן דְפִיל, planks of it pressed with elephant's ivory, taking בַּת אֲשֻׁרִים as one word, though it is two."
+    }
+   ]
+  },
+  "קום": {
+   "sense": "To rise and to stand; to stand fast and be confirmed; קוֹמָה, height; קָמָה, standing grain; יְקוּם, all that lives; and מָקוֹם, a place.",
+   "more": [
+    {
+     "h": "Rising and standing",
+     "t": "וְלֹא קָם נָבִיא עוֹד (Devarim 34:10), no prophet arose again, קוּם הִתְהַלֵּךְ בָּאָרֶץ (Bereishis 13:17), arise and walk about the land, יָקֻם אָבִי וְיֹאכַל (Bereishis 27:31), let my father rise and eat, קוּם נָא שְׁבָה (Bereishis 27:19), and וַיָּקָם הָעָם כָּל הַיּוֹם הַהוּא (Bamidbar 11:32), the people rose all that day. In וְקָאם שָׁאוֹן בְּעַמֶּךָ (Hoshea 10:14) a quiescent alef is written for the middle letter of the root."
+    },
+    {
+     "h": "When eyes are said to rise",
+     "t": "וְעֵינָיו קָמָה (Shmuel I 4:15) and כִּי קָמוּ עֵינָיו מִשֵּׂיבוֹ (Melachim I 14:4): rising is said of the eye because when a man's eyes dim in old age the cords of the eye pucker, and the eye rises and draws upward. Some read it by its context as a wasting of the eyes, and Targum Yonasan puts כָּלוּ עֵינֵיהֶם (Yirmiyahu 14:6) as קָמָא עֵינֵיהוֹן, and renders both of these with קָמָה."
+    },
+    {
+     "h": "Those who rise against a man",
+     "t": "כָּל הַקָּמִים עָלֶיךָ (Shmuel II 18:31), all who rise against you, שְׁאוֹן קָמֶיךָ (Tehillim 74:23), and in another pattern וּמִכַּף מֶלֶךְ יִשְׂרָאֵל הַקּוֹמִים עָלָי (Melachim II 16:7). Enemies are called קמים because they rise against the one opposite them for harm. On וְאֶל יֹשְׁבֵי לֵב קָמָי (Yirmiyahu 51:1) some read קמי by the alphabet turned about as כשדים, Kasdim, as in יֹשְׁבֵי כַשְׂדִּים (Yirmiyahu 51:35). He holds it may rather be that ארץ כשדים is short of its word, the sense being those who dwell in the land of Kasdim, with לֵב קָמָי in its plain sense, the heart of my adversaries, as תַּהֲרֹס קָמֶיךָ (Shemos 15:7) and לְשִׁמְצָה בְּקָמֵיהֶם (Shemos 32:25)."
+    },
+    {
+     "h": "Height, and standing grain",
+     "t": "וְרָמֵי הַקּוֹמָה גְּדוּעִים (Yeshayahu 10:33), the high of stature hewn down, and וְאֶכְרֹת קוֹמַת אֲרָזָיו (Yeshayahu 37:24), the tallest of its cedars, which he takes as a figure for the great men and the officers; also זֹאת קוֹמָתֵךְ דָּמְתָה לְתָמָר (Shir HaShirim 7:8) and וַיִּפֹּל מְלֹא קוֹמָתוֹ (Shmuel I 28:20). Standing grain before it is reaped is called קָמָה because it all stands up together: מִגָּדִישׁ וְעַד קָמָה (Shoftim 15:5) and בְּקָמוֹת פְּלִשְׁתִּים (Shoftim 15:5)."
+    },
+    {
+     "h": "Standing fast, and confirming",
+     "t": "וְקָמָה בְּיָדְךָ מַמְלֶכֶת יִשְׂרָאֵל (Shmuel I 24:21) is that it will stand and hold; so לֹא תָקוּם וְלֹא תִהְיֶה (Yeshayahu 7:7), וְקָם הַבַּיִת אֲשֶׁר בָּעִיר (Vayikra 25:30), and וַיָּקָם שְׂדֵה עֶפְרוֹן (Bereishis 23:17), that it stood and was made good in his hand. Where the verb takes an object it confirms: וּמַאֲמַר אֶסְתֵּר קִיַּם (Esther 9:32), Esther's word confirmed it, קַיְּמֵנִי כִּדְבָרֶךָ (Tehillim 119:28), and וְחָרְבוֹתֶיהָ אֲקוֹמֵם (Yeshayahu 44:26), I will raise up her ruins. From the same, וָאוֹלֵךְ אֶתְכֶם קוֹמְמִיּוּת (Vayikra 26:13) is with an upright stature, fearing no man, on the way of יֹצְאִים בְּיָד רָמָה (Shemos 14:8); and וְלֹא תִהְיֶה לָכֶם תְּקוּמָה (Vayikra 26:37)."
+    },
+    {
+     "h": "יְקוּם, מָקוֹם, and the Name",
+     "t": "וַיִּמַח אֶת כָּל הַיְקוּם (Bereishis 7:23) and וְאֵת כָּל הַיְקוּם אֲשֶׁר בְּרַגְלֵיהֶם (Devarim 11:6) are a general name for every living thing on the earth; אִם לֹא נִכְחַד קִימָנוּ (Iyov 22:20) is יְקוּמֵנוּ, that in truth our standing was not blotted out altogether in the mabul, since Noach and his sons were left. The place is וְשַׂמְתִּי לְךָ מָקוֹם (Shemos 21:13), mostly masculine, feminine in וְלֹא עוֹד תְּשׁוּרֶנּוּ מְקוֹמוֹ (Iyov 20:9), with the plural בְּאַחַד הַמְּקוֹמֹת (Shmuel II 17:9); and וְזֶה מְקוֹם לֹא יָדַע אֵל (Iyov 18:21) lacks the word it is bound to, the place of a man who did not know Hashem. Chazal called the Holy One by the name מָקוֹם, since He is the place of the world and the world is not His place, as He is also called מעון, a dwelling, in מְעֹנָה אֱלֹהֵי קֶדֶם (Devarim 33:27); and some read רֶוַח וְהַצָּלָה יַעֲמוֹד לַיְּהוּדִים מִמָּקוֹם אַחֵר (Esther 4:14) as a hint at Him, since they did not wish to write the Name in the Megillah, it being written together with the books of Madai and Paras."
+    }
+   ]
+  },
+  "נחל": {
+   "sense": "To take as a possession, and to give one; נַחֲלָה, an inheritance; and נַחַל, the valley the water runs down, named so even when dry.",
+   "more": [
+    {
+     "h": "Taking a possession",
+     "t": "וְאֵלֶּה אֲשֶׁר נָחֲלוּ בְנֵי יִשְׂרָאֵל (Yehoshua 14:1), כִּי לֹא נִנְחַל אִתָּם (Bamidbar 32:19), we will not take a possession with them, and לִנְחֹל אֶת הָאָרֶץ (Bamidbar 34:18). The simple verb, he says, takes one object only, the inheritance itself, so that יִנְחֲלוּ לָכֶם אֶת הָאָרֶץ (Bamidbar 34:17) is that they take possession on your behalf."
+    },
+    {
+     "h": "Yisrael as His inheritance",
+     "t": "וְסָלַחְתָּ לַעֲוֹנֵנוּ וּלְחַטָּאתֵנוּ וּנְחַלְתָּנוּ (Shemos 34:9) is take us for Your own, that we be Your inheritance, as וְהֵם עַמְּךָ וְנַחֲלָתֶךָ (Devarim 9:29), they are Your people and Your inheritance; and so of Yehudah (Zechariah 2:16), that Yehudah will be His inheritance forever on the holy soil. כִּי אַתָּה תִנְחַל בְּכָל הַגּוֹיִם (Tehillim 82:8) he reads with the opening of the mizmor, עַד מָתַי תִּשְׁפְּטוּ עָוֶל and קוּמָה אֱלֹהִים שָׁפְטָה הָאָרֶץ: in whatever nation the poor and the robbed are found, they are His people and His inheritance, and He will take them for His own and save them from the hand of their oppressors."
+    },
+    {
+     "h": "Where it takes two objects",
+     "t": "אֵלֶּה אֲשֶׁר נִחַל מֹשֶׁה בְּעַרְבוֹת מוֹאָב (Yehoshua 13:32) and כִּי אַתָּה תַּנְחִיל אֶת הָעָם הַזֶּה (Yehoshua 1:6), you will give this people its inheritance; so בְּיוֹם הַנְחִילוֹ אֶת בָּנָיו (Devarim 21:16) and בְּהַנְחֵל עֶלְיוֹן גּוֹיִם (Devarim 32:8). In the passive, כֵּן הָנְחַלְתִּי לִי יַרְחֵי שָׁוְא (Iyov 7:3), months of emptiness were given me for a portion; and turned back on itself, וְהִתְנַחַלְתֶּם אֹתָם (Vayikra 25:46), which he reads as מהם, of them, like הֵם יָצְאוּ אֶת הָעִיר (Bereishis 44:4)."
+    },
+    {
+     "h": "וְנִחַלְתְּ בָּךְ",
+     "t": "וְנִחַלְתְּ בָּךְ לְעֵינֵי גוֹיִם (Yechezkel 22:16) may be taken from this root, though he explained it at חָלַל; its proper form would be וְנִנְחַלְתְּ, and but for the ches it would carry a dagesh. The reading is that until now you were My inheritance, but since you have sinned you are not: you will be inherited by yourself and not by Me."
+    },
+    {
+     "h": "נַחַל, the water-course",
+     "t": "פָּרַץ נַחַל מֵעִם גָּר (Iyov 28:4), וְהָיָה מֵהַנַּחַל תִּשְׁתֶּה (Melachim I 17:4), you will drink from the נַחַל, with the dual אֶל כָּל אֲשֶׁר יָבוֹא שָׁם נַחֲלַיִם יִחְיֶה (Yechezkel 47:9) and the plural כָּל הַנְּחָלִים הֹלְכִים אֶל הַיָּם (Koheles 1:7), all the streams go to the sea. The valley down which the waters run is called a נַחַל, and even when there is no water in it the place still carries the name, as וְהָעִיר אֲשֶׁר בַּנַּחַל (Devarim 2:36). אֶל נַחַל אֵיתָן (Devarim 21:4) had water in it, since it is written there that they wash their hands; and וּצְדָקָה כְּנַחַל אֵיתָן (Amos 5:24) is one whose waters sweep down with force. In נַהֲרֵי נַחֲלֵי דְּבַשׁ וְחֶמְאָה (Iyov 20:17) one construct comes upon another."
+    },
+    {
+     "h": "הַנְּחִילוֹת",
+     "t": "לַמְנַצֵּחַ אֶל הַנְּחִילוֹת (Tehillim 5:1) is the name of a tune they knew. Rabbeinu Hai explained the word from נחיל של דבורים, a swarm of bees, that its tune was like the hum of bees."
+    }
+   ]
+  },
+  "יאר": {
+   "sense": "The יְאֹר: the water drawn off from a river in channels onto the fields, and so the Nilus, and the Chidekel as well.",
+   "more": [
+    {
+     "h": "River, or channel from a river",
+     "t": "עַל שְׂפַת הַיְאֹר (Shemos 2:3), on the bank of the יאור, כָּל הַמַּיִם אֲשֶׁר בַּיְאֹר (Shemos 7:20), all the water in the יאור, and עַל יְאֹרֵיהֶם וְעַל אַגְמֵיהֶם (Shemos 7:19). By Onkelos the יאור is the river itself, since he renders יְאֹר as נַהֲרָא; but יְאֹרֵיהֶם he renders with another word, because it stands bound to their rivers. The יאור is the water that is drawn off and led in streams from the river onto the fields."
+    },
+    {
+     "h": "The Nilus, and the Chidekel",
+     "t": "Because the waters of the נילוס are drawn off and run over the fields to water them, it is called a יאור; and so the חדקל is called a יאור, אֶחָד הֵנָּה לִשְׂפַת הַיְאֹר וְאֶחָד הֵנָּה לִשְׂפַת הַיְאֹר (Daniel 12:5). In וְעָלְתָה כָאֹר כֻּלָּהּ (Amos 8:5) the yud is hidden, and the word stands for כיאור."
+    }
+   ]
+  },
+  "אחז": {
+   "sense": "To take hold and to grasp; and from it אֲחֻזָּה, a holding of land, because a man takes hold in the place and is held fast by it.",
+   "more": [
+    {
+     "h": "Taking hold",
+     "t": "חִיל אָחַז (Shemos 15:14), trembling took hold, אָחַזְתָּ שְׁמֻרוֹת עֵינָי (Tehillim 77:5), You held my eyelids, לֶאֱחֹז בְּכַנְפוֹת הָאָרֶץ (Iyov 38:13), to take hold of the corners of the earth, וָאֹחֵז בְּפִילַגְשִׁי (Shoftim 20:6), and וֶאֱחֹז לְךָ אֶחָד מֵהַנְּעָרִים (Shmuel II 2:21). In the passive, נֶאֱחַז בַּסְּבַךְ (Bereishis 22:13), caught in the thicket, כַּדָּגִים שֶׁנֶּאֱחָזִים (Koheles 9:12), like fish that are caught, and וַיֵּאָחֲזוּ בָהּ (Bereishis 46:27). Also וְכֶבֶשׁ בַּזָּהָב לַכִּסֵּא מָאֳחָזִים (Divrei HaYamim II 9:18) and מְאַחֵז פְּנֵי כִסֵּה (Iyov 26:9)."
+    },
+    {
+     "h": "אֲחֻזֵי חֶרֶב",
+     "t": "אֲחֻזֵי חֶרֶב (Shir HaShirim 3:8), holding the sword, has the form of what is acted upon, in the way of חָגוּר כְּלֵי מִלְחָמָה (Shoftim 18:11), girded with weapons of war, and לָבוּשׁ בַּדִּים (Yechezkel 9:2), clothed in linen."
+    },
+    {
+     "h": "The beams that hold the walls",
+     "t": "וַיֶּאֱחֹז אֶת הַבַּיִת (Melachim I 6:10) is that he roofed it with cedar beams, which Targum Yonasan renders וְטַלֵּיל יַת בֵּיתָא; and he called it a taking hold because the beams take hold of this wall and of the wall opposite, as it also says לְבִלְתִּי אֲחֹז בְּקִירוֹת הַבָּיִת (Melachim I 6:6) and וְלֹא יִהְיוּ אֲחוּזִים בְּקִיר הַבָּיִת (Yechezkel 41:6)."
+    },
+    {
+     "h": "אֲחֻזָּה, a holding of land",
+     "t": "תְּנוּ לִי אֲחֻזַּת קֶבֶר (Bereishis 23:4), give me a holding for a burial place, and וְהָיוּ לָכֶם לַאֲחֻזָּה (Vayikra 25:45). An inheritance is called so because a man takes hold in the place and is held by it on its account, as וַיֵּאָחֲזוּ בָהּ (Bereishis 46:27) and וְנֹאחֲזוּ בְתֹכְכֶם (Bamidbar 32:30)."
+    },
+    {
+     "h": "וַאֲחֻזַּת מֵרֵעֵהוּ",
+     "t": "וַאֲחֻזַּת מֵרֵעֵהוּ (Bereishis 26:26) is a man's name; the Mesorah on it is לית שום בר נש, that it is no man's name at all. The Targum's view is וְסִיעַת מְרַחֲמוֹהִי, the company of his friends; and a man's company is called an אחוזה because they hold to him and do not part from him in his going out and his coming in."
     }
    ]
   }
