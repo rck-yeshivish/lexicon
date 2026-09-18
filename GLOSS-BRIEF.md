@@ -78,6 +78,15 @@ the entry each would complete.
   edition": that tells a reader his edition puts the pasuk in the Chumash, and
   Bamidbar 32:5 is a real pasuk about something else. Quote the phrase, give it
   its English, and leave it uncited.
+- **Two of his own addresses swapped between two phrases** are the one case
+  where you may repair a citation, because the repair uses nothing but his own
+  text. At גדר he prints גדר דרכי בגזית as (איכה ג, ז) and גדר בעדי ולא אצא as
+  (איכה ג, ט), and the two pesukim are the other way about. Both addresses are
+  his, and the site shows a pasuk's words when a reader opens the citation, so
+  printing them as he has them puts Hebrew on the screen that contradicts the
+  Hebrew beside it. Pair each phrase with the pasuk whose words it actually is.
+  This is not licence to correct a number you think is wrong: it applies only
+  where he cites both pesukim himself and the texts settle which is which.
 - **The same goes for a chapter number that lands somewhere real.** At כתר בי
   יכתירו צדיקים is printed (תהלים קטב, ח), a קטב for קמב: that reads as Tehillim
   111:8, a real pasuk and the wrong one, where the pasuk is 142:8. "In his
