@@ -40,7 +40,10 @@ NAMED = {
     "Rabbi Yonah": ["רבי יונה"],
     # The edition sets his name אבן עורא in places, with a vav for the zayin.
     "Ibn Ezra": ["אבן עזרא", "אבן עורא"],
-    "Targum Yonasan": ["תרגום יונתן", "תרגם יונתן"],
+    # He writes ויונתן תרגם 79 times, תרגם יונתן 77 and תרגום יונתן 36. Knowing
+    # only the last two made drafters write "Yonasan renders" where they wanted
+    # the fuller name, which is the check dictating the prose.
+    "Targum Yonasan": ["תרגום יונתן", "תרגם יונתן", "יונתן תרגם", "יונתן פירש"],
     "Targum": ["תרגום", "תרגם", "התרגום"],
     "Onkelos": ["אנקלוס"],
     # The edition prints his name twelve times as אלעזר, twice as אלעור with a
