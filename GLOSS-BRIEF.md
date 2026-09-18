@@ -58,6 +58,9 @@ the entry each would complete.
    parsha, `(Bereishis Rabbah 43)`. Where the edition prints the address in a
    form that will not carry over, name the work and leave the address off rather
    than reproduce his Hebrew or invent a form of your own.
+4. **Lead with what the word means.** Grammar is named only where he rests
+   something on it, and then by what it does, since binyan names are not
+   English.
    The standing way of doing that, "where the verb takes an object", was
    checked against his own labels in all 59 places it appears. Thirty-eight sit
    under a heavy form he marks himself, `[הפעיל]` or `[פעל]`; three that looked
@@ -67,9 +70,6 @@ the entry each would complete.
    kal with an object, and that one now reads "of one who covers another". The
    convention stands; check the label before using it.
 
-4. **Lead with what the word means.** Grammar is named only where he rests
-   something on it, and then by what it does, since binyan names are not
-   English.
 5. **Do not narrate the entry.** "He brings X for reading Y" is about the page;
    what X reads, and why, is about the word. The exception is an entry that
    gives no gloss at all, where saying so plainly is the honest report of a thin
