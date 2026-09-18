@@ -68,7 +68,8 @@ NAMED = {
                        # untranslated.
                        "דעת יונתן"],
     "Targum": ["תרגום", "תרגם", "התרגום"],
-    "Onkelos": ["אנקלוס"],
+    # Thirteen times אנקלוס, once אונקלוס with the vav.
+    "Onkelos": ["אנקלוס", "אונקלוס"],
     # The edition prints his name twelve times as אלעזר, twice as אלעור with a
     # vav for the zayin, and once as אילעזר. The same slip it makes on Ibn Ezra.
     # The needles start at יעקב, since the edition writes the title out as רבי

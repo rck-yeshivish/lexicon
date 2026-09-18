@@ -1374,7 +1374,8 @@ def main():
   <p class="lede">Every root the entries name, and the groups whose words come from it. Beside each root is what Radak gives it in <em>Sefer HaShorashim</em>; open the row for the rest of his entry, in English and in his own Hebrew.</p>
   <div class="letters heb">{letters}</div>
   <p class="count" id="count">{len(rmap):,} roots</p>
-  <div class="rhead" aria-hidden="true"><span>Root</span><span>Groups</span><span>Radak, <em>Sefer HaShorashim</em></span></div>
+  <div class="rhead" aria-hidden="true"><span>Root</span><span>Groups</span><span>Radak, <em>Sefer HaShorashim</em>
+    <span class="rhint">open a row for his entry, in English and in his own Hebrew</span></span></div>
   <div id="list" class="rows roots">{"".join(rrows)}</div>
   <p class="radak-credit">{RADAK_CREDIT} The pesukim he cites are from
     Sefaria: {pesukim_credit()}.</p>
@@ -1769,6 +1770,10 @@ header.bare .brand{flex:1}
 .rhead{display:grid;grid-template-columns:110px minmax(0,200px) minmax(0,1fr) auto;gap:18px;padding:0 6px 6px;
   border-bottom:1px solid var(--line);color:var(--faint);font-size:12px;letter-spacing:.04em;text-transform:uppercase}
 .rhead span:last-child{text-align:left}
+/* What the column holds is not what a reader gets by clicking, and nothing on
+   the page said the rows opened at all. */
+.rhint{display:block;text-transform:none;letter-spacing:0;font-size:11.5px;
+  font-style:italic;color:var(--faint);margin-top:2px}
 .rhead em{font-style:normal}
 .rad-open{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
   padding:16px 22px 20px;margin:4px 0 14px}
