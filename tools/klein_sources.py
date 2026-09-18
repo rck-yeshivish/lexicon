@@ -115,30 +115,73 @@ WORKS = {
 }
 
 
+# A citation whose head is only a locus continues the one before it. His Yair
+# Ohr references run this way, the work named once and the second place given as
+# bare os and siman.
+CONTINUES = re.compile(r"^אות\s")
+
+
 def split_items(note):
-    """Split a source note on top level commas, keeping parentheses whole."""
+    """Split a source note on top level commas, keeping parentheses whole.
+
+    His parentheses are never nested, and in 49 of the 389 notes they do not
+    balance: a closing one typed as an opening, or the other way about. Counting
+    depth upward therefore never came back to zero, and every source after the
+    slip was swallowed into the citation before it. Treating the bracket as a
+    toggle repairs that, and writes back the bracket he meant, so the locus can
+    still be read off.
+    """
     note = re.sub(r'^\s*מקורות:\s*', '', note.strip())
-    out, depth, cur = [], 0, ''
+    out, inside, cur = [], False, ''
     for c in note:
         if c in '([':
-            depth += 1
+            if inside:
+                c = ')'          # a second opener is the closer he meant
+                inside = False
+            else:
+                inside = True
         elif c in ')]':
-            depth = max(0, depth - 1)
-        if c == ',' and depth == 0:
+            if not inside:
+                c = '('          # a stray closer is the opener he meant
+                inside = True
+            else:
+                inside = False
+        if c == ',' and not inside:
             out.append(cur)
             cur = ''
         else:
             cur += c
     out.append(cur)
-    return [x.strip(' .,;') for x in out if x.strip(' .,;')]
+    items = [x.strip(' .,;') for x in out if x.strip(' .,;')]
+
+    merged = []
+    for it in items:
+        if merged and CONTINUES.match(it):
+            merged[-1] += ', ' + it
+        else:
+            merged.append(it)
+    return merged
 
 
 # His working notes to himself run in capitals at the end of a list.
 ASIDE = re.compile(r'\b[A-Z][A-Z\'’\s,.!?]{6,}$')
 
 
+def _loose(s):
+    """A title with its spelling worn off: no maters lectionis, no punctuation.
+    Only ever used on titles written out in full, never on an abbreviation,
+    because it folds מהרשא"ו and מהרש"א together and those are two men."""
+    s = re.sub(r"^(?:ספר|פירוש|פי')\s*", '', s.strip())
+    s = re.sub(r'[^א-ת]', '', s).replace('ו', '').replace('י', '')
+    return s[1:] if s.startswith('ה') else s          # התשבי and תשבי are one
+
+
+LOOSE = {_loose(k): v for k, v in WORKS.items() if '"' not in k}
+
+
 def lookup_work(head):
     """Match a head to the table through his prefixes and his 'sefer' forms."""
+    head = re.sub(r'"{2,}', '"', head).strip()
     if head in WORKS:
         return WORKS[head]
     trimmed = re.sub(r'^(?:ספר|פירוש|פי\'|עי\'|ע\')\s+', '', head).strip()
@@ -151,6 +194,12 @@ def lookup_work(head):
     for key, val in WORKS.items():
         if len(key) >= 6 and key in trimmed:
             return val
+    # Last, the same title spelled his other way: שורש ישע for שרש ישע, חתם
+    # תוכנית for חותם תכנית. Abbreviations are held out of this on both sides.
+    if '"' not in head:
+        hit = LOOSE.get(_loose(head))
+        if hit:
+            return hit
     return ('', '')
 
 

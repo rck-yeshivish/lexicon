@@ -718,12 +718,12 @@
      "english": "Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim* (אות רמא)"
     },
     {
-     "raw": "קסת הסופר )בר' ב:כא)",
-     "head": "קסת הסופר )בר' ב:כא)",
-     "locus": "",
+     "raw": "קסת הסופר (בר' ב:כא)",
+     "head": "קסת הסופר",
+     "locus": "בר' ב:כא",
      "work": "Keses HaSofer",
      "author": "Rabbi Aharon Marcus",
-     "english": "Rabbi Aharon Marcus, *Keses HaSofer*"
+     "english": "Rabbi Aharon Marcus, *Keses HaSofer* (בר' ב:כא)"
     },
     {
      "raw": "חשק שלמה (ערך לל)",
@@ -1267,17 +1267,9 @@
    "note": "י\"א אות ל' סימן י\"ב (למד/הורה/אלף) בשם שד\"ל, אות מ' סימן י\"ב (מורה/מדריך/מלמד), ספר הכרמל (ערך אלף), חשק שלמה (ערך לף), ביאור הגר\"א (משלי יד:ד).",
    "items": [
     {
-     "raw": "י\"א אות ל' סימן י\"ב (למד/הורה/אלף) בשם שד\"ל",
-     "head": "י\"א אות ל' סימן י\"ב (למד/הורה/אלף) בשם שד\"ל",
-     "locus": "",
-     "work": "",
-     "author": "",
-     "english": ""
-    },
-    {
-     "raw": "אות מ' סימן י\"ב (מורה/מדריך/מלמד)",
-     "head": "אות מ' סימן י\"ב",
-     "locus": "מורה/מדריך/מלמד",
+     "raw": "י\"א אות ל' סימן י\"ב (למד/הורה/אלף) בשם שד\"ל, אות מ' סימן י\"ב (מורה/מדריך/מלמד)",
+     "head": "י\"א אות ל' סימן י\"ב",
+     "locus": "למד/הורה/אלף) בשם שד\"ל, אות מ' סימן י\"ב (מורה/מדריך/מלמד",
      "work": "",
      "author": "",
      "english": ""
@@ -1620,12 +1612,12 @@
      "raw": "מתרוגמן (ערך אכסן)",
      "head": "מתרוגמן",
      "locus": "ערך אכסן",
-     "work": "",
-     "author": "",
+     "work": "Meturgeman",
+     "author": "Rabbi Eliyahu HaBachur",
      "sv": [
       "אכסן"
      ],
-     "english": ""
+     "english": "Rabbi Eliyahu HaBachur, *Meturgeman*, s.v. אכסן"
     },
     {
      "raw": "ברית יעקב (עמ' רסז-רסח בהערה)",
@@ -1691,8 +1683,19 @@
      "english": "Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim*, s.v. אי / איה / אנה / איפה"
     },
     {
-     "raw": "ח\"ש (ערך אי, אן(, יריעות שלמה עמ' 229 ולהלן",
-     "head": "ח\"ש (ערך אי, אן(, יריעות שלמה עמ' 229 ולהלן",
+     "raw": "ח\"ש (ערך אי, אן)",
+     "head": "ח\"ש",
+     "locus": "ערך אי, אן",
+     "work": "Cheshek Shlomo",
+     "author": "Rabbi Shlomo Pappenheim",
+     "sv": [
+      "אי, אן"
+     ],
+     "english": "Rabbi Shlomo Pappenheim, *Cheshek Shlomo*, s.v. אי, אן"
+    },
+    {
+     "raw": "יריעות שלמה עמ' 229 ולהלן",
+     "head": "יריעות שלמה עמ' 229 ולהלן",
      "locus": "",
      "work": "Yerios Shlomo",
      "author": "Rabbi Shlomo Pappenheim",
@@ -1811,12 +1814,12 @@
      "raw": "שורש ישע (ערך עור)",
      "head": "שורש ישע",
      "locus": "ערך עור",
-     "work": "",
-     "author": "",
+     "work": "Shoresh Yesha",
+     "author": "Rabbi Yitzchak of Zeldin",
      "sv": [
       "עור"
      ],
-     "english": ""
+     "english": "Rabbi Yitzchak of Zeldin, *Shoresh Yesha*, s.v. עור"
     },
     {
      "raw": "הכתב והקבלה (בראשית יא:ד)",
@@ -2103,8 +2106,48 @@
      "english": ""
     },
     {
-     "raw": "חקרי לשון )עמ' 53(, טעמא דקרא (במדבר כג:כד) Ephraim A. Speiser in his 1964 Anchor Bible volume, Genesis (1963), p. 169, Nahum M. Sarna in his Genesis volume of the JPS Torah Commentary (1989), p. 157",
-     "head": "חקרי לשון )עמ' 53(, טעמא דקרא (במדבר כג:כד) Ephraim A. Speiser in his 1964 Anchor Bible volume, Genesis (1963), p. 169, Nahum M. Sarna in his Genesis volume of the JPS Torah Commentary (1989), p. 157",
+     "raw": "חקרי לשון (עמ' 53)",
+     "head": "חקרי לשון",
+     "locus": "עמ' 53",
+     "work": "",
+     "author": "",
+     "english": ""
+    },
+    {
+     "raw": "טעמא דקרא (במדבר כג:כד) Ephraim A. Speiser in his 1964 Anchor Bible volume",
+     "head": "טעמא דקרא (במדבר כג:כד) Ephraim A. Speiser in his 1964 Anchor Bible volume",
+     "locus": "",
+     "work": "",
+     "author": "",
+     "english": ""
+    },
+    {
+     "raw": "Genesis (1963)",
+     "head": "Genesis",
+     "locus": "1963",
+     "work": "",
+     "author": "",
+     "english": ""
+    },
+    {
+     "raw": "p. 169",
+     "head": "p. 169",
+     "locus": "",
+     "work": "",
+     "author": "",
+     "english": ""
+    },
+    {
+     "raw": "Nahum M. Sarna in his Genesis volume of the JPS Torah Commentary (1989)",
+     "head": "Nahum M. Sarna in his Genesis volume of the JPS Torah Commentary",
+     "locus": "1989",
+     "work": "",
+     "author": "",
+     "english": ""
+    },
+    {
+     "raw": "p. 157",
+     "head": "p. 157",
      "locus": "",
      "work": "",
      "author": "",
@@ -2338,12 +2381,32 @@
      "english": "Rabbi Shlomo of Urbino, *Ohel Moed*, s.v. שתה"
     },
     {
-     "raw": "יריעות שלמה )עמ' 718(, חשק שלמה (ערך שת, ערך שק), שד\"ל (בראשית טו:ב, בכורי העתים שנת תקפז עמ' 184-185)",
-     "head": "יריעות שלמה )עמ' 718",
-     "locus": "חשק שלמה (ערך שת, ערך שק), שד\"ל (בראשית טו:ב, בכורי העתים שנת תקפז עמ' 184-185",
+     "raw": "יריעות שלמה (עמ' 718)",
+     "head": "יריעות שלמה",
+     "locus": "עמ' 718",
      "work": "Yerios Shlomo",
      "author": "Rabbi Shlomo Pappenheim",
-     "english": "Rabbi Shlomo Pappenheim, *Yerios Shlomo* (חשק שלמה (ערך שת, ערך שק), שד\"ל (בראשית טו:ב, בכורי העתים שנת תקפז עמ' 184-185)"
+     "english": "Rabbi Shlomo Pappenheim, *Yerios Shlomo* (עמ' 718)"
+    },
+    {
+     "raw": "חשק שלמה (ערך שת, ערך שק)",
+     "head": "חשק שלמה",
+     "locus": "ערך שת, ערך שק",
+     "work": "Cheshek Shlomo",
+     "author": "Rabbi Shlomo Pappenheim",
+     "sv": [
+      "שת",
+      "שק"
+     ],
+     "english": "Rabbi Shlomo Pappenheim, *Cheshek Shlomo*, s.v. שת, שק"
+    },
+    {
+     "raw": "שד\"ל (בראשית טו:ב, בכורי העתים שנת תקפז עמ' 184-185)",
+     "head": "שד\"ל",
+     "locus": "בראשית טו:ב, בכורי העתים שנת תקפז עמ' 184-185",
+     "work": "",
+     "author": "Shadal",
+     "english": "Shadal (בראשית טו:ב, בכורי העתים שנת תקפז עמ' 184-185)"
     }
    ]
   },
@@ -3375,12 +3438,12 @@
      "raw": "תשבי (ערך זלזל)",
      "head": "תשבי",
      "locus": "ערך זלזל",
-     "work": "",
-     "author": "",
+     "work": "Sefer HaTishbi",
+     "author": "Rabbi Eliyahu HaBachur",
      "sv": [
       "זלזל"
      ],
-     "english": ""
+     "english": "Rabbi Eliyahu HaBachur, *Sefer HaTishbi*, s.v. זלזל"
     },
     {
      "raw": "מתורגמן (ערך זל)",
@@ -3454,36 +3517,20 @@
      "english": ""
     },
     {
-     "raw": "אוצר תהלות ישראל חלק י\"ד עמ' קי)",
-     "head": "אוצר תהלות ישראל חלק י\"ד עמ' קי)",
+     "raw": "אוצר תהלות ישראל חלק י\"ד עמ' קי(, שפתי חיים )ביאורי תפילה עמ' רמח",
+     "head": "אוצר תהלות ישראל חלק י\"ד עמ' קי(, שפתי חיים )ביאורי תפילה עמ' רמח",
      "locus": "",
      "work": "",
      "author": "",
      "english": ""
     },
     {
-     "raw": "שפתי חיים (ביאורי תפילה עמ' רמח, שעד)",
-     "head": "שפתי חיים",
-     "locus": "ביאורי תפילה עמ' רמח, שעד",
-     "work": "",
-     "author": "",
-     "english": ""
-    },
-    {
-     "raw": "קסת הסופר (עמ' רסב)",
-     "head": "קסת הסופר",
-     "locus": "עמ' רסב",
+     "raw": "שעד(, קסת הסופר )עמ' רסב(, ישמח משה )פ' כי תשא(",
+     "head": "שעד(, קסת הסופר )עמ' רסב(, ישמח משה )פ' כי תשא(",
+     "locus": "",
      "work": "Keses HaSofer",
      "author": "Rabbi Aharon Marcus",
-     "english": "Rabbi Aharon Marcus, *Keses HaSofer* (עמ' רסב)"
-    },
-    {
-     "raw": "ישמח משה (פ' כי תשא)",
-     "head": "ישמח משה",
-     "locus": "פ' כי תשא",
-     "work": "",
-     "author": "",
-     "english": ""
+     "english": "Rabbi Aharon Marcus, *Keses HaSofer*"
     }
    ]
   }
@@ -3530,36 +3577,20 @@
      "english": ""
     },
     {
-     "raw": "אוצר תהלות ישראל חלק י\"ד עמ' קי)",
-     "head": "אוצר תהלות ישראל חלק י\"ד עמ' קי)",
+     "raw": "אוצר תהלות ישראל חלק י\"ד עמ' קי(, שפתי חיים )ביאורי תפילה עמ' רמח",
+     "head": "אוצר תהלות ישראל חלק י\"ד עמ' קי(, שפתי חיים )ביאורי תפילה עמ' רמח",
      "locus": "",
      "work": "",
      "author": "",
      "english": ""
     },
     {
-     "raw": "שפתי חיים (ביאורי תפילה עמ' רמח, שעד)",
-     "head": "שפתי חיים",
-     "locus": "ביאורי תפילה עמ' רמח, שעד",
-     "work": "",
-     "author": "",
-     "english": ""
-    },
-    {
-     "raw": "קסת הסופר (עמ' רסב)",
-     "head": "קסת הסופר",
-     "locus": "עמ' רסב",
+     "raw": "שעד(, קסת הסופר )עמ' רסב(, ישמח משה )פ' כי תשא(",
+     "head": "שעד(, קסת הסופר )עמ' רסב(, ישמח משה )פ' כי תשא(",
+     "locus": "",
      "work": "Keses HaSofer",
      "author": "Rabbi Aharon Marcus",
-     "english": "Rabbi Aharon Marcus, *Keses HaSofer* (עמ' רסב)"
-    },
-    {
-     "raw": "ישמח משה (פ' כי תשא)",
-     "head": "ישמח משה",
-     "locus": "פ' כי תשא",
-     "work": "",
-     "author": "",
-     "english": ""
+     "english": "Rabbi Aharon Marcus, *Keses HaSofer*"
     }
    ]
   }
@@ -3606,36 +3637,20 @@
      "english": ""
     },
     {
-     "raw": "אוצר תהלות ישראל חלק י\"ד עמ' קי)",
-     "head": "אוצר תהלות ישראל חלק י\"ד עמ' קי)",
+     "raw": "אוצר תהלות ישראל חלק י\"ד עמ' קי(, שפתי חיים )ביאורי תפילה עמ' רמח",
+     "head": "אוצר תהלות ישראל חלק י\"ד עמ' קי(, שפתי חיים )ביאורי תפילה עמ' רמח",
      "locus": "",
      "work": "",
      "author": "",
      "english": ""
     },
     {
-     "raw": "שפתי חיים (ביאורי תפילה עמ' רמח, שעד)",
-     "head": "שפתי חיים",
-     "locus": "ביאורי תפילה עמ' רמח, שעד",
-     "work": "",
-     "author": "",
-     "english": ""
-    },
-    {
-     "raw": "קסת הסופר (עמ' רסב)",
-     "head": "קסת הסופר",
-     "locus": "עמ' רסב",
+     "raw": "שעד(, קסת הסופר )עמ' רסב(, ישמח משה )פ' כי תשא(",
+     "head": "שעד(, קסת הסופר )עמ' רסב(, ישמח משה )פ' כי תשא(",
+     "locus": "",
      "work": "Keses HaSofer",
      "author": "Rabbi Aharon Marcus",
-     "english": "Rabbi Aharon Marcus, *Keses HaSofer* (עמ' רסב)"
-    },
-    {
-     "raw": "ישמח משה (פ' כי תשא)",
-     "head": "ישמח משה",
-     "locus": "פ' כי תשא",
-     "work": "",
-     "author": "",
-     "english": ""
+     "english": "Rabbi Aharon Marcus, *Keses HaSofer*"
     }
    ]
   }
@@ -3780,13 +3795,13 @@
      "raw": "ספר תשבי (ערך יבם, ערך גס)",
      "head": "ספר תשבי",
      "locus": "ערך יבם, ערך גס",
-     "work": "",
-     "author": "",
+     "work": "Sefer HaTishbi",
+     "author": "Rabbi Eliyahu HaBachur",
      "sv": [
       "יבם",
       "גס"
      ],
-     "english": ""
+     "english": "Rabbi Eliyahu HaBachur, *Sefer HaTishbi*, s.v. יבם, גס"
     },
     {
      "raw": "קהלת יעקב לר\"יי אלגזי ערך גיס (אות קכא, לשון חכמים)",
@@ -3824,8 +3839,16 @@
      "english": "*Toras HaElokim* (בראשית לח:ח)"
     },
     {
-     "raw": "המדריך המספיק )עמ' 74(, יעב\"ץ בעזר אור על ספר התשבי",
-     "head": "המדריך המספיק )עמ' 74(, יעב\"ץ בעזר אור על ספר התשבי",
+     "raw": "המדריך המספיק (עמ' 74)",
+     "head": "המדריך המספיק",
+     "locus": "עמ' 74",
+     "work": "HaMadrich HaMaspik",
+     "author": "Rabbi Tanchum HaYerushalmi",
+     "english": "Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik* (עמ' 74)"
+    },
+    {
+     "raw": "יעב\"ץ בעזר אור על ספר התשבי",
+     "head": "יעב\"ץ בעזר אור על ספר התשבי",
      "locus": "",
      "work": "Sefer HaTishbi",
      "author": "Rabbi Eliyahu HaBachur",
@@ -3977,9 +4000,9 @@
      "english": ""
     },
     {
-     "raw": "גלילי כסף )אדני כסף עמ' כט)",
-     "head": "גלילי כסף )אדני כסף עמ' כט)",
-     "locus": "",
+     "raw": "גלילי כסף (אדני כסף עמ' כט)",
+     "head": "גלילי כסף",
+     "locus": "אדני כסף עמ' כט",
      "work": "",
      "author": "",
      "english": ""
@@ -4445,9 +4468,9 @@
      "english": ""
     },
     {
-     "raw": "שו\"ת המבי\"ט (ח\"א סי' קכה ד\"ה השני(",
-     "head": "שו\"ת המבי\"ט (ח\"א סי' קכה ד\"ה השני(",
-     "locus": "",
+     "raw": "שו\"ת המבי\"ט (ח\"א סי' קכה ד\"ה השני)",
+     "head": "שו\"ת המבי\"ט",
+     "locus": "ח\"א סי' קכה ד\"ה השני",
      "work": "",
      "author": "",
      "english": ""
@@ -4788,9 +4811,9 @@
      "english": "Rav Hirsch (בראשית ב:ב)"
     },
     {
-     "raw": "מעשה נסים על הגדש\"פ )ד\"ה ויציאנו ה' ממצרים לא על ידי מלאך וכו')",
-     "head": "מעשה נסים על הגדש\"פ )ד\"ה ויציאנו ה' ממצרים לא על ידי מלאך וכו')",
-     "locus": "",
+     "raw": "מעשה נסים על הגדש\"פ (ד\"ה ויציאנו ה' ממצרים לא על ידי מלאך וכו')",
+     "head": "מעשה נסים על הגדש\"פ",
+     "locus": "ד\"ה ויציאנו ה' ממצרים לא על ידי מלאך וכו'",
      "work": "",
      "author": "",
      "english": ""
@@ -4848,9 +4871,9 @@
      "english": "Rav Hirsch (בראשית ב:ב)"
     },
     {
-     "raw": "מעשה נסים על הגדש\"פ )ד\"ה ויציאנו ה' ממצרים לא על ידי מלאך וכו')",
-     "head": "מעשה נסים על הגדש\"פ )ד\"ה ויציאנו ה' ממצרים לא על ידי מלאך וכו')",
-     "locus": "",
+     "raw": "מעשה נסים על הגדש\"פ (ד\"ה ויציאנו ה' ממצרים לא על ידי מלאך וכו')",
+     "head": "מעשה נסים על הגדש\"פ",
+     "locus": "ד\"ה ויציאנו ה' ממצרים לא על ידי מלאך וכו'",
      "work": "",
      "author": "",
      "english": ""
@@ -4925,36 +4948,60 @@
      "english": "*Moshav Zekeinim* (ר\"פ נשא)"
     },
     {
-     "raw": "דברי יואל עה\"ת )חלק ד' עמ' תכ(, אלשיך (שמות כ:ט), נאות דשא (ח\"ב עמ' כז), יין לבנון לרנה\"ו (עמ' יד ועמ' כג) הובא בספר מלאכת מחשבת להרב משה חפץ (ר\"פ תרומה) וגם מובא בספר אהל שלמה להרב שלמה זילברשטיין (פרשת ויקרא, עמ' מה), יריעות שלמה עמ' 716-717)",
-     "head": "דברי יואל עה\"ת )חלק ד' עמ' תכ",
-     "locus": "אלשיך (שמות כ:ט), נאות דשא (ח\"ב עמ' כז), יין לבנון לרנה\"ו (עמ' יד ועמ' כג) הובא בספר מלאכת מחשבת להרב משה חפץ (ר\"פ תרומה) וגם מובא בספר אהל שלמה להרב שלמה זילברשטיין (פרשת ויקרא, עמ' מה), יריעות שלמה עמ' 716-717",
+     "raw": "דברי יואל עה\"ת (חלק ד' עמ' תכ)",
+     "head": "דברי יואל עה\"ת",
+     "locus": "חלק ד' עמ' תכ",
      "work": "",
      "author": "",
      "english": ""
     },
     {
-     "raw": "שיחות הרב צבי יהודה (שמות עמ' 379-380)",
-     "head": "שיחות הרב צבי יהודה",
-     "locus": "שמות עמ' 379-380",
-     "work": "Sichos",
-     "author": "Rabbi Tzvi Yehuda Kook",
-     "english": "Rabbi Tzvi Yehuda Kook, *Sichos* (שמות עמ' 379-380)"
+     "raw": "אלשיך (שמות כ:ט)",
+     "head": "אלשיך",
+     "locus": "שמות כ:ט",
+     "work": "",
+     "author": "",
+     "english": ""
     },
     {
-     "raw": "תורת אלהים עם ביאור חדש (שמות יב:טז, כ:ט)",
-     "head": "תורת אלהים עם ביאור חדש",
-     "locus": "שמות יב:טז, כ:ט",
-     "work": "Ohr Chadash",
-     "author": "Rabbi David Chaim Chelouche",
-     "english": "Rabbi David Chaim Chelouche, *Ohr Chadash* (שמות יב:טז, כ:ט)"
+     "raw": "נאות דשא (ח\"ב עמ' כז)",
+     "head": "נאות דשא",
+     "locus": "ח\"ב עמ' כז",
+     "work": "",
+     "author": "",
+     "english": ""
     },
     {
-     "raw": "הכתב והקבלה (שמות כ:י, לה:א)",
-     "head": "הכתב והקבלה",
-     "locus": "שמות כ:י, לה:א",
+     "raw": "יין לבנון לרנה\"ו (עמ' יד ועמ' כג) הובא בספר מלאכת מחשבת להרב משה חפץ (ר\"פ תרומה) וגם מובא בספר אהל שלמה להרב שלמה זילברשטיין (פרשת ויקרא, עמ' מה)",
+     "head": "יין לבנון לרנה\"ו",
+     "locus": "עמ' יד ועמ' כג) הובא בספר מלאכת מחשבת להרב משה חפץ (ר\"פ תרומה) וגם מובא בספר אהל שלמה להרב שלמה זילברשטיין (פרשת ויקרא, עמ' מה",
+     "work": "",
+     "author": "",
+     "english": ""
+    },
+    {
+     "raw": "יריעות שלמה עמ' 716-717(, שיחות הרב צבי יהודה )שמות עמ' 379-380(, תורת אלהים עם ביאור חדש )שמות יב:טז",
+     "head": "יריעות שלמה עמ' 716-717(, שיחות הרב צבי יהודה )שמות עמ' 379-380(, תורת אלהים עם ביאור חדש )שמות יב:טז",
+     "locus": "",
+     "work": "Yerios Shlomo",
+     "author": "Rabbi Shlomo Pappenheim",
+     "english": "Rabbi Shlomo Pappenheim, *Yerios Shlomo*"
+    },
+    {
+     "raw": "כ:ט(, הכתב והקבלה )שמות כ:י",
+     "head": "כ:ט(, הכתב והקבלה )שמות כ:י",
+     "locus": "",
      "work": "HaKsav VeHaKabbalah",
      "author": "Rabbi Yaakov Tzvi Mecklenburg",
-     "english": "Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* (שמות כ:י, לה:א)"
+     "english": "Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*"
+    },
+    {
+     "raw": "לה:א(",
+     "head": "לה:א(",
+     "locus": "",
+     "work": "",
+     "author": "",
+     "english": ""
     }
    ]
   }
@@ -5356,9 +5403,9 @@
      "raw": "חתם תכנית (עמ' 66)",
      "head": "חתם תכנית",
      "locus": "עמ' 66",
-     "work": "",
-     "author": "",
-     "english": ""
+     "work": "Chotam Tochnit",
+     "author": "Rabbi Avraham Bedersi",
+     "english": "Rabbi Avraham Bedersi, *Chotam Tochnit* (עמ' 66)"
     },
     {
      "raw": "חשק שלמה (ערך אם)",
@@ -5617,12 +5664,12 @@
      "raw": "שורש ישע (ערך עור)",
      "head": "שורש ישע",
      "locus": "ערך עור",
-     "work": "",
-     "author": "",
+     "work": "Shoresh Yesha",
+     "author": "Rabbi Yitzchak of Zeldin",
      "sv": [
       "עור"
      ],
-     "english": ""
+     "english": "Rabbi Yitzchak of Zeldin, *Shoresh Yesha*, s.v. עור"
     },
     {
      "raw": "הכתב והקבלה (בראשית יא:ד)",
@@ -6216,8 +6263,8 @@
      "english": "Rabbi Aharon Marcus, *Barzilai* (עמ' 64)"
     },
     {
-     "raw": "יאיר אור (אות א' סימן ל\"ד אסר/קשר, אות ח' סימן ג' (חבש/חתל). TO DO: Yerios shlomo page 726",
-     "head": "יאיר אור (אות א' סימן ל\"ד אסר/קשר, אות ח' סימן ג' (חבש/חתל). TO DO: Yerios shlomo page 726",
+     "raw": "יאיר אור (אות א' סימן ל\"ד אסר/קשר, אות ח' סימן ג' )חבש/חתל(. TO DO: Yerios shlomo page 726",
+     "head": "יאיר אור (אות א' סימן ל\"ד אסר/קשר, אות ח' סימן ג' )חבש/חתל(. TO DO: Yerios shlomo page 726",
      "locus": "",
      "work": "Yair Ohr",
      "author": "Malbim",
@@ -6315,8 +6362,8 @@
      "english": "Rabbi Aharon Marcus, *Barzilai* (עמ' 64)"
     },
     {
-     "raw": "יאיר אור (אות א' סימן ל\"ד אסר/קשר, אות ח' סימן ג' (חבש/חתל). TO DO: Yerios shlomo page 726",
-     "head": "יאיר אור (אות א' סימן ל\"ד אסר/קשר, אות ח' סימן ג' (חבש/חתל). TO DO: Yerios shlomo page 726",
+     "raw": "יאיר אור (אות א' סימן ל\"ד אסר/קשר, אות ח' סימן ג' )חבש/חתל(. TO DO: Yerios shlomo page 726",
+     "head": "יאיר אור (אות א' סימן ל\"ד אסר/קשר, אות ח' סימן ג' )חבש/חתל(. TO DO: Yerios shlomo page 726",
      "locus": "",
      "work": "Yair Ohr",
      "author": "Malbim",
@@ -6385,8 +6432,8 @@
      "english": "Rabbi Aharon Marcus, *Barzilai* (עמ' 64)"
     },
     {
-     "raw": "יאיר אור (אות א' סימן ל\"ד אסר/קשר, אות ח' סימן ג' (חבש/חתל). TO DO: Yerios shlomo page 726",
-     "head": "יאיר אור (אות א' סימן ל\"ד אסר/קשר, אות ח' סימן ג' (חבש/חתל). TO DO: Yerios shlomo page 726",
+     "raw": "יאיר אור (אות א' סימן ל\"ד אסר/קשר, אות ח' סימן ג' )חבש/חתל(. TO DO: Yerios shlomo page 726",
+     "head": "יאיר אור (אות א' סימן ל\"ד אסר/קשר, אות ח' סימן ג' )חבש/חתל(. TO DO: Yerios shlomo page 726",
      "locus": "",
      "work": "Yair Ohr",
      "author": "Malbim",
@@ -7072,56 +7119,16 @@
      "english": ""
     },
     {
-     "raw": "אגרות פרי מגדים אגרת א אות יב בשו\"ע מהדו' פרידמן)",
-     "head": "אגרות פרי מגדים אגרת א אות יב בשו\"ע מהדו' פרידמן)",
+     "raw": "אגרות פרי מגדים אגרת א אות יב בשו\"ע מהדו' פרידמן(, פרי מגדים )אשל אברהם או\"ח כה ח(. https://lib.cet.ac.il/pages/item.asp?item=13044 Jeffrey H. Tigay, “On the Meaning of #)W(#PT,” *Journal of Biblical Literature*, Vol. 101, No. 3. )Sep",
+     "head": "אגרות פרי מגדים אגרת א אות יב בשו\"ע מהדו' פרידמן(, פרי מגדים )אשל אברהם או\"ח כה ח(. https://lib.cet.ac.il/pages/item.asp?item=13044 Jeffrey H. Tigay, “On the Meaning of #)W(#PT,” *Journal of Biblical Literature*, Vol. 101, No. 3. )Sep",
      "locus": "",
      "work": "",
      "author": "",
      "english": ""
     },
     {
-     "raw": "פרי מגדים (אשל אברהם או\"ח כה ח). https://lib.cet.ac.il/pages/item.asp?item=13044 Jeffrey H. Tigay",
-     "head": "פרי מגדים (אשל אברהם או\"ח כה ח). https://lib.cet.ac.il/pages/item.asp?item=13044 Jeffrey H. Tigay",
-     "locus": "",
-     "work": "",
-     "author": "",
-     "english": ""
-    },
-    {
-     "raw": "“On the Meaning of #(W)#PT",
-     "head": "“On the Meaning of #(W)#PT",
-     "locus": "",
-     "work": "",
-     "author": "",
-     "english": ""
-    },
-    {
-     "raw": "” *Journal of Biblical Literature*",
-     "head": "” *Journal of Biblical Literature*",
-     "locus": "",
-     "work": "",
-     "author": "",
-     "english": ""
-    },
-    {
-     "raw": "Vol. 101",
-     "head": "Vol. 101",
-     "locus": "",
-     "work": "",
-     "author": "",
-     "english": ""
-    },
-    {
-     "raw": "No. 3. (Sep., 1982)",
-     "head": "No. 3",
-     "locus": "Sep., 1982",
-     "work": "",
-     "author": "",
-     "english": ""
-    },
-    {
-     "raw": "pp. 321-331",
-     "head": "pp. 321-331",
+     "raw": "1982(, pp. 321-331",
+     "head": "1982(, pp. 321-331",
      "locus": "",
      "work": "",
      "author": "",
@@ -7354,25 +7361,9 @@
    "note": "ד. שפרבר )הספינה האיסקופה והדוגית - הערה במכר התלמודי\", דיני ישראל, גליון ח' 1977 ), עץ חיים (הלכות סופרים עמ' שנה), ספר הכרמל (ערך צי), חשק שלמה (ערך אן, ערך סף ויריעות שלמה), הספנות העברית (פאטאי, עמ' 45), Sperber, Nautica Talmudica, 1986. p. 26,",
    "items": [
     {
-     "raw": "ד. שפרבר )הספינה האיסקופה והדוגית - הערה במכר התלמודי\"",
-     "head": "ד. שפרבר )הספינה האיסקופה והדוגית - הערה במכר התלמודי\"",
-     "locus": "",
-     "work": "",
-     "author": "",
-     "english": ""
-    },
-    {
-     "raw": "דיני ישראל",
-     "head": "דיני ישראל",
-     "locus": "",
-     "work": "",
-     "author": "",
-     "english": ""
-    },
-    {
-     "raw": "גליון ח' 1977 )",
-     "head": "גליון ח' 1977 )",
-     "locus": "",
+     "raw": "ד. שפרבר (הספינה האיסקופה והדוגית - הערה במכר התלמודי\", דיני ישראל, גליון ח' 1977 )",
+     "head": "ד. שפרבר",
+     "locus": "הספינה האיסקופה והדוגית - הערה במכר התלמודי\", דיני ישראל, גליון ח' 1977",
      "work": "",
      "author": "",
      "english": ""
@@ -7515,9 +7506,9 @@
      "english": ""
     },
     {
-     "raw": "שו\"ת המבי\"ט (ח\"א סי' קכה ד\"ה השני(",
-     "head": "שו\"ת המבי\"ט (ח\"א סי' קכה ד\"ה השני(",
-     "locus": "",
+     "raw": "שו\"ת המבי\"ט (ח\"א סי' קכה ד\"ה השני)",
+     "head": "שו\"ת המבי\"ט",
+     "locus": "ח\"א סי' קכה ד\"ה השני",
      "work": "",
      "author": "",
      "english": ""
@@ -7967,11 +7958,14 @@
      "english": "Malbim, *Yair Ohr* (מערכת י אות טו)"
     },
     {
-     "raw": "ספר השרשים לרד\"ק ולריב\"ג (ערך נצל(",
-     "head": "ספר השרשים לרד\"ק ולריב\"ג (ערך נצל(",
-     "locus": "",
+     "raw": "ספר השרשים לרד\"ק ולריב\"ג (ערך נצל)",
+     "head": "ספר השרשים לרד\"ק ולריב\"ג",
+     "locus": "ערך נצל",
      "work": "",
      "author": "",
+     "sv": [
+      "נצל"
+     ],
      "english": ""
     }
    ]
@@ -8098,11 +8092,14 @@
      "english": "Malbim, *Yair Ohr* (מערכת י אות טו)"
     },
     {
-     "raw": "ספר השרשים לרד\"ק ולריב\"ג (ערך נצל(",
-     "head": "ספר השרשים לרד\"ק ולריב\"ג (ערך נצל(",
-     "locus": "",
+     "raw": "ספר השרשים לרד\"ק ולריב\"ג (ערך נצל)",
+     "head": "ספר השרשים לרד\"ק ולריב\"ג",
+     "locus": "ערך נצל",
      "work": "",
      "author": "",
+     "sv": [
+      "נצל"
+     ],
      "english": ""
     }
    ]
@@ -8412,16 +8409,23 @@
      "english": ""
     },
     {
-     "raw": "יריעות שלמה (עמ' 463(, מהרשא\"ו (ערך שאב/שאף)",
+     "raw": "יריעות שלמה (עמ' 463)",
      "head": "יריעות שלמה",
-     "locus": "עמ' 463(, מהרשא\"ו (ערך שאב/שאף",
+     "locus": "עמ' 463",
      "work": "Yerios Shlomo",
      "author": "Rabbi Shlomo Pappenheim",
+     "english": "Rabbi Shlomo Pappenheim, *Yerios Shlomo* (עמ' 463)"
+    },
+    {
+     "raw": "מהרשא\"ו (ערך שאב/שאף)",
+     "head": "מהרשא\"ו",
+     "locus": "ערך שאב/שאף",
+     "work": "Beiurei Shemos Nirdafim",
+     "author": "Rabbi Shlomo Aharon Wertheimer",
      "sv": [
-      "עמ' 463(, מהרשא\"ו (ערך שאב",
-      "שאף"
+      "שאב/שאף"
      ],
-     "english": "Rabbi Shlomo Pappenheim, *Yerios Shlomo*, s.v. עמ' 463(, מהרשא\"ו (ערך שאב, שאף"
+     "english": "Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim*, s.v. שאב/שאף"
     }
    ]
   }
@@ -8555,16 +8559,23 @@
      "english": ""
     },
     {
-     "raw": "יריעות שלמה (עמ' 463(, מהרשא\"ו (ערך שאב/שאף)",
+     "raw": "יריעות שלמה (עמ' 463)",
      "head": "יריעות שלמה",
-     "locus": "עמ' 463(, מהרשא\"ו (ערך שאב/שאף",
+     "locus": "עמ' 463",
      "work": "Yerios Shlomo",
      "author": "Rabbi Shlomo Pappenheim",
+     "english": "Rabbi Shlomo Pappenheim, *Yerios Shlomo* (עמ' 463)"
+    },
+    {
+     "raw": "מהרשא\"ו (ערך שאב/שאף)",
+     "head": "מהרשא\"ו",
+     "locus": "ערך שאב/שאף",
+     "work": "Beiurei Shemos Nirdafim",
+     "author": "Rabbi Shlomo Aharon Wertheimer",
      "sv": [
-      "עמ' 463(, מהרשא\"ו (ערך שאב",
-      "שאף"
+      "שאב/שאף"
      ],
-     "english": "Rabbi Shlomo Pappenheim, *Yerios Shlomo*, s.v. עמ' 463(, מהרשא\"ו (ערך שאב, שאף"
+     "english": "Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim*, s.v. שאב/שאף"
     }
    ]
   }
@@ -8630,9 +8641,9 @@
      "raw": "חתם תכנית (שער כ\"ז)",
      "head": "חתם תכנית",
      "locus": "שער כ\"ז",
-     "work": "",
-     "author": "",
-     "english": ""
+     "work": "Chotam Tochnit",
+     "author": "Rabbi Avraham Bedersi",
+     "english": "Rabbi Avraham Bedersi, *Chotam Tochnit* (שער כ\"ז)"
     },
     {
      "raw": "מהרשא\"ו (ערך אביון/עני/דל... וערך רש/תכך)",
@@ -8695,16 +8706,23 @@
      "english": ""
     },
     {
-     "raw": "יריעות שלמה (עמ' 463(, מהרשא\"ו (ערך שאב/שאף)",
+     "raw": "יריעות שלמה (עמ' 463)",
      "head": "יריעות שלמה",
-     "locus": "עמ' 463(, מהרשא\"ו (ערך שאב/שאף",
+     "locus": "עמ' 463",
      "work": "Yerios Shlomo",
      "author": "Rabbi Shlomo Pappenheim",
+     "english": "Rabbi Shlomo Pappenheim, *Yerios Shlomo* (עמ' 463)"
+    },
+    {
+     "raw": "מהרשא\"ו (ערך שאב/שאף)",
+     "head": "מהרשא\"ו",
+     "locus": "ערך שאב/שאף",
+     "work": "Beiurei Shemos Nirdafim",
+     "author": "Rabbi Shlomo Aharon Wertheimer",
      "sv": [
-      "עמ' 463(, מהרשא\"ו (ערך שאב",
-      "שאף"
+      "שאב/שאף"
      ],
-     "english": "Rabbi Shlomo Pappenheim, *Yerios Shlomo*, s.v. עמ' 463(, מהרשא\"ו (ערך שאב, שאף"
+     "english": "Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim*, s.v. שאב/שאף"
     }
    ]
   }
@@ -8732,12 +8750,15 @@
      "english": "Rabbi Shlomo Pappenheim, *Yerios Shlomo* (עמ' 501)"
     },
     {
-     "raw": "ספר הכרמל (ערך נגף(",
-     "head": "ספר הכרמל (ערך נגף(",
-     "locus": "",
-     "work": "",
-     "author": "",
-     "english": ""
+     "raw": "ספר הכרמל (ערך נגף)",
+     "head": "ספר הכרמל",
+     "locus": "ערך נגף",
+     "work": "Sefer HaCarmel",
+     "author": "Malbim",
+     "sv": [
+      "נגף"
+     ],
+     "english": "Malbim, *Sefer HaCarmel*, s.v. נגף"
     }
    ]
   }
@@ -8760,12 +8781,12 @@
      "raw": "שורש ישע (ערך נחל)",
      "head": "שורש ישע",
      "locus": "ערך נחל",
-     "work": "",
-     "author": "",
+     "work": "Shoresh Yesha",
+     "author": "Rabbi Yitzchak of Zeldin",
      "sv": [
       "נחל"
      ],
-     "english": ""
+     "english": "Rabbi Yitzchak of Zeldin, *Shoresh Yesha*, s.v. נחל"
     },
     {
      "raw": "ספר השרשים בן ג'אנח (ערך נחל)",
@@ -8862,15 +8883,31 @@
      "english": "Rabbi Shlomo Pappenheim, *Yerios Shlomo* (עמ' 202 ולהלן)"
     },
     {
-     "raw": "ספר הכרמל (ערך מסלה, ארח, נתיב(, נפלאות מתורת השי\"ת (פרק נ'), הגרשר\"ה (בראשית מא:ו)",
+     "raw": "ספר הכרמל (ערך מסלה, ארח, נתיב)",
      "head": "ספר הכרמל",
-     "locus": "ערך מסלה, ארח, נתיב(, נפלאות מתורת השי\"ת (פרק נ'), הגרשר\"ה (בראשית מא:ו",
+     "locus": "ערך מסלה, ארח, נתיב",
      "work": "Sefer HaCarmel",
      "author": "Malbim",
      "sv": [
-      "מסלה, ארח, נתיב(, נפלאות מתורת השי\"ת (פרק נ'), הגרשר\"ה (בראשית מא:ו"
+      "מסלה, ארח, נתיב"
      ],
-     "english": "Malbim, *Sefer HaCarmel*, s.v. מסלה, ארח, נתיב(, נפלאות מתורת השי\"ת (פרק נ'), הגרשר\"ה (בראשית מא:ו"
+     "english": "Malbim, *Sefer HaCarmel*, s.v. מסלה, ארח, נתיב"
+    },
+    {
+     "raw": "נפלאות מתורת השי\"ת (פרק נ')",
+     "head": "נפלאות מתורת השי\"ת",
+     "locus": "פרק נ'",
+     "work": "",
+     "author": "",
+     "english": ""
+    },
+    {
+     "raw": "הגרשר\"ה (בראשית מא:ו)",
+     "head": "הגרשר\"ה",
+     "locus": "בראשית מא:ו",
+     "work": "",
+     "author": "",
+     "english": ""
     }
    ]
   }
@@ -9396,16 +9433,34 @@
      "english": "Rabbi Yehuda Leib Edel, *Redifei Maya*, s.v. יפת"
     },
     {
-     "raw": "מהרשא\"ו (ערך אות\\מופת(,רוקח (בראשית עמ' סב) אות לשון אתא שיבא מיד מופת תמהון שאינו רגיל להיות., חשק שלמה (ערך עד)",
+     "raw": "מהרשא\"ו (ערך אות\\מופת)",
      "head": "מהרשא\"ו",
-     "locus": "ערך אות\\מופת(,רוקח (בראשית עמ' סב) אות לשון אתא שיבא מיד מופת תמהון שאינו רגיל להיות., חשק שלמה (ערך עד",
+     "locus": "ערך אות\\מופת",
      "work": "Beiurei Shemos Nirdafim",
      "author": "Rabbi Shlomo Aharon Wertheimer",
      "sv": [
-      "אות\\מופת(,רוקח (בראשית עמ' סב) אות לשון אתא שיבא מיד מופת תמהון שאינו רגיל להיות., חשק שלמה (",
+      "אות\\מופת"
+     ],
+     "english": "Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim*, s.v. אות\\מופת"
+    },
+    {
+     "raw": "רוקח (בראשית עמ' סב) אות לשון אתא שיבא מיד מופת תמהון שאינו רגיל להיות",
+     "head": "רוקח (בראשית עמ' סב) אות לשון אתא שיבא מיד מופת תמהון שאינו רגיל להיות",
+     "locus": "",
+     "work": "",
+     "author": "",
+     "english": ""
+    },
+    {
+     "raw": "חשק שלמה (ערך עד)",
+     "head": "חשק שלמה",
+     "locus": "ערך עד",
+     "work": "Cheshek Shlomo",
+     "author": "Rabbi Shlomo Pappenheim",
+     "sv": [
       "עד"
      ],
-     "english": "Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim*, s.v. אות\\מופת(,רוקח (בראשית עמ' סב) אות לשון אתא שיבא מיד מופת תמהון שאינו רגיל להיות., חשק שלמה (, עד"
+     "english": "Rabbi Shlomo Pappenheim, *Cheshek Shlomo*, s.v. עד"
     }
    ]
   }
@@ -9617,56 +9672,16 @@
      "english": ""
     },
     {
-     "raw": "אגרות פרי מגדים אגרת א אות יב בשו\"ע מהדו' פרידמן)",
-     "head": "אגרות פרי מגדים אגרת א אות יב בשו\"ע מהדו' פרידמן)",
+     "raw": "אגרות פרי מגדים אגרת א אות יב בשו\"ע מהדו' פרידמן(, פרי מגדים )אשל אברהם או\"ח כה ח(. https://lib.cet.ac.il/pages/item.asp?item=13044 Jeffrey H. Tigay, “On the Meaning of #)W(#PT,” *Journal of Biblical Literature*, Vol. 101, No. 3. )Sep",
+     "head": "אגרות פרי מגדים אגרת א אות יב בשו\"ע מהדו' פרידמן(, פרי מגדים )אשל אברהם או\"ח כה ח(. https://lib.cet.ac.il/pages/item.asp?item=13044 Jeffrey H. Tigay, “On the Meaning of #)W(#PT,” *Journal of Biblical Literature*, Vol. 101, No. 3. )Sep",
      "locus": "",
      "work": "",
      "author": "",
      "english": ""
     },
     {
-     "raw": "פרי מגדים (אשל אברהם או\"ח כה ח). https://lib.cet.ac.il/pages/item.asp?item=13044 Jeffrey H. Tigay",
-     "head": "פרי מגדים (אשל אברהם או\"ח כה ח). https://lib.cet.ac.il/pages/item.asp?item=13044 Jeffrey H. Tigay",
-     "locus": "",
-     "work": "",
-     "author": "",
-     "english": ""
-    },
-    {
-     "raw": "“On the Meaning of #(W)#PT",
-     "head": "“On the Meaning of #(W)#PT",
-     "locus": "",
-     "work": "",
-     "author": "",
-     "english": ""
-    },
-    {
-     "raw": "” *Journal of Biblical Literature*",
-     "head": "” *Journal of Biblical Literature*",
-     "locus": "",
-     "work": "",
-     "author": "",
-     "english": ""
-    },
-    {
-     "raw": "Vol. 101",
-     "head": "Vol. 101",
-     "locus": "",
-     "work": "",
-     "author": "",
-     "english": ""
-    },
-    {
-     "raw": "No. 3. (Sep., 1982)",
-     "head": "No. 3",
-     "locus": "Sep., 1982",
-     "work": "",
-     "author": "",
-     "english": ""
-    },
-    {
-     "raw": "pp. 321-331",
-     "head": "pp. 321-331",
+     "raw": "1982(, pp. 321-331",
+     "head": "1982(, pp. 321-331",
      "locus": "",
      "work": "",
      "author": "",
@@ -9696,16 +9711,12 @@
      "english": "Rav Hirsch (במדבר טו:לח)"
     },
     {
-     "raw": "יאיר אור (אות מ' סימן ט' (מוסרה/עבתה)",
-     "head": "יאיר אור",
-     "locus": "אות מ' סימן ט' (מוסרה/עבתה",
+     "raw": "יאיר אור (אות מ' סימן ט' )מוסרה/עבתה(",
+     "head": "יאיר אור (אות מ' סימן ט' )מוסרה/עבתה(",
+     "locus": "",
      "work": "Yair Ohr",
      "author": "Malbim",
-     "sv": [
-      "אות מ' סימן ט' (מוסרה",
-      "עבתה"
-     ],
-     "english": "Malbim, *Yair Ohr*, s.v. אות מ' סימן ט' (מוסרה, עבתה"
+     "english": "Malbim, *Yair Ohr*"
     }
    ]
   },
@@ -9772,56 +9783,16 @@
      "english": ""
     },
     {
-     "raw": "אגרות פרי מגדים אגרת א אות יב בשו\"ע מהדו' פרידמן)",
-     "head": "אגרות פרי מגדים אגרת א אות יב בשו\"ע מהדו' פרידמן)",
+     "raw": "אגרות פרי מגדים אגרת א אות יב בשו\"ע מהדו' פרידמן(, פרי מגדים )אשל אברהם או\"ח כה ח(. https://lib.cet.ac.il/pages/item.asp?item=13044 Jeffrey H. Tigay, “On the Meaning of #)W(#PT,” *Journal of Biblical Literature*, Vol. 101, No. 3. )Sep",
+     "head": "אגרות פרי מגדים אגרת א אות יב בשו\"ע מהדו' פרידמן(, פרי מגדים )אשל אברהם או\"ח כה ח(. https://lib.cet.ac.il/pages/item.asp?item=13044 Jeffrey H. Tigay, “On the Meaning of #)W(#PT,” *Journal of Biblical Literature*, Vol. 101, No. 3. )Sep",
      "locus": "",
      "work": "",
      "author": "",
      "english": ""
     },
     {
-     "raw": "פרי מגדים (אשל אברהם או\"ח כה ח). https://lib.cet.ac.il/pages/item.asp?item=13044 Jeffrey H. Tigay",
-     "head": "פרי מגדים (אשל אברהם או\"ח כה ח). https://lib.cet.ac.il/pages/item.asp?item=13044 Jeffrey H. Tigay",
-     "locus": "",
-     "work": "",
-     "author": "",
-     "english": ""
-    },
-    {
-     "raw": "“On the Meaning of #(W)#PT",
-     "head": "“On the Meaning of #(W)#PT",
-     "locus": "",
-     "work": "",
-     "author": "",
-     "english": ""
-    },
-    {
-     "raw": "” *Journal of Biblical Literature*",
-     "head": "” *Journal of Biblical Literature*",
-     "locus": "",
-     "work": "",
-     "author": "",
-     "english": ""
-    },
-    {
-     "raw": "Vol. 101",
-     "head": "Vol. 101",
-     "locus": "",
-     "work": "",
-     "author": "",
-     "english": ""
-    },
-    {
-     "raw": "No. 3. (Sep., 1982)",
-     "head": "No. 3",
-     "locus": "Sep., 1982",
-     "work": "",
-     "author": "",
-     "english": ""
-    },
-    {
-     "raw": "pp. 321-331",
-     "head": "pp. 321-331",
+     "raw": "1982(, pp. 321-331",
+     "head": "1982(, pp. 321-331",
      "locus": "",
      "work": "",
      "author": "",
@@ -10454,13 +10425,13 @@
      "raw": "ספר תשבי (ערך יבם, ערך גס)",
      "head": "ספר תשבי",
      "locus": "ערך יבם, ערך גס",
-     "work": "",
-     "author": "",
+     "work": "Sefer HaTishbi",
+     "author": "Rabbi Eliyahu HaBachur",
      "sv": [
       "יבם",
       "גס"
      ],
-     "english": ""
+     "english": "Rabbi Eliyahu HaBachur, *Sefer HaTishbi*, s.v. יבם, גס"
     },
     {
      "raw": "קהלת יעקב לר\"יי אלגזי ערך גיס (אות קכא, לשון חכמים)",
@@ -10498,8 +10469,16 @@
      "english": "*Toras HaElokim* (בראשית לח:ח)"
     },
     {
-     "raw": "המדריך המספיק )עמ' 74(, יעב\"ץ בעזר אור על ספר התשבי",
-     "head": "המדריך המספיק )עמ' 74(, יעב\"ץ בעזר אור על ספר התשבי",
+     "raw": "המדריך המספיק (עמ' 74)",
+     "head": "המדריך המספיק",
+     "locus": "עמ' 74",
+     "work": "HaMadrich HaMaspik",
+     "author": "Rabbi Tanchum HaYerushalmi",
+     "english": "Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik* (עמ' 74)"
+    },
+    {
+     "raw": "יעב\"ץ בעזר אור על ספר התשבי",
+     "head": "יעב\"ץ בעזר אור על ספר התשבי",
      "locus": "",
      "work": "Sefer HaTishbi",
      "author": "Rabbi Eliyahu HaBachur",
@@ -10972,12 +10951,60 @@
    "note": "מכסה אהל (אהל מועד ערך שקר(, יאיר אור, ספר הכרמל (ערף כזב), מהרשא\"ו (שוא\\שקר\\כחש\\כזב), רדיפי מיא (שרש כזב), הכתב והקבלה (ויקרא יט יא, בראשית לח ה), הרכסים לבקעה (ויקרא יט יא).",
    "items": [
     {
-     "raw": "מכסה אהל (אהל מועד ערך שקר(, יאיר אור, ספר הכרמל (ערף כזב), מהרשא\"ו (שוא\\שקר\\כחש\\כזב), רדיפי מיא (שרש כזב), הכתב והקבלה (ויקרא יט יא, בראשית לח ה), הרכסים לבקעה (ויקרא יט יא)",
+     "raw": "מכסה אהל (אהל מועד ערך שקר)",
      "head": "מכסה אהל",
-     "locus": "אהל מועד ערך שקר(, יאיר אור, ספר הכרמל (ערף כזב), מהרשא\"ו (שוא\\שקר\\כחש\\כזב), רדיפי מיא (שרש כזב), הכתב והקבלה (ויקרא יט יא, בראשית לח ה), הרכסים לבקעה (ויקרא יט יא",
+     "locus": "אהל מועד ערך שקר",
      "work": "",
      "author": "",
      "english": ""
+    },
+    {
+     "raw": "יאיר אור",
+     "head": "יאיר אור",
+     "locus": "",
+     "work": "Yair Ohr",
+     "author": "Malbim",
+     "english": "Malbim, *Yair Ohr*"
+    },
+    {
+     "raw": "ספר הכרמל (ערף כזב)",
+     "head": "ספר הכרמל",
+     "locus": "ערף כזב",
+     "work": "Sefer HaCarmel",
+     "author": "Malbim",
+     "english": "Malbim, *Sefer HaCarmel* (ערף כזב)"
+    },
+    {
+     "raw": "מהרשא\"ו (שוא\\שקר\\כחש\\כזב)",
+     "head": "מהרשא\"ו",
+     "locus": "שוא\\שקר\\כחש\\כזב",
+     "work": "Beiurei Shemos Nirdafim",
+     "author": "Rabbi Shlomo Aharon Wertheimer",
+     "english": "Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* (שוא\\שקר\\כחש\\כזב)"
+    },
+    {
+     "raw": "רדיפי מיא (שרש כזב)",
+     "head": "רדיפי מיא",
+     "locus": "שרש כזב",
+     "work": "Redifei Maya",
+     "author": "Rabbi Yehuda Leib Edel",
+     "english": "Rabbi Yehuda Leib Edel, *Redifei Maya* (שרש כזב)"
+    },
+    {
+     "raw": "הכתב והקבלה (ויקרא יט יא, בראשית לח ה)",
+     "head": "הכתב והקבלה",
+     "locus": "ויקרא יט יא, בראשית לח ה",
+     "work": "HaKsav VeHaKabbalah",
+     "author": "Rabbi Yaakov Tzvi Mecklenburg",
+     "english": "Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* (ויקרא יט יא, בראשית לח ה)"
+    },
+    {
+     "raw": "הרכסים לבקעה (ויקרא יט יא)",
+     "head": "הרכסים לבקעה",
+     "locus": "ויקרא יט יא",
+     "work": "HaRechasim LeVik'ah",
+     "author": "Rabbi Yehuda Leib Shapira-Frankfurter",
+     "english": "Rabbi Yehuda Leib Shapira-Frankfurter, *HaRechasim LeVik'ah* (ויקרא יט יא)"
     }
    ]
   }
@@ -11223,16 +11250,12 @@
      "english": "Rav Hirsch (במדבר טו:לח)"
     },
     {
-     "raw": "יאיר אור (אות מ' סימן ט' (מוסרה/עבתה)",
-     "head": "יאיר אור",
-     "locus": "אות מ' סימן ט' (מוסרה/עבתה",
+     "raw": "יאיר אור (אות מ' סימן ט' )מוסרה/עבתה(",
+     "head": "יאיר אור (אות מ' סימן ט' )מוסרה/עבתה(",
+     "locus": "",
      "work": "Yair Ohr",
      "author": "Malbim",
-     "sv": [
-      "אות מ' סימן ט' (מוסרה",
-      "עבתה"
-     ],
-     "english": "Malbim, *Yair Ohr*, s.v. אות מ' סימן ט' (מוסרה, עבתה"
+     "english": "Malbim, *Yair Ohr*"
     }
    ]
   },
@@ -11396,20 +11419,12 @@
      "english": "Malbim, *Sefer HaCarmel*, s.v. בושה/כלימה, כלם, חפר"
     },
     {
-     "raw": "יאיר אור אות ב' סימן ט' (בושה/כלמה/חרפה/חפר)",
+     "raw": "יאיר אור אות ב' סימן ט' (בושה/כלמה/חרפה/חפר), אות ח' סימן ל\"ז (חרף/גדף)",
      "head": "יאיר אור אות ב' סימן ט'",
-     "locus": "בושה/כלמה/חרפה/חפר",
+     "locus": "בושה/כלמה/חרפה/חפר), אות ח' סימן ל\"ז (חרף/גדף",
      "work": "Yair Ohr",
      "author": "Malbim",
-     "english": "Malbim, *Yair Ohr* (בושה/כלמה/חרפה/חפר)"
-    },
-    {
-     "raw": "אות ח' סימן ל\"ז (חרף/גדף)",
-     "head": "אות ח' סימן ל\"ז",
-     "locus": "חרף/גדף",
-     "work": "",
-     "author": "",
-     "english": ""
+     "english": "Malbim, *Yair Ohr* (בושה/כלמה/חרפה/חפר), אות ח' סימן ל\"ז (חרף/גדף)"
     },
     {
      "raw": "ספר השרשים לרד\"ק (ערך כלם)",
@@ -11431,9 +11446,9 @@
      "english": "Rabbi Avraham Bedersi, *Chotam Tochnit* (עמ' 78 ולהלן)"
     },
     {
-     "raw": "שערי תשובה )שער א העיקר הששי)",
-     "head": "שערי תשובה )שער א העיקר הששי)",
-     "locus": "",
+     "raw": "שערי תשובה (שער א העיקר הששי)",
+     "head": "שערי תשובה",
+     "locus": "שער א העיקר הששי",
      "work": "",
      "author": "",
      "english": ""
@@ -11725,12 +11740,12 @@
      "raw": "שורש ישע (ערך פרך)",
      "head": "שורש ישע",
      "locus": "ערך פרך",
-     "work": "",
-     "author": "",
+     "work": "Shoresh Yesha",
+     "author": "Rabbi Yitzchak of Zeldin",
      "sv": [
       "פרך"
      ],
-     "english": ""
+     "english": "Rabbi Yitzchak of Zeldin, *Shoresh Yesha*, s.v. פרך"
     },
     {
      "raw": "יריעות שלמה (עמ' 630, 842-843)",
@@ -12039,20 +12054,12 @@
      "english": "Malbim, *Sefer HaCarmel*, s.v. בושה/כלימה, כלם, חפר"
     },
     {
-     "raw": "יאיר אור אות ב' סימן ט' (בושה/כלמה/חרפה/חפר)",
+     "raw": "יאיר אור אות ב' סימן ט' (בושה/כלמה/חרפה/חפר), אות ח' סימן ל\"ז (חרף/גדף)",
      "head": "יאיר אור אות ב' סימן ט'",
-     "locus": "בושה/כלמה/חרפה/חפר",
+     "locus": "בושה/כלמה/חרפה/חפר), אות ח' סימן ל\"ז (חרף/גדף",
      "work": "Yair Ohr",
      "author": "Malbim",
-     "english": "Malbim, *Yair Ohr* (בושה/כלמה/חרפה/חפר)"
-    },
-    {
-     "raw": "אות ח' סימן ל\"ז (חרף/גדף)",
-     "head": "אות ח' סימן ל\"ז",
-     "locus": "חרף/גדף",
-     "work": "",
-     "author": "",
-     "english": ""
+     "english": "Malbim, *Yair Ohr* (בושה/כלמה/חרפה/חפר), אות ח' סימן ל\"ז (חרף/גדף)"
     },
     {
      "raw": "ספר השרשים לרד\"ק (ערך כלם)",
@@ -12074,9 +12081,9 @@
      "english": "Rabbi Avraham Bedersi, *Chotam Tochnit* (עמ' 78 ולהלן)"
     },
     {
-     "raw": "שערי תשובה )שער א העיקר הששי)",
-     "head": "שערי תשובה )שער א העיקר הששי)",
-     "locus": "",
+     "raw": "שערי תשובה (שער א העיקר הששי)",
+     "head": "שערי תשובה",
+     "locus": "שער א העיקר הששי",
      "work": "",
      "author": "",
      "english": ""
@@ -12520,9 +12527,9 @@
      "raw": "חתם תוכנית (עמ' 266)",
      "head": "חתם תוכנית",
      "locus": "עמ' 266",
-     "work": "",
-     "author": "",
-     "english": ""
+     "work": "Chotam Tochnit",
+     "author": "Rabbi Avraham Bedersi",
+     "english": "Rabbi Avraham Bedersi, *Chotam Tochnit* (עמ' 266)"
     }
    ]
   }
@@ -12666,12 +12673,36 @@
      "english": "Rabbi Shlomo Pappenheim, *Cheshek Shlomo*, s.v. זו"
     },
     {
-     "raw": "אור חדש (שמות עמ' שעט(, הכתב והקבלה (ויקרא יט:ט) A. Hurvitz, A Concise Lexicon of Late Biblical Hebrew (Brill, 2014), pgs. 103–105",
-     "head": "אור חדש (שמות עמ' שעט(, הכתב והקבלה (ויקרא יט:ט) A. Hurvitz, A Concise Lexicon of Late Biblical Hebrew (Brill, 2014), pgs. 103–105",
+     "raw": "אור חדש (שמות עמ' שעט)",
+     "head": "אור חדש",
+     "locus": "שמות עמ' שעט",
+     "work": "Ohr Chadash",
+     "author": "Rabbi David Chaim Chelouche",
+     "english": "Rabbi David Chaim Chelouche, *Ohr Chadash* (שמות עמ' שעט)"
+    },
+    {
+     "raw": "הכתב והקבלה (ויקרא יט:ט) A. Hurvitz",
+     "head": "הכתב והקבלה (ויקרא יט:ט) A. Hurvitz",
      "locus": "",
      "work": "HaKsav VeHaKabbalah",
      "author": "Rabbi Yaakov Tzvi Mecklenburg",
      "english": "Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*"
+    },
+    {
+     "raw": "A Concise Lexicon of Late Biblical Hebrew (Brill, 2014)",
+     "head": "A Concise Lexicon of Late Biblical Hebrew",
+     "locus": "Brill, 2014",
+     "work": "",
+     "author": "",
+     "english": ""
+    },
+    {
+     "raw": "pgs. 103–105",
+     "head": "pgs. 103–105",
+     "locus": "",
+     "work": "",
+     "author": "",
+     "english": ""
     }
    ]
   }
@@ -13310,9 +13341,9 @@
      "english": "Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* (בראשית א:כז)"
     },
     {
-     "raw": "ספר הגור )בראשית ח:א)",
-     "head": "ספר הגור )בראשית ח:א)",
-     "locus": "",
+     "raw": "ספר הגור (בראשית ח:א)",
+     "head": "ספר הגור",
+     "locus": "בראשית ח:א",
      "work": "",
      "author": "",
      "english": ""
@@ -13571,9 +13602,9 @@
      "english": "Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* (בראשית א:כז)"
     },
     {
-     "raw": "ספר הגור )בראשית ח:א)",
-     "head": "ספר הגור )בראשית ח:א)",
-     "locus": "",
+     "raw": "ספר הגור (בראשית ח:א)",
+     "head": "ספר הגור",
+     "locus": "בראשית ח:א",
      "work": "",
      "author": "",
      "english": ""
@@ -13763,16 +13794,12 @@
      "english": "Rav Hirsch (במדבר טו:לח)"
     },
     {
-     "raw": "יאיר אור (אות מ' סימן ט' (מוסרה/עבתה)",
-     "head": "יאיר אור",
-     "locus": "אות מ' סימן ט' (מוסרה/עבתה",
+     "raw": "יאיר אור (אות מ' סימן ט' )מוסרה/עבתה(",
+     "head": "יאיר אור (אות מ' סימן ט' )מוסרה/עבתה(",
+     "locus": "",
      "work": "Yair Ohr",
      "author": "Malbim",
-     "sv": [
-      "אות מ' סימן ט' (מוסרה",
-      "עבתה"
-     ],
-     "english": "Malbim, *Yair Ohr*, s.v. אות מ' סימן ט' (מוסרה, עבתה"
+     "english": "Malbim, *Yair Ohr*"
     }
    ]
   }
@@ -13795,9 +13822,9 @@
      "raw": "חתם תוכנית (שער העשירי, ערך דום/החרש/שתוק)",
      "head": "חתם תוכנית",
      "locus": "שער העשירי, ערך דום/החרש/שתוק",
-     "work": "",
-     "author": "",
-     "english": ""
+     "work": "Chotam Tochnit",
+     "author": "Rabbi Avraham Bedersi",
+     "english": "Rabbi Avraham Bedersi, *Chotam Tochnit* (שער העשירי, ערך דום/החרש/שתוק)"
     },
     {
      "raw": "חרש אלם דום (הכוה\"ק בר' ל:כז מד:ה, שמות לה:לה וי' י:ג, כ:ט בסופו, דב' כז:ט)",
@@ -14081,9 +14108,9 @@
      "raw": "רוקח (בראשית עמ' יט)",
      "head": "רוקח",
      "locus": "בראשית עמ' יט",
-     "work": "",
+     "work": "Peirush HaRokeach",
      "author": "",
-     "english": ""
+     "english": "*Peirush HaRokeach* (בראשית עמ' יט)"
     },
     {
      "raw": "חותם תוכנית (אות א' שער ל\"ג)",
@@ -14129,33 +14156,17 @@
      "english": ""
     },
     {
-     "raw": "י\"א אות א' סימן לה (אף/חמה/קצף/זעם/עברה/כעס/נאץ)",
+     "raw": "י\"א אות א' סימן לה (אף/חמה/קצף/זעם/עברה/כעס/נאץ), אות ז' סימן י\"א (זעם/עברה/חרון-אף)",
      "head": "י\"א אות א' סימן לה",
-     "locus": "אף/חמה/קצף/זעם/עברה/כעס/נאץ",
+     "locus": "אף/חמה/קצף/זעם/עברה/כעס/נאץ), אות ז' סימן י\"א (זעם/עברה/חרון-אף",
      "work": "",
      "author": "",
      "english": ""
     },
     {
-     "raw": "אות ז' סימן י\"א (זעם/עברה/חרון-אף)",
-     "head": "אות ז' סימן י\"א",
-     "locus": "זעם/עברה/חרון-אף",
-     "work": "",
-     "author": "",
-     "english": ""
-    },
-    {
-     "raw": "י\"א אות ח' סימן כ\"ב (חמה/אף)",
+     "raw": "י\"א אות ח' סימן כ\"ב (חמה/אף), אות כ' סימן ט\"ז (כעס/רגז)",
      "head": "י\"א אות ח' סימן כ\"ב",
-     "locus": "חמה/אף",
-     "work": "",
-     "author": "",
-     "english": ""
-    },
-    {
-     "raw": "אות כ' סימן ט\"ז (כעס/רגז)",
-     "head": "אות כ' סימן ט\"ז",
-     "locus": "כעס/רגז",
+     "locus": "חמה/אף), אות כ' סימן ט\"ז (כעס/רגז",
      "work": "",
      "author": "",
      "english": ""
@@ -14311,12 +14322,44 @@
      "english": ""
     },
     {
-     "raw": "מלים ותולדותיהן (קוטשר, עמ' 31-34(, קסת הסופר (בראשית י:ב), ברזילי (עמ' 65, 162), חותם תוכנית (י:יא), שם משמואל (חנוכה ליל ח' ד\"ה ומצאו פך)",
+     "raw": "מלים ותולדותיהן (קוטשר, עמ' 31-34)",
      "head": "מלים ותולדותיהן",
-     "locus": "קוטשר, עמ' 31-34(, קסת הסופר (בראשית י:ב), ברזילי (עמ' 65, 162), חותם תוכנית (י:יא), שם משמואל (חנוכה ליל ח' ד\"ה ומצאו פך",
+     "locus": "קוטשר, עמ' 31-34",
      "work": "Milim V'Toldoteihen",
      "author": "Professor Edward Yechezkel Kutscher",
-     "english": "Professor Edward Yechezkel Kutscher, *Milim V'Toldoteihen* (קוטשר, עמ' 31-34(, קסת הסופר (בראשית י:ב), ברזילי (עמ' 65, 162), חותם תוכנית (י:יא), שם משמואל (חנוכה ליל ח' ד\"ה ומצאו פך)"
+     "english": "Professor Edward Yechezkel Kutscher, *Milim V'Toldoteihen* (קוטשר, עמ' 31-34)"
+    },
+    {
+     "raw": "קסת הסופר (בראשית י:ב)",
+     "head": "קסת הסופר",
+     "locus": "בראשית י:ב",
+     "work": "Keses HaSofer",
+     "author": "Rabbi Aharon Marcus",
+     "english": "Rabbi Aharon Marcus, *Keses HaSofer* (בראשית י:ב)"
+    },
+    {
+     "raw": "ברזילי (עמ' 65, 162)",
+     "head": "ברזילי",
+     "locus": "עמ' 65, 162",
+     "work": "Barzilai",
+     "author": "Rabbi Aharon Marcus",
+     "english": "Rabbi Aharon Marcus, *Barzilai* (עמ' 65, 162)"
+    },
+    {
+     "raw": "חותם תוכנית (י:יא)",
+     "head": "חותם תוכנית",
+     "locus": "י:יא",
+     "work": "Chotam Tochnit",
+     "author": "Rabbi Avraham Bedersi",
+     "english": "Rabbi Avraham Bedersi, *Chotam Tochnit* (י:יא)"
+    },
+    {
+     "raw": "שם משמואל (חנוכה ליל ח' ד\"ה ומצאו פך)",
+     "head": "שם משמואל",
+     "locus": "חנוכה ליל ח' ד\"ה ומצאו פך",
+     "work": "",
+     "author": "",
+     "english": ""
     }
    ]
   }
@@ -14704,12 +14747,12 @@
      "raw": "חתם תוכנית (ערך חפץ\\חשק וכו')",
      "head": "חתם תוכנית",
      "locus": "ערך חפץ\\חשק וכו'",
-     "work": "",
-     "author": "",
+     "work": "Chotam Tochnit",
+     "author": "Rabbi Avraham Bedersi",
      "sv": [
       "חפץ\\חשק וכו'"
      ],
-     "english": ""
+     "english": "Rabbi Avraham Bedersi, *Chotam Tochnit*, s.v. חפץ\\חשק וכו'"
     },
     {
      "raw": "יאיר אור (מערכת אלף אות ז')",
@@ -15851,9 +15894,9 @@
      "english": ""
     },
     {
-     "raw": "ר' תנחום הירושלמי (עמ' 67(",
-     "head": "ר' תנחום הירושלמי (עמ' 67(",
-     "locus": "",
+     "raw": "ר' תנחום הירושלמי (עמ' 67)",
+     "head": "ר' תנחום הירושלמי",
+     "locus": "עמ' 67",
      "work": "",
      "author": "",
      "english": ""
@@ -16214,12 +16257,84 @@
      "english": "Rabbi Yehuda Leib Shapira-Frankfurter, *HaRechasim LeVik'ah* (ויקרא כד:טו)"
     },
     {
-     "raw": "ההלבשה העברית הקדומה )עמ' 158(, שיעורים והתוועדויות (תשעד חלג ג' עמ' 478), יריעות שלמה (עמ' 548, עמ' 798), אור נגה גרושקין על משלי (כה:א), המסדורנה (הירשנסון עמ' רל), ערוגת הבשם (לר' בנימין כהן שאולי עמ' 207), לשוננו הקדושה (עמ' רעט), רוקח (בראשית עמ' יט ספר החכמה), ספר החוקה (ע' לה), ספר הגלוי (עמ' 152)",
-     "head": "ההלבשה העברית הקדומה )עמ' 158",
-     "locus": "שיעורים והתוועדויות (תשעד חלג ג' עמ' 478), יריעות שלמה (עמ' 548, עמ' 798), אור נגה גרושקין על משלי (כה:א), המסדורנה (הירשנסון עמ' רל), ערוגת הבשם (לר' בנימין כהן שאולי עמ' 207), לשוננו הקדושה (עמ' רעט), רוקח (בראשית עמ' יט ספר החכמה), ספר החוקה (ע' לה), ספר הגלוי (עמ' 152",
+     "raw": "ההלבשה העברית הקדומה (עמ' 158)",
+     "head": "ההלבשה העברית הקדומה",
+     "locus": "עמ' 158",
      "work": "",
      "author": "",
      "english": ""
+    },
+    {
+     "raw": "שיעורים והתוועדויות (תשעד חלג ג' עמ' 478)",
+     "head": "שיעורים והתוועדויות",
+     "locus": "תשעד חלג ג' עמ' 478",
+     "work": "",
+     "author": "",
+     "english": ""
+    },
+    {
+     "raw": "יריעות שלמה (עמ' 548, עמ' 798)",
+     "head": "יריעות שלמה",
+     "locus": "עמ' 548, עמ' 798",
+     "work": "Yerios Shlomo",
+     "author": "Rabbi Shlomo Pappenheim",
+     "english": "Rabbi Shlomo Pappenheim, *Yerios Shlomo* (עמ' 548, עמ' 798)"
+    },
+    {
+     "raw": "אור נגה גרושקין על משלי (כה:א)",
+     "head": "אור נגה גרושקין על משלי",
+     "locus": "כה:א",
+     "work": "",
+     "author": "",
+     "english": ""
+    },
+    {
+     "raw": "המסדורנה (הירשנסון עמ' רל)",
+     "head": "המסדורנה",
+     "locus": "הירשנסון עמ' רל",
+     "work": "",
+     "author": "",
+     "english": ""
+    },
+    {
+     "raw": "ערוגת הבשם (לר' בנימין כהן שאולי עמ' 207)",
+     "head": "ערוגת הבשם",
+     "locus": "לר' בנימין כהן שאולי עמ' 207",
+     "work": "",
+     "author": "",
+     "english": ""
+    },
+    {
+     "raw": "לשוננו הקדושה (עמ' רעט)",
+     "head": "לשוננו הקדושה",
+     "locus": "עמ' רעט",
+     "work": "",
+     "author": "",
+     "english": ""
+    },
+    {
+     "raw": "רוקח (בראשית עמ' יט ספר החכמה)",
+     "head": "רוקח",
+     "locus": "בראשית עמ' יט ספר החכמה",
+     "work": "Peirush HaRokeach",
+     "author": "",
+     "english": "*Peirush HaRokeach* (בראשית עמ' יט ספר החכמה)"
+    },
+    {
+     "raw": "ספר החוקה (ע' לה)",
+     "head": "ספר החוקה",
+     "locus": "ע' לה",
+     "work": "",
+     "author": "",
+     "english": ""
+    },
+    {
+     "raw": "ספר הגלוי (עמ' 152)",
+     "head": "ספר הגלוי",
+     "locus": "עמ' 152",
+     "work": "Sefer HaGalui",
+     "author": "Rabbi Yosef Kimchi",
+     "english": "Rabbi Yosef Kimchi, *Sefer HaGalui* (עמ' 152)"
     }
    ]
   }
@@ -16263,9 +16378,25 @@
      "english": ""
     },
     {
-     "raw": "[דברי האבן עזרא נמצאים בכמה מקומות: ספר הצחות (עמ' קלב מהדו' מוסד הרב קוק), יסוד מספר (עמ' 162 ווין), פירושו הקצר לשמות כ:ז, פירושו לקהלת יא:ב)]. (See also Rabbeinu Bachaya's *Kad HaKemech*, s.v. *shevuah* and Rabbi Yehoshua Hartman’s notes to Maharal’s *Ohr Chadash,* introduction fn. 160)",
-     "head": "",
-     "locus": "דברי האבן עזרא נמצאים בכמה מקומות: ספר הצחות (עמ' קלב מהדו' מוסד הרב קוק), יסוד מספר (עמ' 162 ווין), פירושו הקצר לשמות כ:ז, פירושו לקהלת יא:ב)]. (See also Rabbeinu Bachaya's *Kad HaKemech*, s.v. *shevuah* and Rabbi Yehoshua Hartman’s notes to Maharal’s *Ohr Chadash,* introduction fn. 160",
+     "raw": "[דברי האבן עזרא נמצאים בכמה מקומות: ספר הצחות )עמ' קלב מהדו' מוסד הרב קוק(, יסוד מספר )עמ' 162 ווין(, פירושו הקצר לשמות כ:ז, פירושו לקהלת יא:ב)(. )See also Rabbeinu Bachaya's *Kad HaKemech*",
+     "head": "[דברי האבן עזרא נמצאים בכמה מקומות: ספר הצחות )עמ' קלב מהדו' מוסד הרב קוק(, יסוד מספר )עמ' 162 ווין(, פירושו הקצר לשמות כ:ז, פירושו לקהלת יא:ב)(. )See also Rabbeinu Bachaya's *Kad HaKemech*",
+     "locus": "",
+     "work": "",
+     "author": "Ibn Ezra",
+     "english": "Ibn Ezra"
+    },
+    {
+     "raw": "s.v. *shevuah* and Rabbi Yehoshua Hartman’s notes to Maharal’s *Ohr Chadash",
+     "head": "s.v. *shevuah* and Rabbi Yehoshua Hartman’s notes to Maharal’s *Ohr Chadash",
+     "locus": "",
+     "work": "",
+     "author": "",
+     "english": ""
+    },
+    {
+     "raw": "* introduction fn. 160(",
+     "head": "* introduction fn. 160(",
+     "locus": "",
      "work": "",
      "author": "",
      "english": ""
@@ -16381,9 +16512,25 @@
      "english": ""
     },
     {
-     "raw": "[דברי האבן עזרא נמצאים בכמה מקומות: ספר הצחות (עמ' קלב מהדו' מוסד הרב קוק), יסוד מספר (עמ' 162 ווין), פירושו הקצר לשמות כ:ז, פירושו לקהלת יא:ב)]. (See also Rabbeinu Bachaya's *Kad HaKemech*, s.v. *shevuah* and Rabbi Yehoshua Hartman’s notes to Maharal’s *Ohr Chadash,* introduction fn. 160)",
-     "head": "",
-     "locus": "דברי האבן עזרא נמצאים בכמה מקומות: ספר הצחות (עמ' קלב מהדו' מוסד הרב קוק), יסוד מספר (עמ' 162 ווין), פירושו הקצר לשמות כ:ז, פירושו לקהלת יא:ב)]. (See also Rabbeinu Bachaya's *Kad HaKemech*, s.v. *shevuah* and Rabbi Yehoshua Hartman’s notes to Maharal’s *Ohr Chadash,* introduction fn. 160",
+     "raw": "[דברי האבן עזרא נמצאים בכמה מקומות: ספר הצחות )עמ' קלב מהדו' מוסד הרב קוק(, יסוד מספר )עמ' 162 ווין(, פירושו הקצר לשמות כ:ז, פירושו לקהלת יא:ב)(. )See also Rabbeinu Bachaya's *Kad HaKemech*",
+     "head": "[דברי האבן עזרא נמצאים בכמה מקומות: ספר הצחות )עמ' קלב מהדו' מוסד הרב קוק(, יסוד מספר )עמ' 162 ווין(, פירושו הקצר לשמות כ:ז, פירושו לקהלת יא:ב)(. )See also Rabbeinu Bachaya's *Kad HaKemech*",
+     "locus": "",
+     "work": "",
+     "author": "Ibn Ezra",
+     "english": "Ibn Ezra"
+    },
+    {
+     "raw": "s.v. *shevuah* and Rabbi Yehoshua Hartman’s notes to Maharal’s *Ohr Chadash",
+     "head": "s.v. *shevuah* and Rabbi Yehoshua Hartman’s notes to Maharal’s *Ohr Chadash",
+     "locus": "",
+     "work": "",
+     "author": "",
+     "english": ""
+    },
+    {
+     "raw": "* introduction fn. 160(",
+     "head": "* introduction fn. 160(",
+     "locus": "",
      "work": "",
      "author": "",
      "english": ""
@@ -16496,9 +16643,25 @@
      "english": ""
     },
     {
-     "raw": "[דברי האבן עזרא נמצאים בכמה מקומות: ספר הצחות (עמ' קלב מהדו' מוסד הרב קוק), יסוד מספר (עמ' 162 ווין), פירושו הקצר לשמות כ:ז, פירושו לקהלת יא:ב)]. (See also Rabbeinu Bachaya's *Kad HaKemech*, s.v. *shevuah* and Rabbi Yehoshua Hartman’s notes to Maharal’s *Ohr Chadash,* introduction fn. 160)",
-     "head": "",
-     "locus": "דברי האבן עזרא נמצאים בכמה מקומות: ספר הצחות (עמ' קלב מהדו' מוסד הרב קוק), יסוד מספר (עמ' 162 ווין), פירושו הקצר לשמות כ:ז, פירושו לקהלת יא:ב)]. (See also Rabbeinu Bachaya's *Kad HaKemech*, s.v. *shevuah* and Rabbi Yehoshua Hartman’s notes to Maharal’s *Ohr Chadash,* introduction fn. 160",
+     "raw": "[דברי האבן עזרא נמצאים בכמה מקומות: ספר הצחות )עמ' קלב מהדו' מוסד הרב קוק(, יסוד מספר )עמ' 162 ווין(, פירושו הקצר לשמות כ:ז, פירושו לקהלת יא:ב)(. )See also Rabbeinu Bachaya's *Kad HaKemech*",
+     "head": "[דברי האבן עזרא נמצאים בכמה מקומות: ספר הצחות )עמ' קלב מהדו' מוסד הרב קוק(, יסוד מספר )עמ' 162 ווין(, פירושו הקצר לשמות כ:ז, פירושו לקהלת יא:ב)(. )See also Rabbeinu Bachaya's *Kad HaKemech*",
+     "locus": "",
+     "work": "",
+     "author": "Ibn Ezra",
+     "english": "Ibn Ezra"
+    },
+    {
+     "raw": "s.v. *shevuah* and Rabbi Yehoshua Hartman’s notes to Maharal’s *Ohr Chadash",
+     "head": "s.v. *shevuah* and Rabbi Yehoshua Hartman’s notes to Maharal’s *Ohr Chadash",
+     "locus": "",
+     "work": "",
+     "author": "",
+     "english": ""
+    },
+    {
+     "raw": "* introduction fn. 160(",
+     "head": "* introduction fn. 160(",
+     "locus": "",
      "work": "",
      "author": "",
      "english": ""
@@ -16522,9 +16685,9 @@
      "raw": "רוקח (ס' רצ\"ד)",
      "head": "רוקח",
      "locus": "ס' רצ\"ד",
-     "work": "",
+     "work": "Peirush HaRokeach",
      "author": "",
-     "english": ""
+     "english": "*Peirush HaRokeach* (ס' רצ\"ד)"
     },
     {
      "raw": "הכתב והקבלה (דברים ט:י)",
@@ -16632,9 +16795,25 @@
      "english": ""
     },
     {
-     "raw": "[דברי האבן עזרא נמצאים בכמה מקומות: ספר הצחות (עמ' קלב מהדו' מוסד הרב קוק), יסוד מספר (עמ' 162 ווין), פירושו הקצר לשמות כ:ז, פירושו לקהלת יא:ב)]. (See also Rabbeinu Bachaya's *Kad HaKemech*, s.v. *shevuah* and Rabbi Yehoshua Hartman’s notes to Maharal’s *Ohr Chadash,* introduction fn. 160)",
-     "head": "",
-     "locus": "דברי האבן עזרא נמצאים בכמה מקומות: ספר הצחות (עמ' קלב מהדו' מוסד הרב קוק), יסוד מספר (עמ' 162 ווין), פירושו הקצר לשמות כ:ז, פירושו לקהלת יא:ב)]. (See also Rabbeinu Bachaya's *Kad HaKemech*, s.v. *shevuah* and Rabbi Yehoshua Hartman’s notes to Maharal’s *Ohr Chadash,* introduction fn. 160",
+     "raw": "[דברי האבן עזרא נמצאים בכמה מקומות: ספר הצחות )עמ' קלב מהדו' מוסד הרב קוק(, יסוד מספר )עמ' 162 ווין(, פירושו הקצר לשמות כ:ז, פירושו לקהלת יא:ב)(. )See also Rabbeinu Bachaya's *Kad HaKemech*",
+     "head": "[דברי האבן עזרא נמצאים בכמה מקומות: ספר הצחות )עמ' קלב מהדו' מוסד הרב קוק(, יסוד מספר )עמ' 162 ווין(, פירושו הקצר לשמות כ:ז, פירושו לקהלת יא:ב)(. )See also Rabbeinu Bachaya's *Kad HaKemech*",
+     "locus": "",
+     "work": "",
+     "author": "Ibn Ezra",
+     "english": "Ibn Ezra"
+    },
+    {
+     "raw": "s.v. *shevuah* and Rabbi Yehoshua Hartman’s notes to Maharal’s *Ohr Chadash",
+     "head": "s.v. *shevuah* and Rabbi Yehoshua Hartman’s notes to Maharal’s *Ohr Chadash",
+     "locus": "",
+     "work": "",
+     "author": "",
+     "english": ""
+    },
+    {
+     "raw": "* introduction fn. 160(",
+     "head": "* introduction fn. 160(",
+     "locus": "",
      "work": "",
      "author": "",
      "english": ""
@@ -18127,12 +18306,12 @@
      "raw": "ספר כרמל (ערך נס\\ברח, נס\\רץ)",
      "head": "ספר כרמל",
      "locus": "ערך נס\\ברח, נס\\רץ",
-     "work": "",
-     "author": "",
+     "work": "Sefer HaCarmel",
+     "author": "Malbim",
      "sv": [
       "נס\\ברח, נס\\רץ"
      ],
-     "english": ""
+     "english": "Malbim, *Sefer HaCarmel*, s.v. נס\\ברח, נס\\רץ"
     },
     {
      "raw": "יאיר אור (מערכת נ אות ג')",
@@ -18146,9 +18325,9 @@
      "raw": "הרוקח (בהקדמתו לפירושו עה\"ת ספר החכמה שער החילוק ס' ה' עמ' יט)",
      "head": "הרוקח",
      "locus": "בהקדמתו לפירושו עה\"ת ספר החכמה שער החילוק ס' ה' עמ' יט",
-     "work": "",
+     "work": "Peirush HaRokeach",
      "author": "",
-     "english": ""
+     "english": "*Peirush HaRokeach* (בהקדמתו לפירושו עה\"ת ספר החכמה שער החילוק ס' ה' עמ' יט)"
     },
     {
      "raw": "ספר הגור (שמות יד:כז)",
@@ -18804,8 +18983,16 @@
      "english": "Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim*, s.v. נחש\\פתן\\תנין\\שפיפון\\צפע\\אפעה\\שרף"
     },
     {
-     "raw": "מדרש פסיקתא זוטרתא[לקח טוב (במדבר כא:ו), פירושים ופסקים לרבינו אביגדור הצפרתי (שם), קסת הסופר (עמ' ק\"פ, קצ\"ה) הכתב והקבלה (ויקרא יג:מה), אוצר השמות (ערך נחש). בארמית יש גם חויה ועכנאי",
-     "head": "מדרש פסיקתא זוטרתא[לקח טוב (במדבר כא:ו), פירושים ופסקים לרבינו אביגדור הצפרתי (שם), קסת הסופר (עמ' ק\"פ, קצ\"ה) הכתב והקבלה (ויקרא יג:מה), אוצר השמות (ערך נחש). בארמית יש גם חויה ועכנאי",
+     "raw": "מדרש פסיקתא זוטרתא[לקח טוב )במדבר כא:ו(, פירושים ופסקים לרבינו אביגדור הצפרתי )שם(, קסת הסופר )עמ' ק\"פ",
+     "head": "מדרש פסיקתא זוטרתא[לקח טוב )במדבר כא:ו(, פירושים ופסקים לרבינו אביגדור הצפרתי )שם(, קסת הסופר )עמ' ק\"פ",
+     "locus": "",
+     "work": "Keses HaSofer",
+     "author": "Rabbi Aharon Marcus",
+     "english": "Rabbi Aharon Marcus, *Keses HaSofer*"
+    },
+    {
+     "raw": "קצ\"ה( הכתב והקבלה )ויקרא יג:מה(, אוצר השמות )ערך נחש(. בארמית יש גם חויה ועכנאי",
+     "head": "קצ\"ה( הכתב והקבלה )ויקרא יג:מה(, אוצר השמות )ערך נחש(. בארמית יש גם חויה ועכנאי",
      "locus": "",
      "work": "HaKsav VeHaKabbalah",
      "author": "Rabbi Yaakov Tzvi Mecklenburg",
@@ -19056,8 +19243,16 @@
      "english": "Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim*, s.v. נחש\\פתן\\תנין\\שפיפון\\צפע\\אפעה\\שרף"
     },
     {
-     "raw": "מדרש פסיקתא זוטרתא[לקח טוב (במדבר כא:ו), פירושים ופסקים לרבינו אביגדור הצפרתי (שם), קסת הסופר (עמ' ק\"פ, קצ\"ה) הכתב והקבלה (ויקרא יג:מה), אוצר השמות (ערך נחש). בארמית יש גם חויה ועכנאי",
-     "head": "מדרש פסיקתא זוטרתא[לקח טוב (במדבר כא:ו), פירושים ופסקים לרבינו אביגדור הצפרתי (שם), קסת הסופר (עמ' ק\"פ, קצ\"ה) הכתב והקבלה (ויקרא יג:מה), אוצר השמות (ערך נחש). בארמית יש גם חויה ועכנאי",
+     "raw": "מדרש פסיקתא זוטרתא[לקח טוב )במדבר כא:ו(, פירושים ופסקים לרבינו אביגדור הצפרתי )שם(, קסת הסופר )עמ' ק\"פ",
+     "head": "מדרש פסיקתא זוטרתא[לקח טוב )במדבר כא:ו(, פירושים ופסקים לרבינו אביגדור הצפרתי )שם(, קסת הסופר )עמ' ק\"פ",
+     "locus": "",
+     "work": "Keses HaSofer",
+     "author": "Rabbi Aharon Marcus",
+     "english": "Rabbi Aharon Marcus, *Keses HaSofer*"
+    },
+    {
+     "raw": "קצ\"ה( הכתב והקבלה )ויקרא יג:מה(, אוצר השמות )ערך נחש(. בארמית יש גם חויה ועכנאי",
+     "head": "קצ\"ה( הכתב והקבלה )ויקרא יג:מה(, אוצר השמות )ערך נחש(. בארמית יש גם חויה ועכנאי",
      "locus": "",
      "work": "HaKsav VeHaKabbalah",
      "author": "Rabbi Yaakov Tzvi Mecklenburg",
@@ -19144,16 +19339,12 @@
      "english": "Rav Hirsch (במדבר טו:לח)"
     },
     {
-     "raw": "יאיר אור (אות מ' סימן ט' (מוסרה/עבתה)",
-     "head": "יאיר אור",
-     "locus": "אות מ' סימן ט' (מוסרה/עבתה",
+     "raw": "יאיר אור (אות מ' סימן ט' )מוסרה/עבתה(",
+     "head": "יאיר אור (אות מ' סימן ט' )מוסרה/עבתה(",
+     "locus": "",
      "work": "Yair Ohr",
      "author": "Malbim",
-     "sv": [
-      "אות מ' סימן ט' (מוסרה",
-      "עבתה"
-     ],
-     "english": "Malbim, *Yair Ohr*, s.v. אות מ' סימן ט' (מוסרה, עבתה"
+     "english": "Malbim, *Yair Ohr*"
     }
    ]
   }
@@ -19197,36 +19388,20 @@
      "english": ""
     },
     {
-     "raw": "384)",
-     "head": "384)",
+     "raw": "384(, תוספת ברכה )וי' יא:ט",
+     "head": "384(, תוספת ברכה )וי' יא:ט",
      "locus": "",
      "work": "",
      "author": "",
      "english": ""
     },
     {
-     "raw": "תוספת ברכה (וי' יא:ט, במ' טו:כ)",
-     "head": "תוספת ברכה",
-     "locus": "וי' יא:ט, במ' טו:כ",
-     "work": "",
-     "author": "",
-     "english": ""
-    },
-    {
-     "raw": "רשר\"ה (במ' טו:כ)",
-     "head": "רשר\"ה",
-     "locus": "במ' טו:כ",
-     "work": "",
-     "author": "Rav Hirsch",
-     "english": "Rav Hirsch (במ' טו:כ)"
-    },
-    {
-     "raw": "הכתב והקבלה )במ' טו:כ(, חשק שלמה (ערך עס ערך עש)",
-     "head": "הכתב והקבלה )במ' טו:כ",
-     "locus": "חשק שלמה (ערך עס ערך עש",
-     "work": "HaKsav VeHaKabbalah",
-     "author": "Rabbi Yaakov Tzvi Mecklenburg",
-     "english": "Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* (חשק שלמה (ערך עס ערך עש)"
+     "raw": "במ' טו:כ(, רשר\"ה )במ' טו:כ(, הכתב והקבלה )במ' טו:כ(, חשק שלמה )ערך עס ערך עש(",
+     "head": "במ' טו:כ(, רשר\"ה )במ' טו:כ(, הכתב והקבלה )במ' טו:כ(, חשק שלמה )ערך עס ערך עש(",
+     "locus": "",
+     "work": "Cheshek Shlomo",
+     "author": "Rabbi Shlomo Pappenheim",
+     "english": "Rabbi Shlomo Pappenheim, *Cheshek Shlomo*"
     }
    ]
   }
@@ -19678,9 +19853,9 @@
      "raw": "חתם תוכנית (עמ' 266)",
      "head": "חתם תוכנית",
      "locus": "עמ' 266",
-     "work": "",
-     "author": "",
-     "english": ""
+     "work": "Chotam Tochnit",
+     "author": "Rabbi Avraham Bedersi",
+     "english": "Rabbi Avraham Bedersi, *Chotam Tochnit* (עמ' 266)"
     }
    ]
   }
@@ -19808,9 +19983,9 @@
    "note": "לשוננו הקדושה )עמ' קפג), ברזילי (עמ' 131), קדמוניות (עמ' 44)",
    "items": [
     {
-     "raw": "לשוננו הקדושה )עמ' קפג)",
-     "head": "לשוננו הקדושה )עמ' קפג)",
-     "locus": "",
+     "raw": "לשוננו הקדושה (עמ' קפג)",
+     "head": "לשוננו הקדושה",
+     "locus": "עמ' קפג",
      "work": "",
      "author": "",
      "english": ""
@@ -20476,13 +20651,13 @@
      "raw": "ספר תשבי (ערך יבם, ערך גס)",
      "head": "ספר תשבי",
      "locus": "ערך יבם, ערך גס",
-     "work": "",
-     "author": "",
+     "work": "Sefer HaTishbi",
+     "author": "Rabbi Eliyahu HaBachur",
      "sv": [
       "יבם",
       "גס"
      ],
-     "english": ""
+     "english": "Rabbi Eliyahu HaBachur, *Sefer HaTishbi*, s.v. יבם, גס"
     },
     {
      "raw": "קהלת יעקב לר\"יי אלגזי ערך גיס (אות קכא, לשון חכמים)",
@@ -20520,8 +20695,16 @@
      "english": "*Toras HaElokim* (בראשית לח:ח)"
     },
     {
-     "raw": "המדריך המספיק )עמ' 74(, יעב\"ץ בעזר אור על ספר התשבי",
-     "head": "המדריך המספיק )עמ' 74(, יעב\"ץ בעזר אור על ספר התשבי",
+     "raw": "המדריך המספיק (עמ' 74)",
+     "head": "המדריך המספיק",
+     "locus": "עמ' 74",
+     "work": "HaMadrich HaMaspik",
+     "author": "Rabbi Tanchum HaYerushalmi",
+     "english": "Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik* (עמ' 74)"
+    },
+    {
+     "raw": "יעב\"ץ בעזר אור על ספר התשבי",
+     "head": "יעב\"ץ בעזר אור על ספר התשבי",
      "locus": "",
      "work": "Sefer HaTishbi",
      "author": "Rabbi Eliyahu HaBachur",
@@ -20642,17 +20825,9 @@
    "note": "י\"א אות ל' סימן י\"ב (למד/הורה/אלף) בשם שד\"ל, אות מ' סימן י\"ב (מורה/מדריך/מלמד), ספר הכרמל (ערך אלף), חשק שלמה (ערך לף), ביאור הגר\"א (משלי יד:ד).",
    "items": [
     {
-     "raw": "י\"א אות ל' סימן י\"ב (למד/הורה/אלף) בשם שד\"ל",
-     "head": "י\"א אות ל' סימן י\"ב (למד/הורה/אלף) בשם שד\"ל",
-     "locus": "",
-     "work": "",
-     "author": "",
-     "english": ""
-    },
-    {
-     "raw": "אות מ' סימן י\"ב (מורה/מדריך/מלמד)",
-     "head": "אות מ' סימן י\"ב",
-     "locus": "מורה/מדריך/מלמד",
+     "raw": "י\"א אות ל' סימן י\"ב (למד/הורה/אלף) בשם שד\"ל, אות מ' סימן י\"ב (מורה/מדריך/מלמד)",
+     "head": "י\"א אות ל' סימן י\"ב",
+     "locus": "למד/הורה/אלף) בשם שד\"ל, אות מ' סימן י\"ב (מורה/מדריך/מלמד",
      "work": "",
      "author": "",
      "english": ""
@@ -21645,9 +21820,9 @@
      "english": ""
     },
     {
-     "raw": "[אוכלים חלב בשבועות משום הר גבנונים = דן ידין (מאמר יב), ניצוצי שמשון (פרשת משפטים ד\"ה לא תבשל גדי), רגל ישרה (מערכת י' אות צח)]",
+     "raw": "[אוכלים חלב בשבועות משום הר גבנונים = דן ידין )מאמר יב(, ניצוצי שמשון )פרשת משפטים ד\"ה לא תבשל גדי(, רגל ישרה )מערכת י' אות צח(]",
      "head": "",
-     "locus": "אוכלים חלב בשבועות משום הר גבנונים = דן ידין (מאמר יב), ניצוצי שמשון (פרשת משפטים ד\"ה לא תבשל גדי), רגל ישרה (מערכת י' אות צח)",
+     "locus": "אוכלים חלב בשבועות משום הר גבנונים = דן ידין )מאמר יב(, ניצוצי שמשון )פרשת משפטים ד\"ה לא תבשל גדי(, רגל ישרה )מערכת י' אות צח(",
      "work": "",
      "author": "",
      "english": ""
@@ -21732,9 +21907,9 @@
      "english": ""
     },
     {
-     "raw": "[אוכלים חלב בשבועות משום הר גבנונים = דן ידין (מאמר יב), ניצוצי שמשון (פרשת משפטים ד\"ה לא תבשל גדי), רגל ישרה (מערכת י' אות צח)]",
+     "raw": "[אוכלים חלב בשבועות משום הר גבנונים = דן ידין )מאמר יב(, ניצוצי שמשון )פרשת משפטים ד\"ה לא תבשל גדי(, רגל ישרה )מערכת י' אות צח(]",
      "head": "",
-     "locus": "אוכלים חלב בשבועות משום הר גבנונים = דן ידין (מאמר יב), ניצוצי שמשון (פרשת משפטים ד\"ה לא תבשל גדי), רגל ישרה (מערכת י' אות צח)",
+     "locus": "אוכלים חלב בשבועות משום הר גבנונים = דן ידין )מאמר יב(, ניצוצי שמשון )פרשת משפטים ד\"ה לא תבשל גדי(, רגל ישרה )מערכת י' אות צח(",
      "work": "",
      "author": "",
      "english": ""
@@ -21853,9 +22028,9 @@
      "raw": "רוקח (ס' רצ\"ד)",
      "head": "רוקח",
      "locus": "ס' רצ\"ד",
-     "work": "",
+     "work": "Peirush HaRokeach",
      "author": "",
-     "english": ""
+     "english": "*Peirush HaRokeach* (ס' רצ\"ד)"
     },
     {
      "raw": "הכתב והקבלה (דברים ט:י)",
@@ -22732,15 +22907,31 @@
      "english": "Rabbi Shlomo Pappenheim, *Yerios Shlomo* (עמ' 202 ולהלן)"
     },
     {
-     "raw": "ספר הכרמל (ערך מסלה, ארח, נתיב(, נפלאות מתורת השי\"ת (פרק נ'), הגרשר\"ה (בראשית מא:ו)",
+     "raw": "ספר הכרמל (ערך מסלה, ארח, נתיב)",
      "head": "ספר הכרמל",
-     "locus": "ערך מסלה, ארח, נתיב(, נפלאות מתורת השי\"ת (פרק נ'), הגרשר\"ה (בראשית מא:ו",
+     "locus": "ערך מסלה, ארח, נתיב",
      "work": "Sefer HaCarmel",
      "author": "Malbim",
      "sv": [
-      "מסלה, ארח, נתיב(, נפלאות מתורת השי\"ת (פרק נ'), הגרשר\"ה (בראשית מא:ו"
+      "מסלה, ארח, נתיב"
      ],
-     "english": "Malbim, *Sefer HaCarmel*, s.v. מסלה, ארח, נתיב(, נפלאות מתורת השי\"ת (פרק נ'), הגרשר\"ה (בראשית מא:ו"
+     "english": "Malbim, *Sefer HaCarmel*, s.v. מסלה, ארח, נתיב"
+    },
+    {
+     "raw": "נפלאות מתורת השי\"ת (פרק נ')",
+     "head": "נפלאות מתורת השי\"ת",
+     "locus": "פרק נ'",
+     "work": "",
+     "author": "",
+     "english": ""
+    },
+    {
+     "raw": "הגרשר\"ה (בראשית מא:ו)",
+     "head": "הגרשר\"ה",
+     "locus": "בראשית מא:ו",
+     "work": "",
+     "author": "",
+     "english": ""
     }
    ]
   }
@@ -22887,17 +23078,9 @@
    "note": "י\"א אות ל' סימן י\"ב (למד/הורה/אלף) בשם שד\"ל, אות מ' סימן י\"ב (מורה/מדריך/מלמד), ספר הכרמל (ערך אלף), חשק שלמה (ערך לף), ביאור הגר\"א (משלי יד:ד).",
    "items": [
     {
-     "raw": "י\"א אות ל' סימן י\"ב (למד/הורה/אלף) בשם שד\"ל",
-     "head": "י\"א אות ל' סימן י\"ב (למד/הורה/אלף) בשם שד\"ל",
-     "locus": "",
-     "work": "",
-     "author": "",
-     "english": ""
-    },
-    {
-     "raw": "אות מ' סימן י\"ב (מורה/מדריך/מלמד)",
-     "head": "אות מ' סימן י\"ב",
-     "locus": "מורה/מדריך/מלמד",
+     "raw": "י\"א אות ל' סימן י\"ב (למד/הורה/אלף) בשם שד\"ל, אות מ' סימן י\"ב (מורה/מדריך/מלמד)",
+     "head": "י\"א אות ל' סימן י\"ב",
+     "locus": "למד/הורה/אלף) בשם שד\"ל, אות מ' סימן י\"ב (מורה/מדריך/מלמד",
      "work": "",
      "author": "",
      "english": ""
@@ -23197,12 +23380,12 @@
      "english": "Dr. Alexander Kohut, *Aruch HaShalem*, s.v. הני/הנה"
     },
     {
-     "raw": "יריעות שלמה )חוברת ז' יריעה ז' )",
-     "head": "יריעות שלמה )חוברת ז' יריעה ז' )",
-     "locus": "",
+     "raw": "יריעות שלמה (חוברת ז' יריעה ז' )",
+     "head": "יריעות שלמה",
+     "locus": "חוברת ז' יריעה ז'",
      "work": "Yerios Shlomo",
      "author": "Rabbi Shlomo Pappenheim",
-     "english": "Rabbi Shlomo Pappenheim, *Yerios Shlomo*"
+     "english": "Rabbi Shlomo Pappenheim, *Yerios Shlomo* (חוברת ז' יריעה ז')"
     },
     {
      "raw": "חשק שלמה (ערך עד)",
@@ -23474,13 +23657,13 @@
      "raw": "ספר תשבי (ערך יבם, ערך גס)",
      "head": "ספר תשבי",
      "locus": "ערך יבם, ערך גס",
-     "work": "",
-     "author": "",
+     "work": "Sefer HaTishbi",
+     "author": "Rabbi Eliyahu HaBachur",
      "sv": [
       "יבם",
       "גס"
      ],
-     "english": ""
+     "english": "Rabbi Eliyahu HaBachur, *Sefer HaTishbi*, s.v. יבם, גס"
     },
     {
      "raw": "קהלת יעקב לר\"יי אלגזי ערך גיס (אות קכא, לשון חכמים)",
@@ -23518,8 +23701,16 @@
      "english": "*Toras HaElokim* (בראשית לח:ח)"
     },
     {
-     "raw": "המדריך המספיק )עמ' 74(, יעב\"ץ בעזר אור על ספר התשבי",
-     "head": "המדריך המספיק )עמ' 74(, יעב\"ץ בעזר אור על ספר התשבי",
+     "raw": "המדריך המספיק (עמ' 74)",
+     "head": "המדריך המספיק",
+     "locus": "עמ' 74",
+     "work": "HaMadrich HaMaspik",
+     "author": "Rabbi Tanchum HaYerushalmi",
+     "english": "Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik* (עמ' 74)"
+    },
+    {
+     "raw": "יעב\"ץ בעזר אור על ספר התשבי",
+     "head": "יעב\"ץ בעזר אור על ספר התשבי",
      "locus": "",
      "work": "Sefer HaTishbi",
      "author": "Rabbi Eliyahu HaBachur",
@@ -24025,9 +24216,9 @@
      "raw": "אמרי רש\"\"ד (שם משמעון אות ע' ד\"ה עירוב מזוג)",
      "head": "אמרי רש\"\"ד",
      "locus": "שם משמעון אות ע' ד\"ה עירוב מזוג",
-     "work": "",
-     "author": "",
-     "english": ""
+     "work": "Imrei RaShaD",
+     "author": "Rabbi Shimon Dov Ber Analak of Shidlitz",
+     "english": "Rabbi Shimon Dov Ber Analak of Shidlitz, *Imrei RaShaD* (שם משמעון אות ע' ד\"ה עירוב מזוג)"
     },
     {
      "raw": "אמונת אליעזר (שבת פרק ב, פרק כ, פסח פרק יא, פרק ל)",
@@ -24167,15 +24358,31 @@
      "english": "Rabbi Shlomo Pappenheim, *Yerios Shlomo* (עמ' 202 ולהלן)"
     },
     {
-     "raw": "ספר הכרמל (ערך מסלה, ארח, נתיב(, נפלאות מתורת השי\"ת (פרק נ'), הגרשר\"ה (בראשית מא:ו)",
+     "raw": "ספר הכרמל (ערך מסלה, ארח, נתיב)",
      "head": "ספר הכרמל",
-     "locus": "ערך מסלה, ארח, נתיב(, נפלאות מתורת השי\"ת (פרק נ'), הגרשר\"ה (בראשית מא:ו",
+     "locus": "ערך מסלה, ארח, נתיב",
      "work": "Sefer HaCarmel",
      "author": "Malbim",
      "sv": [
-      "מסלה, ארח, נתיב(, נפלאות מתורת השי\"ת (פרק נ'), הגרשר\"ה (בראשית מא:ו"
+      "מסלה, ארח, נתיב"
      ],
-     "english": "Malbim, *Sefer HaCarmel*, s.v. מסלה, ארח, נתיב(, נפלאות מתורת השי\"ת (פרק נ'), הגרשר\"ה (בראשית מא:ו"
+     "english": "Malbim, *Sefer HaCarmel*, s.v. מסלה, ארח, נתיב"
+    },
+    {
+     "raw": "נפלאות מתורת השי\"ת (פרק נ')",
+     "head": "נפלאות מתורת השי\"ת",
+     "locus": "פרק נ'",
+     "work": "",
+     "author": "",
+     "english": ""
+    },
+    {
+     "raw": "הגרשר\"ה (בראשית מא:ו)",
+     "head": "הגרשר\"ה",
+     "locus": "בראשית מא:ו",
+     "work": "",
+     "author": "",
+     "english": ""
     }
    ]
   }
@@ -24419,20 +24626,12 @@
      "english": "Malbim, *Sefer HaCarmel*, s.v. בושה/כלימה, כלם, חפר"
     },
     {
-     "raw": "יאיר אור אות ב' סימן ט' (בושה/כלמה/חרפה/חפר)",
+     "raw": "יאיר אור אות ב' סימן ט' (בושה/כלמה/חרפה/חפר), אות ח' סימן ל\"ז (חרף/גדף)",
      "head": "יאיר אור אות ב' סימן ט'",
-     "locus": "בושה/כלמה/חרפה/חפר",
+     "locus": "בושה/כלמה/חרפה/חפר), אות ח' סימן ל\"ז (חרף/גדף",
      "work": "Yair Ohr",
      "author": "Malbim",
-     "english": "Malbim, *Yair Ohr* (בושה/כלמה/חרפה/חפר)"
-    },
-    {
-     "raw": "אות ח' סימן ל\"ז (חרף/גדף)",
-     "head": "אות ח' סימן ל\"ז",
-     "locus": "חרף/גדף",
-     "work": "",
-     "author": "",
-     "english": ""
+     "english": "Malbim, *Yair Ohr* (בושה/כלמה/חרפה/חפר), אות ח' סימן ל\"ז (חרף/גדף)"
     },
     {
      "raw": "ספר השרשים לרד\"ק (ערך כלם)",
@@ -24454,9 +24653,9 @@
      "english": "Rabbi Avraham Bedersi, *Chotam Tochnit* (עמ' 78 ולהלן)"
     },
     {
-     "raw": "שערי תשובה )שער א העיקר הששי)",
-     "head": "שערי תשובה )שער א העיקר הששי)",
-     "locus": "",
+     "raw": "שערי תשובה (שער א העיקר הששי)",
+     "head": "שערי תשובה",
+     "locus": "שער א העיקר הששי",
      "work": "",
      "author": "",
      "english": ""
