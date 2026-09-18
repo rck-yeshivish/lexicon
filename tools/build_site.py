@@ -508,8 +508,13 @@ def gloss(part, field):
 # text, so without this the Hebrew in it inherits the English UI font, which has
 # no Hebrew of its own and falls back to whatever the system offers: the same
 # words then read in one face on the left of the page and another on the right.
-HEB_RUN = re.compile("[א-ת][א-ת֑-ׇ־\"' ]*[א-ת]"
-                     "|[א-ת]")
+# A run must be allowed to end on its pointing, not on its last consonant.
+# Ending it at the consonant left the vowel outside the span, where a combining
+# mark with nothing to sit on renders as a bare dotted circle: חֻקֶּיךָ lost its
+# final kamatz that way.
+HEB_RUN = re.compile("[א-ת][א-ת֑-ׇ־\"' ]*"
+                     "[א-ת][֑-ׇ]*"
+                     "|[א-ת][֑-ׇ]*")
 
 
 def en_text(s):
@@ -1755,9 +1760,11 @@ header.bare .brand{flex:1}
 .rad-en-b{font:400 15.5px/1.7 var(--ui);color:var(--dim);margin:0}
 .rad-en-b bdi,.rad-en-b [lang="he"]{font-family:var(--heb)}
 .rad-en bdi,.rad-en-s bdi{font-family:var(--heb)}
-.rhead{display:grid;grid-template-columns:110px minmax(0,220px) minmax(0,1fr);gap:18px;padding:0 6px 6px;
+/* The same tracks as a row, including the one the open-and-close sign sits in,
+   so each heading stands over its own column. */
+.rhead{display:grid;grid-template-columns:110px minmax(0,200px) minmax(0,1fr) auto;gap:18px;padding:0 6px 6px;
   border-bottom:1px solid var(--line);color:var(--faint);font-size:12px;letter-spacing:.04em;text-transform:uppercase}
-.rhead span:last-child{text-align:right}
+.rhead span:last-child{text-align:left}
 .rhead em{font-style:normal}
 .rad-open{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
   padding:16px 22px 20px;margin:4px 0 14px}
