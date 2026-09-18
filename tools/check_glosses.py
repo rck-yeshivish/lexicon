@@ -44,19 +44,26 @@ AI = re.compile(r"\b(delve|leverage|underscore\w*|a testament to|it'?s worth not
                 r"navigat\w+|(?<!day's )(?<!days' )journey|tapestry|realm|whence)\b", re.I)
 # Authorities he may be said to bring, and how his Hebrew names them.
 NAMED = {
-    "Rabbi Yonah": ["רבי יונה"],
-    # The edition sets his name אבן עורא in places, with a vav for the zayin.
-    "Ibn Ezra": ["אבן עזרא", "אבן עורא"],
+    # Once the edition sets him רבי יוגה, a gimel for the nun.
+    "Rabbi Yonah": ["רבי יונה", "רבי יוגה"],
+    # The edition sets his name אבן עורא in places, with a vav for the zayin,
+    # and four times drops the alef, רבי אברהם בן עזרא. That last needle has to
+    # carry אברהם: רבי משה בן עזרא is a different man, and בן עזרא alone would
+    # let Ibn Ezra be named in the one entry that is his brother's.
+    "Ibn Ezra": ["אבן עזרא", "אבן עורא", "אברהם בן עזרא"],
     # He writes ויונתן תרגם 79 times, תרגם יונתן 77 and תרגום יונתן 36. Knowing
     # only the last two made drafters write "Yonasan renders" where they wanted
     # the fuller name, which is the check dictating the prose.
-    "Targum Yonasan": ["תרגום יונתן", "תרגם יונתן", "יונתן תרגם", "יונתן פירש"],
+    "Targum Yonasan": ["תרגום יונתן", "תרגם יונתן", "יונתן תרגם", "יונתן תרגום",
+                       "יונתן פירש"],
     "Targum": ["תרגום", "תרגם", "התרגום"],
     "Onkelos": ["אנקלוס"],
     # The edition prints his name twelve times as אלעזר, twice as אלעור with a
     # vav for the zayin, and once as אילעזר. The same slip it makes on Ibn Ezra.
-    "Rabbi Yaakov ben Elazar": ["רבי יעקב בן אלעזר", "רבי יעקב בן אילעזר",
-                                "רבי יעקב בן אלעור"],
+    # The needles start at יעקב, since the edition writes the title out as רבי
+    # in eleven places and abbreviates it to ר' in the twelfth.
+    "Rabbi Yaakov ben Elazar": ["יעקב בן אלעזר", "יעקב בן אילעזר",
+                                "יעקב בן אלעור"],
     "Rav Saadiah Gaon": ["רבי סעדיה", "סעדיה"],
     "the Mesorah": ["המסורת", "המסורה"],
     # He is הרב אבן גיאת in one entry and הרב רבי יצחק גיאת in another, so the
