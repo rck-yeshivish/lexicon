@@ -77,6 +77,11 @@ NAMED = {
     # the definite article on the needle a true sentence about what the Mesorah
     # does not carry was refused.
     "the Mesorah": ["מסורת", "מסורה"],
+    # Rabbi Moshe Kimchi, whom he names as his brother: ורבי אחי רבי משה ז"ל
+    # פירש. Policed like his father, and only where the brother is the one
+    # saying something.
+    "his brother (?:Rabbi Moshe )?(?:reads|takes|explains|holds|says|writes|glosses)|"
+    "His brother Rabbi Moshe": ["אחי רבי משה"],
     # He is הרב אבן גיאת in one entry and הרב רבי יצחק גיאת in another, so the
     # needle is the surname and the key takes either English form.
     "(?:Rav|Rabbi) Yitzchak (?:ibn )?Giat|the Gaon Ibn Giat": ["גיאת"],
@@ -257,7 +262,12 @@ def main():
                 # or אבן עזרא would never be found in אבנ עזרא.
                 # A key may be a small pattern rather than a bare name.
                 if re.search(rf"\b{name}\b", s, re.I) and not any(flat(h) in text for h in hebrew):
-                    say(f"{where}: names {name}, whom his entry does not")
+                    # Some keys are small patterns. Print the plainest form of
+                    # one rather than its regex, which told a drafter nothing,
+                    # and name the Hebrew looked for, which is what settles it.
+                    shown = re.sub(r"\(\?:|\)|\?|\\b", "", name).split("|")[0].strip()
+                    say(f"{where}: names {shown or name}, whom his entry does not"
+                        f" (looked for {', '.join(hebrew)})")
     for b in bad:
         print("  " + b)
     if flag:
