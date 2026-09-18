@@ -72,6 +72,12 @@ the entry each would complete.
 - **Verse numbers from memory.** Cite what his text prints, even where you are
   sure he is a pasuk off. Where his edition differs, say so: `(Ezra 1:4 in his
   edition)`.
+- **A misprinted book is not an edition difference.** Where the chapter and
+  pasuk are right and the book is not, as at שוע, where ולכילי לא יאמר שוע of
+  Yeshayahu 32:5 is printed (במדבר לב, ה), do not write "Bamidbar 32:5 in his
+  edition": that tells a reader his edition puts the pasuk in the Chumash, and
+  Bamidbar 32:5 is a real pasuk about something else. Quote the phrase, give it
+  its English, and leave it uncited.
 - **Naming an authority he does not name.** Rabbi Yonah, Ibn Ezra, the Targum,
   Rav Saadiah Gaon, Rashi, the Mesorah, Chazal and the rest go in only where his
   Hebrew names them.
