@@ -425,7 +425,7 @@ def radak_pair(root):
     parts = [e] + e.get("more", []) if e else []
     out = []
     for p in parts:
-        en = gloss_block(p, heading=False)
+        en = gloss_block(p, heading=False, summary=True)
         body = citable(p.get("html") or html.escape(p.get("text", "")))
         if p.get("found"):
             body = body.replace(p["found"], f'<mark>{p["found"]}</mark>', 1)
@@ -498,21 +498,51 @@ def gloss(part, field):
     return (GLOSS["glosses"].get(part.get("hw", "")) or {}).get(field, "")
 
 
-def gloss_block(part, heading=True):
+# A run of Hebrew inside an English sentence. The gloss is stored as plain
+# text, so without this the Hebrew in it inherits the English UI font, which has
+# no Hebrew of its own and falls back to whatever the system offers: the same
+# words then read in one face on the left of the page and another on the right.
+HEB_RUN = re.compile("[א-ת][א-ת֑-ׇ־\"' ]*[א-ת]"
+                     "|[א-ת]")
+
+
+def en_text(s):
+    """Gloss text for an English column: escaped, with its Hebrew marked so it
+    takes the Hebrew face and its own direction. Quotes are left alone, since
+    this is text and not an attribute, and escaping them would cut a word like
+    רז"ל in two."""
+    return HEB_RUN.sub(lambda m: f'<bdi lang="he">{m.group(0)}</bdi>',
+                       html.escape(s, quote=False))
+
+
+def gloss_block(part, heading=True, summary=False):
     """The English for one of his entries, labelled as ours and not his. Each
     part of "more" is one thing his entry holds, under its own heading, so a
     long entry reads as a few short answers rather than a paragraph. The entry
-    page names the whole section, so it asks for no heading here."""
+    page names the whole section, so it asks for no heading here.
+
+    `summary` keeps the sense line and the headings and drops the bodies. It is
+    for the entry page, where his entry stands beside its English in two
+    columns: the parts render every pasuk he quotes and then say what each one
+    says, so in full they run half again as long as the Hebrew they summarise,
+    and a column billed as the summary finished a screen below its source. The
+    headings alone say what the entry holds, and the root's own page has the
+    whole of it."""
     sense = gloss(part, "sense")
     if not sense:
         return ""
-    more = "".join(
-        f'<div class="rad-en-p"><p class="rad-en-t">{html.escape(m["h"])}</p>'
-        f'<p class="rad-en-b">{html.escape(m["t"])}</p></div>'
-        for m in gloss(part, "more") or [])
+    parts = gloss(part, "more") or []
+    if summary:
+        more = ("".join(f'<li>{en_text(m["h"])}</li>' for m in parts))
+        more = f'<ul class="rad-en-l">{more}</ul>' if more else ""
+    else:
+        more = "".join(
+            f'<div class="rad-en-p"><p class="rad-en-t">{en_text(m["h"])}</p>'
+            f'<p class="rad-en-b">{en_text(m["t"])}</p></div>'
+            for m in parts)
     head = '<p class="rad-en-h">In English, our summary of his entry</p>' if heading else ""
     return (f'<div class="rad-en" dir="ltr" lang="en">{head}'
-            f'<p class="rad-en-s">{html.escape(sense)}</p>{more}</div>')
+            f'<p class="rad-en-s">{en_text(sense)}</p>{more}</div>')
 
 
 def radak_opening(text, n=120):
@@ -1042,6 +1072,7 @@ def entry_page(e):
 
     cites = Cites(e, wmap)
     deferred = None
+    xref = XREF.get(e["slug"])
     for headname, mdtext in secs:
         if headname == "Notes for a project" and mdtext.strip() in ("None yet.", ""):
             continue
@@ -1049,15 +1080,19 @@ def entry_page(e):
             deferred = (f'<section class="inshort" id="s-in-short"><h2>In short</h2>{cites.link(md(mdtext))}</section>',
                         ("s-in-short", "In short", []))
             continue
-        if headname == "Sources" and XREF.get(e["slug"]):
-            # Other entries that discuss the same word or root, so a reader can
-            # follow a word from one essay to the next.
+        # Where else a reader can follow one of these words goes with the
+        # entry's own material, not down among the apparatus: before the
+        # translators' section rather than wedged between it and Radak. Entries
+        # all carry Rendering guidance, but fall back to Sources for one that
+        # somehow does not, so the list cannot be dropped.
+        if headname in ("Rendering guidance", "Sources") and xref:
             items = "".join(
                 f'<li><a href="{html.escape(s)}.html">{html.escape(c[:1].upper() + c[1:])}</a>'
                 f'<span class="xw">{inline(w)}</span></li>'
-                for c, s, w in XREF[e["slug"]])
+                for c, s, w in xref)
             parts.append(f'<section class="xref" id="s-also"><h2>Also discussed in</h2><ul>{items}</ul></section>')
             toc.append(("s-also", "Also discussed in", []))
+            xref = None
         # It belongs with the sources and before them: background on where the
         # words come from, once the entry has had its say.
         if headname == "Sources" and radak_block:
@@ -1678,10 +1713,14 @@ header.bare .brand{flex:1}
 .rad-en{font-family:var(--ui);direction:ltr;margin:0 auto 18px 0;padding:0 0 16px;text-align:left;
   max-width:46em;border-bottom:1px solid var(--line)}
 .rad-en-h{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--faint);
-  font-weight:600;margin:0 0 8px}
+  font-weight:600;margin:0 0 5px}
 .rad-en-s{font:400 17px/1.55 var(--ui);color:var(--ink);margin:0}
 .rad-en-p{margin:13px 0 0}
-.rad-en-t{font:600 12.5px/1.4 var(--ui);color:var(--ink);margin:0 0 2px}
+.rad-en-t{font:600 12.5px/1.4 var(--ui);color:var(--ink);margin:0 0 1px}
+/* The summary column's list of what his entry holds, one line a part. */
+.rad-en-l{margin:9px 0 0;padding:0 0 0 17px;list-style:disc}
+.rad-en-l li{font:400 13.5px/1.6 var(--ui);color:var(--dim);margin:0 0 3px}
+.rad-en-l li::marker{color:var(--faint)}
 .rad-en-b{font:400 15.5px/1.7 var(--ui);color:var(--dim);margin:0}
 .rad-en-b bdi,.rad-en-b [lang="he"]{font-family:var(--heb)}
 .rad-en bdi,.rad-en-s bdi{font-family:var(--heb)}
@@ -1716,7 +1755,7 @@ p.rad-hw{font-family:var(--ui);direction:ltr;font-size:13px;line-height:1.5;colo
 p.rad-hw bdi{font-family:var(--heb);font-size:17px;color:var(--accent)}
 .radak-credit{color:var(--faint);font-size:13px;margin:22px 0 0;line-height:1.5}
 .radak h4{display:flex;align-items:baseline;gap:10px;margin:22px 0 4px;font-size:15px}
-.radak h4 a{font-family:var(--heb);font-size:20px;color:var(--accent)}
+.radak h4 a{font-family:var(--heb);font-size:18px;color:var(--accent)}
 .radak h4 .rootnote{font:400 13px/1.4 var(--ui);color:var(--faint)}
 .radak h4 .rootnote bdi{font-family:var(--heb);font-size:15px}
 .rad-text{margin:0 0 0 auto}

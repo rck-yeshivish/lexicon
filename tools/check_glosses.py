@@ -54,8 +54,12 @@ NAMED = {
     # He writes ויונתן תרגם 79 times, תרגם יונתן 77 and תרגום יונתן 36. Knowing
     # only the last two made drafters write "Yonasan renders" where they wanted
     # the fuller name, which is the check dictating the prose.
+    # יונתן תרגם already carries יונתן תרגמו, which is why one entry passed by
+    # luck; תרגמו יונתן, with the suffix before the name, does not follow from
+    # any of the others, and neither does the one place he says Yonasan did not
+    # render the word at all.
     "Targum Yonasan": ["תרגום יונתן", "תרגם יונתן", "יונתן תרגם", "יונתן תרגום",
-                       "יונתן פירש"],
+                       "תרגמו יונתן", "יונתן לא תרגם", "יונתן פירש"],
     "Targum": ["תרגום", "תרגם", "התרגום"],
     "Onkelos": ["אנקלוס"],
     # The edition prints his name twelve times as אלעזר, twice as אלעור with a
