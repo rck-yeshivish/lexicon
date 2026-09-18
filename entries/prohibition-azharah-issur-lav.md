@@ -66,7 +66,7 @@ punishment aspect (for example, *Yevamos* 3b and *Sifrei Naso* 1).
   He'Aruch*) all take ז-ה-ר as one triliteral root carrying two very distinct
   senses, warning and light, and none of them intimates a connection between the
   two.
-- Maimonides' son, Rabbi Avraham Maimuni, does connect them: the root means
+- Rambam's son, Rabbi Avraham Maimuni, does connect them: the root means
   light or brilliance (*zohar*), and one illuminates another's intellectual
   perception by instructing him as to his responsibilities, so to warn a person
   can be said to be shedding light on what is expected of him; both senses are

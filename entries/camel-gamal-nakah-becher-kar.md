@@ -130,7 +130,11 @@ All three are live.
 ### gamal (גמל)
 Fifty-four occurrences as the animal, on the root ג-מ-ל, whose verbs mean
 weaning, ripening, and requiting and run to another thirty-seven appearances in
-Tanach by Even-Shoshan's concordance. Three men in Tanach carry the root in their
+Tanach by Even-Shoshan's concordance. Rabbi Yitzchak Avineri notes that the word
+is always masculine in form in Biblical Hebrew and yet takes in females as well:
+where the pasuk has Yaakov sending Esav she-camels it says *gemalim meinikos*
+(Bereishis 32:16), nursing camels, the masculine noun qualified rather than
+exchanged for a feminine one. Three men in Tanach carry the root in their
 names, Gamliel (Bamidbar 1:10, 2:20, 7:54, 7:59, 10:12), Gemali (Bamidbar
 13:12), and Gamul (Divrei
 HaYamim I 24:17), and Gamla appears in the Mishnah (Yoma 3:9, Yevamos 6:4);
