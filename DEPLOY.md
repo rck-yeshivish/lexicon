@@ -1,13 +1,21 @@
 # Deploying
 
-The site is live at **https://whatsinaword.yehron.workers.dev**
+The site is live at **https://whatsinaword.pages.dev**
 
-`site/` is generated, so build before deploying:
+Every push to `main` builds and deploys it, so ordinarily there is nothing to
+run. `site/` is generated, so to deploy by hand, build first:
 
 ```bash
 python tools/build_site.py
-npx wrangler deploy
+npx wrangler pages deploy site --project-name=whatsinaword --branch=main
 ```
+
+It must be `pages deploy`, and the same is true in the workflow. Plain `wrangler
+deploy` publishes a *Worker* to `whatsinaword.yehron.workers.dev`, which is a
+second and separate copy of the site rather than an update to this one. There is
+one such Worker, left over from before the workflow existed, still serving the
+site as it stood on 10 September with 342 entries. Check `data.json` for
+`"built"` to see which copy you are looking at.
 
 `wrangler.jsonc` holds the project name and points at `site/` as the asset
 directory. Only that directory is uploaded, which is what keeps the harvested
@@ -38,10 +46,17 @@ no new party to the copyrighted text, and only `site/` reaches Cloudflare.
 
 ## A note on the URL
 
-Cloudflare Pages is now part of Workers, so new projects deploy to
-`*.workers.dev` rather than `*.pages.dev`. The site is the same static site
-either way. Deploying to the older Pages platform, and a `pages.dev` address,
-means re-running the create command with `--force`.
+Cloudflare Pages is now part of Workers, and a new project deploys to
+`*.workers.dev` rather than `*.pages.dev`. This project predates that and lives
+on Pages, which is why the workflow says `pages deploy` and why the live address
+is `whatsinaword.pages.dev`.
+
+That matters because the two commands do not compete: they publish to two
+different places. A `wrangler deploy` run here in September created the Worker
+at `whatsinaword.yehron.workers.dev`, and because nothing has run it since, that
+copy has sat at 342 entries while Pages moved on. A stale public copy of the
+site is worse than none, so it wants either retiring in the Cloudflare dashboard
+or a redirect to the Pages address.
 
 ## Before sharing the link
 
