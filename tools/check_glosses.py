@@ -2,6 +2,7 @@
 
   python tools/check_glosses.py                     # the whole file
   python tools/check_glosses.py --file batch.json   # one batch, before merging
+  python tools/check_glosses.py --thin              # his long entries, thinnest glosses first
 
 The glosses are English written from his Hebrew, and the danger in writing 859
 of them is a sentence that reads well and says something he never said. This
@@ -181,6 +182,31 @@ def cited_keys(text):
     return out
 
 
+def thin(g, roots, n=20):
+    """His longest entries set against the English written for them. It cannot
+    say a gloss is wrong, only that a great deal of his entry has gone
+    unreported, which is a different fault from invention and the checks above
+    cannot see it: שׁבע ran 3,654 characters on seven, the week, seven for a
+    large number and swearing an oath, and carried a gloss of 23 characters that
+    mentioned only the first."""
+    size = {}
+    for v in roots.values():
+        for p in ([v] + (v.get("more") or [])) if v else []:
+            size[p["hw"]] = len(p.get("text", ""))
+    rows = []
+    for hw, gl in g.items():
+        his = size.get(hw, 0)
+        if his < 1500:
+            continue
+        ours = len(gl.get("sense", "")) + sum(len(m["h"]) + len(m["t"])
+                                              for m in (gl.get("more") or []))
+        rows.append((ours / his, ours, his, hw, len(gl.get("more") or [])))
+    rows.sort()
+    print(f"{len(rows)} entries of his run past 1,500 characters. Thinnest first:\n")
+    for ratio, ours, his, hw, parts in rows[:n]:
+        print(f"  {ratio:.2f}  {hw:8} his {his:5} characters, ours {ours:4} in {parts} parts")
+
+
 def main():
     # --file lints a batch on its own, before it is merged, so whoever drafts it
     # can put their own work right first. The file is either {"glosses": {...}}
@@ -191,6 +217,9 @@ def main():
     if "glosses" not in g:
         g = {"glosses": g}
     roots = json.loads(SHORASHIM.read_text(encoding="utf-8"))["roots"]
+    if "--thin" in sys.argv:
+        thin(g["glosses"], roots)
+        return 0
     byhw = {}
     for v in roots.values():
         for p in ([v] + v.get("more", [])) if v else []:
