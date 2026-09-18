@@ -9,7 +9,8 @@
    "A part earns its place by being worth knowing. Where his entry is one line, the gloss is one line."
   ],
   "status": "draft",
-  "keyed_by": "Radak's headword as references/shorashim.json stores it, so an entry serving two roots (גרז for both גרז and גרזן) is glossed once."
+  "keyed_by": "Radak's headword as references/shorashim.json stores it, so an entry serving two roots (גרז for both גרז and גרזן) is glossed once.",
+  "same letters, other word": "A root's letters sometimes carry a word he treats and a word our entry means, and his dictionary has only the first. The throat entry names ג-ר-ן, and his only entry under those letters is the threshing floor; he has no headword for גרון at all. The gloss says plainly what his entry is about, which is what tells a reader the two are different words. Checking for this mechanically was tried and abandoned: asking whether his entry cites any of the entry's own words flags 123 roots, and nearly all of them are ours naming a later form (גניזה, דירה, הרהור) of the very root he does treat."
  },
  "glosses": {
   "אבד": {
@@ -3681,6 +3682,258 @@
     {
      "h": "The whole entry",
      "t": "The pesukim and nothing more: סָלַחְתִּי כִּדְבָרֶֽךָ (Bamidbar 14:20), I have forgiven as you asked; סְֽלַֽח ־נָא לַֽעֲוֹן הָעָם הַזֶּה (Bamidbar 14:19), forgive the sin of this people; in the passive וְנִסְלַח לֽוֹ (Vayikra 4:26), and he will be forgiven; the adjective טוֹב וְסַלָּח (Tehillim 86:5), good and forgiving; and the noun כִּי־עִמְּךָ הַסְּלִיחָה (Tehillim 130:4), with You is forgiveness."
+    }
+   ]
+  },
+  "גרן": {
+   "sense": "The threshing floor; of the sense he says only ידוע, that it is known, and gives three pesukim.",
+   "more": [
+    {
+     "h": "The whole entry",
+     "t": "גֹּרֶן וָיֶקֶב לֹא יִרְעֵם (Hoshea 9:2), threshing floor and winepress will not feed them; וּמָֽלְאוּ הַגֳּרָנוֹת בָּר (Yoel 2:24), the threshing floors will be full of grain; and מְדֻשָׁתִי וּבֶן־ גָּרְנִי (Yeshayahu 21:10), my threshed one and the son of my threshing floor. Of all of them he says only ידוע, it is known."
+    }
+   ]
+  },
+  "דגל": {
+   "sense": "The דֶּגֶל, the standard that the heads of the troops raise; and a verb comes from it, which he gives without a gloss.",
+   "more": [
+    {
+     "h": "The standard",
+     "t": "דֶּגֶל מַֽחֲנֵה יְהוּדָה (Bamidbar 2:3), the standard of the camp of Yehudah, pointed בשש נקדות, with six dots. He glosses it הנס שמרימין ראשי החיילות, the standard that the heads of the troops raise."
+    },
+    {
+     "h": "The verb from it",
+     "t": "דָּגוּל מֵרְבָבָֽה (Shir HaShirim 5:10), marked out above ten thousand; וּבְשֵֽׁם־אֱלֹהֵינוּ נִדְגֹּל (Tehillim 20:6), in the name of Hashem we will raise our banner; and אֲיֻמָּה כַּנִּדְגָּלֽוֹת (Shir HaShirim 6:4), awesome as ranks under their banners."
+    }
+   ]
+  },
+  "כתל": {
+   "sense": "The wall. אַחַר כָּתְלֵנוּ (Shir HaShirim 2:9), behind our wall, and he glosses it in two words: הוא הקיר, it is the wall."
+  },
+  "אפה": {
+   "sense": "To bake. The word is always said of bread; of the other foods, he says, the word is cooking.",
+   "more": [
+    {
+     "h": "A thing named by what it becomes",
+     "t": "וּמַצּוֹת אָפָה (Bereishis 19:3), he baked matzos, and וְאַף אָפִיתִי עַל־גֶּחָלָיו לֶחֶם (Yeshayahu 44:15), I have baked bread on its coals, are על שם סופו, after what the thing ends as, since it is not called לחם, bread, until it is baked. So too וְטַֽחֲנִי קָמַח (Yeshayahu 47:2), grind flour; וַתִּקַּח אֶת־הַבָּצֵק (Shmuel II 13:8), she took the dough and kneaded it; וּבִגְדֵי עֲרוּמִּים תַּפְשִֽׁיט (Iyov 22:6), you strip the garments of the naked; נִשְׁבְּרָה קִרְיַת־תֹּהוּ (Yeshayahu 24:10), the city of emptiness is broken; יָהֵב חָכְמְתָא לְחַכִּימִין (Daniel 2:21), He gives wisdom to the wise; יוּמַת הַמֵּת (Devarim 17:6), the dead man shall be put to death; and וְיָֽצְאוּ יְלָדֶיהָ (Shemos 21:22), her children come out, though they were not born but only fit to be children."
+    },
+    {
+     "h": "The forms",
+     "t": "וַתֹּפֵהוּ מַצּֽוֹת (Shmuel I 28:24), she baked it into matzos; אֵת אֲשֶׁר־ תֹּאפוּ אֵפוּ (Shemos 16:23), bake what you will bake. The baker: תַנּוּר בֹּעֵרָה מֵֽאֹפֶה (Hoshea 7:4), an oven burning from the baker, that is, מצד האופה שמבעירו, from the side of the baker who kindles it, and מִחוּץ הָֽאֹפִים (Yirmiyahu 37:21), from the street of the bakers. In the passive, לֹא תֵֽאָפֶה חָמֵץ (Vayikra 6:10), it shall not be baked leavened, and חָמֵץ תֵּֽאָפֶינָה (Vayikra 23:17). The noun is מַֽאֲפֵה תַנּוּר (Vayikra 2:4), an oven's baking."
+    },
+    {
+     "h": "תֻּפִינֵי",
+     "t": "תֻּֽפִינֵי מִנְחַת פִּתִּים (Vayikra 6:14) is another pattern, the alef exchanged for a quiescent vav with a nun added at the end. It is said in the plural because the offering was baked many bakings: scalded in boiling water, then baked in the oven, then fried again in a pan."
+    }
+   ]
+  },
+  "ציר": {
+   "sense": "צִיר נֶאֱמָן לְשֹֽׁלְחָיו (Mishlei 25:13), a faithful envoy to those who send him. He gives no gloss here, saying he has written the matter at the root צוּר."
+  },
+  "שׁגר": {
+   "sense": "Sending forth. שְׁגַר ־אֲלָפֶיךָ (Devarim 7:13) and שֶׁגֶר בְּהֵמָה (Shemos 13:12), which he points בשש נקודות, with six dots.",
+   "more": [
+    {
+     "h": "The sense is sending",
+     "t": "ענינם ענין שלוח, their sense is sending, as יְשַׁלְּחוּ כַצֹּאן עֲוִֽילֵיהֶם (Iyov 21:11), they send out their little ones like a flock."
+    },
+    {
+     "h": "How Chazal use the word",
+     "t": "Chazal say מלא שגר היונה, which he explains as שלוח היונה והליכתה, the dove's being sent out and her going. They made the word usual for sending, as שגר אחריו, he sent after him, and much else besides."
+    }
+   ]
+  },
+  "רפסד": {
+   "sense": "Rafts: the great logs men tie together and bring along the rivers and the sea.",
+   "more": [
+    {
+     "h": "The same as the דוברות",
+     "t": "רַפְסֹדוֹת עַל־יָם יָפוֹ (Divrei HaYamim II 2:15) are the דוברות named in Melachim (Melachim I 5:23), הקורות שקושרין אותן ביחד, the beams men tie together and bring along the rivers and the sea. He gives their name in the vernacular."
+    },
+    {
+     "h": "In the Mishnah and the Yerushalmi",
+     "t": "The Mishnah in Berachos has היה יושב בספינה או באסדא, one who was sitting in a boat or on a raft, and the Talmud Yerushalmi there says היא אסדא היא אכסדיא היא רפסודות, the אסדא and the אכסדיא and the רפסודות are one thing."
+    }
+   ]
+  },
+  "דוג": {
+   "sense": "The fisherman and the fish: דַּוָּגִים is a word of description for those who hunt fish, and דָּג is the fish itself.",
+   "more": [
+    {
+     "h": "The fishermen",
+     "t": "עָלָיו דַּוָּגִים (Yechezkel 47:10), fishermen standing over it. With a yud in place of the vav, לְדַוָּגִים (Yirmiyahu 16:16), and in the same pasuk וְדִיגוּם, and they shall fish them out."
+    },
+    {
+     "h": "The form of וְדִיגוּם",
+     "t": "Some grammarians say it is of the heavy verb and the yud ought to carry a dagesh. He holds it may rather be of the augmented form with the heh of the binyan dropped, the proper form being והדיגום."
+    },
+    {
+     "h": "The fish",
+     "t": "דָּג גָּדוֹל (Yonah 2:1), a great fish; written with an alef in מְבִיאִים דָּאג (Nechemiah 13:16), bringing fish; דְּגֵי הַיָּם (Bamidbar 11:22), the fish of the sea; in the feminine מִמְּעֵי הַדָּגָֽה (Yonah 2:2), from the belly of the fish; and as a collective וְהַדָּגָה אֲשֶׁר־בַּיְאֹר תָּמוּת (Shemos 7:18), the fish in the river will die, דְגַת ־יְאֹרֶיךָ (Yechezkel 29:4), the fish of your rivers, and תִּבְאַשׁ דְּגָתָם מֵאֵין מַיִם (Yeshayahu 50:2), their fish stink for want of water. He says he has already written of these at the root דָּגָה."
+    },
+    {
+     "h": "Another pattern",
+     "t": "בְּסִירוֹת דּוּגָֽה (Amos 4:2), for which he gives no gloss."
+    }
+   ]
+  },
+  "טמן": {
+   "sense": "To hide. All of them, he says, are ענין הסתר והעלמה, the sense of concealing and putting out of sight.",
+   "more": [
+    {
+     "h": "What men hide",
+     "t": "טָמַן עָצֵל יָדוֹ בַּצַּלָּחַת (Mishlei 19:24), the sluggard buries his hand in the dish; טָמְנוּ פַח לִֽי (Tehillim 142:4), they hid a trap for me; וּטְמַנְתָּם בַּמֶּלֶט (Yirmiyahu 43:9), hide them in the mortar; וַיַּךְ אֶת־הַמִּצְרִי וַֽיִּטְמְנֵהוּ בַּחֽוֹל (Shemos 2:12), he struck the Mitzri and hid him in the sand; וַיִּטְמֹן אֹתָם יַֽעֲקֹב תַּחַת הָֽאֵלָה (Bereishis 35:4), Yaakov hid them under the terebinth; and לִטְמוֹן בְּחֻבִּי עֲוֹֽנִי (Iyov 31:33), to hide my sin in my bosom."
+    },
+    {
+     "h": "The forms",
+     "t": "In the passive, וְהִטָּמֵן בֶּֽעָפָר (Yeshayahu 2:10), hide yourself in the dust; and in another form, וַיֵּֽלְכוּ וַיַּטְמִנוּ (Melachim II 7:8), they went and hid it away."
+    },
+    {
+     "h": "The hidden store",
+     "t": "נָתַן לָכֶם מַטְמוֹן (Bereishis 43:23), He has given you a hidden store; כִּֽי־יֶשׁ־לָנוּ מַטְמֹנִים בַּשָּׂדֶה (Yirmiyahu 41:8), we have stores hidden in the field; and with a shuruk, וּמַטְמֻנֵי מִסְתָּרִים (Yeshayahu 45:3), hoards in secret places. On פְּנֵיהֶם חֲבֹשׁ בַּטָּמֽוּן (Iyov 40:13) he says the word means למקום שיטמינם בו, the place where He hides them."
+    }
+   ]
+  },
+  "גנז": {
+   "sense": "Treasuries. He glosses them כמו אוצרות, like storehouses: a place, or vessels, into which gold and silver and precious garments are put.",
+   "more": [
+    {
+     "h": "The whole entry",
+     "t": "Two pesukim and a line: אֶל־ גִּנְזֵי הַמֶּֽלֶךְ (Esther 3:9), to the king's treasuries, and וּבְגִנְזֵי בְּרֹמִים (Yechezkel 27:24)."
+    }
+   ]
+  },
+  "שׁמשׁ": {
+   "sense": "The sun; and from it שִׁמְשֹׁתַיִךְ, the windows the sun comes in by.",
+   "more": [
+    {
+     "h": "Sun and moon together",
+     "t": "שֶׁמֶשׁ יָרֵחַ עָמַד זְבֻלָה (Chavakuk 3:11), pointed בשש נקודות, with six dots, and meaning שמש וירח, the sun and the moon."
+    },
+    {
+     "h": "The pesukim he gives",
+     "t": "יוֹמָם הַשֶּׁמֶשׁ לֹֽא־יַכֶּכָּה (Tehillim 121:6), by day the sun will not strike you; הַשֶּׁמֶשׁ יָצָא עַל־הָאָרֶץ (Bereishis 19:23), the sun had come out over the earth; וְזָרַח הַשֶּׁמֶשׁ (Koheles 1:5), the sun rises; לֹֽא־יָבוֹא עוֹד שִׁמְשֵׁךְ (Yeshayahu 60:20), your sun will set no more; שֶׁמֶשׁ צְדָקָה (Malachi 3:20), a sun of righteousness; and לְעֵינֵי הַשֶּׁמֶשׁ הַזֹּֽאת (Shmuel II 12:11), before this sun."
+    },
+    {
+     "h": "The windows",
+     "t": "וְשַׂמְתִּי כַּֽדְכֹד שִׁמְשֹׁתַיִךְ (Yeshayahu 54:12), which he glosses החלונות שהשמש נכנס בהם, the windows the sun enters by."
+    }
+   ]
+  },
+  "סהר": {
+   "sense": "The moon: the Targum of יָרֵחַ is סִיהֲרָא. From it the round ornaments of the women are named, and the round prison.",
+   "more": [
+    {
+     "h": "The word and its Targum",
+     "t": "שָׁרְרֵךְ אַגַּן הַסַּהַר (Shir HaShirim 7:3), and the Targum of יָרֵחַ (Tehillim 8:4) is סִיהֲרָא."
+    },
+    {
+     "h": "The women's ornaments",
+     "t": "For this reason מראות הנשים, the women's mirrors, are called שהרונים, as וְהַשְּׁבִיסִים וְהַשַּֽׂהֲרֹנִֽים (Yeshayahu 3:18), because they are like the סהר. That word, he notes, is written with a sin."
+    },
+    {
+     "h": "The prison",
+     "t": "בֵּית הַסֹּהַר (Bereishis 39:20) is the name of the prison, שהוא עגול בדמות הסהר, because it is round in the likeness of the moon."
+    }
+   ]
+  },
+  "מנח": {
+   "sense": "The מִנְחָה. The entry is on whether its mem belongs to the root, and on the evening offering and the hour of prayer named from it.",
+   "more": [
+    {
+     "h": "Whether the mem is of the root",
+     "t": "On וַיָּכִינוּ אֶת־ הַמִּנְחָה (Bereishis 43:25) and אַל־תֵּפֶן אֶל־ מִנְחָתָם (Bamidbar 16:15): some say the mem is of the root. It may rather be added and the root נָחָה, and that is the closer to the sense, since מנחה is of the sense of נחה, a thing set down, as אֲרוּחָה is named from אָרַח. But the truth cannot be settled, because the plural is not found in Scripture."
+    },
+    {
+     "h": "What the reading מְנָחוֹת shows",
+     "t": "Since they read מנחות in the Mishnah with a sheva under the mem, and so it is read in every mouth, מְנָחוֹת, the mem looks to be of the root: as from גִּבְעָה you say גְּבָעוֹת, so from מִנְחָה you say מְנָחוֹת. Were the mem added, it should have carried a chirik, as מִצְוָה gives מִצְוֹת and מַחְתָּה gives מַחְתּוֹת."
+    },
+    {
+     "h": "The evening offering",
+     "t": "The evening olah is called מנחה: הַקְטֵר אֶת־עֹֽלַת־הַבֹּקֶר וְאֶת־ מִנְחַת הָעֶרֶב (Melachim II 16:15), and מַֽשְׂאַת כַּפַּי מִנְחַת ־עָֽרֶב (Tehillim 141:2), the lifting of my hands as an evening offering. וַיְהִי בַּֽעֲלוֹת הַמִּנְחָה וַיִּגַּשׁ אֵֽלִיָּהוּ הַנָּבִיא (Melachim I 18:36) means at the hour the מנחה went up. The morning olah too is called מנחה, at the hour they bring the morning offering."
+    },
+    {
+     "h": "The prayer named from the hour",
+     "t": "The prayer of מנחה is so called because it falls at the hour the evening מנחה goes up, והוא עת נטות השמש, the time the sun turns down. So וַֽאֲנִי ישֵׁב מְשׁוֹמֵם עַד לְמִנְחַת הָעָֽרֶב (Ezra 9:4), I sat appalled until the evening מנחה, and וּבְמִנְחַת הָעֶרֶב קַמְתִּי מִתַּֽעֲנִיתִי (Ezra 9:5), at the evening מנחה I rose from my fast."
+    }
+   ]
+  },
+  "נתן": {
+   "sense": "To give. He sets out the forms and at the end says only ענינם ידוע, their sense is known.",
+   "more": [
+    {
+     "h": "Forms he stops to mark",
+     "t": "On וְאֹיְבַי תַּתָּה לִּי עֹרֶף (Shmuel II 22:41), You gave me the back of my enemies, he notes בחסרון הקצוות, the ends of the word missing, not as the past tense usually runs. וַאֲנַחְנוּ נִתַּן ־לָךְ (Shoftim 16:5), and we will give you, carries a patach, לגזרת אֶפְעַל, for the אפעל pattern. And לְתִתֵּן שָׁם אֶת־אֲרוֹן בְּרִית (Melachim I 6:19), to set the ark of the covenant there, he calls an infinitive with a nun added at the end."
+    },
+    {
+     "h": "Giving the hand",
+     "t": "וַיִּתֶּן ־יָד (Bereishis 38:28), he put out a hand; תְּנָה אֶת־יָדֶךָ (Melachim II 10:15), give your hand; נָתְנוּ יָד תַּחַת שְׁלֹמֹה (Divrei HaYamim I 29:24), they gave the hand under Shlomo; and מִצְרַיִם נָתַנּוּ יָד (Eichah 5:6), Mitzrayim gave the hand. He sets them in a row and glosses none of them."
+    },
+    {
+     "h": "More of the muster",
+     "t": "נִתְּנָה רֹאשׁ (Bamidbar 14:4), let us set a head; וְנָתוֹן אֹתוֹ עַל כָּל־אֶרֶץ מִצְרָֽיִם (Bereishis 41:43), setting him over all the land of Mitzrayim; תְּנוּ אֶת־אֲרֽוֹן־הַקֹּדֶשׁ בַּבַּיִת (Divrei HaYamim II 35:3), put the holy ark in the house; נְתֻנִים נְתֻנִים הֵמָּה לִי (Bamidbar 8:16), given, given they are to Me; and שְֽׂאוּ־זִמְרָה וּתְנוּ ־תֹף (Tehillim 81:3), raise a song and sound the drum."
+    },
+    {
+     "h": "In the passive",
+     "t": "כְּבוֹד הַלְּבָנוֹן נִתַּן ־לָהּ (Yeshayahu 35:2), the glory of Levanon was given her; וְהִוא לֹֽא־ נִתְּנָה לוֹ לְאִשָּֽׁה (Bereishis 38:14), she was not given him to wife; תֶּבֶן אֵין נִתָּן לַֽעֲבָדֶיךָ (Shemos 5:16), no straw is given your servants; and הִנָּתֹן תִּנָּתֵן הָעִיר הַזֹּאת (Yirmiyahu 38:3), this city will surely be given. Where the doer is not named, וְכִי יֻֽתַּן ־מַיִם עַל־זֶרַע (Vayikra 11:38), if water be put on seed."
+    },
+    {
+     "h": "The Nesinim and the nouns",
+     "t": "וּמִן־ הַנְּתִינִים שֶׁנָּתַן דָּוִיד וְהַשָּׂרִים לַֽעֲבֹדַת הַֽלְוִיִּם (Ezra 8:20), of the Nesinim whom David and the officers gave for the service of the Leviim. The nouns are מֹהַר וּמַתָּן (Bereishis 34:12), bride price and gift; תְּרוּמַת מַתָּנָם (Bamidbar 18:11); עֲבֹדַת מַתָּנָה (Bamidbar 18:7); אִישׁ כְּמַתְּנַת יָדוֹ (Devarim 16:17), each man according to the gift of his hand; and in another pattern וְאֶתְּנָה לְךָ מַתָּֽת (Melachim I 13:7), and I will give you a gift."
+    }
+   ]
+  },
+  "תור": {
+   "sense": "To search out and explore; also the turtledove, a turn or a time, and the sense of תכונה, the measure or condition of a thing.",
+   "more": [
+    {
+     "h": "Searching out",
+     "t": "תַּרְתִּי בְלִבִּי (Koheles 2:3), I searched in my heart; אֲשֶׁר תָּרוּ אֹתָהּ (Bamidbar 13:32), the land they spied out; וְלֹא תָתוּרוּ אַֽחֲרֵי לְבַבְכֶם (Bamidbar 15:39), do not go searching after your heart. וַיָּתִירוּ בֵֽית־יוֹסֵף (Shoftim 1:23) is חקירה וחפוש, examining and searching, and from the same is יְתוּר הָרִים מִרְעֵהוּ (Iyov 39:8), he searches the mountains for his pasture, a noun of the pattern of יְקוּם and יְבוּל."
+    },
+    {
+     "h": "The small traders",
+     "t": "לְבַד מֵֽאַנְשֵׁי הַתָּרִים וְהַסֹּֽחֲרִים (Divrei HaYamim II 9:14): the התרים are the lesser traders, few in goods and dealings, who search hard over what they buy and sell because their business is small, while the סוחרים are the great merchants."
+    },
+    {
+     "h": "דֶּרֶךְ הָאֲתָרִים",
+     "t": "By the Targum's reading, דֶּרֶךְ הָֽאֲתָרִים (Bamidbar 21:1) belongs to this root, the alef being added."
+    },
+    {
+     "h": "The turtledove",
+     "t": "וְתֹר וְגוֹזָֽל (Bereishis 15:9), a turtledove and a young pigeon; וְהִקְרִיב מִן־ הַתֹּרִים (Vayikra 1:14); and שְׁתֵּי תֹרִים (Vayikra 5:7), two turtledoves, of which he says ידוע, it is known. The pasuk says הָאֶחָד in the masculine and שְׁתֵּי in the feminine to teach that male and female are alike fit. From this, אַל־תִּתֵּן לְחַיַּת נֶפֶשׁ תּוֹרֶךָ (Tehillim 74:19), where Knesses Yisrael is likened to a turtledove, as she is likened also to a dove."
+    },
+    {
+     "h": "A time, and a man's measure",
+     "t": "תֹּר נַֽעֲרָה וְנַֽעֲרָה (Esther 2:12) is ענינו זמן, a time. וּרְאִיתַנִי כְּתוֹר הָֽאָדָם הַמַּֽעֲלָה (Divrei HaYamim I 17:17) is כתכונת האדם, after the measure of a man: this greatness You have spoken of me is the measure of a great man, but what am I and what is my house, and so he says הַמַּעֲלָה, that You saw me in the measure of a great man though I am small and lowly. So too וְזֹאת תּוֹרַת הָֽאָדָם (Shmuel II 7:19)."
+    },
+    {
+     "h": "The Torah, and the rows of pearls",
+     "t": "It may be that וְזֹאת הַתּוֹרָה (Devarim 4:44) is of this root, and the Torah of Hashem that is perfect (Tehillim 19:8), all of them one in this sense, since they mean תכונה, a fixed measure, as he explained at the root יָרָה. Near to it is נָאווּ לְחָיַיִךְ בַּתֹּרִים (Shir HaShirim 1:10), the pearls joined and set in order."
+    }
+   ]
+  },
+  "למד": {
+   "sense": "To learn, and in the doubled form to teach; ענינם הלמוד וההרגל, their sense is learning and habit.",
+   "more": [
+    {
+     "h": "Learning",
+     "t": "בַּל־ לָמַד צֶדֶק (Yeshayahu 26:10), he has not learned righteousness, which he marks מלרע, stressed on the last syllable; יִשְׁמְעוּ וְלָמְדוּ (Devarim 31:13), they will hear and learn; לְמַעַן יִלְמַד לְיִרְאָה (Devarim 17:19); וַיִּלְמַד לִטְרָף־טֶרֶף (Yechezkel 19:3), he learned to tear prey; and אִם־ לָמֹד יִלְמְדוּ אֶת־דַּֽרְכֵי עַמִּי (Yirmiyahu 12:16), if they will indeed learn the ways of My people."
+    },
+    {
+     "h": "Teaching",
+     "t": "לִמַּד ־דַּעַת (Koheles 12:9), he taught knowledge; רְאֵה לִמַּדְתִּי אֶתְכֶם (Devarim 4:5), see, I have taught you; אֲשֶׁר אָֽנֹכִי מְלַמֵּד אֶתְכֶם (Devarim 4:1), which I teach you; עֶגְלָה מְלֻמָּדָה (Hoshea 10:11), a trained heifer; מְלֻמְּדֵי מִלְחָמָה (Shir HaShirim 3:8), trained in war; and where the doer is not named, כְּעֵגֶל לֹא לֻמָּד (Yirmiyahu 31:17), like a calf untrained."
+    },
+    {
+     "h": "The taught and the accustomed",
+     "t": "וּלְמוּדֵי מִלְחָמָה, those trained for war; פֶּרֶה לִמֻּד מִדְבָּר (Yirmiyahu 2:24), a wild donkey used to the wilderness; לְשׁוֹן לִמּוּדִים (Yeshayahu 50:4), the tongue of the taught; לִמֻּדֵי הָרֵֽעַ (Yirmiyahu 13:23), trained to do evil; and Yeshayahu 54:13, all your children taught of Hashem. In another pattern, כַּקָּטֹן כַּגָּדוֹל מֵבִין עִם־ תַּלְמִֽיד (Divrei HaYamim I 25:8), the small as the great, the one who understands with the learner."
+    },
+    {
+     "h": "כִּלְמַד רֹכַלְתֵּךְ",
+     "t": "אַשּׁוּר כִּלֽמַד רֹֽכַלְתֵּֽךְ (Yechezkel 27:23) is of the pattern of כָּבֵד, and in the construct לְמַד, as כְבַד ־פֶּה (Shemos 4:10). His father writes that the men of Ashur were as those accustomed to come to you always in trade, and he says he will write further at the root רָכַל."
+    },
+    {
+     "h": "The ox goad",
+     "t": "From this the staff with the needle fixed in its head, the one called a דָּֽרְבָן, is named מלמד: בְּמַלְמַד הַבָּקָר (Shoftim 3:31), the goad of the oxen, לפי שמלמד ומורה הבקר לחרישה, because it teaches and directs the oxen to plough."
     }
    ]
   }
