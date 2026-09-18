@@ -154,6 +154,16 @@ ENG_CITE = re.compile(r"\([A-Z][A-Za-z ]+\s\d+:\d+\)")
 ENG_WORD = re.compile(r"[A-Za-z][A-Za-z'’]*")
 
 
+# Five times he sets the book outside the citation and leaves only the volume
+# letter inside it: בדברי הימים (א' יז, ו), בספר מלכים (א' י, יד). HEB_CITE wants
+# the book within the brackets, so it read these as a bare chapter and pasuk with
+# no book at all, and a true citation of his was refused.
+VOL = {"א": "I", "ב": "II"}
+OUTSIDE_BOOK = {"דברי הימים": "Chronicles", "שמואל": "Samuel", "מלכים": "Kings"}
+OUTSIDE = re.compile(r"(דברי הימים|שמואל|מלכים)\s*\(\s*([אב])'?\s*"
+                     r"([א-ת]{1,6})'?\s*,\s*([א-ת]{1,6})'?\s*\)")
+
+
 def gematria(s):
     n = sum(GEM.get(c, 0) for c in s if c in GEM)
     return n if n else None
@@ -172,6 +182,11 @@ def numbered(text):
         pairs.add((c, v))
         if m.group(1):
             keys.add(f"{BOOKS[m.group(1)]}.{c}.{v}")
+    for m in OUTSIDE.finditer(text):
+        c, v = gematria(m.group(3)), gematria(m.group(4))
+        if c and v:
+            pairs.add((c, v))
+            keys.add(f"{VOL[m.group(2)]} {OUTSIDE_BOOK[m.group(1)]}.{c}.{v}")
     return keys, pairs
 
 
