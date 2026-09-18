@@ -137,4 +137,4 @@ Rabbi Reuven Chaim Klein, "[Deleterious Desires](https://articles.ohr.edu/articl
 
 Rabbi Reuven Chaim Klein, "[Seasoning the Land](https://articles.ohr.edu/articles/seasoning-the-land)," *What's in a Word?*, Ohr Somayach, 28 August 2021.
 
-Cited in the essay: Bamidbar 11:4 and 11:10; Koheles 3:1 with Rashi; Chagigah 11b; the Vilna Gaon on *taavah*, *chemdah* and *chefetz*; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg; Malbim on *taavah* and *chemdah*, and on *chefetz* and *ratzon*; Rabbi Tzvi Yehuda Kook on *chefetz* and *ratzon*.
+Cited in the essay: Bamidbar 11:4 and 11:10; Koheles 3:1 with Rashi; Chagigah 11b; the Vilna Gaon on *taavah*, *chemdah* and *chefetz* (to Mishlei 2:16, and *Aderes Eliyahu* to Devarim 12); Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg; Malbim on *taavah* and *chemdah*, and on *chefetz* and *ratzon* (*Sefer HaCarmel* vol. 1 s.v. חמד and vol. 2 s.v. תאוה, and *Yair Ohr*, os alef siman 7); Rabbi Tzvi Yehuda Kook on *chefetz* and *ratzon*.
