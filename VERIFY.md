@@ -40,6 +40,10 @@ For one entry, with its source article open beside it:
    was repeated in four places within a single entry, carrying a quotation the
    verse does not contain. Where book names were converted to Hebrew, the
    numbers were not always converted with them.
+   A count the article gives is checked by occurrences, not by pesukim. It
+   said *peresh* appears seven times and listed six pesukim, and the count was
+   right: Malachi 2:3 has it twice. Counting the loci instead of the words
+   raised a slip that was not there.
 8. **Check the Sources paragraph last, as a separate step, against the finished
    body.** Every Sources-level slip a cold audit of corrected entries found sat
    in a footer nobody re-read after the body was fixed: two citations fused into

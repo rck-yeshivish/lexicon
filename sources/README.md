@@ -55,8 +55,12 @@ Every entry in `../entries/` must trace to a file here. Orthodox sources only.
   has since allowed is an essay the published corpus does not hold at all: *My Husband, My
   Man*, *Of Demons and Spirits* and *Output Understood* are entries drawn from the chapter
   alone, and their source line is `ms:<chapter>.md` because there is nothing to link to.
-  Each chapter opens with the author's own working notes before the essay proper begins, and
-  those notes are not the essay; the entries follow the essay and leave the notes alone.
+  Each chapter opens with the author's own working notes before the essay proper begins. His
+  rule for them: a note that is fully formed and stands on its own may go into an entry; one
+  that only names a source without saying what it says, or says "see" something, or is too raw
+  to mean anything alone, stays out. The notes he meant for use are usually highlighted yellow,
+  and the highlighting survives in the docx (3,953 runs), but it also marks passages inside
+  finished essays, so it shortlists and does not decide.
 
 ### Klein, "Learning to differentiate between apparent synonyms" (Babel, 2020)
 - `klein-babel-2020/` holds the PDF and its extracted text. Rabbi Klein writing
