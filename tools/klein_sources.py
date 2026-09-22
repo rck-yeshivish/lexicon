@@ -82,9 +82,9 @@ WORKS = {
     'שיחות הרב צבי יהודה': ('Sichos', 'Rabbi Tzvi Yehuda Kook'),
     # Read off his own essays: each of these is named in English, with its
     # author, in entries drawn from the very essays whose footnotes use the
-    # shorthand. `אור חדש` is his Chumash citations and his לוח השרשים, which is
-    # Rabbi Chelouche's; the one Esther locus is likelier Maharal's book of that
-    # name, and is left for the author to say.
+    # shorthand. `אור חדש` is usually Rabbi Chelouche, on his Chumash citations
+    # and his לוח השרשים; where the locus is Esther it is the Maharal's book of
+    # the same name, which the author has confirmed. See ESTHER below.
     'אור חדש': ('Ohr Chadash', 'Rabbi David Chaim Chelouche'),
     'מכתם לדוד': ('Michtam LeDavid', 'Rabbi David Chaim Chelouche'),
     'ברזילי': ('Barzilai', 'Rabbi Aharon Marcus'),
@@ -106,7 +106,7 @@ WORKS = {
     # fifteen times all told. Its loci are all `ערך` and `שורש`, a lexicon by
     # root, which is what he wrote. The English of the title wants his word.
     'רדיפי מיא': ('Redifei Maya', 'Rabbi Yehuda Leib Edel'),
-    'תורת האלהים': ('Toras HaElokim', ''),
+    'תורת האלהים': ('Toras HaElokim', 'Rabbi Wolf Heidenheim'),
     # His essay on excrement credits the zevel etymology to "Rabbi Tanchum the
     # Jerusalemite" and its footnote gives המדריך המספיק (ערך זבל) for it.
     'המדריך המספיק': ('HaMadrich HaMaspik', 'Rabbi Tanchum HaYerushalmi'),
@@ -119,6 +119,9 @@ WORKS = {
 # Ohr references run this way, the work named once and the second place given as
 # bare os and siman.
 CONTINUES = re.compile(r"^אות\s")
+
+# The Maharal's Ohr Chadash is on Esther; Rabbi Chelouche's is on Chumash.
+ESTHER = re.compile(r"אסתר|מגילה")
 
 
 def split_items(note):
@@ -210,6 +213,11 @@ def parse_item(item):
     head = (m.group(1) if m else item).strip(' .,;')
     locus = (m.group(2) if m else '').strip(' .,;')
     work, author = lookup_work(head)
+    # Two books are called Ohr Chadash. Rabbi Chelouche's is on Chumash and is
+    # what he means nearly every time; the Maharal's is on Esther, and where
+    # the locus is Esther that is the one, which the author has confirmed.
+    if work == 'Ohr Chadash' and ESTHER.search(locus):
+        author = 'Maharal'
     out = {'raw': item, 'head': head, 'locus': locus,
            'work': work, 'author': author}
     # `ערך X` inside the parentheses names an entry in a dictionary or a

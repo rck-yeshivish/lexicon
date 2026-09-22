@@ -93,7 +93,7 @@ read as two senses, wellspring (*be'er*) and elucidation (*ba'er*).
   clarify (*ba'er heitiv* on the stones, Devarim 27:8; Moshe's *be'er* of the
   Torah, Devarim 1:5; Chavakuk's tablets, Chavakuk 2:2). Mecklenburg (*HaKsav
   VeHaKabbalah*) cites Shadal's explanations of *poser*, *beiur* and *peirush*.
-- Tedeschi-Ashkenazi: the bes is non-essential and the core root is א-(ו)-ר,
+- Tedeschi-Ashkenazi: the beis is non-essential and the core root is א-(ו)-ר,
   light; one who elucidates metaphorically sheds light on the matter, an
   etymology that parallels English "elucidate" itself, from Latin
   *lux*/*lucidus* and ultimately the proto-Indo-European *leuk*, whence *lucid*,
@@ -135,7 +135,7 @@ means greeting people so cheerfully that they think you are glad to see them.
 - Rav Hirsch (to Tehillim 145:15): *sover* is a mental process that computes
   separate pieces of information and joins them into one complete, logical
   thought, so that one who puts his hope in Hashem concludes intellectually that
-  He is the One who powers all of creation; by the interchange of bes and peh
+  He is the One who powers all of creation; by the interchange of beis and peh
   Rav Hirsch connects *sover* to *sofer*, counting, likewise a mental joining,
   and by the interchange of sin/samech with tzadi to *tzover*, gathering, the
   verb behind *tzibbur*.

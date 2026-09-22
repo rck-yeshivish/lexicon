@@ -227,7 +227,7 @@ Alps are named for being white like milk, as is the river Elbe (Latin
 *Albis*), though this is nowadays considered something of a
 folk etymology. He is unsure whether *chalav* meant milk first and then white,
 or white first and then milk. He also considers deriving *chalav* from Aramaic
-*chali*, sweet, with a bes added, noting that Targum Yonasan to Yechezkel 27:18
+*chali*, sweet, with a beis added, noting that Targum Yonasan to Yechezkel 27:18
 renders *chelbon* wine *chamar cheilat*, sweet wine. On his account *albino*
 does after all relate to Hebrew, but to *chalav*, not *lavan*.
 

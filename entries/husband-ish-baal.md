@@ -51,7 +51,7 @@ of a mutual bond, the two as one flesh.
    to break them of. So they will use its synonym *ishi* instead, and the shift
    is lexical. The Yerushalmi (*Avodah Zarah* 3:6) that the Baal idol was shaped
    like the male member, and Rav Hirsch (to Bamidbar 23:13) that *baal* is kin
-   to the Greek *phallus* through the interchange of bes and feh, give the
+   to the Greek *phallus* through the interchange of beis and feh, give the
    avoidance a thematic edge: the Jews will not use the word even in its plain
    sense of husband.
 2. **They differ, and the pasuk is about the relationship.** Everyone below.
@@ -99,12 +99,12 @@ not the same.
   marriage fixed on its sensual pleasures. See also his comments to Bereishis
   2:23, Shir HaShirim 1:17, and *Tikkunei Zohar*, *Tikkun* 30.
 - **Initiating against sharing.** Rav Hirsch (to Bereishis 20:3, Tehillim 28:4),
-  on the interchange of bes and peh, makes *baal* kin to *paal*, action: an
+  on the interchange of beis and peh, makes *baal* kin to *paal*, action: an
   action is how a man controls a situation to reach his object, and *baal* is
   accordingly the one who initiates, lording over a subdued vassal, against the
   partner who only receives. Rabbi Yehoshua Steinberg of the Veromemanu
   Foundation adds that the same is hinted in *bala*, swallowing, whose root
-  bes-lamed-ayin is a metathesis of *baal*, bes-ayin-lamed, which catches the
+  beis-lamed-ayin is a metathesis of *baal*, beis-ayin-lamed, which catches the
   aggressive side of a nature that would acquire possessions and people alike by
   swallowing them up. Rav Hirsch reads Hoshea from the other side: under *baali*
   the Jews saw themselves humbled and downtrodden before Him, and afterwards
@@ -135,7 +135,7 @@ marriage: the owner of an ox is the *baal hashor* (Shemos 21:28), so *baali*
 can say no more than that she has been acquired. Three separate derivations
 push the same way. Maharal and the Vilna Gaon take it from *bo'el* and
 *be'ilah*, the act in which the man is the active party. Rav Hirsch takes it
-from *paal*, action, on the interchange of bes and peh, so that the *baal* is
+from *paal*, action, on the interchange of beis and peh, so that the *baal* is
 the initiator over one subdued. And Rabbi Yehoshua Steinberg finds the note
 again in *bala*, swallowing, a metathesis of the same letters.
 

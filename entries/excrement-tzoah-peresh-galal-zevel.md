@@ -118,8 +118,9 @@ whatever waste leaves the body, it covers vomit too (Yeshayahu 28:8).
 
 ### peresh (פרש)
 
-In Tanach it belongs to the sacrifices, every time (Shemos 29:14; Vayikra 4:11,
-8:17, 16:27; Bamidbar 19:5; Malachi 2:3). Rabbi Pappenheim and Rabbi Shmuel
+Seven times in Tanach, always of the sacrifices, across six pesukim, Malachi
+2:3 having it twice (Shemos 29:14; Vayikra 4:11, 8:17, 16:27; Bamidbar 19:5;
+Malachi 2:3). Rabbi Pappenheim and Rabbi Shmuel
 Strashun of Vilna (1794 to 1872) make it the fecal matter found within a
 slaughtered animal's intestines that was never excreted, and Rabbi Strashun sets
 it against *zevel*, which is what has already been voided.

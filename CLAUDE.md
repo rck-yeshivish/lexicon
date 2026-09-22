@@ -40,6 +40,13 @@ the protocol for looking a word up.
    those does, and check it against references/pesukim.json rather than from
    memory. Where you are not certain, keep what the essay prints and say in the
    entry that it is the essay's.
+
+   When a citation is wrong, the author's rule is to assume a typo and look for
+   it rather than to conclude he cited nothing. Either the chapter and verse are
+   right and the book is wrong, or the book is right and the numbers are off,
+   most often two digits transposed or one digit out. Search that way before
+   giving up: Vayikra 22:17 has no *et* and looked unsalvageable, and the verse
+   he meant was 22:14.
 3. **Disputes stay disputes.** Name each view and its holder. The Bottom line
    says the authorities differ and does not choose between them. Never smooth a
    machlokes into one answer.

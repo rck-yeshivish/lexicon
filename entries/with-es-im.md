@@ -52,7 +52,7 @@ verb, working more like punctuation than a word with meaning, and Rabbi Nachman
 Marcuson likens it to an arrow pointing the reader to what the verb acts on. As
 Ibn Janach and Radak explain, it sometimes does carry meaning: "to" (Vayikra
 13:49; Bamidbar 13:17), "from" (Bereishis 44:4; Bamidbar 35:26), "next to"
-(Bereishis 40:4, 44:24), "instead of" (Vayikra 22:17; Shmuel II 12:6), "on top
+(Bereishis 40:4, 44:24), "instead of" (Vayikra 22:14; Shmuel II 12:6), "on top
 of" (Melachim I 9:25), and "with." Suffixed it gives *itto*, *itti*, *ittah*.
 Rashi (to Bereishis 37:18) simply glosses *itto* as *imo*.
 
@@ -127,4 +127,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Are You Really 'With Me'?](https://articles.ohr.edu/articles/are-you-really-with-me)," *What's in a Word?*, Ohr Somayach, 13 July 2019.
 
-Cited in the essay: Bereishis 12:4 and 13:14 with Malbim and *HaKsav VeHaKabbalah*; Bereishis 24:32, 24:54, 50:7 and 50:9 with *HaKsav VeHaKabbalah*; Bereishis 37:18 with Rashi; Bereishis 40:4, 44:4, 44:24; Vayikra 13:49, 22:17; Bamidbar 13:17, 35:26; Bamidbar 22:12, 22:20, 22:21-22 with the Vilna Gaon; Shmuel II 12:6; Melachim I 9:25; *Zohar* Bereishis 78b; Ibn Janach and Radak; Rabbi Nachman Marcuson; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*.
+Cited in the essay: Bereishis 12:4 and 13:14 with Malbim and *HaKsav VeHaKabbalah*; Bereishis 24:32, 24:54, 50:7 and 50:9 with *HaKsav VeHaKabbalah*; Bereishis 37:18 with Rashi; Bereishis 40:4, 44:4, 44:24; Vayikra 13:49, 22:14; Bamidbar 13:17, 35:26; Bamidbar 22:12, 22:20, 22:21-22 with the Vilna Gaon; Shmuel II 12:6; Melachim I 9:25; *Zohar* Bereishis 78b; Ibn Janach and Radak; Rabbi Nachman Marcuson; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*.
