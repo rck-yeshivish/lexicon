@@ -14,7 +14,7 @@ words:
   - he: מגפה
     tr: mageifah
     en: plague, blow
-    distinct: from striking, and by itself not fatal (Rashi), against Abarbanel, who holds it inherently lethal; an infected wound spreading from one struck part (Bachrach); names what the striker does, not what the victim contracts
+    distinct: from striking, and by itself not fatal (Rashi), against Abarbanel, who holds it inherently lethal; an infected wound spreading from one struck part (Bachrach); names what the striker does, not what the victim contracts; graver than dever, since it spreads (Rabbi Chaim Kanievsky)
   - he: נגף
     tr: negef
     en: deadly plague
@@ -39,15 +39,30 @@ any striking and *dever* as a plague that brings death, though Abarbanel holds
 *mageifah* inherently lethal. On Rabbi Klein's own summary a *mageifah* is just
 a plague while a *dever* is an especially deadly one. Rabbi Yair Chaim Bachrach,
 against a sage who made *mageifah* the deadlier of the two, shows that the
-difference between the words does not lie in the extent of their impact.
+difference between the words does not lie in the extent of their impact. Rabbi
+Chaim Kanievsky holds *mageifah* the graver, because it is an illness that
+spreads.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | דבר | dever | pestilence | deadly and contagious, no visible wound (Bachrach); the especially deadly plague |
-| מגפה | mageifah | plague, blow | a striking, not necessarily fatal (Rashi); inherently lethal (Abarbanel) |
+| מגפה | mageifah | plague, blow | a striking, not necessarily fatal (Rashi); inherently lethal (Abarbanel); graver than *dever*, since it spreads (Rabbi Chaim Kanievsky) |
 | נגף | negef | deadly plague | brings certain death (Malbim); defined as *dever* (Rashi) |
+
+## Where the authorities disagree
+
+**Which is the graver.**
+
+- Rashi, and Rabbi Klein following him: *mageifah* is any striking and not by
+  itself fatal; *dever* is the plague that brings death.
+- Abarbanel: *mageifah* is inherently lethal.
+- Rabbi Chaim Kanievsky, cited in *Siddur Tefillah LeMoshe*: *mageifah* is
+  graver than *dever* and the rest listed in *Avinu Malkeinu*, because it is an
+  illness that spreads (*Taanis* 21); hence *mena mageifah minachalasecha*.
+- Rabbi Yair Chaim Bachrach, against a sage who made *mageifah* the deadlier:
+  the difference between the words is not the extent of their impact.
 
 ## Distinctions
 

@@ -14,7 +14,7 @@ words:
     tr: matzeivah
     en: single-stone altar, pillar, monument
     nk: מַצֵּבָה
-    distinct: from netziv, a standing pillar; Rashi makes it an altar of one stone, Ramban an idolatrous entrance-pillar and not an altar at all
+    distinct: from netziv, a standing pillar; Rashi makes it an altar of one stone, Ramban an idolatrous entrance-pillar and not an altar at all; for the Vilna Gaon a single stone set up ad hoc, or a stone for pouring libations only
   - he: במה
     tr: bamah
     en: high place, private altar
@@ -45,7 +45,7 @@ commanded *mizbeach* with the hated *matzeivah*.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | מזבח | mizbeach | altar | many stones; named for *zevach*/*zoveach*, sacrifice and slaughter (Radak, *Sefer HaShorashim*); square with four horns (Shemos 27:1-2) |
-| מצבה | matzeivah | single-stone altar, pillar | one stone (Rashi), from *netziv*, standing; for Ramban not an altar but an idolatrous entrance-pillar |
+| מצבה | matzeivah | single-stone altar, pillar | one stone (Rashi), from *netziv*, standing; for Ramban not an altar but an idolatrous entrance-pillar; for libations only (Vilna Gaon, one reading) |
 | במה | bamah | high place, private altar | a private altar, generally on high ground, permitted only while the central sanctuary was temporary (Zevachim 14:6) |
 
 ## Where the authorities disagree
@@ -62,6 +62,11 @@ commanded *mizbeach* with the hated *matzeivah*.
    and hate the other? He therefore takes *matzeivah* as the pillar the idolaters
    set up to mark the entrance of an idolatrous temple, a utilitarian monument
    rather than a place of offering.
+3. **The Vilna Gaon** (to Divrei HaYamim II 14:2): a *mizbeach* stands in a fixed
+   place, while a *bamah* and a *matzeivah* are ad hoc places of worship, the
+   *matzeivah* of a single stone and the *bamah* of many. Alternatively, a
+   *matzeivah* serves only for pouring libations, a *bamah* only for burnt
+   offerings, and a *mizbeach* for any offering.
 
 On Rashi's reading the *matzeivos* of the Avos pose a difficulty: Hashem was
 pleased with the one Yaakov set up at Beis El (Bereishis 28:18-22), and later

@@ -9,7 +9,7 @@ words:
   - he: זקן
     tr: zaken
     en: elder
-    distinct: an elder, set at sixty (Avos 5:24), a stage before seivah (Bedersi); belongs to people and animals, not plants (Rabbi Yehuda Leib Shapira-Frankfurter)
+    distinct: an elder, set at sixty (Avos 5:24), a stage before seivah (Bedersi); belongs to people and animals, not plants (Rabbi Yehuda Leib Shapira-Frankfurter); for Shadal anyone of honor and importance, whatever his age, as senior and signore
   - he: שיבה
     tr: seivah
     en: old age
@@ -49,6 +49,8 @@ updated: 2026-09-22
 
 The three age words run in ascending order: *zaken* is **an elder** (sixty),
 *seivah* is **old age** proper (seventy), *yashish* is **the aged**, older still.
+For Shadal, though, *zaken* is anyone of honor and importance, whatever his age,
+as *senior* and *signore* are.
 *Yashan* is **old** of plants and produce, not of people ("aged," "last year's").
 *Atik* is **ancient**, old by remoteness in time. *Vatik*, on the explanation
 Rabbi Reuven Chaim Klein judges more plausible (that of Rabbi Ernest Klein), is
@@ -59,13 +61,22 @@ reliability, not "old."
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| זקן | zaken | elder | sixty, before *seivah* (Bedersi); people and animals, not plants (Shapira-Frankfurter) |
+| זקן | zaken | elder | sixty, before *seivah* (Bedersi); people and animals, not plants (Shapira-Frankfurter); anyone of standing, whatever his age (Shadal) |
 | שיבה | seivah | old age | seventy, after *zaken* (Bedersi); *seva yamim*, satisfied with days (Reines) |
 | ישיש | yashish | the aged | beyond *seivah*, from *yesh* (Radak); perhaps ninety (Bedersi) |
 | קשיש | kashish | aged | Aramaic for *yashish*, the Targum's standing rendering; also renders *zaken* |
 | ישן | yashan | aged, last year's | old of plants and produce, never of people (Shapira-Frankfurter) |
 | עתיק | atik | ancient | remote in time, from a root of moving in space; *Atik Yomin* |
 | ותיק | vatik | veteran, senior | veteran, from Arabic *wathuqa*, firm (Rabbi Ernest Klein); dependability, not age |
+
+## Where the authorities disagree
+
+**Whether zaken is an age.**
+
+- Avos 5:24 and Bedersi: the age of sixty, a stage before *seivah*.
+- Shadal (to Bereishis 50:7): anyone in a position of honor and importance,
+  whatever his physical age, as Spanish *señor* and Italian *signore*, from Latin
+  *senior*, and *senator* carry honor and not old age.
 
 ## Distinctions
 

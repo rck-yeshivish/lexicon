@@ -9,11 +9,11 @@ words:
   - he: אות
     tr: oht
     en: sign, token
-    distinct: the general word, covering any sign, natural or otherwise, that points to or reminds of something (Radak; Malbim); Ramban connects it to asa, "come," a sign of what is to come
+    distinct: the general word, covering any sign, natural or otherwise, that points to or reminds of something (Radak; Malbim); Ramban connects it to asa, "come," a sign of what is to come; one thing with mofet, two terms for it (Sifrei, Naso 23)
   - he: מופת
     tr: mofet
     en: wonder, portent
-    distinct: the narrower word; for Ramban a sign that bends nature, from muflat/niflah/pele with the lamed dropped, though Abarbanel holds it a natural sign; every mofet is an oht but not every oht a mofet (Malbim)
+    distinct: the narrower word; for Ramban a sign that bends nature, from muflat/niflah/pele with the lamed dropped, though Abarbanel holds it a natural sign; every mofet is an oht but not every oht a mofet (Malbim); one thing with oht, two terms for it (Sifrei, Naso 23)
   - he: עד
     tr: eid
     en: witness, testimony
@@ -36,15 +36,16 @@ natural: the luminaries are an *oht* for the seasons, tefillin are an *oht*, the
 tribal flags were an *oht*, a letter of the aleph-beis is an *oht*. *Mofet* is
 the narrower word, a **wonder** or **portent**, on some readings (Ramban, Malbim)
 one that bends nature. For Malbim, every *mofet* is an *oht*, not every
-*oht* a *mofet*. The makkos
+*oht* a *mofet*; the *Sifrei* (Naso 23) instead counts them as two terms the
+Torah uses for one thing. The makkos
 are called both (Shemos 10:1-2 and 11:9-10).
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| אות | oht | sign, token | any sign, natural included (Abarbanel); a reminder (Malbim) |
-| מופת | mofet | wonder, portent | supernatural, from *pele* (Ramban); points to Hashem (Malbim) |
+| אות | oht | sign, token | any sign, natural included (Abarbanel); a reminder (Malbim); one thing with *mofet* (Sifrei) |
+| מופת | mofet | wonder, portent | supernatural, from *pele* (Ramban); points to Hashem (Malbim); one thing with *oht* (Sifrei) |
 | עד | eid | witness | reminds and moves to action, where an *oht* only reminds (Pappenheim) |
 
 ## Three signs in Parshas Bo
@@ -56,6 +57,13 @@ makkos are also called *mofet* (Shemos 11:9-10). So what is the difference
 between an *oht* and a *mofet*?
 
 ## Where the authorities disagree
+
+**Whether they differ at all.**
+
+- The *Sifrei* (Naso 23): *oht* and *mofes* are two terms the Torah uses for one
+  thing.
+- Malbim: *mofet* is the narrower word; every *mofet* is an *oht*, but not every
+  *oht* a *mofet*. Ramban and Abarbanel below also set them apart.
 
 **Whether mofet is supernatural at all.**
 

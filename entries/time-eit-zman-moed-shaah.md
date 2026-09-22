@@ -9,16 +9,16 @@ words:
   - he: זמן
     tr: zman
     en: time
-    distinct: time in general (Wertheimer, Rav Hirsch); the flow of time as an existing element of creation (Maharal); like moed, a time set by man (Malbim); the entire duration of an appointed time (Rabbi Yaakov Emden); tied to preparation (Rabbi Moshe Shapiro, Pappenheim)
+    distinct: time in general (Wertheimer, Rav Hirsch); the flow of time as an existing element of creation (Maharal); like moed, a time set by man (Malbim); the entire duration of an appointed time (Rabbi Yaakov Emden); tied to preparation (Rabbi Moshe Shapiro, Pappenheim); the quantity of time, how long a thing lasts (Pappenheim); said of one-time events, against the cyclical moed (Shadal)
   - he: עת
     tr: eit
     en: a time
     nk: עֵת
-    distinct: a portion of time (Rav Hirsch), or for others a point within the span; time as an abstract concept (Maharal); a natural unit that nature itself shows (Malbim); any point within an appointed span (Rabbi Yaakov Emden); the seasons (Rama), which Emden contests
+    distinct: a portion of time (Rav Hirsch), or for others a point within the span; time as an abstract concept (Maharal); a natural unit that nature itself shows (Malbim); any point within an appointed span (Rabbi Yaakov Emden); the seasons (Rama), which Emden contests; the sequence of time, one thing after another (Pappenheim); a one-time event, against the cyclical moed (Shadal)
   - he: מועד
     tr: moed
     en: appointed time
-    distinct: the most specific of the three, a preset point like a meeting scheduled to the minute (Wertheimer); a predetermined time set by man, or by Hashem for the festivals (Malbim); the beginning of an appointed time (Rabbi Yaakov Emden)
+    distinct: the most specific of the three, a preset point like a meeting scheduled to the minute (Wertheimer); a predetermined time set by man, or by Hashem for the festivals (Malbim); the beginning of an appointed time (Rabbi Yaakov Emden); a set time that comes round at intervals (Shadal); one thing's being at the time of another, from va'ad (Pappenheim)
   - he: שעה
     tr: shaah
     en: hour
@@ -44,7 +44,10 @@ by Hashem, hence the *moadim* (Malbim). The scheme is not agreed: Malbim puts
 *zman* with *moed* as time set by man, and Rabbi Yaakov Emden makes *moed* the
 beginning of an appointed time, *zman* its whole duration and *eit* any point
 within it, while conceding that in practical usage all these words may be used
-interchangeably. *Shaah* beside *eit* is **hour**, the hours of the day against
+interchangeably. Shadal puts the recurrence in *moed*, a set time that comes
+round at intervals, and makes *eit* and *zman* one-time; Rabbi Shlomo
+Pappenheim makes *zman* the quantity of time, *moed* one thing's coinciding with
+another, and *eit* the sequence of time. *Shaah* beside *eit* is **hour**, the hours of the day against
 the seasons of the year (Rama). For the Rama, בכל עת ובכל שעה is not a redundancy; he rejects those who
 say only *bechol eit* and reads two measures, "at every season and every hour,"
 though Rabbi Yaakov Emden takes issue with his limiting *eit* to the seasons.
@@ -54,9 +57,30 @@ though Rabbi Yaakov Emden takes issue with his limiting *eit* to the seasons.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | זמן | zman | time | time in general, the span (Wertheimer, Rav Hirsch); the flow of time itself (Maharal) |
-| עת | eit | a time | a point or portion within time (Rav Hirsch); a natural unit nature shows (Malbim) |
-| מועד | moed | appointed time | most specific, a preset point (Wertheimer); set by man, or by Hashem for festivals (Malbim) |
+| עת | eit | a time | a point or portion within time (Rav Hirsch); a natural unit nature shows (Malbim); a one-time event (Shadal) |
+| מועד | moed | appointed time | most specific, a preset point (Wertheimer); set by man, or by Hashem for festivals (Malbim); a time that recurs (Shadal) |
 | שעה | shaah | hour | the hours of the day, against *eit* as the seasons (Rama) |
+
+## Where the authorities disagree
+
+**How the three divide.**
+
+- Rabbi Shlomo Aharon Wertheimer: *zman* the most general, *eit* a point, *moed*
+  the most specific preset point.
+- Malbim: *zman* with *moed*, time set by man; *eit* a natural unit that nature
+  itself shows.
+- Rabbi Yaakov Emden: *moed* the beginning of an appointed time, *zman* its
+  whole duration, *eit* any point within it.
+- Rabbi Shlomo Pappenheim (*Cheshek Shlomo* s.v. עת): *zman* the quantity of
+  time, how long a thing lasts; *moed* one thing's being at the time of another;
+  *eit* the sequence of time, one thing after another.
+
+**Which word recurs.**
+
+- Malbim: *eit* is the unit nature brings round, "rain in its *eit*"; for the
+  Rama, *eit* is the seasons.
+- Shadal (to Bereishis 1:14): *moed* is the cyclical time that comes and goes at
+  intervals, while *eit* and *zman* are said of one-time events.
 
 ## Distinctions
 

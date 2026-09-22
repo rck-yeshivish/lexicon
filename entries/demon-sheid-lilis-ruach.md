@@ -13,7 +13,7 @@ words:
   - he: לילית
     tr: lilis
     en: female demon
-    distinct: a *sheidah*, whether the name of one particular demoness, mother of all the *sheidim* and consort of Samael (the *Zohar*), or the name of a class of them; at Yeshayahu 34:14 a female demon (Rashi), a night bird (Ibn Ezra) or a night animal (Radak)
+    distinct: a *sheidah*, whether the name of one particular demoness, mother of all the *sheidim* and consort of Samael (the *Zohar*), or the name of a class of them; at Yeshayahu 34:14 a female demon (Rashi), a night bird (Ibn Ezra) or a night animal (Radak), as Rabbi Tanchum HaYerushalmi has it, a wild animal that scavenges by night
   - he: רוח
     tr: ruach
     en: apparition
@@ -54,7 +54,9 @@ category rather than a name, a kind of female demon.
 
 **What the word means in Yeshayahu 34:14**, where it first appears. Three
 views. Rashi: the name of a female *sheid*. Ibn Ezra: a kind of nocturnal bird.
-Radak: some sort of nocturnal animal. *Niddah* 24b, which speaks of a woman who
+Radak: some sort of nocturnal animal, and Rabbi Tanchum HaYerushalmi
+(*HaMadrich HaMaspik*) likewise makes Lilis a wild animal that appears only at
+night to scavenge for food. *Niddah* 24b, which speaks of a woman who
 miscarries a child in the form of a Lilis and whose ensuing discussion shows
 that the child had wings, supports the first two and not the third, since on
 that evidence a Lilis must be a demon or a bird. Rashi there again has it a

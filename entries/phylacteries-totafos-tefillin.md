@@ -11,7 +11,7 @@ words:
   - he: טוטפות
     tr: totafos
     en: frontlets
-    distinct: "the Chumash word, used three times and only of the head tefillin; its origin is disputed: a forehead ornament (Tosafos, Radak), something to do with seeing (Chizkuni), secondary straps on a hat (Pappenheim), or a foreign word (Rabbi Akiva)"
+    distinct: "the Chumash word, used three times and only of the head tefillin; its origin is disputed: a forehead ornament (Tosafos, Radak), something to do with seeing (Chizkuni), secondary straps on a hat (Pappenheim), or a foreign word (Rabbi Akiva), Egyptian, from the gods Thot and Ptah invoked on amulets (Benamozegh)"
   - he: תפילין
     tr: tefillin
     en: tefillin
@@ -38,7 +38,7 @@ term.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| טוטפות | totafos | frontlets | the Chumash word, head tefillin only; a forehead ornament (Tosafos) or foreign (Rabbi Akiva) |
+| טוטפות | totafos | frontlets | the Chumash word, head tefillin only; a forehead ornament (Tosafos) or foreign (Rabbi Akiva), Egyptian (Benamozegh) |
 | תפילין | tefillin | tefillin | Mishnaic plural naming the head-and-arm pair; the berachah's word (Meyers, Shayo) |
 
 ## Distinctions

@@ -18,7 +18,7 @@ words:
     tr: chefetz
     en: desire
     nk: חֵפֶץ
-    distinct: the Vilna Gaon's word for desire for food; seemingly the happy medium, the food's inherent value joined to the eater's appetite (Rabbi Klein); against ratzon, an emotional desire (Malbim), or the immediate, tangible goal (Rabbi Tzvi Yehuda Kook)
+    distinct: the Vilna Gaon's word for desire for food; seemingly the happy medium, the food's inherent value joined to the eater's appetite (Rabbi Klein); against ratzon, an emotional desire (Malbim), or the immediate, tangible goal (Rabbi Tzvi Yehuda Kook); wanting a thing for no quality in it but from an inner pull without reason, against cheshek, wanting it for the gain one sees (Ohel Yaakov), others holding the opposite (Wertheimer)
 sources:
   - wiaw:7292 "Deleterious Desires" (2017-06-10) https://articles.ohr.edu/articles/deleterious-desires
   - wiaw:9346 "Seasoning the Land" (2021-08-28) https://articles.ohr.edu/articles/seasoning-the-land
@@ -38,7 +38,11 @@ for intimacy. *Chemdah* is **coveting**: desire drawn by the object's own worth 
 roused by seeing it, typically for money, a house, fine clothes (Vilna Gaon;
 Rabbi Pappenheim and Rabbi Mecklenburg; Malbim). *Chefetz*, the Vilna Gaon's word
 for desire for food, seems to sit between them, as Rabbi Klein suggests: plain
-**desire** (see the *ratzon* entry). Chagigah 11b applies the two to theft and
+**desire** (see the *ratzon* entry). That is disputed: the *Ohel Yaakov* makes
+*chefetz* a desire with no reason in the object, against *cheshek*, the desire
+for a gain one sees; HaKsav VeHaKabbalah calls *cheshek* the desire without
+logic; and Rabbi Wertheimer reports that others hold the opposite of the *Ohel
+Yaakov*. Chagigah 11b applies the two to theft and
 illicit relations, and the Vilna Gaon explains that it does so respectively:
 *chemdah* with theft, *taavah* with illicit relations. The contrast between the two is inside (*taavah*) against outside
 (*chemdah*).
@@ -49,7 +53,21 @@ illicit relations, and the Vilna Gaon explains that it does so respectively:
 |---|---|---|---|
 | תאוה | taavah | craving, lust | bodily pleasure (Vilna Gaon); from within, one's own imagination (Malbim); usually intimacy |
 | חמדה | chemdah | coveting | not a bodily pleasure: money, a house (Vilna Gaon); roused by seeing (Malbim) |
-| חפץ | chefetz | desire | culinary desire (Vilna Gaon); between the other two (Rabbi Klein); the immediate goal (Kook) |
+| חפץ | chefetz | desire | culinary desire (Vilna Gaon); between the other two (Rabbi Klein); the immediate goal (Kook); a pull with no reason in the object (Ohel Yaakov) |
+
+## Where the authorities disagree
+
+**What chefetz is, against cheshek.**
+
+- Rabbi Klein: *chefetz* sits between *taavah* and *chemdah*, the food's own
+  value joined to the eater's appetite.
+- The *Ohel Yaakov* of the Dubno Maggid (to Bereishis 34:19): *chefetz* is
+  wanting a thing for no quality in it but from a strong inner pull without
+  reason, while *cheshek* is wanting it for the gain one sees in it; so the
+  Torah moves from *cheshek* to *chefetz* in Shechem's desire for Dinah.
+- HaKsav VeHaKabbalah (to Devarim 21:12): *cheshek* is the desire without logic.
+- Rabbi Shlomo Aharon Wertheimer (s.v. חשק, חפץ, רצון): others hold the
+  opposite of the *Ohel Yaakov*.
 
 ## Distinctions
 

@@ -14,7 +14,7 @@ words:
   - he: אושפיז
     tr: ushpiz
     en: host, guest
-    distinct: Aramaic, pointing both ways; in the Gemara usually the host (Rashi, Rabbeinu Chananel), never the guest (Rabbi Shmuel Krauss, Rabbi Yitzchak Avineri); in the Zohar usually the guest, as the Ushpizin; from Latin hospes (Rabbi Eliyahu HaBachur)
+    distinct: Aramaic, pointing both ways; in the Gemara usually the host (Rashi, Rabbeinu Chananel), never the guest (Rabbi Shmuel Krauss, Rabbi Yitzchak Avineri); in the Zohar usually the guest, as the Ushpizin; from Latin hospes (Rabbi Eliyahu HaBachur), or from Middle Persian and not Latin (Sokoloff)
   - he: אכסנאי
     tr: achsanai
     en: guest
@@ -38,7 +38,9 @@ updated: 2026-09-22
 while travelling; the word is built on *orach*, a road. *Achsanai* is the
 rabbinic **guest**, and *achsanyah* the **lodging** or the **host** who
 provides it. *Ushpiz* is Aramaic and cuts both ways: in the Gemara usually the
-**host**, in the Zohar (the *Ushpizin* of Sukkos) usually the **guest**.
+**host**, in the Zohar (the *Ushpizin* of Sukkos) usually the **guest**. Its
+origin is disputed: Latin *hospes* for Rabbi Eliyahu HaBachur, Middle Persian
+for Sokoloff.
 *Achsanyah* shares something of that ambiguity: both words can point sometimes
 to the guest and sometimes to the host.
 
@@ -47,9 +49,23 @@ to the guest and sometimes to the host.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | אורח | oreach | guest, wayfarer | biblical; the wayfarer on the *orach*, road (Ibn Janach, Radak) |
-| אושפיז | ushpiz | host, guest | Gemara, usually the host (Rashi); Zohar, the guest (*Ushpizin*) |
+| אושפיז | ushpiz | host, guest | Gemara, usually the host (Rashi); Zohar, the guest (*Ushpizin*); from Latin (HaBachur) or Middle Persian (Sokoloff) |
 | אכסנאי | achsanai | guest | the rabbinic guest, lodging temporarily (HaBachur) |
 | אכסניה | achsanyah | lodging, host | the inn or the host (HaBachur); Greek *xenos* (Ernest Klein) |
+
+## Where the authorities disagree
+
+**Where ushpiz comes from.**
+
+- Rabbi Eliyahu HaBachur: from Latin *hospes*.
+- Sokoloff: from Middle Persian, not Latin. Rabbi Klein adds that *hospes* goes
+  back to a Proto-Indo-European root meaning both master and guest.
+
+**Host or guest.**
+
+- In the Gemara usually the host (Rashi, Rabbeinu Chananel), and never the guest
+  (Rabbi Shmuel Krauss, Rabbi Yitzchak Avineri).
+- In the Zohar usually the guest, as the *Ushpizin*.
 
 ## Distinctions
 

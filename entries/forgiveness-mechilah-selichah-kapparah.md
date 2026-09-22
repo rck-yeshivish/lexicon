@@ -9,11 +9,11 @@ words:
   - he: סליחה
     tr: selichah
     en: forgiveness
-    distinct: forgiveness proper, the bond between the sinner and the One sinned against mended (Rav Hirsch); the Biblical word; reaches the whole sin but only defers its punishment (Mecklenburg); a reprieve, time to repay slowly (Wertheimer)
+    distinct: forgiveness proper, the bond between the sinner and the One sinned against mended (Rav Hirsch); the Biblical word; reaches the whole sin but only defers its punishment (Mecklenburg); a reprieve, time to repay slowly (Wertheimer); deferring the debt (Rabbi Dosa the Greek); restoring the love that stood before the sin (Rabbi Zev Hoberman); forgiving the infraction itself, said with chet (Rabbi Eliyahu Menachem Margulies, after the Vilna Gaon)
   - he: מחילה
     tr: mechilah
     en: pardon
-    distinct: the penalty commuted (Rav Hirsch); Rabbinic, never Biblical, and also cancelling a debt or forgoing what one deserves (Rabbi Eliyahu HaBachur); erases part of the sin outright (Mecklenburg); immediate and complete forgiveness (Wertheimer)
+    distinct: the penalty commuted (Rav Hirsch); Rabbinic, never Biblical, and also cancelling a debt or forgoing what one deserves (Rabbi Eliyahu HaBachur); erases part of the sin outright (Mecklenburg); immediate and complete forgiveness (Wertheimer), so too Rabbi Dosa the Greek; only erasing the misdeed, leaving the relationship at neutral (Rabbi Zev Hoberman); Hashem forgoing the slight to His honor, said with pesha (Rabbi Margulies, after the Vilna Gaon)
   - he: כפרה
     tr: kapparah
     en: atonement
@@ -37,15 +37,49 @@ owed. *Kapparah* is **atonement**: every consequence of the sin wiped out (Rav
 Hirsch), at a price and usually through a korban (Malbim). The liturgy's סלח
 לנו, מחל לנו, כפר לנו uses all three. Rav Hirsch's three-way map is slightly
 more comprehensive than the others: neither Mecklenburg nor Wertheimer addresses
-how their two words differ from *kapparah* at all.
+how their two words differ from *kapparah* at all. Which of *selichah* and
+*mechilah* is the fuller is disputed: *selichah* for Rav Hirsch and Rabbi Zev
+Hoberman, for whom it restores the love that stood before the sin; *mechilah*
+for Mecklenburg, Wertheimer and Rabbi Dosa the Greek, for whom *selichah* only
+defers the debt. Rabbi Eliyahu Menachem Margulies, following the Vilna Gaon,
+gives each its own object: *selichah* forgives the infraction, *mechilah*
+forgoes the slight to Hashem's honor.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| סליחה | selichah | forgiveness | the relationship mended (Rav Hirsch); Biblical; punishment deferred, not erased (Mecklenburg) |
-| מחילה | mechilah | pardon | punishment commuted (Rav Hirsch); Rabbinic only; also forgoing a debt (HaBachur) |
+| סליחה | selichah | forgiveness | the relationship mended (Rav Hirsch, Hoberman); Biblical; punishment deferred, not erased (Mecklenburg, Rabbi Dosa); the infraction forgiven (Margulies) |
+| מחילה | mechilah | pardon | punishment commuted (Rav Hirsch); Rabbinic only; also forgoing a debt (HaBachur); forgiven at once (Rabbi Dosa); the slight to His honor forgone (Margulies) |
 | כפרה | kapparah | atonement | every effect of the sin negated (Rav Hirsch); a ransom price or a covering (Malbim) |
+
+## Where the authorities disagree
+
+**Which is the fuller forgiveness.**
+
+- *Selichah*: Rav Hirsch, for whom it mends the bond where *mechilah* only
+  commutes the penalty; Rabbi Zev Hoberman (*Ze'ev Yitraf*, Yom Kippur ch. 55),
+  for whom *selichah* restores the love that stood before the misdeed while
+  *mechilah* only erases it and leaves the relationship at neutral.
+- *Mechilah*: Rabbi Yaakov Tzvi Mecklenburg, for whom *selichah* reaches the
+  whole sin but only defers its punishment; Rabbi Shlomo Aharon Wertheimer, for
+  whom *selichah* is a reprieve and *mechilah* immediate and complete; and Rabbi
+  Dosa the Greek (to Devarim 9:18): *selichah* defers the debt, *mechilah*
+  forgives it at once.
+- Rabbi Eliyahu Menachem Margulies (*Emunas Eliezer*, *Yerach HaEisanim* ch. 10)
+  rejects Rabbi Hoberman's explanation, reasoning from the Yom Kippur liturgy,
+  which calls Hashem the One who grants *mechilah* and also *selichah*, that
+  *selichah* is the more encompassing.
+
+**What each forgives.**
+
+- Rabbi Margulies, following the Vilna Gaon: *selichah* forgives the infraction
+  itself, *mechilah* is Hashem forgoing the slight to His honor. So *mechilah*
+  goes with *pesha* and the relation of servant to king, *selichah* with *chet*
+  and the relation of son to father. He ties *mechilah* to *machol*, a circle
+  around a central point: every Jew holds a point of pure intent, and Rabbi
+  Yitzchak Hutner (*Pachad Yitzchak*, Yom Kippur 25:2) explains that Hashem
+  forgives by reviving it.
 
 ## Distinctions
 

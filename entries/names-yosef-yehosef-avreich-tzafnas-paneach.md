@@ -17,7 +17,7 @@ words:
   - he: צפנת פענח
     tr: Tzafnas Paneach
     en: revealer of mysteries
-    distinct: Pharaoh's name for him (Bereishis 41:45); Rashi "revealer of mysteries," Chasam Sofer "concealer of mysteries"
+    distinct: Pharaoh's name for him (Bereishis 41:45); Rashi "revealer of mysteries," Chasam Sofer "concealer of mysteries"; the Septuagint's Psomthomphanech, "knower of the future" (cited by Benamozegh)
   - he: אברך
     tr: avreich
     en: father to the king / young sage
@@ -47,7 +47,7 @@ readings, mean "royal."
 |---|---|---|---|
 | יוסף | Yosef | Yosef | "He shall add" (Bereishis 30:24); from ס-ף, "end," on Pappenheim's reading |
 | יהוסף | Yehosef | Yehosef | the extra hei of the Divine Name, earned in Potiphar's house (Sotah 10b, 36b) |
-| צפנת פענח | Tzafnas Paneach | revealer of mysteries | Pharaoh's title for him (Rashi); "concealer of mysteries" (Chasam Sofer) |
+| צפנת פענח | Tzafnas Paneach | revealer of mysteries | Pharaoh's title for him (Rashi); "concealer of mysteries" (Chasam Sofer); "knower of the future" (the Septuagint, per Benamozegh) |
 | אברך | avreich | father to the king / young sage | *av* + *reich* (Onkelos), *av* + *rach* (Bereishis Rabbah), or *berech*, kneeling (Sifrei) |
 
 ## Where the authorities disagree

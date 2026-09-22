@@ -74,7 +74,9 @@ first plague, and that is what the meforshim are commenting on.
    missing-*hei* derivation, holding that a radical *hei* does not sit in the
    middle of a triliteral root. He keeps the words separate but makes them two
    aspects of one act: *lahat* the lightning speed of the hand, *lat* the
-   concealment (compare Shoftim 4:21). Rabbi Yehuda HaLevi says much the same.
+   concealment (compare Shoftim 4:21). Rabbi Yehuda HaLevi says much the same, and
+   so *Chemdas HaChemdah* (to Shemos 7:11): *lahat* is speed, as *lahat
+   hacherev*, and *lat* from *vayalet*, covering, the sorcerer's hidden devices.
    Rav Hirsch (to Shemos 7:11): *lahat* is the shiny object
    that distracts the crowd, *lat* the quick hand while they are looking away.
 

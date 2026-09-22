@@ -9,11 +9,11 @@ words:
   - he: אולי
     tr: ulai
     en: maybe, perhaps
-    distinct: a possibility the speaker desires (Rabbi Eliyahu HaBachur, Rabbi Immanuel Benevento), or thinks the likelier (Malbim); neutral, like English maybe (Rabbi Shlomo of Urbino); Yaakov's ulai (Bereishis 27:12) is the difficulty for the first view
+    distinct: a possibility the speaker desires (Rabbi Eliyahu HaBachur, Rabbi Immanuel Benevento), or thinks the likelier (Malbim); neutral, like English maybe (Rabbi Shlomo of Urbino); Yaakov's ulai (Bereishis 27:12) is the difficulty for the first view; the likelier possibility, against the remote pen (Rabbi Nissim of Marseilles)
   - he: פן
     tr: pen
     en: lest
-    distinct: a possibility raised in order to guard against it, hoping it will not come about (HaBachur, Benevento); from panah, turned away (Rabbi Yaakov Tzvi Mecklenburg); had Eliezer wanted success he would have said pen (Vilna Gaon)
+    distinct: a possibility raised in order to guard against it, hoping it will not come about (HaBachur, Benevento); from panah, turned away (Rabbi Yaakov Tzvi Mecklenburg); had Eliezer wanted success he would have said pen (Vilna Gaon); from pniyah, which of two faces a thing turns to, mostly the unworthy one (Pappenheim); a remote possibility (Rabbi Nissim of Marseilles); what will surely happen, as ken (Sefer HaChochmah)
   - he: שמא
     tr: shema
     en: maybe
@@ -38,17 +38,40 @@ updated: 2026-09-22
 HaBachur's and Rabbi Immanuel Benevento's view, Biblical Hebrew has no neutral
 "maybe" at all: every *ulai* and every *pen* carries the speaker's leaning.
 Rabbi Shlomo of Urbino holds the opposite, that *ulai* is neutral, and Rabbi Klein leaves the machlokes standing, noting a significant
-problem with the first view. Aramaic *shema* / *dilma* is neutral on all
+problem with the first view. Two other readings turn on likelihood: Rabbi
+Nissim of Marseilles makes *pen* a remote possibility and *ulai* a likelier one,
+and *Sefer HaChochmah*, ascribed to the Rokeach, takes *pen* as what will surely
+happen, as though it were *ken*. Aramaic *shema* / *dilma* is neutral on all
 accounts.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| אולי | ulai | maybe, perhaps | maybe the speaker hopes for (HaBachur) or expects (Malbim); neutral (Urbino) |
-| פן | pen | lest | lest; a maybe the speaker hopes will not happen (HaBachur, Benevento) |
+| אולי | ulai | maybe, perhaps | maybe the speaker hopes for (HaBachur) or expects (Malbim); neutral (Urbino); the likelier possibility (Rabbi Nissim of Marseilles) |
+| פן | pen | lest | lest; a maybe the speaker hopes will not happen (HaBachur, Benevento); a remote possibility (Rabbi Nissim of Marseilles); a certainty, as *ken* (Sefer HaChochmah) |
 | שמא | shema | maybe | Aramaic, neutral on all accounts; no hoping or fearing |
 | דלמא | dilma | maybe | Aramaic, neutral on all accounts, like *shema* |
+
+## Where the authorities disagree
+
+**Whether ulai is neutral.**
+
+- Rabbi Eliyahu HaBachur and Rabbi Immanuel Benevento: no; every *ulai* carries
+  the speaker's hope, as every *pen* his fear.
+- Rabbi Shlomo of Urbino: *ulai* is neutral, like English "maybe."
+- Rabbi Klein leaves the machlokes standing, noting that Yaakov's *ulai*
+  (Bereishis 27:12) is a significant problem for the first view.
+
+**Whether pen and ulai differ in likelihood.**
+
+- Malbim: *ulai* is what the speaker thinks the likelier.
+- Rabbi Nissim of Marseilles (*Maaseh Nissim* p. 270): *pen* is a remote
+  possibility and *ulai* a likelier one, so Hashem's concern that Adam might eat
+  from the *Eitz HaChaim* (Bereishis 3:22) is said with *pen*.
+- *Sefer HaChochmah*, ascribed to the Rokeach (Bereishis p. 19): *pen* is said of
+  what will certainly happen, as though it were *ken*. Rabbi Klein does not know
+  the basis, since peh and kaf do not usually interchange.
 
 ## Distinctions
 

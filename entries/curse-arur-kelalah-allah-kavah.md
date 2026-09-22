@@ -9,7 +9,7 @@ words:
   - he: ארור
     tr: arur
     en: cursed, a curse
-    distinct: the true, intense curse, used for cursing a king (Vilna Gaon); broad and all-inclusive, able to stand alone (Rabbi Mecklenburg); narrowly, the working-out of a curse in one specific thing (Malbim)
+    distinct: the true, intense curse, used for cursing a king (Vilna Gaon); broad and all-inclusive, able to stand alone (Rabbi Mecklenburg); narrowly, the working-out of a curse in one specific thing (Malbim), and so arah is a limited curse against the all-embracing kavah (Rabbeinu Efrayim)
   - he: קללה
     tr: kelalah
     en: disparagement, curse
@@ -36,7 +36,7 @@ updated: 2026-09-22
 
 *Arur* is the strong, unrestricted curse: **cursed, a curse** with nothing
 specified, calling down whatever may come (the Vilna Gaon and Rabbi Mecklenburg;
-Malbim runs *arur* the other way, see below). *Kelalah* is the weaker word, rooted
+Malbim runs *arur* the other way, and Rabbeinu Efrayim makes *arah* the limited curse against the all-embracing *kavah*, see below). *Kelalah* is the weaker word, rooted
 in *kal*, light: **disparagement**, or a **curse** that must name what it wishes
 on its target. *Allah* is the curse that invokes Hashem by name (Radak) or, for Rabbi
 Mecklenburg, one laid down conditionally: **oath-curse, imprecation**. *Kavah* is the curse pronounced
@@ -47,10 +47,10 @@ word; Shemos 22:27 uses both of them in a single pasuk.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| ארור | arur | cursed, a curse | the intense, open-ended curse (Vilna Gaon, Mecklenburg); narrow and specific (Malbim) |
+| ארור | arur | cursed, a curse | the intense, open-ended curse (Vilna Gaon, Mecklenburg); narrow and specific (Malbim, Rabbeinu Efrayim) |
 | קללה | kelalah | disparagement, curse | from *kal*, belittling (Vilna Gaon); must name its effect (Mecklenburg) |
 | אלה | allah | oath-curse, imprecation | invokes Hashem (Radak); conditional (Mecklenburg) |
-| קבה | kavah | public curse | cursed in public, the victim named outright (Malbim) |
+| קבה | kavah | public curse | cursed in public, the victim named outright (Malbim); all-embracing, against the limited *arah* (Rabbeinu Efrayim) |
 
 ## Distinctions
 

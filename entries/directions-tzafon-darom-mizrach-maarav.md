@@ -40,7 +40,7 @@ words:
   - he: שמאל
     tr: smol
     en: north, left
-    distinct: literally left, a name for north that follows from facing east; north only when the speaker faces east, and left where the orientation is a person's own body
+    distinct: literally left, a name for north that follows from facing east; north only when the speaker faces east, and left where the orientation is a person's own body; never used for north in Tanach, as yamin is for south (Benamozegh)
   - he: אסתן
     tr: estan
     en: north
@@ -79,7 +79,8 @@ position), or *panim* (facewards); **west** is *yam* (seaward, toward the
 Mediterranean), *maarav* (where shadows blur), or *acharon* (the sun's last
 place); **north** is *tzafon* (on one explanation, hidden from the sun), *smol* (left), or the
 Aramaic *estan*; **south** is *darom* (the sun's daytime path), *negev* (the dry
-country), or *teiman*/*yamin* (right). Bereishis 28:14 pairs *yam*, *kedem*, *tzafon*, *negev*; Devarim 3:27 pairs
+country), or *teiman*/*yamin* (right). Rabbi Eliyahu Benamozegh notes that Tanach never
+actually uses *semol* for the north, as it uses *yamin* for the south. Bereishis 28:14 pairs *yam*, *kedem*, *tzafon*, *negev*; Devarim 3:27 pairs
 *yam*, *tzafon*, *mizrach*, *teiman*. Rabbi Klein's own answer to why the
 doublets exist: the several names each fix on a different aspect of the same
 direction, and are generally based either on the movements of the sun or on
@@ -96,12 +97,22 @@ certain topographical features of Eretz Yisrael.
 | מערב | maarav | west | where shadows blur at sunset, from *me'urav*, mixed |
 | אחרון | acharon | west | the sun's last place on the horizon before setting |
 | צפון | tzafon | north, hidden side | hidden from the sun; or gazing at the northern star; or Mount Tzafon |
-| שמאל | smol | north, left | left, when one faces east |
+| שמאל | smol | north, left | left, when one faces east; never north in Tanach (Benamozegh) |
 | אסתן | estan | north | Aramaic; perhaps *asuta*, health, for the healing north wind (Rabbeinu Bachaya) |
 | דרום | darom | south | *derech yom*, the path of the day's sun |
 | נגב | negev | south, dry country | the dry country of southern Eretz Yisrael |
 | תימן | teiman | south, right | right, when one faces east; with *mizrach* at Devarim 3:27 |
 | ימין | yamin | south, right | right, when one faces east; stays right for one's own body |
+
+## Where the authorities disagree
+
+**Whether smol names the north.**
+
+- Rabbi Klein counts *smol* among the names for north, from an east-facing
+  stance, as *yamin* and *teiman* are south.
+- Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 24:49): if *yamin* and
+  *teiman* mean right and south, *semol* should mean north, yet Tanach never
+  uses it so, as it uses *yamin* for the south.
 
 ## Distinctions
 

@@ -10,11 +10,11 @@ words:
     tr: mateh
     en: staff, tribe
     nk: מַטֶּה
-    distinct: the stick of a dignitary or one in authority (Malbim, Wertheimer), so only Moshe's is a mateh; dry wood (Rabbi Yehuda ibn Kuraish); neutral in connotation (Rabbi Yaakov Lorberbaum of Lissa); as tribe, its members rather than its leader (Mecklenburg, citing Shadal)
+    distinct: the stick of a dignitary or one in authority (Malbim, Wertheimer), so only Moshe's is a mateh; dry wood (Rabbi Yehuda ibn Kuraish); neutral in connotation (Rabbi Yaakov Lorberbaum of Lissa); as tribe, its members rather than its leader (Mecklenburg, citing Shadal); the same as shevet (Rabbi Shlomo of Urbino, Ohel Moed)
   - he: שבט
     tr: shevet
     en: rod, tribe
-    distinct: authority and its responsibility (Rashi); a rod wound up with energy to strike (the Vilna Gaon), of wood or metal (Wertheimer); as tribe, a branch of Yaakov's family tree (Malbim), or first the tribe's leader (Mecklenburg, citing Shadal)
+    distinct: authority and its responsibility (Rashi); a rod wound up with energy to strike (the Vilna Gaon), of wood or metal (Wertheimer); as tribe, a branch of Yaakov's family tree (Malbim), or first the tribe's leader (Mecklenburg, citing Shadal); the same as mateh (Rabbi Shlomo of Urbino, Ohel Moed)
   - he: משענת
     tr: mishenes
     en: cane
@@ -57,18 +57,31 @@ members; Malbim reads *shevet* as a branch, each tribe a branch of Yaakov's
 family tree; and Rabbi Zev HaKohen Hoberman calls Yisrael *shevatim* for their
 authority and responsibility over the nations and *matos* as Yaakov Avinu's cane,
 the support he leans on to carry his legacy. *Mateh* and *shevet* are both stick
-and tribe.
+and tribe. Against all these distinctions, Rabbi Shlomo of Urbino's *Ohel
+Moed* writes twice that *shevet* is *mateh*.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| מטה | mateh | staff, tribe | a staff of office (Malbim, Wertheimer); neutral; the tribe's members (Mecklenburg) |
-| שבט | shevet | rod, tribe | a rod struck with a wind-up (Vilna Gaon); authority (Rashi); a branch (Malbim) |
+| מטה | mateh | staff, tribe | a staff of office (Malbim, Wertheimer); neutral; the tribe's members (Mecklenburg); the same as *shevet* (Ohel Moed) |
+| שבט | shevet | rod, tribe | a rod struck with a wind-up (Vilna Gaon); authority (Rashi); a branch (Malbim); the same as *mateh* (Ohel Moed) |
 | משענת | mishenes | cane | a cane to lean on; positive, supporting the elderly (Lorberbaum) |
 | מקל | makel | rod for striking | the shepherd's striking rod; negative, tied to punishment (Lorberbaum) |
 | שרביט | sharvit | scepter | the royal scepter; perhaps *shevet* with an added *r* |
 | חוטר | choter | staff | likely Hebraized Aramaic *chutra*, the Targumim's word for *mateh* and *shevet* |
+
+## Where the authorities disagree
+
+**Whether mateh and shevet differ.**
+
+- Malbim, Rabbi Shlomo Aharon Wertheimer, the Vilna Gaon and Rashi set them
+  apart as sticks: *mateh* the staff of office, *shevet* the rod wound up to
+  strike, the instrument of authority.
+- As tribes, Rabbi Yaakov Tzvi Mecklenburg, citing Shadal, makes *shevet* first
+  the tribe's leader and *mateh* its members; Malbim makes *shevet* a branch of
+  Yaakov's family tree.
+- Rabbi Shlomo of Urbino (*Ohel Moed*) writes twice that *shevet* is *mateh*.
 
 ## Distinctions
 

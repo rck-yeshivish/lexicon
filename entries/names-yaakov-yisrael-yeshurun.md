@@ -57,6 +57,10 @@ dealing (Ramban).
 - The Ohr HaChaim works through the pesukim systematically and finds a different
   rule: *Yaakov* wherever the Torah shows him downcast or in distress, *Yisrael*
   wherever he is at peace and content.
+- Rabbi Elimelech of Lizhensk elsewhere (*Noam Elimelech* to Shemos 19:3):
+  *Yaakov* is the mass of the people, *Yisrael* its men of standing.
+- Chasam Sofer (*Toras Moshe*, Vayechi): the name *Yaakov* speaks of pain,
+  *Yisrael* of greatness.
 
 **What Yeshurun means.**
 - Ramban (to Bamidbar 23:10, Devarim 2:10 and 7:12): *yashar*, straight, given
@@ -71,6 +75,12 @@ dealing (Ramban).
 - The Vilna Gaon: from *shir*, song, for the shirah at the Sea.
 - Rabbi Yaakov Tzvi Mecklenburg: from *shirah* as a name of the Torah (Devarim
   31:19), since they alone accepted it.
+- *Chemdas HaChemdah* (to Devarim 32:15): from seeing, which sharpens Moshe's
+  rebuke, since they saw every miracle and would still choose other gods; at
+  33:5 and 33:26 the same work takes it from *yashar*, Hashem being with them
+  only while they act uprightly.
+- Maharal (*Tiferes Yisrael* ch. 11): Yaakov as the perfect mean, balancing the
+  *chessed* of Avraham and the *gevurah* of Yitzchak.
 
 **Whether Yeshurun is a name of the Jewish People at all.** The Maharsha holds that
 *Yeshurun* is a Name of Hashem, and ascribes the view to Rashi. Rabbi Yechezkel Landau
@@ -100,6 +110,10 @@ his fellow, typified by the brothers' sale of Yosef.
   worlds by the shape of the suffixes, angels of *Beriah* ending in *-el* and
   those of *Yetzirah* in *-on/-ron*: *Yaakov* in *Asiyah*, *Yisrael* in
   *Beriah*, *Yeshurun* in *Yetzirah*.
+- Chasam Sofer (*Toras Moshe* to Devarim 33:4): *Yeshurun* is the highest, those
+  who hold the Torah as their king; *Yaakov* the lowest, who keep the mitzvos as
+  an inheritance from their fathers; *Yisrael* between, sometimes loyal and
+  sometimes not.
 
 ## Distinctions
 

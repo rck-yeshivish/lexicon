@@ -9,11 +9,11 @@ words:
   - he: שאול
     tr: sheol
     en: the grave
-    distinct: literally the grave (Ibn Ezra), though by derashah the soul's purgatory after death (Rashi); a deep pit impossible to get out of (Malbim); from ש-ל, cast away, death being a plane away from the living (Rabbi Shlomo Pappenheim)
+    distinct: literally the grave (Ibn Ezra), though by derashah the soul's purgatory after death (Rashi); a deep pit impossible to get out of (Malbim); from ש-ל, cast away, death being a plane away from the living (Rabbi Shlomo Pappenheim); the same as avadon (Rabbi Avraham bar Chiya)
   - he: אבדון
     tr: avadon
     en: destruction
-    distinct: either the body's ruin and rotting after death, or the place where souls are lost for a time; in Midrash Konen the place of the lost souls of the wicked
+    distinct: either the body's ruin and rotting after death, or the place where souls are lost for a time; in Midrash Konen the place of the lost souls of the wicked; the same as sheol (Rabbi Avraham bar Chiya)
   - he: שחת
     tr: shachat
     en: pit
@@ -61,14 +61,16 @@ though by derashah it can refer to the soul's purgatory after death (Rashi).
 *Shachat* in many pesukim means simply a **pit**, and Bedersi also reads
 "destruction" in it. *Avadon* is either the body's **destruction** after death
 or the place where souls are **lost** for a time. Eruvin 19a gives seven Biblical terms for
-Gehinnom, and Maharsha reads them as seven different places within it.
+Gehinnom, and Maharsha reads them as seven different places within it; Rabbi
+Avraham bar Chiya, by contrast, holds that *sheol* and *avadon* mean the same
+thing.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| שאול | sheol | the grave | literally the grave (Ibn Ezra); by derashah, purgatory (Rashi) |
-| אבדון | avadon | destruction | the body's ruin after death, or where souls are lost for a time |
+| שאול | sheol | the grave | literally the grave (Ibn Ezra); by derashah, purgatory (Rashi); the same as *avadon* (Rabbi Avraham bar Chiya) |
+| אבדון | avadon | destruction | the body's ruin after death, or where souls are lost for a time; the same as *sheol* (Rabbi Avraham bar Chiya) |
 | שחת | shachat | pit | a pit; a trap, or destruction as the body rots (Bedersi) |
 | בור שאון | bor shaon | Pit of Noise | Pit of Noise, or of Silence (Rabbi Klein); from *shoah*, destruction (Rashi, Radak) |
 | טיט היון | tit hayaven | slimy mud | quicksand-like mud; deceptive ground, from a root of trickery (Pappenheim) |
@@ -76,6 +78,15 @@ Gehinnom, and Maharsha reads them as seven different places within it.
 | גיהנום | gehinnom | Gehinnom | a place name borrowed for the afterlife; alludes to what is *chinam*, pointless |
 | תפת | tophet | Tophes | a place name borrowed for the afterlife; those the yetzer hara talks over (*mefateh*) |
 | עלוקה | alukah | leech | the leech; draws out the soul (Maharal), or cleanses sin (Rabbi Chaim of Volozhin) |
+
+## Where the authorities disagree
+
+**One place or several.**
+
+- Maharsha: the seven Biblical terms of Eruvin 19a are seven different places
+  within Gehinnom.
+- Rabbi Avraham bar Chiya HaNasi (*Hegyon HaNefesh* p. 3a): *sheol* and *avadon*
+  mean the same thing.
 
 ## Distinctions
 

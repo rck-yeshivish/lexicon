@@ -10,7 +10,7 @@ words:
     tr: nas
     en: flee
     nk: נָס
-    distinct: fleeing an active threat or a real pursuer (Sforno), openly in visible terror, even from a mindless danger (Malbim); seeking refuge at a destination (Wertheimer); to somewhere near (Sefer HaChochmah)
+    distinct: fleeing an active threat or a real pursuer (Sforno), openly in visible terror, even from a mindless danger (Malbim); seeking refuge at a destination (Wertheimer), or, the reverse, the start of flight with no place prepared (Pappenheim); to somewhere near (Sefer HaChochmah)
   - he: רץ
     tr: ratz
     en: run
@@ -18,7 +18,7 @@ words:
   - he: בורח
     tr: boreach
     en: run away
-    distinct: running from a feared future threat with nobody in pursuit (Sforno); clandestine, from a danger not yet immediate, and from an intelligent being (Malbim); attends only to the place fled from (Wertheimer); to somewhere far (Sefer HaChochmah)
+    distinct: running from a feared future threat with nobody in pursuit (Sforno); clandestine, from a danger not yet immediate, and from an intelligent being (Malbim); attends only to the place fled from (Wertheimer), or, the reverse, the end of flight, toward a place prepared (Pappenheim); to somewhere far (Sefer HaChochmah)
   - he: ערק
     tr: arak
     en: run away
@@ -38,16 +38,32 @@ updated: 2026-09-22
 *Boreach* is **running away** from a feared future threat, with nobody actually
 in pursuit, and usually done quietly so as not to be seen. Sforno and Malbim
 agree on that core. *Boreach* is the one that carries stealth and a threat not
-yet arrived.
+yet arrived. Where each is headed is disputed: Rabbi Shlomo Aharon Wertheimer
+has *nas* seeking refuge at a destination and *boreach* attending only to the
+place fled from, while Rabbi Shlomo Pappenheim holds the reverse, *nas* the
+start of flight with nowhere prepared and *brichah* its end, the place prepared
+in advance.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| נס | nas | flee | fleeing an immediate danger, openly in terror (Sforno, Malbim) |
+| נס | nas | flee | fleeing an immediate danger, openly in terror (Sforno, Malbim); toward a refuge (Wertheimer), or with none prepared (Pappenheim) |
 | רץ | ratz | run | running toward, where *nas* is running from (Malbim) |
-| בורח | boreach | run away | running quietly from a future threat, nobody chasing (Sforno, Malbim) |
+| בורח | boreach | run away | running quietly from a future threat, nobody chasing (Sforno, Malbim); only away (Wertheimer), or toward a place prepared (Pappenheim) |
 | ערק | arak | run away | Aramaic for both *nas* and *boreach*; draws no distinction |
+
+## Where the authorities disagree
+
+**Where each is headed.**
+
+- Rabbi Shlomo Aharon Wertheimer: *nas* seeks refuge at a destination; *boreach*
+  attends only to the place fled from.
+- Rabbi Shlomo Pappenheim (*Cheshek Shlomo* s.v. נס): the reverse. *Nisah* is
+  the start of flight, leaving the danger with no place prepared; *brichah* is
+  its end, the place one prepared to flee to. Every *brichah* is a *nisah*, but
+  not every *nisah* a *brichah*.
+- *Sefer HaChochmah*: *nas* is to somewhere near, *boreach* to somewhere far.
 
 ## Distinctions
 

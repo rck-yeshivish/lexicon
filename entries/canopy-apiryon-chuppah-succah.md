@@ -17,7 +17,7 @@ words:
   - he: אפריון
     tr: apiryon
     en: palanquin
-    distinct: a hapax in Shir HaShirim; glossed as a chuppah (Parenzo, the Maharsha); a mobile enclosure a woman travels in, per the Mishnah (Rabbi Klein); on the paryanka reading a palanquin, the chuppah gloss stating its halachic role, not its meaning
+    distinct: a hapax in Shir HaShirim; glossed as a chuppah (Parenzo, the Maharsha); a mobile enclosure a woman travels in, per the Mishnah (Rabbi Klein); on the paryanka reading a palanquin, the chuppah gloss stating its halachic role, not its meaning, as Rashi to Yevamos 110a makes it a sedan; a bed for bringing forth children, from pri (Pappenheim); a crown, as some explain (Machberes Menachem)
 sources:
   - wiaw:7103 "A Panoply of Canopies" (2017-01-21) https://articles.ohr.edu/articles/a-panoply-of-canopies
   - ms:088-a-panoply-of-canopies.md "A Panoply of Canopies"
@@ -38,7 +38,11 @@ on the reading of those who tie the word to the Sanskrit *paryanka* it is a
 **palanquin**, a covered litter carried on poles. On that reading, the
 mefarshim who gloss *apiryon* as a *chuppah* are stating
 its halachic function at Amram and Yocheved's remarriage, not equating the two
-words. Rabbi Klein's working premise is that no two words in Hebrew
+words; Rashi (to *Yevamos* 110a) likewise makes the *apiryon* a sedan, tied to
+*chuppah* only in the halachic sense. Two other readings stand apart: Rabbi
+Shlomo Pappenheim derives *apiryon* from *pri*, a bed on which children are
+brought forth, and some cited in *Machberes Menachem* make it a crown. Rabbi
+Klein's working premise is that no two words in Hebrew
 mean exactly the same thing, so a difference must be found.
 
 ## At a glance
@@ -47,7 +51,19 @@ mean exactly the same thing, so a difference must be found.
 |---|---|---|---|
 | סוכה | succah | booth | defined by its *sechach*; a shelter from what is above (Libber) |
 | חופה | chuppah | wedding canopy | covered on top, with no sense of protection (Libber) |
-| אפריון | apiryon | palanquin | a mobile enclosure or palanquin; a *chuppah* only in function (Maharsha, Parenzo) |
+| אפריון | apiryon | palanquin | a mobile enclosure or palanquin; a *chuppah* only in function (Maharsha, Parenzo); a bed (Pappenheim); a crown (some, in Machberes Menachem) |
+
+## Where the authorities disagree
+
+**What an apiryon is.**
+
+- A *chuppah* (Parenzo, the Maharsha).
+- A mobile enclosure or palanquin, the *chuppah* gloss stating its halachic role
+  and not its meaning (Rabbi Klein); so Rashi (to *Yevamos* 110a), who explains
+  *bei kursia* as an *apiryon*, a sedan.
+- A bed on which children are brought forth, from *pri* (Rabbi Shlomo
+  Pappenheim, *Cheshek Shlomo* s.v. פר).
+- A crown, as some explain (*Machberes Menachem*).
 
 ## Distinctions
 

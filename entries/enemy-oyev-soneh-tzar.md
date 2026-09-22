@@ -9,11 +9,11 @@ words:
   - he: אויב
     tr: oyev
     en: enemy, foe
-    distinct: the enemy who acts, or has at least pictured himself causing harm, and rejoices at his victim's misfortune (Malbim); still hides his hatred beneath a show of empathy; injures body and money, where the soneh targets the soul (Vilna Gaon)
+    distinct: the enemy who acts, or has at least pictured himself causing harm, and rejoices at his victim's misfortune (Malbim); still hides his hatred beneath a show of empathy; injures body and money, where the soneh targets the soul (Vilna Gaon); the one who buries his enmity in his heart and holds the grudge forever (Rabbi Yaakov Emden); the stronger hatred (Shadal)
   - he: שונא
     tr: soneh
     en: hater
-    distinct: hatred held inside and never expressed, read from what he refrains from doing, like the Mishnah's witness who has not spoken to his fellow for three days; the more dangerous, aiming at his victim's spiritual existence (Vilna Gaon)
+    distinct: hatred held inside and never expressed, read from what he refrains from doing, like the Mishnah's witness who has not spoken to his fellow for three days; the more dangerous, aiming at his victim's spiritual existence (Vilna Gaon); for Rabbi Yaakov Emden the reverse, the one who hates openly, in speech
   - he: צר
     tr: tzar
     en: adversary, persecutor
@@ -32,16 +32,39 @@ updated: 2026-09-22
 *Oyev* is the enemy who acts, or at least plans to act: **enemy**, **foe**.
 *Soneh* is hatred held inside, shown by what a man refrains from doing:
 **hater**. *Tzar* (*tzorer*) is open, self-costing hostility: **adversary**,
-**persecutor**. Bamidbar 10:35 pairs *oyev* and *soneh*, and Rabbi Klein concludes that Moshe
-davens there that both kinds of Hashem's enemies be vanquished.
+**persecutor**. Rabbi Yaakov Emden reverses the first two: the *soneh* hates
+openly, in speech, and the *oyev* buries his enmity in his heart and holds it
+forever, like Esav. Which is the graver is disputed too: the *soneh*, aiming at
+the soul, for the Vilna Gaon; the *oyev* for Shadal. Bamidbar 10:35 pairs
+*oyev* and *soneh*, and Rabbi Klein concludes that Moshe davens there that both
+kinds of Hashem's enemies be vanquished.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| אויב | oyev | enemy, foe | acts, or plans to (Malbim); targets body and money (Vilna Gaon) |
-| שונא | soneh | hater | hatred kept inside, seen in what he refrains from; targets the soul (Vilna Gaon) |
+| אויב | oyev | enemy, foe | acts, or plans to (Malbim); targets body and money (Vilna Gaon); hides his hatred and keeps it forever (Emden); the stronger hatred (Shadal) |
+| שונא | soneh | hater | hatred kept inside, seen in what he refrains from; targets the soul (Vilna Gaon); hates openly, in speech (Emden) |
 | צר | tzar | adversary, persecutor | open hostility, spending his own reputation and resources to attack |
+
+## Where the authorities disagree
+
+**Which of the two hides his hatred.**
+
+- The *oyev* acts, or at least plans to (Malbim), while the *soneh* holds his
+  hatred inside, read from what he refrains from doing.
+- Rabbi Yaakov Emden (*Eim LaBinah* to Shemos 23:22): the reverse. The *soneh*
+  hates openly, in speech (see Bereishis 37:4); the *oyev* keeps his enmity
+  buried in his heart and holds the grudge forever, like Esav (see Yechezkel
+  25:15).
+
+**Which is the graver.**
+
+- The Vilna Gaon: the *soneh*, who aims at his victim's spiritual existence,
+  where the *oyev* injures body and money.
+- Shadal (to Shemos 23:5): the *oyev*, the stronger hatred; the Torah obliges one
+  to return a *soneh*'s lost object but not an *oyev*'s, since facing him one may
+  fear for one's life.
 
 ## Distinctions
 

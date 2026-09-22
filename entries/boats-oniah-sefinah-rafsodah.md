@@ -13,7 +13,7 @@ words:
   - he: ספינה
     tr: sefinah
     en: ship, boat
-    distinct: once in Tanach (Yonah 1:5), then the ordinary Mishnaic word; possibly a lesser vessel kept near shore, unfit for the open sea (Rabbi Shlomo Pappenheim)
+    distinct: once in Tanach (Yonah 1:5), then the ordinary Mishnaic word; possibly a lesser vessel kept near shore, unfit for the open sea (Rabbi Shlomo Pappenheim); at Yonah 1:5 the covered lower part of the oniah (Malbim), or the same ship, called sefinah once near land (Aderes Eliyahu)
   - he: רפסודה
     tr: rafsodah
     en: raft
@@ -45,7 +45,9 @@ updated: 2026-09-22
 
 *Oniah* is the general Biblical word, **ship**; *sefinah* is the ordinary
 Mishnaic word for the same thing, **ship** or **boat**, and appears only once in
-Tanach. *Rafsodah* and *dovrah* are both a **raft** of tied beams; *avarah* a
+Tanach. At that one place (Yonah 1:5) Malbim makes the *sefinah* not the ship
+but its covered lower deck, and the Vilna Gaon (*Aderes Eliyahu*) the same ship,
+called *sefinah* once it is near land. *Rafsodah* and *dovrah* are both a **raft** of tied beams; *avarah* a
 **ferry**; *dugit* a small **fishing skiff**; *tzi* a **large ship**, usually a
 warship. In a pasuk *sefinah* is a rarity, in a Mishnah the default word.
 
@@ -54,7 +56,7 @@ warship. In a pasuk *sefinah* is a rarity, in a Mishnah the default word.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | אניה | oniah | ship | the general Biblical term, qualified for type (oni Tarshish, oni shayit) |
-| ספינה | sefinah | ship, boat | once in Tanach; the standard Mishnaic word (possibly a lesser, coastal vessel, per Rabbi Shlomo Pappenheim) |
+| ספינה | sefinah | ship, boat | once in Tanach; the standard Mishnaic word (possibly a lesser, coastal vessel, per Rabbi Shlomo Pappenheim); at Yonah 1:5 the ship's covered lower deck (Malbim) |
 | רפסודה | rafsodah | raft | tied beams, same as dovrah (Rashi, Radak) |
 | עברה | avarah | ferry | the ferry (Shmuel II 19:19), from *l'avor*, to cross over |
 | דוגית | dugit | fishing skiff | the fisherman's small boat (Bava Basra 73a), from dag (Sperber) |
@@ -86,6 +88,15 @@ suggests it. Rabbi Klein adds that he
 seems to recall commentators explaining *safun* of the hull being immersed, and
 so hidden, in the sea while only the upper part shows, but reports that he could
 not locate the source.
+
+**What sefinah is at Yonah 1:5.**
+
+- Rabbi Shlomo Pappenheim suggests, as above, a lesser vessel kept near shore.
+- Malbim: the part of the *oniah* that is *safun*, covered over from above, the
+  ship's lower chamber.
+- The Vilna Gaon (*Aderes Eliyahu*): the same ship. Here, close to dry land, it
+  is a *sefinah*; above, out in the middle of the sea, it was an *oniah*, as
+  *derech oniah belev yam* (Mishlei 30:19).
 
 **Whether a *dugit* is sold with the ship it is tied to.**
 

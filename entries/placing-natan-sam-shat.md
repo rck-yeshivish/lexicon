@@ -14,11 +14,11 @@ words:
     tr: sam
     en: place
     nk: שָׂם
-    distinct: placing into a spot designated for it, deliberately, as part of a plan, with no implication of how long it stays (Pappenheim), as the lettered beams of the Mishkan; more often positive or neutral in connotation (Rabbi Avraham Shick)
+    distinct: placing into a spot designated for it, deliberately, as part of a plan, with no implication of how long it stays (Pappenheim), as the lettered beams of the Mishkan; more often positive or neutral in connotation (Rabbi Avraham Shick); placing with intent (the Rokeach)
   - he: שת
     tr: shat
     en: set, lay
-    distinct: placing into an order meant to stay indefinitely (Pappenheim), as the lasting enmity of Bereishis 3:15 and the plagues etched on those who lived through them (Mecklenburg); mostly in a negative context (Rabbi Avraham Shick)
+    distinct: placing into an order meant to stay indefinitely (Pappenheim), as the lasting enmity of Bereishis 3:15 and the plagues etched on those who lived through them (Mecklenburg); mostly in a negative context (Rabbi Avraham Shick); placing without intent (the Rokeach)
 sources:
   - wiaw:9523 "Put in Place" (2022-01-08) https://articles.ohr.edu/articles/put-in-place
   - ms:106-put-in-place.md "Put in Place"
@@ -34,15 +34,25 @@ Rabbi Shlomo Pappenheim ranks the three by how deliberate and how lasting the
 placing is. *Natan* is the loosest: **put** something down, anywhere. *Sam* is
 **place**, into a spot designated for it, as part of a plan, but for no stated
 duration. *Shat* is **set** or **lay**, placed into an order and meant to stay
-there indefinitely.
+there indefinitely. The Rokeach draws the line differently: *sim* is placing
+with intent, *yashis* without.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | נתן | natan | put | put down anywhere, haphazardly (Pappenheim); the sockets and bars of the Mishkan |
-| שם | sam | place | into its designated spot, by plan, for no stated duration (Pappenheim) |
-| שת | shat | set, lay | set to stay indefinitely (Pappenheim); usually in a negative context (Shick) |
+| שם | sam | place | into its designated spot, by plan, for no stated duration (Pappenheim); with intent (the Rokeach) |
+| שת | shat | set, lay | set to stay indefinitely (Pappenheim); usually in a negative context (Shick); without intent (the Rokeach) |
+
+## Where the authorities disagree
+
+**Whether shat is the deliberate placing or the undeliberate one.**
+
+- Rabbi Shlomo Pappenheim: the three rise in deliberateness and permanence, and
+  *shat* is placing into an order meant to stay indefinitely.
+- The Rokeach (*Sefer HaChochmah*, *Shaar HaChiluk* §5, p. 20): *sim* is placing
+  with intent, *yashis* without.
 
 ## Distinctions
 

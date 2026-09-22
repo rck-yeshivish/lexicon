@@ -14,7 +14,7 @@ words:
     tr: moshel
     en: ruler
     nk: מוֹשֵׁל
-    distinct: holds power by force or proven superiority, accepted or not; leads by his abilities and seizes his constituency, as Gideon was offered (Vilna Gaon); a dictator who rules whether or not his people object (Ibn Ezra); some explain instead a governor or deputy under the king
+    distinct: holds power by force or proven superiority, accepted or not; leads by his abilities and seizes his constituency, as Gideon was offered (Vilna Gaon); a dictator who rules whether or not his people object (Ibn Ezra); some explain instead a governor or deputy under the king, which Bereishis 24:2, 45:8 and 1:16 fit (Rabbi Klein)
   - he: מלוכה
     nk: מְלוּכָה
 sources:
@@ -40,7 +40,7 @@ is not mere repetition.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | מלך | melech | king | king by the people's willing acceptance; their equal without it (Vilna Gaon) |
-| מושל | moshel | ruler | rules by force or proven ability, accepted or not (Vilna Gaon); some say a deputy |
+| מושל | moshel | ruler | rules by force or proven ability, accepted or not (Vilna Gaon); some say a deputy, as Bereishis 24:2 and 45:8 fit (Rabbi Klein) |
 
 ## Distinctions
 

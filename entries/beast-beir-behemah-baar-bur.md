@@ -27,7 +27,7 @@ words:
   - he: בור
     tr: bur
     en: uncultured man, ignoramus
-    distinct: Mishnaic; either an uncultivated field left desolate (Rashi, Tashbetz, Bartenura to Avos 2:5), a mind empty as a pit, bor (Rabbi Dr. Asher Weiser), or simply a form of ba'ar (Rabbi Eliyahu HaBachur)
+    distinct: Mishnaic; either an uncultivated field left desolate (Rashi, Tashbetz, Bartenura to Avos 2:5), a mind empty as a pit, bor (Rabbi Dr. Asher Weiser), or simply a form of ba'ar (Rabbi Eliyahu HaBachur); a farmer (Pri Megadim)
 sources:
   - wiaw:10832 "Mishpatim: Boorish Animals" (2023-02-18) https://articles.ohr.edu/articles/mishpatim-boorish-animals
   - wiaw:9126 "Vayakhel/Pekudei: Animal Sounds" (2021-03-13) https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds
@@ -54,7 +54,7 @@ gives *ba'ar*, the **brute** or **boor**, and on one view the Mishnaic *bur*, th
 | בהמה | behemah | domesticated animal | the standard term; a platform for man's elevation (Rav Hirsch) |
 | חיה | chayah | wild animal | independent life, not subservient to man (Rav Hirsch) |
 | בער | ba'ar | brute, boor | sub-human for want of intelligence, like a be'ir (Edel, Malbim) |
-| בור | bur | uncultured man | uncultivated field (Rashi to Avos 2:5) or empty pit (Weiser) |
+| בור | bur | uncultured man | uncultivated field (Rashi to Avos 2:5) or empty pit (Weiser); a farmer (Pri Megadim) |
 
 ## Where the authorities disagree
 

@@ -10,11 +10,11 @@ words:
     tr: shalom
     en: peace
     nk: שָׁלוֹם
-    distinct: the general word, the end of war (Bedersi); at root wholeness with nothing lacking, and the absence of friction among parties (Rabbi Shlomo Pappenheim); total peace, with shalvah (Wertheimer); coming to terms with what is outside oneself (Malbim)
+    distinct: the general word, the end of war (Bedersi); at root wholeness with nothing lacking, and the absence of friction among parties (Rabbi Shlomo Pappenheim); total peace, with shalvah (Wertheimer); coming to terms with what is outside oneself (Malbim); peace while one must still contend with Esav (Chasam Sofer)
   - he: שלוה
     tr: shalvah
     en: tranquility, ease
-    distinct: peace within oneself (Malbim), or one peaceful relationship inside a wider discord (Rabbi Shlomo Pappenheim); ranked with shalom (Bedersi, Wertheimer); its verb shalu also means to sin unwittingly, since complacent ease breeds carelessness (Bedersi, Rav Hirsch)
+    distinct: peace within oneself (Malbim), or one peaceful relationship inside a wider discord (Rabbi Shlomo Pappenheim); ranked with shalom (Bedersi, Wertheimer), or above it, the peace once Esav's efforts are wholly undone (Chasam Sofer); its verb shalu also means to sin unwittingly, since complacent ease breeds carelessness (Bedersi, Rav Hirsch)
   - he: שקט
     tr: sheket
     en: quiet, stillness
@@ -39,7 +39,9 @@ updated: 2026-09-22
 *Shalom* is the general word: **peace**, the absence of war and, at root, wholeness
 with nothing lacking (Rabbi Shlomo Pappenheim). *Shalvah* is peace felt within, or a
 pocket of peace inside a larger discord: **tranquility, ease** (Malbim, Pappenheim),
-with a shadow of complacency (Bedersi, Rav Hirsch). *Sheket* is the cessation of
+with a shadow of complacency (Bedersi, Rav Hirsch); Chasam Sofer instead ranks it
+above *shalom*, the peace once Esav's efforts are wholly undone, where *shalom*
+must still contend with him. *Sheket* is the cessation of
 motion and outward disturbance: **quiet, stillness, calm**; whether it ranks above
 *shalom* (Bedersi) or below it as a mere ceasefire (Rabbi Shlomo Aharon Wertheimer)
 is disputed, and both readings stay live. *Shaanan* is the
@@ -51,9 +53,26 @@ Pappenheim).
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | שלום | shalom | peace | absence of war (Bedersi); wholeness, nothing lacking (Pappenheim); external peace (Malbim) |
-| שלוה | shalvah | tranquility, ease | inner peace (Malbim); peace amid discord (Pappenheim); shadow of complacency (Bedersi) |
+| שלוה | shalvah | tranquility, ease | inner peace (Malbim); peace amid discord (Pappenheim); above *shalom* (Chasam Sofer); shadow of complacency (Bedersi) |
 | שקט | sheket | quiet, stillness | stillness; above *shalom* (Bedersi) or a mere ceasefire (Wertheimer) |
 | שאנן | shaanan | serenity | fullest rest (Bedersi); free even of prosperity's busyness (Pappenheim) |
+
+## Where the authorities disagree
+
+**Where shalvah ranks.**
+
+- Rabbi Shlomo Pappenheim: one peaceful relationship inside a wider discord.
+- Bedersi and Rabbi Shlomo Aharon Wertheimer: ranked with *shalom*.
+- Chasam Sofer (*Toras Moshe* to Bereishis 37:1): above it. *Shalom* is peace
+  while one must still contend with Esav; *shalvah* is peace once his efforts
+  are wholly undone, which is why it holds the vav and hei of the Name that
+  Amalek cut in half.
+
+**Where sheket ranks.**
+
+- Bedersi: above *shalom*.
+- Rabbi Shlomo Aharon Wertheimer: below it, a mere ceasefire with disagreement
+  still in the background.
 
 ## Distinctions
 

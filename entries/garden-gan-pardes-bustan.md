@@ -13,11 +13,11 @@ words:
   - he: פרדס
     tr: pardes
     en: orchard
-    distinct: fruit trees (Rabbi Yosef Kara, Metzudas Tzion); one species (Ibn Ezra, Wertheimer) or many in separate rows (Rabbi David Luria); the grander, exclusive plot (Bedersi) or the smaller (Rabbi Yedaiah HaPenini); a Persian loanword (Rabbi Ernest Klein)
+    distinct: fruit trees (Rabbi Yosef Kara, Metzudas Tzion); one species (Ibn Ezra, Wertheimer) or many in separate rows (Rabbi David Luria); the grander, exclusive plot (Bedersi) or the smaller (Rabbi Yedaiah HaPenini); a Persian loanword (Rabbi Ernest Klein); a vineyard (Rashi to Bava Metzia 39b)
   - he: בוסתן
     tr: bustan
     en: garden
-    distinct: the ordinary word for a garden in the Aramaic of the Gemara; defined by pardes (Rashi) and by gan (Rashbam); a loanword from Middle Persian bostan (Rabbi Ernest Klein)
+    distinct: the ordinary word for a garden in the Aramaic of the Gemara; defined by pardes (Rashi) and by gan (Rashbam); an orchard (Rashi to Bava Metzia 39b); a loanword from Middle Persian bostan (Rabbi Ernest Klein)
 sources:
   - wiaw:11105 "Enter the Garden (Part 1 of 2)" (2023-09-23) https://articles.ohr.edu/articles/enter-the-garden-part-1-of-2
   - wiaw:11106 "Enter the Garden (Part 2 of 2)" (2023-09-30) https://articles.ohr.edu/articles/enter-the-garden-part-2-of-2
@@ -33,7 +33,8 @@ updated: 2026-09-22
 *Gan* is the general **garden**, an enclosed and guarded plot; in Tanach it is
 the only common one of the three, and in the Mishnah it appears as *ginah*.
 *Pardes* is usually **orchard**, and on Bedersi's reading the narrower and
-grander word; Koheles names both in one pasuk (Koheles 2:5), which suggests they
+grander word, though Rashi (to *Bava Metzia* 39b) makes the *pardes* a vineyard
+and the *bustan* the orchard; Koheles names both in one pasuk (Koheles 2:5), which suggests they
 are not synonyms. *Bustan* is Talmudic Aramaic for a **garden**, a Persian word,
 and Rashi in places defines it by *pardes* while Rashbam defines it by *gan*.
 
@@ -42,8 +43,21 @@ and Rashi in places defines it by *pardes* while Rashbam defines it by *gan*.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | גן | gan | garden | the general, enclosed and guarded plot (Radak, Pappenheim); vegetables and flowers (Kara) |
-| פרדס | pardes | orchard | fruit trees (Kara); one species (Ibn Ezra); grander than *gan* (Bedersi); Persian loanword |
-| בוסתן | bustan | garden | Talmudic Aramaic; *pardes* for Rashi, *gan* for Rashbam; Persian |
+| פרדס | pardes | orchard | fruit trees (Kara); one species (Ibn Ezra); grander than *gan* (Bedersi); a vineyard (Rashi to Bava Metzia 39b); Persian loanword |
+| בוסתן | bustan | garden | Talmudic Aramaic; *pardes* for Rashi, *gan* for Rashbam; an orchard (Rashi to Bava Metzia 39b); Persian |
+
+## Where the authorities disagree
+
+**What a pardes is.**
+
+- Fruit trees, an orchard (Rabbi Yosef Kara, Metzudas Tzion): of one species
+  (Ibn Ezra, Wertheimer) or of many in separate rows (Rabbi David Luria).
+- Rashi (to *Bava Metzia* 39b): a vineyard, the *bustan* being the orchard.
+
+**Whether the pardes is the grander plot or the smaller.**
+
+- Bedersi: the grander, more exclusive plot.
+- Rabbi Yedaiah HaPenini: the smaller.
 
 ## Distinctions
 

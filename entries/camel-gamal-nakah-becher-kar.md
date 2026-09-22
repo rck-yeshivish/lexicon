@@ -21,7 +21,7 @@ words:
   - he: כר
     tr: kar
     en: swift camel / saddle-basket
-    distinct: disputed; a fast-running camel (Ibn Ezra to Yeshayahu 16:1), a camel's saddle-basket (Ibn Ezra to Bereishis 31:34), or a young sheep (Rabbi Yosef Kimchi)
+    distinct: disputed; a fast-running camel (Ibn Ezra to Yeshayahu 16:1), a camel's saddle-basket (Ibn Ezra to Bereishis 31:34), or a young sheep (Rabbi Yosef Kimchi); a present (Niddah 31b, as Rashi reads it)
   - he: כרכרות
     tr: kirkaros
     en: swift beasts
@@ -52,7 +52,7 @@ and not every view takes either of them as a camel.
 | גמל | gamal | camel | the mature load-bearing camel; masculine in form but inclusive in use (*Sefer HeAruch*; Rabbi Yitzchak Avineri) |
 | נאקה | nakah | she-camel | Mishnaic, the grown female (Shabbos 5:1, Keilim 23:2); seemingly tied to nursing, Pappenheim's נ-ק (Rabbi Reuven Chaim Klein) |
 | בכר / בכרה | becher / bichrah | young camel | newborn, load-free, and so impulsive (Rashi to Sanhedrin 52a) |
-| כר | kar | swift camel / saddle-basket | a running camel (Ibn Ezra), a saddle-basket (Ibn Ezra elsewhere), or a lamb (Rabbi Yosef Kimchi) |
+| כר | kar | swift camel / saddle-basket | a running camel (Ibn Ezra), a saddle-basket (Ibn Ezra elsewhere), or a lamb (Rabbi Yosef Kimchi); a present (Rashi to *Niddah* 31b) |
 | כרכרות | kirkaros | swift beasts | prominent camels (Ibn Ezra), any fast animal (Radak), or skipping calves (Bechor Shor) |
 
 ## Where the authorities disagree

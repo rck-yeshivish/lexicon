@@ -9,11 +9,11 @@ words:
   - he: צחוק
     tr: tzchok
     en: laughter
-    distinct: the same word as s'chok, with no difference of meaning (Ibn Saruk, Ibn Janach, Pappenheim); laughter as an involuntary response to something from outside, running from laughing and playing to deriding and mocking (Pappenheim); the spelling of the name Yitzchak in all but four places in Tanach
+    distinct: the same word as s'chok, with no difference of meaning (Ibn Saruk, Ibn Janach, Pappenheim), or the laughter of the mouth, for joy (the Ran); laughter as an involuntary response to something from outside, running from laughing and playing to deriding and mocking (Pappenheim); the spelling of the name Yitzchak in all but four places in Tanach
   - he: שחוק
     tr: s'chok
     en: laughter
-    distinct: the same word as tzchok, sin and tzadi interchanging (Ibn Saruk, Ibn Janach, Pappenheim); in the spelling Yischak it hints at din (Rabbeinu Bachaya) or at sasson and simchah (Rabbi Yehuda Moscato); the holy laughter reserved for the future (Rabbi Shmuel Borenstein)
+    distinct: the same word as tzchok, sin and tzadi interchanging (Ibn Saruk, Ibn Janach, Pappenheim), or the laughter of the heart, in scorn (the Ran); in the spelling Yischak it hints at din (Rabbeinu Bachaya) or at sasson and simchah (Rabbi Yehuda Moscato); the holy laughter reserved for the future (Rabbi Shmuel Borenstein)
 sources:
   - wiaw:8903 "A Laughing Matter" (2020-10-31) https://articles.ohr.edu/articles/a-laughing-matter
   - ms:020-a-laughing-matter.md "A Laughing Matter"
@@ -25,22 +25,34 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Tzchok* and *s'chok* are the same word: **laughter**, with sin and tzadi
-interchanging, and the lexicographers find no difference of meaning between
-them. Both run the full range from laughing and playing to mocking and deriding.
-The whole discussion of *Yitzchak* against *Yischak* is therefore not lexical
-but homiletical and kabbalistic.
+*Tzchok* and *s'chok* both mean **laughter**, and whether they differ is
+disputed. The lexicographers make them one word, with sin and tzadi
+interchanging, and find no difference of meaning between them (Menachem Ibn
+Saruk, Ibn Janach, Rabbi Shlomo Pappenheim): both run the full range from
+laughing and playing to mocking and deriding. The Ran, in his commentary on the
+Torah, separates them: *tzechok* is in the mouth, for joy, and *sechok* in the
+heart, by way of scorn. On the lexicographers' view, the discussion of
+*Yitzchak* against *Yischak* is not lexical but homiletical and kabbalistic.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| צחוק | tzchok | laughter | laughter, from play to mockery; identical in meaning to *s'chok* (Pappenheim) |
-| שחוק | s'chok | laughter | same word with sin for tzadi (Ibn Janach); holy laughter reserved for the future (Borenstein) |
+| צחוק | tzchok | laughter | laughter, from play to mockery; identical in meaning to *s'chok* (Pappenheim), or laughter of the mouth, for joy (the Ran) |
+| שחוק | s'chok | laughter | same word with sin for tzadi (Ibn Janach), or laughter of the heart, in scorn (the Ran); holy laughter reserved for the future (Borenstein) |
+
+## Where the authorities disagree
+
+**Whether tzchok and s'chok differ at all.**
+
+- Menachem Ibn Saruk, Ibn Janach and Rabbi Shlomo Pappenheim: one word, sin and
+  tzadi interchanging, with no difference of meaning.
+- The Ran (commentary on the Torah, Bereishis p. 234): *tzechok* is in the
+  mouth, for joy; *sechok* is in the heart, by way of scorn.
 
 ## Distinctions
 
-### tzchok (צחוק) and s'chok (שחוק): one word
+### tzchok (צחוק) and s'chok (שחוק): one word or two
 Menachem Ibn Saruk, Ibn Janach and Rabbi Shlomo Pappenheim all hold that *s'chok*
 and *tzchok* mean exactly the same thing. Sin and tzadi are interchangeable,
 being formed at the same place in the mouth (see also *HaKsav VeHaKabbalah* to

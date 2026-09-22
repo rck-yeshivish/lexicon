@@ -61,7 +61,7 @@ gathered are **bound** into one unit. *Kehillah* is an **assembly** of people,
 
 ## Where the authorities disagree
 
-**Asifah against kovetz.** Four accounts, not all in agreement.
+**Asifah against kovetz.** Five accounts, not all in agreement.
 
 1. **Rabbi Yehuda Leib Edel, with Rashi and Malbim.** *Asifah* gathers
    disparate things to put them where they belong, which is why Succos is *Chag
@@ -80,6 +80,11 @@ gathered are **bound** into one unit. *Kehillah* is an **assembly** of people,
 4. **Rabbi Shlomo Pappenheim.** *Asifah* takes in all the parts at once,
    *kovetz* accumulates them little by little; he derives it from ס-ף, a
    threshold, the group's moving boundary as more are added.
+5. **The Rokeach** (Bereishis p. 60), much as Pappenheim: *kibutz* is gathering
+   little by little from here and there, *asifah* gathering much together.
+   Beside them, *mikveh* is what gathers of itself into one place, *tzvirah*
+   heaping up high, *kenisah* gathering into one place until it is needed, and
+   *agirah* a gathering that needs searching and care.
 
 The first two agree that *asifah* brings in.
 
@@ -95,13 +100,9 @@ The first two agree that *asifah* brings in.
   *eidah* a body joined for a specific cause.
 - Along the same lines, the Vilna Gaon (Mishlei 5:14): *eidah* is a gathering
   of the righteous.
-- The Rokeach (Bereishis p. 60): *mikveh* is said of what gathers of itself into
-  one place; *kibutz* is gathering little by little from here and there;
-  *tzvirah* is heaping up high; *asifah* is gathering much together; *kenisah*
-  is gathering into one place until it is needed; and *agirah* needs searching
-  and care. Rabbi Zev Leff: *asifah* is a physical gathering of many bodies, and
-  an *edah* a gathering united by one idea, all testifying to one thing or
-  aiming at one goal, *ya'ad*, tied to *edus*.
+- Rabbi Zev Leff: *asifah* is a physical gathering of many bodies, and an *edah*
+  a gathering united by one idea, all testifying to one thing or aiming at one
+  goal, *ya'ad*, tied to *edus*.
 
 ## Distinctions
 

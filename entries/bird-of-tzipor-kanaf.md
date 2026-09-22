@@ -13,7 +13,7 @@ words:
   - he: ציפור
     tr: tzipor
     en: bird
-    distinct: the narrower word, its limit disputed; any bird, as against insects (Radak); only a kosher bird (Sifri, Rambam); the small songbird chirping at morning, from tzafra (Ramban); the weaker, non-predatory bird that trusts another to feed it, joining the last two (Rabbi Chanoch Zundel)
+    distinct: the narrower word, its limit disputed; any bird, as against insects (Radak); only a kosher bird (Sifri, Rambam); the small songbird chirping at morning, from tzafra (Ramban), or the reverse, named for its chirping, tziftzuf, with tzafra named for the birds (Rabbi Aharon Marcus); the weaker, non-predatory bird that trusts another to feed it, joining the last two (Rabbi Chanoch Zundel)
   - he: כנף
     tr: kanaf
     en: winged creature
@@ -36,7 +36,9 @@ updated: 2026-09-22
 *Of* is the broad word, **fowl** or anything that flies. *Tzipor* is the
 narrower **bird**, and what narrows it is disputed: every bird as against
 insects (Radak), only a kosher bird (Sifri and Rambam), or the small chirping
-songbird that greets the morning (Ramban). *Kanaf* is literally **winged
+songbird that greets the morning (Ramban). The Ramban names the *tzipor* for
+*tzafra*, the morning; Rabbi Aharon Marcus (*Keses HaSofer*) runs it the other
+way, *tzipor* from its chirping and *tzafra* named for the birds. *Kanaf* is literally **winged
 creature**, the wing itself doing the naming, and it reaches to grasshoppers and
 other winged insects. All three stand in one pasuk, Bereishis 7:14, where Rashi
 reads *kol kanaf* as including what *kol tzipor* had not covered.
@@ -46,8 +48,26 @@ reads *kol kanaf* as including what *kol tzipor* had not covered.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | עוף | of | fowl | anything that flies (Radak); a strong-winged, restless predator (Rabbi Chanoch Zundel) |
-| ציפור | tzipor | bird | narrower: any bird (Radak), a kosher bird (Sifri, Rambam), or a dawn songbird (Ramban) |
+| ציפור | tzipor | bird | narrower: any bird (Radak), a kosher bird (Sifri, Rambam), or a dawn songbird (Ramban); named for its chirping (Keses HaSofer) |
 | כנף | kanaf | winged creature | named for the wing; takes in grasshoppers and other winged insects (Rashi, Radak) |
+
+## Where the authorities disagree
+
+**What narrows tzipor.**
+
+- Radak: any bird, as against insects.
+- The Sifri and Rambam: only a kosher bird.
+- Ramban: the small songbird that chirps at morning.
+- Rabbi Chanoch Zundel of Bialystok joins the last two: the weaker,
+  non-predatory bird that trusts another to feed it.
+
+**Which way the name runs.**
+
+- Ramban (to Vayikra 14:4): *tziporim* are named for *tzafra*, the morning, when
+  they rouse and chirp.
+- Rabbi Aharon Marcus (*Keses HaSofer* to Bereishis 7:14): the reverse. *Tzipor*
+  is named for the *tziftzuf*, chirping, of most kinds, and the morning is
+  called *tzafra* for them.
 
 ## Distinctions
 

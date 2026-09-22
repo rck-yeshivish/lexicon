@@ -9,7 +9,7 @@ words:
   - he: שחיטה
     tr: shechitah
     en: ritual slaughter
-    distinct: the specific halachic act of cutting through the esophagus and trachea (Malbim); for Rabbi Shlomo Pappenheim the general term for any act causing a living being's death, halachic slaughter being one case of it
+    distinct: the specific halachic act of cutting through the esophagus and trachea (Malbim); for Rabbi Shlomo Pappenheim the general term for any act causing a living being's death, halachic slaughter being one case of it; the word said of kodashim, where zevichah is said of chullin (Mahari Assad)
   - he: נחירה
     tr: nechirah
     en: stabbing
@@ -17,7 +17,7 @@ words:
   - he: זביחה
     tr: zevichah
     en: sacrificial slaughter
-    distinct: slaughter with a stated purpose, a korban or meat for a festive gathering (Malbim); a species of shechitah, killing for sacrifice (Rabbi Shlomo Pappenheim); Ralbag to Devarim 12:21 lets it include nechirah, yet to Vayikra 1:1 calls it a synonym of shechitah
+    distinct: slaughter with a stated purpose, a korban or meat for a festive gathering (Malbim); a species of shechitah, killing for sacrifice (Rabbi Shlomo Pappenheim); Ralbag to Devarim 12:21 lets it include nechirah, yet to Vayikra 1:1 calls it a synonym of shechitah, as the Sifrei (Naso 23) counts them one thing; said of chullin, not kodashim (Mahari Assad)
   - he: טביחה
     tr: tevichah
     en: slaughter for food
@@ -44,16 +44,42 @@ death**. *Zevichah* is slaughter **for a purpose**, above all **sacrificial
 slaughter**. *Tevichah* is slaughter **for eating**, killing an animal for food
 in a general way, even outside the frame of ritual slaughter. Rabbi Yonah ibn
 Janach dissents on that last word entirely and reads *tevichah* as **cooking**.
+The first two are disputed as well: Mahari Assad holds *shechitah* is said of
+*kodashim* and *zevichah* of *chullin*, and the *Sifrei* (Naso 23) counts
+*zevichah* and *shechitah* as two expressions for one thing.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| שחיטה | shechitah | ritual slaughter | the halachic neck-cut (Malbim); any putting to death (Pappenheim) |
+| שחיטה | shechitah | ritual slaughter | the halachic neck-cut (Malbim); any putting to death (Pappenheim); of *kodashim* (Mahari Assad) |
 | נחירה | nechirah | stabbing | stabbing in the neck, the Noahide way; from *chor*, a hole (Mussafia) |
-| זביחה | zevichah | sacrificial slaughter | slaughter for a purpose (Malbim); above all for a *korban* (Pappenheim) |
+| זביחה | zevichah | sacrificial slaughter | slaughter for a purpose (Malbim); above all for a *korban* (Pappenheim); of *chullin* (Mahari Assad); one thing with *shechitah* (Sifrei) |
 | טביחה | tevichah | slaughter for food | killing for food, even outside ritual slaughter (Malbim); cooking, for Ibn Janach |
 | טבח | tabach | butcher, executioner | Potiphar's title; over the king's slaughterers (Rashi) or Chief Executioner (Onkelos, Ramban) |
+
+## Where the authorities disagree
+
+**Which word is the sacrificial one.**
+
+- Malbim and Rabbi Shlomo Pappenheim: *zevichah* is slaughter for a purpose,
+  above all for a *korban*. So too the Rokeach (*Sefer HaChochmah*): *zevach* is
+  said of an offering.
+- Mahari Assad (*Kovetz Ohr Yisrael* 39): *shechitah* is said of *kodashim* and
+  *zevichah* of *chullin*. He asks why, then, *Chullin* opens *hakol shochtin*
+  and *Zevachim* *kol hazevachim*.
+
+**Whether zevichah and shechitah differ at all.**
+
+- The *Sifrei* (Naso 23): two expressions the Torah uses for one thing. Ralbag
+  (to Vayikra 1:1) likewise calls *zevichah* a synonym of *shechitah*.
+- Malbim and Rabbi Shlomo Pappenheim set them apart, as above.
+
+**What tevichah is.**
+
+- Malbim and Rabbi Shlomo Pappenheim: killing an animal for food.
+- Ibn Janach: cooking, which Rabbi Shlomo Aharon Wertheimer answers from
+  rabbinic usage.
 
 ## Distinctions
 

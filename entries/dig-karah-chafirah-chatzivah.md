@@ -9,13 +9,13 @@ words:
   - he: כרה
     tr: karah
     en: begin to dig, hollow out
-    distinct: the first, preparatory stage of digging that does not finish the work (Malbim, Rav Hirsch); so even an unfinished pit brings liability (Malbim); a grave plot only marked out (Netziv)
+    distinct: the first, preparatory stage of digging that does not finish the work (Malbim, Rav Hirsch); so even an unfinished pit brings liability (Malbim); a grave plot only marked out (Netziv); a hole meant to be closed, as a grave (Be'er Yitzchak)
   - he: חפר
     nk: חָפַר
   - he: חפירה
     tr: chafirah
     en: dig out, dig through
-    distinct: the completion of the dig (Malbim), down to the spring water, hence searching out what is hidden (Rav Hirsch), with a negative color of hunting discreditable information (Mecklenburg); put before karah at Bamidbar 21:18 for its weight (Rabbi Shaul Bruch)
+    distinct: the completion of the dig (Malbim), down to the spring water, hence searching out what is hidden (Rav Hirsch), with a negative color of hunting discreditable information (Mecklenburg); put before karah at Bamidbar 21:18 for its weight (Rabbi Shaul Bruch); a hole meant to stay open (Be'er Yitzchak)
   - he: חציבה
     tr: chatzivah
     en: hew, quarry
@@ -40,15 +40,37 @@ to the water: **dig out, dig through**; in the abstract, **search out**.
 Kara instead makes it digging a round pit). A verse that uses both verbs of one
 pit (Tehillim 7:16; Bereishis 26:25 against 26:32; Bamidbar 21:18) is not
 repeating itself, and *karah* is the *earlier, lesser* act (Malbim, Mecklenburg,
-Netziv, Rav Hirsch, Rabbi Shaul Bruch).
+Netziv, Rav Hirsch, Rabbi Shaul Bruch). *Be'er Yitzchak* draws the line
+elsewhere: a *chafirah* is a hole meant to stay open, a *kirah* one meant to be
+closed, as the grave of *asher karisi li* (Bereishis 50:5). The Gemara (*Sotah*
+13a) reads that *karisi* as "bought," since in the coastal towns selling is
+called *kirah*.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| כרה | karah | begin to dig, hollow out | the first stage, digging not finished (Malbim, Rav Hirsch); marks out a grave (Netziv) |
-| חפירה | chafirah | dig out, dig through | the dig completed (Malbim); down to water, hence searching out (Rav Hirsch) |
+| כרה | karah | begin to dig, hollow out | the first stage, digging not finished (Malbim, Rav Hirsch); marks out a grave (Netziv); a hole meant to be closed (Be'er Yitzchak) |
+| חפירה | chafirah | dig out, dig through | the dig completed (Malbim); down to water, hence searching out (Rav Hirsch); a hole meant to stay open (Be'er Yitzchak) |
 | חציבה | chatzivah | hew, quarry | hewing rock with a tool (Malbim); a round pit (Rabbi Yosef Kara) |
+
+## Where the authorities disagree
+
+**What separates karah from chafirah.**
+
+- Malbim, Rabbi Yaakov Tzvi Mecklenburg, Netziv, Rav Hirsch and Rabbi Shaul
+  Bruch: *karah* is the earlier, lesser act, *chafirah* the dig carried through.
+- *Be'er Yitzchak* of Rabbi Yitzchak Isaac Chaver (on *Aderes Eliyahu*, Balak):
+  a *chafirah* is a hole not meant to be filled, which stays open; a *kirah* is
+  meant to be closed.
+
+**What karisi means at Bereishis 50:5.**
+
+- Netziv: Yaakov dug, *karah*, the grave only in the sense of marking out the
+  plot.
+- *Be'er Yitzchak*: a grave, a hole to be sealed by the one placed in it.
+- The Gemara (*Sotah* 13a), in the name of Rabbi Shimon ben Yehotzadak: "bought,"
+  since in the coastal towns selling is called *kirah*.
 
 ## Distinctions
 

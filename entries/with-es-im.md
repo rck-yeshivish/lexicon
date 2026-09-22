@@ -9,12 +9,12 @@ words:
   - he: את
     tr: es
     en: with
-    distinct: usually the untranslatable object marker, sometimes to, from, or with; an unequal pair, one active and one passive (the Vilna Gaon, Malbim), or the stronger, deliberate, more equal with (Pappenheim, Rabbi Mecklenburg)
+    distinct: usually the untranslatable object marker, sometimes to, from, or with; an unequal pair, one active and one passive (the Vilna Gaon, Malbim), or the stronger, deliberate, more equal with (Pappenheim, Rabbi Mecklenburg); the same as im, both setting the parties as equals (HaKsav VeHaKabbalah to Devarim 5:4)
   - he: עם
     tr: im
     en: with
     nk: עִם
-    distinct: with in the fullest sense, two equal and cooperative parties (the Vilna Gaon, Malbim), or merely circumstantial, two who happen to be together (Pappenheim, Rabbi Mecklenburg)
+    distinct: with in the fullest sense, two equal and cooperative parties (the Vilna Gaon, Malbim), or merely circumstantial, two who happen to be together (Pappenheim, Rabbi Mecklenburg); the same as es, both setting the parties as equals (HaKsav VeHaKabbalah to Devarim 5:4)
 sources:
   - wiaw:8323 "Are You Really \"With Me\"?" (2019-07-13) https://articles.ohr.edu/articles/are-you-really-with-me
   - ms:264-are-you-really-with-me.md "Are You Really “With Me”?"
@@ -35,14 +35,27 @@ other passive. Rabbi Shlomo Pappenheim and Rabbi Yaakov Tzvi Mecklenburg take
 the opposite approach: *im* is circumstantial, they merely happened to be
 together, while *es* is the stronger, more deliberate and more equal "with." The
 two schools read the same pesukim in opposite ways (Lot's *itto* and *imo*),
-though on Bilam Rabbi Mecklenburg's reading mirrors the Gra's.
+though on Bilam Rabbi Mecklenburg's reading mirrors the Gra's. At Devarim 5:4,
+HaKsav VeHaKabbalah says *es* and *im* mean the same, both setting the two
+parties as equals.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| את | es | with | unequal pair (Vilna Gaon, Malbim); deliberate, equal with (Pappenheim, Mecklenburg) |
-| עם | im | with | full partnership (Vilna Gaon, Malbim); mere circumstance (Pappenheim, Mecklenburg) |
+| את | es | with | unequal pair (Vilna Gaon, Malbim); deliberate, equal with (Pappenheim, Mecklenburg); the same as *im* (HaKsav VeHaKabbalah to Devarim 5:4) |
+| עם | im | with | full partnership (Vilna Gaon, Malbim); mere circumstance (Pappenheim, Mecklenburg); the same as *es* (HaKsav VeHaKabbalah to Devarim 5:4) |
+
+## Where the authorities disagree
+
+**Which is the fuller "with," or whether they differ at all.**
+
+- The Vilna Gaon and Malbim: *im* is "with" in the full sense, two equal and
+  cooperative parties; *es* sets one party active and the other passive.
+- Rabbi Shlomo Pappenheim and Rabbi Yaakov Tzvi Mecklenburg: the opposite. *Es*
+  is the deliberate, equal "with," and *im* is circumstantial.
+- HaKsav VeHaKabbalah, Rabbi Mecklenburg's own commentary, to Devarim 5:4: *es*
+  and *im* mean the same insofar as both set the two parties as equals.
 
 ## Distinctions
 
