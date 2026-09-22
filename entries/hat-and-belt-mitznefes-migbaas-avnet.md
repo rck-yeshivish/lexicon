@@ -32,9 +32,10 @@ words:
     distinct: specifically the belt at the waist, generally drawn tight (Malbim); hence girding it is a figure for a feat of strength, and in Tanach only mighty men wear it
 sources:
   - wiaw:7195 "Hats and Belts" (2017-03-25) https://articles.ohr.edu/articles/hats-and-belts
-authorities: [Meiri, Vilna Gaon, Abarbanel, Rambam, Rashi, Ramban, Tosafos HaRosh, Malbim, Josephus]
+  - ms:147-hats-and-belts.md "Hats and Belts"
+authorities: [Meiri, Vilna Gaon, Abarbanel, Rambam, Rashi, Ramban, Tosafos HaRosh, Malbim, Josephus, Rabbi Avigdor Miller]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Hat and belt: migbaas / mitznefes / kova; avnet / chagor / eizor
 
@@ -77,6 +78,11 @@ Root ג-ב-ע.
 - Abarbanel connects the word to *givah*, a hill, because the hat carried two
   hill-like humps on top and tied under the chin.
 - Rambam has the ordinary *kohen*'s hat actually covering the head.
+- Rabbi Avigdor Miller: a hat means dignity. *Migbaas* is from *givah*, a hill,
+  since it raises the head and makes a hill on top of it, and *pa'arei
+  hamigbaos* speaks of the hat's beauty; *kova* is the same as *govah*, *givah*.
+  So a hat makes a man taller, and wearing one shows dignity when speaking to
+  Hashem.
 
 ### mitznefes (מצנפת)
 Root צ-נ-ף.
@@ -150,4 +156,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Hats and Belts](https://articles.ohr.edu/articles/hats-and-belts)," *What's in a Word?*, Ohr Somayach, 25 March 2017.
 
-Cited in the essay: Mishnah Yoma 7:5; Yoma 71b with *Tosafos HaRosh*; Shemos 28:4, 28:40; Shmuel I 17:5, Yeshayahu 59:17, Yirmiyahu 46:4, Yechezkel 27:10 and 38:5, Divrei HaYamim II 26:14 for *kova*; the Meiri, the Vilna Gaon, Abarbanel, Rambam, Rashi, Ramban and Malbim, *Sefer HaCarmel*; Josephus on the shape of the priestly cap.
+Rabbi Reuven Chaim Klein, "Hats and Belts," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Mishnah Yoma 7:5; Yoma 71b with *Tosafos HaRosh*; Shemos 28:4, 28:40; Shmuel I 17:5, Yeshayahu 59:17, Yirmiyahu 46:4, Yechezkel 27:10 and 38:5, Divrei HaYamim II 26:14 for *kova*; the Meiri, the Vilna Gaon, Abarbanel, Rambam, Rashi, Ramban and Malbim, *Sefer HaCarmel*; Josephus on the shape of the priestly cap; Rabbi Avigdor Miller.

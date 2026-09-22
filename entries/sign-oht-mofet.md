@@ -22,9 +22,10 @@ words:
 sources:
   - wiaw:8085 "The Sign is Coming" (2019-01-12) https://articles.ohr.edu/articles/the-sign-is-coming
   - wiaw:9039 "Bo: Come To Pharaoh" (2021-01-23) https://articles.ohr.edu/articles/bo-come-to-pharaoh
-authorities: [Ramban, Sifrei, Midrash Lekach Tov, Rabbi Shlomo Aharon Wertheimer, Radak, Sforno, Abarbanel, Rabbi Shmuel Ibn Tibbon, Malbim, Rabbi Avraham Menachem HaKohen Rappaport, Rabbi Shlomo Pappenheim]
+  - ms:108-the-sign-is-coming.md "The Sign is Coming…"
+authorities: [Ramban, Sifrei, Midrash Lekach Tov, Rabbi Shlomo Aharon Wertheimer, Radak, Sforno, Abarbanel, Rabbi Shmuel Ibn Tibbon, Malbim, Rabbi Avraham Menachem HaKohen Rappaport, Rabbi Shlomo Pappenheim, Rabbi Elimelech of Lizhensk]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Sign: oht / mofet
 
@@ -142,6 +143,11 @@ manifest itself.
   also distinguishes between them. Words from this root relate to bordering
   and connecting, and so an *oht* forms a connection between the sign and the
   signified.
+- Rabbi Shlomo Pappenheim (*Yerios Shlomo* p. 394): the root of *os* is the tav
+  alone.
+- *Noam Elimelech* (to Shemos 10:1): *os* is the supernatural punishments and
+  calamities that come upon the wicked (see Yirmiyahu 10:2), and *pele* the good
+  Hashem provides for Yisrael.
 
 ### mofet (מופת)
 - Ramban: from *pele*, a wonder.
@@ -151,6 +157,7 @@ manifest itself.
   a relative of *mofia*, "presents itself," since a sign is how one presents an
   idea to others; his alternative is that *mofet* means the presentation of a
   new, hitherto unseen phenomenon.
+- *Sifrei* (Naso 23) counts *os* and *mofes* as two terms for one thing.
 
 ## Rendering guidance
 
@@ -178,4 +185,6 @@ Rabbi Reuven Chaim Klein, "[The Sign is Coming](https://articles.ohr.edu/article
 
 Rabbi Reuven Chaim Klein, "[Bo: Come To Pharaoh](https://articles.ohr.edu/articles/bo-come-to-pharaoh)," *What's in a Word?*, Ohr Somayach, 23 January 2021.
 
-Cited in the essay: Bereishis 1:14; Shemos 7:9 with Sforno, 10:1-2, 11:9-10, 12:13, 13:9, 13:16; Bamidbar 2:2; Devarim 13:2 with Ramban, 33:2; the *Sifrei* to Bamidbar 6:3; *Midrash Lekach Tov* (*Pesikta Zutrasa*); *Devarim Rabbah* §7:9; Radak, *Sefer HaShorashim*; Malbim, *Yair Ohr* (מערכת א' אות יב), and *Sefer HaCarmel* s.v. אות\מופת and מופת; Abarbanel; Rabbi Shmuel Ibn Tibbon; Rabbi Avraham Menachem HaKohen Rappaport, *Minchah Belulah*; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. אות\מופת; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. עד.
+Rabbi Reuven Chaim Klein, "The Sign is Coming…," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 1:14; Shemos 7:9 with Sforno, 10:1-2, 11:9-10, 12:13, 13:9, 13:16; Bamidbar 2:2; Devarim 13:2 with Ramban, 33:2; the *Sifrei* to Bamidbar 6:3; *Midrash Lekach Tov* (*Pesikta Zutrasa*); *Devarim Rabbah* §7:9; Radak, *Sefer HaShorashim*; Malbim, *Yair Ohr* (מערכת א' אות יב), and *Sefer HaCarmel* s.v. אות\מופת and מופת; Abarbanel; Rabbi Shmuel Ibn Tibbon; Rabbi Avraham Menachem HaKohen Rappaport, *Minchah Belulah*; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. אות\מופת; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. עד; Pappenheim, *Yerios Shlomo* p. 394; *Noam Elimelech* to Shemos 10:1; Yirmiyahu 10:2; *Sifrei*, Naso 23.

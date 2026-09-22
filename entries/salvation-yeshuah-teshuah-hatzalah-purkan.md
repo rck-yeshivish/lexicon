@@ -26,9 +26,10 @@ words:
     nk: שַׁוְעָה
 sources:
   - wiaw:9464 "Seeking Salvation" (2021-11-27) https://articles.ohr.edu/articles/seeking-salvation
+  - ms:084-seeking-salvation.md "Seeking Salvation"
 authorities: [Rabbi Yitzchak Eliyahu Landau of Dubno, Rav Hirsch, Rabbi Shlomo Pappenheim, Sefer HeAruch, Rashi, Tosafos, Peirush HaRokeach, Malbim, Rabbi Yechiel Michel Heilpern, Rabbi Chanoch Zundel of Bialystok, Radak, Ibn Janach]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Salvation: yeshuah / teshuah / hatzalah / purkan
 
@@ -112,6 +113,8 @@ both *yeshuah* and *pidyon* with words of *purkan*.
 - Radak connects the "saving" and "removing" senses of נ-צ-ל.
 - Ibn Janach fails to see a thematic connection between them and takes them for
   two different meanings carried by one root.
+- Rashi (to Bereishis 31:16): *hitzil* means separating, and every *hatzalah* in
+  Mikra means separating a person from harm and from the enemy.
 
 ### purkan (פורקן)
 The Targum's standard Aramaic for *pidyon*: redemption, Hashem buying us back
@@ -152,4 +155,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Seeking Salvation](https://articles.ohr.edu/articles/seeking-salvation)," *What's in a Word?*, Ohr Somayach, 27 November 2021.
 
-Cited in the essay: *Al HaNissim*; Shemos 2:17, and 3:22 and 14:13 with Rav Hirsch; Devarim 22:27, and 32:2 with Rav Hirsch; Yirmiyahu 15:20 with Malbim, *Yair Ohr* (מערכת י אות טו); Eichah 5:8; Tehillim 136:24; Bava Kamma 80a with Rashi, Tosafos and *Sefer HeAruch*; *Shemos Rabbah* 1:32; Radak and Ibn Janach on נ-צ-ל; Rabbi Shlomo Pappenheim; *Peirush HaRokeach*; Rabbi Yechiel Michel Heilpern; Rabbi Chanoch Zundel of Bialystok; Rabbi Yitzchak Eliyahu Landau of Dubno.
+Rabbi Reuven Chaim Klein, "Seeking Salvation," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: *Al HaNissim*; Shemos 2:17, and 3:22 and 14:13 with Rav Hirsch; Devarim 22:27, and 32:2 with Rav Hirsch; Yirmiyahu 15:20 with Malbim, *Yair Ohr* (מערכת י אות טו); Eichah 5:8; Tehillim 136:24; Bava Kamma 80a with Rashi, Tosafos and *Sefer HeAruch*; *Shemos Rabbah* 1:32; Radak and Ibn Janach on נ-צ-ל; Rabbi Shlomo Pappenheim; *Peirush HaRokeach*; Rabbi Yechiel Michel Heilpern; Rabbi Chanoch Zundel of Bialystok; Rabbi Yitzchak Eliyahu Landau of Dubno; Rashi to Bereishis 31:16.

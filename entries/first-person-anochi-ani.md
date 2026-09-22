@@ -16,9 +16,10 @@ words:
     distinct: the emphatic, weightier and rarer form, one stressing himself (Maharal); the news is in the subject, I and no other (Malbim, Pappenheim), or rather nearness to the one addressed (Rav Hirsch); kabbalistic weight (Rabbeinu Bachya); the body, from anach, a plumb line (Edel)
 sources:
   - wiaw:7144 "Myself and I" (2017-02-18) https://articles.ohr.edu/articles/myself-and-i
-authorities: [Maharal, Rabbi Shlomo Pappenheim, Malbim, Rav Hirsch, Rabbeinu Bachya, Ibn Ezra, Rabbi Yehuda Leib Edel, Rabbi Yaakov Tzvi Mecklenburg]
+  - ms:126-myself-and-i.md "Myself and I"
+authorities: [Maharal, Rabbi Shlomo Pappenheim, Malbim, Rav Hirsch, Rabbeinu Bachya, Ibn Ezra, Rabbi Yehuda Leib Edel, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # First person: anochi / ani
 
@@ -82,6 +83,9 @@ straightedge, as the body anchors the soul in this world and holds it inside
 physical bounds. So for Rabbi Edel the two words name two elements of a
 person's existence, *ani* speaking for the soul and *anochi* for the body.
 
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Shemos 20:2) relates *anochi* to
+Sanskrit.
+
 ## Rendering guidance
 
 - Default: *ani* is "I," *anochi* is "I myself" or "It is I who." Reserve the
@@ -106,4 +110,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Myself and I](https://articles.ohr.edu/articles/myself-and-i)," *What's in a Word?*, Ohr Somayach, 18 February 2017.
 
-Cited in the essay: Shemos 20:2; Amos 7:7-8; Maharal; Rabbi Shlomo Pappenheim; Malbim; Rav Hirsch; Rabbeinu Bachya; Ibn Ezra; Rabbi Yehuda Leib Edel, *Redifei Maya* (שורש אנך); Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; the Midrashic tradition on Egyptian *anoch*.
+Rabbi Reuven Chaim Klein, "Myself and I," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 20:2; Amos 7:7-8; Maharal; Rabbi Shlomo Pappenheim; Malbim; Rav Hirsch; Rabbeinu Bachya; Ibn Ezra; Rabbi Yehuda Leib Edel, *Redifei Maya* (שורש אנך); Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; the Midrashic tradition on Egyptian *anoch*; Benamozegh, *Eim LaMikra* to Shemos 20:2.

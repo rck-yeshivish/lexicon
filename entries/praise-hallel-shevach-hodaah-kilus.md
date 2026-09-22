@@ -47,9 +47,10 @@ words:
 sources:
   - wiaw:6934 "Ten Expressions of Praise" (2016-09-17) https://articles.ohr.edu/articles/ten-expressions-of-praise
   - wiaw:7644 "The Beauty of Adar" (2018-02-17) https://articles.ohr.edu/articles/the-beauty-of-adar
-authorities: [Arizal, Maharal of Prague, Abudraham, Rabbi Shlomo Aharon Wertheimer, Rabbi Shimshon Pincus, Rabbi Chaim Volozhiner, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Franz Boas]
+  - ms:327-ten-expressions-of-praise.md "Ten Expressions of Praise"
+authorities: [Arizal, Maharal of Prague, Abudraham, Rabbi Shlomo Aharon Wertheimer, Rabbi Shimshon Pincus, Rabbi Chaim Volozhiner, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Franz Boas, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Praise: hallel / shevach / hoda'ah / kilus (the ten expressions)
 
@@ -133,6 +134,9 @@ so he keeps practicing); it may be a verbal insult meant as its opposite
 praise exaggerated in order to denigrate, magnifying a man's honor so that some
 disgraceful act of his stands out the more.
 
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 38:17) takes *kales* in the
+sense of denigrating, and compares *iconoclast*.
+
 ## Rendering guidance
 
 - The list as a unit: "to thank, to praise, to laud, to glorify, to extol, to
@@ -168,4 +172,6 @@ Rabbi Reuven Chaim Klein, "[Ten Expressions of Praise](https://articles.ohr.edu/
 
 Rabbi Reuven Chaim Klein, "[The Beauty of Adar](https://articles.ohr.edu/articles/the-beauty-of-adar)," *What's in a Word?*, Ohr Somayach, 17 February 2018.
 
-Cited in the essay: the close of Pesukei DeZimrah on Shabbos and Yom Tov, the Haggadah, and the concluding berachah of Hallel; the Arizal (Nusach Sefard); the Maharal of Prague (Nusach Ashkenaz); Abudraham; Rabbi Chaim Volozhiner, *Nefesh HaChaim* Shaar 2; Rabbi Shimshon Pincus; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. שבח\הדאה\קלס\הלל; Rabbi Shlomo Pappenheim, *Yerios Shlomo* (ח"ב חוברת ד' יריעה ג'); Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Vayikra 19:32; Franz Boas.
+Rabbi Reuven Chaim Klein, "Ten Expressions of Praise," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: the close of Pesukei DeZimrah on Shabbos and Yom Tov, the Haggadah, and the concluding berachah of Hallel; the Arizal (Nusach Sefard); the Maharal of Prague (Nusach Ashkenaz); Abudraham; Rabbi Chaim Volozhiner, *Nefesh HaChaim* Shaar 2; Rabbi Shimshon Pincus; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. שבח\הדאה\קלס\הלל; Rabbi Shlomo Pappenheim, *Yerios Shlomo* (ח"ב חוברת ד' יריעה ג'); Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Vayikra 19:32; Franz Boas; Benamozegh, *Eim LaMikra* to Bereishis 38:17.

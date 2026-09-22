@@ -16,9 +16,10 @@ words:
     distinct: a mistake in heart or intellect (Rabbi Eliyahu HaBachur), and in Rabbinic literature always a mistake; the same word, the spelling Rabbinic sources prefer (Radak); in Aramaic the one word carries both senses (Rabbi Yaakov Zev Lev); lost yet sure the wrong path is the right one (Wertheimer)
 sources:
   - wiaw:7804 "Lost or Mistaken" (2018-06-16) https://articles.ohr.edu/articles/lost-or-mistaken
-authorities: [Rabbi Eliyahu HaBachur, Radak, Rabbi Yosef Kimchi, Kli Yakar, Rabbi Avraham Aharon Broide, Rabbi Yaakov Zev Lev, Rabbi Shlomo Aharon Wertheimer, Targum Onkelos]
+  - ms:058-lost-or-mistaken.md "Lost or Mistaken"
+authorities: [Rabbi Eliyahu HaBachur, Radak, Rabbi Yosef Kimchi, Kli Yakar, Rabbi Avraham Aharon Broide, Rabbi Yaakov Zev Lev, Rabbi Shlomo Aharon Wertheimer, Targum Onkelos, Rabbi Yehoshua Alt]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Straying and error: taah with a tav (תעה) / taah with a tes (טעה)
 
@@ -83,6 +84,8 @@ mistake.
   acknowledged this in his *Meturgeman*, where he correctly asserts that
   wherever cognates of the tav word appear in Tanach, the Targumim replace the
   tav with a tes.
+- Rabbi Yehoshua Alt suggests *to'eh*, mistaken, and *neta*, sapling, are one
+  root, because a man's mistake can make him greater.
 
 ### How the wanderer is lost (Rabbi Wertheimer)
 Rabbi Shlomo Aharon Wertheimer (1866 to 1935) also disagrees with Rabbi
@@ -132,4 +135,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Lost or Mistaken](https://articles.ohr.edu/articles/lost-or-mistaken)," *What's in a Word?*, Ohr Somayach, 16 June 2018.
 
-Cited in the essay: Bereishis 21:14 with Targum Onkelos; Bamidbar 5:12 with *Kli Yakar*; Yechezkel 13:10; Hoshea 4:12; Tehillim 95:10; the *Uva LeTzion* prayer; Pirkei DeRabbi Eliezer ch. 30 with Rabbi Avraham Aharon Broide, *Bayis HaGadol*; Rabbi Eliyahu HaBachur, glosses to Radak's *Sefer HaShorashim*, and *Meturgeman*; Radak, *Sefer HaShorashim* s.v. תף; Rabbi Yosef Kimchi, *Sefer Zikaron*; Rabbi Yaakov Zev Lev, *Me'at Tzari*; Rabbi Shlomo Aharon Wertheimer, *Bi'urei Shemos HaNirdafim* (first edition, second volume); Rambam, Hilchos Avodah Zarah ch. 1; the Targumim.
+Rabbi Reuven Chaim Klein, "Lost or Mistaken," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 21:14 with Targum Onkelos; Bamidbar 5:12 with *Kli Yakar*; Yechezkel 13:10; Hoshea 4:12; Tehillim 95:10; the *Uva LeTzion* prayer; Pirkei DeRabbi Eliezer ch. 30 with Rabbi Avraham Aharon Broide, *Bayis HaGadol*; Rabbi Eliyahu HaBachur, glosses to Radak's *Sefer HaShorashim*, and *Meturgeman*; Radak, *Sefer HaShorashim* s.v. תף; Rabbi Yosef Kimchi, *Sefer Zikaron*; Rabbi Yaakov Zev Lev, *Me'at Tzari*; Rabbi Shlomo Aharon Wertheimer, *Bi'urei Shemos HaNirdafim* (first edition, second volume); Rambam, Hilchos Avodah Zarah ch. 1; the Targumim; Rabbi Yehoshua Alt.

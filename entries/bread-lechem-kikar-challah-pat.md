@@ -37,9 +37,10 @@ sources:
   - wiaw:11363 "Pesach: Eating Cake" (2024-04-27) https://articles.ohr.edu/articles/pesach-eating-cake
   - wiaw:11889 "Chukas: Words for War" (2025-07-05) https://articles.ohr.edu/articles/chukas-words-for-war
   - wiaw:11276 "Titzaveh: Wet Words" (2024-02-24) https://articles.ohr.edu/articles/titzaveh-wet-words
-authorities: [Radak, Rabbi Nosson of Rome, Targum Onkelos, Rabbi Dr. Guy Matalon, Jastrow, Ibn Ezra, Netziv, Rabbi Shlomo Pappenheim]
+  - ms:256-let-them-eat-bread.md "Let Them Eat Bread"
+authorities: [Radak, Rabbi Nosson of Rome, Targum Onkelos, Rabbi Dr. Guy Matalon, Jastrow, Ibn Ezra, Netziv, Rabbi Shlomo Pappenheim, Rabbi Elimelech of Lizhensk, Shadal]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Bread: lechem / kikar / challah / pat (rifta, nahamah)
 
@@ -91,6 +92,10 @@ Root ל-ח-ם.
 
 At Bamidbar 21:5 the Manna is called *lechem haklokel*, the insubstantial bread.
 
+*Noam Elimelech* (Vayeitzei): *lechem* has the letters of *chalom*, a dream,
+because at best a tzaddik sees his bodily sustenance as something abstract and
+distant, like a dream, and not as part of who he is.
+
 ### kikar (ככר)
 The word seems literally to mean a circle. In Tanach it most commonly means a
 talent of gold or silver, and secondarily a valley ringed by mountains; loaves
@@ -116,6 +121,14 @@ fourteen occurrences in Tanach, eleven are the phrase *pas lechem*, a piece of
 bread. In practice *pas* simply became another synonym for bread, which is how
 Mishnah and Gemara commonly use it; Targum even renders *kikar* as *pas*
 sometimes (Onkelos to Shemos 29:23).
+
+Shadal (to Bereishis 18:5): *pas* is related to *pasos*, broken into pieces.
+
+Rabbi Shlomo Pappenheim (*Cheshek Shlomo* s.v. פת): *pas* is a piece separated
+from a whole, *pas lechem* (Bereishis 18:5) a piece of a whole loaf, with the
+plurals *pitim* (Tehillim 147:17) and *pesos* (Yechezkel 13:19). Since a loaf is
+cut into pieces and not eaten whole, *pas* alone came to mean a piece of bread
+in particular (Rus 2:14; Iyov 31:17; Mishlei 17:1; Daniel 1:5).
 
 ### rifta (ריפתא) and nahamah (נהמא)
 Both Aramaic words for bread in the Gemara; *nahamah* also runs through the
@@ -165,4 +178,6 @@ Rabbi Reuven Chaim Klein, "[Chukas: Words for War](https://articles.ohr.edu/arti
 
 Rabbi Reuven Chaim Klein, "[Titzaveh: Wet Words](https://articles.ohr.edu/articles/titzaveh-wet-words)," *What's in a Word?*, Ohr Somayach, 24 February 2024.
 
-Cited in the essay: Bamidbar 21:5 (*lechem haklokel*) and 15:20; Shemos 29:23 with Targum Onkelos; Shoftim 8:5; Shmuel I 10:3 and 2:36 with Radak; Yirmiyahu 37:21; Mishlei 6:26 and 27:22; Divrei HaYamim I 16:3; Vayikra 2:6; Shmuel II 17:19; *maseches Challah*; Rabbi Nosson of Rome, *Sefer HeAruch*, s.v. *rifta*; Jastrow on *challah*; Rabbi Dr. Guy Matalon; Ibn Ezra to Vayikra 2:4; the Netziv, *Haamek Davar* to Bamidbar 28:2; Rabbi Shlomo Pappenheim, *Yerios Shlomo* (חוברת י"א יריעה לז, חוברת ז' יריעה יב).
+Rabbi Reuven Chaim Klein, "Let Them Eat Bread," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bamidbar 21:5 (*lechem haklokel*) and 15:20; Shemos 29:23 with Targum Onkelos; Shoftim 8:5; Shmuel I 10:3 and 2:36 with Radak; Yirmiyahu 37:21; Mishlei 6:26 and 27:22; Divrei HaYamim I 16:3; Vayikra 2:6; Shmuel II 17:19; *maseches Challah*; Rabbi Nosson of Rome, *Sefer HeAruch*, s.v. *rifta*; Jastrow on *challah*; Rabbi Dr. Guy Matalon; Ibn Ezra to Vayikra 2:4; the Netziv, *Haamek Davar* to Bamidbar 28:2; Rabbi Shlomo Pappenheim, *Yerios Shlomo* (חוברת י"א יריעה לז, חוברת ז' יריעה יב); *Noam Elimelech*, Vayeitzei; Shadal to Bereishis 18:5; Pappenheim, *Cheshek Shlomo* s.v. פת; Bereishis 18:5; Tehillim 147:17; Yechezkel 13:19; Rus 2:14; Iyov 31:17; Mishlei 17:1; Daniel 1:5.

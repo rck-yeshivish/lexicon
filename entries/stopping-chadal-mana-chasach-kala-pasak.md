@@ -30,9 +30,10 @@ words:
 sources:
   - wiaw:9513 "Stop It!" (2022-01-01) https://articles.ohr.edu/articles/stop-it
   - wiaw:9359 "Seasoning the Land (Part 2) - Nitzavim / Rosh Hashanah:" (2021-09-04) https://articles.ohr.edu/articles/seasoning-the-land-part-2-nitzavim-rosh-hashanah
+  - ms:103-stop-it.md "Stop It!"
 authorities: [Rabbi Yosef Grayever, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Malbim, Targum Onkelos, Rashi, Rabbi Yaakov Toledano, Rabbi Rafael Binyamin Posen, Rav Hirsch]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Stopping: chadal / mana / chasach / kala / pasak
 
@@ -152,6 +153,15 @@ and so they do (9:33), and Pharaoh sees they have ceased and hardens his heart
   two-letter root that follows: ח-ק engrave against מחק erase, ל-ץ scorn against
   מליץ defend, ר-ד rule against מרד rebel, so *mana* is the opposite of motion.
 - Wertheimer cites Shmuel II 13:13 for its willful force.
+- Rabbi Shlomo Pappenheim (*Cheshek Shlomo* s.v. נע): *chasach* and *mana* are
+  both withholding from joining, transitive and taking a mem. *Chasach* is
+  mostly for the good, holding back from what is unnatural or unfit (*va'echsoch
+  gam anochi oscha mechato li*, Bereishis 20:6; Tehillim 19:14; Mishlei 10:19),
+  and *mana* mostly for the bad. The apparent exceptions (Yirmiyahu 2:25, 31:15;
+  Mishlei 13:24, 21:26) turn out on close reading to fit: weeping, once
+  habitual, is held back as by *mana*, and to the father striking his child is
+  unnatural, so *chasach*. In *Yerios Shlomo* he takes *chasach* as a compound
+  of *chasi*, covering, and *sach*, screening.
 
 ### kala (כלא)
 Twice in the form *vayikaleh*: the rains ceased from the heavens at the Mabul's
@@ -187,4 +197,6 @@ Rabbi Reuven Chaim Klein, "[Stop It!](https://articles.ohr.edu/articles/stop-it)
 
 Rabbi Reuven Chaim Klein, "[Seasoning the Land (Part 2)](https://articles.ohr.edu/articles/seasoning-the-land-part-2-nitzavim-rosh-hashanah)," *What's in a Word?*, Ohr Somayach, 4 September 2021.
 
-Cited in the essay: Bereishis 8:2, 11:8, 18:11, 20:6, 22:12, 22:16, 30:2, 39:9, 41:49; Shemos 9:29, 9:33, 9:34, 23:5, 36:6; Bamidbar 9:13, 24:11; Devarim 15:11; Shmuel II 13:13; Tehillim 40:12; Mishlei 1:15; Rav Hirsch to Bereishis 11:8 and Tehillim 17:14; Rabbi Yosef Grayever of Ostrow; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. חדל, מנע, חשך, כלא, מנע and חשך; Rabbi Shlomo Pappenheim; Malbim, *Ayeles HaShachar* 461, to Vayikra 2:13 and 26:6, and *Yair Ohr*; Targum Onkelos and the so-called Targum Yonasan; Rashi to Bereishis 18:11; Rabbi Yaakov Toledano of Meknes; Rabbi Rafael Binyamin Posen.
+Rabbi Reuven Chaim Klein, "Stop It!," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 8:2, 11:8, 18:11, 20:6, 22:12, 22:16, 30:2, 39:9, 41:49; Shemos 9:29, 9:33, 9:34, 23:5, 36:6; Bamidbar 9:13, 24:11; Devarim 15:11; Shmuel II 13:13; Tehillim 40:12; Mishlei 1:15; Rav Hirsch to Bereishis 11:8 and Tehillim 17:14; Rabbi Yosef Grayever of Ostrow; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. חדל, מנע, חשך, כלא, מנע and חשך; Rabbi Shlomo Pappenheim; Malbim, *Ayeles HaShachar* 461, to Vayikra 2:13 and 26:6, and *Yair Ohr*; Targum Onkelos and the so-called Targum Yonasan; Rashi to Bereishis 18:11; Rabbi Yaakov Toledano of Meknes; Rabbi Rafael Binyamin Posen; Pappenheim, *Cheshek Shlomo* s.v. נע, and *Yerios Shlomo*; Bereishis 20:6; Tehillim 19:14; Mishlei 10:19, 13:24, 21:26; Yirmiyahu 2:25, 31:15.

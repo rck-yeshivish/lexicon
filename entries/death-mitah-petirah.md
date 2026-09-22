@@ -17,9 +17,10 @@ words:
     distinct: literally exiting, taking leave; the Rabbinic word for leaving This World for the Next, generally reserved for the righteous and implying continuation, the body left exempt once the soul departs (Rabbi Klein); the tzaddik exempted from suffering (Rabbi Avraham Chaim Schor)
 sources:
   - wiaw:10907 "Acharei Mos: Confronting Death" (2024-05-04) https://articles.ohr.edu/articles/acharei-mos-confronting-death
-authorities: [Rabbi Yehuda Chayyuj, Ibn Janach, Rabbi Shlomo Ibn Parchon, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Moshe Shapiro, Rabbi Avraham Chaim Schor]
+  - ms:193-confronting-death.md "Confronting Death"
+authorities: [Rabbi Yehuda Chayyuj, Ibn Janach, Rabbi Shlomo Ibn Parchon, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Moshe Shapiro, Rabbi Avraham Chaim Schor, Shadal]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Death: mitah / petirah (nifter)
 
@@ -68,6 +69,9 @@ is wholly subservient to Hashem, not an independent death deity.
 soul (halachah pegs death to the exit of the soul, Yevamos 16:3, Ohalos 1:6); it
 names the conclusion of life and says nothing of what follows. Even the wicked
 have a *mitah*.
+
+Shadal (to Bereishis 25:8): *misah* is the general word; *geviah* is the death
+of the body and *asifah* the death of the soul.
 
 ### petirah (פטירה), nifter (נפטר)
 Root פ-ט-ר, "exit": in Tanach the firstborn animal that exits its mother's womb
@@ -123,4 +127,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Acharei Mos: Confronting Death](https://articles.ohr.edu/articles/acharei-mos-confronting-death)," *What's in a Word?*, Ohr Somayach, 4 May 2024.
 
-Cited in the essay: Vayikra 16:1 and 16-20; *Machberes Menachem*, *Yerios Shlomo* and *Cheshek Shlomo*; Even Shoshan's concordance on מ-ת and מ-ו-ת; Peah 8:9; Berachos 17a, 18a-b; Kesubos 68a, 104a-105b; Kiddushin 72b; Sanhedrin 113b; Bava Basra 16b; Temurah 16a; Yevamos 16:3; Ohalos 1:6; Uktzin 3:2.
+Rabbi Reuven Chaim Klein, "Confronting Death," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Vayikra 16:1 and 16-20; *Machberes Menachem*, *Yerios Shlomo* and *Cheshek Shlomo*; Even Shoshan's concordance on מ-ת and מ-ו-ת; Peah 8:9; Berachos 17a, 18a-b; Kesubos 68a, 104a-105b; Kiddushin 72b; Sanhedrin 113b; Bava Basra 16b; Temurah 16a; Yevamos 16:3; Ohalos 1:6; Uktzin 3:2; Shadal to Bereishis 25:8.

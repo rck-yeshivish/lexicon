@@ -20,9 +20,10 @@ words:
     distinct: remembering in order to act, whence count, appoint, punish, deposit (Malbim, Wertheimer); or one fleeting act of remembering (Malbim); can mean to punish, so not mercy (Treves); after a long time (Al-Dhamari); the female element (Kedushas Levi)
 sources:
   - wiaw:9110 "Ki Tisa: Remember Forever" (2021-03-06) https://articles.ohr.edu/articles/ki-tisa-remember-forever
-authorities: [Rabbi Moshe Ibn Ezra, Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo of Urbino, Rabbi Saadia ben David Al-Dhamari, Rashbatz, Rabbi Moshe de Leon, Rabbi Naftali Hertz Treves, Kedushas Levi, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Asher Weiser, Rashi, Kli Yakar]
+  - ms:163-parshas-zachor-remember-forever.md "Parshas Zachor: Remember Forever"
+authorities: [Rabbi Moshe Ibn Ezra, Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo of Urbino, Rabbi Saadia ben David Al-Dhamari, Rashbatz, Rabbi Moshe de Leon, Rabbi Naftali Hertz Treves, Kedushas Levi, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Asher Weiser, Rashi, Kli Yakar, Shadal, Shadal, Shadal]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Remember: zachor / pakad
 
@@ -80,6 +81,15 @@ The noun *zecher* is not always "memory." The Italian scholar Rabbi Shlomo of
 Urbino points out in *Ohel Moed* that *zecher* sometimes refers to the **scent**
 of a thing (Vayikra 6:8, Hoshea 14:8, Tehillim 20:4), in the same sense that a
 memory of something is a whiff of that idea and is not it itself.
+
+Shadal (to Shemos 20:8): *zachor* said of Shabbos does not mean remembering
+something past but keeping something present in mind: to remember each week that
+it is Shabbos and not ignore the day's holiness by forgetting it.
+
+Shadal (to Vayikra 2:2): the original, concrete meaning of *zachor* is smelling.
+Smell fixes a thing in the mind so it can be recalled without being present, and
+in a later, more abstract sense *zachor* came to mean remembering any fact or
+idea after it is no longer before one.
 
 ### pakad (פקד)
 Root פ-ק-ד. Its range in Tanach is so wide that its core meaning is quite
@@ -174,6 +184,9 @@ by which he is remembered in This World: daughters generally marry into other
 families and become part of the husband's household, while sons carry on the
 name of their father's family.
 
+Shadal (to Bereishis 12:2): *zachar* is related to *zachor*, because a man's
+male offspring are his remembrance in this world after he passes away.
+
 ## Rendering guidance
 
 - *Zachor* in the six mitzvos of remembrance: **remember**, plain.
@@ -200,4 +213,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Ki Tisa: Remember Forever](https://articles.ohr.edu/articles/ki-tisa-remember-forever)," *What's in a Word?*, Ohr Somayach, 6 March 2021.
 
-Cited in the essay: Bereishis 8:1, 21:1, 30:22, 41:51; Shemos 3:16, 20:5, 20:8; Vayikra 5:23, 6:8; Bamidbar 1:21, 1:50, 2:32, 16:29, 31:14, 31:49; Devarim 4:9, 9:7, 16:3, 24:9, 25:17, 25:19, 32:18; Shmuel I 15:4; Yeshayahu 38:10; Yirmiyahu 46:21; Hoshea 2:15, 14:8; Tehillim 19:9, 20:4, 109:6, 119:56; Esther 2:3; Ezra 1:2; Rosh Hashanah 32b; Bava Basra 21b; Rashi to Bereishis 8:1 and Nedarim 39b; Kli Yakar to Bamidbar 16:29; Rabbi Moshe Ibn Ezra; Malbim, *Yair Ohr* (אות ז' סימ ו זכר\פקד); Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. זכר\פקד; Rabbi Naftali Hertz Treves, *Sefer HaGur*; Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Dr. Asher Weiser, *Mikra V'Lashon* (עמ' 196); Rabbi Saadia ben David Al-Dhamari; Rashbatz to Avos 5:12; Rabbi Moshe de Leon, *Sefer HaRimmon*; *Yaaleh V'Yavo*; *Kedushas Levi* to Bereishis 21:1; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Bereishis 1:27.
+Rabbi Reuven Chaim Klein, "Parshas Zachor: Remember Forever," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 8:1, 21:1, 30:22, 41:51; Shemos 3:16, 20:5, 20:8; Vayikra 5:23, 6:8; Bamidbar 1:21, 1:50, 2:32, 16:29, 31:14, 31:49; Devarim 4:9, 9:7, 16:3, 24:9, 25:17, 25:19, 32:18; Shmuel I 15:4; Yeshayahu 38:10; Yirmiyahu 46:21; Hoshea 2:15, 14:8; Tehillim 19:9, 20:4, 109:6, 119:56; Esther 2:3; Ezra 1:2; Rosh Hashanah 32b; Bava Basra 21b; Rashi to Bereishis 8:1 and Nedarim 39b; Kli Yakar to Bamidbar 16:29; Rabbi Moshe Ibn Ezra; Malbim, *Yair Ohr* (אות ז' סימ ו זכר\פקד); Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. זכר\פקד; Rabbi Naftali Hertz Treves, *Sefer HaGur*; Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Dr. Asher Weiser, *Mikra V'Lashon* (עמ' 196); Rabbi Saadia ben David Al-Dhamari; Rashbatz to Avos 5:12; Rabbi Moshe de Leon, *Sefer HaRimmon*; *Yaaleh V'Yavo*; *Kedushas Levi* to Bereishis 21:1; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Bereishis 1:27; Shadal to Shemos 20:8; Shadal to Bereishis 12:2; Shadal to Vayikra 2:2.

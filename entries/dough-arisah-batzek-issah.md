@@ -27,9 +27,10 @@ words:
     distinct: the Mishnah's word, absent from Tanach as dough; what must be kneaded and so is squeezed and trampled (Pappenheim, Mecklenburg, Marcus); the same word as arisah without the extra reish (Rabbi Baruch HaLevi Epstein)
 sources:
   - wiaw:8744 "Kneading the Dough" (2020-06-13) https://articles.ohr.edu/articles/kneading-the-dough
-authorities: [Ibn Janach, Radak, Rabbeinu Meyuchas bar Eliyahu, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus, Rabbi Nosson of Rome, Rav Hirsch, Rabbi Yachya ben Shalom Kohen, Rabbi Yitzchak Ratzabi, Rabbi Shlomo Pappenheim, Rabbi Baruch HaLevi Epstein]
+  - ms:247-kneading-the-dough.md "Kneading the Dough"
+authorities: [Ibn Janach, Radak, Rabbeinu Meyuchas bar Eliyahu, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus, Rabbi Nosson of Rome, Rav Hirsch, Rabbi Yachya ben Shalom Kohen, Rabbi Yitzchak Ratzabi, Rabbi Shlomo Pappenheim, Rabbi Baruch HaLevi Epstein, Shadal, Abarbanel]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Dough: arisah / batzek / issah
 
@@ -74,6 +75,9 @@ The word Tanach always uses for dough when the mitzvah of *challah* is in view
   *ayin*, those two letters can sometimes interchange, as seen from the Arabic
   cognate of *arus*, groom, and *arusah*, bride, which is spelled with the
   Arabic equivalent of *ayin*.
+- Shadal (to Shemos 7:28, 12:34), from Abarbanel: *mishares* comes from *se'or*,
+  sourdough, shin and sin interchanging, and relates to *she'ar*, remainder,
+  since it is left over from earlier batches to make the next ferment quickly.
 
 ### batzek (בצק)
 The ordinary word for dough in Tanach, five times (Shemos 12:34, 12:39,
@@ -146,4 +150,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Kneading the Dough](https://articles.ohr.edu/articles/kneading-the-dough)," *What's in a Word?*, Ohr Somayach, 13 June 2020.
 
-Cited in the essay: Bamidbar 15:20-21; Nechemiah 10:38; Yechezkel 44:30; Shemos 12:34 and 12:39; Yirmiyahu 7:18; Hoshea 7:4; Shmuel II 13:8; Devarim 8:4 with Nechemiah 9:21; Mishnah Challah 1:5 and 2:2; Rashi to Berachos 37b; *Sefer HeAruch* on the root ע-ר-ס; Yechezkel 23:3; Malachi 3:21; Yoel 4:18; Yeshayahu 49:26; Shir HaShirim 8:2; Pseudo-Rashi to Divrei HaYamim I 18:5; *Hagahos Rashash* to Rosh Hashanah 26a.
+Rabbi Reuven Chaim Klein, "Kneading the Dough," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bamidbar 15:20-21; Nechemiah 10:38; Yechezkel 44:30; Shemos 12:34 and 12:39; Yirmiyahu 7:18; Hoshea 7:4; Shmuel II 13:8; Devarim 8:4 with Nechemiah 9:21; Mishnah Challah 1:5 and 2:2; Rashi to Berachos 37b; *Sefer HeAruch* on the root ע-ר-ס; Yechezkel 23:3; Malachi 3:21; Yoel 4:18; Yeshayahu 49:26; Shir HaShirim 8:2; Pseudo-Rashi to Divrei HaYamim I 18:5; *Hagahos Rashash* to Rosh Hashanah 26a; Shadal to Shemos 7:28, 12:34; Abarbanel.

@@ -26,9 +26,10 @@ words:
     distinct: the general term for any rock; the stones themselves, as against tzur, the source they are cut from (Rabbi Moshe Teitelbaum)
 sources:
   - wiaw:8000 "Like a Rock (Part 2)" (2018-11-24) https://articles.ohr.edu/articles/like-a-rock-part-2
-authorities: [Rabbi Shlomo Pappenheim, Malbim, Rabbi Yosef Kimchi, Rabbi Chaim Vital, Rabbi Yisrael Menachem Mendel Sacharov, Rabbi Chaim Friedlander, Rambam, Rabbi Moshe Teitelbaum, Radak]
+  - ms:042-like-a-rock.md "Like a Rock"
+authorities: [Rabbi Shlomo Pappenheim, Malbim, Rabbi Yosef Kimchi, Rabbi Chaim Vital, Rabbi Yisrael Menachem Mendel Sacharov, Rabbi Chaim Friedlander, Rambam, Rabbi Moshe Teitelbaum, Radak, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Rock: tzur / chalamish (against sela)
 
@@ -94,6 +95,9 @@ Then the extended senses.
   (*tzorer*) all of creation into one, everything depending on Him to exist; and
   *Berachos* 10a reads Chanah's "there is no *tzur* like our God" (Shmuel I 2:2)
   as *tzayir*, Fashioner.
+- Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bamidbar 31:8): the name of Tzur,
+  one of the Midianite kings killed in the war with Midian, is related to
+  *tzur*, rock.
 
 ### chalamish (חלמיש)
 *Chalamish* is commonly translated "flint," a glassy rock formed from silicate
@@ -157,4 +161,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Like a Rock (Part 2)](https://articles.ohr.edu/articles/like-a-rock-part-2)," *What's in a Word?*, Ohr Somayach, 24 November 2018.
 
-Cited in the essay: Shemos 4:25, 39:11; Devarim 8:15, 32:4, 32:13, 32:18, 32:30; Yehoshua 5:2-3; Shmuel I 2:2 with *Berachos* 10a; Yeshayahu 26:4, 50:7, 51:1-2; Tehillim 114:8; Iyov 28:9; Rambam, *Moreh Nevuchim* 1:16; Rabbi Yosef Kimchi, *Sefer HaGalui*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* (חוברת י"א, יריעה נ'); Malbim, *Sefer HaCarmel* s.v. אבן; Rabbi Chaim Vital; Rabbi Yisrael Menachem Mendel Sacharov; Rabbi Moshe Teitelbaum; Rabbi Chaim Friedlander; Mohs' Scale of Mineral Hardness.
+Rabbi Reuven Chaim Klein, "Like a Rock," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 4:25, 39:11; Devarim 8:15, 32:4, 32:13, 32:18, 32:30; Yehoshua 5:2-3; Shmuel I 2:2 with *Berachos* 10a; Yeshayahu 26:4, 50:7, 51:1-2; Tehillim 114:8; Iyov 28:9; Rambam, *Moreh Nevuchim* 1:16; Rabbi Yosef Kimchi, *Sefer HaGalui*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* (חוברת י"א, יריעה נ'); Malbim, *Sefer HaCarmel* s.v. אבן; Rabbi Chaim Vital; Rabbi Yisrael Menachem Mendel Sacharov; Rabbi Moshe Teitelbaum; Rabbi Chaim Friedlander; Mohs' Scale of Mineral Hardness; Benamozegh, *Eim LaMikra* to Bamidbar 31:8.

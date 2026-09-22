@@ -16,9 +16,10 @@ words:
     distinct: hearing with a measure of intellectual or emotional grasp (Malbim); hearkening in answer to another's call (Rokeach); listening from a distance, which demands concentration (Sifrei), though Chizkuni, Abarbanel and Rabbi Yitzchak Arama reverse it
 sources:
   - wiaw:6850 "Listen Up!" (2016-07-16) https://articles.ohr.edu/articles/listen-up
-authorities: [Sifrei, Baalei HaTosafos, Chizkuni, Abarbanel, Rabbi Yitzchak Arama, Malbim, Rokeach]
+  - ms:304-listen-up.md "Listen up!"
+authorities: [Sifrei, Baalei HaTosafos, Chizkuni, Abarbanel, Rabbi Yitzchak Arama, Malbim, Rokeach, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Hearing: shema / haazinu
 
@@ -62,6 +63,8 @@ sound and passing it on, with nothing said about whether the hearer grasped it.
 - The Sifrei: *shema* is listening from a distance, which demands that a man be
   especially attentive to the sound, concentrate properly, hear what should be
   heard, and focus on its meaning.
+- Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 38:17): *haskes* is
+  related to *shasak*, shin and samech, kaf and kuf interchanging.
 
 ### the reversal in Devarim and Yeshayahu
 Moshe Rabbeinu opens with *haazinu hashamayim* and *v'sishma haaretz* (Devarim
@@ -113,4 +116,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Listen Up!](https://articles.ohr.edu/articles/listen-up)" *What's in a Word?*, Ohr Somayach, 16 July 2016.
 
-Cited in the essay: Devarim 32:1 and 6:4; Yeshayahu 1:2; Bamidbar 12:8; *Sifrei* to parashas Haazinu; some of the Baalei HaTosafos; Chizkuni, Abarbanel and Rabbi Yitzchak Arama; Malbim; Rokeach.
+Rabbi Reuven Chaim Klein, "Listen up!," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Devarim 32:1 and 6:4; Yeshayahu 1:2; Bamidbar 12:8; *Sifrei* to parashas Haazinu; some of the Baalei HaTosafos; Chizkuni, Abarbanel and Rabbi Yitzchak Arama; Malbim; Rokeach; Benamozegh, *Eim LaMikra* to Bereishis 38:17.

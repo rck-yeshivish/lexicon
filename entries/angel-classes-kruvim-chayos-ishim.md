@@ -58,9 +58,10 @@ words:
 sources:
   - wiaw:8129 "Cherubic Children and Other Angels" (2019-02-09) https://articles.ohr.edu/articles/cherubic-children-and-other-angels
   - wiaw:8444 "Bereishet - Be a Man" (2019-10-26) https://articles.ohr.edu/articles/bereishet-be-a-man
-authorities: [Rambam, the anonymous commentator to Rambam, the school of Rabbi Elazar Rokeach of Worms, Orchos Chaim, Kolbo, Masechta Atzilus, Rabbi Moshe ibn Chaviv, Rabbi Dovid Luria, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Mordechai Shlomo Movshovitz, Rashi]
+  - ms:143-cherubic-children-and-other-angels.md "Cherubic Children and Other Angels"
+authorities: [Rambam, the anonymous commentator to Rambam, the school of Rabbi Elazar Rokeach of Worms, Orchos Chaim, Kolbo, Masechta Atzilus, Rabbi Moshe ibn Chaviv, Rabbi Dovid Luria, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Mordechai Shlomo Movshovitz, Rashi, Ramban, Shadal, Shadal, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Angel classes: kruvim / chayos / ofanim / erelim / ishim
 
@@ -174,6 +175,12 @@ girl is subject to dispute; other sources say they were in the shape of birds, o
 some sort of child-bird hybrid. The word also names the destructive angels said
 to guard the path to the Eitz HaChaim (Rashi to Bereishis 3:24).
 
+Shadal (to Shemos 25:18): *keruv* comes from *rechev*, since the keruv is
+described as what Hashem rides (Tehillim 18:11; Divrei HaYamim I 28:18).
+
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 3:24) discusses whether
+*keruv* means a child, a calf, a bird, or a *rechev*, a vehicle for riding.
+
 ### ishim (אישים)
 The lowest rank in Rambam's list, the angels who speak with human nevi'im.
 
@@ -197,6 +204,10 @@ Not on Rambam's list.
   particular dreams.
 - Rabbi Yaakov Tzvi Mecklenburg derives *irin* instead from *eir* (awake), since
   they are always awake and watching what people do.
+- Ramban (to Vayikra 18:25): angels are called *irin* because they rouse,
+  *mis'orerin*, the heavenly forces.
+- Shadal (to Bereishis 1:1): the Aramaic *ir*, angel, comes from the Hebrew
+  *tzir*, messenger, Hebrew tzadi becoming Aramaic ayin.
 
 ## Rendering guidance
 
@@ -230,4 +241,6 @@ Rabbi Reuven Chaim Klein, "[Cherubic Children and Other Angels](https://articles
 
 Rabbi Reuven Chaim Klein, "[Bereishet - Be a Man](https://articles.ohr.edu/articles/bereishet-be-a-man)," *What's in a Word?*, Ohr Somayach, 26 October 2019.
 
-Cited in the essay: Rambam, *Hilchos Yesodei HaTorah* 2:7; *Orchos Chaim*, *Seder Tefillas Shabbos Shacharis* §2; *Kolbo* §37; *Masechta Atzilus*; *Pirkei d'Rabbi Eliezer* ch. 4 with the glosses of Rabbi Dovid Luria; Yeshayahu 33:7; Yechezkel 9:11; Yechezkel 43:15; Tehillim 78:25; Kesubos 104a; Chagigah 13b; Sukkah 5b; Bereishis 3:24 with Rashi; Bereishis 18; Targum to Bereishis 21:17.
+Rabbi Reuven Chaim Klein, "Cherubic Children and Other Angels," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Rambam, *Hilchos Yesodei HaTorah* 2:7; *Orchos Chaim*, *Seder Tefillas Shabbos Shacharis* §2; *Kolbo* §37; *Masechta Atzilus*; *Pirkei d'Rabbi Eliezer* ch. 4 with the glosses of Rabbi Dovid Luria; Yeshayahu 33:7; Yechezkel 9:11; Yechezkel 43:15; Tehillim 78:25; Kesubos 104a; Chagigah 13b; Sukkah 5b; Bereishis 3:24 with Rashi; Bereishis 18; Targum to Bereishis 21:17; Ramban to Vayikra 18:25; Shadal to Bereishis 1:1; Shadal to Shemos 25:18; Tehillim 18:11; Divrei HaYamim I 28:18; Benamozegh, *Eim LaMikra* to Bereishis 3:24.

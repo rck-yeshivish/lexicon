@@ -25,9 +25,10 @@ words:
     distinct: beside eit, the hours of the day against the seasons of the year, so bechol eit u'vechol shaah is two measures and not a doubling (Rama); Rabbi Yaakov Emden takes issue with his limiting eit to the seasons
 sources:
   - wiaw:7396 "Elul 1: Trends in Time" (2017-09-02) https://articles.ohr.edu/articles/elul-1-trends-in-time
-authorities: [Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Maharal of Prague, Malbim, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Moshe Isserles, Rabbi Yaakov Emden, Targumim]
+  - ms:204-trends-in-time.md "Trends in Time"
+authorities: [Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Maharal of Prague, Malbim, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Moshe Isserles, Rabbi Yaakov Emden, Targumim, Shadal]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Time: eit / zman / moed / shaah
 
@@ -99,6 +100,12 @@ Root ע-ת.
   takes issue with the Rama's assertion that *eit* means the seasons of the
   year, citing examples in which *eit* refers to other (natural) phenomena as
   well.
+- Rabbi Shlomo Pappenheim (*Cheshek Shlomo* s.v. עת): *zman* is the quantity of
+  time, how long a thing lasts (explained under the root זם); *moed* is one
+  thing's being at the time of another, from *va'ad*, and answers when (under
+  עד); *eis* is the sequence of time, one thing after another, and also answers
+  when. As *atah*, you, the one present, comes from *es*, the sign of the
+  object, so *atah*, now, the present time, comes from *eis*.
 
 ### moed (מועד)
 Root י-ע-ד, "appoint."
@@ -109,6 +116,8 @@ Root י-ע-ד, "appoint."
   is the whole duration, its *eit* any point within). Emden concedes that these
   are only the technical differences; in practical usage all these words may be
   used interchangeably.
+- Shadal (to Bereishis 1:14): *moed* is a set time of a cyclical kind that comes
+  and goes at intervals, while *eis* and *zman* are said of one-time events.
 
 ### shaah (שעה)
 Root ש-ע-ה.
@@ -154,4 +163,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Elul 1: Trends in Time](https://articles.ohr.edu/articles/elul-1-trends-in-time)," *What's in a Word?*, Ohr Somayach, 2 September 2017.
 
-Cited in the essay: Rabbi Moshe Shapiro; Rabbi Shlomo Pappenheim, with Vayikra 16:21 (*ish itti*); Rabbi Eliyahu HaBachur; Maharal, *Netzach Yisrael* 26; Malbim, *Sefer HaCarmel* s.v. עת\זמן and מועד; the Targumim; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. זמן\עת\כסא, זמן\עת, מועד\עד\זמן; Rav Hirsch; the Rama (Rabbi Moshe Isserles) on *bechol eit u'vechol shaah* in Birkas HaMazon and Shemoneh Esrei; Rabbi Yaakov Emden.
+Rabbi Reuven Chaim Klein, "Trends in Time," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Rabbi Moshe Shapiro; Rabbi Shlomo Pappenheim, with Vayikra 16:21 (*ish itti*); Rabbi Eliyahu HaBachur; Maharal, *Netzach Yisrael* 26; Malbim, *Sefer HaCarmel* s.v. עת\זמן and מועד; the Targumim; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. זמן\עת\כסא, זמן\עת, מועד\עד\זמן; Rav Hirsch; the Rama (Rabbi Moshe Isserles) on *bechol eit u'vechol shaah* in Birkas HaMazon and Shemoneh Esrei; Rabbi Yaakov Emden; Pappenheim, *Cheshek Shlomo* s.v. עת; Shadal to Bereishis 1:14.

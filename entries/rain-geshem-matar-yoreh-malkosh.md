@@ -27,9 +27,10 @@ sources:
   - wiaw:6861 "Rain, Rain Come Again" (2016-07-23) https://articles.ohr.edu/articles/rain-rain-come-again
   - wiaw:11123 "Lech Lecha: Eighth Month" (2023-10-28) https://articles.ohr.edu/articles/lech-lecha-eighth-month
   - wiaw:9308 "The Ultimate Teacher" (2021-07-24) https://articles.ohr.edu/articles/the-ultimate-teacher
-authorities: [Taanis 6a, Rashi, Rabbi Moshe Shapiro, Ibn Janach, Radak, Menachem Ibn Saruk]
+  - ms:308-rain-rain-come-again.md "Rain, Rain Come Again"
+authorities: [Taanis 6a, Rashi, Rabbi Moshe Shapiro, Ibn Janach, Radak, Menachem Ibn Saruk, Bereishis Rabbah]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Rain: geshem / matar / yoreh / malkosh
 
@@ -92,6 +93,12 @@ falls from Heaven to earth, and metaphysically, since Heaven represents
 *tzurah* and earth *chomer*, while *geshem* is a physical thing in which
 *chomer* and *tzurah* are married together.
 
+Rabbi Moshe Shapiro: another word for rain in Tanach and Chazal is *revia*,
+which also means union, itself a form of connection.
+
+*Bereishis Rabbah* (47:2) uses *matarin* for the womb, from *matar*; Rabbi Klein
+suggests it may also be related to Latin *mater*.
+
 ### yoreh (יורה) and malkosh (מלקוש)
 Both are seasonal markers, and Taanis 6a explains each from its own root. *Yoreh*
 (or *moreh*) carries the senses of shooting and of teaching; it is the season's
@@ -146,4 +153,6 @@ Rabbi Reuven Chaim Klein, "[Lech Lecha: Eighth Month](https://articles.ohr.edu/a
 
 Rabbi Reuven Chaim Klein, "[The Ultimate Teacher](https://articles.ohr.edu/articles/the-ultimate-teacher)," *What's in a Word?*, Ohr Somayach, 24 July 2021.
 
-Cited in the essay: Bereishis 6:17 and 7:12 with Rashi, 19:24; Shemos 9:18, 15:4; Vayikra 15:3; Devarim 11:14; Shmuel I 21:14; Yeshayahu 28:9; Yoel 2:23; Iyov 6:6; Taanis 6a; Rabbi Moshe Shapiro; Ibn Janach and Radak; Menachem Ibn Saruk.
+Rabbi Reuven Chaim Klein, "Rain, Rain Come Again," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 6:17 and 7:12 with Rashi, 19:24; Shemos 9:18, 15:4; Vayikra 15:3; Devarim 11:14; Shmuel I 21:14; Yeshayahu 28:9; Yoel 2:23; Iyov 6:6; Taanis 6a; Rabbi Moshe Shapiro; Ibn Janach and Radak; Menachem Ibn Saruk; *Bereishis Rabbah* 47:2.

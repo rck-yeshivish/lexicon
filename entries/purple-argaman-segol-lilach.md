@@ -24,9 +24,10 @@ words:
     distinct: also modern, the lilac flower's name extended to the color, as with the modern words for lavender and mauve
 sources:
   - wiaw:9575 "The Color Purple" (2022-02-12) https://articles.ohr.edu/articles/the-color-purple
-authorities: [Rambam, Raavad, Bartenura, Rabbi Avraham Maimuni, Rabbi Tanchum HaYerushalmi, Radak, Rasag, Rashi, Ibn Ezra, Menachem Ibn Saruk, Rabbi Yosef Kurkis, Rabbi Yosef Karo, Rabbi Yechiel Michel Epstein, Rabbi Eliyahu HaBachur, Rabbi Ernest Klein, Zohar, Ohalei Yehudah, Chaim Tawil, William Foxwell Albright, Athalya Brenner-Idan]
+  - ms:146-the-color-purple.md "The Color Purple"
+authorities: [Rambam, Raavad, Bartenura, Rabbi Avraham Maimuni, Rabbi Tanchum HaYerushalmi, Radak, Rasag, Rashi, Ibn Ezra, Menachem Ibn Saruk, Rabbi Yosef Kurkis, Rabbi Yosef Karo, Rabbi Yechiel Michel Epstein, Rabbi Eliyahu HaBachur, Rabbi Ernest Klein, Zohar, Ohalei Yehudah, Chaim Tawil, William Foxwell Albright, Athalya Brenner-Idan, Rav Hirsch]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Purple: argaman / argavan / segol / lilach
 
@@ -170,6 +171,10 @@ Tyrian purple was a controlled commodity generally reserved to the royal family.
 That the Greek word is a cognate of English *purple* does
 not mean the clothes in question were the color we call purple.
 
+Rav Hirsch (on Terumah) also identifies *argaman* as a darker shade of red,
+which Rabbi Klein understood as burgundy, standing for man, and *tolaas shani*
+as a lighter red, standing for animals.
+
 ### segol (סגול)
 In 1894 Yechiel Michel Pines introduced *segol* as a new word for purple; it
 seems to have been influenced by the English "violet," originally the name of a
@@ -216,4 +221,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[The Color Purple](https://articles.ohr.edu/articles/the-color-purple)," *What's in a Word?*, Ohr Somayach, 12 February 2022.
 
-Cited in the essay: Bereishis 49:11 with Targum Onkelos and Rashi; Shemos 25:4 with Rabbi Avraham Maimuni, *Midrash Chefetz* and *Meor HaAfeilah*; Bamidbar 4:13 with *Sifrei Zuta*, *Midrash HaGadol* and *Yalkut Midrashei Teiman*; Tehillim 68:28 with Rashi; Mishlei 26:8 with Ibn Ezra; Shir HaShirim 7:6 with Rashi; Daniel 5:7 with Rabbi Tanchum HaYerushalmi; Divrei HaYamim II 2:6; *Yoma* 45a; *Berachos* 43b and *Shabbos* 50b with Rashi; Mishnah *Kilayim* 9:1 with Rambam's commentary and Bartenura; Rambam, *Klei HaMikdash* 8:13; Raavad; Rabbi Yosef Kurkis; Rabbi Yosef Karo; *Shir HaShirim Rabbah* 3:16; *Bamidbar Rabbah* 12:4; *Pirkei D'Rabbi Eliezer* ch. 50; *Midrash Agur* ch. 14; Zohar *Idra Rabbah* 141b and *Terumah* 139a; *Toras HaMinchah*, *Tetzaveh*; Rabbi Yechiel Michel Epstein, *Aruch HaShulchan HaAsid*, *Klei HaMikdash* 28:12; Radak, *Sefer HaShorashim*, citing Rasag; Ibn Ezra; *Machberes Menachem*; *Ohalei Yehudah*; Rabbi Eliyahu HaBachur, *Meturgeman*; Targum Yerushalmi; the Septuagint; the Temple Scroll; Rabbi Dr. Ernest Klein; Dr. Chaim Tawil; William Foxwell Albright; Professor Athalya Brenner-Idan; Yechiel Michel Pines; the *Oxford English Dictionary* s.v. *purple*; Rabbi Yisrael Rosenberg, *Kuntres Merkavo Argaman*.
+Rabbi Reuven Chaim Klein, "The Color Purple," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 49:11 with Targum Onkelos and Rashi; Shemos 25:4 with Rabbi Avraham Maimuni, *Midrash Chefetz* and *Meor HaAfeilah*; Bamidbar 4:13 with *Sifrei Zuta*, *Midrash HaGadol* and *Yalkut Midrashei Teiman*; Tehillim 68:28 with Rashi; Mishlei 26:8 with Ibn Ezra; Shir HaShirim 7:6 with Rashi; Daniel 5:7 with Rabbi Tanchum HaYerushalmi; Divrei HaYamim II 2:6; *Yoma* 45a; *Berachos* 43b and *Shabbos* 50b with Rashi; Mishnah *Kilayim* 9:1 with Rambam's commentary and Bartenura; Rambam, *Klei HaMikdash* 8:13; Raavad; Rabbi Yosef Kurkis; Rabbi Yosef Karo; *Shir HaShirim Rabbah* 3:16; *Bamidbar Rabbah* 12:4; *Pirkei D'Rabbi Eliezer* ch. 50; *Midrash Agur* ch. 14; Zohar *Idra Rabbah* 141b and *Terumah* 139a; *Toras HaMinchah*, *Tetzaveh*; Rabbi Yechiel Michel Epstein, *Aruch HaShulchan HaAsid*, *Klei HaMikdash* 28:12; Radak, *Sefer HaShorashim*, citing Rasag; Ibn Ezra; *Machberes Menachem*; *Ohalei Yehudah*; Rabbi Eliyahu HaBachur, *Meturgeman*; Targum Yerushalmi; the Septuagint; the Temple Scroll; Rabbi Dr. Ernest Klein; Dr. Chaim Tawil; William Foxwell Albright; Professor Athalya Brenner-Idan; Yechiel Michel Pines; the *Oxford English Dictionary* s.v. *purple*; Rabbi Yisrael Rosenberg, *Kuntres Merkavo Argaman*; Rav Hirsch, Terumah.

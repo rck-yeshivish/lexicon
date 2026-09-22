@@ -16,9 +16,10 @@ words:
     distinct: the same word as tzchok, sin and tzadi interchanging (Ibn Saruk, Ibn Janach, Pappenheim); in the spelling Yischak it hints at din (Rabbeinu Bachaya) or at sasson and simchah (Rabbi Yehuda Moscato); the holy laughter reserved for the future (Rabbi Shmuel Borenstein)
 sources:
   - wiaw:8903 "A Laughing Matter" (2020-10-31) https://articles.ohr.edu/articles/a-laughing-matter
-authorities: [Menachem Ibn Saruk, Ibn Janach, Rabbi Shlomo Pappenheim, Rav Hirsch, Malbim, Onkelos, Rashi, Rabbeinu Bachaya, Rabbi Shmuel Feivish Kahane, Rabbi Yehuda Moscato, Rabbi Shmuel Borenstein, Vilna Gaon, Arizal]
+  - ms:020-a-laughing-matter.md "A Laughing Matter"
+authorities: [Menachem Ibn Saruk, Ibn Janach, Rabbi Shlomo Pappenheim, Rav Hirsch, Malbim, Onkelos, Rashi, Rabbeinu Bachaya, Rabbi Shmuel Feivish Kahane, Rabbi Yehuda Moscato, Rabbi Shmuel Borenstein, Vilna Gaon, Arizal, the Ran]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Laughter: tzchok / s'chok
 
@@ -46,6 +47,9 @@ being formed at the same place in the mouth (see also *HaKsav VeHaKabbalah* to
 Shemos 25:29). The Yerushalmi (*Berachos* 1:6) assumes as much: Yitzchak's name,
 alone among the Avos, was never changed, because Hashem Himself gave it, which
 takes *Yischak* and *Yitzchak* as one name.
+
+The commentary of the Ran on the Torah (Bereishis, p. 234): *tzechok* is in the
+mouth, for joy; *sechok* is in the heart, by way of scorn.
 
 ### the core sense
 Pappenheim: the root is laughter as an involuntary response to something from
@@ -157,4 +161,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[A Laughing Matter](https://articles.ohr.edu/articles/a-laughing-matter)," *What's in a Word?*, Ohr Somayach, 31 October 2020.
 
-Cited in the essay: Bereishis 15:13, 17:17, 17:19, 18:12, 21:6, 25:19; Shemos 6:2, 25:29; Bamidbar 32:3; Shoftim 16:25; Yeshayahu 52:3; Yirmiyahu 33:26; Amos 7:9, 7:16; Tehillim 105:9, 126:2; Divrei HaYamim I 16:16; Yerushalmi *Berachos* 1:6; *Berachos* 61b; *Sefer Yetzirah* ch. 5; *Tikkunei HaZohar tikkun* 84; Rav Hirsch to Bereishis 17:17 and 21:6; Malbim to Shoftim 16:25; *HaKsav VeHaKabbalah* to Shemos 25:29; Rabbeinu Bachaya to Bereishis 17:19 and Bamidbar 32:3; *Leket Shmuel*; the Vilna Gaon to *Sifra d'Tzniusa* ch. 3; Arizal, *Shaar HaPesukim*; *Sefer HaShem*.
+Rabbi Reuven Chaim Klein, "A Laughing Matter," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 15:13, 17:17, 17:19, 18:12, 21:6, 25:19; Shemos 6:2, 25:29; Bamidbar 32:3; Shoftim 16:25; Yeshayahu 52:3; Yirmiyahu 33:26; Amos 7:9, 7:16; Tehillim 105:9, 126:2; Divrei HaYamim I 16:16; Yerushalmi *Berachos* 1:6; *Berachos* 61b; *Sefer Yetzirah* ch. 5; *Tikkunei HaZohar tikkun* 84; Rav Hirsch to Bereishis 17:17 and 21:6; Malbim to Shoftim 16:25; *HaKsav VeHaKabbalah* to Shemos 25:29; Rabbeinu Bachaya to Bereishis 17:19 and Bamidbar 32:3; *Leket Shmuel*; the Vilna Gaon to *Sifra d'Tzniusa* ch. 3; Arizal, *Shaar HaPesukim*; *Sefer HaShem*; Ran, commentary on the Torah, Bereishis p. 234.

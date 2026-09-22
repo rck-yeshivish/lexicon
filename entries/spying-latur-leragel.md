@@ -31,9 +31,10 @@ words:
 sources:
   - wiaw:7302 "Spy versus Spy" (2017-06-17) https://articles.ohr.edu/articles/spy-versus-spy
   - wiaw:9554 "Digging Deeper" (2022-01-29) https://articles.ohr.edu/articles/digging-deeper
-authorities: [Rabbi Yaakov Tzvi Mecklenburg (HaKsav VeHaKabbalah), Midrash, Pseudo-Philo, David Curwin, Dr. Isaac Elchanan Mozeson, Rav Hirsch]
+  - ms:246-spy-versus-spy.md "Spy versus Spy"
+authorities: [Rabbi Yaakov Tzvi Mecklenburg (HaKsav VeHaKabbalah), Midrash, Pseudo-Philo, David Curwin, Dr. Isaac Elchanan Mozeson, Rav Hirsch, Shadal, Shadal]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Spying: latur / leragel (tarim, meraglim)
 
@@ -76,6 +77,10 @@ describes them and their actions as *tarim*.
 - David Curwin notes a conceptual link between *tor*, "scout," and *tor*,
   "dove": doves first appear in Tanach when Noach sends one from the Teivah to
   explore the land, expected to report something positive.
+- Shadal (to Bamidbar 13:2): *tur* and *toar* are related to turning, since to
+  draw an outline one must turn around its corners; so *vayasuru* is going about
+  looking everywhere, as also in *lo sasuru*. *Meragel* is from *regel*, going
+  about on foot, and is related to *rochel* and *rachil*.
 
 ### leragel (רגל) and meraglim (מרגלים)
 The search for weakness and vulnerability (Mecklenburg). Devarim, which Moshe
@@ -105,6 +110,13 @@ enemy's weaknesses.
   Pinchas.
 - Pseudo-Philo identifies them as Kenaz and Seenamias, the sons of Kalev;
   another Midrash says they were Peretz and Zerach, Yehudah's twin sons.
+- Shadal (to Shemos 15:11) once held that *regel*, spying, comes from *ra gilah*
+  and *tur* from *asa ra'ah*, but retracted both, having found compound roots
+  less common in Hebrew than he had thought.
+- Rav Hirsch (to Vayikra 19:16): the *meragel* is named for the foot because
+  each step he takes counts in itself, all serving his aim of knowing the land
+  and what goes on in it, as against plain *halichah*, walking, which is only a
+  means of getting from one place to another.
 
 ## Rendering guidance
 
@@ -132,4 +144,6 @@ Rabbi Reuven Chaim Klein, "[Spy versus Spy](https://articles.ohr.edu/articles/sp
 
 Rabbi Reuven Chaim Klein, "[Digging Deeper](https://articles.ohr.edu/articles/digging-deeper)," *What's in a Word?*, Ohr Somayach, 29 January 2022.
 
-Cited in the essay: Bereishis 42; Bamidbar 13-14; Devarim 1:22, 1:24; Yehoshua 2:1; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; the Midrash; Pseudo-Philo; Dr. Isaac Elchanan Mozeson; David Curwin; Rav Hirsch.
+Rabbi Reuven Chaim Klein, "Spy versus Spy," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 42; Bamidbar 13-14; Devarim 1:22, 1:24; Yehoshua 2:1; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; the Midrash; Pseudo-Philo; Dr. Isaac Elchanan Mozeson; David Curwin; Rav Hirsch; Shadal to Shemos 15:11; Rav Hirsch to Vayikra 19:16; Shadal to Bamidbar 13:2.

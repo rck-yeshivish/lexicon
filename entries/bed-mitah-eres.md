@@ -19,9 +19,10 @@ words:
     nk: עֲרִיסָה
 sources:
   - wiaw:8364 "Beds of the Righteous" (2019-08-10) https://articles.ohr.edu/articles/beds-of-the-righteous
-authorities: [Ramchal, Menachem Ibn Saruk, Radak, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rashbam, Rabbi Nosson of Rome, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Aviad Sar-Shalom Basilea, Rabbi Tzvi Hirsch Kaidanover]
+  - ms:297-beds-of-the-righteous.md "Beds of the Righteous"
+authorities: [Ramchal, Menachem Ibn Saruk, Radak, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rashbam, Rabbi Nosson of Rome, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Aviad Sar-Shalom Basilea, Rabbi Tzvi Hirsch Kaidanover, Dr. Richard C. Steiner]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Bed: mitah / eres (arisah)
 
@@ -105,6 +106,11 @@ the Aramaic with a samech, letters that often interchange. Readings:
   7:16). Talmudic Aramaic *arsa* can also mean a coffin (Kesubos 103a), which,
   as Rabbi Klein observes, in certain ways sits well with Malbim's reading,
   though *mitah* too is used that way.
+- Dr. Richard C. Steiner ("The Case for Fricative-Laterals in Proto-Semitic,"
+  American Oriental Series 59, 1977, pp. 130 ff.) explains the lamed of *arsal*,
+  from *eres*, by positing that sin was once pronounced with something like an
+  *l* sound, or was at least heard that way by the Greeks, hence the *sl* in
+  *arsala*.
 
 ### the mussar and kabbalistic readings
 - Rabbi Aviad Sar-Shalom Basilea (*Emunas Chachamim*) posits that *mitah* is
@@ -152,4 +158,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Beds of the Righteous](https://articles.ohr.edu/articles/beds-of-the-righteous)," *What's in a Word?*, Ohr Somayach, 10 August 2019.
 
-Cited in the essay: Devarim 3:11; Bamidbar 15:21; Tehillim 41:4; Mishlei 7:16; Berachos 37b; Kesubos 103a; Radak, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; *Sefer HeAruch*; *Emunas Chachamim*; *Kav HaYashar*.
+Rabbi Reuven Chaim Klein, "Beds of the Righteous," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Devarim 3:11; Bamidbar 15:21; Tehillim 41:4; Mishlei 7:16; Berachos 37b; Kesubos 103a; Radak, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; *Sefer HeAruch*; *Emunas Chachamim*; *Kav HaYashar*; Steiner, "The Case for Fricative-Laterals in Proto-Semitic," p. 130.

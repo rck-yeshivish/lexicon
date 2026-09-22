@@ -20,9 +20,10 @@ words:
 sources:
   - wiaw:6893 "Divine Dictator or Populist King?" (2016-08-13) https://articles.ohr.edu/articles/divine-dictator-or-populist-king
   - wiaw:6817 "Introduction - Synonyms in the Hebrew Language" (2016-06-25) https://articles.ohr.edu/articles/introduction-synonyms-in-the-hebrew-language
-authorities: [Vilna Gaon, Rabbi Moshe Soloveitchik of Switzerland, Ibn Ezra]
+  - ms:337-divine-dictator-or-populist-king.md "Divine Dictator or Populist King"
+authorities: [Vilna Gaon, Rabbi Moshe Soloveitchik of Switzerland, Ibn Ezra, Avi Hurvitz, Rabbi Eliyahu Benamozegh, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # King: melech / moshel
 
@@ -63,6 +64,13 @@ our acceptance at all? On the above the answer is clear: by accepting His
 sovereignty willingly we consolidate His role as *melech* of the world rather
 than merely a dictatorial *moshel*.
 
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 14:18 and Shemos 4:10, p.
+67 in Zini's edition): *melech* may come from Aramaic *mamlach*, counsellor, as
+*nimlach* in the Gemara, and he cites the commentary ascribed to the Rashbam (to
+Tehillim 2:2) saying the same, a work in fact written by Isaac Satanow. He also
+considers that *melech* is related to *malach*, since a king is the people's
+agent.
+
 ### moshel (מושל)
 Root מ-ש-ל. One who takes the position rather than receiving it. The Vilna
 Gaon: the *moshel* leads by his abilities, not merely by the people's will; he proves
@@ -76,6 +84,22 @@ acknowledged military prowess.
 Some explain instead that *melech* is the king at the top and *moshel* a
 governor or deputy to whom he has delegated power. The consensus
 holds the two equal in position and different only in origin.
+
+Rabbi Klein observes that *hamoshel bechol asher lo* (Bereishis 24:2), of
+Avraham's servant, fits the view that a *moshel* is one delegated by a greater
+authority, as does Yosef calling himself *moshel* in Egypt (45:8, 45:26) and the
+sun and moon being given *memshalah* over day and night (1:16, 1:18).
+
+Avi Hurvitz (pp. 229-230): *shalit* is an Aramaic-influenced form standing for
+Hebrew *radah* and *mashal*.
+
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Shemos 4:10, p. 66 in Zini's
+edition): *moshel* is related to *mashal*, since the first leaders were those
+who could address and rebuke the people clearly by means of parables. Other
+words of speech are likewise tied to leadership: *he'emarta*, *yisamru kol
+poalei aven*, *yadber amim tachteinu*. On p. 68 he writes that *davar* is a
+title of rule in Avestan Persian and suggests it may be related to Hebrew
+*davar*.
 
 ## Rendering guidance
 
@@ -113,4 +137,6 @@ Rabbi Reuven Chaim Klein, "[Divine Dictator or Populist King?](https://articles.
 
 Rabbi Reuven Chaim Klein, "[Introduction: Synonyms in the Hebrew Language](https://articles.ohr.edu/articles/introduction-synonyms-in-the-hebrew-language)," *What's in a Word?*, Ohr Somayach, 25 June 2016.
 
-Cited in the essay: Bereishis 37:8; Pirkei d'Rabbi Eliezer ch. 16; Shoftim 8:22; Rosh Hashanah 16a; Tehillim 22:29 with Ibn Ezra; Zecharyah 14:9; the Vilna Gaon; Rabbi Moshe Soloveitchik of Switzerland.
+Rabbi Reuven Chaim Klein, "Divine Dictator or Populist King," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 37:8; Pirkei d'Rabbi Eliezer ch. 16; Shoftim 8:22; Rosh Hashanah 16a; Tehillim 22:29 with Ibn Ezra; Zecharyah 14:9; the Vilna Gaon; Rabbi Moshe Soloveitchik of Switzerland; Bereishis 1:16, 1:18, 24:2, 45:8, 45:26; Hurvitz pp. 229-230; Benamozegh, *Eim LaMikra* to Bereishis 14:18 and Shemos 4:10; Tehillim 2:2; Benamozegh, *Eim LaMikra* to Shemos 4:10.

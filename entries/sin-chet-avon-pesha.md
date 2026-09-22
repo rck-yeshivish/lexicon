@@ -26,9 +26,10 @@ words:
 sources:
   - wiaw:7940 "Degrees of Sin" (2018-09-15) https://articles.ohr.edu/articles/degrees-of-sin
   - wiaw:9245 "Revolting Revolutions" (2021-06-12) https://articles.ohr.edu/articles/revolting-revolutions
-authorities: [Rashi, Vilna Gaon, Rabbi Yechezkel Landau, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Malbim, Peirush HaRokeach, Rabbi Netanel Weil, Rambam, Rabbi Yosef Babad, Rabbi Elazar Menachem Mann Shach, Rabbi Yaakov Tzvi Mecklenburg]
+  - ms:338-degrees-of-sin.md "Degrees of Sin"
+authorities: [Rashi, Vilna Gaon, Rabbi Yechezkel Landau, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Malbim, Peirush HaRokeach, Rabbi Netanel Weil, Rambam, Rabbi Yosef Babad, Rabbi Elazar Menachem Mann Shach, Rabbi Yaakov Tzvi Mecklenburg, Radak, Ibn Ezra, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Sin: chet / avon / pesha (aveirah)
 
@@ -92,6 +93,8 @@ and my son Shlomo will be *chataim*" (Melachim I 1:21).
   *chet* is a sin committed because a person was swayed by his physical
   temptations and purposely indulged in what he knew to be wrong.
 - *Peirush HaRokeach*: inadvertent, as the Gemara has it.
+- HaKsav VeHaKabbalah (to Bereishis 4:7): *chatas* can mean the punishment that
+  follows the sin and not only the sin itself (see Zecharyah 14:19).
 
 ### avon (עון)
 Root ע-ו-ה, crooked.
@@ -126,6 +129,12 @@ not live up to the vigilance expected of him (see Shemos 22:8; Bava Kamma 21b,
 of mindfulness is expected, and laziness and apathy slight the king's honor; it
 is in this sense that *pesha* was borrowed to mean rebellion.
 
+Radak (to Tehillim 25:7, *chatos ne'urai ufesha'ai al tizkor*): the sins of
+youth are called *chataos*, since a man's mind does not yet rule him and there
+is no *pesha*, which is rebellion; once he sins deliberately, from twenty years
+and up, knowing and transgressing, he is a *posheia*, a rebel against the Master
+who commanded him.
+
 ### aveirah (עבירה)
 A fourth term, in Rabbinic sources but not in Tanach. It literally means
 "transgression" or "violation," and although it once referred specifically to
@@ -139,6 +148,10 @@ of wrongdoing.
 - Rabbi Klein suggests that one who commits an *aveirah* has crossed a Rabbinic
   red line, noting that the Gemara (Shabbos 40a) holds that even a person who
   violates a Rabbinic prohibition can be called an *avaryan*.
+- Ibn Ezra (to Tehillim 78:59): *evrah*, anger, is from crossing, what provokes
+  wrath having crossed the limit of forbearance. From this, Rabbi Eliyahu
+  Benamozegh (*Eim LaMikra* to Devarim 3:26) explains *aveirah*, sin, as passing
+  beyond the bounds the Torah sets.
 
 ## How sharp are the categories?
 
@@ -189,4 +202,6 @@ Rabbi Reuven Chaim Klein, "[Degrees of Sin](https://articles.ohr.edu/articles/de
 
 Rabbi Reuven Chaim Klein, "[Revolting Revolutions](https://articles.ohr.edu/articles/revolting-revolutions)," *What's in a Word?*, Ohr Somayach, 12 June 2021.
 
-Cited in the essay: Melachim I 1:21 with Rashi; Shemos 22:8; Bava Kamma 21b, 29a; Mishlei 1:10 and 13:6 with the Vilna Gaon; Mishnah Yoma 4:2; Yoma 36b; Shabbos 40a; Rambam, *Hilchos Teshuvah*, with Rabbi Yosef Babad, *Minchas Chinuch*, and Rabbi Elazar Menachem Mann Shach; Rabbi Yechezkel Landau; Rabbi Moshe Shapiro; Rabbi Shlomo Pappenheim; Malbim, *Sefer HaCarmel* (ח"א ערך חטא); *Peirush HaRokeach*; Rabbi Netanel Weil; Rabbi Yaakov Tzvi Mecklenburg.
+Rabbi Reuven Chaim Klein, "Degrees of Sin," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Melachim I 1:21 with Rashi; Shemos 22:8; Bava Kamma 21b, 29a; Mishlei 1:10 and 13:6 with the Vilna Gaon; Mishnah Yoma 4:2; Yoma 36b; Shabbos 40a; Rambam, *Hilchos Teshuvah*, with Rabbi Yosef Babad, *Minchas Chinuch*, and Rabbi Elazar Menachem Mann Shach; Rabbi Yechezkel Landau; Rabbi Moshe Shapiro; Rabbi Shlomo Pappenheim; Malbim, *Sefer HaCarmel* (ח"א ערך חטא); *Peirush HaRokeach*; Rabbi Netanel Weil; Rabbi Yaakov Tzvi Mecklenburg; Radak to Tehillim 25:7; HaKsav VeHaKabbalah to Bereishis 4:7; Zecharyah 14:19; Ibn Ezra to Tehillim 78:59; Benamozegh, *Eim LaMikra* to Devarim 3:26.

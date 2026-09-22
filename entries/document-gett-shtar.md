@@ -26,9 +26,10 @@ words:
 sources:
   - wiaw:8704 "Divorce Bills and Other Documents" (2020-05-16) https://articles.ohr.edu/articles/divorce-bills-and-other-documents
   - wiaw:9581 "Between Books and Scrolls" (2022-02-19) https://articles.ohr.edu/articles/between-books-and-scrolls
+  - ms:208-divorce-bills-and-other-documents.md "Divorce Bills and other Documents"
 authorities: [Rashi, Rabbeinu Tam, Tosafos, Rambam, Maharsha, Maharam Shiff, Elyah Rabbah, Tosafos Yom Tov, Rabbi Eliyahu HaBachur, Rabbi Yisrael Yaakov Algazi, Vilna Gaon, Rabbi Chaim of Friedburg, Rabbi Meir Mazuz, Rabbi Chaim Kanievsky, Rabbi Yehoshua Boaz, Chasam Sofer, Levush, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Aryeh Leib Tzintz, Rabbi David Tzvi Fetene, Rabbi Eliezer Herstik, Chaim Tawil, Ritva]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Document: gett / shtar (and the biblical sefer kerisus)
 
@@ -147,6 +148,11 @@ Tanach has neither term. A bill of divorce is *sefer kerisus*, literally a
 *sefer hamiknah*, a "Scroll of Acquisition," five times in Yirmiyahu 32, the
 standard, or the only, biblical word for a document of sale.
 
+In the Hebrew of Tanach, *sefer* stands for both *get* and *shtar*: Devarim
+24:1-2 says *sefer* for what the Mishnah (*Kiddushin* 1:1) calls a *get*, and
+Yirmiyahu 32:11 and 32:44 say *sefer* for what the Mishnah (*Kiddushin* 1:5)
+calls a *shtar*.
+
 ## Rendering guidance
 
 - Unmodified *gett*: "bill of divorce," or leave it as *gett* in a frum register
@@ -177,4 +183,6 @@ Rabbi Reuven Chaim Klein, "[Divorce Bills and Other Documents](https://articles.
 
 Rabbi Reuven Chaim Klein, "[Between Books and Scrolls](https://articles.ohr.edu/articles/between-books-and-scrolls)," *What's in a Word?*, Ohr Somayach, 19 February 2022.
 
-Cited in the essay: Devarim 24:1-3; Yeshayahu 50:1; Yirmiyahu 32; Yechezkel 22:25; Shemos 5:6; Gittin 2a, 10a, 19b, 65b; Bava Kamma 95a; Bava Basra 49a, 154b, 160a, 167b; Kesubos 19a, 79a, 102b; Kiddushin 9b; Moed Katan 18b; Berachos 56a; Mishnah Gittin 2:5 with Rambam; *Sefer HaChaim*; *Sefer HaTishbi*; *Meturgeman*; *Divrei Eliyahu*; *Taama DeKra* to Devarim 24:1; *Levush*, Even HaEzer 125:11; *Kolbo* 76; Dr. Chaim Tawil; Rabbi Eliezer Herstik; Ritva.
+Rabbi Reuven Chaim Klein, "Divorce Bills and other Documents," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Devarim 24:1-3; Yeshayahu 50:1; Yirmiyahu 32; Yechezkel 22:25; Shemos 5:6; Gittin 2a, 10a, 19b, 65b; Bava Kamma 95a; Bava Basra 49a, 154b, 160a, 167b; Kesubos 19a, 79a, 102b; Kiddushin 9b; Moed Katan 18b; Berachos 56a; Mishnah Gittin 2:5 with Rambam; *Sefer HaChaim*; *Sefer HaTishbi*; *Meturgeman*; *Divrei Eliyahu*; *Taama DeKra* to Devarim 24:1; *Levush*, Even HaEzer 125:11; *Kolbo* 76; Dr. Chaim Tawil; Rabbi Eliezer Herstik; Ritva; Devarim 24:1-2; Yirmiyahu 32:11, 32:44; *Kiddushin* 1:1, 1:5.

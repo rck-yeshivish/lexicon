@@ -24,9 +24,10 @@ words:
     distinct: what orbits around another body, as a planet does (Radak); a circle, or machug, considered from its center (Malbim)
 sources:
   - wiaw:7530 "Around in Concentric Circles" (2017-12-09) https://articles.ohr.edu/articles/around-in-concentric-circles
-authorities: [Malbim, Rabbi Shlomo Pappenheim, Radak, Rabbi Yom Tov Lipmann Heller, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Wolf Heidenheim, Sefer HeAruch]
+  - ms:080-around-in-concentric-circles.md "Around in Concentric Circles"
+authorities: [Malbim, Rabbi Shlomo Pappenheim, Radak, Rabbi Yom Tov Lipmann Heller, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Wolf Heidenheim, Sefer HeAruch, Rabbi Chelouche]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Around: saviv / heikef / afef / chug
 
@@ -114,6 +115,13 @@ word as *ag*, circle. Hence *ugah*, a round food such as a cake; *agil*, an
 earring; and the Mishnah's account of Choni HaMe'agel, who *ag ugah*, drew a
 circle and stood inside it (Taanis 3:8).
 
+Rabbi Klein notes that the Targumim render *mecholos*, dancing circles (Shemos
+15:20, Shoftim 11:34, Tehillim 150:4), as *chingin*, so ח-נ-ג means going around
+in a circle, and *chag* comes from it with the nun dropped. Rabbi Chelouche
+(*Michtam LeDavid*, Tehillim p. 15) says the same, which explains the dagesh in
+the gimmel; in this reading a *chag* is the cycle of going up to Yerushalayim,
+going home, and going up again.
+
 ## Rendering guidance
 
 - Trap: English "around" swallows *saviv* and *heikef* both. Give *heikef* a word
@@ -140,4 +148,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Around in Concentric Circles](https://articles.ohr.edu/articles/around-in-concentric-circles)," *What's in a Word?*, Ohr Somayach, 9 December 2017.
 
-Cited in the essay: Shemos 13:18; Devarim 16:15, 21:20; Shmuel I 30:16 with Radak and *Sefer HeAruch*; Shmuel II 14:20; Yeshayahu 56:12; Mishlei 23:20; Tehillim 91:4, 116:3 to 4 with Malbim, *Sefer HaCarmel* s.v. אפף, הקף and סבב, and *Yair Ohr* (מערכת ש אות ו' באמצע דבריו); Iyov 15:10; Mishnah Taanis 3:8.
+Rabbi Reuven Chaim Klein, "Around in Concentric Circles," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 13:18; Devarim 16:15, 21:20; Shmuel I 30:16 with Radak and *Sefer HeAruch*; Shmuel II 14:20; Yeshayahu 56:12; Mishlei 23:20; Tehillim 91:4, 116:3 to 4 with Malbim, *Sefer HaCarmel* s.v. אפף, הקף and סבב, and *Yair Ohr* (מערכת ש אות ו' באמצע דבריו); Iyov 15:10; Mishnah Taanis 3:8; Targum to Shemos 15:20, Shoftim 11:34, Tehillim 150:4; Rabbi Chelouche, *Michtam LeDavid*, Tehillim p. 15.

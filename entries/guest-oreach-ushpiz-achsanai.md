@@ -25,9 +25,10 @@ words:
     distinct: the inn or the host who provides it (Rabbi Eliyahu HaBachur), the host at Arachin 16b; from Greek xenos, stranger (Rabbi Ernest Klein), or a Hebrew root of gathering in (Rabbi Avi Kobernick)
 sources:
   - wiaw:10698 "Be My Guest" (2022-11-12) https://articles.ohr.edu/articles/be-my-guest
-authorities: [Menachem Ibn Saruk, Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rashi, Rabbeinu Chananel, Tosafos, Rabbi Eliyahu HaBachur, Rabbi Yaakov Emden, Rabbi Shimon Yehuda Leib Goldblit, Rabbi Yitzchak Avineri, Rabbi Dr. Ernest Klein, Rabbi Avi Kobernick, Rabbi Yaakov Chaim Sofer, Rabbi Dr. Alexander Kohut, Rabbi Shmuel Krauss, Ludwig Koehler, Walter Baumgartner]
+  - ms:023-be-my-guest.md "Be My Guest"
+authorities: [Menachem Ibn Saruk, Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rashi, Rabbeinu Chananel, Tosafos, Rabbi Eliyahu HaBachur, Rabbi Yaakov Emden, Rabbi Shimon Yehuda Leib Goldblit, Rabbi Yitzchak Avineri, Rabbi Dr. Ernest Klein, Rabbi Avi Kobernick, Rabbi Yaakov Chaim Sofer, Rabbi Dr. Alexander Kohut, Rabbi Shmuel Krauss, Ludwig Koehler, Walter Baumgartner, Michael Sokoloff]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Guest: oreach / ushpiz / achsanai
 
@@ -127,6 +128,10 @@ On etymology:
 By the *Sefer Yuchasin*'s girsa of Taanis 24b (see *Dikdukei Sofrim*) Rav
 Nachman's mother was named Ushpiztai, likely from the same word.
 
+Sokoloff holds that *ushpizin* comes from Middle Persian and not from Latin, as
+Rabbi Eliyahu HaBachur conjectured. Rabbi Klein adds that Latin *hospes* goes
+back to a Proto-Indo-European root meaning both master and guest.
+
 ### achsanai (אכסנאי) and achsanyah (אכסניה)
 Twice in the Mishnah (*Demai* 3:1, *Chullin* 8:2), at least once in Targum (to
 Iyov 31:32), and throughout Shas and Midrash.
@@ -195,4 +200,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Be My Guest](https://articles.ohr.edu/articles/be-my-guest)," *What's in a Word?*, Ohr Somayach, 12 November 2022.
 
-Cited in the essay: Shoftim 19:17, Shmuel II 12:4, Yirmiyahu 9:1 and 14:8; Bereishis 37:25; Yeshayahu 21:13; Yirmiyahu 40:3, 52:34; Mishlei 15:17; Melachim II 25:30; Radak and Ibn Janach, *Sefer HaShorashim* s.v. ארח; Ibn Saruk, *Machberes*; Rabbi Shlomo Pappenheim on biliteral ר-ח; Zohar *Emor* 103b; Bava Metzia 24a with Rashi and Rabbeinu Chananel; Shabbos 140b; Eruvin 53b with Rashi and Tosafos; Beitzah 4a; Taanis 24b with *Dikdukei Sofrim*; Daniel 1:3; Mishnah *Demai* 3:1 and *Chullin* 8:2; Targum to Iyov 31:32; Arachin 16b with Rashi to Bereishis 13:3; Berachos 63b with Rashi; Rashi to Bamidbar 20:17, *Bamidbar Rabbah* 19:15, *Midrash Tanchuma, Chukas* 12; *Sefer HaTishbi* and *Meturgeman*; Rabbi Dr. Alexander Kohut, Rabbi Shmuel Krauss, and Ludwig Koehler and Walter Baumgartner's lexicon of biblical Hebrew and Aramaic on Ashpenaz.
+Rabbi Reuven Chaim Klein, "Be My Guest," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shoftim 19:17, Shmuel II 12:4, Yirmiyahu 9:1 and 14:8; Bereishis 37:25; Yeshayahu 21:13; Yirmiyahu 40:3, 52:34; Mishlei 15:17; Melachim II 25:30; Radak and Ibn Janach, *Sefer HaShorashim* s.v. ארח; Ibn Saruk, *Machberes*; Rabbi Shlomo Pappenheim on biliteral ר-ח; Zohar *Emor* 103b; Bava Metzia 24a with Rashi and Rabbeinu Chananel; Shabbos 140b; Eruvin 53b with Rashi and Tosafos; Beitzah 4a; Taanis 24b with *Dikdukei Sofrim*; Daniel 1:3; Mishnah *Demai* 3:1 and *Chullin* 8:2; Targum to Iyov 31:32; Arachin 16b with Rashi to Bereishis 13:3; Berachos 63b with Rashi; Rashi to Bamidbar 20:17, *Bamidbar Rabbah* 19:15, *Midrash Tanchuma, Chukas* 12; *Sefer HaTishbi* and *Meturgeman*; Rabbi Dr. Alexander Kohut, Rabbi Shmuel Krauss, and Ludwig Koehler and Walter Baumgartner's lexicon of biblical Hebrew and Aramaic on Ashpenaz; Sokoloff.

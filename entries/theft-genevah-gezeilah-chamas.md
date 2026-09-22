@@ -24,9 +24,10 @@ words:
     distinct: a Greek loanword for a robber; whether an armed listim, who takes openly yet carries a weapon for fear of being caught, is a ganav or a gazlan is disputed (Kesef Mishneh, Lechem Mishneh, Even HaAzel)
 sources:
   - wiaw:8613 "Stealing and Robbing" (2020-02-22) https://articles.ohr.edu/articles/stealing-and-robbing
-authorities: [Bereishis Rabbah, Rambam, S'ma, Rashi, Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Netziv, Rabbi Ernest Klein, Dr. Chaim Tawil, Kesef Mishneh, Lechem Mishneh, Even HaAzel]
+  - ms:133-stealing-and-robbing.md "Stealing and Robbing"
+authorities: [Bereishis Rabbah, Rambam, S'ma, Rashi, Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Netziv, Rabbi Ernest Klein, Dr. Chaim Tawil, Kesef Mishneh, Lechem Mishneh, Even HaAzel, Rabbi Moshe Ibn Ezra, Shadal]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Theft: genevah / gezeilah / chamas / listim
 
@@ -112,6 +113,12 @@ penalties. (By Torah tradition the *lo tignov* of the Aseres HaDibros, Shemos
 Mnemonic, from Rabbi Reuven Chaim Klein's fifth-grade rebbi, Rabbi A. Y. Berman: the *gaNav*
 steals at **N**ight, when nobody is looking, the *gazLan* in the **L**ight.
 
+Rabbi Moshe Ibn Ezra (*Shiras Yisrael*, ed. Halper, Leipzig 1924, p. 130):
+*oshek* and *gezel* are the same thing.
+
+Shadal (to Vayikra 19:13): *oshek* is withholding what one owes another, and is
+related to *ikesh*, stubborn.
+
 ### chamas (חמס)
 *Chamas* also appears in Tanach in the sense of theft: the generation of the
 Flood was destroyed because "the land was filled with *chamas*" (Bereishis
@@ -175,4 +182,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Stealing and Robbing](https://articles.ohr.edu/articles/stealing-and-robbing)," *What's in a Word?*, Ohr Somayach, 22 February 2020.
 
-Cited in the essay: Bereishis 6:13, 31:19, 38:12; Shemos 20:13, 21:37, 22:3, 23:19; Vayikra 5:23, 19:11, 19:13; Devarim 5:17; Tehillim 71:4, 72:6; *Bereishis Rabbah* 54:3; Yoma 39a; Bava Kamma 4b, 57a, 62a, 79b, 97a; Bava Basra 34a, 38a; Sanhedrin 108a; Shevuos 44b; Rashi to Bereishis 6:13, Yoma 39a and Tehillim 71:4; Radak to Tehillim 71:4 and *Sefer HaShorashim*; Rambam, Hilchos Geneivah 1:3 and Hilchos Gezeilah 1:3, with *Kesef Mishneh*, *Lechem Mishneh* and *Even HaAzel*; *S'ma* to Choshen Mishpat 348:7; Rabbi Shlomo Pappenheim; Rav Hirsch to Shemos 23:19; the Netziv; Ernest Klein; Dr. Chaim Tawil.
+Rabbi Reuven Chaim Klein, "Stealing and Robbing," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 6:13, 31:19, 38:12; Shemos 20:13, 21:37, 22:3, 23:19; Vayikra 5:23, 19:11, 19:13; Devarim 5:17; Tehillim 71:4, 72:6; *Bereishis Rabbah* 54:3; Yoma 39a; Bava Kamma 4b, 57a, 62a, 79b, 97a; Bava Basra 34a, 38a; Sanhedrin 108a; Shevuos 44b; Rashi to Bereishis 6:13, Yoma 39a and Tehillim 71:4; Radak to Tehillim 71:4 and *Sefer HaShorashim*; Rambam, Hilchos Geneivah 1:3 and Hilchos Gezeilah 1:3, with *Kesef Mishneh*, *Lechem Mishneh* and *Even HaAzel*; *S'ma* to Choshen Mishpat 348:7; Rabbi Shlomo Pappenheim; Rav Hirsch to Shemos 23:19; the Netziv; Ernest Klein; Dr. Chaim Tawil; Rabbi Moshe Ibn Ezra, *Shiras Yisrael* p. 130; Shadal to Vayikra 19:13.

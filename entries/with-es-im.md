@@ -17,9 +17,10 @@ words:
     distinct: with in the fullest sense, two equal and cooperative parties (the Vilna Gaon, Malbim), or merely circumstantial, two who happen to be together (Pappenheim, Rabbi Mecklenburg)
 sources:
   - wiaw:8323 "Are You Really \"With Me\"?" (2019-07-13) https://articles.ohr.edu/articles/are-you-really-with-me
+  - ms:264-are-you-really-with-me.md "Are You Really “With Me”?"
 authorities: [Ibn Janach, Radak, Rashi, the Vilna Gaon, Malbim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Nachman Marcuson, Zohar]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # With: es (itto) / im (imo)
 
@@ -99,6 +100,9 @@ near-equals, while the chariots and horsemen, far lower in rank, went up *imo*
 (50:9). Curiously, in his commentary on Bilam Rabbi Mecklenburg's approach
 mirrors the Gra's rather than his own general rule.
 
+HaKsav VeHaKabbalah (to Devarim 5:4): *es* and *im* mean the same insofar as
+both set the two parties as equals.
+
 ## Rendering guidance
 
 - Ordinary prose, either word: "with." No English preposition marks the
@@ -127,4 +131,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Are You Really 'With Me'?](https://articles.ohr.edu/articles/are-you-really-with-me)," *What's in a Word?*, Ohr Somayach, 13 July 2019.
 
-Cited in the essay: Bereishis 12:4 and 13:14 with Malbim and *HaKsav VeHaKabbalah*; Bereishis 24:32, 24:54, 50:7 and 50:9 with *HaKsav VeHaKabbalah*; Bereishis 37:18 with Rashi; Bereishis 40:4, 44:4, 44:24; Vayikra 13:49, 22:14; Bamidbar 13:17, 35:26; Bamidbar 22:12, 22:20, 22:21-22 with the Vilna Gaon; Shmuel II 12:6; Melachim I 9:25; *Zohar* Bereishis 78b; Ibn Janach and Radak; Rabbi Nachman Marcuson; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*.
+Rabbi Reuven Chaim Klein, "Are You Really “With Me”?," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 12:4 and 13:14 with Malbim and *HaKsav VeHaKabbalah*; Bereishis 24:32, 24:54, 50:7 and 50:9 with *HaKsav VeHaKabbalah*; Bereishis 37:18 with Rashi; Bereishis 40:4, 44:4, 44:24; Vayikra 13:49, 22:14; Bamidbar 13:17, 35:26; Bamidbar 22:12, 22:20, 22:21-22 with the Vilna Gaon; Shmuel II 12:6; Melachim I 9:25; *Zohar* Bereishis 78b; Ibn Janach and Radak; Rabbi Nachman Marcuson; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; HaKsav VeHaKabbalah to Devarim 5:4.

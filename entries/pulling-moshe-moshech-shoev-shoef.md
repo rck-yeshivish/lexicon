@@ -26,9 +26,10 @@ words:
     distinct: drawing air rather than water (Rabbi Shlomo Aharon Wertheimer); from there sheifah, a higher yearning one has internalized
 sources:
   - wiaw:11200 "Shemos: Pulling & Drawing" (2024-01-06) https://articles.ohr.edu/articles/shemos-pulling-drawing
-authorities: [Rashi, Rashbam, Radak, Ibn Janach, Ibn Chayyuj, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi David Chaim Chelouche, Rabbi Shlomo Aharon Wertheimer, Ramban, Rabbi Menachem ben Shlomo (Midrash Sechel Tov), Rabbi Shlomo Ibn Parchon, Rabbi Moshe Alshich, Chizkuni, Peirush HaRokeach, Peirush HaTur, Midrash HaGadol, Shadal, Rabbi Shlomo Zalman Ehrenreich, Rabbi Menachem Mendel Kasher (Torah Shleimah), Moshav Zekanim, Rabbi Yaakov Berger, Ibn Ezra, Mahari Kara]
+  - ms:094-pulling-drawing.md "Pulling & Drawing"
+authorities: [Rashi, Rashbam, Radak, Ibn Janach, Ibn Chayyuj, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi David Chaim Chelouche, Rabbi Shlomo Aharon Wertheimer, Ramban, Rabbi Menachem ben Shlomo (Midrash Sechel Tov), Rabbi Shlomo Ibn Parchon, Rabbi Moshe Alshich, Chizkuni, Peirush HaRokeach, Peirush HaTur, Midrash HaGadol, Shadal, Rabbi Shlomo Zalman Ehrenreich, Rabbi Menachem Mendel Kasher (Torah Shleimah), Moshav Zekanim, Rabbi Yaakov Berger, Ibn Ezra, Mahari Kara, Kli Yakar]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Pulling and drawing: moshe / moshech / shoev / shoef
 
@@ -197,6 +198,10 @@ Two more go in a slightly different direction.
   his own life had depended on the saving act of the one who drew him out, so
   that he in turn would act to save others who are oppressed and extract them
   from their situations.
+- Kli Yakar (to Shemos 6:2), after Chazal: he was called *Moshe* and not
+  *Mashuy*, drawn from the water, because *Moshe* is the present tense, one who
+  draws, since he would draw Yisrael out of exile; had Moshe examined his own
+  name, he would have known that Yisrael would be redeemed through him.
 
 ## Rendering guidance
 
@@ -220,4 +225,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Shemos: Pulling & Drawing](https://articles.ohr.edu/articles/shemos-pulling-drawing)," *What's in a Word?*, Ohr Somayach, 6 January 2024.
 
-Cited in the essay: Bereishis 24:11, 24:17, 24:65; Shemos 2:10; Devarim 28:22; Shoftim 5:14; Shmuel II 22:17; Yeshayahu 42:14, 63:11; Yirmiyahu 2:24, 14:6; Tehillim 18:17, 119:131; Iyov 7:2, 36:20; Koheles 1:5; Mishnah *Shabbos* 2:4; Sotah 47a; Sanhedrin 107b; Avodah Zarah 44a; Rashi, Rashbam, Ibn Ezra, Shadal, Rabbi Moshe Alshich, Chizkuni, Rav Hirsch, *Peirush HaTur* (in the name of Rabbi Yosef Kimchi), *Peirush HaRokeach*, *Moshav Zekanim* and *Midrash HaGadol* to Shemos 2:10; Targum, Rashi, Mahari Kara, Ibn Ezra and Radak to Yeshayahu 63:11; Radak, *Sefer HaShorashim* s.v. משה; Ibn Chayyuj; Ibn Janach; Menachem Ibn Saruk; Rav Hirsch to Bereishis 24:65 and Devarim 28:22; Ramban to Bereishis 24:17; Targum Onkelos; *Midrash Sechel Tov* to Bereishis 24:11; Rabbi Shlomo Ibn Parchon, *Machberes HeAruch*; Rabbi David Chaim Chelouche, *Ohr Chadash* (ויקרא, לוח היסודות והשרשים ד:ג); Rabbi Shlomo Pappenheim, *Yerios Shlomo* (עמ' 463); Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. שאב/שאף; Rabbi Shlomo Zalman Ehrenreich; Rabbi Menachem Mendel Kasher, *Torah Shleimah*; Rabbi Yaakov Berger, *Milon Leshon Mikra*; Even Shoshan's concordance.
+Rabbi Reuven Chaim Klein, "Pulling & Drawing," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 24:11, 24:17, 24:65; Shemos 2:10; Devarim 28:22; Shoftim 5:14; Shmuel II 22:17; Yeshayahu 42:14, 63:11; Yirmiyahu 2:24, 14:6; Tehillim 18:17, 119:131; Iyov 7:2, 36:20; Koheles 1:5; Mishnah *Shabbos* 2:4; Sotah 47a; Sanhedrin 107b; Avodah Zarah 44a; Rashi, Rashbam, Ibn Ezra, Shadal, Rabbi Moshe Alshich, Chizkuni, Rav Hirsch, *Peirush HaTur* (in the name of Rabbi Yosef Kimchi), *Peirush HaRokeach*, *Moshav Zekanim* and *Midrash HaGadol* to Shemos 2:10; Targum, Rashi, Mahari Kara, Ibn Ezra and Radak to Yeshayahu 63:11; Radak, *Sefer HaShorashim* s.v. משה; Ibn Chayyuj; Ibn Janach; Menachem Ibn Saruk; Rav Hirsch to Bereishis 24:65 and Devarim 28:22; Ramban to Bereishis 24:17; Targum Onkelos; *Midrash Sechel Tov* to Bereishis 24:11; Rabbi Shlomo Ibn Parchon, *Machberes HeAruch*; Rabbi David Chaim Chelouche, *Ohr Chadash* (ויקרא, לוח היסודות והשרשים ד:ג); Rabbi Shlomo Pappenheim, *Yerios Shlomo* (עמ' 463); Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. שאב/שאף; Rabbi Shlomo Zalman Ehrenreich; Rabbi Menachem Mendel Kasher, *Torah Shleimah*; Rabbi Yaakov Berger, *Milon Leshon Mikra*; Even Shoshan's concordance; Kli Yakar to Shemos 6:2.

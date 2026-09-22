@@ -21,9 +21,10 @@ words:
     distinct: a false answer to a claim already standing, contradicted before it is uttered (Malbim); a manufactured reaction of denial to a warranted claim (Rav Hirsch); saying of what is that it is not (Rabbi Wilheimer); plausible but not refutable outright (Wertheimer)
 sources:
   - wiaw:9080 "Mishpatim: Feeding the Lie" (2021-02-13) https://articles.ohr.edu/articles/mishpatim-feeding-the-lie
-authorities: [Rabbi Yosef Albo, Rabbi Yehuda Leib Edel, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Vilna Gaon, Rabbeinu Yosef Bechor Shor, Rabbi Yehuda Leib Shapira-Frankfurter, Malbim, Rabbi Yonah Wilheimer, Rabbi Shlomo Aharon Wertheimer]
+  - ms:132-feeding-the-lie.md "Feeding the Lie"
+authorities: [Rabbi Yosef Albo, Rabbi Yehuda Leib Edel, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Vilna Gaon, Rabbeinu Yosef Bechor Shor, Rabbi Yehuda Leib Shapira-Frankfurter, Malbim, Rabbi Yonah Wilheimer, Rabbi Shlomo Aharon Wertheimer, Shadal]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Falsehood: sheker / kazav / kachash
 
@@ -77,6 +78,9 @@ in the prohibition of Vayikra 19:11.
   interchangeable, joins *sheker* to *shikur*, a drunkard: as the drunk's
   imagination throws up what has no place in reality, *sheker* is what stands
   outside the real.
+- Shadal (to Shemos 20:7): *shav* is related to *nashaf*, *nashav* and *sha'af*,
+  breath and air, nothingness; from there it widened to anything false, a
+  statement that is only air with no substance.
 
 ### kazav (כזב)
 Scripture uses it plainly for falsehood: "the remnant of Israel do no iniquity
@@ -148,4 +152,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Mishpatim: Feeding the Lie](https://articles.ohr.edu/articles/mishpatim-feeding-the-lie)," *What's in a Word?*, Ohr Somayach, 13 February 2021.
 
-Cited in the essay: Shemos 23:7; Vayikra 19:11-12; Vayikra 5:4 and 5:21; Tzefaniah 3:13; Shevuos 26a; *Sefer HaIkkarim* 2:27; Rav Hirsch to Bereishis 9:21, 21:23, 43:11, Shemos 7:11, 21:17, Vayikra 5:21, 19:11, Devarim 9:7; the Vilna Gaon to Mishlei 12:25; Rabbeinu Yosef Bechor Shor to Bamidbar 23:19; Malbim, *Yair Ohr* and *Sefer HaCarmel*; Yechezkel 13:6, 13:7, 13:9, 21:34, 22:28.
+Rabbi Reuven Chaim Klein, "Feeding the Lie," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 23:7; Vayikra 19:11-12; Vayikra 5:4 and 5:21; Tzefaniah 3:13; Shevuos 26a; *Sefer HaIkkarim* 2:27; Rav Hirsch to Bereishis 9:21, 21:23, 43:11, Shemos 7:11, 21:17, Vayikra 5:21, 19:11, Devarim 9:7; the Vilna Gaon to Mishlei 12:25; Rabbeinu Yosef Bechor Shor to Bamidbar 23:19; Malbim, *Yair Ohr* and *Sefer HaCarmel*; Yechezkel 13:6, 13:7, 13:9, 21:34, 22:28; Shadal to Shemos 20:7.

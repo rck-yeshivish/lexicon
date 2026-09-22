@@ -37,9 +37,10 @@ words:
 sources:
   - wiaw:7377 "The Mountain of Many Names" (2017-05-29) https://groups.google.com/g/whats-in-a-word/c/9AvUbudDqKQ
   - wiaw:9723 "More Cheese Please" (2022-06-04) https://articles.ohr.edu/articles/more-cheese-please
-authorities: [Midrash, Zohar, Rabbi Yehudah HaLevi, Rabbi Berachiah Baruch Shapiro, Rabbi Naftali Katz, Rabbi Shlomo Pappenheim, Alexander Kohut]
+  - ms:291-the-mountain-of-many-names.md "The Mountain of Many Names"
+authorities: [Midrash, Zohar, Rabbi Yehudah HaLevi, Rabbi Berachiah Baruch Shapiro, Rabbi Naftali Katz, Rabbi Shlomo Pappenheim, Alexander Kohut, Shadal]
 status: reviewed
-updated: 2026-09-14
+updated: 2026-09-22
 ---
 # Mount Sinai: Sinai / Chorev / Har HaElokim / Bashan / Gavnunim / Chemed
 
@@ -133,6 +134,9 @@ Hashem desired (*chemdah*) to rest His Presence on that mountain in particular
 The name alludes to *cherev*, a sword: the Sanhedrin's authority to carry out
 capital punishment comes from the Torah received at Sinai.
 
+Shadal (to Shemos 3:1): Chorev and Sinai are two different mountains, or two
+peaks of one mountain.
+
 ### Moriah (מוריה)
 See the question above.
 
@@ -158,4 +162,6 @@ Rabbi Reuven Chaim Klein, "[The Mountain of Many Names](https://groups.google.co
 
 Rabbi Reuven Chaim Klein, "[More Cheese Please](https://articles.ohr.edu/articles/more-cheese-please)," *What's in a Word?*, Ohr Somayach, 4 June 2022.
 
-Cited in the essay: Tehillim 68:16-17; Shemos 21 onward, 33:6; Vayikra 21:20; the Midrash; the Zohar; Rabbi Yehudah HaLevi, *Yom Shabbaton*; Rabbi Berachiah Baruch Shapiro; Rabbi Naftali Katz; Rabbi Shlomo Pappenheim, *Yerios Shlomo*, *Cheshek Shlomo* s.v. גב, and *Cheshek Shlomo* s.v. שף) יריעות שלמה עמ' 347 (מהדו"ח; Alexander Kohut, *Aruch HaShalem*.
+Rabbi Reuven Chaim Klein, "The Mountain of Many Names," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Tehillim 68:16-17; Shemos 21 onward, 33:6; Vayikra 21:20; the Midrash; the Zohar; Rabbi Yehudah HaLevi, *Yom Shabbaton*; Rabbi Berachiah Baruch Shapiro; Rabbi Naftali Katz; Rabbi Shlomo Pappenheim, *Yerios Shlomo*, *Cheshek Shlomo* s.v. גב, and *Cheshek Shlomo* s.v. שף) יריעות שלמה עמ' 347 (מהדו"ח; Alexander Kohut, *Aruch HaShalem*; Shadal to Shemos 3:1.

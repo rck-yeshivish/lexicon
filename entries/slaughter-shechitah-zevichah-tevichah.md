@@ -29,9 +29,10 @@ words:
 sources:
   - wiaw:8023 "Slaughtering and Butchering" (2018-12-08) https://articles.ohr.edu/articles/slaughtering-and-butchering
   - wiaw:11327 "Shemini: The Nosey Truth" (2024-04-06) https://articles.ohr.edu/articles/shemini-the-nosey-truth
-authorities: [Malbim, Ralbag, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rabbi Yonah Ibn Janach, Rashi, Ibn Ezra, Ramban, Targum Onkelos, Rabbi Binyamin Mussafia]
+  - ms:064-slaughtering-and-butchering.md "Slaughtering and Butchering"
+authorities: [Malbim, Ralbag, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rabbi Yonah Ibn Janach, Rashi, Ibn Ezra, Ramban, Targum Onkelos, Rabbi Binyamin Mussafia, Mahari Assad, Rabbi Elazar Rokeach of Worms, Shadal, Sifrei]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Slaughter: shechitah / zevichah / tevichah (tabach)
 
@@ -76,6 +77,10 @@ slaughtering it), to *chor*, a hole, because it too involves making a hole;
 Rabbi Shlomo Pappenheim derives *nichirayim*, nostrils, from the same *chor*, a
 nostril being a hole in one's face.
 
+Shadal (to Bereishis 9:3 and Shemos 23:18): *shachat* is related to *sachat*,
+squeezing, since slaughter presses the blood out; *zevach* is from *zav*, since
+its purpose is to make the blood flow.
+
 ### zevichah (זביחה)
 Root ז-ב-ח.
 - Malbim: slaughtering with a stated purpose, whether a ritual korban or meat
@@ -88,6 +93,13 @@ Root ז-ב-ח.
   halachically unacceptable way of killing (see Targum Yonasan to Bamidbar
   22:40); to Vayikra 1:1 he writes that *shechitah* and *zevichah* are in fact
   synonyms.
+- Mahari Assad (*Kovetz Ohr Yisrael* 39): *shechitah* is said of *kodashim* and
+  *zevichah* of *chullin*, and he asks why *Chullin* then opens *hakol shochtin*
+  and *Zevachim* *kol hazevachim*. *Sefer HaChochmah* of the Rokeach (*Shaar
+  HaChiluk* §5, p. 18): *zevach* is said of an offering, *tevach* of a small
+  slaughter, and *shechitah* of either, large or small.
+- *Sifrei* (Naso 23) counts *zevichah* and *shechitah* among the pairs where the
+  Torah speaks in two expressions for one thing.
 
 ### tevichah (טביחה)
 Root ט-ב-ח.
@@ -169,4 +181,6 @@ Rabbi Reuven Chaim Klein, "[Slaughtering and Butchering](https://articles.ohr.ed
 
 Rabbi Reuven Chaim Klein, "[Shemini: The Nosey Truth](https://articles.ohr.edu/articles/shemini-the-nosey-truth)," *What's in a Word?*, Ohr Somayach, 6 April 2024.
 
-Cited in the essay: Bereishis 37:36 with Rashi, Ibn Ezra, Ramban and Targum Onkelos, and 43:16; Shemos 21:37, 22:3; Vayikra 1:1 with Ralbag; Bamidbar 14:16, and 22:40 with Targum Yonasan; Devarim 12:21 with Ralbag, and 28:31; Melachim II and Yirmiyahu on Nevuzaradan; Daniel 2:14 with Ibn Ezra; Mishnah Eduyos 8:4; Chullin 17a; Pesachim 17a; Malbim, *Yair Ohr* (זבח\טבח\שחט); Rabbi Shlomo Pappenheim, *Yerios Shlomo* (עמ' 46-47); Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Rabbi Shlomo Aharon Wertheimer; Rabbi Yonah Ibn Janach; Rabbi Binyamin Mussafia.
+Rabbi Reuven Chaim Klein, "Slaughtering and Butchering," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 37:36 with Rashi, Ibn Ezra, Ramban and Targum Onkelos, and 43:16; Shemos 21:37, 22:3; Vayikra 1:1 with Ralbag; Bamidbar 14:16, and 22:40 with Targum Yonasan; Devarim 12:21 with Ralbag, and 28:31; Melachim II and Yirmiyahu on Nevuzaradan; Daniel 2:14 with Ibn Ezra; Mishnah Eduyos 8:4; Chullin 17a; Pesachim 17a; Malbim, *Yair Ohr* (זבח\טבח\שחט); Rabbi Shlomo Pappenheim, *Yerios Shlomo* (עמ' 46-47); Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Rabbi Shlomo Aharon Wertheimer; Rabbi Yonah Ibn Janach; Rabbi Binyamin Mussafia; Mahari Assad, *Kovetz Ohr Yisrael* 39; *Sefer HaChochmah*, *Shaar HaChiluk* §5, p. 18; Shadal to Bereishis 9:3 and Shemos 23:18; *Sifrei*, Naso 23.

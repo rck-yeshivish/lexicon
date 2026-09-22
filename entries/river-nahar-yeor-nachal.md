@@ -20,9 +20,10 @@ words:
     distinct: both a river and a valley; the river that erodes a valley, or the seasonal runoff as against the year-round nahar (anonymous accounts); only a river that flows into a sea (Wertheimer); from ח-ל, circular motion (Rabbi Pappenheim)
 sources:
   - wiaw:8076 "Down by the River" (2019-01-05) https://articles.ohr.edu/articles/down-by-the-river
-authorities: [Rashi, Malbim, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Malkiel Tzvi Tannenbaum]
+  - ms:100-down-by-the-river.md "Down by the River"
+authorities: [Rashi, Malbim, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Malkiel Tzvi Tannenbaum, Chasam Sofer, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # River: nahar / yeor / nachal
 
@@ -98,6 +99,13 @@ Rabbi Klein then bridges the two: in light of what Malbim wrote, he explains
 that *yeor* recalls the fact that its waters tend to overflow past the banks,
 giving the illusion of the river itself shooting its waters outwards.
 
+Chasam Sofer (*Toras Moshe* to Bereishis 41:1): a *yeor* is a river whose end
+can be seen, a *nahar* one whose ends cannot.
+
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 41:1): *yeor* first meant
+the Nile specifically and later any river, so that in Daniel (10:4, 12:5) it can
+mean the Chidekel.
+
 ### nachal (נחל)
 Means both a river and a valley.
 
@@ -143,4 +151,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Down by the River](https://articles.ohr.edu/articles/down-by-the-river)," *What's in a Word?*, Ohr Somayach, 5 January 2019.
 
-Cited in the essay: Bereishis 2:11; Shemos 7:19 with Rashi; Yeshayahu 19:5 and Yirmiyahu 46:7 with Malbim; Koheles 1:7; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* and *Yerios Shlomo*; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. ים\נהר\נחל; Rabbi Malkiel Tzvi Tannenbaum of Lomzha, *Divrei Malkiel*.
+Rabbi Reuven Chaim Klein, "Down by the River," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 2:11; Shemos 7:19 with Rashi; Yeshayahu 19:5 and Yirmiyahu 46:7 with Malbim; Koheles 1:7; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* and *Yerios Shlomo*; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. ים\נהר\נחל; Rabbi Malkiel Tzvi Tannenbaum of Lomzha, *Divrei Malkiel*; Chasam Sofer, *Toras Moshe* to Bereishis 41:1; Benamozegh, *Eim LaMikra* to Bereishis 41:1; Daniel 10:4, 12:5.

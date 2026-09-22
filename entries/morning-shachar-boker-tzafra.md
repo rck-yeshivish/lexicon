@@ -26,9 +26,10 @@ words:
     distinct: the Targum's word for shachar in Iyov, Mishlei and Tehillim (Rabbi Eliyahu HaBachur); perhaps related to kritzah, winking, dawn being the small sign that daylight is coming (Rabbi Moshe Kosover of Beit Chilkiyah)
 sources:
   - wiaw:8518 "Good Morning Sunshine" (2019-12-14) https://articles.ohr.edu/articles/good-morning-sunshine
-authorities: [Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Alkabetz, Rashi, Rabbi Menachem Ibn Saruk, Ibn Ezra, Radak, Rabbi Wolf Heidenheim, Peirush HaRokeach, Zohar, Vilna Gaon, Rabbi Moshe Shapiro, Rabbi Eliyahu HaBachur, Ramban, Rabbi Aharon Marcus, Rabbi Yaakov Zev Lev, Rabbi Moshe Kosover of Beit Chilkiyah, Thomas Fuller]
+  - ms:051-good-morning-sunshine.md "Good Morning Sunshine"
+authorities: [Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Alkabetz, Rashi, Rabbi Menachem Ibn Saruk, Ibn Ezra, Radak, Rabbi Wolf Heidenheim, Peirush HaRokeach, Zohar, Vilna Gaon, Rabbi Moshe Shapiro, Rabbi Eliyahu HaBachur, Ramban, Rabbi Aharon Marcus, Rabbi Yaakov Zev Lev, Rabbi Moshe Kosover of Beit Chilkiyah, Thomas Fuller, Shadal, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Morning: shachar / boker (tzafra, kritzuta)
 
@@ -69,6 +70,9 @@ evening is *erev*, a word that also means "mixture." Hence the family: *bikores*
 (inspection), *bikkur cholim* (finding out how the sick man is and what can be
 done for him), *bakar* (cattle, which need looking after), and *boker* in the
 sense of a herdsman seeking out pasture.
+
+Shadal (to Bereishis 1:5): *boker* joins *boke'a ohr* (after Yeshayahu 58:8),
+the morning light breaking through the dark of night.
 
 ### shachar (שחר)
 Root ש-ח-ר. Rabbi Shlomo Alkabetz: not just a synonym for *boker*, but the
@@ -113,6 +117,9 @@ Two side-forms of the root: *shacharus* (Koheles 11:10), one's youth, which
 Radak (*Sefer HaShorashim*) reads as the morning of a life and Rashi as the
 years when the hair tends to be blacker; and Yeshayahu 8:20, where what is
 inexplicable is what has no *shachar*, no light shed on it.
+
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 32:25) connects *shachar*
+with *tzachar*, shin and tzadi interchanging.
 
 ### tzafra (צפרא) and kritzuta (קריצתא)
 Rabbi Eliyahu HaBachur: throughout Chumash, Onkelos renders both *shachar* and
@@ -165,4 +172,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Good Morning Sunshine](https://articles.ohr.edu/articles/good-morning-sunshine)," *What's in a Word?*, Ohr Somayach, 14 December 2019.
 
-Cited in the essay: Bereishis 32:27; Berachos 27a; Pesachim 4a; Bereishis 22:3; Tehillim 22:1 with Rashi; Mishlei 11:27; Bereishis 1:5 with Ibn Ezra, Radak and *Peirush HaRokeach*; Bereishis 1:20 (*Rokeach*); Tehillim 63:2 (Ibn Ezra); Koheles 11:10; Yeshayahu 8:20; Yoma 29a and 19b; Zohar, Beshalach 46a; Ramban to Vayikra 14:4; Bereishis 19:15 (Targum Yonasan); Tehillim 35:19; Mishlei 6:13; Radak, *Sefer HaShorashim*.
+Rabbi Reuven Chaim Klein, "Good Morning Sunshine," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 32:27; Berachos 27a; Pesachim 4a; Bereishis 22:3; Tehillim 22:1 with Rashi; Mishlei 11:27; Bereishis 1:5 with Ibn Ezra, Radak and *Peirush HaRokeach*; Bereishis 1:20 (*Rokeach*); Tehillim 63:2 (Ibn Ezra); Koheles 11:10; Yeshayahu 8:20; Yoma 29a and 19b; Zohar, Beshalach 46a; Ramban to Vayikra 14:4; Bereishis 19:15 (Targum Yonasan); Tehillim 35:19; Mishlei 6:13; Radak, *Sefer HaShorashim*; Shadal to Bereishis 1:5; Yeshayahu 58:8; Benamozegh, *Eim LaMikra* to Bereishis 32:25.

@@ -25,9 +25,10 @@ words:
 sources:
   - wiaw:11188 "Vayechi: White is Light" (2023-12-30) https://articles.ohr.edu/articles/vayechi-white-is-light
   - wiaw:11743 "Pekudai: Seeing Red (Part 2/3)" (2025-03-29) https://articles.ohr.edu/articles/pekudai-seeing-red-part-23
-authorities: [Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Rashi, Rabbi Saadia Gaon, Ibn Ezra, Ramban, Shadal, Ibn Janach, Rid, Ralbag, Rabbi Moshe Chalavah, Rabbi Yosef Nechemias, Rabbi Avraham Bedersi, Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, Rabbi Shmuel de Ucceda, Rashba, Radal, Rabbi Benzion Chaim Lubetzky, Rabbi Dovberish Rosenberg, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yitzchak of Zeldin, Menachem Ibn Saruk, Peshitta, Targum Yonasan, Rabbi Matisyahu Strashun, Rabbi Binyamin Rabinowitz-Teomim, Rabbi Aharon Marcus, David J. A. Clines, Rabbi Ernest Klein, Marcus Jastrow]
+  - ms:075-white-is-light.md "White is Light"
+authorities: [Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Rashi, Rabbi Saadia Gaon, Ibn Ezra, Ramban, Shadal, Ibn Janach, Rid, Ralbag, Rabbi Moshe Chalavah, Rabbi Yosef Nechemias, Rabbi Avraham Bedersi, Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, Rabbi Shmuel de Ucceda, Rashba, Radal, Rabbi Benzion Chaim Lubetzky, Rabbi Dovberish Rosenberg, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yitzchak of Zeldin, Menachem Ibn Saruk, Peshitta, Targum Yonasan, Rabbi Matisyahu Strashun, Rabbi Binyamin Rabinowitz-Teomim, Rabbi Aharon Marcus, David J. A. Clines, Rabbi Ernest Klein, Marcus Jastrow, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # White: lavan / chivar / tzochar (chelbon)
 
@@ -211,6 +212,9 @@ land," the etymon of the name Sahara; a version of Rashi to Berachos 31b, as
 printed in the Vilna Shas, says *tzachor* means "red"; and Marcus Jastrow's
 dictionary defines *tzachor* as "glistening" and "light reddish."
 
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 32:25) connects *shachar*
+with *tzachar*, shin and tzadi interchanging.
+
 ### chelbon (חלבון) and chalav (חלב)
 Yaakov's blessing to Yehudah speaks of whiteness of teeth from *chalav* (Bereishis
 49:12). Rabbi Matisyahu Strashun (1817 to 1885)
@@ -255,4 +259,6 @@ Rabbi Reuven Chaim Klein, "[Vayechi: White is Light](https://articles.ohr.edu/ar
 
 Rabbi Reuven Chaim Klein, "[Pekudai: Seeing Red (Part 2/3)](https://articles.ohr.edu/articles/pekudai-seeing-red-part-23)," *What's in a Word?*, Ohr Somayach, 29 March 2025.
 
-Cited in the essay: Bereishis 11:3, 23:8-9, 40:16, 46:10, 49:12; Shemos 5:7, 5:14, 6:15, 6:17, 17:10-12, 24:14, 31:2, 35:30, 38:22; Vayikra 13; Bamidbar 3:18-21, 26:13, 26:58, 31:8, 33:20-21; Devarim 1:1; Yehoshua 10:29-39, 12:15, 13:21; Shoftim 5:10; Melachim I 21:8; Yeshayahu 1:18, 29:22; Yechezkel 27:18; Yoel 1:7; Tehillim 51:9; Shir HaShirim 5:1 with Targum; Koheles 10:17; Esther 1:6, 8:15; Daniel 7:9, 11:35, 12:10; Ezra 2:45; Nechemiah 4:8, 4:13, 5:7, 7:5, 7:48; Divrei HaYamim I 4:7, 4:24, 6:2-14; Divrei HaYamim II 1:5; Mishnah *Peah* 3:8, *Gittin* 4:4-6, *Avos* 2:16, 6:2; Berachos 31b with Rashi (Vilna Shas); Sotah 12a; Megillah 12a; Rashi to Berachos 28a, Gittin 69b and 73a, Bava Basra 73a, Avodah Zarah 28a, Chullin 55b; Rashi to Shoftim 5:10 and Bamidbar 26:13; Rashi, Radak and Targum Yonasan to Yechezkel 27:18; the Peshitta there; Menachem Ibn Saruk, *Machberes Menachem*; responsa *Rashba* vol. 1 §12; Radak, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. חר, and *Yerios Shlomo* (עמ' 150); Rav Hirsch to Bereishis 1:3, 40:16 and Shemos 5:7; Rabbi Saadia Gaon; Ibn Ezra, Ramban and Shadal to Bereishis 40:16; Ibn Janach; the Rid; Ralbag; Rabbi Moshe Chalavah; Rabbi Yosef Nechemias; Rabbi Avraham Bedersi, *Chosam Tochnis*; Radal; Rabbi Benzion Chaim Lubetzky; Rabbi Dovberish Rosenberg, *Davar Tov*; Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, *Otzar Nirdafim*; Rabbi Yehudah Aryeh of Carpentras, *Aholei Yehuda*; Rabbi Yitzchak of Zeldin, *Shoresh Yesha*; Rabbi Shmuel de Ucceda, *Midrash Shmuel* to Avos 6:2; Rabbi Matisyahu Strashun; Rabbi Binyamin Rabinowitz-Teomim; Rabbi Aharon Marcus, *Barzilai*; David J. A. Clines, *A Dictionary of Classical Hebrew*; Rabbi Ernest Klein; Marcus Jastrow.
+Rabbi Reuven Chaim Klein, "White is Light," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 11:3, 23:8-9, 40:16, 46:10, 49:12; Shemos 5:7, 5:14, 6:15, 6:17, 17:10-12, 24:14, 31:2, 35:30, 38:22; Vayikra 13; Bamidbar 3:18-21, 26:13, 26:58, 31:8, 33:20-21; Devarim 1:1; Yehoshua 10:29-39, 12:15, 13:21; Shoftim 5:10; Melachim I 21:8; Yeshayahu 1:18, 29:22; Yechezkel 27:18; Yoel 1:7; Tehillim 51:9; Shir HaShirim 5:1 with Targum; Koheles 10:17; Esther 1:6, 8:15; Daniel 7:9, 11:35, 12:10; Ezra 2:45; Nechemiah 4:8, 4:13, 5:7, 7:5, 7:48; Divrei HaYamim I 4:7, 4:24, 6:2-14; Divrei HaYamim II 1:5; Mishnah *Peah* 3:8, *Gittin* 4:4-6, *Avos* 2:16, 6:2; Berachos 31b with Rashi (Vilna Shas); Sotah 12a; Megillah 12a; Rashi to Berachos 28a, Gittin 69b and 73a, Bava Basra 73a, Avodah Zarah 28a, Chullin 55b; Rashi to Shoftim 5:10 and Bamidbar 26:13; Rashi, Radak and Targum Yonasan to Yechezkel 27:18; the Peshitta there; Menachem Ibn Saruk, *Machberes Menachem*; responsa *Rashba* vol. 1 §12; Radak, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. חר, and *Yerios Shlomo* (עמ' 150); Rav Hirsch to Bereishis 1:3, 40:16 and Shemos 5:7; Rabbi Saadia Gaon; Ibn Ezra, Ramban and Shadal to Bereishis 40:16; Ibn Janach; the Rid; Ralbag; Rabbi Moshe Chalavah; Rabbi Yosef Nechemias; Rabbi Avraham Bedersi, *Chosam Tochnis*; Radal; Rabbi Benzion Chaim Lubetzky; Rabbi Dovberish Rosenberg, *Davar Tov*; Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, *Otzar Nirdafim*; Rabbi Yehudah Aryeh of Carpentras, *Aholei Yehuda*; Rabbi Yitzchak of Zeldin, *Shoresh Yesha*; Rabbi Shmuel de Ucceda, *Midrash Shmuel* to Avos 6:2; Rabbi Matisyahu Strashun; Rabbi Binyamin Rabinowitz-Teomim; Rabbi Aharon Marcus, *Barzilai*; David J. A. Clines, *A Dictionary of Classical Hebrew*; Rabbi Ernest Klein; Marcus Jastrow; Benamozegh, *Eim LaMikra* to Bereishis 32:25.

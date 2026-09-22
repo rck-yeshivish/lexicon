@@ -32,9 +32,10 @@ words:
     distinct: collecting bit by bit and storing for later (Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim); Rabbi Avraham Bedersi restricts it to inanimate things
 sources:
   - wiaw:8439 "Succot - the Majestic Holiday of Gathering" (2019-10-12) https://articles.ohr.edu/articles/succot-aeur-the-majestic-holiday-of-gathering
-authorities: [Rashi, Radak, Malbim, Vilna Gaon, Rabbi Yehuda Leib Edel, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Aharon Wertheimer]
+  - ms:343-the-majestic-holiday-of-gathering.md "The Majestic Holiday of Gathering"
+authorities: [Rashi, Radak, Malbim, Vilna Gaon, Rabbi Yehuda Leib Edel, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Aharon Wertheimer, Rabbi Elazar Rokeach of Worms, Rabbi Zev Leff]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Gathering: asifah / kovetz / aggudah / kehillah / eidah / agur
 
@@ -94,6 +95,13 @@ The first two agree that *asifah* brings in.
   *eidah* a body joined for a specific cause.
 - Along the same lines, the Vilna Gaon (Mishlei 5:14): *eidah* is a gathering
   of the righteous.
+- The Rokeach (Bereishis p. 60): *mikveh* is said of what gathers of itself into
+  one place; *kibutz* is gathering little by little from here and there;
+  *tzvirah* is heaping up high; *asifah* is gathering much together; *kenisah*
+  is gathering into one place until it is needed; and *agirah* needs searching
+  and care. Rabbi Zev Leff: *asifah* is a physical gathering of many bodies, and
+  an *edah* a gathering united by one idea, all testifying to one thing or
+  aiming at one goal, *ya'ad*, tied to *edus*.
 
 ## Distinctions
 
@@ -154,4 +162,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Succot - the Majestic Holiday of Gathering](https://articles.ohr.edu/articles/succot-aeur-the-majestic-holiday-of-gathering)," *What's in a Word?*, Ohr Somayach, 12 October 2019.
 
-Cited in the essay: Shemos 23:16 and 34:22 with Rashi, 30:13; Bereishis 49:1-2, 49:29 and 49:33 with Rashi; Bamidbar 10:2, 11:30 with Malbim, 27:13; Devarim 28:39; Shmuel I 2:36; Melachim I 8:1; Chavakuk 2:5 with the Vilna Gaon; Mishlei 5:14 with the Vilna Gaon, 30:1; Koheles 1:1 with Rashi; Esther 2:3; Bereishis 15:1 in Targum Onkelos; Succah 11b, 13a; Avos 5:22; Radak, *Sefer HaShorashim* s.v. אסף; *Midrash Agur* 4; Rabbi Yehuda Leib Edel, *Redifei Maya* (עמ' קנט); Rabbi Shlomo Pappenheim, *Yerios Shlomo* (עמ' 719 ולהלן, 726), and *Cheshek Shlomo* s.v. קל, גד, גר, סף; Rabbi Avraham Bedersi HaPenini; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. אגר and קבץ.
+Rabbi Reuven Chaim Klein, "The Majestic Holiday of Gathering," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 23:16 and 34:22 with Rashi, 30:13; Bereishis 49:1-2, 49:29 and 49:33 with Rashi; Bamidbar 10:2, 11:30 with Malbim, 27:13; Devarim 28:39; Shmuel I 2:36; Melachim I 8:1; Chavakuk 2:5 with the Vilna Gaon; Mishlei 5:14 with the Vilna Gaon, 30:1; Koheles 1:1 with Rashi; Esther 2:3; Bereishis 15:1 in Targum Onkelos; Succah 11b, 13a; Avos 5:22; Radak, *Sefer HaShorashim* s.v. אסף; *Midrash Agur* 4; Rabbi Yehuda Leib Edel, *Redifei Maya* (עמ' קנט); Rabbi Shlomo Pappenheim, *Yerios Shlomo* (עמ' 719 ולהלן, 726), and *Cheshek Shlomo* s.v. קל, גד, גר, סף; Rabbi Avraham Bedersi HaPenini; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. אגר and קבץ; Rokeach, Bereishis p. 60; Rabbi Zev Leff.

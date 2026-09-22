@@ -26,9 +26,10 @@ words:
     nk: אֲרוּסָה
 sources:
   - wiaw:8883 "Holy Matrimony" (2020-10-03) https://articles.ohr.edu/articles/holy-matrimony
-authorities: [Rabbanan Savorai, Tosafos, Rashi, Rav Hirsch, Rabbi Yitzchak Vana, Rabbi Alexander Sender Shor, Rabbi Elazar Moshe Horowitz, Taz, Rabbi Aharon HaLevi of Barcelona, Rabbi Yosef Ibn Ezra, Rabbi Eliezer Ashkenazi, Rabbi Shalom Mansoura, Rabbi Yitzchak Ratzabi, Rabbi Baruch HaLevi Epstein, Shamma Friedman, Michael Satlow]
+  - ms:329-holy-matrimony.md "Holy Matrimony"
+authorities: [Rabbanan Savorai, Tosafos, Rashi, Rav Hirsch, Rabbi Yitzchak Vana, Rabbi Alexander Sender Shor, Rabbi Elazar Moshe Horowitz, Taz, Rabbi Aharon HaLevi of Barcelona, Rabbi Yosef Ibn Ezra, Rabbi Eliezer Ashkenazi, Rabbi Shalom Mansoura, Rabbi Yitzchak Ratzabi, Rabbi Baruch HaLevi Epstein, Shamma Friedman, Michael Satlow, Rabbi Immanuel Chai Ricci]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Betrothal: erusin / kiddushin / nissuin (hekdesh, shidduchin)
 
@@ -129,6 +130,11 @@ handing the bride over is the definition of *nissuin* (*Kesubos* 4:5), not of
 *kiddushin*; he allows, though, that the Rabbis may have adopted the Greek word
 and slightly modified its pronunciation and sense, as they often did with foreign words.
 
+Rabbi Immanuel Chai Ricci (*Hon Ashir*, introduction to *Kiddushin*): a man
+becomes holy by marrying a woman, who saves him from sin, and since every fence
+against forbidden relations is called *kedushah*, marriage is called
+*kiddushin*.
+
 ### nissuin (נישואין)
 The second stage, effected by chuppah, after which the couple live together.
 *Kesubos* 4:5 defines it as the father handing the daughter over to the husband.
@@ -165,4 +171,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Holy Matrimony](https://articles.ohr.edu/articles/holy-matrimony)," *What's in a Word?*, Ohr Somayach, 3 October 2020.
 
-Cited in the essay: Devarim 33:4 with *Berachos* 57a and *Pesachim* 49b; Shemos 22:15 with Rav Hirsch; Devarim 20:7, 22:23-27, 28:30; *Kiddushin* 2b and 7b with Tosafos; Mishnah *Kiddushin* 2:1; *Kesubos* 4:5 and Rashi to *Kesubos* 8a; Maseches *Kallah* 1:1; *Turei Zahav* to *Even HaEzer* 34:2; Shemos 19:10, Bamidbar 11:18; Rashi to Bereishis 38:21 and Devarim 23:18; Yechezkel 27:24.
+Rabbi Reuven Chaim Klein, "Holy Matrimony," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Devarim 33:4 with *Berachos* 57a and *Pesachim* 49b; Shemos 22:15 with Rav Hirsch; Devarim 20:7, 22:23-27, 28:30; *Kiddushin* 2b and 7b with Tosafos; Mishnah *Kiddushin* 2:1; *Kesubos* 4:5 and Rashi to *Kesubos* 8a; Maseches *Kallah* 1:1; *Turei Zahav* to *Even HaEzer* 34:2; Shemos 19:10, Bamidbar 11:18; Rashi to Bereishis 38:21 and Devarim 23:18; Yechezkel 27:24; *Hon Ashir*, introduction to *Kiddushin*.

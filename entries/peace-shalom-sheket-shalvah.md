@@ -27,9 +27,10 @@ words:
     nk: שָׁלֵם
 sources:
   - wiaw:8816 "Peace and Quiet" (2020-08-08) https://articles.ohr.edu/articles/peace-and-quiet
-authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Malbim, Rav Hirsch, Ibn Janach, Radak, Rashi, Ibn Ezra, Ramban]
+  - ms:211-peace-and-quiet.md "Peace and Quiet"
+authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Malbim, Rav Hirsch, Ibn Janach, Radak, Rashi, Ibn Ezra, Ramban, Chasam Sofer]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Peace: shalom / shalvah / sheket / shaanan
 
@@ -107,6 +108,11 @@ meanings converge in one word?
   become content with his present spiritual stature, stop striving for greater
   perfection, smugly keep to his tried and tested ways, and so start down the
   slope toward sin.
+- Chasam Sofer (*Toras Moshe* to Bereishis 37:1): *shalom* is peace while one
+  must still contend with Esav, who hinders one's service of Hashem; *shalvah*
+  is peace once the effects of Esav's efforts are wholly gone. That is why
+  *shalvah* holds the vav and hei, the second half of the Name that Esav's
+  descendants Amalek cut in half (see Rashi to Shemos 17:16).
 
 ### sheket (שקט)
 Root ש-ק-ט.
@@ -176,4 +182,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Peace and Quiet](https://articles.ohr.edu/articles/peace-and-quiet)," *What's in a Word?*, Ohr Somayach, 8 August 2020.
 
-Cited in the essay: Bedersi to Divrei HaYamim I 22:9, and *Chosam Tochnis* pp. 256 and 261; Wertheimer on *sheket* against *shalom/shalvah*, *Beiurei Shemos Nirdafim* s.v. שלו/שקט/נחת; Pappenheim on the roots ש-ל and ש-א, *Cheshek Shlomo* s.v. שא and של, and *Yerios Shlomo*, chovereth 3 yeriah 31; Shemos 3:5; Maariv of Shabbos; Shir HaShirim Rabbah 3:14; Malbim on *shalvah/shalom* and *shaanan/shaon*, *Sefer HaCarmel* s.v. שלוה, and *Yair Ohr*, maareches shin os 4; Rashi and Ibn Ezra to Eichah 1:5; Melachim II 4:28, Shmuel II 6:7, Divrei HaYamim II 29:11, Daniel 6:5 (*shalu*); Rashi to Rus 2:16 and Ramban to Bereishis 38:5 (*shaluta*); Rav Hirsch to Bereishis 8:1 and Vayikra 5:4; Yirmiyahu 30:10, 48:11; Mishlei 1:33; Iyov 21:23; Bereishis Rabbah 10:9; Yeshayahu 32:18; the Shabbos Minchah Amidah.
+Rabbi Reuven Chaim Klein, "Peace and Quiet," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bedersi to Divrei HaYamim I 22:9, and *Chosam Tochnis* pp. 256 and 261; Wertheimer on *sheket* against *shalom/shalvah*, *Beiurei Shemos Nirdafim* s.v. שלו/שקט/נחת; Pappenheim on the roots ש-ל and ש-א, *Cheshek Shlomo* s.v. שא and של, and *Yerios Shlomo*, chovereth 3 yeriah 31; Shemos 3:5; Maariv of Shabbos; Shir HaShirim Rabbah 3:14; Malbim on *shalvah/shalom* and *shaanan/shaon*, *Sefer HaCarmel* s.v. שלוה, and *Yair Ohr*, maareches shin os 4; Rashi and Ibn Ezra to Eichah 1:5; Melachim II 4:28, Shmuel II 6:7, Divrei HaYamim II 29:11, Daniel 6:5 (*shalu*); Rashi to Rus 2:16 and Ramban to Bereishis 38:5 (*shaluta*); Rav Hirsch to Bereishis 8:1 and Vayikra 5:4; Yirmiyahu 30:10, 48:11; Mishlei 1:33; Iyov 21:23; Bereishis Rabbah 10:9; Yeshayahu 32:18; the Shabbos Minchah Amidah; Chasam Sofer, *Toras Moshe* to Bereishis 37:1; Rashi to Shemos 17:16.

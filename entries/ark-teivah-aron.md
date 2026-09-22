@@ -18,9 +18,10 @@ words:
 sources:
   - wiaw:6943 "A Tale of Two Arks" (2016-09-24) https://articles.ohr.edu/articles/a-tale-of-two-arks
   - wiaw:9405 "Words for Words" (2021-10-23) https://articles.ohr.edu/articles/words-for-words
-authorities: [Rabbi Aharon Marcus, Ibn Janach, Radak, Rav Hirsch]
+  - ms:011-a-tale-of-two-arks.md "A Tale of Two Arks"
+authorities: [Rabbi Aharon Marcus, Ibn Janach, Radak, Rav Hirsch, Ibn Ezra]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Ark: teivah / aron
 
@@ -58,6 +59,11 @@ the root as ת-ב-ה, while Radak (*Sefer HaShorashim*) mentions a possible
 alternative, ת-י-ב; Rav Hirsch (to Bereishis 6:14) derives the word from the
 Aramaic י-ת-ב, the Hebrew י-ש-ב, sitting or dwelling, the *teivah* being one's
 temporary domicile.
+
+Ibn Ezra (to Bereishis 6:14): Noach's ark was an ark and not a boat, which is
+why it is called a *teivah*, a chest. It was not shaped like a boat, so the
+pasuk does not call it a *sefinah* or an *oniyah*, and it had no oars, so it is
+not a *shayit*.
 
 ### aron (ארון)
 Also two contexts in Tanach: the *Aron HaBris*, the gold-plated wooden box
@@ -104,4 +110,6 @@ Rabbi Reuven Chaim Klein, "[A Tale of Two Arks](https://articles.ohr.edu/article
 
 Rabbi Reuven Chaim Klein, "[Words for Words](https://articles.ohr.edu/articles/words-for-words)," *What's in a Word?*, Ohr Somayach, 23 October 2021.
 
-Cited in the essay: Bereishis 6 to 9 and 50:26; Shemos 2:3; Mishnah Taanis 2:1; Mishnah Megillah 3:1; Yerushalmi Shekalim 6:1; Rabbi Aharon Marcus, *Keses HaSofer*; Ibn Janach and Radak, *Sefer HaShorashim*; Rav Hirsch to Bereishis 6:14.
+Rabbi Reuven Chaim Klein, "A Tale of Two Arks," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 6 to 9 and 50:26; Shemos 2:3; Mishnah Taanis 2:1; Mishnah Megillah 3:1; Yerushalmi Shekalim 6:1; Rabbi Aharon Marcus, *Keses HaSofer*; Ibn Janach and Radak, *Sefer HaShorashim*; Rav Hirsch to Bereishis 6:14; Ibn Ezra to Bereishis 6:14.

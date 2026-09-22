@@ -35,9 +35,10 @@ words:
 sources:
   - wiaw:8181 "Playing the Lottery" (2019-03-16) https://articles.ohr.edu/articles/playing-the-lottery
   - wiaw:10974 "Shelach: Learning the Ropes" (2023-06-10) https://articles.ohr.edu/articles/shelach-learning-the-ropes
-authorities: [Maharitatz (Rabbi Yom Tov Tzahalon), Rabbi Yaakov Lorberbaum of Lissa, Midrash Lekach Tov, Rashbam, Ibn Ezra, Ramban, Rabbi Yosef ben Yosef Ibn Nachmias, Rabbi Shlomo Pappenheim, Tosafos Yom Tov, Meiri, Sefer HeAruch, Rabbi Shlomo HaAdani (Meleches Shlomo), Rabbi Yosef Yishai Rain]
+  - ms:167-playing-the-lottery.md "Playing the Lottery"
+authorities: [Maharitatz (Rabbi Yom Tov Tzahalon), Rabbi Yaakov Lorberbaum of Lissa, Midrash Lekach Tov, Rashbam, Ibn Ezra, Ramban, Rabbi Yosef ben Yosef Ibn Nachmias, Rabbi Shlomo Pappenheim, Tosafos Yom Tov, Meiri, Sefer HeAruch, Rabbi Shlomo HaAdani (Meleches Shlomo), Rabbi Yosef Yishai Rain, Rabbi Levi Yitzchak of Berditchev]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Lottery: goral / pur / payis / cholesh
 
@@ -137,6 +138,10 @@ royalty to victimize.
 - Alternatively, Rabbi Yosef Yishai Rain suggests it is related to its Hebrew
   homonym *chalash* ("weak"): winning something in a raffle or lottery is weak
   proof that one really deserved it.
+- Kedushas Levi (*Derushim LeChanukah*): *cholesh* is a lottery in the sense of
+  the uncertainty of leaving things to chance. The Gemara calls that unsettled
+  uncertainty *chalishus hada'as*, weakness of mind, because a man unsure
+  whether he will succeed is not at rest.
 
 ### kalpi (קלפי) and chevel (חבל)
 *Kalpi* is the Mishnaic name for the box the lots are drawn from (*Yoma* 39a),
@@ -180,4 +185,6 @@ Rabbi Reuven Chaim Klein, "[Playing the Lottery](https://articles.ohr.edu/articl
 
 Rabbi Reuven Chaim Klein, "[Shelach: Learning the Ropes](https://articles.ohr.edu/articles/shelach-learning-the-ropes)," *What's in a Word?*, Ohr Somayach, 10 June 2023.
 
-Cited in the essay: Esther 3:7 and 9:26; Vayikra 16:8; Bamidbar 26:55; Shemos 12:2, 16:15, 17:13; Yeshayahu 14:12, 24:19; Hoshea 13:13; *Yoma* 2:2-4, 22a, 39a; *Shabbos* 23:2 and 149b; *Yalkut Shimoni*, Shemos §265; *Pesikta d'Rav Kahana* §3:1; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. פר; *Tosafos Yom Tov*.
+Rabbi Reuven Chaim Klein, "Playing the Lottery," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Esther 3:7 and 9:26; Vayikra 16:8; Bamidbar 26:55; Shemos 12:2, 16:15, 17:13; Yeshayahu 14:12, 24:19; Hoshea 13:13; *Yoma* 2:2-4, 22a, 39a; *Shabbos* 23:2 and 149b; *Yalkut Shimoni*, Shemos §265; *Pesikta d'Rav Kahana* §3:1; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. פר; *Tosafos Yom Tov*; Kedushas Levi, *Derushim LeChanukah*.

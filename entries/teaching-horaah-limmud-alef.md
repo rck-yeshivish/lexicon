@@ -25,9 +25,10 @@ words:
     distinct: counsel in the practical application of what the student already knows, laying out a derech, and not necessarily new information, Malbim's contrast to the teaching words (Malbim)
 sources:
   - wiaw:9308 "The Ultimate Teacher" (2021-07-24) https://articles.ohr.edu/articles/the-ultimate-teacher
+  - ms:302-the-ultimate-teacher.md "The Ultimate Teacher"
 authorities: [Ibn Janach, Radak, Menachem Ibn Saruk, Malbim, Shadal, Rav Hirsch, Rabbi Shlomo Pappenheim, Vilna Gaon]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Teaching: hora'ah / limmud / alef (and hadrachah)
 
@@ -114,6 +115,11 @@ bringing it to its conclusion. The early grammarians note that the *malmad
 habakar*, the ox-goad of Shoftim 3:31, used in training cattle to plow, is from
 the same root.
 
+Rabbi Klein observes that the word for teacher, *moreh*, is from *horaah*, which
+runs one way, while the word for student, *talmid*, is from *limmud*, which runs
+both ways: the teacher teaches the student, and the student also teaches the
+teacher.
+
 ### alef (אלף)
 Iyov 33:33 and 35:11; Mishlei 22:25. Malbim: this is teaching done
 inadvertently, where a person or thing serves as a prototype from which a lesson
@@ -186,5 +192,7 @@ None yet.
 ## Sources
 
 Rabbi Reuven Chaim Klein, "[The Ultimate Teacher](https://articles.ohr.edu/articles/the-ultimate-teacher)," *What's in a Word?*, Ohr Somayach, 24 July 2021.
+
+Rabbi Reuven Chaim Klein, "The Ultimate Teacher," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
 Cited in the essay: Bereishis 26:5; Shemos 15:4; Vayikra 15:3, 21:20; Devarim 4:1, 7:13, 11:14, 28:4, 28:18, 28:51; Shoftim 3:31, 16:29; Shmuel I 21:14; Melachim II 12:3; Yeshayahu 28:9, 30:24; Yoel 2:23; Tehillim 8:8, 50:10; Mishlei 14:4, 22:25; Iyov 6:6, 33:33, 35:11; Shir HaShirim 4:4; Rus 3:8; Mishnah *Avos* 4:7 and 6:6, *Horayos* 1:1 and 1:4, *Parah* 7:9; Berachos 30a; Taanis 7a; Makkos 10a; Ibn Janach and Radak; Menachem Ibn Saruk, *Machberes Menachem*; Rav Hirsch to Bereishis 26:5 and Devarim 4:1; Malbim, *Sefer HaCarmel* s.v. אלף; Shadal; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. לף; the Vilna Gaon to Mishlei 14:4.

@@ -20,9 +20,10 @@ words:
     distinct: the overt enemy, hating with such heat that he attacks openly and spends his own reputation and resources to do it; Haman is tzorer haYehudim
 sources:
   - wiaw:6828 "A Variety of Enemies" (2016-07-02) https://articles.ohr.edu/articles/a-variety-of-enemies
-authorities: [Malbim, Vilna Gaon]
+  - ms:236-a-variety-of-enemies.md "A Variety of Enemies"
+authorities: [Malbim, Vilna Gaon, Rabbi Yaakov Emden, Shadal, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Enemy: oyev / soneh / tzar
 
@@ -57,6 +58,14 @@ The *meforshim* add that the *oyev*, for all his activity, still tries to hide
 his hatred beneath a façade of empathy. Like the *soneh*, he is a clandestine
 enemy, not an overt one.
 
+Shadal (to Shemos 23:5): *oyev* is a stronger hatred than *soneh*. The Torah
+obliges one to return a *soneh*'s lost object but exempts him from returning an
+*oyev*'s, since facing an *oyev* one may justly fear for one's life.
+
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 27:41-42): *sitmah*, from
+ש-ט-ם, is hatred related to *satam*, sealed: hatred shut up in the heart while
+on the surface one pretends to be appeased, as Esav did with Yaakov.
+
 ### soneh (שונא)
 From *sinah*, hatred. The *soneh* is a hidden enemy: his hatred stays internal
 and is not expressed outwardly, remaining in the realm of the theoretical. This
@@ -72,6 +81,10 @@ the *oyev* wants to injure his victim's physical existence (his body, his
 money), the *soneh* his spiritual existence, to pull him off the path of
 Hashem. On that reading the *soneh* is the more dangerous of the two, counter to
 what one would assume.
+
+Rabbi Yaakov Emden (*Eim LaBinah* to Shemos 23:22): the *soneh* hates openly, in
+speech (see Bereishis 37:4), while the *oyev* keeps his enmity buried in his
+heart and holds the grudge forever, like Esav (see Yechezkel 25:15).
 
 ### tzar / tzorer (צר / צורר)
 The overt enemy. Where the *oyev* conceals his enmity, the *tzar* hates with
@@ -103,4 +116,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[A Variety of Enemies](https://articles.ohr.edu/articles/a-variety-of-enemies)," *What's in a Word?*, Ohr Somayach, 2 July 2016.
 
-Cited in the essay: Bamidbar 10:35; Vayikra 19:17; Mishnah Sanhedrin 3:5; Esther 9:10; Malbim and the Vilna Gaon on *oyev* and *soneh*.
+Rabbi Reuven Chaim Klein, "A Variety of Enemies," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bamidbar 10:35; Vayikra 19:17; Mishnah Sanhedrin 3:5; Esther 9:10; Malbim and the Vilna Gaon on *oyev* and *soneh*; Rabbi Yaakov Emden, *Eim LaBinah* to Shemos 23:22; Bereishis 37:4; Yechezkel 25:15; Shadal to Shemos 23:5; Benamozegh, *Eim LaMikra* to Bereishis 27:41-42.

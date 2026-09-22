@@ -24,9 +24,10 @@ words:
     distinct: "disputed: plain fat, a synonym of cheilev (Menachem Ibn Saruk, Radak, Rashi, Ibn Ezra, Rashbam); the thin membrane dividing the innards (Ramban); a spread of fat that covers (Rabbi Shaul Goldman); the organ cluster of trachea, lungs, heart and liver (Rabbi Saadia Gaon, Ibn Janach)"
 sources:
   - wiaw:11314 "Tzav: Good Fat, Bad Fat" (2024-03-30) https://articles.ohr.edu/articles/tzav-good-fat-bad-fat
-authorities: [Rashi, Ramban, Rabbeinu Bachya, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Rav Hirsch, Chizkuni, Menachem Ibn Saruk, Radak, Ibn Ezra, Rashbam, Rabbi Shlomo of Urbino, Rabbeinu Gershom, Rabbi Saadia Gaon, Ibn Janach, Ibn Parchon, Rabbi Eliyahu HaBachur, Rabbi David Chaim Chelouche, Rabbi Shaul Goldman, Rambam]
+  - ms:184-good-fat-bad-fat.md "Good Fat, Bad Fat"
+authorities: [Rashi, Ramban, Rabbeinu Bachya, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Rav Hirsch, Chizkuni, Menachem Ibn Saruk, Radak, Ibn Ezra, Rashbam, Rabbi Shlomo of Urbino, Rabbeinu Gershom, Rabbi Saadia Gaon, Ibn Janach, Ibn Parchon, Rabbi Eliyahu HaBachur, Rabbi David Chaim Chelouche, Rabbi Shaul Goldman, Rambam, Tosafos Yom Tov, Sefer HeAruch, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Fat: cheilev / shuman / pader / tarba
 
@@ -85,6 +86,16 @@ times in Tanach by Even Shoshan's concordance.
   from its place or reused for a different purpose: milk is the nourishment
   separated out of the mother's body to sustain another, and *cheilev* is the
   energy the body stores aside for future use rather than present need.
+- The fats are called *eimurim* because they are the parts of the animal
+  *amurim*, said in the Torah, to be burnt on the Mizbeach (Tosafos Yom Tov,
+  after the Rambam's introduction to *Seder Kodashim*: "these are called
+  *eimurim*, meaning the things He commanded to burn").
+- *Sefer Aruch* (s.v. מר): the fats are called *eimurim* because they are lords,
+  *morim*, over all the limbs, and they go up on the Mizbeach as the portion of
+  the Lord of the world.
+- Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bamidbar 18:17): Assyrian
+  *tahlubti*, a covering or garment, is a cognate of *cheilev*, the fatty
+  membrane that covers certain organs.
 
 ### shuman (שומן)
 Not in Tanach at all; it enters with the Mishnah (*Kerisus* 4:1).
@@ -189,4 +200,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Tzav: Good Fat, Bad Fat](https://articles.ohr.edu/articles/tzav-good-fat-bad-fat)," *What's in a Word?*, Ohr Somayach, 30 March 2024.
 
-Cited in the essay: Bereishis 4:4, 45:18; Shemos 13:2, 13:12, 13:13, 13:15, 23:18, 29:13, 34:19; Vayikra 1:8, 1:12, 3:3, 3:9, 7:24, 8:20, 8:26; Bamidbar 3:12, 18:15, 18:29-32; Shoftim 3:22; Shmuel II 23:29; Divrei HaYamim I 11:30, 27:15; Tehillim 73:7, 147:14; Yechezkel 20:26; Chullin 27b, 45b, 93a; Sukkah 54b with Tosafos; *Shekalim* 8:8; *Kerisus* 4:1; Tamid 31a; Shabbos 133b, 136b; Avodah Zarah 28b; Bava Metzia 83b; Bechoros 30a; Rashi; Ramban; Rabbeinu Bachya; Chizkuni; Ibn Ezra; Rashbam; Rav Hirsch; the Mainz commentary attributed to Rabbeinu Gershom; Rabbi Saadia Gaon; Rambam, *Hilchos Maachalos Assuros* 7:5; Pappenheim, *Cheshek Shlomo*; Rabbi Shlomo of Urbino, *Ohel Moed*; *Machberes Menachem*; Radak and Ibn Janach, *Sifrei HaShorashim*; Ibn Parchon, *Machberes HeAruch*; Rabbi Eliyahu HaBachur, *Nimukim*; *Tirgem Avraham* to Shemos 29:13; Rabbi Shlomo Aharon Wertheimer; Rabbi David Chaim Chelouche, *Ohr Chadash* (ויקרא לוח היסודות והשרשים עמ' יד); Rabbi Shaul Goldman; Even Shoshan's concordance.
+Rabbi Reuven Chaim Klein, "Good Fat, Bad Fat," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 4:4, 45:18; Shemos 13:2, 13:12, 13:13, 13:15, 23:18, 29:13, 34:19; Vayikra 1:8, 1:12, 3:3, 3:9, 7:24, 8:20, 8:26; Bamidbar 3:12, 18:15, 18:29-32; Shoftim 3:22; Shmuel II 23:29; Divrei HaYamim I 11:30, 27:15; Tehillim 73:7, 147:14; Yechezkel 20:26; Chullin 27b, 45b, 93a; Sukkah 54b with Tosafos; *Shekalim* 8:8; *Kerisus* 4:1; Tamid 31a; Shabbos 133b, 136b; Avodah Zarah 28b; Bava Metzia 83b; Bechoros 30a; Rashi; Ramban; Rabbeinu Bachya; Chizkuni; Ibn Ezra; Rashbam; Rav Hirsch; the Mainz commentary attributed to Rabbeinu Gershom; Rabbi Saadia Gaon; Rambam, *Hilchos Maachalos Assuros* 7:5; Pappenheim, *Cheshek Shlomo*; Rabbi Shlomo of Urbino, *Ohel Moed*; *Machberes Menachem*; Radak and Ibn Janach, *Sifrei HaShorashim*; Ibn Parchon, *Machberes HeAruch*; Rabbi Eliyahu HaBachur, *Nimukim*; *Tirgem Avraham* to Shemos 29:13; Rabbi Shlomo Aharon Wertheimer; Rabbi David Chaim Chelouche, *Ohr Chadash* (ויקרא לוח היסודות והשרשים עמ' יד); Rabbi Shaul Goldman; Even Shoshan's concordance; Tosafos Yom Tov; Rambam, introduction to *Seder Kodashim*; *Sefer HeAruch* s.v. מר; Benamozegh, *Eim LaMikra* to Bamidbar 18:17.

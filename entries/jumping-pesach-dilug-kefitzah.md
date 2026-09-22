@@ -21,9 +21,10 @@ words:
 sources:
   - wiaw:7204 "Jumping for Passover: Part 1" (2017-04-01) https://articles.ohr.edu/articles/jumping-for-passover-part-1
   - wiaw:7218 "Jumping for Passover: Part 2" (2017-04-08) https://articles.ohr.edu/articles/jumping-for-passover-part-2
-authorities: [Rashi, Vilna Gaon, Rambam, Rosh, Rabbi Shimshon of Shantz, Rabbi Ovadia of Bartenura, Rabbi Yisrael Lipschitz, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Rabbi Yaakov Lorberbaum of Lisa, Rabbi Avigdor Nevenzahl, Rabbi Nachshon Schiller]
+  - ms:218-jumping-for-passover.md "Jumping for Passover"
+authorities: [Rashi, Vilna Gaon, Rambam, Rosh, Rabbi Shimshon of Shantz, Rabbi Ovadia of Bartenura, Rabbi Yisrael Lipschitz, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Rabbi Yaakov Lorberbaum of Lisa, Rabbi Avigdor Nevenzahl, Rabbi Nachshon Schiller, Shadal]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Jumping: pesach / dilug / kefitzah
 
@@ -62,6 +63,7 @@ Root ד-ל-ג.
 - Rabbi Yaakov Lorberbaum of Lisa allows that *dilug* may in fact be the faster
   motion, but holds that its focus is still on what is skipped and not on the
   speed.
+- Shadal (to Bereishis 31:36): *dalak* is related to *dalag*.
 
 ### kefitzah (קפיצה)
 Root ק-פ-ץ.
@@ -141,4 +143,6 @@ Rabbi Reuven Chaim Klein, "[Jumping for Passover: Part 1](https://articles.ohr.e
 
 Rabbi Reuven Chaim Klein, "[Jumping for Passover: Part 2](https://articles.ohr.edu/articles/jumping-for-passover-part-2)," *What's in a Word?*, Ohr Somayach, 8 April 2017.
 
-Cited in the essay: Rashi to Shemos 12:11, 12:13 and Yeshayahu 31:5; Shir HaShirim 2:8; Yerushalmi Beitzah 5:2 with the Vilna Gaon; Mishnah Ohalos 8:5 with Rambam, the Rosh, the Rash of Shantz, Bartenura and Tiferes Yisrael; Mishnah Bava Kamma 2:3; Mishnah Bava Basra 2:5; Berachos 19b.
+Rabbi Reuven Chaim Klein, "Jumping for Passover," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Rashi to Shemos 12:11, 12:13 and Yeshayahu 31:5; Shir HaShirim 2:8; Yerushalmi Beitzah 5:2 with the Vilna Gaon; Mishnah Ohalos 8:5 with Rambam, the Rosh, the Rash of Shantz, Bartenura and Tiferes Yisrael; Mishnah Bava Kamma 2:3; Mishnah Bava Basra 2:5; Berachos 19b; Shadal to Bereishis 31:36.

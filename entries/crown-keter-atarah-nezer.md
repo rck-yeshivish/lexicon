@@ -30,9 +30,10 @@ words:
     distinct: the word for crown in rabbinic idiom, and the tagin drawn atop letters in a sefer Torah; claimed by linguists as a Persian loanword taken into Aramaic
 sources:
   - wiaw:6876 "A Crown is a Crown" (2016-07-30) https://articles.ohr.edu/articles/a-crown-is-a-crown
-authorities: [Malbim, Rabbi Yaakov Tzvi Mecklenburg]
+  - ms:235-a-crown-is-a-crown.md "A Crown is a Crown"
+authorities: [Malbim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Zev Leff, Rabbi Shlomo Pappenheim]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Crown: keter / atarah / nezer
 
@@ -65,6 +66,16 @@ The Malbim: physically, a crown that encircles the head but does not rise above
 its height, a coronet; thematically, specifically the crown of royalty. Every
 occurrence in Tanach is in the construct *keser malchus*, the royal crown, and
 all three are in Megillas Esther (1:11, 2:17, 6:8).
+
+Rabbi Klein heard from Rabbi Zev Leff: *keser* is kingship, *atarah* mere
+adornment. Rabbi Shlomo Pappenheim (*Cheshek Shlomo* s.v. זר): there are three
+crowns of different forms. The *keser* is the sign of rule, worn by kings; the
+*atarah* the sign of greatness, worn by ministers and nobles; the *nezer* the
+sign of honor, worn by sages and *perushim*, from *nezirus*, set apart from the
+crowd, and it is the *tzitz* (Shemos 39:30; Vayikra 21:12; Bamidbar 6:7). Kings
+used all three, each as the hour required, since they hold all three qualities
+(Shmuel II 1:10; Melachim II 11:12); and perhaps Yosef, *nezir echav* (Devarim
+33:16), was crowned in law over his brothers.
 
 ### atarah (עטרה)
 
@@ -124,4 +135,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[A Crown is a Crown](https://articles.ohr.edu/articles/a-crown-is-a-crown)," *What's in a Word?*, Ohr Somayach, 30 July 2016.
 
-Cited in the essay: Esther 1:11, 2:17, 6:8; Bamidbar 6:7; Vayikra 21:12; the *zer zahav* of the Mishkan kelim in Shemos; the Malbim, *Sefer HaCarmel* (ח"ב ע' נזר, ערך עטרה, ערך כתר); Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; unnamed linguists on *tag*.
+Rabbi Reuven Chaim Klein, "A Crown is a Crown," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Esther 1:11, 2:17, 6:8; Bamidbar 6:7; Vayikra 21:12; the *zer zahav* of the Mishkan kelim in Shemos; the Malbim, *Sefer HaCarmel* (ח"ב ע' נזר, ערך עטרה, ערך כתר); Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; unnamed linguists on *tag*; Rabbi Zev Leff; Pappenheim, *Cheshek Shlomo* s.v. זר; Shemos 39:30; Shmuel II 1:10; Melachim II 11:12; Devarim 33:16.

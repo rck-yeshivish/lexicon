@@ -32,9 +32,10 @@ words:
     distinct: the Mishnaic word, understood to be a cognate of koh; Rabbinic Hebrew folds both poh and halom into it, kan for poh and l'kan for halom (Rabbi Shlomo Pappenheim, Cheshek Shlomo)
 sources:
   - wiaw:11665 "Shemot: Here We Go" (2025-01-18) https://articles.ohr.edu/articles/shemot-here-we-go
-authorities: [Rabbi Avraham Bedersi, Rabbi Shmuel David Luzzatto, Rav Hirsch, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Radak, Ibn Janach, Menachem Ibn Saruk, Rabbi Shlomo Ibn Parchon, Maharsha, HaKsav VeHaKabbalah, Rabbi Yosef Grayever, Rabbi Chaim Yehoshua Kasovsky, Dr. Lawrence Resnick, Rabbi Eliezer Cohn, Targum]
+  - ms:092-here-we-go.md "Here we go"
+authorities: [Rabbi Avraham Bedersi, Rabbi Shmuel David Luzzatto, Rav Hirsch, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Radak, Ibn Janach, Menachem Ibn Saruk, Rabbi Shlomo Ibn Parchon, Maharsha, HaKsav VeHaKabbalah, Rabbi Yosef Grayever, Rabbi Chaim Yehoshua Kasovsky, Dr. Lawrence Resnick, Rabbi Eliezer Cohn, Targum, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Here: halom / poh / heinah / zeh / koh (kan)
 
@@ -148,6 +149,9 @@ with *kah*, spelled kaf-aleph. Mishnaic *kan* is understood to be its cognate,
 its aleph merely separating it from *kein*, "yes/likewise" (Rabbi Chaim Yehoshua
 Kasovsky).
 
+Aramaic *ka*, *haka*, is "here." Rabbi Eliyahu Benamozegh (*Eim LaMikra* to
+Bereishis 38:17) relates it to Latin *hic*, *hac* and Italian *qua*.
+
 ## Rendering guidance
 
 - Bamidbar 22:8 against 22:19 is the worked case: Bilam lodges the first
@@ -166,4 +170,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Shemot: Here We Go](https://articles.ohr.edu/articles/shemot-here-we-go)," *What's in a Word?*, Ohr Somayach, 18 January 2025.
 
-Cited in the essay: Bereishis 6:2, 15:16, 16:13, 19:12, 21:29, 22:5, 31:37, 38:21-22, 44:28, 45:5, 45:13; Shemos 3:5; Bamidbar 11:31, 13:17, 22:8, 22:19, 23:15; Devarim 5:27, 29:14; Yehoshua 2:2, 3:9; Shoftim 16:2, 18:3; Shmuel I 14:34; Shmuel II 5:6, 7:18, 17:28, 18:30; Melachim II 2:14, 8:7; Yirmiyahu 50:5; Yechezkel 40:4, 41-42; Iyov 38:11; Rus 4:1; Divrei HaYamim I 11:5; Zevachim 102a with Maharsha; Bava Metzia 4a; *Bereishis Rabbah* 45:1; *HaKsav VeHaKabbalah*, *HaRechasim LeVikah* and Rav Hirsch to Bereishis 16:13; Rabbi Shmuel David Luzzatto, as Malbim cites him in *Yair Ohr*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Bedersi, *Chosam Tochnis*.
+Rabbi Reuven Chaim Klein, "Here we go," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 6:2, 15:16, 16:13, 19:12, 21:29, 22:5, 31:37, 38:21-22, 44:28, 45:5, 45:13; Shemos 3:5; Bamidbar 11:31, 13:17, 22:8, 22:19, 23:15; Devarim 5:27, 29:14; Yehoshua 2:2, 3:9; Shoftim 16:2, 18:3; Shmuel I 14:34; Shmuel II 5:6, 7:18, 17:28, 18:30; Melachim II 2:14, 8:7; Yirmiyahu 50:5; Yechezkel 40:4, 41-42; Iyov 38:11; Rus 4:1; Divrei HaYamim I 11:5; Zevachim 102a with Maharsha; Bava Metzia 4a; *Bereishis Rabbah* 45:1; *HaKsav VeHaKabbalah*, *HaRechasim LeVikah* and Rav Hirsch to Bereishis 16:13; Rabbi Shmuel David Luzzatto, as Malbim cites him in *Yair Ohr*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Bedersi, *Chosam Tochnis*; Benamozegh, *Eim LaMikra* to Bereishis 38:17.

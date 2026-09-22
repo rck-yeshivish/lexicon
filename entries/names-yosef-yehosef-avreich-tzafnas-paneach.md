@@ -24,9 +24,10 @@ words:
     distinct: three readings, av plus reich, father to the king (Onkelos, Rashi's first); av plus rach, a father in wisdom though young in years (Bereishis Rabbah); or from berech, one before whom all kneel (Sifrei)
 sources:
   - wiaw:10750 "Vayeshev: The Amazing Multi-Named Joseph" (2022-12-17) https://articles.ohr.edu/articles/vayeshev-the-amazing-multi-named-joseph
-authorities: [Rashi, Targum Onkelos, Targum Yonasan, Ibn Chayyuj, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Levi Yitzchak of Berditchev, Rambam, Chasam Sofer, Ibn Ezra, Rabbi Eliyahu HaBachur, Taz (Divrei Dovid), Rabbi Chaim Vital, Sefer Russiana, Pittsburgher Rebbe, Rabbi Chaim Kanievsky, Rabbi Mordechai Gross]
+  - ms:057-the-amazing-multi-named-joseph.md "The Amazing Multi-Named Joseph"
+authorities: [Rashi, Targum Onkelos, Targum Yonasan, Ibn Chayyuj, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Levi Yitzchak of Berditchev, Rambam, Chasam Sofer, Ibn Ezra, Rabbi Eliyahu HaBachur, Taz (Divrei Dovid), Rabbi Chaim Vital, Sefer Russiana, Pittsburgher Rebbe, Rabbi Chaim Kanievsky, Rabbi Mordechai Gross, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Names of Yosef: Yosef / Yehosef / Tzafnas Paneach / Avreich
 
@@ -162,6 +163,10 @@ god speaks and [this man] lives," "redemption of the age," "savior of his time,"
 "he who is called Ip-Ankh," and "the man who knows things." He presents
 these as possibilities, not as a settled reading.
 
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 41:45): *paneach* sounds
+like *Poenia*, a name of Apollo. The Septuagint renders the name
+*Psomthomphanech*, which means knower of the future.
+
 ## Rendering guidance
 
 - Names stay names. Write Yosef, Yehosef, Tzafnas Paneach, and do not translate
@@ -184,4 +189,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Vayeshev: The Amazing Multi-Named Joseph](https://articles.ohr.edu/articles/vayeshev-the-amazing-multi-named-joseph)," *What's in a Word?*, Ohr Somayach, 17 December 2022.
 
-Cited in the essay: Bereishis 29:17, 30:23-24, 41:43, 41:45, 49:9; Bamidbar 13:7; Devarim 28:56; Shmuel II 3:39; Tehillim 81:6; Divrei HaYamim I 25:9; Ezra 10:42; Nechemiah 12:14; Sotah 10b and 36b; Niddah 30b; Shabbos 53a; Menachos 38b; Bava Basra 4a; *Bereishis Rabbah* 90:3 and 90:4; *Sifrei Devarim* 1; Rambam, *Hilchos Klei HaMikdash* 9:9, with *Minchas Chinuch* 99; *Divrei Dovid* to Bereishis 41:43; *Pri Eitz Chaim*, *Shaar HaYichudim* ch. 19; *Emunas Avraham* to Bereishis 29:17; *Sefer Russiana* to Bereishis 29:17; Bereishis 14:1, 14:9; Daniel 2:14, 2:15, 2:24-25; the piyyut *Even Choger*; *Lashon HaKodesh: History, Holiness, & Hebrew* on *Tzafnas Paneach*.
+Rabbi Reuven Chaim Klein, "The Amazing Multi-Named Joseph," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 29:17, 30:23-24, 41:43, 41:45, 49:9; Bamidbar 13:7; Devarim 28:56; Shmuel II 3:39; Tehillim 81:6; Divrei HaYamim I 25:9; Ezra 10:42; Nechemiah 12:14; Sotah 10b and 36b; Niddah 30b; Shabbos 53a; Menachos 38b; Bava Basra 4a; *Bereishis Rabbah* 90:3 and 90:4; *Sifrei Devarim* 1; Rambam, *Hilchos Klei HaMikdash* 9:9, with *Minchas Chinuch* 99; *Divrei Dovid* to Bereishis 41:43; *Pri Eitz Chaim*, *Shaar HaYichudim* ch. 19; *Emunas Avraham* to Bereishis 29:17; *Sefer Russiana* to Bereishis 29:17; Bereishis 14:1, 14:9; Daniel 2:14, 2:15, 2:24-25; the piyyut *Even Choger*; *Lashon HaKodesh: History, Holiness, & Hebrew* on *Tzafnas Paneach*; Benamozegh, *Eim LaMikra* to Bereishis 41:45.

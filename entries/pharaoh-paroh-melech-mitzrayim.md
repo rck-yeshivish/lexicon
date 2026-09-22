@@ -20,9 +20,10 @@ words:
     distinct: the doubled form, in six places, where personal and national interest are both at work (Rav Chaim Kanievsky); at Bereishis 41:46 it marks that he kept his throne by Yosef's counsel (Rabbeinu Bachya)
 sources:
   - wiaw:7572 "The Pharaoh and the King" (2018-01-06) https://articles.ohr.edu/articles/the-pharaoh-and-the-king
-authorities: [Rashi, Radak, Rabbi Ovadia of Bartenura, Ibn Ezra, Zohar, Rabbeinu Bachya, Rav Chaim Kanievsky, Abarbanel, Rabbi Avraham Menachem Rappaport, Rabbi Eliezer ben Eliyahu Ashkenazi]
+  - ms:087-the-pharaoh-and-the-king.md "The Pharaoh and the King"
+authorities: [Rashi, Radak, Rabbi Ovadia of Bartenura, Ibn Ezra, Zohar, Rabbeinu Bachya, Rav Chaim Kanievsky, Abarbanel, Rabbi Avraham Menachem Rappaport, Rabbi Eliezer ben Eliyahu Ashkenazi, Chasam Sofer, Rabbi Shimshon of Ostropoli, Shadal, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # The Egyptian monarch: Paroh / Melech Mitzrayim
 
@@ -65,6 +66,14 @@ point.
   remains unable to confirm this, and that it is virtually a historical fact
   that the Egyptians spoke Egyptian, not Latin.
 - Academia tends to explain that Paroh means "the great house."
+- Chasam Sofer (beginning of Bo, explaining a saying of Rabbi Shimshon of
+  Ostropoli): Hashem turned the letters of Paroh's name, peh to beis and ayin to
+  aleph, making it *arbeh* for the plague of locusts.
+- Shadal (to Bereishis 12:15): *Paroh* is *phi*, the, plus *uro*, king, or is
+  related to Re, the sun god.
+- Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 12:15): *Paroh* is also
+  the name of an Egyptian god, Phre, which explains why Paroh is named twice in
+  Yirmiyahu 46:25, once the king and once the deity.
 
 ### Melech Mitzrayim (מלך מצרים)
 The King of Egypt, the office as the nation's head. It appears close to fifty
@@ -149,4 +158,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[The Pharaoh and the King](https://articles.ohr.edu/articles/the-pharaoh-and-the-king)," *What's in a Word?*, Ohr Somayach, 6 January 2018.
 
-Cited in the essay: Shemos 2:23, 6:11, 6:13, 6:29, 14:8; Bereishis 10:13, 26:9, 41:1, 41:10, 41:46; Melachim I 3:1; Yechezkel 29:2; Yirmiyahu 44:30; Tehillim 34:1; Ezra 6:14; Moed Katan 18a; *Zohar*, *Shemos* 17a and 19b; Rabbeinu Bachya to Bereishis 41:1; Abarbanel; *Maaseh Hashem*; *Sefer HaYashar*.
+Rabbi Reuven Chaim Klein, "The Pharaoh and the King," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 2:23, 6:11, 6:13, 6:29, 14:8; Bereishis 10:13, 26:9, 41:1, 41:10, 41:46; Melachim I 3:1; Yechezkel 29:2; Yirmiyahu 44:30; Tehillim 34:1; Ezra 6:14; Moed Katan 18a; *Zohar*, *Shemos* 17a and 19b; Rabbeinu Bachya to Bereishis 41:1; Abarbanel; *Maaseh Hashem*; *Sefer HaYashar*; Chasam Sofer, beginning of Bo; Shadal to Bereishis 12:15; Benamozegh, *Eim LaMikra* to Bereishis 12:15; Yirmiyahu 46:25.

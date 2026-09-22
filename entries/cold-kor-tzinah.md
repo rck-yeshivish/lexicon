@@ -20,9 +20,10 @@ words:
     distinct: the rabbinic form, with the final nun doubled (Radak); in the Mishnah coldness, usually as the opposite of hot
 sources:
   - wiaw:9482 "Freezing Cold" (2021-12-11) https://articles.ohr.edu/articles/freezing-cold
+  - ms:178-freezing-cold.md "Freezing Cold"
 authorities: [Rashi, Ibn Ezra, Radak, Rabbi Yosef Kimchi, Rabbi Moshe Kimchi, Rabbi Yeshayah of Trani, Rashbam, Abarbanel, Rabbi Yosef Nechemias, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi David Golumb, Rabbi Yehoshua Steinberg, Shoresh Yesha]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Cold: kor / tzinah
 
@@ -45,9 +46,11 @@ surrounds and envelops a person like snow. Both words are rare in Tanach.
 ## Distinctions
 
 ### kor (קור)
-Cognates appear three times in Tanach: the annual season called *kor*
-(Bereishis 8:22), and *mayim karim*, cold water, twice (Yirmiyahu 18:14,
-Mishlei 25:25). Rabbi Shlomo Pappenheim traces *kor* and *kar* to the biliteral
+Cognates in Tanach: the annual season called *kor* (Bereishis 8:22); *mayim
+karim*, cold water, twice (Yirmiyahu 18:14, Mishlei 25:25); and *karah*, cold,
+five times more (Nachum 3:17; Mishlei 25:20; Iyov 24:7, 37:9; Tehillim 147:17,
+*lifnei karaso mi yaamod*), which Even Shoshan's concordance files under a
+separate entry, קרה. Rabbi Shlomo Pappenheim traces *kor* and *kar* to the biliteral
 ק-ר, a strong impact from concentrated mass or speed. Coldness fits because the
 body holds itself warm, so meeting something cold is a collision of opposed
 temperatures. The same root gives *mikreh* and *keri*, occurrence, the sudden
@@ -143,4 +146,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Freezing Cold](https://articles.ohr.edu/articles/freezing-cold)," *What's in a Word?*, Ohr Somayach, 11 December 2021.
 
-Cited in the essay: Bereishis 8:22; Yirmiyahu 18:14; Mishlei 22:5, 25:13 with Rashi, Ibn Ezra, Rabbi Yosef Kimchi, Rabbi Moshe Kimchi and Rabbi Yeshayah of Trani, 25:25; Amos 4:2 with Abarbanel; Shemos 16:33 with Rav Hirsch, 17:1 with *Targumna*; Bamidbar 13:21, 20:1, 27:14, 33:36, 33:55 with Rashbam, 34:3; Devarim 32:51; Yehoshua 15:1; Mishnah Maasros 4:4, Shabbos 3:4-5, 22:4, 22:6, Pesachim 3:3-4, Yoma 3:5, Nedarim 8:7, Zevachim 11:7, Chullin 3:5, Keilim 3:7, Mikvaos 10:6, Machshirin 5:10; Chullin 58b with Rashi; Sanhedrin 39b; Radak, *Sefer HaShorashim*; *Shoresh Yesha*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. צן, and *Yerios Shlomo* (חוברת ז יריעה כג); Rabbi Yosef Nechemias; Rabbi Yehoshua Steinberg.
+Rabbi Reuven Chaim Klein, "Freezing Cold," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 8:22; Yirmiyahu 18:14; Mishlei 22:5, 25:13 with Rashi, Ibn Ezra, Rabbi Yosef Kimchi, Rabbi Moshe Kimchi and Rabbi Yeshayah of Trani, 25:25; Amos 4:2 with Abarbanel; Shemos 16:33 with Rav Hirsch, 17:1 with *Targumna*; Bamidbar 13:21, 20:1, 27:14, 33:36, 33:55 with Rashbam, 34:3; Devarim 32:51; Yehoshua 15:1; Mishnah Maasros 4:4, Shabbos 3:4-5, 22:4, 22:6, Pesachim 3:3-4, Yoma 3:5, Nedarim 8:7, Zevachim 11:7, Chullin 3:5, Keilim 3:7, Mikvaos 10:6, Machshirin 5:10; Chullin 58b with Rashi; Sanhedrin 39b; Radak, *Sefer HaShorashim*; *Shoresh Yesha*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. צן, and *Yerios Shlomo* (חוברת ז יריעה כג); Rabbi Yosef Nechemias; Rabbi Yehoshua Steinberg; Nachum 3:17; Mishlei 25:20; Iyov 24:7, 37:9; Tehillim 147:17; Even Shoshan's concordance s.v. קר and קרה.

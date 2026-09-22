@@ -17,9 +17,10 @@ words:
     distinct: the line ending rather than the man; every karet can carry it (Rashi, Ibn Ezra), against a separate penalty attaching only to the forbidden marriages (Riva)
 sources:
   - wiaw:8271 "Karet and Ariri" (2019-06-01) https://articles.ohr.edu/articles/karet-and-ariri
-authorities: [Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Chaim of Volozhin, Ramban, Rabbeinu Bachya, Ibn Ezra, Rashi, Riva]
+  - ms:196-karet-and-ariri.md "Karet and Ariri"
+authorities: [Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Chaim of Volozhin, Ramban, Rabbeinu Bachya, Ibn Ezra, Rashi, Riva, Shadal, Rabbi Shlomo Astruc]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Excision: karet / ariri
 
@@ -104,6 +105,12 @@ forbidden marriages of Vayikra 20:20 and 20:21.
 Even Rashi grants that grown children who do not follow their father in his sin
 are not affected by his *karet* (Tosafos Yeshanim to Yevamos 2a).
 
+Shadal (to Bereishis 15:2): *ariri* is bare, without descendants.
+
+Rabbi Shlomo Astruc (to Bereishis 15:1): Avraham's *holech ariri* (15:2), with
+an ayin, is related to *arur*, cursed, with an aleph, alluding to Eliezer's
+cursed descent, which unfitted him to be Avraham's heir.
+
 ## Rendering guidance
 
 - Keep *karet* transliterated in any halachic passage; it is a term of art with
@@ -132,4 +139,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Karet and Ariri](https://articles.ohr.edu/articles/karet-and-ariri)," *What's in a Word?*, Ohr Somayach, 1 June 2019.
 
-Cited in the essay: Mishnah Kerisos 1:1; Devarim 24:1; Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; *Nefesh HaChaim* 1:18; Ramban and Rabbeinu Bachya to Vayikra 18:29; Bamidbar 15:31; Yerushalmi Bikkurim 2:1 with Bamidbar 4:18 and 8:25; Moed Katan 28a; Ibn Ezra to Bereishis 17:14; Bereishis 15:2; Yirmiyahu 22:30; Vayikra 20:20 and 20:21; Rashi to Shabbos 25b; Tosafos and Tosafos Yeshanim to Yevamos 2a.
+Rabbi Reuven Chaim Klein, "Karet and Ariri," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Mishnah Kerisos 1:1; Devarim 24:1; Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; *Nefesh HaChaim* 1:18; Ramban and Rabbeinu Bachya to Vayikra 18:29; Bamidbar 15:31; Yerushalmi Bikkurim 2:1 with Bamidbar 4:18 and 8:25; Moed Katan 28a; Ibn Ezra to Bereishis 17:14; Bereishis 15:2; Yirmiyahu 22:30; Vayikra 20:20 and 20:21; Rashi to Shabbos 25b; Tosafos and Tosafos Yeshanim to Yevamos 2a; Shadal to Bereishis 15:2; Rabbi Shlomo Astruc to Bereishis 15:1.

@@ -52,9 +52,10 @@ sources:
   - wiaw:8868 "The Power to Hold Back" (2020-09-26) https://articles.ohr.edu/articles/the-power-to-hold-back
   - wiaw:8857 "The Strong Ones" (2020-09-12) https://articles.ohr.edu/articles/the-strong-ones
   - wiaw:8505 "The Ovine and Caprine Families" (2019-12-07) https://articles.ohr.edu/articles/the-ovine-and-caprine-families
-authorities: [Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Edel, Rav Hirsch, Metzudas David, Maharsha, Rabbi J. B. Soloveitchik, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Aharon Wertheimer, Vilna Gaon, Malbim, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Dr. Asher Weiser, Rabbi Moshe Shapiro, Rabbi Aharon Marcus, Rabbi Naftali Hertz Wessely, Rabbi Yerucham Levovitz, Rabbi Shlomo of Urbino, Yonah Wilheimer, Rashi, Rambam, Tosafos, Targum]
+  - ms:325-the-strong-ones.md "The Strong Ones"
+authorities: [Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Edel, Rav Hirsch, Metzudas David, Maharsha, Rabbi J. B. Soloveitchik, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Aharon Wertheimer, Vilna Gaon, Malbim, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Dr. Asher Weiser, Rabbi Moshe Shapiro, Rabbi Aharon Marcus, Rabbi Naftali Hertz Wessely, Rabbi Yerucham Levovitz, Rabbi Shlomo of Urbino, Yonah Wilheimer, Rashi, Rambam, Tosafos, Targum, Shadal, Shadal, Shadal, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Strength: koach / gevurah / chozek / ometz (otzem, oz, eitan, adir, kabir, takif)
 
@@ -135,6 +136,8 @@ Pappenheim).
   punishing them (see Yoma 69b), and for this reason He is often called *Gibbor*
   (see Yirmiyahu 32:18 and the daily liturgy).
 - Rabbi Shapira-Frankfurter (below) makes *gevurah* physical strength.
+- Shadal (to Shemos 15:1): *gever* comes from *gavah*, since one higher and more
+  exalted than another usually overpowers him.
 
 ### chozek (חזק) and ometz (אמץ)
 Moshe, passing the leadership to Yehoshua, tells him *chazak v'ematz* (Devarim
@@ -268,6 +271,15 @@ Rabbi Pappenheim admits he is unsure how to break the word down.
   extreme compression of many connected components, as in rock. He also makes
   *eitan* inherent, qualitative strength, strong in itself even if compressed
   from smaller parts, as against *kabir*.
+- Shadal (to Shemos 14:27): *eisan* is related to *tan*, giving, something so
+  strong it gives without tiring; of a river, as the sea at Shemos 14:27 or
+  *nachal eisan*, it is a flow that never fails, and from there it was borrowed
+  for anything especially strong.
+- Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Vayikra 23:24): Tishrei is *yerach
+  ha'eisanim*, as in *vayashav hayam lifnos boker le'eisano* (Shemos 14:27),
+  because in it we begin to return through *teshuvah* to our pristine,
+  unblemished selves; and the Avos are called *eisanim* because they reached
+  that state.
 
 ### kabir (כביר), adir (אדיר), takif (תקיף)
 *Kabir* (Rabbi Pappenheim): quantitative strength, strong for being made of many
@@ -300,6 +312,11 @@ Hebrew word in Tanach (see Esther 9:29, 10:2; Koheles 4:12; Daniel 4:27).
 
 The Talmud's Aramaic *matkif* is one sage "attacking" or overpowering another's
 position with a persuasive argument.
+
+Shadal (to Shemos 15:6): *adir* is the Aramaic form of *ezor*, Hebrew zayin
+often becoming dalet in Aramaic, because *adir* is power that encompasses
+everything, as a belt encircles the body; so too *aderes*, a cloak that goes
+around it.
 
 ## Rendering guidance
 
@@ -336,4 +353,6 @@ Rabbi Reuven Chaim Klein, "[The Strong Ones](https://articles.ohr.edu/articles/t
 
 Rabbi Reuven Chaim Klein, "[The Ovine and Caprine Families](https://articles.ohr.edu/articles/the-ovine-and-caprine-families)," *What's in a Word?*, Ohr Somayach, 7 December 2019.
 
-Cited in the essay: Bereishis 7:18-19, 25:23, 49:24; Shemos 1:20, 14:27, 15:6; Bamidbar 13:18, 13:28, 24:21; Devarim 7:1, 8:18, 21:4, 31:7, 31:23; Yehoshua 1:6, 1:7, 1:9, 1:18; Melachim I 8:2; Yeshayahu 28:2; Yirmiyahu 32:18; Yoel 2:2; Zecharyah 6:3; Tehillim 8:2, 29:11, 35:18, 68:35, 89:1, 93:4; Mishlei 24:5, 31:25; Koheles 4:12, 8:1; Esther 9:29, 10:2; Daniel 4:27; Divrei HaYamim I 22:13, 28:20; Avos 4:1; Berachos 8a, 32b; Shabbos 119b; Yoma 69b; Rosh Hashanah 11a; Bava Basra 15a; *Eichah Rabbah* 1:33; Targum to Devarim 8:18; Rashi to Devarim 21:4, Berachos 8a and Shabbos 119b; Tosafos to Shabbos 119b; Rambam, Hilchos Rotzeach 9:2; Maharsha to Bava Basra 15a; Metzudas David to Melachim I 8:2; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Rabbi Yehuda Leib Edel; Rav Hirsch to Shemos 14:27; Rabbi J. B. Soloveitchik, *Catharsis*; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Shemos 9:33 and 20:5, Devarim 1:5; Rabbi Avraham Bedersi HaPenini; Rabbi Shlomo Aharon Wertheimer; the Vilna Gaon to Yehoshua 1:7 and Mishlei 24:5; Malbim, *Yair Ohr* and to Yeshayahu 28:2; Rabbi Yehuda Leib Shapira-Frankfurter, *HaRechasim LeVikah* to Bereishis 25:23; Rabbi Dr. Asher Weiser; Rabbi Moshe Shapiro; Rabbi Aharon Marcus, *Barzilai* (עמ' 63); Rabbi Naftali Hertz Wessely; Rabbi Yerucham Levovitz; Rabbi Shlomo of Urbino, *Ohel Moed*, with Yonah Wilheimer's 1881 edition.
+Rabbi Reuven Chaim Klein, "The Strong Ones," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 7:18-19, 25:23, 49:24; Shemos 1:20, 14:27, 15:6; Bamidbar 13:18, 13:28, 24:21; Devarim 7:1, 8:18, 21:4, 31:7, 31:23; Yehoshua 1:6, 1:7, 1:9, 1:18; Melachim I 8:2; Yeshayahu 28:2; Yirmiyahu 32:18; Yoel 2:2; Zecharyah 6:3; Tehillim 8:2, 29:11, 35:18, 68:35, 89:1, 93:4; Mishlei 24:5, 31:25; Koheles 4:12, 8:1; Esther 9:29, 10:2; Daniel 4:27; Divrei HaYamim I 22:13, 28:20; Avos 4:1; Berachos 8a, 32b; Shabbos 119b; Yoma 69b; Rosh Hashanah 11a; Bava Basra 15a; *Eichah Rabbah* 1:33; Targum to Devarim 8:18; Rashi to Devarim 21:4, Berachos 8a and Shabbos 119b; Tosafos to Shabbos 119b; Rambam, Hilchos Rotzeach 9:2; Maharsha to Bava Basra 15a; Metzudas David to Melachim I 8:2; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Rabbi Yehuda Leib Edel; Rav Hirsch to Shemos 14:27; Rabbi J. B. Soloveitchik, *Catharsis*; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Shemos 9:33 and 20:5, Devarim 1:5; Rabbi Avraham Bedersi HaPenini; Rabbi Shlomo Aharon Wertheimer; the Vilna Gaon to Yehoshua 1:7 and Mishlei 24:5; Malbim, *Yair Ohr* and to Yeshayahu 28:2; Rabbi Yehuda Leib Shapira-Frankfurter, *HaRechasim LeVikah* to Bereishis 25:23; Rabbi Dr. Asher Weiser; Rabbi Moshe Shapiro; Rabbi Aharon Marcus, *Barzilai* (עמ' 63); Rabbi Naftali Hertz Wessely; Rabbi Yerucham Levovitz; Rabbi Shlomo of Urbino, *Ohel Moed*, with Yonah Wilheimer's 1881 edition; Shadal to Shemos 14:27; Shadal to Shemos 15:1; Shadal to Shemos 15:6; Benamozegh, *Eim LaMikra* to Vayikra 23:24.

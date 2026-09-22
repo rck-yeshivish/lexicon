@@ -64,9 +64,10 @@ words:
     distinct: literally right, south from an east-facing stance as smol is north; south only when the speaker faces east, and right where the orientation is a person's own body
 sources:
   - wiaw:7029 "Looking Four Directions" (2016-12-03) https://articles.ohr.edu/articles/looking-four-directions
-authorities: [Rabbeinu Bachaya]
+  - ms:301-looking-four-directions.md "Looking Four Directions"
+authorities: [Rabbeinu Bachaya, Rabbi Shlomo Pappenheim, Rashi, Chavos Yair, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Compass directions: tzafon / darom (negev, teiman) / mizrach (kedem) / maarav (yam)
 
@@ -112,6 +113,16 @@ when Adam was created the front of his body faced eastward, which makes east
 the frame of reference for *smol* and *yamin* (see the north and south entries
 below).
 
+Rabbi Shlomo Pappenheim (*Cheshek Shlomo* s.v. קד): the east is sometimes marked
+twice, *lif'as kedmah mizrachah* (Shemos 27:13), *vehachonim kedmah mizrachah*
+(Bamidbar 2:3), because there is north-east, south-east and east-east, the
+middle east; *kedmah mizrachah* means due east, leaning neither north nor south.
+Rabbi Klein adds that the doubled form is used only for the east because it is
+the most esteemed of the four directions.
+
+Rashi (to *Bava Basra* 25a): the east is called *orient*, from *ohr*, light,
+since the light comes from there in the morning (see *Chavos Yair* §219).
+
 ### West: yam (ים), maarav (מערב), acharon (אחרון)
 Rabbeinu Bachaya explains that *yam* literally means sea, and serves for west
 because the Mediterranean lies at the west side of Eretz Yisrael. The west is
@@ -138,6 +149,15 @@ The commentators offer several explanations of *tzafon*.
 it may be related to the Aramaic *asuta*, health, alluding to certain healing
 properties of the north wind (see Yevamos 72a). Some people have a custom of
 exclaiming *Asuta!* on hearing another sneeze, to bless him with good health.
+
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 24:49): if *yamin* and
+*teiman* mean right and south, *semol* should mean north, yet Tanach never uses
+*semol* for the north as it uses *yamin* for the south. *Tzafon* is tied to
+Hashem's attribute of *gevurah*, His holding back His bounty and so hiding it,
+the opposite of *chessed*, and so it is associated with the angel of Esav,
+Samael, a near-homograph of *semol*, sin and samech interchanging. He also
+speculates that *semol* and Samael are related to *semel*, an image, without
+explaining how.
 
 ### South: darom (דרום), negev (נגב), teiman (תימן) / yamin (ימין)
 The commentaries explain *darom* as a portmanteau of *derech yom*, the path of
@@ -176,4 +196,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Looking Four Directions](https://articles.ohr.edu/articles/looking-four-directions)," *What's in a Word?*, Ohr Somayach, 3 December 2016.
 
-Cited in the essay: Bereishis 28:14 (*yam*, *kedem*, *tzafon*, *negev*); Devarim 3:27 (*yam*, *tzafon*, *mizrach*, *teiman*); Rabbeinu Bachaya on the direction words; Kesubos 23a (*estan*); Yevamos 72a (the healing north wind).
+Rabbi Reuven Chaim Klein, "Looking Four Directions," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 28:14 (*yam*, *kedem*, *tzafon*, *negev*); Devarim 3:27 (*yam*, *tzafon*, *mizrach*, *teiman*); Rabbeinu Bachaya on the direction words; Kesubos 23a (*estan*); Yevamos 72a (the healing north wind); Pappenheim, *Cheshek Shlomo* s.v. קד; Shemos 27:13; Bamidbar 2:3; Rashi to *Bava Basra* 25a; *Chavos Yair* 219; Benamozegh, *Eim LaMikra* to Bereishis 24:49.

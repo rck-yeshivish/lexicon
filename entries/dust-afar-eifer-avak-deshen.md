@@ -24,9 +24,10 @@ words:
     distinct: a narrower word for ashes, and disputed; burnt with fire still glowing inside, like an ember (Rabbi Eliezer Lipman Lichtenstein); the ashes of the avodah in the Mikdash (Rabbi Yehuda Leib Shapira-Frankfurter); animal ash only, named for its residual fat (Rabbi Shlomo Pappenheim)
 sources:
   - wiaw:8467 "Dirt, Dust and Ashes" (2019-11-09) https://articles.ohr.edu/articles/dirt-dust-and-ashes
-authorities: [Netziv, Beis Shammai, Beis Hillel, Zohar, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus, Rabbi Yehuda Leib Edel, Rabbi Shlomo Aharon Wertheimer, Rabbi Eliezer Lipman Lichtenstein, Rabbi Yehuda Leib Shapira-Frankfurter]
+  - ms:018-dirt-dust-and-ashes.md "Dirt, Dust, and Ashes"
+authorities: [Netziv, Beis Shammai, Beis Hillel, Zohar, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus, Rabbi Yehuda Leib Edel, Rabbi Shlomo Aharon Wertheimer, Rabbi Eliezer Lipman Lichtenstein, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbeinu Efrayim ben Shimshon, Bartenura]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Dust: afar / eifer / avak / deshen
 
@@ -81,6 +82,9 @@ interchangeable in some contexts.
   Mecklenburg, since *afar* is indispensable to growing *pri*; and Rabbi Aharon
   Marcus (*Barzilai*), who traces both *afar* and *eifer* to פ-ר, and elsewhere
   (*Keses HaSofer*) reads *afar* as a fusion of ע-ף, "flying," with פ-ר.
+- Rabbeinu Efrayim ben Shimshon (to Bereishis 18:27): *afar* is cold and wet,
+  *eifer* hot and dry.
+- *Afar* is soil that can make things grow (Bartenura to *Bava Basra* 7:1).
 
 ### eifer (אפר)
 Ashes, the product of burning. Rabbi Pappenheim traces it to the biliteral פ-ר,
@@ -158,4 +162,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Dirt, Dust and Ashes](https://articles.ohr.edu/articles/dirt-dust-and-ashes)," *What's in a Word?*, Ohr Somayach, 9 November 2019.
 
-Cited in the essay: Bereishis 13:16, 18:27, 25:21, 32:25, 1:11; Vayikra 17:13; Bamidbar 19:17; Devarim 31:20; Tehillim 63:6; Mishlei 15:30; *Chullin* 88b, 91a; *Shabbos* 18a; Rashi to *Taanis* 15a; *Bereishis Rabbah* 29:5; Zohar *Vayishlach* 170a; *Bava Basra* 165a; *Temurah* 6b; *Succah* 40b; *Tosefta Avodah Zarah* 1:3.
+Rabbi Reuven Chaim Klein, "Dirt, Dust, and Ashes," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 13:16, 18:27, 25:21, 32:25, 1:11; Vayikra 17:13; Bamidbar 19:17; Devarim 31:20; Tehillim 63:6; Mishlei 15:30; *Chullin* 88b, 91a; *Shabbos* 18a; Rashi to *Taanis* 15a; *Bereishis Rabbah* 29:5; Zohar *Vayishlach* 170a; *Bava Basra* 165a; *Temurah* 6b; *Succah* 40b; *Tosefta Avodah Zarah* 1:3; Rabbeinu Efrayim to Bereishis 18:27; Bartenura to *Bava Basra* 7:1.

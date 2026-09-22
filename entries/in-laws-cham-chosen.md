@@ -27,9 +27,10 @@ words:
 sources:
   - wiaw:8605 "Heat with the In-Laws" (2020-02-15) https://articles.ohr.edu/articles/heat-with-the-in-laws
   - wiaw:9338 "Sort of Siblings" (2021-08-21) https://articles.ohr.edu/articles/sort-of-siblings
+  - ms:123-heat-with-the-in-laws.md "Heat with the In-laws"
 authorities: [Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Menachem Azariah of Fano, Pri Megadim, Rabbi Shimon Pollack, Rabbi Yonah Ibn Janach]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # In-laws: cham and chamos / chosen and choseness
 
@@ -78,6 +79,8 @@ for good or otherwise (Yevamos 15:4 presumes that the two are always assumed to
 hate each other). From the mother-in-law's title the matching word for the
 wife's father-in-law was formed, and from there the pair spread to a husband's
 in-laws as well.
+
+Ibn Janach (s.v. חמה): *chamos*, mother-in-law, is related to *cheimah*, anger.
 
 ### chosen (חותן) and choseness (חותנת)
 The husband's words, and cognate with *chasan*. Yisro is called Moshe's *chosen*
@@ -152,4 +155,6 @@ Rabbi Reuven Chaim Klein, "[Heat with the In-Laws](https://articles.ohr.edu/arti
 
 Rabbi Reuven Chaim Klein, "[Sort of Siblings](https://articles.ohr.edu/articles/sort-of-siblings)," *What's in a Word?*, Ohr Somayach, 21 August 2021.
 
-Cited in the essay: Shemos 18:1-27; Devarim 27:23; Bamidbar 10:29; Shoftim 4:11; Ibn Janach; Bereishis 38:13, 38:25; Rus 2:11-3:17; Shir HaShirim 8:7; Tehillim 51:7; Kesubos 1:5; Yevamos 1:1 and 15:4; Radak, *Sefer HaShorashim*; Rav Hirsch; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. חם, חת; Rabbi Menachem Azariah of Fano; the *Pri Megadim*, in a letter on dikduk; *Shem MiShimon* (Rabbi Shimon Pollack).
+Rabbi Reuven Chaim Klein, "Heat with the In-laws," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 18:1-27; Devarim 27:23; Bamidbar 10:29; Shoftim 4:11; Ibn Janach; Bereishis 38:13, 38:25; Rus 2:11-3:17; Shir HaShirim 8:7; Tehillim 51:7; Kesubos 1:5; Yevamos 1:1 and 15:4; Radak, *Sefer HaShorashim*; Rav Hirsch; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. חם, חת; Rabbi Menachem Azariah of Fano; the *Pri Megadim*, in a letter on dikduk; *Shem MiShimon* (Rabbi Shimon Pollack); Ibn Janach, *Sefer HaShorashim* s.v. חמה.

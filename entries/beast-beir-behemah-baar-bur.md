@@ -31,9 +31,10 @@ words:
 sources:
   - wiaw:10832 "Mishpatim: Boorish Animals" (2023-02-18) https://articles.ohr.edu/articles/mishpatim-boorish-animals
   - wiaw:9126 "Vayakhel/Pekudei: Animal Sounds" (2021-03-13) https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds
-authorities: [Rabbi Yonah Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehudah Aryeh of Carpentras, Rashi, Rav Hirsch, Rabbi Yehuda Leib Edel, Malbim, Rabbi Eliyahu HaBachur, Rabbi Dr. Asher Weiser, Tashbetz, Bartenura, Rabbi Yaakov Yechiel Weinberg, Rabbi David Chaim Chelouche, Rabbi Shlomo Yehuda Rapoport, Rabbi Shet bar Yefet, Mitchell First, Hillel Halkin, Rabbi Aharon Marcus]
+  - ms:134-boorish-animals.md "Boorish Animals"
+authorities: [Rabbi Yonah Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehudah Aryeh of Carpentras, Rashi, Rav Hirsch, Rabbi Yehuda Leib Edel, Malbim, Rabbi Eliyahu HaBachur, Rabbi Dr. Asher Weiser, Tashbetz, Bartenura, Rabbi Yaakov Yechiel Weinberg, Rabbi David Chaim Chelouche, Rabbi Shlomo Yehuda Rapoport, Rabbi Shet bar Yefet, Mitchell First, Hillel Halkin, Rabbi Aharon Marcus, Pri Megadim]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Beast and boor: be'ir / behemah / chayah / ba'ar / bur
 
@@ -169,6 +170,9 @@ Heaven. Dovid HaMelech puts the pair in one pasuk: "I am a *ba'ar* and I do not
 know, I was like an animal (*behemos*) with You" (Tehillim 73:22), which may allude to
 the connection between the beast and the boor.
 
+Pri Megadim (*Igeres* 6, p. 340 in the Friedman *Shulchan Aruch*, vol. 1): a
+*bur* is a farmer.
+
 ## Rendering guidance
 
 - Trap: English "beast" swallows *be'ir* and *behemah* both, and "brute"
@@ -190,4 +194,6 @@ Rabbi Reuven Chaim Klein, "[Mishpatim: Boorish Animals](https://articles.ohr.edu
 
 Rabbi Reuven Chaim Klein, "[Vayakhel/Pekudei: Animal Sounds](https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds)," *What's in a Word?*, Ohr Somayach, 13 March 2021.
 
-Cited in the essay: Shemos 16:7-8, 22:4; Bereishis 1:24, 45:17, 47:19; Vayikra 1:2; Bamidbar 20:4-11, 22:2; Tehillim 8:8, 73:21-22, 78:48; Mishlei 12:1, 30:2; Avos 2:5; Peah 2:1; Sanhedrin 105a; *Sefer HaShorashim*; *Ohalei Yehuda*; *Sefer HaTishbi*; *Meor Ha'Afeilah* to Bamidbar 22:2; *Yad Ramah* to Sanhedrin 105a; *Seridei Aish* vol. 4 *Chakiras HaMekoros* §7:2; Mitchell First, *Words for the Wise*, p. 149; *Chemas HaChemdah* to Shemos 22:4; Hillel Halkin, as Philologos; Rabbi Shlomo Yehuda Rapoport; Rabbi Aharon Marcus.
+Rabbi Reuven Chaim Klein, "Boorish Animals," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 16:7-8, 22:4; Bereishis 1:24, 45:17, 47:19; Vayikra 1:2; Bamidbar 20:4-11, 22:2; Tehillim 8:8, 73:21-22, 78:48; Mishlei 12:1, 30:2; Avos 2:5; Peah 2:1; Sanhedrin 105a; *Sefer HaShorashim*; *Ohalei Yehuda*; *Sefer HaTishbi*; *Meor Ha'Afeilah* to Bamidbar 22:2; *Yad Ramah* to Sanhedrin 105a; *Seridei Aish* vol. 4 *Chakiras HaMekoros* §7:2; Mitchell First, *Words for the Wise*, p. 149; *Chemas HaChemdah* to Shemos 22:4; Hillel Halkin, as Philologos; Rabbi Shlomo Yehuda Rapoport; Rabbi Aharon Marcus; Pri Megadim, *Igeres* 6.

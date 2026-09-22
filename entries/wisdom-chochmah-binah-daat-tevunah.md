@@ -25,9 +25,10 @@ words:
 sources:
   - wiaw:8959 "To Be a Wise Guy (Part 1 of 2)" (2020-12-12) https://articles.ohr.edu/articles/to-be-a-wise-guy-part-1-of-2
   - wiaw:8969 "Miketz: To Be a Wise Guy (Part 2 of 2)" (2020-12-19) https://articles.ohr.edu/articles/miketz-to-be-a-wise-guy-part-2-of-2
+  - ms:083-to-be-a-wise-guy.md "To Be a Wise Guy"
 authorities: [Rashi, Rabbi Ovadia Bartenura, Rashbatz, Rabbeinu Yonah, Radak, Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Pappenheim, Vilna Gaon, Malbim, Maharsha, Maharal, Ramchal, Rabbi Chaim of Volozhin, Rabbi Shmuel Yaakov Burnstein, Rabbi Chaim Friedlander, Rabbi Yaakov Chaim Sofer, Rabbi Eliyahu Tzion Sofer, Rabbi Shlomo Brevda, Rabbi Chaim Soloveitchik, Rabbi Shaul Levi Mortera, Michael G. Samet, Robert J. Sternberg]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Wisdom: chochmah / binah (tevunah) / daat
 
@@ -89,6 +90,10 @@ Root ח-כ-ם.
   foolish one; true *chochmah* comes only by Divine revelation, since
   otherwise one cannot know for certain that a way is the smartest, and
   non-revelatory *chochmah* is a borrowed term.
+- Chasam Sofer (*Toras Moshe* to Koheles 12:9): *chochmah* is what one learns
+  from others, *binah* the power to weigh what one has learned and join it to
+  what one already knows, and *daas* the power to set it all before others and
+  teach them.
 
 ### binah (בינה) and tevunah (תבונה)
 Root ב-י-ן.
@@ -208,4 +213,6 @@ Rabbi Reuven Chaim Klein, "[To Be a Wise Guy (Part 1 of 2)](https://articles.ohr
 
 Rabbi Reuven Chaim Klein, "[Miketz: To Be a Wise Guy (Part 2 of 2)](https://articles.ohr.edu/articles/miketz-to-be-a-wise-guy-part-2-of-2)," *What's in a Word?*, Ohr Somayach, 19 December 2020.
 
-Cited in the essay: Bereishis 4:1, 41:33, 41:39; Shemos 31:3 with Rashi; Shemos 31:6; Devarim 1:13 with Rashi and the *Sifrei*; Devarim 4:6; Shmuel II 13:3; Melachim I 3:12 with Radak; Yeshayahu 3:3, 19:8, 30:18, 40:20; Yirmiyahu 4:22; Chavakuk 1:15, 2:3; Tehillim 58:6; Mishlei 1:5 with Rashi; Mishlei 1:1 (*Chemdah Genuzah*), 1:8, 2:2-3, 2:5, 2:6 and 10:13 with the Vilna Gaon; Iyov 32:4, 40:25; Rus 2:1; Daniel 12:12; Avos 3:17 with Rashi, Bartenura, Rabbeinu Yonah and Rashbatz; Avos 4:1; Tamid 32a; Chagigah 12a with Rashi; Chagigah 14a; Bava Basra 25b; Shabbos 31a with Rashi; Kesubos 5a with Maharsha; Kiddushin 30a and Avodah Zarah 19b with the Maharal's *Chiddushei Aggados*; Bava Kamma 92b with the Vilna Gaon's *Biurei Aggados*; Yerushalmi Berachos 5:2; Shemos Rabbah 41:3; Eichah Rabbah 2:13; *Zohar* Vayakhel 201a; *Matok MiDvash* to *Zohar* Yisro 85a; Maharal, *Tiferes Yisrael* ch. 56; *Eitz Chaim*, *Shaar HaAmidah* ch. 11; Ramchal, introduction to *Klach Pischei Chochmah*; *Nefesh HaChaim* 1:6; Rabbi Avraham Bedersi HaPenini; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. חך, בן; Malbim, *Yair Ohr* (אות חי"ת, סימן טו), and *Sefer HaCarmel* s.v. חכמה\בינה\דעת; Rabbi Shmuel Yaakov Burnstein; Rabbi Chaim Friedlander; Rabbi Yaakov Chaim Sofer; Rabbi Eliyahu Tzion Sofer; Rabbi Shlomo Brevda, *Leil Shimurim* p. 26; Rabbi Shaul Levi Mortera, *Givas Shaul*; *Maoz Tzur*; Robert J. Sternberg's Triarchic Theory of Intelligence.
+Rabbi Reuven Chaim Klein, "To Be a Wise Guy," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 4:1, 41:33, 41:39; Shemos 31:3 with Rashi; Shemos 31:6; Devarim 1:13 with Rashi and the *Sifrei*; Devarim 4:6; Shmuel II 13:3; Melachim I 3:12 with Radak; Yeshayahu 3:3, 19:8, 30:18, 40:20; Yirmiyahu 4:22; Chavakuk 1:15, 2:3; Tehillim 58:6; Mishlei 1:5 with Rashi; Mishlei 1:1 (*Chemdah Genuzah*), 1:8, 2:2-3, 2:5, 2:6 and 10:13 with the Vilna Gaon; Iyov 32:4, 40:25; Rus 2:1; Daniel 12:12; Avos 3:17 with Rashi, Bartenura, Rabbeinu Yonah and Rashbatz; Avos 4:1; Tamid 32a; Chagigah 12a with Rashi; Chagigah 14a; Bava Basra 25b; Shabbos 31a with Rashi; Kesubos 5a with Maharsha; Kiddushin 30a and Avodah Zarah 19b with the Maharal's *Chiddushei Aggados*; Bava Kamma 92b with the Vilna Gaon's *Biurei Aggados*; Yerushalmi Berachos 5:2; Shemos Rabbah 41:3; Eichah Rabbah 2:13; *Zohar* Vayakhel 201a; *Matok MiDvash* to *Zohar* Yisro 85a; Maharal, *Tiferes Yisrael* ch. 56; *Eitz Chaim*, *Shaar HaAmidah* ch. 11; Ramchal, introduction to *Klach Pischei Chochmah*; *Nefesh HaChaim* 1:6; Rabbi Avraham Bedersi HaPenini; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. חך, בן; Malbim, *Yair Ohr* (אות חי"ת, סימן טו), and *Sefer HaCarmel* s.v. חכמה\בינה\דעת; Rabbi Shmuel Yaakov Burnstein; Rabbi Chaim Friedlander; Rabbi Yaakov Chaim Sofer; Rabbi Eliyahu Tzion Sofer; Rabbi Shlomo Brevda, *Leil Shimurim* p. 26; Rabbi Shaul Levi Mortera, *Givas Shaul*; *Maoz Tzur*; Robert J. Sternberg's Triarchic Theory of Intelligence; Chasam Sofer, *Toras Moshe* to Koheles 12:9.

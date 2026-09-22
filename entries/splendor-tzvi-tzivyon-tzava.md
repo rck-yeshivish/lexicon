@@ -21,9 +21,10 @@ words:
     distinct: literally a gathering of people, an army only because they share one want (Rav Hirsch, Rabbi Chaim Friedlander); on the two-letter root, a standing force ready for orders, against a militia that must be assembled (Rabbi Shlomo Pappenheim)
 sources:
   - wiaw:8563 "My Dear Deer" (2020-01-18) https://articles.ohr.edu/articles/my-dear-deer
-authorities: [Rashi, Radak, Ritva (Rabbi Yom Tov of Seville), Ibn Ezra, Ralbag, Rav Saadia Gaon, Targum, Rabbeinu Gershom, Rabbi Nosson of Rome, Rabbi Eliyahu HaBachur (Elias Levita), Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rav Hirsch, Rabbi Chaim Friedlander, Midrash Shocher Tov]
+  - ms:095-my-dear-deer.md "My Dear Deer"
+authorities: [Rashi, Radak, Ritva (Rabbi Yom Tov of Seville), Ibn Ezra, Ralbag, Rav Saadia Gaon, Targum, Rabbeinu Gershom, Rabbi Nosson of Rome, Rabbi Eliyahu HaBachur (Elias Levita), Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rav Hirsch, Rabbi Chaim Friedlander, Midrash Shocher Tov, Rabbi Eliyahu Benamozegh, Michelangelo Lanci]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Root צ-ב (splendor, desire, consent, army): tzvi / tzivyon / tzava
 
@@ -136,6 +137,11 @@ means "good," goodness being something both desirable and beautiful.
   can be said to be joined together if and only if they share one want; unite
   for a common goal and they become one army, otherwise they are a hodgepodge of
   unrelated individuals.
+- Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Shemos 12:41): Hashem is never
+  called *Hashem Tzevaos* in the Chumash, because the *tzava* is the legions of
+  Yisrael, and until Moshe's death they had not yet come together into one
+  nation. He quotes Lanci, who seems to connect *tzevaos* with *tzvi* in the
+  sense of love and desire.
 
 ### the Arabic cognate and sababa
 The modern Hebrew slang *sababa*, which Rabbi Klein calls untranslatable, is
@@ -167,4 +173,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[My Dear Deer](https://articles.ohr.edu/articles/my-dear-deer)," *What's in a Word?*, Ohr Somayach, 18 January 2020.
 
-Cited in the essay: Bereishis 24:13; Shemos 2:4; Vayikra 11:29; Bamidbar 5:21-22, 7:3; Devarim 11:10, 14:5, 29:9; Yeshayahu 4:2, 13:19, 28:1, 28:4, 28:5, 66:20; Yirmiyahu 3:19; Yechezkel 7:20, 20:6; Zecharyah 7:14; Malachi 3:12; Tehillim 106:24; Shir HaShirim 2:9, 2:17, 8:14; Esther 2:3-12; Daniel 8:9, 11:16, 11:41; Rosh Hashanah 11a; Kesubos 112a; Chullin 60a; *Sifrei* to Devarim 11:10; *Shemos Rabbah* 32:2; *Bamidbar Rabbah* 12:17; Midrash *Shocher Tov* to Tehillim 5; Targum to Yechezkel 7:20 and Yirmiyahu 3:19; Rashi to Yeshayahu 4:2; Radak to Yeshayahu 4:2 and 13:19, Yechezkel 7:20 and Yirmiyahu 3:19; Rashi and Rabbeinu Gershom on *tzivyon*; the Ritva; Rabbi Nosson of Rome, *Sefer HeAruch*; Ibn Ezra and Ralbag to Daniel 8:9; Rav Saadia Gaon to Daniel 11:16; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; Rabbi Eliyahu HaBachur, *Meturgeman*; Rabbi Chaim Friedlander; Rav Hirsch.
+Rabbi Reuven Chaim Klein, "My Dear Deer," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 24:13; Shemos 2:4; Vayikra 11:29; Bamidbar 5:21-22, 7:3; Devarim 11:10, 14:5, 29:9; Yeshayahu 4:2, 13:19, 28:1, 28:4, 28:5, 66:20; Yirmiyahu 3:19; Yechezkel 7:20, 20:6; Zecharyah 7:14; Malachi 3:12; Tehillim 106:24; Shir HaShirim 2:9, 2:17, 8:14; Esther 2:3-12; Daniel 8:9, 11:16, 11:41; Rosh Hashanah 11a; Kesubos 112a; Chullin 60a; *Sifrei* to Devarim 11:10; *Shemos Rabbah* 32:2; *Bamidbar Rabbah* 12:17; Midrash *Shocher Tov* to Tehillim 5; Targum to Yechezkel 7:20 and Yirmiyahu 3:19; Rashi to Yeshayahu 4:2; Radak to Yeshayahu 4:2 and 13:19, Yechezkel 7:20 and Yirmiyahu 3:19; Rashi and Rabbeinu Gershom on *tzivyon*; the Ritva; Rabbi Nosson of Rome, *Sefer HeAruch*; Ibn Ezra and Ralbag to Daniel 8:9; Rav Saadia Gaon to Daniel 11:16; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; Rabbi Eliyahu HaBachur, *Meturgeman*; Rabbi Chaim Friedlander; Rav Hirsch; Benamozegh, *Eim LaMikra* to Shemos 12:41.

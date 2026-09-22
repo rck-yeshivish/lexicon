@@ -26,9 +26,10 @@ words:
 sources:
   - wiaw:10890 "Tzav-Pesach: Escape from Patros" (2023-04-01) https://articles.ohr.edu/articles/tzav-pesach-escape-from-patros
   - wiaw:11449 "Chukas: Out in Public" (2024-07-13) https://articles.ohr.edu/articles/chukas-out-in-public
-authorities: [Radak, Rashi, Ibn Ezra, Ramban, Rabbeinu Bachaya, Chizkuni, Midrash Sechel Tov, Bereishis Rabbah, Maharzu, Peirush HaRokeach, Rabbi Yehuda HaChassid, Sefer Chassidim, Hadar Zekeinim, Ateres Zekeinim, Rabbi Elazar Rokeach of Worms, Rabbi Chaim Vital, Rid, Tosafos, Rabbeinu Tam, Rabbeinu Chananel, Rabbeinu Nissim Gaon, Shitah Mekubetzes, Rabbi Aharon Marcus, Rabbi Shlomo Ibn Gabirol, Shadal, Solomon Löwisohn, Alexander Kohut, Shulamit Elitzur, Rabbi Shlomo Pappenheim]
+  - ms:219-escape-from-patros.md "Escape from Patros"
+authorities: [Radak, Rashi, Ibn Ezra, Ramban, Rabbeinu Bachaya, Chizkuni, Midrash Sechel Tov, Bereishis Rabbah, Maharzu, Peirush HaRokeach, Rabbi Yehuda HaChassid, Sefer Chassidim, Hadar Zekeinim, Ateres Zekeinim, Rabbi Elazar Rokeach of Worms, Rabbi Chaim Vital, Rid, Tosafos, Rabbeinu Tam, Rabbeinu Chananel, Rabbeinu Nissim Gaon, Shitah Mekubetzes, Rabbi Aharon Marcus, Rabbi Shlomo Ibn Gabirol, Shadal, Solomon Löwisohn, Alexander Kohut, Shulamit Elitzur, Rabbi Shlomo Pappenheim, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Egypt: Mitzrayim / Patros / Rahav (Matzor, Kaftor, eretz Cham)
 
@@ -155,6 +156,10 @@ Yirmiyahu 47:4, Tzefaniah 2:5) is the Plishtim's homeland, a related place and
 not Egypt, which Shadal (to Bereishis 10:14) takes to be either Cyprus or Crete,
 also known as Kandia.
 
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 6:10): Egypt was called
+*Chamia* or *Chemia*, related to the Arabic *alchemy*, the source of
+*chemistry*.
+
 ### Where the English word "Egypt" comes from
 - Rabbi Aharon Marcus claims that "copt" is a corruption of the Hebrew *Kaftor*,
   and that from that corruption came the Greek *Aíguptos* and the Latin
@@ -193,4 +198,6 @@ Rabbi Reuven Chaim Klein, "[Tzav-Pesach: Escape from Patros](https://articles.oh
 
 Rabbi Reuven Chaim Klein, "[Chukas: Out in Public](https://articles.ohr.edu/articles/chukas-out-in-public)," *What's in a Word?*, Ohr Somayach, 13 July 2024.
 
-Cited in the essay: Bereishis 10:6, 10:13 to 14, 13:10, 40:23, 43:32; Divrei HaYamim I 1:8, 1:11 to 12; Divrei HaYamim II 12:3, 16:8; Shemos 12:23, 14:10, 14:25, 14:30; Devarim 6:8, 11:10, 11:18; Yeshayahu 11:11, 13:8, 19:6, 37:25; Yirmiyahu 44:1, 44:15, 46:9, 46:20, 47:4; Yechezkel 27:10, 29:14, 30:5, 30:14; Amos 9:7; Nachum 3:9; Tzefaniah 2:5; Tehillim 87:4, 105:23 to 27, 106:22; Daniel 11:43; Melachim II 19:24; *Bereishis Rabbah* 37:5 with Maharzu; *Bamidbar Rabbah* 18:22; Zohar *Terumah* 170b and Zohar Chadash *Bishalach* 38b; Bava Basra 74b; Bechoros 5b; Shabbos 51b, 90b, 115a to 115b; Megillah 18a; Sanhedrin 4b; Zevachim 37b; Menachos 34b; *Sefer Chassidim* §607; *Siddur Rokeach* pp. 213 and 222; Solomon Löwisohn and Shadal to Bereishis 10:14; Dr. Alexander Kohut; Professor Shulamit Elitzur; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*.
+Rabbi Reuven Chaim Klein, "Escape from Patros," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 10:6, 10:13 to 14, 13:10, 40:23, 43:32; Divrei HaYamim I 1:8, 1:11 to 12; Divrei HaYamim II 12:3, 16:8; Shemos 12:23, 14:10, 14:25, 14:30; Devarim 6:8, 11:10, 11:18; Yeshayahu 11:11, 13:8, 19:6, 37:25; Yirmiyahu 44:1, 44:15, 46:9, 46:20, 47:4; Yechezkel 27:10, 29:14, 30:5, 30:14; Amos 9:7; Nachum 3:9; Tzefaniah 2:5; Tehillim 87:4, 105:23 to 27, 106:22; Daniel 11:43; Melachim II 19:24; *Bereishis Rabbah* 37:5 with Maharzu; *Bamidbar Rabbah* 18:22; Zohar *Terumah* 170b and Zohar Chadash *Bishalach* 38b; Bava Basra 74b; Bechoros 5b; Shabbos 51b, 90b, 115a to 115b; Megillah 18a; Sanhedrin 4b; Zevachim 37b; Menachos 34b; *Sefer Chassidim* §607; *Siddur Rokeach* pp. 213 and 222; Solomon Löwisohn and Shadal to Bereishis 10:14; Dr. Alexander Kohut; Professor Shulamit Elitzur; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Benamozegh, *Eim LaMikra* to Bereishis 6:10.

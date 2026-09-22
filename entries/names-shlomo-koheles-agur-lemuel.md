@@ -43,9 +43,10 @@ words:
 sources:
   - wiaw:8149 "Solomon's Seven Names" (2019-02-23) https://articles.ohr.edu/articles/solomons-seven-names
   - wiaw:8304 "Names of the Underworld" (2019-06-29) https://articles.ohr.edu/articles/names-of-the-underworld
+  - ms:155-solomons-seven-names.md "Solomon’s Seven Names"
 authorities: [Rabbi Yehoshua ben Levi, Targum Sheini, Rashi, Ibn Ezra, Ralbag, Rabbi Yeshayah of Trani (the Rid), Tosafos, Tosafos Shantz, Midrash Agur, Maharal]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Names of Shlomo HaMelech: Shlomo / Koheles / Agur / Lemuel (Yedidyah, Yakeh, Isiel)
 
@@ -156,6 +157,9 @@ The two gathering names, one from ק-ה-ל and one from א-ג-ר. *Midrash Agur*
 puts them beside Shlomo as his three most precious names, because gathering is
 what his reign was: the whole nation gathered together and no strife among them.
 
+Ibn Ezra (to Koheles 12:8): the definite article in *hakoheles* shows that
+*Koheles* is not a proper name but a common noun.
+
 ### Yakeh (יקה), Isiel (איתיאל) and Lemuel (למואל)
 Three of the names attached to the closing chapters of Mishlei. *Isiel* and
 *Lemuel* carry the account of how Shlomo reasoned about a king's limits. *Isiel* is read
@@ -193,4 +197,6 @@ Rabbi Reuven Chaim Klein, "[Solomon's Seven Names](https://articles.ohr.edu/arti
 
 Rabbi Reuven Chaim Klein, "[Names of the Underworld](https://articles.ohr.edu/articles/names-of-the-underworld)," *What's in a Word?*, Ohr Somayach, 29 June 2019.
 
-Cited in the essay: Shmuel II 12:24-25; Divrei HaYamim I 22:9; Melachim I 8:1; Koheles 1:1 with Rashi; Mishlei 30:1, 30:15, 31:1, 31:4; Devarim 17:16-17, 33:12; Yirmiyahu 11:15, 12:7; Yeshayahu 5:1; Tehillim 84:2; Menachos 53; Sanhedrin 70b with Rashi; Tosafos to Eruvin 19a; Tosafos and Tosafos Shantz to Avodah Zarah 17a; Ralbag and Ibn Ezra to Mishlei 30:1 and 31:1; *Targum Sheini*; *Midrash Agur* §4; Rabbi Yehoshua ben Levi; the Maharal.
+Rabbi Reuven Chaim Klein, "Solomon’s Seven Names," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shmuel II 12:24-25; Divrei HaYamim I 22:9; Melachim I 8:1; Koheles 1:1 with Rashi; Mishlei 30:1, 30:15, 31:1, 31:4; Devarim 17:16-17, 33:12; Yirmiyahu 11:15, 12:7; Yeshayahu 5:1; Tehillim 84:2; Menachos 53; Sanhedrin 70b with Rashi; Tosafos to Eruvin 19a; Tosafos and Tosafos Shantz to Avodah Zarah 17a; Ralbag and Ibn Ezra to Mishlei 30:1 and 31:1; *Targum Sheini*; *Midrash Agur* §4; Rabbi Yehoshua ben Levi; the Maharal; Ibn Ezra to Koheles 12:8.

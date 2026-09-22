@@ -20,9 +20,10 @@ words:
     distinct: inherited property the heir has already taken possession of and holds, as against property far off or still disputed (Malbim)
 sources:
   - wiaw:7839 "A Heritage of Inheritance" (2018-07-07) https://articles.ohr.edu/articles/a-heritage-of-inheritance
-authorities: [Malbim, Shadal, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch]
+  - ms:270-a-heritage-of-inheritance.md "A Heritage of Inheritance"
+authorities: [Malbim, Shadal, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Inheritance: nachalah / yerushah / achuzah
 
@@ -91,6 +92,9 @@ Others narrow both differently: *nachalah* is strictly
 father-to-son, while *yerushah* covers inheritance between relatives generally,
 even outside the direct line.
 
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 38:17): Latin *heres*, the
+source of English *heir*, derives from *yoresh*.
+
 ### achuzah (אחוזה)
 Root א-ח-ז, "to hold." Malbim: *achuzah* is inherited property of which the heir
 has already taken possession and now holds (*ocheiz*). Property not yet taken in
@@ -122,4 +126,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[A Heritage of Inheritance](https://articles.ohr.edu/articles/a-heritage-of-inheritance)," *What's in a Word?*, Ohr Somayach, 7 July 2018.
 
-Cited in the essay: Bamidbar 27:1-11; Devarim 21:16, 32:8; Bereishis 15:3; Malbim, *Yair Ohr* s.v. י' אות יג, and *Sefer HaCarmel* s.v. אחזה; Shadal; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Bereishis 21:10; Rav Hirsch.
+Rabbi Reuven Chaim Klein, "A Heritage of Inheritance," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bamidbar 27:1-11; Devarim 21:16, 32:8; Bereishis 15:3; Malbim, *Yair Ohr* s.v. י' אות יג, and *Sefer HaCarmel* s.v. אחזה; Shadal; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Bereishis 21:10; Rav Hirsch; Benamozegh, *Eim LaMikra* to Bereishis 38:17.

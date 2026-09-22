@@ -25,9 +25,10 @@ words:
     distinct: a hapax legomenon; named for melafefes, what attaches itself, since it clings to a man until the day he dies (Rashi, from Bechoros 41a), leaving a scar that never comes off (Rabbi Shlomo Pappenheim)
 sources:
   - wiaw:11523 "Ki Savo: No More Boils" (2024-09-21) https://articles.ohr.edu/articles/ki-savo-no-more-boils
-authorities: [Rashi, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Avraham Bedersi, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yitzchak of Zeldin, Rabbi Natan Borgel, Rabbi Ernest Klein, David A. Clines]
+  - ms:323-no-more-boils.md "No More Boils"
+authorities: [Rashi, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Avraham Bedersi, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yitzchak of Zeldin, Rabbi Natan Borgel, Rabbi Ernest Klein, David A. Clines, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Boils: shechin / garav / cheres / yalefet (avabuos)
 
@@ -118,6 +119,11 @@ in the tzaraas that arises on a healed shechin (Vayikra 13:18-23), two in the to
 (Devarim 28:27, 28:35), two when Yeshayahu treats Chizkiyahu (Melachim II 20:7,
 Yeshayahu 38:21), and Iyov 2:7.
 
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Shemos 9:9): *shechin* means heat at
+root, as the Targum renders *vecham* (Melachim I 1:2) *vesishchan*, and
+*shechunah* in the Kohen Gadol's prayer (*Yoma* 53b) is hot, dry weather; he
+connects it to Arabic *sakhun*, hot.
+
 ### garav (גרב)
 Three occurrences, all in Chumash: Devarim 28:27, and Vayikra 21:20 and
 22:22, where it disqualifies a Kohen from the avodah and an animal from the mizbeach.
@@ -179,4 +185,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Ki Savo: No More Boils](https://articles.ohr.edu/articles/ki-savo-no-more-boils)," *What's in a Word?*, Ohr Somayach, 21 September 2024.
 
-Cited in the essay: Shemos 9:8-12, 16:21; Vayikra 13:18-23, 21:20, 22:22; Devarim 28:15-69, 28:27, 28:35; Shoftim 8:13, 14:18, 16:29; Rus 3:8; Shmuel II 23:38; Melachim I 1:1; Melachim II 20:7; Yeshayahu 38:21, 44:16; Yirmiyahu 31:38; Divrei HaYamim I 11:40; Koheles 4:11; Iyov 2:7-8, 9:7, 37:17; Bereishis 30:32 with Onkelos; Yoma 53b; Bechoros 41a with Rashi and *Chok Nasan*; Chullin 8a; Mishnah Nega'im 9:1, Yoma 5:1, Terumos 10:8; Bedersi, *Chosam Tochnis*; *HaKsav VeHaKabbalah*; *Shoresh Yesha*; Pappenheim, *Cheshek Shlomo*; David A. Clines' dictionary of Biblical Hebrew; Rabbi Ernest Klein's etymological dictionaries.
+Rabbi Reuven Chaim Klein, "No More Boils," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 9:8-12, 16:21; Vayikra 13:18-23, 21:20, 22:22; Devarim 28:15-69, 28:27, 28:35; Shoftim 8:13, 14:18, 16:29; Rus 3:8; Shmuel II 23:38; Melachim I 1:1; Melachim II 20:7; Yeshayahu 38:21, 44:16; Yirmiyahu 31:38; Divrei HaYamim I 11:40; Koheles 4:11; Iyov 2:7-8, 9:7, 37:17; Bereishis 30:32 with Onkelos; Yoma 53b; Bechoros 41a with Rashi and *Chok Nasan*; Chullin 8a; Mishnah Nega'im 9:1, Yoma 5:1, Terumos 10:8; Bedersi, *Chosam Tochnis*; *HaKsav VeHaKabbalah*; *Shoresh Yesha*; Pappenheim, *Cheshek Shlomo*; David A. Clines' dictionary of Biblical Hebrew; Rabbi Ernest Klein's etymological dictionaries; Benamozegh, *Eim LaMikra* to Shemos 9:9; Targum to Melachim I 1:2; *Yoma* 53b.

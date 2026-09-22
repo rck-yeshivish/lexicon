@@ -45,9 +45,10 @@ words:
     distinct: the leech of Mishlei 30:15, which sources cited by Tosafos read as a name for Gehinnom; it draws out the soul as a leech draws blood (Maharal), or cleanses a man of sin as a leech draws bad blood (Rabbi Chaim of Volozhin)
 sources:
   - wiaw:8304 "Names of the Underworld" (2019-06-29) https://articles.ohr.edu/articles/names-of-the-underworld
-authorities: [Rabbi Yehoshua ben Levi, Rashi, Ibn Ezra, Malbim, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi HaPenini, Ibn Janach, Radak, Rav Hirsch, Rabbi Aharon Marcus, Tosafos, Maharsha, Maharal, Rabbi Chaim of Volozhin, Rabbi Yitzchak Abuhab, Rabbi Tzvi Matisyahu Abrahams, Rabbi J. D. Eisenstein, the Vulgate]
+  - ms:251-names-of-the-underworld.md "Names of the Underworld"
+authorities: [Rabbi Yehoshua ben Levi, Rashi, Ibn Ezra, Malbim, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi HaPenini, Ibn Janach, Radak, Rav Hirsch, Rabbi Aharon Marcus, Tosafos, Maharsha, Maharal, Rabbi Chaim of Volozhin, Rabbi Yitzchak Abuhab, Rabbi Tzvi Matisyahu Abrahams, Rabbi J. D. Eisenstein, the Vulgate, Rabbi Avraham bar Chiya]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Underworld: Gehinnom / sheol / shachat / avadon
 
@@ -109,6 +110,9 @@ Close to seventy occurrences.
 ### avadon (אבדון)
 Tehillim 88:12. Either the body's ruin and rotting after death, or that souls
 are lost (*avad*) there for a time.
+
+Rabbi Avraham bar Chiya HaNasi (*Hegyon HaNefesh* p. 3a): *sheol* and *avadon*
+mean the same thing.
 
 ### shachat (שחת), be'er shachat (באר שחת)
 Tehillim 16:10, 55:24. In many pesukim *shachat* means simply a pit.
@@ -214,4 +218,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Names of the Underworld](https://articles.ohr.edu/articles/names-of-the-underworld)," *What's in a Word?*, Ohr Somayach, 29 June 2019.
 
-Cited in the essay: Eruvin 19a (Rabbi Yehoshua ben Levi's seven, and the Gemara on *gehinnom* and *tophes*) with Rashi and Tosafos there; Maharsha on the seven names, with Sotah 10b; Bereishis 37:35 with Rashi, Ibn Ezra, and the Vulgate; Rav Hirsch to Bereishis 9:20; Rabbi Aharon Marcus, *Keses HaSofer* to Bereishis 10:2; Devarim 32:22; Yeshayahu 9:4 with Rashi; Yirmiyahu 10:11, ch. 19; Yechezkel 31 and the Targumic Tosefta at the start of Yechezkel; Tehillim 16:10, 40:3, 55:24, 88:12, 107:10; Iyov 10:21; Mishlei 30:15; *Midrash Konen*, *Midrash Hallel*, and *Midrash Din HaKever* in Rabbi J. D. Eisenstein's *Otzar Midrashim* pp. 256, 134, 94; *Sefer Russiana*; Rabbi Yitzchak Abuhab, *Menoras HaMaor*; Maharal; Rabbi Chaim of Volozhin, *Nefesh HaChaim* 1:12; Malbim, *Sefer HaCarmel* s.v. שאול; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. של, שח and ין; Rabbi Avraham Bedersi HaPenini; Rabbi Yonah Ibn Janach; Radak, *Sefer HaShorashim*; Rabbi Tzvi Matisyahu Abrahams, *Root Connections in the Torah* p. 274.
+Rabbi Reuven Chaim Klein, "Names of the Underworld," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Eruvin 19a (Rabbi Yehoshua ben Levi's seven, and the Gemara on *gehinnom* and *tophes*) with Rashi and Tosafos there; Maharsha on the seven names, with Sotah 10b; Bereishis 37:35 with Rashi, Ibn Ezra, and the Vulgate; Rav Hirsch to Bereishis 9:20; Rabbi Aharon Marcus, *Keses HaSofer* to Bereishis 10:2; Devarim 32:22; Yeshayahu 9:4 with Rashi; Yirmiyahu 10:11, ch. 19; Yechezkel 31 and the Targumic Tosefta at the start of Yechezkel; Tehillim 16:10, 40:3, 55:24, 88:12, 107:10; Iyov 10:21; Mishlei 30:15; *Midrash Konen*, *Midrash Hallel*, and *Midrash Din HaKever* in Rabbi J. D. Eisenstein's *Otzar Midrashim* pp. 256, 134, 94; *Sefer Russiana*; Rabbi Yitzchak Abuhab, *Menoras HaMaor*; Maharal; Rabbi Chaim of Volozhin, *Nefesh HaChaim* 1:12; Malbim, *Sefer HaCarmel* s.v. שאול; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. של, שח and ין; Rabbi Avraham Bedersi HaPenini; Rabbi Yonah Ibn Janach; Radak, *Sefer HaShorashim*; Rabbi Tzvi Matisyahu Abrahams, *Root Connections in the Torah* p. 274; Rabbi Avraham bar Chiya, *Hegyon HaNefesh* p. 3a.

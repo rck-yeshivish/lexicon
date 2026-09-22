@@ -60,7 +60,12 @@ Every entry in `../entries/` must trace to a file here. Orthodox sources only.
   that only names a source without saying what it says, or says "see" something, or is too raw
   to mean anything alone, stays out. The notes he meant for use are usually highlighted yellow,
   and the highlighting survives in the docx (3,953 runs), but it also marks passages inside
-  finished essays, so it shortlists and does not decide.
+  finished essays, so it shortlists and does not decide. The notes pass of 22 September
+  2026 read all 598 candidate notes and wrote the 262 that met his rule into 155 entries,
+  each under the word it treats, as part of the entry and not set apart; the chapter joins
+  the entry's `sources:` as an `ms:` line and its Sources section as a citation, and the
+  note's loci join "Cited in the essay". Where a note corrects the essay, the entry follows
+  the note.
 
 ### Klein, "Learning to differentiate between apparent synonyms" (Babel, 2020)
 - `klein-babel-2020/` holds the PDF and its extracted text. Rabbi Klein writing

@@ -20,9 +20,10 @@ words:
     distinct: a hapax in Shir HaShirim; glossed as a chuppah (Parenzo, the Maharsha); a mobile enclosure a woman travels in, per the Mishnah (Rabbi Klein); on the paryanka reading a palanquin, the chuppah gloss stating its halachic role, not its meaning
 sources:
   - wiaw:7103 "A Panoply of Canopies" (2017-01-21) https://articles.ohr.edu/articles/a-panoply-of-canopies
-authorities: [Rashi, Maharsha, Rabbi Pheobus Meir Parenzo, Rabbi Tzvi Mordechai Libber]
+  - ms:088-a-panoply-of-canopies.md "A Panoply of Canopies"
+authorities: [Rashi, Maharsha, Rabbi Pheobus Meir Parenzo, Rabbi Tzvi Mordechai Libber, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Canopy: apiryon / chuppah / succah
 
@@ -93,6 +94,16 @@ not mean that the words mean one thing, but that in the context of Yocheved's
 marriage to Amram the sedan chair she was seated in took on the halachic role a
 *chuppah* has at a wedding.
 
+Rashi (to *Yevamos* 110a) explains *bei kursia*, the chair, as an *apiryon*, a
+sedan, and ties it to *chuppah* only in the halachic sense, a marriage effected
+by the bride sitting in her husband's carriage, and not as meaning that an
+*apiryon* is a canopy.
+
+Rabbi Shlomo Pappenheim (*Cheshek Shlomo* s.v. פר): the root of *apiryon* is
+*pri*, a bed on which one brings forth fruit, children.
+
+*Machberes Menachem* brings that some explain an *apiryon* as a crown.
+
 ## Rendering guidance
 
 - Default renderings: *succah* stays transliterated, glossed "booth" once;
@@ -117,4 +128,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[A Panoply of Canopies](https://articles.ohr.edu/articles/a-panoply-of-canopies)," *What's in a Word?*, Ohr Somayach, 21 January 2017.
 
-Cited in the essay: Shemos 35:12; Shir HaShirim 3:9 to 11; *Sotah* 12a; *Bava Basra* 120a; Mishnah *Sotah* 9:14; Rashi to *Succah* 2a and to Shemos 35:12; Maharsha to *Sotah* 12a; Rabbi Pheobus Meir Parenzo's glosses to *Yalkut Shimoni*, Shemos §165 (Venice 1566); Rabbi Tzvi Mordechai Libber; the unnamed "some" who tie *apiryon* to the Sanskrit *paryanka*.
+Rabbi Reuven Chaim Klein, "A Panoply of Canopies," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 35:12; Shir HaShirim 3:9 to 11; *Sotah* 12a; *Bava Basra* 120a; Mishnah *Sotah* 9:14; Rashi to *Succah* 2a and to Shemos 35:12; Maharsha to *Sotah* 12a; Rabbi Pheobus Meir Parenzo's glosses to *Yalkut Shimoni*, Shemos §165 (Venice 1566); Rabbi Tzvi Mordechai Libber; the unnamed "some" who tie *apiryon* to the Sanskrit *paryanka*; Rashi to *Yevamos* 110a; Pappenheim, *Cheshek Shlomo* s.v. פר; *Machberes Menachem*.

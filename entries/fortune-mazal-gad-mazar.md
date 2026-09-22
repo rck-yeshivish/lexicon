@@ -21,9 +21,10 @@ words:
     distinct: a hapax (Iyov 38:32); the same as mazal with reish for lamed (Rabbi Saadia Gaon, Menachem, Ibn Janach, Rashi), or a particular star or group of stars (Ibn Ezra)
 sources:
   - wiaw:10730 "Vayetzei: Gad Luck to You" (2022-11-26) https://articles.ohr.edu/articles/vayetzei-gad-luck-to-you
-authorities: [Rashi, Ibn Janach, Radak, Menachem Ibn Saruk, Ibn Ezra, Ramban, Ralbag, Rabbi Saadia Gaon, Rabbi Moshe Kimchi, Dunash Ibn Labrat, Rabbi Yitzchak the Blind, Rabbi Yosef Gikatilla, Tiferes Yisrael, Ramchal, Rabbi Shlomo Pappenheim, Rabbi Yosef Grayever, Rabbi Yehudah Aryeh of Carpentras, Rabbi Eliyahu Katz, Rav Hirsch, Ernest Klein, Chaim Tawil]
+  - ms:045-gad-luck-to-you.md "Gad Luck to You"
+authorities: [Rashi, Ibn Janach, Radak, Menachem Ibn Saruk, Ibn Ezra, Ramban, Ralbag, Rabbi Saadia Gaon, Rabbi Moshe Kimchi, Dunash Ibn Labrat, Rabbi Yitzchak the Blind, Rabbi Yosef Gikatilla, Tiferes Yisrael, Ramchal, Rabbi Shlomo Pappenheim, Rabbi Yosef Grayever, Rabbi Yehudah Aryeh of Carpentras, Rabbi Eliyahu Katz, Rav Hirsch, Ernest Klein, Chaim Tawil, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Fortune: mazal / gad / mazar
 
@@ -145,6 +146,10 @@ but Rabbi Yehudah Aryeh of Carpentras (*Ohalei Yehudah*) suggests that *gadish*
 is really *gad* ("luck," *mazal*) plus *yesh* ("there is"), an allusion to the
 source of overflowing abundance.
 
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 30:11): the ancients held
+that the joining together of stars could bring good or catastrophe, and *gad* is
+that grouping, a constellation acting on the world.
+
 ### mazar (מזר)
 The single occurrence is Hashem's rebuke to Iyov (38:32).
 
@@ -181,4 +186,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Vayetzei: Gad Luck to You](https://articles.ohr.edu/articles/vayetzei-gad-luck-to-you)," *What's in a Word?*, Ohr Somayach, 26 November 2022.
 
-Cited in the essay: Bereishis 30:11 with Rashi and Rav Hirsch; Melachim II 23:5; Yeshayahu 65:11; Iyov 38:32 with Rabbi Saadia Gaon, Rashi, Ibn Ezra, Ramban, and Ralbag; Berachos 32b; Chullin 40a; Nedarim 56a with the Ran; Megillah 3a and Shabbos 53b, 61b with Rashi; Zohar Naso 134a; Rabbi Yosef Gikatilla, *Shaarei Orah* shaar 3; *Tiferes Yisrael* to Kiddushin 4; Ramban to Shemos 22:15; Shemos 22:5, Iyov 5:26 and 21:32, Shoftim 15:5 (*gadish*); *Sefer HaShorashim* s.v. נזל and מזר; *Cheshek Shlomo* s.v. זל; *Sefer HeAruch* s.v. גד; Dunash's replies to Rabbi Saadia Gaon; *Ohalei Yehudah*; Menachem Ibn Saruk; Ibn Janach; Radak; Rabbi Moshe Kimchi; Rabbi Yitzchak the Blind to *Sefer Yetzirah* 5; the anonymous commentator to Rambam's Hilchos Yesodei HaTorah; Ramchal; *Shoresh Yesha*; Rabbi Yosef Grayever of Ostrow; Rabbi Eliyahu Katz; Ernest Klein; Chaim Tawil.
+Rabbi Reuven Chaim Klein, "Gad Luck to You," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 30:11 with Rashi and Rav Hirsch; Melachim II 23:5; Yeshayahu 65:11; Iyov 38:32 with Rabbi Saadia Gaon, Rashi, Ibn Ezra, Ramban, and Ralbag; Berachos 32b; Chullin 40a; Nedarim 56a with the Ran; Megillah 3a and Shabbos 53b, 61b with Rashi; Zohar Naso 134a; Rabbi Yosef Gikatilla, *Shaarei Orah* shaar 3; *Tiferes Yisrael* to Kiddushin 4; Ramban to Shemos 22:15; Shemos 22:5, Iyov 5:26 and 21:32, Shoftim 15:5 (*gadish*); *Sefer HaShorashim* s.v. נזל and מזר; *Cheshek Shlomo* s.v. זל; *Sefer HeAruch* s.v. גד; Dunash's replies to Rabbi Saadia Gaon; *Ohalei Yehudah*; Menachem Ibn Saruk; Ibn Janach; Radak; Rabbi Moshe Kimchi; Rabbi Yitzchak the Blind to *Sefer Yetzirah* 5; the anonymous commentator to Rambam's Hilchos Yesodei HaTorah; Ramchal; *Shoresh Yesha*; Rabbi Yosef Grayever of Ostrow; Rabbi Eliyahu Katz; Ernest Klein; Chaim Tawil; Benamozegh, *Eim LaMikra* to Bereishis 30:11.

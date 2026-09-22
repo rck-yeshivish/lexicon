@@ -18,9 +18,10 @@ words:
     distinct: the Mishnaic word, plural because it names the pair of head and arm, one box being tefillah; from פ-ל-ל, proof or argument (Tosafos, the Rosh), thoughtfulness (Maharal), or ת-פ-ל, attached (Kohut); the word the berachah uses (Meyers, Shayo)
 sources:
   - wiaw:11218 "Bo: Filling your Phylacteries" (2024-01-20) https://articles.ohr.edu/articles/bo-filling-your-phylacteries
-authorities: [Targum Onkelos, Targum Yonasan, Targum Neofiti, Peshitta, Ibn Ezra, Tosafos, Ibn Janach, Radak, Rashbam, Zohar, Rabbi Yaakov Tzvi Mecklenburg, Menachem Ibn Saruk, Rashi, Chizkuni, Rabbi Yosef Bechor Shor, Rabbi Yissocher Ber Eilenberg, Rabbi Mordechai Yaffe, Daas Mikra, Rabbi Shlomo Pappenheim, Rabbi Akiva, Rabbeinu Chaim Paltiel, Rabbi Avraham Saba, Abarbanel, Professor Hubert Grimme, Professor Jeffrey H. Tigay, the Rosh, the Tur, Maharal, Rabbi Yaakov Emden, Tiferes Yisrael, Rabbi Nosson of Rome, Sefer HeAruch, Rabbi Eliyahu HaBachur, Dr. Alexander Kohut, Pri Megadim, Rabbi Mordechai Abadi, Paneach Raza, Baal HaTurim, Noam Elimelech, Professor Moshe Weinfeld, Rabbi Pinchas Avraham Meyers, Rabbi Moshe Rachamim Shayo]
+  - ms:112-filling-your-phylacteries.md "Filling your Phylacteries"
+authorities: [Targum Onkelos, Targum Yonasan, Targum Neofiti, Peshitta, Ibn Ezra, Tosafos, Ibn Janach, Radak, Rashbam, Zohar, Rabbi Yaakov Tzvi Mecklenburg, Menachem Ibn Saruk, Rashi, Chizkuni, Rabbi Yosef Bechor Shor, Rabbi Yissocher Ber Eilenberg, Rabbi Mordechai Yaffe, Daas Mikra, Rabbi Shlomo Pappenheim, Rabbi Akiva, Rabbeinu Chaim Paltiel, Rabbi Avraham Saba, Abarbanel, Professor Hubert Grimme, Professor Jeffrey H. Tigay, the Rosh, the Tur, Maharal, Rabbi Yaakov Emden, Tiferes Yisrael, Rabbi Nosson of Rome, Sefer HeAruch, Rabbi Eliyahu HaBachur, Dr. Alexander Kohut, Pri Megadim, Rabbi Mordechai Abadi, Paneach Raza, Baal HaTurim, Noam Elimelech, Professor Moshe Weinfeld, Rabbi Pinchas Avraham Meyers, Rabbi Moshe Rachamim Shayo, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Phylacteries: totafos / tefillin
 
@@ -127,6 +128,10 @@ Hebrew word; the Gemara supplies one that seemingly treats it as a loanword.
 - It has even been suggested that *totafos* somehow relates to the names of the
   Egyptian deities Thoth and Ptah, but Rabbi Klein has not seen this cited in
   any serious scholarship on the topic.
+- Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Devarim 6:8) argues that *totafos*
+  is borrowed from an Egyptian practice, since the Egyptian gods Thot and Ptah
+  were invoked in prayers and amulets meant to protect the dead. He notes that
+  the Aramaic *tefillin* likewise alludes to their use for prayers, *tefillah*.
 
 ### tefillin (תפילין)
 Common in the Mishnah (Berachos 3:1, Shabbos 6:2, 16:1, Eruvin 10:1, Shekalim
@@ -224,4 +229,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Bo: Filling your Phylacteries](https://articles.ohr.edu/articles/bo-filling-your-phylacteries)," *What's in a Word?*, Ohr Somayach, 20 January 2024.
 
-Cited in the essay: Shemos 13:16, Devarim 6:8, 11:18, 28:10; Menachos 34b with Tosafos and Rabbi Akiva; Mishnah Shabbos 6:1 with Shabbos 57b; Megillah 16b; Berachos 6a; Shemos 21:22; Yeshayahu 3:19; Bereishis 30:8, 38:18; Rashi to Shemos 13:16 and Devarim 6:8; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Pappenheim, *Cheshek Shlomo* and *Yerios Shlomo*; Maharal, *Be'er HaGolah* §4:2; the Rosh, *Hilchos Tefillin* §2; Tur, *Orach Chaim* §25; Mishnah Shekalim 3:2; Bereishis 34:22; Mishlei 1:10; Esther 8:16; *Machberes Menachem*; Chizkuni; Rabbi Yosef Bechor Shor; Professor Hubert Grimme via Professor Jeffrey H. Tigay; Professor Moshe Weinfeld; Dr. Alexander Kohut, *Aruch HaShalem*.
+Rabbi Reuven Chaim Klein, "Filling your Phylacteries," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 13:16, Devarim 6:8, 11:18, 28:10; Menachos 34b with Tosafos and Rabbi Akiva; Mishnah Shabbos 6:1 with Shabbos 57b; Megillah 16b; Berachos 6a; Shemos 21:22; Yeshayahu 3:19; Bereishis 30:8, 38:18; Rashi to Shemos 13:16 and Devarim 6:8; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Pappenheim, *Cheshek Shlomo* and *Yerios Shlomo*; Maharal, *Be'er HaGolah* §4:2; the Rosh, *Hilchos Tefillin* §2; Tur, *Orach Chaim* §25; Mishnah Shekalim 3:2; Bereishis 34:22; Mishlei 1:10; Esther 8:16; *Machberes Menachem*; Chizkuni; Rabbi Yosef Bechor Shor; Professor Hubert Grimme via Professor Jeffrey H. Tigay; Professor Moshe Weinfeld; Dr. Alexander Kohut, *Aruch HaShalem*; Benamozegh, *Eim LaMikra* to Devarim 6:8.

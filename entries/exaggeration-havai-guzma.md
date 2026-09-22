@@ -16,9 +16,10 @@ words:
     distinct: the Gemara's word, absent from Tanach and Mishnah; a rhetorical device adding to a matter to press it home (Rashi); literally true, only its plain implication overshooting (Rabbi Yaakov Emden); a truth with its numbers swelled, from gazam, the locust (Rav Hirsch)
 sources:
   - wiaw:9756 "Empty Exaggerations" (2022-07-02) https://articles.ohr.edu/articles/empty-exaggerations
+  - ms:296-empty-exaggerations.md "Empty Exaggerations"
 authorities: [Rashi, Rabbeinu Tam, Rabbi Eliezer of Metz, Rabbeinu Nissim, Tosafos Yeshanim, Rabbi Eliyahu HaBachur, Rabbi Binyamin Mussafia, Rabbi Yaakov Emden, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Aryeh Leib Feinstein, Rabbi Shmuel Jaffa-Ashkenazi, Rabbi Yissachar Ber Eilenberg, Rabbi Eliyahu HaKohen of Izmir, Rabbi Menachem Azariah of Fano, Rabbi Meir Pozna, Rabbi Ami, Alexander Kohut]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Exaggeration: havai / guzma
 
@@ -85,6 +86,7 @@ derivation for each:
   totally null and void; *havai* points to something that still wants study. He
   finds an allusion to this in reading it as an acronym for *hinei barchu es
   Hashem* (Tehillim 134:1).
+- Teshuvos Rema MiPano (§73): *havai* is *hinei barchu es Hashem*.
 
 ### guzma (גוזמא)
 Neither in Tanach nor in the Mishnah; it is the Gemara's word.
@@ -183,4 +185,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Empty Exaggerations](https://articles.ohr.edu/articles/empty-exaggerations)," *What's in a Word?*, Ohr Somayach, 2 July 2022.
 
-Cited in the essay: Devarim 1:28 and 9:1; Bamidbar 13:28; Tamid 29a and Chullin 90b (Rabbi Ami); Mishnah Tamid 2:2 and 3:4, Middos 3:8, Shekalim 8:5, Nedarim 3:1-2; Nedarim 20b with Rabbeinu Nissim and *Tosafos Yeshanim*; Bava Metzia 38a, Erchin 11a, Beitzah 4a, Eruvin 2b, Shevuos 46a, Avodah Zarah 50b, with Rashi where cited; Yoel 1:4, 2:25; Amos 4:9; Ezra 2:48 and Nechemiah 7:51; Tehillim 8:3, 72:6, 134:1; Mishlei 15:30, 30:15; Iyov 30:4, 30:21; Yeshayahu 7:25, 32:13; Yechezkel 20:29; Bereishis 11:6, 31:19, 38:12; Vayikra 26:4; Devarim 18:10; *Sefer HaTishbi*; *Mussaf HaAruch*; *Yefeh Mareh* to the end of Yerushalmi Shekalim; Dr. Alexander Kohut.
+Rabbi Reuven Chaim Klein, "Empty Exaggerations," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Devarim 1:28 and 9:1; Bamidbar 13:28; Tamid 29a and Chullin 90b (Rabbi Ami); Mishnah Tamid 2:2 and 3:4, Middos 3:8, Shekalim 8:5, Nedarim 3:1-2; Nedarim 20b with Rabbeinu Nissim and *Tosafos Yeshanim*; Bava Metzia 38a, Erchin 11a, Beitzah 4a, Eruvin 2b, Shevuos 46a, Avodah Zarah 50b, with Rashi where cited; Yoel 1:4, 2:25; Amos 4:9; Ezra 2:48 and Nechemiah 7:51; Tehillim 8:3, 72:6, 134:1; Mishlei 15:30, 30:15; Iyov 30:4, 30:21; Yeshayahu 7:25, 32:13; Yechezkel 20:29; Bereishis 11:6, 31:19, 38:12; Vayikra 26:4; Devarim 18:10; *Sefer HaTishbi*; *Mussaf HaAruch*; *Yefeh Mareh* to the end of Yerushalmi Shekalim; Dr. Alexander Kohut; Teshuvos Rema MiPano 73.

@@ -29,9 +29,10 @@ words:
     distinct: the only transitive one, quieting others, and normally so that they will listen to someone else or show him honor (Pappenheim, Mecklenburg)
 sources:
   - wiaw:8634 "To Remain Silent" (2020-03-07) https://articles.ohr.edu/articles/to-remain-silent
-authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Yaakov Tzvi Mecklenburg, Ramban, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Shlomo Algazi, Targum, Ibn Ezra, Tosafos, Maharsha, Hagahos Rashash, Rashi]
+  - ms:168-to-remain-silent.md "To Remain Silent"
+authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Yaakov Tzvi Mecklenburg, Ramban, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Shlomo Algazi, Targum, Ibn Ezra, Tosafos, Maharsha, Hagahos Rashash, Rashi, Shadal]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Silence: cheresh / shetikah / dom / chashah (hass)
 
@@ -152,6 +153,8 @@ and you will be silent" (*tacharishun*), meaning that Hashem will take care of
 the Egyptian army while Yisrael sit silently on the sidelines contemplating how
 He wages war on their behalf.
 
+Shadal (to Bereishis 34:5) takes *cheresh* as quietly, in secret.
+
 ### shetikah (שתיקה)
 Bedersi: the silence that comes after a commotion has been quelled. The root
 appears only four times in Tanach, two of them where Yonah tells his shipmates
@@ -196,4 +199,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[To Remain Silent](https://articles.ohr.edu/articles/to-remain-silent)," *What's in a Word?*, Ohr Somayach, 7 March 2020.
 
-Cited in the essay: Bereishis 24:21 with Targum; Shemos 4:11 with Ibn Ezra, 7:22 with Targum, 14:14, 35:35; Vayikra 10:3 with Ramban; Bamidbar 30:5, 30:8 with Targum; Devarim 27:9; Yehoshua 10:12; Shmuel I 23:15; Yonah 1:11-12; Tehillim 28:1 with Rav Hirsch; Mishlei 3:29 and Iyov 4:8 with Rashi; Koheles 3:7; Esther 4:14 with *Esther Rabbah* 8:6; Divrei HaYamim II 27:4; Niddah 13b; Chagigah 2b with Tosafos, *Maharsha* and *Hagahos Rashash*; Rabbi Avraham Bedersi HaPenini; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. שתק\חרש\דום\חשה\הס; Rabbi Shlomo Pappenheim, *Yerios Shlomo* (עמ' 576 ולהלן); Rabbi Shlomo Algazi.
+Rabbi Reuven Chaim Klein, "To Remain Silent," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 24:21 with Targum; Shemos 4:11 with Ibn Ezra, 7:22 with Targum, 14:14, 35:35; Vayikra 10:3 with Ramban; Bamidbar 30:5, 30:8 with Targum; Devarim 27:9; Yehoshua 10:12; Shmuel I 23:15; Yonah 1:11-12; Tehillim 28:1 with Rav Hirsch; Mishlei 3:29 and Iyov 4:8 with Rashi; Koheles 3:7; Esther 4:14 with *Esther Rabbah* 8:6; Divrei HaYamim II 27:4; Niddah 13b; Chagigah 2b with Tosafos, *Maharsha* and *Hagahos Rashash*; Rabbi Avraham Bedersi HaPenini; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. שתק\חרש\דום\חשה\הס; Rabbi Shlomo Pappenheim, *Yerios Shlomo* (עמ' 576 ולהלן); Rabbi Shlomo Algazi; Shadal to Bereishis 34:5.

@@ -37,9 +37,10 @@ words:
     distinct: always in a good sense, unlike mashkif (Wertheimer); one who watches actively and steps in to set things right, as in Hashem's hashgachah (Rabbi Moshe Shapiro)
 sources:
   - wiaw:7463 "Seeing is Believing" (2017-11-04) https://articles.ohr.edu/articles/seeing-is-believing
-authorities: [Malbim, Vilna Gaon, Rabbi Yaakov Tzvi Mecklenburg, Rashi, Radak, Rabbi Shlomo Aharon Wertheimer, Rabbi Elazar Rokeach of Worms, Rabbi Shlomo Pappenheim, Rabbi Moshe Shapiro]
+  - ms:022-seeing-is-believing.md "Seeing is Believing"
+authorities: [Malbim, Vilna Gaon, Rabbi Yaakov Tzvi Mecklenburg, Rashi, Radak, Rabbi Shlomo Aharon Wertheimer, Rabbi Elazar Rokeach of Worms, Rabbi Shlomo Pappenheim, Rabbi Moshe Shapiro, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Seeing: ra'ah / hibit / mashkif / tzofeh (shur, metzitz, mashgiach)
 
@@ -105,6 +106,8 @@ narrow opening, and *mashgiach* is watching that acts on what it sees.
 - *Sefer HaChochmah*, ascribed to the late twelfth-century Ashkenazic scholar
   Rabbi Elazar Rokeach of Worms: *mashkif* looks down from a high place, and
   *tzofeh* is one situated very high up, on a tall mountain, looking downward.
+- Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Devarim 26:15): the root ש-ק-ף of
+  *mashkif* is related to Arabic *sakaf*, roof, and Aramaic *zakaf*, upright.
 
 ### tzofeh (צופה)
 The gazing at what does not physically exist, an abstraction rather than a
@@ -173,4 +176,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Seeing is Believing](https://articles.ohr.edu/articles/seeing-is-believing)," *What's in a Word?*, Ohr Somayach, 4 November 2017.
 
-Cited in the essay: Bereishis 18:16 with Rashi; Devarim 26:15; Yeshayahu 5:12 with the Vilna Gaon; Mishlei 15:3 with the Vilna Gaon; Shir HaShirim 2:9; Koheles 5:1 with the Midrash; *Bereishis Rabbah* 44:12; Rashi to *Berachos* 29a; Malbim, *Yair Ohr* (אות רי"ש אות א'); Rabbi Yaakov Tzvi Mecklenburg; Radak, *Sefer HaShorashim*, s.v. שקף; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* (ערף השקיף\השגיח\הציץ\הביט\ראה\צפה\שור); *Sefer HaChochmah*, ascribed to Rabbi Elazar Rokeach of Worms; Rabbi Shlomo Pappenheim, *Yerios Shlomo*; Rabbi Moshe Shapiro.
+Rabbi Reuven Chaim Klein, "Seeing is Believing," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 18:16 with Rashi; Devarim 26:15; Yeshayahu 5:12 with the Vilna Gaon; Mishlei 15:3 with the Vilna Gaon; Shir HaShirim 2:9; Koheles 5:1 with the Midrash; *Bereishis Rabbah* 44:12; Rashi to *Berachos* 29a; Malbim, *Yair Ohr* (אות רי"ש אות א'); Rabbi Yaakov Tzvi Mecklenburg; Radak, *Sefer HaShorashim*, s.v. שקף; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* (ערף השקיף\השגיח\הציץ\הביט\ראה\צפה\שור); *Sefer HaChochmah*, ascribed to Rabbi Elazar Rokeach of Worms; Rabbi Shlomo Pappenheim, *Yerios Shlomo*; Rabbi Moshe Shapiro; Benamozegh, *Eim LaMikra* to Devarim 26:15.

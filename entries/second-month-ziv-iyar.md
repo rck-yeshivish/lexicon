@@ -16,9 +16,10 @@ words:
     distinct: the current name, absent from Tanach, brought up from Bavel by prophetic revelation (Yerushalmi Rosh HaShanah 1:2); its spelling, one yud or two, is a live halachic question in a get
 sources:
   - wiaw:11411 "The Shiny Month" (2024-05-25) https://articles.ohr.edu/articles/the-shiny-month
+  - ms:228-the-shiny-month.md "The Shiny Month"
 authorities: [Ibn Ezra, Radak, Rabbi Shlomo Pappenheim, Rashi, Maharil, Terumas HaDeshen, Rabbi Yaakov Margolis, Shulchan Aruch, Rema, Nachalas Shivah, Beis Shmuel, Aruch HaShulchan, Megaleh Amukos, Rabbi Eliezer Hagar of Vizhnitz, Sefer HaKushyos, Rabbi Yosef Kara, Maharal, Maharsha, Rabbi Moshe Shapiro, Rabbi Shimshon of Ostropoli, Chasam Sofer, Rabbi Mordechai Nachman Aronovsky, Rabbi Dovid Jungreis, Moshe Escott]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # The second month: Ziv / Iyar
 
@@ -166,6 +167,16 @@ the name of Rabbi Dovid Jungreis he adds that the last eight words of Tehillim
 Sinai (Bamidbar 10:11), when Moshe would say "Arise, Hashem, and let Your enemies
 be scattered" (Bamidbar 10:35).
 
+Rabbi Moshe Shapiro, on the Maharal (*Nesiv HaTorah* ch. 12): Iyar is written
+with two yuds. Some hold a *get* written in Iyar must be written twice, once
+with one yud and once with two, but the prevailing view writes two. The gematria
+of *Iyar* equals *erech*, length, a line running from a point of origin to a
+destination, in time (*orech yamim*) as in space. In *Sefer Yetzirah* the twelve
+months parallel the twelve simple letters, and Iyar's is the vav, which joins
+and extends; Iyar, the one month all of whose days are *sefirah*, is the bridge
+from Nissan to Sivan, joining *Yetzias Mitzrayim* to the close of the fifty
+days.
+
 ## Rendering guidance
 
 - Render the Biblical name as "Ziv," with "the second month" in apposition where
@@ -190,4 +201,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[The Shiny Month](https://articles.ohr.edu/articles/the-shiny-month)," *What's in a Word?*, Ohr Somayach, 25 May 2024.
 
-Cited in the essay: Shemos 15:26 with the Chasam Sofer to Shabbos 147b, and 34:29 with Onkelos; Vayikra 9:22 with Rabbi Eliezer Hagar of Vizhnitz, *Damesek Eliezer*; Bamidbar 6:25, 9:11 with Targum Yonasan, 10:11, 10:35; Devarim 16:1 with Ibn Ezra, 32:1-43; Melachim I 6:1, 6:37, and 8:2 with Rabbi Yosef Kara; Yeshayahu 6:3 with Targum Yonasan; Tehillim 6:11 with Rabbi Shimshon of Ostropoli; Daniel 2:31, 4:33, 5:6, 5:9-10, 7:28; *Rosh HaShanah* 10b-11a with Rashi, 18a with *Ein Yaakov*, and 31a with Maharsha; *Shabbos* 88a, 147b; *Yevamos* 62b with Maharal, *Chiddushei Aggados*; Yerushalmi *Rosh HaShanah* 1:2; Mishnah *Rosh HaShanah* 1:3, with the Kaufmann and Parma manuscripts; *Bereishis Rabbah* 48:9 with pseudo-Rashi; *Seder Olam Rabbah* ch. 5; Radak, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Moshe Shapiro; *Shulchan Aruch*, *Even HaEzer* 126:23, and Rema, *Even HaEzer* 126:7, with *Beis Shmuel* 126:20 and *Aruch HaShulchan* 126:15; *Nachalas Shivah*; *Yalkut Chadash*, s.v. *avos v'imahos*, in the name of *Megaleh Amukos* 121; Rabbi Yaakov Margolis, *Seder HaGet* 17 and 19; Maharil, responsa 189; *Terumas HaDeshen* 233; *Sefer HaKushyos*, published by Rabbi Y. Y. Stahl; Rabbi Mordechai Nachman Aronovsky, with Rabbi Dovid Jungreis; the Base HaSefer database of Moshe Escott.
+Rabbi Reuven Chaim Klein, "The Shiny Month," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 15:26 with the Chasam Sofer to Shabbos 147b, and 34:29 with Onkelos; Vayikra 9:22 with Rabbi Eliezer Hagar of Vizhnitz, *Damesek Eliezer*; Bamidbar 6:25, 9:11 with Targum Yonasan, 10:11, 10:35; Devarim 16:1 with Ibn Ezra, 32:1-43; Melachim I 6:1, 6:37, and 8:2 with Rabbi Yosef Kara; Yeshayahu 6:3 with Targum Yonasan; Tehillim 6:11 with Rabbi Shimshon of Ostropoli; Daniel 2:31, 4:33, 5:6, 5:9-10, 7:28; *Rosh HaShanah* 10b-11a with Rashi, 18a with *Ein Yaakov*, and 31a with Maharsha; *Shabbos* 88a, 147b; *Yevamos* 62b with Maharal, *Chiddushei Aggados*; Yerushalmi *Rosh HaShanah* 1:2; Mishnah *Rosh HaShanah* 1:3, with the Kaufmann and Parma manuscripts; *Bereishis Rabbah* 48:9 with pseudo-Rashi; *Seder Olam Rabbah* ch. 5; Radak, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Moshe Shapiro; *Shulchan Aruch*, *Even HaEzer* 126:23, and Rema, *Even HaEzer* 126:7, with *Beis Shmuel* 126:20 and *Aruch HaShulchan* 126:15; *Nachalas Shivah*; *Yalkut Chadash*, s.v. *avos v'imahos*, in the name of *Megaleh Amukos* 121; Rabbi Yaakov Margolis, *Seder HaGet* 17 and 19; Maharil, responsa 189; *Terumas HaDeshen* 233; *Sefer HaKushyos*, published by Rabbi Y. Y. Stahl; Rabbi Mordechai Nachman Aronovsky, with Rabbi Dovid Jungreis; the Base HaSefer database of Moshe Escott; Maharal, *Nesiv HaTorah* ch. 12; *Sefer Yetzirah*.

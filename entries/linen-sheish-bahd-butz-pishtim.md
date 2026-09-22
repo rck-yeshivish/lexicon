@@ -34,9 +34,10 @@ sources:
   - wiaw:8140 "Is Cotton a Type of Linen?" (2019-02-16) https://articles.ohr.edu/articles/is-cotton-a-type-of-linen
   - wiaw:9031 "Marshes, Marshes, Marshes" (2021-01-16) https://articles.ohr.edu/articles/marshes-marshes-marshes
   - wiaw:11353 "Metzorah/Shabbos HaGadol: Veggies for the Dipping" (2024-04-20) https://articles.ohr.edu/articles/metzorahshabbos-hagadol-veggies-for-the-dipping
-authorities: [Ralbag, Abarbanel, Rambam, Daas Zekeinim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Zev Lev, Rabbi Moshe Mordechai Schulsinger, Steipler Gaon, Rabbi Dov Landau, Rashi, Professor Edward Yechezkel Kutscher, Sir Godfrey Rolles Driver, Rabbi Saadia Gaon, Ibn Janach, Ibn Ezra, Radak, Rabbi Yosef Nechemias, Targum Rishon, Targum Sheini, Rabbi Ernest Klein]
+  - ms:148-is-cotton-a-type-of-linen.md "Is Cotton a Type of Linen?"
+authorities: [Ralbag, Abarbanel, Rambam, Daas Zekeinim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Zev Lev, Rabbi Moshe Mordechai Schulsinger, Steipler Gaon, Rabbi Dov Landau, Rashi, Professor Edward Yechezkel Kutscher, Sir Godfrey Rolles Driver, Rabbi Saadia Gaon, Ibn Janach, Ibn Ezra, Radak, Rabbi Yosef Nechemias, Targum Rishon, Targum Sheini, Rabbi Ernest Klein, Rabbi Yosef Karo, Rabbi Eliyahu Benamozegh, Rabbi Eliyahu Benamozegh, Avi Hurvitz]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Linen: sheish / bahd / butz / pishtim
 
@@ -71,6 +72,9 @@ The flax plant and the fiber it yields.
   **material**, while *sheish* and *bahd* name particular **threads**.
 - Rabbi Shlomo Pappenheim narrows *pishtah* / *pishtan* further, to the flax
   while it is still growing in the ground.
+- Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Vayikra 16:4): *etun Mitzrayim*
+  (Mishlei 7:16) is linen, and the city of Athens was named for its notables,
+  who wore linen.
 
 ### sheish (שש)
 - Ralbag and Abarbanel: a thread of six fibers, the number being the word
@@ -104,6 +108,12 @@ From *bad*, alone, as in *levad* and *hisbodedus*.
 Zevachim 18b establishes that *bahd* is linen; on the Steipler's account this is
 needed precisely because the word by itself only says "alone."
 
+Rabbi Yosef Karo (*Maggid Meisharim*, Vayakhel): *bad* is six in gematria, and
+*sheish* also means six.
+
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Vayikra 16:4): *bad* must be linen,
+since the Kohen Gadol wears garments of *bad*, as Egyptian priests wore linen.
+
 ### butz (בוץ) and kitna (כיתנא)
 *Butz* is the later Hebrew and Aramaic word for fine linen; the Latin *byssus*,
 a thin silk-like linen, is said to be derived directly from it. *Kitna* is the
@@ -121,6 +131,8 @@ Rabbi Shlomo Pappenheim, who traces *botz*, mud, and *bitzah*, marsh, to the
 biliteral ב-ץ, a fluid of mucus-like consistency, also asserts that *butz*
 (Esther 1:6, 8:15; Yechezkel 27:16) refers specifically to a type of flax or
 linen that grows in watery soil like that of a *bitzah*.
+
+Avi Hurvitz: *butz* is later than *sheish* and *bad*.
 
 ### cotton (כותנה, צמר גפן)
 Not a Biblical category. Cotton simply did not exist in the ancient Near East,
@@ -161,6 +173,8 @@ and tes (Berachos 28b, Shabbos 21a, Shabbos 110b, Niddah 17a). Linguists
 take the Aramaic *pekolin*, "cotton tufts," to be borrowed from the Greek
 *phakelos*, "bundle" or "fascicle." Cotton, then, is not a type of linen.
 
+Rashi (to *Niddah* 17a): *milla parhava* is cotton.
+
 ## Rendering guidance
 
 - Mishkan and *bigdei kehunah* passages: *sheish* is "fine linen," *bahd* is
@@ -192,4 +206,6 @@ Rabbi Reuven Chaim Klein, "[Marshes, Marshes, Marshes](https://articles.ohr.edu/
 
 Rabbi Reuven Chaim Klein, "[Metzorah/Shabbos HaGadol: Veggies for the Dipping](https://articles.ohr.edu/articles/metzorahshabbos-hagadol-veggies-for-the-dipping)," *What's in a Word?*, Ohr Somayach, 20 April 2024.
 
-Cited in the essay: Yoma 71b; Zevachim 18b; Targum to Shemos 9:31; Ralbag and Abarbanel to Shemos 25:4; Rambam, Hilchos Klei HaMikdash 8:14, and his commentary to Mishnah Kilayim 7:2; *Daas Zekeinim* to Bereishis 41:42; Pappenheim, *Cheshek Shlomo*; Rabbi Yaakov Zev Lev, *Me'at Tzari* to Vayikra 16:4; Rabbi Moshe Mordechai Schulsinger, *Mishmar HaLevi*, with the replies of the Steipler Gaon and Rabbi Dov Landau; Esther 1:6 with Rabbi Saadia Gaon's *Tafsir*, Targum Rishon, Targum Sheini, Rashi, Ibn Ezra, Radak, Ralbag and Rabbi Yosef Nechemias, and 8:15; Yechezkel 27:16; Ibn Janach, *Sefer HaShorashim*; Megillah 12a; Rabbi Ernest Klein's etymological dictionary; Shabbos 105a; Rashi to Berachos 28b, Shabbos 21a, Shabbos 110b and Niddah 17a; Professor Edward Yechezkel Kutscher, *Milim V'Toldoteihen* (עמ' 99-101); Sir Godfrey Rolles Driver.
+Rabbi Reuven Chaim Klein, "Is Cotton a Type of Linen?," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Yoma 71b; Zevachim 18b; Targum to Shemos 9:31; Ralbag and Abarbanel to Shemos 25:4; Rambam, Hilchos Klei HaMikdash 8:14, and his commentary to Mishnah Kilayim 7:2; *Daas Zekeinim* to Bereishis 41:42; Pappenheim, *Cheshek Shlomo*; Rabbi Yaakov Zev Lev, *Me'at Tzari* to Vayikra 16:4; Rabbi Moshe Mordechai Schulsinger, *Mishmar HaLevi*, with the replies of the Steipler Gaon and Rabbi Dov Landau; Esther 1:6 with Rabbi Saadia Gaon's *Tafsir*, Targum Rishon, Targum Sheini, Rashi, Ibn Ezra, Radak, Ralbag and Rabbi Yosef Nechemias, and 8:15; Yechezkel 27:16; Ibn Janach, *Sefer HaShorashim*; Megillah 12a; Rabbi Ernest Klein's etymological dictionary; Shabbos 105a; Rashi to Berachos 28b, Shabbos 21a, Shabbos 110b and Niddah 17a; Professor Edward Yechezkel Kutscher, *Milim V'Toldoteihen* (עמ' 99-101); Sir Godfrey Rolles Driver; Rashi to *Niddah* 17a; *Maggid Meisharim*, Vayakhel; Benamozegh, *Eim LaMikra* to Vayikra 16:4; Mishlei 7:16; Benamozegh, *Eim LaMikra* to Vayikra 16:4; Hurvitz.

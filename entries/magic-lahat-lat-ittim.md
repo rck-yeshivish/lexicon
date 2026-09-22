@@ -21,9 +21,10 @@ words:
     distinct: a separate root א-ט, "slow"; magicians who moved deliberately slowly for dramatic effect (Rabbi Shlomo Pappenheim), or a class of kishuf (Menachem, Radak) or astrologers (Ibn Janach)
 sources:
   - wiaw:10804 "Vaera: The Trick of Magi" (2023-01-21) https://articles.ohr.edu/articles/vaera-the-trick-of-magi
-authorities: [Targum Onkelos, Rashi, Ramban, Ibn Ezra, Radak, Ibn Janach, Menachem Ibn Saruk, Tosafists (Moshav Zekenim), Rabbi Avraham Saba, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Saadia Gaon, Rabbeinu Chananel, Rabbi Avraham Maimuni, Ralbag, Rabbi David HaNaggid, Rabbi Yehuda HaLevi, Vilna Gaon]
+  - ms:096-the-trick-of-magi.md "The Trick of Magi"
+authorities: [Targum Onkelos, Rashi, Ramban, Ibn Ezra, Radak, Ibn Janach, Menachem Ibn Saruk, Tosafists (Moshav Zekenim), Rabbi Avraham Saba, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Saadia Gaon, Rabbeinu Chananel, Rabbi Avraham Maimuni, Ralbag, Rabbi David HaNaggid, Rabbi Yehuda HaLevi, Vilna Gaon, Rabbi Shes ben Yefes, Igeres Shmuel, Rabbi Yehudah Provencal]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Magic: lahat / lat (ittim)
 
@@ -112,6 +113,9 @@ first plague, and that is what the meforshim are commenting on.
 - Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) works from the biliteral ט-ל,
   "folding": a blade or flame seems to fold through what it cuts or burns, and
   *lahat* was borrowed for the fast folding motion of a conjuror's hands.
+- *Chemdas HaChemdah* (to Shemos 7:11): *lahat* is speed, as in *lahat hacherev
+  hamis'hapeches*, sorcery done by quick deception of the eye; *lateihem* is
+  from *vayalet*, covering, the hidden devices sorcerers keep out of sight.
 
 ### lat (לט)
 - Ramban derives it from the biliteral ל-ט, "clandestine" (Shmuel I 18:22),
@@ -120,6 +124,8 @@ first plague, and that is what the meforshim are commenting on.
 - Rabbi Shlomo Pappenheim gets there through "folding" too: folded cloth
   conceals what is inside, and *lat* is the trick of folding a stone into a
   cloth and drawing out a bird.
+- *Igeres Shmuel*, citing Rabbi Yehudah Provencal, reads *vatavo balat* (Rus
+  3:7) as her working a charm.
 
 ### ittim (אטים)
 Yeshayahu 19:3, among Egypt's diviners.
@@ -160,4 +166,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Vaera: The Trick of Magi](https://articles.ohr.edu/articles/vaera-the-trick-of-magi)," *What's in a Word?*, Ohr Somayach, 21 January 2023.
 
-Cited in the essay: Shemos 7:11, 7:22, 8:3, 8:14-15; Bereishis 3:24; Sanhedrin 67b with Rashi; Targum Onkelos, Ramban, and Ibn Ezra to Shemos 7:11 and 7:22; *Moshav Zekenim* and *Tzror HaMor* there; *Cheshek Shlomo* and *Yerios Shlomo*; Rav Hirsch to Shemos 7:11; Tehillim 104:4; Shmuel I 18:22, 21:10; Shoftim 4:21; Yeshayahu 8:6, 19:3 with Rashi, 25:7; Bereishis 33:14; Shmuel II 18:5; Iyov 15:11; *Moreh Nevuchim* 3:46; *Biur HaGra*, Yoreh Deah 179:13; Rabbi David HaNaggid, *Klil HaYofi* to Shemos 7:11; Rabbi Moshe Maimon, *Mechilta* vol. 4.
+Rabbi Reuven Chaim Klein, "The Trick of Magi," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 7:11, 7:22, 8:3, 8:14-15; Bereishis 3:24; Sanhedrin 67b with Rashi; Targum Onkelos, Ramban, and Ibn Ezra to Shemos 7:11 and 7:22; *Moshav Zekenim* and *Tzror HaMor* there; *Cheshek Shlomo* and *Yerios Shlomo*; Rav Hirsch to Shemos 7:11; Tehillim 104:4; Shmuel I 18:22, 21:10; Shoftim 4:21; Yeshayahu 8:6, 19:3 with Rashi, 25:7; Bereishis 33:14; Shmuel II 18:5; Iyov 15:11; *Moreh Nevuchim* 3:46; *Biur HaGra*, Yoreh Deah 179:13; Rabbi David HaNaggid, *Klil HaYofi* to Shemos 7:11; Rabbi Moshe Maimon, *Mechilta* vol. 4; *Chemdas HaChemdah* to Shemos 7:11; *Igeres Shmuel* to Rus 3:7.

@@ -20,9 +20,9 @@ words:
     distinct: the one with neither body nor form (Rashi to *Sanhedrin* 109a), the word itself meaning wind or spirit
 sources:
   - ms:288-of-demons-and-spirits.md "Of Demons and Spirits"
-authorities: [Rashi, Ibn Ezra, Radak, Zohar, Sefer Chassidim, Ruth Rabbah, Rabbi Yehudah Fatiyah]
+authorities: [Rashi, Ibn Ezra, Radak, Zohar, Sefer Chassidim, Ruth Rabbah, Rabbi Yehudah Fatiyah, Rabbi Shes ben Yefes, Ramban, Ramban, Maasei Hashem, Rabbi Moshe David Valle, Rabbi Elazar Rokeach of Worms, Ralbag, Rabbi Shes ben Yefes, Rabbi Tanchum HaYerushalmi]
 status: draft
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 # Demon: sheid / lilis / ruach
 
@@ -89,12 +89,40 @@ and like men in four, in eating, in drinking, in reproducing and in dying.
 Rashi (to *Sanhedrin* 109a) describes them from the other side, as having a
 humanoid form and eating and drinking as a man does.
 
+Ibn Ezra (to Vayikra 17:7): they are called *se'irim* because seeing them makes
+one's hair, *se'ar*, stand on end from fright. Ramban there: because those who
+claim to see them say they appear as goats, *se'irim*.
+
+Ramban (to Vayikra 17:7): *sheidim* are so called because they live in desolate,
+*shadud*, places such as the wilderness, especially places of great heat or
+cold.
+
+*Maasei Hashem* (Bereishis ch. 2): they are called *se'irim* because they
+appeared hairy, and *sheidim* because they usually appeared to people in the
+field, *sadeh*. So too Rabbi Moshe David Valle (Vayikra p. 167).
+
+*Siddur HaRokeach* (ed. Herschler, 1992, p. 106): the Egyptians worshipped sheep
+because they saw *sheidim* appearing in the form of sheep. Ibn Ezra (to Vayikra
+17:7): they are called *se'irim* because the deranged who think they see demons
+report them in the form of goats. Ralbag (there): *se'irim* are associated with
+Saturn in the sign of Capricorn, the *gedi*, a goat, so people imagine Saturn's
+astral force in the form of a goat.
+
+Rabbi Shes ben Yefes (*Chemdas HaChemdah* to Devarim 32:17): *sheid* is from
+*shoded*, plundering, because a demon that possesses a man seizes his mind and
+drives him mad; and also from *yashud tzaharayim*.
+
 ### lilis (לילית)
 
 The female demon, and on Rashi's account at *Sanhedrin* 109a the one that takes
 the shape of a man but has wings as well. Rashi to *Eruvin* 100b has it a kind
 of *sheid*; there the Gemara counts among the ten curses that came upon Chavah
 after the Forbidden Fruit that she was doomed to grow hair like a Lilis.
+
+*Chemdas HaChemdah* (to Devarim 32:10): *Lilis* is related to *yelel*, howling.
+
+Rabbi Tanchum HaYerushalmi (*HaMadrich HaMaspik*): *Lilis* is a wild animal that
+appears only at night, when it scavenges for food.
 
 ### ruach (רוח)
 
@@ -130,4 +158,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "Of Demons and Spirits," *What's in a Word?*. Not among the essays Ohr Somayach carries; drawn from the book manuscript, where it is filed under Shavuos.
 
-Cited in the essay: Rus 3:8 with *Ruth Rabbah* and Rashi; Yeshayahu 34:14 with Rashi, Ibn Ezra and Radak; *Chagigah* 16a; *Sanhedrin* 109a with Rashi; *Eruvin* 100b with Rashi; *Niddah* 24b with Rashi; *Zohar*, *Bereishis* 54b; *Sefer Chassidim* §1155; Rabbi Yehudah Fatiyah; *Ruth Rabbah* 6:1 with the commentaries there; *Shiyurei Taharah*, *maareches* shin §42; *Minchas Yehudah*, Bereishis §20.
+Cited in the essay: Rus 3:8 with *Ruth Rabbah* and Rashi; Yeshayahu 34:14 with Rashi, Ibn Ezra and Radak; *Chagigah* 16a; *Sanhedrin* 109a with Rashi; *Eruvin* 100b with Rashi; *Niddah* 24b with Rashi; *Zohar*, *Bereishis* 54b; *Sefer Chassidim* §1155; Rabbi Yehudah Fatiyah; *Ruth Rabbah* 6:1 with the commentaries there; *Shiyurei Taharah*, *maareches* shin §42; *Minchas Yehudah*, Bereishis §20; *Chemdas HaChemdah* to Devarim 32:10; Ibn Ezra and Ramban to Vayikra 17:7; Ramban to Vayikra 17:7; *Maasei Hashem*, Bereishis ch. 2; Rabbi Moshe David Valle, Vayikra p. 167; *Siddur HaRokeach* p. 106; Ibn Ezra and Ralbag to Vayikra 17:7; *Chemdas HaChemdah* to Devarim 32:17; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik*.

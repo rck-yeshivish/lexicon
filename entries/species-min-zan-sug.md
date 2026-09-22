@@ -21,9 +21,10 @@ words:
     distinct: post-biblical; in the Mishnah a big container, and in logic the parent category holding several minim (Rambam, Ramchal); a conceptual container, from ס-ג, boundary (Rabbi Klein)
 sources:
   - wiaw:10897 "Shemini: Types of Species" (2023-04-15) https://articles.ohr.edu/articles/shemini-types-of-species
-authorities: [Rabbeinu Yonah Ibn Janach, Radak, Shadal, Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Rav Hirsch, Rav Saadia Gaon, Ibn Ezra, Donash Ibn Labrat, Menachem Ibn Saruk, Rashi, pseudo-Rashi, Ralbag, Targum, Rabbi Yehoshua Steinberg, Ramban, Rabbeinu Nissim of Gerona, Rambam, Rabbi Moshe Ibn Tibbon, Rabbi Shmuel Ibn Tibbon, Ramchal, Professor Avi Hurvitz, Dr. Menachem Zvi Kaddari]
+  - ms:186-types-of-species.md "Types of Species"
+authorities: [Rabbeinu Yonah Ibn Janach, Radak, Shadal, Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Rav Hirsch, Rav Saadia Gaon, Ibn Ezra, Donash Ibn Labrat, Menachem Ibn Saruk, Rashi, pseudo-Rashi, Ralbag, Targum, Rabbi Yehoshua Steinberg, Ramban, Rabbeinu Nissim of Gerona, Rambam, Rabbi Moshe Ibn Tibbon, Rabbi Shmuel Ibn Tibbon, Ramchal, Professor Avi Hurvitz, Dr. Menachem Zvi Kaddari, Rabbi Shimon Lavie]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Species: min / zan / sug
 
@@ -160,6 +161,10 @@ sustenance), since it was a type of spice that served as an aphrodisiac (see
   Hebrew *min*.
 - Dr. Menachem Zvi Kaddari (1925 to 2011), in his dictionary of Biblical Hebrew,
   proposes that *zan* is a loanword from Old Persian *zana*, "type, class."
+- Rabbi Shimon Lavie (*Kesem Paz* to the Zohar, *Hakdamah* 1a) seems to
+  understand *Bereishis Rabbah* (28:8) as tying *zan*, species, to the idea that
+  many kinds of plants were produced by deliberate crossing, as though the
+  plants had been *zonah*, crossed outside their own kind.
 
 ### sug (סוג)
 Not in Tanach in the sense of "type," "category," or "species"; a later
@@ -220,4 +225,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Shemini: Types of Species](https://articles.ohr.edu/articles/shemini-types-of-species)," *What's in a Word?*, Ohr Somayach, 15 April 2023.
 
-Cited in the essay: Bereishis 1:11-12, 1:21, 1:24-25, 6:14 with the Ran, 6:19 with Ramban, and the Teivah narrative of Bereishis 6-7; Shemos 16:15, and 20:4 with Shadal and Rav Hirsch; Vayikra 11:14-19, 11:22, 11:29; Devarim 14:13-18; Yeshayahu 65:11; Yechezkel 47:10; Tehillim 144:13 with Rav Hirsch and Radak, and 150:4 with Ibn Ezra and Rashi; Shir HaShirim 7:3; Daniel 3:5 with Rashi and Ibn Ezra, 3:7, 3:10, 3:15; Divrei HaYamim II 16:14 with pseudo-Rashi, Ralbag and Radak; Mishnah *Demai* 5:6, *Keilim* 16:3, *Avos* 1:1; *Bava Kamma* 16b; Ibn Janach and Radak, *Sefer HaShorashim* (Radak s.v. זון and s.v. פוק); Menachem Ibn Saruk, *Machberes Menachem*; Donash Ibn Labrat; Rav Saadia Gaon; Ibn Ezra, *Sefas Yeser* 95; Rabbi Shlomo Pappenheim; Rabbi Yehoshua (Jeremy) Steinberg; Rambam, *Milos HaHigayon* 10, in Rabbi Moshe Ibn Tibbon's translation; Rabbi Shmuel Ibn Tibbon, *Peirush HaMilos HaZaros*; *Derashos HaRan* 12; Ramchal, *Derech Tevunos* 11:9; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* and *Meturgeman*; Professor Avi Hurvitz; Dr. Menachem Zvi Kaddari's dictionary of Biblical Hebrew.
+Rabbi Reuven Chaim Klein, "Types of Species," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 1:11-12, 1:21, 1:24-25, 6:14 with the Ran, 6:19 with Ramban, and the Teivah narrative of Bereishis 6-7; Shemos 16:15, and 20:4 with Shadal and Rav Hirsch; Vayikra 11:14-19, 11:22, 11:29; Devarim 14:13-18; Yeshayahu 65:11; Yechezkel 47:10; Tehillim 144:13 with Rav Hirsch and Radak, and 150:4 with Ibn Ezra and Rashi; Shir HaShirim 7:3; Daniel 3:5 with Rashi and Ibn Ezra, 3:7, 3:10, 3:15; Divrei HaYamim II 16:14 with pseudo-Rashi, Ralbag and Radak; Mishnah *Demai* 5:6, *Keilim* 16:3, *Avos* 1:1; *Bava Kamma* 16b; Ibn Janach and Radak, *Sefer HaShorashim* (Radak s.v. זון and s.v. פוק); Menachem Ibn Saruk, *Machberes Menachem*; Donash Ibn Labrat; Rav Saadia Gaon; Ibn Ezra, *Sefas Yeser* 95; Rabbi Shlomo Pappenheim; Rabbi Yehoshua (Jeremy) Steinberg; Rambam, *Milos HaHigayon* 10, in Rabbi Moshe Ibn Tibbon's translation; Rabbi Shmuel Ibn Tibbon, *Peirush HaMilos HaZaros*; *Derashos HaRan* 12; Ramchal, *Derech Tevunos* 11:9; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* and *Meturgeman*; Professor Avi Hurvitz; Dr. Menachem Zvi Kaddari's dictionary of Biblical Hebrew; *Kesem Paz* to the Zohar, *Hakdamah* 1a; *Bereishis Rabbah* 28:8.

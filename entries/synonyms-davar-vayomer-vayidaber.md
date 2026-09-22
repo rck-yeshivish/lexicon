@@ -17,9 +17,10 @@ words:
 sources:
   - wiaw:6817 "Introduction - Synonyms in the Hebrew Language" (2016-06-25) https://articles.ohr.edu/articles/introduction-synonyms-in-the-hebrew-language
   - wiaw:9039 "Bo: Come To Pharaoh" (2021-01-23) https://articles.ohr.edu/articles/bo-come-to-pharaoh
-authorities: [Malbim, Ibn Ezra, Vilna Gaon, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Tosafos, Zohar]
+  - ms:003-flying-sparks.md "Introduction: Synonyms in the Hebrew Language"
+authorities: [Malbim, Ibn Ezra, Vilna Gaon, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Tosafos, Zohar, Afarkesta DeAnya, Sifrei]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Synonyms: the method (davar, vayomer / vayidaber, melucha / moshel, ba / atah)
 
@@ -51,6 +52,16 @@ these forms:
    inside it (hyponym).
 5. The Torah has borrowed a word from another language to make a point, and the
    loanword may bear the same meaning as a Hebrew word.
+
+*Afarkesta DeAnya* (vol. 3, *Yoreh De'ah* 197): the holy tongue is not like
+other languages, whose many names for one thing differ hardly at all and were
+coined only to enrich the vocabulary; in Hebrew every name and every word
+carries a concept of its own, which one who knows the language fully would never
+exchange for another.
+
+*Sifrei* (Naso 23) says the Torah speaks in two expressions for one thing, and
+gives *yayin* and *shechar*, *os* and *mofes*, *zevichah* and *shechitah*,
+*kemitzah* and *haramah*, *amukah* and *shefelah*.
 
 ### vayomer (ויאמר) and vayidaber (וידבר)
 The two seem to mean more or less the same. Malbim: *vayomer* is a brief,
@@ -124,4 +135,6 @@ Rabbi Reuven Chaim Klein, "[Introduction: Synonyms in the Hebrew Language](https
 
 Rabbi Reuven Chaim Klein, "[Bo: Come To Pharaoh](https://articles.ohr.edu/articles/bo-come-to-pharaoh)," *What's in a Word?*, Ohr Somayach, 23 January 2021.
 
-Cited in the essay: Devarim 33:2; Tehillim 22:29 with Ibn Ezra; Shemos 10:1; Bereishis 29:9, 37:19; Malbim; the *meforshim* on Devarim 33:2; Rabbi Shlomo Pappenheim; Malbim, *Yair Ohr*; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Aharon Marcus; the Tosafists and the *Zohar* on *bo*; Rabbi Yehuda Leib Edel, Rabbi Aharon Marcus and Rabbi Shlomo Aharon Wertheimer, named as writers on Hebrew synonyms.
+Rabbi Reuven Chaim Klein, "Introduction: Synonyms in the Hebrew Language," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Devarim 33:2; Tehillim 22:29 with Ibn Ezra; Shemos 10:1; Bereishis 29:9, 37:19; Malbim; the *meforshim* on Devarim 33:2; Rabbi Shlomo Pappenheim; Malbim, *Yair Ohr*; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Aharon Marcus; the Tosafists and the *Zohar* on *bo*; Rabbi Yehuda Leib Edel, Rabbi Aharon Marcus and Rabbi Shlomo Aharon Wertheimer, named as writers on Hebrew synonyms; *Afarkesta DeAnya* vol. 3, *Yoreh De'ah* 197; *Sifrei*, Naso 23.

@@ -48,9 +48,10 @@ sources:
   - wiaw:7321 "Slithering Serpents and Sea Snakes - Part 1" (2017-07-01) https://articles.ohr.edu/articles/slithering-serpents-and-sea-snakes-part-1
   - wiaw:7341 "Slithering Serpents and Sea Snakes - Part 2" (2017-07-15) https://articles.ohr.edu/articles/slithering-serpents-and-sea-snakes-part-2
   - wiaw:9234 "Fun with Fish (Part 2/2)" (2021-06-05) https://articles.ohr.edu/articles/fun-with-fish-part-22
-authorities: [Avos d'Rabbi Nassan, Rabbi Shlomo Aharon Wertheimer, Rashi, Rabbi Aharon Marcus, Rabbi Shlomo Ibn Parchon, Rabbi Yonah Ibn Janach, Rabbi Yosef Bechor Shor, Vilna Gaon, Malbim, Radak, Mahari Kara, Rabbi Shalom Buzaglo, Rabbi Natan Nata Shapiro, Rabbi Shlomo Pappenheim, Rabbi Avigdor the Frenchman, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yechiel Heilpern, Rabbi Elazar Rokeach of Worms, Rabbi Yaakov Yisroel Stahl, Mitchell First, Rav Hirsch]
+  - ms:260-slithering-serpents-and-sea-snakes.md "Slithering Serpents and Sea Snakes"
+authorities: [Avos d'Rabbi Nassan, Rabbi Shlomo Aharon Wertheimer, Rashi, Rabbi Aharon Marcus, Rabbi Shlomo Ibn Parchon, Rabbi Yonah Ibn Janach, Rabbi Yosef Bechor Shor, Vilna Gaon, Malbim, Radak, Mahari Kara, Rabbi Shalom Buzaglo, Rabbi Natan Nata Shapiro, Rabbi Shlomo Pappenheim, Rabbi Avigdor the Frenchman, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yechiel Heilpern, Rabbi Elazar Rokeach of Worms, Rabbi Yaakov Yisroel Stahl, Mitchell First, Rav Hirsch, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Snake: nachash / saraph / tanin / tzefa / efeh / achshuv / peten / shephiphon
 
@@ -199,6 +200,10 @@ resembling a single hair.
   Yisroel Stahl points out that the same commentary apparently contradicts
   itself, since it elsewhere makes *shephiphon* the large snake and *nachash*
   the smaller one.
+- Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 49:17): *shefifon* is
+  from *yeshufcha*, *teshufenu*, a double treading or stamping, which marks
+  man's meeting with the snake; or the wording of the snake's curse is a play
+  alluding to *shefifon*.
 
 ## Rendering guidance
 
@@ -232,4 +237,6 @@ Rabbi Reuven Chaim Klein, "[Slithering Serpents and Sea Snakes - Part 2](https:/
 
 Rabbi Reuven Chaim Klein, "[Fun with Fish (Part 2/2)](https://articles.ohr.edu/articles/fun-with-fish-part-22)," *What's in a Word?*, Ohr Somayach, 5 June 2021.
 
-Cited in the essay: Bereishis 1:21 with Rashi and Rav Hirsch, 3:1-6, 49:17; Bamidbar 21:5-9 with Rabbi Yosef Bechor Shor; Yeshayahu 27:1 with Bava Basra 74b, 30:6 with Rashi, and 59:5 with Rashi and Radak; Yirmiyahu 8:17 with Rashi; Tehillim 58:6, 140:4; Iyov 20:16; Niddah 22b with Rashi; Yerushalmi Terumos 8:3; Avos d'Rabbi Nassan; the Midrash on the *eches*; Mahari Kara; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. נחש\פתן\תנין\שפיפון\צפע\אפעה\שרף; Rabbi Aharon Marcus; Rabbi Shlomo Ibn Parchon; Rabbi Yonah Ibn Janach; the Vilna Gaon; Malbim, *Sefer HaCarmel* (ח"א ערך צפע); Rabbi Shalom Buzaglo, *Hadras Melech*; Rabbi Natan Nata Shapiro, *Megaleh Amukos*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* (עמ' 605 מהדו' צוריאל); Rabbi Avigdor the Frenchman; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; *Sefer HaChochmah* and the Torah commentary ascribed to Rabbi Elazar Rokeach of Worms, cited by Rabbi Yechiel Heilpern; Rabbi Yaakov Yisroel Stahl; Mitchell First.
+Rabbi Reuven Chaim Klein, "Slithering Serpents and Sea Snakes," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 1:21 with Rashi and Rav Hirsch, 3:1-6, 49:17; Bamidbar 21:5-9 with Rabbi Yosef Bechor Shor; Yeshayahu 27:1 with Bava Basra 74b, 30:6 with Rashi, and 59:5 with Rashi and Radak; Yirmiyahu 8:17 with Rashi; Tehillim 58:6, 140:4; Iyov 20:16; Niddah 22b with Rashi; Yerushalmi Terumos 8:3; Avos d'Rabbi Nassan; the Midrash on the *eches*; Mahari Kara; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. נחש\פתן\תנין\שפיפון\צפע\אפעה\שרף; Rabbi Aharon Marcus; Rabbi Shlomo Ibn Parchon; Rabbi Yonah Ibn Janach; the Vilna Gaon; Malbim, *Sefer HaCarmel* (ח"א ערך צפע); Rabbi Shalom Buzaglo, *Hadras Melech*; Rabbi Natan Nata Shapiro, *Megaleh Amukos*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* (עמ' 605 מהדו' צוריאל); Rabbi Avigdor the Frenchman; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; *Sefer HaChochmah* and the Torah commentary ascribed to Rabbi Elazar Rokeach of Worms, cited by Rabbi Yechiel Heilpern; Rabbi Yaakov Yisroel Stahl; Mitchell First; Benamozegh, *Eim LaMikra* to Bereishis 49:17.

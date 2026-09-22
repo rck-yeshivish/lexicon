@@ -16,9 +16,10 @@ words:
     distinct: for Rabbi Klein olive oil in itself, never joined to zayis in Tanach; Radak narrows it to oil as it comes from the press; Rabbi Yitzchak Zev Yadler makes it whatever oil a place burns for light
 sources:
   - wiaw:7061 "Olives and Oil" (2016-12-24) https://articles.ohr.edu/articles/olives-and-oil
-authorities: [Menachem Ibn Saruk, Radak, Rabbi Yosef Kimchi, Ibn Ezra, Rashi, Rabbi Yitzchak Zev Yadler]
+  - ms:079-olives-and-oil.md "Olives and Oil"
+authorities: [Menachem Ibn Saruk, Radak, Rabbi Yosef Kimchi, Ibn Ezra, Rashi, Rabbi Yitzchak Zev Yadler, Chizkuni, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Oil: shemen / yitzhar
 
@@ -85,6 +86,13 @@ Yadler answers that in reality the name pointed not at Korach but at his
 descendant Shmuel HaNavi, who would use specially made ritual olive oil to
 anoint David and begin the Messianic line.
 
+Chizkuni (to Bereishis 6:16) and others: *tzohar taaseh lateivah* means
+*yitzhar*, oil to light it.
+
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 35:2): *tahor* means light,
+like *tzohar*, tes and tzadi interchanging, and *yitzhar* is oil as what brings
+light when kindled.
+
 ## Rendering guidance
 
 - Trap: English "oil" absorbs both. In the produce lists where *dagan, tirosh
@@ -107,4 +115,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Olives and Oil](https://articles.ohr.edu/articles/olives-and-oil)," *What's in a Word?*, Ohr Somayach, 24 December 2016.
 
-Cited in the essay: Shemos 6:18, 2:10; Iyov 24:11; Zecharyah 4:12; Shabbos 26b; *Machberes Menachem*; Radak, *Sefer HaShorashim*; Rabbi Yosef Kimchi, *Sefer HaGalui*; Ibn Ezra to Iyov 24:11.
+Rabbi Reuven Chaim Klein, "Olives and Oil," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 6:18, 2:10; Iyov 24:11; Zecharyah 4:12; Shabbos 26b; *Machberes Menachem*; Radak, *Sefer HaShorashim*; Rabbi Yosef Kimchi, *Sefer HaGalui*; Ibn Ezra to Iyov 24:11; Chizkuni to Bereishis 6:16; Benamozegh, *Eim LaMikra* to Bereishis 35:2.

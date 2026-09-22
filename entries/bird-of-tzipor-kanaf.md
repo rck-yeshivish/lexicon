@@ -24,9 +24,10 @@ words:
 sources:
   - wiaw:7009 "Fowl Language and Poultry" (2016-11-19) https://articles.ohr.edu/articles/fowl-language-and-poultry
   - wiaw:9070 "Yitro: Just Winging It" (2021-02-06) https://articles.ohr.edu/articles/yitro-just-winging-it
-authorities: [Rashi, Radak, Rabbi Yom Tov Lipman Heller, Sifri, Rambam, Ramban, Rabbi Chanoch Zundel of Bialystok, Rav Hirsch]
+  - ms:180-fowl-language-and-poultry.md "Fowl Language and Poultry"
+authorities: [Rashi, Radak, Rabbi Yom Tov Lipman Heller, Sifri, Rambam, Ramban, Rabbi Chanoch Zundel of Bialystok, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Bird: of / tzipor / kanaf
 
@@ -60,6 +61,8 @@ Root ע-ו-ף, which also gives the verb "flies."
   bird with strong wings, even if it is physically small, typically a predator,
   restless because it depends on nothing but itself and is always hunting its
   next meal.
+- Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 38:17): *of* is the
+  source of Latin *avis*, and he discusses the interchange of vav and peh.
 
 ### tzipor (ציפור)
 Root צ-פ-ר. Three readings, and the Tosafos Yom Tov notes the dispute:
@@ -84,6 +87,12 @@ is non-kosher. So Ramban's *tzipor* and Rambam's kosher *tzipor* turn out to
 describe the same creature.
 The *mussar* he draws: one who trusts that Hashem provides can rest; one who
 believes only in his own hands is never at ease.
+
+Rabbi Aharon Marcus (*Keses HaSofer* to Bereishis 7:14): *tzipor* is named for
+the *tziftzuf*, chirping, of most kinds, and the morning is called *tzafra* in
+Aramaic for them, since they rouse the dawn with chirping. This seems the
+reverse of the Ramban (to Vayikra 14:4), for whom *tziporim* are named for
+*tzafra*.
 
 ### kanaf (כנף)
 Root כ-נ-ף. Literally "wing," and used for a bird only by way of its wings, so
@@ -126,4 +135,6 @@ Rabbi Reuven Chaim Klein, "[Fowl Language and Poultry](https://articles.ohr.edu/
 
 Rabbi Reuven Chaim Klein, "[Yitro: Just Winging It](https://articles.ohr.edu/articles/yitro-just-winging-it)," *What's in a Word?*, Ohr Somayach, 6 February 2021.
 
-Cited in the essay: Bereishis 7:14 with Rashi and Radak; Rav Hirsch to Bereishis 1:21 and 7:14 and Vayikra 19:11; Radak, *Sefer HaShorashim* s.v. צפר; Chullin 139b; Mishnah Chullin 12:2 with Rambam's commentary, citing Sifri; Devarim 22:6 and 22:7; Ramban to Vayikra 14:4; Vayikra 11:13 through 11:19; Mishnah Chullin 3:6; Tosafos Yom Tov to the Mishnah.
+Rabbi Reuven Chaim Klein, "Fowl Language and Poultry," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 7:14 with Rashi and Radak; Rav Hirsch to Bereishis 1:21 and 7:14 and Vayikra 19:11; Radak, *Sefer HaShorashim* s.v. צפר; Chullin 139b; Mishnah Chullin 12:2 with Rambam's commentary, citing Sifri; Devarim 22:6 and 22:7; Ramban to Vayikra 14:4; Vayikra 11:13 through 11:19; Mishnah Chullin 3:6; Tosafos Yom Tov to the Mishnah; *Keses HaSofer* to Bereishis 7:14; Benamozegh, *Eim LaMikra* to Bereishis 38:17.

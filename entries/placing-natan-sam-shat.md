@@ -21,9 +21,10 @@ words:
     distinct: placing into an order meant to stay indefinitely (Pappenheim), as the lasting enmity of Bereishis 3:15 and the plagues etched on those who lived through them (Mecklenburg); mostly in a negative context (Rabbi Avraham Shick)
 sources:
   - wiaw:9523 "Put in Place" (2022-01-08) https://articles.ohr.edu/articles/put-in-place
-authorities: [Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Moshe Zuriel, Rabbi Avraham Shick of Slonim (Eshed HaNechalim), Even-Shoshan concordance]
+  - ms:106-put-in-place.md "Put in Place"
+authorities: [Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Moshe Zuriel, Rabbi Avraham Shick of Slonim (Eshed HaNechalim), Even-Shoshan concordance, Rabbi Elazar Rokeach of Worms]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Placing: natan / sam / shat
 
@@ -92,6 +93,9 @@ builds on Rabbi Shlomo Pappenheim: for those who lived through the *makkos* the
 memory is etched permanently, hence *shat*; for later generations, who have only
 a received tradition, the placement is less fixed, hence *sam*.
 
+The Rokeach (*Sefer HaChochmah*, *Shaar HaChiluk* §5, p. 20): *sim* is placing
+with intent, *yashis* without.
+
 ### Where the distinction seems to fail
 Rabbi Shlomo Pappenheim himself concludes by noting several cases where Tanach
 seems to use the two words indiscriminately. Yosef advises Paroh to *shat* an overseer
@@ -141,4 +145,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Put in Place](https://articles.ohr.edu/articles/put-in-place)," *What's in a Word?*, Ohr Somayach, 8 January 2022.
 
-Cited in the essay: Shemos 10:1-2, 7:22, 9:21, 40:18; Bereishis 3:15, 4:25, 41:33, 45:9, 48:14, 48:17, 48:18; Devarim 28:8; Mishlei 3:10; Tehillim 11:3; Yeshayahu 28:25; *Shabbos* 103a; *Yoma* 5:2 and 54b; *Shemos Rabbah* 32:2; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* and *Yerios Shlomo*; Even-Shoshan's concordance.
+Rabbi Reuven Chaim Klein, "Put in Place," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 10:1-2, 7:22, 9:21, 40:18; Bereishis 3:15, 4:25, 41:33, 45:9, 48:14, 48:17, 48:18; Devarim 28:8; Mishlei 3:10; Tehillim 11:3; Yeshayahu 28:25; *Shabbos* 103a; *Yoma* 5:2 and 54b; *Shemos Rabbah* 32:2; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* and *Yerios Shlomo*; Even-Shoshan's concordance; *Sefer HaChochmah*, *Shaar HaChiluk* §5, p. 20.

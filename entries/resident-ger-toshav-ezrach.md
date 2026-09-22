@@ -25,9 +25,10 @@ words:
     distinct: the plain stranger; zayin and gimmel can interchange (Rabbi Yosef Kimchi, Radak), a rule Rabbi Klein applies to zar and ger to find an affinity between them, as Shadal's Ohev Ger also presumes
 sources:
   - wiaw:9199 "Behar - Bechukotai: Settled Citizens" (2021-05-08) https://articles.ohr.edu/articles/behar-bechukotai-settled-citizens
-authorities: [Malbim, Rav Hirsch, Ibn Ezra, Rabbi Yaakov Tzvi Mecklenburg, Radak, Rabbi Moshe Kimchi, Rabbi Yosef Kimchi, Menachem Ibn Saruk, Yonah Ibn Janach, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Eliyahu HaBachur, Rashi, Ramban, Mizrachi, Rabbi Yisrael Yaakov Algazi, Rabbi Shmuel Modiliano, Rabbi David Chaim Chelouche, Shadal]
+  - ms:209-settled-citizens.md "Settled Citizens"
+authorities: [Malbim, Rav Hirsch, Ibn Ezra, Rabbi Yaakov Tzvi Mecklenburg, Radak, Rabbi Moshe Kimchi, Rabbi Yosef Kimchi, Menachem Ibn Saruk, Yonah Ibn Janach, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Eliyahu HaBachur, Rashi, Ramban, Mizrachi, Rabbi Yisrael Yaakov Algazi, Rabbi Shmuel Modiliano, Rabbi David Chaim Chelouche, Shadal, Rabbi Eliyahu Benamozegh, Rabbi Yitzchak Shmuel Reggio, Rabbi Dr. Eliyahu Rachamim Zini]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Resident: ger / toshav / ezrach (zar)
 
@@ -154,6 +155,13 @@ denotes a sojourner who is neither a full-fledged citizen of this particular
 land (*ezrach*) nor an alien resident (*toshav*), but is simply living here as
 one stop in his greater journey.
 
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Shemos 12:49 and Vayikra 19:34):
+*ezrach* in the Chumash is the Jewish inhabitant of Eretz Yisrael. He argues at
+length against Rabbi Yitzchak Shmuel Reggio, for whom the *ezrach* is the native
+Canaanite who lived in the land and joined Yisrael when they conquered it. Rabbi
+Dr. Eliyahu Rachamim Zini, in his comments there, says *ezrach* means a
+descendant of Eisan HaEzrachi, that is, Avraham.
+
 ### zar (זר)
 The plain stranger. Radak's father Rabbi Yosef Kimchi (in *Sefer Zikaron*) and
 Radak himself (to Yechezkel 25:7) *note* that the letters zayin and gimmel *can
@@ -198,4 +206,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Behar - Bechukotai: Settled Citizens](https://articles.ohr.edu/articles/behar-bechukotai-settled-citizens)," *What's in a Word?*, Ohr Somayach, 8 May 2021.
 
-Cited in the essay: Bereishis 12:14, 15:13, 23:4, 32:5, 47:4; Shemos 12:45, 18:3, 20:10, 23:12; Vayikra 16:29, 18:26, 25:35, 25:47; Bamidbar 15:29, 15:30; Devarim 10:19, 14:21; Shoftim 19:1, 19:16; Yechezkel 25:7; Tehillim 37:35, 89:1; Daniel 2:11, 4:9, 4:32, 5:21; Mishnah *Eruvin* 2:5, 5:1, *Kesubos* 12:3, *Bava Basra* 1:5, *Avodah Zarah* 1:9; Yevamos 48b; Kiddushin 20a; Gittin 57b; Bava Kamma 113b; Bava Metzia 71a, 111b; Bava Basra 15a; Sanhedrin 96b; Avodah Zarah 64b; Arachin 30b; the Haggadah; Targum Onkelos to Devarim 10:19; Targum to Tehillim 89:1; Rashi to Shemos 12:45, 23:12 and Devarim 14:21; Ramban to Shemos 20:10; Mizrachi; *Rashba Meyuchas L'Ramban* 257; Malbim, *Sefer HaCarmel* s.v. גר; Rav Hirsch to Bereishis 12:14 and 23:4; Ibn Ezra to Bereishis 15:13, 23:4 and Tehillim 37:35; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Menachem Ibn Saruk; Ibn Janach; Radak, *Sefer HaShorashim* s.v. ישב and s.v. זרח, and to Tehillim 37:35 and Yechezkel 25:7; Rabbi Moshe Kimchi; Rabbi Yosef Kimchi, *Sefer Zikaron*; Rabbi Shlomo Pappenheim; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. גור/שכן/דור/זבול, גר/גר תושב /גר בש and / גר אשר בארצך / נכרי; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* s.v. גר; Rabbi Yisrael Yaakov Algazi; Rabbi Shmuel Modiliano; Rabbi David Chaim Chelouche, *Michtam LeDavid* (תהלים פט:א, לוח השרשים ערך אזרח); Shadal, *Ohev Ger*.
+Rabbi Reuven Chaim Klein, "Settled Citizens," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 12:14, 15:13, 23:4, 32:5, 47:4; Shemos 12:45, 18:3, 20:10, 23:12; Vayikra 16:29, 18:26, 25:35, 25:47; Bamidbar 15:29, 15:30; Devarim 10:19, 14:21; Shoftim 19:1, 19:16; Yechezkel 25:7; Tehillim 37:35, 89:1; Daniel 2:11, 4:9, 4:32, 5:21; Mishnah *Eruvin* 2:5, 5:1, *Kesubos* 12:3, *Bava Basra* 1:5, *Avodah Zarah* 1:9; Yevamos 48b; Kiddushin 20a; Gittin 57b; Bava Kamma 113b; Bava Metzia 71a, 111b; Bava Basra 15a; Sanhedrin 96b; Avodah Zarah 64b; Arachin 30b; the Haggadah; Targum Onkelos to Devarim 10:19; Targum to Tehillim 89:1; Rashi to Shemos 12:45, 23:12 and Devarim 14:21; Ramban to Shemos 20:10; Mizrachi; *Rashba Meyuchas L'Ramban* 257; Malbim, *Sefer HaCarmel* s.v. גר; Rav Hirsch to Bereishis 12:14 and 23:4; Ibn Ezra to Bereishis 15:13, 23:4 and Tehillim 37:35; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Menachem Ibn Saruk; Ibn Janach; Radak, *Sefer HaShorashim* s.v. ישב and s.v. זרח, and to Tehillim 37:35 and Yechezkel 25:7; Rabbi Moshe Kimchi; Rabbi Yosef Kimchi, *Sefer Zikaron*; Rabbi Shlomo Pappenheim; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. גור/שכן/דור/זבול, גר/גר תושב /גר בש and / גר אשר בארצך / נכרי; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* s.v. גר; Rabbi Yisrael Yaakov Algazi; Rabbi Shmuel Modiliano; Rabbi David Chaim Chelouche, *Michtam LeDavid* (תהלים פט:א, לוח השרשים ערך אזרח); Shadal, *Ohev Ger*; Benamozegh, *Eim LaMikra* to Shemos 12:49 and Vayikra 19:34, with Zini's comments.

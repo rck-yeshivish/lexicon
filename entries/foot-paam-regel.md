@@ -17,9 +17,10 @@ words:
     distinct: the plain foot, the limb; as instance only for Bilaam's donkey and the three festivals, where the pilgrims came up on foot; the malachim's single regel, fixed, without growth (Walkin)
 sources:
   - wiaw:7828 "Foot Festivals" (2018-06-30) https://articles.ohr.edu/articles/foot-festivals
-authorities: [Malbim, Rabbi Shlomo Pappenheim, Targum Onkelos, Rashi, Ibn Ezra, Ramban, Rabbi Shmuel Dovid Walkin]
+  - ms:266-foot-festivals.md "Foot Festivals"
+authorities: [Malbim, Rabbi Shlomo Pappenheim, Targum Onkelos, Rashi, Ibn Ezra, Ramban, Rabbi Shmuel Dovid Walkin, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Foot: paam / regel
 
@@ -81,6 +82,10 @@ on foot; and the tradition applies to those pilgrimages the pasuk *mah yafu
 pe'amayich ba'ne'alim, bas nadiv*, how lovely are your footsteps in sandals,
 daughter of nobles (Shir HaShirim 7:2).
 
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Shemos 23:17): *regel* and *paam*
+first mean the foot, then the foot's movement, and then anything that comes at
+set intervals or moves at a steady pace.
+
 ### the paamos of the Aron
 - Targum Onkelos and Rashi (to Shemos 25:12): the four *paamos* are the Aron's
   four corners.
@@ -117,4 +122,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Foot Festivals](https://articles.ohr.edu/articles/foot-festivals)," *What's in a Word?*, Ohr Somayach, 30 June 2018.
 
-Cited in the essay: Bamidbar 22:25, 22:28, 22:32; Shemos 23:14, 25:12; Yeshayahu 26:6, 42:14; Bereishis 41:8; Yechezkel 1:7; Shir HaShirim 7:2; Targum Onkelos, Rashi, Ibn Ezra, and Ramban to Shemos 25:12; Malbim, *Sefer HaCarmel* (ח"ב ערך פעם); Rabbi Shlomo Pappenheim, *Yerios Shlomo* (ו:ב); Rabbi Shmuel Dovid Walkin.
+Rabbi Reuven Chaim Klein, "Foot Festivals," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bamidbar 22:25, 22:28, 22:32; Shemos 23:14, 25:12; Yeshayahu 26:6, 42:14; Bereishis 41:8; Yechezkel 1:7; Shir HaShirim 7:2; Targum Onkelos, Rashi, Ibn Ezra, and Ramban to Shemos 25:12; Malbim, *Sefer HaCarmel* (ח"ב ערך פעם); Rabbi Shlomo Pappenheim, *Yerios Shlomo* (ו:ב); Rabbi Shmuel Dovid Walkin; Benamozegh, *Eim LaMikra* to Shemos 23:17.

@@ -24,9 +24,10 @@ words:
 sources:
   - wiaw:7990 "Like a Rock (Part 1)" (2018-11-17) https://articles.ohr.edu/articles/like-a-rock-part-1
   - wiaw:8000 "Like a Rock (Part 2)" (2018-11-24) https://articles.ohr.edu/articles/like-a-rock-part-2
-authorities: [Malbim, Rabbi Immanuel Chai Ricci, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus, Aaron Kahn]
+  - ms:042-like-a-rock.md "Like a Rock"
+authorities: [Malbim, Rabbi Immanuel Chai Ricci, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus, Aaron Kahn, Shadal]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Rock: even / sela
 
@@ -81,6 +82,9 @@ then, is the difference between an *even* and a *sela*?
 This is the word in these Yaakov Avinu narratives: the stones he slept on
 (Bereishis 28:11), the stone he set up and poured oil on (28:18), the stone he
 rolled off the well (29:10), and the phrase he coined, *Even Yisrael* (49:24).
+
+Shadal (to Bereishis 11:3): *levenah*, brick, comes from *even*, because it was
+used for building in place of plain stones.
 
 ### sela (סלע)
 - Rabbi Immanuel Chai Ricci (1688-1743): a *sela* is attached to the ground and
@@ -138,4 +142,6 @@ Rabbi Reuven Chaim Klein, "[Like a Rock (Part 1)](https://articles.ohr.edu/artic
 
 Rabbi Reuven Chaim Klein, "[Like a Rock (Part 2)](https://articles.ohr.edu/articles/like-a-rock-part-2)," *What's in a Word?*, Ohr Somayach, 24 November 2018.
 
-Cited in the essay: Bereishis 28:11, 28:18, 29:10, 49:24; Yehoshua 10:11; Yirmiyahu 23:29; Mishnah *Zevachim* 13:3; Malbim, *Sefer HaCarmel* s.v. אבן; Rabbi Immanuel Chai Ricci; Rabbi Shlomo Pappenheim, *Yerios Shlomo* (חוברת י"א, יריעה נ'); Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Shemos 4:25 and Devarim 9:9; Rabbi Aharon Marcus, *Keses HaSofer*; Aaron Kahn.
+Rabbi Reuven Chaim Klein, "Like a Rock," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 28:11, 28:18, 29:10, 49:24; Yehoshua 10:11; Yirmiyahu 23:29; Mishnah *Zevachim* 13:3; Malbim, *Sefer HaCarmel* s.v. אבן; Rabbi Immanuel Chai Ricci; Rabbi Shlomo Pappenheim, *Yerios Shlomo* (חוברת י"א, יריעה נ'); Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Shemos 4:25 and Devarim 9:9; Rabbi Aharon Marcus, *Keses HaSofer*; Aaron Kahn; Shadal to Bereishis 11:3.

@@ -35,9 +35,10 @@ sources:
   - wiaw:7357 "Tribesmen Stick Together" (2017-07-22) https://articles.ohr.edu/articles/tribesmen-stick-together
   - wiaw:8836 "Trusting and Relying on G-d" (2020-08-29) https://articles.ohr.edu/articles/trusting-and-relying-on-g-d
   - wiaw:9877 "Trusting and Relying on G-d" (2022-09-10) https://articles.ohr.edu/articles/trusting-and-relying-on-g-d-2
-authorities: [Malbim, Rashi, Rabbi Shlomo Aharon Wertheimer, Vilna Gaon, Rabbi Yehuda ibn Kuraish, Rabbi Yaakov Lorberbaum of Lissa, Rabbi Yaakov Tzvi Mecklenburg, Shadal, Rabbi Zev HaKohen Hoberman, Rabbi Shlomo Pappenheim]
+  - ms:274-tribesmen-stick-together.md "Tribesmen Stick Together"
+authorities: [Malbim, Rashi, Rabbi Shlomo Aharon Wertheimer, Vilna Gaon, Rabbi Yehuda ibn Kuraish, Rabbi Yaakov Lorberbaum of Lissa, Rabbi Yaakov Tzvi Mecklenburg, Shadal, Rabbi Zev HaKohen Hoberman, Rabbi Shlomo Pappenheim, Ohel Moed, Rabbi Levi Yitzchak of Berditchev]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Staff and tribe: mateh / shevet / mishenes / makel / sharvit / choter
 
@@ -87,6 +88,13 @@ and tribe.
   citing Shadal, holds that *mateh* first meant the members of a tribe, as
   against its leader, and as a stick the bottom part, *mateh* being seemingly
   related to *lematah*, underneath, as the tribesmen live under their chief.
+- Kedushas Levi (to Bereishis 29:30): the tribes are called *matos*, a downward
+  incline, because they are the channel through which Hashem's influence pours
+  down into this world. At Shemos 1:1 he gives two explanations of why the
+  tribes are called *mateh*.
+- Shadal (to Bamidbar 17:17): part of the miracle of Aharon's staff was the play
+  of words, the chosen tribe appointed by way of sticks, since stick and tribe
+  are both *mateh*.
 
 ### shevet (שבט)
 - Rashi (Sanhedrin 5a): *shevet* denotes authority and the responsibility that
@@ -109,6 +117,7 @@ and tribe.
   tribe rallies around him; it came to cover the tribesmen because the leader
   embodies the tribe. As sticks, both can name the same stick, *shevet* its top
   (as the leader sits atop the tribe) and *mateh* its bottom.
+- *Ohel Moed* writes twice that *shevet* is *mateh*.
 
 ### mishenes (משענת)
 A walking stick on which an elderly person can lean (*mishan* means "lean" or
@@ -187,4 +196,6 @@ Rabbi Reuven Chaim Klein, "[Trusting and Relying on G-d](https://articles.ohr.ed
 
 Rabbi Reuven Chaim Klein, "[Trusting and Relying on G-d](https://articles.ohr.edu/articles/trusting-and-relying-on-g-d-2)," *What's in a Word?*, Ohr Somayach, 10 September 2022.
 
-Cited in the essay: Bereishis 49:28; Yirmiyahu 1:11; Tehillim 2:9; Megillas Esther (the *sharvit* of Achashverosh); Sanhedrin 5a; Malbim to Yirmiyahu 1:11 and Bereishis 49:28; Rashi to Sanhedrin 5a; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. שבר/קוה/יחל/חכה and קוה/יחל/חכה; the Vilna Gaon; Rabbi Yehuda ibn Kuraish; Rabbi Yaakov Lorberbaum of Lissa; Rabbi Yaakov Tzvi Mecklenburg, citing Shadal; Rabbi Zev HaKohen Hoberman; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. שע, קו, חס, and *Yerios Shlomo* (חוברת ד' יריעה ו'); the Targumim.
+Rabbi Reuven Chaim Klein, "Tribesmen Stick Together," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 49:28; Yirmiyahu 1:11; Tehillim 2:9; Megillas Esther (the *sharvit* of Achashverosh); Sanhedrin 5a; Malbim to Yirmiyahu 1:11 and Bereishis 49:28; Rashi to Sanhedrin 5a; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. שבר/קוה/יחל/חכה and קוה/יחל/חכה; the Vilna Gaon; Rabbi Yehuda ibn Kuraish; Rabbi Yaakov Lorberbaum of Lissa; Rabbi Yaakov Tzvi Mecklenburg, citing Shadal; Rabbi Zev HaKohen Hoberman; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. שע, קו, חס, and *Yerios Shlomo* (חוברת ד' יריעה ו'); the Targumim; *Ohel Moed*; Kedushas Levi to Bereishis 29:30 and Shemos 1:1; Shadal to Bamidbar 17:17.

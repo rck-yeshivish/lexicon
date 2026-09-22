@@ -20,9 +20,10 @@ words:
     distinct: literally empty or hollow, a body emptied of its soul like an emptied vessel; the root of chalil, chullin and a kohen's disqualified chalal
 sources:
   - wiaw:7788 "Of Corpses and Carcasses" (2018-06-09) https://articles.ohr.edu/articles/of-corpses-and-carcasses
-authorities: [Rabbi Eliyahu HaBachur, Rashi, Rabbi Shlomo Pappenheim, Rabbi Yosef Teomim]
+  - ms:244-of-corpses-and-carcasses.md "Of Corpses and Carcasses"
+authorities: [Rabbi Eliyahu HaBachur, Rashi, Rabbi Shlomo Pappenheim, Rabbi Yosef Teomim, Rabbeinu Hillel]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Corpse: peger / neveilah / challal
 
@@ -97,6 +98,9 @@ the effectuation of a halachic status, may be linked here too, on the pattern of
 a Hebrew word carrying its own opposite: a *chalus* is really what *fills* the
 void.
 
+Rabbeinu Hillel (to *Sifrei*, Chukas 127): a *meis* died of natural causes, a
+*challal* was killed by another man.
+
 ### Why the siddur says pegarim
 *Elokai Neshamah* thanks Hashem for returning souls *lifgarim meisim*, to dead
 bodies. Rabbi Yosef Teomim (*Pri Megadim*), building on Rabbi Eliyahu HaBachur,
@@ -132,4 +136,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Of Corpses and Carcasses](https://articles.ohr.edu/articles/of-corpses-and-carcasses)," *What's in a Word?*, Ohr Somayach, 9 June 2018.
 
-Cited in the essay: Bamidbar 14:29-33; Bereishis 15:11 with Rashi; Yeshayahu 26:19; Yevamos 49b; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* and glosses to Radak's *Sefer HaShorashim*; Rabbi Shlomo Pappenheim on *po gar*; Rabbi Yosef Teomim (*Pri Megadim*) in his letters on Hebrew grammar, on *Elokai Neshamah*.
+Rabbi Reuven Chaim Klein, "Of Corpses and Carcasses," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bamidbar 14:29-33; Bereishis 15:11 with Rashi; Yeshayahu 26:19; Yevamos 49b; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* and glosses to Radak's *Sefer HaShorashim*; Rabbi Shlomo Pappenheim on *po gar*; Rabbi Yosef Teomim (*Pri Megadim*) in his letters on Hebrew grammar, on *Elokai Neshamah*; Rabbeinu Hillel to *Sifrei*, Chukas 127.

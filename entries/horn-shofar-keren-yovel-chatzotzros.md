@@ -32,9 +32,10 @@ sources:
   - wiaw:9992 "Nitzavim/Vayelech/RH: The Shofar's Horn" (2022-09-17) https://articles.ohr.edu/articles/nitzavimvayelechrh-the-shofars-horn
   - wiaw:10060 "Nitzavim/Vayelech/RH: The Shofar's Horn" (2022-09-24) https://articles.ohr.edu/articles/nitzavimvayelechrh-the-shofars-horn-2
   - wiaw:8505 "The Ovine and Caprine Families" (2019-12-07) https://articles.ohr.edu/articles/the-ovine-and-caprine-families
-authorities: [Ramban, Ran, Ritva, Rav Hirsch, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Ibn Janach, Radak, Rambam, Mabit, Chasam Sofer, Aruch LaNer, Avraham Even-Shoshan, Rabbi Ernest Klein]
+  - ms:342-the-shofars-horn.md "The Shofar’s Horn"
+authorities: [Ramban, Ran, Ritva, Rav Hirsch, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Ibn Janach, Radak, Rambam, Mabit, Chasam Sofer, Aruch LaNer, Avraham Even-Shoshan, Rabbi Ernest Klein, Ohalei Yehudah]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Horn: shofar / keren / yovel / chatzotzros
 
@@ -117,6 +118,9 @@ to the late Biblical *tzfir* (Daniel 8:5, 8:8, 8:21; Ezra 8:35; Divrei HaYamim I
 29:21) by the shin/tzadi interchange, and perhaps to the earlier *se'ir*, if peh
 and ayin may interchange.
 
+*Ohalei Yehudah*: *shofar* is *tzavar*, tzadi and shin, peh and beis
+interchanging, because the shofar gathers the people together.
+
 ### keren (קרן)
 Menachem Ibn Saruk, Ibn Janach, and Radak: root ק-ר-ן, both an animal's horn
 and a ray of light. The link is plain: a beam projects from its source as a horn
@@ -159,6 +163,11 @@ Rabbi Shapiro does not make explicitly: per Rav Hirsch, *shofar* is the exact op
 conjuring all the constituent parts working together in harmony, and Ritva's
 "beautiful and copacetic" fits that, so the word *shofar* is the antithesis of
 *keren*, implying a unification that precludes all other possibilities.
+
+Chasam Sofer (*Toras Moshe*, Rosh HaShanah, s.v. *kol hashofaros*): a cow's horn
+is unfit because it is only a *keren*, while other horns are fit because they
+are also called *shofar*; and *keren shofar* is 930 in gematria, the years Adam
+lived after sinning on Rosh HaShanah.
 
 ### yovel (יובל)
 Also a horn (Shemos 19:13), and in some pesukim the animal it came from
@@ -221,4 +230,6 @@ Rabbi Reuven Chaim Klein, "[Nitzavim/Vayelech/RH: The Shofar's Horn](https://art
 
 Rabbi Reuven Chaim Klein, "[The Ovine and Caprine Families](https://articles.ohr.edu/articles/the-ovine-and-caprine-families)," *What's in a Word?*, Ohr Somayach, 7 December 2019.
 
-Cited in the essay: Bereishis 49:21; Rav Hirsch to Bereishis 5:1 and 49:11; Shemos 1:15, 19:13, 19:19, 38:2; Vayikra 8:15, 25:10-15, 25:50, 27:17-31; Bamidbar 10:2; Devarim 33:17; Yehoshua 6:4-13; Shmuel I 16:1, 16:13; Melachim I 1:39; Yechezkel 29:21, 43:20; Tehillim 16:6, 81:4, 132:17, 148:14; Iyov 26:13; Daniel 3:32, 4:24, 6:2, 8:5, 8:8, 8:21; Ezra 8:35; Divrei HaYamim II 29:21; Mishnah *Rosh Hashanah* 3:2 with the Bavli and Yerushalmi there; Mishnah *Gittin* 2:3, *Keilim* 11:7, 14:5, 17:9-10, 17:17, *Shabbos* 2:4, *Parah* 5:4, 5:8, 6:1, 9:2, *Mikvaos* 2:10, 4:5, 6:1-2, 6:5-7, 6:9, *Kesubos* 3:9, 13:2, *Bava Kamma* 2:5, 9:6-12, *Kilayim* 6:7, *Yoma* 5:5, *Zevachim* 5:3, 6:2, 6:5, 11:3, *Tamid* 2:5, 4:1, 7:3, *Middos* 3:2-3, 4:3, 4:5, *Peah* 1:1, *Kiddushin* 4:12, *Terumos* 6:1-4, 7:1-4, 8:1, 11:2, *Maaser Sheni* 4:3, *Pesachim* 2:4, *Yevamos* 11:5, 11:7, *Shevuos* 8:3-4, *Shekalim* 2:1, 6:1, 6:5 with Rambam's commentary, and *Kinnim* 3:6; Rosh Hashanah 26a; Shabbos 36a; Sukkah 34a with *Chasam Sofer* and *Aruch LaNer*; *Vayikra Rabbah* 29:6; *Bereishis Rabbah* 98:17; *Sifrei Behaaloscha* 78; *Shemos Rabbah* 1:13; *Koheles Rabbah* 7:3; *Midrash Shmuel* 23; Chiddushei HaRamban to Rosh Hashanah 26a and his Derashah L'Rosh Hashanah; Ritva there; Ran on Rosh Hashanah 6a in the Rif; *Cheshek Shlomo* s.v. בל; *Shu"t HaMabit* 1:125; Rabbi Moshe Shapiro; Avraham Even-Shoshan and Rabbi Ernest Klein.
+Rabbi Reuven Chaim Klein, "The Shofar’s Horn," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 49:21; Rav Hirsch to Bereishis 5:1 and 49:11; Shemos 1:15, 19:13, 19:19, 38:2; Vayikra 8:15, 25:10-15, 25:50, 27:17-31; Bamidbar 10:2; Devarim 33:17; Yehoshua 6:4-13; Shmuel I 16:1, 16:13; Melachim I 1:39; Yechezkel 29:21, 43:20; Tehillim 16:6, 81:4, 132:17, 148:14; Iyov 26:13; Daniel 3:32, 4:24, 6:2, 8:5, 8:8, 8:21; Ezra 8:35; Divrei HaYamim II 29:21; Mishnah *Rosh Hashanah* 3:2 with the Bavli and Yerushalmi there; Mishnah *Gittin* 2:3, *Keilim* 11:7, 14:5, 17:9-10, 17:17, *Shabbos* 2:4, *Parah* 5:4, 5:8, 6:1, 9:2, *Mikvaos* 2:10, 4:5, 6:1-2, 6:5-7, 6:9, *Kesubos* 3:9, 13:2, *Bava Kamma* 2:5, 9:6-12, *Kilayim* 6:7, *Yoma* 5:5, *Zevachim* 5:3, 6:2, 6:5, 11:3, *Tamid* 2:5, 4:1, 7:3, *Middos* 3:2-3, 4:3, 4:5, *Peah* 1:1, *Kiddushin* 4:12, *Terumos* 6:1-4, 7:1-4, 8:1, 11:2, *Maaser Sheni* 4:3, *Pesachim* 2:4, *Yevamos* 11:5, 11:7, *Shevuos* 8:3-4, *Shekalim* 2:1, 6:1, 6:5 with Rambam's commentary, and *Kinnim* 3:6; Rosh Hashanah 26a; Shabbos 36a; Sukkah 34a with *Chasam Sofer* and *Aruch LaNer*; *Vayikra Rabbah* 29:6; *Bereishis Rabbah* 98:17; *Sifrei Behaaloscha* 78; *Shemos Rabbah* 1:13; *Koheles Rabbah* 7:3; *Midrash Shmuel* 23; Chiddushei HaRamban to Rosh Hashanah 26a and his Derashah L'Rosh Hashanah; Ritva there; Ran on Rosh Hashanah 6a in the Rif; *Cheshek Shlomo* s.v. בל; *Shu"t HaMabit* 1:125; Rabbi Moshe Shapiro; Avraham Even-Shoshan and Rabbi Ernest Klein; *Ohalei Yehudah*; Chasam Sofer, *Toras Moshe*, Rosh HaShanah.

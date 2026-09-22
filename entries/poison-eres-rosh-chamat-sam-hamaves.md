@@ -38,9 +38,10 @@ words:
 sources:
   - wiaw:9603 "Pick Your Poison" (2022-03-05) https://articles.ohr.edu/articles/pick-your-poison
   - wiaw:11562 "Bereishis: In the Beginning..." (2024-10-26) https://articles.ohr.edu/articles/bereishis-in-the-beginning
-authorities: [Rashi, Ibn Ezra, Radak, Vilna Gaon, Rabbi Yeshayah of Trani, Rabbeinu Efrayim, Rabbi Shlomo Pappenheim, Rabbi Shlomo of Urbino, Rabbi Menachem Azariah of Fano, Targum Rishon, Targum Sheini, Midrash Sechel Tov, Midrash Aggadah, Daas Zekeinim, Rabbi Yehuda Feliks, Yossiphon, Mechilta, Midrash Tanchuma, Dr. Alexander Kohut, Rabbi Ernest Klein, Avraham Even-Shoshan, Comprehensive Aramaic Lexicon, Rav Hirsch]
+  - ms:172-pick-your-poison.md "Pick your Poison"
+authorities: [Rashi, Ibn Ezra, Radak, Vilna Gaon, Rabbi Yeshayah of Trani, Rabbeinu Efrayim, Rabbi Shlomo Pappenheim, Rabbi Shlomo of Urbino, Rabbi Menachem Azariah of Fano, Targum Rishon, Targum Sheini, Midrash Sechel Tov, Midrash Aggadah, Daas Zekeinim, Rabbi Yehuda Feliks, Yossiphon, Mechilta, Midrash Tanchuma, Dr. Alexander Kohut, Rabbi Ernest Klein, Avraham Even-Shoshan, Comprehensive Aramaic Lexicon, Rav Hirsch, Targum Yonasan]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Poison: eres / sam hamaves / rosh / chamat / ra'al
 
@@ -113,6 +114,9 @@ killing another's animal by feeding it (Bava Kamma 47b, 56a).
 It seems from all this, Rabbi Reuven Chaim Klein concludes, that *sam hamaves*
 is the general word, covering any lethal preparation and naming none in
 particular.
+
+Targum Yonasan renders *nashchisah etz belachmo* (Yirmiyahu 11:19) as *nirmei
+sama demosa bemeichleih*, let us cast deadly poison into his food.
 
 ### rosh (ראש / רוש), chamat (חמת)
 *Rosh*: Devarim 29:17, Iyov 20:16, Eichah 3:19 and elsewhere.
@@ -229,4 +233,6 @@ Rabbi Reuven Chaim Klein, "[Pick Your Poison](https://articles.ohr.edu/articles/
 
 Rabbi Reuven Chaim Klein, "[Bereishis: In the Beginning...](https://articles.ohr.edu/articles/bereishis-in-the-beginning)," *What's in a Word?*, Ohr Somayach, 26 October 2024.
 
-Cited in the essay: Bereishis 24:33 with *Midrash Sechel Tov*, *Midrash Aggadah* and *Daas Zekeinim*; Shemos 4:24-26, 15:22, 30:7, 30:34, 40:27; Vayikra 16:12; Devarim 29:17, 32:32, 32:33; Yehoshua 15:16-17; Shoftim 1:12-13; Yeshayahu 3:16, 3:18, 3:19, 51:17, 51:22; Yirmiyahu 8:14; Nachum 2:4; Zecharyah 12:2; Tehillim 58:5, 60:5; Mishlei 7:22; Iyov 20:16; Eichah 3:19; Divrei HaYamim I 2:49, II 2:3, 13:11, 22:10; Esther 2:21 with *Targum Rishon* and *Targum Sheini*; *Yossiphon* ch. 4; Megillah 13b; Shabbos 62b; Yoma 9b; Eruvin 56a; Taanis 7a; Gittin 35a; Sotah 3b; Avodah Zarah 30b, 31b; Sukkah 50a; Sanhedrin 78a; Bava Kamma 23b, 47b, 56a, 115b; Mishnah Chullin 3:5; *Mechilta* to Shemos 15:22; *Midrash Tanchuma*, *Beshalach* 18; Targum; Rashi, Ibn Ezra and Radak (with *Sefer HaShorashim*) to the pesukim above; the Vilna Gaon; Rabbi Yeshayah of Trani; Rabbeinu Efrayim; Rabbi Menachem Azariah of Fano; Rabbi Shlomo Pappenheim; Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Dr. Yehuda Feliks; Dr. Alexander Kohut; Rabbi Ernest Klein; Avraham Even-Shoshan; the *Comprehensive Aramaic Lexicon*; Rav Hirsch to Devarim 29:17.
+Rabbi Reuven Chaim Klein, "Pick your Poison," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 24:33 with *Midrash Sechel Tov*, *Midrash Aggadah* and *Daas Zekeinim*; Shemos 4:24-26, 15:22, 30:7, 30:34, 40:27; Vayikra 16:12; Devarim 29:17, 32:32, 32:33; Yehoshua 15:16-17; Shoftim 1:12-13; Yeshayahu 3:16, 3:18, 3:19, 51:17, 51:22; Yirmiyahu 8:14; Nachum 2:4; Zecharyah 12:2; Tehillim 58:5, 60:5; Mishlei 7:22; Iyov 20:16; Eichah 3:19; Divrei HaYamim I 2:49, II 2:3, 13:11, 22:10; Esther 2:21 with *Targum Rishon* and *Targum Sheini*; *Yossiphon* ch. 4; Megillah 13b; Shabbos 62b; Yoma 9b; Eruvin 56a; Taanis 7a; Gittin 35a; Sotah 3b; Avodah Zarah 30b, 31b; Sukkah 50a; Sanhedrin 78a; Bava Kamma 23b, 47b, 56a, 115b; Mishnah Chullin 3:5; *Mechilta* to Shemos 15:22; *Midrash Tanchuma*, *Beshalach* 18; Targum; Rashi, Ibn Ezra and Radak (with *Sefer HaShorashim*) to the pesukim above; the Vilna Gaon; Rabbi Yeshayah of Trani; Rabbeinu Efrayim; Rabbi Menachem Azariah of Fano; Rabbi Shlomo Pappenheim; Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Dr. Yehuda Feliks; Dr. Alexander Kohut; Rabbi Ernest Klein; Avraham Even-Shoshan; the *Comprehensive Aramaic Lexicon*; Rav Hirsch to Devarim 29:17; Targum Yonasan to Yirmiyahu 11:19.

@@ -45,9 +45,10 @@ words:
     distinct: a property tax (see Rashi to Gittin 58b); elsewhere a sack or a basket, so the tax sense seems borrowed; replaced by arnona in Modern Hebrew
 sources:
   - wiaw:8339 "Heavy Taxes and Empty Pockets" (2019-07-27) https://articles.ohr.edu/articles/heavy-taxes-and-empty-pockets
-authorities: [Rabbi Shlomo Pappenheim, Dr. Chaim Tawil, Menachem Ibn Saruk, Rabbi Yehuda Ibn Chayyuj, Rabbi Yonah Ibn Janach, Radak, Rabbi Baruch Avraham Toledano, Rashi, Rabbi Nosson of Rome, Rabbeinu Nissim, Maharam Chalavah, Meiri]
+  - ms:279-heavy-taxes-and-empty-pockets.md "Heavy Taxes and Empty Pockets"
+authorities: [Rabbi Shlomo Pappenheim, Dr. Chaim Tawil, Menachem Ibn Saruk, Rabbi Yehuda Ibn Chayyuj, Rabbi Yonah Ibn Janach, Radak, Rabbi Baruch Avraham Toledano, Rashi, Rabbi Nosson of Rome, Rabbeinu Nissim, Maharam Chalavah, Meiri, Shadal, Filosseno Luzzatto]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Tax: mas / meches (and the Aramaic terms)
 
@@ -107,6 +108,11 @@ labor or civil service imposed by a sovereign, and that meaning is borne out by
 the Bible in several places. The Egyptian taskmasters set over the enslaved Jews
 are *sarei missim* (Shemos 1:11), and Shlomo HaMelech's mandatory conscription
 of civilians is called a *mas* (Melachim I 5:27).
+
+Shadal (to Shemos 1:11): *mas* is from נ-ש-א, a burden the taxpayer carries, or
+because those charged with the tax are lifted up from the rest of the people. He
+cites his son Filosseno that Italian *leva*, related to English *levy*, also
+means to lift and is used of taxes.
 
 ### meches (מכס)
 Six appearances in Tanach in the sense of tax, all in one chapter (Bamidbar
@@ -209,4 +215,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Heavy Taxes and Empty Pockets](https://articles.ohr.edu/articles/heavy-taxes-and-empty-pockets)," *What's in a Word?*, Ohr Somayach, 27 July 2019.
 
-Cited in the essay: Shemos 1:11, 12:4; Bamidbar 21:13, 31:28-41; Melachim I 5:27; Ezra 7:24; Pesachim 6a; Megillah 7b; Nedarim 62b; Gittin 58b; Bava Metzia 73b, 108a; Bava Basra 8a; Rashi to Pesachim 6a, Megillah 7b, Gittin 58b, Bava Metzia 73b and 108a, and Bava Basra 8a; Tosafos to Avodah Zarah 14b; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Dr. Chaim Tawil; Menachem Ibn Saruk; Rabbi Yehuda Ibn Chayyuj; Rabbi Yonah Ibn Janach; Radak; Rabbi Baruch Avraham Toledano; Rabbi Nosson of Rome, *Sefer HeAruch*; Rabbeinu Nissim to Nedarim 62b; Maharam Chalavah and Meiri to Pesachim 6a; the *Oxford English Dictionary*.
+Rabbi Reuven Chaim Klein, "Heavy Taxes and Empty Pockets," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 1:11, 12:4; Bamidbar 21:13, 31:28-41; Melachim I 5:27; Ezra 7:24; Pesachim 6a; Megillah 7b; Nedarim 62b; Gittin 58b; Bava Metzia 73b, 108a; Bava Basra 8a; Rashi to Pesachim 6a, Megillah 7b, Gittin 58b, Bava Metzia 73b and 108a, and Bava Basra 8a; Tosafos to Avodah Zarah 14b; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Dr. Chaim Tawil; Menachem Ibn Saruk; Rabbi Yehuda Ibn Chayyuj; Rabbi Yonah Ibn Janach; Radak; Rabbi Baruch Avraham Toledano; Rabbi Nosson of Rome, *Sefer HeAruch*; Rabbeinu Nissim to Nedarim 62b; Maharam Chalavah and Meiri to Pesachim 6a; the *Oxford English Dictionary*; Shadal to Shemos 1:11.

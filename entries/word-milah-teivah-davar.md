@@ -23,9 +23,10 @@ words:
     distinct: both word and thing, the double sense alluding to Hashem creating the world by Divine words (Rabbi Moshe Shapiro); all things are Divine words crystallized (Rabbi Akiva Tatz)
 sources:
   - wiaw:9405 "Words for Words" (2021-10-23) https://articles.ohr.edu/articles/words-for-words
-authorities: [Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Yosef Teomim, Rabbi Shlomo Zalman of Hanau, Rokeach, Rabbeinu Efrayim, Rabbi Yehuda Leib Shapira-Frankfurter, Ibn Janach, Radak, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Shimon Yehuda Leib Goldblit, Alexander Kohut, Rabbi Moshe Shapiro, Rabbi Akiva Tatz, Rabbi Matityahu Glazerson, Faigy Peritzman]
+  - ms:027-words-for-words.md "Words for Words"
+authorities: [Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Yosef Teomim, Rabbi Shlomo Zalman of Hanau, Rokeach, Rabbeinu Efrayim, Rabbi Yehuda Leib Shapira-Frankfurter, Ibn Janach, Radak, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Shimon Yehuda Leib Goldblit, Alexander Kohut, Rabbi Moshe Shapiro, Rabbi Akiva Tatz, Rabbi Matityahu Glazerson, Faigy Peritzman, Yerushalmi]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Word: milah / teivah / davar
 
@@ -92,6 +93,8 @@ and *yabia*?
   to 1826) makes a similar point: *millel* is speaking so as to explain a thing
   as clearly and accurately as possible. They adduce *v'daas sefasai barur
   mileilu* (Iyov 33:3).
+- The Yerushalmi (*Kesubos* 2:10) uses *memallel* only of evil speech: a man
+  speaking of his wife's adultery or of her illegitimate children.
 
 ### teivah (תיבה)
 In Tanach *teivah* is an ark or chest: Noach's *teivah* (Bereishis 6 to 9), and
@@ -179,4 +182,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Words for Words](https://articles.ohr.edu/articles/words-for-words)," *What's in a Word?*, Ohr Somayach, 23 October 2021.
 
-Cited in the essay: Bereishis 6 to 9; Bereishis 6:14 with Rav Hirsch; Bereishis 21:7 with Rabbeinu Efrayim; Shemos 2:3; Shmuel II 23:2; Tehillim 19:5, 106:2, 139:4; Mishlei 23:9; Iyov 8:2, 33:3; the Aramaic chapters of Daniel; *Megillah* 18a; *Yevamos* 13b; *Shabbos* 58b; *Sefer Yetzirah*; Rabbi Eliyahu HaBachur, *Mesores HaMesores* and *Sefer HaTishbi*; Rabbi Yosef Teomim; Rabbi Shlomo Zalman of Hanau; *Peirush HaRokeach* and *Siddur HaRokeach*; Rabbi Yehuda Leib Shapira-Frankfurter, *HaRechasim LeVik'ah* (בר' כא:ז מבוא בהכתב והקבלה שם); Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. מל, and *Yerios Shlomo* (עמ' 506); Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Aharon Marcus; Rabbi Shimon Yehuda Leib Goldblit, *Leshon Chachamim* (ח"א ערך תיבה); Alexander Kohut, *Aruch HaShalem* s.v. תבה; Rabbi Moshe Shapiro; Rabbi Akiva Tatz; Rabbi Matityahu Glazerson; Faigy Peritzman, *Mishpacha*, 1 April 2020.
+Rabbi Reuven Chaim Klein, "Words for Words," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 6 to 9; Bereishis 6:14 with Rav Hirsch; Bereishis 21:7 with Rabbeinu Efrayim; Shemos 2:3; Shmuel II 23:2; Tehillim 19:5, 106:2, 139:4; Mishlei 23:9; Iyov 8:2, 33:3; the Aramaic chapters of Daniel; *Megillah* 18a; *Yevamos* 13b; *Shabbos* 58b; *Sefer Yetzirah*; Rabbi Eliyahu HaBachur, *Mesores HaMesores* and *Sefer HaTishbi*; Rabbi Yosef Teomim; Rabbi Shlomo Zalman of Hanau; *Peirush HaRokeach* and *Siddur HaRokeach*; Rabbi Yehuda Leib Shapira-Frankfurter, *HaRechasim LeVik'ah* (בר' כא:ז מבוא בהכתב והקבלה שם); Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. מל, and *Yerios Shlomo* (עמ' 506); Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Aharon Marcus; Rabbi Shimon Yehuda Leib Goldblit, *Leshon Chachamim* (ח"א ערך תיבה); Alexander Kohut, *Aruch HaShalem* s.v. תבה; Rabbi Moshe Shapiro; Rabbi Akiva Tatz; Rabbi Matityahu Glazerson; Faigy Peritzman, *Mishpacha*, 1 April 2020; Yerushalmi *Kesubos* 2:10.

@@ -38,9 +38,10 @@ words:
     distinct: not an age word but standing and reliability, from Arabic wathuqa, firm, seniority being earned by dependability (Rabbi Ernest Klein, judged more plausible by Rabbi Reuven Chaim Klein); one is only tempted to hear old
 sources:
   - wiaw:8487 "The Old Man and the See" (2019-11-23) https://articles.ohr.edu/articles/the-old-man-and-the-see
-authorities: [Rabbi Avraham Bedersi HaPenini, Radak, Rabbi Eliezer Reines, Rabbi Mordechai Tzvi Herzka, Rabbeinu Chananel, Rabbi Nosson of Rome, Rabbi Yehuda Leib Shapira-Frankfurter, Rashi, Bartenura, Rabbi Ernest Klein, Rabbi Shaul Goldman]
+  - ms:031-the-old-man-and-the-see.md "The Old Man and the See"
+authorities: [Rabbi Avraham Bedersi HaPenini, Radak, Rabbi Eliezer Reines, Rabbi Mordechai Tzvi Herzka, Rabbeinu Chananel, Rabbi Nosson of Rome, Rabbi Yehuda Leib Shapira-Frankfurter, Rashi, Bartenura, Rabbi Ernest Klein, Rabbi Shaul Goldman, Rabbi Elimelech of Lizhensk, Chiddushei HaRa'ah, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Shadal]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Old age: zaken / seivah / yashish / yashan / atik / vatik
 
@@ -79,6 +80,12 @@ seventy.
   to people and animals, not to plants; Iyov 14:8, which calls a plant's root
   *zaken*, is a borrowed usage and not the word's primary sense.
 - The Targumim tend to render *zaken* either *kashish* or *sav*.
+- *Noam Elimelech* (Chayei Sarah): a tzaddik is called *zaken* even when young,
+  because he sees himself as a man of advanced age who may die at any moment,
+  and that thought keeps him in constant *teshuvah*.
+- Shadal (to Bereishis 50:7): *zaken* is anyone in a position of honor and
+  importance, whatever his age, as Spanish *señor* and Italian *signore*, from
+  Latin *senior*, and *senator*, carry honor and not old age.
 
 ### seivah (שיבה)
 Old age at seventy. Rabbi Eliezer Reines
@@ -110,10 +117,17 @@ its two usual renderings of *zaken*.
   interchange because in gematria they are the first number of the ones, the
   tens and the hundreds respectively, so the yud of Hebrew *yashish* becomes the
   kuf of Aramaic *kashish*.
+- Rabbi Yehoshua Steinberg: *kashish* is from *kasheh*, hard, and was applied to
+  age either because the old need reinforcement or because their joints stiffen,
+  or their views harden.
 
 ### yashan (ישן)
 Old of plants rather than of persons. Shapira-Frankfurter pairs it against
 *zaken*: *zaken* for people and animals, *yashan* for plants and other flora.
+
+*Zaken* is said of a person, *yashan* of a thing (*Chiddushei HaRa'ah* to
+Berachos ch. 9, and *Pekudas HaLeviim* there §11; HaKsav VeHaKabbalah to
+Bereishis 18:11, citing *Rechasim LeBik'ah*).
 
 ### atik (עתיק)
 Root ayin-tav-kuf, whose primary sense in Tanach is movement in space: Avraham
@@ -167,4 +181,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[The Old Man and the See](https://articles.ohr.edu/articles/the-old-man-and-the-see)," *What's in a Word?*, Ohr Somayach, 23 November 2019.
 
-Cited in the essay: *Avos* 5:24 with Rashi and Bartenura; Shmuel I 12:2; Yeshayahu 46:4 and 28:9; Iyov 12:12, 14:8, 15:10, 29:8, 32:6; Bereishis 12:8 and 26:22; Daniel 7:9-22; Bava Metzia 109b; Radak, *Sefer HaShorashim*; Bedersi, *Chosam Tochnis* (עמ' 154-155); *HaRechasim LeVik'ah*; *Maftechos HaDamesek*; *Sefer HeAruch*; Rabbi Ernest Klein's etymological dictionary.
+Rabbi Reuven Chaim Klein, "The Old Man and the See," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: *Avos* 5:24 with Rashi and Bartenura; Shmuel I 12:2; Yeshayahu 46:4 and 28:9; Iyov 12:12, 14:8, 15:10, 29:8, 32:6; Bereishis 12:8 and 26:22; Daniel 7:9-22; Bava Metzia 109b; Radak, *Sefer HaShorashim*; Bedersi, *Chosam Tochnis* (עמ' 154-155); *HaRechasim LeVik'ah*; *Maftechos HaDamesek*; *Sefer HeAruch*; Rabbi Ernest Klein's etymological dictionary; *Noam Elimelech*, Chayei Sarah; *Chiddushei HaRa'ah* to Berachos ch. 9; HaKsav VeHaKabbalah to Bereishis 18:11; Rabbi Yehoshua Steinberg; Shadal to Bereishis 50:7.

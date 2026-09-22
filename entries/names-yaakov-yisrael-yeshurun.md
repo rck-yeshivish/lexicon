@@ -21,9 +21,10 @@ words:
     distinct: four occurrences only (Devarim 32:15, 33:5, 33:26; Yeshayahu 44:2); from yashar, straight, given to refute Esav's slur that Yaakov means crookedness (Ramban); for Chasam Sofer, straightness attained by the nation's own effort
 sources:
   - wiaw:8553 "Jacob's Three Names" (2020-01-11) https://articles.ohr.edu/articles/jacobs-three-names
-authorities: [Rashi, Ramban, Rabbeinu Bachya, Maharal, Maharsha, Vilna Gaon, Ohr HaChaim, Rav Hirsch, Rabbi Elimelech of Lizhensk, Rabbi Yaakov Tzvi Mecklenburg, Chasam Sofer, Megaleh Amukos, Arizal, Zohar, Noda BiYehudah, Rabbi Meir Simcha of Dvinsk, Rabbi Nosson Kamenetsky]
+  - ms:070-jacobs-three-names.md "Jacob’s Three Names"
+authorities: [Rashi, Ramban, Rabbeinu Bachya, Maharal, Maharsha, Vilna Gaon, Ohr HaChaim, Rav Hirsch, Rabbi Elimelech of Lizhensk, Rabbi Yaakov Tzvi Mecklenburg, Chasam Sofer, Megaleh Amukos, Arizal, Zohar, Noda BiYehudah, Rabbi Meir Simcha of Dvinsk, Rabbi Nosson Kamenetsky, Rabbi Shes ben Yefes, Rabbi Yitzchak ben Yosef of Pira]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Names of Yaakov: Yaakov / Yisrael / Yeshurun
 
@@ -107,17 +108,42 @@ Bereishis 25:26: named for the *akeiv*, Esav's heel, which he held at birth. Ber
 27:36 records Esav's counter-reading, that the name comes from ע-ק-ב in the sense of
 supplanting or deceit; that slur, for the Ramban, is what the third name answers.
 
+*Noam Elimelech* (to Shemos 19:3): *Yaakov* is the mass of the people, *Yisrael*
+its men of standing.
+
+Chasam Sofer (*Toras Moshe*, Vayechi, third piece): the name *Yaakov* speaks of
+pain, the name *Yisrael* of greatness.
+
 ### Yisrael (ישראל)
 Bereishis 32:29, the angel of Esav at the Yabok: he "lords" (*sar*) over angels
 (*elohim*, or *el* for short) and over men, confirmed by Hashem Himself at Bereishis
 35:10. Rabbeinu Bachya: the
 earlier name was not withdrawn, so *Yisrael* is an addition and both remain in force.
 
+From the Midrash (*Bereishis Rabbah* 63:3), Rabbi Yitzchak of Pira, the Rashba's
+student (to Bereishis 17:5, 21:3), writes that *Yisrael* is also a name of
+Yitzchak and of Avraham.
+
 ### Yeshurun (ישורון)
 Devarim 32:15, 33:5 and 33:26, and Yeshayahu 44:2. Yoma 73b: the
 Kohen Gadol's *choshen* bore the names of the three Avos, the twelve *shevatim*, and the
 words *shivtei Yeshurun*; the Chasam Sofer there restricts that to Aharon's *choshen*,
 holding that later ones read *shivtei Yisrael*.
+
+Maharal (*Tiferes Yisrael* ch. 11): *Yeshurun* speaks of Yaakov as the perfect
+mean, balancing the *chessed* of Avraham and the *gevurah* of Yitzchak.
+
+*Chemdas HaChemdah* (to Devarim 32:15) derives *Yeshurun* from seeing, which
+sharpens Moshe's rebuke: they saw all the miracles Hashem did for them and would
+still choose other gods. At Devarim 33:5 and 33:26 the same work relates it to
+*yashar*, straight, used of Hashem's bond with the people to hint that He is
+with them only while they act uprightly.
+
+Chasam Sofer (*Toras Moshe* to Devarim 33:4): *Yeshurun* is the highest level,
+those who hold the Torah as their king, the source of wisdom and understanding;
+*Yaakov* the lowest, who keep the mitzvos only as an inheritance from their
+fathers; *Yisrael* the middle, sometimes loyal to the Torah and sometimes not,
+who need the gathered heads of the nation to rebuke and rouse them.
 
 ## Rendering guidance
 
@@ -141,4 +167,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Jacob's Three Names](https://articles.ohr.edu/articles/jacobs-three-names)," *What's in a Word?*, Ohr Somayach, 11 January 2020.
 
-Cited in the essay: Bereishis 25:26, 27:36, 32:29, 35:10; Devarim 31:19, 32:15, 33:5, 33:26; Yeshayahu 44:2; Michah 7:20; Yoma 73b with Chasam Sofer; Zohar *Vayishlach* 177b and *Vayechi* 222a; *Seder Eliyahu Rabbah* ch. 21; Ramban to Bamidbar 23:10 and Devarim 2:10, 7:12; Rabbeinu Bachya; *Megaleh Amukos*; *Arugas HaBosem*; *Peirush HaRokeach* to the Siddur; *Eitz Yosef*; *Noda BiYehudah Tinyana, Orach Chaim* §126.
+Rabbi Reuven Chaim Klein, "Jacob’s Three Names," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 25:26, 27:36, 32:29, 35:10; Devarim 31:19, 32:15, 33:5, 33:26; Yeshayahu 44:2; Michah 7:20; Yoma 73b with Chasam Sofer; Zohar *Vayishlach* 177b and *Vayechi* 222a; *Seder Eliyahu Rabbah* ch. 21; Ramban to Bamidbar 23:10 and Devarim 2:10, 7:12; Rabbeinu Bachya; *Megaleh Amukos*; *Arugas HaBosem*; *Peirush HaRokeach* to the Siddur; *Eitz Yosef*; *Noda BiYehudah Tinyana, Orach Chaim* §126; Maharal, *Tiferes Yisrael* ch. 11; *Noam Elimelech* to Shemos 19:3; *Chemdas HaChemdah* to Devarim 32:15, 33:5, 33:26; Chasam Sofer, *Toras Moshe* to Devarim 33:4; Chasam Sofer, *Toras Moshe*, Vayechi; *Bereishis Rabbah* 63:3; Rabbi Yitzchak ben Yosef of Pira to Bereishis 17:5, 21:3.

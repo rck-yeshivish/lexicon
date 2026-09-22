@@ -25,9 +25,10 @@ words:
     distinct: the ordinary Talmudic word for a hair, but the hair sense seems secondary and borrowed; elsewhere a string or cord; hair that sticks out or is unwanted (Rabbi Klein)
 sources:
   - wiaw:8754 "All About Hair" (2020-06-20) https://articles.ohr.edu/articles/all-about-hair
-authorities: [Rashi, Ibn Janach, Ibn Parchon, Ibn Ezra, Radak, Rabbi Eliyahu HaBachur, Tosafos Yom Tov, Rabbi Avraham Meir Israel, Rabbi Dr. Jared Greenblatt, Rabbi Dr. Alexander Kohut]
+  - ms:252-all-about-hair.md "All About Hair"
+authorities: [Rashi, Ibn Janach, Ibn Parchon, Ibn Ezra, Radak, Rabbi Eliyahu HaBachur, Tosafos Yom Tov, Rabbi Avraham Meir Israel, Rabbi Dr. Jared Greenblatt, Rabbi Dr. Alexander Kohut, Rabbi Yoel Sirkes]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Hair: saar / mazia / binta / nimah
 
@@ -110,6 +111,10 @@ Metzia 84b). Rabbi Avraham Meir Israel (*Yalkut HaMeiri*) hears a hint of the sa
 the pasuk Chazal applied to the wife of On ben Pelet, "*chachmos nashim bansah
 beisah*" (Mishlei 14:1): *bansah*, she built, sounds like *binta*, hair.
 
+Where the Gemara speaks of a nazir uprooting some of his hair it says *mazia*
+(*Nazir* 39a), but Rabbi Yoel Sirkes deletes the word and, following the
+commentary ascribed to Rashi there, reads *binta*.
+
 ### nimah (נימא)
 The ordinary Talmudic word for a hair: no one can touch what is set aside for
 another, not even by a hair's worth (Yoma 38b); the hair of the body as a
@@ -158,4 +163,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[All About Hair](https://articles.ohr.edu/articles/all-about-hair)," *What's in a Word?*, Ohr Somayach, 20 June 2020.
 
-Cited in the essay: Bamidbar 8:7, 16:1; Vayikra 13:37, 14:9; Devarim 21:12, 32:24 with Rashi; Shoftim 20:16 with Targum; Tehillim 6:1, 11:2, 40:13; Iyov 9:17, 30:11; Mishlei 14:1; Shemos 25:4, 26:7, 35:6 in Targum Onkelos; Berachos 8a; Shabbos 64a, 74b, 79a; Eruvin 4b, 102b; Sukkah 6a, 9a; Megillah 16a; Nedarim 50a; Gittin 6b, 68b; Avodah Zarah 12b; Bava Metzia 84b; Sanhedrin 21a, 25a, 109b to 110a; Yoma 38b, 69b; Menachos 42b; Mishnah Shabbos 21:3, Kilayim 3:5, Negaim 4:1, Niddah 3:2 with Tosafos Yom Tov; Tosefta Erchin 2:7; *Zohar*, Tazria 49a; Rabbi Eliyahu HaBachur, *Meturgeman*; Rabbi Avraham Meir Israel, *Yalkut HaMeiri*; Rabbi Dr. Alexander Kohut on *mazia*, *bini* and *nimah*.
+Rabbi Reuven Chaim Klein, "All About Hair," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bamidbar 8:7, 16:1; Vayikra 13:37, 14:9; Devarim 21:12, 32:24 with Rashi; Shoftim 20:16 with Targum; Tehillim 6:1, 11:2, 40:13; Iyov 9:17, 30:11; Mishlei 14:1; Shemos 25:4, 26:7, 35:6 in Targum Onkelos; Berachos 8a; Shabbos 64a, 74b, 79a; Eruvin 4b, 102b; Sukkah 6a, 9a; Megillah 16a; Nedarim 50a; Gittin 6b, 68b; Avodah Zarah 12b; Bava Metzia 84b; Sanhedrin 21a, 25a, 109b to 110a; Yoma 38b, 69b; Menachos 42b; Mishnah Shabbos 21:3, Kilayim 3:5, Negaim 4:1, Niddah 3:2 with Tosafos Yom Tov; Tosefta Erchin 2:7; *Zohar*, Tazria 49a; Rabbi Eliyahu HaBachur, *Meturgeman*; Rabbi Avraham Meir Israel, *Yalkut HaMeiri*; Rabbi Dr. Alexander Kohut on *mazia*, *bini* and *nimah*; *Nazir* 39a with the commentary ascribed to Rashi and the Bach.

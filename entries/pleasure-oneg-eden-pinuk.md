@@ -24,9 +24,10 @@ words:
     distinct: once in Tanach (Mishlei 29:21); for Pappenheim not pleasure at all but playfulness and flattery, though the Targumim use pinuk words to render both oneg and eden
 sources:
   - wiaw:8295 "Indulging in Pleasure" (2019-06-22) https://articles.ohr.edu/articles/indulging-in-pleasure
-authorities: [Rabbi Shlomo Pappenheim, Targum Onkelos, Radak, Ibn Ezra, Rabbi Yehuda Chalava, Rav Hirsch, Rabbi Yaakov Tzvi Mecklenburg, Sefer HaYashar]
+  - ms:312-indulging-in-pleasure.md "Indulging in Pleasure"
+authorities: [Rabbi Shlomo Pappenheim, Targum Onkelos, Radak, Ibn Ezra, Rabbi Yehuda Chalava, Rav Hirsch, Rabbi Yaakov Tzvi Mecklenburg, Sefer HaYashar, Rabbi Nissim of Marseilles]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Pleasure: eden / oneg / pinuk
 
@@ -88,6 +89,12 @@ spiritual ecstasy but not necessarily bodily comfort. And there the symmetry sto
 physical pleasure can carry a spiritual one with it, but there is no such thing
 as a spiritual pleasure that produces a physical one.
 
+Rabbi Nissim of Marseilles (*Maaseh Nissim* p. 271): *Eden* is related to
+*idan*, time, since Gan Eden is the middle world joining this world to the
+highest, where the heavenly bodies by which we keep time are found.
+Alternatively, *Eden* is this world, from *idun*, pleasure, the place of bodily
+delight.
+
 ### oneg (עונג)
 Root ע-נ-ג.
 
@@ -147,4 +154,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Indulging in Pleasure](https://articles.ohr.edu/articles/indulging-in-pleasure)," *What's in a Word?*, Ohr Somayach, 22 June 2019.
 
-Cited in the essay: Rabbi Shlomo Pappenheim on ע-ד, ע-נ-ג and פ-נ-ק; Bereishis 18:12 with Targum Onkelos, Radak, Ibn Ezra, and Rabbi Yehuda Chalava; Bereishis 49:20; Tehillim 36:9, 37:4, 37:11; Yirmiyahu 51:34; Eichah 4:5; Yeshayahu 47:8, 58:13, 66:11; Devarim 15:14, 28:54; Iyov 22:26; Shir HaShirim 7:7; Mishlei 29:21; Rav Hirsch on *oneg* and *anak*; Rabbi Yaakov Tzvi Mecklenburg to Devarim 15:14; the Targumim on *anug* and *maadanei melech*; *Mah Yedidus*; *Sefer HaYashar*.
+Rabbi Reuven Chaim Klein, "Indulging in Pleasure," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Rabbi Shlomo Pappenheim on ע-ד, ע-נ-ג and פ-נ-ק; Bereishis 18:12 with Targum Onkelos, Radak, Ibn Ezra, and Rabbi Yehuda Chalava; Bereishis 49:20; Tehillim 36:9, 37:4, 37:11; Yirmiyahu 51:34; Eichah 4:5; Yeshayahu 47:8, 58:13, 66:11; Devarim 15:14, 28:54; Iyov 22:26; Shir HaShirim 7:7; Mishlei 29:21; Rav Hirsch on *oneg* and *anak*; Rabbi Yaakov Tzvi Mecklenburg to Devarim 15:14; the Targumim on *anug* and *maadanei melech*; *Mah Yedidus*; *Sefer HaYashar*; Rabbi Nissim of Marseilles, *Maaseh Nissim* p. 271.

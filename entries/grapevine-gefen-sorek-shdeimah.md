@@ -26,9 +26,10 @@ words:
 sources:
   - wiaw:9491 "Through the Grapevine" (2021-12-18) https://articles.ohr.edu/articles/through-the-grapevine
   - wiaw:11743 "Pekudai: Seeing Red (Part 2/3)" (2025-03-29) https://articles.ohr.edu/articles/pekudai-seeing-red-part-23
-authorities: [Rabbi Shlomo of Urbino, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Shoresh Yesha, Rashi, Rabbeinu Bachaya, Ibn Ezra, Ohalei Yehuda, Targum Yonasan, Rabbi Yitzchak Ibn Ghiyyat, Rabbi Shmuel ben Chofni Gaon, Maharsha, Rivan, Shitah Mekubetzes]
+  - ms:074-through-the-grapevine.md "Through the Grapevine"
+authorities: [Rabbi Shlomo of Urbino, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Shoresh Yesha, Rashi, Rabbeinu Bachaya, Ibn Ezra, Ohalei Yehuda, Targum Yonasan, Rabbi Yitzchak Ibn Ghiyyat, Rabbi Shmuel ben Chofni Gaon, Maharsha, Rivan, Shitah Mekubetzes, Sechel Tov, Arugas HaBosem, Rabbi Elazar Rokeach of Worms, Rabbeinu Bachya]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Grapevine: gefen / sorek / shdeimah (sarig)
 
@@ -117,6 +118,24 @@ place-name: Nachal Sorek, Delilah's valley between Ashkelon and Gaza (Shoftim
 16:4), and seemingly Masreikah, the town of Samlah king of Edom (Bereishis 36:36,
 Divrei HaYamim I 1:47).
 
+*Sechel Tov* (to Bereishis 49:11): *gefen* is any vine, laden with grapes or
+not, while a *soreikah* is a vine without grapes (*ve'anochi netaticha sorek*,
+Yirmiyahu 2:21), since vines are planted bare and not laden. *Arugas HaBosem*
+rejects Dunash's view that *kanah*, *netzer* and *sorek* are one, since *sorek*
+is a kind of vine. The Rokeach (on the Hoshanos, p. 50): the *kanah* of Tehillim
+80:16 is the wood by the root; Rashi and Ibn Ezra there take it as the firmly
+set vine. The Rokeach (Eikev, p. 193): *gefen* is named for stopping the wine in
+a *magufah*, a sealed jar, to keep its taste and strength. Rashi (to Yirmiyahu
+2:21): *sorek* is shoots of a good vine.
+
+Rabbeinu Bachya (to Devarim 32:14): *enav* is the single grape; the grapes
+hanging together are an *eshkol* in the Torah's language and a *parkil* in the
+language of Chazal (*Sukkah* 10a); what the clusters hang from is a *gefen*
+while attached and a *zemorah* once cut, as in *vayichresu misham zemorah
+ve'eshkol anavim echad* (Bamidbar 13:23). At Bamidbar 13:23 he brings a Midrash
+(Zohar, Shelach 160b) that it is a *zemorah* while attached and a *mot* once
+cut.
+
 ### shdeimah (שדמה)
 See the dispute above. Pappenheim's route to it runs through the biliteral ש-ד,
 whose core sense he gives as abnormality: *shoded* (commandeering), *sheid* (a
@@ -170,4 +189,6 @@ Rabbi Reuven Chaim Klein, "[Through the Grapevine](https://articles.ohr.edu/arti
 
 Rabbi Reuven Chaim Klein, "[Pekudai: Seeing Red (Part 2/3)](https://articles.ohr.edu/articles/pekudai-seeing-red-part-23)," *What's in a Word?*, Ohr Somayach, 29 March 2025.
 
-Cited in the essay: Bereishis 49:11 and 40:10 to 40:12; Devarim 32:32; Yeshayahu 5:2, 16:4, 16:8, 37:27, 60:16; Yirmiyahu 2:21, 31:39; Chavakuk 3:17; Melachim II 23:4; Yoel 1:7; Tehillim 32:4; Mishlei 9:3; Koheles 2:8; Bamidbar 11:8 and 21:15; Iyov 40:17; Eichah 1:14; *Kilayim* 6:3 and 6:5, *Shevi'is* 1:3, *Sotah* 8:3, *Bava Basra* 2:7, *Bechoros* 4:8; Pesachim 107b to 108a; Kesubos 111b with Maharsha, Rivan, and *Shitah Mekubetzes*; *Ohel Moed*, *Machberes Menachem*, and the *Sifrei HaShorashim*; Zecharyah 1:8; Shoftim 16:4; Bereishis 36:36; Divrei HaYamim I 1:47.
+Rabbi Reuven Chaim Klein, "Through the Grapevine," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 49:11 and 40:10 to 40:12; Devarim 32:32; Yeshayahu 5:2, 16:4, 16:8, 37:27, 60:16; Yirmiyahu 2:21, 31:39; Chavakuk 3:17; Melachim II 23:4; Yoel 1:7; Tehillim 32:4; Mishlei 9:3; Koheles 2:8; Bamidbar 11:8 and 21:15; Iyov 40:17; Eichah 1:14; *Kilayim* 6:3 and 6:5, *Shevi'is* 1:3, *Sotah* 8:3, *Bava Basra* 2:7, *Bechoros* 4:8; Pesachim 107b to 108a; Kesubos 111b with Maharsha, Rivan, and *Shitah Mekubetzes*; *Ohel Moed*, *Machberes Menachem*, and the *Sifrei HaShorashim*; Zecharyah 1:8; Shoftim 16:4; Bereishis 36:36; Divrei HaYamim I 1:47; *Sechel Tov* to Bereishis 49:11; Yirmiyahu 2:21 with Rashi; *Arugas HaBosem* vol. 1 p. 41; Rokeach on the Hoshanos p. 50; Tehillim 80:16 with Rashi and Ibn Ezra; Rokeach, Eikev p. 193; Rabbeinu Bachya to Devarim 32:14 and Bamidbar 13:23; *Sukkah* 10a; Zohar, Shelach 160b.

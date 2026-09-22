@@ -20,9 +20,10 @@ words:
     distinct: the spark that surfaces unbidden and may be developed (Wertheimer); a synonym of machshavah (Rashi to Berachos 55b, Ramban), its Aramaic (Yad Ramah); defined as hirhur (Rashi to Daniel)
 sources:
   - wiaw:7082 "A Word for a Thought" (2017-01-07) https://articles.ohr.edu/articles/a-word-for-a-thought
-authorities: [Vilna Gaon, Rashi, Ramban, Rabbi Meir HaLevi Abulafia, Rabbi Pinchas HaLevi Horowitz, Rabbi Shlomo Aharon Wertheimer]
+  - ms:230-a-word-for-a-thought.md "A Word for a Thought"
+authorities: [Vilna Gaon, Rashi, Ramban, Rabbi Meir HaLevi Abulafia, Rabbi Pinchas HaLevi Horowitz, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Thought: machshavah / hirhur / raayon
 
@@ -92,6 +93,12 @@ suggest a connection.
   spontaneous and sometimes fleeting, which upon further consideration can
   potentially be developed into a well-formulated concept; the *machshavah* is
   the product of deliberate thinking.
+- Rabbi Shlomo Pappenheim (*Cheshek Shlomo* s.v. רע): Aramaic *ra'ayon* is a
+  noun for a thought that passes through the mind, as *ra'ayonach al mishkevach
+  seliku* (Daniel 2:29) and *ve'al yevahaluni ra'ayonai* in the bedtime *Shema*.
+  It is named for *hisro'aus*, companionship: the joining of images to one
+  another, one thing's image and another's made friends until they form one
+  picture.
 
 ### the track of thought
 Rabbi Klein's synthesis: the three words are not exactly synonymous but mark
@@ -130,4 +137,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[A Word for a Thought](https://articles.ohr.edu/articles/a-word-for-a-thought)," *What's in a Word?*, Ohr Somayach, 7 January 2017.
 
-Cited in the essay: the Vilna Gaon, commentary to *Sefer Yetzirah*; Rabbi Pinchas HaLevi Horowitz; Rashi to Berachos 55b and Daniel 2:29-30; Ramban to Bamidbar 2:14; Rabbi Meir HaLevi Abulafia, *Yad Ramah* to Sanhedrin 38b; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. חשב\רעה.
+Rabbi Reuven Chaim Klein, "A Word for a Thought," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: the Vilna Gaon, commentary to *Sefer Yetzirah*; Rabbi Pinchas HaLevi Horowitz; Rashi to Berachos 55b and Daniel 2:29-30; Ramban to Bamidbar 2:14; Rabbi Meir HaLevi Abulafia, *Yad Ramah* to Sanhedrin 38b; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. חשב\רעה; Pappenheim, *Cheshek Shlomo* s.v. רע.

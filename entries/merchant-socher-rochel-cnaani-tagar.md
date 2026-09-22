@@ -24,9 +24,10 @@ words:
     distinct: the standard Aramaic word, used by Targum for both socher and rochel; Rashi (Eruvin 55a) makes him the one who stays in his own town, against the travelling socher
 sources:
   - wiaw:11160 "Vayeshev: Mercantile Man" (2023-12-09) https://articles.ohr.edu/articles/vayeshev-mercantile-man
-authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rashi, Rashbam, Ramban, Ibn Ezra, Ralbag, Malbim, Meiri, Metzudas Tzion, Rabbi Avraham Bedersi, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Shimon Yehuda Leib Goldblit, Rabbi Yosef Nechemias, Rabbi David Chaim Chelouche, Rabbi Eliyahu HaBachur, Rabbi Shlomo Fischer, Alexander Kohut]
+  - ms:060-mercantile-man.md "Mercantile Man"
+authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rashi, Rashbam, Ramban, Ibn Ezra, Ralbag, Malbim, Meiri, Metzudas Tzion, Rabbi Avraham Bedersi, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Shimon Yehuda Leib Goldblit, Rabbi Yosef Nechemias, Rabbi David Chaim Chelouche, Rabbi Eliyahu HaBachur, Rabbi Shlomo Fischer, Alexander Kohut, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Merchant: socher / rochel / cnaani (and tagar)
 
@@ -184,6 +185,9 @@ reading of the father's *cnaani* as well.
 Either way, *cnaan* there is being expounded as merchants and merchandise, not
 genealogical Canaanites.
 
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 10:6): *Canaan* means low,
+the lowland of the Canaanites set against *Aram*, the uplifted highlands.
+
 ### tagar (תגר)
 The word Chazal use when they gloss *cnaani*: Targum Onkelos and Targum
 pseudo-Yonasan to Bereishis 38:2, *Bereishis Rabbah* 85:4, Pesachim 50a, Rashi
@@ -237,4 +241,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Vayeshev: Mercantile Man](https://articles.ohr.edu/articles/vayeshev-mercantile-man)," *What's in a Word?*, Ohr Somayach, 9 December 2023.
 
-Cited in the essay: Bereishis 24:3, 24:37, 27:46, 28:1, 28:6, 37:28, 38:2; Vayikra 19:16 with Rashi; Mishlei 3:14, 11:13, 20:19, 31:24; Yirmiyahu 6:28, 9:3; Yeshayahu 23:8 with Rashi, Radak and *Metzudas Tzion*; Yechezkel 17:4 and 27:3 with Malbim, and 22:9; Zecharyah 14:21 with Rashi; Tehillim 38:11; Melachim I 10:15, 10:28; Divrei HaYamim I 2:3 with Targum Rav Yosef; Pesachim 50a and 53b; Eruvin 55a and Erchin 23b with Rashi; Shabbos 13a, 56a, 90a, 91b; Yevamos 24b, 63b; Kiddushin 82a; Bava Kamma 82a; Bava Basra 22a; Nazir 21a (pseudo-Rashi); Moed Katan 10b; Sotah 47b; Bava Basra 29b with Rashbam; *Bereishis Rabbah* 85:4; *Tanchuma* Masei 9 with Rabbi Shlomo Fischer; Zohar Lech Lecha 80a with Meiri to Mishlei 31:24; *Chosam Tochnis*; *Sefer HaTishbi*; *Aruch HaShalem*.
+Rabbi Reuven Chaim Klein, "Mercantile Man," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 24:3, 24:37, 27:46, 28:1, 28:6, 37:28, 38:2; Vayikra 19:16 with Rashi; Mishlei 3:14, 11:13, 20:19, 31:24; Yirmiyahu 6:28, 9:3; Yeshayahu 23:8 with Rashi, Radak and *Metzudas Tzion*; Yechezkel 17:4 and 27:3 with Malbim, and 22:9; Zecharyah 14:21 with Rashi; Tehillim 38:11; Melachim I 10:15, 10:28; Divrei HaYamim I 2:3 with Targum Rav Yosef; Pesachim 50a and 53b; Eruvin 55a and Erchin 23b with Rashi; Shabbos 13a, 56a, 90a, 91b; Yevamos 24b, 63b; Kiddushin 82a; Bava Kamma 82a; Bava Basra 22a; Nazir 21a (pseudo-Rashi); Moed Katan 10b; Sotah 47b; Bava Basra 29b with Rashbam; *Bereishis Rabbah* 85:4; *Tanchuma* Masei 9 with Rabbi Shlomo Fischer; Zohar Lech Lecha 80a with Meiri to Mishlei 31:24; *Chosam Tochnis*; *Sefer HaTishbi*; *Aruch HaShalem*; Benamozegh, *Eim LaMikra* to Bereishis 10:6.

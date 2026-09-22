@@ -22,9 +22,10 @@ words:
     distinct: focuses on neither food nor drink but the posture, those at the meal reclining (Rashi), and only later any party; tied instead to sovev, around, by one contemporary linguist, which Rabbi Klein calls unsubstantiated
 sources:
   - wiaw:7176 "Party Hardy" (2017-03-11) https://articles.ohr.edu/articles/party-hardy
-authorities: [Radak, Rabbi Tzaddok HaKohen of Lublin, Rashi, Rashbam, Rabbi Levi Yitzchok of Berditchev]
+  - ms:166-party-hardy.md "Party Hardy"
+authorities: [Radak, Rabbi Tzaddok HaKohen of Lublin, Rashi, Rashbam, Rabbi Levi Yitzchok of Berditchev, Shadal, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Meal: seudah / mishteh / mesibah
 
@@ -75,6 +76,12 @@ verb *shoseh*, to drink.
   *mishteh* because it brought gladness to the Jews: through it Esther persuaded
   Achashverosh to execute Haman and rescind the decree, a victory that has
   brought gladness for generations and is celebrated each year on Purim.
+- Shadal (to Bereishis 19:3): a *mishteh* is a light evening meal whose main
+  course was wine, against the heavier afternoon meal called *seudah* or
+  *lechem*.
+- Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 26:14): *mishteh*, from
+  drinking, has a parallel in Greek *symposion*, likewise from drinking: *syn*,
+  together, and *potes*, drinking.
 
 ### mesibah (מסיבה)
 Arguably once in Tanach (Rashbam to Shir HaShirim 1:12).
@@ -113,4 +120,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Party Hardy](https://articles.ohr.edu/articles/party-hardy)," *What's in a Word?*, Ohr Somayach, 11 March 2017.
 
-Cited in the essay: Bereishis 18:5; Shoftim 19:5; Tehillim 104:15; Shir HaShirim 1:2, 1:12; Koheles 2:3; Esther 5:4; Amos 2:8; *Shabbos* 117b; Radak, *Sefer HaShorashim* s.v. סעד; Rashi to Amos 2:8, Shir HaShirim 1:2, Koheles 2:3, Esther 5:4; Rashbam to Shir HaShirim 1:12; *Kedushas Levi*, Parshas Vayeira.
+Rabbi Reuven Chaim Klein, "Party Hardy," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 18:5; Shoftim 19:5; Tehillim 104:15; Shir HaShirim 1:2, 1:12; Koheles 2:3; Esther 5:4; Amos 2:8; *Shabbos* 117b; Radak, *Sefer HaShorashim* s.v. סעד; Rashi to Amos 2:8, Shir HaShirim 1:2, Koheles 2:3, Esther 5:4; Rashbam to Shir HaShirim 1:12; *Kedushas Levi*, Parshas Vayeira; Shadal to Bereishis 19:3; Benamozegh, *Eim LaMikra* to Bereishis 26:14.

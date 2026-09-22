@@ -32,9 +32,10 @@ words:
     distinct: the common word for a shochet's knife; Arabic for a knife (Rashi, Rabbeinu Shimshon of Shantz), or Greek (Bartenura), though there is no such Greek usage (Rabbi Yisrael Lipschitz)
 sources:
   - wiaw:90001 "The Sword of Methusaleh" (2018-10-11) https://groups.google.com/g/whats-in-a-word/c/zywT24_4uaM
-authorities: [Midrash, Peirush HaRokeach, Sifsei Kohen, Imrei Noam, Zera Beirech, Radak, Rabbi Shlomo Pappenheim, Malbim, Rabbi Eliyahu HaBachur, Rabbi Avraham Vilner, Rashi, Rabbeinu Shimshon of Shantz, Rabbi Reuven Margolios, Rabbi David Kamin, Ritva, Bartenura, Rabbi Yisrael Lipschitz]
+  - ms:010-the-sword-of-methusaleh.md "The Sword of Methusaleh"
+authorities: [Midrash, Peirush HaRokeach, Sifsei Kohen, Imrei Noam, Zera Beirech, Radak, Rabbi Shlomo Pappenheim, Malbim, Rabbi Eliyahu HaBachur, Rabbi Avraham Vilner, Rashi, Rabbeinu Shimshon of Shantz, Rabbi Reuven Margolios, Rabbi David Kamin, Ritva, Bartenura, Rabbi Yisrael Lipschitz, Tashbetz, Moshe Oussi]
 status: reviewed
-updated: 2026-09-14
+updated: 2026-09-22
 ---
 # Sword and knife: cherev / shelach / sayif / sakin / maacheles / chalaf
 
@@ -101,6 +102,9 @@ the Ineffable Name, with which he killed as many as 98,000 demons in one moment 
 protect mankind, was buried with him, so that when he died his sword also "died"
 (though *Imrei Noam* and *Zera Beirech* say it later came to Avraham).
 
+Moshe Oussi reads *vayeshalchu es kesones hapasim* (Bereishis 37:32) as cutting
+the garment with a sword, from *shelach*.
+
 ### sayif (סייף)
 The common Aramaic word for a sword in the Talmud. The Targumim render *cherev*
 generally as *charba*, sometimes as *sayif* (Targum Yonasan to Shemos 20:22, Shoftim
@@ -109,6 +113,9 @@ plural *sayif*; why that should matter is a mystery to Rabbi Klein. Rabbi Shlomo
 Pappenheim and Rabbi Avraham Vilner (1765 to 1808), a son of the Vilna Gaon, derive
 *sayif* from *sof*, end, as a sword can end a life (forms of *sof* mean death in
 Bereishis 18:23 and Yeshayahu 7:20). The Arabic name Saif also means "sword."
+
+The Tashbetz (*Magen Avos*, Jerusalem 2007, p. 57): *sayif* and *cherev* mean
+exactly the same thing.
 
 ### sakin (סכין)
 Spelled with a sin in its one appearance in Tanach (Mishlei 23:2), with a samech
@@ -137,4 +144,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[The Sword of Methusaleh](https://groups.google.com/g/whats-in-a-word/c/zywT24_4uaM)," *What's in a Word?*, 11 October 2018.
 
-Cited in the essay: Bereishis 10 to 11, 18:23, 22:6, 22:10, 37:32; Shemos 20:22 (Targum Yonasan); Bamidbar 33:55; Shoftim 19:29, 20:2 (Targum Yonasan); Yeshayahu 2:18, 7:20; Yoel 2:8; Mishlei 23:2, 30:14; Iyov 33:18, 36:12; Ezra 1:9; Nechemiah 4:11, 4:17; Divrei HaYamim I 1; Divrei HaYamim II 23:10, 32:5; Yoma 36a (Rashi, Ritva); Zevachim 20a (Rashi); Middos 4:7 (Rabbeinu Shimshon of Shantz); the Midrash, cited by *Peirush HaRokeach* and *Sifsei Kohen*; *Imrei Noam*; *Zera Beirech*; Radak; Malbim, *Sefer HaCarmel* s.v. שלח; Rabbi Shlomo Pappenheim; Rabbi Eliyahu HaBachur, *Meturgeman* s.v. סייף; Rabbi Avraham Vilner; Rashi to Bereishis 22:6; Bartenura; Rabbi Yisrael Lipschitz; Rabbi Reuven Margolios; Rabbi David Kamin.
+Rabbi Reuven Chaim Klein, "The Sword of Methusaleh," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 10 to 11, 18:23, 22:6, 22:10, 37:32; Shemos 20:22 (Targum Yonasan); Bamidbar 33:55; Shoftim 19:29, 20:2 (Targum Yonasan); Yeshayahu 2:18, 7:20; Yoel 2:8; Mishlei 23:2, 30:14; Iyov 33:18, 36:12; Ezra 1:9; Nechemiah 4:11, 4:17; Divrei HaYamim I 1; Divrei HaYamim II 23:10, 32:5; Yoma 36a (Rashi, Ritva); Zevachim 20a (Rashi); Middos 4:7 (Rabbeinu Shimshon of Shantz); the Midrash, cited by *Peirush HaRokeach* and *Sifsei Kohen*; *Imrei Noam*; *Zera Beirech*; Radak; Malbim, *Sefer HaCarmel* s.v. שלח; Rabbi Shlomo Pappenheim; Rabbi Eliyahu HaBachur, *Meturgeman* s.v. סייף; Rabbi Avraham Vilner; Rashi to Bereishis 22:6; Bartenura; Rabbi Yisrael Lipschitz; Rabbi Reuven Margolios; Rabbi David Kamin; Tashbetz, *Magen Avos* p. 57; Bereishis 37:32.

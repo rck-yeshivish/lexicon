@@ -34,9 +34,10 @@ words:
 sources:
   - wiaw:8991 "Vayechi: Boats, Ships and Nautical Rhapsody" (2021-01-02) https://articles.ohr.edu/articles/vayechi-boats-ships-and-nautical-rhapsody
   - wiaw:10940 "Bamidbar: Out in the Wild" (2023-05-20) https://articles.ohr.edu/articles/bamidbar-out-in-the-wild
-authorities: [Rashi, Radak, Ibn Ezra, Ralbag, Malbim, Rav Hirsch, Rabbi Shlomo Pappenheim, Rambam, Abarbanel, Sumchos, Rabbi Yaakov ben Yehudah Chazzan of London, Rabbi Dr. Daniel Sperber, Raphael Patai, Chaim Tawil, Shoresh Yesha]
+  - ms:076-boats-ships-and-nautical-rhapsody.md "Boats, Ships, and Nautical Rhapsody"
+authorities: [Rashi, Radak, Ibn Ezra, Ralbag, Malbim, Rav Hirsch, Rabbi Shlomo Pappenheim, Rambam, Abarbanel, Sumchos, Rabbi Yaakov ben Yehudah Chazzan of London, Rabbi Dr. Daniel Sperber, Raphael Patai, Chaim Tawil, Shoresh Yesha, Menachem Ibn Saruk, the Vilna Gaon]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Boats: oniah / sefinah / rafsodah (and the smaller craft)
 
@@ -113,6 +114,10 @@ Pappenheim traces it to the biliteral א-ן, "where," since a ship goes where th
 water pushes it, so a watcher asks where it is bound; Rav Hirsch (to Bereishis
 16:8) says only that the *oniah* brings a person to a "where."
 
+Abarbanel (to Bereishis 6:14-22): Noach was told to build a *teivah* and not a
+*sefinah* or *oniyah*, since it was not shaped like a ship with mast, sail and
+oars, but like a chest.
+
 ### sefinah (ספינה)
 Once in Tanach, of Yonah's ship (Yonah 1:5), and thereafter the ordinary word,
 across the Mishnah (Berachos 4:1, Shabbos 9:2, Bava Basra 5:1, Keilim 15:1,
@@ -123,6 +128,13 @@ to Keilim 15:1);
 piraton*, pirate ships (Shemos Rabbah 17:5). Why Yonah's vessel is called both
 words in one perek is an open question: Rabbi Mordechai Koster put it to Rabbi
 Klein, who reports that he failed to find a good answer.
+
+Malbim (to Yonah 1:5): *sefinah* is the part of the *oniyah* that is *safun*,
+covered over from above, the ship's lower chamber.
+
+*Aderes Eliyahu* (to Yonah 1:5): here it is a *sefinah*, close to dry land;
+above it was an *oniyah*, fully out in the middle of the sea, which is this
+world, as *derech oniyah belev yam* (Mishlei 30:19).
 
 ### rafsodah (רפסודה) and dovrah (דוברה)
 Rashi and Radak: both are seagoing rafts, beams lashed together (*dovros*,
@@ -162,6 +174,10 @@ boat (*Rosh HaShanah* 23a; *Bava Metzia* 80b), and Rashi (to Shabbos 19b, 156b)
 writes in the name of the Geonim that Aramaic *zuzi* means boat, possibly related
 to *la'zuz*, to move.
 
+Machberes Menachem, under the root ס-ר, puts *sir*, a pot, and *sirah*, a boat,
+under one meaning, and the Targumim use *ilfa*, which can also mean a pot. Rabbi
+Klein suggests this might mean a pot was shaped like a boat.
+
 ## Rendering guidance
 
 - Default: אניה "ship," ספינה "ship" in a Mishnah and "boat" where a smaller
@@ -183,4 +199,6 @@ Rabbi Reuven Chaim Klein, "[Vayechi: Boats, Ships and Nautical Rhapsody](https:/
 
 Rabbi Reuven Chaim Klein, "[Bamidbar: Out in the Wild](https://articles.ohr.edu/articles/bamidbar-out-in-the-wild)," *What's in a Word?*, Ohr Somayach, 20 May 2023.
 
-Cited in the essay: Bereishis 49:13; Yonah 1:5, 1:3; Iyov 9:26 with Rashi, Ibn Ezra, and Ralbag; Melachim I 5:23, 9:26, 10:22, 22:49; Divrei HaYamim II 2:15; Amos 4:2 with Rashi and Radak; Shmuel II 17:28, 19:19; Mishlei 31:14; Tehillim 48:8, 104:26; Yeshayahu 2:16, 23:13, 33:21; Devarim 28:68, 33:19 with Abarbanel; Bamidbar 24:24; Shemos 12:22; Bava Basra 73a; *Sanhedrin* 106a; *Kesubos* 69b; *Rosh HaShanah* 23a; *Bava Metzia* 80b; Shabbos 19b, 32a, 103b, 156b; Bava Kamma 116a; *Tosefta* Bava Basra 4:1 and Succah 3:2; Yerushalmi Bava Basra 5:1; Rambam to Keilim 15:1; *Eitz Chaim*; Rav Hirsch to Bereishis 16:8; Radak, *Sefer HaShorashim*; *Shoresh Yesha*.
+Rabbi Reuven Chaim Klein, "Boats, Ships, and Nautical Rhapsody," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 49:13; Yonah 1:5, 1:3; Iyov 9:26 with Rashi, Ibn Ezra, and Ralbag; Melachim I 5:23, 9:26, 10:22, 22:49; Divrei HaYamim II 2:15; Amos 4:2 with Rashi and Radak; Shmuel II 17:28, 19:19; Mishlei 31:14; Tehillim 48:8, 104:26; Yeshayahu 2:16, 23:13, 33:21; Devarim 28:68, 33:19 with Abarbanel; Bamidbar 24:24; Shemos 12:22; Bava Basra 73a; *Sanhedrin* 106a; *Kesubos* 69b; *Rosh HaShanah* 23a; *Bava Metzia* 80b; Shabbos 19b, 32a, 103b, 156b; Bava Kamma 116a; *Tosefta* Bava Basra 4:1 and Succah 3:2; Yerushalmi Bava Basra 5:1; Rambam to Keilim 15:1; *Eitz Chaim*; Rav Hirsch to Bereishis 16:8; Radak, *Sefer HaShorashim*; *Shoresh Yesha*; *Machberes Menachem* s.v. סר; Malbim to Yonah 1:5; Abarbanel to Bereishis 6:14-22; *Aderes Eliyahu* to Yonah 1:5; Mishlei 30:19.

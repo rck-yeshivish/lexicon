@@ -37,9 +37,10 @@ words:
 sources:
   - wiaw:6916 "My Three Suns (and Moons)" (2016-09-03) https://articles.ohr.edu/articles/my-three-suns-and-moons
   - wiaw:9795 "Matot: The Names of Jericho" (2022-07-23) https://articles.ohr.edu/articles/matot-the-names-of-jericho
-authorities: [Rabbi Aharon Marcus, Menachem Ibn Saruk, Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim]
+  - ms:310-my-three-suns-and-moons.md "My Three Suns (and Moons)"
+authorities: [Rabbi Aharon Marcus, Menachem Ibn Saruk, Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Tashbetz, Rabbi Eliyahu Benamozegh, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Sun and moon: shemesh / chamah / cheres and yareach / levanah / sahar
 
@@ -141,6 +142,17 @@ ritual objects in their cults. The Torah (Vayikra 26:30) refers to the
 criticizes the people for wearing *saharonim*, talisman necklaces shaped like
 the moon.
 
+The Tashbetz (*Magen Avos*, Jerusalem 2007, p. 223): *shemesh* serves Hashem,
+*chamah* makes things hot, *cheres* breaks things, as earthenware must be
+broken, since it can never be fully cleaned.
+
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 38:17): *levanah* is the
+source of Latin *luna*, the v and u sounds interchanging in Latin.
+
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 18:1 and 38:17): *yom*
+sometimes means the sun, and in Sanskrit *jama* means sun; *sahara* has
+Indo-European parallels in Persian *sohre* and Sanskrit *souhra*, meaning moon.
+
 ## Rendering guidance
 
 - Default: "the sun" and "the moon" for all six. The aspects are etymological,
@@ -168,4 +180,6 @@ Rabbi Reuven Chaim Klein, "[My Three Suns (and Moons)](https://articles.ohr.edu/
 
 Rabbi Reuven Chaim Klein, "[Matot: The Names of Jericho](https://articles.ohr.edu/articles/matot-the-names-of-jericho)," *What's in a Word?*, Ohr Somayach, 23 July 2022.
 
-Cited in the essay: Bereishis 1; Vayikra 26:30; Yeshayahu 3:18; Rabbi Aharon Marcus; Menachem Ibn Saruk; Yonah Ibn Janach; Radak; Rabbi Shlomo Pappenheim.
+Rabbi Reuven Chaim Klein, "My Three Suns (and Moons)," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 1; Vayikra 26:30; Yeshayahu 3:18; Rabbi Aharon Marcus; Menachem Ibn Saruk; Yonah Ibn Janach; Radak; Rabbi Shlomo Pappenheim; Tashbetz, *Magen Avos* p. 223; Benamozegh, *Eim LaMikra* to Bereishis 38:17; Benamozegh, *Eim LaMikra* to Bereishis 18:1 and 38:17.

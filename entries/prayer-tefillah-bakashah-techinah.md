@@ -24,9 +24,10 @@ words:
 sources:
   - wiaw:7090 "Say your Prayers" (2017-01-14) https://articles.ohr.edu/articles/say-your-prayers
   - wiaw:11218 "Bo: Filling your Phylacteries" (2024-01-20) https://articles.ohr.edu/articles/bo-filling-your-phylacteries
-authorities: [Targum Onkelos, Rabbi Simcha Maimon, Rabbi Shmuel Laniado, Rabbi Yaakov Tzvi Mecklenburg, Maharal]
+  - ms:072-say-your-prayers.md "Say your Prayers"
+authorities: [Targum Onkelos, Rabbi Simcha Maimon, Rabbi Shmuel Laniado, Rabbi Yaakov Tzvi Mecklenburg, Maharal, Rashi]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Prayer: tefillah / bakashah / techinah
 
@@ -97,6 +98,9 @@ are spelled and sounded so much alike.
   enemy, and so a *bakashah* lets a man standing in a dire situation in This
   World, without leaving where he is, send his prayer through the upper realms
   to the Heavens.
+- The Gemara (*Berachos* 31a), on *lishmoa el harinah ve'el hatefillah*: *rinah*
+  is *tefillah* and *tefillah* is *bakashah*; Rashi explains *tefillah* as
+  prayer of praise and *bakashah* as asking for one's needs.
 
 ### techinah / tachanun (תחינה, תחנון)
 Root ח-נ-ן, from *chen*, favor. Rabbi Yaakov Tzvi Mecklenburg: the one who says
@@ -129,4 +133,6 @@ Rabbi Reuven Chaim Klein, "[Say your Prayers](https://articles.ohr.edu/articles/
 
 Rabbi Reuven Chaim Klein, "[Bo: Filling your Phylacteries](https://articles.ohr.edu/articles/bo-filling-your-phylacteries)," *What's in a Word?*, Ohr Somayach, 20 January 2024.
 
-Cited in the essay: Bereishis 27:22, 48:22 with Targum Onkelos; *Bava Basra* 123a; Shemos 21:22; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* (בראשית כ:יז, ר"פ ואתחנן, פתיחה לעיון תפילה); Rabbi Simcha Maimon; Rabbi Shmuel Laniado; the Maharal, *Be'er HaGolah* §4:2.
+Rabbi Reuven Chaim Klein, "Say your Prayers," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 27:22, 48:22 with Targum Onkelos; *Bava Basra* 123a; Shemos 21:22; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* (בראשית כ:יז, ר"פ ואתחנן, פתיחה לעיון תפילה); Rabbi Simcha Maimon; Rabbi Shmuel Laniado; the Maharal, *Be'er HaGolah* §4:2; *Berachos* 31a with Rashi.

@@ -29,9 +29,10 @@ words:
     distinct: normally the wife's father; Ibn Janach allows it to stretch to brother-in-law, which Radak rejects
 sources:
   - wiaw:9338 "Sort of Siblings" (2021-08-21) https://articles.ohr.edu/articles/sort-of-siblings
-authorities: [Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Wolf Heidenheim, Ibn Ezra, Meshech Chochmah, Rabbi Eliyahu HaBachur, Rabbi Tanchum HaYerushalmi, Ritva, Nimukei Yosef, Rabbi Yaakov Emden, Ibn Janach, Radak, Pri Megadim]
+  - ms:320-sorts-of-siblings.md "Sorts of Siblings"
+authorities: [Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Wolf Heidenheim, Ibn Ezra, Meshech Chochmah, Rabbi Eliyahu HaBachur, Rabbi Tanchum HaYerushalmi, Ritva, Nimukei Yosef, Rabbi Yaakov Emden, Ibn Janach, Radak, Pri Megadim, Rabbi Moshe ben Yitzchak ben HaNesiah, Rabbi Yitzchak of Chernigov]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Sibling-in-law: yavam / yevamah / giss
 
@@ -161,6 +162,11 @@ spouse's sibling's spouse as well, citing Rus 1:15, where Naomi calls Orpah Rus'
 appears in the Mishnah (*Yevamos* 15:4), where *yevamah* is a woman's
 husband's brother's wife.
 
+Rabbi Moshe ben Yitzchak ben HaNesiah of England, in the thirteenth century
+(*Sefer HaShoham* s.v. יבם), quotes what his student Rabbi Yitzchak of Chernigov
+told him orally: that *yabem* means to lie with a woman in the language of
+Tiras, that is, of Rus.
+
 ### giss (גיס)
 Root ג-ס, which does not appear in Tanach at all; the two letters never stand
 adjacent anywhere in it. In Mishnaic Hebrew the two-letter string yields various
@@ -218,4 +224,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Sort of Siblings](https://articles.ohr.edu/articles/sort-of-siblings)," *What's in a Word?*, Ohr Somayach, 21 August 2021.
 
-Cited in the essay: Bereishis 38:8 with Ibn Ezra, and 38:9; Vayikra 3:4 with Targum, 18:16, 20:21; Bamidbar 10:29; Devarim 25:5 with *Meshech Chochmah*; Shoftim 4:11; Yeshayahu 60:4, 66:12 with Targum; Tehillim 10:2, 10:4, 76:13, 101:5 and Mishlei 16:18 with Targum; Rus 1:15; Mishnah *Kilayim* 1:4, *Maasros* 1:3, *Shabbos* 4:1, *Pesachim* 5:10, *Rosh Hashanah* 2:5, *Yevamos* 4:10, 15:4, *Sanhedrin* 3:4, *Avos* 4:7, *Uktzin* 1:6, with the Yerushalmi's text and the Kaufmann manuscript; Chullin 18b with Ritva; Bava Metzia 84a; Zevachim 102a; *Nimukei Yosef*, Sanhedrin 6a in the Alfasi pagination; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. בם; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Devarim 25:5; Rabbi Wolf Heidenheim, *Toras HaElokim* to Bereishis 38:8; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* s.v. יבם and גס, and *Sefer HaTishbi*; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik* (עמ' 74); Rabbi Yaakov Emden; Rabbi Yosef Teomim-Frankel, *Pri Megadim*; Ibn Janach; Radak.
+Rabbi Reuven Chaim Klein, "Sorts of Siblings," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 38:8 with Ibn Ezra, and 38:9; Vayikra 3:4 with Targum, 18:16, 20:21; Bamidbar 10:29; Devarim 25:5 with *Meshech Chochmah*; Shoftim 4:11; Yeshayahu 60:4, 66:12 with Targum; Tehillim 10:2, 10:4, 76:13, 101:5 and Mishlei 16:18 with Targum; Rus 1:15; Mishnah *Kilayim* 1:4, *Maasros* 1:3, *Shabbos* 4:1, *Pesachim* 5:10, *Rosh Hashanah* 2:5, *Yevamos* 4:10, 15:4, *Sanhedrin* 3:4, *Avos* 4:7, *Uktzin* 1:6, with the Yerushalmi's text and the Kaufmann manuscript; Chullin 18b with Ritva; Bava Metzia 84a; Zevachim 102a; *Nimukei Yosef*, Sanhedrin 6a in the Alfasi pagination; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. בם; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Devarim 25:5; Rabbi Wolf Heidenheim, *Toras HaElokim* to Bereishis 38:8; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* s.v. יבם and גס, and *Sefer HaTishbi*; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik* (עמ' 74); Rabbi Yaakov Emden; Rabbi Yosef Teomim-Frankel, *Pri Megadim*; Ibn Janach; Radak; *Sefer HaShoham* s.v. יבם.

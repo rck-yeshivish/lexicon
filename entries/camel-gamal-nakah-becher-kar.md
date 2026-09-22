@@ -28,9 +28,10 @@ words:
     distinct: a prominent kind of camel (Ibn Ezra), any fast-running animal (Radak), or skipping young calves (Rabbi Yosef Bechor Shor)
 sources:
   - wiaw:11619 "Vayishlach: Go Camel" (2024-12-14) https://articles.ohr.edu/articles/vayishlach-go-camel
-authorities: [Menachem Ibn Saruk, Rav Hirsch, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yitzchak Avineri, Radak, Rabbi Shlomo Pappenheim, Rashi, Ibn Janach, Rabbi Saadia Gaon, Ibn Ezra, Rabbi Yehudah Ibn Balaam, Rabbi Tanchum HaYerushalmi, Rabbi Shlomo Ibn Parchon, Rabbi Yosef Kimchi, Rabbi Yosef Bechor Shor, Rabbi Nosson of Rome, Mahari Kara, Targum, Rabbi Ernest Klein, Rabbi Aharon Marcus, Avraham Even-Shoshan, Michael Sokoloff]
+  - ms:053-go-camel.md "Go Camel"
+authorities: [Menachem Ibn Saruk, Rav Hirsch, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yitzchak Avineri, Radak, Rabbi Shlomo Pappenheim, Rashi, Ibn Janach, Rabbi Saadia Gaon, Ibn Ezra, Rabbi Yehudah Ibn Balaam, Rabbi Tanchum HaYerushalmi, Rabbi Shlomo Ibn Parchon, Rabbi Yosef Kimchi, Rabbi Yosef Bechor Shor, Rabbi Nosson of Rome, Mahari Kara, Targum, Rabbi Ernest Klein, Rabbi Aharon Marcus, Avraham Even-Shoshan, Michael Sokoloff, Kli Yakar]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Camel: gamal / nakah / becher / kar
 
@@ -85,6 +86,7 @@ a young camel.
 - Rabbi Shlomo Pappenheim leaves the camel aside and ties *kar* to כ-ר, digging:
   a *kar* is a fertile field, marked out by ditches dug round it, and *karim*
   are the fattened animals that graze there.
+- The Gemara (*Niddah* 31b), as Rashi reads it, uses *kar* to mean a present.
 
 **What kirkaros are** (Yeshayahu 66:20).
 
@@ -124,6 +126,7 @@ All three are live.
   that camels are modest in mating and will not couple before others (Rashi to
   Bereishis 32:16, *Bereishis Rabbah* 76:7): the camel behaves as though it
   knows Hashem repays those who act properly.
+- Kli Yakar (to Bereishis 24:14): *gamal* is from the root of *gomel chessed*.
 
 ## Distinctions
 
@@ -226,4 +229,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Vayishlach: Go Camel](https://articles.ohr.edu/articles/vayishlach-go-camel)," *What's in a Word?*, Ohr Somayach, 14 December 2024.
 
-Cited in the essay: Bereishis 10:2, 12:16, 21:8, 24:17, 31:34, 32:16 with Rashi; Vayikra 11:18; Bamidbar 1:10, 2:20, 7:3, 7:54, 7:59, 10:12, 13:12, 17:23; Shmuel I 1:23, 24:18; Divrei HaYamim I 24:17; Yeshayahu 16:1, 18:5, 28:9, 60:6, 66:20; Yirmiyahu 2:23; Hoshea 1:8; Tehillim 7:5, 13:6, 116:12; Mishlei 31:12; Mishnah Shabbos 5:1, Keilim 23:2, Yoma 3:9, Yevamos 6:4, Shekalim 3:2; Sanhedrin 52a and 107b; Yevamos 108a and 116a; Bava Basra 5b; Kiddushin 70a; Eruvin 100b; Nedarim 20a; Kesubos 22a and 54a; Bava Kamma 80a; Yerushalmi Chagigah 2:1; *Bereishis Rabbah* 76:7; Rabbi Saadia Gaon's Tafsir; *Sefer HeAruch*; *Sifrei HaShorashim* of Ibn Janach and Radak; *Machberes HeAruch*; *HaMadrich HaMaspik*; *Aholei Yehudah*; *Keses HaSofer* to Bereishis 10:2; Even-Shoshan's concordance; Rabbi Ernest Klein; Dr. Michael Sokoloff's dictionary of Jewish Babylonian Aramaic; the Oxford English Dictionary.
+Rabbi Reuven Chaim Klein, "Go Camel," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 10:2, 12:16, 21:8, 24:17, 31:34, 32:16 with Rashi; Vayikra 11:18; Bamidbar 1:10, 2:20, 7:3, 7:54, 7:59, 10:12, 13:12, 17:23; Shmuel I 1:23, 24:18; Divrei HaYamim I 24:17; Yeshayahu 16:1, 18:5, 28:9, 60:6, 66:20; Yirmiyahu 2:23; Hoshea 1:8; Tehillim 7:5, 13:6, 116:12; Mishlei 31:12; Mishnah Shabbos 5:1, Keilim 23:2, Yoma 3:9, Yevamos 6:4, Shekalim 3:2; Sanhedrin 52a and 107b; Yevamos 108a and 116a; Bava Basra 5b; Kiddushin 70a; Eruvin 100b; Nedarim 20a; Kesubos 22a and 54a; Bava Kamma 80a; Yerushalmi Chagigah 2:1; *Bereishis Rabbah* 76:7; Rabbi Saadia Gaon's Tafsir; *Sefer HeAruch*; *Sifrei HaShorashim* of Ibn Janach and Radak; *Machberes HeAruch*; *HaMadrich HaMaspik*; *Aholei Yehudah*; *Keses HaSofer* to Bereishis 10:2; Even-Shoshan's concordance; Rabbi Ernest Klein; Dr. Michael Sokoloff's dictionary of Jewish Babylonian Aramaic; the Oxford English Dictionary; *Niddah* 31b with Rashi; Kli Yakar to Bereishis 24:14.

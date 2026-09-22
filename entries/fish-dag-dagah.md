@@ -36,9 +36,10 @@ words:
     distinct: identified by Rashi as tuna, like sultanit and the Spanish kulyis; called tzachanta in Bavel (Yerushalmi Nedarim 6:3)
 sources:
   - wiaw:9228 "Fishy Words (Part 1/2)" (2021-05-29) https://articles.ohr.edu/articles/fishy-words-part-12
-authorities: [Rashi, Zohar, Rabbeinu Bachaya, Rabbi Avraham bar Chiya HaNasi, Ibn Ezra, Malbim, Rabbi Mordechai Gimpel Yaffe, Menachem Ibn Saruk, Ibn Janach, Ibn Chayyuj, Radak, Rabbi Yehudah Ibn Balaam, Rabbi Shlomo Pappenheim, Rabbi Samson Raphael Hirsch, Rabbi Aharon Marcus, Sefer HeAruch, Rabbeinu Gershom, Rashbam, Rabbi David Golumb, Rabbi Moshe Batzri, Moshe Raanan]
+  - ms:242-fishy-words.md "Fishy Words"
+authorities: [Rashi, Zohar, Rabbeinu Bachaya, Rabbi Avraham bar Chiya HaNasi, Ibn Ezra, Malbim, Rabbi Mordechai Gimpel Yaffe, Menachem Ibn Saruk, Ibn Janach, Ibn Chayyuj, Radak, Rabbi Yehudah Ibn Balaam, Rabbi Shlomo Pappenheim, Rabbi Samson Raphael Hirsch, Rabbi Aharon Marcus, Sefer HeAruch, Rabbeinu Gershom, Rashbam, Rabbi David Golumb, Rabbi Moshe Batzri, Moshe Raanan, Shadal]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Fish: dag / dagah
 
@@ -121,6 +122,8 @@ Chumash; everywhere else the cognates are nouns.
   *dag/dagim*, only *dagah*, *digas*, and *v'yidgu*. (Rabbi Klein himself points
   out the counterexample: *digei* in Bereishis 9:2, apparently the construct of
   *dag*.)
+- Shadal (to Bereishis 48:16): as the verb *dag* means to multiply and be
+  fruitful, *yinon* (Tehillim 72:17) means the fruitful one.
 
 ### the wider family
 - Rabbi Pappenheim also attaches two further words to ד-ג that the other
@@ -188,4 +191,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Fishy Words (Part 1/2)](https://articles.ohr.edu/articles/fishy-words-part-12)," *What's in a Word?*, Ohr Somayach, 29 May 2021.
 
-Cited in the essay: Bereishis 9:2, 48:16; Shemos 7:18 with Ibn Ezra; Bamidbar 11:5 and 22:33 with Rabbeinu Bachaya; Yeshayahu 19:8; Yirmiyahu 6:6 with Rashi, 16:16; Yonah 2:1-2 with Rashi and Malbim; Amos 4:2; Nechemiah 13:16 with Ibn Ezra and the Rasag commentary; Nedarim 51b; Yoma 75a; Succah 18a; Sanhedrin 49a, 100b; Avodah Zarah 29a; Kesubos 60b, 105b; Shabbos 39a, 105b, 110b; Gittin 69b; Horayos 12a; Berachos 44a, 44b; Megillah 6a; Chullin 66a; Bava Basra 73b with Rabbeinu Gershom and Rashbam; Shabbos 10:1 and Eduyos 5:6 (Mishnah); Yerushalmi Nedarim 6:3; Zohar, Beshalach 47b-48a; *Yalkut Shimoni* 550; Rema, Yoreh Deah 13:1; Ibn Ezra, *Sefer Tzachus*; Rabbeinu Bachaya, *Kad HaKemach*; Rabbi Avraham bar Chiya HaNasi, *Higayon HaNefesh*; *Sefer HeAruch* s.v. אברומא; Menachem Ibn Saruk; Ibn Chayyuj; Ibn Janach; Radak; Rabbi Yehudah Ibn Balaam; Rabbi Shlomo Pappenheim; Rav Hirsch; Rabbi Aharon Marcus, *Keses HaSofer* (עמ' עד), and *Barzilai* (עמ' 44, 95-96); Rabbi Mordechai Gimpel Yaffe; Rabbi David Golumb, *Targumna* to Bereishis 1:26; Rabbi Moshe Batzri; Dr. Moshe Raanan on the species identifications.
+Rabbi Reuven Chaim Klein, "Fishy Words," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 9:2, 48:16; Shemos 7:18 with Ibn Ezra; Bamidbar 11:5 and 22:33 with Rabbeinu Bachaya; Yeshayahu 19:8; Yirmiyahu 6:6 with Rashi, 16:16; Yonah 2:1-2 with Rashi and Malbim; Amos 4:2; Nechemiah 13:16 with Ibn Ezra and the Rasag commentary; Nedarim 51b; Yoma 75a; Succah 18a; Sanhedrin 49a, 100b; Avodah Zarah 29a; Kesubos 60b, 105b; Shabbos 39a, 105b, 110b; Gittin 69b; Horayos 12a; Berachos 44a, 44b; Megillah 6a; Chullin 66a; Bava Basra 73b with Rabbeinu Gershom and Rashbam; Shabbos 10:1 and Eduyos 5:6 (Mishnah); Yerushalmi Nedarim 6:3; Zohar, Beshalach 47b-48a; *Yalkut Shimoni* 550; Rema, Yoreh Deah 13:1; Ibn Ezra, *Sefer Tzachus*; Rabbeinu Bachaya, *Kad HaKemach*; Rabbi Avraham bar Chiya HaNasi, *Higayon HaNefesh*; *Sefer HeAruch* s.v. אברומא; Menachem Ibn Saruk; Ibn Chayyuj; Ibn Janach; Radak; Rabbi Yehudah Ibn Balaam; Rabbi Shlomo Pappenheim; Rav Hirsch; Rabbi Aharon Marcus, *Keses HaSofer* (עמ' עד), and *Barzilai* (עמ' 44, 95-96); Rabbi Mordechai Gimpel Yaffe; Rabbi David Golumb, *Targumna* to Bereishis 1:26; Rabbi Moshe Batzri; Dr. Moshe Raanan on the species identifications; Shadal to Bereishis 48:16; Tehillim 72:17.

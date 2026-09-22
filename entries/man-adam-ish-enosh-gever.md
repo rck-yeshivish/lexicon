@@ -25,9 +25,10 @@ words:
     distinct: man as strength, from gevurah, usually the male (Malbim); always male as against female (Ibn Ezra), against which Rabbi Yehuda Leib Edel cites gender-neutral uses; lowest in the Zohar's ranking; the adolescent for Ibn Yachya
 sources:
   - wiaw:8444 "Bereishet - Be a Man" (2019-10-26) https://articles.ohr.edu/articles/bereishet-be-a-man
-authorities: [Zohar, Malbim, Maharal of Prague, Rabbi Shlomo Pappenheim, Rav Hirsch, Vilna Gaon, Radak, Rabbi Shlomo Aharon Wertheimer, Rashi, Rabbi Yaakov Tzvi Mecklenburg, Ibn Ezra, Rabbi Yehuda Leib Edel, Ibn Yachya]
+  - ms:006-be-a-man.md "Be a Man"
+authorities: [Zohar, Malbim, Maharal of Prague, Rabbi Shlomo Pappenheim, Rav Hirsch, Vilna Gaon, Radak, Rabbi Shlomo Aharon Wertheimer, Rashi, Rabbi Yaakov Tzvi Mecklenburg, Ibn Ezra, Rabbi Yehuda Leib Edel, Ibn Yachya, Shadal, Rabbi Yitzchak ben Yosef of Pira]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Man: adam / enosh / ish / gever
 
@@ -79,6 +80,12 @@ The all-encompassing word: singular and plural, male and female (Bereishis
   material, so *adam* names the great distance he can travel toward the
   spiritual.
 - The Zohar (Tazria 48a): *adam* is man at his highest potential.
+- Shadal (to Bereishis 1:26): *adam* is from *adom*, red, because man's reddish
+  skin is left bare where other creatures are covered in hair or fur.
+- Rabbi Yitzchak ben Yosef of Pira, a student of the Rashba (to Bereishis 3:20):
+  the name *Adam* alludes to the four elements. The aleph is *avir*, air; the
+  dalet is *dam*, blood, which boils like fire; the mem is *mayim*, water; and
+  the whole word is *adamah*, earth.
 
 ### enosh (אנוש)
 Usually man in degradation (Yeshayahu 51:12), lost hope (Iyov 14:19), or the
@@ -151,4 +158,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Bereishet - Be a Man](https://articles.ohr.edu/articles/bereishet-be-a-man)," *What's in a Word?*, Ohr Somayach, 26 October 2019.
 
-Cited in the essay: Zohar Tazria 48a and Nasso 141b; Bereishis 1:24, 1:26-27, 7:2; Radak, *Sefer HaShorashim* s.v. אנש; Rashi to Bamidbar 13:3; Ibn Ezra to Shemos 10:11; Yeshayahu 51:12, 40:26, 47:5; Iyov 14:19; Tehillim 8:5, 104:15; Yechezkel 9:11; Shemos 25:20, 26:3; Yirmiyahu 13:18.
+Rabbi Reuven Chaim Klein, "Be a Man," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Zohar Tazria 48a and Nasso 141b; Bereishis 1:24, 1:26-27, 7:2; Radak, *Sefer HaShorashim* s.v. אנש; Rashi to Bamidbar 13:3; Ibn Ezra to Shemos 10:11; Yeshayahu 51:12, 40:26, 47:5; Iyov 14:19; Tehillim 8:5, 104:15; Yechezkel 9:11; Shemos 25:20, 26:3; Yirmiyahu 13:18; Shadal to Bereishis 1:26; Rabbi Yitzchak ben Yosef of Pira to Bereishis 3:20.

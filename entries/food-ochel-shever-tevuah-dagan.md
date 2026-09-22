@@ -47,9 +47,10 @@ words:
 sources:
   - wiaw:8546 "A Biblical Feast" (2020-01-04) https://articles.ohr.edu/articles/a-biblical-feast
   - wiaw:9228 "Fishy Words (Part 1/2)" (2021-05-29) https://articles.ohr.edu/articles/fishy-words-part-12
-authorities: [Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Menachem Ibn Saruk, Ibn Chayyuj, Ibn Janach, Radak, Rav Hirsch, Meiri, Rabbeinu Bachaya, Peirush HaRokeach, Rabbi Yitzchok of Volozhin, Ramban, Rabbi Yehuda HaChassid, Rabbi Avraham Rivlin, Rabbi Yechezkel Weinfeld, Targum Onkelos, Targum Yonasan]
+  - ms:069-a-biblical-feast.md "A Biblical Feast"
+authorities: [Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Menachem Ibn Saruk, Ibn Chayyuj, Ibn Janach, Radak, Rav Hirsch, Meiri, Rabbeinu Bachaya, Peirush HaRokeach, Rabbi Yitzchok of Volozhin, Ramban, Rabbi Yehuda HaChassid, Rabbi Avraham Rivlin, Rabbi Yechezkel Weinfeld, Targum Onkelos, Targum Yonasan, Seder Berachos]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Food: ochel / mazon / yevul / tevuah / tenuvah / dagan / bar / shever
 
@@ -131,6 +132,9 @@ they have been ripened, reaped, and heaped into a smooth pile (see Rashi to
   father many more little fish.
 - Menachem Ibn Saruk, Ibn Janach and Radak all see *dagan* as deriving from its
   own triliteral root, ד-ג-ן.
+- *Dagan* is the fruit of the threshing floor: in the ear the grain is called
+  *tevuah*, and once threshed and winnowed, *dagan* (*Seder Berachos*, at the
+  beginning).
 
 ### bar (בר)
 - Pappenheim: the biliteral ב-ר is separating and excluding, which gives *bar*
@@ -211,4 +215,6 @@ Rabbi Reuven Chaim Klein, "[A Biblical Feast](https://articles.ohr.edu/articles/
 
 Rabbi Reuven Chaim Klein, "[Fishy Words (Part 1/2)](https://articles.ohr.edu/articles/fishy-words-part-12)," *What's in a Word?*, Ohr Somayach, 29 May 2021.
 
-Cited in the essay: *Chuppas Eliyahu*; *Pirkei Rabbeinu HaKadosh*; Bereishis 41:35, 41:49, 41:56, 42:1, 45:23; Shemos 3:2, 24:17; Devarim 2:28, 7:13, 32:13, 32:42; Yehoshua 5:11; Yeshayahu 57:19; Yirmiyahu 46:10; Amos 8:5; Tehillim 145:15; Mishlei 3:14, 10:3, 10:16, 18:20; Yerushalmi *Kilayim* 7:5; *Berachos* 47b with Rashi; Targum Onkelos; Targum Yonasan to Amos 8:5; Radak, *Sefer HaShorashim*, and to Yehoshua 5:11, Bereishis 41:56, Amos 8:5; Meiri to Mishlei 10:3; Ramban to Bereishis 41:49; Rabbeinu Bachaya on the Yosef narrative; *Peirush HaRokeach*; Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Menachem Ibn Saruk; Ibn Chayyuj; Ibn Janach; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. תבואה\דגן; Rav Hirsch; Rabbi Yehuda HaChassid; Rabbi Yitzchok of Volozhin; Rabbi Avraham Rivlin; Rabbi Yechezkel Weinfeld; the King James Version.
+Rabbi Reuven Chaim Klein, "A Biblical Feast," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: *Chuppas Eliyahu*; *Pirkei Rabbeinu HaKadosh*; Bereishis 41:35, 41:49, 41:56, 42:1, 45:23; Shemos 3:2, 24:17; Devarim 2:28, 7:13, 32:13, 32:42; Yehoshua 5:11; Yeshayahu 57:19; Yirmiyahu 46:10; Amos 8:5; Tehillim 145:15; Mishlei 3:14, 10:3, 10:16, 18:20; Yerushalmi *Kilayim* 7:5; *Berachos* 47b with Rashi; Targum Onkelos; Targum Yonasan to Amos 8:5; Radak, *Sefer HaShorashim*, and to Yehoshua 5:11, Bereishis 41:56, Amos 8:5; Meiri to Mishlei 10:3; Ramban to Bereishis 41:49; Rabbeinu Bachaya on the Yosef narrative; *Peirush HaRokeach*; Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Menachem Ibn Saruk; Ibn Chayyuj; Ibn Janach; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. תבואה\דגן; Rav Hirsch; Rabbi Yehuda HaChassid; Rabbi Yitzchok of Volozhin; Rabbi Avraham Rivlin; Rabbi Yechezkel Weinfeld; the King James Version; *Seder Berachos*, beginning.

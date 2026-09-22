@@ -25,9 +25,10 @@ words:
 sources:
   - wiaw:8272 "Shavuot Special Feature!" (2019-06-08) https://articles.ohr.edu/articles/shavuot-special-feature
   - wiaw:10940 "Bamidbar: Out in the Wild" (2023-05-20) https://articles.ohr.edu/articles/bamidbar-out-in-the-wild
-authorities: [Rashi, Rabbi Yaakov Tzvi Mecklenburg, Maharal, Moshav Zekanim, Zohar, Sefer HaChochmah, Rabbi Elazar Rokeach of Worms, Rabbeinu Bachaya, Vilna Gaon, Rabbi Pinchas Horowitz of Frankfurt, Netziv, Malbim, Rabbi Moshe Feinstein, Rabbi Shmuel Jaffa-Ashkenazi of Istanbul, Rabbi Shlomo Pappenheim, Rabbi Wolf Heidenheim, Ibn Ezra, Rabbi Yoel Ibn Shuaib, Rav Hirsch, Rav Saadia Gaon, Dunash ibn Labrat, Raavan, Rabbi Yonah Isaac Neiman of Makow, Rabbi Shmuel Shmelka Horowitz of Nikolsburg, Rabbi Kalonymus Kalman Epstein of Krakow, Rabbi Yaakov Yosef of Ostrog, Rabbi Shimon Maryles of Jaroslaw, Sifsei Chachamim, Bartenura, Targum, Menachem Ibn Saruk, Radak]
+  - ms:293-thats-amore.md "That’s Amore!"
+authorities: [Rashi, Rabbi Yaakov Tzvi Mecklenburg, Maharal, Moshav Zekanim, Zohar, Sefer HaChochmah, Rabbi Elazar Rokeach of Worms, Rabbeinu Bachaya, Vilna Gaon, Rabbi Pinchas Horowitz of Frankfurt, Netziv, Malbim, Rabbi Moshe Feinstein, Rabbi Shmuel Jaffa-Ashkenazi of Istanbul, Rabbi Shlomo Pappenheim, Rabbi Wolf Heidenheim, Ibn Ezra, Rabbi Yoel Ibn Shuaib, Rav Hirsch, Rav Saadia Gaon, Dunash ibn Labrat, Raavan, Rabbi Yonah Isaac Neiman of Makow, Rabbi Shmuel Shmelka Horowitz of Nikolsburg, Rabbi Kalonymus Kalman Epstein of Krakow, Rabbi Yaakov Yosef of Ostrog, Rabbi Shimon Maryles of Jaroslaw, Sifsei Chachamim, Bartenura, Targum, Menachem Ibn Saruk, Radak, Yalkut Shorashim, Rabbi Eliyahu Benamozegh, Rabbi Yitzchak bar Yakar, Rabbeinu Efrayim ben Shimshon, Rabbi Levi Yitzchak of Berditchev]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Speech: dibbur / amirah
 
@@ -93,6 +94,19 @@ Root ד-ב-ר.
   idea.
 - Malbim, at odds with this: *amirah* is absolute while *dibbur* is a suggestion
   or proposition, not necessarily absolute.
+- *Dibah*, slander or malicious speech, does not seem to be related to *dibbur*:
+  the biliteralists trace it to ד-ב and the triliteralists to ד-ב-ב (*Yalkut
+  Shorashim*, Rav Hirsch). Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis
+  37:2) relates it instead to ז-ב, *zav*, flowing, dalet and zayin interchanging
+  as between Hebrew and Aramaic: speech is likened to liquid falling or dripping
+  down, Hashem's word to rain and snow (Yeshayahu 55:10), Moshe's words to dew
+  (Devarim 32:2; see Yechezkel 21:2, Iyov 29:22), so *dibah* is malice that
+  flows and drips from the speaker's mouth.
+- Rabbi Yitzchak bar Yakar (on the Yom Kippur prayer *umah nesaper lefanecha
+  shochen shechakim*): *sippur* is the kind of saying that implies the most
+  knowledge on the speaker's part.
+- HaKsav VeHaKabbalah (to Devarim 4:13): *dibbur* is the general term for
+  speech, which takes in all the others.
 
 ### amirah (אמירה)
 Root א-מ-ר.
@@ -122,6 +136,12 @@ Root א-מ-ר.
 - The Vilna Gaon (1720 to 1797, to Bamidbar 22:5, second version) *seems* to run
   the other way and understand *dibbur* as implying more of a form of
   communication than *amirah* does.
+- Rabbeinu Efrayim (to Devarim 32:1): the heavens were created with *dibbur*
+  (*bidvar Hashem shamayim naasu*, Tehillim 33:6) and the earth with *amirah*
+  (*ki lasheleg yomar hevei aretz*, Iyov 37:6), since Hashem created the earth
+  from snow (see *Pirkei DeRabbi Eliezer* ch. 3).
+- Kedushas Levi (to Bereishis 21:1): *amirah* is more intimate and quiet,
+  *dibbur* out in the open.
 
 ### maamar (מאמר) against dibrah (דיברה)
 Why *Asarah Maamaros* for creation (*Avos* 5:1) and *Aseres HaDibros* at Sinai?
@@ -262,4 +282,6 @@ Rabbi Reuven Chaim Klein, "[Shavuot Special Feature!](https://articles.ohr.edu/a
 
 Rabbi Reuven Chaim Klein, "[Bamidbar: Out in the Wild](https://articles.ohr.edu/articles/bamidbar-out-in-the-wild)," *What's in a Word?*, Ohr Somayach, 20 May 2023.
 
-Cited in the essay: Bereishis 34:3, 42:30; Shemos 6:2, 13:1, 19:3, 32:7; Vayikra 10:19, 21:1; Bamidbar 12:1, 15:37, 22:5; Devarim 2:16, 26:17-18, 32:1; Yeshayahu 17:6; Tehillim 19:4, 47:4, 94:4; *Avos* 5:1; *Makkos* 11a; *Berachos* 6a; Zohar, *Idra Rabbah* (Naso) 132b, Bereishis 239b and Shemos 161a; Rashi to Shemos 6:2, 19:3, 32:7, Vayikra 10:19, Bamidbar 12:1 and Devarim 26:17-18; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* (בר' יב:יג, שמות ו:ב, ריש פ' אמור); Maharal, *Nesivos Olam*; *Moshav Zekanim* to Shemos 6:2; *Sefer HaChochmah*; Rabbeinu Bachaya to Shemos 13:1; the Vilna Gaon, including to Bamidbar 22:5; Rabbi Pinchas Horowitz of Frankfurt; the Netziv, *Haamek Davar* to Vayikra 1:1; Malbim; Rabbi Moshe Feinstein; Rabbi Shmuel Jaffa-Ashkenazi; Rabbi Shlomo Pappenheim, *Yerios Shlomo*, with Rabbi Wolf Heidenheim's notes; Ibn Ezra and Rabbi Yoel Ibn Shuaib to Tehillim 19:4; Ibn Ezra to Devarim 26:17; Rav Hirsch; Rav Saadia Gaon; Dunash ibn Labrat; *Sifsei Chachamim* to Devarim 2:16; Bartenura to *Shekalim* 5:3; the Targumim; Raavan; Rabbi Yonah Isaac Neiman of Makow on *Akdamus*; Rabbi Shmuel Shmelka Horowitz of Nikolsburg; Rabbi Kalonymus Kalman Epstein of Krakow; Rabbi Yaakov Yosef of Ostrog; Rabbi Shimon Maryles of Jaroslaw; Menachem Ibn Saruk; Radak.
+Rabbi Reuven Chaim Klein, "That’s Amore!," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 34:3, 42:30; Shemos 6:2, 13:1, 19:3, 32:7; Vayikra 10:19, 21:1; Bamidbar 12:1, 15:37, 22:5; Devarim 2:16, 26:17-18, 32:1; Yeshayahu 17:6; Tehillim 19:4, 47:4, 94:4; *Avos* 5:1; *Makkos* 11a; *Berachos* 6a; Zohar, *Idra Rabbah* (Naso) 132b, Bereishis 239b and Shemos 161a; Rashi to Shemos 6:2, 19:3, 32:7, Vayikra 10:19, Bamidbar 12:1 and Devarim 26:17-18; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* (בר' יב:יג, שמות ו:ב, ריש פ' אמור); Maharal, *Nesivos Olam*; *Moshav Zekanim* to Shemos 6:2; *Sefer HaChochmah*; Rabbeinu Bachaya to Shemos 13:1; the Vilna Gaon, including to Bamidbar 22:5; Rabbi Pinchas Horowitz of Frankfurt; the Netziv, *Haamek Davar* to Vayikra 1:1; Malbim; Rabbi Moshe Feinstein; Rabbi Shmuel Jaffa-Ashkenazi; Rabbi Shlomo Pappenheim, *Yerios Shlomo*, with Rabbi Wolf Heidenheim's notes; Ibn Ezra and Rabbi Yoel Ibn Shuaib to Tehillim 19:4; Ibn Ezra to Devarim 26:17; Rav Hirsch; Rav Saadia Gaon; Dunash ibn Labrat; *Sifsei Chachamim* to Devarim 2:16; Bartenura to *Shekalim* 5:3; the Targumim; Raavan; Rabbi Yonah Isaac Neiman of Makow on *Akdamus*; Rabbi Shmuel Shmelka Horowitz of Nikolsburg; Rabbi Kalonymus Kalman Epstein of Krakow; Rabbi Yaakov Yosef of Ostrog; Rabbi Shimon Maryles of Jaroslaw; Menachem Ibn Saruk; Radak; *Yalkut Shorashim*; Benamozegh, *Eim LaMikra* to Bereishis 37:2; Yeshayahu 55:10; Devarim 32:2; Yechezkel 21:2; Iyov 29:22; Rabbi Yitzchak bar Yakar, Yom Kippur liturgy; Rabbeinu Efrayim to Devarim 32:1; Tehillim 33:6; Iyov 37:6; *Pirkei DeRabbi Eliezer*; HaKsav VeHaKabbalah to Devarim 4:13; Kedushas Levi to Bereishis 21:1.

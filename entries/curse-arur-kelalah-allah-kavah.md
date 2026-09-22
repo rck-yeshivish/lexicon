@@ -25,9 +25,10 @@ words:
 sources:
   - wiaw:7049 "Clarifying a Collection of Curses" (2016-12-17) https://articles.ohr.edu/articles/clarifying-a-collection-of-curses
   - wiaw:11413 "Shavuos: Getting Dirty" (2024-06-08) https://articles.ohr.edu/articles/shavuos-getting-dirty
-authorities: [Vilna Gaon, Rabbi Yaakov Tzvi Mecklenburg, Malbim, Radak, Rav Hirsch]
+  - ms:267-a-collection-of-curses.md "A Collection of Curses"
+authorities: [Vilna Gaon, Rabbi Yaakov Tzvi Mecklenburg, Malbim, Radak, Rav Hirsch, Rabbeinu Efrayim ben Shimshon, Shadal, Shadal]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Curse: arur / kelalah / allah / kavah
 
@@ -68,6 +69,8 @@ word; Shemos 22:27 uses both of them in a single pasuk.
   of a curse in one specific thing of the victim's, his body or his property,
   and he links it to *me'erah*, decrease (Devarim 28:20), the shrinking of a
   man's yield.
+- Shadal (to Bereishis 12:3): *arur* is said not to a man's face, *kelalah* to
+  his face.
 
 ### kelalah (קללה)
 - The Vilna Gaon: *kelalah* is colloquially "curse" but literally a diminutive,
@@ -93,11 +96,22 @@ word; Shemos 22:27 uses both of them in a single pasuk.
   describes a conflict in which one person wishes ill on another, much as
   *elach* describes the conflict or incompatibility created when one element is
   introduced into another.
+- Shadal (to Bereishis 24:41): *alah* is an oath with a curse, *shevuah* an oath
+  even without one, both in Hashem's Name, and *alah* derives from *Eloah*,
+  which Rabbi Klein takes to mean calling for closer Divine scrutiny of a man,
+  which almost always ends in judging him unfavorably. Shadal (to Shemos 22:27):
+  *kelalah* is to a man's face and *arur* not, but both were borrowed and
+  widened until they mean much the same; or *arur* calls on Hashem to do him
+  harm, while *kelalah* is any words showing how little one thinks of him.
 
 ### kavah (קבה)
 Malbim: a general curse declaring a man and everything of his cursed, uttered in
 public with his name stated explicitly (compare the naming of Bamidbar 1:17).
 *Arur* carries no such connotation of public naming.
+
+Rabbeinu Efrayim (to Bamidbar 22:6): *arah* is a limited curse, since Balak
+wanted only some of Yisrael cursed, but Bilam, in his hatred, said *kavah*, an
+all-embracing curse, wanting to curse more of them.
 
 ## Rendering guidance
 
@@ -127,4 +141,6 @@ Rabbi Reuven Chaim Klein, "[Clarifying a Collection of Curses](https://articles.
 
 Rabbi Reuven Chaim Klein, "[Shavuos: Getting Dirty](https://articles.ohr.edu/articles/shavuos-getting-dirty)," *What's in a Word?*, Ohr Somayach, 8 June 2024.
 
-Cited in the essay: Shemos 22:27; Bereishis 12:3; Devarim 28:20 (*me'erah*); Bamidbar 1:17; the Vilna Gaon, *Aderes Eliyahu* to Shemos 22:27; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Malbim, *Sefer HaCarmel* (ח"א ערך ארה לי\קבה לי); Radak; Rav Hirsch to Tehillim 14:3.
+Rabbi Reuven Chaim Klein, "A Collection of Curses," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 22:27; Bereishis 12:3; Devarim 28:20 (*me'erah*); Bamidbar 1:17; the Vilna Gaon, *Aderes Eliyahu* to Shemos 22:27; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Malbim, *Sefer HaCarmel* (ח"א ערך ארה לי\קבה לי); Radak; Rav Hirsch to Tehillim 14:3; Rabbeinu Efrayim to Bamidbar 22:6; Shadal to Bereishis 12:3; Shadal to Bereishis 24:41 and Shemos 22:27.

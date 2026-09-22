@@ -17,9 +17,10 @@ words:
     distinct: the Aramaic equivalent, Targum's rendering of every ben; also means outside or separate, the child separated from his mother at birth (Rabbi Shlomo Pappenheim), which is why a get avoids it (Rabbi Yaakov Margolis); in Mishlei 31:2 Hebrew for choicest (Malbim)
 sources:
   - wiaw:8257 "Boys and Bars" (2019-05-25) https://articles.ohr.edu/articles/boys-and-bars
-authorities: [Malbim, Rabbi Yaakov Margolis, Maharshal, Maharik, Rema, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Meir Simcha of Dvinsk, Rabbi David Ovadiah, Rabbi Alexander Sender Feuerstein, Rabbi Meir Mintzberg, Rabbi Yehuda ben Kalonymos of Speyer]
+  - ms:227-boys-and-bars.md "Boys and Bars"
+authorities: [Malbim, Rabbi Yaakov Margolis, Maharshal, Maharik, Rema, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Meir Simcha of Dvinsk, Rabbi David Ovadiah, Rabbi Alexander Sender Feuerstein, Rabbi Meir Mintzberg, Rabbi Yehuda ben Kalonymos of Speyer, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Son: ben / bar
 
@@ -50,6 +51,9 @@ and *binah*/*tevunah* (understanding), which are the products of contemplation
 and thought. He holds that *bas* (daughter) is also from ב-ן and should really
 be spelled *banas*, as it is in other Semitic languages, the nun generally
 dropping out in the singular and returning in the plural *banos*.
+
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 4:1): *pal* or *bal* means
+son in Assyrian and Babylonian, and the name *Hevel* comes from it.
 
 ### bar (בר)
 The Aramaic word, at home in Aramaic texts. Wherever *ben* appears in Tanach the
@@ -135,4 +139,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Boys and Bars](https://articles.ohr.edu/articles/boys-and-bars)," *What's in a Word?*, Ohr Somayach, 25 May 2019.
 
-Cited in the essay: Shemos 12:43 with *HaKsav VeHaKabbalah*; Mishlei 31:2 with Malbim; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. בר and בן; Rabbi Yaakov Margolis, *Seder HaGet*; the Maharshal; the Maharik; Rema, *Even HaEzer* 126:30 and 129:7; Rabbi Eliyahu HaBachur, *Meturgeman*; Rabbi David Ovadiah, in the name of Rabbi Meir Simcha of Dvinsk; Rabbi Alexander Sender Feuerstein; Rabbi Meir Mintzberg; Rabbi Yehuda ben Kalonymos of Speyer, *Yichusei Tannaim V'Amoraim*.
+Rabbi Reuven Chaim Klein, "Boys and Bars," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 12:43 with *HaKsav VeHaKabbalah*; Mishlei 31:2 with Malbim; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. בר and בן; Rabbi Yaakov Margolis, *Seder HaGet*; the Maharshal; the Maharik; Rema, *Even HaEzer* 126:30 and 129:7; Rabbi Eliyahu HaBachur, *Meturgeman*; Rabbi David Ovadiah, in the name of Rabbi Meir Simcha of Dvinsk; Rabbi Alexander Sender Feuerstein; Rabbi Meir Mintzberg; Rabbi Yehuda ben Kalonymos of Speyer, *Yichusei Tannaim V'Amoraim*; Benamozegh, *Eim LaMikra* to Bereishis 4:1.

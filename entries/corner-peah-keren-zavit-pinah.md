@@ -43,9 +43,10 @@ words:
 sources:
   - wiaw:10884 "Vayakhel-Pekudai: Turning the Corner (Part 1/2)" (2023-03-18) https://articles.ohr.edu/articles/vayakhel-pekudai-turning-the-corner-part-12
   - wiaw:10883 "Vayikra: Turning the Corner (Part 2/2)" (2023-03-25) https://articles.ohr.edu/articles/vayikra-turning-the-corner-part-22
-authorities: [Rabbi Shlomo Pappenheim, Malbim, Radak, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Rabbi David Chaim Chelouche, Menachem Ibn Saruk, Ibn Janach, Rashba, Rabbi Yitzchak Zev Yadler, Rabbi Yishmael ben Chachamon, Targum Onkelos, Rashi, Mahari Kara, Shadal, Mordechai Zer-Kavod, Rabbi Benzion Chaim Lubetzky, Avi Hurvitz]
+  - ms:158-turning-the-corner.md "Turning the Corner"
+authorities: [Rabbi Shlomo Pappenheim, Malbim, Radak, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Rabbi David Chaim Chelouche, Menachem Ibn Saruk, Ibn Janach, Rashba, Rabbi Yitzchak Zev Yadler, Rabbi Yishmael ben Chachamon, Targum Onkelos, Rashi, Mahari Kara, Shadal, Mordechai Zer-Kavod, Rabbi Benzion Chaim Lubetzky, Avi Hurvitz, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Corner: peah / keren / zavit / pinah / miktzoa / katzeh
 
@@ -244,6 +245,11 @@ is not a generic word for corner but a corner whose angle intersects with
 another line, a shape said to look like the head of an ox; it also resembles the
 letter aleph, since *aleph* literally means "ox."
 
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 47:2): *katzin* comes from
+*katzeh*, because the *katzin* is the visible face of an armed force, and so
+*pa'asei Moav*. He suggests that *keren* as something important (for example
+Eichah 2:3) comes from the same idea.
+
 ## Rendering guidance
 
 - Default renderings: *peah* "corner" when it is a corner and "side/direction"
@@ -281,4 +287,6 @@ Rabbi Reuven Chaim Klein, "[Vayakhel-Pekudai: Turning the Corner (Part 1/2)](htt
 
 Rabbi Reuven Chaim Klein, "[Vayikra: Turning the Corner (Part 2/2)](https://articles.ohr.edu/articles/vayikra-turning-the-corner-part-22)," *What's in a Word?*, Ohr Somayach, 25 March 2023.
 
-Cited in the essay: Shemos 25:26, 26:23, 27:2, 27:9, 37:13, 38:2, 38:5; Vayikra 4:7, 8:15, 19:9, 19:27, 23:22; Bamidbar 24:17, 35:5; Shoftim 20:2; Shmuel I 14:38; Melachim I 6:1; Yeshayahu 44:13; Yirmiyahu 48:45, 51:26; Yechezkel 41:15, 42:3, 43:20; Amos 3:12 with Rashi and Radak; Tzefaniah 1:16; Zecharyah 9:15 with Rashi, Radak and Mahari Kara; Tehillim 118:22, 144:12; Esther 9:9; Divrei HaYamim II 26:15; Nechemiah 3:19 with Rashi, 3:24 with *Daas Mikra*; Mishnah *Peah* 1:3, *Kilayim* 2:7, 3:3, 6:7, *Yoma* 5:5, *Zevachim* 5:3, 6:2, 6:5, 11:3, *Tamid* 1:4, 2:5, 3:3, 4:1, 7:3, *Middos* 2:5, 3:2-3, 4:3, 4:5, *Keilim* 17:9-10, 18:2, *Bava Basra* 10:8 with the commentary of Rabbi Yishmael ben Chachamon to *Bava Basra* 175b; *Berachos* 53b; *Kiddushin* 66a; *Shabbos* 123b; Rashba responsa vol. 4 §278; Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Mecklenburg, *HaKsav VeHaKabbalah* to Shemos 27:2 and Vayikra 4:7; Shadal to Shemos 25:31; Malbim, *Sefer HaCarmel* s.v. קרן; Menachem Ibn Saruk; Ibn Janach and Radak; Rabbi Yehoshua Steinberg; Rabbi Benzion Chaim Lubetzky; Rabbi David Chaim Chelouche, *Ohr Chadash* (שמות עמ' שעט); Rabbi Yitzchak Zev Yadler; Rabbi Chaim Ozer Grodzenski as reported by Rabbi Chaim Pinchas Scheinberg; Dr. Avi Hurvitz.
+Rabbi Reuven Chaim Klein, "Turning the Corner," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 25:26, 26:23, 27:2, 27:9, 37:13, 38:2, 38:5; Vayikra 4:7, 8:15, 19:9, 19:27, 23:22; Bamidbar 24:17, 35:5; Shoftim 20:2; Shmuel I 14:38; Melachim I 6:1; Yeshayahu 44:13; Yirmiyahu 48:45, 51:26; Yechezkel 41:15, 42:3, 43:20; Amos 3:12 with Rashi and Radak; Tzefaniah 1:16; Zecharyah 9:15 with Rashi, Radak and Mahari Kara; Tehillim 118:22, 144:12; Esther 9:9; Divrei HaYamim II 26:15; Nechemiah 3:19 with Rashi, 3:24 with *Daas Mikra*; Mishnah *Peah* 1:3, *Kilayim* 2:7, 3:3, 6:7, *Yoma* 5:5, *Zevachim* 5:3, 6:2, 6:5, 11:3, *Tamid* 1:4, 2:5, 3:3, 4:1, 7:3, *Middos* 2:5, 3:2-3, 4:3, 4:5, *Keilim* 17:9-10, 18:2, *Bava Basra* 10:8 with the commentary of Rabbi Yishmael ben Chachamon to *Bava Basra* 175b; *Berachos* 53b; *Kiddushin* 66a; *Shabbos* 123b; Rashba responsa vol. 4 §278; Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Mecklenburg, *HaKsav VeHaKabbalah* to Shemos 27:2 and Vayikra 4:7; Shadal to Shemos 25:31; Malbim, *Sefer HaCarmel* s.v. קרן; Menachem Ibn Saruk; Ibn Janach and Radak; Rabbi Yehoshua Steinberg; Rabbi Benzion Chaim Lubetzky; Rabbi David Chaim Chelouche, *Ohr Chadash* (שמות עמ' שעט); Rabbi Yitzchak Zev Yadler; Rabbi Chaim Ozer Grodzenski as reported by Rabbi Chaim Pinchas Scheinberg; Dr. Avi Hurvitz; Benamozegh, *Eim LaMikra* to Bereishis 47:2; Eichah 2:3.

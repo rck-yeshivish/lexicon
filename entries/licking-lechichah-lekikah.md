@@ -18,9 +18,10 @@ words:
     nk: יֶלֶק
 sources:
   - wiaw:11448 "Balak: Lick It Up" (2024-07-20) https://articles.ohr.edu/articles/balak-lick-it-up
-authorities: [Menachem Ibn Saruk, Ibn Chayyuj, Ibn Janach, Radak, Ibn Parchon, Rabbi Shlomo of Urbino, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Yaakov Berger, Rabbi Yaakov Yehudah Zilberberg, Rabbi Asher Weiser, Ibn Ezra, Yefet ben Ali, Baal HaTurim, Wilhelm Gesenius]
+  - ms:261-lick-it-up.md "Lick It Up"
+authorities: [Menachem Ibn Saruk, Ibn Chayyuj, Ibn Janach, Radak, Ibn Parchon, Rabbi Shlomo of Urbino, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Yaakov Berger, Rabbi Yaakov Yehudah Zilberberg, Rabbi Asher Weiser, Ibn Ezra, Yefet ben Ali, Baal HaTurim, Wilhelm Gesenius, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Licking: lechichah / lekikah
 
@@ -136,6 +137,9 @@ parallel, English "lick" means both to smite or defeat an enemy (an idiom based
 on Bamidbar 22:4) and to pass the tongue over something, and linguists would
 probably call that resemblance to ל-ק-ה and ל-ק-ק pure chance.
 
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 38:17): Greek *leicho* and
+Latin *lingere* derive from the Hebrew word for licking.
+
 ## Rendering guidance
 
 - Bamidbar 22:4 (*yelachaku*, twice): "lick away" or "lick clean." Do not soften
@@ -159,4 +163,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Balak: Lick It Up](https://articles.ohr.edu/articles/balak-lick-it-up)," *What's in a Word?*, Ohr Somayach, 20 July 2024.
 
-Cited in the essay: Bamidbar 22:4; Michah 7:17; Yeshayahu 49:23; Tehillim 72:9; Shoftim 7:5-7; Melachim I 18:38, 21:19, 22:38; Vayikra 1:15 and 5:8; Shmuel I 19:20; Nachum 3:16; Yoel 1:4 and 2:25; Bava Kamma 6a and Yerushalmi Bava Kamma 6:5; *Esther Rabbah* 8:7; *Tanchuma*, Ki Seitzei 9; *Pesikta D'Rav Kahana*, Zachor 8; *Machberes Menachem*; Ibn Parchon, *Machberes HeAruch*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim* 175; Targum to Malachi 3:19; *Midrash Aggadah* to Balak; *Baal HaTurim*; *Sefer Russiana*; *Gesenius' Hebrew Grammar*, Introduction §1:4; Ibn Ezra to Yoel 1:4 citing Yefet ben Ali.
+Rabbi Reuven Chaim Klein, "Lick It Up," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bamidbar 22:4; Michah 7:17; Yeshayahu 49:23; Tehillim 72:9; Shoftim 7:5-7; Melachim I 18:38, 21:19, 22:38; Vayikra 1:15 and 5:8; Shmuel I 19:20; Nachum 3:16; Yoel 1:4 and 2:25; Bava Kamma 6a and Yerushalmi Bava Kamma 6:5; *Esther Rabbah* 8:7; *Tanchuma*, Ki Seitzei 9; *Pesikta D'Rav Kahana*, Zachor 8; *Machberes Menachem*; Ibn Parchon, *Machberes HeAruch*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim* 175; Targum to Malachi 3:19; *Midrash Aggadah* to Balak; *Baal HaTurim*; *Sefer Russiana*; *Gesenius' Hebrew Grammar*, Introduction §1:4; Ibn Ezra to Yoel 1:4 citing Yefet ben Ali; Benamozegh, *Eim LaMikra* to Bereishis 38:17.

@@ -16,9 +16,10 @@ words:
     distinct: darker than choshech (Radak), with no sun, and no moon or stars either (Malbim); or a covering, something tangible that blocks the light from reaching the eye (Ibn Parchon, Edel)
 sources:
   - wiaw:7123 "Turning off the Lights" (2017-02-04) https://articles.ohr.edu/articles/turning-off-the-lights
-authorities: [Rashi, Radak, Malbim, Rav Saadia Gaon, Rambam, Chizkuni, Yaavetz, Vilna Gaon, Ramban, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Ibn Parchon, Rabbi Baruch HaLevi Epstein, Rabbi Yehuda Leib Edel, Rabbi Shlomo Aharon Wertheimer]
+  - ms:109-turning-off-the-lights.md "Turning off the Lights"
+authorities: [Rashi, Radak, Malbim, Rav Saadia Gaon, Rambam, Chizkuni, Yaavetz, Vilna Gaon, Ramban, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Ibn Parchon, Rabbi Baruch HaLevi Epstein, Rabbi Yehuda Leib Edel, Rabbi Shlomo Aharon Wertheimer, Chasam Sofer]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Darkness: choshech / afeilah
 
@@ -77,6 +78,10 @@ and it decides how *bara choshech* in Yeshayahu 45:7 is heard.
 The unmarked word. Rashi (to Shemos 10:21): the "materializing" of the darkness
 means that this plague was not merely a prolonged night but darker than night.
 
+Chasam Sofer (*Toras Moshe* to Bereishis 1:2): before Hashem created the world
+there was only He and light, so for a mixture of light and darkness at the start
+of Creation, darkness itself had first to be created.
+
 ### afeilah (אפילה)
 Radak (*Sefer HaShorashim*): *afeilah* is darker than *choshech*. Rabbi Shlomo
 Aharon Wertheimer finds an allusion to that way of defining *afeilah* in the
@@ -106,4 +111,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Turning off the Lights](https://articles.ohr.edu/articles/turning-off-the-lights)," *What's in a Word?*, Ohr Somayach, 4 February 2017.
 
-Cited in the essay: Shemos 10:21 to 23 with Rashi and Ramban; Yeshayahu 45:7; Radak, *Sefer HaShorashim*; the Midrash giving the darkness the thickness of a *dinar*; the Pesach Haggadah, *me'afeilah l'or gadol*.
+Rabbi Reuven Chaim Klein, "Turning off the Lights," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 10:21 to 23 with Rashi and Ramban; Yeshayahu 45:7; Radak, *Sefer HaShorashim*; the Midrash giving the darkness the thickness of a *dinar*; the Pesach Haggadah, *me'afeilah l'or gadol*; Chasam Sofer, *Toras Moshe* to Bereishis 1:2.

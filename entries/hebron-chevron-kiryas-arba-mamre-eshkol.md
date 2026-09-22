@@ -24,9 +24,10 @@ words:
     distinct: another name of the city per the Midrash, from Avraham's ally Eshkol; spelled without a vav at first and with one afterwards, for the cluster of grapes (Rabbi Chaim Kanievsky)
 sources:
   - wiaw:9416 "The City of Four" (2021-10-30) https://articles.ohr.edu/articles/the-city-of-four
-authorities: [Bereishis Rabbah, Rashi, Radak, Ibn Ezra, Daas Zekeinim, Rabbeinu Efrayim, Rabbeinu Bachaya Ibn Chalava, Rabbi Yehuda Ibn Chalava, Rabbi Avraham Maimuni, Rabbi Avraham Menachem Rappaport, Targum Yonasan, Rabbi Dr. Moshe Zidel, Rabbi Chaim Kanievsky, Rabbi David Zvi Hoffmann, Peshitta]
+  - ms:029-the-city-of-four-and-more.md "The City of Four and More"
+authorities: [Bereishis Rabbah, Rashi, Radak, Ibn Ezra, Daas Zekeinim, Rabbeinu Efrayim, Rabbeinu Bachaya Ibn Chalava, Rabbi Yehuda Ibn Chalava, Rabbi Avraham Maimuni, Rabbi Avraham Menachem Rappaport, Targum Yonasan, Rabbi Dr. Moshe Zidel, Rabbi Chaim Kanievsky, Rabbi David Zvi Hoffmann, Peshitta, Rabbi Shes ben Yefes]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Hebron: Chevron / Kiryas Arba / Mamre / Eshkol
 
@@ -138,6 +139,11 @@ and Aharon, had a son Chevron (Shemos 6:18, Bamidbar 3:19, Divrei HaYamim I 5:28
 forging the *chibbur* between Israel and their Father in Heaven and eating
 *kodashim* in *chaburos*.
 
+Rabbi Shes ben Yefes (*Chemdas HaChemdah* to Bereishis 23:2): *Shalem* is
+another name for Chevron. At Bereishis 14:18 the same work takes *Shalem* as
+Yerushalayim, with Rashi and others, and at 33:18 it seems unsure whether Shalem
+is Yerushalayim or another place in Eretz Yisrael.
+
 ### Kiryas Arba (קרית ארבע)
 The Torah names it as Sarah's place of death, "and Sarah died in Kiryas Arba,
 which is Chevron" (Bereishis 23:2), and repeats the identification (Bereishis
@@ -183,4 +189,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[The City of Four](https://articles.ohr.edu/articles/the-city-of-four)," *What's in a Word?*, Ohr Somayach, 30 October 2021.
 
-Cited in the essay: Bereishis 13:18, 14:13, 14:24, 23:2, 23:8, 23:19, 25:9, 35:27, 37:14, 49:29-30, 50:13; Shemos 6:18; Bamidbar 3:19, 13:22-24, 23:10; Devarim 1:28; Yehoshua 10:3, 14:15, 15:13-14, 20:7, 21:11; Shoftim 1:10; Divrei HaYamim I 5:28, 6:3, 23:12; *Bereishis Rabbah* 58:4 and 88:13; Targum Yonasan to Devarim 1:28; *Tosefta d'Targum* to Yehoshua 15:13-14 and 21:11; Rabbi Chaim Kanievsky, *Taama d'Kra* to Bereishis 23:8; *Peshitta* to Yehoshua 15:13-14 and 21:11.
+Rabbi Reuven Chaim Klein, "The City of Four and More," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 13:18, 14:13, 14:24, 23:2, 23:8, 23:19, 25:9, 35:27, 37:14, 49:29-30, 50:13; Shemos 6:18; Bamidbar 3:19, 13:22-24, 23:10; Devarim 1:28; Yehoshua 10:3, 14:15, 15:13-14, 20:7, 21:11; Shoftim 1:10; Divrei HaYamim I 5:28, 6:3, 23:12; *Bereishis Rabbah* 58:4 and 88:13; Targum Yonasan to Devarim 1:28; *Tosefta d'Targum* to Yehoshua 15:13-14 and 21:11; Rabbi Chaim Kanievsky, *Taama d'Kra* to Bereishis 23:8; *Peshitta* to Yehoshua 15:13-14 and 21:11; *Chemdas HaChemdah* to Bereishis 14:18, 23:2, 33:18.

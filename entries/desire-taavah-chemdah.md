@@ -22,9 +22,10 @@ words:
 sources:
   - wiaw:7292 "Deleterious Desires" (2017-06-10) https://articles.ohr.edu/articles/deleterious-desires
   - wiaw:9346 "Seasoning the Land" (2021-08-28) https://articles.ohr.edu/articles/seasoning-the-land
-authorities: [Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Malbim, Rabbi Tzvi Yehuda Kook, Rashi]
+  - ms:239-deleterious-desires.md "Deleterious Desires"
+authorities: [Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Malbim, Rabbi Tzvi Yehuda Kook, Rashi, Rabbi Eliyahu Benamozegh, Shadal, the Dubno Maggid, Rabbi Shlomo Aharon Wertheimer]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Desire: taavah / chemdah / chefetz
 
@@ -72,6 +73,10 @@ the basis for that reading seems to lie in the Torah's word choice here, since
 *taavah* almost exclusively conjures intimacy-related desire while other desires
 take other words. (In the prevalent Yiddish pronunciation the word is *tayvuh*.)
 
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bamidbar 31:8): the name of Evi, one
+of the Midianite kings killed in the war with Midian, is related to *ivah*,
+*taavah*.
+
 ### chemdah (חמדה)
 Root ח-מ-ד.
 - The Vilna Gaon: desire for something whose attainment is not itself a bodily
@@ -90,6 +95,9 @@ desirer's recognition of the desired thing's goodness while *taavah* in certain
 ways ignores the thing and fixes on the desirer's own predetermined craving for
 it.
 
+Shadal (to Shemos 20:14): *chemdah* is desire for what is not within one's
+reach.
+
 ### chefetz (חפץ)
 Root ח-פ-ץ.
 - The Vilna Gaon, contrasting three words: *taavah* sensual, *chemdah* monetary,
@@ -107,6 +115,15 @@ Root ח-פ-ץ.
   *chafetzim* in Mishnaic Hebrew (see Rashi to Koheles 3:1).
 
 The full treatment is in the *ratzon* / *chefetz* entry.
+
+HaKsav VeHaKabbalah (to Devarim 21:12): *cheshek* is a desire without logic.
+
+*Ohel Yaakov* of the Dubno Maggid (to Bereishis 34:19): *cheshek* is a
+utilitarian desire, wanting a thing for the gain one sees in it, while *chefetz*
+is wanting it for no quality in the thing but from a strong inner pull without
+reason; this explains why the Torah moves from *cheshek* to *chefetz* in
+Shechem's desire for Dinah. Rabbi Wertheimer (s.v. חשק, חפץ, רצון) says others
+hold the opposite.
 
 ## Rendering guidance
 
@@ -137,4 +154,6 @@ Rabbi Reuven Chaim Klein, "[Deleterious Desires](https://articles.ohr.edu/articl
 
 Rabbi Reuven Chaim Klein, "[Seasoning the Land](https://articles.ohr.edu/articles/seasoning-the-land)," *What's in a Word?*, Ohr Somayach, 28 August 2021.
 
-Cited in the essay: Bamidbar 11:4 and 11:10; Koheles 3:1 with Rashi; Chagigah 11b; the Vilna Gaon on *taavah*, *chemdah* and *chefetz* (to Mishlei 2:16, and *Aderes Eliyahu* to Devarim 12); Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. דם and רץ; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Devarim 12:1; Malbim on *taavah* and *chemdah*, and on *chefetz* and *ratzon* (*Sefer HaCarmel* vol. 1 s.v. חמד and vol. 2 s.v. תאוה, and *Yair Ohr*, os aleph siman 7); Rabbi Tzvi Yehuda Kook on *chefetz* and *ratzon*.
+Rabbi Reuven Chaim Klein, "Deleterious Desires," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bamidbar 11:4 and 11:10; Koheles 3:1 with Rashi; Chagigah 11b; the Vilna Gaon on *taavah*, *chemdah* and *chefetz* (to Mishlei 2:16, and *Aderes Eliyahu* to Devarim 12); Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. דם and רץ; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Devarim 12:1; Malbim on *taavah* and *chemdah*, and on *chefetz* and *ratzon* (*Sefer HaCarmel* vol. 1 s.v. חמד and vol. 2 s.v. תאוה, and *Yair Ohr*, os aleph siman 7); Rabbi Tzvi Yehuda Kook on *chefetz* and *ratzon*; HaKsav VeHaKabbalah to Devarim 21:12; Benamozegh, *Eim LaMikra* to Bamidbar 31:8; Shadal to Shemos 20:14; *Ohel Yaakov* to Bereishis 34:19; Wertheimer s.v. חשק, חפץ, רצון.

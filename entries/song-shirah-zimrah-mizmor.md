@@ -20,9 +20,10 @@ words:
     distinct: the psalm title; beside shir it is the tune and shir the words, so shir mizmor and mizmor shir tell which comes first (Pappenheim, Rabbi Shimshon Pincus); Ibn Ezra holds the two headings mean the same
 sources:
   - wiaw:8681 "PESACH: Sing and Song" (2020-04-04) https://articles.ohr.edu/articles/pesach-sing-and-song
+  - ms:224-sing-and-song.md "Sing and Song"
 authorities: [Ibn Ezra, Radak, Sforno, Vilna Gaon, Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Yehuda Leib Edel, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yitzchak Hutner, Chasam Sofer, Rabbi Yaakov Haber, Rabbi Immanuel Frances, Rashi, Rabbeinu Efrayim ben Shimshon, Rabbi Nachman of Breslov, Rabbi Elimelech of Lizhensk (Noam Elimelech), Maharal of Prague, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Rabbi Shimon Dov Ber Analak, Rabbi Shimshon Pincus, Cyrus Gordon]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Song: shirah / zimrah / mizmor
 
@@ -144,6 +145,9 @@ Root ז-מ-ר, which in the verb *zomer* also means cutting down or pruning
   104:15) and glad people sing (*zemer*).
 - Rabbi Nachman of Breslov (1772-1810) reads it as a special *niggun* of Eretz
   Yisrael that Yaakov sent to the Egyptian ruler.
+- *Noam Elimelech* (*Likutei Shoshanah* to Tehillim 68:5): *shirah* is feminine,
+  *nukva*, and *zimrah* masculine, *dechura*; in the future *shirah*, as *shir*,
+  will become masculine.
 
 ### mizmor (מזמור)
 Root ז-מ-ר.
@@ -193,4 +197,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[PESACH: Sing and Song](https://articles.ohr.edu/articles/pesach-sing-and-song)," *What's in a Word?*, Ohr Somayach, 4 April 2020.
 
-Cited in the essay: Bereishis 43:11 with Rashi and Rabbeinu Efrayim ben Shimshon, 47:28 with *Noam Elimelech*, and 49:2; Shemos 19:1 with *Noam Elimelech*; Vayikra 25:3; Bamidbar 24:3; Devarim 31:19; Shoftim 5:12; Shmuel I 6:12 with Avodah Zarah 24b; Yeshayahu 3:19; Tehillim 27:6 with the Vilna Gaon in *Be'er Avraham*, 33:2 with Rav Hirsch, 48:1 with Ibn Ezra, 104:15, and 105:2 with Ibn Ezra and Sforno; Divrei HaYamim I 16:9 with Radak; Mishnah Shabbos 5:1; Bava Metzia 25a; Malbim, *Sefer HaCarmel* s.v. זמר/שיר, and *Yair Ohr* s.v. zayin, os 9; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. רנה/שירה/זמרה; Rabbi Yehuda Leib Edel, *Redifei Maya* s.v. זמר; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Yitzchak Hutner; the Maharal of Prague; Rabbi Moshe Shapiro; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. שר, and *Yerios Shlomo* p. 530 onwards; Rabbi Shimon Dov Ber Analak, *Imrei RaShaD*, *Shem MiShimon*, os shin; Rabbi Immanuel Frances; Rabbi Yaakov Haber, with the Chasam Sofer; Rabbi Nachman of Breslov; Rabbi Shimshon Pincus, *Shabbos Malkesa*; Cyrus Gordon.
+Rabbi Reuven Chaim Klein, "Sing and Song," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 43:11 with Rashi and Rabbeinu Efrayim ben Shimshon, 47:28 with *Noam Elimelech*, and 49:2; Shemos 19:1 with *Noam Elimelech*; Vayikra 25:3; Bamidbar 24:3; Devarim 31:19; Shoftim 5:12; Shmuel I 6:12 with Avodah Zarah 24b; Yeshayahu 3:19; Tehillim 27:6 with the Vilna Gaon in *Be'er Avraham*, 33:2 with Rav Hirsch, 48:1 with Ibn Ezra, 104:15, and 105:2 with Ibn Ezra and Sforno; Divrei HaYamim I 16:9 with Radak; Mishnah Shabbos 5:1; Bava Metzia 25a; Malbim, *Sefer HaCarmel* s.v. זמר/שיר, and *Yair Ohr* s.v. zayin, os 9; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. רנה/שירה/זמרה; Rabbi Yehuda Leib Edel, *Redifei Maya* s.v. זמר; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Yitzchak Hutner; the Maharal of Prague; Rabbi Moshe Shapiro; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. שר, and *Yerios Shlomo* p. 530 onwards; Rabbi Shimon Dov Ber Analak, *Imrei RaShaD*, *Shem MiShimon*, os shin; Rabbi Immanuel Frances; Rabbi Yaakov Haber, with the Chasam Sofer; Rabbi Nachman of Breslov; Rabbi Shimshon Pincus, *Shabbos Malkesa*; Cyrus Gordon; *Noam Elimelech*, *Likutei Shoshanah* to Tehillim 68:5.

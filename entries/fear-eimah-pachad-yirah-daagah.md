@@ -25,9 +25,10 @@ words:
 sources:
   - wiaw:7018 "Afraid of Fright or Ready to Fight" (2016-11-26) https://articles.ohr.edu/articles/afraid-of-fright-or-ready-to-fight
   - wiaw:9228 "Fishy Words (Part 1/2)" (2021-05-29) https://articles.ohr.edu/articles/fishy-words-part-12
-authorities: [Rashi, Ibn Ezra, Rabbi Shlomo Aharon Wertheimer, Beis HaLevi, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Ibn Janach, Radak]
+  - ms:115-afraid-of-fright-or-ready-to-fight.md "Afraid of Fright or Ready to Fight"
+authorities: [Rashi, Ibn Ezra, Rabbi Shlomo Aharon Wertheimer, Beis HaLevi, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Ibn Janach, Radak, Abarbanel, Abudarham]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Fear: eimah / pachad / yirah (morah) / daagah
 
@@ -66,6 +67,11 @@ Either way, Rabbi Klein observes, a man reacts differently to hearing news of a
 threat than to meeting one, and Hebrew registers those differing fight-or-flight
 responses in two otherwise synonymous words.
 
+Abudarham (on the Rosh HaShanah *machzor*): *eimah* is more intense than
+*pachad*, so only the loftier parts of creation, the earth, the heavens, the
+great sea creatures and man, have *eimah*, while all other creatures have
+*pachad*.
+
 ### pachad (פחד)
 Root פ-ח-ד.
 - Rashi (Devarim 11:25), distinguishing it from *morah*, repeats the far/near
@@ -86,6 +92,7 @@ Root י-ר-א.
 - The Beis HaLevi (Rabbi Yosef Dov Soloveitchik, parashas Vayigash): *yirah* is
   fear of what one anticipates *might* happen, as against *daagah*, worry over
   what one foresees *will* happen.
+- Abarbanel (to Devarim 11:25): *mora* and *chitas* are synonyms.
 
 ### daagah (דאגה)
 Root ד-א-ג.
@@ -135,4 +142,6 @@ Rabbi Reuven Chaim Klein, "[Afraid of Fright or Ready to Fight](https://articles
 
 Rabbi Reuven Chaim Klein, "[Fishy Words (Part 1/2)](https://articles.ohr.edu/articles/fishy-words-part-12)," *What's in a Word?*, Ohr Somayach, 29 May 2021.
 
-Cited in the essay: Rashi to Shemos 15:16 and Devarim 11:25; Ibn Ezra to Shemos 23:27; Rashi to Yoma 75a and Gittin 70a; Mishlei 12:25; Beis HaLevi (Rabbi Yosef Dov Soloveitchik), parashas Vayigash; Rabbi Shlomo Aharon Wertheimer on *pachad*, *morah*, and *daagah*; Rabbi Shlomo Pappenheim on the biliteral ד-ג; Menachem Ibn Saruk, Ibn Janach and Radak on ד-א-ג.
+Rabbi Reuven Chaim Klein, "Afraid of Fright or Ready to Fight," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Rashi to Shemos 15:16 and Devarim 11:25; Ibn Ezra to Shemos 23:27; Rashi to Yoma 75a and Gittin 70a; Mishlei 12:25; Beis HaLevi (Rabbi Yosef Dov Soloveitchik), parashas Vayigash; Rabbi Shlomo Aharon Wertheimer on *pachad*, *morah*, and *daagah*; Rabbi Shlomo Pappenheim on the biliteral ד-ג; Menachem Ibn Saruk, Ibn Janach and Radak on ד-א-ג; Abarbanel to Devarim 11:25; Abudarham, Rosh HaShanah.

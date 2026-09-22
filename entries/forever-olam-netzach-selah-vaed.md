@@ -27,9 +27,10 @@ words:
     nk: עַד
 sources:
   - wiaw:7633 "Forever and Ever" (2018-02-10) https://articles.ohr.edu/articles/forever-and-ever
-authorities: [Rashi, Rabbi Menachem Ibn Saruk, Rabbi Yosef Kimchi, Maharsha, Rabbi Avraham ben Ezriel of Vienna, Rabbi Avraham ben Natan HaYarchi, Abudraham, Rabbi Yitzchak Abuhab, Rabbi Shlomo Aharon Wertheimer, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Radak, Malbim, Meiri, Ibn Ezra, Rabbi Aviad Sar-Shalom Basilea, Rabbi Yaakov Emden, Rabbi Chaim Friedlander]
+  - ms:130-forever-and-ever.md "Forever and Ever"
+authorities: [Rashi, Rabbi Menachem Ibn Saruk, Rabbi Yosef Kimchi, Maharsha, Rabbi Avraham ben Ezriel of Vienna, Rabbi Avraham ben Natan HaYarchi, Abudraham, Rabbi Yitzchak Abuhab, Rabbi Shlomo Aharon Wertheimer, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Radak, Malbim, Meiri, Ibn Ezra, Rabbi Aviad Sar-Shalom Basilea, Rabbi Yaakov Emden, Rabbi Chaim Friedlander, Shadal]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Forever: olam / netzach / selah / va'ed
 
@@ -68,6 +69,8 @@ Root ע-ל-ם.
   master's free status.
 - Rabbi Shlomo Pappenheim reads *ne'elam*, "hidden," from the same *al*: what is
   above one's range of perception is hidden from him.
+- Shadal (to Shemos 15:18): *olam* is a point in time that is unknown,
+  *ne'elam*, whether future or past.
 
 ### netzach (נצח)
 Root נ-צ-ח.
@@ -76,6 +79,12 @@ Root נ-צ-ח.
   permanence, a state that never alters.
 - Mecklenburg derives it from *tzach*, "pristine, pure," the final state of
   being the soul reaches for.
+- Rabbi Shlomo Pappenheim (*Cheshek Shlomo* s.v. צח): from *netzach* as
+  remaining in one's state comes *nitzuach*, victory, remaining in strength over
+  another, as *umenatzchim aleihem* (Divrei HaYamim II 2:1, 2:17). It differs
+  from *oz*: *oz* is passive, not being undone by another's force, so two
+  opposing sides can both have *oz*; *nitzuach* is active, undoing the other's
+  force and bringing it under one's own, so there cannot be two victors.
 
 ### selah (סלה)
 Root ס-ל-ה.
@@ -144,4 +153,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Forever and Ever](https://articles.ohr.edu/articles/forever-and-ever)," *What's in a Word?*, Ohr Somayach, 10 February 2018.
 
-Cited in the essay: Shemos 21:6 with Rashi; Eruvin 54a with Rashi and Maharsha; Tehillim 3:3 with Rashi, Meiri, Radak, Malbim and Ibn Ezra; Chavakuk 3:3 (Malbim); Iyov 28:16 (*suleh*); Targum Yonasan, Aquilas and the Peshitta; Radak, *Sefer HaShorashim*; Ibn Saruk, *Machberes Menachem*; Rabbi Yosef Kimchi, *Sefer HaGalui*; Rabbi Avraham ben Ezriel of Vienna; Rabbi Avraham ben Natan HaYarchi; Abudraham; Rabbi Yitzchak Abuhab; Rabbi Shlomo Aharon Wertheimer; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Rabbi Shlomo Pappenheim; Rabbi Aviad Sar-Shalom Basilea, *Emunas Chachamim*; Rabbi Yaakov Emden; Rabbi Chaim Friedlander.
+Rabbi Reuven Chaim Klein, "Forever and Ever," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 21:6 with Rashi; Eruvin 54a with Rashi and Maharsha; Tehillim 3:3 with Rashi, Meiri, Radak, Malbim and Ibn Ezra; Chavakuk 3:3 (Malbim); Iyov 28:16 (*suleh*); Targum Yonasan, Aquilas and the Peshitta; Radak, *Sefer HaShorashim*; Ibn Saruk, *Machberes Menachem*; Rabbi Yosef Kimchi, *Sefer HaGalui*; Rabbi Avraham ben Ezriel of Vienna; Rabbi Avraham ben Natan HaYarchi; Abudraham; Rabbi Yitzchak Abuhab; Rabbi Shlomo Aharon Wertheimer; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Rabbi Shlomo Pappenheim; Rabbi Aviad Sar-Shalom Basilea, *Emunas Chachamim*; Rabbi Yaakov Emden; Rabbi Chaim Friedlander; Pappenheim, *Cheshek Shlomo* s.v. צח; Divrei HaYamim II 2:1, 2:17; Shadal to Shemos 15:18.

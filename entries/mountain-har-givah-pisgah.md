@@ -20,9 +20,10 @@ words:
     distinct: the uncommon third word, taller than an ordinary mountain and so the one fit to be a lookout (the commentators)
 sources:
   - toi:behar-making-mountains-out-of-hills "Behar: Making Mountains Out of Hills" (2019-05-15) https://blogs.timesofisrael.com/behar-making-mountains-out-of-hills
-authorities: [the Vilna Gaon, Radak, Malbim, Rabbi Eliyahu Margules]
+  - ms:306-making-mountains-out-of-hills.md "Making Mountains out of Hills"
+authorities: [the Vilna Gaon, Radak, Malbim, Rabbi Eliyahu Margules, Dr. Chaim Tawil, Ibn Ezra, Bereishis Rabbah, Rabbi Eliyahu Benamozegh]
 status: draft
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 # Mountain: har / givah (pisgah)
 
@@ -80,6 +81,20 @@ conception she is the recipient of what the male force bestows; after it, she
 becomes the influencer with respect to the child she carries, and in taking on
 the work of sustaining that child she is more a *har* than she has ever been.
 
+Dr. Chaim Tawil: the Aramaic *tur*, mountain, is related to *tzurim* (Bamidbar
+23:9), tzadi and tes interchanging.
+
+Ibn Ezra (to Tehillim 148:9): mountains are called *har* because, as a pregnant
+woman, *harah*, carries a child within, mountains hold resources such as metals
+within them (see Devarim 8:9; Iyov 28:2).
+
+Chazal liken *har* to *herayon*, pregnancy (*Bereishis Rabbah* 68:2).
+
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Devarim 12:2): *har* is also related
+to *horaah*, teaching, since a mountain is a landmark seen from afar that shows
+the traveller his way. So *har* can stand for both parent and teacher, alluding
+to Chazal's likening of one's parents to one's teachers.
+
 ### givah (גבעה)
 
 Raised ground that stays flat on top. Here the female, receptive force: it
@@ -123,4 +138,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Behar: Making Mountains Out of Hills](https://blogs.timesofisrael.com/behar-making-mountains-out-of-hills/)," *What's in a Word?*, 15 May 2019. Ohr Somayach does not carry this one; the book manuscript has it as *Making Mountains out of Hills*, filed under Eikev.
 
-Cited in the essay: Shir HaShirim 2:8; Yirmiyahu 31:21; *Rosh Hashanah* 11a; *Berachos* 61a; Radak to Tehillim 114:4; the Vilna Gaon, *Aderes Eliyahu* to Yeshayahu 2:2, Chavakuk 2:6 and Shir HaShirim 2:8; Malbim to Yeshayahu 2:2 and *Yair Ohr*; *Emunas Eliezer*, Purim ch. 4, end of §5; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim*, s.v. הר/גבעה/פסגה.
+Rabbi Reuven Chaim Klein, "Making Mountains out of Hills," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shir HaShirim 2:8; Yirmiyahu 31:21; *Rosh Hashanah* 11a; *Berachos* 61a; Radak to Tehillim 114:4; the Vilna Gaon, *Aderes Eliyahu* to Yeshayahu 2:2, Chavakuk 2:6 and Shir HaShirim 2:8; Malbim to Yeshayahu 2:2 and *Yair Ohr*; *Emunas Eliezer*, Purim ch. 4, end of §5; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim*, s.v. הר/גבעה/פסגה; Tawil; Bamidbar 23:9; Ibn Ezra to Tehillim 148:9; Devarim 8:9; Iyov 28:2; *Bereishis Rabbah* 68:2; Benamozegh, *Eim LaMikra* to Devarim 12:2.

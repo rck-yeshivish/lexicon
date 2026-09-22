@@ -30,9 +30,10 @@ words:
 sources:
   - wiaw:8594 "Take Your Spoils" (2020-02-08) https://articles.ohr.edu/articles/take-your-spoils
   - wiaw:8422 "Return to Sender: The True Meaning of Teshuva" (2019-10-05) https://articles.ohr.edu/articles/return-to-sender-the-true-meaning-of-teshuva
-authorities: [Rashi, Rabbi Avraham Bedersi HaPenini, Maharal, Radak, Rabbi Yaakov Chaim Sofer, Vilna Gaon, Malbim, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Targum Onkelos, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Baruch HaLevi Epstein, Menachem Ibn Saruk, Ibn Janach, Rabbi Shmuel Ibn Tibbon]
+  - ms:117-take-your-booty.md "Take Your Booty"
+authorities: [Rashi, Rabbi Avraham Bedersi HaPenini, Maharal, Radak, Rabbi Yaakov Chaim Sofer, Vilna Gaon, Malbim, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Targum Onkelos, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Baruch HaLevi Epstein, Menachem Ibn Saruk, Ibn Janach, Rabbi Shmuel Ibn Tibbon, the Rosh, Rabbi Eliyahu Benamozegh, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Spoils of war: shalal / baz (bizah) / malkoach / shevi / ad
 
@@ -96,6 +97,13 @@ coin *shelilah*/*shelili* for "negative," because plundered property is
 *chiyuv*/*chiyuvi* for "positive," because an obligation is a reality that
 really exists.
 
+*Shalal* is also a stitch of sewing (*Parah* 12:9; *Moed Katan* 22b), and the
+Rosh to *Parah* there ties it to *shalal*, plunder.
+
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bamidbar 31:26): *shalal* is related
+to nakedness (Michah 1:8), and so means jewellery and clothing, what leaves a
+person bare when taken.
+
 ### baz, bizah (בז, בזה)
 - The Vilna Gaon (*Biur HaGra* to Yeshayahu 10:6) writes that plunder typically
   occurs in stages: first the valuables are taken, and those are *shalal*; then
@@ -134,6 +142,11 @@ really exists.
   inanimate booty (*shalal*): inanimate objects are taken by hand or physical
   force, while living creatures are often taken verbally, by persuasion or
   command.
+- Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bamidbar 31:26): *shevi* is related
+  to ש-ב, returning, because it is the people and things taken from the enemy
+  that are *not* returned. So too *shovav* (Yeshayahu 57:17) is one who has lost
+  his way and longs to return to his land and family, like the captive who wants
+  to go home.
 
 ### ad (עד)
 "Binyamin is a wolf that tears; in the morning he devours *ad* and in the
@@ -186,4 +199,6 @@ Rabbi Reuven Chaim Klein, "[Take Your Spoils](https://articles.ohr.edu/articles/
 
 Rabbi Reuven Chaim Klein, "[Return to Sender: The True Meaning of Teshuva](https://articles.ohr.edu/articles/return-to-sender-the-true-meaning-of-teshuva)," *What's in a Word?*, Ohr Somayach, 5 October 2019.
 
-Cited in the essay: Bereishis 49:27; Shemos 3:5, 15:9; Bamidbar 31, 31:11, 31:27; Divrei HaYamim II 15:11; Rashi to Bereishis 49:27 and Bamidbar 31:11; Rabbi Avraham Bedersi HaPenini, *Chosam Tochnis* s.v. שבי, בזה, מלקוח שלל and עד; Maharal, *Gur Aryeh* to Bamidbar 31:11; Radak, *Sefer HaShorashim* s.v. לקח; Rabbi Yaakov Chaim Sofer; Rav Hirsch to Bamidbar 31:11; Malbim, *Sefer HaCarmel* s.v. בזה and שלל, and *Yair Ohr* on שלל/בז; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. של, בז and עד; Rabbi Shmuel Ibn Tibbon, Hebrew translation of the *Moreh Nevuchim*, and his *Biur Milim Zaros* s.v. שוללות; *Biur HaGra* to Yeshayahu 10:6 and Divrei HaYamim II 14:13; Menachem Ibn Saruk; Ibn Janach; Rabbi Baruch HaLevi Epstein; Rabbi Eliyahu HaBachur, *Meturgeman* s.v. עד; Targum Onkelos to Shemos 25:15; Targum to Yeshayahu 47:11; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Bereishis 49:27 and Bamidbar 8:4.
+Rabbi Reuven Chaim Klein, "Take Your Booty," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 49:27; Shemos 3:5, 15:9; Bamidbar 31, 31:11, 31:27; Divrei HaYamim II 15:11; Rashi to Bereishis 49:27 and Bamidbar 31:11; Rabbi Avraham Bedersi HaPenini, *Chosam Tochnis* s.v. שבי, בזה, מלקוח שלל and עד; Maharal, *Gur Aryeh* to Bamidbar 31:11; Radak, *Sefer HaShorashim* s.v. לקח; Rabbi Yaakov Chaim Sofer; Rav Hirsch to Bamidbar 31:11; Malbim, *Sefer HaCarmel* s.v. בזה and שלל, and *Yair Ohr* on שלל/בז; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. של, בז and עד; Rabbi Shmuel Ibn Tibbon, Hebrew translation of the *Moreh Nevuchim*, and his *Biur Milim Zaros* s.v. שוללות; *Biur HaGra* to Yeshayahu 10:6 and Divrei HaYamim II 14:13; Menachem Ibn Saruk; Ibn Janach; Rabbi Baruch HaLevi Epstein; Rabbi Eliyahu HaBachur, *Meturgeman* s.v. עד; Targum Onkelos to Shemos 25:15; Targum to Yeshayahu 47:11; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Bereishis 49:27 and Bamidbar 8:4; *Parah* 12:9 with the Rosh; *Moed Katan* 22b; Benamozegh, *Eim LaMikra* to Bamidbar 31:26; Yeshayahu 57:17; Benamozegh, *Eim LaMikra* to Bamidbar 31:26; Michah 1:8.

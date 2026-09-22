@@ -24,9 +24,10 @@ sources:
   - wiaw:7499 "Stones and High Altars" (2017-11-25) https://articles.ohr.edu/articles/stones-and-high-altars
   - wiaw:9338 "Sort of Siblings" (2021-08-21) https://articles.ohr.edu/articles/sort-of-siblings
   - wiaw:10810 "Parshas Bo: Please Stand Up" (2023-01-28) https://articles.ohr.edu/articles/parshas-bo-please-stand-up
-authorities: [Rashi, Ramban, Radak, Rabbi Yonah Ibn Janach, Rabbi Avraham Maimuni, Zohar, Rabbi Elimelech of Lizhensk, Sifrei, Mishnah Zevachim, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer]
+  - ms:043-stoned-and-high-altars.md "Stoned and High Altars"
+authorities: [Rashi, Ramban, Radak, Rabbi Yonah Ibn Janach, Rabbi Avraham Maimuni, Zohar, Rabbi Elimelech of Lizhensk, Sifrei, Mishnah Zevachim, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, the Vilna Gaon, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Altar: mizbeach / matzeivah / bamah
 
@@ -100,6 +101,12 @@ four "horns" on its corners (Shemos 27:1-2). Two items bear the name: the
 HaPnimi* or *Mizbeach HaZahav*, the Inner or Golden Altar for the daily incense
 (see the dispute above on why the second carries the name).
 
+The Vilna Gaon (to Divrei HaYamim II 14:2): a *mizbeach* stands in a fixed
+place, while a *bamah* and a *matzeivah* are ad hoc places of worship. A
+*matzeivah* is a single stone and a *bamah* is built of many. Alternatively, a
+*matzeivah* serves only for pouring libations, a *bamah* only for burnt
+offerings, and a *mizbeach* for any offering.
+
 ### matzeivah (מצבה)
 Root נ-צ-ב, as in *netziv*, something standing, a pillar. Beyond a single-stone
 altar it names any commemorative monument, and in ordinary speech a tombstone.
@@ -124,6 +131,13 @@ the Beis HaMikdash was built, and outside the 369 years the Mishkan stood at
 Shiloh, certain offerings were permitted on a private *bamah*. Much of the First
 Temple period saw Jews in both kingdoms continue to offer on *bamos*, which drew
 them toward outright idolatry.
+
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 38:17) sees *bamah* as the
+source of Greek *bomos*, and even relates Latin *altar*, from *altus*, high, to
+*bamah* as a high place. From Yechezkel 20:29 he suggests *bamah* is related to
+*biah*, coming, a central place people came to worship. The *bimah* of Chazal is
+from Greek *bomos*, and he says Chazal seem not to have realised that their
+*bimah* derives in the end from the *bamah* of Tanach.
 
 ## Rendering guidance
 
@@ -155,4 +169,6 @@ Rabbi Reuven Chaim Klein, "[Sort of Siblings](https://articles.ohr.edu/articles/
 
 Rabbi Reuven Chaim Klein, "[Parshas Bo: Please Stand Up](https://articles.ohr.edu/articles/parshas-bo-please-stand-up)," *What's in a Word?*, Ohr Somayach, 28 January 2023.
 
-Cited in the essay: Shemos 27:1-2 and 30:2; Devarim 12:5-18 and 16:22; Bereishis 28:18-22 and 31:13; Bamidbar 17:11-15; *Sifrei* to Devarim 16:22; Zohar *Vayakhel* 219a; Radak, *Sefer HaShorashim*; Mishnah *Zevachim* 14:6.
+Rabbi Reuven Chaim Klein, "Stoned and High Altars," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 27:1-2 and 30:2; Devarim 12:5-18 and 16:22; Bereishis 28:18-22 and 31:13; Bamidbar 17:11-15; *Sifrei* to Devarim 16:22; Zohar *Vayakhel* 219a; Radak, *Sefer HaShorashim*; Mishnah *Zevachim* 14:6; Vilna Gaon to Divrei HaYamim II 14:2; Benamozegh, *Eim LaMikra* to Bereishis 38:17; Yechezkel 20:29.

@@ -20,9 +20,10 @@ words:
     distinct: the post-Mishnaic and living word; from ק-מ-ץ, the kemitzah of a minchah, held to three fingers with the excess wiped away (Rashi), so he stores his wealth and keeps to the least anyone can get from him
 sources:
   - wiaw:9734 "On Misers and Cheapskates" (2022-06-18) https://articles.ohr.edu/articles/on-misers-and-cheapskates
-authorities: [Radak, Ibn Janach, Rabbi Shlomo Pappenheim, Ibn Ezra, Rashi, Mahari Kara, Rabbi Eliezer of Beaugency, Menachem Ibn Saruk, Rabbeinu Chananel, Rabbi Ernest Klein, Rashbam, Rabbi Chaim of Friedberg, Maharal, Orchos Tzaddikim, Rabbeinu Yonah, Solomon Rabinowitz, Mendele Mocher Seforim, Alexander Kohut]
+  - ms:067-on-misers-and-cheapskates.md "On Misers and Cheapskates"
+authorities: [Radak, Ibn Janach, Rabbi Shlomo Pappenheim, Ibn Ezra, Rashi, Mahari Kara, Rabbi Eliezer of Beaugency, Menachem Ibn Saruk, Rabbeinu Chananel, Rabbi Ernest Klein, Rashbam, Rabbi Chaim of Friedberg, Maharal, Orchos Tzaddikim, Rabbeinu Yonah, Solomon Rabinowitz, Mendele Mocher Seforim, Alexander Kohut, the Gemara, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Miser: kilay / tzaykan / kamtzan
 
@@ -109,6 +110,10 @@ in, so the cheapskate locks himself into his belongings and comes out only when
 the coast is clear. Rabinowitz conjectures from this that perhaps the Midrash's
 name for the creature was somehow influenced by the biblical *kilay*.
 
+Maharal (*Nesivos Olam*, *Nesiv HaNedivus* ch. 1): the miser is a *kilai*
+because, like a storage vessel, *kli*, made to take in and not to give out, he
+wants to gather more and more and give nothing to others.
+
 ### tzaykan (צייקן)
 Mishnaic. Pesachim 7:8: disqualified Pesach meats that a man must burn with his
 own wood are brought by the *tzaykanim* to the Mikdash instead, so that the
@@ -167,6 +172,12 @@ left them caring only for themselves. See also Maharal's *Netzach Yisrael*
 ch. 5 on the connection between *kemitzah*, Kamtza and Bar Kamtza, and
 grasshoppers.
 
+The Gemara (*Kesubos* 77a) defines the *mekametz* of the Mishnah (*Kesubos*
+7:10) as *mekabetz*, one who gathers.
+
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bamidbar 36:4): *gumatz*, a pit
+(Koheles 10:8), is related to *kometz*.
+
 ## Rendering guidance
 
 - Yeshayahu 32:5-7: if following Radak, "miser" or "churl" against *nadiv*
@@ -196,4 +207,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[On Misers and Cheapskates](https://articles.ohr.edu/articles/on-misers-and-cheapskates)," *What's in a Word?*, Ohr Somayach, 18 June 2022.
 
-Cited in the essay: Yeshayahu 32:5, 32:7, 40:22; Bereishis 37:18, 41:47; Vayikra 2:2, 5:12, 6:8; Bamidbar 5:26, 13:33, 25:18; Malachi 1:14; Mishlei 30:27; Nachum 3:15-16; Avos 5:10; Pesachim 7:8 and 81b; Eruvin 49a; Berachos 3b; Sanhedrin 16a; Sotah 41b; Gittin 55b; Menachos 11a and 86a; Chullin 46a; Zevachim 64b; Kesubos 8b; *Bereishis Rabbah* 51:1; Radak and Ibn Janach, *Sefer HaShorashim*; Maharal, *Netzach Yisrael* ch. 5; *Toldos HaTeva*; *Sefer HaMishkalim*; *Sefer HaChaim*; Tosefta Sotah 13.
+Rabbi Reuven Chaim Klein, "On Misers and Cheapskates," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Yeshayahu 32:5, 32:7, 40:22; Bereishis 37:18, 41:47; Vayikra 2:2, 5:12, 6:8; Bamidbar 5:26, 13:33, 25:18; Malachi 1:14; Mishlei 30:27; Nachum 3:15-16; Avos 5:10; Pesachim 7:8 and 81b; Eruvin 49a; Berachos 3b; Sanhedrin 16a; Sotah 41b; Gittin 55b; Menachos 11a and 86a; Chullin 46a; Zevachim 64b; Kesubos 8b; *Bereishis Rabbah* 51:1; Radak and Ibn Janach, *Sefer HaShorashim*; Maharal, *Netzach Yisrael* ch. 5; *Toldos HaTeva*; *Sefer HaMishkalim*; *Sefer HaChaim*; Tosefta Sotah 13; *Kesubos* 7:10, 77a; Maharal, *Nesiv HaNedivus* ch. 1; Benamozegh, *Eim LaMikra* to Bamidbar 36:4; Koheles 10:8.

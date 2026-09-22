@@ -32,9 +32,10 @@ words:
     distinct: not in Tanach and not Hebrew or Aramaic but the Greek word for gift (Rabbi Eliyahu HaBachur); Targum Yonasan's rendering of the minchah Yaakov sent Esav
 sources:
   - wiaw:7982 "The Gift of Giving" (2018-12-01) https://articles.ohr.edu/articles/the-gift-of-giving
-authorities: [Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Rabbi Yaakov Tzvi Mecklenburg, Radak, Rabbi Avraham Bedersi HaPenini, Rabbi Avraham ben Chaim Ibn Ramoch, Malbim, Midrash Shocher Tov, Rabbi Eliyahu HaBachur]
+  - ms:052-the-gift-of-giving.md "The Gift of Giving"
+authorities: [Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Rabbi Yaakov Tzvi Mecklenburg, Radak, Rabbi Avraham Bedersi HaPenini, Rabbi Avraham ben Chaim Ibn Ramoch, Malbim, Midrash Shocher Tov, Rabbi Eliyahu HaBachur, Moshe Halbertal, Shadal]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Gift: minchah / matanah / shai / teshurah / eshkar / doron
 
@@ -86,6 +87,13 @@ deserves the name *minchah*. Hence *Tefillas Minchah*, said as the sun is on its
 way down, bowing, as it were, before Hashem; and hence the poor man's offering,
 the *Korban Minchah*, in which the giver shows plainly that he is handing over
 the little he has.
+
+Moshe Halbertal (*On Sacrifice*, p. 10): *minchah* always means one of lower
+standing placing something before a superior, while *matanah* is an exchange
+between equals.
+
+Shadal (to Bereishis 4:3): *minchah* is from נ-ו-ח, a gift meant to appease a
+superior in case one sinned against him unawares.
 
 ### matanah (מתנה)
 Some twenty appearances.
@@ -175,4 +183,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[The Gift of Giving](https://articles.ohr.edu/articles/the-gift-of-giving)," *What's in a Word?*, Ohr Somayach, 1 December 2018.
 
-Cited in the essay: Bereishis 32:14, 32:19-22 with Targum Yonasan, and ch. 27; Shmuel II 8:2; Melachim II 17:3; Esther 9:22; Yeshayahu 18:7; Tehillim 68:30, 72:10, 76:12; Yechezkel 27:15; Shmuel I 9:7; *Midrash Shocher Tov* to Tehillim 87; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* s.v. doron; Rav Hirsch; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. מתנה, מנחה, תשורה, שי and אשכר; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Bereishis 4:3, Vayikra 2:1; Radak; Rabbi Avraham Bedersi HaPenini; Rabbi Avraham ben Chaim Ibn Ramoch; Malbim, *Sefer HaCarmel* s.v. תשורה.
+Rabbi Reuven Chaim Klein, "The Gift of Giving," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 32:14, 32:19-22 with Targum Yonasan, and ch. 27; Shmuel II 8:2; Melachim II 17:3; Esther 9:22; Yeshayahu 18:7; Tehillim 68:30, 72:10, 76:12; Yechezkel 27:15; Shmuel I 9:7; *Midrash Shocher Tov* to Tehillim 87; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* s.v. doron; Rav Hirsch; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. מתנה, מנחה, תשורה, שי and אשכר; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Bereishis 4:3, Vayikra 2:1; Radak; Rabbi Avraham Bedersi HaPenini; Rabbi Avraham ben Chaim Ibn Ramoch; Malbim, *Sefer HaCarmel* s.v. תשורה; Halbertal, *On Sacrifice* p. 10; Shadal to Bereishis 4:3.

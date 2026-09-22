@@ -24,9 +24,10 @@ words:
     distinct: passive where makkeh is active (Rabbi Eliyahu HaBachur), and for the Tiferes Yisrael broader than striking, covering any defect, so an eclipsed luminary or blackened blood is lakah
 sources:
   - wiaw:8584 "That's a Flogging" (2020-02-01) https://articles.ohr.edu/articles/thats-a-flogging
-authorities: [Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Ibn Chayyuj, Rabbi Yonah Ibn Janach, Radak, Rabbi Eliyahu HaBachur, Rabbi Naftali HaKohen Katz, Rabbi Shmuel Taieb, Tiferes Yisrael, Rabbi Elazar Rokeach, Avraham Even-Shoshan]
+  - ms:111-thats-a-flogging.md "That’s a Flogging"
+authorities: [Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Ibn Chayyuj, Rabbi Yonah Ibn Janach, Radak, Rabbi Eliyahu HaBachur, Rabbi Naftali HaKohen Katz, Rabbi Shmuel Taieb, Tiferes Yisrael, Rabbi Elazar Rokeach, Avraham Even-Shoshan, Zohar, Rabbi Moshe Shapiro]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Flogging: makkot / malkut (lakah)
 
@@ -108,6 +109,14 @@ Makkos*, literally ten strikings. This is the word the Torah uses for the
 court's flogging (Devarim 25:2-3), and, for Rabbi Naftali HaKohen Katz, hence
 the masechta's name.
 
+The Zohar (Bamidbar 145b): *makkah* is from *koh*, so. Rabbi Moshe Shapiro
+builds on this: the prophets opened with *koh amar Hashem*, and the meaning of
+what they saw was often unclear and left to their interpretation; so a *makkah*
+always carries a Divine message to the one struck, whose meaning is not always
+plain. Moshe's prophecy, by contrast, opens *zeh hadavar* (Shemos 16:16, 16:32,
+35:4; Vayikra 8:5, 9:6, 17:2; Bamidbar 30:2, 36:6), since Hashem spoke to him
+more clearly than to any other prophet (Bamidbar 12:6-8).
+
 ### malkut / lakah (מלקות, לקה)
 Neither *malkut* nor *lakah* occurs in Tanach; both do appear in Mishnaic
 Hebrew.
@@ -159,4 +168,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[That's a Flogging](https://articles.ohr.edu/articles/thats-a-flogging)," *What's in a Word?*, Ohr Somayach, 1 February 2020.
 
-Cited in the essay: Devarim 25:2-3; Bamidbar 22:4; Sanhedrin 10a; Sukkah 29a and 33b; Menachem Ibn Saruk; Rabbi Shlomo Pappenheim; Ibn Chayyuj; Ibn Janach; Radak; Rabbi Eliyahu HaBachur, *Meturgeman* and *Sefer HaTishbi*; Rabbi Naftali HaKohen Katz, *Semichas Chachamim*; Rabbi Shmuel Taieb, *Shemen Tov*; Tiferes Yisrael; Rabbi Elazar Rokeach, *Maaseh Rokeach*; Avraham Even-Shoshan's dictionary.
+Rabbi Reuven Chaim Klein, "That’s a Flogging," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Devarim 25:2-3; Bamidbar 22:4; Sanhedrin 10a; Sukkah 29a and 33b; Menachem Ibn Saruk; Rabbi Shlomo Pappenheim; Ibn Chayyuj; Ibn Janach; Radak; Rabbi Eliyahu HaBachur, *Meturgeman* and *Sefer HaTishbi*; Rabbi Naftali HaKohen Katz, *Semichas Chachamim*; Rabbi Shmuel Taieb, *Shemen Tov*; Tiferes Yisrael; Rabbi Elazar Rokeach, *Maaseh Rokeach*; Avraham Even-Shoshan's dictionary; Zohar, Bamidbar 145b; Shemos 16:16, 16:32, 35:4; Vayikra 8:5, 9:6, 17:2; Bamidbar 12:6-8, 30:2, 36:6.

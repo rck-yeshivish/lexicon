@@ -37,9 +37,10 @@ words:
     distinct: post-Biblical, apparently the name Philo Judaeus of Alexandria gave it, alluding to the baskets in which the bikkurim were brought
 sources:
   - wiaw:7758 "Stop! It's Shavuot!" (2018-05-19) https://articles.ohr.edu/articles/stop-itas-shavuot
-authorities: [Midrash Lekach Tov (Rabbi Tuviah ben Eliezer), Ramban, Rabbi Chaim Elazar Shapiro (Munkatcher Rebbe), Rabbi Moshe Zacuto, Kedushas Levi (Rabbi Levi Yitzchak of Berditchev), Rabbi Dovid Tzvi Hoffmann, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yechezkel Abramsky, Rabbi Baruch Epstein, Rashi, Josephus, Philo Judaeus]
+  - ms:292-stop-its-shavuot.md "Stop! It’s Shavuot"
+authorities: [Midrash Lekach Tov (Rabbi Tuviah ben Eliezer), Ramban, Rabbi Chaim Elazar Shapiro (Munkatcher Rebbe), Rabbi Moshe Zacuto, Kedushas Levi (Rabbi Levi Yitzchak of Berditchev), Rabbi Dovid Tzvi Hoffmann, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yechezkel Abramsky, Rabbi Baruch Epstein, Rashi, Josephus, Philo Judaeus, Bartenura]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Names of Shavuos: Shavuos / Atzeres / Chag HaKatzir / Yom HaBikkurim
 
@@ -164,6 +165,8 @@ what the Jews customarily called the day, is the Aramaic of *Atzeres*, meaning a
 festive gathering or a stoppage from work. The Mishnah and Gemara generally call
 Shavuos *Atzeres* rather than Shavuos.
 
+The Mishnah (*Eduyos* 7:6) calls Shavuos *chag*, as the Bartenura explains it.
+
 ## Rendering guidance
 
 - Keep *Shavuos* untranslated; "Festival of Weeks" belongs in a gloss
@@ -185,4 +188,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Stop! It's Shavuot!](https://articles.ohr.edu/articles/stop-itas-shavuot)" *What's in a Word?*, Ohr Somayach, 19 May 2018.
 
-Cited in the essay: Shemos 23:16, 34:22; Vayikra 23:16-20, and 23:36 with Ramban; Bamidbar 28:26 with Targum, and 29:35; Devarim 16:8, 16:10, 16:16, 18:16, 26:1-11; Yirmiyahu 5:24 with Rashi; Divrei HaYamim II 8:13; Mishnah *Bikkurim* 1:3; *Midrash Lekach Tov* (*Pesikta Zutrata*) of Rabbi Tuviah ben Eliezer; Rabbi Chaim Elazar Shapiro of Munkatch; Rabbi Moshe Zacuto; the *Kedushas Levi*, Rabbi Levi Yitzchak of Berditchev; Rabbi Dovid Tzvi Hoffmann; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Devarim 9:10; Rabbi Yechezkel Abramsky; Rabbi Baruch Epstein; Josephus, *Antiquities of the Jews*, Book III; Philo Judaeus of Alexandria.
+Rabbi Reuven Chaim Klein, "Stop! It’s Shavuot," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 23:16, 34:22; Vayikra 23:16-20, and 23:36 with Ramban; Bamidbar 28:26 with Targum, and 29:35; Devarim 16:8, 16:10, 16:16, 18:16, 26:1-11; Yirmiyahu 5:24 with Rashi; Divrei HaYamim II 8:13; Mishnah *Bikkurim* 1:3; *Midrash Lekach Tov* (*Pesikta Zutrata*) of Rabbi Tuviah ben Eliezer; Rabbi Chaim Elazar Shapiro of Munkatch; Rabbi Moshe Zacuto; the *Kedushas Levi*, Rabbi Levi Yitzchak of Berditchev; Rabbi Dovid Tzvi Hoffmann; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Devarim 9:10; Rabbi Yechezkel Abramsky; Rabbi Baruch Epstein; Josephus, *Antiquities of the Jews*, Book III; Philo Judaeus of Alexandria; *Eduyos* 7:6 with the Bartenura.

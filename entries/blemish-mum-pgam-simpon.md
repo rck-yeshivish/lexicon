@@ -24,9 +24,10 @@ sources:
   - wiaw:9138 "A Perfect Sacrifice" (2021-03-20) https://articles.ohr.edu/articles/a-perfect-sacrifice
   - wiaw:8696 "Blemished Imperfections" (2020-05-09) https://articles.ohr.edu/articles/blemished-imperfections
   - wiaw:11087 "An Article About Nothing (Part 2 of 2)" (2023-09-16) https://articles.ohr.edu/articles/an-article-about-nothing-part-2-of-2
-authorities: [Rabbi Shlomo Pappenheim, Rabbi Ernest Klein, Rav Hirsch, Rabbi Eliyahu HaBachur, Rashi, Sefer HeAruch, Rabbi Binyamin Mussafia, Rabbi Yaakov Dienna, Rabbi Yehudah Aryeh of Carpentras, Wilhelm Gesenius]
+  - ms:203-blemished-imperfections.md "Blemished Imperfections"
+authorities: [Rabbi Shlomo Pappenheim, Rabbi Ernest Klein, Rav Hirsch, Rabbi Eliyahu HaBachur, Rashi, Sefer HeAruch, Rabbi Binyamin Mussafia, Rabbi Yaakov Dienna, Rabbi Yehudah Aryeh of Carpentras, Wilhelm Gesenius, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Blemish: mum / pgam / simpon
 
@@ -80,6 +81,9 @@ Beyond the physical, *mum* is used for a defect from sin (Devarim 32:5; Mishlei
 9:7), and in the Gemara for what disqualifies a man from sitting as a dayan,
 where Rashi (to *Sanhedrin* 36b) explains it as a family *pgam*, a more abstract
 use than the biblical one.
+
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 22:12) connects *me'umah*
+with *mum*.
 
 ### pgam (פגם)
 - Rabbi Eliyahu HaBachur: the literal sense is a groove or crevice. So the
@@ -181,4 +185,6 @@ Rabbi Reuven Chaim Klein, "[Blemished Imperfections](https://articles.ohr.edu/ar
 
 Rabbi Reuven Chaim Klein, "[An Article About Nothing (Part 2 of 2)](https://articles.ohr.edu/articles/an-article-about-nothing-part-2-of-2)," *What's in a Word?*, Ohr Somayach, 16 September 2023.
 
-Cited in the essay: Bereishis 22:12, 30:31, 39:23, 45:26; Vayikra 21:16 to 23, 22:17 to 25; Devarim 32:5; Melachim I 10:21; Mishlei 9:7; Iyov 31:7; Shir HaShirim 2:13; Daniel 1:4, 3:5, 3:10, 3:15; *Rosh HaShanah* 23b; *Yoma* 70a; *Pesachim* 106a; *Kiddushin* 10b; *Kesubos* 57b, 84a, and Mishnah *Kesubos* 3:4, 3:7, 5:3, 9:7 to 8; *Sanhedrin* 36b, 73a; *Avodah Zarah* 67a; *Chullin* 10a, 17a, and Mishnah *Chullin* 3:1; Mishnah *Keilim* 11:6; Mishnah *Bava Metzia* 1:8 and *Bava Metzia* 20a; Tosefta *Shevuos* 6:5; *Sefer HeAruch*; Rabbi Binyamin Mussafia; *Patshegen* of Rabbi Yaakov Dienna on Targum Onkelos; Rabbi Yehudah Aryeh of Carpentras, *Ohalei Yehudah*; Wilhelm Gesenius, lexicon of Biblical Hebrew and Aramaic.
+Rabbi Reuven Chaim Klein, "Blemished Imperfections," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 22:12, 30:31, 39:23, 45:26; Vayikra 21:16 to 23, 22:17 to 25; Devarim 32:5; Melachim I 10:21; Mishlei 9:7; Iyov 31:7; Shir HaShirim 2:13; Daniel 1:4, 3:5, 3:10, 3:15; *Rosh HaShanah* 23b; *Yoma* 70a; *Pesachim* 106a; *Kiddushin* 10b; *Kesubos* 57b, 84a, and Mishnah *Kesubos* 3:4, 3:7, 5:3, 9:7 to 8; *Sanhedrin* 36b, 73a; *Avodah Zarah* 67a; *Chullin* 10a, 17a, and Mishnah *Chullin* 3:1; Mishnah *Keilim* 11:6; Mishnah *Bava Metzia* 1:8 and *Bava Metzia* 20a; Tosefta *Shevuos* 6:5; *Sefer HeAruch*; Rabbi Binyamin Mussafia; *Patshegen* of Rabbi Yaakov Dienna on Targum Onkelos; Rabbi Yehudah Aryeh of Carpentras, *Ohalei Yehudah*; Wilhelm Gesenius, lexicon of Biblical Hebrew and Aramaic; Benamozegh, *Eim LaMikra* to Bereishis 22:12.

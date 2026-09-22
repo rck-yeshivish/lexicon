@@ -20,9 +20,10 @@ words:
     distinct: saving by being received into a safe space, as an ir miklat receives the accidental killer; post-biblical, and not intrinsically about rescue at all
 sources:
   - wiaw:11148 "Vayishlach: Saving Survivors" (2023-12-02) https://articles.ohr.edu/articles/vayishlach-saving-survivors
-authorities: [Targum Onkelos, Targum pseudo-Yonasan, Malbim, Rabbi Avraham Bedersi, the Vilna Gaon, Rabbi Avraham Yitzchak Shain, Rashi, Rashbam, Ibn Ezra, Chizkuni, Ramban, Rabbi Yosef Chaim of Baghdad, Rabbi Yitzchak of Zeldin, Rabbi Yehoshua Steinberg, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Nosson Kamenetsky]
+  - ms:056-saving-survivors.md "Saving Survivors"
+authorities: [Targum Onkelos, Targum pseudo-Yonasan, Malbim, Rabbi Avraham Bedersi, the Vilna Gaon, Rabbi Avraham Yitzchak Shain, Rashi, Rashbam, Ibn Ezra, Chizkuni, Ramban, Rabbi Yosef Chaim of Baghdad, Rabbi Yitzchak of Zeldin, Rabbi Yehoshua Steinberg, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Nosson Kamenetsky, Rabbi Eliyahu Benamozegh]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Survivor: pleitah / sarid / klitah
 
@@ -146,6 +147,9 @@ Megillah 12b, Sanhedrin 44b, 95b, 105b, Avodah Zarah 4b). Sarid is also a place
 on the southern border of Zevulun's territory (Yehoshua 19:10, 19:12), and in
 recent times a popular Jewish name.
 
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 38:17): *sarid* is the
+source of Latin *residuo*, by metathesis.
+
 ### klitah (קליטה)
 Root ק-ל-ט. The Masoretic siman at the end of Vayishlach gives *klitah* for the
 parashah's 154 pesukim. The word is neither in the parashah nor a Biblical name,
@@ -200,4 +204,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Vayishlach: Saving Survivors](https://articles.ohr.edu/articles/vayishlach-saving-survivors)," *What's in a Word?*, Ohr Somayach, 2 December 2023.
 
-Cited in the essay: Bereishis 14:13, 32:8; Shemos 31:10, 35:19, 39:1, 39:41; Vayikra 22:23; Bamidbar 4:1-15, 13:9, 21:35, 34:26; Devarim 2:34, 3:3, 25:18; Yehoshua 8:22, 10:28, 10:30, 10:33, 10:37, 10:39, 10:40, 11:8, 19:10, 19:12; Shmuel I 25:44; Shmuel II 3:15; Melachim II 10:11; Yeshayahu 1:9; Yirmiyahu 42:17; Yechezkel 11:1, 11:13, 33:21-22; Ovadiah 1:17; Yonah 2:11; Ezra 10:23; Nechemiah 8:7, 10:11, 10:23, 12:17; Divrei HaYamim I 3:21, 4:42, 6:42, 6:52; Mishnah Berachos 3:6, Shabbos 1:6, 9:3, 11:6, Sotah 1:7, Sanhedrin 10:4, Bechoros 6:7, 7:6, Mikvaos 8:3; Berachos 7a; Yoma 72a-b, 77a; Megillah 12b; Yevamos 79a; Sanhedrin 44b, 95b, 105b; Avodah Zarah 4b; Chullin 108b, 111a, 112b; *Sifrei* to Matos §157; *Midrash Tanchuma*, Ki Seitzei §10; Targum Onkelos to Shemos 31:10; Targum to Yonah 2:11; Targum pseudo-Yonasan and Rashi to Devarim 25:18; Rashi, Rashbam, Ibn Ezra, Chizkuni and Ramban to Shemos 31:10; Rambam, *Hilchos Melachim* 6:7; Malbim; Rabbi Avraham Bedersi, *Chosam Tochnis*; the Vilna Gaon to Yeshayahu 1:9; Rabbi Avraham Yitzchak Shain; Rabbi Yitzchak of Zeldin, *Shoresh Yesha*; Rabbi Yehoshua Steinberg, "Run, Lot Run"; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim* §380; Rabbi Yosef Chaim of Baghdad, *Benayahu* to Yevamos 79a; Rabbi Nosson Kamenetsky.
+Rabbi Reuven Chaim Klein, "Saving Survivors," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 14:13, 32:8; Shemos 31:10, 35:19, 39:1, 39:41; Vayikra 22:23; Bamidbar 4:1-15, 13:9, 21:35, 34:26; Devarim 2:34, 3:3, 25:18; Yehoshua 8:22, 10:28, 10:30, 10:33, 10:37, 10:39, 10:40, 11:8, 19:10, 19:12; Shmuel I 25:44; Shmuel II 3:15; Melachim II 10:11; Yeshayahu 1:9; Yirmiyahu 42:17; Yechezkel 11:1, 11:13, 33:21-22; Ovadiah 1:17; Yonah 2:11; Ezra 10:23; Nechemiah 8:7, 10:11, 10:23, 12:17; Divrei HaYamim I 3:21, 4:42, 6:42, 6:52; Mishnah Berachos 3:6, Shabbos 1:6, 9:3, 11:6, Sotah 1:7, Sanhedrin 10:4, Bechoros 6:7, 7:6, Mikvaos 8:3; Berachos 7a; Yoma 72a-b, 77a; Megillah 12b; Yevamos 79a; Sanhedrin 44b, 95b, 105b; Avodah Zarah 4b; Chullin 108b, 111a, 112b; *Sifrei* to Matos §157; *Midrash Tanchuma*, Ki Seitzei §10; Targum Onkelos to Shemos 31:10; Targum to Yonah 2:11; Targum pseudo-Yonasan and Rashi to Devarim 25:18; Rashi, Rashbam, Ibn Ezra, Chizkuni and Ramban to Shemos 31:10; Rambam, *Hilchos Melachim* 6:7; Malbim; Rabbi Avraham Bedersi, *Chosam Tochnis*; the Vilna Gaon to Yeshayahu 1:9; Rabbi Avraham Yitzchak Shain; Rabbi Yitzchak of Zeldin, *Shoresh Yesha*; Rabbi Yehoshua Steinberg, "Run, Lot Run"; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim* §380; Rabbi Yosef Chaim of Baghdad, *Benayahu* to Yevamos 79a; Rabbi Nosson Kamenetsky; Benamozegh, *Eim LaMikra* to Bereishis 38:17.

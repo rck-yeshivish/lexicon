@@ -25,9 +25,10 @@ words:
     nk: מוֹרֶה
 sources:
   - wiaw:9245 "Revolting Revolutions" (2021-06-12) https://articles.ohr.edu/articles/revolting-revolutions
-authorities: [Rashi, Midrash Tanchuma, Rabbi Shlomo Pappenheim, Targum, Rabbi Yonah Ibn Janach, Radak, Machberes Menachem (Rabbi Menachem Ibn Saruk), Rav Hirsch, Rabbi Aharon Marcus, Sifrei]
+  - ms:249-revolting-revolutions.md "Revolting Revolutions"
+authorities: [Rashi, Midrash Tanchuma, Rabbi Shlomo Pappenheim, Targum, Rabbi Yonah Ibn Janach, Radak, Machberes Menachem (Rabbi Menachem Ibn Saruk), Rav Hirsch, Rabbi Aharon Marcus, Sifrei, Shadal]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Rebellion: pesha / meridah / meri (mamre)
 
@@ -137,6 +138,8 @@ Shlomo Pappenheim's list cannot include *meridah*, because his system admits
 only hei, aleph, mem, nun, tav, yud or vav as the added third letter, and
 *meridah*'s is a dalet.
 
+Shadal (to Bamidbar 20:10): *morim*, rebels, is related to *mored*.
+
 ## Rendering guidance
 
 - פשע: "rebellion" where a vassal or a nation throws off a ruler; "negligence"
@@ -166,4 +169,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Revolting Revolutions](https://articles.ohr.edu/articles/revolting-revolutions)," *What's in a Word?*, Ohr Somayach, 12 June 2021.
 
-Cited in the essay: Bereishis 1:28, 14:4; Shemos 22:8; Vayikra 25:43; Bamidbar 16:1 with Rashi and *Midrash Tanchuma*; Devarim 9:7, 9:24, 21:18, 31:27; Yehoshua 1:18; Melachim II 3:4-5, 8:22, 18:20; Yeshayahu 1:2, 36:5, 58:7; Yirmiyahu 33:8; Yechezkel 2:3; Mishlei 18:19; Eichah 1:7; Divrei HaYamim II 36:13; Mishnah *Sanhedrin* 11:2; *Yoma* 36b; *Shabbos* 69a, 87a; *Eruvin* 69a-b; *Yevamos* 47b; *Bava Kamma* 21b, 29a; *Sanhedrin* 49a; *Sifrei*, *Ki Seitzei* 218; Targum; Rabbi Yonah Ibn Janach and Radak, *Sefer HaShorashim*; *Machberes Menachem*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. זד and מר; Rav Hirsch to Bereishis 14:4; Rabbi Aharon Marcus, *Keses HaSofer* (עמ' שפו); the Mesha Stele.
+Rabbi Reuven Chaim Klein, "Revolting Revolutions," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 1:28, 14:4; Shemos 22:8; Vayikra 25:43; Bamidbar 16:1 with Rashi and *Midrash Tanchuma*; Devarim 9:7, 9:24, 21:18, 31:27; Yehoshua 1:18; Melachim II 3:4-5, 8:22, 18:20; Yeshayahu 1:2, 36:5, 58:7; Yirmiyahu 33:8; Yechezkel 2:3; Mishlei 18:19; Eichah 1:7; Divrei HaYamim II 36:13; Mishnah *Sanhedrin* 11:2; *Yoma* 36b; *Shabbos* 69a, 87a; *Eruvin* 69a-b; *Yevamos* 47b; *Bava Kamma* 21b, 29a; *Sanhedrin* 49a; *Sifrei*, *Ki Seitzei* 218; Targum; Rabbi Yonah Ibn Janach and Radak, *Sefer HaShorashim*; *Machberes Menachem*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. זד and מר; Rav Hirsch to Bereishis 14:4; Rabbi Aharon Marcus, *Keses HaSofer* (עמ' שפו); the Mesha Stele; Shadal to Bamidbar 20:10.

@@ -33,9 +33,10 @@ sources:
   - wiaw:7679 "Mercy or Pity" (2018-03-10) https://articles.ohr.edu/articles/mercy-or-pity
   - wiaw:8411 "Rosh Hashana: A Tale of Two Beginnings" (2019-09-28) https://articles.ohr.edu/articles/rosh-hashana-a-tale-of-two-beginnings
   - wiaw:10983 "True Love (Part 2/2)" (2023-11-18) https://articles.ohr.edu/articles/true-love-part-22
-authorities: [Rabbeinu Bachaya, Rashi, Rabbi Yosef Bechor-Shor, gloss to Tosafos, Rabbi Elazar Rokeach of Worms, Rabbi Avraham bar Chaim Ibn Ramoch, Malbim, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Yitzchak Avineri]
+  - ms:152-mercy-or-pity.md "Mercy or Pity"
+authorities: [Rabbeinu Bachaya, Rashi, Rabbi Yosef Bechor-Shor, gloss to Tosafos, Rabbi Elazar Rokeach of Worms, Rabbi Avraham bar Chaim Ibn Ramoch, Malbim, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Yitzchak Avineri, Rabbi Moshe Shapiro, Rabbi Moshe de Leon, Rabbeinu Efrayim ben Shimshon]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Mercy: rachum / chanun / chus / chemlah
 
@@ -103,6 +104,20 @@ Hashem, these are presented as such.
   *rachamim*, the dominant trait of a protective mother. Rabbi Yitzchak Avineri
   writes that one root can carry both love and mercy because love is the root of
   mercy: one only has mercy on those whom he loves.
+- Rabbi Moshe Shapiro (*Re'ay Emunah* p. 280): the root idea of *rachamim* is
+  that after a sin a man survives to live another day and is not punished at
+  once. *Rachum* is spelled as *rechem*, the womb, where the child grows until
+  it is ready to enter the world; so *rachamim* shelters the sinner from
+  punishment until he can do full *teshuvah* and erase the sin. The letters of
+  *rechem* also spell *machar*, tomorrow: Hashem's mercy lets the sinner see
+  tomorrow.
+- Rabbi Moshe de Leon: *chesed* is unmixed kindness, and *rachamim* a mixture of
+  *chesed* and *din*. Under *rachamim* Hashem uses *din* to find the sinner
+  guilty, then tempers the punishment with *chesed*; other kabbalistic sources
+  call that mixture *tiferes*.
+- Rabbeinu Efrayim ben Shimshon (to Bereishis 29:31): a husband has *rachamim*
+  on his wife when her *rechem* is opened, and because from there comes a child
+  of 248, *ramach*, limbs.
 
 ### chanun (חנון), chein (חן)
 - Rabbi Klein: *chanun* focuses on the victim, who finds favor (*chein*) in the
@@ -160,4 +175,6 @@ Rabbi Reuven Chaim Klein, "[Rosh Hashana: A Tale of Two Beginnings](https://arti
 
 Rabbi Reuven Chaim Klein, "[True Love (Part 2/2)](https://articles.ohr.edu/articles/true-love-part-22)," *What's in a Word?*, Ohr Somayach, 18 November 2023.
 
-Cited in the essay: Rabbeinu Bachaya to Shemos; Rashi to Devarim 3:23; gloss to Tosafos, Rosh Hashanah 17b; Ibn Ramoch to Tehillim 86:16, 112:4, 145:8; Malbim on *chus* and *chemlah*; Rabbi Wertheimer; Rav Hirsch to Shemos 13:2; Rabbi Yitzchak Avineri.
+Rabbi Reuven Chaim Klein, "Mercy or Pity," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Rabbeinu Bachaya to Shemos; Rashi to Devarim 3:23; gloss to Tosafos, Rosh Hashanah 17b; Ibn Ramoch to Tehillim 86:16, 112:4, 145:8; Malbim on *chus* and *chemlah*; Rabbi Wertheimer; Rav Hirsch to Shemos 13:2; Rabbi Yitzchak Avineri; Rabbi Moshe Shapiro, *Re'ay Emunah* p. 280; Rabbi Moshe de Leon; Rabbeinu Efrayim to Bereishis 29:31.

@@ -21,9 +21,10 @@ words:
     distinct: the exception in the ג-פ-ה family, a plague that brings certain death (Malbim); Rashi defines it as dever, and Menachem Ibn Saruk defines dever as negef
 sources:
   - wiaw:7579 "Plague of Plagues" (2018-01-13) https://articles.ohr.edu/articles/plague-of-plagues
-authorities: [Rashi, Abarbanel, Rabbeinu Chananel, Malbim, Rabbi Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Yair Chaim Bachrach (Chavos Yair)]
+  - ms:098-plague-of-plagues.md "Plague of Plagues"
+authorities: [Rashi, Abarbanel, Rabbeinu Chananel, Malbim, Rabbi Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Yair Chaim Bachrach (Chavos Yair), Rabbi Chaim Kanievsky]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Plague: dever / mageifah / negef
 
@@ -94,6 +95,10 @@ Root ג-פ-ה (the strong letters are gimmel and peh).
   sometimes letting the harm travel from there. *Mageifah*, as against *dever*,
   describes what the striker does in bringing the plague, rather than what the
   victim contracts.
+- *Siddur Tefillah LeMoshe*, citing Rabbi Chaim Kanievsky: *mageifah* is graver
+  than *dever* and the rest listed in *Avinu Malkeinu*, because it is an illness
+  that spreads (*Taanis* 21), which is why we ask *mena mageifah
+  minachalasecha*, from the whole surrounding area.
 
 ### negef (נגף)
 The exception inside the ג-פ-ה family.
@@ -136,4 +141,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Plague of Plagues](https://articles.ohr.edu/articles/plague-of-plagues)," *What's in a Word?*, Ohr Somayach, 13 January 2018.
 
-Cited in the essay: Shemos 5:3, 7:27, 9:14-15, 21:22, 21:35, 30:12; Bamidbar 25:9; Shmuel II 24:15; Mishnah *Taanis* 3:4; *Bava Kamma* 2b and 60b; Rashi to Shemos 7:27 and 30:12; Abarbanel and Rabbeinu Chananel on *tzfardea*; Rabbi Yair Chaim Bachrach, *Chavos Yair*; the Ecology Global Network.
+Rabbi Reuven Chaim Klein, "Plague of Plagues," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 5:3, 7:27, 9:14-15, 21:22, 21:35, 30:12; Bamidbar 25:9; Shmuel II 24:15; Mishnah *Taanis* 3:4; *Bava Kamma* 2b and 60b; Rashi to Shemos 7:27 and 30:12; Abarbanel and Rabbeinu Chananel on *tzfardea*; Rabbi Yair Chaim Bachrach, *Chavos Yair*; the Ecology Global Network; *Siddur Tefillah LeMoshe*; *Taanis* 21.

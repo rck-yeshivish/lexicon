@@ -24,9 +24,10 @@ words:
     distinct: the Aramaic maybe, paired with shema; neutral on all accounts, as English maybe is neutral (Rabbi Shlomo of Urbino), with no leaning toward or against the outcome
 sources:
   - wiaw:7483 "Maybe Yes, Maybe No" (2017-11-11) https://articles.ohr.edu/articles/maybe-yes-maybe-no
-authorities: [Rabbi Shlomo of Urbino, Rabbi Eliyahu HaBachur, Rabbi Immanuel Benevento, Malbim, Rabbi Yaakov Tzvi Mecklenburg, Vilna Gaon, Rashi, Rabbi Yehuda Leib Edel, Rabbi Tzvi Hirsch Chayes, Rabbi Seligman Baer Bamberger, Rabbi Shlomo Aharon Wertheimer, Rabbi Zalman Sorotzkin, Rabbi Meir Mazuz]
+  - ms:032-maybe-yes-maybe-no.md "Maybe Yes, Maybe No"
+authorities: [Rabbi Shlomo of Urbino, Rabbi Eliyahu HaBachur, Rabbi Immanuel Benevento, Malbim, Rabbi Yaakov Tzvi Mecklenburg, Vilna Gaon, Rashi, Rabbi Yehuda Leib Edel, Rabbi Tzvi Hirsch Chayes, Rabbi Seligman Baer Bamberger, Rabbi Shlomo Aharon Wertheimer, Rabbi Zalman Sorotzkin, Rabbi Meir Mazuz, Rabbi Shlomo Pappenheim, Rabbi Nissim of Marseilles, Rabbi Elazar Rokeach of Worms]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Maybe: ulai / pen
 
@@ -77,6 +78,22 @@ it to Hebrew *lu* or Aramaic *levai* ("if only").
 - Rabbi Yaakov Tzvi Mecklenburg ties *pen* to *panah*, "turned away," since the
   speaker hopes his listener will turn away from the possibility he has just
   named.
+- Rabbi Shlomo Pappenheim (*Cheshek Shlomo* s.v. פן): *pen* is from *pniyah*,
+  turning, a doubt as to which way a thing will turn, and not the full doubt of
+  *ulai*. *Pen yechereh af Hashem* (Devarim 6:15) cannot mean "perhaps," since
+  Hashem's anger at avodah zarah is certain; it is a condition said of what has
+  two faces, and it is mostly used of the unworthy face, which is why Chazal
+  (*Eruvin* 96a) count *pen* as a negative commandment. It also appears of the
+  worthy face (Yeshayahu 6:10), which may be said from the people's own corrupt
+  point of view.
+- Rabbi Nissim of Marseilles (*Maaseh Nissim* p. 270): *pen* and *ulai* differ
+  in likelihood. *Pen* is a remote possibility and *ulai* a likelier one, so
+  when Hashem is concerned that Adam might also eat from the *Eitz HaChaim*
+  (Bereishis 3:22), a remote chance, the pasuk says *pen*.
+- *Sefer HaChochmah*, ascribed to Rabbi Elazar Rokeach of Worms (Bereishis p.
+  19): *pen* is said of what will certainly happen, as though it were *ken*.
+  Rabbi Klein does not know the basis, since peh and kaf do not usually
+  interchange, though they look alike.
 
 ### the test case: Bereishis 24:39 and 27:12
 The Vilna Gaon made the idea famous by applying it to exegesis, and to Rashi in
@@ -133,4 +150,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Maybe Yes, Maybe No](https://articles.ohr.edu/articles/maybe-yes-maybe-no)," *What's in a Word?*, Ohr Somayach, 11 November 2017.
 
-Cited in the essay: Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*; Rabbi Immanuel Benevento, *Livyat Chen*; Rashi to Bereishis 24:39; Bereishis 18:28, 24:39, 27:12; Michah 7:20.
+Rabbi Reuven Chaim Klein, "Maybe Yes, Maybe No," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*; Rabbi Immanuel Benevento, *Livyat Chen*; Rashi to Bereishis 24:39; Bereishis 18:28, 24:39, 27:12; Michah 7:20; Pappenheim, *Cheshek Shlomo* s.v. פן; Devarim 6:15; Devarim 22:9; *Eruvin* 96a; Yeshayahu 6:10; Rabbi Nissim of Marseilles, *Maaseh Nissim* p. 270; Bereishis 3:22; *Sefer HaChochmah*, Bereishis p. 19.

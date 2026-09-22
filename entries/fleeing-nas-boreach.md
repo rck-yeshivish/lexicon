@@ -25,9 +25,10 @@ words:
     distinct: the one Aramaic word for running away, drawing none of the Hebrew distinctions; most Targumim use it for both nas and boreach, though Onkelos often renders boreach as azil
 sources:
   - wiaw:7779 "Running Away" (2018-06-02) https://articles.ohr.edu/articles/running-away
-authorities: [Sforno, Malbim, Sefer HaChochmah (Rabbi Elazar Rokeach of Worms), Rabbi Naftali Hertz Treves (Sefer HaGur), Rabbi Shlomo Aharon Wertheimer, Targum Onkelos]
+  - ms:237-running-away.md "Running Away"
+authorities: [Sforno, Malbim, Sefer HaChochmah (Rabbi Elazar Rokeach of Worms), Rabbi Naftali Hertz Treves (Sefer HaGur), Rabbi Shlomo Aharon Wertheimer, Targum Onkelos, Rabbi Shlomo Pappenheim]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Fleeing: nas / boreach
 
@@ -73,6 +74,16 @@ yet arrived.
 line altogether: *nisah* is running away to somewhere near, *bericha* to
 somewhere far.
 
+Rabbi Shlomo Pappenheim (*Cheshek Shlomo* s.v. נס): *nisah* is the start of
+flight, leaving the place of danger; *brichah* is its end, the place one
+prepared to flee to. Every *brichah* is a *nisah*, but not every *nisah* is a
+*brichah*, since danger that comes suddenly leaves one only to get away,
+anywhere. So one never *barach* from battle but *nas* (Bereishis 14:10; Devarim
+28:7, 32:30; Bamidbar 10:35). That is why *nisah* was borrowed from *nisayon*:
+as a trial begins in doubt, so flight begins without knowing how it will end,
+and one may fall into worse danger, as the kings of Sedom and Amorah fled into
+the tar pits, and *ka'asher yanus ish mipnei ha'ari ufega'o hadov* (Amos 5:19).
+
 ### boreach (בורח)
 - Sforno: running away out of fear of a future threat, with nobody chasing.
 - Malbim: the danger is more abstract, less tangible, not yet immediate. Two
@@ -116,4 +127,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Running Away](https://articles.ohr.edu/articles/running-away)," *What's in a Word?*, Ohr Somayach, 2 June 2018.
 
-Cited in the essay: Bamidbar 10:35; Bereishis 31:21; Yonah 1:3; Shemos 14:27; Yirmiyahu 16:19; Iyov 30:3; Sforno to Bereishis 31:21 and Yonah 1:3; Malbim on *nas*, *boreach* and *ratz*; *Sefer HaChochmah* ascribed to Rabbi Elazar Rokeach of Worms; Rabbi Naftali Hertz Treves, *Sefer HaGur*; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* (ברח\נס); Targum Onkelos.
+Rabbi Reuven Chaim Klein, "Running Away," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bamidbar 10:35; Bereishis 31:21; Yonah 1:3; Shemos 14:27; Yirmiyahu 16:19; Iyov 30:3; Sforno to Bereishis 31:21 and Yonah 1:3; Malbim on *nas*, *boreach* and *ratz*; *Sefer HaChochmah* ascribed to Rabbi Elazar Rokeach of Worms; Rabbi Naftali Hertz Treves, *Sefer HaGur*; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* (ברח\נס); Targum Onkelos; Pappenheim, *Cheshek Shlomo* s.v. נס; Bereishis 14:10; Devarim 28:7, 32:30; Amos 5:19.

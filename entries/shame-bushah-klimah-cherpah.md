@@ -27,9 +27,10 @@ sources:
   - wiaw:9907 "An Utter Embarrassment" (2022-09-17) https://articles.ohr.edu/articles/an-utter-embarrassment
   - wiaw:9554 "Digging Deeper" (2022-01-29) https://articles.ohr.edu/articles/digging-deeper
   - wiaw:7302 "Spy versus Spy" (2017-06-17) https://articles.ohr.edu/articles/spy-versus-spy
-authorities: [Radak, Rabbeinu Yonah, Rabbi Avraham Bedersi, Rabbi David Chaim Chelouche, Rabbi David Golumb, Malbim, Rav Hirsch, Isaac Satanow, Rabbi Shlomo Aharon Wertheimer, Rabbi Yehuda Leib Edel, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Eliyahu HaBachur, Maggid of Kozhnitz, Maharal, Rabbi Yosef Kimchi, Rabbi Yaakov Tzvi Mecklenburg]
+  - ms:341-an-utter-embarrassment.md "An Utter Embarrassment"
+authorities: [Radak, Rabbeinu Yonah, Rabbi Avraham Bedersi, Rabbi David Chaim Chelouche, Rabbi David Golumb, Malbim, Rav Hirsch, Isaac Satanow, Rabbi Shlomo Aharon Wertheimer, Rabbi Yehuda Leib Edel, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Eliyahu HaBachur, Maggid of Kozhnitz, Maharal, Rabbi Yosef Kimchi, Rabbi Yaakov Tzvi Mecklenburg, the Vilna Gaon]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Shame: bushah / klimah / cherpah (chafrah)
 
@@ -162,6 +163,8 @@ offers his own conjecture: that the root ח-פ-ר may be related to ח-ו-ר
 (*chivar*, "white") through the interchange of peh and vav, since shame whitens
 the face, so that *cherpah* would be no more than a metathesized *chafrah*.
 
+The Vilna Gaon (to Mishlei 19:26): *bushah* is in private, *chafurah* in public.
+
 ### The Aramaic
 Targum typically renders *bushah* as *bahat* and *klimah* as *kissuf*; hence the
 Talmudic Aramaic *ichsaf*, to become ashamed, and the kabbalistic *nehama
@@ -208,4 +211,6 @@ Rabbi Reuven Chaim Klein, "[Digging Deeper](https://articles.ohr.edu/articles/di
 
 Rabbi Reuven Chaim Klein, "[Spy versus Spy](https://articles.ohr.edu/articles/spy-versus-spy)," *What's in a Word?*, Ohr Somayach, 17 June 2017.
 
-Cited in the essay: Vayikra 13:59 with Rav Hirsch, and 19:20; Devarim 1:22; Yeshayahu 45:16 with Radak; Yirmiyahu 2:26; Tzefaniah 2:1 with Rabbi Yosef Kimchi; Tehillim 139:16 with Rav Hirsch; *Bava Metzia* 58b; Radak, *Sefer HaShorashim* s.v. כלם; Rabbeinu Yonah, *Shaarei Teshuvah*, shaar 1, the sixth *ikar*; Rabbi Avraham Bedersi, *Chosam Tochnis*, p. 78 onwards; Isaac Satanow, his notes to *HaShorashim* called *Sefas Emes*, s.v. כלם; Rabbi Yehuda Leib Shapira-Frankfurter, *HaRechasim LeVik'ah* to Bereishis 2:25; Malbim, *Sefer HaCarmel* s.v. בושה/כלימה, כלם and חפר, and *Yair Ohr*, os 2 siman 9 and os 8 siman 37; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. בושה/כלימה/חרפה/חפר; Rabbi David Chaim Chelouche, *Ohr Chadash* to Vayikra 19:20 and his *luach hashorashim* s.v. חרפה; Rabbi Yehuda Leib Edel, *Redifei Maya* s.v. בוש; Rabbi David Golumb; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Bereishis 26:25, Bamidbar 13:16 and Devarim 1:22; Targum; Rabbi Eliyahu HaBachur, *Meturgeman* s.v. בהת and כסף; the Maggid of Kozhnitz; Maharal, *Netivos Olam*, *Nesiv HaOsher*, ch. 2.
+Rabbi Reuven Chaim Klein, "An Utter Embarrassment," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Vayikra 13:59 with Rav Hirsch, and 19:20; Devarim 1:22; Yeshayahu 45:16 with Radak; Yirmiyahu 2:26; Tzefaniah 2:1 with Rabbi Yosef Kimchi; Tehillim 139:16 with Rav Hirsch; *Bava Metzia* 58b; Radak, *Sefer HaShorashim* s.v. כלם; Rabbeinu Yonah, *Shaarei Teshuvah*, shaar 1, the sixth *ikar*; Rabbi Avraham Bedersi, *Chosam Tochnis*, p. 78 onwards; Isaac Satanow, his notes to *HaShorashim* called *Sefas Emes*, s.v. כלם; Rabbi Yehuda Leib Shapira-Frankfurter, *HaRechasim LeVik'ah* to Bereishis 2:25; Malbim, *Sefer HaCarmel* s.v. בושה/כלימה, כלם and חפר, and *Yair Ohr*, os 2 siman 9 and os 8 siman 37; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. בושה/כלימה/חרפה/חפר; Rabbi David Chaim Chelouche, *Ohr Chadash* to Vayikra 19:20 and his *luach hashorashim* s.v. חרפה; Rabbi Yehuda Leib Edel, *Redifei Maya* s.v. בוש; Rabbi David Golumb; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Bereishis 26:25, Bamidbar 13:16 and Devarim 1:22; Targum; Rabbi Eliyahu HaBachur, *Meturgeman* s.v. בהת and כסף; the Maggid of Kozhnitz; Maharal, *Netivos Olam*, *Nesiv HaOsher*, ch. 2; Vilna Gaon to Mishlei 19:26.

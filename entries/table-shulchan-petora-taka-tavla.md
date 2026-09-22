@@ -24,9 +24,10 @@ words:
     distinct: the Mishnaic word; a flat surface with no legs attached, so even a plank (Rash MiShantz), though Rabbi Eliyahu HaBachur equates it with shulchan outright
 sources:
   - wiaw:11261 "Terumah: A Table for Thee" (2024-02-17) https://articles.ohr.edu/articles/terumah-a-table-for-thee
-authorities: [Rabbi Yonah Ibn Janach, Radak, Menachem Ibn Saruk, Rashi, Targum, Matnos Kehunah, Rabbi Avraham Menachem Rappaport, Shadal, Rabbi Ezra Reuven Dangoor, Rif, Rabbi David Abudraham, Arizal, Rabbi Mordechai Dov Yudelovitch, Rabbi Shaul Goldman, Dr. Michael Sokoloff, Rabbi Eliyahu HaBachur, Rash MiShantz, Rabbeinu Manoach, Sefer HeAruch, Bartenura, Rabbi Chaim Vital, Kli Yakar, HaKsav VeHaKabbalah, Alexandre Beider]
+  - ms:140-a-table-for-thee.md "A Table for Thee"
+authorities: [Rabbi Yonah Ibn Janach, Radak, Menachem Ibn Saruk, Rashi, Targum, Matnos Kehunah, Rabbi Avraham Menachem Rappaport, Shadal, Rabbi Ezra Reuven Dangoor, Rif, Rabbi David Abudraham, Arizal, Rabbi Mordechai Dov Yudelovitch, Rabbi Shaul Goldman, Dr. Michael Sokoloff, Rabbi Eliyahu HaBachur, Rash MiShantz, Rabbeinu Manoach, Sefer HeAruch, Bartenura, Rabbi Chaim Vital, Kli Yakar, HaKsav VeHaKabbalah, Alexandre Beider, Rabbi Eliyahu Benamozegh, Rabbi Dr. Eliyahu Rachamim Zini]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Table: shulchan / petora / taka / tavla
 
@@ -114,6 +115,13 @@ table at which a king or great man eats and feeds his household. The Mishnaic
 9:12; Shevuos 7:6; Meilah 6:5; Keilim 12:5), is so called because he typically
 worked from behind a table on which he laid the money. The Gemara also uses *shulchan*
 euphemistically for marital intimacy (Nedarim 20a-b).
+
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bamidbar 36:4): a table is like a
+tree, which offers its fruit to be eaten, and a tree sending forth is sometimes
+*shalach* (Yeshayahu 16:8); so a *shulchan* sends forth and presents the foods
+of a meal. Rabbi Dr. Eliyahu Rachamim Zini, in his glosses there, suggests
+instead that in ancient times small tables were sent out from the kitchen to the
+dining room with the food on them.
 
 ### petora (פתורא)
 The Targumim consistently render *shulchan* as *petora*, and Rashi (Beitzah 29b)
@@ -205,4 +213,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Terumah: A Table for Thee](https://articles.ohr.edu/articles/terumah-a-table-for-thee)," *What's in a Word?*, Ohr Somayach, 17 February 2024.
 
-Cited in the essay: Shemos 22:28; Bamidbar 22:5; Devarim 33:3; Shoftim 11:3; Yeshayahu 65:11; Mishnah Berachos 7:1, Eruvin 5:1, Maaser Sheini 4:2, Yoma 3:10, Bava Metzia 2:4, 3:11, 4:6, 9:12, Shevuos 7:6, Meilah 6:5, Keilim 2:3, 12:5, 16:8, 25:1, 27:1, Ohalos 15:2, Mikvaos 4:2; Berachos 42a, 46b; Shabbos 36a; Pesachim 57a, 115b; Beitzah 29b; Yevamos 63b; Nedarim 20a-b; Gittin 67b; Kiddushin 81a; Bava Basra 111a; Chullin 54b, 132b; *Bamidbar Rabbah* 20:7; *Tanchuma* Balak 4; Rashi to Bamidbar 22:5, Berachos 46b, Beitzah 29b, Gittin 67b, Kiddushin 81a and Chullin 54b; *Matnos Kehunah*; Rabbi Avraham Menachem Rappaport, *Minchah Belulah* to Bamidbar 22:5; Ibn Janach; Radak; Menachem Ibn Saruk, *Machberes Menachem*; Shadal; Rabbi Ezra Reuven Dangoor; the Rif, Pesachim 25b; Rabbi David Abudraham to the Haggadah; the *Hachi Garsinan* manuscripts; the Arizal, *Atkinu Seudata*; Rabbi Mordechai Dov Yudelovitch; Rabbi Shaul Goldman; Dr. Michael Sokoloff's dictionaries of Jewish Palestinian Aramaic and of Jewish Babylonian Aramaic; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*; Rash MiShantz to Ohalos 15:2; Rabbeinu Manoach to Rambam, Hilchos Chametz uMatzah 6:7; *Sefer HeAruch*; Bartenura to Berachos 7:1; Rabbi Chaim Vital, *Eitz Chaim*, Shaar 50 ch. 3; *Kli Yakar* to Shoftim 11:3; *HaKsav VeHaKabbalah* to Shemos 22:28; the Targumim; Alexandre Beider.
+Rabbi Reuven Chaim Klein, "A Table for Thee," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 22:28; Bamidbar 22:5; Devarim 33:3; Shoftim 11:3; Yeshayahu 65:11; Mishnah Berachos 7:1, Eruvin 5:1, Maaser Sheini 4:2, Yoma 3:10, Bava Metzia 2:4, 3:11, 4:6, 9:12, Shevuos 7:6, Meilah 6:5, Keilim 2:3, 12:5, 16:8, 25:1, 27:1, Ohalos 15:2, Mikvaos 4:2; Berachos 42a, 46b; Shabbos 36a; Pesachim 57a, 115b; Beitzah 29b; Yevamos 63b; Nedarim 20a-b; Gittin 67b; Kiddushin 81a; Bava Basra 111a; Chullin 54b, 132b; *Bamidbar Rabbah* 20:7; *Tanchuma* Balak 4; Rashi to Bamidbar 22:5, Berachos 46b, Beitzah 29b, Gittin 67b, Kiddushin 81a and Chullin 54b; *Matnos Kehunah*; Rabbi Avraham Menachem Rappaport, *Minchah Belulah* to Bamidbar 22:5; Ibn Janach; Radak; Menachem Ibn Saruk, *Machberes Menachem*; Shadal; Rabbi Ezra Reuven Dangoor; the Rif, Pesachim 25b; Rabbi David Abudraham to the Haggadah; the *Hachi Garsinan* manuscripts; the Arizal, *Atkinu Seudata*; Rabbi Mordechai Dov Yudelovitch; Rabbi Shaul Goldman; Dr. Michael Sokoloff's dictionaries of Jewish Palestinian Aramaic and of Jewish Babylonian Aramaic; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*; Rash MiShantz to Ohalos 15:2; Rabbeinu Manoach to Rambam, Hilchos Chametz uMatzah 6:7; *Sefer HeAruch*; Bartenura to Berachos 7:1; Rabbi Chaim Vital, *Eitz Chaim*, Shaar 50 ch. 3; *Kli Yakar* to Shoftim 11:3; *HaKsav VeHaKabbalah* to Shemos 22:28; the Targumim; Alexandre Beider; Benamozegh, *Eim LaMikra* to Bamidbar 36:4, with Zini's glosses; Yeshayahu 16:8.

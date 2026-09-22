@@ -21,9 +21,10 @@ words:
     distinct: the most intimate; the one you are with frequently and to whom you reveal your secrets (Rokeach); complete affection, the highest form of companionship (Wertheimer)
 sources:
   - wiaw:7620 "G-d's Best Friend" (2018-02-03) https://articles.ohr.edu/articles/g-ds-best-friend
-authorities: [Rabbi Elazar Rokeach of Worms, Rabbi Shlomo Aharon Wertheimer, Rashi, Maharsha, Targum Onkelos]
+  - ms:122-g-ds-best-friend.md "G-d’s Best Friend"
+authorities: [Rabbi Elazar Rokeach of Worms, Rabbi Shlomo Aharon Wertheimer, Rashi, Maharsha, Targum Onkelos, Rabbi Mattisyahu HaYitzhari]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Friend: reya / chaver / amis
 
@@ -101,6 +102,15 @@ Two lines from public life speak to the theme of friendship:
 the American poet Ralph Waldo Emerson (1803-1882), "The only way to have a
 friend is to be one," and President Bill Clinton's "*Shalom Chaver*."
 
+Rabbi Mattisyahu HaYitzhari (on *Avos* 6:1): a *rei'a* is one who cleaves to his
+fellow and whose thoughts never part from him, in study, in public affairs, or
+in bodily matters; the word is from *ra'ayon*, thought (Koheles 1:17; Tehillim
+139:2, 139:17). So *bechol eis ohev harei'a, ve'ach letzarah yivaled* (Mishlei
+17:17): a true *rei'a* loves at every time, and hurries to his friend's trouble
+as though born that moment to be his brother. He reads *rei'im ahuvim* in the
+wedding blessings the same way: each seeks to be loved by the other as he loves
+him, thinking himself wanting in his friend's eyes.
+
 ## Rendering guidance
 
 - Set renderings before translating. Rabbi Klein's own English is *chaver* =
@@ -127,4 +137,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[G-d's Best Friend](https://articles.ohr.edu/articles/g-ds-best-friend)," *What's in a Word?*, Ohr Somayach, 3 February 2018.
 
-Cited in the essay: the Midrash on Yisro's seven names; Devarim 13:7; Vayikra 19:18; Shemos 11:2; Kiddushin 41a; Niddah 17a; Shabbos 63a; Mishlei 13:20 with Rashi, and 18:24 with Maharsha to Berachos 63a; Targum Onkelos; Rabbi Elazar Rokeach of Worms, commentary to the Siddur; Rabbi Shlomo Aharon Wertheimer; Ralph Waldo Emerson; President Bill Clinton.
+Rabbi Reuven Chaim Klein, "G-d’s Best Friend," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: the Midrash on Yisro's seven names; Devarim 13:7; Vayikra 19:18; Shemos 11:2; Kiddushin 41a; Niddah 17a; Shabbos 63a; Mishlei 13:20 with Rashi, and 18:24 with Maharsha to Berachos 63a; Targum Onkelos; Rabbi Elazar Rokeach of Worms, commentary to the Siddur; Rabbi Shlomo Aharon Wertheimer; Ralph Waldo Emerson; President Bill Clinton; Rabbi Mattisyahu HaYitzhari on *Avos* 6:1; Koheles 1:17; Tehillim 139:2, 139:17; Mishlei 17:17.

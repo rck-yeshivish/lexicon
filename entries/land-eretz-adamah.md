@@ -19,9 +19,10 @@ words:
 sources:
   - wiaw:7313 "The Land Down Under" (2017-06-24) https://articles.ohr.edu/articles/the-land-down-under
   - wiaw:9346 "Seasoning the Land" (2021-08-28) https://articles.ohr.edu/articles/seasoning-the-land
-authorities: [Vilna Gaon, Malbim, Rabbeinu Bachaya, Ritva, Rabbi Yechiel Michel Moravsky of Lublin, Rabbi Yisrael Lipschitz, Maharshal, Rabbi Yitzchok Dov Bamberger, Pri Megadim, Rabbi Yaakov Chaim Sofer, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg]
+  - ms:250-the-land-down-under.md "The Land Down Under"
+authorities: [Vilna Gaon, Malbim, Rabbeinu Bachaya, Ritva, Rabbi Yechiel Michel Moravsky of Lublin, Rabbi Yisrael Lipschitz, Maharshal, Rabbi Yitzchok Dov Bamberger, Pri Megadim, Rabbi Yaakov Chaim Sofer, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Shadal]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Land: eretz / adamah
 
@@ -93,6 +94,9 @@ the earth's persistent motion, and in the Holy Land people must be constantly
 active to fulfill the agricultural mitzvos; outside it they remain inactive with
 respect to those mitzvos, and the land is *adamah*.
 
+Shadal (to Bereishis 2:6): *adamah* is only the surface, which is why the fruit
+of the ground needs a berachah of its own.
+
 ### the dissent
 The Maharshal holds the reverse: *eretz* is limited to the surface and the
 topmost three cubits of soil (compare Rashi to Bereishis 6:13), while *adamah*
@@ -138,4 +142,6 @@ Rabbi Reuven Chaim Klein, "[The Land Down Under](https://articles.ohr.edu/articl
 
 Rabbi Reuven Chaim Klein, "[Seasoning the Land](https://articles.ohr.edu/articles/seasoning-the-land)," *What's in a Word?*, Ohr Somayach, 28 August 2021.
 
-Cited in the essay: Bamidbar 16:30-34, 26:10; Devarim 11:6; Tehillim 104:14; Bereishis 3:17; Rashi to Bereishis 6:13; Yerushalmi Taanis 1:3; Shabbos 30b; the berachos of *hamotzi lechem min ha'aretz* and *borei pri ha'adamah*; Bereishis Rabbah 5:8; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. דם and רץ; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Devarim 12:1.
+Rabbi Reuven Chaim Klein, "The Land Down Under," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bamidbar 16:30-34, 26:10; Devarim 11:6; Tehillim 104:14; Bereishis 3:17; Rashi to Bereishis 6:13; Yerushalmi Taanis 1:3; Shabbos 30b; the berachos of *hamotzi lechem min ha'aretz* and *borei pri ha'adamah*; Bereishis Rabbah 5:8; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. דם and רץ; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Devarim 12:1; Shadal to Bereishis 2:6.

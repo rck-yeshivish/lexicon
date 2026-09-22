@@ -16,9 +16,10 @@ words:
     distinct: by sheer force, with no payment (Vilna Gaon); a change of ownership (Rabbi Chaim of Brisk); positive, raised above one's circumstances (Chatam Sofer); born of closeness, as goel hadam (Malbim); the profane brought into holiness, or the nation (Stern)
 sources:
   - wiaw:7742 "Words of Redemption" (2018-05-05) https://articles.ohr.edu/articles/words-of-redemption
-authorities: [Vilna Gaon, Rabbi Chaim Soloveitchik of Brisk, Chatam Sofer, Rabbi Menachem Mendel Hager of Kosov, Malbim, Rabbi Shmuel Tuvia Stern, Rashi, Ramban, Ibn Janach, Menachem Ibn Saruk, Radak]
+  - ms:214-words-of-redemption.md "Words of Redemption"
+authorities: [Vilna Gaon, Rabbi Chaim Soloveitchik of Brisk, Chatam Sofer, Rabbi Menachem Mendel Hager of Kosov, Malbim, Rabbi Shmuel Tuvia Stern, Rashi, Ramban, Ibn Janach, Menachem Ibn Saruk, Radak, Rabbi Shlomo Pappenheim]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Redemption: geulah / pidyon (pedus)
 
@@ -101,6 +102,16 @@ mechanisms for redeeming consecrated animals, houses, or fields (Vayikra
 27:9-34). The verb there is sometimes *goel* and sometimes *podeh*: what is
 the difference between them?
 
+Rabbi Shlomo Pappenheim (*Cheshek Shlomo* s.v. פד): *pidyah* and *geulah* are
+one matter, since one pasuk uses both of one thing (Vayikra 27:27). They differ
+as every act differs from its aim. *Gaal* names the aim, the release itself,
+from *gal*, rolling off what covers a thing in bondage; so *geulah* is used
+mostly of pledged things, houses, slaves and land, returning from bondage to
+their owner or to themselves (Vayikra 25:24, 25:25, 25:48, 27:15). *Padah* names
+the act that brings the release, paying money or its worth or doing something by
+which the thing is freed (Shemos 13:13, 34:20; Vayikra 19:20; Bamidbar 3:48;
+Devarim 7:8; Shmuel I 14:45; Yeshayahu 1:27).
+
 ## Rendering guidance
 
 - פדיון with a price in view (*pidyon haben*, *pidyon shevuyim*, redeeming
@@ -129,4 +140,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Words of Redemption](https://articles.ohr.edu/articles/words-of-redemption)," *What's in a Word?*, Ohr Somayach, 5 May 2018.
 
-Cited in the essay: Vayikra 25:25-55, 27:9-34; Bamidbar 35:19; Iyov 33:24 with Rashi; Ramban to Devarim 21:14; the Vilna Gaon; Rabbi Chaim Soloveitchik of Brisk; the Chatam Sofer; Rabbi Menachem Mendel Hager of Kosov; Malbim, *Sefer HaCarmel* s.v. גאל, פדה, פדע; Rabbi Shmuel Tuvia Stern; Ibn Janach, Menachem Ibn Saruk and Radak.
+Rabbi Reuven Chaim Klein, "Words of Redemption," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Vayikra 25:25-55, 27:9-34; Bamidbar 35:19; Iyov 33:24 with Rashi; Ramban to Devarim 21:14; the Vilna Gaon; Rabbi Chaim Soloveitchik of Brisk; the Chatam Sofer; Rabbi Menachem Mendel Hager of Kosov; Malbim, *Sefer HaCarmel* s.v. גאל, פדה, פדע; Rabbi Shmuel Tuvia Stern; Ibn Janach, Menachem Ibn Saruk and Radak; Pappenheim, *Cheshek Shlomo* s.v. פד; Vayikra 19:20, 25:24, 25:25, 25:48, 27:15, 27:27; Shemos 13:13, 34:20; Bamidbar 3:48; Devarim 7:8; Shmuel I 14:45; Yeshayahu 1:27.

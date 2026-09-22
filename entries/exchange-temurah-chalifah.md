@@ -16,9 +16,10 @@ words:
     distinct: seen from the objects switched (Malbim), and from the thing gotten rid of, moved out of one place or state whether or not anything replaces it (Rav Hirsch); two people swapping (Algazi); trading up (Shapira-Frankfurter) or neutral (Wertheimer)
 sources:
   - wiaw:8714 "Old Switcheroo" (2020-05-23) https://articles.ohr.edu/articles/old-switcheroo
-authorities: [Rabbi Yisrael Yaakov Algazi, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Malbim, Ibn Chayyuj, Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim]
+  - ms:215-the-old-switcheroo.md "The Old Switcheroo"
+authorities: [Rabbi Yisrael Yaakov Algazi, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Malbim, Ibn Chayyuj, Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Shes ben Yefes, Rabbi Gavriel Wolf Margolios]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Exchange: temurah / chalifah
 
@@ -101,6 +102,14 @@ rid of, and it runs against what Pappenheim himself writes in *Cheshek Shlomo*,
 where *temurah* is "out with the old" and *chalifah* "in with the new";
 Pappenheim concedes that in practice the two have become largely interchangeable.
 
+*Chemdas HaChemdah* (to Vayikra 27:10): *lo yachalifenu* forbids letting a
+particular consecrated animal be lost with the plan of simply replacing it, and
+*lo yamir* forbids swapping something already consecrated to move its holiness
+onto another animal, better or worse.
+
+*Toras Gavriel*, by Rabbi Gavriel Wolf Margolios, son-in-law of Rabbi Nachum of
+Horodna: *chalaf* is bad for good and *temurah* good for bad.
+
 ## Rendering guidance
 
 - Where the two stand together in the parashah of *temurah*, render *temurah*
@@ -129,4 +138,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Old Switcheroo](https://articles.ohr.edu/articles/old-switcheroo)," *What's in a Word?*, Ohr Somayach, 23 May 2020.
 
-Cited in the essay: Vayikra 27:10 and 27:33; Bereishis 35:2 and 41:14; Shmuel II 12:20; Yeshayahu 2:18; Tehillim 106:20; Pappenheim, *Cheshek Shlomo* s.v. מר and *Yerios Shlomo* on ח-ל-ף.
+Rabbi Reuven Chaim Klein, "The Old Switcheroo," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Vayikra 27:10 and 27:33; Bereishis 35:2 and 41:14; Shmuel II 12:20; Yeshayahu 2:18; Tehillim 106:20; Pappenheim, *Cheshek Shlomo* s.v. מר and *Yerios Shlomo* on ח-ל-ף; *Chemdas HaChemdah* to Vayikra 27:10; *Toras Gavriel*.

@@ -25,9 +25,10 @@ words:
     distinct: paired with leom against goy as a nation that does have a single king (Rabbi Yoel Ibn Shuaib); Rashi, citing Ibn Saruk, treats leomim, umim, and goyim as very close in meaning
 sources:
   - wiaw:7491 "The Unaffiliated Nations" (2017-11-18) https://articles.ohr.edu/articles/the-unaffiliated-nations
-authorities: [Rashi, Rabbi Menachem Ibn Saruk, Rabbi Wolf Heidenheim, Rabbi Yoel Ibn Shuaib, Malbim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Edel, Rabbi Eliyahu Mizrachi, Rabbi Shlomo Ibn Melech, Radak, Rabbeinu Yonah]
+  - ms:036-the-unaffiliated-nations.md "The Unaffiliated Nations"
+authorities: [Rashi, Rabbi Menachem Ibn Saruk, Rabbi Wolf Heidenheim, Rabbi Yoel Ibn Shuaib, Malbim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Edel, Rabbi Eliyahu Mizrachi, Rabbi Shlomo Ibn Melech, Radak, Rabbeinu Yonah, Rabbi Elazar Rokeach of Worms]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Nation: goy / am / leom / umah
 
@@ -106,6 +107,14 @@ view (Malbim). Rabbi Yoel Ibn Shuaib: the Pelishtim, ruled by five lords
   ruled by one; with Yisrael the possessor is almost always Hashem.
 - Rabbi Shlomo Pappenheim, cited approvingly by Heidenheim: *am* is spelled like
   *im*, "with", which says that the bond among its members is the closer one.
+- Siddur HaRokeach, in several places: *am* is a smaller body, one kingdom with
+  one deity and one religion, even a single city (*vehayinu le'am echad*,
+  Bereishis 34:16), while *goy* is a multitude, a *hamonia*, of one language
+  (*umi goy gadol*, Devarim 4:8); *goyim* are many nations together, as Nineveh,
+  and the chosen of a people are its *am*. Toras HaKavod, by a student of the
+  Rokeach, quotes his teacher that *am* means a people together and *goy* a
+  multitude, and that in the prophecy of Gog, where the sanctification of
+  Hashem's Name is at stake, the pasuk says *goy* (Yechezkel 38:23).
 
 ### leom (לאום) and umah (אומה)
 - Rashi (to Tehillim 2:1) in the name of Rabbi Menachem Ibn Saruk treats
@@ -142,4 +151,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[The Unaffiliated Nations](https://articles.ohr.edu/articles/the-unaffiliated-nations)," *What's in a Word?*, Ohr Somayach, 18 November 2017.
 
-Cited in the essay: Bereishis 25:23 with Rashi and Targum; Rashi to Tehillim 2:1 citing Ibn Saruk; Yehoshua 13:3; Devarim 27:9; Yoel 2:2 with Mishlei 30:27; *Biur HaGra* to Yeshayahu 1:4; Shemos 21:8; Bereishis 20:4 with Rabbi Eliyahu Mizrachi and *Michlal Yofi*; Radak, *Sefer HaShorashim*, in the name of Rabbeinu Yonah; *Bereishis Rabbah* 63.
+Rabbi Reuven Chaim Klein, "The Unaffiliated Nations," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 25:23 with Rashi and Targum; Rashi to Tehillim 2:1 citing Ibn Saruk; Yehoshua 13:3; Devarim 27:9; Yoel 2:2 with Mishlei 30:27; *Biur HaGra* to Yeshayahu 1:4; Shemos 21:8; Bereishis 20:4 with Rabbi Eliyahu Mizrachi and *Michlal Yofi*; Radak, *Sefer HaShorashim*, in the name of Rabbeinu Yonah; *Bereishis Rabbah* 63; Siddur HaRokeach pp. 46, 51, 52, 119, 133, 175, 407; Bereishis 34:16; Devarim 4:6, 4:8; Yechezkel 38:23; *Toras HaKavod*.

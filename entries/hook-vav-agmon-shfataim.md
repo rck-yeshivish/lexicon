@@ -24,9 +24,10 @@ words:
     distinct: once only, and disputed; hooks (Targum, Rashi, Rabbi Shlomo of Urbino), the stovetop place where pots sit unlifted until cooked (Radak, Abarbanel, Pappenheim), or a ledge around the Table (Rabbi Eliezer of Beaugency)
 sources:
   - wiaw:9565 "On Hooks and Hangers" (2022-02-05) https://articles.ohr.edu/articles/on-hooks-and-hangers
-authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rashi, Rabbi Shlomo of Urbino, Abarbanel, Rabbi Eliezer of Beaugency, Targum Onkelos, Shadal, A. E. Silverstone]
+  - ms:156-on-hooks-and-hangers.md "On Hooks and Hangers"
+authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rashi, Rabbi Shlomo of Urbino, Abarbanel, Rabbi Eliezer of Beaugency, Targum Onkelos, Shadal, A. E. Silverstone, Rabbi Moshe Yitzchak Ashkenazi Tedeschi]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Hook: vav / agmon / shfataim (ankliyot)
 
@@ -94,6 +95,9 @@ mispronounced Onkelos as Akylas. The aleph/ayin difference between the two need
 not trouble us, Rabbi Klein remarks, since in this Greek word the two letters
 interchange anyway.
 
+Rabbi Moshe Yitzchak Ashkenazi Tedeschi (*Hoil Moshe* to Yechezkel 40:43):
+*unkelin* comes from ע-ק-ל with a nun added, as *sha'ananim* and *shenanim*.
+
 ### agmon (אגמון)
 Five appearances (Iyov 40:26, 41:12; Yeshayahu 9:13, 19:15, 58:5). This is the
 third biblical word, one that Rabbi Shlomo of Urbino does not explicitly list as
@@ -156,4 +160,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[On Hooks and Hangers](https://articles.ohr.edu/articles/on-hooks-and-hangers)," *What's in a Word?*, Ohr Somayach, 5 February 2022.
 
-Cited in the essay: Shemos 26, 27, 36, 38 with Targum Onkelos; Rashi to Shemos 27:10; Mishnah Pesachim 5:9, Tamid 3:5, Middos 3:5, Keilim 12:2-3; Yechezkel 40:43 with Targum, Rashi, Radak, Abarbanel and Rabbi Eliezer of Beaugency; Radak, *Sefer HaShorashim* s.v. שפת; *Machberes Menachem*; Iyov 40:26, 41:12; Yeshayahu 9:13, 19:15, 58:5; Bamidbar 23:3; Daniel 1:20, 2:2, 2:10; Rabbi Shlomo of Urbino, *Ohel Moed*; A. E. Silverstone, *Aquila and Onkelos* (Manchester University Press, 1970), with Shadal's letter to Rabbi Shlomo Yehuda Rappaport of Prague.
+Rabbi Reuven Chaim Klein, "On Hooks and Hangers," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 26, 27, 36, 38 with Targum Onkelos; Rashi to Shemos 27:10; Mishnah Pesachim 5:9, Tamid 3:5, Middos 3:5, Keilim 12:2-3; Yechezkel 40:43 with Targum, Rashi, Radak, Abarbanel and Rabbi Eliezer of Beaugency; Radak, *Sefer HaShorashim* s.v. שפת; *Machberes Menachem*; Iyov 40:26, 41:12; Yeshayahu 9:13, 19:15, 58:5; Bamidbar 23:3; Daniel 1:20, 2:2, 2:10; Rabbi Shlomo of Urbino, *Ohel Moed*; A. E. Silverstone, *Aquila and Onkelos* (Manchester University Press, 1970), with Shadal's letter to Rabbi Shlomo Yehuda Rappaport of Prague; *Hoil Moshe* to Yechezkel 40:43.

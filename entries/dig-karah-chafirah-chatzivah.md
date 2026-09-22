@@ -23,9 +23,10 @@ words:
 sources:
   - wiaw:9554 "Digging Deeper" (2022-01-29) https://articles.ohr.edu/articles/digging-deeper
   - wiaw:7302 "Spy versus Spy" (2017-06-17) https://articles.ohr.edu/articles/spy-versus-spy
-authorities: [Malbim, Ibn Ezra, Ibn Ramoch, Meiri, Rabbi Yaakov Tzvi Mecklenburg, Netziv, Rav Hirsch, Rabbi Shaul Bruch, Rabbi Shlomo Pappenheim, Rabbi Yosef Kara]
+  - ms:137-digging-deeper.md "Digging Deeper"
+authorities: [Malbim, Ibn Ezra, Ibn Ramoch, Meiri, Rabbi Yaakov Tzvi Mecklenburg, Netziv, Rav Hirsch, Rabbi Shaul Bruch, Rabbi Shlomo Pappenheim, Rabbi Yosef Kara, the Gemara, Rabbi Yitzchak Isaac Chaver]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Dig: karah / chafirah / chatzivah
 
@@ -87,6 +88,8 @@ Bava Basra 2:12).
   peasant who works them, and *kerem*, a vineyard, land ripe for planting vines.
   And *kares*, cutting, since digging breaks the parts of the earth apart from
   one another as cutting separates piece from piece.
+- The Gemara (*Sotah* 13a), in the name of Rabbi Shimon ben Yehotzadak: *kirah*
+  means only selling, for in the coastal towns they call selling *kirah*.
 
 ### chafirah (חפירה)
 Root ח-פ-ר; twenty-three Biblical occurrences as digging by Even Shoshan's
@@ -119,6 +122,10 @@ Bava Kamma 5:5, Bava Basra 2:12).
   merit the well came to be (Taanis 9a); only then does the song turn to the
   secondary reason, the rest of the nation, whose merits could begin the digging
   (*karah*) but not complete the project without the leaders.
+- *Be'er Yitzchak* of Rabbi Yitzchak Isaac Chaver (on *Aderes Eliyahu*, Balak):
+  *chafirah* is a hole not meant to be filled, which stays open, while *kirah*
+  is meant to be closed. So *bekivri asher karisi li* (Bereishis 50:5), a grave
+  to be sealed by the dead placed in it, and so everywhere.
 
 ### chatzivah (חציבה)
 Root ח-צ-ב.
@@ -161,4 +168,6 @@ Rabbi Reuven Chaim Klein, "[Digging Deeper](https://articles.ohr.edu/articles/di
 
 Rabbi Reuven Chaim Klein, "[Spy versus Spy](https://articles.ohr.edu/articles/spy-versus-spy)," *What's in a Word?*, Ohr Somayach, 17 June 2017.
 
-Cited in the essay: Shemos 21:33-34 with Malbim and Rav Hirsch; Devarim 1:22 with Rabbi Yaakov Tzvi Mecklenburg; Bava Kamma 1:1 and 5:5; Tehillim 7:16 with Malbim, Ibn Ezra, Ibn Ramoch, Meiri; Bereishis 26:25 and 26:32 with Malbim, HaKsav VeHaKabbalah, HaEmek Davar; Bereishis 50:5 with Netziv; Bamidbar 21:17-18 and Shemos 15:1 with Rabbi Shaul Bruch and Taanis 9a; Rav Hirsch to Bereishis 26:25 and 49:5; Pappenheim on the biliteral כ-ר; Rabbi Yosef Kara to Yeshayahu 5:2; Sheviis 3:10, Bava Basra 2:12; Even Shoshan's concordance for the counts of ח-פ-ר and כ-ר-ה.
+Rabbi Reuven Chaim Klein, "Digging Deeper," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 21:33-34 with Malbim and Rav Hirsch; Devarim 1:22 with Rabbi Yaakov Tzvi Mecklenburg; Bava Kamma 1:1 and 5:5; Tehillim 7:16 with Malbim, Ibn Ezra, Ibn Ramoch, Meiri; Bereishis 26:25 and 26:32 with Malbim, HaKsav VeHaKabbalah, HaEmek Davar; Bereishis 50:5 with Netziv; Bamidbar 21:17-18 and Shemos 15:1 with Rabbi Shaul Bruch and Taanis 9a; Rav Hirsch to Bereishis 26:25 and 49:5; Pappenheim on the biliteral כ-ר; Rabbi Yosef Kara to Yeshayahu 5:2; Sheviis 3:10, Bava Basra 2:12; Even Shoshan's concordance for the counts of ח-פ-ר and כ-ר-ה; *Sotah* 13a; *Be'er Yitzchak* on *Aderes Eliyahu*, Balak.

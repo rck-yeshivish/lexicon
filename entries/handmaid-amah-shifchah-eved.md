@@ -22,9 +22,10 @@ words:
 sources:
   - wiaw:8120 "The Handmaid's Deal" (2019-02-02) https://articles.ohr.edu/articles/the-handmaids-deal
   - wiaw:9448 "Family Matters" (2021-11-20) https://articles.ohr.edu/articles/family-matters
+  - ms:131-the-handmaids-deal.md "The Handmaid’s Deal"
 authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Pappenheim, Rabbi Eliezer Reines, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rabbi Moshe Sherrow, Moshav Zekeinim, Rabbi Aharon Marcus, Rabbi Zev Hoberman, Menachem Ibn Saruk, Ibn Janach, Radak]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Handmaid: amah / shifchah (and eved)
 
@@ -121,6 +122,11 @@ cohabit with a non-Jewish bondwoman, ordinarily forbidden to him. Rabbi Moshe
 Sherrow draws the conclusion: since neither the Jewish nor the non-Jewish male
 slave is in the ordinary position of a Jew, one word covers both.
 
+HaKsav VeHaKabbalah (to Shemos 21:26): when *eved* stands beside *amah*, the
+*eved* is a Canaanite slave. An *amah* is only a young girl, and a Hebrew male
+cannot be sold as a boy, only as an adult; since the pairing speaks of servants
+of one age, the *eved* cannot be a Hebrew one.
+
 ## Rendering guidance
 
 - אמה: "maidservant" or "handmaid." Where the passage is about nursing or
@@ -146,4 +152,6 @@ Rabbi Reuven Chaim Klein, "[The Handmaid's Deal](https://articles.ohr.edu/articl
 
 Rabbi Reuven Chaim Klein, "[Family Matters](https://articles.ohr.edu/articles/family-matters)," *What's in a Word?*, Ohr Somayach, 20 November 2021.
 
-Cited in the essay: Bereishis 16, 20:17, 21, 25:12, 32:23, 33:2, 33:6; Shemos 21:4, 21:8-9; Vayikra 13:2, 25:44; Shmuel I 25; Kesubos 59b; *Moshav Zekeinim* to Shemos 21:4; Rabbi Avraham Bedersi HaPenini; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Eliezer Reines, *Maftechos HaDamesek* (Warsaw 1898).
+Rabbi Reuven Chaim Klein, "The Handmaid’s Deal," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 16, 20:17, 21, 25:12, 32:23, 33:2, 33:6; Shemos 21:4, 21:8-9; Vayikra 13:2, 25:44; Shmuel I 25; Kesubos 59b; *Moshav Zekeinim* to Shemos 21:4; Rabbi Avraham Bedersi HaPenini; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Eliezer Reines, *Maftechos HaDamesek* (Warsaw 1898); HaKsav VeHaKabbalah to Shemos 21:26.

@@ -20,9 +20,10 @@ words:
     distinct: from al plus shteim-asar, "upon twelve" (Ibn Janach); or kin to ashtonot, "plans," which are born of thought as eleven is born out of ten (Ibn Ezra); or from eshet, a swollen body, a bloated ten (Rabbi Meir Mintzberg); or unknown (Radak)
 sources:
   - wiaw:7864 "The Number Eleven" (2018-07-21) https://articles.ohr.edu/articles/the-number-eleven
-authorities: [Rabbi Yonah Ibn Janach, Ibn Ezra, Radak, Peirush HaRokeach, Rabbi Meir Mintzberg]
+  - ms:294-the-number-eleven.md "The Number Eleven"
+authorities: [Rabbi Yonah Ibn Janach, Ibn Ezra, Radak, Peirush HaRokeach, Rabbi Meir Mintzberg, the Gemara, Zohar, Rabbi Aharon Marcus, Rabbi Shlomo Pappenheim]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Eleven: achad-asar / ashtei-asar
 
@@ -110,6 +111,24 @@ The opaque form, and the more common one in Tanach. Used of the eleventh month
 others are not in view.
 Never prefixed with *ha-*.
 
+The Gemara (*Sanhedrin* 29a): Chizkiyah derives that whoever adds, subtracts,
+from *lo sochlu mimenu velo sigu bo* (Bereishis 3:3); Rav Mesharshiya from
+*amasayim vachetzi orko* (Shemos 25:10); and Rav Ashi from *ashtei esreh yerios*
+(Shemos 26:7), where adding an ayin to *shtei esreh* makes eleven of twelve.
+
+The Zohar (Terumah 164b) brings *ashtei asar* as a case of adding that
+subtracts, *kol hamosif gorea*; and see HaKsav VeHaKabbalah to Devarim 33:16.
+
+Rabbi Aharon Marcus (*Keses HaSofer* p. 358): *ashtei* means one in the language
+of Shinar.
+
+Rabbi Shlomo Pappenheim (*Cheshek Shlomo* s.v. עש): *ashtei asar* (Shemos 26:7;
+Bamidbar 7:72) is from *eshes*, matter compounded of different kinds. Eleven is
+the first number compounded of two kinds, units and tens, and ten, the first of
+the tens, is itself compound while one, the first of the units, is simple; so
+the sum is called *ashtei asar*, *ashtei* hinting at the one added to ten, which
+makes the whole like *eshes*, compounded of unlike things.
+
 ## Rendering guidance
 
 - Default: אחד עשר = "eleven," עשתי עשר = "eleventh," and check the context
@@ -135,4 +154,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[The Number Eleven](https://articles.ohr.edu/articles/the-number-eleven)," *What's in a Word?*, Ohr Somayach, 21 July 2018.
 
-Cited in the essay: Devarim 1:1-3; Tehillim 146:4; Shir HaShirim 5:14 with Rashi; Yirmiyahu 5:28 with Rashi; Yoma 34b; Menachos 28a; Ibn Janach, Ibn Ezra, and Radak on *ashtei asar*; *Peirush HaRokeach*; Rabbi Meir Mintzberg; the Ugaritic funerary inscription of Niqmaddu.
+Rabbi Reuven Chaim Klein, "The Number Eleven," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Devarim 1:1-3; Tehillim 146:4; Shir HaShirim 5:14 with Rashi; Yirmiyahu 5:28 with Rashi; Yoma 34b; Menachos 28a; Ibn Janach, Ibn Ezra, and Radak on *ashtei asar*; *Peirush HaRokeach*; Rabbi Meir Mintzberg; the Ugaritic funerary inscription of Niqmaddu; *Sanhedrin* 29a; Bereishis 3:3; Shemos 25:10, 26:7; Zohar, Terumah 164b; HaKsav VeHaKabbalah to Devarim 33:16; *Keses HaSofer* p. 358; Pappenheim, *Cheshek Shlomo* s.v. עש; Shemos 26:7; Bamidbar 7:72.

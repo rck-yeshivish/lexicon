@@ -72,9 +72,10 @@ sources:
   - wiaw:8098 "Cut it Out! (Part 1 of 2)" (2019-01-19) https://articles.ohr.edu/articles/cut-it-out-part-1-of-2
   - wiaw:8107 "Cut it Out! (Part 2 of 2)" (2019-01-26) https://articles.ohr.edu/articles/cut-it-out-part-2-of-2
   - wiaw:8271 "Karet and Ariri" (2019-06-01) https://articles.ohr.edu/articles/karet-and-ariri
-authorities: [Rabbi Yitzchok Meir Alter of Ger, Shulchan Aruch HaRav, Rabbi Shmuel Borenstein of Sochatchov, Rabbi Shlomo Pappenheim, Rav Hirsch]
+  - ms:114-cut-it-out.md "Cut it out!"
+authorities: [Rabbi Yitzchok Meir Alter of Ger, Shulchan Aruch HaRav, Rabbi Shmuel Borenstein of Sochatchov, Rabbi Shlomo Pappenheim, Rav Hirsch, Shadal]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Cutting: bokea / korea / gozer (and the wider family)
 
@@ -117,6 +118,12 @@ a flask (*Gittin* 26a). On his reading the Written Torah, in which Hashem
 speaks, says *bokea* because from Above the sea split at His word, from within
 itself; the Oral Torah, speaking from the vantage of Klal Yisrael, says *korea*
 because from below the sea looks acted upon from outside.
+
+Shadal (to Shemos 18:21): *betza*, as in breaking bread, is related to *bokea*,
+kuf and tzadi interchanging as neighbours in the alef-beis, since it means
+cutting the loaf open. *Betza* as graft is ill-gotten gain a man may split
+between himself and a thief, and from there it was borrowed for a judge who
+takes money.
 
 ### korea (קריעה)
 Tearing. Halachically, *Shulchan Aruch HaRav* (*Orach Chaim* 340:17) defines *korea* as ripping apart two things
@@ -251,4 +258,6 @@ Rabbi Reuven Chaim Klein, "[Cut it Out! (Part 2 of 2)](https://articles.ohr.edu/
 
 Rabbi Reuven Chaim Klein, "[Karet and Ariri](https://articles.ohr.edu/articles/karet-and-ariri)," *What's in a Word?*, Ohr Somayach, 1 June 2019.
 
-Cited in the essay: Shemos 14:16, 14:21; *Shulchan Aruch HaRav*, *Orach Chaim* 340:17; Yeshayahu 34:15; *Gittin* 26a; Tehillim 136:13, 72:6, 37:2, 58:8, 91:6, 141:7; Bereishis 15, 15:17, 31:19, 38:12; Melachim I 3:25; Melachim II 6:4; Daniel 9:24; Yirmiyahu 34:18-19; Shir HaShirim 2:17, 4:3; Vayikra 2:6, 13:45, 21:10; Iyov 18:16, 24:24; Mishlei 7:23; Shmuel I 30:12; Devarim 24:1, 32:24; Yeshayahu 28:2; Hoshea 13:14; Rav Hirsch to Tehillim 136:13; Rabbi Shlomo Pappenheim, *Yerios Shlomo*.
+Rabbi Reuven Chaim Klein, "Cut it out!," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 14:16, 14:21; *Shulchan Aruch HaRav*, *Orach Chaim* 340:17; Yeshayahu 34:15; *Gittin* 26a; Tehillim 136:13, 72:6, 37:2, 58:8, 91:6, 141:7; Bereishis 15, 15:17, 31:19, 38:12; Melachim I 3:25; Melachim II 6:4; Daniel 9:24; Yirmiyahu 34:18-19; Shir HaShirim 2:17, 4:3; Vayikra 2:6, 13:45, 21:10; Iyov 18:16, 24:24; Mishlei 7:23; Shmuel I 30:12; Devarim 24:1, 32:24; Yeshayahu 28:2; Hoshea 13:14; Rav Hirsch to Tehillim 136:13; Rabbi Shlomo Pappenheim, *Yerios Shlomo*; Shadal to Shemos 18:21.

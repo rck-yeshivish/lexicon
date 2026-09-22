@@ -16,9 +16,10 @@ words:
     distinct: gradual waking through a half-asleep stage (Rabbi Shlomo Pappenheim); waking from deep sleep (Rabbi Yechezkel Pannet); the first stage, coming to one's senses, and the most basic waking (Malbim); a whole world revealed to the waker (Shoresh Yesha)
 sources:
   - wiaw:9473 "Wake-up Time" (2021-12-04) https://articles.ohr.edu/articles/wake-up-time
-authorities: [Rabbi Shlomo Pappenheim, Rav Hirsch, Malbim, Radak, Ibn Chayyuj, Ibn Janach, Menachem Ibn Saruk, Rabbi Aharon Marcus, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yechezkel Pannet, Shoresh Yesha, Rashi, Tosafos, Targum]
+  - ms:061-wake-up-time.md "Wake-up Time"
+authorities: [Rabbi Shlomo Pappenheim, Rav Hirsch, Malbim, Radak, Ibn Chayyuj, Ibn Janach, Menachem Ibn Saruk, Rabbi Aharon Marcus, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yechezkel Pannet, Shoresh Yesha, Rashi, Tosafos, Targum, Rabbi Nissim of Marseilles]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Waking: yekitzah / oorah
 
@@ -113,6 +114,9 @@ not awake" (*Pesachim* 120b; *Taanis* 12b).
   root) and reads it as a sleeper on the edge of waking.
 - Tosafos (to *Taanis* 12b, and see Tosafos to *Niddah* 63a) explain it the
   other way, the wakefulness of one about to fall asleep.
+- Rabbi Nissim of Marseilles (*Maaseh Nissim* p. 268): the *kosnos or* are the
+  Torah, which wakes a man to what he should attend to, *or* as in *er*,
+  rousing.
 
 ### the two together
 *Nishmas* has *HaMe'orer yesheinim v'haMeikitz nirdamim*, and pairs two words
@@ -158,4 +162,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Wake-up Time](https://articles.ohr.edu/articles/wake-up-time)," *What's in a Word?*, Ohr Somayach, 4 December 2021.
 
-Cited in the essay: Bereishis 6:13, 9:24 (Rav Hirsch), 23:9, 28:16, 41:4 (Rav Hirsch), 41:7; Shemos 39:3; Devarim 25:12; Melachim I 3:15; Melachim II 7:8; Yeshayahu 29:8; Yoel 1:5; Chavakuk 2:19 (Malbim); Tehillim 44:24, 73:20, 78:65, 119:96; Mishlei 23:35; Shir HaShirim 5:2; Daniel 11:35, 12:13; *Pesachim* 120b; *Taanis* 12b with Rashi and Tosafos; Rashi to *Bava Kamma* 117b; Tosafos to *Niddah* 63a; the Targumim; Ibn Chayyuj, Ibn Janach, and Radak; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. ער and קץ; Rabbi Aharon Marcus, *Keses HaSofer* to Bereishis 9:24; *Shoresh Yesha*; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Bereishis 11:4; Rabbi Yechezkel Pannet; Malbim, *Sefer HaCarmel* s.v. יקץ and עור; *Nishmas*.
+Rabbi Reuven Chaim Klein, "Wake-up Time," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 6:13, 9:24 (Rav Hirsch), 23:9, 28:16, 41:4 (Rav Hirsch), 41:7; Shemos 39:3; Devarim 25:12; Melachim I 3:15; Melachim II 7:8; Yeshayahu 29:8; Yoel 1:5; Chavakuk 2:19 (Malbim); Tehillim 44:24, 73:20, 78:65, 119:96; Mishlei 23:35; Shir HaShirim 5:2; Daniel 11:35, 12:13; *Pesachim* 120b; *Taanis* 12b with Rashi and Tosafos; Rashi to *Bava Kamma* 117b; Tosafos to *Niddah* 63a; the Targumim; Ibn Chayyuj, Ibn Janach, and Radak; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. ער and קץ; Rabbi Aharon Marcus, *Keses HaSofer* to Bereishis 9:24; *Shoresh Yesha*; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Bereishis 11:4; Rabbi Yechezkel Pannet; Malbim, *Sefer HaCarmel* s.v. יקץ and עור; *Nishmas*; Rabbi Nissim of Marseilles, *Maaseh Nissim* p. 268.

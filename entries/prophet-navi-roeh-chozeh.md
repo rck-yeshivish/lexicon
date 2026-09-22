@@ -22,9 +22,10 @@ words:
     nk: מַרְאֶה
 sources:
   - wiaw:8052 "Prophets and Visionaries" (2018-12-29) https://articles.ohr.edu/articles/prophets-and-visionaries
-authorities: [Rashi, Rashbam, Ibn Ezra, Rabbi Yonah Ibn Janach, Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Malbim, Vilna Gaon, Rabbi Aharon Marcus, Targum Onkelos, Rasag]
+  - ms:091-prophets-and-visionaries.md "Prophets and Visionaries"
+authorities: [Rashi, Rashbam, Ibn Ezra, Rabbi Yonah Ibn Janach, Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Malbim, Vilna Gaon, Rabbi Aharon Marcus, Targum Onkelos, Rasag, Bereishis Rabbah, Chasam Sofer]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Prophet: navi / roeh / chozeh
 
@@ -78,6 +79,12 @@ root, then the word after Yishaya on a seal without an *aleph* is not *navi* but
 something else, such as "Nobite"; if the *aleph* is not part of the root, then it
 is possible the seal really was the prophet's.
 
+*Bereishis Rabbah* (44:6), on *hayah dvar Hashem el Avram bamachazeh*: prophecy
+is called by ten names, among them *chazon*, *hatafah*, *dibbur*, *amirah*,
+*tzivui*, *masa*, *mashal*, *melitzah* and *chidah*. Which is the harshest?
+Rabbi Eliezer says *chazon*, Rabbi Yochanan says *dibbur*, and the Rabbanan say
+*masa*.
+
 ### roeh (רואה)
 Shmuel I 9:9 states outright that what a later generation called a *navi* an
 earlier generation called a *roeh*. Malbim: the earlier prophet was called a
@@ -86,6 +93,12 @@ help individuals uncover what was hidden from them, whether a lost object or a
 fault in themselves. Shaul, when his father's donkeys went missing, went to
 Shmuel to find them or to learn what sin had caused the loss (Shmuel I 9). A
 *roeh* was consulted; people came to him.
+
+Chasam Sofer (*Toras Moshe* to Devarim 12:13): a *roeh* only saw visions from
+Hashem and was not charged to spread them, while a *navi* is a prophet Hashem
+sends to preach to the people. From this he explains Devarim 12:13 as meaning
+that only a *navi* may suspend the prohibition of offering outside the Mikdash
+for the moment, as Eliyahu did on Mount Carmel, and a *roeh* may not.
 
 ### navi against roeh as a historical shift
 Malbim continues: when the nation declined, a different kind of prophet
@@ -145,4 +158,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Prophets and Visionaries](https://articles.ohr.edu/articles/prophets-and-visionaries)," *What's in a Word?*, Ohr Somayach, 29 December 2018.
 
-Cited in the essay: Shemos 7:1 with Rashi, Ibn Ezra, Targum Onkelos and Rasag; Bereishis 15:1, 20:7 with Rashbam and Rav Hirsch; Bamidbar 24:4, 24:16; Shmuel I 9 and 9:9 with Radak; Yeshayahu 1:1, 57:19; Mishlei 22:12; Nechemiah 6:7 with Rashi; *Avos d'Rabbi Nasan* ch. 34; Rabbi Yonah Ibn Janach and Radak, *Sefer HaShorashim*; the Vilna Gaon to Mishlei 22:12 and Yeshayahu 1:1; Malbim; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus, *Keses HaSofer* (מארקוס, עמ' שצח).
+Rabbi Reuven Chaim Klein, "Prophets and Visionaries," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 7:1 with Rashi, Ibn Ezra, Targum Onkelos and Rasag; Bereishis 15:1, 20:7 with Rashbam and Rav Hirsch; Bamidbar 24:4, 24:16; Shmuel I 9 and 9:9 with Radak; Yeshayahu 1:1, 57:19; Mishlei 22:12; Nechemiah 6:7 with Rashi; *Avos d'Rabbi Nasan* ch. 34; Rabbi Yonah Ibn Janach and Radak, *Sefer HaShorashim*; the Vilna Gaon to Mishlei 22:12 and Yeshayahu 1:1; Malbim; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus, *Keses HaSofer* (מארקוס, עמ' שצח); *Bereishis Rabbah* 44:6; Chasam Sofer, *Toras Moshe* to Devarim 12:13.

@@ -20,9 +20,10 @@ words:
     distinct: every negative consequence of the sin wiped out (Rav Hirsch); a price paid for forgiveness, usually a korban, or a covering that hides the sin without removing it (Malbim); Mecklenburg and Wertheimer do not set it against the other two
 sources:
   - wiaw:8400 "Forms of Forgiveness" (2019-09-21) https://articles.ohr.edu/articles/forms-of-forgiveness
-authorities: [Rabbi Eliyahu HaBachur, Rabbi Moshe Meth, Rabbi Yitzchak Eizik of Tirna, Rabbi Aharon Fuld, Rabbi Moshe Yitzchak Avigdor, Rabbi Yehuda Aszad, Rabbi Shlomo Pappenheim, Rabbi Yechezkel Landau, Malbim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Ernest Klein]
+  - ms:339-forms-of-forgiveness.md "Forms of Forgiveness"
+authorities: [Rabbi Eliyahu HaBachur, Rabbi Moshe Meth, Rabbi Yitzchak Eizik of Tirna, Rabbi Aharon Fuld, Rabbi Moshe Yitzchak Avigdor, Rabbi Yehuda Aszad, Rabbi Shlomo Pappenheim, Rabbi Yechezkel Landau, Malbim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Ernest Klein, Rabbi Dosa the Greek, Rabbi Zev Hoberman, Rabbi Eliyahu Menachem Margulies, the Vilna Gaon, Rabbi Yitzchak Hutner]
 status: reviewed
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Forgiveness: mechilah / selichah / kapparah
 
@@ -95,6 +96,23 @@ Hebrew Language* calls of uncertain etymology.
   even if not all of it.
 - Wertheimer: immediate and complete forgiveness.
 - Rav Hirsch: commuting the punishment the guilty party deserves.
+- Rabbi Dosa the Greek (to Devarim 9:18): *selichah* defers the debt, *mechilah*
+  forgives it at once.
+- Rabbi Zev Hoberman (*Ze'ev Yitraf*, Yom Kippur ch. 55): *selichah* not only
+  erases a misdeed but restores the love that existed before it, while
+  *mechilah* only erases the misdeed and waives the grievance, leaving the
+  relationship at neutral. Rabbi Eliyahu Menachem Margulies (*Emunas Eliezer*,
+  *Yerach HaEisanim* ch. 10) disagrees, since the Yom Kippur liturgy calls
+  Hashem the One who grants *mechilah* and also *selichah*, which implies
+  *selichah* is the greater. Following the Vilna Gaon, he explains *selichah* as
+  forgiving the infraction itself and *mechilah* as Hashem forgoing the slight
+  to His honor; so *mechilah* goes with *pesha*, deliberate sin, and the
+  relation of servant to king, and *selichah* with *chet*, inadvertent sin, and
+  the relation of son to father. He ties *mechilah* to *machol*, a circle dance:
+  as a circle surrounds a central point, every Jew, however wicked, holds a
+  point of pure intent, and Rabbi Yitzchak Hutner (*Pachad Yitzchak*, Yom Kippur
+  25:2) explains that Hashem forgives by reviving that buried intent, which
+  calls the deliberateness of the sin into question.
 
 ### kapparah (כפרה)
 Root כ-פ-ר.
@@ -137,4 +155,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Forms of Forgiveness](https://articles.ohr.edu/articles/forms-of-forgiveness)," *What's in a Word?*, Ohr Somayach, 21 September 2019.
 
-Cited in the essay: Bamidbar 14:19-20; Vayikra 4:20-35 and 5:10-26; Yeshayahu 43:25; Bamidbar 30:3 with Targum; Shemos 32:30; Mishlei 16:6, Yeshayahu 27:9, Tehillim 78:38; Rabbi Moshe Meth, *Matteh Moshe*, and Rabbi Yitzchak Eizik of Tirna, *Sefer HaMinhagim*, on the three words for sin; Rabbi Eliyahu HaBachur, with Rabbi Aharon Fuld's glosses; Rabbi Moshe Yitzchak Avigdor; Rabbi Yehuda Aszad; Rabbi Shlomo Pappenheim, *Yerios Shlomo* (חלק ג' עמ' כו), and *Cheshek Shlomo* s.v. עד גבי מעד; Rabbi Yechezkel Landau; Malbim, *Sefer HaCarmel* s.v. כפר; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. סלח/מחל; Rav Hirsch; Ernest Klein, *A Comprehensive Etymological Dictionary of the Hebrew Language*.
+Rabbi Reuven Chaim Klein, "Forms of Forgiveness," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bamidbar 14:19-20; Vayikra 4:20-35 and 5:10-26; Yeshayahu 43:25; Bamidbar 30:3 with Targum; Shemos 32:30; Mishlei 16:6, Yeshayahu 27:9, Tehillim 78:38; Rabbi Moshe Meth, *Matteh Moshe*, and Rabbi Yitzchak Eizik of Tirna, *Sefer HaMinhagim*, on the three words for sin; Rabbi Eliyahu HaBachur, with Rabbi Aharon Fuld's glosses; Rabbi Moshe Yitzchak Avigdor; Rabbi Yehuda Aszad; Rabbi Shlomo Pappenheim, *Yerios Shlomo* (חלק ג' עמ' כו), and *Cheshek Shlomo* s.v. עד גבי מעד; Rabbi Yechezkel Landau; Malbim, *Sefer HaCarmel* s.v. כפר; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. סלח/מחל; Rav Hirsch; Ernest Klein, *A Comprehensive Etymological Dictionary of the Hebrew Language*; Rabbi Dosa the Greek to Devarim 9:18; Rabbi Zev Hoberman, *Ze'ev Yitraf*, Yom Kippur ch. 55; Rabbi Eliyahu Menachem Margulies, *Emunas Eliezer*, *Yerach HaEisanim* ch. 10; Rabbi Yitzchak Hutner, *Pachad Yitzchak*, Yom Kippur 25:2.
