@@ -132,8 +132,8 @@ Hebrew Language* calls of uncertain etymology.
 - Rav Hirsch: commuting the punishment the guilty party deserves.
 - Rabbi Dosa the Greek (to Devarim 9:18): *selichah* defers the debt, *mechilah*
   forgives it at once.
-- Rabbi Zev Hoberman (*Ze'ev Yitraf*, Yom Kippur ch. 55): *selichah* not only
-  erases a misdeed but restores the love that existed before it, while
+- Rabbi Zev Hoberman (*Ze'ev Yitraf*, Yom Kippur ch. 55): *selichah* erases a
+  misdeed and also restores the love that existed before it, while
   *mechilah* only erases the misdeed and waives the grievance, leaving the
   relationship at neutral. Rabbi Eliyahu Menachem Margulies (*Emunas Eliezer*,
   *Yerach HaEisanim* ch. 10) disagrees, since the Yom Kippur liturgy calls

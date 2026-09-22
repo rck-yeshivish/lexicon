@@ -82,9 +82,9 @@ Urbino points out in *Ohel Moed* that *zecher* sometimes refers to the **scent**
 of a thing (Vayikra 6:8, Hoshea 14:8, Tehillim 20:4), in the same sense that a
 memory of something is a whiff of that idea and is not it itself.
 
-Shadal (to Shemos 20:8): *zachor* said of Shabbos does not mean remembering
-something past but keeping something present in mind: to remember each week that
-it is Shabbos and not ignore the day's holiness by forgetting it.
+Shadal (to Shemos 20:8): *zachor* said of Shabbos means keeping the present in
+mind, remembering each week that it is Shabbos so as not to lose the day's
+holiness by forgetting it.
 
 Shadal (to Vayikra 2:2): the original, concrete meaning of *zachor* is smelling.
 Smell fixes a thing in the mind so it can be recalled without being present, and

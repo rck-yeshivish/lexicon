@@ -45,8 +45,8 @@ updated: 2026-09-22
 
 *Oniah* is the general Biblical word, **ship**; *sefinah* is the ordinary
 Mishnaic word for the same thing, **ship** or **boat**, and appears only once in
-Tanach. At that one place (Yonah 1:5) Malbim makes the *sefinah* not the ship
-but its covered lower deck, and the Vilna Gaon (*Aderes Eliyahu*) the same ship,
+Tanach. At that one place (Yonah 1:5) Malbim makes the *sefinah* the ship's
+covered lower deck, and the Vilna Gaon (*Aderes Eliyahu*) the same ship,
 called *sefinah* once it is near land. *Rafsodah* and *dovrah* are both a **raft** of tied beams; *avarah* a
 **ferry**; *dugit* a small **fishing skiff**; *tzi* a **large ship**, usually a
 warship. In a pasuk *sefinah* is a rarity, in a Mishnah the default word.
@@ -125,9 +125,9 @@ Pappenheim traces it to the biliteral א-ן, "where," since a ship goes where th
 water pushes it, so a watcher asks where it is bound; Rav Hirsch (to Bereishis
 16:8) says only that the *oniah* brings a person to a "where."
 
-Abarbanel (to Bereishis 6:14-22): Noach was told to build a *teivah* and not a
-*sefinah* or *oniyah*, since it was not shaped like a ship with mast, sail and
-oars, but like a chest.
+Abarbanel (to Bereishis 6:14-22): Noach was told to build a *teivah*, shaped
+like a chest, since it had none of the mast, sail and oars of a *sefinah* or an
+*oniyah*.
 
 ### sefinah (ספינה)
 Once in Tanach, of Yonah's ship (Yonah 1:5), and thereafter the ordinary word,

@@ -4009,7 +4009,7 @@ For Ibn Ezra, *eimah* is the felt emotion of being afraid: **dread, terror**. *P
 
 **צחוק / שחוק / יצחק / ישחק / מצחק** — laughter | tzchok, tzechok, tzchoq, metzachek, vayitzchak, yitzchak, schok, sechok | reviewed | [laughter-tzchok-schok.md](entries/laughter-tzchok-schok.md)
 
-*Tzchok* and *s'chok* both mean **laughter**, and whether they differ is disputed. The lexicographers make them one word, with sin and tzadi interchanging, and find no difference of meaning between them (Menachem Ibn Saruk, Ibn Janach, Rabbi Shlomo Pappenheim): both run the full range from laughing and playing to mocking and deriding. The Ran, in his commentary on the Torah, separates them: *tzechok* is in the mouth, for joy, and *sechok* in the heart, by way of scorn. On the lexicographers' view, the discussion of *Yitzchak* against *Yischak* is not lexical but homiletical and kabbalistic.
+*Tzchok* and *s'chok* both mean **laughter**, and whether they differ is disputed. The lexicographers make them one word, with sin and tzadi interchanging, and find no difference of meaning between them (Menachem Ibn Saruk, Ibn Janach, Rabbi Shlomo Pappenheim): both run the full range from laughing and playing to mocking and deriding. The Ran, in his commentary on the Torah, separates them: *tzechok* is in the mouth, for joy, and *sechok* in the heart, by way of scorn. On the lexicographers' view, the discussion of *Yitzchak* against *Yischak* is homiletical and kabbalistic, and says nothing about what the words mean.
 
 **Rendering guidance.**
 
@@ -5848,7 +5848,7 @@ All three are commonly taken to mean **blemish**, and all three mean something e
 
 **אניה / ספינה / רפסודה / דוברה / עברה / דוגית / צי** — boats | oniah, oniyah, oni, oniyos, oniyot, sefinah, sefinta, safinah | reviewed | [boats-oniah-sefinah-rafsodah.md](entries/boats-oniah-sefinah-rafsodah.md)
 
-*Oniah* is the general Biblical word, **ship**; *sefinah* is the ordinary Mishnaic word for the same thing, **ship** or **boat**, and appears only once in Tanach. At that one place (Yonah 1:5) Malbim makes the *sefinah* not the ship but its covered lower deck, and the Vilna Gaon (*Aderes Eliyahu*) the same ship, called *sefinah* once it is near land. *Rafsodah* and *dovrah* are both a **raft** of tied beams; *avarah* a **ferry**; *dugit* a small **fishing skiff**; *tzi* a **large ship**, usually a warship. In a pasuk *sefinah* is a rarity, in a Mishnah the default word.
+*Oniah* is the general Biblical word, **ship**; *sefinah* is the ordinary Mishnaic word for the same thing, **ship** or **boat**, and appears only once in Tanach. At that one place (Yonah 1:5) Malbim makes the *sefinah* the ship's covered lower deck, and the Vilna Gaon (*Aderes Eliyahu*) the same ship, called *sefinah* once it is near land. *Rafsodah* and *dovrah* are both a **raft** of tied beams; *avarah* a **ferry**; *dugit* a small **fishing skiff**; *tzi* a **large ship**, usually a warship. In a pasuk *sefinah* is a rarity, in a Mishnah the default word.
 
 **Rendering guidance.**
 

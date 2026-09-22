@@ -157,8 +157,8 @@ The two gathering names, one from ק-ה-ל and one from א-ג-ר. *Midrash Agur*
 puts them beside Shlomo as his three most precious names, because gathering is
 what his reign was: the whole nation gathered together and no strife among them.
 
-Ibn Ezra (to Koheles 12:8): the definite article in *hakoheles* shows that
-*Koheles* is not a proper name but a common noun.
+Ibn Ezra (to Koheles 12:8): the definite article in *hakoheles* makes
+*Koheles* a common noun.
 
 ### Yakeh (יקה), Isiel (איתיאל) and Lemuel (למואל)
 Three of the names attached to the closing chapters of Mishlei. *Isiel* and

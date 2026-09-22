@@ -32,7 +32,8 @@ Saruk, Ibn Janach, Rabbi Shlomo Pappenheim): both run the full range from
 laughing and playing to mocking and deriding. The Ran, in his commentary on the
 Torah, separates them: *tzechok* is in the mouth, for joy, and *sechok* in the
 heart, by way of scorn. On the lexicographers' view, the discussion of
-*Yitzchak* against *Yischak* is not lexical but homiletical and kabbalistic.
+*Yitzchak* against *Yischak* is homiletical and kabbalistic, and says nothing
+about what the words mean.
 
 ## At a glance
 

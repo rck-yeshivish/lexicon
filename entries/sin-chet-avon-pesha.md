@@ -93,8 +93,8 @@ and my son Shlomo will be *chataim*" (Melachim I 1:21).
   *chet* is a sin committed because a person was swayed by his physical
   temptations and purposely indulged in what he knew to be wrong.
 - *Peirush HaRokeach*: inadvertent, as the Gemara has it.
-- HaKsav VeHaKabbalah (to Bereishis 4:7): *chatas* can mean the punishment that
-  follows the sin and not only the sin itself (see Zecharyah 14:19).
+- HaKsav VeHaKabbalah (to Bereishis 4:7): *chatas* can also mean the punishment
+  that follows the sin (see Zecharyah 14:19).
 
 ### avon (עון)
 Root ע-ו-ה, crooked.
