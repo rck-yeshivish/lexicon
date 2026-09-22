@@ -21,7 +21,7 @@ words:
   - he: פינוק
     tr: pinuk
     en: pampering, indulgence
-    distinct: once in Tanach (Mishlei 29:21); for Pappenheim not pleasure at all but playfulness and flattery, though the Targumim use pinuk words to render both oneg and eden
+    distinct: once in Tanach (Mishlei 29:21); for Pappenheim playfulness and flattery rather than pleasure, though the Targumim use pinuk words to render both oneg and eden
 sources:
   - wiaw:8295 "Indulging in Pleasure" (2019-06-22) https://articles.ohr.edu/articles/indulging-in-pleasure
   - ms:312-indulging-in-pleasure.md "Indulging in Pleasure"
@@ -40,7 +40,7 @@ is primarily pleasure of the soul, mind and heart, even when it arrives by way
 of the body: **delight, enjoyment**; *oneg Shabbos* is therefore delight in
 Shabbos, which may come through good food, not physical pleasure. Rav Hirsch reads
 *oneg* on other lines altogether, as being surrounded by favorable conditions.
-*Pinuk* is for Pappenheim not pleasure at all but playfulness and flattery, a
+*Pinuk* is for Pappenheim playfulness and flattery rather than pleasure, a
 claim that fits the one pasuk but does not account for the Targumim, which use
 *pinuk* words for both *oneg* and *eden*: **pampering, indulgence**.
 
@@ -119,8 +119,7 @@ Root ע-נ-ג.
 Root פ-נ-ק. A *hapax legomenon*, once in Tanach: מפנק מנער עבדו (Mishlei 29:21),
 warning a master not to be *mefanek* his slave lest the slave come to rule over
 him, that is, not to overindulge him or flatter him too much for his efforts,
-since he will grow used to the treatment and come to expect it. Pappenheim
-claims that *pinuk* does not mean pleasure at all but playfulness and flattery.
+since he will grow used to the treatment and come to expect it. Pappenheim claims that *pinuk* means playfulness and flattery, and not pleasure at all.
 That fits the pasuk's context well, but it does not account for the Targumim,
 which consistently use *pinuk* words to render *oneg* and *eden*: *anug* becomes
 *mefanak/mefunak*, *maadanei melech* becomes *tafnukei malkin*; in *Mah Yedidus*,

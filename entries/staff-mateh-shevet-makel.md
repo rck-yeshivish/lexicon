@@ -174,8 +174,7 @@ paradoxical role of the tribes of Yisrael: they are *shevatim* because Hashem
 granted them certain forms of authority and responsibility over the nations of
 the world, and *matos* (which he equates with *mishenes* and *chutra*) because
 they serve as Yaakov Avinu's "cane" in death, on whom he "leans" to carry on his
-legacy; in that way they are not autonomous but follow their forefather's
-tradition.
+legacy; in that way they follow their forefather's tradition.
 
 ## Rendering guidance
 

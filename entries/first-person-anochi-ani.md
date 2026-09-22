@@ -95,8 +95,7 @@ Sanskrit.
   translating twice as "I" and hoping the reader hears it.
 - *Anochi Hashem Elokecha* (Shemos 20:2): keep the Hebrew, and where an English
   rendering is needed pick the one your source demands. On Malbim and Rabbi
-  Pappenheim: "I, and none other, am Hashem your God." On Rav Hirsch: the
-  emphasis is not exclusion but nearness, so "I am Hashem your God" with the
+  Pappenheim: "I, and none other, am Hashem your God." On Rav Hirsch the emphasis is nearness, so "I am Hashem your God" with the
   intimacy carried in a note.
 - Do not render *anochi* as "myself" standing alone; it is a subject pronoun,
   not a reflexive object.

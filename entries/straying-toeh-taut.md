@@ -92,8 +92,7 @@ Rabbi Shlomo Aharon Wertheimer (1866 to 1935) also disagrees with Rabbi
 HaBachur's characterization. Both words can refer to somebody lost on the road,
 but he can be lost in different ways. The *to'eh* with a tav is a wayfarer who
 has lost his way and is completely at a loss as to the direction he should
-travel. The *to'eh* with a tes has not only lost his way but thinks he knows
-where he is going, and has decided the improper path to be the proper one.
+travel. The *to'eh* with a tes has lost his way and also thinks he knows where he is going, and has decided the improper path to be the proper one.
 
 ### The Targum on Hagar
 Bereishis 21:14 says Hagar left *va'teisa*, strayed (tav), in the wilderness of
@@ -102,8 +101,7 @@ a gathering where no one else offered one: the Targumim generally render idolatr
 deities *ta'avasa* (tes), on the understanding that avodah zarah began as
 mankind's mistake (Rambam, Hilchos Avodah Zarah ch. 1); so Onkelos hints at the
 tradition (in Pirkei DeRabbi Eliezer there and in other sources) that when
-Hagar left Avraham's house she returned to the idolatry of her youth. She did
-not only lose her way, she also erred by returning to idolatry. The discussion
+Hagar left Avraham's house she returned to the idolatry of her youth. She lost her way and also erred by returning to idolatry. The discussion
 illustrates the general assumption that the tav word is "lost" and the tes word
 "mistaken."
 

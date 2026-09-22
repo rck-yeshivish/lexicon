@@ -111,9 +111,7 @@ the Aramaic *iska* (Rashi to Berachos 56a, Shabbos 19b, Moed Katan 22a, Kesubos
 *issuk* one's occupation.
 
 ### askan (עסקן)
-Rashi (to Chullin 57b): Rabbi Shimon ben Chalafta was called an *askan* because
-he would not simply accept what other authorities reported but went out to test
-it himself. The word therefore carries the extra exertion of doing a thing with
+Rashi (to Chullin 57b): Rabbi Shimon ben Chalafta was called an *askan* because he went out to test for himself what other authorities reported. The word therefore carries the extra exertion of doing a thing with
 one's own hands, which is exactly the modern communal *askan*.
 
 ### shadal (שדל) and shtadlan (שתדלן)

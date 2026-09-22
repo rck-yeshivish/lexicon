@@ -131,7 +131,7 @@ Root ז-מ-ר, which in the verb *zomer* also means cutting down or pruning
 - Pappenheim: *zomer*, cutting or pruning, is discarding the riffraff and
   leaving the best, so *zimrah* is the choicest segment of a song, as though the
   rest had been cut out.
-- Analak: *zimrah* does not imply the whole edifice but one small part of it,
+- Analak: *zimrah* implies one small part of the whole edifice,
   one segment standing independent or cut off from the rest.
 - Rabbi Frances, on the other side of the pair: when Yaakov sent his sons down
   to Mitzrayim for food in the famine he sent with them the *zimras* of the land

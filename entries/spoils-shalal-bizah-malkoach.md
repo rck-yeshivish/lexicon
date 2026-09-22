@@ -160,8 +160,7 @@ evening he divides *shalal*" (Bereishis 49:27).
 - Rabbi Pappenheim derives it instead from *adi*, "jewelry, ornament," and
   limits it to the ornamental clothes soldiers wore to battle and were stripped
   of when captured.
-- Malbim: *ad* is not ordinary booty but specifically dead animals taken as war
-  prizes.
+- Malbim: *ad* is specifically dead animals taken as war prizes.
 - Rabbi Yaakov Tzvi Mecklenburg (1785 to 1865) takes *ad* from *ad* in the sense
   of transferring, since booty is a change of ownership, a sense similar to the
   commoner homonym *ad*, "until, through"; he holds that *shalal* is the

@@ -56,7 +56,7 @@ persistence of *ayef*.
 - Rabbi Shimon Schwab says they differ in degree, and reads the morning berachah
   accordingly: on the surface its wording simply follows Yeshayahu's, but he
   sees more in its use of *yaef* rather than *ayef*, chosen for maximum effect,
-  that Hashem strengthens not only the tired but the completely exhausted.
+  that Hashem strengthens even the completely exhausted.
 
 **What sets yagea apart from ayef.**
 

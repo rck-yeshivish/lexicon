@@ -23,7 +23,7 @@ words:
   - he: סוף
     tr: suf
     en: reeds
-    distinct: not a marsh but the reed growing in one, hence Yam Suf, the Sea of Reeds; Rashi only associates it with agam and renders it roisel, the common reed (Rabbi Avraham Meir HaKohen Glanzer)
+    distinct: the reed growing in a marsh, hence Yam Suf, the Sea of Reeds; Rashi only associates it with agam and renders it roisel, the common reed (Rabbi Avraham Meir HaKohen Glanzer)
 sources:
   - wiaw:9031 "Marshes, Marshes, Marshes" (2021-01-16) https://articles.ohr.edu/articles/marshes-marshes-marshes
 authorities: [Rashi, Ramban, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Moshe ben Shem Tov Gabbai, Ibn Janach, Radak, Rabbi Shlomo Aharon Wertheimer, Rabbi Avraham Meir HaKohen Glanzer]
@@ -38,7 +38,7 @@ updated: 2026-09-10
 standing **pond**. *Bitzah* is a **mire**, ground held in mud, from *botz*, mud.
 *Achu* divides the meforshim: Rashi makes it a **marsh**, plain and simple;
 Ramban and Rav Hirsch make it the **riverbank growth**, the reeds and grasses,
-not the place. *Suf* is not a marsh at all but the **reeds** that grow in one,
+not the place. *Suf* is the **reeds** that grow in a marsh,
 which is why *Yam Suf* is the Sea of Reeds. Iyov 8:11 puts *bitzah* and *achu*
 in one pasuk with *gome* beside them.
 
@@ -49,7 +49,7 @@ in one pasuk with *gome* beside them.
 | אחו | achu | marsh, riverbank growth | disputed: marsh (Rashi) against riverbank grass, not the place (Ramban, Rav Hirsch) |
 | אגם | agam | marsh, pond | marsh, or a standing pond (Rashi); spongy soaked ground, kin to *gome* (Pappenheim) |
 | ביצה | bitzah | mire | mire, ground held in mud, from *botz*; mucus-like, like an egg (Pappenheim) |
-| סוף | suf | reeds | not a marsh but its reeds (Glanzer on Rashi); hence the Sea of Reeds |
+| סוף | suf | reeds | the marsh's reeds (Glanzer on Rashi); hence the Sea of Reeds |
 
 ## Distinctions
 

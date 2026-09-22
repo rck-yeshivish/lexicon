@@ -32,7 +32,7 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Kisse* (כסא) is **throne**: not a neutral chair but a seat that marks rank, which is
+*Kisse* (כסא) is **throne**, a seat that marks rank, which is
 why it is the word for Hashem's *Kisse HaKavod*. *Kisseh* (כסה) and *keis* (כס) are the
 same word in two rarer spellings, and in the shortened *keis* of Shemos 17:16 the
 missing letter is the whole point of the derashah. *Kursa* is simply the Aramaic of

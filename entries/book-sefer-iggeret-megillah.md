@@ -87,8 +87,7 @@ where the word is a book or written document plainly.
 - Rabbi Moshe Shapiro takes the whole ס-פ-ר family as unifying disparate parts:
   *sippur* joins details into one narrative, *sfar* binds a territory into one
   polity, *mispar* and *sofer* bind numbers into one ordered system, and a
-  *sefer* binds all it contains into one entity, and this holds of books in
-  general and not only sifrei kodesh.
+  *sefer* binds all it contains into one entity, and this holds of all books, sifrei kodesh among them.
 - Professor Raymond P. Dougherty of Yale wrote to explain how *sefer* grows out
   of the core sense "to count": counting is a mental act, memory is unreliable,
   so one falls back on a written tally, and from there *sofer* comes to mean

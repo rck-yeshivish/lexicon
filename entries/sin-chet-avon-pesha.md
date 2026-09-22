@@ -58,8 +58,7 @@ every kind of sin and is simply "sin." *Aveirah*, the Rabbinic catch-all, is
 In the Yom Kippur confessionals we mimic the vidui of the Kohen Gadol in the
 Beis HaMikdash. The Mishnah (*Yoma* 4:2) relates that
 when the Kohen Gadol confessed his own sins and his household's he admitted
-specifically to three kinds: *chet*, *avon* and *pesha*. These are not
-synonyms but different degrees of sin, and the Gemara (Yoma
+specifically to three kinds: *chet*, *avon* and *pesha*. These are different degrees of sin, and the Gemara (Yoma
 36b) explains *chet* as an inadvertent sin, the state of mind called *shogeg*,
 *avon* as a wanton or intentional sin, *meizid*, and *pesha* as a sin of
 rebellion. There are, however, other ways of explaining the differences.
@@ -82,8 +81,7 @@ and my son Shlomo will be *chataim*" (Melachim I 1:21).
   making it specifically the failure to fulfill the mitzvah of repenting after
   one has sinned inadvertently.
 - Rabbi Moshe Shapiro (1935-2017) defends the classic Rabbinic definition of
-  *chet* as an inadvertent sin, and still draws a lesson from Rashi's "lack": a
-  *chet* is not simply the lack of something but the failure to achieve a goal,
+  *chet* as an inadvertent sin, and still draws a lesson from Rashi's "lack": a *chet* is the failure to achieve a goal, more than the lack of something,
   the sinner deviating from the goal of mankind and missing his intended
   objective.
 - Rabbi Shlomo Pappenheim of Breslau (1740-1814), similarly: *chet* denotes the
@@ -158,8 +156,7 @@ of wrongdoing.
 Rabbi Netanel Weil (1687-1769) writes that the differences between *chet* and
 *avon* are apparent only when the two terms stand juxtaposed to each other. In
 such a context *chet* means whatever *chet* means and *avon* whatever *avon*
-means; but when either appears on its own, without the other, it includes all
-types of sin and not only the specific type it otherwise names.
+means; but when either appears on its own, without the other, it includes all types of sin, the specific type it otherwise names among them.
 
 Nor, Rabbi Klein says, is the classifying black and white. In *Hilchos Teshuvah*
 the Rambam codifies the penitent's obligation to confess by saying *chatati,

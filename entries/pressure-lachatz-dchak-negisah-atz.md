@@ -75,8 +75,7 @@ one's *lachatz* really is *d'chak*.
 - Rabbi Eliezer Ashkenazi (1512-1585, *Maaseh Hashem*): *lachatz* does not
   necessarily imply anything nefarious in the one applying it, and typically
   connotes pressure applied to extract some benefit from the one pressured.
-  Calling it *d'chak* says the Mitzrim were not merely reaping the benefit of
-  the Jews' work but had malevolent intentions and meant them harm.
+  Calling it *d'chak* says the Mitzrim had malevolent intentions and meant them harm, beyond reaping the benefit of the Jews' work.
 - Rabbi Shlomo Pappenheim of Breslau (1740-1814) takes it conversely (see
   Shoftim 2:18, Yoel 2:8): *lachatz* is pressuring a man chiefly to make him
   suffer, *d'chak* is primarily pressuring another for one's own benefit even if
@@ -102,9 +101,7 @@ one's *lachatz* really is *d'chak*.
   against the wall (Bamidbar 22:25); where it is psychological, Onkelos uses
   ע-ו-ק, as in the prohibition against pressuring a ger (Shemos 22:20).
   Onkelos renders
-  Devarim 26:7 as *d'chak*, so the Haggadah is saying that Hashem pitied them not
-  only for the psychological pressures they bore but that even the bare physical
-  pressure was enough to sway His decision to release them.
+  Devarim 26:7 as *d'chak*, so the Haggadah is saying that even the bare physical pressure, apart from the psychological pressures they bore, was enough to sway Hashem's decision to release them.
 - The Malbim, Rabbi Meir Leibush ben Yechiel Michel Weiser (1809-1879), seems to
   somewhat contradict himself across four places. To Shoftim 2:18: *lachatz* is
   financial pressure and forced labor, *d'chak* is restriction on where one may
@@ -140,8 +137,7 @@ debt after shemittah, with a *d'chak* cognate as well.
 ### atz (אץ)
 Bereishis 19:15, *vayaitzu hamalachim b'Lot*.
 
-- Onkelos renders it *d'chak*, and Rabbi Posen concludes from this that the
-  malachim did not merely urge Lot verbally but physically pushed him out.
+- Onkelos renders it *d'chak*, and Rabbi Posen concludes from this that the malachim physically pushed Lot out, beyond urging him verbally.
 - Pappenheim reads it otherwise: from the biliteral א-ץ and ultimately the
   single letter צ, going out, so *atz* is pressing a man to move faster. The
   malachim pressed Lot to leave sooner; the *nogsim* pressed the Jews to work

@@ -35,8 +35,7 @@ Gichon flows into, and for Professor Carol A. Dray the Gichon lay outside the
 walls and the Shiloach within. There is also the *other* Gichon: the river of
 Bereishis 2:13 that circles Kush is, for Rashi and Rabbi Avraham Maimuni, a
 different river from the Yerushalayim spring, while Rav Saadia Gaon, Ibn Ezra
-and the Ramah identify the two. *Gachon* (Bereishis 3:14) is
-not a place at all but the serpent's **belly**, which Rav Hirsch
+and the Ramah identify the two. *Gachon* (Bereishis 3:14) names the serpent's **belly**, which Rav Hirsch
 (tentatively) and Rabbi Pappenheim tie to the name Gichon.
 
 ## At a glance
@@ -146,8 +145,7 @@ to name the Shiloach.
 The serpent's belly, in the curse "upon your belly shall you go" (Bereishis
 3:14).
 
-- Rav Hirsch (there) ties *gachon* to crawling, progress made not in a straight
-  line but by squirming along a twisted path, and suggests that perhaps this
+- Rav Hirsch (there) ties *gachon* to crawling, progress made by squirming along a twisted path, and suggests that perhaps this
   notion of a twisted path is the basis of the name Gichon.
 - Rabbi Shlomo Pappenheim offers a similar explanation, tying both *gachon* and
   *Gichon* to the biliteral ג-ח.

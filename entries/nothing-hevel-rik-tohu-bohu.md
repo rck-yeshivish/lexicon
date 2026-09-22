@@ -26,7 +26,7 @@ words:
   - he: בהו
     tr: bohu
     en: void
-    distinct: emptiness, rendered reikanya (Targum Onkelos, Rashi); form (Ramban) or matter (Ralbag); not merely useless but bad (Shadal); some minimal tangibility (Sefer HaBahir); an external structure whose interior is not yet filled (Rabbi Shlomo Pappenheim)
+    distinct: emptiness, rendered reikanya (Targum Onkelos, Rashi); form (Ramban) or matter (Ralbag); bad, beyond useless (Shadal); some minimal tangibility (Sefer HaBahir); an external structure whose interior is not yet filled (Rabbi Shlomo Pappenheim)
   - he: בלימה
     tr: blimah
     en: nothing
@@ -367,7 +367,7 @@ Yirmiyahu 4:23).
 - For Ramban *bohu* is form, for Ralbag matter, and for Rabbi Levi ben Shlomo of
   Lunel shape and "presence" (all above).
 
-Shadal: *bohu* is something that not only has no advantage but is actually bad.
+Shadal: *bohu* is something actually bad, beyond having no advantage.
 Elsewhere *Sefer HaBahir* (§11-12) connects *tohu* with evil and *bohu* with
 peace, and later (§135, §163) elaborates by connecting *tohu*'s association with
 evil to its causing people to wonder and second-guess themselves, which leads

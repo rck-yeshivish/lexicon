@@ -14,7 +14,7 @@ words:
   - he: מקנה
     tr: mikneh
     en: livestock
-    distinct: not property in general but livestock, a man's chief acquisition (Ramban, Radak); from KUF-NUN-HEI, the root of kinyan, acquisition
+    distinct: livestock, a man's chief acquisition, rather than property in general (Ramban, Radak); from KUF-NUN-HEI, the root of kinyan, acquisition
   - he: נכסים
     tr: nechasim
     en: assets
@@ -33,7 +33,7 @@ updated: 2026-09-10
 ## Bottom line
 
 *Rechush* is **property** or **possessions**, the movable goods a man has
-gathered. *Mikneh* is not property at large but **livestock**, the herds that
+gathered. *Mikneh* is **livestock**, rather than property at large, the herds that
 were the ancient world's measure of wealth. *Nechasim*, always plural, is
 **assets**, the standard word in the Mishnah, where *rechush* and *mikneh* do
 not appear at all. *Mikneh* shares the root of *kinyan* and looks like a general word

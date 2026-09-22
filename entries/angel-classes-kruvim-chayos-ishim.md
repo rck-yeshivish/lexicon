@@ -189,8 +189,7 @@ The lowest rank in Rambam's list, the angels who speak with human nevi'im.
 - Rabbi Mordechai Shlomo Movshovitz explains instead that they sometimes act
   like men, as the three who came to Avraham (Bereishis 18) looked and behaved
   like people.
-- Tanach itself calls an angel *ish* (Yechezkel 9:11), since *ish* can name a
-  single member of any species, not only of mankind. Rabbi Yaakov Tzvi
+- Tanach itself calls an angel *ish* (Yechezkel 9:11), since *ish* can name a single member of any species, mankind included. Rabbi Yaakov Tzvi
   Mecklenburg explains that *ish* implies a more abstract and immaterial form of
   existence, which is why it can still refer to angels or other otherworldly
   beings.

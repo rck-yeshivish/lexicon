@@ -27,7 +27,7 @@ words:
   - he: לינה
     tr: linah
     en: staying overnight
-    distinct: technically not sleeping but leaving something overnight, so it governs sacrificial meat, unpaid wages and a hanging body as readily as a guest; tied to laylah (Rabbi Shlomo Pappenheim); the time for sleeping (Rabbi Yosef Nechemias)
+    distinct: technically leaving something overnight rather than sleeping, so it governs sacrificial meat, unpaid wages and a hanging body as readily as a guest; tied to laylah (Rabbi Shlomo Pappenheim); the time for sleeping (Rabbi Yosef Nechemias)
   - he: דורמיטא
     tr: durmita
     en: sleep, in the Zohar
@@ -46,8 +46,7 @@ updated: 2026-09-10
 *Sheinah* is ordinary **sleep**, and doubles as the general term. *Tardeimah* is
 **deep sleep**, the sleep that overpowers a man rather than being chosen.
 *Tenumah* is **drowsiness** or **dozing**, the half-asleep state in which one
-still answers to his name. *Linah*, technically speaking, is not "sleeping" at
-all but **leaving something overnight**, though it generally takes in the hours
+still answers to his name. *Linah*, technically speaking, means **leaving something overnight** rather than sleeping, though it generally takes in the hours
 people sleep, and it governs meat and a corpse as readily as a guest. Ibn Ezra
 ranks *tenumah* under *sheinah* under *tardeimah*, and Radak, *Peirush HaRokeach*,
 Rabbi Sternbuch, Rabbi Wertheimer and Rabbi Yosef Nechemias follow that ranking

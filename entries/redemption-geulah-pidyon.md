@@ -27,8 +27,7 @@ updated: 2026-09-22
 
 *Pidyon* (verb *podeh*) is redemption by exchange: **ransom**, **buying back**,
 the fact of being freed. *Geulah* (verb *goel*) is redemption by right of
-kinship and by force, with no payment: **redemption**, **deliverance**, and it
-carries the sense of being raised up, not merely let out. Several
+kinship and by force, with no payment: **redemption**, **deliverance**, and it carries the sense of being raised up, beyond being let out. Several
 explanations run in the same direction (the Chatam Sofer, Rabbi Menachem Mendel
 of Kosov, Malbim), each making *geulah* the fuller term and *pidyon* the bare
 one; the Vilna Gaon sets exchange against sheer force, and Rabbi Chaim of Brisk
@@ -39,7 +38,7 @@ and Rabbi Shmuel Tuvia Stern cut the difference on other axes.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | פדיון | pidyon | ransom, buying back | redemption by exchange (Vilna Gaon); bare rescue from calamity (Chatam Sofer) |
-| גאולה | geulah | redemption, deliverance | by force, no payment (Vilna Gaon); raised up, not just rescued (Chatam Sofer) |
+| גאולה | geulah | redemption, deliverance | by force, no payment (Vilna Gaon); raised up as well as rescued (Chatam Sofer) |
 
 ## Distinctions
 
@@ -79,8 +78,7 @@ Root ג-א-ל.
   with no remuneration of any kind.
 - Rabbi Chaim of Brisk: *geulah* looks at the owner and marks a change of
   ownership.
-- Chatam Sofer: positive redemption, not only saved from something bad but
-  raised above one's circumstances and made greater.
+- Chatam Sofer: positive redemption, raised above one's circumstances and made greater, beyond being saved from something bad.
 - Rabbi Menachem Mendel of Kosov: comprehensive, everlasting deliverance.
 - Malbim: *geulah* is redemption born of closeness between redeemer and
   redeemed, and that closeness is the impetus for the redeemer's feeling of
@@ -119,8 +117,7 @@ Devarim 7:8; Shmuel I 14:45; Yeshayahu 1:27).
   turns on the exchange, prefer "ransom" or "buying back," or gloss "(a
   redemption by exchange)."
 - גאולה: "redemption" is the settled English; "deliverance" where the sense is
-  rescue by force. When *geulah* is contrasted with *pidyon*, let the English
-  show the lift (Chatam Sofer): "not merely rescued but redeemed."
+  rescue by force. When *geulah* is contrasted with *pidyon*, let the English show the lift (Chatam Sofer): "rescued" for *pidyon*, "redeemed" for *geulah*.
 - גואל as the kinsman (*goel hadam*, the *goel* of Rus): "redeemer" keeps the
   kinship sense that Malbim's closeness principle reads into the word; do not
   write "avenger" alone.

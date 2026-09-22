@@ -32,7 +32,7 @@ downgrade (Rabbi Shapira-Frankfurter, Wertheimer, Rav Hirsch). *Chalifah* is
 (Rav Hirsch), and it is the neutral (Wertheimer) or even upgrading
 (Shapira-Frankfurter) word. Vayikra 27:10 uses
 both of the same prohibited act; Vayikra 27:33, stating the consequence, uses
-only *hamer yamir*. *Chalifah* is not merely a stylistic variant.
+only *hamer yamir*. *Chalifah* carries a sense of its own.
 
 ## At a glance
 

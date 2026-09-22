@@ -158,8 +158,7 @@ Literally minus or subtracted.
   Menachem Ibn Saruk's classing of *dal* under ד-ל, derives it instead from
   *zol*, cheap, by the well-established interchange of zayin and dalet.
 - Wilhelm Gesenius takes the core of ד-ל as hanging or swinging, so that a *dal*
-  is a feeble individual whose wealth is not well grounded but figuratively
-  hangs and may swing from one situation to another.
+  is a feeble individual whose wealth figuratively hangs and may swing from one situation to another.
 
 ### dach (דך)
 Crushed, sharing a root with *medochah*, a pestle. He looks smashed because want

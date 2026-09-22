@@ -98,8 +98,7 @@ with the outer trappings of a human being and no intellect from a soul.
 
 Shabbos 77b expounds *glima* as "made like a *golem*."
 
-- Rashi there: a garment not cut to the shape of the limbs but essentially a
-  flat sheet covering the whole body, unfitted and therefore shapeless beside
+- Rashi there: a garment uncut to the limbs, essentially a flat sheet covering the whole body, unfitted and therefore shapeless beside
   tailored clothing.
 - Rabbi Nosson of Rome (*Sefer HeAruch*) reads it the other way: a man wrapped
   up in a *glima* is somewhat stuck in place and unable to move freely, and so

@@ -120,8 +120,7 @@ Root א-מ-ר.
   being vocal and being quiet. Rabbi Wolf Heidenheim (1757 to 1832), in his
   comments to *Yerios Shlomo*, notes that Ibn Ezra and Rabbi Yoel Ibn Shuaib
   (both to Tehillim 19:4) offer very similar approaches.
-- Rav Hirsch: *amirah* is not simply verbalizing a thought but an act of
-  communication, said *to* somebody who then translates the sounds he hears back
+- Rav Hirsch: *amirah* is an act of communication, said *to* somebody who then translates the sounds he hears back
   into the ideas they express.
 - Mecklenburg expands the מ-ר sense: *amirah* is speech that creates a reality,
   switching the situation into something different.
@@ -187,8 +186,7 @@ Malbim's two approaches feed the same question.
   have been absolute and forceful, since only Hashem can break them, while the
   Decalogue connotes a more malleable reality, some prohibitions being
   legitimately suspendable in certain circumstances. Rabbi Moshe Feinstein (1895
-  to 1986) uses the exact opposite reasoning to explain why *tzitzis*, not
-  absolutely obligatory but essentially optional, opens with *vayomer* rather
+  to 1986) uses the exact opposite reasoning to explain why *tzitzis*, essentially optional, opens with *vayomer* rather
   than the usual *vayedaber* (Bamidbar 15:37).
 - On Malbim's second approach, with Jaffa-Ashkenazi, Rabbi Klein argues that
   verbosity is a rhetorical device for making sure an audience understands, so

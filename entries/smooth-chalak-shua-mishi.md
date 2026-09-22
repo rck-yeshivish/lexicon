@@ -13,7 +13,7 @@ words:
   - he: שוע
     tr: shua
     en: smoothed, daubed on
-    distinct: not smoothness as a state but the making smooth by laying one material over another (Tosafos, Rambam, Rabbi Yaakov Tzvi Mecklenburg); Rashi restricts it to combing a single material smooth
+    distinct: the making smooth by laying one material over another, rather than smoothness as a state (Tosafos, Rambam, Rabbi Yaakov Tzvi Mecklenburg); Rashi restricts it to combing a single material smooth
   - he: שעיע
     tr: shiiya
     en: smooth
@@ -90,8 +90,7 @@ means attachment.
 (Bereishis 27:11) with the Aramaic *shiiya*, whose root is ש-ע-(ע), which
 suggests they are a Hebrew and Aramaic pair for one idea. Rabbi Avraham Vilner
 (1765-1808), the Vilna Gaon's son, in *Tirgem Avraham*, brings Yechezkel 16:4 to
-show the ש-ע root in the sense of "smooth" is not unique to Aramaic but exists in
-Hebrew too, which is what makes a real distinction between *chalak* and *shua*
+show the ש-ע root in the sense of "smooth" exists in Hebrew as well as Aramaic, which is what makes a real distinction between *chalak* and *shua*
 possible.
 
 ## Distinctions

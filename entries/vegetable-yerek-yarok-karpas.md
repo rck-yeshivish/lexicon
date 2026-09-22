@@ -18,7 +18,7 @@ words:
     tr: karpas
     en: parsley, fabric
     nk: כַּרְפַּס
-    distinct: not a synonym of yerek but one particular plant, parsley in the Yerushalmi, though the matter is far from settled (Rabbi Klein); in Esther a fabric, silk (Rabbi Saadia Gaon) or fine linen (Rabbi Dr. Ernest Klein), or a color, green (Radak)
+    distinct: one particular plant, parsley in the Yerushalmi, though the matter is far from settled (Rabbi Klein); in Esther a fabric, silk (Rabbi Saadia Gaon) or fine linen (Rabbi Dr. Ernest Klein), or a color, green (Radak)
 sources:
   - wiaw:11353 "Metzorah/Shabbos HaGadol: Veggies for the Dipping" (2024-04-20) https://articles.ohr.edu/articles/metzorahshabbos-hagadol-veggies-for-the-dipping
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rashi, Rabbi Avraham Bedersi, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Saadia Gaon, Ibn Parchon, Ibn Ezra, Rabbi Tanchum HaYerushalmi, Ralbag, Ibn Yachya, Rabbi Yosef Nechemias, Rabbi Baruch Epstein, Rabbi Dr. Ernest Klein, Aquila, Dr. Alexander Kohut, Rabbi Shaul Goldman, Rabbi Alan Yuter, Rabbeinu Manoach, Maharil, Ibn Shuaib, Ben Ish Chai, Rabbi Shmuel of Falaise, Rabbi Yosef Tuv-Elem, Rabbi Yaakov Yisroel Stahl]
@@ -126,8 +126,7 @@ What sort is disputed:
   as a color; Rashi, Ibn Ezra, and Rabbi Tanchum HaYerushalmi adopt the same
   explanation. Radak follows it and specifies green (see also *Midrash Lekach
   Tov* to Esther 1:6), as do Ralbag, Ibn Yachya, and Rabbi Yosef Nechemias. On
-  this view, Rabbi Reuven Chaim Klein concludes, the Biblical *karpas* is not a
-  vegetable but the basic hue of vegetables, just as *yarok* is related to
+  this view, Rabbi Reuven Chaim Klein concludes, the Biblical *karpas* is the basic hue of vegetables rather than a vegetable, just as *yarok* is related to
   *yerek*.
 - Rabbi Baruch Epstein (1860 to 1941, *Toseses Berachah* to Esther 1:6): since
   *karpas* seems to come from a four-letter root, which is rare in Hebrew, Chazal

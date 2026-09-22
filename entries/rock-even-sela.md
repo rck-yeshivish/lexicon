@@ -74,8 +74,7 @@ then, is the difference between an *even* and a *sela*?
   Pappenheim argues that the root is the two-letter ב-ן, building, since most
   rocks are usable for construction and building is the commonest use of rock.
   Because rocks are hard, *even* was then borrowed for any matter in a solid
-  state, as in *avnei barad*, rocks of hail, at Yehoshua 10:11: hail is not
-  actually a rock but is hard like one, although, Rabbi Klein adds, his
+  state, as in *avnei barad*, rocks of hail, at Yehoshua 10:11: hail is hard like a rock, although, Rabbi Klein adds, his
   geologist friend Aaron Kahn tells him that scientifically speaking ice is
   technically considered a rock.
 

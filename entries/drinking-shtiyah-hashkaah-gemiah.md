@@ -78,7 +78,7 @@ derive from *lishtos*, urine being the liquid waste that is a byproduct of
 drinking. On either reading *lishtos* names what happens inside the drinker.
 
 ### lehashkos (להשקות) and mashkeh (משקה)
-Not the act of drinking but the act of providing drink, hence the *hifil*; it
+The act of providing drink, hence the *hifil*; it
 ranges over flora as well as man and beast: "a mist rose from the ground
 and watered (*hishkah*) the face of the earth" (Bereishis 2:6).
 
@@ -169,7 +169,7 @@ servant (24:18, 24:19, 24:43, 24:45) and of the camels (24:14, 24:46); and
 - משקה: "drink" or "beverage"; where the context is a feast, "strong drink" may be
   right, but do not import alcohol where the Hebrew has not.
 - הגמיאיני: "let me sip," or "give me a swallow" where Rashi's ג-מ-ע reading is
-  being followed. "Let me drink" is not wrong but loses the word entirely.
+  being followed. "Let me drink" will do, but it loses the word entirely.
 - Trap: English "drink" absorbs *lishtos* and *lehashkos* both. In Bereishis 24
   the two alternate within single pesukim (24:14, 24:18, 24:19, 24:46), and the
   point of the test is that Rivkah both drank and watered. Render "and she drank"

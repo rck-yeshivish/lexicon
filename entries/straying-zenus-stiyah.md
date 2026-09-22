@@ -101,8 +101,7 @@ the people strayed after the women of Moav (Bamidbar 25:1), to *stiyah*.
 
 ### the letter tes as a root
 Rabbi Aharon Marcus (1843 to 1916) proposes what Rabbi Klein calls a wildly
-innovative idea: not only are Hebrew roots made up of letters, but an individual
-letter can sometimes itself be a root uniting the words that use it. The letter
+innovative idea: an individual letter, beyond making up roots, can sometimes itself be a root uniting the words that use it. The letter
 tes denotes movement to the side, that is, straying, as shown by *stiyah*
 (deviation), *natah* (incline), *titah* (turn aside), *tata* (broom), *tach*
 (plastering), *taah* (erred), and more. Most significantly, he argues that the

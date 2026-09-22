@@ -92,8 +92,7 @@ different bodies of water in Egypt, among them the *neharos* and the *ye'orim*
   thrown by the forces of nature, so a *yeor* is a river whose waters flow with
   especially violent force, and in Tanach it is used only of the Nile and the
   Tigris. Pappenheim *admits* that a borrowed sense of *yeor*, which also
-  appears in Tanach, is a man-made irrigation duct, which is not a river as such
-  but the river's artificial tributaries.
+  appears in Tanach, is a man-made irrigation duct, the river's artificial tributaries.
 
 Rabbi Klein then bridges the two: in light of what Malbim wrote, he explains
 that *yeor* recalls the fact that its waters tend to overflow past the banks,

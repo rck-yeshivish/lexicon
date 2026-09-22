@@ -159,8 +159,7 @@ accede to the wife of Potifar.
 
 - Rashbam (to Bereishis 49:24) divides the two: *mifazez* is the movements of
   the hands, *micharker* the movements of the feet.
-- Rabbi Tanchum explains similarly, that *mifazez* is not merely bopping about
-  with the body as *miraked* is, but also the moving of the hands and fingers in
+- Rabbi Tanchum explains similarly, that *mifazez* is the body's bopping of *miraked* together with the moving of the hands and fingers in
   time with the feet, and snapping the fingers to produce a rhythm fitting the
   tempo of the dance and the song.
 - *Bamidbar Rabbah* 4:20 seems to read David's *mifazez* the same way, of the

@@ -39,7 +39,7 @@ updated: 2026-09-10
 
 *Mikreh* is an **occurrence** or **happenstance**, the collision of a person
 with circumstances he did not arrange. *Keri* is the same root in the Torah's
-rebuke (Vayikra 26), where it is not a neutral event but **offhandedness** or
+rebuke (Vayikra 26), where it means **offhandedness** or
 **flippancy** toward Hashem (Rabbi Shlomo Pappenheim reads it instead as the
 sinner's provoking posture), and in Mishnaic Hebrew it is the euphemism for a
 seminal emission. *Te'unah* is a **mishap** or
@@ -167,8 +167,7 @@ hurl, the image of a projectile striking a target, which the Talmudic Aramaic
 roots reach the ground itself: *karka*, a doubling of ק-ר, is land, and so is
 the Biblical Aramaic *arka*, which appears once (Yirmiyahu 10:11). The standard
 Aramaic for land is *ar'a*, cognate to Hebrew *eretz* with the tzadi becoming an
-ayin, and its root is the root of *i'ra*/*i'rua*, so that an *i'rua* is not only
-something that happens but something landing on the ground; other uses of א-ר-ע
+ayin, and its root is the root of *i'ra*/*i'rua*, so that an *i'rua* is, at root, something landing on the ground; other uses of א-ר-ע
 in Targumic Aramaic mean ruin or collapse. He adds that *kara*/*kriyah*/*vayikra*,
 primarily to call or proclaim, may also suggest deliberately summoning an event,
 which gives those words a paradoxical double duty, purposeful invocation

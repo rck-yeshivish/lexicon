@@ -147,8 +147,7 @@ Aramaic (see Targum to
 Bereishis 25:27), so a boy or girl is one still growing; *talya* and *talyasa*
 seem to him related to *tleh*, a young goat, the same doubling that gives
 English "kid" both senses, ostensibly because both run around wildly. Rav Hirsch (to Bereishis 30:32)
-writes that *tleh* itself refers not only to a young lamb but also to a young
-human, just as English "kid" means both a young goat and a young child. Targum
+writes that *tleh* itself refers to a young human as well as a young lamb, just as English "kid" means both a young goat and a young child. Targum
 in some places uses *tali/talya* for *yeled* and for *naar* (Megillah 5b; *Dikdukei Sofrim* to
 Yevamos 114a), and Rashi (to Megillah 5b) likewise defines *tali* as *naar*. On
 the name Avtalyon, the Rashbatz and Bartenura (to *Avos* 1:10) write that it

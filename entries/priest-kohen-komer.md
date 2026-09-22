@@ -72,8 +72,7 @@ sometimes a political leader.
 - Rabbi Aharon Marcus (1843-1916) notes that the Arabic *kahin*, soothsayer or
   diviner, is probably a cognate of *kohen*, and on that basis suggests that the
   root of *kohen* is *koh*, "thus," the prophets' word when they relay Hashem's
-  message. Indeed, kohanim not only served in the Mikdash but were instrumental
-  in teaching Torah, so it makes sense that they would be associated with
+  message. Indeed, kohanim served in the Mikdash and were also instrumental in teaching Torah, so it makes sense that they would be associated with
   prophecy, which likewise relays Hashem's word (see Malachi 2:7).
 
 ### komer (כומר)

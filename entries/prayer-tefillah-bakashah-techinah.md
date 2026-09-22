@@ -16,7 +16,7 @@ words:
   - he: בקשה
     tr: bakashah
     en: request
-    distinct: the unscripted request for one's needs in one's own words; Yaakov's bow, powerful not in its words but in the urgency behind it (Rabbi Simcha Maimon), reaching Heaven from afar (Rabbi Shmuel Laniado)
+    distinct: the unscripted request for one's needs in one's own words; Yaakov's bow, powerful through the urgency behind it rather than its words (Rabbi Simcha Maimon), reaching Heaven from afar (Rabbi Shmuel Laniado)
   - he: תחינה
     tr: techinah
     en: supplication
@@ -90,9 +90,7 @@ are spelled and sounded so much alike.
 - Rabbi Simcha Maimon nonetheless works out a conceptual link: because a
   *bakashah* lacks the formality of *tefillah* it is not inherently a powerful
   form of prayer, just as an archer's projectile need not be as sharp as a
-  sword; but an arrow's efficacy lies not in the arrow itself but in the kinetic
-  energy of its release, just as a *bakashah*'s lies not in the words but in the
-  urgency the supplicant feels.
+  sword; but an arrow's efficacy lies in the kinetic energy of its release, just as a *bakashah*'s lies in the urgency the supplicant feels.
 - Rabbi Shmuel Laniado, a sixteenth-century Syrian scholar, offers a similar
   observation on the bow: an archer strikes without having to approach his
   enemy, and so a *bakashah* lets a man standing in a dire situation in This

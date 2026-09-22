@@ -54,8 +54,7 @@ sound and passing it on, with nothing said about whether the hearer grasped it.
 
 ### shema (שמע)
 
-- Malbim: *shema* is not merely the physical act; it carries a measure of
-  intellectual or emotional grasp of what is heard.
+- Malbim: *shema* carries, beyond the physical act, a measure of intellectual or emotional grasp of what is heard.
 - Rokeach: *shema* is hearkening in response to another's call, that is,
   hearing that answers. Rabbi Klein notes that these two explanations, Malbim's
   and Rokeach's first, fail to account for the change in phraseology between

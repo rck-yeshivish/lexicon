@@ -95,8 +95,7 @@ Against reading them as simple synonyms stands the Mishnah (*Sotah* 9:14): in
 the Hadrianic persecutions of about the second century the Chachamim decreed that a
 kallah not travel through
 the city inside an *apiryon*, and later rescinded that ruling for reasons of
-tznius. This passage, Rabbi Klein says, suggests that an *apiryon* is not simply
-a canopy but a mobile enclosure a woman may travel in.
+tznius. This passage, Rabbi Klein says, suggests that an *apiryon* is more than a canopy: a mobile enclosure a woman may travel in.
 
 Some argue that *apiryon* is related to the Sanskrit *paryanka*, English
 palanquin or sedan chair: a covered litter for one passenger, a large box on two

@@ -84,8 +84,7 @@ On the root:
   garden is what a man fences and guards so that what grows in it is not
   trampled. Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) makes it explicit, with
   *yagen* (Yeshayahu 31:5), *migen* (Bereishis 14:20), and *magen*, a shield, on
-  the same root; he adds *agan*, not any vessel but the one used for watering a
-  garden (Shemos 24:6; Shir HaShirim 7:3), and *niggun*, whose variety of sounds
+  the same root; he adds *agan*, the vessel used for watering a garden (Shemos 24:6; Shir HaShirim 7:3), and *niggun*, whose variety of sounds
   answers to a garden's variety of growing things. Rav Hirsch (to Bereishis 2:8)
   notes the same pairing in English, *garden* and *guard*. Modern linguistics
   does not bear that pairing out: *garden* descends from the Proto-Indo-European
@@ -163,8 +162,7 @@ plants both *ginos* and *pardeisim*, which suggests the two are not one word:
   samech interchanging with shin or tzadi.
 - Against all of these, the word seems to be built on a four-letter root. Many
   grammarians, Ibn Ezra and Rabbi Eliyahu HaBachur among them, hold that a
-  Hebrew word built on four letters tends not to be native Hebrew but a
-  loanword. Linguists have long argued *pardes* is exactly that, and Rabbi
+  Hebrew word built on four letters tends to be a loanword. Linguists have long argued *pardes* is exactly that, and Rabbi
   Ernest Klein gives the original as Avestan or Old Persian *pairidaeza*, an
   enclosure, itself a portmanteau of *pairi* (around, cognate with Greek *peri*,
   the prefix of *perimeter* and *peripheral*) and *daeza* (wall), the name of

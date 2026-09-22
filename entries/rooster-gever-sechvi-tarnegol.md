@@ -80,8 +80,7 @@ as concerning types of cloud, so that *sechvi* means a cloud.
   Yeshayahu 21:8): the heart is the organ that tries to see an action's future
   consequences, or else the rooster, which sees far (Abudarham).
 - Rabbi Yaakov Tzvi Mecklenburg specifies that the seeing is intellectual rather
-  than physical, and groups *sechvi* with *hasket* (to listen with the mind, not
-  merely hear) and *maskis* (arresting figures engraved in stone).
+  than physical, and groups *sechvi* with *hasket* (to listen with the mind) and *maskis* (arresting figures engraved in stone).
 
 **Where the name Nergal points.** After the Assyrians conquered the Kingdom of
 Yisrael they settled Mesopotamian foreigners in the land, each bringing his own

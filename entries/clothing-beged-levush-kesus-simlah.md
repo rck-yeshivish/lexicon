@@ -13,7 +13,7 @@ words:
   - he: לבוש
     tr: levush
     en: apparel, dress
-    distinct: not a garment-type but what one dresses in, from lovesh; in usage the distinctive dress of a station, hence levush malchus; Shabbos 77b reads it lo bushah, "no shame"
+    distinct: whatever one dresses in, of no set type, from lovesh; in usage the distinctive dress of a station, hence levush malchus; Shabbos 77b reads it lo bushah, "no shame"
   - he: כסות
     tr: kesus
     en: covering
@@ -46,8 +46,7 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Beged* is the general word, **garment**, and covers the rest (Malbim). *Levush*
-is not a garment-type but what one dresses in, so **apparel**, and in practice
+*Beged* is the general word, **garment**, and covers the rest (Malbim). *Levush* is whatever one dresses in, of no set type, so **apparel**, and in practice
 the distinctive dress of a station (*levush malchus*). *Kesus* is a **covering**,
 draped rather than put on; *simlah* (or *salmah*) a **cloak**, a *kesus* that
 also confers honor. *Mad* is the **fitted garment**, *me'il* the **outer robe**,

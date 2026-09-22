@@ -121,9 +121,7 @@ Pappenheim).
 - Rabbi Soloveitchik echoes the idea: *gevurah* is given exclusively to man, his
   ability to transcend the brute instinct of survival he shares with the
   animals, and is best translated "heroism," the courage to enter a situation
-  that may not be ideal for his physical survival. Accordingly a *gibbor* is not
-  always the victor but always one who enters the battle and fights with all his
-  might, and one who dares to keep fighting for what he believes in generally
+  that may not be ideal for his physical survival. Accordingly a *gibbor* is always one who enters the battle and fights with all his might, victor or not, and one who dares to keep fighting for what he believes in generally
   emerges the victor even if he loses the immediate battle.
 - Rabbi Pappenheim offers a similar explication, but acknowledges that Tanach
   also borrows the word for elements of nature without free will, like water
@@ -185,8 +183,7 @@ ability by which one person stands out above the rest, and calling someone
   ayin and the other two consonants switching places by metathesis.
 - Rabbi Yehuda Leib Edel (1760 to 1828): *otzem*/*etzem* is growth in added
   quantity (see Shemos 1:20; Devarim 7:1; Yoel 2:2; Tehillim 35:18), strength
-  through numbers, and from there the word expanded to inherent strength, added
-  quality and not only quantity. Alternatively, it is borrowed from *etzem*,
+  through numbers, and from there the word expanded to inherent strength, quality added to quantity. Alternatively, it is borrowed from *etzem*,
   bone, the strongest part of the body.
 
 - Rabbi Moshe Shapiro (1935 to 2017) finds a common theme in all words with ע-ץ:

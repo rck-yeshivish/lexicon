@@ -152,8 +152,7 @@ derive from the Hebrew root א-ל-ץ, the root of Biblical *alatz*.
 - Trap: *batzores* is not interchangeable with *ra'av* in a rabbinic text. When
   Chazal say *shnas batzores* they mean the crop failure; *ra'av* names what the
   people are suffering.
-- Where the Vilna Gaon's reading is in play, *kafan* is not less food but food
-  that does not satisfy; "famine" is then actively wrong. "Want" or "unsated
+- Where the Vilna Gaon's reading is in play, *kafan* is food that does not satisfy; "famine" is then actively wrong. "Want" or "unsated
   hunger" carries it.
 - Do not smooth *kafnah* in Yechezkel 17:7 to "gathered" without a note; Rashi
   and Radak read the same word in opposite directions there.

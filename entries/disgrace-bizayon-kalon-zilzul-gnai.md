@@ -9,7 +9,7 @@ words:
   - he: בזיון
     tr: bizayon
     en: contempt, disparagement
-    distinct: holding something utterly worthless, a stronger disparagement than kalon, the object not undervalued but treated as valueless (Rabbi Shlomo Pappenheim); perhaps a cognate of bushah (Rabbi David Chaim Chelouche)
+    distinct: holding something utterly worthless, a stronger disparagement than kalon, the object treated as valueless where kalon only undervalues it (Rabbi Shlomo Pappenheim); perhaps a cognate of bushah (Rabbi David Chaim Chelouche)
   - he: קלון
     tr: kalon
     en: dishonor, disgrace
@@ -54,8 +54,7 @@ opposite of praise (Rambam): **disgrace, discredit**. *Kalon* lowers a value,
 ### bizayon (בזיון)
 Root ב-ז-ה, from the two-letter core ב-ז, which Rabbi Pappenheim defines as
 holding something to be utterly worthless. He states plainly that *bizayon* is a
-stronger disparagement than *kalon*: the object is not merely undervalued, it is
-treated as valueless. The verb *vayivez* is rare, twice in Tanach, and both
+stronger disparagement than *kalon*: the object is treated as valueless, where *kalon* only undervalues it. The verb *vayivez* is rare, twice in Tanach, and both
 times marks a man writing something off entirely: Eisav after selling the
 birthright (Bereishis 25:34), which Rashi reads as his mocking and repudiating
 the service of Hashem, and Haman, for whom striking at Mordechai alone was

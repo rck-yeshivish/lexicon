@@ -178,8 +178,7 @@ reading of the father's *cnaani* as well.
   the *cnaani* as her setting boundaries around the *yetzer hara* to rein it in.
 - *Tanchuma* (Masei 9) explains that the Holy Land is called *Eretz Cnaan*
   because it is the land of merchandise; Rabbi Shlomo Fischer (1932-2021)
-  clarifies that this is not any physical commodity or natural resource but
-  Torah, which is more precious than any article of trade (Mishlei 3:14). This
+  clarifies that this merchandise is Torah, more precious than any physical commodity, natural resource or article of trade (Mishlei 3:14). This
   conjures the idea that the land is especially suited to Torah study.
 
 Either way, *cnaan* there is being expounded as merchants and merchandise, not
@@ -209,8 +208,7 @@ Torah is not found among *socharim* or *tagarim*, who are always looking
 elsewhere for the goods, and that wording implies the two do not quite mean the
 same thing. Rashi (there) accordingly reads a real difference: the *socher*
 goes around the various towns, the *tagar* is a local seller who stays in his
-own town, so that on Rashi the difference is semantic and not only
-etymological.
+own town, so that on Rashi the difference is semantic as well as etymological.
 
 ### pragmatia and melay
 *Pragmatia*/*prakmatia* in Rabbinic Hebrew are Greek loanwords for

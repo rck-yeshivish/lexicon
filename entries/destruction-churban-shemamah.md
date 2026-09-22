@@ -94,9 +94,7 @@ them. Following this approach, Rabbi Klein suggests that *Churban HaBayis* does 
 name the physical destruction of the Mikdash at all but its spiritual
 disconnection through sin, while the Torah's *shemamah* of the Mikdash does name
 the physical wrecking of the buildings, the sight of which should deter from
-further sin. On this reading, when we mourn the *Churban HaBayis* we do not simply mourn the
-demolition of a building; we mourn the spiritual decline that let the
-destruction happen.
+further sin. On this reading, when we mourn the *Churban HaBayis* we mourn the spiritual decline that let the destruction happen, more than the demolition of a building.
 
 ### shahm (שם)
 Ibn Ezra: *shahm* is not always the ordinary "there"; it can belong to ש-מ-ם

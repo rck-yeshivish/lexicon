@@ -142,11 +142,10 @@ thing.
 ### mashgiach (משגיח)
 
 - Rabbi Wertheimer: unlike *mashkif*, *mashgiach* always carries a good sense.
-- Rabbi Moshe Shapiro: not one who merely watches but one who watches actively,
+- Rabbi Moshe Shapiro: one who watches actively,
   and when he sees what calls for intervention he does not hesitate to take
   action and set it right. So too *hashgachah*, Hashem's administrative role in
-  creation: not a passive *deus otiosus*, a god at rest, but One who actively
-  affects the world's events according to His will.
+  creation: One who actively affects the world's events according to His will, far from a passive *deus otiosus*, a god at rest.
 
 ## Rendering guidance
 

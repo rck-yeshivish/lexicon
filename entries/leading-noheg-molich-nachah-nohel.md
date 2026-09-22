@@ -21,7 +21,7 @@ words:
   - he: נהל
     tr: nohel
     en: lead with care
-    distinct: caring leading that supplies what those led need to thrive (Wertheimer); not only saves from harm but nurtures, bringing them in to the holy abode (Pappenheim); used of leading the tired (Malbim); the active leading that advances them (Rabbi Goldblit, Rabbi Tedeschi-Ashkenazi)
+    distinct: caring leading that supplies what those led need to thrive (Wertheimer); nurtures as well as saves from harm, bringing them in to the holy abode (Pappenheim); used of leading the tired (Malbim); the active leading that advances them (Rabbi Goldblit, Rabbi Tedeschi-Ashkenazi)
 sources:
   - wiaw:11677 "Bo: Follow the Leader (Part 1/2)" (2025-02-01) https://articles.ohr.edu/articles/bo-follow-the-leader-part-12
   - wiaw:11678 "Beshalach: Follow the Leader (Part 2/2)" (2025-02-08) https://articles.ohr.edu/articles/beshalach-follow-the-leader-part-22
@@ -39,7 +39,7 @@ unlike *nachah* and *nohel*, it can sometimes be used of leading something to
 its ruin. *Molich* is to **take** or **bring**, a form of *holech*, moving people
 from one place or state to another. *Nachah* is to **guide**: leading that
 shields those led from harm and brings them to rest. *Nohel* is to **lead with
-care**, the leader who not only shields but provides and sustains. Shiras HaYam
+care**, the leader who shields, provides and sustains. Shiras HaYam
 sets *nachisa* and *neihalta* in one pasuk (Shemos 15:13), and Rabbi Pappenheim
 reads the pasuk as built on the contrast between them.
 
@@ -50,7 +50,7 @@ reads the pasuk as built on the contrast between them.
 | נוהג | noheg | drive | leading by force, holding a fixed course (Pappenheim); can lead to ruin (Shapira-Frankfurter) |
 | מוליך | molich | take, bring | a form of *holech*; moving people from one place or state to another (Wertheimer) |
 | נחה | nachah | guide | shields from harm and brings to rest, from *menuchah* (Pappenheim); a shared goal (Rav Hirsch) |
-| נהל | nohel | lead with care | provides and sustains, not only shields (Pappenheim, Wertheimer); leads the tired (Malbim) |
+| נהל | nohel | lead with care | shields, provides and sustains (Pappenheim, Wertheimer); leads the tired (Malbim) |
 
 ## Distinctions
 
@@ -148,8 +148,7 @@ road (13:17), the pillar of cloud led the way (*lanchosam*, 13:21), "You led
   place. Moshe is told to *nechei* the nation, that is, to instruct them (Shemos
   32:34).
 - Rabbi Moshe Tedeschi-Ashkenazi (*Otzar Nirdafim*) frames *nocheh* differently:
-  leading a person all the way to his final destination, not merely along a leg
-  of the way.
+  leading a person all the way to his final destination.
 
 ### nohel (נהל)
 

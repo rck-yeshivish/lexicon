@@ -154,8 +154,7 @@ Nechemiah (Ezra 10:42, Nechemiah 12:14).
 
 ### Tzafnas Paneach (צפנת פענח)
 *Paneach* looks quadriliteral, פ-ע-נ-ח, and is otherwise unattested in Biblical
-Hebrew. Grammarians such as Ibn Ezra and Rabbi Eliyahu HaBachur hold as a rule that words from quadriliteral
-roots are not native to Hebrew but come in as loanwords, which suggests turning
+Hebrew. Grammarians such as Ibn Ezra and Rabbi Eliyahu HaBachur hold as a rule that words from quadriliteral roots come into Hebrew as loanwords, which suggests turning
 to Egyptian. Rabbi Klein did so in his *Lashon HaKodesh: History, Holiness,
 & Hebrew*, offering a collection of possible translations on the assumption of
 an Egyptian origin: "lord of life," "Neth speaks life," "the

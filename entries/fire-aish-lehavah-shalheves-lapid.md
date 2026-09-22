@@ -54,8 +54,7 @@ updated: 2026-09-10
 fire, which is why the same word means a **blade**. *Shalheves* is a flame
 gripping some material it is consuming. *Lahat* is fire moving fast, a
 **blaze**. *Lapid* is a **torch**, the object carrying the fire, and *avukah* a
-multi-wick torch against *ner*, the single-wick **lamp**. *Lehavah* is not a
-bigger fire than *aish*; it is the outward-reaching part of one.
+multi-wick torch against *ner*, the single-wick **lamp**. *Lehavah* is the outward-reaching part of an *aish*.
 
 ## At a glance
 

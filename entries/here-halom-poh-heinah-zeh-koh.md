@@ -25,7 +25,7 @@ words:
   - he: כה
     tr: koh
     en: here, thereabouts
-    distinct: not quite "here" but near it, seemingly from the kaf in the sense of "like" (Rabbi Shmuel David Luzzatto)
+    distinct: near "here" rather than here itself, seemingly from the kaf in the sense of "like" (Rabbi Shmuel David Luzzatto)
   - he: כאן
     tr: kan
     en: here
@@ -142,8 +142,7 @@ the spot and not elsewhere. Luzzatto takes *zeh* in this sense as the less
 specific place, a general area: "there was no kedeishah *bazeh*" (Bereishis
 38:21-22). *Koh*, typically "so" or "thus," occasionally means here: "set them
 *koh*" (Bereishis 31:37), "a day's journey *koh*" (Bamidbar 11:31), Bilam "stand
-*koh*" by his offerings (Bamidbar 23:15; see also Shmuel II 18:30). Luzzatto
-claims *koh* is not quite "here" but somewhere very close to it, seemingly on the
+*koh*" by his offerings (Bamidbar 23:15; see also Shmuel II 18:30). Luzzatto claims *koh* is somewhere very close to "here" rather than here itself, seemingly on the
 strength of the prefix kaf in the sense of "like/as." Targum often renders *koh*
 with *kah*, spelled kaf-aleph. Mishnaic *kan* is understood to be its cognate,
 its aleph merely separating it from *kein*, "yes/likewise" (Rabbi Chaim Yehoshua

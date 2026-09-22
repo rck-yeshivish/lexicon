@@ -21,7 +21,7 @@ words:
   - he: ארמלתא
     tr: armalta
     en: widow (Aramaic)
-    distinct: the Targumic and Talmudic standard, and the Mishnah already has the verb nisarmelah; for Rabbi Reuven Chaim Klein not a synonym of almanah but the same word in Aramaic dress
+    distinct: the Targumic and Talmudic standard, and the Mishnah already has the verb nisarmelah; for Rabbi Reuven Chaim Klein the same word as almanah in Aramaic dress
 sources:
   - wiaw:11817 "Emor: A Window into Widows (Part 1/2)" (2025-05-17) https://articles.ohr.edu/articles/emor-a-window-into-widows-part-12
   - wiaw:11816 "Behar/Bechukosai: A Window into Widows (Part 2/2)" (2025-05-24) https://articles.ohr.edu/articles/beharbechukosai-a-window-into-widows-part-22
@@ -35,7 +35,7 @@ updated: 2026-09-10
 
 *Almanah* is **widow**, *alman* **widower**, *almenus* **widowhood**. The
 Aramaic *armalta* is, as Rabbi Reuven Chaim Klein argues from the fluidity of such consonants
-and the Semitic cognates, not a synonym but the same word in Aramaic. In Kesubos 1:2 *almanah* covers any
+and the Semitic cognates, the same word in Aramaic. In Kesubos 1:2 *almanah* covers any
 previously married woman, divorced as well as widowed, though even in Rabbinic
 Hebrew it usually means widow.
 The etymology is disputed: Ibn Janach's muteness (א-ל-ם), which Radak, Ibn
@@ -182,8 +182,7 @@ holds it more cogent that they are different forms of the very same word.
 Linguists teach that sporadic changes in dental and liquid consonants are
 normal, and other Semitic languages have similar but not identical words:
 Arabic *armla*, *armala*; Syriac *armalta*; Assyrian and Akkadian *almattu*;
-Ugaritic *almnt*; Amharic *armoma*. So *armela* and *almanah* are not synonyms
-but, more accurately, cognates from adjacent languages.
+Ugaritic *almnt*; Amharic *armoma*. So *armela* and *almanah* are, more accurately, cognates from adjacent languages.
 
 ### almanta (אלמנתא) and karmelis (כרמלית)
 Rambam (*Hilchos Yibbum V'Chalitzah* 4:34) seems to coin an Aramaicized

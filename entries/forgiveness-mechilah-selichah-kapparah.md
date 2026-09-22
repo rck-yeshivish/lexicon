@@ -96,8 +96,7 @@ cognates appear many times for the forgiveness a korban brings (Vayikra 4:20-35,
 - Rabbi Yaakov Tzvi Mecklenburg: *selichah* may be quantitatively the stronger,
   since it reaches the whole quantity of the sin, but only by completely
   deferring its punishment to a later time; the sin itself is left as it was.
-- Rabbi Shlomo Aharon Wertheimer: a reprieve, the sinner is not punished all at
-  once but given time to repay slowly.
+- Rabbi Shlomo Aharon Wertheimer: a reprieve, the sinner is given time to repay slowly.
 - Rav Hirsch: the correction of the relationship between the sinner and the one
   (or One) he wronged.
 

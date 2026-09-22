@@ -189,8 +189,7 @@ colt.
   have been seen as something separate from other animals, a kind of pariah.
 - Rabbi Reuven Chaim Klein proposes an alternative of his own from the Mishnah's
   ruling that a *pered* may not be mated with a horse or a donkey (Kilayim 1:6),
-  which is the novel case, horse-and-donkey needing no statement: the root may
-  cover not only separating but its opposite, joining together what ought to
+  which is the novel case, horse-and-donkey needing no statement: the root may cover its opposite as well, joining together what ought to
   stay separate, which would fit the *pered*'s parentage.
 
 The resemblance between *pered* and the German and Yiddish *pferd*, "horse,"

@@ -241,8 +241,7 @@ does after all relate to Hebrew, but to *chalav*, not *lavan*.
   passage or a commentary turns on which word is used, keep them apart: *lavan*
   plain "white," *chivar* "pale" or "blanched" when a face or an outside cause is
   in view, *tzochar* left with a note.
-- In Shoftim 5:10 do not simply write "white donkeys" without knowing you have
-  chosen Rashi over Bedersi. "Groomed she-donkeys" is the other reading.
+- In Shoftim 5:10 write "white donkeys" only knowing you have chosen Rashi over Bedersi. "Groomed she-donkeys" is the other reading.
 - *Chivar* is Aramaic. Do not present *lavan* and *chivar*
   as a Hebrew synonym pair; on Rabbi Reuven Chaim Klein's reading of Rashi they are perhaps
   the same word in two languages, with at most a narrowing in Pappenheim.

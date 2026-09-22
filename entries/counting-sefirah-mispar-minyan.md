@@ -9,7 +9,7 @@ words:
   - he: ספירה
     tr: sefirah
     en: counting
-    distinct: a count in which each unit is marked and something is required of it, not only the total (Rabbi Yaakov Tzvi Mecklenburg); linked to sapir, the flawless gem, since the count is meant to purify the counter
+    distinct: a count in which each unit is marked and something is required of it (Rabbi Yaakov Tzvi Mecklenburg); linked to sapir, the flawless gem, since the count is meant to purify the counter
   - he: מספר
     tr: mispar
     en: number
@@ -56,7 +56,7 @@ and it differs from the *moneh* of the Kohen Gadol's sprinklings.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| ספירה | sefirah | counting | each unit marked and required, not only the sum (Mecklenburg) |
+| ספירה | sefirah | counting | each unit marked and required (Mecklenburg) |
 | מספר | mispar | number | a number used as a limit (Mecklenburg); the specific number reached (the Gra) |
 | מונה | moneh | count, tally | counting what is worth counting, from maneh (Mecklenburg); only the total matters |
 | מנין | minyan | tally, quorum | the resulting number; a general count (the Gra) |
@@ -86,10 +86,7 @@ mesorah gives as thirty-nine; the Aramaic *sfar* is a nation's border, which
 limits its territory, and the Aramaic *sapar* is a barber, who limits the growth
 of the hair. On this reading the Torah says *tisperu* for the Omer (Vayikra
 23:15-16) because that counting is itself bounded, running only until the morrow
-of the seventh week. Mecklenburg suggests a second dimension: *sefirah* is not the
-bare recitation of numbers but a count in which each unit calls for something
-extra, a count of quality as well as quantity. The goal of a *sefirah* count is
-not just the raw numbers but also improving oneself, cleansing oneself of impurities; and
+of the seventh week. Mecklenburg suggests a second dimension: *sefirah* is a count in which each unit calls for something extra, a count of quality as well as quantity. The goal of a *sefirah* count includes improving oneself, cleansing oneself of impurities; and
 he connects *sefirah* to *sapir*, the sapphire, since the counting cleanses a
 person as a precious gem is free of impurities.
 
@@ -107,10 +104,7 @@ Omer may be reckoned a separate mitzvah, so that one who misses a whole day
 continues counting, though without a berachah. Many have used the forty-nine
 days for a forty-nine step scheme of character development, or for the ways of
 acquiring Torah listed in the sixth perek of Avos, or for a forty-nine daf
-masechta such as *Sotah* or *Shevuos*. On that model the point of the counting
-is not necessarily only the destination of Shavuos but the days themselves: if a man works
-each day at becoming better, then not only the final count has significance but
-every single day. That is exactly what a *moneh* count is not.
+masechta such as *Sotah* or *Shevuos*. On that model the point of the counting may lie in the days themselves as much as in the destination of Shavuos: if a man works each day at becoming better, every single day has significance along with the final count. That is exactly what a *moneh* count is not.
 
 ### moneh, minyan (מונה, מנין)
 Root מ-נ-ה.

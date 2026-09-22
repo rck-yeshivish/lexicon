@@ -13,7 +13,7 @@ words:
   - he: שרון
     tr: sharon
     en: fertile plain
-    distinct: not any plain but one saturated with rich soil and fit for farming (Radak); Rabbi Shlomo Pappenheim makes it a plain set off against a nearby mountain; in Tanach the proper name of a specific region in at least some cases, if not all
+    distinct: a plain saturated with rich soil and fit for farming (Radak); Rabbi Shlomo Pappenheim makes it a plain set off against a nearby mountain; in Tanach the proper name of a specific region in at least some cases, if not all
   - he: איל
     tr: eil
     en: plain (fertile)
@@ -131,9 +131,7 @@ region.
   which also yields *siryon* (armor, protecting) and *mishras* (something
   soaked); Rabbi Reuven Chaim Klein wonders whether those two senses collapse
   into one, since one way to protect a thing is to embed it in an outer layer
-  and leave it there. Radak explains that these bear on *sharon*, which denotes
-  not an ordinary plain but one saturated with fertile soil and so unusually
-  good for agriculture.
+  and leave it there. Radak explains that these bear on *sharon*, which denotes a plain saturated with fertile soil and so unusually good for agriculture.
 - Rabbi Pappenheim in *Yerios Shlomo*: *sharon* is a plain near a mountain or
   hill, so that the contrast makes it conspicuous, while *mishor* is a plain of
   any kind. He derives both from ש-ר, "focal point," parent of *yashar*, the

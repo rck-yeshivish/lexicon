@@ -113,8 +113,7 @@ at most Aramaicizes it to *shichana* (Onkelos to Devarim 28:27, 28:35).
 
 ### shechin (שחין)
 The Mishnah (Nega'im 9:1) defines it as a wound caused by being struck with wood or stone,
-or by hot gypsum or peat or hot springs, but not by fire: not a burn, then, but an inflamed
-or infected wound. Thirteen occurrences: four in the sixth makkah (Shemos 9:8-12), four
+or by hot gypsum or peat or hot springs, but not by fire, so it is an inflamed or infected wound. Thirteen occurrences: four in the sixth makkah (Shemos 9:8-12), four
 in the tzaraas that arises on a healed shechin (Vayikra 13:18-23), two in the tochachah
 (Devarim 28:27, 28:35), two when Yeshayahu treats Chizkiyahu (Melachim II 20:7,
 Yeshayahu 38:21), and Iyov 2:7.

@@ -133,8 +133,7 @@ in Tanach. In *Haazinu*: "the rage of those who are *zochel* on the dirt"
   7:17. Ibn Ezra compares Iyov 32:6, Elihu's "I am young in days and you are
   aged, therefore *zachalti* and I feared to express my understanding to you,"
   and there Rashi too reads fear.
-- Fear as *dachil*: it might well be that *zochel* in the fear
-  sense is not a separate word from *dachil* but its cognate, since in many cases
+- Fear as *dachil*: it might well be that *zochel* in the fear sense is the cognate of *dachil*, since in many cases
   Aramaic dalet answers to Hebrew zayin, as in *dachar*/*zachar* (male),
   *deroa*/*zeroa* (arm), *dahav*/*zahav* (gold); it is then quite possible that
   *zochel* is simply a Hebraicized *dachil*, the same meaning and the same

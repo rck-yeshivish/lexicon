@@ -17,7 +17,7 @@ words:
   - he: אגודה
     tr: aggudah
     en: bundle, binding
-    distinct: not merely gathering but fastening the gathered into one unit (Rabbi Shlomo Pappenheim, from ג-ד, attaching); the three species bound for the lulav (Succah 11b)
+    distinct: gathering, and fastening the gathered into one unit (Rabbi Shlomo Pappenheim, from ג-ד, attaching); the three species bound for the lulav (Succah 11b)
   - he: קהילה
     tr: kehillah
     en: assembly

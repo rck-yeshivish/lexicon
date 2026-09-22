@@ -162,8 +162,7 @@ hem ba'aretz* (Shemos 14:3).
   pasuk says *hazorim b'dimah b'rinah yiktzoru*, those who sow in tears will
   reap in joy (Tehillim 126:5).
 - Rabbi Moshe Shapiro: the antidote to crying is *nechamah*, which per Rashi
-  (Bereishis 5:29, 6:6, 27:42; Shemos 32:12) is not only comfort but a shift in
-  thinking, the word used even of Hashem's "regretting" (so to speak) the making
+  (Bereishis 5:29, 6:6, 27:42; Shemos 32:12) is a shift in thinking as well as comfort, the word used even of Hashem's "regretting" (so to speak) the making
   of man (Bereishis 6:6); it is the clear view of the future that removes the
   need to cry, and just such a clear view is what Yeshayahu opens with, *nachamu
   nachamu ami* (Yeshayahu 40:1).

@@ -47,7 +47,7 @@ axis: *ratzon* can name means as well as ends, *chefetz* only the final goal.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| רצון | ratzon | will | the mind's chosen, good wanting (Malbim); can name means, not only ends (Edel) |
+| רצון | ratzon | will | the mind's chosen, good wanting (Malbim); can name means as well as ends (Edel) |
 | חפץ | chefetz | desire | the stronger, bodily pull (Pappenheim, Margolios); the final goal (Edel) |
 | צבי | tzvi | yearning | a lasting, even obsessive yearning, not a fleeting want (Pappenheim) |
 

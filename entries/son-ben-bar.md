@@ -96,9 +96,7 @@ possible lessons the word *bar* may be teaching him.
   teaching the boy that he now stands outside, on the threshold of entering
   adult life, and at that fateful juncture has the capacity to decide which path
   he takes.
-- The late Rabbi Alexander Sender Feuerstein of London: the Aramaic word conveys
-  that he must master not only the whole Written Torah, mostly written in
-  Hebrew, but the Oral Torah, mostly written in Aramaic.
+- The late Rabbi Alexander Sender Feuerstein of London: the Aramaic word conveys that he must master the whole Written Torah, mostly written in Hebrew, and also the Oral Torah, mostly written in Aramaic.
 - Rabbi Meir Mintzberg, son-in-law of the late Rabbi Leib Mintzberg, the leader
   of the Yerushalmi "Masmidim," takes a different approach: like Rabbi
   Pappenheim he reads *ben* from building and producing, the son as the product

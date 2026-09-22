@@ -54,8 +54,7 @@ and it decides how *bara choshech* in Yeshayahu 45:7 is heard.
    others: Yeshayahu 45:7 says Hashem formed light and *created* darkness, and
    what is created is something.
 3. **Both, by context.** Ramban follows Rambam that *choshech* ordinarily means
-   the lack of light, but holds that the darkness of the Ninth Plague was a
-   real, palpable mist that not only blocked light but added darkness; the
+   the lack of light, but holds that the darkness of the Ninth Plague was a real, palpable mist that blocked light and added darkness; the
    Midrash gives it the thickness of a *dinar*. Rabbi Klein suggests that
    Ramban likely split them because here the Torah also uses *afeilah*, which
    implies a stronger form of darkness.
@@ -76,7 +75,7 @@ and it decides how *bara choshech* in Yeshayahu 45:7 is heard.
 
 ### choshech (חושך)
 The unmarked word. Rashi (to Shemos 10:21): the "materializing" of the darkness
-means that this plague was not merely a prolonged night but darker than night.
+means that this plague was darker than night.
 
 Chasam Sofer (*Toras Moshe* to Bereishis 1:2): before Hashem created the world
 there was only He and light, so for a mixture of light and darkness at the start
@@ -86,9 +85,7 @@ of Creation, darkness itself had first to be created.
 Radak (*Sefer HaShorashim*): *afeilah* is darker than *choshech*. Rabbi Shlomo
 Aharon Wertheimer finds an allusion to that way of defining *afeilah* in the
 wording of a tefillah said at the Seder, where we ask to be taken from the
-darkness of galus to the light of the geulah: *me'afeilah l'or gadol*. The
-opposite set against *afeilah* is not simply light, which would be the opposite
-of *choshech*, but a *great* light that ushers in the coming of Mashiach.
+darkness of galus to the light of the geulah: *me'afeilah l'or gadol*. The opposite set against *afeilah* is a *great* light that ushers in the coming of Mashiach, plain light being the opposite of *choshech*.
 
 ## Rendering guidance
 

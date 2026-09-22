@@ -108,8 +108,7 @@ fairytale or fictional legend.)
   past event and draws it into the present by demonstrating its relevance (see
   also Alshich to Bereishis 24:23), on the model of *hagadas eidus*, testimony
   about a past event shown to bear on the court's deliberations now. In his
-  estimation *v'higadta* requires not merely recounting the story but showing
-  how it remains relevant to us.
+  estimation *v'higadta* requires showing how the story remains relevant to us, beyond recounting it.
 - Rabbi Aryeh Pomeranchik heard from the Brisker Rav in the name of Rav Chaim
   Soloveitchik that the Pesach-night *v'higadta* differs from the daily mention
   of yetzias Mitzrayim in that it entails explaining the connection between the

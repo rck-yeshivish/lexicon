@@ -139,8 +139,7 @@ understood the word as *batrunya*, "battle," Hashem not fighting against His
 creations, but on further investigation it appears it should be read
 *b'tarunya*, the beis a preposition. Rabbi Binyamin Mussafia (*Mussaf HeAruch*)
 writes that *tarunya* is a Hebraization of the Greek *tyronia*, tyranny. On this
-reading, Rabbi Klein explains, Hashem does not impose His will like a dictator,
-but in His benevolence always gives people another chance. The same Greek word
+reading, Rabbi Klein explains, Hashem in His benevolence always gives people another chance, rather than imposing His will like a dictator. The same Greek word
 is in the Targumim, which render *sarnei Plishtim* (Yehoshua 13:3, Shoftim 3:3
 and 16:5-27, Shmuel I 5:8-11, 6:4, 6:16, 7:7, 29:7, Divrei HaYamim I 12:20) as
 *turnaei Plishtaei* (in Modern Hebrew a *seren* is roughly a captain). Bereishis

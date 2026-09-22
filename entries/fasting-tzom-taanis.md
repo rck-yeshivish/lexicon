@@ -13,7 +13,7 @@ words:
   - he: תענית
     tr: taanis
     en: fast day
-    distinct: from inui, affliction, so strictly it names any self-affliction and not only abstaining from food; the Mishnaic word for a fast day, though it is already in Ezra 9:5
+    distinct: from inui, affliction, so strictly it names any self-affliction, fasting among them; the Mishnaic word for a fast day, though it is already in Ezra 9:5
   - he: עינוי
     tr: inui
     en: affliction
@@ -91,8 +91,7 @@ churban of the first Beis HaMikdash.
 Built on *inui*, so it names the affliction rather than the abstention. The
 Torah uses verb forms of *inui* for what is required on Yom Kippur (Vayikra
 16:29 to 31, 23:27 to 32; Bamidbar 29:7), and refraining from food and drink is
-one of the things included in it. Strictly, then, *taanis* does not primarily mean
-"fast" but any self-affliction, fasting included. *Taanis Esther*, kept the day before Purim, and
+one of the things included in it. Strictly, then, *taanis* means any self-affliction, fasting included. *Taanis Esther*, kept the day before Purim, and
 *Taanis Bechoros*, kept by many firstborn before Pesach, both carry this word.
 
 ### the gathering reading in Yeshayahu

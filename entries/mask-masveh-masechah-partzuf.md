@@ -35,8 +35,7 @@ updated: 2026-09-10
 ## Bottom line
 
 *Masveh* is the Biblical **mask** or **veil**, and it appears only of the
-covering Moshe Rabbeinu put over his face. *Masechah* in Tanach is not a mask at
-all but a **molten image**, cast metal, as in *egel masechah*; the modern sense
+covering Moshe Rabbeinu put over his face. *Masechah* in Tanach is a **molten image**, cast metal, as in *egel masechah*; the modern sense
 of "mask" is a later development. *Partzuf* is a **face**, a Greek loan-word, and
 it is the word the early poskim use for the Purim custom.
 

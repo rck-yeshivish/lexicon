@@ -60,9 +60,7 @@ Root י-כ-ח.
 - Rabbi Shlomo Pappenheim of Breslau (1740-1814): kin to *nochach*, opposite, in
   ideology and in physical location alike, since by offering his criticism the
   rebuker opposes the rebuked ideologically and possibly physically too, if the
-  two meet face to face. Nonetheless, Pappenheim argues that the most effective
-  way of rebuking is not direct confrontation but to question the other's
-  actions "innocently" and spur a debate about whether they are right; hopefully
+  two meet face to face. Nonetheless, Pappenheim argues that the most effective way of rebuking, rather than direct confrontation, is to question the other's actions "innocently" and spur a debate about whether they are right; hopefully
   the ensuing discussion will let the sinner realize the folly of his ways more
   powerfully than a litany of his misdeeds would. For that reason *tochachah* is
   also related to *hochachah*, proof, and *vikuach*, debate. Rabbi Klein

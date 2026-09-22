@@ -22,7 +22,7 @@ words:
     tr: tallis
     en: four-cornered garment
     nk: טַלִּית
-    distinct: not the fringes but the garment that carries them, and Rabbinic Hebrew only; the special garment with tzitzis worn at prayer (Rabbi Eliyahu HaBachur); placed upon the other clothes (Rav Matzliach Gaon) or from tillel, shade (Rabbi Nosson of Rome, Rabbi Ernest Klein)
+    distinct: the garment that carries the fringes, and Rabbinic Hebrew only; the special garment with tzitzis worn at prayer (Rabbi Eliyahu HaBachur); placed upon the other clothes (Rav Matzliach Gaon) or from tillel, shade (Rabbi Nosson of Rome, Rabbi Ernest Klein)
   - he: כרוספדין
     tr: kruspidin
     en: hem, fringe
@@ -47,8 +47,7 @@ updated: 2026-09-22
 *Gedilim* are the same strings named, on the reading of Radak and Rav Hirsch,
 for the **braided** third that is thickened by twisting. *Petil* is the single
 **thread** of *techeiles*, named for snug twisting and, in Rav Hirsch's reading,
-for its separateness. *Tallis* is not the fringes at all but the **four-cornered
-garment** that carries them, and it is Rabbinic Hebrew only. *Kruspidin* is the
+for its separateness. *Tallis* is the **four-cornered garment** that carries them, and it is Rabbinic Hebrew only. *Kruspidin* is the
 Targum's Aramaic for *tzitzis* and *gedilim*, a Greek loanword for the **hem or
 fringe** of a garment. *Tzitzis* and *tallis* are not interchangeable.
 

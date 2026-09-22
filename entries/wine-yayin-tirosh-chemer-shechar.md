@@ -73,7 +73,7 @@ and grain), and *smadar*
 
 - Some Bible scholars claim *tirosh* is an archaic word for wine that *yayin*
   later replaced; Rabbi Klein objects that this does not explain the difference,
-  or why the newer word did not simply supersede the older.
+  or why the newer word did not supersede the older outright.
 - *Machberes Menachem* defines *yayin* as *tirosh*.
 - Rabbi Yosef Kimchi (1105 to 1170), in *Sefer HaGalui*, objects that nobody
   ever doubted what *yayin* meant, and that defining it by *tirosh* adds nothing

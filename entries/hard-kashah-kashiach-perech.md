@@ -13,7 +13,7 @@ words:
   - he: קשיח
     tr: kashiach
     en: cruel, callous
-    distinct: not hardness of substance but cruelty (Ibn Ezra, Radak), specifically estrangement from one a person should love (Rabbi Shlomo Ibn Melech); a portmanteau of kashah and sach, removing the harshness from one's thoughts (Metzudas Tzion)
+    distinct: cruelty rather than hardness of substance (Ibn Ezra, Radak), specifically estrangement from one a person should love (Rabbi Shlomo Ibn Melech); a portmanteau of kashah and sach, removing the harshness from one's thoughts (Metzudas Tzion)
   - he: פרך
     tr: perech
     en: back-breaking, pointless
@@ -31,8 +31,7 @@ updated: 2026-09-10
 ## Bottom line
 
 *Kashah* is the general word, and covers both English senses of hard: **hard**
-as in rigid and unyielding, and **hard** as in difficult. *Kashiach* is not
-hardness of substance at all but cruelty (Ibn Ezra, Radak), for Rabbi Shlomo Ibn
+as in rigid and unyielding, and **hard** as in difficult. *Kashiach* means cruelty rather than hardness of substance (Ibn Ezra, Radak), for Rabbi Shlomo Ibn
 Melech specifically toward those one should love: **cruel, callous**. *Perech* literally breaks, so *avodas perech* is
 **back-breaking** labor, or, on a second line of reading, **pointless** labor,
 work with no end and no product. Rabbi Shlomo of Urbino (*Ohel Moed*) lists the

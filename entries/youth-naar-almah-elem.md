@@ -89,8 +89,7 @@ Rechavam at forty-one (Divrei HaYamim II 13:7); and Moshe's attendant Yehoshua
 at fifty-seven (Shemos 33:11). Possibly because of these questions, *Midrash
 Mishlei* (to Mishlei 1:4) extends the term to twenty, twenty-five and even
 thirty, which resolves most of them but not baby Moshe, Rechavam or Yehoshua.
-Taken together, Rabbi Klein suggests, these passages indicate that *naar* and
-*naarah* refer not to a specific age group but to something else.
+Taken together, Rabbi Klein suggests, these passages indicate that *naar* and *naarah* refer to something other than a specific age group.
 
 Rabbi Eliyahu Mizrachi (1455 to 1526) doubles down on the age sense, a boy
 between thirteen and thirteen and a half, but adds that in context the word can

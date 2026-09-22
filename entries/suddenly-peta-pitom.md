@@ -84,8 +84,7 @@ What, if anything, separates the two? These are the views.
    and Rabbi Avraham Menachem Rappaport (*Minchah Belulah* to Bamidbar 12:4)
    seemingly follows this when he suggests they are etymologically related,
    since ayin and aleph can interchange, so that פ-ת-ע equals פ-ת-א(ם). On this
-   approach the two may mean exactly the same thing, not synonyms but different
-   forms of one word.
+   approach the two may be different forms of one word, meaning exactly the same thing.
 
 Rabbi Klein concludes that, whatever the exact difference, most sources point to
 a marked difference between the two; Ibn Ezra's reading stands in contrast to

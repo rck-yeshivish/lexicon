@@ -18,7 +18,7 @@ words:
     tr: naim
     en: pleasant
     nk: נָעִים
-    distinct: for the Vilna Gaon, appeal to the eye; for Rabbi Shlomo Pappenheim, not a physical property at all but the pleasure the soul takes in a thing, from the root shared with im, "with"
+    distinct: for the Vilna Gaon, appeal to the eye; for Rabbi Shlomo Pappenheim, the pleasure the soul takes in a thing rather than a physical property, from the root shared with im, "with"
 sources:
   - wiaw:7611 "Sweet and Pleasant" (2018-01-27) https://articles.ohr.edu/articles/sweet-and-pleasant
 authorities: [Vilna Gaon, Rabbi Shlomo Pappenheim]
@@ -33,8 +33,7 @@ updated: 2026-09-10
 opposed to bitter. *Areiv* is **pleasing**: for Rabbi Pappenheim, sweetness as
 this particular person finds it; in Tanach it attaches to a voice, on one view
 to a scent, and to food only once. *Na'im* is **pleasant**: visual appeal for
-the Vilna Gaon, and for Rabbi Pappenheim not a physical property at all but the
-transcendent pleasure of enjoying the thing. Where the Hebrew moves from
+the Vilna Gaon, and for Rabbi Pappenheim the transcendent pleasure of enjoying the thing rather than a physical property. Where the Hebrew moves from
 *matok* to *areiv* it has moved, on Rabbi Pappenheim's reading, from what
 everyone tastes to what one person happens to love.
 
@@ -83,9 +82,7 @@ and made them *matok*. How does *matok* differ from *areiv*?
   the kind everyone recognizes as sweet, found in honey, figs and dates, and the
   polar opposite of bitter. From there it was borrowed for anything one might
   argue is good, desirable, or worthwhile. Pappenheim adds a reading of the
-  waters of Marah (Shemos 15:25): they are called *matok* not because they
-  became objectively sweet but by contrast, because the bitterness they had was
-  gone.
+  waters of Marah (Shemos 15:25): they are called *matok* by contrast, because the bitterness they had was gone, though they did not become objectively sweet.
 
 ### areiv (ערב)
 Root ע-ר-ב. Pappenheim: against *matok*, *areiv* is a *subjective* sweetness, an
@@ -114,8 +111,7 @@ Pappenheim's *na'im*.
 Root נ-ע-ם.
 
 - Vilna Gaon: visual appeal.
-- Pappenheim: not a physical property but the transcendent pleasure of enjoying
-  something sweet, so that *matok* and *areiv* speak of the physical and *na'im*
+- Pappenheim: the transcendent pleasure of enjoying something sweet rather than a physical property, so that *matok* and *areiv* speak of the physical and *na'im*
   of the sublime. He notes that the last two letters of the root spell *im*,
   "with," since the soul tends to bond with what it finds pleasant; so
   *na'im*/*noam* is the spiritual pleasantness that binds disparate entities and

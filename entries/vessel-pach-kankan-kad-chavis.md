@@ -26,7 +26,7 @@ words:
     tr: kaneh
     en: reed, stem, tube
     nk: קָנֶה
-    distinct: not a container but a pipe-like item, typically hollow in the middle; for Rabbi Reuven Chaim Klein hollowness characterizes it, and Rashbam and Ibn Ezra write that the Menorah's kanim ought to be hollow
+    distinct: a pipe-like item, typically hollow in the middle, rather than a container; for Rabbi Reuven Chaim Klein hollowness characterizes it, and Rashbam and Ibn Ezra write that the Menorah's kanim ought to be hollow
 sources:
   - wiaw:10751 "Miketz: Cans of Oil" (2022-12-17) https://articles.ohr.edu/articles/miketz-cans-of-oil
 authorities: [Rashi, Radak, Machberes Menachem, Rabbi Shlomo Pappenheim, Tosafot, Tosafos Yom Tov, Daas Zekeinim, Hadar Zekeinim, Rabbeinu Bachya, Rabbi Tzvi Elimelech Shapiro of Dinov, Dr. Alexander Kohut, Oxford English Dictionary, Rabbi Ernest Klein, Rambam, Rabbi Yosef Karo, Aruch HaShulchan HeAsid, Mabit, Rabbi Massoud Chai Rokach, Rabbi Avraham Dovber Kahane-Shapiro, Rashbam, Ibn Ezra, Jastrow]
@@ -47,8 +47,7 @@ Why does *Maoz Tzur* sing of *kankanim* where the Gemara says *pachim*? Rabbi
 Reuven Chaim Klein answers that it is poetic license, and that the
 interchangeability justifies the swap as well; he calls that interchangeability
 "a real possibility," and concludes that the two "essentially mean the same
-thing." *Kaneh* is not a container but a **reed**, **stem**, or **tube**,
-typically hollow.
+thing." *Kaneh* is a **reed**, **stem**, or **tube**, typically hollow, rather than a container.
 
 ## At a glance
 

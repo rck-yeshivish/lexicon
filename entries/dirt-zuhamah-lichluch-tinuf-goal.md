@@ -197,8 +197,7 @@ Steinberg suggests he read ז-מ-ה as a metathesis of ז-ה-ם. In Modern Hebre
   keep "soiling" for *tinuf*.
 - *Elach* rarely wants "dirty" at all. Tehillim 14:3, *ne'elachu*, reads better
   as "they have become tainted" or "gone rancid" than "they are filthy."
-- *Mezuham* of a person (*Berachos* 53b) is "unclean and foul-smelling," not
-  merely "dirty"; the odor is the operative fact.
+- *Mezuham* of a person (*Berachos* 53b) is "unclean and foul-smelling"; the odor is the operative fact.
 
 ## Notes for a project
 

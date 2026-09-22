@@ -58,8 +58,7 @@ reliability so that his wife goes on wanting to remain his partner.
 
 Rabbi Klein uses this also to answer a question on the Gemara. Rosh
 Hashanah 16a has Hashem say, "Recite before Me verses of kingship so that you
-make Me *melech* over you," and the Gemara takes the recital not merely as our
-affirming His kingship but as making Him King; why should that be contingent on
+make Me *melech* over you," and the Gemara takes the recital as making Him King, beyond our affirming His kingship; why should that be contingent on
 our acceptance at all? On the above the answer is clear: by accepting His
 sovereignty willingly we consolidate His role as *melech* of the world rather
 than merely a dictatorial *moshel*.
@@ -73,7 +72,7 @@ agent.
 
 ### moshel (מושל)
 Root מ-ש-ל. One who takes the position rather than receiving it. The Vilna
-Gaon: the *moshel* leads by his abilities, not merely by the people's will; he proves
+Gaon: the *moshel* leads by his abilities, where the *melech* rests on the people's will; he proves
 himself in battle and the like, shows himself more capable than the rest, and
 on that strength seizes his constituency and forces them under his hand. This
 is why the people offered Gideon the post of *moshel* (Shoftim 8:22) and not of

@@ -84,9 +84,7 @@ Not in Tanach at all; common in the writings of Chazal, and the word Modern
 Hebrew has adopted as its principal "now." The earliest
 documented instance of *achshav* is in the Dead Sea Scrolls, in the scroll
 designated 4Q225. Dr. Marcus Jastrow proposed that *achshav* is a contraction of
-*atah kemo shehu*, "now, as it is," which, if so, Rabbi Klein notes, would make
-it not quite a synonym of *atah* but a word based on *atah* that denotes a
-slightly different idea.
+*atah kemo shehu*, "now, as it is," which, if so, Rabbi Klein notes, would make it a word based on *atah* that denotes a slightly different idea.
 Parenthetically, Rabbi Eliyahu HaBachur writes that he has seen some spell the
 word with a *yud* as the penultimate letter, and deems the *yud* unnecessary.
 

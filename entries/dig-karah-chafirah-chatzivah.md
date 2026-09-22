@@ -138,8 +138,7 @@ Bava Kamma 5:5, Bava Basra 2:12).
   people acknowledge that though they, "the nobles of the people," would
   undertake the action, the final result always depended on Moshe and Aharon,
   "the officers," who sealed it, as when the people fought Amalek valiantly and
-  it was Moshe's raised hands and the tefillos that brought the victory. So the
-  order is not chronological but qualitative. The *chafirah*, the finishing of
+  it was Moshe's raised hands and the tefillos that brought the victory. So the order there follows weight. The *chafirah*, the finishing of
   the well, is put first because it is attributed to Moshe and Aharon, in whose
   merit the well came to be (Taanis 9a); only then does the song turn to the
   secondary reason, the rest of the nation, whose merits could begin the digging

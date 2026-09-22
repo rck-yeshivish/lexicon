@@ -130,8 +130,7 @@ both set the two parties as equals.
   visible. Where the pair turns up in one passage (Bereishis 12:4 and 13:14;
   24:32 and 24:54; 50:7 and 50:9), quote both Hebrew forms.
 - Second trap: most appearances of את are the object marker and carry no meaning
-  at all. Before reading "with" into one, check that the word is not simply
-  pointing at the object.
+  at all. Before reading "with" into one, check that the word is doing more than pointing at the object.
 - Where the source reads the two as opposites, say which school it belongs to,
   since the Gra and Malbim put the equality in *im* and Rabbi Pappenheim and
   Rabbi Mecklenburg put it in *es*.

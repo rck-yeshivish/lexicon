@@ -73,9 +73,7 @@ Ramban: while attached, every horn is a *keren*; detached, two kinds part
 company. One is hollow but naturally packed with a filling that must be drawn
 out before it will sound, and that is a *shofar*; the other is solid keratin
 that must be drilled through, and that stays a *keren* even detached. Any horn
-that is a *keren* and not a *shofar* is unfit, and the bovine horn's
-disqualification is not material (it is physically a *shofar*) but nominal: it
-is *called* a *keren*.
+that is a *keren* and not a *shofar* is unfit, and the bovine horn's disqualification is nominal, since physically it is a *shofar*: it is *called* a *keren*.
 
 Ran identifies *shofar* as a cognate of *shefoferes*, a hollow tube, common in
 the Mishnah (*Shabbos* 2:4; *Keilim* 14:5, 17:17; *Parah* 5:4, 5:8, 6:1, 9:2;
@@ -152,8 +150,7 @@ colliding with new circumstances); and *keren*, for the force of its goring.
 
 Rabbi Moshe Shapiro, without explicitly invoking Rabbi Pappenheim, builds the
 halachah out of this: a *keren* is the point of intersection where two opposing
-forces meet, hence the goring category, which names not just the limb but the
-point of departure from which an animal may stray; hence the crossroads at which
+forces meet, hence the goring category, which names the limb and also the point of departure from which an animal may stray; hence the crossroads at which
 one faces two ways; hence a corner, the meeting place of two sides; hence the
 principal, which can be lost or turn a profit. On Rosh Hashanah we galvanize
 every energy toward one end, the proclamation of Hashem's kingship, where no

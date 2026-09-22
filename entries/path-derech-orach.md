@@ -116,8 +116,7 @@ Root א-ר-ח; Pappenheim derives it from the two letters ר-ח, width (*revach*
 - Malbim: the road that reaches the outlying towns and villages.
 - Rabbi Shlomo Aharon Wertheimer, after Malbim, suggests that because an *orach*
   breaks off the main road to lead more directly to a less-traveled destination,
-  the tzaddik is said to guard the *orach* (Mishlei 2:20), being exact in the
-  details and not only the general route.
+  the tzaddik is said to guard the *orach* (Mishlei 2:20), being exact in the details as well as the general route.
 - The Zohar: an *orach* is a brand new road no one has trodden, which is why the
   righteous are tied to it: they bring novel Torah into the world and reveal
   Hashem's presence where it had not yet been revealed.

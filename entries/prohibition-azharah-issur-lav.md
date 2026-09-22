@@ -71,9 +71,8 @@ punishment aspect (for example, *Yevamos* 3b and *Sifrei Naso* 1).
   perception by instructing him as to his responsibilities, so to warn a person
   can be said to be shedding light on what is expected of him; both senses are
   enlightenment, one literal and one figurative. The late Rabbi Dr. Jose Faur
-  infers from this that at its core *azharah* covers what the Torah prescribes
-  and not only what it outlaws, and that this is why the *azharos* recited on
-  Shavuos list both kinds of mitzvah and not only the prohibitions.
+  infers from this that at its core *azharah* covers what the Torah prescribes as well as what it outlaws, and that this is why the *azharos* recited on
+  Shavuos list both kinds of mitzvah, positive commandments alongside the prohibitions.
 
 Not everybody agrees that the root is the triliteral ז-ה-ר. Some trace the word
 to the two-letter ז-ר, estrangement, as in *zar*; others go as far as the single

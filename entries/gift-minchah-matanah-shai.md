@@ -50,8 +50,7 @@ fill. *Shai* is a **weighty gift**, on Bedersi's reading substantial in itself
 and on Wertheimer's weighty in the giver's eyes though not in the receiver's; in
 Tanach it is always given to Hashem. *Teshurah* is the **showpiece gift**
 brought when one comes before a great man. *Eshkar* is obscure and disputed.
-*Doron* is not Hebrew at all; it is the Greek word for "gift" that the Targum
-uses. *Minchah* is not "meal-offering," it is "gift," and only the sacrificial
+*Doron* is the Greek word for "gift" that the Targum uses. *Minchah* is not "meal-offering," it is "gift," and only the sacrificial
 context narrows it (Rabbi Mecklenburg).
 
 ## At a glance

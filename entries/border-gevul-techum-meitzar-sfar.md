@@ -9,7 +9,7 @@ words:
   - he: גבול
     tr: gevul
     en: border, territory
-    distinct: the Biblical word, at its core the whole area within the borders, not just the edge (Rav Hirsch); the point of convergence that both separates and merges (HaKsav VeHaKabbalah); the border that unites a land as one (Rabbi Rivlin); cognate with Arabic jabal, mountain (Gesenius)
+    distinct: the Biblical word, at its core the whole territory the borders enclose (Rav Hirsch); the point of convergence that both separates and merges (HaKsav VeHaKabbalah); the border that unites a land as one (Rabbi Rivlin); cognate with Arabic jabal, mountain (Gesenius)
   - he: תחום
     tr: techum
     en: bounded area
@@ -22,7 +22,7 @@ words:
     tr: sfar
     en: frontier
     nk: סְפָר
-    distinct: not the line itself but what sits near it, the border region exposed to what lies outside; later Rabbinic, with one possible Biblical instance in sefarah (Rabbi Mecklenburg), most taking that as a place name; from circle, border cities walled round (Rabbi Golumb); confines all within it as one unit (Rabbi Moshe Shapiro)
+    distinct: what sits near the line, the border region exposed to what lies outside; later Rabbinic, with one possible Biblical instance in sefarah (Rabbi Mecklenburg), most taking that as a place name; from circle, border cities walled round (Rabbi Golumb); confines all within it as one unit (Rabbi Moshe Shapiro)
   - he: מצרים
     nk: מְצָרִים
 sources:
@@ -37,14 +37,12 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Gevul* is the Biblical word and, on Rav Hirsch's reading, names the whole
-**territory** inside the line, not only the line: "throughout your borders"
+*Gevul* is the Biblical word and, on Rav Hirsch's reading, names the whole **territory** inside the line: "throughout your borders"
 means the whole country. *Techum* is the Targum's rendering of *gevul* and the
 Mishnaic word for **the bounded area** (*techum Shabbos*). *Meitzar* (plural
 *mitzarim*) is the Rabbinic word for a **boundary**, as between adjoining
 fields, distinct, per Ibn Kuraish, from the Biblical *meitzar* meaning
-**straits**. *Sfar* typically names not the line itself but what sits near it,
-the **frontier** or border region exposed to what lies outside. Rashi reads
+**straits**. *Sfar* typically names what sits near the line, the **frontier** or border region exposed to what lies outside. Rashi reads
 *bein hametzarim* two ways at once: the Three Weeks, taking
 *mitzarim* from *tzarah*, "sorrow"; and, in the plain sense, "between the
 boundaries."
@@ -53,10 +51,10 @@ boundaries."
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| גבול | gevul | border, territory | the Biblical word; the whole territory inside the line, not only the edge (Rav Hirsch) |
+| גבול | gevul | border, territory | the Biblical word; the whole territory inside the line (Rav Hirsch) |
 | תחום | techum | bounded area | the Targum's and Mishnah's word; the bounded area, as *techum Shabbos* |
 | מיצר | meitzar | boundary | the Rabbinic boundary between fields, distinct from the Biblical straits (Ibn Kuraish) |
-| ספר | sfar | frontier | not the line but the region near it, exposed to what lies outside |
+| ספר | sfar | frontier | the region near the line, exposed to what lies outside |
 
 ## Distinctions
 
@@ -66,12 +64,9 @@ twelve pesukim laying out the borders of Eretz Yisrael (Bamidbar 34:1-12). The
 root also means to limit: Hashem tells Moshe to bound the people off
 (*v'higbalta*) around Har Sinai (Shemos 19:12; *HaKsav VeHaKabbalah* there).
 
-Rav Hirsch (to Shemos 7:27) makes the key point: *gevul* at its core is the
-area within the borders, not just the edge. Hashem strikes Pharaoh's whole *gevul*
+Rav Hirsch (to Shemos 7:27): *gevul* at its core is the whole area within the borders. Hashem strikes Pharaoh's whole *gevul*
 with frogs (Shemos 7:27) and brings locusts into his *gevul* (Shemos 10:4);
-chametz is forbidden "in all your borders" (Shemos 13:7). The frogs are not
-confined to Egypt's edges but fill the whole country, and the last two cases
-likewise take in a whole country, not just the border region (see *Yerios
+chametz is forbidden "in all your borders" (Shemos 13:7). The frogs fill the whole country, and the last two cases likewise take in a whole country (see *Yerios
 Shlomo* p. 836 and *HaKsav VeHaKabbalah* to Shemos 13:7). Rav Hirsch links
 *gevul* to *yevul*, produce, what one brings inside one's bounds, on the
 gimmel/yud interchange.

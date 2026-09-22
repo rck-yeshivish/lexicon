@@ -167,8 +167,7 @@ From *sheketz*, an abomination; the plain sense is that they are abominable.
 - Rav Achai Gaon (680-752) in *She'iltos d'Rav Achai Gaon* gives a different
   reason: they die as animals do. The Netziv, Rabbi Naftali Tzvi Yehudah Berlin
   (1816-1893), explains the connection: a person who dies is customarily buried
-  to conceal his embarrassment, while an animal's carcass is not given that
-  respect but is left in the open to rot under the sun's heat. Idols, once
+  to conceal his embarrassment, while an animal's carcass is left in the open to rot under the sun's heat. Idols, once
   useless, are likewise left out rather than buried.
 
 ### asherim (אשרים)

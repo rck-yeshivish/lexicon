@@ -118,8 +118,7 @@ he essentially gave up his life for the right to say what he held to be true. Th
 same Greco-Roman idea appears in early Christian texts about the apostles who
 preached boldly despite persecution.
 
-The rabbinic word, by contrast, stresses not free speech but the visibility and
-communal aspect of an act, a similar but slightly different idea, and it works
+The rabbinic word, by contrast, stresses the visibility and communal aspect of an act rather than free speech, a similar but slightly different idea, and it works
 for good deeds and bad alike. The Gemara weighs a sin
 committed in private against one committed *b'farhessya* (Sanhedrin 74a-75a,
 Avodah Zarah 27b), the public sin being seen as graver because it sets an example for

@@ -67,8 +67,7 @@ related: Zevul, the city official in Shechem who stayed loyal to Avimelech
 (Shoftim 9), and Izevel, the Tyrian princess who married Achav and pushed him
 toward avodah zarah.
 
-- Rav Hirsch (there): *zvul* is not a mere dwelling but a home that fully
-  answers every purpose of the one it is meant for. Hence its use for the Beis
+- Rav Hirsch (there): *zvul* is a home that fully answers every purpose of the one it is meant for. Hence its use for the Beis
   HaMikdash (so *Rosh Hashanah* 17a; and see Melachim I 8:13, Divrei HaYamim II
   6:2, Yeshayahu 63:15): the fitting place for the Shechinah to rest. He
   connects the Mishnaic *zevel* (fertilizer), which likewise readies the ground
@@ -102,8 +101,7 @@ stronghold (Mishlei 18:19, Eichah 2:5, Michah 5:4). It therefore straddles both
 English words.
 
 ### apadna (אפדנא)
-Once in Tanach (Daniel 11:45), where the meforshim explain it as a palace. In
-the Gemara it is sometimes not a whole palace but a grand or kingly room: Rashi
+Once in Tanach (Daniel 11:45), where the meforshim explain it as a palace. In the Gemara it sometimes names a grand or kingly room within a palace: Rashi
 (Bava Metzia 35a, Bava Basra 6b, Shabbos 77b) defines *apadna* as a royal
 triclinium, a fine dining room. It appears in Rava's dream that his *apadna* and
 Abaye's had fallen (Berachos 56a), in the debtor who owned two of them (Kesubos

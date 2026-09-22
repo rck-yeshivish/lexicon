@@ -189,7 +189,7 @@ standard logical English, *sug* is the genus and *min* the species. Ramchal
 (Rabbi Moshe Chaim Luzzatto, 1707 to 1746, *Derech Tevunos* 11:9) expands with an
 example: mankind is a *min* within the *sug* of living creatures, but compared
 with physical entities, living creatures becomes a *min* within that broader
-*sug*. So *min* and *sug* are not static but depend on context, while the
+*sug*. So *min* and *sug* depend on context, while the
 relationship between them always remains that of parent and child.
 
 ## Rendering guidance

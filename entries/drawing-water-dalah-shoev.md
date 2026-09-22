@@ -61,8 +61,7 @@ interchange of *zayin* and *dalet*.
 ד-ל is "hanging, swinging," a contribution Rabbi Klein thinks bears mention
 because it makes sense. On that reading *delet* is the leaf of a door, the
 flapping apparatus that opens and closes a doorway; *daliyot* are branches that
-hang off a tree loosely enough to move, as is *dildul*; a *dal* is a feeble man
-whose wealth is not well grounded but figuratively hangs and may swing from one
+hang off a tree loosely enough to move, as is *dildul*; a *dal* is a feeble man whose wealth figuratively hangs and may swing from one
 situation to another; and *dalah* fits because drawing water from a well
 typically means hanging a *d'li* on a rope and lowering it in.
 

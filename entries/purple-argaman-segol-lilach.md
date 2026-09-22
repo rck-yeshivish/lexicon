@@ -9,7 +9,7 @@ words:
   - he: ארגמן
     tr: argaman
     en: red-dyed wool (conventionally "purple")
-    distinct: not a color word at all but wool dyed a certain color, on which all commentators agree; Rambam (Klei HaMikdash 8:13) makes the shade red, and none of the traditional sources makes it the red-blue mixture English now calls purple
+    distinct: wool dyed a certain color rather than a color word, on which all commentators agree; Rambam (Klei HaMikdash 8:13) makes the shade red, and none of the traditional sources makes it the red-blue mixture English now calls purple
   - he: ארגון
     tr: argavan
     en: argaman (variant)
@@ -162,8 +162,7 @@ now. In several languages "purple" means red, and what we call purple is
 "violet"; the same was true in English until relatively recently, the *Oxford
 English Dictionary* giving as an alternate definition "Formerly: of any generally
 red shade; (now) of a deep, rich shade intermediate between crimson and violet."
-So *argaman* translated "purple" is not necessarily our purple but a generic sort
-of red. *Bamidbar Rabbah* 12:4 calls *argaman* the most esteemed of the fabrics
+So *argaman* translated "purple" may be a generic sort of red rather than our purple. *Bamidbar Rabbah* 12:4 calls *argaman* the most esteemed of the fabrics
 of the Mishkan and Mikdash because it represents the garments of royalty, and
 midrashic Hebrew uses *purpira* for royal clothing, as of Mordechai in *Pirkei
 D'Rabbi Eliezer* ch. 50; various Greco-Roman historians likewise record that

@@ -75,8 +75,7 @@ Shadal (to Bereishis 1:5): *boker* joins *boke'a ohr* (after Yeshayahu 58:8),
 the morning light breaking through the dark of night.
 
 ### shachar (שחר)
-Root ש-ח-ר. Rabbi Shlomo Alkabetz: not just a synonym for *boker*, but the
-first rays that break through the darkness of night, which is why English says
+Root ש-ח-ר. Rabbi Shlomo Alkabetz: the first rays that break through the darkness of night, which is why English says
 daybreak. He reads Tehillim 22:1, *ayeles hashachar*, as a comparison to a doe
 that springs suddenly and without warning: dawn arrives all at once, whereas
 nightfall comes on gradually. (The morning star, Venus, is called *ayeles

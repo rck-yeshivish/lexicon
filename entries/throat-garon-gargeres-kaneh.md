@@ -194,8 +194,7 @@ interchange, making the pasuk about appetite squandering money (*Vayikra Rabbah*
   "throat," not "windpipes"; the plural is a feature of the word, not a count.
 - In halachic text: *gargeres* and *kaneh* are "windpipe," *veshet* is "food
   pipe" or "esophagus," every time. This is the trap: English "throat" will
-  absorb *garon*, *gargeres*, and *kaneh* together, and in *Chullin* that is
-  not a stylistic loss but a substantive error, since the whole discussion turns
+  absorb *garon*, *gargeres*, and *kaneh* together, and in *Chullin* that is a substantive error, since the whole discussion turns
   on which of two pipes was cut.
 - Where *gargeres* and *kaneh* stand near each other and a measurement is at
   stake, do not merge them; Rabbi Yaakov Weil reads them as outer rings against

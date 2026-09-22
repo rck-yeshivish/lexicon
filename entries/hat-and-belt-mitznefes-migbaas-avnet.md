@@ -17,7 +17,7 @@ words:
   - he: כובע
     tr: kova
     en: helmet, hard hat
-    distinct: the everyday Modern Hebrew hat, but all six of its appearances in Tanach are part of a warrior's kit, so possibly not a hat at all but a hard hat or helmet
+    distinct: the everyday Modern Hebrew hat, but all six of its appearances in Tanach are part of a warrior's kit, so possibly a hard hat or helmet rather than a hat
   - he: אבנט
     tr: avnet
     en: sash
@@ -42,8 +42,7 @@ updated: 2026-09-22
 ## Bottom line
 
 *Migbaas* is the ordinary *kohen*'s **headdress**, *mitznefes* the *kohen
-gadol*'s **turban**, and *kova* possibly not a hat at all but a **hard hat** or
-**helmet**: every one of its six appearances in *Tanach* is a soldier's. For
+gadol*'s **turban**, and *kova* possibly a **hard hat** or **helmet** rather than a hat: every one of its six appearances in *Tanach* is a soldier's. For
 belts, *avnet* is the **sash** of the priestly service, *chagor* the general
 **belt** for anything that goes around the body, and *eizor* the **girdle** at
 the waist, worn by strong men. Rashi and Ramban maintain that *migbaas* and
@@ -109,8 +108,7 @@ on the honor that wearing it brings, in line with *Tosafos HaRosh* on *tznif*.
 Root כ-ב-ע. The everyday word for a hat in Modern Hebrew, but in *Tanach* it
 appears six times and always as part of a warrior's kit (Shmuel I 17:5,
 Yeshayahu 59:17, Yirmiyahu 46:4, Yechezkel 27:10 and 38:5, Divrei HaYamim II
-26:14), so that it is possibly not a "hat" at all but a "hard hat" or even a
-"helmet."
+26:14), so that it is possibly a "hard hat" or even a "helmet" rather than a "hat."
 
 ### avnet (אבנט)
 Malbim: a belt worn for ritual purposes, which is why it is the belt of the

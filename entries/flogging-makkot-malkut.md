@@ -68,8 +68,7 @@ third holding that the two essentially mean the same thing.
    the more precise title.
 2. **Makkot is the wider, so the better name.** Rabbi Elazar Rokeach of
    Amsterdam (*Maaseh Rokeach*): *malkut* is only physical striking, while
-   *makkot* covers any painful ordeal. The masechta treats not only flogging but
-   galus, so *Makkos* is the name that takes in both punishments.
+   *makkot* covers any painful ordeal. The masechta treats galus as well as flogging, so *Makkos* is the name that takes in both punishments.
 3. **The two are one word in two languages.** Avraham Even-Shoshan, in his
    dictionary: *malkut* and *makkot* essentially mean the same thing, only in
    Aramaic and in Hebrew respectively.

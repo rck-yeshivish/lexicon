@@ -124,8 +124,7 @@ Root כ-ל-ם.
   ought not, or for being screamed at or otherwise called out for it.
 - Edel: *klimah* and *cherpah* name the inherently shameful and humiliating
   aspect of what was done, so a thief who describes his theft with one of them
-  shows he recognizes the moral reprehensibility of the act, not merely his
-  shame at being caught.
+  shows he recognizes the moral reprehensibility of the act, beyond his shame at being caught.
 - Malbim and Rabbi Shlomo Aharon Wertheimer (1866 to 1935): *klimah* is shame
   that comes from outside, from another person humiliating him.
 - Rabbi David Golumb (1861 to 1935) relates the root KAF-LAMED-MEM to

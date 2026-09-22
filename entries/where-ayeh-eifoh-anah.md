@@ -110,8 +110,7 @@ linguists trace the English word differently.
 *An* (Shmuel I 10:14; Iyov 8:2), with its more common derivatives *anah* in
 Biblical Hebrew and *le'an* in Rabbinic Hebrew. Root א-ן. Rabbi Pappenheim:
 where *ayeh* and *eifoh* ask after a thing's current location, this root asks
-after its destination, "to where." He derives *aniyah*, a ship, from it: a
-ship does not run straight to its port but is pushed about by the water, so its
+after its destination, "to where." He derives *aniyah*, a ship, from it: a ship is pushed about by the water instead of running straight to its port, so its
 destination cannot be read off its course, and the word for it is the question
 itself. Rabbi Klein adds, from his own paradigm of the interrelation of time and
 space in Hebrew, that *anah* is borrowed from the spatial to the temporal to

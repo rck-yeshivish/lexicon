@@ -101,8 +101,7 @@ suggest a connection.
   picture.
 
 ### the track of thought
-Rabbi Klein's synthesis: the three words are not exactly synonymous but mark
-three points on one track. First a spark of an idea surfaces, the *raayon*. If
+Rabbi Klein's synthesis: the three words mark three points on one track. First a spark of an idea surfaces, the *raayon*. If
 one follows it, contemplates it and develops it to its conclusion (*hogeh*,
 *higayon*), the result is a clearer, more mature idea, the *machshavah*. As one
 completes his train of thought and prepares to say it, the thought is turned

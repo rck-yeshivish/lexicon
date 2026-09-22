@@ -32,8 +32,7 @@ updated: 2026-09-14
 
 ## Bottom line
 
-The Gemara (Megillah 22b, Berachos 34b) teaches that the three are not synonyms
-but three kinds of bowing: *kidah* is bowing the face, *kriah* is kneeling, and
+The Gemara (Megillah 22b, Berachos 34b) teaches that the three are three kinds of bowing: *kidah* is bowing the face, *kriah* is kneeling, and
 *hishtachavaah* is full prostration with hands and feet stretched out. Maharsha
 explains that each bows the head and some add more: *kidah* with the body otherwise
 erect, *kriah* on the knees, *hishtachavaah* stretched out on the floor. *Segidah* is
@@ -60,9 +59,7 @@ the same but the purpose differs.
   languages.
 - Malbim: the physical act of the two may be the same, and the difference lies
   in the motive. *Hishtachavaah* is bowing as a means of giving honor to that
-  toward which one bows. *Segidah* is bowing whose purpose is not to give honor
-  as such, but to perform a religious rite that is said to bring special benefits
-  from Above.
+  toward which one bows. *Segidah* is bowing done as a religious rite said to bring special benefits from Above, rather than to give honor as such.
 
 ## Distinctions
 

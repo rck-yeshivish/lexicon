@@ -59,9 +59,7 @@ and *tikrah* (ceiling), all of them points where weight bears down.
 
 On the scale: Pappenheim holds *kor* is the extreme, felt only on the coldest
 winter days, and it also describes a solid gone so cold that touching it hurts,
-cold metal or marble. Tanach names the winter season *kor* not because the
-season regularly reaches that pitch but because that is when real *kor* is
-likeliest.
+cold metal or marble. Tanach names the winter season *kor* because that is when real *kor* is likeliest, though the season does not regularly reach that pitch.
 
 ### tzinah (צנה)
 In this sense the word seems to appear only once: "like the *tzinas sheleg* on a
@@ -107,9 +105,7 @@ Rabbi Yehoshua Steinberg of the Veromemanu Foundation uses the pairing of
 *tzinah* with *sheleg*, snow, in Mishlei 25:13 to join the word's two senses:
 just as snow covers a wide area and surrounds a person on every side, so does a
 *tzinah*, a shield or perhaps armor, cover a wide area and surround the man it
-protects. On that basis he argues that *tzinah* as coldness does not name the
-drop in temperature, as *kor* does, but an all-encompassing cold that covers a
-wide area and envelops a person entirely.
+protects. On that basis he argues that *tzinah* as coldness names an all-encompassing cold that covers a wide area and envelops a person entirely, where *kor* names the drop in temperature.
 
 ### tzonen (צונן), the rabbinic form
 Radak: in rabbinic Hebrew the final *nun* doubled, giving *tzonen*. In the

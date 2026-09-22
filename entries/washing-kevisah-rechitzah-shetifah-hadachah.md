@@ -25,7 +25,7 @@ words:
   - he: מריקה
     tr: merikah
     en: scouring
-    distinct: the inside of a vessel, shetifah the outside (Rashi); purging clinging particles, a matter of degree (Rambam); not water-cleaning but buffing off rust, whence tamruk (Bedersi); a penetrating cleaning below the surface (Rav Hirsch)
+    distinct: the inside of a vessel, shetifah the outside (Rashi); purging clinging particles, a matter of degree (Rambam); buffing off rust rather than water-cleaning, whence tamruk (Bedersi); a penetrating cleaning below the surface (Rav Hirsch)
   - he: קינוח
     tr: kinuach
     en: wiping
@@ -48,8 +48,7 @@ inside. *Shetifah* is **sluicing**: under flowing water (Pappenheim), with much
 water (Wertheimer; Radak calls it the stronger washing). *Hadachah* is
 typically translated **rinsing**, the same exterior work with little water
 (Wertheimer); *Sefer HaShem* instead distinguishes it from *rechitzah* by what
-is removed, blood against filth. *Merikah* is, for Rabbi Avraham Bedersi, not
-water-cleaning at all but **scouring**, buffing off rust or tarnish; Rashi and
+is removed, blood against filth. *Merikah* is, for Rabbi Avraham Bedersi, **scouring** rather than water-cleaning, buffing off rust or tarnish; Rashi and
 Rambam read it within the washing of a vessel, inside against outside or a
 matter of thoroughness. *Kinuach*, Rabbinic only, is **wiping**. Vayikra 6:21 (*merikah*, *shetifah*)
 and Yeshayahu 4:4 (*rechitzah*, *hadachah*) each put two of them in a single
@@ -146,8 +145,7 @@ Vayikra 6:21 requires a metal vessel used for a chatas to undergo *merikah* and
 - Rambam (commentary to *Zevachim* 11:7) makes it a matter of degree instead:
   *merikah* purges clinging particles, *shetifah* is filling it with water and
   scrubbing further.
-- Bedersi separates *merikah* from the whole group: it is not water-cleaning but
-  buffing and polishing, softening a surface and taking off rust, which is how
+- Bedersi separates *merikah* from the whole group as buffing and polishing rather than water-cleaning, softening a surface and taking off rust, which is how
   *tamruk* in Esther 2:3 and 2:12 is a cosmetic regimen that smooths the skin.
   This fits, Rabbi Klein notes, with Rabbi Shlomo Pappenheim's derivation of
   both from ר-ק, emptying a thing of its blemishes and imperfections.

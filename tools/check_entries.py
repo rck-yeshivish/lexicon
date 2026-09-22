@@ -37,6 +37,11 @@ AI_TELLS = ["delve", "it's worth noting", "it is worth noting", "important to re
 # every one of them.
 NARRATION = [r"\bthe (article|author) (says|explains|writes|argues|tells|teaches|suggests)\b",
              r"\baccording to the (article|author)\b"]
+# "Not merely X but Y" and "X is not A; it is B" are drafting habits, not the
+# sources' voice. A plain "not X but Y" is left alone: an authority rejecting a
+# reading someone holds (Bedersi: cheres is not boils but an itch) is content.
+# These warn rather than fail, since a quotation can carry the form honestly.
+FRAMES = [r"\bnot (merely|only|just|simply)\b", r"\bis not [^.;:]{1,60}; (it|he|she|they) (is|are)\b"]
 
 
 def check(p):
@@ -92,6 +97,10 @@ def check(p):
     for pat in NARRATION:
         if re.search(pat, prose, re.I):
             errs.append(f"narration: /{pat}/")
+    flat = re.sub(r"\s+", " ", prose)
+    for pat in FRAMES:
+        for mm in re.finditer(pat, flat, re.I):
+            warn.append(f"contrast frame: ...{flat[max(0, mm.start() - 40):mm.end() + 30]}...")
     if re.search(r"<[^>]{3,}>", body):
         errs.append("template placeholder left in body")
     n = t.count("\n")

@@ -47,7 +47,7 @@ updated: 2026-09-10
 
 ## Bottom line
 
-These are not synonyms but one man's ten names. The six of Divrei HaYamim I 4:18
+These are one man's ten names. The six of Divrei HaYamim I 4:18
 (Yered, Avigdor, Chever, Avi-Socho, Yekusiel, Avi-Zanoach) are read as Moshe by
 *Vayikra Rabbah* 1:3, each expounded from a Hebrew root; four more (Toviah,
 Shemayah, Ben Nesanel, Levi) follow. The Midrash

@@ -102,8 +102,7 @@ Root ד-א-ג.
   others, for worry confined to finite words loses its limitlessness; on the
   second reading, distract oneself with other matters.
 - Beis HaLevi: worry over what is foreseen as certain.
-- Wertheimer: not the worrying itself but the despondency of one steeped in
-  anxious fright; Rabbi Klein notes that this echoes Franklin Delano Roosevelt's
+- Wertheimer: the despondency of one steeped in anxious fright; Rabbi Klein notes that this echoes Franklin Delano Roosevelt's
   inaugural line that the only thing we have to fear is fear itself.
 - Rabbi Shlomo Pappenheim connects *daagah* to the biliteral ד-ג of *dag*, fish:
   it is a minimally justified apprehension, the worrier seeing only some signs

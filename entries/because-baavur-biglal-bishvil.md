@@ -53,8 +53,7 @@ way. English hides the difference: "I will visit my parents because I love them"
 is *biglal*, a factor that exists already and calls for the visit.
 
 ### baavur (בעבור)
-The cause that lies ahead: not what is true now, but what the act is meant to
-bring about. "I will visit my parents because I want to build a better
+The cause that lies ahead: what the act is meant to bring about. "I will visit my parents because I want to build a better
 relationship with them" is *baavur*, the anticipated result standing as the
 reason.
 
@@ -91,8 +90,7 @@ inside a pasuk the Mishnah quotes. Modern Hebrew made *bishvil* the catch-all.
   My strength." Not "because of this," which would say Pharaoh had earned it.
 - *Biglal* in a *pasuk* of consequence (a punishment or a reward for what was
   done): "on account of," which keeps the eye on the completed cause.
-- Trap: English "because" absorbs *baavur* and *biglal* alike, and the loss is
-  not stylistic but logical, since the two point in opposite directions in time.
+- Trap: English "because" absorbs *baavur* and *biglal* alike, and the loss is one of logic, since the two point in opposite directions in time.
   Reserve "because" for *biglal* and give *baavur* a purpose clause.
 - Trap: "for the sake of" reads as either one. It is safe for *bishvil* and
   risky for the Biblical pair.

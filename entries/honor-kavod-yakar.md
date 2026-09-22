@@ -113,9 +113,7 @@ Why the Amora chose 1:20 and not 1:4, where *yikar* already appears:
 - Rabbi Baruch HaLevi Epstein (*Safah LaNe'emanim* pp. 34-35), because one
   loanword proves nothing and only several foreign words in a single sentence
   show that a text "uses" the other language.
-- Rabbi Nathansohn (*Beis Shaul* to Yadayim 4:5), because the Gemara wanted an
-  Aramaic word inflected in Hebrew fashion, not merely a word of Aramaic
-  etymology (see also Rabbi Naftali Maskileison, *Miskenos Naftali* to Yadayim
+- Rabbi Nathansohn (*Beis Shaul* to Yadayim 4:5), because the Gemara wanted a word inflected in Hebrew fashion as well as Aramaic in etymology (see also Rabbi Naftali Maskileison, *Miskenos Naftali* to Yadayim
   4:5); the question is also handled by Rabbi Efrayim Zalman Margulies (*Beis
   Efrayim*, *Orach Chaim* 70), Sfas Emes to Megillah 9a, Rabbi Zvi Hirsch Chajes
   in his glosses to Megillah 9a and Sanhedrin 38b, and Rabbi Eliezer Harstik

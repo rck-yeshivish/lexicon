@@ -185,7 +185,7 @@ Proto-Indo-European root *sweid-* or *svoid-*, to sweat. From the same root come
   account of an outer and an inner covering, where the outer one is a *tzanif*
   or perhaps a *tza'if*), give "veil" to *tza'if* and "shawl" to *redid* and
   hold it.
-- *Eifa* in Onkelos is not a third garment; it is Onkelos' Aramaic for *tza'if*.
+- *Eifa* in Onkelos is his Aramaic for *tza'if*, so there is no third garment to translate.
   Translate it "veil" and note the Aramaic if the sense of folding is at issue.
 - *Sudar* is a man's, so do not render it with the same English used for either
   of the women's coverings; "cloth" or "shawl" by context.

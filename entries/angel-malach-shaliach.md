@@ -113,8 +113,7 @@ Fewer than ten occurrences.
 - Pappenheim: the word refers to the idea of attaching distant political
   entities, and he finds other words related to *tzir* that carry the concept of
   connection.
-- Malbim: a *tzir* must not only relay a message for his dispatcher but report
-  back to him (contrast *malach*).
+- Malbim: a *tzir* must both relay a message for his dispatcher and report back to him (contrast *malach*).
 
 Aramaic has two words for sending: *shagar* (whose primary meaning seems to be
 "flow", and from which Modern Hebrew takes *shagrir*, ambassador) and *shadar*,

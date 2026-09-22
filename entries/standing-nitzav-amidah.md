@@ -117,8 +117,7 @@ Three places where both roots describe one scene:
   Rabbi Analak: Yisro thought they stood for a purpose, each waiting his turn for
   judgment, so *nitzav*; the narrator says *amidah* because they stood simply as
   a talmid's proper deportment before his rebbi (Rambam, Hilchos Talmud Torah
-  4:2), which is in line with Moshe's answer that they came to learn Torah, not
-  merely to await judgment.
+  4:2), which is in line with Moshe's answer that they came to learn Torah.
 - Bereishis 24:13 against 24:30. Eliezer davens *hinei anochi nitzav al ein
   hamayim*, deliberately standing there to seek out the right girl; later, once
   Rivkah is identified, he is *omed al hagemalim*. Mecklenburg, drawing on

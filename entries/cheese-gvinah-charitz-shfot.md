@@ -139,8 +139,7 @@ utensils carry a notch.
 ### shfot (שפות)
 David in flight from Avshalom is brought *shfot bakar* (Shmuel II 17:29), which
 Targum Yonasan again renders *guvnin d'chalav*.
-- *Midrash Shocher Tov* (to Tehillim 3): not ordinary cheese, but cow's cheese
-  so slick flies slid off it; Rabbi Chaim Dov Rabinowitz (*Daas Sofrim* there)
+- *Midrash Shocher Tov* (to Tehillim 3): cow's cheese so slick flies slid off it; Rabbi Chaim Dov Rabinowitz (*Daas Sofrim* there)
   reads that as heavily preserved cheese fit for a long journey.
 - Radak and *Metzudas Tzion* tie the word to ש-ף, rubbing and massaging (Iyov
   33:21; Radak, *Sefer HaShorashim*).

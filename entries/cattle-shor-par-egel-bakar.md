@@ -152,8 +152,7 @@ The collective, cattle.
 
 - Radak (*Sefer HaShorashim*): the root ב-ק-ר means investigating, seeking,
   probing. *Boker*, morning, is from it, the hour light comes and one can begin
-  to discern; *bikur cholim* likewise is not merely visiting but finding out how
-  the sick man is and what can be done for him.
+  to discern; *bikur cholim* likewise means finding out how the sick man is and what can be done for him.
 - Rabbi Yehoshua Steinberg: *bakar* is domesticated cattle precisely because
   such animals need watching, supervision and defense from marauders, and that
   is the work of the *boker* or *voker*, the "cowboy" (Amos 7:14), who must also

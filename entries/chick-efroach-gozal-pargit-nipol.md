@@ -98,8 +98,7 @@ for offerings, and that covenant was a sort of offering (see Ibn Ezra there).
 
 A cryptic remark of Ibn Ezra at Devarim 32:11 on how *gozal* and *efroach*
 relate is read three ways:
-- Rabbi Yitzchak Sarim, that *gozal* is not only a young eagle but any young
-  bird;
+- Rabbi Yitzchak Sarim, that *gozal* is any young bird, the young eagle among them;
 - Rabbi Shlomo Kohen of Lissa, that *gozal* is synecdoche, naming both the whole
   set (young birds) and one part of it (a certain dove);
 - and Rabbi Dr. Asher Weiser (editor of the Mossad HaRav Kook edition of Ibn

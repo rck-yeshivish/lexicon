@@ -192,8 +192,7 @@ Yehoshua 5:11, where Radak reads it as last year's grain.
   "rations."
 - Trap: English "grain" will absorb *dagan*, *bar* and *shever* together, and
   "produce" will absorb *yevul*, *tevuah* and *tenuvah*. Where two stand in one
-  pasuk (Amos 8:5 has *shever* and *bar*), translate the state of the grain and
-  not just the substance: "provisions" against "cleaned grain."
+  pasuk (Amos 8:5 has *shever* and *bar*), translate the state of the grain as well as the substance: "provisions" against "cleaned grain."
 - Do not read Onkelos back into the Hebrew. His single *avur* is a feature of
   Aramaic, not evidence that the Hebrew words are synonyms; Radak's *avur* is
   itself a distinct thing, old grain.

@@ -118,9 +118,7 @@ and spittle flow only downward, and teaching passes from teacher to student and
 not the reverse.
 
 ### Rabbi Klein's own answer
-Rabbi Klein answers that the different words for
-rain are not simply a product of rain's agricultural importance; they refer to
-different ways in which Hashem provides for the world. Some elements of Creation
+Rabbi Klein answers that the different words for rain refer to different ways in which Hashem provides for the world, beyond reflecting rain's agricultural importance. Some elements of Creation
 need a strong, torrential downpour to be quenched, while others need only a
 drizzle and would drown in a deluge. Vegetation grows at different times of the
 year, so rain must fall at those different periods. Hashem accommodates all these

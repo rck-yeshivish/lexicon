@@ -47,8 +47,7 @@ exactly the same thing; he then cites others who explain that the part of the
 shoulder directly opposite the neck is called *shechem* while the whole shoulder
 is called *katef*.
 
-**Radak** (1160-1235): *shechem* does not simply mean "shoulder," but the part of
-the shoulder lying closest to the neck.
+**Radak** (1160-1235): *shechem* means the part of the shoulder lying closest to the neck.
 
 **Against Radak, the pasuk in Iyov.** Asserting his innocence, Iyov says, among
 other things, "If my hand tricked an orphan… my *katef* shall fall from my

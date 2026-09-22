@@ -71,8 +71,7 @@ Root ק-פ-ץ.
 - The Vilna Gaon: both feet leave the ground.
 - Rabbi Shlomo Pappenheim: covering the distance of several steps in one,
   sometimes off the ground and sometimes not, the whole point being to arrive
-  faster. One who is *kofetz* is not avoiding anything underneath him; he is
-  shortening the trip. Hence *kefitzas haderech*, the miraculous shortening of a
+  faster. One who is *kofetz* is shortening the trip, with nothing underneath him to avoid. Hence *kefitzas haderech*, the miraculous shortening of a
   journey, and hence the idiomatic use for anything done in haste and without
   proper thought, as when the Gemara says of a man who swore on the spot that he
   "jumped and swore."
@@ -113,7 +112,7 @@ Root פ-ס-ח.
 The same root gives *piseach*, the lame or immobile man. Rabbi Klein draws an
 insight of his own from this: two conceptually opposite meanings sharing one
 spelling is a common phenomenon in Lashon HaKodesh, and it illustrates that
-Hebrew words are not the product of human whim but carry inherent meaning, on a
+Hebrew words carry inherent meaning, on a
 Divine intuition not found in other languages.
 
 ## Rendering guidance

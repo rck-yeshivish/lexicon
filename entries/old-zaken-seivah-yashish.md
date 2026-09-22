@@ -35,7 +35,7 @@ words:
   - he: ותיק
     tr: vatik
     en: veteran, senior
-    distinct: not an age word but standing and reliability, from Arabic wathuqa, firm, seniority being earned by dependability (Rabbi Ernest Klein, judged more plausible by Rabbi Reuven Chaim Klein); one is only tempted to hear old
+    distinct: standing and reliability rather than age, from Arabic wathuqa, firm, seniority being earned by dependability (Rabbi Ernest Klein, judged more plausible by Rabbi Reuven Chaim Klein); one is only tempted to hear old
 sources:
   - wiaw:8487 "The Old Man and the See" (2019-11-23) https://articles.ohr.edu/articles/the-old-man-and-the-see
   - ms:031-the-old-man-and-the-see.md "The Old Man and the See"
@@ -53,9 +53,7 @@ For Shadal, though, *zaken* is anyone of honor and importance, whatever his age,
 as *senior* and *signore* are.
 *Yashan* is **old** of plants and produce, not of people ("aged," "last year's").
 *Atik* is **ancient**, old by remoteness in time. *Vatik*, on the explanation
-Rabbi Reuven Chaim Klein judges more plausible (that of Rabbi Ernest Klein), is
-not an age word at all but means **veteran** or **senior**, of standing and
-reliability, not "old."
+Rabbi Reuven Chaim Klein judges more plausible (that of Rabbi Ernest Klein), means **veteran** or **senior**, of standing and reliability, and is no age word at all.
 
 ## At a glance
 

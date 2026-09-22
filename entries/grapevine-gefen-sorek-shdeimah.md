@@ -14,7 +14,7 @@ words:
     tr: sorek
     en: choice vine
     nk: שׂוֹרֵק
-    distinct: on most readings not a plain vine but the best kind; Targum Yonasan renders it "a choice gefen"; Radak, citing Rabbi Yitzchak Ibn Ghiyyat, says its grapes are seedless; Rashi instead reads it as the vine's long tendrils or its shoots fit for planting
+    distinct: on most readings the best kind of vine; Targum Yonasan renders it "a choice gefen"; Radak, citing Rabbi Yitzchak Ibn Ghiyyat, says its grapes are seedless; Rashi instead reads it as the vine's long tendrils or its shoots fit for planting
   - he: שדמה
     tr: shdeimah
     en: field, or vine (disputed)
@@ -35,8 +35,7 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Gefen* is the plain word: **grapevine**. *Sorek* is not a second word for the
-same thing but a **choice vine**, the best stock, by most readings. *Shdeimah*
+*Gefen* is the plain word: **grapevine**. *Sorek*, by most readings, is a **choice vine**, the best stock. *Shdeimah*
 is the disputed one: Rashi makes it a **grain field**, the grammarians a
 **vine**, Rabbi Shlomo Pappenheim simply rich, nourishing **ground**. *Sarig*
 is the **tendril**. Rabbi Shlomo of Urbino (*Ohel Moed*) lists *gefen*,
@@ -62,8 +61,7 @@ thing.
 - **Grapevine, a true synonym of gefen**: Rabbeinu Bachaya (to Devarim 32:32),
   who reads the pasuk as deliberate doubled verbiage, with Ibn Janach (*Sefer
   HaShorashim*), Ibn Ezra and Radak (to Yeshayahu 16:8).
-- **Any nourishing ground**: Pappenheim, not a vine and not Rashi's grain field
-  either, but land juicy enough to feed what grows in it.
+- **Any nourishing ground**: Pappenheim: land juicy enough to feed what grows in it, neither a vine nor Rashi's grain field.
 - **A poor field**: *Ohalei Yehuda* and *Shoresh Yesha*, a portmanteau of
   *sadeh*, field, and *mah*, what, seemingly invoking the shin and sin
   interchange, with mem interchanging with peh to link ש-ד-ם to ש-ד-ף,

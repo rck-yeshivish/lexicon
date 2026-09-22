@@ -17,7 +17,7 @@ words:
   - he: נטירה
     tr: netirah
     en: harbor, hold on to
-    distinct: not physical guarding but holding a conception in the mind, hence lo sitor, harboring a grievance (Malbim); can extend to the abstract (Wertheimer); localized, specific guardianship (Rabbi Dr. Asher Weiser)
+    distinct: the abstract holding of a conception in the mind, hence lo sitor, harboring a grievance (Malbim); can extend to the abstract (Wertheimer); localized, specific guardianship (Rabbi Dr. Asher Weiser)
 sources:
   - wiaw:11813 "Acharei Mos/Kedoshim: The Watchers and Guardians" (2025-05-10) https://articles.ohr.edu/articles/acharei-moskedoshim-the-watchers-and-guardians
   - wiaw:8941 "Castle in the Sky" (2020-11-28) https://articles.ohr.edu/articles/castle-in-the-sky
@@ -103,8 +103,7 @@ Root נ-צ-ר, about sixty occurrences; the initial *nun* often drops.
 Root נ-ט-ר, the rarest of the three: nine occurrences in the Hebrew portions of
 Tanach and one in the Aramaic (Daniel 7:28); its *nun* also often drops. Malbim (to
 Vayikra 19:18, Tehillim 103:9, Yirmiyahu 3:5, Shir HaShirim 1:6, and in *Sefer
-HaCarmel*) presumes that *netirah* is not physical guarding at all but the
-abstract holding on to a conception in the mind. Hence *lo sitor*, harboring a grievance without
+HaCarmel*) presumes that *netirah* is the abstract holding on to a conception in the mind. Hence *lo sitor*, harboring a grievance without
 watching anything tangible. Rashi's classic illustration of the pair: to answer
 "I will not lend you my ax, as you did not lend me your sickle" is *nekamah*;
 to say "here it is, I am not like you" is *netirah*, because the ill will is
@@ -165,7 +164,7 @@ theophoric Yah or Yahu.
   105:45 as "that they keep His statutes and guard His teachings."
 - Where *shemirah* means waiting (Bereishis 37:11, Tehillim 130:3, Shmuel I
   1:12), "kept the matter in mind" or "waited" is right and "guarded" is wrong.
-  Yaakov is not protecting anything; he is holding the thing until its time.
+  Yaakov is holding the thing until its time.
 - If a passage follows the Vilna Gaon or the Rokeach, *netzirah* should read as
   the heavier or the permanent watch, and the English should carry that
   ("watched over always," "never let go of"). If it follows Rabbi Analak, the

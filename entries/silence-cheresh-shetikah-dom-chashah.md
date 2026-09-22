@@ -64,9 +64,7 @@ redemption and salvation will arise for the Jews from another avenue" (Esther
 other words for silence?
 
 Rabbi Klein answers in two parts. On Bedersi's and Pappenheim's reading, *cheresh*
-is the silence of a man weighing what to say next, so Mordechai was telling
-Esther not merely to think silently about the threat facing the Jews but to go
-out and do something, stressing that there was no time left for silent
+is the silence of a man weighing what to say next, so Mordechai was telling Esther to go out and do something, beyond thinking silently about the threat facing the Jews, stressing that there was no time left for silent
 deliberation. Then, on Rav Hirsch's reading that *cheresh* is the stillness of
 one who is asked to speak or act and behaves as though he never heard, Rabbi Klein
 further posits that Mordechai deliberately used the loaded
@@ -169,7 +167,7 @@ a time to speak." See the dispute above. Mecklenburg also theorizes that
 this root.
 
 ### hass (הס)
-Not a way of being silent but of making others so, and, Rabbi Klein suggests, its
+A way of making others silent, and, Rabbi Klein suggests, its
 etymology might be an onomatopoeic adaptation of the sound used to quiet others.
 Bedersi does not mention it either. Pappenheim and Mecklenburg: the verb is
 usually employed where one silences others so they may listen to somebody else,

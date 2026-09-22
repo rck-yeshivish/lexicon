@@ -26,8 +26,7 @@ updated: 2026-09-22
 
 ## Bottom line
 
-Rabbi Klein's founding premise: in Hebrew a word is not a convention but
-expresses the essence of the thing, which is why *davar* means both **word** and
+Rabbi Klein's founding premise: in Hebrew a word expresses the essence of the thing, which is why *davar* means both **word** and
 **thing**; every element of creation is a Divine word crystallized into
 material existence. That raises a problem: why would Hebrew need several words
 for one concept? The answers usually follow a
@@ -106,8 +105,7 @@ multitudes."
 The premise itself. Other languages' words are a consensus among speakers that
 they should carry their meanings; the meaning of Hebrew words is Divinely
 inherent. One word carries "word" and "thing" because all elements of creation
-are Divine words crystallized into material existence. So close study of words
-and their true meanings is not only justified but fully warranted.
+are Divine words crystallized into material existence. So close study of words and their true meanings is fully warranted.
 
 ## Rendering guidance
 

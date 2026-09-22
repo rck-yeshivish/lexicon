@@ -76,8 +76,7 @@ three kinds of *eres*, a young snake's which sinks in a liquid, an old snake's
 which flows on top, a middle-aged one's which dallies in between (Sukkah 50a,
 Bava Kamma 115b). Avodah Zarah 31b: all *sheratzim* have *eres*, but only a
 snake's is lethal. Sanhedrin 78a and Bava Kamma 23b ask whether a snake releases
-venom only when angered or whether the venom sits always on its teeth. So *eres*
-is not the general word for poison but venom, most often a snake's; this is what
+venom only when angered or whether the venom sits always on its teeth. So *eres* is specifically venom, most often a snake's; this is what
 Bigsan and Seresh meant to put in Achashverosh's cup (Megillah 13b). An
 alternate tradition has them planning to kill him in his sleep and present his
 severed head to the Greek kings (*Yossiphon* ch. 4), and *Targum Rishon* to
@@ -147,8 +146,7 @@ Nachum 2:4, Zecharyah 12:2; *tarelah* in Tehillim 60:5, Yeshayahu 51:17, 51:22.
   and dalet.
 
 Rabbi Reuven Chaim Klein offers his own hedged reconciliation of the two
-readings: perhaps *ra'al* names not a lethal poison but a toxic contagion that
-throws a man into seizure-like convulsions. In Modern Hebrew *ra'al* is deadly
+readings: perhaps *ra'al* names a toxic contagion that throws a man into seizure-like convulsions, rather than a lethal poison. In Modern Hebrew *ra'al* is deadly
 poison.
 
 ### eches (עכס)

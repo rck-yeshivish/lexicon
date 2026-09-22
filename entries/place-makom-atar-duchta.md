@@ -32,8 +32,7 @@ updated: 2026-09-10
 standard Aramaic word for the same thing, the Targum's regular rendering of
 *makom*; *duchta* is an Aramaic word for "place," quite common in the Bavli,
 which Rabbi Reuven Chaim Klein suggests, if the derivation holds, may itself be
-an Old Persian loanword rather than native Aramaic. These are not shades of
-meaning but shades of *language*.
+an Old Persian loanword rather than native Aramaic. They differ in *language*, and the meaning is one.
 
 ## At a glance
 

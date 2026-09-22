@@ -45,8 +45,7 @@ sequence at all, while the Vilna Gaon has *reishis* mean the first of a series w
 denying that something preceded the series. *Rishon* is **first** in a counted
 series, one of several. *Techilah* is the **onset**, marking (on Malbim's
 account) that a thing did not exist before, without tying itself to what follows.
-*Kedem* is **before**, and in space **east**. *Reishis* is valued, not merely
-ordinal, and Rashi's opening comment and the Netziv's *terumah* reading both
+*Kedem* is **before**, and in space **east**. *Reishis* carries value as well as order, and Rashi's opening comment and the Netziv's *terumah* reading both
 depend on that importance.
 
 ## At a glance
@@ -100,7 +99,7 @@ the start of its existence), *rishayon*/*reshus* (authority), *reshes* (a net,
 by which a hunter gains mastery over an animal), *rosheh* (weak, easily
 subjugated), and *rash* (destitute, so browbeaten that anything rules him).
 
-*Reishis* carries importance, not only order. The Netziv (*Meromei Sadeh* to
+*Reishis* carries importance as well as order. The Netziv (*Meromei Sadeh* to
 Chullin 136b) uses this to resolve the Tosafists' difficulty. *Terumah* is called
 *reishis* (Bamidbar 15:20-21; Devarim 18:4) and the Gemara derives that one may
 not consecrate his whole crop, since a remnant must stay ordinary; yet *reishis

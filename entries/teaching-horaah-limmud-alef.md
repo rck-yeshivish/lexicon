@@ -108,8 +108,7 @@ strayed once his teacher was gone.
 
 Rav Hirsch makes a similar point from Moshe's own usage: in Devarim, Moshe
 describes his teaching of Klal Yisrael with cognates of *limmud*, not with
-*Torah*, because he did not suffice with planting the seeds but sought to see
-them to fruition. Rabbi Klein pairs the two: both Shadal and Rav Hirsch
+*Torah*, because he sought to see the seeds he planted to fruition. Rabbi Klein pairs the two: both Shadal and Rav Hirsch
 understand *hora'ah* as one step in the learning process and *limmud* as
 bringing it to its conclusion. The early grammarians note that the *malmad
 habakar*, the ox-goad of Shoftim 3:31, used in training cattle to plow, is from

@@ -86,8 +86,7 @@ still not there.
   further interpretation, and the Midrash fills that lacuna.
 - Rabbi Yehuda Leib Shapira-Frankfurter, on his own supposition that *boshesh*
   denotes excessive lateness, suggests that perhaps the appearance of this word
-  is what led Chazal to assume the people thought Moshe was late by many hours:
-  not late, but very late.
+  is what led Chazal to assume the people thought Moshe was late by many hours.
 
 Rabbi Avraham Saba (*Tzror HaMor*) reads *boshesh* against Aramaic *bshash*,
 food without salt or seasoning, and hears in the word choice the Erev Rav's

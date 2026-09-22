@@ -72,8 +72,7 @@ Three accounts of the same contrast, and they do not reduce to one.
    difference between one location's coordinates and another's and *kiruv* is
    simply bridging that distance, which is why the verb is used of animals as well
    as people; *gishah*, by contrast, appears in Tanach only of human beings,
-   because it is not merely closing a distance but a step forward toward a
-   specific goal, which only a being able to think and decide for itself can take
+   because it is a step forward toward a specific goal, which only a being able to think and decide for itself can take
    (see also Abarbanel to *Moreh Nevuchim* 1:18).
 
 Rav Hirsch's point about purpose is what, as it seems to Rabbi Klein, explains
@@ -114,8 +113,7 @@ in for the goal it aims at. Ramban (in his notes to the Rambam's *Sefer
 HaMitzvos*, lo saaseh 353) observes that both words are used of intimacy: *kiruv*
 at Devarim 22:14 and Yeshayahu 8:3, *gishah* at Shemos 19:15. Rabbi Yaakov Tzvi
 Mecklenburg reads the choice of *kiruv* in the arayos parashah (Vayikra 18:6) as
-load-bearing: the Torah forbids merely coming nearer, not only the closest
-approach, which is the Rambam's source that hugging and kissing are forbidden
+load-bearing: the Torah forbids any coming nearer, the closest approach included, which is the Rambam's source that hugging and kissing are forbidden
 mid'oraisa.
 
 ## Rendering guidance

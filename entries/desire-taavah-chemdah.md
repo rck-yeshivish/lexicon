@@ -79,8 +79,7 @@ Root א-ו-ה.
   itself but from an alignment of other factors, the subject's own proclivities,
   the time, the place.
 - Malbim: created by the man's own power of imagination, whether or not he ever
-  saw the object; not a reaction to outside stimuli but something that comes
-  from within. Both *taavah* and *chemdah* are self-damaging desires for Malbim.
+  saw the object; something that comes from within. Both *taavah* and *chemdah* are self-damaging desires for Malbim.
 
 The *erev rav* "desired a desire", התאוו תאוה (Bamidbar 11:4). The literal text
 suggests the dispute centered on the mann, yet the mesorah holds that the core
@@ -106,8 +105,7 @@ Root ח-מ-ד.
 
 Rabbi Klein reads the later two as falling in with the first: Rabbi Pappenheim
 and Rabbi Mecklenburg's account can be understood as somewhat of an expansion on
-the Vilna Gaon's, since the desire to accrue possessions is generally born not
-of appetite but of recognizing the advantages of possessing them; and Malbim's
+the Vilna Gaon's, since the desire to accrue possessions is generally born of recognizing the advantages of possessing them; and Malbim's
 too is in consonance with it, since on the Gaon's approach *chemdah* is the
 desirer's recognition of the desired thing's goodness while *taavah* in certain
 ways ignores the thing and fixes on the desirer's own predetermined craving for

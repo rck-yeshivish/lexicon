@@ -51,8 +51,7 @@ are descriptions:
   a use for them, whether for their meat or as beasts of burden. Among the
   kosher species, *behemah* is limited to three families, the same three that
   alone may be brought as *korbanos*: the bovine, ovine and caprine families,
-  that is cattle, sheep, and goats. The category is not only kosher, though:
-  other, non-kosher animals such as pigs, camels, and donkeys are seemingly
+  that is cattle, sheep, and goats. The category takes in more than the kosher, though: non-kosher animals such as pigs, camels, and donkeys are seemingly
   *behemos* as well, which is why the sacrificial list alone does not define the
   word.
 - Ramban instead defines *behemos* as the herbivores, animals that feed solely

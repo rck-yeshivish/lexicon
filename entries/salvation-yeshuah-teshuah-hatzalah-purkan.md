@@ -100,8 +100,7 @@ both *yeshuah* and *pidyon* with words of *purkan*.
   this may be why Hatzolah is the name the volunteer paramedic organizations
   took. Malbim further argues that *hatzalah*, against *yeshuah*, implies being
   saved from the situation plus being protected from future troubles.
-- Heilpern and Rabbi Chanoch Zundel: *hatzalah* can refer to saving from any
-  threat, not only the gravest.
+- Heilpern and Rabbi Chanoch Zundel: *hatzalah* can refer to saving from any threat, the gravest or the least.
 - Rabbi Shlomo Pappenheim: from the biliteral צ-ל, "separation for a
   constructive purpose," so extricating a person from peril; under the same root
   he puts *tzel*, a shadow, which appears to separate itself from a person,

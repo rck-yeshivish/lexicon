@@ -101,8 +101,7 @@ dangerous medium: one has exactly what was written and is in danger of losing
 whatever of the idea was left unwritten. That is *detaching* a part of an idea
 from the whole edifice, which can even *kill* the whole idea; and the *shoulder*
 is only a corner of the body, not the body itself. Rav Hirsch stresses that
-because of this danger Hashem gave not only the Written Torah but the Oral
-Torah, which takes in so much more; only the two in tandem give the complete,
+because of this danger Hashem gave the Oral Torah as well as the Written, which takes in so much more; only the two in tandem give the complete,
 accurate picture of Hashem's will.
 
 Menachem Ibn Saruk (*Machberes Menachem*) uses the word *mechokek* to define

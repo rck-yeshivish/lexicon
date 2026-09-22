@@ -24,7 +24,7 @@ words:
   - he: חוס
     tr: chus
     en: sparing
-    distinct: refusing to let a thing be destroyed because one would lose the benefit one has from it, as in chas v'shalom; felt toward any entity, not only an intelligent one (Malbim); not among the Thirteen Attributes
+    distinct: refusing to let a thing be destroyed because one would lose the benefit one has from it, as in chas v'shalom; felt toward any entity, intelligent or not (Malbim); not among the Thirteen Attributes
   - he: חמלה
     tr: chemlah
     en: pity
@@ -138,7 +138,7 @@ Hashem, these are presented as such.
 ### chus (חוס) and chemlah (חמלה)
 Neither is among the Thirteen Attributes.
 
-- Malbim: both can be felt toward any entity, not only an intelligent one
+- Malbim: both can be felt toward any entity, intelligent or not
   (English calls this "caring"); *chus* is refusing to let a thing be destroyed
   because one would lose the benefit one has from it (the *chas* of *chas
   v'shalom*). *Chemlah* is refusing to let a thing be ruined because of an

@@ -60,11 +60,10 @@ Yaakov refusing to be comforted for Yosef (Bereishis 37:35), of Yosef refusing
 Potifar's wife (Bereishis 39:8), of Yaakov refusing to put his right hand on
 Yosef's firstborn (Bereishis 48:19), of Amnon deviously feigning sickness by
 refusing to eat (Shmuel II 13:9), and in several other places. Nonetheless,
-the more familiar Hebrew word for refusal is not *mi'un* but *siruv*.
+the more familiar Hebrew word for refusal is *siruv*.
 
 Rabbi Shlomo Pappenheim of Breslau (1740-1814) derives *mi'un* from *ein* /
-*ayin*, "no," "is not," "has not": one who refuses does not engage with what he
-has rejected but stubbornly tries to ignore it.
+*ayin*, "no," "is not," "has not": one who refuses stubbornly tries to ignore what he has rejected.
 
 ### siruv (סירוב)
 A hapax at best, and even that instance is not universally agreed upon. When
@@ -135,8 +134,7 @@ go with Balak's men, Targum again avoids *siruv*, rendering "there is no will
 before Hashem to allow." Rabbi Dienna accounts for the unexpected phrasing by
 explaining that Onkelos felt the more vulgar *siruv* to be *somewhat*
 disrespectful when the refusal is Hashem's, and so rendered the passage
-creatively, a bit differently. On this approach the difference between the two
-lies not just in their etymological roots but in their meanings, *siruv*
+creatively, a bit differently. On this approach the difference between the two lies in their meanings as well as their etymological roots, *siruv*
 *somehow* implying a more intense form of refusing than *mi'un* does. (On the
 difference between *ma'en* and *me'en*, see Midrash *Sechel Tov* to Shemos
 7:27.)

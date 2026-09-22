@@ -37,7 +37,7 @@ updated: 2026-09-22
 
 ## Bottom line
 
-These are not synonyms but stages and kinds. *Becher* (masculine) and *bichrah*
+These words name stages and kinds of camel. *Becher* (masculine) and *bichrah*
 (feminine) are the **young camel**, newly born and not yet able to carry loads;
 grown, it becomes *gamal* for a male and *nakah* for a female (Rabbi Nosson of
 Rome, *Sefer HeAruch*). *Gamal* is the default word and can cover females too when
