@@ -17,7 +17,7 @@ words:
   - he: חלד
     tr: cheled
     en: the transient world
-    distinct: the world under time; Radak makes CHET-LAMED-DALET and its metathesis CHET-DALET-LAMED synonyms of zman, and Rav Hirsch ties chadal, to cease, and chaludah, rust, to man's wearing out
+    distinct: the world under time; Radak makes CHES-LAMED-DALET and its metathesis CHES-DALET-LAMED synonyms of zman, and Rav Hirsch ties chadal, to cease, and chaludah, rust, to man's wearing out
   - he: חרבה
     tr: charavah
     en: dry land
@@ -91,7 +91,7 @@ its own standing by being mixed into something else or by wearing away.
   it is Aramaic, since the Aramaic of *eretz* is *ara*, TZADI becoming AYIN as
   it often does, and that form appears in the same verse. How Hebrew *eretz*
   would yield *arka* is unclear; Rabbi Klein offers only that perhaps the TZADI
-  became a KUF because the two letters adjoin in the alef-beis.
+  became a KUF because the two letters adjoin in the aleph-beis.
 - *Midrash Mishlei* ch. 8 instead reads *arka* as the land that fled from before
   Hashem when He came to give the Torah at Sinai. Rabbi Klein says plainly that
   he is not sure what this means, and adds that the basis for the derashah seems
@@ -122,7 +122,7 @@ forms of one word (see Ibn Ezra to Tehillim 39:6).
   *chuldah*, which drags food from place to place and leaves it without knowing
   whom it will feed, as a man leaves things behind without knowing who will
   enjoy them (compare Taanis 23a).
-- Rabbi David Chaim Chelouche: CHET-LAMED, beginning, with LAMED-DALET, birth,
+- Rabbi David Chaim Chelouche: CHES-LAMED, beginning, with LAMED-DALET, birth,
   since a man knows the day of his birth and not of his death.
 - Rav Hirsch (to Bereishis 11:8, Tehillim 17:14) ties in *chadal*, to cease, and
   *chaludah*, rust: metal wears out, and so does a man.

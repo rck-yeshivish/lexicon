@@ -168,7 +168,7 @@ Zecharyah calls Mashiach "riding on a *chamor* and on an *ayir* the son of
 (Bereishis 32:16, 49:11, Zecharyah 9:9) it is her offspring, a foal; Radak
 (*Sefer HaShorashim*) allows it for the young of a *chamor* or of a *pere*.
 The classical lexicographers trace *ayir* to the triliteral ע-י-ר, but
-Pappenheim treats the *yod* as inessential and reads ע-ר, "revealing" (so *ir*,
+Pappenheim treats the *yud* as inessential and reads ע-ר, "revealing" (so *ir*,
 a city with squares open to the public; *ohr*, the skin that is revealed;
 *ervah*, nakedness; *taar*, the razor that reveals the skin; *ar*, an enemy who
 reveals his enmity; and *eir*, awake, since a sleeper's abilities show only on

@@ -57,7 +57,7 @@ them), and Shadal reads a whole tragedy in Tanach off the difference.
 ## Distinctions
 
 ### hora'ah (הוראה)
-- Ibn Janach and Radak: from the root yud-reish-hey, which yields three
+- Ibn Janach and Radak: from the root yud-reish-hei, which yields three
   meanings, throwing (*yarah vayam*, Shemos 15:4), teaching (*yoreh dei'ah*,
   Yeshayahu 28:9), and rain (*yoreh* and *moreh*, Devarim 11:14; Yoel 2:23).
 - Menachem Ibn Saruk traces these to the one-letter root reish and adds a fourth
@@ -78,7 +78,7 @@ too, jurisprudence flowing down from the authority to the less knowledgeable.
 Modern Hebrew keeps the neutral sense of teaching or instructing, without the
 halachic connotation.
 
-- Radak adds that *Torah* itself (and Aramaic *Orayta*) is from yud-reish-hey;
+- Radak adds that *Torah* itself (and Aramaic *Orayta*) is from yud-reish-hei;
   on that account *Torah* might best be understood as "a teaching" or
   "instruction."
 - Radak also weighs Ibn Janach's alternative, the root tav-vav-reish,
@@ -86,7 +86,7 @@ halachic connotation.
   cognate), from which come system and order, and the word *tor*, one's turn
   within a fixed arrangement; on that reading *Torah* is the law laid out as a
   systematic code.
-- Rav Hirsch (Bereishis 26:5; Devarim 4:1) takes a third root, hey-reish-hey, to
+- Rav Hirsch (Bereishis 26:5; Devarim 4:1) takes a third root, hei-reish-hei, to
   impregnate: the Torah is, as it were, the seeds of goodness and morality, from
   which a person instilled with its values can grow into a paragon of virtue.
 

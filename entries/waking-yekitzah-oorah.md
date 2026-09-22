@@ -104,7 +104,7 @@ man's deeds.
 
 The Targumim always render cognates of *yekitzah* by cognates of *oorah*, so
 Aramaic collapses the pair; *vayikatz* becomes *v'isar*, the Aramaic TAV
-standing in for the Hebrew YOD as the reflexive. The Gemara's term for one
+standing in for the Hebrew YUD as the reflexive. The Gemara's term for one
 half-asleep is *nim v'lo nim, tir v'lo tir*, "asleep and not asleep, awake and
 not awake" (*Pesachim* 120b; *Taanis* 12b).
 

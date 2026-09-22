@@ -95,7 +95,7 @@ notes the *shlif* was *tied* to the animal).
 **What alatz means.** Delilah "pressed" (*alatz*) Shimshon to give up the secret
 of his super-human strength (Shoftim 16:16).
 
-- Ramban (to Bereishis 32:25) reads the alef of *alatz* as interchangeable with
+- Ramban (to Bereishis 32:25) reads the aleph of *alatz* as interchangeable with
   the ches of *chalatz*, which he understands as a metathesized permutation of
   *lachatz*, pressure.
 - Chazal (*Sotah* 9b, *Bereishis Rabbah* 52:12) explain *alatz* differently, and

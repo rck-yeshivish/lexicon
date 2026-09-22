@@ -135,7 +135,7 @@ On the root:
 Rabbi Moshe Shapiro (1935 to 2017) finds it especially telling that ד-ב-ר means
 both "word" or "speak" and "thing," alluding to what *Sefer Yetzirah*
 describes, that Hashem created the world by combining the letters of the
-alef-beis into Divine words. Rabbi Akiva Tatz puts it that all things in the
+aleph-beis into Divine words. Rabbi Akiva Tatz puts it that all things in the
 world are Divine words crystallized into material existence. Rabbi Shapiro
 brings *Shabbos* 58b, where sound-producing implements have the status of
 *keilim*, "things," for the laws of tumah, as a passage that explicitly links

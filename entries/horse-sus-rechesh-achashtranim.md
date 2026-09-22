@@ -80,7 +80,7 @@ couriers or for pulling: **swift steed** or **courier horse**, not plain "horse.
   (Rav Saadia Gaon, Ibn Ezra, Radak, Rabbi Moshe Ibn Chalava, Ralbag); Rabbi
   Yosef Kimchi (*Sefer HaGalui*) reports Rav Saadia Gaon's etymology, Persian
   *achash*, "big," plus Aramaic *trein*, "two," one beast merging two species.
-- An adjective on *rechesh*, from CHET-SHIN, speed, plus TAV-REISH, scouting,
+- An adjective on *rechesh*, from CHES-SHIN, speed, plus TAV-REISH, scouting,
   the mounts spies used (*Midrash Lekach Tov*).
 - Similarly, a name built on the same roots with TAV-REISH as "jumping," so that
   the animal's swiftness is in its leap rather than its run (Rabbi Shlomo

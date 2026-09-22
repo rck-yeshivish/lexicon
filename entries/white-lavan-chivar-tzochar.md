@@ -138,7 +138,7 @@ specifically sour milk, relates to *lavan* by its white color, and is the basis
 of Yiddish and Modern Hebrew *leben*.
 
 Rabbi Shlomo Pappenheim (1740 to 1814) takes a wildly different approach. In
-his system two-letter cores take on hei, alef, mem, nun, tav, yud or vav to make
+his system two-letter cores take on hei, aleph, mem, nun, tav, yud or vav to make
 three-letter roots, so the final nun of *lavan* is not part of the core, and it
 goes back to ל-ב, the root of *lev*: heart, and so "middle"; *lavi*, the
 lioness, courageous of heart; *levivos*, wafers that sustain the heart or are
@@ -186,7 +186,7 @@ Yehoshua 13:21).
 
 The Italian scholar Rabbi Moshe Yitzchak Tedeschi-Ashkenazi (1821 to 1898;
 *Otzar Nirdafim*) links *chivar* to *ohr*, light, on the interchange of ches
-and alef; compare Rav Hirsch to Bereishis 1:3. Rabbi Reuven Chaim Klein adds that since white
+and aleph; compare Rav Hirsch to Bereishis 1:3. Rabbi Reuven Chaim Klein adds that since white
 is what an object shows when it absorbs none of the colors of visible light, the
 link between white and light becomes more understandable.
 
@@ -222,7 +222,7 @@ Cognates of *chalav* appear across the Semitic languages: Aramaic *chalba*,
 Arabic *halab*, Ethiopic *halib*, Ugaritic *hlb*, Akkadian *halabu*. Rabbi
 Aharon Marcus (1843 to 1916) suggests that the original word for "white" in all
 languages is *chalav*, claiming even a Celtic cognate, and connects Latin
-*albus* to *chalav*, the ches softening toward an alef; so, he explains, the
+*albus* to *chalav*, the ches softening toward an aleph; so, he explains, the
 Alps are named for being white like milk, as is the river Elbe (Latin
 *Albis*), though this is nowadays considered something of a
 folk etymology. He is unsure whether *chalav* meant milk first and then white,

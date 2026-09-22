@@ -98,7 +98,7 @@ from a well; *shoef* is its air counterpart, **inhale**, and in *sheifah*,
   bucket into the well to bring back water.
 
 **Whether shoev and shoef are one word.**
-- Rav Hirsch connects them through the interchangeability of *beis* and *pei*.
+- Rav Hirsch connects them through the interchangeability of *beis* and *peh*.
 - *Midrash Sechel Tov* (to Bereishis 24:11), the earliest source to draw the
   connection, notes the thematic likeness between internalizing a yearning
   (*shoef*) and filling a container with water (*shoev*), and rejects the

@@ -74,7 +74,7 @@ confined to Egypt's edges but fill the whole country, and the last two cases
 likewise take in a whole country, not just the border region (see *Yerios
 Shlomo* p. 836 and *HaKsav VeHaKabbalah* to Shemos 13:7). Rav Hirsch links
 *gevul* to *yevul*, produce, what one brings inside one's bounds, on the
-gimmel/yod interchange.
+gimmel/yud interchange.
 
 Radak (*Sefer HaShorashim*) adds *givlim*, "stonecutters" (Melachim I 5:32),
 for giving stones a bound by cutting them to size, or a gentilic for men of

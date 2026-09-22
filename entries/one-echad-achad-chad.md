@@ -171,7 +171,7 @@ an *esnachta*, so the pair is one word and not two senses.
 ### the aleph of echad
 Rabbi Yehonosson Eybeschutz writes that Adam spoke Hebrew before eating from the
 Tree of Knowledge and Aramaic afterwards, and accounts for the switch through
-this very word. Aleph is the first letter of the alef-beis and has a gematria of
+this very word. Aleph is the first letter of the aleph-beis and has a gematria of
 one, so it stands for oneness and uniqueness; Hebrew's word for one, *echad*,
 opens with it, while the Aramaic *chad* does not. When Adam defied Hashem's
 order he slighted Hashem's all-encompassing dominion, an affront to His Oneness,

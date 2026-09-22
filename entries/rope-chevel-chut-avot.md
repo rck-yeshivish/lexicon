@@ -18,7 +18,7 @@ words:
   - he: כבל
     tr: kevel
     en: fetter
-    distinct: twice only, and both times an iron bond on a prisoner or a king (Tehillim 105:18, 149:8); it seems to Rabbi Reuven Chaim Klein that it is chevel with CHET and KAF interchanged
+    distinct: twice only, and both times an iron bond on a prisoner or a king (Tehillim 105:18, 149:8); it seems to Rabbi Reuven Chaim Klein that it is chevel with CHES and KAF interchanged
   - he: אטון
     tr: eitun
     en: cord of fine linen
@@ -112,7 +112,7 @@ Yerushalayim, the *Gesher HaMeitarim*.
 
 **Whether *kevel* belongs here.** Rabbi Reuven Chaim Klein notes that he has not
 seen it stated explicitly, but it seems to him that *kevel* and *chevel* are
-related by the interchange of CHET and KAF. Rabbi Amitai Ben-David notes that in modern Hebrew *kevel* or
+related by the interchange of CHES and KAF. Rabbi Amitai Ben-David notes that in modern Hebrew *kevel* or
 *kabel* took on a different meaning and is used specifically of electric cables
 and cable cars. Rabbi Ernest David Klein, in *A Comprehensive Etymological
 Dictionary of the English Language*, cites two opinions on the English word

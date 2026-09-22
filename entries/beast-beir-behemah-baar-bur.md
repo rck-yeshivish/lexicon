@@ -153,7 +153,7 @@ Ha'Afeilah* to Bamidbar 22:2; *Yad Ramah* to Sanhedrin 105a).
   the animal subservient to man carries his menial work and so lifts him toward
   loftier things; alternatively animals are the lower rung of life, figuratively
   trodden upon by their servility to man, and he compares ב-ה-ם to פ-ע-ם,
-  "stepping," by the interchange of bet with pei and hei with ayin. *Chayah* he
+  "stepping," by the interchange of bet with peh and hei with ayin. *Chayah* he
   takes from *chai*, life: the wild animal is an independent life-form, or
   alternatively animal life is a higher order than *tzomeach*.
 - Rabbi Aharon Marcus derives *behemah* from the root ב-ה-ה, an onomatopoeic

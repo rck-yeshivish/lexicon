@@ -60,14 +60,14 @@ Root פ-ד-ה.
   alternatively, *pidyon* is case-by-case redemption of the individual. (Rabbi
   Stern was the Rabbi of Miami Beach.)
 
-A note on spelling: *podeh* is generally spelled with a heh, but in one place
-(Iyov 33:24) Scripture replaces the heh with an ayin (פדע).
+A note on spelling: *podeh* is generally spelled with a hei, but in one place
+(Iyov 33:24) Scripture replaces the hei with an ayin (פדע).
 
 - Rashi there reads *pedaehu* as *pedahu*, the ayin standing for an
   interchangeable aleph, and Ramban (to Devarim 21:14) likewise treats it as the
   same word.
 - Ibn Janach, Menachem Ibn Saruk, and Radak, however, have separate entries for
-  the heh form and the ayin form in their lexicons of Hebrew roots, implying
+  the hei form and the ayin form in their lexicons of Hebrew roots, implying
   that they understand the latter to be a separate word; and to this effect
   Malbim writes that *podeh* with an ayin *may* be related to a similar-sounding
   Arabic word meaning "removal."

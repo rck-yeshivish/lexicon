@@ -50,7 +50,7 @@ grass of the field (Bamidbar 22:4). Four further times in Tanach (Melachim I
 18:38; Michah 7:17; Yeshayahu 49:23; Tehillim 72:9).
 
 - Rabbi Yaakov Berger of Kiryat Sefer (*Milon Leshon Mikra*) conjectures that
-  the word derives from *cheich*, the palate, taking the initial *lammed* as no
+  the word derives from *cheich*, the palate, taking the initial *lamed* as no
   part of the core.
 - Rabbi Yaakov Yehudah Zilberberg (*Leshonenu HaKedoshah* p. 304) connects it to
   *cheich* in a similar way, licking being the use of the tongue to roll liquid

@@ -17,7 +17,7 @@ words:
   - he: הדקל
     tr: ha'dekel
     en: Tigris
-    distinct: the Samaritan reading of Bereishis 2:14, with a hey in place of the chet; not a Masoretic form
+    distinct: the Samaritan reading of Bereishis 2:14, with a hei in place of the ches; not a Masoretic form
 sources:
   - wiaw:11903 "Devarim: The Sharp River" (2025-08-02) https://articles.ohr.edu/articles/devarim-the-sharp-river
 authorities: [Targum Onkelos, Rashi, Rabbi Saadia Gaon, Abarbanel, Rabbi Naftali HaKohen Katz, Rabbi Binyamin Mussafia, Shadal, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Baruch HaLevi Epstein, Rabbi Refael Mamo, Rabbi Matzliach Mazuz, Josephus, Rabbi Levi ben Avraham, Rabbi Nissim of Marseilles, Targum Neofiti, Wilhelm Gesenius, Rabbi Ernest Klein, Isidore of Seville, Dr. Alexander Kohut]
@@ -42,7 +42,7 @@ Abarbanel and Rabbi Binyamin Mussafia tie the river's Greek name to the tiger.
 |---|---|---|---|
 | חדקל | Chidekel | Tigris | the Biblical name, twice only; read as chad + kal, sharp and swift (Berachos 59b) |
 | דגלת | Diglat | Tigris | the Aramaic/Rabbinic name; Targum Onkelos to Bereishis 2:14 and the standard word in Shas (Rashi: it is the Chidekel) |
-| הדקל | ha'dekel | Tigris | the Samaritan text's form, chet replaced by hey; not Masoretic |
+| הדקל | ha'dekel | Tigris | the Samaritan text's form, ches replaced by hei; not Masoretic |
 
 ## Where the authorities disagree
 
@@ -59,7 +59,7 @@ Abarbanel and Rabbi Binyamin Mussafia tie the river's Greek name to the tiger.
   the familiar name. Rabbi Reuven Chaim Klein somewhat expands this by presuming
   that the two names are from two languages, *Chidekel* Hebrew and *Diglat*
   Aramaic; and Shadal (to Bereishis 2:14) had already noted that they are
-  cognates, the Aramaic dropping the initial chet and trading kuf for gimmel.
+  cognates, the Aramaic dropping the initial ches and trading kuf for gimmel.
 
 **What "sharp and light" describes.**
 
@@ -80,7 +80,7 @@ Abarbanel and Rabbi Binyamin Mussafia tie the river's Greek name to the tiger.
 - *Torah Temimah* explains the Gemara's derashah from the same rarity: because
   four-letter roots are rare, Chazal read the name as two two-letter words.
 - Rabbi Mamo takes it differently, that the base is *dekel*, palm, and the
-  Gemara asked only what the prefixed chet adds, the answer being *chad*.
+  Gemara asked only what the prefixed ches adds, the answer being *chad*.
 
 **Tigras in Chullin 59b.**
 
@@ -126,13 +126,13 @@ is the Chidekel of Tanach.
 
 ### the name in other languages
 The Akkadian *Idiqlat*/*Idiglat* is the closest to the Hebrew. Rabbi Aharon Marcus
-claims it is a corruption of the Hebrew, the hard initial chet softened to an aleph and
+claims it is a corruption of the Hebrew, the hard initial ches softened to an aleph and
 a final tav added; modern linguists instead derive it from the Sumerian *Idigna*, "the
 river that goes," adapted to Akkadian. The Arabic is *dijlah* (so Rabbi Saadia Gaon's
 *Tafsir* to Bereishis 2:14); Targum Neofiti to Bereishis 2:14 and the Peshitta have
 *Tiklat*, with a kuf; the Turkish is *Dicle*, also a given name. The Samaritan text at
-Bereishis 2:14 writes *ha'dekel*, a hey for the chet; perhaps, Rabbi Reuven Chaim
-Klein suggests, the Samaritans took the Masoretic chet for a typo and had the audacity
+Bereishis 2:14 writes *ha'dekel*, a hei for the ches; perhaps, Rabbi Reuven Chaim
+Klein suggests, the Samaritans took the Masoretic ches for a typo and had the audacity
 to change it.
 
 ### dekel (דקל) and degel (דגל)

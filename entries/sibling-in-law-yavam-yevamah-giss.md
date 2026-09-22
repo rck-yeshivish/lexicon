@@ -187,7 +187,7 @@ side of the family tree.
 
 - HaBachur vocalizes the word *gass*.
 - Rabbi Yosef Teomim-Frankel (1727-1792), author of the *Pri Megadim*, points out
-  that it is sometimes written with a yod between the gimmel and the samech,
+  that it is sometimes written with a yud between the gimmel and the samech,
   which supports vocalizing the gimmel with a chirik as is the common practice.
 
 Some versions of the Mishnah, that printed in

@@ -82,7 +82,7 @@ whistle to call those who have gotten lost. In the same way, Hashem will invite
 all who have strayed to return to Him. The *Tur* (*Orach Chaim* §286) famously
 explains the
 reversed-alphabet acrostic that opens *Tikanta Shabbos* as alluding to
-*tishrok*, "He will whistle," the last four letters of the alef-beis, the Final
+*tishrok*, "He will whistle," the last four letters of the aleph-beis, the Final
 Whistle that brings the Redemption.
 
 English *screak* and *shriek* are typically traced to the Proto-Indo-European

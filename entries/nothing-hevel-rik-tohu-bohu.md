@@ -261,7 +261,7 @@ statement, which is like turning that statement into "nothing," or at least
 *efes* takes on a numeric sense, "zero."
 
 Rabbi Shlomo Pappenheim traces *efes* to the biliteral root פ-ס, taking the
-initial alef as extraneous to the core root, and defines the root's principal
+initial aleph as extraneous to the core root, and defines the root's principal
 meaning as the "edge" or "end" of something: the *kesones passim* Yaakov gave
 Yosef (Bereishis 37:3) is a pleated garment, which has many "edges" (*passim*).
 *Efes*, then, is something that has reached its proverbial end and is therefore
@@ -416,7 +416,7 @@ name Blima, also pronounced Blume (responsa *Maharsham* vol. 4 §50, vol. 8
 *blow* (and the German and Yiddish *blatt*). According to linguists, those
 Germanic words derive from the Proto-Indo-European root *bhel*, "thriving,
 blossoming." In Greek and Latin the first consonant of that root became an
-f-sound (just as beis and pei can interchange in Hebrew), yielding the
+f-sound (just as beis and peh can interchange in Hebrew), yielding the
 etymological ancestors of the English *flower*, *flour*, *foliage*, *folio*,
 *flora*, *flourish* and more; it is also the basis of the name of the Roman
 goddess Flora (Fluusai in the ancient Oscan culture). None of this has anything

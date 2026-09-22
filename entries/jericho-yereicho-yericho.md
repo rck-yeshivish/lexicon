@@ -9,11 +9,11 @@ words:
   - he: יריחו
     tr: Yericho
     en: Jericho
-    distinct: the vocalization used throughout Yehoshua and at Shmuel II 10:5, spelled with a yod between reish and ches; on the Oraysa editor's suggested rule the yod points to reyach, scent
+    distinct: the vocalization used throughout Yehoshua and at Shmuel II 10:5, spelled with a yud between reish and ches; on the Oraysa editor's suggested rule the yud points to reyach, scent
   - he: ירחו
     tr: Yereicho
     en: Jericho
-    distinct: the vocalization of Bamidbar, Devarim, Yirmiyahu, Ezra-Nechemiah and Divrei HaYamim, without that yod; several sources hear reyach, scent, in this form (Yossiphon as Rashi reads him, Rabbeinu Yoel, the Peirush HaRokeach), while the Oraysa editor's rule would give it yareyach, the moon
+    distinct: the vocalization of Bamidbar, Devarim, Yirmiyahu, Ezra-Nechemiah and Divrei HaYamim, without that yud; several sources hear reyach, scent, in this form (Yossiphon as Rashi reads him, Rabbeinu Yoel, the Peirush HaRokeach), while the Oraysa editor's rule would give it yareyach, the moon
   - he: עיר התמרים
     tr: Ir HaTmarim
     en: the City of Dates
@@ -28,13 +28,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-One city, two vocalizations, and three descriptive names. *Yericho* (with a yod between
+One city, two vocalizations, and three descriptive names. *Yericho* (with a yud between
 the reish and the ches) is the form of Yehoshua and Shmuel II; *Yereicho* (without it) the
 form of Chumash and of most of the later sefarim. Which vowel carries which sense is not
-settled: several sources hear *reyach*, scent, in the yod-less
+settled: several sources hear *reyach*, scent, in the yud-less
 *Yereicho* (*Yossiphon* as Rashi reads him, Rabbeinu Yoel, the *Peirush HaRokeach*), while
-the anonymous editor of the Oraysa *Yossiphon* suggests the opposite alignment, yod present
-for *reyach* and yod absent for *yareyach*, the moon. **Ir HaTmarim**, the City of Dates,
+the anonymous editor of the Oraysa *Yossiphon* suggests the opposite alignment, yud present
+for *reyach* and yud absent for *yareyach*, the moon. **Ir HaTmarim**, the City of Dates,
 is one of the Bible's names for Jericho, and where it appears without a name Targum and
 Rashi take it as Jericho.
 
@@ -42,7 +42,7 @@ Rashi take it as Jericho.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| יריחו | Yericho | Jericho | the form in Yehoshua and Shmuel II 10:5, and in most of Melachim; on the Oraysa editor's suggestion the yod points to reyach |
+| יריחו | Yericho | Jericho | the form in Yehoshua and Shmuel II 10:5, and in most of Melachim; on the Oraysa editor's suggestion the yud points to reyach |
 | ירחו | Yereicho | Jericho | the form in Bamidbar, Devarim, Yirmiyahu, Ezra-Nechemiah, Divrei HaYamim, Melachim II 25:5; Yossiphon (as Rashi reads him), Rabbeinu Yoel and the Rokeach hear reyach in it, the Oraysa editor yareyach |
 | עיר התמרים | Ir HaTmarim | the City of Dates | Devarim 34:3, Divrei HaYamim II 28:15; the standalone phrase at Shoftim 1:16 means Jericho (Targum, Rashi, Radak) |
 
@@ -64,14 +64,14 @@ HaYamim and part of Melachim all post-date the conquest and still write *Yereich
 
 - Rabbi Yedidya Tia Weil, son of Rabbi Nesanel Weil the famed author of *Korban Netanel*,
   answers without a chronology. He presumes that the two vocalizations track the two
-  spellings, and at first considers that the extra yod is a tribute to Hashem, whose
-  four-letter Name opens with a yod, hinting at the great miracle of the conquest and the
+  spellings, and at first considers that the extra yud is a tribute to Hashem, whose
+  four-letter Name opens with a yud, hinting at the great miracle of the conquest and the
   city's consecration; but he concludes that the difference is more practical, that the
   city proper bore one name and the surrounding country, where the balsam and date trees
   grew, the other, and he works through every occurrence in Tanach to show it. Rabbi
   Shimon Schwab (*Maayan Beis HaShoeivah*) reached the same conclusion independently.
 - The Oraysa editor's rule, which he offers as something by which "perhaps" the variants
-  can be accounted for, is: yod present, *reyach*; yod absent, *yareyach*.
+  can be accounted for, is: yud present, *reyach*; yud absent, *yareyach*.
 
 **Which sense the name carries.** One of the earliest sources to connect Jericho with its
 palms and balsam trees is the Jewish-Roman historian Flavius Josephus (*Antiquities of the

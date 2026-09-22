@@ -132,7 +132,7 @@ teaching that Hashem does nothing without first consulting His *pamalia*
 of *makchishin pamalia shel maalah* (Sanhedrin 67b, Chullin 7b). It is also used
 of a human court: on the tradition that Iyov was originally an advisor to
 Pharaoh (Sotah 11a), the Yerushalmi (Sotah 5:6) calls him a prominent member of
-Pharaoh's *pamilia*, spelling the word with an extra yod between the mem and the
+Pharaoh's *pamilia*, spelling the word with an extra yud between the mem and the
 lamed.
 On its origin:
 - Rabbi Gedaliah Lipschutz (*Regel Yesharah* to Derech Eretz Zuta ch. 4) reads
@@ -145,7 +145,7 @@ On its origin:
 - Rabbi Eliyahu HaBachur (*Sefer HaTishbi*) reads it with an initial feh rather
   than peh and a chirik under the mem rather than a patach, and on that reading
   identifies the word with Latin *familia*. Alexander Kohut bolsters the
-  connection by noting that the Yerushalmi spells the word with a yod between
+  connection by noting that the Yerushalmi spells the word with a yud between
   the mem and the lamed.
 
 In Rabbi Klein's view this does not conflict with Rambam and the Aruch, since

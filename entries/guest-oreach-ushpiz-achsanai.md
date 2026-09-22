@@ -137,7 +137,7 @@ Iyov 31:32), and throughout Shas and Midrash.
   German and Yiddish *gast*; related are the Jewish surname Gastwirth,
   innkeeper, and German *Gasthaus*, guest house.
 - Rabbi Dr. Ernest Klein claims *achsanyah* derives from Greek *xenos*,
-  stranger or foreigner, with the prosthetic alef common in Greek words taken
+  stranger or foreigner, with the prosthetic aleph common in Greek words taken
   into Hebrew, the same Greek word behind English *xenial*, *xenophobia*,
   *xenogenous*, *xenogamy* and the element xenon.
 - Rabbi Avi Kobernick offers a Hebrew derivation from כ-ס-ן, read against its

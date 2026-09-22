@@ -69,7 +69,7 @@ is disputed: poison, or a draught that leaves a man limp and reeling. Chullin
 
 ### eres (ארס)
 Not in Tanach or Mishnah; it appears in Hebrew passages of the Bavli and a
-handful of times in the Yerushalmi, there almost always with a yod after the
+handful of times in the Yerushalmi, there almost always with a yud after the
 aleph, so likely *iras*. The Gemara's usage fixes the sense. Avodah Zarah 30b:
 three kinds of *eres*, a young snake's which sinks in a liquid, an old snake's
 which flows on top, a middle-aged one's which dallies in between (Sukkah 50a,

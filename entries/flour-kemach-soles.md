@@ -132,7 +132,7 @@ named for the repeated pressing and grinding that produces it.
 This Aramaic
 and Arabic word is the etymological ancestor of the English
 *semolina*, by way of the Greek *semidalis* and the interchange of dalet and
-lammed.
+lamed.
 
 ## Rendering guidance
 

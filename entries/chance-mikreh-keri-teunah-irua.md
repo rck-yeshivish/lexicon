@@ -80,7 +80,7 @@ Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) takes the biliteral ק-ר to mean
 *kor* (cold, the clash of temperatures against the body's warmth). On that
 reading a *mikreh* is the sudden collision of a person with a new set of
 circumstances. He treats *kara* / *kriyah* (calling) as the same biliteral with
-an extraneous alef: a call gets attention and so brings about a meeting, an
+an extraneous aleph: a call gets attention and so brings about a meeting, an
 impact; likewise *likras*, moving toward a meeting.
 
 On *keri* in Vayikra 26 (26:21, 26:23, 26:24, 26:27-28, 26:40-41, and nowhere
@@ -161,7 +161,7 @@ of a fall; *somewhere*, *wherever* and *whenever* carry the same sense of a
 place or time not deliberately fixed.
 
 On that model he reads the Hebrew back. By phonetic shift and the interchange of
-reish with lammed and hey with ayin, ק-ר-ה may also relate to ק-ל-ע, to sling or
+reish with lamed and hei with ayin, ק-ר-ה may also relate to ק-ל-ע, to sling or
 hurl, the image of a projectile striking a target, which the Talmudic Aramaic
 *ikla*, someone who happens to arrive somewhere, seems to corroborate. The same
 roots reach the ground itself: *karka*, a doubling of ק-ר, is land, and so is

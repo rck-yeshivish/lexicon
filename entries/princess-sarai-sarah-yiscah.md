@@ -17,7 +17,7 @@ words:
   - he: שרי
     tr: Sarai
     en: my princess
-    distinct: a princess to her own nation (Berachos 13a); the final yod a possessive (Rashi) or a diminishing letter (Maharal); or a standing that would end with her life, having no child (Maharsha)
+    distinct: a princess to her own nation (Berachos 13a); the final yud a possessive (Rashi) or a diminishing letter (Maharal); or a standing that would end with her life, having no child (Maharsha)
   - he: שרה
     tr: Sarah
     en: princess
@@ -37,7 +37,7 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Sarai*, with its final yod, reads as **"my
+*Sarai*, with its final yud, reads as **"my
 princess,"** a princess of her own house and nation; *Sarah* is **"princess"**
 without limit, over the whole world (*Berachos* 13a, Rashi to Bereishis 17:15).
 *Yiscah* is a third name an ancient tradition identifies with her (*Megillah*
@@ -52,7 +52,7 @@ identification.
 |---|---|---|---|
 | שר | sar | prince, officer | the base word; authority limiting others' movement, from removal (Pappenheim) |
 | שררה | serarah | rulership | abstract rulership; used by Philo and Rashi to explain the name Sarah |
-| שרי | Sarai | my princess | princess of her own nation; the yod possessive (Rashi) or diminishing (Maharal) |
+| שרי | Sarai | my princess | princess of her own nation; the yud possessive (Rashi) or diminishing (Maharal) |
 | שרה | Sarah | princess | princess over the whole world (Rashi); the expanding *hei* (Maharal) |
 | יסכה | Yiscah | the one who gazed, the one all gazed upon | gazed with *ruach hakodesh*, or gazed upon for beauty (the Gemara); *nesichah* (Rashi) |
 
@@ -71,9 +71,9 @@ Her name for five and a half chapters of Bereishis, seventeen times from
 Bereishis 11:29 until Bereishis 17:15.
 - *Berachos* 13a (with *Tosefta Berachos* 1:14 and *Bereishis Rabbah* 47:1):
   *Sarai* means she was a princess to her own nation.
-- Rashi (to *Berachos* 13a and Bereishis 17:15): the final yod carries the sense
+- Rashi (to *Berachos* 13a and Bereishis 17:15): the final yud carries the sense
   of the first-person possessive, "my princess," and that is what limits her.
-- Maharal (*Tiferes Yisrael* ch. 49): the yod is orthographically the smallest
+- Maharal (*Tiferes Yisrael* ch. 49): the yud is orthographically the smallest
   letter, so ending a name in it implies diminution and limitation, while the
   final *hei* of *Sarah* implies expansion and growth.
 - In the Septuagint the name runs Sara and then Sarra, and Philo of Alexandria
@@ -97,10 +97,10 @@ Bereishis 11:29 until Bereishis 17:15.
 Her name thirty-eight times through the rest of Bereishis, and once more in all
 of Tanach, at Yeshayahu 51:2.
 
-- On the yod that was taken away, two traditions (*Yerushalmi Sanhedrin* 2:6,
-  *Sanhedrin* 107a, *Bereishis Rabbah* 47:1): that the yod (ten) was halved into
+- On the yud that was taken away, two traditions (*Yerushalmi Sanhedrin* 2:6,
+  *Sanhedrin* 107a, *Bereishis Rabbah* 47:1): that the yud (ten) was halved into
   two *heis* (five each), one going to Avram to make Avraham and one to Sarai to
-  make Sarah; and that the yod protested its removal and was answered by being
+  make Sarah; and that the yud protested its removal and was answered by being
   set at the head of Hoshea's name to make Yehoshua (Bamidbar 13:16), moving
   from last letter of a righteous woman's name to first letter of a righteous
   man's.
@@ -208,8 +208,8 @@ instead to Schorsch, a Germanized form of George.
   Sarah is her name." Keep both forms in transliteration. If a passage needs
   the sense rendered, gloss once: *Sarai*, "my princess," against *Sarah*,
   "princess" outright. Do not translate the names in the pasuk itself.
-- Trap: an English "Sarah" for both. Every derashah on the change (the yod split
-  into two *heis*, the yod moving to Yehoshua's name, Rashi's possessive) needs
+- Trap: an English "Sarah" for both. Every derashah on the change (the yud split
+  into two *heis*, the yud moving to Yehoshua's name, Rashi's possessive) needs
   the two spellings visible in English; a translation that harmonizes them makes
   the drashos unreadable.
 - שר: "prince" or "officer" by context, not "minister" in a Chumash setting,

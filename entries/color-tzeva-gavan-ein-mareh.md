@@ -144,7 +144,7 @@ its color until it is inseparable from it.
   VeHaKabbalah* to Shemos 8:15, 31:18, Vayikra 4:25) takes it as gripping or
   holding fast: dyeing forges a bond that holds the color to the material, and
   color is the derived sense. That also explains *etzba*, finger, which is said
-  to come from this root and whose alef Radak holds is not part of it (whence
+  to come from this root and whose aleph Radak holds is not part of it (whence
   *matzbia*, using one's finger to enter a raffle, *Mishnah Yoma* 2:1, later
   pointing, and in Modern Hebrew voting): the finger is what lets a man hold and
   control what he grasps, which is why the plagues are "the finger of Hashem"

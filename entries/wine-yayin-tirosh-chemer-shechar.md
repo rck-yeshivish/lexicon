@@ -103,7 +103,7 @@ and grain), and *smadar*
 - (3) **Grape and juice.** Rav Hirsch (to Bereishis 9:20, 21:10; Shemos 15:9)
   reads both names from the grape's side: *tirosh* from י-ר-ש, the wine "driven
   out" of the grape by force as a conquered land's inhabitants are (י-ר-ש being
-  related to ג-ר-ש by the interchange of yod and gimmel), and *yayin* from
+  related to ג-ר-ש by the interchange of yud and gimmel), and *yayin* from
   י-נ-ה, to profit by deceit, since from the grape's point of view whoever
   presses it takes by underhanded means what belongs to it.
 
@@ -157,11 +157,11 @@ is no longer current (responsa *Divrei Malkiel* 6:18).
 - Other linguists take ח-מ-ר as fermentation, which is why it yields both
   *chemer*, wine, and *chamirah*, sourdough; Rabbi David Chaim Chelouche (1920
   to 2016), the late Chief Rabbi of Netanya, reads *nichmeru* (Bereishis 43:30),
-  spelled with a kaf, through the interchange of kaf and chet, as the bubbling
+  spelled with a kaf, through the interchange of kaf and ches, as the bubbling
   up of feelings long fermenting within Yosef, like *chemer* as fermented grape
   juice.
-- Rav Hirsch (to Bereishis 1:22-23, 11:3) links *amar* with alef, *chemer*, and
-  *amar* with ayin through the interchange of alef, chet and ayin, and takes the
+- Rav Hirsch (to Bereishis 1:22-23, 11:3) links *amar* with aleph, *chemer*, and
+  *amar* with ayin through the interchange of aleph, ches and ayin, and takes the
   core of ח-מ-ר (as in *chomer*, matter) as the joining of many components into
   one: *omer*, a bundle of stalks; *chamarim*, heaps; *amar*, speech built of
   many words on one theme. So *chemer* (there and to Devarim 32:14) is wine that
@@ -185,11 +185,11 @@ Over 140 appearances in its forms (*yayn* in construct).
   derives from it *yaven*, quicksand, which looks like dry land, and *yonah*,
   the dove, naive and easily tricked. Rabbi Klein notes that the Samaria
   Ostracon and other ancient texts found by archaeologists spell the word with
-  one yod (though how it was pronounced cannot be known), which gives some
+  one yud (though how it was pronounced cannot be known), which gives some
   support to a root י-ן.
 - Dr. Edward Yechezkel Kutscher (1909 to 1971) theorized that the original form
   began with a vav (*vayin*) that, as often happens with an initial vav, became
-  a yod; though he held most resemblances between Indo-European and Semitic
+  a yud; though he held most resemblances between Indo-European and Semitic
   words coincidental, he saw a clear link here with Greek *woinos*/*oinos*,
   Latin *vinum*, Germanic *wein*, Slavic *vino*, and English *wine* (with
   *vine*, *vinegar*, *vintage*, *oenology*). The *Oxford English Dictionary*
@@ -238,7 +238,7 @@ of a man, because wine enters every limb, making the body lazy and the mind
 confused. *Pittum HaKetores* sets the two words side by side, *yayn kafrisin*
 and *chamar chivaryan atik*, "old white wine," and Rabbi Klein is unsure why.
 The same letters spell *chamor*, donkey. Eruvin 53b tells of a Galilean who did
-not distinguish alef, ayin and chet and asked who had an *amra*, leaving his
+not distinguish aleph, ayin and ches and asked who had an *amra*, leaving his
 hearers unsure whether he wanted a donkey, wine, wool or a lamb; some Talmudic
 passages can be read either way (Ritva to Bava Metzia 77b; *Beis Yosef* to
 *Choshen Mishpat* 190), and the Maharil (1360 to 1427), apparently to avoid the

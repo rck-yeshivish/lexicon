@@ -11,7 +11,7 @@ words:
   - he: טמון
     tr: tamun
     en: buried, concealed
-    distinct: anything placed within another material that covers it and hides it from view; from TET-MEM, blocking, so people are blocked from reaching it, and usually hidden in the ground (Pappenheim)
+    distinct: anything placed within another material that covers it and hides it from view; from TES-MEM, blocking, so people are blocked from reaching it, and usually hidden in the ground (Pappenheim)
   - he: ספון
     tr: safun
     en: stowed, hidden away
@@ -78,7 +78,7 @@ keep it warm (Shabbos 2:7, 4:1-2; Beitzah 2:6; Eduyos 3:10).
   from view. The Mechilta (to Shemos 22:5) and Bava Kamma 60a-62a use *tamun*
   for what a fire consumed that the kindler could not readily see, for which his
   liability is more limited.
-- Pappenheim: from TET-MEM, "blocking, impeding," the root of *tumah* (a legal
+- Pappenheim: from TES-MEM, "blocking, impeding," the root of *tumah* (a legal
   block on what one may do, so that *tameh* is essentially the Mishnaic
   *assur*), *atum* (closed, sealed), and *tumtum*; a *tamun* object is one
   people are blocked from reaching, and *tamun* alone usually implies hiding in
@@ -163,10 +163,10 @@ Tov to Tehillim 114 and Bamidbar Rabbah 20:22, on Israel not revealing their
 resembles this root in both sound and meaning, but its origin is the Greek
 *mysterion*, secret rites
 open only to initiates, who were called *mystes*, which is also behind English
-*mystical* and *mysticism*. The word is spelled sometimes with a tet and
+*mystical* and *mysticism*. The word is spelled sometimes with a tes and
 sometimes with a tav, depending on the midrashic work and the edition; Hillel
 Halkin, writing as Philologos in the *Forward* (19 August 2012), surmises that
-the tet spelling was original and reflected the Greek loan, and that scribes later
+the tes spelling was original and reflected the Greek loan, and that scribes later
 switched to tav to tie the word to ס-ת-ר as though it were native Hebrew. He
 suggests the confusion may date from when Arabic displaced Greek among the Jews
 of the Near East, in Geonic times.

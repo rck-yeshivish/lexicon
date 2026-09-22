@@ -148,7 +148,7 @@ Rabbi Yaakov Tzvi Mecklenburg's *HaKsav VeHaKabbalah* (to Devarim 23:26) make
 very similar points. He explains *anaf* as the intense anger that sets the body
 shaking, a *tenufah*-like motion, *anafah* as the bird easily provoked or whose
 flight resembles *tenufah*, and *niuf* as "funny movements" of the same kind.
-This *anaf* is spelled with an alef, which his system can set aside from the
+This *anaf* is spelled with an aleph, which his system can set aside from the
 root; *anaf* with an ayin, a branch, he does not discuss here, since in his
 system an ayin must belong to the root. Rav Hirsch (to Tehillim 48:3) seems to
 connect *tenufah* to that *anaf*: a branch spreads out to the sides of the trunk
@@ -170,7 +170,7 @@ and down.
 
 ### Names from the two roots
 *Ramos* as topographical heights gives Ramos Gilad (sometimes spelled with a
-silent alef after the reish) and the modern place-names built on it. Rabbi Klein
+silent aleph after the reish) and the modern place-names built on it. Rabbi Klein
 knows of no biblical place-name from נ-ו-ף; the nearest is Memphis, written
 Moph once (Hoshea 9:6) and more often Noph (Yeshayahu 19:13; Yirmiyahu 2:16,
 44:1, 46:14, 46:19; Yechezkel 30:13, 30:16), but that is more likely a Hebrew

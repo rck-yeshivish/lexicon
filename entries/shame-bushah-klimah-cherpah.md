@@ -127,11 +127,11 @@ Root כ-ל-ם.
   shame at being caught.
 - Malbim and Rabbi Shlomo Aharon Wertheimer (1866 to 1935): *klimah* is shame
   that comes from outside, from another person humiliating him.
-- Rabbi David Golumb (1861 to 1935) relates the root KAF-LAMMED-MEM to
-  KAF-LAMMED-ALEPH, whence *kele* ("jail, incarceration"): a shamed man retreats
+- Rabbi David Golumb (1861 to 1935) relates the root KAF-LAMED-MEM to
+  KAF-LAMED-ALEPH, whence *kele* ("jail, incarceration"): a shamed man retreats
   into himself and locks himself up, in some sense, to avoid the outside world.
 - Rav Hirsch (to Vayikra 13:59, Tehillim 139:16) similarly sees the root as
-  related to the phonetically close GIMMEL-LAMMED-MEM, through the interchange
+  related to the phonetically close GIMMEL-LAMED-MEM, through the interchange
   of kaf and gimmel, whence *golem* ("unshaped material"): as a *golem* lacks
   shape in a physical sense, so a shamed man feels he lacks shape or form in a
   spiritual and moral sense, as though part of his humanity had been taken from

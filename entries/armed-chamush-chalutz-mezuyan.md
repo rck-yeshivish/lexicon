@@ -182,7 +182,7 @@ insultingly.)
 
 The biblical cousin is *azeinecha*, a weapon (Devarim 23:14).
 - Ibn Saruk takes the root as א-ז-ן.
-- Radak holds the initial alef is not radical and the root is ז-ו-ן, which
+- Radak holds the initial aleph is not radical and the root is ז-ו-ן, which
   brings *azen* very close to *zayin*.
 - Ibn Janach goes both ways.
 - Rabbi Shlomo Pappenheim traces both to the biliteral ז-ן, provision and the

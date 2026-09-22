@@ -13,7 +13,7 @@ words:
   - he: חנית
     tr: chanit
     en: spear (military)
-    distinct: 'the weapon commonly found in the military camp, from biliteral CHET-NUN, "encamping" (Rabbi Shlomo Pappenheim), or the one stuck in the ground where it is "camped" (Rabbi Moshe Tedeschi-Ashkenazi); other derivations in the body'
+    distinct: 'the weapon commonly found in the military camp, from biliteral CHES-NUN, "encamping" (Rabbi Shlomo Pappenheim), or the one stuck in the ground where it is "camped" (Rabbi Moshe Tedeschi-Ashkenazi); other derivations in the body'
   - he: כידון
     tr: kidon
     en: javelin, dart
@@ -47,7 +47,7 @@ three are one weapon.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | רמח | romach | spear, lance | the killing weapon, fatal in a single stab to exalted and lowly alike (Ohalei Yehuda); for Rav Hirsch, it seems, thrown, not thrust; HALOT "lance" |
-| חנית | chanit | spear | the weapon commonly found in the military camp, from CHET-NUN "encamping" (Rabbi Shlomo Pappenheim); or the one stuck in the ground (Tedeschi-Ashkenazi); HALOT "spear" |
+| חנית | chanit | spear | the weapon commonly found in the military camp, from CHES-NUN "encamping" (Rabbi Shlomo Pappenheim); or the one stuck in the ground (Tedeschi-Ashkenazi); HALOT "spear" |
 | כידון | kidon | javelin, dart | a small *romach* of kings and nobles (Rambam), usually thrown (Rabbi Tanchum HaYerushalmi); Targum to Yehoshua 8:18 renders it *romcha*; HALOT "hunting knife/scimitar" |
 | אלונקי | alunki | lance | rabbinic, from Greek *lonche* (Rabbi Shmuel Krauss); the Persian one was poison-tipped (Gittin 70a) |
 
@@ -64,18 +64,18 @@ three are one weapon.
 
 **How *romach* is built.**
 - Menachem Ibn Saruk (920 to 970), Yonah Ibn Janach (990 to 1050), and Radak
-  (1160 to 1235): a triliteral root REISH-MEM-CHET, used for nothing but this
+  (1160 to 1235): a triliteral root REISH-MEM-CHES, used for nothing but this
   weapon.
 - Rabbi Moshe Tedeschi-Ashkenazi (1821 to 1898, *Otzar Nirdafim*): related to
-  biliteral MEM-CHET, "erase, annihilate," for the weapon's destructive nature.
+  biliteral MEM-CHES, "erase, annihilate," for the weapon's destructive nature.
 - *Ohalei Yehuda*: a single stab of a *romach* is fatal to anyone, exalted or
-  lowly, so the word fuses REISH-(VAV)-MEM ("high, exalted") with MEM-CHET,
+  lowly, so the word fuses REISH-(VAV)-MEM ("high, exalted") with MEM-CHES,
   lethal even to the highest-ranking. (Kozbi was a Midianite princess and Zimri
   the prince of the tribe of Shimon, yet both fell to Pinchas's *romach*.)
-  Alternatively, *Ohalei Yehuda*: REISH-MEM ("high, lift, remove") with CHET-YOD
+  Alternatively, *Ohalei Yehuda*: REISH-MEM ("high, lift, remove") with CHES-YUD
   (*chai*, "life"), a remover of life.
 - Rav Hirsch (to Shemos 15:1, Bamidbar 25:7) follows the triliteralists'
-  REISH-MEM-CHET but hears in it the similar *ramah*, "throwing, shooting," CHET
+  REISH-MEM-CHES but hears in it the similar *ramah*, "throwing, shooting," CHES
   interchanging with HEI; in his view, it seems, the *romach* is used by
   throwing, not generally by stabbing.
 
@@ -94,12 +94,12 @@ three are one weapon.
 **Where *chanit* comes from.**
 
 - Ibn Janach and Radak (each in his *Sefer HaShorashim*): triliteral
-  CHET-NUN-HEI ("camping, resting, store"); Menachem Ibn Saruk, a biliteralist,
+  CHES-NUN-HEI ("camping, resting, store"); Menachem Ibn Saruk, a biliteralist,
   does not list the word at all.
-- Rabbi Shlomo Pappenheim (1740 to 1814), a biliteralist: CHET-NUN, camping as
+- Rabbi Shlomo Pappenheim (1740 to 1814), a biliteralist: CHES-NUN, camping as
   against travelling, the weapon commonly found in the *machaneh* and used for
   military purposes.
-- Then three more: Rabbi Tedeschi-Ashkenazi, from CHET-NUN-HEI, the spear often
+- Then three more: Rabbi Tedeschi-Ashkenazi, from CHES-NUN-HEI, the spear often
   stabbed into the ground where it would be "camped"; *Shoresh Yesha*, from the
   same root, the weapon military camps fear; and *Ohalei Yehuda*, related to
   *chadah*, "sharp, pointed," which Rabbi Reuven Chaim Klein supposes is
@@ -117,7 +117,7 @@ and nothing else.
 
 ### chanit (חנית)
 Forty-seven times in Tanach, never in the Chumash; HALOT, "spear." Rabbi Shlomo
-Pappenheim builds a family from CHET-NUN: *machaneh*, a united party travelling
+Pappenheim builds a family from CHES-NUN: *machaneh*, a united party travelling
 from place to place that has collectively halted and made camp, and so a
 military camp, many individuals working together to capture enemy territory or
 defend the homeland; *anachnu*, parsed as *ana* (cognate with *ani*, *anochi*)
@@ -128,7 +128,7 @@ favor is granted room to "camp out" in another's thoughts; and *techinah* and
 ### kidon (כידון)
 Nine times in Tanach: Yehoshua 8:18, 8:26; Shmuel I 17:6, 17:45; Yirmiyahu 6:23,
 50:42; Iyov 39:23, 41:21. Never in the Chumash. HALOT, "hunting knife/scimitar."
-- The classical lexicographers: root KAF-YOD-DALET; since *kid* from that root
+- The classical lexicographers: root KAF-YUD-DALET; since *kid* from that root
   means "misfortune, suffering" (Iyov 21:20), Ibn Janach suggests the *kidon* is
   named for bringing misfortune on one's enemies.
 - Rambam (to Keilim 11:8): a small *romach*, the weapon kings and aristocrats

@@ -81,7 +81,7 @@ an underground spring), *govai* (grasshoppers, which haunt the *geveh*), and
   being a feature that runs upward. He adds ג-ב-ן here as a hump, without saying
   whether he means the cheese or the blemish.
 - Alexander Kohut, in his *Aruch HaShalem*, suggests connecting *gavnunim*
-  itself with *jabal*/*gvul* on the interchange of nun and lammed, so that
+  itself with *jabal*/*gvul* on the interchange of nun and lamed, so that
   *gavnunim* simply means mountainous or hilly.
 - Rabbi Avi Kobernick reads ג-ב-ן against its metatheses ג-נ-ב (stealing) and
   נ-ג-ב (drying): in each, something integral is removed from where it belongs,

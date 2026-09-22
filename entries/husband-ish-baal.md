@@ -85,7 +85,7 @@ not the same.
   this was taken from *ish*" (Bereishis 2:23).
 - **Union against the act.** Maharal (*Netzach Yisrael* ch. 47): *ish* implies
   a united connection between the spouses, and the letters bear it, since the
-  yud of *ish* and the hey of *ishah* are the first two letters of the Sheim.
+  yud of *ish* and the hei of *ishah* are the first two letters of the Sheim.
   *Baal* he derives from *bo'el*, the man as the active party in the act, the
   woman passive, and that imbalance is what Hoshea's vision anticipates
   correcting.
@@ -124,7 +124,7 @@ not the same.
 
 The husband of a mutual bond. Rashi's word for it at *Kesubos* 71b is
 conjugality and marriage; Rabbi Yitzchak Isaac Chaver's is one flesh; Maharal's
-is a united connection, with the yud and the hey that separate *ish* from
+is a united connection, with the yud and the hei that separate *ish* from
 *ishah* spelling the first two letters of the Sheim. What the readings share is
 that neither party stands over the other.
 

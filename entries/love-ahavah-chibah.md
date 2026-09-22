@@ -144,8 +144,8 @@ Tehillim 18:2, rendering *erchamcha*, uses a cognate of *chibah*.
 
 Against all of this Rabbi Klein enters his own counter-suggestion: one may argue
 that *chibah* is really no different from *ahavah*, and may even be
-etymologically the same word, since aleph, hey, ches and ayin are often taken as
-interchangeable, so that swapping the opening ches of ח-ב-ה for an aleph or hey
+etymologically the same word, since aleph, hei, ches and ayin are often taken as
+interchangeable, so that swapping the opening ches of ח-ב-ה for an aleph or hei
 and reordering the letters yields א-ה-ב. That is his own move, not any
 authority's, but it leaves the *chibah*-versus-*ahavah* distinction an open
 question.
@@ -205,7 +205,7 @@ Kook would never say *agvaniyah* on account of that derivation.
 - On the Greek side, Professor Saul Levin entertains the possibility that the
   Greek *agape* derives from א-ה-ב, since *agape* has no known cognate in any
   other Indo-European language, but he ultimately rejects it, there being no
-  evidence that the Semitic hey was ever pronounced as a *g* in Greek. He
+  evidence that the Semitic hei was ever pronounced as a *g* in Greek. He
   suggests *agav* would be a likelier source, and concludes that *ahavah*,
   *agav* and *agape* are all probably from some earlier, unidentifiable
   language.

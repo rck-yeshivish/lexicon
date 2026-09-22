@@ -98,7 +98,7 @@ counterpart of *eid*.
 
 **Whether sahad is related to sa'ad.**
 - Rav Hirsch (to Tehillim 20:3) says yes: *sahad*, with sin or samech, is
-  related to ס-ע-ד, "support," by the interchange of hey and ayin. The
+  related to ס-ע-ד, "support," by the interchange of hei and ayin. The
   connection is justified because a witness's role is to give testimony that
   could support one side of the case.
 - Rabbi Yehudah Aryeh of Carpentras, an eighteenth-century grammarian and dayan,

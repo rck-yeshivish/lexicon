@@ -115,7 +115,7 @@ a form of *shuman* / *shemen* (Bereishis 4:4; so too Targum to Tehillim 73:7).
 - Chizkuni (Vayikra 3:3) and *Tirgem Avraham*: *tarba* is from the Aramaic
   *rav*, big or growing, since the more a person or animal eats the more fat
   accrues. That Aramaic term is in turn probably related to the Hebrew
-  reish-beis-(hey) of multiplying.
+  reish-beis-(hei) of multiplying.
 
 ### pader (פדר)
 A word that seemingly means "fat," vocalized *pader* or perhaps *peder*. Three

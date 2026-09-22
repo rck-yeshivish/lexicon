@@ -32,7 +32,7 @@ updated: 2026-09-10
 
 *Oht* is a **sign** or **token**, the general word, and it can be entirely
 natural: the luminaries are an *oht* for the seasons, tefillin are an *oht*, the
-tribal flags were an *oht*, a letter of the alef-beis is an *oht*. *Mofet* is
+tribal flags were an *oht*, a letter of the aleph-beis is an *oht*. *Mofet* is
 the narrower word, a **wonder** or **portent**, on some readings (Ramban, Malbim)
 one that bends nature. For Malbim, every *mofet* is an *oht*, not every
 *oht* a *mofet*. The makkos
@@ -65,7 +65,7 @@ between an *oht* and a *mofet*?
    Aramaic form with a second aleph for the hei, because it is a sign of things
    to come. A *mofet* he takes as a sign that comes about miraculously, bending
    the apparent rules of nature, the word being shorthand for
-   *muflat*/*niflah*/*pele*, wondrous, with the lammed dropped for brevity.
+   *muflat*/*niflah*/*pele*, wondrous, with the lamed dropped for brevity.
    Malbim: a *mofet* is a supernatural sign used to remind one of Hashem, the
    ultimate mover behind all natural and supernatural phenomena.
 2. **No.** Abarbanel (1437-1508) writes that some commentators claim *oht* and
@@ -125,20 +125,20 @@ manifest itself.
 ## Distinctions
 
 ### oht (אות)
-- Ramban derives it from א-ת-ה, "come," in Aramaic with an alef in place of the
+- Ramban derives it from א-ת-ה, "come," in Aramaic with an aleph in place of the
   hei, since it signals what is to come.
 - Malbim: any sign or symbol used to remind a person of what it symbolizes.
 - Abarbanel's examples point to the natural range: the sun and moon serve as an
   *oht* for different periods of time (Bereishis 1:14), tefillin is an *oht*
   symbolizing the Exodus (Shemos 13:9, 13:16), the flags of each tribe bore
   images serving as an *oht* symbolizing the tribe (Bamidbar 2:2), and each
-  letter of the alef-beis is called an *oht* because it is a sign representing a
+  letter of the aleph-beis is called an *oht* because it is a sign representing a
   certain sound; all of these suggest that an *oht* can be a sign within the
   confines of nature.
 - Rabbi Shlomo Pappenheim (1740-1814) contrasts *oht* with *eid*: an *oht* is
   simply a reminder, while an *eid* serves to remind and to spur one into
   action. He also traces *asah* (אתה), "come" (Devarim 33:2), to the single letter ת, which stands
-  for bordering because it closes the alef-beis: a border links two bodies and
+  for bordering because it closes the aleph-beis: a border links two bodies and
   also distinguishes between them. Words from this root relate to bordering
   and connecting, and so an *oht* forms a connection between the sign and the
   signified.
@@ -156,7 +156,7 @@ manifest itself.
 
 - אות: "sign," or "token" where the thing is a symbol worn or displayed
   (tefillin, the blood on the doorpost, a tribal flag). "Letter" for the
-  alef-beis sense, but keep the pun in view if a derashah uses it.
+  aleph-beis sense, but keep the pun in view if a derashah uses it.
 - מופת: "wonder" or "portent." In a philosophical text following Ibn Tibbon,
   "demonstration" or "proof," never "wonder."
 - עד: "witness" or "testimony," and note that Pappenheim's contrast with *oht*

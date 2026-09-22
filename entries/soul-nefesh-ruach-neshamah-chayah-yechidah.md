@@ -169,7 +169,7 @@ person's likings and wants (Mishlei 29:11, Yeshayahu 19:3) and his temperament
   *yareach*, the moon, so called because its movements control the winds.
 - Rav Hirsch (to Bereishis 8:21, Shemos 30:25) relates *ruach* to *reyach*,
   smell (ר-י-ח), and compares *reichayim*, millstone, and *rokach*,
-  pulverization (ר-ק-ח, yod and kuf interchanging): *reyach* is primarily the
+  pulverization (ר-ק-ח, yud and kuf interchanging): *reyach* is primarily the
   tiny particles that emanate from things that smell, and so it relates to
   pulverizing and grinding, which reduce large objects to small bits. Rav Hirsch
   does not explain how this relates back to *ruach*.

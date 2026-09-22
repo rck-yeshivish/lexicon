@@ -77,7 +77,7 @@ angel out of a thousand tells of a man's *yashro*, his straightness, and he is
 spared. *Meilitz* can be traced either to מ-ל-ץ or to ל-ו-ץ.
 
 - Ibn Janach and Radak relate the first to מ-ר-ץ, *meretz* (fluency,
-  persistence), by the interchange of lammed and reish, and on that reading the
+  persistence), by the interchange of lamed and reish, and on that reading the
   word seems to name the smoothness and consistency the advocate's speech
   requires; they also trace it to ל-ו-ץ (thinking, explaining), so that it names
   his reasoning.
@@ -174,7 +174,7 @@ Appears twice in Daniel (1:11, 1:16), where it means a guard or a waiter.
   speech (Tehillim 119:103 with Rav Hirsch there): the *meilitz* makes his words
   tasty, the *meltzar* tastes the food.
 - Dr. Chaim Tawil takes *meltzar* to be unrelated to *meilitz* altogether, a
-  borrowing from the Akkadian *massaru*/*mansaru*, with the nun and lammed
+  borrowing from the Akkadian *massaru*/*mansaru*, with the nun and lamed
   interchanging.
 
 (The Ashkenazic surname Meltzer is unrelated to the Biblical *meltzar*: it comes

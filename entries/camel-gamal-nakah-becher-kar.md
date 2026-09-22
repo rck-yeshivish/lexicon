@@ -109,7 +109,7 @@ All three are live.
   filled its hump with water and needing none for a long while, seems "weaned"
   from drinking. Rabbi Reuven Chaim Klein adds, as his own, that Rav Hirsch does
   not say so but that these explanations may support tying ג-מ-ל to ג-מ-ר,
-  *gamar*, "finishing," on the lammed/reish interchange: a toddler or a fruit is
+  *gamar*, "finishing," on the lamed/reish interchange: a toddler or a fruit is
   weaned only on completing its term of growth, a debt is typically repaid only
   when the loan reaches maturity (see Bava Basra 5b), and perhaps the camel too,
   which functions in the desert once it has finished drinking.
@@ -140,7 +140,7 @@ names, Gamliel (Bamidbar 1:10, 2:20, 7:54, 7:59, 10:12), Gemali (Bamidbar
 HaYamim I 24:17), and Gamla appears in the Mishnah (Yoma 3:9, Yevamos 6:4);
 whether these are camels or one of the other senses seems an open question. Rabbi Aharon Marcus
 (*Keses HaSofer* to Bereishis 10:2) connects the name Gomer to the root as well,
-on the lammed/reish interchange.
+on the lamed/reish interchange.
 
 *Gamal* has cognates across the Semitic languages, Aramaic *gamla*, Arabic
 *jamal*, Akkadian *gammalu*, and was borrowed into non-Semitic languages too,

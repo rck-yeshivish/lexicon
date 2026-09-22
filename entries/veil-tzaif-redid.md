@@ -65,7 +65,7 @@ Several read the word as a contraction.
   paneha*, floats on her face.
 
 The classical lexicographers (including Ibn Saruk, Ibn Janach, and Radak) all
-trace it to the root צ-ע-ף. Wilhelm Gesenius argues that צ-ע-ף is a permutation of ע-ט-ף, wrapping, by the interchange of tet
+trace it to the root צ-ע-ף. Wilhelm Gesenius argues that צ-ע-ף is a permutation of ע-ט-ף, wrapping, by the interchange of tes
 and tzadi together with metathesis; Shadal (to Bereishis 24:65) cites this
 approvingly.
 

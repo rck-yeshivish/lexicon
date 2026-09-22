@@ -127,7 +127,7 @@ Rabbinic Hebrew *sheichar* is what we call beer or mead (*Pesachim* 3:1).
 
 - Rav Hirsch (to Shemos 13:12) makes a comment Rabbi Klein calls somewhat
   cryptic, connecting *shachar* with *sheger*, *shir* and *sheker* on the
-  interchangeability of *kaf*, *gimmel*, *yod* and *kuf*: all of them name
+  interchangeability of *kaf*, *gimmel*, *yud* and *kuf*: all of them name
   something born from oneself, and Rav Hirsch gives no further detail. Dr.
   Lawrence Resnick (*1,000 Words*, which elucidates Rav Hirsch's word
   connections) spells it out as a production coming from within, mentally or

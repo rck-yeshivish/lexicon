@@ -69,15 +69,15 @@ always anger (Bedersi). *Chareid* is **trembling** too, the word behind
 - Malbim: *ra'adah* is quaking in fear specifically where inner fear grows so
   full that it becomes manifest outwardly in tremors.
 
-**Retet with a tav and retet with a tet.** Each spelling appears once: with a
-tav in Hoshea 13:1, with a tet in Yirmiyahu 49:24.
+**Retet with a tav and retet with a tes.** Each spelling appears once: with a
+tav in Hoshea 13:1, with a tes in Yirmiyahu 49:24.
 
 - For the tav form, Radak and Ibn Janach (each in his *Sefer HaShorashim*)
   define it as *ra'adah*, a definition that seemingly derives from the Targum,
   where *retet* is the Aramaic for *ra'adah* (Onkelos renders the *ra'ad* of
   Shemos 15:15 as *reteta*); Menachem Ibn Saruk (*Machberes Menachem*) defines
-  it as *chil* and *retet* with a tet. All three trace it to ר-ת-ת.
-- For the tet form, Ibn Saruk (biliteral ר-ט) defines it as *chil* and *retet*
+  it as *chil* and *retet* with a tes. All three trace it to ר-ת-ת.
+- For the tes form, Ibn Saruk (biliteral ר-ט) defines it as *chil* and *retet*
   with a tav, and Radak (triliteral ר-ט-ט) as just *retet* with a tav.
 - Somewhat of an outlier, Ibn Janach defines it as pain in the joints, not
   trembling.
@@ -86,7 +86,7 @@ tav in Hoshea 13:1, with a tet in Yirmiyahu 49:24.
   convulsions (Rabbi Klein wonders whether he means something like Parkinson's),
   or a disease causing stomach contractions like those of a woman giving birth.
 
-It makes sense to treat the two spellings as one word, tav and tet
+It makes sense to treat the two spellings as one word, tav and tes
 interchanging, a point already made by rabbinic philologists such as Rabbi
 Avraham Bedersi (*Chosam Tochnis*), Rabbi Yosef Kimchi (*Sefer HaGalui*), Rabbi
 Shlomo Ibn Parchon (*Machberes HeAruch*), and others.

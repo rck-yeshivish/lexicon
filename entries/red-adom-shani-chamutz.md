@@ -99,9 +99,9 @@ who is wholly incorporeal. On that reading *adam* is tied to *adom*: red lies at
 the edge of the visible spectrum and is the colour nearest the invisible light
 beyond it, as man stands nearest the divine. By his theory of phonetic
 interchangeability Rav Hirsch further ties א-ד-ם to *hadom*, a footstool, on the
-alef and heh interchange, man serving as Hashem's footstool in this world, and to
-*chasam*, a seal, on the alef with ches and the dalet with tav, man's presence
-being Hashem's signature on creation; and he reads *adam* itself as the alef, one
+aleph and hei interchange, man serving as Hashem's footstool in this world, and to
+*chasam*, a seal, on the aleph with ches and the dalet with tav, man's presence
+being Hashem's signature on creation; and he reads *adam* itself as the aleph, one
 in gematria, with *dam*, similar, man's free will making him similar to the One
 who created him.
 

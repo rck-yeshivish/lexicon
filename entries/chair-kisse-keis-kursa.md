@@ -13,7 +13,7 @@ words:
   - he: כסה
     tr: kisseh
     en: throne
-    distinct: the same word spelled with a final hey, only three times (Melachim I 10:19 twice, Iyov 26:9); Radak treats it as identical to kisse, and Rav Hirsch uses the spelling to link it to keseh, the covered new moon of Rosh Hashanah
+    distinct: the same word spelled with a final hei, only three times (Melachim I 10:19 twice, Iyov 26:9); Radak treats it as identical to kisse, and Rav Hirsch uses the spelling to link it to keseh, the covered new moon of Rosh Hashanah
   - he: כס
     tr: keis
     en: throne
@@ -46,7 +46,7 @@ Mishnah.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | כסא | kisse | throne | the standard form, 135 times; a covered or canopied seat of honor (Pappenheim); implies importance and power (Rambam) |
-| כסה | kisseh | throne | final hey, three times only; the same word as kisse (Radak); the spelling ties it to keseh, the hidden moon (Rav Hirsch) |
+| כסה | kisseh | throne | final hei, three times only; the same word as kisse (Radak); the spelling ties it to keseh, the hidden moon (Rav Hirsch) |
 | כס | keis | throne | once, Shemos 17:16; the aleph is dropped because the Name and the throne are incomplete while Amalek stands (Tanchuma, Rashi) |
 | כורסא | kursa | throne, chair | the Aramaic equivalent used by Targum for every kisse (Rabbi Eliyahu HaBachur; Rashi to Daniel 7:9) |
 
@@ -68,7 +68,7 @@ Mishnah.
 - Rav Hirsch (to Bereishis 41:40) reads it the other way: *kisse* is kin to
   *kisui*, *katzeh* and *miktzoa*, all about cutting off, so a throne raises a
   man above the rest and puts him out of reach. Hirsch gets there through the
-  interchange of kaf with kuf, samech with tzadi, and aleph with hey and ayin.
+  interchange of kaf with kuf, samech with tzadi, and aleph with hei and ayin.
 - Rabbi David Chaim Chelouche similarly explains that the king is set apart,
   covered and hidden away.
 
@@ -119,7 +119,7 @@ for Me? And which is the place of My resting?" (Yeshayahu 66:1).
   HaMikdash is called the seat of Hashem's glory because prophecy issues from
   there.
 - Rabbi Menachem Mendel of Shklov, if Rabbi Klein understood him correctly,
-  similarly connects *kisse* to *ani*, kaf and samech following yod and nun, so
+  similarly connects *kisse* to *ani*, kaf and samech following yud and nun, so
   that the throne connotes the Selfhood of Hashem rather than what merely
   emanates from Him; he bolsters it by noting that the Aramaic *kursa* shares
   its three letters with *keres*, the Aramaic of *beten*, so that as the *keres*
@@ -127,7 +127,7 @@ for Me? And which is the place of My resting?" (Yeshayahu 66:1).
 
 ### kisseh (כסה) and keis (כס)
 *Kisseh* three times: twice at Melachim I 10:19, of Shlomo HaMelech's throne, and Iyov
-26:9. Radak identifies it with *kisse* and gives no account of the hey; Rav Hirsch (to
+26:9. Radak identifies it with *kisse* and gives no account of the hei; Rav Hirsch (to
 Tehillim 81:4) uses the spelling to read *keseh*, the hidden festival, plainly because
 the moon of Rosh Hashanah is not yet visible and deeper because Hashem sits that day on
 His throne as King. *Keis* once, Shemos 17:16, in the oath of perpetual war against

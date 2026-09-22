@@ -176,7 +176,7 @@ somehow from ר-ג-ם.
   found no other source for such a deity.
 
 Two further words are traced to ר-ג-ם. *Argaman*, purple cloth: Rabbi Yosef
-Kimchi (*Sefer HaGalui*, *Sefer HaChukah*) takes it from the root with ALEF and
+Kimchi (*Sefer HaGalui*, *Sefer HaChukah*) takes it from the root with ALEPH and
 NUN added, from the "officers" sense, since only prominent officials might wear
 it; Meiri (to Mishlei 26:8) adopts this, Radak (*Sefer HaShorashim*) cites it,
 and Rabbi Eliyahu HaBachur (*Sefer HaTishbi*) compares *esnan* from ת-ן.

@@ -116,7 +116,7 @@ On where the word comes from:
 - Rav Hirsch (to Bereishis 11:6, Vayikra 26:4, Devarim 18:10): from *gazam*, the
   locust (Yoel 1:4, 2:25; Amos 4:9), which tends to come in swarms; a *guzma* is
   something true whose numbers have been swelled. He further links the root, by
-  the interchangeability of gimmel, yod and kuf, to *yazam*, planning or
+  the interchangeability of gimmel, yud and kuf, to *yazam*, planning or
   enterprise, the ability to make something *more* out of something less, and to
   *kasam*, magic, which circumvents nature's limits to yield *more* than usual,
   or else because the magician claims access to *more* knowledge than an ordinary

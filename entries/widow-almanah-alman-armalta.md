@@ -89,7 +89,7 @@ The readings:
    is a wife deserted by her husband's death.
 5. **Two proposals of Rabbi David Chaim Chelouche** (1920 to 2016), the late
    Chief Rabbi of Netanya: א-ל ("not") fused with a metathesized מ-ל-א ("full"),
-   the wife emptied of her husband; or, creatively dropping the alef and
+   the wife emptied of her husband; or, creatively dropping the aleph and
    reversing, מ-ל, "cutting," her voice cut off in her extreme distress, with no
    husband to speak for her, similar to Ibn Janach's understanding.
 
@@ -191,7 +191,7 @@ Rambam (*Hilchos Yibbum V'Chalitzah* 4:34) seems to coin an Aramaicized
 so common a thing. But the Rabbi Shabsai Frankel edition (*Yalkut Shinuyei
 Nuschaos* there) shows that the Oxford and Cambridge manuscripts do not have
 *almanta* and read the ordinary *armalta*. Rambam also reads the third Shabbos
-domain as *k'armelis*, "like a widow," the kaf a prefix and an alef hidden
+domain as *k'armelis*, "like a widow," the kaf a prefix and an aleph hidden
 (commentary to Mishnah Shabbos 1:1): as a widow is in between, no longer a
 maiden and not a married woman, so this domain is neither fully reshus harabim
 nor fully reshus hayachid.

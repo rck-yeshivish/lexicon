@@ -73,7 +73,7 @@ Roots proposed:
   lets it be moved from where it stood.
 - Dr. Shmuel Yeivin (1896-1982), the Israeli archaeologist, further suggests
   that *chermesh* is related to *chalamish*, flintstone, given the
-  interchangeability of reish and lammed, and proposes on that basis that
+  interchangeability of reish and lamed, and proposes on that basis that
   perhaps the *chermesh* was a cruder harvesting tool made of stone, from the
   earlier Stone Age, while the *magal* was a more advanced version of the same
   tool made of metal, from the Bronze or Iron Age.

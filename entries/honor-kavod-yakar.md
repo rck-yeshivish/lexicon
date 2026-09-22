@@ -70,7 +70,7 @@ Root י-ק-ר: precious, expensive, honorable.
 - Rabbi Eliyahu HaBachur (*Sefer HaTishbi*): whatever is precious becomes
   expensive. Indeed, by the law of supply and demand, the rarer a thing the
   higher its price.
-- Rabbi Pappenheim, explaining the initial yod as radical, traces it to ק-ר, a
+- Rabbi Pappenheim, explaining the initial yud as radical, traces it to ק-ר, a
   strong impact from great weight or speed: the *yakar* thing makes an impact by
   its mere mention, as a precious gem (Yechezkel 27:22); the rare thing
   (prophecy in Shmuel's youth, Shmuel I 3:1) impresses more than the common one;

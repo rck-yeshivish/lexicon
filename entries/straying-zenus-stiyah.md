@@ -38,7 +38,7 @@ then came to mean deviance from any expectation, idol worship included.
 *Stiyah* is **deviation** from a specific track, and Rabbi Klein traces the
 same root through *sotah*, *satan*, *shoteh* and *ruach shtus*; Rabbi Moshe
 Shapiro relates *shitah*, the ordered approach, to it as its diametric opposite.
-Rabbi Aharon Marcus goes further, proposing that the letter tet by itself denotes
+Rabbi Aharon Marcus goes further, proposing that the letter tes by itself denotes
 movement to the side, so that *chet*, sin, is a straying.
 
 ## At a glance
@@ -99,14 +99,14 @@ of a uniquely Hebrew phenomenon, in which words of polar opposite meaning are
 related in their roots. Rabbi Shapiro also relates the place name Shittim, where
 the people strayed after the women of Moav (Bamidbar 25:1), to *stiyah*.
 
-### the letter tet as a root
+### the letter tes as a root
 Rabbi Aharon Marcus (1843 to 1916) proposes what Rabbi Klein calls a wildly
 innovative idea: not only are Hebrew roots made up of letters, but an individual
 letter can sometimes itself be a root uniting the words that use it. The letter
-tet denotes movement to the side, that is, straying, as shown by *stiyah*
+tes denotes movement to the side, that is, straying, as shown by *stiyah*
 (deviation), *natah* (incline), *titah* (turn aside), *tata* (broom), *tach*
 (plastering), *taah* (erred), and more. Most significantly, he argues that the
-active letter of *chet*, sin, is its middle tet, so that to sin is to move to
+active letter of *chet*, sin, is its middle tes, so that to sin is to move to
 the side, off the proper path. He adds that *avon* is related to *ivvus*,
 warped, the sinner being on a warped or contorted path, and *pesha* to *posea*,
 takes a step, the sinner having taken steps in the wrong direction.

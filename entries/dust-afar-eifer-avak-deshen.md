@@ -75,8 +75,8 @@ interchangeable in some contexts.
   point for one purified from tumas meis.
 
 - On the root, in Rabbi Pappenheim's system *afar* cannot be related to the
-  biliteral פ-ר, because for him a two-letter root joins only HEY, ALEPH, MEM,
-  NUN, TAV, YOD or VAV to become triliteral, and *afar* opens with an AYIN.
+  biliteral פ-ר, because for him a two-letter root joins only HEI, ALEPH, MEM,
+  NUN, TAV, YUD or VAV to become triliteral, and *afar* opens with an AYIN.
 - Others who work with two-letter roots do connect them: Rabbi Yaakov Tzvi
   Mecklenburg, since *afar* is indispensable to growing *pri*; and Rabbi Aharon
   Marcus (*Barzilai*), who traces both *afar* and *eifer* to פ-ר, and elsewhere

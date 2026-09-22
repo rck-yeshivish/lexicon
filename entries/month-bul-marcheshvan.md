@@ -170,7 +170,7 @@ the vav of *gachon* (Vayikra 11:42), Rabbi Yosef Chaim of Baghdad (1832-1909) re
 Torah's first letter (the beis of Bereishis 1:1), its middle letter (that vav) and its
 last letter (the lamed of Devarim 34:12) as spelling Bul. Rabbi Moshe Shapiro cites the
 homily too, and compares it to *emes*, made of the first, middle and last letters of the
-alef-beis.
+aleph-beis.
 
 ### Marcheshvan (מרחשון)
 Absent from Tanach, though it appears in Mishnah Taanis 1:3-4. The *mabul* is said to have

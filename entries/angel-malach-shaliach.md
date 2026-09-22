@@ -125,7 +125,7 @@ in the radio and television sense. Sending is the post-Biblical sense of
 *shadar*. In Biblical Aramaic, Daryavesh, until sunset, was *mishtadar*,
 trying, to save Daniel (Daniel 6:15); Ramban takes the core meaning of *shadar*
 as rebelling (*eshtadur*, Ezra 4:15, 4:19) and theorizes that it is a cognate of
-*shadal*, persuading or attempting, since lammed and reish interchange.
+*shadal*, persuading or attempting, since lamed and reish interchange.
 
 ## Rendering guidance
 

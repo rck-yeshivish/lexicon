@@ -88,7 +88,7 @@ designated 4Q225. Dr. Marcus Jastrow proposed that *achshav* is a contraction of
 it not quite a synonym of *atah* but a word based on *atah* that denotes a
 slightly different idea.
 Parenthetically, Rabbi Eliyahu HaBachur writes that he has seen some spell the
-word with a *yod* as the penultimate letter, and deems the *yod* unnecessary.
+word with a *yud* as the penultimate letter, and deems the *yud* unnecessary.
 
 ### ke'an (כען) and ke'don (כדון)
 *Ke'an* is the only Aramaic word for "now" that appears in Tanach, in the Aramaic

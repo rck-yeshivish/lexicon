@@ -95,7 +95,7 @@ the common noun "four." Two answers.
   Zidel takes this to mean that the Targum understood Ephron and Arba to be one
   man, Ephron being the one from whom Avraham bought the Me'aras HaMachpelah
   (Bereishis 23; 25:9; 49:29-30; 50:13). He justifies it linguistically: the
-  root of *arba*, ר-ב-ע, is visible in the ordinal *revi'i* where the alef
+  root of *arba*, ר-ב-ע, is visible in the ordinal *revi'i* where the aleph
   drops, and from there he posits a link by metathesis and the bet/peh
   interchange to ע-פ-ר, dust, the root of Ephron. He also leans on comparative
   evidence: the Akkadian *turbu'u* means "dust" and its root answers to Hebrew

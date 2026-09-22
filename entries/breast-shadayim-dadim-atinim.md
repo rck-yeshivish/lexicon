@@ -88,7 +88,7 @@ of light," or "my breasts are light," or "Shaddai is light."
 Bamidbar 11:8 describes the taste of the man as *l'shad hashamen*, a hapax whose
 apparent root ל-ש-ד occurs nowhere else.
 
-- *Yoma* 75a gives two readings that take the lammed as part of the root: from
+- *Yoma* 75a gives two readings that take the lamed as part of the root: from
   *shadayim*, since a nursing infant tastes many flavors in the milk, so the man
   held many tastes; or from *sheid*, which shifts its shape and color, as the
   man shifted its taste.

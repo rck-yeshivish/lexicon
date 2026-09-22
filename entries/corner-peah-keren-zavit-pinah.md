@@ -89,7 +89,7 @@ four rings on the four *peah* of the Shulchan (Shemos 25:26, 37:13) Onkelos
 renders *zavit*, the word that will matter later.
 
 - Rabbi Shlomo Pappenheim (1740 to 1814) gives two etymologies: in *Yerios
-  Shlomo* from PEH-HEY, "mouth," a corner being where one enters and leaves an
+  Shlomo* from PEH-HEI, "mouth," a corner being where one enters and leaves an
   area as the mouth is where food enters and words leave; in *Cheshek Shlomo*
   from PEH-ALEPH, "wide corner." For him the Moabite noblemen called *paas*
   (Bamidbar 24:17; Yirmiyahu 48:45) are those set apart at the corner of their
@@ -178,7 +178,7 @@ where Onkelos gives *zavit*, and twenty-eight more times in Tanach.
   and *zavit* are synonyms.
 - Rabbi David Chaim Chelouche (1920 to 2016), late Chief Rabbi of Netanya,
   traces both *peah* and *pinah* to the single letter PEH, "end/edge" (with an
-  added alef in *peah* and an added nun in *pinah*), *peah* naming more broadly
+  added aleph in *peah* and an added nun in *pinah*), *peah* naming more broadly
   the edge of a given area and *pinah* the edge where two of its sides meet.
 - Mordechai Zer-Kavod (*Daas Mikra* to Nechemiah 3:24) makes the primary sense
   "raised place," from *rosh pinah* (Tehillim 118:22), *hapinos hagevohos*

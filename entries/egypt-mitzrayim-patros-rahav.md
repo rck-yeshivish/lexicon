@@ -10,7 +10,7 @@ words:
     tr: Mitzrayim
     en: Egypt
     nk: מִצְרַיִם
-    distinct: the standard word, 680 times in Tanach; first a person, Cham's son (Bereishis 10:6), then the land his descendants held; the yod-mem ending is variously a dual, a mark of the sea (Bereishis Rabbah), or meitzar plus yam (Rabbi Chaim Vital)
+    distinct: the standard word, 680 times in Tanach; first a person, Cham's son (Bereishis 10:6), then the land his descendants held; the yud-mem ending is variously a dual, a mark of the sea (Bereishis Rabbah), or meitzar plus yam (Rabbi Chaim Vital)
   - he: מצור
     tr: Matzor
     en: Egypt (singular form)
@@ -61,7 +61,7 @@ heavenly minister; *eretz Cham*, the Land of Cham, is Tehillim's name for it.
 - *Bereishis Rabbah* 37:5 notes that the sons' names all carry a *yam* ending;
   Maharzu, that they settled along the coast, and Ramban (to 10:13) places them
   all in Egypt's vicinity.
-- Rabbeinu Bachaya (to 10:13): the yod-mem hints that these family-nations were
+- Rabbeinu Bachaya (to 10:13): the yud-mem hints that these family-nations were
   destined to drown at Krias Yam Suf.
 - Many sources read the name as a portmanteau of *meitzar*, a narrow place,
   border or strait, and *yam*, sea, each explaining the connection its own way;
@@ -108,7 +108,7 @@ First a person: a son of Cham (Bereishis 10:6, Divrei HaYamim I 1:8), father of
 Ludim, Anamim, Lehavim, Naftuchim, Patrusim, and Kasluchim, the last two of whom
 begot the Plishtim and Kaftorim (Bereishis 10:13 to 14). Then the land. Rabbi
 Elazar Rokeach of Worms adds a sign: the pasuk of Makkas Bechoros (Shemos 12:23)
-holds every letter of the alef-beis but tes, whose value is nine, for the nine
+holds every letter of the aleph-beis but tes, whose value is nine, for the nine
 families struck.
 
 ### Patros (פתרוס), Ludim (לודים), Anamim (ענמים), Lehavim (להבים)
@@ -130,7 +130,7 @@ probably no deeper meaning in these substitutions. HaKallir does the same with
 *Anamim*, as do many less popular piyyutim. The Ludim themselves appear five
 times (Bereishis 10:13, Yechezkel 27:10 and 30:5, Divrei HaYamim I 1:11,
 Yirmiyahu 46:9). Rashi (to 10:13, and possibly to Yeshayahu 13:8) presumes a
-connection between *Lehavim* and the root LAMED-HEY-BES, flame or blade, saying
+connection between *Lehavim* and the root LAMED-HEI-BES, flame or blade, saying
 that their faces resembled a *lahav* without explaining what that means. Ibn
 Gabirol's *Azharos* reads "I desired you and loved, I redeemed you from Lahav",
 and in some versions "from Rahav".

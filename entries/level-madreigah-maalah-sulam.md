@@ -127,7 +127,7 @@ Zavim 3:1, 4:3). Scholars have proposed various etymologies for the root.
   "lifting" sense, a means of lifting a person higher; Pappenheim takes a
   similar approach and reduces the root further to the biliteral ס-ל.
 - Rabbi Aharon Marcus proposes that where the essential root is ס-ל, the samech
-  stands in for the ayin that precedes it in the alef-beis, so the root of
+  stands in for the ayin that precedes it in the aleph-beis, so the root of
   *sulam* is ע-ל, the very root of *maalos*.
 
 Rashi defines *sulam* with *maalos* (to Bava Metzia 25a, Sukkah 53b) and with

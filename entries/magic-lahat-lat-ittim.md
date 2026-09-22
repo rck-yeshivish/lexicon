@@ -58,7 +58,7 @@ first plague, and that is what the meforshim are commenting on.
    *lachash*, whispered incantation. Ibn Janach and Radak support this
    lexically: the triliteral ל-א-ט means "covered, hidden," and its middle *aleph*
    can drop out or morph into a *vav* (Shmuel I 21:10; Yeshayahu 25:7); they suggest that it
-   drops in *lat* and turns to *hey* in *lahat*. Rashi (to Shemos 7:11)
+   drops in *lat* and turns to *hei* in *lahat*. Rashi (to Shemos 7:11)
    cites Onkelos, and on 7:22 glosses *lat* as something said quietly. Rabbi
    Shlomo Pappenheim (*Yerios Shlomo*) likewise makes them one thing, the speed
    and dexterity of a conjuror's hand.
@@ -70,7 +70,7 @@ first plague, and that is what the meforshim are commenting on.
    seemingly explaining the Gemara, magical instruments versus speech-acts; Ramban (to Shemos 7:11), destructive
    angels (*aish lohet*, Tehillim 104:4) versus the imperceptible *sheidim*.
 3. **Two words, one trick.** Ibn Ezra (to Shemos 7:11, 7:22) rejects the
-   missing-*hey* derivation, holding that a radical *hey* does not sit in the
+   missing-*hei* derivation, holding that a radical *hei* does not sit in the
    middle of a triliteral root. He keeps the words separate but makes them two
    aspects of one act: *lahat* the lightning speed of the hand, *lat* the
    concealment (compare Shoftim 4:21). Rabbi Yehuda HaLevi says much the same.

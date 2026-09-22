@@ -105,14 +105,14 @@ the interchange of ayin and hei: the ground opened for Kayin's burial (Bereishis
   choice than the man left with a *petza*.
 - The maskilic scholar Yitzchak Ber Levinsohn (1788 to 1860), in *Shorashei
   Levanon*, relates *petza* to *botzea*, "cut open," as bread is cut in Rabbinic
-  Hebrew, on the interchange of the labials pei and beis.
+  Hebrew, on the interchange of the labials peh and beis.
 - Ibn Janach and Radak define *petza* with *bokea*, "breaking open"; though they
   do not say so, Rabbi Klein suggests they may have seen the two as related,
-  through pei and beis and through the neighbouring tzadi and kuf.
+  through peh and beis and through the neighbouring tzadi and kuf.
 - Rabbi David Chaim Chelouche (1920 to 2016), the late Chief Rabbi of Netanya,
   connects *petza* with ב-ז-ע, *baza*, "to cut," in Aramaic and Arabic.
 - Rav Hirsch elsewhere (to Shemos 18:21) ties *petza* to *betza*, "bribe," on
-  the interchange of pei and beis: each gains the advantage in a zero-sum
+  the interchange of peh and beis: each gains the advantage in a zero-sum
   encounter, the bribe in court and the wound in combat.
 
 ### chaburah (חבורה)

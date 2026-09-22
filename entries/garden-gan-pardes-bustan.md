@@ -82,7 +82,7 @@ On the root:
   thief, who hides himself as a garden is hidden from those shut out of it; that
   derivation is open to him, since he lets a biliteral root take any letter, and
   closed to Rabbi Pappenheim, whose system lets a biliteral root combine only
-  with hey, aleph, mem, nun, tav, yod or vav.
+  with hei, aleph, mem, nun, tav, yud or vav.
 - **Softness.** In *Yerios Shlomo*, Rabbi Pappenheim instead traces *gan* to the
   single letter *gimmel*, whose core he gives as softening or melting (a
   monoliteral *gimmel* root has precedent in *Machberes Menachem* and in Rashi

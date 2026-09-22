@@ -135,7 +135,7 @@ Daniel's sentence, *mishtadar* until sunset to save him (Daniel 6:15), meaning
 he tried everything he could (Tosafos to Kiddushin 39b). Pseudo-Rasag there
 gives an explanation similar to Ramban's and likewise reaches for *esek*, that
 the king had to fight to convince his officers to save Daniel; Ramban theorizes
-that *shadal* and *shadar* are cognates, on the ground that lammed and reish
+that *shadal* and *shadar* are cognates, on the ground that lamed and reish
 often interchange, and notes that some versions of *Avos* 2:5 read *hishtadar*
 for *hishtadel*. *Shadar* has another sense: in post-Biblical Aramaic it means "to send", which has nothing to do with striving (see the *malach*/*shaliach*
 entry).

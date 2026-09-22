@@ -120,7 +120,7 @@ Mishlei 30:14), Radak (*Sefer HaShorashim*), and the *Biur HaGra* (to Mishlei
 31:9), who all explain the words as thick teeth set deeper in the mouth than a
 *shein*. Rabbi Tedeschi further parses *mesalos* as a fusion of ת-ל
 ("hanging," a tooth hangs onto the gums) with ל-ע ("swallowing"), the shared
-lamed written once. He notes an affinity, by metathesis and a tav-tet exchange,
+lamed written once. He notes an affinity, by metathesis and a tav-tes exchange,
 with ל-ע-ט, to guzzle or gulp, as in *haliteini* (Bereishis 25:30, as his
 teacher Shadal notes there) and the Mishnah's *malitin*, force-feeding (Shabbos
 24:3), and relates these roots as well to ל-ע-ס, to chew, in Rabbinic Hebrew

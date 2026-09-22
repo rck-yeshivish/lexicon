@@ -106,7 +106,7 @@ in Yechezkel meaning balsam oil.
   Kabbalah, their reading can be corroborated from the Zohar (*Bereishis* 47b,
   235b, 245b-246b), which likewise links *panag* to *tafnukim*.
 - *Shoresh Yesha* connects it to *oneg*, also pleasure or delicacy; Rabbi Klein
-  presumes the reason is that ayin and pei are consecutive letters and so
+  presumes the reason is that ayin and peh are consecutive letters and so
   somehow interchangeable.
 - Dr. Zohar Amar of Bar Ilan University, in *Tzimchei HaMikra*, gathers a
   further list of explanations from the commentators: cassia, wax (making
@@ -210,11 +210,11 @@ to Mishlei 27:9).
 - On where *afarsemon* itself comes from, scholars hold that the Rabbinic Hebrew
   *balsam* seems to have been borrowed straight from Greek, while the Talmudic
   *afarsemon* was borrowed from Old Persian, which took it from Greek: drop the
-  initial alef (often added to foreign words taken into Hebrew), swap the bet
-  for a pei and the reish for a lamed, both interchangeable pairs, and
+  initial aleph (often added to foreign words taken into Hebrew), swap the bet
+  for a peh and the reish for a lamed, both interchangeable pairs, and
   *afarsemon* and *balsam* show as the same etymon.
 - Alternatively, *afarsemon* may have come into Persian directly from the Hebrew
-  *bosem*, with bet for pei and an added reish.
+  *bosem*, with bet for peh and an added reish.
 - Rabbi Yosef Teomim-Frankel roots the word instead in the Hebrew *pirsum* or
   *mefursam*, publicized, since balsam's good scent made it well known
   throughout the ancient world.

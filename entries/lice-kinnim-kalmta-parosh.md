@@ -87,17 +87,17 @@ Hirsch's is the simpler explanation.
   Phoenician, and that just as the kuf of Imperial Aramaic shifts to a kaf in
   Talmudic Aramaic, the lamed of the Aramaic forms may answer to the nun of
   Hebrew *kinam*, on the phonetic interchange of lamed, mem, nun and reish; so
-  KAF-LAMMED-MEM would equal KAF-NUN-MEM, the mem in *kinam* would be a radical
+  KAF-LAMED-MEM would equal KAF-NUN-MEM, the mem in *kinam* would be a radical
   after all, contrary to the classical lexicographers, and Biblical Hebrew would
   hold two distinct words, *kinnim*, the plural of *kinah*, and *kinam*, cognate
   with the Aramaic. Rabbi Klein consulted Rabbi Dr. Yitzchak (Jared) Greenblatt
   and Rabbi Shaul Goldman, who agreed the supposition is tenable; and Dr.
   Alexander Kohut, in *Aruch HaShalem*, cites the maskilic scholar Peretz
-  Smolenskin that Talmudic Aramaic KAF-LAMMED-MEM is cognate with Biblical
+  Smolenskin that Talmudic Aramaic KAF-LAMED-MEM is cognate with Biblical
   Hebrew KAF-NUN-MEM. Rabbi Klein puts his conclusion conditionally: if the
-  supposition is correct, then KAF-NUN-MEM (Biblical Hebrew), KUF-MEM-LAMMED
-  (Canaanite, Imperial Aramaic and Arabic), KUF-LAMMED-MEM (Targumic Aramaic and
-  Akkadian) and KAF-LAMMED-MEM (Talmudic Aramaic) are one word in different
+  supposition is correct, then KAF-NUN-MEM (Biblical Hebrew), KUF-MEM-LAMED
+  (Canaanite, Imperial Aramaic and Arabic), KUF-LAMED-MEM (Targumic Aramaic and
+  Akkadian) and KAF-LAMED-MEM (Talmudic Aramaic) are one word in different
   forms.
 
 **Whether kein ever means "louse".** Yeshayahu 51:6, "and its inhabitants will
@@ -147,14 +147,14 @@ archaeologists led by Dr. Daniel Vainstub of Ben-Gurion University reported an
 ivory comb bearing a Canaanite inscription reading "May this tooth root out the
 lice (*kamal*) of the hair and the beard." Canaanite is closely related to
 Biblical Hebrew, so a cognate there is unsurprising; what is surprising is that
-the last two consonants are transposed, KUF-MEM-LAMMED rather than
-KUF-LAMMED-MEM. Being Canaanite, the text is almost certainly older than the
-Targumim, so it seems to Rabbi Klein that KUF-MEM-LAMMED is the original
-Semitic spelling and KUF-LAMMED-MEM a later metathesis; the Canaanite form survives in Arabic
+the last two consonants are transposed, KUF-MEM-LAMED rather than
+KUF-LAMED-MEM. Being Canaanite, the text is almost certainly older than the
+Targumim, so it seems to Rabbi Klein that KUF-MEM-LAMED is the original
+Semitic spelling and KUF-LAMED-MEM a later metathesis; the Canaanite form survives in Arabic
 *quml*, still lice. The Sefire treaty texts, Aramaic inscriptions found in
 northern Syria and dating to the end of the First Temple period, recording a
 treaty between two Syrian kings with its oaths and curses, spell the word the
-same way, KUF-MEM-LAMMED, in a curse calling for lice to do something to a
+same way, KUF-MEM-LAMED, in a curse calling for lice to do something to a
 violator, though the text breaks off before saying what. Professor Chaim Tawil
 questions rendering that word "lice" at all, since in context it is a
 crop-consuming pest rather than a creature that stays on the body, and reads it

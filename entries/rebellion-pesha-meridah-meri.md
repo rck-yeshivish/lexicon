@@ -10,7 +10,7 @@ words:
     tr: pesha
     en: negligence, rebellion
     nk: פֶּשַׁע
-    distinct: at bottom negligence out of indolence, borrowed for rebellion since apathy before a king slights his honor (Pappenheim); a sin of rebellion against chet and avon (Yoma 36b); Targum renders it mored, active defiance
+    distinct: at bottom negligence out of indolence, borrowed for rebellion since apathy before a king slights his honor (Pappenheim); a sin of rebellion against ches and avon (Yoma 36b); Targum renders it mored, active defiance
   - he: מרידה
     tr: meridah
     en: revolt

@@ -129,13 +129,13 @@ the Hebrew and the Aramaic portions of Tanach.
   nations before giving it to the Jews.
 
 Rabbi Pappenheim derives *atah* from the single letter ת, which stands for
-bordering, since it closes the alef-beis. A border links two bodies and
+bordering, since it closes the aleph-beis. A border links two bodies and
 distinguishes them at once; hence *es*, the particle that links a verb to its
 object and sometimes means "with," and *os* ("sign"), which links sign to
 signified. *Atah* on this reading is the traveler finally joined to his
 destination, as against *biah*, which can still have him on the road. Rabbi
 Klein adds a suggestion of his own: perhaps the finality of *atah* is hinted in its
-root's being the first and *last* letters of the alef-beis, while *biah* has the
+root's being the first and *last* letters of the aleph-beis, while *biah* has the
 first and the second. The same root yields *tav* ("mark"), which serves as a
 border distinguishing a thing from the rest: Yechezkel saw Hashem command an
 angel to make a *tav* on the foreheads of the righteous who bemoaned the

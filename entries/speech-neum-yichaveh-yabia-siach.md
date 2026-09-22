@@ -140,8 +140,8 @@ whisper." Rabbi Klein says outright: "I am not sure what to make of that."
 - Pappenheim derives ח-ו from ח-י ("life") and/or א-ח ("brotherhood, unity"),
   both of which he traces further back to the monoliteral root ח. On the first,
   this speech gives an idea life by expressing it verbally instead of leaving it
-  hidden away in the thoughts; for the *vav*/*yod* interchange he adduces the
-  name *Chavah*, which the Torah itself ties to *chai*, spelled with a *yod*
+  hidden away in the thoughts; for the *vav*/*yud* interchange he adduces the
+  name *Chavah*, which the Torah itself ties to *chai*, spelled with a *yud*
   (Bereishis 3:20). Alternatively, he relates it to *ach*, "brother," because
   speech creates connection and comradery by linking speaker with listener.
 - *Peirush HaRokeach*: *yichaveh* is speech for the purpose of explaining the

@@ -171,7 +171,7 @@ element, two of the four letters of the Shem HaMeforash. Rabbi Chaim Palagi find
 an allusion to the Mishnah's identification in gematria: half the value of each of
 the first three letters of Petachyah (peh, tav, ches) equals each of the first
 three of Mordechai (mem, reish, dalet), while double the value of Petachyah's last
-two letters equals Mordechai's last two (kaf, yod).
+two letters equals Mordechai's last two (kaf, yud).
 
 Menachos 65a: all the Sanhedrin were required to know the seventy languages, but
 Mordechai stood out even among them, in that he could mix and match between

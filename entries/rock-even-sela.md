@@ -106,7 +106,7 @@ a layer of exegetical interpretation about the Luchos.
 
 Rabbi Aharon Marcus (1843-1916) makes a fascinating
 suggestion. He proposes that where a root looks like ס-ל, the samech stands
-in for the ayin that follows it in the alef-beis, so the root is really ע-ל, the
+in for the ayin that follows it in the aleph-beis, so the root is really ע-ל, the
 root of *al* and *oleh*, what is on top and what rises. On that reading a *sela*
 is the rock that *comes up* out of the ground.
 
