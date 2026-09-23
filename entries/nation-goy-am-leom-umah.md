@@ -97,6 +97,14 @@ view (Malbim). Rabbi Yoel Ibn Shuaib: the Pelishtim, ruled by five lords
 - Heidenheim: a group united by one leader, king, or God.
 - Malbim: a smaller, more specific unit than *goy*, and bound up with
   sovereignty, which is why it is almost the standing word for Yisrael.
+- Siddur HaRokeach, in several places: *am* is a smaller body, one kingdom with
+  one deity and one religion, even a single city (*vehayinu le'am echad*,
+  Bereishis 34:16), while *goy* is a multitude, a *hamonia*, of one language
+  (*umi goy gadol*, Devarim 4:8); *goyim* are many nations together, as Nineveh,
+  and the chosen of a people are its *am*. Toras HaKavod, by a student of the
+  Rokeach, quotes his teacher that *am* means a people together and *goy* a
+  multitude, and that in the prophecy of Gog, where the sanctification of
+  Hashem's Name is at stake, the pasuk says *goy* (Yechezkel 38:23).
 - Wertheimer: like-minded people who act alike, which is why the day of
   *Kabbalas HaTorah* makes Yisrael an *am* (Devarim 27:9) and why a swarm of
   locusts is called an *am* (Yoel 2:2) though locusts have no king (Mishlei
@@ -107,14 +115,6 @@ view (Malbim). Rabbi Yoel Ibn Shuaib: the Pelishtim, ruled by five lords
   ruled by one; with Yisrael the possessor is almost always Hashem.
 - Rabbi Shlomo Pappenheim, cited approvingly by Heidenheim: *am* is spelled like
   *im*, "with", which says that the bond among its members is the closer one.
-- Siddur HaRokeach, in several places: *am* is a smaller body, one kingdom with
-  one deity and one religion, even a single city (*vehayinu le'am echad*,
-  Bereishis 34:16), while *goy* is a multitude, a *hamonia*, of one language
-  (*umi goy gadol*, Devarim 4:8); *goyim* are many nations together, as Nineveh,
-  and the chosen of a people are its *am*. Toras HaKavod, by a student of the
-  Rokeach, quotes his teacher that *am* means a people together and *goy* a
-  multitude, and that in the prophecy of Gog, where the sanctification of
-  Hashem's Name is at stake, the pasuk says *goy* (Yechezkel 38:23).
 
 ### leom (לאום) and umah (אומה)
 - Rashi (to Tehillim 2:1) in the name of Rabbi Menachem Ibn Saruk treats

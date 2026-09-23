@@ -68,6 +68,10 @@ Root ח-כ-ם.
   exchange between Rabbi Yosi and Arius in the *Sifrei* (to Devarim 1:13), and
   likewise Radak (to Melachim I 3:12): *chochmah* is what a person hears, that
   is, learns, from others.
+- Chasam Sofer (*Toras Moshe* to Koheles 12:9): *chochmah* is what one learns
+  from others, *binah* the power to weigh what one has learned and join it to
+  what one already knows, and *daas* the power to set it all before others and
+  teach them.
 - Chazal's *chacham* casts a wide net: he learns from every person (Avos 4:1),
   foresees consequences not yet come to be (Tamid 32a), makes his teachers
   wiser (Chagigah 14a).
@@ -90,10 +94,6 @@ Root ח-כ-ם.
   foolish one; true *chochmah* comes only by Divine revelation, since
   otherwise one cannot know for certain that a way is the smartest, and
   non-revelatory *chochmah* is a borrowed term.
-- Chasam Sofer (*Toras Moshe* to Koheles 12:9): *chochmah* is what one learns
-  from others, *binah* the power to weigh what one has learned and join it to
-  what one already knows, and *daas* the power to set it all before others and
-  teach them.
 
 ### binah (בינה) and tevunah (תבונה)
 Root ב-י-ן.

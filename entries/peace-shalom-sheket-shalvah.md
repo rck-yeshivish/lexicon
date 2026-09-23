@@ -113,6 +113,11 @@ in their shared etymological root, the biliteral ש-ל.
   relationships, while *shalvah* is one peaceful relationship within a wider
   discord.
 - Malbim: *shalvah* is inner peace, *shalom* external.
+- Chasam Sofer (*Toras Moshe* to Bereishis 37:1): *shalom* is peace while one
+  must still contend with Esav, who hinders one's service of Hashem; *shalvah*
+  is peace once the effects of Esav's efforts are wholly gone. That is why
+  *shalvah* holds the vav and hei, the second half of the Name that Esav's
+  descendants Amalek cut in half (see Rashi to Shemos 17:16).
 
 The verb *shalu* sometimes means to be at ease (Rashi and Ibn Ezra to Eichah
 1:5) and sometimes to sin unwittingly (Melachim II 4:28, Shmuel II 6:7, Divrei
@@ -127,11 +132,6 @@ meanings converge in one word?
   become content with his present spiritual stature, stop striving for greater
   perfection, smugly keep to his tried and tested ways, and so start down the
   slope toward sin.
-- Chasam Sofer (*Toras Moshe* to Bereishis 37:1): *shalom* is peace while one
-  must still contend with Esav, who hinders one's service of Hashem; *shalvah*
-  is peace once the effects of Esav's efforts are wholly gone. That is why
-  *shalvah* holds the vav and hei, the second half of the Name that Esav's
-  descendants Amalek cut in half (see Rashi to Shemos 17:16).
 
 ### sheket (שקט)
 Root ש-ק-ט.

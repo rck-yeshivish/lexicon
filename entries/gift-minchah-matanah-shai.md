@@ -72,6 +72,9 @@ uses four times for Yaakov's tribute of five hundred and fifty animals to Esav
 (Bereishis 32:14, 32:19-22).
 - Rav Hirsch: a *minchah* is a gift of homage, by which the giver shows his
   subservience; it serves the giver's interest in demonstrating his dependence.
+- Moshe Halbertal (*On Sacrifice*, p. 10): *minchah* always means one of lower
+  standing placing something before a superior, while *matanah* is an exchange
+  between equals.
 - Rabbi Shlomo Aharon Wertheimer takes it differently, as a gift that gains the
   giver atonement.
 - Rabbi Yaakov Tzvi Mecklenburg: a *minchah* can be an outright tax or tribute
@@ -80,19 +83,14 @@ uses four times for Yaakov's tribute of five hundred and fifty animals to Esav
   (Melachim II 17:3).
 - Radak and others root it in *nach*/*nachah*, "placed, rested," since the gift
   is meant to settle and placate the recipient.
+- Shadal (to Bereishis 4:3): *minchah* is from נ-ו-ח, a gift meant to appease a
+  superior in case one sinned against him unawares.
 
 Rabbi Mecklenburg presses further: the more submission a gift shows, the more it
 deserves the name *minchah*. Hence *Tefillas Minchah*, said as the sun is on its
 way down, bowing, as it were, before Hashem; and hence the poor man's offering,
 the *Korban Minchah*, in which the giver shows plainly that he is handing over
 the little he has.
-
-Moshe Halbertal (*On Sacrifice*, p. 10): *minchah* always means one of lower
-standing placing something before a superior, while *matanah* is an exchange
-between equals.
-
-Shadal (to Bereishis 4:3): *minchah* is from נ-ו-ח, a gift meant to appease a
-superior in case one sinned against him unawares.
 
 ### matanah (מתנה)
 Some twenty appearances.

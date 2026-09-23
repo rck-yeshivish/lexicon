@@ -94,6 +94,12 @@ The Torah's second verb in the same prohibition.
   (Bereishis 35:2, 41:14) and then the name of the outer garments themselves
   (Bereishis 41:14, Shmuel II 12:20); in Modern Hebrew a *chalifah* is a suit.
 - Malbim: *chalifah* looks at the objects switched, not the switcher.
+- *Chemdas HaChemdah* (to Vayikra 27:10): *lo yachalifenu* forbids letting a
+  particular consecrated animal be lost with the plan of simply replacing it,
+  and *lo yamir* forbids swapping something already consecrated to move its
+  holiness onto another animal, better or worse.
+- *Toras Gavriel*, by Rabbi Gavriel Wolf Margolios, son-in-law of Rabbi Nachum
+  of Horodna: *chalaf* is bad for good and *temurah* good for bad.
 
 Root: most read ח-ל-ף. Pappenheim (*Yerios Shlomo*) builds it from two biliterals,
 ח-ל (circle, turning) and א-ף (face, present), so *chalifah* is pivoting away
@@ -101,14 +107,6 @@ from the present situation. This somewhat echoes Rav Hirsch on what one is getti
 rid of, and it runs against what Pappenheim himself writes in *Cheshek Shlomo*,
 where *temurah* is "out with the old" and *chalifah* "in with the new";
 Pappenheim concedes that in practice the two have become largely interchangeable.
-
-*Chemdas HaChemdah* (to Vayikra 27:10): *lo yachalifenu* forbids letting a
-particular consecrated animal be lost with the plan of simply replacing it, and
-*lo yamir* forbids swapping something already consecrated to move its holiness
-onto another animal, better or worse.
-
-*Toras Gavriel*, by Rabbi Gavriel Wolf Margolios, son-in-law of Rabbi Nachum of
-Horodna: *chalaf* is bad for good and *temurah* good for bad.
 
 ## Rendering guidance
 

@@ -96,14 +96,14 @@ II 23:10, 32:5; Yoel 2:8; Nechemiah 4:11, 4:17; Iyov 33:18, 36:12), and nine mor
 times as the name of Shem's grandson, the father of Ever (Bereishis 10 to 11;
 Divrei HaYamim I 1). Radak: a verb cognate meaning "cut" appears in Bereishis 37:32.
 
+Moshe Oussi reads *vayeshalchu es kesones hapasim* (Bereishis 37:32) as cutting
+the garment with a sword, from *shelach*.
+
 The name Metushelach is *mes*, "he died," and *shelach*. According to the Midrash
 (cited by *Peirush HaRokeach*, *Sifsei Kohen* and others), his sword, engraved with
 the Ineffable Name, with which he killed as many as 98,000 demons in one moment to
 protect mankind, was buried with him, so that when he died his sword also "died"
 (though *Imrei Noam* and *Zera Beirech* say it later came to Avraham).
-
-Moshe Oussi reads *vayeshalchu es kesones hapasim* (Bereishis 37:32) as cutting
-the garment with a sword, from *shelach*.
 
 ### sayif (סייף)
 The common Aramaic word for a sword in the Talmud. The Targumim render *cherev*

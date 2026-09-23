@@ -165,13 +165,13 @@ as scissors (Keilim 13:1).
   *sippur*, telling a story that gets traction as it goes around and around;
   *sfar*, a border city surrounded by its protecting wall; and *sapar*, the
   barber who cuts around the head from one ear to the other.
+- The Rogatchover (*Tzafnas Paneach* to Bereishis 41:14): the Targum renders
+  Yosef's *vayegalach* as *vesapar* because he only trimmed and did not cut his
+  hair fully, being a nazir.
 - Rabbi Yaakov Tzvi Mecklenburg reads ס-פ-ר, as in *mispar*, as a number used
   as a limit, and the same pair is explained that way: the Aramaic *sapar*,
   barber, limits the growth of his client's hair, as the Aramaic *sfar*, a
   border, limits a nation's territory.
-- The Rogatchover (*Tzafnas Paneach* to Bereishis 41:14): the Targum renders
-  Yosef's *vayegalach* as *vesapar* because he only trimmed and did not cut his
-  hair fully, being a nazir.
 
 ## Rendering guidance
 

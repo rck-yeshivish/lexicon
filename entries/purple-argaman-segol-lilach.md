@@ -154,6 +154,10 @@ supports this from the Temple Scroll among the Dead Sea Scrolls, which uses the
 expression *argaman adom*, "red *argaman*," implying that *argaman* on its own
 can also cover shades not strictly red.
 
+Rav Hirsch (on Terumah) also identifies *argaman* as a darker shade of red,
+which Rabbi Klein understood as burgundy, standing for man, and *tolaas shani*
+as a lighter red, standing for animals.
+
 Why the conventional translation says purple at all: the Septuagint consistently
 renders *argaman* as the Greek *porphyra*, the antecedent of the Latin *purpura*
 and ultimately of the Old English *purpure*, from which Modern English *purple*
@@ -169,10 +173,6 @@ D'Rabbi Eliezer* ch. 50; various Greco-Roman historians likewise record that
 Tyrian purple was a controlled commodity generally reserved to the royal family.
 That the Greek word is a cognate of English *purple* does
 not mean the clothes in question were the color we call purple.
-
-Rav Hirsch (on Terumah) also identifies *argaman* as a darker shade of red,
-which Rabbi Klein understood as burgundy, standing for man, and *tolaas shani*
-as a lighter red, standing for animals.
 
 ### segol (סגול)
 In 1894 Yechiel Michel Pines introduced *segol* as a new word for purple; it

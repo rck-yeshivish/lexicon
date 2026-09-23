@@ -130,6 +130,11 @@ person bare when taken.
 - Radak: *shevi* is human prisoners and *malkoach* animals, but where *malkoach*
   appears later without *shevi* beside it (Bamidbar 31:27) it covers every
   living thing taken, human and animal.
+- Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bamidbar 31:26): *shevi* is related
+  to ש-ב, returning, because it is the people and things taken from the enemy
+  that are *not* returned. So too *shovav* (Yeshayahu 57:17) is one who has lost
+  his way and longs to return to his land and family, like the captive who wants
+  to go home.
 - Rabbi Pappenheim puts *shevi* / *shevuyah* under the two-letter ש-ב, which
   can refer to reverting to one's natural state (as in *Shabbos*, rest): the
   captive is one whose freedom of movement his captors have curtailed, as if
@@ -142,11 +147,6 @@ person bare when taken.
   inanimate booty (*shalal*): inanimate objects are taken by hand or physical
   force, while living creatures are often taken verbally, by persuasion or
   command.
-- Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bamidbar 31:26): *shevi* is related
-  to ש-ב, returning, because it is the people and things taken from the enemy
-  that are *not* returned. So too *shovav* (Yeshayahu 57:17) is one who has lost
-  his way and longs to return to his land and family, like the captive who wants
-  to go home.
 
 ### ad (עד)
 "Binyamin is a wolf that tears; in the morning he devours *ad* and in the

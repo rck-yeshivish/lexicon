@@ -118,6 +118,10 @@ Root ח-פ-ר; twenty-three Biblical occurrences as digging by Even Shoshan's
 concordance, and the Mishnah's standard verb for making a *bor* (Sheviis 3:10,
 Bava Kamma 5:5, Bava Basra 2:12).
 - Malbim: the completion of the dig.
+- *Be'er Yitzchak* of Rabbi Yitzchak Isaac Chaver (on *Aderes Eliyahu*, Balak):
+  *chafirah* is a hole not meant to be filled, which stays open, while *kirah*
+  is meant to be closed. So *bekivri asher karisi li* (Bereishis 50:5), a grave
+  to be sealed by the dead placed in it, and so everywhere.
 - Rav Hirsch: digging so deep that one reaches the earth's depths and brings up
   the spring water; from that depth the word's second sense, to scout, spy, or
   investigate, retrieving what is hidden from view (Modern Hebrew *chafran*, a
@@ -143,10 +147,6 @@ Bava Kamma 5:5, Bava Basra 2:12).
   merit the well came to be (Taanis 9a); only then does the song turn to the
   secondary reason, the rest of the nation, whose merits could begin the digging
   (*karah*) but not complete the project without the leaders.
-- *Be'er Yitzchak* of Rabbi Yitzchak Isaac Chaver (on *Aderes Eliyahu*, Balak):
-  *chafirah* is a hole not meant to be filled, which stays open, while *kirah*
-  is meant to be closed. So *bekivri asher karisi li* (Bereishis 50:5), a grave
-  to be sealed by the dead placed in it, and so everywhere.
 
 ### chatzivah (חציבה)
 Root ח-צ-ב.

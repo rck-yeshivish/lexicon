@@ -129,6 +129,9 @@ On etymology:
   Latin but from Old Persian, where *aspanj* means "inn." Either way HaBachur
   notes the word covers both the lodging house and the guest who uses it. (In
   Modern Hebrew *ishpuz* means hospitalization.)
+- Sokoloff holds that *ushpizin* comes from Middle Persian and not from Latin,
+  as Rabbi Eliyahu HaBachur conjectured. Rabbi Klein adds that Latin *hospes*
+  goes back to a Proto-Indo-European root meaning both master and guest.
 - Rabbi Yaakov Emden argues for a Hebrew reading, *yesh po zin*, "there is
   sustenance here," for *ushpiz* as host.
 - Rabbi Shimon Yehuda Leib Goldblit parses *ushpaz* as *ish paz*, "a man of
@@ -143,10 +146,6 @@ On etymology:
 
 By the *Sefer Yuchasin*'s girsa of Taanis 24b (see *Dikdukei Sofrim*) Rav
 Nachman's mother was named Ushpiztai, likely from the same word.
-
-Sokoloff holds that *ushpizin* comes from Middle Persian and not from Latin, as
-Rabbi Eliyahu HaBachur conjectured. Rabbi Klein adds that Latin *hospes* goes
-back to a Proto-Indo-European root meaning both master and guest.
 
 ### achsanai (אכסנאי) and achsanyah (אכסניה)
 Twice in the Mishnah (*Demai* 3:1, *Chullin* 8:2), at least once in Targum (to

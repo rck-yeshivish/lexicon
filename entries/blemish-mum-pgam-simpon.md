@@ -76,14 +76,13 @@ that puts it past complete, which is equally a defect.
   offers the same etymology; Rabbi Ernest Klein cites it but rejects it on
   technical grounds, while Rabbi Reuven Chaim Klein treats *meumah* as relating
   back to *mah*.
+- Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 22:12) connects *me'umah*
+  with *mum*.
 
 Beyond the physical, *mum* is used for a defect from sin (Devarim 32:5; Mishlei
 9:7), and in the Gemara for what disqualifies a man from sitting as a dayan,
 where Rashi (to *Sanhedrin* 36b) explains it as a family *pgam*, a more abstract
 use than the biblical one.
-
-Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 22:12) connects *me'umah*
-with *mum*.
 
 ### pgam (פגם)
 - Rabbi Eliyahu HaBachur: the literal sense is a groove or crevice. So the

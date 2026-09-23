@@ -132,11 +132,11 @@ Root ה-ר-ג.
   *arigah*, weaving.
 - Rav Hirsch (to Shemos 35:25) hints at the same *harigah*/*arigah* link, and
   (to Bereishis 30:27) connects ה-ר-ג with ע-ר-ג, "desiring/yearning".
+- *Ohr Chadash* (to Bamidbar 14:10): the base of the root *harag* is ר-ג, and
+  reversed it is the root *arag*.
 - Rabbi Aharon Marcus takes the ר-ג family further, to *regev* (a clump of
   dirt), *regel* (foot), *rogez* (anger) and *regesh* (feeling), all of them
   bound up, in one way or another, with subduing, conquering or trampling.
-- *Ohr Chadash* (to Bamidbar 14:10): the base of the root *harag* is ר-ג, and
-  reversed it is the root *arag*.
 
 ### ketilah (קטילה)
 The standard Targumic rendering of both Hebrew words, seven times in the Aramaic

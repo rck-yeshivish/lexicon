@@ -129,6 +129,8 @@ fulfilled 22:38).
   suggests to him that Indo-European languages might have borrowed from or
   evolved out of Semitic ones, as some linguists posit, instead of developing
   alongside them independently.
+- Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 38:17): Greek *leicho*
+  and Latin *lingere* derive from the Hebrew word for licking.
 
 The root ל-ק-ה, hitting or smiting, is the root of *malkus*, lashes. It may
 not be connected to *lekikah* at all, but, Rabbi Klein suggests, one could argue
@@ -136,9 +138,6 @@ that the whip is like a tongue lashing the sinner's body as a tongue licks. In a
 parallel, English "lick" means both to smite or defeat an enemy (an idiom based
 on Bamidbar 22:4) and to pass the tongue over something, and linguists would
 probably call that resemblance to ל-ק-ה and ל-ק-ק pure chance.
-
-Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 38:17): Greek *leicho* and
-Latin *lingere* derive from the Hebrew word for licking.
 
 ## Rendering guidance
 

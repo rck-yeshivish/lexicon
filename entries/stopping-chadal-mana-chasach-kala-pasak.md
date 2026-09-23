@@ -152,7 +152,6 @@ and so they do (9:33), and Pharaoh sees they have ceased and hardens his heart
   *tenuah*), on his theory that in many roots an initial mem inverts the sense of the
   two-letter root that follows: ח-ק engrave against מחק erase, ל-ץ scorn against
   מליץ defend, ר-ד rule against מרד rebel, so *mana* is the opposite of motion.
-- Wertheimer cites Shmuel II 13:13 for its willful force.
 - Rabbi Shlomo Pappenheim (*Cheshek Shlomo* s.v. נע): *chasach* and *mana* are
   both withholding from joining, transitive and taking a mem. *Chasach* is
   mostly for the good, holding back from what is unnatural or unfit (*va'echsoch
@@ -162,6 +161,7 @@ and so they do (9:33), and Pharaoh sees they have ceased and hardens his heart
   habitual, is held back as by *mana*, and to the father striking his child is
   unnatural, so *chasach*. In *Yerios Shlomo* he takes *chasach* as a compound
   of *chasi*, covering, and *sach*, screening.
+- Wertheimer cites Shmuel II 13:13 for its willful force.
 
 ### kala (כלא)
 Twice in the form *vayikaleh*: the rains ceased from the heavens at the Mabul's

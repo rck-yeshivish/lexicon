@@ -92,6 +92,9 @@ or a drunkard waking from his stupor (Bereishis 9:24; Mishlei 23:35; Tehillim
   applies it differently: the sleeper's powers are hidden, he appears inert and
   motionless, and waking reveals them; on that basis he explains *noer*, a
   lion's roar, as an outburst that reveals what was in him.
+- Rabbi Nissim of Marseilles (*Maaseh Nissim* p. 268): the *kosnos or* are the
+  Torah, which wakes a man to what he should attend to, *or* as in *er*,
+  rousing.
 
 Pappenheim contrasts it with *yekitzah*: *oorah* is the more gradual waking, a
 man slowly passing from asleep to awake through an intermediate stage of
@@ -114,9 +117,6 @@ not awake" (*Pesachim* 120b; *Taanis* 12b).
   root) and reads it as a sleeper on the edge of waking.
 - Tosafos (to *Taanis* 12b, and see Tosafos to *Niddah* 63a) explain it the
   other way, the wakefulness of one about to fall asleep.
-- Rabbi Nissim of Marseilles (*Maaseh Nissim* p. 268): the *kosnos or* are the
-  Torah, which wakes a man to what he should attend to, *or* as in *er*,
-  rousing.
 
 ### the two together
 *Nishmas* has *HaMe'orer yesheinim v'haMeikitz nirdamim*, and pairs two words

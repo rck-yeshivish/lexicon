@@ -76,6 +76,11 @@ intrinsically mean olive oil.
   for the same reason olive oil is called "gold" (Zecharyah 4:12).
 - Ibn Ezra (to Iyov 24:11) takes *tzohar* in its other sense, "noon," since oil
   is burned for light and that light resembles the sun at midday.
+- Chizkuni (to Bereishis 6:16) and others: *tzohar taaseh lateivah* means
+  *yitzhar*, oil to light it.
+- Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 35:2): *tahor* means
+  light, like *tzohar*, tes and tzadi interchanging, and *yitzhar* is oil as
+  what brings light when kindled.
 
 *Yitzhar* is also a proper name nine times in Tanach, Levi's grandson and
 Korach's father (Shemos 6:18 and elsewhere). The Midrash has Korach read his
@@ -85,13 +90,6 @@ from the water (Shemos 2:10), so Korach thought he would come out on top. Rabbi
 Yadler answers that in reality the name pointed not at Korach but at his
 descendant Shmuel HaNavi, who would use specially made ritual olive oil to
 anoint David and begin the Messianic line.
-
-Chizkuni (to Bereishis 6:16) and others: *tzohar taaseh lateivah* means
-*yitzhar*, oil to light it.
-
-Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 35:2): *tahor* means light,
-like *tzohar*, tes and tzadi interchanging, and *yitzhar* is oil as what brings
-light when kindled.
 
 ## Rendering guidance
 

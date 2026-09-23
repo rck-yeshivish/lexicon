@@ -110,6 +110,10 @@ of the stops of the forty years in the wilderness (Bamidbar 33:35-36, Devarim
 HaYamim II 8:17), and Yehoshafat's ships broke down there (Melachim I 22:49,
 Divrei HaYamim II 20:36).
 
+Abudarham (on Yom Kippur): the custom of using a rooster for *kaparos* on Erev
+Yom Kippur is because *gever* means both rooster and man, which makes the
+rooster especially fit to stand in for a person.
+
 Why Bilaam called himself a *gever* (Bamidbar 24:3, 24:15) drew several
 readings.
 - Rabbeinu Efrayim: Berachos 7a says the moment of Divine anger each morning can
@@ -128,10 +132,6 @@ readings.
 for counsel and for intuiting the hour as a rooster does, and Rabbi Menachem
 Tziyyoni cites the Mekubalim that some of them commanded an esoteric wisdom
 called the Knowledge of the Chicken, hinted at in the city's name.
-
-Abudarham (on Yom Kippur): the custom of using a rooster for *kaparos* on Erev
-Yom Kippur is because *gever* means both rooster and man, which makes the
-rooster especially fit to stand in for a person.
 
 ### ziz sadai (זיז שדי)
 Twice in Tehillim (50:11, 80:14), plainly a bird. Targum both times renders

@@ -85,16 +85,16 @@ seventy.
 - Rabbi Avraham Bedersi HaPenini concludes from this, and from two pesukim which
   imply that a man is a *zaken* before he reaches *seivah* (Shmuel I 12:2;
   Yeshayahu 46:4), that *seivah* is the later stage.
+- Shadal (to Bereishis 50:7): *zaken* is anyone in a position of honor and
+  importance, whatever his age, as Spanish *señor* and Italian *signore*, from
+  Latin *senior*, and *senator*, carry honor and not old age.
+- *Noam Elimelech* (Chayei Sarah): a tzaddik is called *zaken* even when young,
+  because he sees himself as a man of advanced age who may die at any moment,
+  and that thought keeps him in constant *teshuvah*.
 - Rabbi Yehuda Leib Shapira-Frankfurter (*HaRechasim LeVik'ah*): *zaken* belongs
   to people and animals, not to plants; Iyov 14:8, which calls a plant's root
   *zaken*, is a borrowed usage and not the word's primary sense.
 - The Targumim tend to render *zaken* either *kashish* or *sav*.
-- *Noam Elimelech* (Chayei Sarah): a tzaddik is called *zaken* even when young,
-  because he sees himself as a man of advanced age who may die at any moment,
-  and that thought keeps him in constant *teshuvah*.
-- Shadal (to Bereishis 50:7): *zaken* is anyone in a position of honor and
-  importance, whatever his age, as Spanish *señor* and Italian *signore*, from
-  Latin *senior*, and *senator*, carry honor and not old age.
 
 ### seivah (שיבה)
 Old age at seventy. Rabbi Eliezer Reines

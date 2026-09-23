@@ -98,10 +98,6 @@ Hebrew word carrying a sense and its reverse, or, as he then suggests himself,
 a *reya* is precisely one whose separate existence is a brokenness off from
 you, really meant to be attached to you.
 
-Two lines from public life speak to the theme of friendship:
-the American poet Ralph Waldo Emerson (1803-1882), "The only way to have a
-friend is to be one," and President Bill Clinton's "*Shalom Chaver*."
-
 Rabbi Mattisyahu HaYitzhari (on *Avos* 6:1): a *rei'a* is one who cleaves to his
 fellow and whose thoughts never part from him, in study, in public affairs, or
 in bodily matters; the word is from *ra'ayon*, thought (Koheles 1:17; Tehillim
@@ -110,6 +106,10 @@ in bodily matters; the word is from *ra'ayon*, thought (Koheles 1:17; Tehillim
 as though born that moment to be his brother. He reads *rei'im ahuvim* in the
 wedding blessings the same way: each seeks to be loved by the other as he loves
 him, thinking himself wanting in his friend's eyes.
+
+Two lines from public life speak to the theme of friendship:
+the American poet Ralph Waldo Emerson (1803-1882), "The only way to have a
+friend is to be one," and President Bill Clinton's "*Shalom Chaver*."
 
 ## Rendering guidance
 

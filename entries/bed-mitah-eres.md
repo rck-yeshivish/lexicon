@@ -98,6 +98,11 @@ the Aramaic with a samech, letters that often interchange. Readings:
   fastened to each other by strips
   or bars running through the middle, or built of woven or layered planks, so
   that the bed itself shows the marks of mixing and mutual connection.
+- Dr. Richard C. Steiner ("The Case for Fricative-Laterals in Proto-Semitic,"
+  American Oriental Series 59, 1977, pp. 130 ff.) explains the lamed of *arsal*,
+  from *eres*, by positing that sin was once pronounced with something like an
+  *l* sound, or was at least heard that way by the Greeks, hence the *sl* in
+  *arsala*.
 - Rabbi Shlomo Aharon Wertheimer suggests the difference is material, not
   structure or configuration.
   *Eres* is the iron- or metal-framed bed, *mitah* the wooden one.
@@ -106,11 +111,6 @@ the Aramaic with a samech, letters that often interchange. Readings:
   7:16). Talmudic Aramaic *arsa* can also mean a coffin (Kesubos 103a), which,
   as Rabbi Klein observes, in certain ways sits well with Malbim's reading,
   though *mitah* too is used that way.
-- Dr. Richard C. Steiner ("The Case for Fricative-Laterals in Proto-Semitic,"
-  American Oriental Series 59, 1977, pp. 130 ff.) explains the lamed of *arsal*,
-  from *eres*, by positing that sin was once pronounced with something like an
-  *l* sound, or was at least heard that way by the Greeks, hence the *sl* in
-  *arsala*.
 
 ### the mussar and kabbalistic readings
 - Rabbi Aviad Sar-Shalom Basilea (*Emunas Chachamim*) posits that *mitah* is

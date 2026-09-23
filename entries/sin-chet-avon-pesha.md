@@ -143,13 +143,13 @@ of wrongdoing.
   ע-ב-ר, which means "passes" in a physical sense, the idea being that a man
   morally passes over his own thoughts so as not to focus on the nefariousness
   of his deeds.
-- Rabbi Klein suggests that one who commits an *aveirah* has crossed a Rabbinic
-  red line, noting that the Gemara (Shabbos 40a) holds that even a person who
-  violates a Rabbinic prohibition can be called an *avaryan*.
 - Ibn Ezra (to Tehillim 78:59): *evrah*, anger, is from crossing, what provokes
   wrath having crossed the limit of forbearance. From this, Rabbi Eliyahu
   Benamozegh (*Eim LaMikra* to Devarim 3:26) explains *aveirah*, sin, as passing
   beyond the bounds the Torah sets.
+- Rabbi Klein suggests that one who commits an *aveirah* has crossed a Rabbinic
+  red line, noting that the Gemara (Shabbos 40a) holds that even a person who
+  violates a Rabbinic prohibition can be called an *avaryan*.
 
 ## How sharp are the categories?
 

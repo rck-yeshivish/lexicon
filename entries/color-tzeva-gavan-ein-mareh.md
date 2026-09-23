@@ -126,6 +126,13 @@ the hair black (*Avodah Zarah* 12:10), the coloring of *tzitzis* (*Tzitzis*
 *Metamei Mishkav U'Moshav* 4:11), and *shemittah* fruit used for dyeing
 (*Shemittah* 5:1).
 
+Gershom Scholem ("Colours and Their Symbolism in Jewish Tradition and
+Mysticism," pp. 85-86) doubts that Tanach has a general concept of colour at
+all: *tzeva*, the word later Rabbinic literature uses, appears only in the Song
+of Devorah (Shoftim 5:30) and may mean a many-coloured garment; where a word for
+colour is expected, Tanach instead says *ayin*, eye, in the sense of appearance,
+that something looks like a given colour.
+
 In Aramaic the same root means immersing or soaking (Daniel 4:12, 4:20, 4:22,
 4:30, 5:21; Targum to Vayikra 4:6, 11:25, 15:17). Rabbi Yehoshua Steinberg: the
 core is still dyeing, and since dyeing is done by soaking the material in a
@@ -153,12 +160,6 @@ its color until it is inseparable from it.
 - Rabbi Shmuel Yehudah Steiger (*Avnei Shayish*) reads the two-letter string צ-ב
   throughout as binding and gathering: *tzava* (an army gathered), *tzover*
   (collecting), *tzibbur* (a public), and here the colorant bound to the cloth.
-- Gershom Scholem ("Colours and Their Symbolism in Jewish Tradition and
-  Mysticism," pp. 85-86) doubts that Tanach has a general concept of colour at
-  all: *tzeva*, the word later Rabbinic literature uses, appears only in the
-  Song of Devorah (Shoftim 5:30) and may mean a many-coloured garment; where a
-  word for colour is expected, Tanach instead says *ayin*, eye, in the sense of
-  appearance, that something looks like a given colour.
 
 ### ein (עין)
 The construct of *ayin*, eye. In many cases it names the picture the eye holds,

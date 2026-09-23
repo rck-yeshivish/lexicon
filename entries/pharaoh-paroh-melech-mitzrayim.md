@@ -66,14 +66,14 @@ point.
   remains unable to confirm this, and that it is virtually a historical fact
   that the Egyptians spoke Egyptian, not Latin.
 - Academia tends to explain that Paroh means "the great house."
-- Chasam Sofer (beginning of Bo, explaining a saying of Rabbi Shimshon of
-  Ostropoli): Hashem turned the letters of Paroh's name, peh to beis and ayin to
-  aleph, making it *arbeh* for the plague of locusts.
 - Shadal (to Bereishis 12:15): *Paroh* is *phi*, the, plus *uro*, king, or is
   related to Re, the sun god.
 - Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 12:15): *Paroh* is also
   the name of an Egyptian god, Phre, which explains why Paroh is named twice in
   Yirmiyahu 46:25, once the king and once the deity.
+- Chasam Sofer (beginning of Bo, explaining a saying of Rabbi Shimshon of
+  Ostropoli): Hashem turned the letters of Paroh's name, peh to beis and ayin to
+  aleph, making it *arbeh* for the plague of locusts.
 
 ### Melech Mitzrayim (מלך מצרים)
 The King of Egypt, the office as the nation's head. It appears close to fifty

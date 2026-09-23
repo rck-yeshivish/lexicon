@@ -116,6 +116,12 @@ Root ע-ת.
   preparation and designation, as the *ish itti* of Vayikra 16:21 is the man
   designated to send the goat to Azazel. *Atid*, "future," is derived from *eit*
   and is also a form of a verb meaning "to prepare."
+- Rabbi Shlomo Pappenheim (*Cheshek Shlomo* s.v. עת): *zman* is the quantity of
+  time, how long a thing lasts (explained under the root זם); *moed* is one
+  thing's being at the time of another, from *va'ad*, and answers when (under
+  עד); *eis* is the sequence of time, one thing after another, and also answers
+  when. As *atah*, you, the one present, comes from *es*, the sign of the
+  object, so *atah*, now, the present time, comes from *eis*.
 - Others: *zman* is a span, *eit* a point within it.
 - Wertheimer: *eit* is somewhat more specific than *zman*, less so than *moed*.
 - Rav Hirsch: *eit* is a portion of time, related to *eeteit* or *ettim*, a
@@ -124,12 +130,6 @@ Root ע-ת.
   takes issue with the Rama's assertion that *eit* means the seasons of the
   year, citing examples in which *eit* refers to other (natural) phenomena as
   well.
-- Rabbi Shlomo Pappenheim (*Cheshek Shlomo* s.v. עת): *zman* is the quantity of
-  time, how long a thing lasts (explained under the root זם); *moed* is one
-  thing's being at the time of another, from *va'ad*, and answers when (under
-  עד); *eis* is the sequence of time, one thing after another, and also answers
-  when. As *atah*, you, the one present, comes from *es*, the sign of the
-  object, so *atah*, now, the present time, comes from *eis*.
 
 ### moed (מועד)
 Root י-ע-ד, "appoint."

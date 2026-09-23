@@ -112,12 +112,12 @@ first plague, and that is what the meforshim are commenting on.
 - Rashi (to Shemos 7:11) connects the magical sense to the *lahat hacherev
   hamis'hapeches* of Bereishis 3:24: the ever-turning sword looks to an onlooker
   as though something had been said over it.
-- Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) works from the biliteral ט-ל,
-  "folding": a blade or flame seems to fold through what it cuts or burns, and
-  *lahat* was borrowed for the fast folding motion of a conjuror's hands.
 - *Chemdas HaChemdah* (to Shemos 7:11): *lahat* is speed, as in *lahat hacherev
   hamis'hapeches*, sorcery done by quick deception of the eye; *lateihem* is
   from *vayalet*, covering, the hidden devices sorcerers keep out of sight.
+- Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) works from the biliteral ט-ל,
+  "folding": a blade or flame seems to fold through what it cuts or burns, and
+  *lahat* was borrowed for the fast folding motion of a conjuror's hands.
 
 ### lat (לט)
 - Ramban derives it from the biliteral ל-ט, "clandestine" (Shmuel I 18:22),

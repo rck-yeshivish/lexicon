@@ -81,14 +81,14 @@ conception she is the recipient of what the male force bestows; after it, she
 becomes the influencer with respect to the child she carries, and in taking on
 the work of sustaining that child she is more a *har* than she has ever been.
 
-Dr. Chaim Tawil: the Aramaic *tur*, mountain, is related to *tzurim* (Bamidbar
-23:9), tzadi and tes interchanging.
-
 Ibn Ezra (to Tehillim 148:9): mountains are called *har* because, as a pregnant
 woman, *harah*, carries a child within, mountains hold resources such as metals
 within them (see Devarim 8:9; Iyov 28:2).
 
 Chazal liken *har* to *herayon*, pregnancy (*Bereishis Rabbah* 68:2).
+
+Dr. Chaim Tawil: the Aramaic *tur*, mountain, is related to *tzurim* (Bamidbar
+23:9), tzadi and tes interchanging.
 
 Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Devarim 12:2): *har* is also related
 to *horaah*, teaching, since a mountain is a landmark seen from afar that shows

@@ -177,6 +177,10 @@ Others read the active form as pointing at Moshe himself.
 - Rabbi Shlomo Zalman Ehrenreich similarly suggests the name reflects Moshe's
   power to draw the people after him, a magnetic personality, or his pulling
   Yisrael out of the impurities of Mitzrayim.
+- Kli Yakar (to Shemos 6:2), after Chazal: he was called *Moshe* and not
+  *Mashuy*, drawn from the water, because *Moshe* is the present tense, one who
+  draws, since he would draw Yisrael out of exile; had Moshe examined his own
+  name, he would have known that Yisrael would be redeemed through him.
 - *Peirush HaRokeach* (to Shemos 2:10): he was destined to pull the Jewish
   People out of the water at the Splitting of the Sea.
 - The Tosafists (*Moshav Zekanim* to Shemos 2:10): she prophesied his drawing
@@ -198,10 +202,6 @@ Two more go in a slightly different direction.
   his own life had depended on the saving act of the one who drew him out, so
   that he in turn would act to save others who are oppressed and extract them
   from their situations.
-- Kli Yakar (to Shemos 6:2), after Chazal: he was called *Moshe* and not
-  *Mashuy*, drawn from the water, because *Moshe* is the present tense, one who
-  draws, since he would draw Yisrael out of exile; had Moshe examined his own
-  name, he would have known that Yisrael would be redeemed through him.
 
 ## Rendering guidance
 

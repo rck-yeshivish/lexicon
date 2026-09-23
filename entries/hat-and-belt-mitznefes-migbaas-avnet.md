@@ -76,12 +76,12 @@ Root ג-ב-ע.
 - The Vilna Gaon: a *migbaas* comes pre-sewn, ready to put on.
 - Abarbanel connects the word to *givah*, a hill, because the hat carried two
   hill-like humps on top and tied under the chin.
-- Rambam has the ordinary *kohen*'s hat actually covering the head.
 - Rabbi Avigdor Miller: a hat means dignity. *Migbaas* is from *givah*, a hill,
   since it raises the head and makes a hill on top of it, and *pa'arei
   hamigbaos* speaks of the hat's beauty; *kova* is the same as *govah*, *givah*.
   So a hat makes a man taller, and wearing one shows dignity when speaking to
   Hashem.
+- Rambam has the ordinary *kohen*'s hat actually covering the head.
 
 ### mitznefes (מצנפת)
 Root צ-נ-ף.

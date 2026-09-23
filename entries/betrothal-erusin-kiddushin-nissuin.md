@@ -100,6 +100,10 @@ forbids her to all others as consecration forbids all men to benefit.
   they were the ones who instituted the two-step framework, while from the
   Torah's perspective that added holiness does not yet exist and betrothal is
   simply *erusin*, a word implying nothing about holiness.
+- Rabbi Immanuel Chai Ricci (*Hon Ashir*, introduction to *Kiddushin*): a man
+  becomes holy by marrying a woman, who saves him from sin, and since every
+  fence against forbidden relations is called *kedushah*, marriage is called
+  *kiddushin*.
 
 - Tosafos (to *Kiddushin* 2b) read *kiddushin* differently, from *kiddush* in
   the sense of preparing or designating (Shemos 19:10, Bamidbar 11:18);
@@ -129,11 +133,6 @@ husband. Rabbi Klein calls the proposal fascinating but hard to accept, since
 handing the bride over is the definition of *nissuin* (*Kesubos* 4:5), not of
 *kiddushin*; he allows, though, that the Rabbis may have adopted the Greek word
 and slightly modified its pronunciation and sense, as they often did with foreign words.
-
-Rabbi Immanuel Chai Ricci (*Hon Ashir*, introduction to *Kiddushin*): a man
-becomes holy by marrying a woman, who saves him from sin, and since every fence
-against forbidden relations is called *kedushah*, marriage is called
-*kiddushin*.
 
 ### nissuin (נישואין)
 The second stage, effected by chuppah, after which the couple live together.

@@ -141,6 +141,12 @@ that his descendants would remain there even after his death.
   an easterner, an *ezrach*, while one who leaves the confines of civilization
   and sojourns beyond the pale of settlement is branded a stranger or an
   occidental, in Hebrew a *ger* or a *zar*.
+- Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Shemos 12:49 and Vayikra 19:34):
+  *ezrach* in the Chumash is the Jewish inhabitant of Eretz Yisrael. He argues
+  at length against Rabbi Yitzchak Shmuel Reggio, for whom the *ezrach* is the
+  native Canaanite who lived in the land and joined Yisrael when they conquered
+  it. Rabbi Dr. Eliyahu Rachamim Zini, in his comments there, says *ezrach*
+  means a descendant of Eisan HaEzrachi, that is, Avraham.
 
 Rabbi Chelouche attempts to prove the point by noting that in Arabic *maghreb*
 means "west" and *ghurayb* means "stranger," assuming both are cognates of the
@@ -154,13 +160,6 @@ that *ger* is the opposite of *ezrach* and the opposite of *toshav*: a *ger*
 denotes a sojourner who is neither a full-fledged citizen of this particular
 land (*ezrach*) nor an alien resident (*toshav*), but is simply living here as
 one stop in his greater journey.
-
-Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Shemos 12:49 and Vayikra 19:34):
-*ezrach* in the Chumash is the Jewish inhabitant of Eretz Yisrael. He argues at
-length against Rabbi Yitzchak Shmuel Reggio, for whom the *ezrach* is the native
-Canaanite who lived in the land and joined Yisrael when they conquered it. Rabbi
-Dr. Eliyahu Rachamim Zini, in his comments there, says *ezrach* means a
-descendant of Eisan HaEzrachi, that is, Avraham.
 
 ### zar (זר)
 The plain stranger. Radak's father Rabbi Yosef Kimchi (in *Sefer Zikaron*) and

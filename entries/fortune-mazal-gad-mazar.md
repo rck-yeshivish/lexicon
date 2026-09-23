@@ -121,6 +121,9 @@ mountain" (Chullin 40a), and "the bed of the *gada*," a bed left unused in honor
 of the house's *mazal* (Nedarim 56a with the Ran and *Sefer HeAruch*).
 - *Shoresh Yesha* links *gad* to *haggadah*, "telling," on the pagan notion that
   the stars and constellations can tell a man his future.
+- Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 30:11): the ancients held
+  that the joining together of stars could bring good or catastrophe, and *gad*
+  is that grouping, a constellation acting on the world.
 - Rabbi Shlomo Pappenheim derives it from the biliteral ג-ד, "attaching" or
   "connecting," which also yields *agudah*/*egged*/*iggud*, *gid* (the sinew
   holding the body's parts together), *gedud* (a squad of soldiers joined
@@ -145,10 +148,6 @@ also addresses the contradictory senses.
 but Rabbi Yehudah Aryeh of Carpentras (*Ohalei Yehudah*) suggests that *gadish*
 is really *gad* ("luck," *mazal*) plus *yesh* ("there is"), an allusion to the
 source of overflowing abundance.
-
-Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 30:11): the ancients held
-that the joining together of stars could bring good or catastrophe, and *gad* is
-that grouping, a constellation acting on the world.
 
 ### mazar (מזר)
 The single occurrence is Hashem's rebuke to Iyov (38:32).

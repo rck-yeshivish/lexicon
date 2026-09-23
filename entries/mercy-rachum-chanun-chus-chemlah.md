@@ -99,6 +99,10 @@ Hashem, these are presented as such.
   flow is measured by what he deserves. Tradition ties the four-letter Name to
   *rachamim* and *Elokim* to *din*, and in the shofar the one straight, steady
   *tekiah* represents *rachamim*, against the broken *teruah* of *din*.
+- Rabbi Moshe de Leon: *chesed* is unmixed kindness, and *rachamim* a mixture of
+  *chesed* and *din*. Under *rachamim* Hashem uses *din* to find the sinner
+  guilty, then tempers the punishment with *chesed*; other kabbalistic sources
+  call that mixture *tiferes*.
 - Rav Hirsch (to Shemos 13:2) defines the primary sense of ר-ח-ם as motherly
   protection, joining *rechem*, where a mother protects her unborn child, to
   *rachamim*, the dominant trait of a protective mother. Rabbi Yitzchak Avineri
@@ -111,10 +115,6 @@ Hashem, these are presented as such.
   punishment until he can do full *teshuvah* and erase the sin. The letters of
   *rechem* also spell *machar*, tomorrow: Hashem's mercy lets the sinner see
   tomorrow.
-- Rabbi Moshe de Leon: *chesed* is unmixed kindness, and *rachamim* a mixture of
-  *chesed* and *din*. Under *rachamim* Hashem uses *din* to find the sinner
-  guilty, then tempers the punishment with *chesed*; other kabbalistic sources
-  call that mixture *tiferes*.
 - Rabbeinu Efrayim ben Shimshon (to Bereishis 29:31): a husband has *rachamim*
   on his wife when her *rechem* is opened, and because from there comes a child
   of 248, *ramach*, limbs.

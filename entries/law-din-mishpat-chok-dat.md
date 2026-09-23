@@ -104,6 +104,8 @@ is why the word is so often joined to "forever" (Shemos 12:14, 30:21; Vayikra
   lasts only while the reason holds; obedience out of commitment to Hashem's
   will is unconditional and so more engraved in the person, and the Mishnah's
   love that depends on nothing and is never lost (Avos 5:16) is the parallel.
+- Rabbi Shlomo Astruc (to Shemos 15:26): a *chok* is so called because it
+  engraves on the soul a picture of how Hashem's commands are to be carried out.
 - Rav Hirsch (to Tehillim 119:5): kuf interchanges with gimmel, so *chok* is kin
   to *chag*, at root a circle, and a *chok* encircles us with mitzvos and
   further chances to develop ourselves. The basis for that connection is a
@@ -111,6 +113,9 @@ is why the word is so often joined to "forever" (Shemos 12:14, 30:21; Vayikra
   and *mishpatim* to Yisrael" (Tehillim 147:19), which reads it of the yamim
   tovim, since the *chagim* are elsewhere called a *chok* (Tehillim 81:4-5) and
   their dates turn on the calendrical rulings of the court.
+- Shadal (to Bereishis 26:5): *chok* is related to *chag*, a circle: a statute
+  fixes a law to which nothing may be added or taken away, as a circle marks
+  exact bounds.
 
 It might seem from all this that *chukim* outrank *mishpatim* and accomplish
 more. Rabbi Yisrael Salanter points out that in practice the reverse is
@@ -119,13 +124,6 @@ keeping the mitzvos whose reasons are not revealed trains a man's intellect to
 grasp the reasons behind the *mishpatim* and to keep those too. He describes
 *chukim* as rungs on a ladder leading to the fulfillment of *mishpatim*, the
 pinnacle of moral perfection.
-
-Shadal (to Bereishis 26:5): *chok* is related to *chag*, a circle: a statute
-fixes a law to which nothing may be added or taken away, as a circle marks exact
-bounds.
-
-Rabbi Shlomo Astruc (to Shemos 15:26): a *chok* is so called because it engraves
-on the soul a picture of how Hashem's commands are to be carried out.
 
 ### mishpat (משפט)
 Root ש-פ-ט, "judge."

@@ -228,6 +228,11 @@ says frankly he is not sure he understands. He relates *katzin* (officer) to
 thing will bring about the end of his life), *ketzitzah*, *kayitz*, *yekitzah*
 and *kotz*; the full family is set out in [waking](waking-yekitzah-oorah.html).
 
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 47:2): *katzin* comes from
+*katzeh*, because the *katzin* is the visible face of an armed force, and so
+*pa'asei Moav*. He suggests that *keren* as something important (for example
+Eichah 2:3) comes from the same idea.
+
 *Paam* is a further biblical word for corner, which Onkelos likewise renders
 *zavit* (Shemos 25:12); it is set out in [foot](foot-paam-regel.html).
 
@@ -244,11 +249,6 @@ literally "head of an ox" in Aramaic. Shadal (to Shemos 25:31) explains that it
 is not a generic word for corner but a corner whose angle intersects with
 another line, a shape said to look like the head of an ox; it also resembles the
 letter aleph, since *aleph* literally means "ox."
-
-Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 47:2): *katzin* comes from
-*katzeh*, because the *katzin* is the visible face of an armed force, and so
-*pa'asei Moav*. He suggests that *keren* as something important (for example
-Eichah 2:3) comes from the same idea.
 
 ## Rendering guidance
 

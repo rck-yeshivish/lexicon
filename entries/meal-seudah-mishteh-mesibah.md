@@ -63,6 +63,10 @@ Hashem." So a *seudah* is named for what the festive meal does for the body.
 ### mishteh (משתה)
 The word and its derivatives appear close to fifty times in Tanach, from the
 verb *shoseh*, to drink.
+
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 26:14): *mishteh*, from
+drinking, has a parallel in Greek *symposion*, likewise from drinking: *syn*,
+together, and *potes*, drinking.
 - Rabbi Tzaddok HaKohen of Lublin (1823 to 1900): *seudah* and *mishteh* are
   both festive meals, but the first centers on eating and the second on
   drinking, which is why *seudah* is generally associated with bread and the
@@ -70,18 +74,15 @@ verb *shoseh*, to drink.
   commemorates the wine banquets of Megillas Esther.
 - Rashi (to Shir HaShirim 1:2, Koheles 2:3 and Esther 5:4), however, writes that
   the defining element of an enjoyable, joyous *seudah* is the wine.
+- Shadal (to Bereishis 19:3): a *mishteh* is a light evening meal whose main
+  course was wine, against the heavier afternoon meal called *seudah* or
+  *lechem*.
 - Rabbi Levi Yitzchok of Berditchev (1740-1810, *Kedushas Levi*, Parshas
   Vayeira) reads *mishteh* as a meal of gladness, and on that basis explains
   that the party to which Esther invited Haman and Achashverosh is called a
   *mishteh* because it brought gladness to the Jews: through it Esther persuaded
   Achashverosh to execute Haman and rescind the decree, a victory that has
   brought gladness for generations and is celebrated each year on Purim.
-- Shadal (to Bereishis 19:3): a *mishteh* is a light evening meal whose main
-  course was wine, against the heavier afternoon meal called *seudah* or
-  *lechem*.
-- Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 26:14): *mishteh*, from
-  drinking, has a parallel in Greek *symposion*, likewise from drinking: *syn*,
-  together, and *potes*, drinking.
 
 ### mesibah (מסיבה)
 Arguably once in Tanach (Rashbam to Shir HaShirim 1:12).

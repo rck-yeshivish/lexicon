@@ -98,6 +98,13 @@ spoke about forty years later, describes the men's actions with other words:
   investigating retrieves information otherwise hidden from view.
 - Rabbi Klein adds that perhaps *leragel* derives from *regel*, the foot, the
   body's lowest part, and so fits a search for a place's lowest features.
+- Rav Hirsch (to Vayikra 19:16): the *meragel* is named for the foot because
+  each step he takes counts in itself, all serving his aim of knowing the land
+  and what goes on in it, as against plain *halichah*, walking, which is only a
+  means of getting from one place to another.
+- Shadal (to Shemos 15:11) once held that *regel*, spying, comes from *ra gilah*
+  and *tur* from *asa ra'ah*, but retracted both, having found compound roots
+  less common in Hebrew than he had thought.
 
 The noun *meraglim* never describes Moshe's men in Tanach; it is drawn from the
 Devarim verb. It does appear when Yosef, as viceroy, accuses his brothers of
@@ -110,13 +117,6 @@ enemy's weaknesses.
   Pinchas.
 - Pseudo-Philo identifies them as Kenaz and Seenamias, the sons of Kalev;
   another Midrash says they were Peretz and Zerach, Yehudah's twin sons.
-- Shadal (to Shemos 15:11) once held that *regel*, spying, comes from *ra gilah*
-  and *tur* from *asa ra'ah*, but retracted both, having found compound roots
-  less common in Hebrew than he had thought.
-- Rav Hirsch (to Vayikra 19:16): the *meragel* is named for the foot because
-  each step he takes counts in itself, all serving his aim of knowing the land
-  and what goes on in it, as against plain *halichah*, walking, which is only a
-  means of getting from one place to another.
 
 ## Rendering guidance
 

@@ -193,6 +193,9 @@ Afghanistan), cognate with Arabic *bustaan*. The Turkish *bostanji*, the
 Sultan's palace guards in the Ottoman Empire, comes from the same word and
 literally means "gardener."
 
+Rashi (to *Bava Metzia* 39b): a *pardes* is a vineyard and a *bustan* an
+orchard.
+
 It served as a personal name too. Bustanai was Reish Galusa in seventh-century
 Bavel, and the legend is that the Persian king had killed off the male Davidic
 line but was shown in a dream a beautiful garden he was destroying, and an old
@@ -209,9 +212,6 @@ or pasture, which seems to sit closer to *botamia* (pastures), *boton* (grazing
 beast) and *boter* (herdsman); it has even been suggested that the *bo-* there
 belongs with Greek *bous* and Latin *bos*, cow, which would make *botanical* kin
 to *bovine* and nothing to do with the sweet-smelling *bustan*.
-
-Rashi (to *Bava Metzia* 39b): a *pardes* is a vineyard and a *bustan* an
-orchard.
 
 ## Rendering guidance
 

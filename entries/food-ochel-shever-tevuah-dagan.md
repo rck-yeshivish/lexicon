@@ -126,15 +126,16 @@ and rye), and only once
 they have been ripened, reaped, and heaped into a smooth pile (see Rashi to
 *Berachos* 47b).
 
+*Dagan* is the fruit of the threshing floor: in the ear the grain is called
+*tevuah*, and once threshed and winnowed, *dagan* (*Seder Berachos*, at the
+beginning).
+
 - Pappenheim traces *dagan* to the biliteral ד-ג, fecundity and quantitative
   increase, the root of *dag*, fish: grains are an especially fertile plant,
   since one seed can beget grains with many more seeds, just as one fish can
   father many more little fish.
 - Menachem Ibn Saruk, Ibn Janach and Radak all see *dagan* as deriving from its
   own triliteral root, ד-ג-ן.
-- *Dagan* is the fruit of the threshing floor: in the ear the grain is called
-  *tevuah*, and once threshed and winnowed, *dagan* (*Seder Berachos*, at the
-  beginning).
 
 ### bar (בר)
 - Pappenheim: the biliteral ב-ר is separating and excluding, which gives *bar*

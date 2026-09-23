@@ -109,15 +109,13 @@ penalties. (By Torah tradition the *lo tignov* of the Aseres HaDibros, Shemos
 - Similarly, Rav Hirsch (to Shemos 23:19): *gozel*, a fledgling, is cognate with
   *gezel*, because taking the bird from the nest severs its bond with its mother
   as theft severs the bond between an object and its owner.
+- Rabbi Moshe Ibn Ezra (*Shiras Yisrael*, ed. Halper, Leipzig 1924, p. 130):
+  *oshek* and *gezel* are the same thing.
+- Shadal (to Vayikra 19:13): *oshek* is withholding what one owes another, and
+  is related to *ikesh*, stubborn.
 
 Mnemonic, from Rabbi Reuven Chaim Klein's fifth-grade rebbi, Rabbi A. Y. Berman: the *gaNav*
 steals at **N**ight, when nobody is looking, the *gazLan* in the **L**ight.
-
-Rabbi Moshe Ibn Ezra (*Shiras Yisrael*, ed. Halper, Leipzig 1924, p. 130):
-*oshek* and *gezel* are the same thing.
-
-Shadal (to Vayikra 19:13): *oshek* is withholding what one owes another, and is
-related to *ikesh*, stubborn.
 
 ### chamas (חמס)
 *Chamas* also appears in Tanach in the sense of theft: the generation of the

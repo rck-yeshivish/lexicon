@@ -94,6 +94,8 @@ In Mishnaic Hebrew the shreds of foreskin left after a milah are *tzitzin*
   instinct to provide nourishment), so that *tzitz* is what protrudes from a
   surface and becomes visible to all; he notes this is close to the "growth"
   sense, a plant flourishing outward from its seed.
+- Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bamidbar 15:38) connects *tzitz*,
+  *tzitzis* and *tze'etza'im*.
 
 A prominent nobleman of Yerushalayim in the generation before the Churban was
 called Ben Tzitzis (Bereishis Rabbah 42:1, Pirkei DeRabbi Eliezer ch. 3, Avos
@@ -106,9 +108,6 @@ red carpet so the strings would not drag on the floor.)
 Rabbeinu Bachaya (*Kad HaKemach* s.v. tzitzis, and to Bamidbar 15:38) draws the
 mussar from the "peeking" sense: the wearer should be mindful that Hashem sees
 him.
-
-Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bamidbar 15:38) connects *tzitz*,
-*tzitzis* and *tze'etza'im*.
 
 ### gedilim (גדילים)
 Appears once for the mitzvah, "you shall make yourself *gedilim* on the four

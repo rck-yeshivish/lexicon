@@ -128,9 +128,9 @@ Hebrew Language* calls of uncertain etymology.
 - Mecklenburg: qualitatively the stronger, it can erase part of the sin outright
   even if not all of it.
 - Wertheimer: immediate and complete forgiveness.
-- Rav Hirsch: commuting the punishment the guilty party deserves.
 - Rabbi Dosa the Greek (to Devarim 9:18): *selichah* defers the debt, *mechilah*
   forgives it at once.
+- Rav Hirsch: commuting the punishment the guilty party deserves.
 - Rabbi Zev Hoberman (*Ze'ev Yitraf*, Yom Kippur ch. 55): *selichah* erases a
   misdeed and also restores the love that existed before it, while
   *mechilah* only erases the misdeed and waives the grievance, leaving the

@@ -107,6 +107,8 @@ Yisrael through Torah and mitzvos, since she bore Moshe (*Sifrei Behaaloscha* 78
   of many parts into one order, against *yofi*, the outward beauty others
   perceive; and with that inwardness he implies it makes sense that *shofar*
   should point to the inside of the tube.
+- *Ohalei Yehudah*: *shofar* is *tzavar*, tzadi and shin, peh and beis
+  interchanging, because the shofar gathers the people together.
 - Ritva notes that *shofar* implies something beautiful and copacetic.
 
 Linguists offer another origin altogether: Avraham
@@ -115,9 +117,6 @@ cognate with the Akkadian *shapparu*, "wild sheep," which in turn seems related
 to the late Biblical *tzfir* (Daniel 8:5, 8:8, 8:21; Ezra 8:35; Divrei HaYamim II
 29:21) by the shin/tzadi interchange, and perhaps to the earlier *se'ir*, if peh
 and ayin may interchange.
-
-*Ohalei Yehudah*: *shofar* is *tzavar*, tzadi and shin, peh and beis
-interchanging, because the shofar gathers the people together.
 
 ### keren (קרן)
 Menachem Ibn Saruk, Ibn Janach, and Radak: root ק-ר-ן, both an animal's horn

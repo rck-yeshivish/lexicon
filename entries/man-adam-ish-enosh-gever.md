@@ -79,13 +79,13 @@ The all-encompassing word: singular and plural, male and female (Bereishis
 - Rabbi Yaakov Tzvi Mecklenburg: the *adamah* link marks man's pull toward the
   material, so *adam* names the great distance he can travel toward the
   spiritual.
-- The Zohar (Tazria 48a): *adam* is man at his highest potential.
 - Shadal (to Bereishis 1:26): *adam* is from *adom*, red, because man's reddish
   skin is left bare where other creatures are covered in hair or fur.
 - Rabbi Yitzchak ben Yosef of Pira, a student of the Rashba (to Bereishis 3:20):
   the name *Adam* alludes to the four elements. The aleph is *avir*, air; the
   dalet is *dam*, blood, which boils like fire; the mem is *mayim*, water; and
   the whole word is *adamah*, earth.
+- The Zohar (Tazria 48a): *adam* is man at his highest potential.
 
 ### enosh (אנוש)
 Usually man in degradation (Yeshayahu 51:12), lost hope (Iyov 14:19), or the

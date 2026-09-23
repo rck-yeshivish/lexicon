@@ -144,14 +144,13 @@ Achashverosh what was needed to save her nation.
 - Rav Hirsch (to Tehillim 28:1): the stillness of a man asked to speak or act
   who instead ignores the request, acting as though he were deaf and had not
   heard it.
+- Shadal (to Bereishis 34:5) takes *cheresh* as quietly, in secret.
 
 In some places the word attaches especially to evildoers (Mishlei 3:29 and Iyov
 4:8, with Rashi). A cognate appears at Shemos 14:14, "Hashem will fight for you,
 and you will be silent" (*tacharishun*), meaning that Hashem will take care of
 the Egyptian army while Yisrael sit silently on the sidelines contemplating how
 He wages war on their behalf.
-
-Shadal (to Bereishis 34:5) takes *cheresh* as quietly, in secret.
 
 ### shetikah (שתיקה)
 Bedersi: the silence that comes after a commotion has been quelled. The root

@@ -129,17 +129,15 @@ Root ח-פ-ץ.
   final goal or ultimate will, what he really wants deep down, while *chefetz* is
   his more tangible, immediate goal. This is why tangible items are called
   *chafetzim* in Mishnaic Hebrew (see Rashi to Koheles 3:1).
+- HaKsav VeHaKabbalah (to Devarim 21:12): *cheshek* is a desire without logic.
+- *Ohel Yaakov* of the Dubno Maggid (to Bereishis 34:19): *cheshek* is a
+  utilitarian desire, wanting a thing for the gain one sees in it, while
+  *chefetz* is wanting it for no quality in the thing but from a strong inner
+  pull without reason; this explains why the Torah moves from *cheshek* to
+  *chefetz* in Shechem's desire for Dinah. Rabbi Wertheimer (s.v. חשק, חפץ,
+  רצון) says others hold the opposite.
 
 The full treatment is in the *ratzon* / *chefetz* entry.
-
-HaKsav VeHaKabbalah (to Devarim 21:12): *cheshek* is a desire without logic.
-
-*Ohel Yaakov* of the Dubno Maggid (to Bereishis 34:19): *cheshek* is a
-utilitarian desire, wanting a thing for the gain one sees in it, while *chefetz*
-is wanting it for no quality in the thing but from a strong inner pull without
-reason; this explains why the Torah moves from *cheshek* to *chefetz* in
-Shechem's desire for Dinah. Rabbi Wertheimer (s.v. חשק, חפץ, רצון) says others
-hold the opposite.
 
 ## Rendering guidance
 

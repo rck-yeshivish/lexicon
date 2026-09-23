@@ -70,6 +70,9 @@ interchangeable in some contexts.
   an oversimplification, since although both are formed by a violent destructive
   process they are not the same thing, *eifer* being produced by burning and
   *avak* by pulverizing.
+- *Afar* is soil that can make things grow (Bartenura to *Bava Basra* 7:1).
+- Rabbeinu Efrayim ben Shimshon (to Bereishis 18:27): *afar* is cold and wet,
+  *eifer* hot and dry.
 - Rabbi Moshe Shapiro draws the lesson of Bamidbar 19:17, where the Torah calls
   the ashes of the Parah Adumah *afar*: what looks like the residue of
   destruction can sometimes become the seed of renewal, which is exactly the
@@ -82,9 +85,6 @@ interchangeable in some contexts.
   Mecklenburg, since *afar* is indispensable to growing *pri*; and Rabbi Aharon
   Marcus (*Barzilai*), who traces both *afar* and *eifer* to פ-ר, and elsewhere
   (*Keses HaSofer*) reads *afar* as a fusion of ע-ף, "flying," with פ-ר.
-- Rabbeinu Efrayim ben Shimshon (to Bereishis 18:27): *afar* is cold and wet,
-  *eifer* hot and dry.
-- *Afar* is soil that can make things grow (Bartenura to *Bava Basra* 7:1).
 
 ### eifer (אפר)
 Ashes, the product of burning. Rabbi Pappenheim traces it to the biliteral פ-ר,

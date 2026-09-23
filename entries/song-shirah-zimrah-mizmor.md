@@ -128,6 +128,9 @@ Root ז-מ-ר, which in the verb *zomer* also means cutting down or pruning
   19:1): *zimrah* is cutting away the outer distractions that impede a man's
   avodah; and both he and the Chasam Sofer explain Pesukei DeZimrah as cutting
   down the *klipos* in preparation for complete rapture with Hashem.
+- *Noam Elimelech* (*Likutei Shoshanah* to Tehillim 68:5): *shirah* is feminine,
+  *nukva*, and *zimrah* masculine, *dechura*; in the future *shirah*, as *shir*,
+  will become masculine.
 - Pappenheim: *zomer*, cutting or pruning, is discarding the riffraff and
   leaving the best, so *zimrah* is the choicest segment of a song, as though the
   rest had been cut out.
@@ -145,9 +148,6 @@ Root ז-מ-ר, which in the verb *zomer* also means cutting down or pruning
   104:15) and glad people sing (*zemer*).
 - Rabbi Nachman of Breslov (1772-1810) reads it as a special *niggun* of Eretz
   Yisrael that Yaakov sent to the Egyptian ruler.
-- *Noam Elimelech* (*Likutei Shoshanah* to Tehillim 68:5): *shirah* is feminine,
-  *nukva*, and *zimrah* masculine, *dechura*; in the future *shirah*, as *shir*,
-  will become masculine.
 
 ### mizmor (מזמור)
 Root ז-מ-ר.

@@ -106,14 +106,14 @@ both *yeshuah* and *pidyon* with words of *purkan*.
   he puts *tzel*, a shadow, which appears to separate itself from a person,
   *tzli*, roasting, which uses heat to draw the moisture out of raw food, and
   *atzal*, bestowal, as when one blesses another.
+- Rashi (to Bereishis 31:16): *hitzil* means separating, and every *hatzalah* in
+  Mikra means separating a person from harm and from the enemy.
 - Rav Hirsch (to Shemos 3:22, Devarim 32:2): root נ-צ-ל, kin to נ-ש-ל (remove)
   and נ-ז-ל (flow away), so saving someone by removing him from the hazard and
   separating him from what endangers him.
 - Radak connects the "saving" and "removing" senses of נ-צ-ל.
 - Ibn Janach fails to see a thematic connection between them and takes them for
   two different meanings carried by one root.
-- Rashi (to Bereishis 31:16): *hitzil* means separating, and every *hatzalah* in
-  Mikra means separating a person from harm and from the enemy.
 
 ### purkan (פורקן)
 The Targum's standard Aramaic for *pidyon*: redemption, Hashem buying us back

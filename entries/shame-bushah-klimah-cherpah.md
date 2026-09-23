@@ -144,6 +144,8 @@ Root ח-ר-ף / ח-פ-ר.
   that nobody sees him, again as the result of being shamed by another.
 - Malbim: *chafrah* is the most intense, burying one's head out of sheer shame;
   he also separates internal *charfah* from external *cherpah*.
+- The Vilna Gaon (to Mishlei 19:26): *bushah* is in private, *chafurah* in
+  public.
 - Bedersi reads *cherpah* as closer to disparagement than to shame (see Rabbi
   Klein's separate essay "Disgraceful Disparagement," November 2021).
 - Chelouche takes *cherpah* as more intense than *bushah* and *klimah*: the
@@ -161,8 +163,6 @@ Shapira-Frankfurter does not himself address *cherpah*/*chafrah*. Rabbi Klein
 offers his own conjecture: that the root ח-פ-ר may be related to ח-ו-ר
 (*chivar*, "white") through the interchange of peh and vav, since shame whitens
 the face, so that *cherpah* would be no more than a metathesized *chafrah*.
-
-The Vilna Gaon (to Mishlei 19:26): *bushah* is in private, *chafurah* in public.
 
 ### The Aramaic
 Targum typically renders *bushah* as *bahat* and *klimah* as *kissuf*; hence the

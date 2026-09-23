@@ -108,11 +108,11 @@ From *bad*, alone, as in *levad* and *hisbodedus*.
 Zevachim 18b establishes that *bahd* is linen; on the Steipler's account this is
 needed precisely because the word by itself only says "alone."
 
-Rabbi Yosef Karo (*Maggid Meisharim*, Vayakhel): *bad* is six in gematria, and
-*sheish* also means six.
-
 Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Vayikra 16:4): *bad* must be linen,
 since the Kohen Gadol wears garments of *bad*, as Egyptian priests wore linen.
+
+Rabbi Yosef Karo (*Maggid Meisharim*, Vayakhel): *bad* is six in gematria, and
+*sheish* also means six.
 
 ### butz (בוץ) and kitna (כיתנא)
 *Butz* is the later Hebrew and Aramaic word for fine linen; the Latin *byssus*,
@@ -127,12 +127,12 @@ Tzari* to Vayikra 16:4) separates the two Aramaic words as Pappenheim separated
 the Hebrew: *kitna* is flax unprocessed and still in the ground, *butz* is linen
 already worked.
 
+Avi Hurvitz: *butz* is later than *sheish* and *bad*.
+
 Rabbi Shlomo Pappenheim, who traces *botz*, mud, and *bitzah*, marsh, to the
 biliteral ב-ץ, a fluid of mucus-like consistency, also asserts that *butz*
 (Esther 1:6, 8:15; Yechezkel 27:16) refers specifically to a type of flax or
 linen that grows in watery soil like that of a *bitzah*.
-
-Avi Hurvitz: *butz* is later than *sheish* and *bad*.
 
 ### cotton (כותנה, צמר גפן)
 Not a Biblical category. Cotton simply did not exist in the ancient Near East,
@@ -158,6 +158,8 @@ be quite similar to the German *baumwolle*, "tree-wool"; Rambam, in his
 commentary to Mishnah Kilayim 7:2, correctly renders *tzemer gefen* into Arabic
 as *al-qoton*.
 
+Rashi (to *Niddah* 17a): *milla parhava* is cotton.
+
 Is the Modern Hebrew *kotna* then derived from the Semitic *kitna*, "linen"?
 Professor Kutscher answers no, resoundingly. He points to the English *cotton*,
 Italian *cotone*, Spanish *algodon* and French *coton*, all of them from the
@@ -172,8 +174,6 @@ tes, the others with kaf and tav. Rashi indeed spells the French *coton* with ku
 and tes (Berachos 28b, Shabbos 21a, Shabbos 110b, Niddah 17a). Linguists
 take the Aramaic *pekolin*, "cotton tufts," to be borrowed from the Greek
 *phakelos*, "bundle" or "fascicle." Cotton, then, is not a type of linen.
-
-Rashi (to *Niddah* 17a): *milla parhava* is cotton.
 
 ## Rendering guidance
 

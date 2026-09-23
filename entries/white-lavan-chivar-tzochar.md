@@ -205,15 +205,15 @@ and hei, which matches *zerach*, shining. Rabbi Reuven Chaim Klein adds, as his 
 suggestion with no source he has seen, that this Tzochar may have been named
 for his great-grandfather Lavan, both names meaning white.
 
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 32:25) connects *shachar*
+with *tzachar*, shin and tzadi interchanging.
+
 Another approach relates *tzachar* to red. David J. A. Clines' *A Dictionary of
 Classical Hebrew* defines it as "reddish-grey colour"; Rabbi Ernest Klein writes
 that the root צ-ח-ר is related to its Arabic cognate *asharu*, "yellowish-reddish
 land," the etymon of the name Sahara; a version of Rashi to Berachos 31b, as
 printed in the Vilna Shas, says *tzachor* means "red"; and Marcus Jastrow's
 dictionary defines *tzachor* as "glistening" and "light reddish."
-
-Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 32:25) connects *shachar*
-with *tzachar*, shin and tzadi interchanging.
 
 ### chelbon (חלבון) and chalav (חלב)
 Yaakov's blessing to Yehudah speaks of whiteness of teeth from *chalav* (Bereishis

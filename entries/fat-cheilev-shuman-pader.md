@@ -76,6 +76,15 @@ the *tamid* is an olah, every limb is burned, and Rashi explains that they are
 all called *cheilev* because they share *cheilev*'s law, burned on the mizbeach
 and forbidden to eat (see Tosafos there and the standard text of the Mishnah).
 
+The fats are called *eimurim* because they are the parts of the animal *amurim*,
+said in the Torah, to be burnt on the Mizbeach (Tosafos Yom Tov, after the
+Rambam's introduction to *Seder Kodashim*: "these are called *eimurim*, meaning
+the things He commanded to burn").
+
+*Sefer Aruch* (s.v. מר): the fats are called *eimurim* because they are lords,
+*morim*, over all the limbs, and they go up on the Mizbeach as the portion of
+the Lord of the world.
+
 The root ches-lamed-beis also gives *chalav*, milk, which appears close to fifty
 times in Tanach by Even Shoshan's concordance.
 - Rabbi Shlomo Pappenheim (*Cheshek Shlomo*): *cheilev* is from *chalav* because
@@ -86,13 +95,6 @@ times in Tanach by Even Shoshan's concordance.
   from its place or reused for a different purpose: milk is the nourishment
   separated out of the mother's body to sustain another, and *cheilev* is the
   energy the body stores aside for future use rather than present need.
-- The fats are called *eimurim* because they are the parts of the animal
-  *amurim*, said in the Torah, to be burnt on the Mizbeach (Tosafos Yom Tov,
-  after the Rambam's introduction to *Seder Kodashim*: "these are called
-  *eimurim*, meaning the things He commanded to burn").
-- *Sefer Aruch* (s.v. מר): the fats are called *eimurim* because they are lords,
-  *morim*, over all the limbs, and they go up on the Mizbeach as the portion of
-  the Lord of the world.
 - Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bamidbar 18:17): Assyrian
   *tahlubti*, a covering or garment, is a cognate of *cheilev*, the fatty
   membrane that covers certain organs.

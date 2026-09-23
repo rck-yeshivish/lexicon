@@ -69,6 +69,8 @@ Root ד-ב-ר.
   (Bereishis 34:3) was intense but not necessarily harsh, since otherwise she
   presumably would not have acceded; and Rashi himself (to Vayikra 10:19) reads
   *dibbur* as boldness, not necessarily harshness.
+- HaKsav VeHaKabbalah (to Devarim 4:13): *dibbur* is the general term for
+  speech, which takes in all the others.
 - *Yadber* (Tehillim 47:4), a rare form, means a kind of leadership, and one
   might be tempted to hear strong, forceful terms in it, but the Gemara
   (*Makkos* 11a) separates the two: *dibbur* connotes harshness and *yadber*
@@ -105,14 +107,14 @@ Root ד-ב-ר.
 - Rabbi Yitzchak bar Yakar (on the Yom Kippur prayer *umah nesaper lefanecha
   shochen shechakim*): *sippur* is the kind of saying that implies the most
   knowledge on the speaker's part.
-- HaKsav VeHaKabbalah (to Devarim 4:13): *dibbur* is the general term for
-  speech, which takes in all the others.
 
 ### amirah (אמירה)
 Root א-מ-ר.
 - Rashi (to Shemos 19:3): "so shall you *say* (*tomar*) to the House of Yaakov,"
   the women, gently, since Moshe was to broach the idea of receiving the Torah
   with them in a gentle manner.
+- Kedushas Levi (to Bereishis 21:1): *amirah* is more intimate and quiet,
+  *dibbur* out in the open.
 - Rabbi Pappenheim: *amirah* is speaking in order to convey a certain message
   that must have a particular meaning; he also derives it from the two-letter
   root מ-ר, "switching" or "exchanging," which fits, since *amirah* is the
@@ -139,8 +141,6 @@ Root א-מ-ר.
   (*bidvar Hashem shamayim naasu*, Tehillim 33:6) and the earth with *amirah*
   (*ki lasheleg yomar hevei aretz*, Iyov 37:6), since Hashem created the earth
   from snow (see *Pirkei DeRabbi Eliezer* ch. 3).
-- Kedushas Levi (to Bereishis 21:1): *amirah* is more intimate and quiet,
-  *dibbur* out in the open.
 
 ### maamar (מאמר) against dibrah (דיברה)
 Why *Asarah Maamaros* for creation (*Avos* 5:1) and *Aseres HaDibros* at Sinai?

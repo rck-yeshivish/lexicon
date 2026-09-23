@@ -65,6 +65,8 @@ then, is the difference between an *even* and a *sela*?
 ### even (אבן)
 - Malbim: a stone formed by nature, set against *leveinah*, the brick a man
   makes by mixing mortar.
+- Shadal (to Bereishis 11:3): *levenah*, brick, comes from *even*, because it
+  was used for building in place of plain stones.
 - Rabbi Shlomo Pappenheim of Breslau (1740-1814): *even* is the umbrella term,
   the most general way of referring to a rock without being more specific, and
   *sela* and the rest fall under it; it sometimes appears in construct for
@@ -81,9 +83,6 @@ then, is the difference between an *even* and a *sela*?
 This is the word in these Yaakov Avinu narratives: the stones he slept on
 (Bereishis 28:11), the stone he set up and poured oil on (28:18), the stone he
 rolled off the well (29:10), and the phrase he coined, *Even Yisrael* (49:24).
-
-Shadal (to Bereishis 11:3): *levenah*, brick, comes from *even*, because it was
-used for building in place of plain stones.
 
 ### sela (סלע)
 - Rabbi Immanuel Chai Ricci (1688-1743): a *sela* is attached to the ground and

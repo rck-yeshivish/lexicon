@@ -85,20 +85,20 @@ in advance.
   interest in where he is headed, while *nas* attends to his seeking refuge at a
   particular destination, and may on that account be related to *nasa* with an
   ayin, "to travel."
+- Rabbi Shlomo Pappenheim (*Cheshek Shlomo* s.v. נס): *nisah* is the start of
+  flight, leaving the place of danger; *brichah* is its end, the place one
+  prepared to flee to. Every *brichah* is a *nisah*, but not every *nisah* is a
+  *brichah*, since danger that comes suddenly leaves one only to get away,
+  anywhere. So one never *barach* from battle but *nas* (Bereishis 14:10;
+  Devarim 28:7, 32:30; Bamidbar 10:35). That is why *nisah* was borrowed from
+  *nisayon*: as a trial begins in doubt, so flight begins without knowing how it
+  will end, and one may fall into worse danger, as the kings of Sedom and Amorah
+  fled into the tar pits, and *ka'asher yanus ish mipnei ha'ari ufega'o hadov*
+  (Amos 5:19).
 
 *Sefer HaChochmah*, ascribed to Rabbi Elazar Rokeach of Worms, has a different
 line altogether: *nisah* is running away to somewhere near, *bericha* to
 somewhere far.
-
-Rabbi Shlomo Pappenheim (*Cheshek Shlomo* s.v. נס): *nisah* is the start of
-flight, leaving the place of danger; *brichah* is its end, the place one
-prepared to flee to. Every *brichah* is a *nisah*, but not every *nisah* is a
-*brichah*, since danger that comes suddenly leaves one only to get away,
-anywhere. So one never *barach* from battle but *nas* (Bereishis 14:10; Devarim
-28:7, 32:30; Bamidbar 10:35). That is why *nisah* was borrowed from *nisayon*:
-as a trial begins in doubt, so flight begins without knowing how it will end,
-and one may fall into worse danger, as the kings of Sedom and Amorah fled into
-the tar pits, and *ka'asher yanus ish mipnei ha'ari ufega'o hadov* (Amos 5:19).
 
 ### boreach (בורח)
 - Sforno: running away out of fear of a future threat, with nobody chasing.

@@ -257,26 +257,26 @@ months; Metzudas David (to Melachim I 8:2): it is a powerful month for its many
 holidays that serve self-perfection. Rabbi Klein's lesson: Tishrei can make a
 person a firm, strongly anchored stalwart, as hard to budge as rock.
 
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Vayikra 23:24): Tishrei is *yerach
+ha'eisanim*, as in *vayashav hayam lifnos boker le'eisano* (Shemos 14:27),
+because in it we begin to return through *teshuvah* to our pristine, unblemished
+selves; and the Avos are called *eisanim* because they reached that state.
+
 Rabbi Pappenheim admits he is unsure how to break the word down.
 
 - In *Yerios Shlomo* he takes the root as ת-ן, "give": *eitan* is a
   concentration of strength that can only be a Divine gift, which no one could
   mistake for something natural.
+- Shadal (to Shemos 14:27): *eisan* is related to *tan*, giving, something so
+  strong it gives without tiring; of a river, as the sea at Shemos 14:27 or
+  *nachal eisan*, it is a flow that never fails, and from there it was borrowed
+  for anything especially strong.
 - In *Cheshek Shlomo* he connects it to א-ת, reduced further to ת, "connection"
   (*es* connects a verb to its object and sometimes means "with"; *os*, a sign,
   connects the sign and the signified): *eitan* is power concentrated by the
   extreme compression of many connected components, as in rock. He also makes
   *eitan* inherent, qualitative strength, strong in itself even if compressed
   from smaller parts, as against *kabir*.
-- Shadal (to Shemos 14:27): *eisan* is related to *tan*, giving, something so
-  strong it gives without tiring; of a river, as the sea at Shemos 14:27 or
-  *nachal eisan*, it is a flow that never fails, and from there it was borrowed
-  for anything especially strong.
-- Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Vayikra 23:24): Tishrei is *yerach
-  ha'eisanim*, as in *vayashav hayam lifnos boker le'eisano* (Shemos 14:27),
-  because in it we begin to return through *teshuvah* to our pristine,
-  unblemished selves; and the Avos are called *eisanim* because they reached
-  that state.
 
 ### kabir (כביר), adir (אדיר), takif (תקיף)
 *Kabir* (Rabbi Pappenheim): quantitative strength, strong for being made of many
@@ -294,6 +294,10 @@ components are equally powerful.
 - Rabbi Edel: *adir* is related to *adar*/*hadar*, beauty and glory, since
   Hashem's acts of strength bring Him honor and glory by showing man His
   omnipotence.
+- Shadal (to Shemos 15:6): *adir* is the Aramaic form of *ezor*, Hebrew zayin
+  often becoming dalet in Aramaic, because *adir* is power that encompasses
+  everything, as a belt encircles the body; so too *aderes*, a cloak that goes
+  around it.
 
 *Takif*: the standard Aramaic of the Targumim for *chozek* and *oz*, and also a
 Hebrew word in Tanach (see Esther 9:29, 10:2; Koheles 4:12; Daniel 4:27).
@@ -309,11 +313,6 @@ Hebrew word in Tanach (see Esther 9:29, 10:2; Koheles 4:12; Daniel 4:27).
 
 The Talmud's Aramaic *matkif* is one sage "attacking" or overpowering another's
 position with a persuasive argument.
-
-Shadal (to Shemos 15:6): *adir* is the Aramaic form of *ezor*, Hebrew zayin
-often becoming dalet in Aramaic, because *adir* is power that encompasses
-everything, as a belt encircles the body; so too *aderes*, a cloak that goes
-around it.
 
 ## Rendering guidance
 
