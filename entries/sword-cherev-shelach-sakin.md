@@ -1,8 +1,8 @@
 ---
 cluster: sword and knife
-hebrew: [חרב, שלח, סייף, סכין, מאכלת, חלף]
+hebrew: [חרב, שלח, סייף, סכין, מאכלת, חלף, ספסירא]
 roots: [ח-ר-ב, ש-ל-ח, ס-י-ף, ס-כ-ן, א-כ-ל, ח-ל-ף]
-translit: [cherev, herev, charba, shelach, shelah, sayif, sayaf, seif, sakin, sakkin, maacheles, maachelet, ma'achelet, ma'akheles, chalaf, halaf, chalef]
+translit: [cherev, herev, charba, shelach, shelah, sayif, sayaf, seif, sakin, sakkin, maacheles, maachelet, ma'achelet, ma'akheles, chalaf, halaf, chalef, safsira, safseira]
 english: [sword, stabbing sword, knife, slaughtering knife]
 domain: other
 words:
@@ -30,6 +30,10 @@ words:
     tr: chalaf
     en: slaughtering knife
     distinct: the common word for a shochet's knife; Arabic for a knife (Rashi, Rabbeinu Shimshon of Shantz), or Greek (Bartenura), though there is no such Greek usage (Rabbi Yisrael Lipschitz)
+  - he: ספסירא
+    tr: safsira
+    en: sword
+    distinct: an Aramaic word for a sword in the Gemara (Yevamos 120b, Sanhedrin 67b), which Rashi explains as a cherev
 sources:
   - wiaw:90001 "The Sword of Methusaleh" (2018-10-11) https://groups.google.com/g/whats-in-a-word/c/zywT24_4uaM
   - ms:010-the-sword-of-methusaleh.md "The Sword of Methusaleh"
@@ -56,6 +60,7 @@ Arabic (Rashi, Rabbeinu Shimshon of Shantz) or Greek (Bartenura).
 | סכין | sakin | knife | related to *sikim*, thorns (Rabbi Shlomo Pappenheim) |
 | מאכלת | maacheles | knife | from eating (Rashi) |
 | חלף | chalaf | slaughtering knife | Arabic (Rashi, Rabbeinu Shimshon of Shantz); Greek (Bartenura) |
+| ספסירא | safsira | sword | Aramaic, in the Gemara; a *cherev* (Rashi to Sanhedrin 67b) |
 
 ## Where the authorities disagree
 

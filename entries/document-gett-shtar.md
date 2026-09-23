@@ -1,9 +1,9 @@
 ---
 cluster: document
-hebrew: [גט, גיטין, שטר, שטרות, ספר כריתות, ספר המקנה]
+hebrew: [גט, גיטין, שטר, שטרות, ספר כריתות, ספר המקנה, כרטיס, דיסקא]
 roots: [ג-ט, ש-ט-ר]
-translit: [gett, get, git, gittin, gitin, shtar, shetar, shtarot, shtaros, shetarot, sefer kerisus, sefer kritut, sefer hamiknah, sefer hamikna, shoter, shotrim, sofer]
-english: [document, writ, bill, deed, bill of divorce, contract]
+translit: [gett, get, git, gittin, gitin, shtar, shetar, shtarot, shtaros, shetarot, sefer kerisus, sefer kritut, sefer hamiknah, sefer hamikna, shoter, shotrim, sofer, kartis, chartis, karta, diska, diskah]
+english: [document, writ, bill, deed, bill of divorce, contract, card]
 domain: society
 words:
   - he: גט
@@ -23,6 +23,14 @@ words:
     tr: sefer hamiknah
     en: scroll of acquisition
     distinct: the biblical deed of purchase, literally a scroll of acquisition, five times in Yirmiyahu 32; the standard, or the only, biblical word for a document of sale
+  - he: כרטיס
+    tr: kartis
+    en: card, document
+    distinct: in the Yerushalmi (end of Kesubos ch. 9) one who lost his kartis writes another; karta in Arabic and la'az (Ramban)
+  - he: דיסקא
+    tr: diska
+    en: document
+    distinct: the Bavli's word, probably Middle Persian desag, form, shape, not yet attested there as an official document (Sokoloff)
 sources:
   - wiaw:8704 "Divorce Bills and Other Documents" (2020-05-16) https://articles.ohr.edu/articles/divorce-bills-and-other-documents
   - wiaw:9581 "Between Books and Scrolls" (2022-02-19) https://articles.ohr.edu/articles/between-books-and-scrolls
@@ -50,6 +58,8 @@ a deed of sale is *sefer hamiknah* (Yirmiyahu 32).
 | שטר | shtar | document | a document written to last, unlike an *iggeret* (Ritva); narrower than *gett* (Algazi); called *sefer* in Tanach (Yirmiyahu 32:11) |
 | ספר כריתות | sefer kerisus | scroll of cutting | the biblical bill of divorce; *gett* may mirror its cutting (Levush) |
 | ספר המקנה | sefer hamiknah | scroll of acquisition | the biblical deed of sale (Yirmiyahu 32) |
+| כרטיס | kartis | card, document | the Yerushalmi's word; *karta* in Arabic and *la'az* (Ramban) |
+| דיסקא | diska | document | the Bavli's word; probably Middle Persian *desag*, form (Sokoloff) |
 
 ## Distinctions
 

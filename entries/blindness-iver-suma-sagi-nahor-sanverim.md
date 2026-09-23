@@ -1,9 +1,9 @@
 ---
 cluster: blindness
-hebrew: [עור, עורון, סומא, סגי נהור, סנורים]
+hebrew: [עור, עורון, סומא, סגי נהור, סנורים, הבריקה]
 roots: [ע-ו-ר, ס-מ-א]
-translit: [iver, ivver, ivaron, ivvaron, averet, avares, suma, sumah, sagi nahor, sagi-nahor, sagi nehor, sanverim, sanveirim]
-english: [blind, blindness, sightless, dazzlement]
+translit: [iver, ivver, ivaron, ivvaron, averet, avares, suma, sumah, sagi nahor, sagi-nahor, sagi nehor, sanverim, sanveirim, hivrikah, hivrika, hivdikah]
+english: [blind, blindness, sightless, dazzlement, went blind]
 domain: body
 words:
   - he: עור
@@ -26,6 +26,10 @@ words:
     tr: sanverim
     en: dazzlement, disordered sight
     distinct: for Rashbam, blindness combined with confusion; for Malbim, distorted vision rather than actual blindness; only three occurrences in Tanach
+  - he: הבריקה
+    tr: hivrikah
+    en: went blind
+    distinct: the Mishnah's verb, of a hired donkey (Bava Metzia 6:3); another reading has hivdikah
 sources:
   - wiaw:7974 "The Man with Enough Light" (2018-11-03) https://articles.ohr.edu/articles/the-man-with-enough-light
   - wiaw:9473 "Wake-up Time" (2021-12-04) https://articles.ohr.edu/articles/wake-up-time
@@ -54,6 +58,7 @@ which is what makes the bribed-judge metaphor work.
 | סומא | suma | blind man | the Aramaic term; root of the name Samael (Zohar) |
 | סגי נהור | sagi nahor | one with light enough | euphemism by antiphrasis, or literal (Kli Yakar) |
 | סנורים | sanverim | dazzlement | blindness with confusion (Rashbam); distorted vision, not actual blindness (Malbim) |
+| הבריקה | hivrikah | went blind | the Mishnah's verb, of a donkey (Bava Metzia 6:3); also read *hivdikah* |
 
 ## Where the authorities disagree
 

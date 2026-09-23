@@ -1,9 +1,9 @@
 ---
 cluster: meal
-hebrew: [סעודה, סעד, משתה, מסיבה, הסבה]
+hebrew: [סעודה, סעד, משתה, מסיבה, הסבה, אריסטון]
 roots: [ס-ע-ד, ש-ת-ה, ס-ב-ב]
-translit: [seudah, seuda, seudos, seudot, saad, saad lev, mishteh, mishte, mishtaos, mesibah, mesiba, mesubin, haseibah, hasebah]
-english: [meal, feast, banquet, drinking-feast, party]
+translit: [seudah, seuda, seudos, seudot, saad, saad lev, mishteh, mishte, mishtaos, mesibah, mesiba, mesubin, haseibah, hasebah, ariston, aristavon, aristun]
+english: [meal, feast, banquet, drinking-feast, party, great feast]
 domain: ritual
 words:
   - he: סעד
@@ -20,6 +20,10 @@ words:
     tr: mesibah
     en: reclining meal
     distinct: focuses on neither food nor drink but the posture, those at the meal reclining (Rashi), and only later any party; tied instead to sovev, around, by one contemporary linguist, which Rabbi Klein calls unsubstantiated
+  - he: אריסטון
+    tr: ariston
+    en: great feast
+    distinct: a great feast (Ohr Zarua), as the ariston Hashem will make for the tzaddikim (Vayikra Rabbah 13:3)
 sources:
   - wiaw:7176 "Party Hardy" (2017-03-11) https://articles.ohr.edu/articles/party-hardy
   - ms:166-party-hardy.md "Party Hardy"
@@ -45,6 +49,7 @@ the wine, or the posture.
 | סעודה | seudah | meal | meal of bread, from *saad*, to sustain (Radak); the Shabbos meals; the heavier afternoon meal, against the evening *mishteh* (Shadal) |
 | משתה | mishteh | feast | wine feast, from *shoseh*, to drink; the Purim meal (Rabbi Tzaddok); a light evening meal over wine (Shadal) |
 | מסיבה | mesibah | reclining meal | meal taken reclining (Rashi); only later a party in general |
+| אריסטון | ariston | great feast | a great feast (Ohr Zarua; Vayikra Rabbah 13:3) |
 
 ## Distinctions
 
@@ -60,9 +65,9 @@ most famously borne by Rabbeinu Saadia Gaon (882-942), is "support from
 Hashem." So a *seudah* is named for what the festive meal does for the body.
 
 The Yerushalmi (Berachos 4:1) has Rabbi Yehoshua ben Levi instruct that one
-going up to an *aristavon* after the sixth hour should daven first and eat
-afterward. The Ohr Zarua (*Hilchos Pesach* 256) explains *aristavon* as a great
-feast, as in Vayikra Rabbah 13:3, that Hashem will make an *aristavon* for the
+going up to an *ariston* after the sixth hour should daven first and eat
+afterward. The Ohr Zarua (*Hilchos Pesach* 256) explains *ariston* as a great
+feast, as in Vayikra Rabbah 13:3, that Hashem will make an *ariston* for the
 tzaddikim in the time to come.
 
 ### mishteh (משתה)

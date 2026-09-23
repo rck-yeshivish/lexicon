@@ -1,9 +1,9 @@
 ---
 cluster: wetness
-hebrew: [לח, רטוב, רענן, רטפש, טופח, מפולם]
+hebrew: [לח, רטוב, רענן, רטפש, טופח, מפולם, טריה]
 roots: [ל-ח, ר-ט-ב, ר-ע-ן, ר-ט-פ-ש, ט-פ-ח, פ-ל-ם]
-translit: [lach, leicho, lachim, ratuv, ratov, yirtavu, rotev, roteiv, raanan, ra'anan, rutfash, tofeach, tofei'ach, mefulam, mefulamot, mefulamos, marak, lechi, luach, lechem, melach]
-english: [moist, wet, soaked, fresh, sodden, damp]
+translit: [lach, leicho, lachim, ratuv, ratov, yirtavu, rotev, roteiv, raanan, ra'anan, rutfash, tofeach, tofei'ach, mefulam, mefulamot, mefulamos, marak, lechi, luach, lechem, melach, teriyah, teriya, triyah]
+english: [moist, wet, soaked, fresh, sodden, damp, moist wound]
 domain: nature
 words:
   - he: לח
@@ -30,6 +30,10 @@ words:
     tr: mefulam
     en: wet, plump
     distinct: a Bavli word of fish and stones; wet (Rashi) against hearty, plump, or fat (the Aruch, Jastrow); Rabbi Klein suggests Rashi means sodden, so saturated as to be bloated; mysterious, from palmoni (Ralbag)
+  - he: טריה
+    tr: teriyah
+    en: moist, of a wound
+    distinct: a wound that stays wet (Menachem in Rashi, Ibn Ezra, Radak to Yeshayahu 1:6); so lechi chamor teriyah (Ibn Ezra)
 sources:
   - wiaw:11276 "Titzaveh: Wet Words" (2024-02-24) https://articles.ohr.edu/articles/titzaveh-wet-words
   - ms:187-wet-words.md "Wet Words"
@@ -65,6 +69,7 @@ moisture and enough to wet something else can carry halachic weight.
 | רטפש | rutfash | revivified | flesh restored to youthful moisture; a form of *ratuv* (Rav Hirsch, Malbim) |
 | טופח | tofeach | wet | Rabbinic; wet enough to wet something else |
 | מפולם | mefulam | wet, plump | disputed: wet (Rashi) against plump (the *Aruch*); perhaps sodden (Rabbi Klein) |
+| טריה | teriyah | moist, of a wound | a wound that stays wet (Menachem in Rashi; Ibn Ezra; Radak) |
 
 ## Distinctions
 

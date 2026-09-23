@@ -1,9 +1,9 @@
 ---
 cluster: blue
-hebrew: [ספיר, תכלת, כחול]
+hebrew: [ספיר, תכלת, כחול, כרתי]
 roots: [ס-פ-ר, כ-ח-ל]
-translit: [sapir, sappir, sampiryon, sanpiryon, techeilet, techeiles, techelet, kachol, kochla, kachla, michchol, makchol]
-english: [sapphire, blue gem, sky-blue dye, dark, kohl]
+translit: [sapir, sappir, sampiryon, sanpiryon, techeilet, techeiles, techelet, kachol, kochla, kachla, michchol, makchol, karti, kartei]
+english: [sapphire, blue gem, sky-blue dye, dark, kohl, indigo]
 domain: nature
 words:
   - he: ספיר
@@ -18,6 +18,10 @@ words:
     tr: kachol
     en: dark, kohl-colored
     distinct: from the eye-cosmetic kohl, whose shades ran from blue to black; the Midrash sets Yissachar's kachol flag against Dan's sapir flag, Rabbi Klein's example of kachol meaning black and not blue
+  - he: כרתי
+    tr: karti
+    en: indigo dye
+    distinct: the dye called Hindi, indis in Tosafos's Old French (Rabbeinu Yonah; Tosafos and Tosafos HaRosh to Chullin 47b); told apart from techeiles (Berachos 9b)
 sources:
   - wiaw:8167 "The True Blue" (2019-03-09) https://articles.ohr.edu/articles/the-true-blue
   - ms:145-the-true-blue.md "The True Blue"
@@ -39,6 +43,7 @@ and black.
 | ספיר | sapir | sapphire | a gemstone, the color implied by the object (Shemos 24:10) |
 | תכלת | techeiles | techeiles | wool dyed from the chilazon; its shade Rashi calls *yarok* |
 | כחול | kachol | dark, kohl-colored | named from the kohl powder, shades running blue to black |
+| כרתי | karti | indigo dye | the dye called *Hindi* (Rabbeinu Yonah; Tosafos); told apart from *techeiles* (Berachos 9b) |
 
 ## Where the authorities disagree
 
@@ -114,7 +119,7 @@ that it is something hidden from us, so that we do not know exactly what it is.
 
 Beside *techeiles* the Gemara sets *karti*, which one must be able to tell apart
 from it (Berachos 9b). Rabbeinu Yonah (to Berachos) and Tosafos and Tosafos
-HaRosh (to Chullin 47b) identify *karti* as the dye called *Hindi*.
+HaRosh (to Chullin 47b) identify *karti* as the dye called *Hindi*, in Tosafos's Old French *indis*, indigo.
 
 ### kachol (כחול)
 Not a Biblical color word. Its origins are in Arabic, where it was pronounced

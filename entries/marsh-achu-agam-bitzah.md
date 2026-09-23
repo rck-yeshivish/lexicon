@@ -1,9 +1,9 @@
 ---
 cluster: marsh
-hebrew: [אחו, אגם, ביצה, סוף, גומא, בוץ]
+hebrew: [אחו, אגם, ביצה, סוף, גומא, בוץ, גמא]
 roots: [א-ח-ו, ג-ם, ב-ץ, ס-ו-ף]
 translit: [achu, achoo, agam, agama, agamim, bitzah, bitza, bitzaim, bitzaei mayim, botz, butz, suf, sof, gome, gomeh]
-english: [marsh, marshland, swamp, pond, mire, mud, reed]
+english: [marsh, marshland, swamp, pond, mire, mud, reed, papyrus]
 domain: nature
 words:
   - he: בוץ
@@ -24,6 +24,10 @@ words:
     tr: suf
     en: reeds
     distinct: the reed growing in a marsh, hence Yam Suf, the Sea of Reeds; Rashi only associates it with agam and renders it roisel, the common reed (Rabbi Avraham Meir HaKohen Glanzer)
+  - he: גמא
+    tr: gome
+    en: papyrus, reed
+    distinct: papyrus (Shadal to Shemos 2:3); the spongy reed of wetlands, from the root of agam (Pappenheim)
 sources:
   - wiaw:9031 "Marshes, Marshes, Marshes" (2021-01-16) https://articles.ohr.edu/articles/marshes-marshes-marshes
   - ms:099-marshes-marshes-marshes.md "Marshes, Marshes, Marshes"
@@ -50,6 +54,7 @@ in one pasuk with *gome* beside them.
 | אגם | agam | marsh, pond | marsh, or a standing pond (Rashi); spongy soaked ground, kin to *gome* (Pappenheim) |
 | ביצה | bitzah | mire | mire, ground held in mud, from *botz*; mucus-like, like an egg (Pappenheim) |
 | סוף | suf | reeds | the marsh's reeds (Glanzer on Rashi); hence the Sea of Reeds |
+| גמא | gome | papyrus, reed | papyrus (Shadal); the spongy wetland reed, kin to *agam* (Pappenheim) |
 
 ## Distinctions
 

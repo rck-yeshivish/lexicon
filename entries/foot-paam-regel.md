@@ -1,9 +1,9 @@
 ---
 cluster: foot
-hebrew: [פעם, רגל, פעמון, פעמותיו]
+hebrew: [פעם, רגל, פעמון, פעמותיו, מונים]
 roots: [פ-ע, פ-ע-ם, ר-ג-ל]
-translit: [paam, paamim, peamim, paamosav, paamotav, paamon, poem, regel, raglayim, regalim, shalosh regalim, shalosh peamim, efeh]
-english: [foot, step, corner, time, instance, pilgrimage festival]
+translit: [paam, paamim, peamim, paamosav, paamotav, paamon, poem, regel, raglayim, regalim, shalosh regalim, shalosh peamim, efeh, monim, aseres monim]
+english: [foot, step, corner, time, instance, pilgrimage festival, instances]
 domain: body
 words:
   - he: פעם
@@ -15,6 +15,10 @@ words:
     en: foot
     nk: רֶגֶל
     distinct: the plain foot, the limb; as instance only for Bilaam's donkey and the three festivals, where the pilgrims came up on foot; the malachim's single regel, fixed, without growth (Walkin)
+  - he: מונים
+    tr: monim
+    en: times, instances
+    distinct: single instances, like Greek monos and monas (Benamozegh to Bereishis 31:7)
 sources:
   - wiaw:7828 "Foot Festivals" (2018-06-30) https://articles.ohr.edu/articles/foot-festivals
   - ms:266-foot-festivals.md "Foot Festivals"
@@ -40,6 +44,7 @@ two contexts, Bilaam's donkey (Bamidbar 22:28 and 32) and the three festivals
 |---|---|---|---|
 | פעם | paam | step, time | the foot striking the ground, a step (Pappenheim, Walkin); a corner (Malbim) |
 | רגל | regel | foot | the plain limb; as instance only for Bilaam's donkey and the festivals |
+| מונים | monim | times, instances | single instances, like Greek *monos* (Benamozegh) |
 
 ## Distinctions
 

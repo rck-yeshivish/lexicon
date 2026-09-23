@@ -1,8 +1,8 @@
 ---
 cluster: palace
-hebrew: [זבול, ארמון, אפדנא, טירה, פלטין]
+hebrew: [זבול, ארמון, אפדנא, טירה, פלטין, טרקלין]
 roots: [ז-ב-ל, א-ר-ם, ר-ו-ם, פ-ד, ט-ר]
-translit: [zvul, zevul, yizbeleini, zevel, armon, almon, apadna, apadena, padan, tirah, tira, tur, turim, netirah, paltin, paltrin]
+translit: [zvul, zevul, yizbeleini, zevel, armon, almon, apadna, apadena, padan, tirah, tira, tur, turim, netirah, paltin, paltrin, traklin, teraklin, triklin]
 english: [palace, castle, fortress, citadel, lofty abode]
 domain: other
 words:
@@ -26,6 +26,10 @@ words:
     tr: paltin
     en: palace
     distinct: the late Hebrew palace in the imperial sense, the cognate of English palace, from Rome's Palatium hill; or, by another derivation, from Latin praetorium, a governor's residence
+  - he: טרקלין
+    tr: traklin
+    en: palace
+    distinct: the Mishnah's word for the palace entered from the vestibule (Avos 4:16), as the meforshim there explain
 sources:
   - wiaw:8941 "Castle in the Sky" (2020-11-28) https://articles.ohr.edu/articles/castle-in-the-sky
   - ms:046-castle-in-the-sky.md "Castle in the Sky"
@@ -57,6 +61,7 @@ how."
 | אפדנא | apadna | palace | luxury sense; in the Gemara a royal dining room (Rashi) |
 | טירה | tirah | fortress | defensive, a fortified enclosure; built to guard (Chelouche); same as *armon* (Ibn Ezra) |
 | פלטין | paltin | palace | late Hebrew imperial palace; kin to English *palace*, from Palatium |
+| טרקלין | traklin | palace | the Mishnah's word, entered from the *prozdor* (Avos 4:16) |
 
 ## Distinctions
 
