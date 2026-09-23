@@ -1281,7 +1281,7 @@ def main():
     <hr class="wm-rule">
   </div>
   <p class="lede"><span class="tally" data-to="{n_words}">{n_words:,}</span> words in <span class="tally" data-to="{n_entries}">{n_entries}</span> groups of
-  near-synonyms, each word with its own meaning clarified and the sources that discuss it.</p>
+  near-synonyms, each with the sources that tell its words apart.</p>
   <div class="bigsearch">
     <svg viewBox="0 0 24 24" class="mag" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
     <input id="q" type="search" placeholder="Type Hebrew or English&hellip;" autocomplete="off" spellcheck="false" dir="auto">
@@ -1290,22 +1290,20 @@ def main():
   <div class="week" id="week"{'' if this_week else ' hidden'}>{week_html(weeks, this_week)}</div>
   <script type="application/json" id="week-data">{weeks_json}</script>
 </section>
-<section class="how" aria-label="How it works">
-  <ol class="how-steps">
-    <li><b>The idea</b>Two Hebrew words almost never mean exactly the same thing: near-synonyms each carry a shade of their own.</li>
-    <li><b>The sources</b>Rashi, Radak, Malbim, Rav Hirsch and many others say where the line between them falls.</li>
-    <li><b>The page</b>Each group sets out every word&rsquo;s meaning, who says what, and where they disagree.</li>
-  </ol>
-</section>
-<section class="asks" aria-labelledby="asks-h">
-  <p class="home-h" id="asks-h">Questions to explore</p>
-  <div class="asks-list" id="asks">{questions_html(question_pool[:4])}</div>
-  <script type="application/json" id="ask-pool">{questions_json}</script>
+<section class="how" aria-label="The idea">
+  <p class="how-he" lang="he" dir="rtl">וְרוֹמַמְתָּנוּ מִכָּל הַלְּשׁוֹנוֹת</p>
+  <p class="how-tr">&ldquo;And You have raised us above every language&rdquo; <span>(Yom Tov tefillah)</span></p>
+  <p class="how-lead">In <i>lashon hakodesh</i> every word has a meaning of its own, even the ones that appear to be synonyms.</p>
 </section>
 <section class="taste" aria-labelledby="taste-h">
   <p class="home-h" id="taste-h">Inside an entry</p>
   <div id="taste">{taste_html(first_taste)}</div>
   <script type="application/json" id="taste-pool">{taste_json}</script>
+</section>
+<section class="asks" aria-labelledby="asks-h">
+  <p class="home-h" id="asks-h">Questions to explore</p>
+  <div class="asks-list" id="asks">{questions_html(question_pool[:4])}</div>
+  <script type="application/json" id="ask-pool">{questions_json}</script>
 </section>
 <section class="split">
   <a class="card" href="hebrew.html"><h3>Browse Hebrew<span class="chev" aria-hidden="true">&rsaquo;</span></h3>
@@ -1654,22 +1652,15 @@ header.bare .brand{flex:1}
 .week-l a:hover{text-decoration:none;border-color:var(--accent)}
 .week-l .chev{color:var(--accent)}
 .week-l bdi{font-size:18px;line-height:1;color:var(--accent)}
-.how{margin-top:20px}
-.how-steps{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(3,1fr);counter-reset:step}
-.how-steps li{padding:2px 22px;font-size:15px;line-height:1.5;color:var(--dim);counter-increment:step}
-.how-steps li:first-child{padding-left:0}
-.how-steps li:last-child{padding-right:0}
-.how-steps li+li{border-left:1px solid var(--line)}
-.how-steps b{display:block;color:var(--accent);font-size:12.5px;text-transform:uppercase;letter-spacing:.07em;
-  font-weight:600;margin-bottom:4px}
-.how-steps b::before{content:counter(step) " \00b7  "}
-/* On a phone the three steps stack, so the label runs into its line instead of
-   sitting over it: three lines a step became two, and the questions come up a
-   screen sooner. */
-@media (max-width:760px){.how-steps{grid-template-columns:1fr}
-  .how-steps li{padding:9px 0}.how-steps li:first-child{padding-top:0}.how-steps li:last-child{padding-bottom:0}
-  .how-steps li+li{border-left:0;border-top:1px solid var(--line)}
-  .how-steps b{display:inline;margin:0 7px 0 0}}
+/* The line from the Yom Tov tefillah and one sentence on what the site holds.
+   "Inside an entry" follows straight after it and shows the sentence at work,
+   a different group on every visit. */
+.how{margin-top:34px;text-align:center}
+.how-he{font-family:var(--heb);font-size:34px;line-height:1.3;color:var(--accent);margin:0}
+.how-tr{font-size:15px;color:var(--dim);margin:6px 0 0}
+.how-tr span{white-space:nowrap;color:var(--faint)}
+.how-lead{font-size:17px;color:var(--ink);margin:18px auto 0;max-width:620px;text-wrap:balance}
+@media (max-width:760px){.how-he{font-size:27px}}
 .taste{margin-top:40px}
 .taste-q{font-size:20px;margin:0 0 14px;line-height:1.35}
 .taste-go{display:block;color:var(--ink)}
