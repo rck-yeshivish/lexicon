@@ -15,9 +15,10 @@ words:
     en: husband, master
     distinct: lording and awe (Rashi), bare ownership as of the *baal hashor* (Maharsha); from *bo'el*, the active party in intimacy (Maharal, the Vilna Gaon); kin to *paal*, the one who initiates over a subdued vassal (Rav Hirsch); short for ba al (Benamozegh)
 sources:
+    - jp:my-husband-my-man "My Husband, My Man" (2022-06-08) https://jewishpress.com/my-husband-my-man/
   - ms:232-my-husband-my-man.md "My Husband, My Man"
 authorities: [Radak, Abarbanel, Maharsha, Rashi, Rabbi Yochanan, Malbim, Rabbi Yosef Dov Soloveitchik, Rabbi Yitzchak Isaac Chaver, Maharal, the Vilna Gaon, Rav Hirsch, Rabbi Yehoshua Steinberg, Rabbi Meir Emden, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 # Husband: ish / baal
 
@@ -162,6 +163,8 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "My Husband, My Man," *What's in a Word?*. Not among the essays Ohr Somayach carries; drawn from the book manuscript, where it is filed under Bamidbar as the *haftarah* piece.
+Rabbi Reuven Chaim Klein, "[My Husband, My Man](https://jewishpress.com/my-husband-my-man/)," *The Jewish Press*, 8 June 2022. Ohr Somayach does not carry this one; the entry is drawn from the book manuscript, where it is filed under Bamidbar as the *haftarah* piece.
+
+Rabbi Reuven Chaim Klein, "My Husband, My Man," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
 Cited in the essay: Hoshea 2:18 with Rashi, Radak, Malbim and Abarbanel; Shemos 21:28; Bereishis 2:23, 20:3; Bamidbar 23:13; Devarim 21:13; Tehillim 28:4; Shir HaShirim 1:17; Esther 9:27; *Kesubos* 71b with Rashi, Maharsha and *Shittah Mekubetzes*, and Rashi's first edition quoted there; *Shabbos* 88a; Yerushalmi *Avodah Zarah* 3:6; *Tikkunei Zohar*, *Tikkun* 30; Maharal, *Netzach Yisrael* ch. 47; the Vilna Gaon; Rav Hirsch; Rabbi Yitzchak Isaac Chaver; Rabbi Yosef Dov Soloveitchik; Rabbi Meir Emden; Rabbi Yehoshua Steinberg, Veromemanu Foundation; *Beis HaLevi*, Ki Sisa; *HaMaor HaGadol* vol. 2, Hoshea ch. 2; *Siach Yitzchak*, new edition, *likkutim* p. 312; Rabbi Eliyahu Benamozegh, *Eim LaMikra*.

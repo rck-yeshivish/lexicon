@@ -46,8 +46,7 @@ Every entry in `../entries/` must trace to a file here. Orthodox sources only.
   retitles pieces and prefixes the parsha. 340 of the 346 chapters match an essay and 377 of
   the 378 harvested essays are claimed. Four chapters are essays the corpus lacks: *Making
   Mountains out of Hills*, which was published on the author's Times of Israel blog on
-  15 May 2019 and which the harvest missed, and *My Husband, My Man*, *Of Demons and Spirits*
-  and *Output Understood*, which appear in neither catalogue.
+  15 May 2019 and which the harvest missed, and *My Husband, My Man*, *Of Demons and Spirits* and *Output Understood*, which appear in neither catalogue. Two have since turned up in the Jewish Press, which syndicates the column: *Output Understood* (25 August 2021) and *My Husband, My Man* (8 June 2022), and their entries link there with a `jp:` source line. *Of Demons and Spirits* is on none of Ohr Somayach, Times of Israel, the author's Google Group or the Jewish Press (all 210 of his posts there checked on 23 September 2026). Jewish Press links take the short form, jewishpress.com/<slug>/; the older dated addresses under /review/in-print-review/ now return 404.
 - **His source lists.** Most essays end with a footnote listing in Hebrew everything the essay
   quotes, which is the only place many citations are written down, because the essays
   frequently name a rabbi without saying where he wrote it. `python tools/klein_sources.py`
@@ -60,7 +59,7 @@ Every entry in `../entries/` must trace to a file here. Orthodox sources only.
   a source for claims the published essays do make differently. The one exception the author
   has since allowed is an essay the published corpus does not hold at all: *My Husband, My
   Man*, *Of Demons and Spirits* and *Output Understood* are entries drawn from the chapter
-  alone, and their source line is `ms:<chapter>.md` because there is nothing to link to.
+  alone, and their source line is `ms:<chapter>.md`, with a `jp:` line beside it for the two of the three found published since.
   He has read the husband entry; *Of Demons and Spirits*, *Output Understood* and *Making
   Mountains out of Hills* still wait for his reading. Each chapter opens with the author's own working notes before the essay proper begins. His
   rule for them: a note that is fully formed and stands on its own may go into an entry; one

@@ -39,9 +39,10 @@ words:
     en: hemorrhoids
     distinct: the written word the Mesorah will not have read aloud; ע-פ-ל kin to א-פ-ל, darkness, so lesions of the dark part of the body (Rabbi Shes bar Yefes)
 sources:
+    - jp:output-understood "Output Understood" (2021-08-25) https://jewishpress.com/output-understood/
   - ms:324-output-understood.md "Output Understood"
 authorities: [Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shmuel Strashun, Rabbi Tanchum HaYerushalmi, Rashi, Rabbi Aharon Marcus, Rabbi Yitzchak of Zeldin, Rabbi Yaakov Yehuda Zilberberg, Rabbi Shabsai Donnolo, Rabbi Shes bar Yefes, Rabbi Eliyahu Mizrachi, Rabbi Avraham Bakrat, Rabbi Eliyahu HaBachur]
-updated: 2026-09-18
+updated: 2026-09-23
 ---
 # Excrement: tzoah / peresh / galal / zevel (ree, chara)
 
@@ -226,6 +227,8 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Output Understood," *What's in a Word?*. Not among the essays Ohr Somayach carries; drawn from the book manuscript, where it is filed under Ki Savo.
+Rabbi Reuven Chaim Klein, "[Output Understood](https://jewishpress.com/output-understood/)," *The Jewish Press*, 25 August 2021. Ohr Somayach does not carry this one; the entry is drawn from the book manuscript, where it is filed under Ki Savo.
+
+Rabbi Reuven Chaim Klein, "Output Understood," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
 Cited in the essay: Shemos 29:14; Vayikra 1:16 with Rashi, Rabbi Eliyahu Mizrachi and Rabbi Avraham Bakrat's *Sefer Zikaron*; Vayikra 4:11, 8:17, 16:27; Bamidbar 19:5; Devarim 23:14, 28:27, 29:16 with Rashi; Melachim I 14:10; Melachim II 6:25, 10:27, 18:27; Yeshayahu 28:8, 36:12; Yechezkel 4:12, 4:15; Nachum 3:6; Tzefaniah 1:17, 3:1; Malachi 2:3; Iyov 20:7, 33:21; Mishnah *Berachos* 3:5, *Shabbos* 16:7 and 20:4, *Avodah Zarah* 4:5, *Makkos* 3:14, *Keilim* 10:2 and 17:2, *Mikvaos* 9:2 and 9:4, *Machshirin* 5:6 and 6:7; *Berachos* 62a; *Megillah* 25b; Rashi to *Bava Kamma* 29b and 92b, *Bava Basra* 28a and *Sanhedrin* 109b; the Kaufmann manuscript of the Mishnah; Menachem Ibn Saruk; Ibn Janach; Radak; Rabbi Eliyahu HaBachur; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. גל, s.v. רו and s.v. צ, and *Yerios Shlomo* p. 688 onwards; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik* s.v. זבל; Rabbi Shmuel Strashun, *Hagahos HaRashash* to *Meilah* 12b; Rabbi Yitzchak of Zeldin, *Shoresh Yesha* s.v. טרח; Rabbi Aharon Marcus, *Barzilai* p. 47; Rabbi Yaakov Yehuda Zilberberg; Rabbi Shabsai Donnolo, *Chachmoni*, Warsaw edition pp. 125 and 143; Rabbi Shes bar Yefes, *Chemas HaChemdah* to Bamidbar 14:44; *Leshoneinu HaKedoshah* p. 264.

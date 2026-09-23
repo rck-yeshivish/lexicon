@@ -59,12 +59,14 @@ def check(p):
         errs.append(f"domain `{dm.group(1)}` not in the allowed set")
     ohr = r"^\s+- wiaw:\d+ \".+\" \(\d{4}-\d{2}-\d{2}\) https://(?:articles\.ohr\.edu/articles/[a-z0-9\-]+|groups\.google\.com/g/whats-in-a-word/c/[\w\-]+)\s*$"
     # Ohr Somayach does not carry every essay. One it never ran may survive on
-    # the author's Times of Israel blog, which has no Ohr id to cite, or only in
-    # his book manuscript, which has no link at all and so names its chapter.
+    # the author's Times of Israel blog, which has no Ohr id to cite, or in the
+    # Jewish Press, which syndicates the column; or only in his book manuscript,
+    # which has no link at all and so names its chapter.
     toi = r"^\s+- toi:[a-z0-9\-]+ \".+\" \(\d{4}-\d{2}-\d{2}\) https://blogs\.timesofisrael\.com/[a-z0-9\-]+/?\s*$"
+    jp = r"^\s+- jp:[a-z0-9\-]+ \".+\" \(\d{4}-\d{2}-\d{2}\) https://(?:www\.)?jewishpress\.com/[a-z0-9\-/]+/?\s*$"
     manuscript = r"^\s+- ms:\d{3}-[a-z0-9\-]+\.md \".+\"\s*$"
-    if not any(re.search(p, fm, re.M) for p in (ohr, toi, manuscript)):
-        errs.append("no well-formed source line (  - wiaw:<id> \"<title>\" (<date>) https://articles.ohr.edu/articles/<slug>, or the author's Google Group thread; or   - toi:<slug> \"<title>\" (<date>) https://blogs.timesofisrael.com/<slug> for one Ohr Somayach does not carry; or   - ms:<chapter>.md \"<title>\" for one only in the book manuscript)")
+    if not any(re.search(p, fm, re.M) for p in (ohr, toi, jp, manuscript)):
+        errs.append("no well-formed source line (  - wiaw:<id> \"<title>\" (<date>) https://articles.ohr.edu/articles/<slug>, or the author's Google Group thread; or   - toi:<slug> \"<title>\" (<date>) https://blogs.timesofisrael.com/<slug>, or   - jp:<slug> \"<title>\" (<date>) https://jewishpress.com/<slug>, for one Ohr Somayach does not carry; or   - ms:<chapter>.md \"<title>\" for one only in the book manuscript)")
     if re.search(r"^hebrew:\s*\[\s*\]", fm, re.M) or not re.search(r"[א-ת]", fm):
         errs.append("hebrew list empty or not Hebrew script")
     if "<" in fm and ">" in fm:
