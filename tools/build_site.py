@@ -621,12 +621,12 @@ def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
   <a class="brand" href="{up}index.html" aria-label="Back to the start of What&rsquo;s in a Word?">What&rsquo;s in a Word?</a>
   {'<div class="hsearch"><input id="q" type="search" placeholder="Search Hebrew or English" autocomplete="off" spellcheck="false" dir="auto"><div id="ac" class="ac" hidden></div></div>' if header_search else ''}
   <nav class="navs">
-    <a class="meth {'on' if active == 'me' else ''}" href="{up}method.html">About</a>
     <span class="seg">
       <a href="{up}roots.html" lang="he" title="Browse by root" class="ix {'on' if active == 'roots' else ''}">שרשים</a>
       <a href="{up}hebrew.html" lang="he" title="Browse the Hebrew index" class="ix {'on' if active == 'he' else ''}">א–ת</a>
       <a href="{up}english.html" title="Browse the English index" class="{'on' if active == 'en' else ''}">A–Z</a>
     </span>
+    <a class="meth {'on' if active == 'me' else ''}" href="{up}method.html">About</a>
   </nav>
 </header>
 <main>
@@ -1570,16 +1570,18 @@ header.site{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap
 .hsearch input:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
 header.bare .brand{flex:1}
 .navs{display:flex;align-items:center;gap:22px;flex:0 0 auto}
-.seg{display:inline-flex;gap:2px;padding:2px;background:var(--line);border-radius:9px}
+.seg{display:inline-flex;gap:2px;padding:2px;background:var(--line);border-radius:9px;font-size:17px}
 /* Quieter than the browse control: it is a different kind of page, not a third
    way of looking at the same list. */
 .meth{color:var(--dim);font-size:17px;font-weight:500;white-space:nowrap}
 .meth:hover{color:var(--ink);text-decoration:none}
 .meth.on{color:var(--ink)}
 /* Frank Ruhl Libre runs small beside the interface face, so the Hebrew tabs take
-   a size of their own to sit level with A-Z rather than under it. */
+   a size of their own to sit level with A-Z rather than under it. The size is
+   set on .seg, not on the links, so that 1.2em scales with it: set on the links,
+   the phone sizes reached A-Z only and left the Hebrew at 20px beside 12.5px. */
 .seg a.ix{font-family:var(--heb);font-size:1.2em;line-height:1.15;position:relative;top:1px}
-.seg a{position:relative;padding:6px 18px;border-radius:7px;font-size:17px;color:var(--dim);font-weight:500}
+.seg a{position:relative;padding:6px 18px;border-radius:7px;color:var(--dim);font-weight:500}
 .seg a:hover{text-decoration:none;color:var(--ink);background:rgba(255,255,255,.55)}
 .seg a.on{background:var(--panel);color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.08)}
 /* A hairline between the two segments. On an entry page neither is selected,
@@ -1600,7 +1602,8 @@ header.bare .brand{flex:1}
   .brand{font-size:17px}
   .navs{gap:8px;margin-left:auto}
   .meth{font-size:13px;padding:6px 0}
-  .seg a{padding:4px 9px;font-size:13px}
+  .seg{font-size:13px}
+  .seg a{padding:4px 9px}
   .hsearch{order:3;flex:1 1 100%;max-width:none;margin:0}
   .hsearch input{height:34px}
 }
@@ -1609,7 +1612,8 @@ header.bare .brand{flex:1}
   .brand{font-size:16px}
   .navs{gap:6px}
   .meth{font-size:12.5px}
-  .seg a{padding:4px 8px;font-size:12.5px}
+  .seg{font-size:12.5px}
+  .seg a{padding:4px 8px}
 }
 
 /* home -------------------------------------------------------------------- */
