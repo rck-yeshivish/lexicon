@@ -17,7 +17,7 @@ words:
   - he: אפריון
     tr: apiryon
     en: palanquin
-    distinct: a hapax in Shir HaShirim; glossed as a chuppah (Parenzo, the Maharsha); a mobile enclosure a woman travels in, per the Mishnah (Rabbi Klein); on the paryanka reading a palanquin, the chuppah gloss stating its halachic role, not its meaning, as Rashi to Yevamos 110a makes it a sedan; a bed for bringing forth children, from pri (Pappenheim); a crown, as some explain (Machberes Menachem)
+    distinct: a hapax in Shir HaShirim; glossed as a chuppah (Parenzo, the Maharsha); a mobile enclosure a woman travels in, per the Mishnah (Rabbi Klein); on the paryanka reading a palanquin, the chuppah gloss stating its halachic role, not its meaning, as Rashi to Yevamos 110a makes it a sedan; a bed for bringing forth children, from pri (Pappenheim); a crown, as some explain (Machberes Menachem); grace, in the Gemara's apiryon nimtayei (Rashi to Niddah 20b)
 sources:
   - wiaw:7103 "A Panoply of Canopies" (2017-01-21) https://articles.ohr.edu/articles/a-panoply-of-canopies
   - ms:088-a-panoply-of-canopies.md "A Panoply of Canopies"
@@ -50,7 +50,7 @@ mean exactly the same thing, so a difference must be found.
 |---|---|---|---|
 | סוכה | succah | booth | defined by its *sechach*; a shelter from what is above (Libber) |
 | חופה | chuppah | wedding canopy | covered on top, with no sense of protection (Libber) |
-| אפריון | apiryon | palanquin | a mobile enclosure or palanquin; a *chuppah* only in function (Maharsha, Parenzo); a bed (Pappenheim); a crown (some, in Machberes Menachem) |
+| אפריון | apiryon | palanquin | a mobile enclosure or palanquin; a *chuppah* only in function (Maharsha, Parenzo); a bed (Pappenheim); a crown (some, in Machberes Menachem); grace, in the Gemara's *apiryon nimtayei* (Rashi to Niddah 20b) |
 
 ## Where the authorities disagree
 
@@ -118,6 +118,10 @@ Rabbi Shlomo Pappenheim (*Cheshek Shlomo* s.v. פר): the root of *apiryon* is
 
 *Machberes Menachem* brings that some explain an *apiryon* as a crown.
 
+Rashi (to Niddah 20b) ties the name of Ifra Hurmiz to *apiryon*: *ifra*, he
+says, is Greek for grace, as in *apiryon nimtayei leRabbi Shimon* (Bava Metzia
+119a).
+
 ## Rendering guidance
 
 - Default renderings: *succah* stays transliterated, glossed "booth" once;
@@ -144,4 +148,4 @@ Rabbi Reuven Chaim Klein, "[A Panoply of Canopies](https://articles.ohr.edu/arti
 
 Rabbi Reuven Chaim Klein, "A Panoply of Canopies," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Shemos 35:12; Shir HaShirim 3:9 to 11; *Sotah* 12a; *Bava Basra* 120a; Mishnah *Sotah* 9:14; Rashi to *Succah* 2a and to Shemos 35:12; Maharsha to *Sotah* 12a; Rabbi Pheobus Meir Parenzo's glosses to *Yalkut Shimoni*, Shemos §165 (Venice 1566); Rabbi Tzvi Mordechai Libber; the unnamed "some" who tie *apiryon* to the Sanskrit *paryanka*; Rashi to *Yevamos* 110a; Pappenheim, *Cheshek Shlomo* s.v. פר; *Machberes Menachem*.
+Cited in the essay: Shemos 35:12; Shir HaShirim 3:9 to 11; *Sotah* 12a; *Bava Basra* 120a; Mishnah *Sotah* 9:14; Rashi to *Succah* 2a and to Shemos 35:12; Maharsha to *Sotah* 12a; Rabbi Pheobus Meir Parenzo's glosses to *Yalkut Shimoni*, Shemos §165 (Venice 1566); Rabbi Tzvi Mordechai Libber; the unnamed "some" who tie *apiryon* to the Sanskrit *paryanka*; Rashi to *Yevamos* 110a; Pappenheim, *Cheshek Shlomo* s.v. פר; *Machberes Menachem*; Niddah 20b with Rashi; Bava Metzia 119a.

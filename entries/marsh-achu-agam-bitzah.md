@@ -26,8 +26,9 @@ words:
     distinct: the reed growing in a marsh, hence Yam Suf, the Sea of Reeds; Rashi only associates it with agam and renders it roisel, the common reed (Rabbi Avraham Meir HaKohen Glanzer)
 sources:
   - wiaw:9031 "Marshes, Marshes, Marshes" (2021-01-16) https://articles.ohr.edu/articles/marshes-marshes-marshes
-authorities: [Rashi, Ramban, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Moshe ben Shem Tov Gabbai, Ibn Janach, Radak, Rabbi Shlomo Aharon Wertheimer, Rabbi Avraham Meir HaKohen Glanzer]
-updated: 2026-09-10
+  - ms:099-marshes-marshes-marshes.md "Marshes, Marshes, Marshes"
+authorities: [Rashi, Ramban, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Moshe ben Shem Tov Gabbai, Ibn Janach, Radak, Rabbi Shlomo Aharon Wertheimer, Rabbi Avraham Meir HaKohen Glanzer, Shadal]
+updated: 2026-09-22
 ---
 # Marsh: achu / agam / bitzah (suf)
 
@@ -87,6 +88,7 @@ The word in the makkos: "over their rivers, over their canals, over their
   spongy reed of wetlands.
 - Rabbi Shlomo Aharon Wertheimer even says a marsh is called *agam* for the
   *gome* that grows in it.
+- Shadal (to Shemos 2:3): *gome* is papyrus.
 
 ### bitzah (ביצה)
 Three times in Tanach: Iyov 8:11 and 40:21, Yechezkel 47:11. Muddy, swampy
@@ -144,4 +146,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Marshes, Marshes, Marshes](https://articles.ohr.edu/articles/marshes-marshes-marshes)," *What's in a Word?*, Ohr Somayach, 16 January 2021.
 
-Cited in the essay: Bereishis 41:2 and 41:18 with Rashi and Ramban; Shemos 7:19 and 8:1 with Rashi; Shemos 2:3 and 13:18 with Rashi; Iyov 8:11 and 40:21; Yechezkel 47:11 and 27:16; Yirmiyahu 38:22; Esther 1:6 and 8:15; Devarim 22:6; Ibn Janach and Radak, *Sefer HaShorashim*; Rashi to *Taanis* 22a, *Yevamos* 121a, *Sanhedrin* 5b and 96a, *Shevuos* 16a, *Bava Metzia* 74a; *Maayanei Agam*.
+Rabbi Reuven Chaim Klein, "Marshes, Marshes, Marshes," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 41:2 and 41:18 with Rashi and Ramban; Shemos 7:19 and 8:1 with Rashi; Shemos 2:3 and 13:18 with Rashi; Iyov 8:11 and 40:21; Yechezkel 47:11 and 27:16; Yirmiyahu 38:22; Esther 1:6 and 8:15; Devarim 22:6; Ibn Janach and Radak, *Sefer HaShorashim*; Rashi to *Taanis* 22a, *Yevamos* 121a, *Sanhedrin* 5b and 96a, *Shevuos* 16a, *Bava Metzia* 74a; *Maayanei Agam*; Shemos 2:3 with Shadal.

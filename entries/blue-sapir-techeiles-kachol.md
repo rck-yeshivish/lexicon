@@ -20,8 +20,9 @@ words:
     distinct: from the eye-cosmetic kohl, whose shades ran from blue to black; the Midrash sets Yissachar's kachol flag against Dan's sapir flag, Rabbi Klein's example of kachol meaning black and not blue
 sources:
   - wiaw:8167 "The True Blue" (2019-03-09) https://articles.ohr.edu/articles/the-true-blue
-authorities: [Rashi, Ramban, Rabbeinu Bachya, Targum, Bamidbar Rabbah, Frankie Snyder, Aharon Demsky]
-updated: 2026-09-10
+  - ms:145-the-true-blue.md "The True Blue"
+authorities: [Rashi, Ramban, Rabbeinu Bachya, Targum, Bamidbar Rabbah, Frankie Snyder, Aharon Demsky, Rabbeinu Yonah, Tosafos]
+updated: 2026-09-22
 ---
 # Blue: sapir / techeiles / kachol
 
@@ -111,6 +112,10 @@ be the *murex trunculus*, a marine snail found off the coast of Eretz Yisrael, o
 the *sepia officinalis*, the common cuttlefish, though traditional sources assert
 that it is something hidden from us, so that we do not know exactly what it is.
 
+Beside *techeiles* the Gemara sets *karti*, which one must be able to tell apart
+from it (Berachos 9b). Rabbeinu Yonah (to Berachos) and Tosafos and Tosafos
+HaRosh (to Chullin 47b) identify *karti* as the dye called *Hindi*.
+
 ### kachol (כחול)
 Not a Biblical color word. Its origins are in Arabic, where it was pronounced
 *kohl*: the silverish antimony powder applied around the eye for medicinal or
@@ -143,4 +148,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[The True Blue](https://articles.ohr.edu/articles/the-true-blue)," *What's in a Word?*, Ohr Somayach, 9 March 2019.
 
-Cited in the essay: Shemos 24:10, 25:4, 28:18, 39:11; Bereishis 49:12 with Ramban; Bamidbar 15:38 with Rashi; Yechezkel 1:26, 10:1, 28:13; Bava Basra 4a and Sukkah 51b with Rashi; *Bamidbar Rabbah* on the tribal flags; Targum to *even sapir*; Rabbeinu Bachya on the Choshen.
+Rabbi Reuven Chaim Klein, "The True Blue," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 24:10, 25:4, 28:18, 39:11; Bereishis 49:12 with Ramban; Bamidbar 15:38 with Rashi; Yechezkel 1:26, 10:1, 28:13; Bava Basra 4a and Sukkah 51b with Rashi; *Bamidbar Rabbah* on the tribal flags; Targum to *even sapir*; Rabbeinu Bachya on the Choshen; Berachos 9b with Rabbeinu Yonah; Chullin 47b with Tosafos and Tosafos HaRosh.

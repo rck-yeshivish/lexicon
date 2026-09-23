@@ -66,7 +66,11 @@ Every entry in `../entries/` must trace to a file here. Orthodox sources only.
   each under the word it treats, as part of the entry and not set apart; the chapter joins
   the entry's `sources:` as an `ms:` line and its Sources section as a citation, and the
   note's loci join "Cited in the essay". Where a note corrects the essay, the entry follows
-  the note.
+  the note. A second round took up the 79 notes first held for a closer look (readers'
+  letters, notes that seemed to name no authority, notes on a word beside the cluster) and
+  wrote in 55 whose source checked out and whose word the entry treats. Held back: readers'
+  and colleagues' own views with no source behind them, and three passages whose author
+  is not yet traced.
 
 ### Klein, "Learning to differentiate between apparent synonyms" (Babel, 2020)
 - `klein-babel-2020/` holds the PDF and its extracted text. Rabbi Klein writing

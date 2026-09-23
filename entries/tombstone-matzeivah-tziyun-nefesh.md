@@ -20,12 +20,13 @@ words:
     tr: nefesh
     en: memorial
     nk: נֶפֶשׁ
-    distinct: the Mishnaic word (Shekalim 2:5); it honors the deceased and his soul, which may linger by the resting place of its body (Tukachinsky); Rabbi Eliyahu Katz ties it instead to vayinafash, rest
+    distinct: the Mishnaic word (Shekalim 2:5); it honors the deceased and his soul, which may linger by the resting place of its body (Tukachinsky); Rabbi Eliyahu Katz ties it instead to vayinafash, rest; keeps the place of the body from being forgotten (Hon Ashir)
 sources:
   - wiaw:7730 "On the Tombstone" (2018-04-28) https://articles.ohr.edu/articles/on-the-tombstone
   - wiaw:10810 "Parshas Bo: Please Stand Up" (2023-01-28) https://articles.ohr.edu/articles/parshas-bo-please-stand-up
-authorities: [Rabbi Yechiel Michel Tukachinsky, Rabbi Shlomo Zalman Ehrenreich, Rabbi Moshe Shick, Rabbi Asher Pollak, Rabbi Eliyahu Katz, Rashi, Rabbi Shlomo Aharon Wertheimer]
-updated: 2026-09-10
+  - ms:194-on-the-tombstone.md "On the Tombstone"
+authorities: [Rabbi Yechiel Michel Tukachinsky, Rabbi Shlomo Zalman Ehrenreich, Rabbi Moshe Shick, Rabbi Asher Pollak, Rabbi Eliyahu Katz, Rashi, Rabbi Shlomo Aharon Wertheimer, Hon Ashir, Meleches Shlomo]
+updated: 2026-09-22
 ---
 # Tombstone: matzeivah / tziyun / nefesh
 
@@ -47,7 +48,7 @@ to go on serving Hashem, cut off by death.
 |---|---|---|---|
 | מצבה | matzeivah | monument, headstone | makes the grave visible for those who come to daven (Tukachinsky); shares its word with the single-stone altar (Ehrenreich; others); from *netziv*, standing, the Resurrection (Shick) |
 | ציון | tziyun | marker | delineates the exact spot so that others, especially Kohanim, avoid tumah (Tukachinsky); a road marker (Rabbi Asher Pollak); "outstanding" (others) |
-| נפש | nefesh | memorial | honors the departed and his soul (Tukachinsky); will, the departed's will to do good (others); or rest, from *vayinafash* (Rabbi Eliyahu Katz) |
+| נפש | nefesh | memorial | honors the departed and his soul (Tukachinsky); will, the departed's will to do good (others); or rest, from *vayinafash* (Rabbi Eliyahu Katz); keeps the place of the body from being forgotten (Hon Ashir) |
 
 ## Where the authorities disagree
 
@@ -86,14 +87,19 @@ to go on serving Hashem, cut off by death.
   expected of them.
 - The "others" above read *tziyun* as "outstanding."
 
-**What nefesh means here.** Three readings.
+**What nefesh means here.** Four readings.
 - Tukachinsky: the soul, honored at the place where it may linger near its
-  former body.
+  former body. The *Meleches Shlomo* (to Shekalim 2:5) had already said much the
+  same: the marker is called *nefesh* because it is the dwelling of the soul
+  that rests upon it.
 - The "others" above: will, the departed's will to do good (Rashi to Bereishis
   23:8).
 - Rabbi Eliyahu Katz: in the context of tombstones the word is actually related
   to *menuchah*, rest, from *shavas vayinafash* (Shemos 31:17), so a stone that
   marks one's eternal resting place is itself named for resting.
+- The *Hon Ashir* (to Shekalim 2:5): the stone is like the soul, whose memory is
+  not lost though the man has died, since it keeps the place of his body from
+  being forgotten.
 
 ## Distinctions
 
@@ -151,4 +157,6 @@ Rabbi Reuven Chaim Klein, "[On the Tombstone](https://articles.ohr.edu/articles/
 
 Rabbi Reuven Chaim Klein, "[Parshas Bo: Please Stand Up](https://articles.ohr.edu/articles/parshas-bo-please-stand-up)," *What's in a Word?*, Ohr Somayach, 28 January 2023.
 
-Cited in the essay: Bereishis 23:8 (Rashi) and 35:20; Shemos 31:17; Vayikra 21:1 to 4; Melachim II 23:17; Yechezkel 39:15; Tehillim 95:7; Shekalim 2:5; Ohalos 7:1; Moed Katan 28a; Sanhedrin 98a; Rabbi Yechiel Michel Tukachinsky, *Gesher HaChaim*; Rabbi Shlomo Zalman Ehrenreich; Rabbi Moshe Shick; Rabbi Asher Pollak; Rabbi Eliyahu Katz; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. יצב, עמד and קם.
+Rabbi Reuven Chaim Klein, "On the Tombstone," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 23:8 (Rashi) and 35:20; Shemos 31:17; Vayikra 21:1 to 4; Melachim II 23:17; Yechezkel 39:15; Tehillim 95:7; Shekalim 2:5; Ohalos 7:1; Moed Katan 28a; Sanhedrin 98a; Rabbi Yechiel Michel Tukachinsky, *Gesher HaChaim*; Rabbi Shlomo Zalman Ehrenreich; Rabbi Moshe Shick; Rabbi Asher Pollak; Rabbi Eliyahu Katz; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. יצב, עמד and קם; Shekalim 2:5 with the *Meleches Shlomo* and the *Hon Ashir*.

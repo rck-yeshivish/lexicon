@@ -18,7 +18,7 @@ words:
   - he: סלה
     tr: selah
     en: forever
-    distinct: "disputed: forever, without end (Rashi, Meiri), the ever-repeating continual (Wertheimer); an interjection closing an idea (Radak, Malbim), a pause to take it in (Rabbi Chaim Friedlander); an affirmation, so it is (Ibn Ezra)"
+    distinct: "disputed: forever, without end (Rashi, Meiri), the ever-repeating continual (Wertheimer); an interjection closing an idea (Radak, Malbim), a pause to take it in (Rabbi Chaim Friedlander); an affirmation, so it is (Ibn Ezra); a cue to beat a basket-shaped drum, from sal (some scholars)"
   - he: ועד
     tr: va'ed
     en: for all eternity
@@ -51,7 +51,7 @@ fifty-year Yovel cycle, and the Maharsha builds on that. For the Maharsha, when
 |---|---|---|---|
 | עולם | olam | for all time | long but bounded, only to the Yovel (Rashi, Maharsha) |
 | נצח | netzach | forever, everlasting | unbounded; continuous, unchanging permanence (Wertheimer) |
-| סלה | selah | forever | disputed: forever (Rashi, Meiri) or an interjection closing an idea (Radak, Malbim) |
+| סלה | selah | forever | disputed: forever (Rashi, Meiri) or an interjection closing an idea (Radak, Malbim); a cue to beat a basket-shaped drum, from *sal* (some scholars) |
 | ועד | va'ed | for all eternity | unbounded: *ad*, until, left with no end named (Wertheimer) |
 
 ## Distinctions
@@ -100,6 +100,9 @@ Root ס-ל-ה.
   it in. Rabbi Aviad Sar-Shalom Basilea faulted Radak for seeming to set aside
   the Gemara's reading; Rabbi Yaakov Emden defended him, that Radak gives the
   *pshat* and the tradition gives the deeper sense.
+- Some scholars, cited in the *Encyclopaedia Judaica* (13:1322) and in
+  Mandelkern's concordance, derive *selah* from *sal*, a basket, and read it as
+  the direction to beat a basket-shaped drum.
 - Ibn Ezra: *selah* affirms that what was just said is true, roughly "so it is."
 - Mecklenburg himself ties *selah* to *suleh* (Iyov 28:16), which denotes
   something of higher value, and cites one of the earlier commentators who
@@ -154,4 +157,4 @@ Rabbi Reuven Chaim Klein, "[Forever and Ever](https://articles.ohr.edu/articles/
 
 Rabbi Reuven Chaim Klein, "Forever and Ever," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Shemos 21:6 with Rashi; Eruvin 54a with Rashi and Maharsha; Tehillim 3:3 with Rashi, Meiri, Radak, Malbim and Ibn Ezra; Chavakuk 3:3 (Malbim); Iyov 28:16 (*suleh*); Targum Yonasan, Aquilas and the Peshitta; Radak, *Sefer HaShorashim*; Ibn Saruk, *Machberes Menachem*; Rabbi Yosef Kimchi, *Sefer HaGalui*; Rabbi Avraham ben Ezriel of Vienna; Rabbi Avraham ben Natan HaYarchi; Abudraham; Rabbi Yitzchak Abuhab; Rabbi Shlomo Aharon Wertheimer; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Rabbi Shlomo Pappenheim; Rabbi Aviad Sar-Shalom Basilea, *Emunas Chachamim*; Rabbi Yaakov Emden; Rabbi Chaim Friedlander; Pappenheim, *Cheshek Shlomo* s.v. צח; Divrei HaYamim II 2:1, 2:17; Shadal to Shemos 15:18.
+Cited in the essay: Shemos 21:6 with Rashi; Eruvin 54a with Rashi and Maharsha; Tehillim 3:3 with Rashi, Meiri, Radak, Malbim and Ibn Ezra; Chavakuk 3:3 (Malbim); Iyov 28:16 (*suleh*); Targum Yonasan, Aquilas and the Peshitta; Radak, *Sefer HaShorashim*; Ibn Saruk, *Machberes Menachem*; Rabbi Yosef Kimchi, *Sefer HaGalui*; Rabbi Avraham ben Ezriel of Vienna; Rabbi Avraham ben Natan HaYarchi; Abudraham; Rabbi Yitzchak Abuhab; Rabbi Shlomo Aharon Wertheimer; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Rabbi Shlomo Pappenheim; Rabbi Aviad Sar-Shalom Basilea, *Emunas Chachamim*; Rabbi Yaakov Emden; Rabbi Chaim Friedlander; Pappenheim, *Cheshek Shlomo* s.v. צח; Divrei HaYamim II 2:1, 2:17; Shadal to Shemos 15:18; *Encyclopaedia Judaica* 13:1322; Mandelkern's concordance.

@@ -98,6 +98,15 @@ nation in dress and in avodah. So *nezer* is the crown that marks off and
 separates, showing a man's standing above the rest. The Malbim adds that
 physically the *nezer* encircles only half the head, a tiara.
 
+Rabbi Shlomo Pappenheim (*Cheshek Shlomo* s.v. זר) runs the link with *zer* from
+*nezer* outward. Because the *nezer* goes around the head, whatever goes around
+the top of a thing is a *zer*, as the *zer zahav saviv* (Shemos 25:11). The
+*zeres*, a span, is a measure that goes around, like the circumference of a head
+or an arm (*zeres orko vezeres rachbo*, Shemos 28:16), and *orchi veriv'i
+zeirisa* (Tehillim 139:3) is surrounding as a *nezer* does. Perhaps, from the
+separateness of rank that *nezer* denotes, *ezor*, a belt, belongs here too
+(Melachim II 1:8; Iyov 12:18).
+
 ### klil (כליל) and tag (תג)
 *Klil* is the Aramaic for crown, and likewise means what encompasses something.
 Rabbi Yaakov Tzvi Mecklenburg derives *kallah*, a bride, from it: as a crown
@@ -135,4 +144,4 @@ Rabbi Reuven Chaim Klein, "[A Crown is a Crown](https://articles.ohr.edu/article
 
 Rabbi Reuven Chaim Klein, "A Crown is a Crown," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Esther 1:11, 2:17, 6:8; Bamidbar 6:7; Vayikra 21:12; the *zer zahav* of the Mishkan kelim in Shemos; the Malbim, *Sefer HaCarmel* (ח"ב ע' נזר, ערך עטרה, ערך כתר); Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; unnamed linguists on *tag*; Rabbi Zev Leff; Pappenheim, *Cheshek Shlomo* s.v. זר; Shemos 39:30; Shmuel II 1:10; Melachim II 11:12; Devarim 33:16.
+Cited in the essay: Esther 1:11, 2:17, 6:8; Bamidbar 6:7; Vayikra 21:12; the *zer zahav* of the Mishkan kelim in Shemos; the Malbim, *Sefer HaCarmel* (ח"ב ע' נזר, ערך עטרה, ערך כתר); Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; unnamed linguists on *tag*; Rabbi Zev Leff; Pappenheim, *Cheshek Shlomo* s.v. זר; Shemos 39:30; Shmuel II 1:10; Melachim II 11:12; Devarim 33:16; Shemos 25:11, 28:16; Tehillim 139:3; Melachim II 1:8; Iyov 12:18.

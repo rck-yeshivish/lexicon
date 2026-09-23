@@ -13,11 +13,11 @@ words:
   - he: אביון
     tr: evyon
     en: destitute
-    distinct: worse off than the ani and past the shame of asking; full of wants he cannot fill, from ta'av, so even a rich man who wants more is one (Bedersi); lazy, having brought it on himself (Kalatz)
+    distinct: worse off than the ani and past the shame of asking; full of wants he cannot fill, from ta'av, so even a rich man who wants more is one (Bedersi); lazy, having brought it on himself (Kalatz); an Egyptian word (Lambdin)
   - he: מסכן
     tr: misken
     en: wretched, unfortunate
-    distinct: poor and despised with it, the only one with contempt built in; tied to sakanah, danger; mocked when he looks for support (Kalatz), or taken for a madman (Wertheimer)
+    distinct: poor and despised with it, the only one with contempt built in; tied to sakanah, danger; mocked when he looks for support (Kalatz), or taken for a madman (Wertheimer); Akkadian, and unrelated to sakanah (Tawil)
   - he: רש
     tr: rash
     en: dispossessed
@@ -49,8 +49,9 @@ sources:
   - wiaw:8245 "The Poor and Unfortunate" (2019-05-18) https://articles.ohr.edu/articles/the-poor-and-unfortunate
   - wiaw:10786 "Shemos: Drawing Water" (2023-01-14) https://articles.ohr.edu/articles/shemos-drawing-water
   - wiaw:11205 "Vaera: The Vertically-Challenged" (2024-01-13) https://articles.ohr.edu/articles/vaera-the-vertically-challenged
-authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Yehuda Kalatz, Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Shlomo Pappenheim, Rabbi Yair Chaim Bachrach, Rabbi Moshe Sternbuch, Rabbi Yechiel Michel Epstein, Rav Chaim Kanievsky, Rabbi Avraham ben Yitzchak HaLevi Tamach, Midrash Tanchuma, Midrash Mishlei, Vayikra Rabbah, Dr. Leon Aryeh Feldman, Rabbi Moshe Tedeschi-Ashkenazi (Hoil Moshe), Menachem Ibn Saruk, Wilhelm Gesenius, Ibn Janach, Radak, Ibn Chayyuj, Rabbi Dr. Ernest Klein, Rabbi Eliyahu HaBachur]
-updated: 2026-09-10
+  - ms:210-the-poor-and-unfortunate.md "The Poor and Unfortunate"
+authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Yehuda Kalatz, Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Shlomo Pappenheim, Rabbi Yair Chaim Bachrach, Rabbi Moshe Sternbuch, Rabbi Yechiel Michel Epstein, Rav Chaim Kanievsky, Rabbi Avraham ben Yitzchak HaLevi Tamach, Midrash Tanchuma, Midrash Mishlei, Vayikra Rabbah, Dr. Leon Aryeh Feldman, Rabbi Moshe Tedeschi-Ashkenazi (Hoil Moshe), Menachem Ibn Saruk, Wilhelm Gesenius, Ibn Janach, Radak, Ibn Chayyuj, Rabbi Dr. Ernest Klein, Rabbi Eliyahu HaBachur, Thomas Lambdin, Dr. Chaim Tawil]
+updated: 2026-09-22
 ---
 # Poverty: ani / evyon / misken / rash / dal / dach / mach / heilech
 
@@ -71,8 +72,8 @@ lower of the two.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | עני | ani | poor | the general word; still proud, too ashamed to ask (Bava Metzia 111b) |
-| אביון | evyon | destitute | worse off, unashamed to ask; full of unmet wants (Bedersi) |
-| מסכן | misken | wretched, unfortunate | poor and despised; mocked (Kalatz) or taken for a madman (Wertheimer) |
+| אביון | evyon | destitute | worse off, unashamed to ask; full of unmet wants (Bedersi); an Egyptian word (Lambdin) |
+| מסכן | misken | wretched, unfortunate | poor and despised; mocked (Kalatz) or taken for a madman (Wertheimer); Akkadian, and unrelated to *sakanah* (Tawil) |
 | רש | rash | dispossessed | dispossessed of property, or poor from the cradle (Wertheimer) |
 | דל | dal | reduced | has lost money, not necessarily a charity case (Malbim); an emptied well (Pappenheim) |
 | דך | dach | emaciated | physically crushed, gaunt; even a rich man thinned by illness (Bedersi) |
@@ -112,6 +113,11 @@ Related to *ta'av*, desire: full of wants he cannot fill.
   *evyon* is lazy and brought it on himself by refusing even to try, having no
   trade, no skill, no business, and not even the knack of appealing for charity.
 
+On the word's origin, Thomas Lambdin ("Egyptian Loan Words in the Old
+Testament," *Journal of the American Oriental Society* 73, 1953, pp. 145-155)
+holds that *evyon* is Egyptian, while the *Theological Dictionary of the Old
+Testament* (vol. 1, p. 27) concludes that its origin is still uncertain.
+
 The gradation carries halachic weight in *matanos la'evyonim* on Purim.
 - Some authorities, such as Rabbi Yair Chaim Bachrach (1639-1702) and Rabbi
   Moshe Sternbuch, hold that one should give preferentially to an *evyon* rather
@@ -136,6 +142,7 @@ Related to *sakanah*, danger: the forced austerity endangers his life.
   instead.
 - Rabbi Shlomo Aharon Wertheimer: so poor and beaten down that people take him
   for a madman and pay him no attention.
+- Dr. Chaim Tawil lists *misken* as Akkadian, with no relation to ס-כ-נ, danger.
 
 ### rash (רש)
 Tied to *yerushah*, inheritance, in two directions.
@@ -225,4 +232,6 @@ Rabbi Reuven Chaim Klein, "[Shemos: Drawing Water](https://articles.ohr.edu/arti
 
 Rabbi Reuven Chaim Klein, "[Vaera: The Vertically-Challenged](https://articles.ohr.edu/articles/vaera-the-vertically-challenged)," *What's in a Word?*, Ohr Somayach, 13 January 2024.
 
-Cited in the essay: *Midrash Tanchuma*, *Behar* §3; *Midrash Mishlei* ch. 22; *Vayikra Rabbah* §34:6; Bava Metzia 111b; *Avos* 4:1; Mishlei 29:13, 31:20; Shmuel II 12:4; Rabbi Avraham Bedersi HaPenini; Rabbi Yehuda Kalatz, *Sefer HaMussar*; Malbim; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. דך and דל; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. אביון/עני/דל... ו and רש/תכך; Rabbi Avraham ben Yitzchak HaLevi Tamach's commentary to *Eishes Chayil*, published by Dr. Leon Aryeh Feldman in a 1971 *Sefer Zikaron* for Dr. Shmuel Mirsky; Rabbi Yair Chaim Bachrach; Rabbi Moshe Sternbuch; Rabbi Yechiel Michel Epstein; Rav Chaim Kanievsky; Rabbi Moshe Tedeschi-Ashkenazi, *Hoil Moshe*; Menachem Ibn Saruk; Wilhelm Gesenius on ד-ל; Ibn Janach; Radak; Ibn Chayyuj; Rabbi Dr. Ernest Klein; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*.
+Rabbi Reuven Chaim Klein, "The Poor and Unfortunate," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: *Midrash Tanchuma*, *Behar* §3; *Midrash Mishlei* ch. 22; *Vayikra Rabbah* §34:6; Bava Metzia 111b; *Avos* 4:1; Mishlei 29:13, 31:20; Shmuel II 12:4; Rabbi Avraham Bedersi HaPenini; Rabbi Yehuda Kalatz, *Sefer HaMussar*; Malbim; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. דך and דל; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. אביון/עני/דל... ו and רש/תכך; Rabbi Avraham ben Yitzchak HaLevi Tamach's commentary to *Eishes Chayil*, published by Dr. Leon Aryeh Feldman in a 1971 *Sefer Zikaron* for Dr. Shmuel Mirsky; Rabbi Yair Chaim Bachrach; Rabbi Moshe Sternbuch; Rabbi Yechiel Michel Epstein; Rav Chaim Kanievsky; Rabbi Moshe Tedeschi-Ashkenazi, *Hoil Moshe*; Menachem Ibn Saruk; Wilhelm Gesenius on ד-ל; Ibn Janach; Radak; Ibn Chayyuj; Rabbi Dr. Ernest Klein; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*; Thomas Lambdin, "Egyptian Loan Words in the Old Testament," *JAOS* 73 (1953); *Theological Dictionary of the Old Testament*, vol. 1 p. 27; Dr. Chaim Tawil (these three via Mitchell First).

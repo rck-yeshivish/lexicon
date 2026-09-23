@@ -20,7 +20,7 @@ words:
 sources:
   - wiaw:8364 "Beds of the Righteous" (2019-08-10) https://articles.ohr.edu/articles/beds-of-the-righteous
   - ms:297-beds-of-the-righteous.md "Beds of the Righteous"
-authorities: [Ramchal, Menachem Ibn Saruk, Radak, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rashbam, Rabbi Nosson of Rome, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Aviad Sar-Shalom Basilea, Rabbi Tzvi Hirsch Kaidanover, Dr. Richard C. Steiner]
+authorities: [Ramchal, Menachem Ibn Saruk, Radak, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rashbam, Rabbi Nosson of Rome, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Aviad Sar-Shalom Basilea, Rabbi Tzvi Hirsch Kaidanover, Dr. Richard C. Steiner, Rabbi Yehoshua Alt]
 updated: 2026-09-22
 ---
 # Bed: mitah / eres (arisah)
@@ -61,6 +61,9 @@ what a man does with his body to lie down. The same phenomenon is found in
 Greek, where *kline*, a bed, derives from *klino*, to incline, slant or bend,
 and this Greek root underlies the English *recline*, *incline*, *climax*,
 *climate* and *clinic*.
+
+Rabbi Yehoshua Alt relates *shemitah* to *mitah*: as a man rests on a bed and
+does nothing else, in the *shemitah* year the field is not worked, and rests.
 
 - Malbim, in one place: *mitah* is any piece of furniture one lies or reclines
   on, a sofa, couch or loveseat included, while *eres* is specifically what one

@@ -64,7 +64,10 @@ Indeed, the Mishnah uses *se'ar* for the fibers protruding from produce (Shabbos
 *sa'ir*, a goat, as *ma'azia* is. Apart from the three places where the Targum
 uses *binta* (Rabbi Eliyahu HaBachur, *Meturgeman*, counts only those three),
 the Targumim do not really translate *sa'ar* at all, but simply Aramaicize it
-into *saara*.
+into *saara*. A reader pointed out to Rabbi Klein that Biblical Aramaic itself
+has *se'ar* three times (Daniel 3:27, 4:30, 7:9), which suggests a native
+Aramaic word, and that the standard Arabic word for hair is the same, with a
+shin for the sin.
 
 ### mazia (מזיא)
 Its etymology is disputed.
@@ -164,4 +167,4 @@ Rabbi Reuven Chaim Klein, "[All About Hair](https://articles.ohr.edu/articles/al
 
 Rabbi Reuven Chaim Klein, "All About Hair," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Bamidbar 8:7, 16:1; Vayikra 13:37, 14:9; Devarim 21:12, 32:24 with Rashi; Shoftim 20:16 with Targum; Tehillim 6:1, 11:2, 40:13; Iyov 9:17, 30:11; Mishlei 14:1; Shemos 25:4, 26:7, 35:6 in Targum Onkelos; Berachos 8a; Shabbos 64a, 74b, 79a; Eruvin 4b, 102b; Sukkah 6a, 9a; Megillah 16a; Nedarim 50a; Gittin 6b, 68b; Avodah Zarah 12b; Bava Metzia 84b; Sanhedrin 21a, 25a, 109b to 110a; Yoma 38b, 69b; Menachos 42b; Mishnah Shabbos 21:3, Kilayim 3:5, Negaim 4:1, Niddah 3:2 with Tosafos Yom Tov; Tosefta Erchin 2:7; *Zohar*, Tazria 49a; Rabbi Eliyahu HaBachur, *Meturgeman*; Rabbi Avraham Meir Israel, *Yalkut HaMeiri*; Rabbi Dr. Alexander Kohut on *mazia*, *bini* and *nimah*; *Nazir* 39a with the commentary ascribed to Rashi and the Bach.
+Cited in the essay: Bamidbar 8:7, 16:1; Vayikra 13:37, 14:9; Devarim 21:12, 32:24 with Rashi; Shoftim 20:16 with Targum; Tehillim 6:1, 11:2, 40:13; Iyov 9:17, 30:11; Mishlei 14:1; Shemos 25:4, 26:7, 35:6 in Targum Onkelos; Berachos 8a; Shabbos 64a, 74b, 79a; Eruvin 4b, 102b; Sukkah 6a, 9a; Megillah 16a; Nedarim 50a; Gittin 6b, 68b; Avodah Zarah 12b; Bava Metzia 84b; Sanhedrin 21a, 25a, 109b to 110a; Yoma 38b, 69b; Menachos 42b; Mishnah Shabbos 21:3, Kilayim 3:5, Negaim 4:1, Niddah 3:2 with Tosafos Yom Tov; Tosefta Erchin 2:7; *Zohar*, Tazria 49a; Rabbi Eliyahu HaBachur, *Meturgeman*; Rabbi Avraham Meir Israel, *Yalkut HaMeiri*; Rabbi Dr. Alexander Kohut on *mazia*, *bini* and *nimah*; *Nazir* 39a with the commentary ascribed to Rashi and the Bach; Daniel 3:27, 4:30, 7:9.

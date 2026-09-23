@@ -71,7 +71,9 @@ done for him), *bakar* (cattle, which need looking after), and *boker* in the
 sense of a herdsman seeking out pasture.
 
 Shadal (to Bereishis 1:5): *boker* joins *boke'a ohr* (after Yeshayahu 58:8),
-the morning light breaking through the dark of night.
+the morning light breaking through the dark of night. On the same pasuk he
+explains that night is called *erev* because without light things look confused
+and mixed together.
 
 ### shachar (שחר)
 Root ש-ח-ר. Rabbi Shlomo Alkabetz: the first rays that break through the darkness of night, which is why English says

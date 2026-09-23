@@ -136,6 +136,9 @@ On where the word comes from:
   particular were chosen for the illustration (compare Eruvin 2b on *guzma* and
   the number one hundred).
 
+Rabbi Klein notes one more expression for exaggeration, *petumei milei*,
+"fattening the words."
+
 ### How far the exaggeration goes
 Chazal's examples are from the Mishnah, and the Gemara calls some or all of them
 *divrei havai* or *guzma*: the *tamid* drinking from a golden cup (Tamid 3:4),

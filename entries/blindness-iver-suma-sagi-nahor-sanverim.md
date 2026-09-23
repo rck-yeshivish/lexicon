@@ -29,8 +29,9 @@ words:
 sources:
   - wiaw:7974 "The Man with Enough Light" (2018-11-03) https://articles.ohr.edu/articles/the-man-with-enough-light
   - wiaw:9473 "Wake-up Time" (2021-12-04) https://articles.ohr.edu/articles/wake-up-time
+  - ms:025-the-man-with-enough-light.md "The Man with Enough Light"
 authorities: [Rabbi Shlomo Pappenheim, Shoresh Yesha, Zohar, Rabbi Mordechai HaKohen of Tzfas, Kli Yakar, Rashbam, Malbim, Shadal, Rav Hirsch, Rabbi Yehoshua Trunk of Kutna, Rabbi Shmuel Borenstein of Sochatchov, Rabbi Yehoshua Steinberg, Immanuel Vilkovsky, Fred Rosner, Evyatar Cohen, Chaim Tawil]
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Blindness: iver / suma / sagi nahor / sanverim
 
@@ -120,6 +121,10 @@ stumbling block before a blind man" (Vayikra 19:14).
 Root ס-מ-א. The Gemara's and Targumim's word for a blind man; its weight comes
 from the name Samael, as above.
 
+The Mishnah also has a verb for going blind: one who hired a donkey
+*vehivrikah*, and it went blind (Bava Metzia 6:3); another reading has
+*hivdikah*.
+
 ### sagi nahor (סגי נהור)
 Aramaic, a portmanteau of *sagi*, "enough," and *nahor*, "light." It names the
 blind man by the rhetorical device of antiphrasis, saying the exact opposite of
@@ -155,4 +160,6 @@ Rabbi Reuven Chaim Klein, "[The Man with Enough Light](https://articles.ohr.edu/
 
 Rabbi Reuven Chaim Klein, "[Wake-up Time](https://articles.ohr.edu/articles/wake-up-time)," *What's in a Word?*, Ohr Somayach, 4 December 2021.
 
-Cited in the essay: Bereishis 19:11 with Rashbam and Malbim, *Sefer HaCarmel* s.v. יקץ and עור; Vayikra 19:14; Bamidbar 24:4 with *Kli Yakar*; Devarim 3:9 with Rashi, 16:19; Melachim II 6:18; Bava Basra 16a; Avodah Zarah 20b; Zohar; Dr. Fred Rosner, *Medicine in the Bible and the Talmud*; *Shoresh Yesha*.
+Rabbi Reuven Chaim Klein, "The Man with Enough Light," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 19:11 with Rashbam and Malbim, *Sefer HaCarmel* s.v. יקץ and עור; Vayikra 19:14; Bamidbar 24:4 with *Kli Yakar*; Devarim 3:9 with Rashi, 16:19; Melachim II 6:18; Bava Basra 16a; Avodah Zarah 20b; Zohar; Dr. Fred Rosner, *Medicine in the Bible and the Talmud*; *Shoresh Yesha*; Mishnah Bava Metzia 6:3.

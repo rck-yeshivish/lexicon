@@ -111,6 +111,9 @@ masseuse squeezes and kneads. Pappenheim and Marcus further connect the root to
 from *arisah* in being a cognate of the verb of kneading, where *arisah* comes
 off words of mixing or joining.
 
+Radak (to Amos 9:13) had already joined *assis* to *va'asosem resha'im* (Malachi
+3:21): juice is called *assis* because it comes out by squeezing and crushing.
+
 Rabbi Baruch HaLevi Epstein offers what Rabbi Klein calls a controversial theory:
 that the two words are actually one and the same, *arisah* being *issah* with an
 extra *reish*, a letter added to enhance the flowery beauty of the language
@@ -151,4 +154,4 @@ Rabbi Reuven Chaim Klein, "[Kneading the Dough](https://articles.ohr.edu/article
 
 Rabbi Reuven Chaim Klein, "Kneading the Dough," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Bamidbar 15:20-21; Nechemiah 10:38; Yechezkel 44:30; Shemos 12:34 and 12:39; Yirmiyahu 7:18; Hoshea 7:4; Shmuel II 13:8; Devarim 8:4 with Nechemiah 9:21; Mishnah Challah 1:5 and 2:2; Rashi to Berachos 37b; *Sefer HeAruch* on the root ע-ר-ס; Yechezkel 23:3; Malachi 3:21; Yoel 4:18; Yeshayahu 49:26; Shir HaShirim 8:2; Pseudo-Rashi to Divrei HaYamim I 18:5; *Hagahos Rashash* to Rosh Hashanah 26a; Shadal to Shemos 7:28, 12:34; Abarbanel.
+Cited in the essay: Bamidbar 15:20-21; Nechemiah 10:38; Yechezkel 44:30; Shemos 12:34 and 12:39; Yirmiyahu 7:18; Hoshea 7:4; Shmuel II 13:8; Devarim 8:4 with Nechemiah 9:21; Mishnah Challah 1:5 and 2:2; Rashi to Berachos 37b; *Sefer HeAruch* on the root ע-ר-ס; Yechezkel 23:3; Malachi 3:21; Yoel 4:18; Yeshayahu 49:26; Shir HaShirim 8:2; Pseudo-Rashi to Divrei HaYamim I 18:5; *Hagahos Rashash* to Rosh Hashanah 26a; Shadal to Shemos 7:28, 12:34; Abarbanel; Amos 9:13 with Radak.

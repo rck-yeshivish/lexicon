@@ -27,7 +27,7 @@ sources:
   - wiaw:8704 "Divorce Bills and Other Documents" (2020-05-16) https://articles.ohr.edu/articles/divorce-bills-and-other-documents
   - wiaw:9581 "Between Books and Scrolls" (2022-02-19) https://articles.ohr.edu/articles/between-books-and-scrolls
   - ms:208-divorce-bills-and-other-documents.md "Divorce Bills and other Documents"
-authorities: [Rashi, Rabbeinu Tam, Tosafos, Rambam, Maharsha, Maharam Shiff, Elyah Rabbah, Tosafos Yom Tov, Rabbi Eliyahu HaBachur, Rabbi Yisrael Yaakov Algazi, Vilna Gaon, Rabbi Chaim of Friedburg, Rabbi Meir Mazuz, Rabbi Chaim Kanievsky, Rabbi Yehoshua Boaz, Chasam Sofer, Levush, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Aryeh Leib Tzintz, Rabbi David Tzvi Fetene, Rabbi Eliezer Herstik, Chaim Tawil, Ritva]
+authorities: [Rashi, Rabbeinu Tam, Tosafos, Rambam, Maharsha, Maharam Shiff, Elyah Rabbah, Tosafos Yom Tov, Rabbi Eliyahu HaBachur, Rabbi Yisrael Yaakov Algazi, Vilna Gaon, Rabbi Chaim of Friedburg, Rabbi Meir Mazuz, Rabbi Chaim Kanievsky, Rabbi Yehoshua Boaz, Chasam Sofer, Levush, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Aryeh Leib Tzintz, Rabbi David Tzvi Fetene, Rabbi Eliezer Herstik, Chaim Tawil, Ritva, Ramban, Dr. Michael Sokoloff]
 updated: 2026-09-22
 ---
 # Document: gett / shtar (and the biblical sefer kerisus)
@@ -141,6 +141,14 @@ contracts held by Jews, falling out of use after the expulsion from England in
 1290 until later scholars such as the English parliamentarian John Selden
 revived it.
 
+The Talmud has two more words for a document. The Yerushalmi (end of Kesubos ch.
+9) has *kartis*, a card: one who lost his *kartis* writes another. The Ramban
+(to Kesubos 89) notes that in Arabic and in *la'az* it is *karta*. And the Bavli
+several times has *diska* (so it is usually spelled) for a document, probably
+the Middle Persian *desag*, "form, shape," though Middle Persian has not yet
+shown that word in the technical sense of an official document (Dr. Michael
+Sokoloff, *A Dictionary of Jewish Babylonian Aramaic*, p. 330).
+
 ### The biblical words
 Tanach has neither term. A bill of divorce is *sefer kerisus*, literally a
 "Scroll of Cutting" (Devarim 24:1-3; Yeshayahu 50:1). A deed of purchase is
@@ -184,4 +192,4 @@ Rabbi Reuven Chaim Klein, "[Between Books and Scrolls](https://articles.ohr.edu/
 
 Rabbi Reuven Chaim Klein, "Divorce Bills and other Documents," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Devarim 24:1-3; Yeshayahu 50:1; Yirmiyahu 32; Yechezkel 22:25; Shemos 5:6; Gittin 2a, 10a, 19b, 65b; Bava Kamma 95a; Bava Basra 49a, 154b, 160a, 167b; Kesubos 19a, 79a, 102b; Kiddushin 9b; Moed Katan 18b; Berachos 56a; Mishnah Gittin 2:5 with Rambam; *Sefer HaChaim*; *Sefer HaTishbi*; *Meturgeman*; *Divrei Eliyahu*; *Taama DeKra* to Devarim 24:1; *Levush*, Even HaEzer 125:11; *Kolbo* 76; Dr. Chaim Tawil; Rabbi Eliezer Herstik; Ritva; Devarim 24:1-2; Yirmiyahu 32:11, 32:44; *Kiddushin* 1:1, 1:5.
+Cited in the essay: Devarim 24:1-3; Yeshayahu 50:1; Yirmiyahu 32; Yechezkel 22:25; Shemos 5:6; Gittin 2a, 10a, 19b, 65b; Bava Kamma 95a; Bava Basra 49a, 154b, 160a, 167b; Kesubos 19a, 79a, 102b; Kiddushin 9b; Moed Katan 18b; Berachos 56a; Mishnah Gittin 2:5 with Rambam; *Sefer HaChaim*; *Sefer HaTishbi*; *Meturgeman*; *Divrei Eliyahu*; *Taama DeKra* to Devarim 24:1; *Levush*, Even HaEzer 125:11; *Kolbo* 76; Dr. Chaim Tawil; Rabbi Eliezer Herstik; Ritva; Devarim 24:1-2; Yirmiyahu 32:11, 32:44; *Kiddushin* 1:1, 1:5; Yerushalmi Kesubos, end of ch. 9; Ramban to Kesubos 89; Dr. Michael Sokoloff, *A Dictionary of Jewish Babylonian Aramaic*, p. 330.

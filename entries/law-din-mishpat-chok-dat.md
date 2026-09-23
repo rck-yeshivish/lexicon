@@ -22,7 +22,7 @@ words:
   - he: דת
     tr: dat
     en: law, edict
-    distinct: the king's law or edict in Megillas Esther, not religion (Rabbi Klein); against din, what was done in practice (Rabbi Yosef Nechemias), the law of the land (Ibn Ezra), or the ruler's fiat beyond reason (Rabbi Tzadok HaKohen); practice by force of custom (Pappenheim); perhaps a Persian loanword (Gesenius)
+    distinct: the king's law or edict in Megillas Esther, not religion (Rabbi Klein); against din, what was done in practice (Rabbi Yosef Nechemias), the law of the land (Ibn Ezra), or the ruler's fiat beyond reason (Rabbi Tzadok HaKohen); practice by force of custom (Pappenheim); perhaps a Persian loanword (Gesenius); the Torah has no word for religion at all (Rav Hirsch)
   - he: נימוס
     tr: nimus
     en: law, rule
@@ -31,6 +31,7 @@ sources:
   - wiaw:11715 "Tetzaveh/Purim: Do the Din" (2025-03-08) https://articles.ohr.edu/articles/tetzavehpurim-do-the-din
   - wiaw:8315 "Laws and Orders" (2019-07-06) https://articles.ohr.edu/articles/laws-and-orders
   - ms:255-laws-and-orders.md "Laws and Orders"
+  - ms:176-do-the-din.md "Do the Din"
 authorities: [Rabbi Avraham Bedersi, Ibn Janach, Targum Onkelos, Rabbi Yosef Nechemias, Ibn Ezra, Rabbi Moshe Chalavah, Rabbi Shmuel Laniado, Maharal of Prague, Rabbi Yosef Zecharia Stern, Rabbi Shlomo Aharon Wertheimer, Rabbi Tzadok HaKohen of Lublin, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Nissim of Marseilles, Menachem Ibn Saruk, Ibn Parchon, Ramban, Rashi, Abarbanel, Rav Hirsch, Shadal, Rabbi Moshe Tedeschi, Abu Omar Ibn Yaqwi, Rabbi Eliyahu Benamozegh, Peirush HaRokeach, Rambam, Rabbeinu Bachaya, Ibn Yachya, Radak, Rabbi Eliyahu Menachem Margules, Rabbi Moshe Shapiro, Rabbi Yisrael Salanter, Rabbi Berachiah Beirach Shapiro, Zohar, Rabbi Yaakov Tzvi Mecklenburg, Shemos Rabbah, Old Midrash Tanchuma, Yalkut Shimoni, Gesenius, Avraham Even-Shoshan, Yehoshua Yaron, Benjamin J. Noonan, Rabbi Shlomo Astruc]
 updated: 2026-09-22
 ---
@@ -62,7 +63,7 @@ Tanach to see which answer is most convincing. Nothing below is presented as set
 | חק | chok | statute, decree | unexplained law (Yoma 67b, Rambam); engraved, fixed and unchanging (Pappenheim); kin to *chag* for Shadal too; engraved on the soul (Rabbi Shlomo Astruc) |
 | משפט | mishpat | ordinance, judgment | rational, interpersonal law (Rambam); the verdict weighing two sides (Rabbi Moshe Shapiro) |
 | דין | din | judgment, law | the dispute itself (Bedersi); the penal outcome (Wertheimer); the letter of the law (Nechemias) |
-| דת | dat | law, edict | edict, the king's law, not religion (Rabbi Klein); practice against *din*'s letter (Nechemias) |
+| דת | dat | law, edict | edict, the king's law, not religion (Rabbi Klein); practice against *din*'s letter (Nechemias); the Torah has no word for religion at all (Rav Hirsch) |
 | נימוס | nimus | law, rule | Rabbinic, from Greek *nomos*; society's rules, against *dat* as Hashem's command (Rabbi Nissim) |
 
 ## Distinctions
@@ -196,6 +197,13 @@ Dasan (Bamidbar 16:1) per Sanhedrin 109b, and Yedusun (Tehillim 62:1) per
 leumi*, and secular Israelis often call religious Jews *dosim* after the
 Ashkenazi pronunciation of the tav; but Rabbi Klein holds that the word's
 original sense may have had nothing to do with religion as such.
+
+Rav Hirsch (to Bereishis 11:7), writing on how a language expresses the essence
+of things, observes that the Torah has no word for religion. Where religion is
+one part of life it can be named, and the name marks it off from everything
+else; where all of life, from birth until after death, is bound up with it, no
+one can take its measure or give it a name, since it informs everything and
+everything is included in it.
 
 **What separates it from *din*.**
 - Rabbi Shmuel Laniado is clear that one of the two words means the Torah's laws
@@ -344,4 +352,6 @@ Rabbi Reuven Chaim Klein, "[Laws and Orders](https://articles.ohr.edu/articles/l
 
 Rabbi Reuven Chaim Klein, "Laws and Orders," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Esther 1:8, 1:13, 1:15, 3:8, 3:15, 8:14; Ezra 8:36; Bereishis 37:17; Bamidbar 16:1, 19:2, 21:15; Shemos 5:14, 12:14, 15:25, 30:21; Vayikra 3:16, 18:3, 18:4-5, 23:14 with Yoma 67b; Devarim 3:17, 4:49, 17:8, 33:2; Yehoshua 10:40, 12:3, 12:8, 13:20; Shmuel I 2:13; Melachim I 18:28; Yeshayahu 30:8; Yechezkel 5:7, 20:18; Tehillim 1:2, 62:1, 81:4-5; Mishlei 1:8; Iyov 19:23; Sanhedrin 109b; Gittin 6b, 6:5; Megillah 12b; Rosh HaShanah 3:7; Bava Basra 4:2; Keilim 5:6, 7:1; Ohalos 5:6; Avos 5:16; Rambam, *Shemonah Perakim* 6, *Moreh* 3:26; Rabbeinu Bachaya to Bereishis 26:5, Shemos 15:26, Devarim 6:17 and 7:12; Ibn Yachya and *Shemos Rabbah* 15:25 to Tehillim 147:19; Radak to Tehillim 119:1; Rav Hirsch to Tehillim 119:5; *Zohar* 3:113a; Bedersi, *Chosam Tochnis* s.v. דין, דת; Pappenheim, *Cheshek Shlomo* s.v. DALET-TAV, DALET-NUN; *Old Midrash Tanchuma Vayeshev* §12; *Yalkut Shimoni* to Tehillim 62:1; *Otzar Nirdafim* §402; Benamozegh, *Eim La'Mikra* to Devarim 33:2; Gesenius; Avraham Even-Shoshan's Hebrew dictionary; Yehoshua Yaron, *Mevo L'Midrash HaLashon*; Noonan, *Non-Semitic Loanwords in the Hebrew Bible*, p. 89; Shadal to Bereishis 26:5; Rabbi Shlomo Astruc to Shemos 15:26.
+Rabbi Reuven Chaim Klein, "Do the Din," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Esther 1:8, 1:13, 1:15, 3:8, 3:15, 8:14; Ezra 8:36; Bereishis 37:17; Bamidbar 16:1, 19:2, 21:15; Shemos 5:14, 12:14, 15:25, 30:21; Vayikra 3:16, 18:3, 18:4-5, 23:14 with Yoma 67b; Devarim 3:17, 4:49, 17:8, 33:2; Yehoshua 10:40, 12:3, 12:8, 13:20; Shmuel I 2:13; Melachim I 18:28; Yeshayahu 30:8; Yechezkel 5:7, 20:18; Tehillim 1:2, 62:1, 81:4-5; Mishlei 1:8; Iyov 19:23; Sanhedrin 109b; Gittin 6b, 6:5; Megillah 12b; Rosh HaShanah 3:7; Bava Basra 4:2; Keilim 5:6, 7:1; Ohalos 5:6; Avos 5:16; Rambam, *Shemonah Perakim* 6, *Moreh* 3:26; Rabbeinu Bachaya to Bereishis 26:5, Shemos 15:26, Devarim 6:17 and 7:12; Ibn Yachya and *Shemos Rabbah* 15:25 to Tehillim 147:19; Radak to Tehillim 119:1; Rav Hirsch to Tehillim 119:5; *Zohar* 3:113a; Bedersi, *Chosam Tochnis* s.v. דין, דת; Pappenheim, *Cheshek Shlomo* s.v. DALET-TAV, DALET-NUN; *Old Midrash Tanchuma Vayeshev* §12; *Yalkut Shimoni* to Tehillim 62:1; *Otzar Nirdafim* §402; Benamozegh, *Eim La'Mikra* to Devarim 33:2; Gesenius; Avraham Even-Shoshan's Hebrew dictionary; Yehoshua Yaron, *Mevo L'Midrash HaLashon*; Noonan, *Non-Semitic Loanwords in the Hebrew Bible*, p. 89; Shadal to Bereishis 26:5; Rabbi Shlomo Astruc to Shemos 15:26; Bereishis 11:7 with Rav Hirsch.

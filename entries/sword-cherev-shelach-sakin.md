@@ -113,6 +113,9 @@ Pappenheim and Rabbi Avraham Vilner (1765 to 1808), a son of the Vilna Gaon, der
 *sayif* from *sof*, end, as a sword can end a life (forms of *sof* mean death in
 Bereishis 18:23 and Yeshayahu 7:20). The Arabic name Saif also means "sword."
 
+The Gemara has one more Aramaic word for a sword, *safsira* (Yevamos 120b,
+Sanhedrin 67b), which Rashi (to Sanhedrin 67b) explains as a *cherev*.
+
 The Tashbetz (*Magen Avos*, Jerusalem 2007, p. 57): *sayif* and *cherev* mean
 exactly the same thing.
 
@@ -145,4 +148,4 @@ Rabbi Reuven Chaim Klein, "[The Sword of Methusaleh](https://groups.google.com/g
 
 Rabbi Reuven Chaim Klein, "The Sword of Methusaleh," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Bereishis 10 to 11, 18:23, 22:6, 22:10, 37:32; Shemos 20:22 (Targum Yonasan); Bamidbar 33:55; Shoftim 19:29, 20:2 (Targum Yonasan); Yeshayahu 2:18, 7:20; Yoel 2:8; Mishlei 23:2, 30:14; Iyov 33:18, 36:12; Ezra 1:9; Nechemiah 4:11, 4:17; Divrei HaYamim I 1; Divrei HaYamim II 23:10, 32:5; Yoma 36a (Rashi, Ritva); Zevachim 20a (Rashi); Middos 4:7 (Rabbeinu Shimshon of Shantz); the Midrash, cited by *Peirush HaRokeach* and *Sifsei Kohen*; *Imrei Noam*; *Zera Beirech*; Radak; Malbim, *Sefer HaCarmel* s.v. שלח; Rabbi Shlomo Pappenheim; Rabbi Eliyahu HaBachur, *Meturgeman* s.v. סייף; Rabbi Avraham Vilner; Rashi to Bereishis 22:6; Bartenura; Rabbi Yisrael Lipschitz; Rabbi Reuven Margolios; Rabbi David Kamin; Tashbetz, *Magen Avos* p. 57; Bereishis 37:32.
+Cited in the essay: Bereishis 10 to 11, 18:23, 22:6, 22:10, 37:32; Shemos 20:22 (Targum Yonasan); Bamidbar 33:55; Shoftim 19:29, 20:2 (Targum Yonasan); Yeshayahu 2:18, 7:20; Yoel 2:8; Mishlei 23:2, 30:14; Iyov 33:18, 36:12; Ezra 1:9; Nechemiah 4:11, 4:17; Divrei HaYamim I 1; Divrei HaYamim II 23:10, 32:5; Yoma 36a (Rashi, Ritva); Zevachim 20a (Rashi); Middos 4:7 (Rabbeinu Shimshon of Shantz); the Midrash, cited by *Peirush HaRokeach* and *Sifsei Kohen*; *Imrei Noam*; *Zera Beirech*; Radak; Malbim, *Sefer HaCarmel* s.v. שלח; Rabbi Shlomo Pappenheim; Rabbi Eliyahu HaBachur, *Meturgeman* s.v. סייף; Rabbi Avraham Vilner; Rashi to Bereishis 22:6; Bartenura; Rabbi Yisrael Lipschitz; Rabbi Reuven Margolios; Rabbi David Kamin; Tashbetz, *Magen Avos* p. 57; Bereishis 37:32; Yevamos 120b; Sanhedrin 67b with Rashi.

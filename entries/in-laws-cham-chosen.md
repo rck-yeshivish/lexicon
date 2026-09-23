@@ -19,7 +19,7 @@ words:
   - he: חותן
     tr: chosen
     en: father-in-law
-    distinct: always a husband's father-in-law, never widened, since it names the man who made him a chasan (Pri Megadim); built on connection (Rav Hirsch); can also mean brother-in-law (Ibn Janach), which Radak disputes
+    distinct: always a husband's father-in-law, never widened, since it names the man who made him a chasan (Pri Megadim); built on connection (Rav Hirsch); can also mean brother-in-law (Ibn Janach), which Radak disputes; any tie made by marriage (Benamozegh)
   - he: חותנת
     tr: choseness
     en: mother-in-law
@@ -28,7 +28,8 @@ sources:
   - wiaw:8605 "Heat with the In-Laws" (2020-02-15) https://articles.ohr.edu/articles/heat-with-the-in-laws
   - wiaw:9338 "Sort of Siblings" (2021-08-21) https://articles.ohr.edu/articles/sort-of-siblings
   - ms:123-heat-with-the-in-laws.md "Heat with the In-laws"
-authorities: [Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Menachem Azariah of Fano, Pri Megadim, Rabbi Shimon Pollack, Rabbi Yonah Ibn Janach]
+  - ms:122-g-ds-best-friend.md "G-d’s Best Friend"
+authorities: [Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Menachem Azariah of Fano, Pri Megadim, Rabbi Shimon Pollack, Rabbi Yonah Ibn Janach, Rabbi Eliyahu Benamozegh]
 updated: 2026-09-22
 ---
 # In-laws: cham and chamos / chosen and choseness
@@ -48,7 +49,7 @@ The Hebrew tells which side of the marriage is speaking.
 |---|---|---|---|
 | חם | cham | father-in-law | the wife's word (Radak); widened in Mishnaic Hebrew to the husband's |
 | חמות | chamos | mother-in-law | the wife's word (Radak); forever watching her daughter-in-law (Pri Megadim); kin to *cheimah*, anger (Ibn Janach) |
-| חותן | chosen | father-in-law | the husband's word, never widened (Pri Megadim); kin to *chasan* |
+| חותן | chosen | father-in-law | the husband's word, never widened (Pri Megadim); kin to *chasan*; any tie made by marriage (Benamozegh) |
 | חותנת | choseness | mother-in-law | the husband's word, formed from *chosen* (Pri Megadim) |
 
 ## Distinctions
@@ -111,6 +112,13 @@ reads *shochev im chosanto* (Devarim 27:23).
   Both seem to disregard the Midrashic position that Reuel and Chovav are alike
   alternate names for Yisro. The Akkadian cognate of *chosen* can mean both
   father-in-law and brother-in-law.
+- Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Shemos 2:18) widens it further:
+  *chasan* and *chosen* name any relationship made by marriage, and with this he
+  settles the contradiction over Athaliah's parentage. On that basis Reuel was
+  Moshe's father-in-law, and Yisro and Chovav were Reuel's two sons. When Reuel
+  died, Yisro took his place as head of the tribe, perhaps as the eldest son,
+  which is why Moshe tended his flock (Shemos 3:1); and in the second year after
+  the Exodus, Chovav joined the Jewish People.
 
 *Pri Megadim* on why this pair never widened: *chosen* names the man who made
 him a *chasan*, and *choseness* was formed from it. Since *chasan* is by
@@ -156,4 +164,6 @@ Rabbi Reuven Chaim Klein, "[Sort of Siblings](https://articles.ohr.edu/articles/
 
 Rabbi Reuven Chaim Klein, "Heat with the In-laws," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Shemos 18:1-27; Devarim 27:23; Bamidbar 10:29; Shoftim 4:11; Ibn Janach; Bereishis 38:13, 38:25; Rus 2:11-3:17; Shir HaShirim 8:7; Tehillim 51:7; Kesubos 1:5; Yevamos 1:1 and 15:4; Radak, *Sefer HaShorashim*; Rav Hirsch; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. חם, חת; Rabbi Menachem Azariah of Fano; the *Pri Megadim*, in a letter on dikduk; *Shem MiShimon* (Rabbi Shimon Pollack); Ibn Janach, *Sefer HaShorashim* s.v. חמה.
+Rabbi Reuven Chaim Klein, "G-d’s Best Friend," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 18:1-27; Devarim 27:23; Bamidbar 10:29; Shoftim 4:11; Ibn Janach; Bereishis 38:13, 38:25; Rus 2:11-3:17; Shir HaShirim 8:7; Tehillim 51:7; Kesubos 1:5; Yevamos 1:1 and 15:4; Radak, *Sefer HaShorashim*; Rav Hirsch; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. חם, חת; Rabbi Menachem Azariah of Fano; the *Pri Megadim*, in a letter on dikduk; *Shem MiShimon* (Rabbi Shimon Pollack); Ibn Janach, *Sefer HaShorashim* s.v. חמה; Shemos 2:18 with Benamozegh; Shemos 3:1.

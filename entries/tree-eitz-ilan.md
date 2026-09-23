@@ -9,7 +9,7 @@ words:
   - he: עץ
     tr: eitz
     en: tree, wood
-    distinct: seemingly the Hebrew word, and in Tanach it covers both the living tree and its cut wood; from the same family as atzum, strong, and etzem, bone, for the hardness that sets a tree apart from grass (Rabbi Shlomo Pappenheim)
+    distinct: seemingly the Hebrew word, and in Tanach it covers both the living tree and its cut wood; from the same family as atzum, strong, and etzem, bone, for the hardness that sets a tree apart from grass (Rabbi Shlomo Pappenheim); allegorically eitzah, a way of life (Rabbi Nissim of Marseilles)
   - he: אילן
     tr: ilan
     en: living tree
@@ -17,8 +17,9 @@ words:
 sources:
   - wiaw:7133 "Tree Words" (2017-02-11) https://articles.ohr.edu/articles/tree-words
   - wiaw:8857 "The Strong Ones" (2020-09-12) https://articles.ohr.edu/articles/the-strong-ones
-authorities: [Rabbi Shlomo Pappenheim, Rabbi Chaim Hirschensohn, Rabbi Betzalel Stern, Rabbi Moshe Shapiro]
-updated: 2026-09-10
+  - ms:181-the-kidneys-advisory.md "The Kidneys Advisory"
+authorities: [Rabbi Shlomo Pappenheim, Rabbi Chaim Hirschensohn, Rabbi Betzalel Stern, Rabbi Moshe Shapiro, Rabbi Nissim of Marseilles]
+updated: 2026-09-22
 ---
 # Tree: eitz / ilan
 
@@ -36,7 +37,7 @@ berachos.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| עץ | eitz | tree, wood | seemingly Hebrew; in Tanach both senses at once (Hirschensohn); related to atzum and etzem, for a tree's strength and durability (Pappenheim) |
+| עץ | eitz | tree, wood | seemingly Hebrew; in Tanach both senses at once (Hirschensohn); related to atzum and etzem, for a tree's strength and durability (Pappenheim); allegorically *eitzah*, a way of life (Rabbi Nissim of Marseilles) |
 | אילן | ilan | living tree | seemingly Aramaic, only in Daniel 4 in Tanach; Hebraized and adopted by Chazal for the living tree (Hirschensohn) |
 
 ## Distinctions
@@ -51,6 +52,12 @@ Countless times in Tanach: *eitz hadaas*, *eitz hachaim*, *atzei shittim*,
 - Rabbi Moshe Shapiro finds a common theme in all words containing ע-ץ: an
   *eitz* contains within itself everything that will be created from it, as
   *etzem*, self, contains the sum total of one's potential.
+- Rabbi Nissim of Marseilles (on Bereishis, p. 253) reads *eitz* in the account
+  of Gan Eden allegorically as *eitzah*, counsel, a way of approaching life, and
+  its trees as three such ways. The *eitz hachaim* (Bereishis 2:9, 3:24) is
+  shunning all physicality for a wholly intellectual life; the *eitz hadaas tov
+  vara* is pursuing every physical pleasure and forgetting the intellect; the
+  *eitz nechmad lemareh* (2:9) is the middle road that balances the two.
 
 ### ilan (אילן) and ilana (אילנא)
 *Ilan* appears once in Tanach, at Daniel 4:7, and *ilana* several times in the
@@ -97,4 +104,6 @@ Rabbi Reuven Chaim Klein, "[Tree Words](https://articles.ohr.edu/articles/tree-w
 
 Rabbi Reuven Chaim Klein, "[The Strong Ones](https://articles.ohr.edu/articles/the-strong-ones)," *What's in a Word?*, Ohr Somayach, 12 September 2020.
 
-Cited in the essay: Daniel 4:7, 4:8, 4:11, 4:17, 4:20, 4:23; Berachos 6:1; Rabbi Shlomo Pappenheim; Rabbi Chaim Hirschensohn; Rabbi Betzalel Stern, Responsa *Be'tzel HaChochmah*; Rabbi Moshe Shapiro.
+Rabbi Reuven Chaim Klein, "The Kidneys Advisory," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Daniel 4:7, 4:8, 4:11, 4:17, 4:20, 4:23; Berachos 6:1; Rabbi Shlomo Pappenheim; Rabbi Chaim Hirschensohn; Rabbi Betzalel Stern, Responsa *Be'tzel HaChochmah*; Rabbi Moshe Shapiro; Bereishis 2:9, 3:24; Rabbi Nissim of Marseilles on Bereishis, p. 253.

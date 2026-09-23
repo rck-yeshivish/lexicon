@@ -25,7 +25,7 @@ words:
   - he: בתר
     tr: batar
     en: cut in half
-    distinct: cutting an animal in two for a covenant, the parties passing between the halves; kin to bris, with the same three consonants (Pappenheim)
+    distinct: cutting an animal in two for a covenant, the parties passing between the halves; kin to bris, with the same three consonants (Pappenheim); whence bris, by metathesis (Shadal)
   - he: נתח
     tr: netach
     en: cut into pieces
@@ -95,7 +95,7 @@ saying something different about who did what to what.
 | קריעה | korea | tear | tearing something soft (Pappenheim); from outside (Shem MiShmuel) |
 | גזירה | gozer | cut, decree | a blade sawing through something thick (Pappenheim); also deciding (Rav Hirsch) |
 | חתיכה | chatichah | cut | cutting in half (Pappenheim); the general Rabbinic word |
-| בתר | batar | cut in half | halving an animal for a covenant (Pappenheim) |
+| בתר | batar | cut in half | halving an animal for a covenant (Pappenheim); whence *bris*, by metathesis (Shadal) |
 | נתח | netach | cut into pieces | into many pieces, the eye on the whole (Pappenheim) |
 | פתיתה | petitah | break up | breaking up by hand, the eye on the pieces (Pappenheim) |
 | מילה | milah | cut off the top | cutting off the top of something; whence *mohel* |
@@ -176,12 +176,14 @@ two halves. Rabbinic Hebrew adopted it as the general word and widened it to
 cutting of every sort.
 
 ### batar (בתר)
-Also a cutting in half, but Rabbi Pappenheim narrows it: cutting an animal in two
-for a covenant, the parties passing between the halves. Hence *Bris Bein
+Also a cutting in half, but Rabbi Pappenheim narrows it: cutting an animal in
+two for a covenant, the parties passing between the halves. Hence *Bris Bein
 HaBesarim* (Bereishis 15) and Yirmiyahu 34:18-19. He reads *batar* as kin to
 *bris*, the same three consonants. *Harei bater* (Shir HaShirim 2:17) is a pair
 of mountains that appear to have been originally formed as one and to have been
-split from each other over time.
+split from each other over time. Shadal (to Bereishis 9:9, 15:10) derives *bris*
+from *batar* by metathesis, since a covenant was made by cutting animals in
+half.
 
 ### netach (נתח)
 Cutting an animal into **many** pieces rather than two, and not for a covenant:
@@ -259,4 +261,4 @@ Rabbi Reuven Chaim Klein, "[Karet and Ariri](https://articles.ohr.edu/articles/k
 
 Rabbi Reuven Chaim Klein, "Cut it out!," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Shemos 14:16, 14:21; *Shulchan Aruch HaRav*, *Orach Chaim* 340:17; Yeshayahu 34:15; *Gittin* 26a; Tehillim 136:13, 72:6, 37:2, 58:8, 91:6, 141:7; Bereishis 15, 15:17, 31:19, 38:12; Melachim I 3:25; Melachim II 6:4; Daniel 9:24; Yirmiyahu 34:18-19; Shir HaShirim 2:17, 4:3; Vayikra 2:6, 13:45, 21:10; Iyov 18:16, 24:24; Mishlei 7:23; Shmuel I 30:12; Devarim 24:1, 32:24; Yeshayahu 28:2; Hoshea 13:14; Rav Hirsch to Tehillim 136:13; Rabbi Shlomo Pappenheim, *Yerios Shlomo*; Shadal to Shemos 18:21.
+Cited in the essay: Shemos 14:16, 14:21; *Shulchan Aruch HaRav*, *Orach Chaim* 340:17; Yeshayahu 34:15; *Gittin* 26a; Tehillim 136:13, 72:6, 37:2, 58:8, 91:6, 141:7; Bereishis 15, 15:17, 31:19, 38:12; Melachim I 3:25; Melachim II 6:4; Daniel 9:24; Yirmiyahu 34:18-19; Shir HaShirim 2:17, 4:3; Vayikra 2:6, 13:45, 21:10; Iyov 18:16, 24:24; Mishlei 7:23; Shmuel I 30:12; Devarim 24:1, 32:24; Yeshayahu 28:2; Hoshea 13:14; Rav Hirsch to Tehillim 136:13; Rabbi Shlomo Pappenheim, *Yerios Shlomo*; Shadal to Shemos 18:21; Bereishis 9:9, 15:10 with Shadal.

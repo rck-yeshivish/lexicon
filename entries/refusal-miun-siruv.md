@@ -21,8 +21,9 @@ words:
 sources:
   - wiaw:9254 "Biblical Refuseniks" (2021-06-19) https://articles.ohr.edu/articles/biblical-refuseniks
   - wiaw:9809 "Of Thorns and Thistles" (2022-08-06) https://articles.ohr.edu/articles/of-thorns-and-thistles
-authorities: [Menachem Ibn Saruk, Donash Ibn Labrat, Rashi, Radak, Rambam, Bartenura, Tosafos Yom Tov, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Yaakov Dienna, Oxford English Dictionary, Mahari Kara]
-updated: 2026-09-10
+  - ms:259-biblical-refuseniks.md "Biblical Refuseniks"
+authorities: [Menachem Ibn Saruk, Donash Ibn Labrat, Rashi, Radak, Rambam, Bartenura, Tosafos Yom Tov, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Yaakov Dienna, Oxford English Dictionary, Mahari Kara, Dr. Alexander Kohut, Jastrow]
+updated: 2026-09-22
 ---
 # Refusal: mi'un / siruv
 
@@ -108,6 +109,11 @@ is *misarev* (*Nedarim* 8:7), because he refuses to give up on changing the
 other's mind (see *Tosafos Yom Tov*); the form sometimes takes an extra hei,
 *mis'harev*, for pestering (Rashi to Bava Kamma 28a, 32b, Chullin 94a).
 
+Some derive the word from *rahav*, on the *shafel* pattern (Dr. Alexander Kohut,
+*Aruch HaShalem* s.v. סרב; Jastrow, p. 1023). In some places *sarhev* means
+haste, like *rahav* (Berachos 47a; Shabbos 10a, 129b; Chullin 7b; Targum to
+Mishlei 1:16, 6:8; Targum Sheni to Esther 10).
+
 ### Where they part
 The early commentary to Targum Onkelos *ascribed* to Rabbi Yaakov Dienna
 (published under the various names *Patshegen*, *Tzintzenes HaMan*, and *Sefer
@@ -186,4 +192,6 @@ Rabbi Reuven Chaim Klein, "[Biblical Refuseniks](https://articles.ohr.edu/articl
 
 Rabbi Reuven Chaim Klein, "[Of Thorns and Thistles](https://articles.ohr.edu/articles/of-thorns-and-thistles)," *What's in a Word?*, Ohr Somayach, 6 August 2022.
 
-Cited in the essay: Bereishis 37:35, 39:8, 48:19; Shemos 7:27 with Midrash *Sechel Tov*, 22:16; Bamidbar 20:21, 22:13; Shmuel II 13:9; Yechezkel 2:3, 2:6 with Menachem Ibn Saruk, Donash Ibn Labrat, Rashi, Mahari Kara and Radak, 28:24; Mishnah *Berachos* 5:3 with the Rambam and Bartenura, *Nedarim* 8:7 with *Tosafos Yom Tov*, *Moed Katan* 3:3, *Yevamos* 13:1-6, *Bava Metzia* 1:8, *Sanhedrin* 1:3, *Chullin* 1:7; Rashi to Bava Kamma 28a, 32b and Chullin 94a; Targum Onkelos; Rabbi Shlomo Pappenheim; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* and *Meturgeman*; the commentary to Targum Onkelos ascribed to Rabbi Yaakov Dienna (*Patshegen*, *Sefer HaYair*), to Shemos 22:16 and Bamidbar 22:13; the *Oxford English Dictionary*.
+Rabbi Reuven Chaim Klein, "Biblical Refuseniks," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 37:35, 39:8, 48:19; Shemos 7:27 with Midrash *Sechel Tov*, 22:16; Bamidbar 20:21, 22:13; Shmuel II 13:9; Yechezkel 2:3, 2:6 with Menachem Ibn Saruk, Donash Ibn Labrat, Rashi, Mahari Kara and Radak, 28:24; Mishnah *Berachos* 5:3 with the Rambam and Bartenura, *Nedarim* 8:7 with *Tosafos Yom Tov*, *Moed Katan* 3:3, *Yevamos* 13:1-6, *Bava Metzia* 1:8, *Sanhedrin* 1:3, *Chullin* 1:7; Rashi to Bava Kamma 28a, 32b and Chullin 94a; Targum Onkelos; Rabbi Shlomo Pappenheim; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* and *Meturgeman*; the commentary to Targum Onkelos ascribed to Rabbi Yaakov Dienna (*Patshegen*, *Sefer HaYair*), to Shemos 22:16 and Bamidbar 22:13; the *Oxford English Dictionary*; *Aruch HaShalem* s.v. סרב; Jastrow, p. 1023; Berachos 47a; Shabbos 10a, 129b; Chullin 7b; Targum to Mishlei 1:16, 6:8; Targum Sheni to Esther 10.

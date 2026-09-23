@@ -33,8 +33,9 @@ words:
     distinct: the wild donkey's cry; from ק, expulsion, moaning that clears the heart of its suffering (Rabbi Shlomo Pappenheim)
 sources:
   - wiaw:9126 "Vayakhel/Pekudei: Animal Sounds" (2021-03-13) https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds
+  - ms:328-animal-sounds.md "Animal Sounds"
 authorities: [Donash Ibn Labrat, Menachem Ibn Saruk, Rashi, Rabbi Nosson of Rome (Sefer HeAruch), Vilna Gaon, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Yechiel Michel Stern, Rabbi David Chaim Chelouche, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Aharon Marcus]
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Animal sounds: shoeg / nohem / yehegeh / noer (shokek, nohek)
 
@@ -121,6 +122,9 @@ adds: a lion *shoeg* (Amos 3:8, Yechezkel 22:25, Tehillim 104:21), a bear
 and 29:4, Yoel 1:20, Tehillim 42:2, Mishlei 28:15, Iyov 6:5, and Chullin 53a,
 and adds *charatz* for a dog's bark (Shemos 11:7).
 
+Radak (to Yirmiyahu 8:16) makes the horses' *mitzhalos* there a sound of joy, as
+the pasuk says of the horse, *yasis bechoach* (Iyov 39:21).
+
 ### Rabbi Pappenheim's biliteral roots
 Beyond the lion's four, Rabbi Pappenheim traces several of these verbs to their
 core two-letter roots. *Goeh*, a cow's moo, comes from ג-ע, exertion to the point
@@ -204,4 +208,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Vayakhel/Pekudei: Animal Sounds](https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds)," *What's in a Word?*, Ohr Somayach, 13 March 2021.
 
-Cited in the essay: Donash Ibn Labrat's response to Menachem Ibn Saruk, lines 82 to 83; *Machberes Menachem* s.v. ג-ע; Rashi to Yeshayahu 8:19 and 29:4, Yoel 1:20, Tehillim 42:2, Mishlei 28:15, Iyov 6:5, Chullin 53a and 79a, Sotah 42a, Sanhedrin 102a, Berachos 32a; *Sefer HeAruch* s.v. נער; Vilna Gaon to Mishlei 28:15; Rav Hirsch to Devarim 25:18; Berachos 3a; *Targum Sheini* to Esther 1:2; Yechezkel 21:20; Rabbi Aharon Marcus.
+Rabbi Reuven Chaim Klein, "Animal Sounds," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Donash Ibn Labrat's response to Menachem Ibn Saruk, lines 82 to 83; *Machberes Menachem* s.v. ג-ע; Rashi to Yeshayahu 8:19 and 29:4, Yoel 1:20, Tehillim 42:2, Mishlei 28:15, Iyov 6:5, Chullin 53a and 79a, Sotah 42a, Sanhedrin 102a, Berachos 32a; *Sefer HeAruch* s.v. נער; Vilna Gaon to Mishlei 28:15; Rav Hirsch to Devarim 25:18; Berachos 3a; *Targum Sheini* to Esther 1:2; Yechezkel 21:20; Rabbi Aharon Marcus; Yirmiyahu 8:16 with Radak; Iyov 39:21.

@@ -16,8 +16,9 @@ words:
     distinct: the same tool under its later, Aramaic-influenced name (Sifrei, Targum), used by the later nevi'im and the Mishnah (Yeivin); from ג-ל, round, for the curved blade (Pappenheim); fits the Pesach theme of galus and geulah (Rabbi Klein)
 sources:
   - wiaw:9153 "Pesach: The Sickle and the Exile" (2021-03-27) https://articles.ohr.edu/articles/pesach-the-sickle-and-the-exile
-authorities: [Sifrei, Targum, Radak, Rambam, Rav Hirsch, Rabbi David Chaim Chelouche, Rabbi Moshe David Valle, Rabbi Chaim Vital, Rabbi Shlomo Pappenheim, Dr. Shmuel Yeivin, Dr. Shlomo Mandelkorn]
-updated: 2026-09-10
+  - ms:225-the-sickle-and-the-exile.md "The Sickle and the Exile"
+authorities: [Sifrei, Targum, Radak, Rambam, Rav Hirsch, Rabbi David Chaim Chelouche, Rabbi Moshe David Valle, Rabbi Chaim Vital, Rabbi Shlomo Pappenheim, Dr. Shmuel Yeivin, Dr. Shlomo Mandelkorn, Rabbi Eliyahu Benamozegh]
+updated: 2026-09-22
 ---
 # Sickle: chermesh / magal
 
@@ -66,6 +67,8 @@ Roots proposed:
   tool used for destroying or cutting. Dr. Shlomo Mandelkorn (1846-1902), in his
   concordance of Biblical Hebrew *Heichal HaKodesh*, also suggests *chermesh*
   derives from *cherem*.
+- Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Vayikra 27:29) gives *cherem*
+  itself two senses: what is to be put to death, and what is holy.
 - Rabbi David Chaim Chelouche (1920-2016), the late Chief Rabbi of Netanya:
   the quadriliteral root reflects a merger of two biliterals, ח-ר ("hole") and
   מ-ש ("move"), since the tool cuts, that is, creates a hole in the grain, and
@@ -157,4 +160,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Pesach: The Sickle and the Exile](https://articles.ohr.edu/articles/pesach-the-sickle-and-the-exile)," *What's in a Word?*, Ohr Somayach, 27 March 2021.
 
-Cited in the essay: Bereishis 25:6 with Rav Hirsch; Devarim 16:9 with Rabbi Chaim Vital, and 23:26 with the *Sifrei*; Yirmiyahu 50:16; Yoel 4:13; Mishnah Peah 4:4 and Sheviis 4:6, 5:6 with the Rambam's commentary, Menachos 10:3, Keilim 13:1, 15:4; Tosefta Bava Metzia 2:14; the Targumim; Radak, *Sefer HaShorashim*; Rabbi David Chaim Chelouche, *Ohr Chadash* to Devarim 16:9; Rabbi Moshe David Valle; Rabbi Shlomo Pappenheim; Dr. Shmuel Yeivin; Dr. Shlomo Mandelkorn, *Heichal HaKodesh*.
+Rabbi Reuven Chaim Klein, "The Sickle and the Exile," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 25:6 with Rav Hirsch; Devarim 16:9 with Rabbi Chaim Vital, and 23:26 with the *Sifrei*; Yirmiyahu 50:16; Yoel 4:13; Mishnah Peah 4:4 and Sheviis 4:6, 5:6 with the Rambam's commentary, Menachos 10:3, Keilim 13:1, 15:4; Tosefta Bava Metzia 2:14; the Targumim; Radak, *Sefer HaShorashim*; Rabbi David Chaim Chelouche, *Ohr Chadash* to Devarim 16:9; Rabbi Moshe David Valle; Rabbi Shlomo Pappenheim; Dr. Shmuel Yeivin; Dr. Shlomo Mandelkorn, *Heichal HaKodesh*; Vayikra 27:29 with Benamozegh.

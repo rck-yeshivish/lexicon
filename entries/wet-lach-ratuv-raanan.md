@@ -32,8 +32,9 @@ words:
     distinct: a Bavli word of fish and stones; wet (Rashi) against hearty, plump, or fat (the Aruch, Jastrow); Rabbi Klein suggests Rashi means sodden, so saturated as to be bloated; mysterious, from palmoni (Ralbag)
 sources:
   - wiaw:11276 "Titzaveh: Wet Words" (2024-02-24) https://articles.ohr.edu/articles/titzaveh-wet-words
+  - ms:187-wet-words.md "Wet Words"
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Ibn Parchon, Rabbi Moshe Tedeschi-Ashkenazi, Rashi, Ibn Ezra, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi, Rav Hirsch, Rabbi Yosef Kara, Rabbi Yosef Kimchi, Sforno, Metzudas Tzion, Malbim, Rabbi Nosson of Rome, Marcus Jastrow, Alexander Kohut, Ralbag, Rema, Ben Yehoyada, Rabbi Chaim Kanievsky]
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Wetness: lach / ratuv / ra'anan / rutfash / tofeach / mefulam
 
@@ -93,6 +94,11 @@ The word is a case study in root theory.
   *melach*, salt, which draws liquid out, as in salting meat. The name of the
   Lechi paramilitary group is an acronym of *lochamei cheirus Yisrael* and has
   nothing to do with the word.
+
+Another word for moist: in *umakah teriyah* (Yeshayahu 1:6), Rashi (in his
+second explanation, citing Menachem), Ibn Ezra and Radak read *teriyah* as a wet
+wound, one that stays moist. Ibn Ezra compares *lechi chamor teriyah* (Shoftim
+15:15).
 
 ### ratuv (רטוב)
 All the classical lexicographers agree on the root reish-tes-beis. It occurs
@@ -225,4 +231,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Titzaveh: Wet Words](https://articles.ohr.edu/articles/titzaveh-wet-words)," *What's in a Word?*, Ohr Somayach, 24 February 2024.
 
-Cited in the essay: Bereishis 1:2 (Ralbag), 25:6 (Rav Hirsch), 30:37; Bamidbar 6:3; Devarim 12:2 (Ibn Ezra), 34:7; Shoftim 6:19-20, 16:7-8; Yechezkel 17:24, 21:3; Iyov 8:16, 24:8, 33:25; Tehillim 92:11, 92:15, 103:5 (Radak); Daniel 8:13; Esther 2:1; Mishnah *Demai* 2:3, *Nedarim* 7:1, 7:6, *Eduyos* 4:6, 5:4, *Menachos* 9:2, *Bechoros* 6:3, *Mikvaos* 9:2, *Niddah* 4:3, 7:2, *Tevul Yom* 3:6, *Uktzin* 2:2, *Pesachim* 7:2, *Zevachim* 3:4, *Chullin* 7:5, 9:1, *Taharos* 1:4, 1:9, 3:1, 8:8-9, *Keilim* 8:3-4, 10:8, *Machshirin* 3:5, *Shabbos* 22:6; Sukkah 10b; Berachos 25b; Yoma 78a; Beitzah 24b; Chagigah 12a; Zevachim 54a; Nedarim 41a, 52a; Rashi and Ibn Ezra to Iyov; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach and Radak, *Sifrei HaShorashim*; Ibn Parchon, *Machberes HeAruch*; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim* (קסח); Rabbi Shlomo Pappenheim, *Yerios Shlomo*; Rabbi Avraham Bedersi, *Chosam Tochnis*; Rabbi Yosef Kara; Rabbi Yosef Kimchi; Sforno; *Metzudas Tzion*; Malbim; Rabbi Nosson of Rome, *Sefer HeAruch*; Marcus Jastrow; Alexander Kohut, *Aruch HaShalem*; Rabbi Chaim Kanievsky, *Derech Chochmah* to *Hilchos Beis HaBechirah* 1:92; the Rema, *Mechir Yayin* and *Toras HaOlah*; *Ben Yehoyada* to Chagigah 12a.
+Rabbi Reuven Chaim Klein, "Wet Words," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 1:2 (Ralbag), 25:6 (Rav Hirsch), 30:37; Bamidbar 6:3; Devarim 12:2 (Ibn Ezra), 34:7; Shoftim 6:19-20, 16:7-8; Yechezkel 17:24, 21:3; Iyov 8:16, 24:8, 33:25; Tehillim 92:11, 92:15, 103:5 (Radak); Daniel 8:13; Esther 2:1; Mishnah *Demai* 2:3, *Nedarim* 7:1, 7:6, *Eduyos* 4:6, 5:4, *Menachos* 9:2, *Bechoros* 6:3, *Mikvaos* 9:2, *Niddah* 4:3, 7:2, *Tevul Yom* 3:6, *Uktzin* 2:2, *Pesachim* 7:2, *Zevachim* 3:4, *Chullin* 7:5, 9:1, *Taharos* 1:4, 1:9, 3:1, 8:8-9, *Keilim* 8:3-4, 10:8, *Machshirin* 3:5, *Shabbos* 22:6; Sukkah 10b; Berachos 25b; Yoma 78a; Beitzah 24b; Chagigah 12a; Zevachim 54a; Nedarim 41a, 52a; Rashi and Ibn Ezra to Iyov; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach and Radak, *Sifrei HaShorashim*; Ibn Parchon, *Machberes HeAruch*; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim* (קסח); Rabbi Shlomo Pappenheim, *Yerios Shlomo*; Rabbi Avraham Bedersi, *Chosam Tochnis*; Rabbi Yosef Kara; Rabbi Yosef Kimchi; Sforno; *Metzudas Tzion*; Malbim; Rabbi Nosson of Rome, *Sefer HeAruch*; Marcus Jastrow; Alexander Kohut, *Aruch HaShalem*; Rabbi Chaim Kanievsky, *Derech Chochmah* to *Hilchos Beis HaBechirah* 1:92; the Rema, *Mechir Yayin* and *Toras HaOlah*; *Ben Yehoyada* to Chagigah 12a; Yeshayahu 1:6 with Rashi, Ibn Ezra and Radak; Shoftim 15:15.

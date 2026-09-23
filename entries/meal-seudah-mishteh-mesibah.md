@@ -23,7 +23,7 @@ words:
 sources:
   - wiaw:7176 "Party Hardy" (2017-03-11) https://articles.ohr.edu/articles/party-hardy
   - ms:166-party-hardy.md "Party Hardy"
-authorities: [Radak, Rabbi Tzaddok HaKohen of Lublin, Rashi, Rashbam, Rabbi Levi Yitzchok of Berditchev, Shadal, Rabbi Eliyahu Benamozegh]
+authorities: [Radak, Rabbi Tzaddok HaKohen of Lublin, Rashi, Rashbam, Rabbi Levi Yitzchok of Berditchev, Shadal, Rabbi Eliyahu Benamozegh, Ohr Zarua]
 updated: 2026-09-22
 ---
 # Meal: seudah / mishteh / mesibah
@@ -58,6 +58,12 @@ with bread: *v'lechem levav enosh yis'ad* (Tehillim 104:15), *s'ad libcha pas
 lechem* (Shoftim 19:5), *v'sa'adu libchem* (Bereishis 18:5). The name Saadia,
 most famously borne by Rabbeinu Saadia Gaon (882-942), is "support from
 Hashem." So a *seudah* is named for what the festive meal does for the body.
+
+The Yerushalmi (Berachos 4:1) has Rabbi Yehoshua ben Levi instruct that one
+going up to an *aristavon* after the sixth hour should daven first and eat
+afterward. The Ohr Zarua (*Hilchos Pesach* 256) explains *aristavon* as a great
+feast, as in Vayikra Rabbah 13:3, that Hashem will make an *aristavon* for the
+tzaddikim in the time to come.
 
 ### mishteh (משתה)
 The word and its derivatives appear close to fifty times in Tanach, from the
@@ -122,4 +128,4 @@ Rabbi Reuven Chaim Klein, "[Party Hardy](https://articles.ohr.edu/articles/party
 
 Rabbi Reuven Chaim Klein, "Party Hardy," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Bereishis 18:5; Shoftim 19:5; Tehillim 104:15; Shir HaShirim 1:2, 1:12; Koheles 2:3; Esther 5:4; Amos 2:8; *Shabbos* 117b; Radak, *Sefer HaShorashim* s.v. סעד; Rashi to Amos 2:8, Shir HaShirim 1:2, Koheles 2:3, Esther 5:4; Rashbam to Shir HaShirim 1:12; *Kedushas Levi*, Parshas Vayeira; Shadal to Bereishis 19:3; Benamozegh, *Eim LaMikra* to Bereishis 26:14.
+Cited in the essay: Bereishis 18:5; Shoftim 19:5; Tehillim 104:15; Shir HaShirim 1:2, 1:12; Koheles 2:3; Esther 5:4; Amos 2:8; *Shabbos* 117b; Radak, *Sefer HaShorashim* s.v. סעד; Rashi to Amos 2:8, Shir HaShirim 1:2, Koheles 2:3, Esther 5:4; Rashbam to Shir HaShirim 1:12; *Kedushas Levi*, Parshas Vayeira; Shadal to Bereishis 19:3; Benamozegh, *Eim LaMikra* to Bereishis 26:14; Yerushalmi Berachos 4:1; Ohr Zarua, *Hilchos Pesach* 256; Vayikra Rabbah 13:3.

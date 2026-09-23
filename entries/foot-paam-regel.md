@@ -71,6 +71,10 @@ changing situations and choose rightly each time.
 Bilaam failed to do so, and so he is undeserving of the word *paam* in any
 sense.
 
+Tanach has one more word for times: Lavan changed Yaakov's wages *aseres monim*,
+ten times (Bereishis 31:7). Rabbi Eliyahu Benamozegh (*Eim LaMikra* there) takes
+*monim* as instances, single units, like the Greek *monos* and *monas*.
+
 ### regel (רגל)
 The ordinary word for foot, and the one used for Bilaam's foot crushed against
 the wall (Bamidbar 22:25). Its extension to "time" is narrow: the donkey's
@@ -123,4 +127,4 @@ Rabbi Reuven Chaim Klein, "[Foot Festivals](https://articles.ohr.edu/articles/fo
 
 Rabbi Reuven Chaim Klein, "Foot Festivals," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Bamidbar 22:25, 22:28, 22:32; Shemos 23:14, 25:12; Yeshayahu 26:6, 42:14; Bereishis 41:8; Yechezkel 1:7; Shir HaShirim 7:2; Targum Onkelos, Rashi, Ibn Ezra, and Ramban to Shemos 25:12; Malbim, *Sefer HaCarmel* (ח"ב ערך פעם); Rabbi Shlomo Pappenheim, *Yerios Shlomo* (ו:ב); Rabbi Shmuel Dovid Walkin; Benamozegh, *Eim LaMikra* to Shemos 23:17.
+Cited in the essay: Bamidbar 22:25, 22:28, 22:32; Shemos 23:14, 25:12; Yeshayahu 26:6, 42:14; Bereishis 41:8; Yechezkel 1:7; Shir HaShirim 7:2; Targum Onkelos, Rashi, Ibn Ezra, and Ramban to Shemos 25:12; Malbim, *Sefer HaCarmel* (ח"ב ערך פעם); Rabbi Shlomo Pappenheim, *Yerios Shlomo* (ו:ב); Rabbi Shmuel Dovid Walkin; Benamozegh, *Eim LaMikra* to Shemos 23:17; Bereishis 31:7 with Benamozegh.

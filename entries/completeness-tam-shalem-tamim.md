@@ -9,7 +9,7 @@ words:
   - he: תם
     tr: tam
     en: whole
-    distinct: whole in quality, an exact match with nothing missing and nothing extra, the inside like the outside (Rabbeinu Bachaya, Pappenheim); undivided intention (Malbim); qualitative completion that includes the quantitative (Wertheimer); a positive completion (Bedersi); completion in one aspect, mostly spiritual (Rabbi Shimon Dov Ber Analak)
+    distinct: whole in quality, an exact match with nothing missing and nothing extra, the inside like the outside (Rabbeinu Bachaya, Pappenheim); undivided intention (Malbim); qualitative completion that includes the quantitative (Wertheimer); a positive completion (Bedersi); completion in one aspect, mostly spiritual (Rabbi Shimon Dov Ber Analak); as finishing, one part of a whole, against kilayon (Analak)
   - he: שלם
     tr: shalem
     en: complete, whole
@@ -19,8 +19,9 @@ words:
     nk: שָׁלוֹם
 sources:
   - wiaw:9396 "Seeking Completion" (2021-10-16) https://articles.ohr.edu/articles/seeking-completion
+  - ms:298-words-of-destruction.md "Words of Destruction"
 authorities: [Rabbeinu Bachaya, Malbim, Rabbi Shlomo Pappenheim, Zohar, Kedushat Levi, Targum Onkelos, Sefer HaBahir, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rabbi Avraham Bedersi, Rabbi Moshe Sofer, Rabbi Shimon Dov Ber Analak]
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Completeness: tam / tamim / shalem
 
@@ -37,7 +38,7 @@ nothing missing and nothing extra (Rabbeinu Bachaya; Pappenheim); of a korban
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| תם | tam | whole | qualitative; an exact match, nothing missing or extra (Rabbeinu Bachaya, Pappenheim) |
+| תם | tam | whole | qualitative; an exact match, nothing missing or extra (Rabbeinu Bachaya, Pappenheim); as finishing, one part of a whole, against *kilayon* (Analak) |
 | שלם | shalem | complete, whole | quantitative; nothing lacking, excess allowed (Pappenheim) |
 
 ## Distinctions
@@ -121,6 +122,17 @@ answers standing.
   realization that they could have become his talmidim as Yehoshua did, had they
   not been lazy.
 
+*Tam* also means finishing, the completion of a process (Bereishis 47:15;
+Vayikra 25:29; Bamidbar 17:28; Melachim I 7:22; Tehillim 102:28). So can
+*shalem* (Melachim I 7:51; Yeshayahu 60:20), *maleh* (Bereishis 29:21; Melachim
+I 1:14) and *kaleh* (Bereishis 2:1, 41:53, 43:2). As Pappenheim makes clear, in
+this sense all four can be synonyms, and they differ in the core meaning of
+their roots. *Kaleh* he traces to the biliteral כ-ל, "all, every," which looks
+past the particular items to the whole; that wider view is how it came to mean
+completion. Rabbi Shimon Dov Ber Analak: when *tam* means finishing, it is the
+finishing of one component of a larger whole, where *kilayon* is finishing a
+thing off entirely.
+
 Rabbi Yaakov Tzvi Mecklenburg applies Pappenheim's distinction to *sheva
 shabbasos temimos* (Vayikra 23:15): Chazal teach that the weeks are *temimos*
 only when Yisrael act according to Hashem's will (Vayikra Rabbah 28:3), and
@@ -154,4 +166,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Seeking Completion](https://articles.ohr.edu/articles/seeking-completion)," *What's in a Word?*, Ohr Somayach, 16 October 2021.
 
-Cited in the essay: Bereishis 17:1 with Rabbeinu Bachaya; Bereishis 25:27; Bereishis Rabbah 64:3; Tehillim 19:8; Devarim 13:1, 18:13 (with Onkelos and Sefer HaBahir 137), 25:15, 27:6, 34:8; Yehoshua 8:31; Shemos 3:5; Vayikra 1:3, 22:21, 23:15 with Vayikra Rabbah 28:3; Bamidbar 19:2; Bereishis 15:16 and 33:18 with Shabbos 33b; Zohar to Bamidbar 165b; Malbim; Rabbi Shlomo Pappenheim; the Kedushat Levi; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Aharon Wertheimer; Rabbi Avraham Bedersi; Rabbi Moshe Sofer; Rabbi Shimon Dov Ber Analak.
+Rabbi Reuven Chaim Klein, "Words of Destruction," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 17:1 with Rabbeinu Bachaya; Bereishis 25:27; Bereishis Rabbah 64:3; Tehillim 19:8; Devarim 13:1, 18:13 (with Onkelos and Sefer HaBahir 137), 25:15, 27:6, 34:8; Yehoshua 8:31; Shemos 3:5; Vayikra 1:3, 22:21, 23:15 with Vayikra Rabbah 28:3; Bamidbar 19:2; Bereishis 15:16 and 33:18 with Shabbos 33b; Zohar to Bamidbar 165b; Malbim; Rabbi Shlomo Pappenheim; the Kedushat Levi; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Aharon Wertheimer; Rabbi Avraham Bedersi; Rabbi Moshe Sofer; Rabbi Shimon Dov Ber Analak; Bereishis 2:1, 29:21, 41:53, 43:2, 47:15; Vayikra 25:29; Bamidbar 17:28; Melachim I 1:14, 7:22, 7:51; Yeshayahu 60:20; Tehillim 102:28.

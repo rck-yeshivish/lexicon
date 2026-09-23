@@ -9,7 +9,7 @@ words:
   - he: תור
     tr: latur
     en: scout out
-    distinct: searching out what is good in a place, its advantages (Rabbi Yaakov Tzvi Mecklenburg); the verb Bamidbar uses throughout for Moshe's men; from turning, going round to look everywhere (Shadal)
+    distinct: searching out what is good in a place, its advantages (Rabbi Yaakov Tzvi Mecklenburg); the verb Bamidbar uses throughout for Moshe's men; from turning, going round to look everywhere (Shadal); tur as Torah, the scouts sent to teach it (Kedushas Levi)
   - he: תרים
     tr: tarim
     en: scouts
@@ -32,7 +32,7 @@ sources:
   - wiaw:7302 "Spy versus Spy" (2017-06-17) https://articles.ohr.edu/articles/spy-versus-spy
   - wiaw:9554 "Digging Deeper" (2022-01-29) https://articles.ohr.edu/articles/digging-deeper
   - ms:246-spy-versus-spy.md "Spy versus Spy"
-authorities: [Rabbi Yaakov Tzvi Mecklenburg (HaKsav VeHaKabbalah), Midrash, Pseudo-Philo, David Curwin, Dr. Isaac Elchanan Mozeson, Rav Hirsch, Shadal, Shadal]
+authorities: [Rabbi Yaakov Tzvi Mecklenburg (HaKsav VeHaKabbalah), Midrash, Pseudo-Philo, David Curwin, Dr. Isaac Elchanan Mozeson, Rav Hirsch, Shadal, Rabbi Levi Yitzchok of Berditchev]
 updated: 2026-09-22
 ---
 # Spying: latur / leragel (tarim, meraglim)
@@ -50,7 +50,7 @@ alongside *veyachperu*).
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| תור | latur | scout out | looking for the good in a place (Mecklenburg); from turning, going round to look everywhere (Shadal) |
+| תור | latur | scout out | looking for the good in a place (Mecklenburg); from turning, going round to look everywhere (Shadal); *tur* as Torah, the scouts sent to teach it (Kedushas Levi) |
 | תרים | tarim | scouts | Moshe's twelve, as Bamidbar names them |
 | רגל | leragel | spy out | looking for weakness (Mecklenburg); perhaps from regel, the lowest limb (Rabbi Klein); each step serving the scout's aim (Rav Hirsch) |
 | מרגלים | meraglim | spies | Yosef's brothers, Yehoshua's two men; never Moshe's twelve |
@@ -68,6 +68,9 @@ conviction by having the men see the good of the Land and report it. In the end
 they betrayed the mission and gathered the Land's perceived disadvantages
 instead. Because they were commissioned to look for the good, Bamidbar always
 describes them and their actions as *tarim*.
+
+Rabbi Levi Yitzchok of Berditchev (*Kedushas Levi*, beginning of Shelach) reads
+*tur* as Torah: the *tarim* were sent to teach Torah.
 
 - Conventional linguists trace "tourist" to Old French *tourner*, "to turn".
 - Dr. Isaac Elchanan Mozeson, an unconventional linguist, finds its origin in
@@ -145,4 +148,4 @@ Rabbi Reuven Chaim Klein, "[Digging Deeper](https://articles.ohr.edu/articles/di
 
 Rabbi Reuven Chaim Klein, "Spy versus Spy," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Bereishis 42; Bamidbar 13-14; Devarim 1:22, 1:24; Yehoshua 2:1; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; the Midrash; Pseudo-Philo; Dr. Isaac Elchanan Mozeson; David Curwin; Rav Hirsch; Shadal to Shemos 15:11; Rav Hirsch to Vayikra 19:16; Shadal to Bamidbar 13:2.
+Cited in the essay: Bereishis 42; Bamidbar 13-14; Devarim 1:22, 1:24; Yehoshua 2:1; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; the Midrash; Pseudo-Philo; Dr. Isaac Elchanan Mozeson; David Curwin; Rav Hirsch; Shadal to Shemos 15:11; Rav Hirsch to Vayikra 19:16; Shadal to Bamidbar 13:2; *Kedushas Levi*, Shelach.

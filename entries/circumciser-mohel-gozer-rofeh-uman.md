@@ -24,8 +24,9 @@ words:
     distinct: ordinarily a craftsman; here a bloodletter or barber (Rashi to Bava Basra 21a), though Shabbos 133b uses umana of a circumciser outright
 sources:
   - wiaw:11342 "Tazria: The Cutter" (2024-04-13) https://articles.ohr.edu/articles/tazria-the-cutter
-authorities: [Rashi, Rabbeinu Chananel, Rabbeinu Gershom, Targum Onkelos, Rabbi Shlomo Pappenheim, Shadal, Rabbi Yissachar Tamar, Rabbi David Zacut Modena, Rabbi Dov Kook, Solomon Dubno, Wilhelm Gesenius, Alexander Kohut, Shach]
-updated: 2026-09-10
+  - ms:189-the-cutter.md "The Cutter"
+authorities: [Rashi, Rabbeinu Chananel, Rabbeinu Gershom, Targum Onkelos, Rabbi Shlomo Pappenheim, Shadal, Rabbi Yissachar Tamar, Rabbi David Zacut Modena, Rabbi Dov Kook, Solomon Dubno, Wilhelm Gesenius, Alexander Kohut, Shach, Chasam Sofer]
+updated: 2026-09-22
 ---
 # Circumciser: mohel / gozer / rofeh / uman
 
@@ -104,6 +105,10 @@ uses the shorter *mal*, the Biblical form (Devarim 30:6; Yehoshua 5:4, 5:7), and
 Rabbi Klein says outright that he does not know why that Mishnah uses a
 different verb.
 
+The Chasam Sofer (Responsa, *Yoreh De'ah* 249) notes that the commentators
+explain *milah* as cutting, and that Onkelos renders it with *gezar*, yet
+concludes that *milah* means removal, the taking away of the *orlah*.
+
 Alongside the *mahul* of Yeshayahu 1:22, the Mishnah has comparable words for
 diluted, watery liquids: *michal* (*Demai* 7:4) and *mochal* (*Taharos* 9:3,
 *Mikvaos* 7:3-4, *Machsirin* 6:5), which some versions read as *mohal*.
@@ -167,4 +172,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Tazria: The Cutter](https://articles.ohr.edu/articles/tazria-the-cutter)," *What's in a Word?*, Ohr Somayach, 13 April 2024.
 
-Cited in the essay: Vayikra 12:3; Bereishis ch. 17, 21:4, 34:15-22; Shemos 4:25, 12:44, 12:48; Devarim 30:6; Yehoshua ch. 5, 5:4, 5:7; Yeshayahu 1:22 with Shadal; Tehillim 136:13; Mishnah Shabbos 19:2, 19:5, 19:6, Demai 7:4, Taharos 9:3, Mikvaos 7:3-4, Machsirin 6:5; Shabbos 131b with Rashi and Rabbeinu Chananel, 133b, 156a; Bava Basra 21a with Rashi; Sanhedrin 17b; Avodah Zarah 26b with Rashi; Menachos 42a with Rashi and the commentary attributed to Rabbeinu Gershom; Taanis 21b; Yerushalmi Shabbos 19:1 and Rosh Hashanah 3:9; Bereishis Rabbah 84:7 with *Tanchuma Vayeishev* 9, *Naso* 30 and *Shocher Tov* to Tehillim 115; Koheles Rabbah 3:2; Shach to Yoreh Deah 69:79; Rabbi Shlomo Pappenheim; Rabbi Yissachar Tamar; Rabbi David Zacut Modena; Rabbi Dov Kook of Teveryah; Solomon Dubno, *Tikkun Sofrim* to Bereishis 17:13, in *Netivos HaShalom*; Wilhelm Gesenius; Dr. Alexander Kohut.
+Rabbi Reuven Chaim Klein, "The Cutter," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Vayikra 12:3; Bereishis ch. 17, 21:4, 34:15-22; Shemos 4:25, 12:44, 12:48; Devarim 30:6; Yehoshua ch. 5, 5:4, 5:7; Yeshayahu 1:22 with Shadal; Tehillim 136:13; Mishnah Shabbos 19:2, 19:5, 19:6, Demai 7:4, Taharos 9:3, Mikvaos 7:3-4, Machsirin 6:5; Shabbos 131b with Rashi and Rabbeinu Chananel, 133b, 156a; Bava Basra 21a with Rashi; Sanhedrin 17b; Avodah Zarah 26b with Rashi; Menachos 42a with Rashi and the commentary attributed to Rabbeinu Gershom; Taanis 21b; Yerushalmi Shabbos 19:1 and Rosh Hashanah 3:9; Bereishis Rabbah 84:7 with *Tanchuma Vayeishev* 9, *Naso* 30 and *Shocher Tov* to Tehillim 115; Koheles Rabbah 3:2; Shach to Yoreh Deah 69:79; Rabbi Shlomo Pappenheim; Rabbi Yissachar Tamar; Rabbi David Zacut Modena; Rabbi Dov Kook of Teveryah; Solomon Dubno, *Tikkun Sofrim* to Bereishis 17:13, in *Netivos HaShalom*; Wilhelm Gesenius; Dr. Alexander Kohut; Chasam Sofer, Responsa, *Yoreh De'ah* 249.

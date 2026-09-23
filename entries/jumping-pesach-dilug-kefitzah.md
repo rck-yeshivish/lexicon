@@ -108,6 +108,11 @@ Root פ-ס-ח.
   to be immediate, and the Korban Pesach is eaten *b'chipazon* (Shemos 12:11) in
   imitation of that haste.
 
+The Gemara also calls Pesach *divcha* (Shabbos 110a, where Rashi explains *bein
+divcha le'atzarta* as between Pesach and Shavuos; Pesachim 42b), a form of
+*zevach*, sacrifice. Rabbi Klein suggests the name comes from its being the time
+when everyone had to bring an offering, the Korban Pesach.
+
 The same root gives *piseach*, the lame or immobile man. Rabbi Klein draws an
 insight of his own from this: two conceptually opposite meanings sharing one
 spelling is a common phenomenon in Lashon HaKodesh, and it illustrates that
@@ -143,4 +148,4 @@ Rabbi Reuven Chaim Klein, "[Jumping for Passover: Part 2](https://articles.ohr.e
 
 Rabbi Reuven Chaim Klein, "Jumping for Passover," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Rashi to Shemos 12:11, 12:13 and Yeshayahu 31:5; Shir HaShirim 2:8; Yerushalmi Beitzah 5:2 with the Vilna Gaon; Mishnah Ohalos 8:5 with Rambam, the Rosh, the Rash of Shantz, Bartenura and Tiferes Yisrael; Mishnah Bava Kamma 2:3; Mishnah Bava Basra 2:5; Berachos 19b; Shadal to Bereishis 31:36.
+Cited in the essay: Rashi to Shemos 12:11, 12:13 and Yeshayahu 31:5; Shir HaShirim 2:8; Yerushalmi Beitzah 5:2 with the Vilna Gaon; Mishnah Ohalos 8:5 with Rambam, the Rosh, the Rash of Shantz, Bartenura and Tiferes Yisrael; Mishnah Bava Kamma 2:3; Mishnah Bava Basra 2:5; Berachos 19b; Shadal to Bereishis 31:36; Shabbos 110a with Rashi; Pesachim 42b.

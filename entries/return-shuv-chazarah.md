@@ -23,8 +23,9 @@ words:
 sources:
   - wiaw:8422 "Return to Sender: The True Meaning of Teshuva" (2019-10-05) https://articles.ohr.edu/articles/return-to-sender-the-true-meaning-of-teshuva
   - wiaw:9694 "The Year of Seven (Part 2 of 2)" (2022-05-21) https://articles.ohr.edu/articles/the-year-of-seven-part-2-of-2
-authorities: [Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Menachem Ricanati, Rabbeinu Bachaya, Rabbi David Ibn Zimra, Rabbi Yosef Ibn Kaspi, Rabbi Yaakov Tzvi Mecklenburg]
-updated: 2026-09-10
+  - ms:340-real-teshuvah-return-to-sender.md "Real Teshuvah: Return to Sender"
+authorities: [Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Menachem Ricanati, Rabbeinu Bachaya, Rabbi David Ibn Zimra, Rabbi Yosef Ibn Kaspi, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Eliyahu Benamozegh]
+updated: 2026-09-22
 ---
 # Return: shuv (teshuvah) / chazarah
 
@@ -107,6 +108,15 @@ sins as merits: doing *teshuvah*, one goes back to his previous deeds to make
 amends, in the same way that *hashavah* and *lehashiv* fill holes previously
 created by thievery or by a question.
 
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Vayikra 16:4, 23:24; Bamidbar 36:4)
+reads *yovel* as a word of return. It means carrying, specifically carrying a
+thing back to its original place, as in the Yovel year fields that were sold go
+back to the families that are their rightful owners. He ties it to Yom Kippur in
+two ways: the Yovel is proclaimed on Yom Kippur, for land and slaves to go back
+to their former state, and it alludes to *teshuvah*, by which the sinner goes
+back to his pristine, innocent state. So too produce is *yevul*, the field's way
+of returning to the farmer many times over what he put into it.
+
 ### chazarah (חזרה)
 Part of the *teshuvah* process entails making an about-face
 and figuratively turning oneself around in a circle to correct course, and the
@@ -157,4 +167,6 @@ Rabbi Reuven Chaim Klein, "[Return to Sender: The True Meaning of Teshuva](https
 
 Rabbi Reuven Chaim Klein, "[The Year of Seven (Part 2 of 2)](https://articles.ohr.edu/articles/the-year-of-seven-part-2-of-2)," *What's in a Word?*, Ohr Somayach, 21 May 2022.
 
-Cited in the essay: Bereishis 24:5; Vayikra 5:23, 11:2; Devarim 22:1, 30:2; Yechezkel 18:21-27, 33:18-19; Hoshea 14:2; Berachos 29a; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. שב; Rabbi Eliyahu HaBachur (Elias Levita); Rabbi Menachem Ricanati to Vayikra 11:2; Rabbeinu Bachaya; Rabbi David Ibn Zimra; Rabbi Yosef Ibn Kaspi; Rabbi Yaakov Tzvi Mecklenburg.
+Rabbi Reuven Chaim Klein, "Real Teshuvah: Return to Sender," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 24:5; Vayikra 5:23, 11:2; Devarim 22:1, 30:2; Yechezkel 18:21-27, 33:18-19; Hoshea 14:2; Berachos 29a; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. שב; Rabbi Eliyahu HaBachur (Elias Levita); Rabbi Menachem Ricanati to Vayikra 11:2; Rabbeinu Bachaya; Rabbi David Ibn Zimra; Rabbi Yosef Ibn Kaspi; Rabbi Yaakov Tzvi Mecklenburg; Vayikra 16:4, 23:24 and Bamidbar 36:4 with Benamozegh.

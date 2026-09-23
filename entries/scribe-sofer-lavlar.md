@@ -17,8 +17,9 @@ words:
 sources:
   - wiaw:10818 "Bishalach: Scribal Culture" (2023-02-04) https://articles.ohr.edu/articles/bishalach-scribal-culture
   - wiaw:9581 "Between Books and Scrolls" (2022-02-19) https://articles.ohr.edu/articles/between-books-and-scrolls
-authorities: [Rashi, Rabbi Eliyahu HaBachur, Rabbi Yehuda Aryeh Blau, Rabbi Shmuel Krauss, Raymond P. Dougherty]
-updated: 2026-09-10
+  - ms:121-scribes-to-count-on.md "Scribes to Count On"
+authorities: [Rashi, Rabbi Eliyahu HaBachur, Rabbi Yehuda Aryeh Blau, Rabbi Shmuel Krauss, Raymond P. Dougherty, Rabbeinu Chananel, Tosafos]
+updated: 2026-09-22
 ---
 # Scribe: sofer / lavlar
 
@@ -110,6 +111,10 @@ But Chazal read the word from the "counting" sense of the root.
   (Bava Kamma 1:1), thirty-nine melachos of Shabbos (Shabbos 7:2). On this
   reading the Sages took a scribal habit and applied it to Torah she'be'al peh.
 
+The Gemara (Pesachim 3b) names a man *Chakuka'ah*. Rabbeinu Chananel, as Tosafos
+there brings him, explains it as a scribe; the Ri, in the same Tosafos, takes it
+to mean a man from a town named in Yehoshua 19.
+
 ### lavlar (לבלר)
 Not a word of Tanach. It appears three times in the Mishnah: in the name Nachum
 HaLavlar (Peah 2:6), who was apparently a scribe; in the rule that a *lavlar*
@@ -183,4 +188,6 @@ Rabbi Reuven Chaim Klein, "[Bishalach: Scribal Culture](https://articles.ohr.edu
 
 Rabbi Reuven Chaim Klein, "[Between Books and Scrolls](https://articles.ohr.edu/articles/between-books-and-scrolls)," *What's in a Word?*, Ohr Somayach, 19 February 2022.
 
-Cited in the essay: Bereishis 11:29; Shoftim 5:14; Shmuel II 8:17, 20:25; Melachim II 18:18, 18:37, 19:2, 22:3, 22:8-10, 22:12; Yeshayahu 36:3, 37:2; Yirmiyahu 8:8, 36:10, 36:12, 36:20-21, 36:26, 37:15, 37:20; Yechezkel 9:2-3; Tehillim 45:2; Esther 3:12 with Targum; Ezra 7:6, 7:11; Nechemyah 8:1-13, 12:26, 12:36, 13:13; Divrei HaYamim I 4:18, 18:16, 24:6; Divrei HaYamim II 26:11, 34:15, 34:18, 34:20; Mishnah Peah 2:6, Terumos 1:1, Orlah 3:9, Challah 1:1, Shabbos 1:3, 7:2, 12:5, Pesachim 3:1, Yevamos 1:1, 2:4, 9:3, Nedarim 9:2, Sotah 9:15, Gittin 3:1, 7:2, 8:8, 9:8, Kiddushin 4:13, Bava Kamma 1:1, Bava Metzia 5:11, Sanhedrin 4:3, 5:5, 11:3, Kerisus 1:1, Keilim 13:7, 24:6, Parah 11:5-6, Taharos 1:1, 4:7, 4:11, Tevul Yom 4:6, Yadayim 3:2; Tosefta Bava Metzia 6:17; Kiddushin 30a; Chagigah 15b; Yerushalmi Berachos 1:4, Shekalim 5:1, Gittin 3:1, Bava Metzia 1:4; Rashi to Sotah 20a, Gittin 67a, Bava Basra 21b; Midrash *Shocher Tov* to Tehillim 9; *Iggeres Rav Sherira Gaon*; the kinah *Eileh Ezkerah*; Rabbi Eliyahu HaBachur, *Meturgeman*; the Kaufmann manuscript of the Mishnah; Rabbi Dr. Yehuda Aryeh (Lajos) Blau, *Studien zum althebräischen Buchwesen und zur Biblischen Litteratur- und Textgeschichte*; Rabbi Dr. Shmuel Krauss, *Talmudische Archäologie*; Professor Raymond P. Dougherty.
+Rabbi Reuven Chaim Klein, "Scribes to Count On," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 11:29; Shoftim 5:14; Shmuel II 8:17, 20:25; Melachim II 18:18, 18:37, 19:2, 22:3, 22:8-10, 22:12; Yeshayahu 36:3, 37:2; Yirmiyahu 8:8, 36:10, 36:12, 36:20-21, 36:26, 37:15, 37:20; Yechezkel 9:2-3; Tehillim 45:2; Esther 3:12 with Targum; Ezra 7:6, 7:11; Nechemyah 8:1-13, 12:26, 12:36, 13:13; Divrei HaYamim I 4:18, 18:16, 24:6; Divrei HaYamim II 26:11, 34:15, 34:18, 34:20; Mishnah Peah 2:6, Terumos 1:1, Orlah 3:9, Challah 1:1, Shabbos 1:3, 7:2, 12:5, Pesachim 3:1, Yevamos 1:1, 2:4, 9:3, Nedarim 9:2, Sotah 9:15, Gittin 3:1, 7:2, 8:8, 9:8, Kiddushin 4:13, Bava Kamma 1:1, Bava Metzia 5:11, Sanhedrin 4:3, 5:5, 11:3, Kerisus 1:1, Keilim 13:7, 24:6, Parah 11:5-6, Taharos 1:1, 4:7, 4:11, Tevul Yom 4:6, Yadayim 3:2; Tosefta Bava Metzia 6:17; Kiddushin 30a; Chagigah 15b; Yerushalmi Berachos 1:4, Shekalim 5:1, Gittin 3:1, Bava Metzia 1:4; Rashi to Sotah 20a, Gittin 67a, Bava Basra 21b; Midrash *Shocher Tov* to Tehillim 9; *Iggeres Rav Sherira Gaon*; the kinah *Eileh Ezkerah*; Rabbi Eliyahu HaBachur, *Meturgeman*; the Kaufmann manuscript of the Mishnah; Rabbi Dr. Yehuda Aryeh (Lajos) Blau, *Studien zum althebräischen Buchwesen und zur Biblischen Litteratur- und Textgeschichte*; Rabbi Dr. Shmuel Krauss, *Talmudische Archäologie*; Professor Raymond P. Dougherty; Pesachim 3b with Tosafos.

@@ -93,7 +93,8 @@ and speak no *kazav*" (Tzefaniah 3:13).
   Bamidbar 23:19) likewise reads *kozev* as one who does not keep his word.
   Rabbi Yehuda Leib Shapira-Frankfurter draws the consequence: the Torah never
   forbade *saying kazav*, because at the moment of speech there is no *kazav*
-  yet; it becomes one retroactively.
+  yet; it becomes one retroactively. Rabbi Klein notes that this fits the
+  *ma'ayan machziv*, the spring that had water and has dried up.
 - Malbim (*Yair Ohr*): *sheker* has no validity at all, while *kazav* has some
   purchase on reality, seeming true at first and only later fully exposed. In
   *Sefer HaCarmel* he adds that one utterance can sometimes be both at once:

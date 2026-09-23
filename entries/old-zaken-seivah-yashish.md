@@ -31,7 +31,7 @@ words:
     tr: atik
     en: ancient
     nk: עַתִּיק
-    distinct: far removed in time, from a root of movement in space, as in vayaatek, since Hebrew ties time to space; hence Atik Yomin, Ancient of Days (Daniel 7:9)
+    distinct: far removed in time, from a root of movement in space, as in vayaatek, since Hebrew ties time to space; hence Atik Yomin, Ancient of Days (Daniel 7:9); the source of Latin antiquus (Benamozegh)
   - he: ותיק
     tr: vatik
     en: veteran, senior
@@ -39,7 +39,7 @@ words:
 sources:
   - wiaw:8487 "The Old Man and the See" (2019-11-23) https://articles.ohr.edu/articles/the-old-man-and-the-see
   - ms:031-the-old-man-and-the-see.md "The Old Man and the See"
-authorities: [Rabbi Avraham Bedersi HaPenini, Radak, Rabbi Eliezer Reines, Rabbi Mordechai Tzvi Herzka, Rabbeinu Chananel, Rabbi Nosson of Rome, Rabbi Yehuda Leib Shapira-Frankfurter, Rashi, Bartenura, Rabbi Ernest Klein, Rabbi Shaul Goldman, Rabbi Elimelech of Lizhensk, Chiddushei HaRa'ah, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Shadal]
+authorities: [Rabbi Avraham Bedersi HaPenini, Radak, Rabbi Eliezer Reines, Rabbi Mordechai Tzvi Herzka, Rabbeinu Chananel, Rabbi Nosson of Rome, Rabbi Yehuda Leib Shapira-Frankfurter, Rashi, Bartenura, Rabbi Ernest Klein, Rabbi Shaul Goldman, Rabbi Elimelech of Lizhensk, Chiddushei HaRa'ah, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Shadal, Rabbi Eliyahu Benamozegh]
 updated: 2026-09-22
 ---
 # Old age: zaken / seivah / yashish / yashan / atik / vatik
@@ -63,7 +63,7 @@ Rabbi Reuven Chaim Klein judges more plausible (that of Rabbi Ernest Klein), mea
 | ישיש | yashish | the aged | beyond *seivah*, from *yesh* (Radak); perhaps ninety (Bedersi) |
 | קשיש | kashish | aged | Aramaic for *yashish*, the Targum's standing rendering; also renders *zaken*; from *kasheh*, hard (Rabbi Yehoshua Steinberg) |
 | ישן | yashan | aged, last year's | old of plants and produce, never of people (Shapira-Frankfurter); so too Chiddushei HaRa'ah and HaKsav VeHaKabbalah |
-| עתיק | atik | ancient | remote in time, from a root of moving in space; *Atik Yomin* |
+| עתיק | atik | ancient | remote in time, from a root of moving in space; *Atik Yomin*; the source of Latin *antiquus* (Benamozegh) |
 | ותיק | vatik | veteran, senior | veteran, from Arabic *wathuqa*, firm (Rabbi Ernest Klein); dependability, not age |
 
 ## Where the authorities disagree
@@ -145,9 +145,13 @@ root means to copy or transcribe, as though one took the information from one
 document and moved it to another. Because Hebrew presumes a connection between
 time and space, *atik* also names what is far removed in time, hence Daniel's
 *Atik Yomin*, Ancient of Days (Daniel 7:9 and 7:22). Rabbi Reuven Chaim Klein
-used to think the English *antique* was a corruption of *atik*, until
-Rabbi Shaul Goldman told him that linguists parse it otherwise, as the
-Proto-Indo-European *ant*, "front, before," plus *okw*, "to see."
+used to think the English *antique* was a corruption of *atik*, until Rabbi
+Shaul Goldman told him that linguists parse it otherwise, as the
+Proto-Indo-European *ant*, "front, before," plus *okw*, "to see." Rabbi Eliyahu
+Benamozegh (*Eim LaMikra* to Bereishis 38:17), though, derives the Latin
+*antiquus* from *atik* and rejects *ante* as its source; the added *nun* is a
+common change, as *chitah* is *chinta* in Aramaic and *itta*, woman, is also
+*inta*.
 
 ### vatik (ותיק)
 A *talmid vatik* in the Gemara is a veteran or experienced disciple; *vatikin*
@@ -191,4 +195,4 @@ Rabbi Reuven Chaim Klein, "[The Old Man and the See](https://articles.ohr.edu/ar
 
 Rabbi Reuven Chaim Klein, "The Old Man and the See," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: *Avos* 5:24 with Rashi and Bartenura; Shmuel I 12:2; Yeshayahu 46:4 and 28:9; Iyov 12:12, 14:8, 15:10, 29:8, 32:6; Bereishis 12:8 and 26:22; Daniel 7:9-22; Bava Metzia 109b; Radak, *Sefer HaShorashim*; Bedersi, *Chosam Tochnis* (עמ' 154-155); *HaRechasim LeVik'ah*; *Maftechos HaDamesek*; *Sefer HeAruch*; Rabbi Ernest Klein's etymological dictionary; *Noam Elimelech*, Chayei Sarah; *Chiddushei HaRa'ah* to Berachos ch. 9; HaKsav VeHaKabbalah to Bereishis 18:11; Rabbi Yehoshua Steinberg; Shadal to Bereishis 50:7.
+Cited in the essay: *Avos* 5:24 with Rashi and Bartenura; Shmuel I 12:2; Yeshayahu 46:4 and 28:9; Iyov 12:12, 14:8, 15:10, 29:8, 32:6; Bereishis 12:8 and 26:22; Daniel 7:9-22; Bava Metzia 109b; Radak, *Sefer HaShorashim*; Bedersi, *Chosam Tochnis* (עמ' 154-155); *HaRechasim LeVik'ah*; *Maftechos HaDamesek*; *Sefer HeAruch*; Rabbi Ernest Klein's etymological dictionary; *Noam Elimelech*, Chayei Sarah; *Chiddushei HaRa'ah* to Berachos ch. 9; HaKsav VeHaKabbalah to Bereishis 18:11; Rabbi Yehoshua Steinberg; Shadal to Bereishis 50:7; Bereishis 38:17 with Benamozegh.

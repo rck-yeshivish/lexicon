@@ -20,7 +20,7 @@ words:
     distinct: the one with neither body nor form (Rashi to *Sanhedrin* 109a), the word itself meaning wind or spirit
 sources:
   - ms:288-of-demons-and-spirits.md "Of Demons and Spirits"
-authorities: [Rashi, Ibn Ezra, Radak, Zohar, Sefer Chassidim, Ruth Rabbah, Rabbi Yehudah Fatiyah, Rabbi Shes ben Yefes, Ramban, Ramban, Maasei Hashem, Rabbi Moshe David Valle, Rabbi Elazar Rokeach of Worms, Ralbag, Rabbi Shes ben Yefes, Rabbi Tanchum HaYerushalmi]
+authorities: [Rashi, Ibn Ezra, Radak, Zohar, Sefer Chassidim, Ruth Rabbah, Rabbi Yehudah Fatiyah, Rabbi Shes ben Yefes, Ramban, Maasei Hashem, Rabbi Moshe David Valle, Rabbi Elazar Rokeach of Worms, Ralbag, Rabbi Tanchum HaYerushalmi, Rabbi Naftali Hertz Bacharach]
 updated: 2026-09-22
 ---
 # Demon: sheid / lilis / ruach
@@ -69,14 +69,16 @@ wings, though *sheidim* in general do have them.
 
 **Whether the female demon has hair.** *Ruth Rabbah*, and Rashi with it, read
 Boaz's fright at midnight (Rus 3:8) as a fear of a *sheid*: he sensed someone at
-his feet and suspected a demon had come to him. The *Zohar* (*Bereishis* 54b) and
-*Sefer Chassidim* (§1155) hold that female demons have no hair, which is why Boaz
-knew from his visitor's head that she was a woman. On that, Rabbi Yehudah Fatiyah (1859 to 1942) reads
-Rashi to *Eruvin* 100b precisely: Rashi wrote that a Lilis is a kind of *sheid*
-and not a kind of *sheidah*, because only the males have hair. Others hold that
-Lilis is the exception, a female demon who does have hair on her head, and
-account for Boaz another way: Lilis comes to men when they are asleep, not when
-they are awake.
+his feet and suspected a demon had come to him. The *Zohar* (*Bereishis* 54b)
+and *Sefer Chassidim* (§1155) hold that female demons have no hair, which is why
+Boaz knew from his visitor's head that she was a woman. On that, Rabbi Yehudah
+Fatiyah (1859 to 1942) reads Rashi to *Eruvin* 100b precisely: Rashi wrote that
+a Lilis is a kind of *sheid* and not a kind of *sheidah*, because only the males
+have hair. Others hold that Lilis is the exception, a female demon who does have
+hair on her head, and account for Boaz another way: Lilis comes to men when they
+are asleep, not when they are awake. Rabbi Naftali Hertz Bacharach (*Emek
+HaMelech*, *Shaar Reisha d'Zeir Anpin* ch. 30) describes the class called
+*lilin* as covered with hair from head to foot, with none on their heads.
 
 ## Distinctions
 
@@ -159,4 +161,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "Of Demons and Spirits," *What's in a Word?*. Not among the essays Ohr Somayach carries; drawn from the book manuscript, where it is filed under Shavuos.
 
-Cited in the essay: Rus 3:8 with *Ruth Rabbah* and Rashi; Yeshayahu 34:14 with Rashi, Ibn Ezra and Radak; *Chagigah* 16a; *Sanhedrin* 109a with Rashi; *Eruvin* 100b with Rashi; *Niddah* 24b with Rashi; *Zohar*, *Bereishis* 54b; *Sefer Chassidim* §1155; Rabbi Yehudah Fatiyah; *Ruth Rabbah* 6:1 with the commentaries there; *Shiyurei Taharah*, *maareches* shin §42; *Minchas Yehudah*, Bereishis §20; *Chemdas HaChemdah* to Devarim 32:10; Ibn Ezra and Ramban to Vayikra 17:7; Ramban to Vayikra 17:7; *Maasei Hashem*, Bereishis ch. 2; Rabbi Moshe David Valle, Vayikra p. 167; *Siddur HaRokeach* p. 106; Ibn Ezra and Ralbag to Vayikra 17:7; *Chemdas HaChemdah* to Devarim 32:17; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik*.
+Cited in the essay: Rus 3:8 with *Ruth Rabbah* and Rashi; Yeshayahu 34:14 with Rashi, Ibn Ezra and Radak; *Chagigah* 16a; *Sanhedrin* 109a with Rashi; *Eruvin* 100b with Rashi; *Niddah* 24b with Rashi; *Zohar*, *Bereishis* 54b; *Sefer Chassidim* §1155; Rabbi Yehudah Fatiyah; *Ruth Rabbah* 6:1 with the commentaries there; *Shiyurei Taharah*, *maareches* shin §42; *Minchas Yehudah*, Bereishis §20; *Chemdas HaChemdah* to Devarim 32:10; Ibn Ezra and Ramban to Vayikra 17:7; Ramban to Vayikra 17:7; *Maasei Hashem*, Bereishis ch. 2; Rabbi Moshe David Valle, Vayikra p. 167; *Siddur HaRokeach* p. 106; Ibn Ezra and Ralbag to Vayikra 17:7; *Chemdas HaChemdah* to Devarim 32:17; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik*; *Emek HaMelech* (Amsterdam, 1648), *Shaar Reisha d'Zeir Anpin* ch. 30, 140b.

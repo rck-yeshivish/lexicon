@@ -10,7 +10,7 @@ words:
     tr: mateh
     en: staff, tribe
     nk: מַטֶּה
-    distinct: the stick of a dignitary or one in authority (Malbim, Wertheimer), so only Moshe's is a mateh; dry wood (Rabbi Yehuda ibn Kuraish); neutral in connotation (Rabbi Yaakov Lorberbaum of Lissa); as tribe, its members rather than its leader (Mecklenburg, citing Shadal); the same as shevet (Rabbi Shlomo of Urbino, Ohel Moed); as tribe, a downward incline for Hashem's flow (Kedushas Levi)
+    distinct: the stick of a dignitary or one in authority (Malbim, Wertheimer), so only Moshe's is a mateh; dry wood (Rabbi Yehuda ibn Kuraish); neutral in connotation (Rabbi Yaakov Lorberbaum of Lissa); as tribe, its members rather than its leader (Mecklenburg, citing Shadal); the same as shevet (Rabbi Shlomo of Urbino, Ohel Moed); as tribe, a downward incline for Hashem's flow (Kedushas Levi); from natah, what one leans on (Radak)
   - he: שבט
     tr: shevet
     en: rod, tribe
@@ -36,7 +36,7 @@ sources:
   - wiaw:8836 "Trusting and Relying on G-d" (2020-08-29) https://articles.ohr.edu/articles/trusting-and-relying-on-g-d
   - wiaw:9877 "Trusting and Relying on G-d" (2022-09-10) https://articles.ohr.edu/articles/trusting-and-relying-on-g-d-2
   - ms:274-tribesmen-stick-together.md "Tribesmen Stick Together"
-authorities: [Malbim, Rashi, Rabbi Shlomo Aharon Wertheimer, Vilna Gaon, Rabbi Yehuda ibn Kuraish, Rabbi Yaakov Lorberbaum of Lissa, Rabbi Yaakov Tzvi Mecklenburg, Shadal, Rabbi Zev HaKohen Hoberman, Rabbi Shlomo Pappenheim, Ohel Moed, Rabbi Levi Yitzchak of Berditchev]
+authorities: [Malbim, Rashi, Rabbi Shlomo Aharon Wertheimer, Vilna Gaon, Rabbi Yehuda ibn Kuraish, Rabbi Yaakov Lorberbaum of Lissa, Rabbi Yaakov Tzvi Mecklenburg, Shadal, Rabbi Zev HaKohen Hoberman, Rabbi Shlomo Pappenheim, Ohel Moed, Rabbi Levi Yitzchak of Berditchev, Radak]
 updated: 2026-09-22
 ---
 # Staff and tribe: mateh / shevet / mishenes / makel / sharvit / choter
@@ -63,7 +63,7 @@ Moed* writes twice that *shevet* is *mateh*.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| מטה | mateh | staff, tribe | a staff of office (Malbim, Wertheimer); neutral; the tribe's members (Mecklenburg); the same as *shevet* (Ohel Moed); as tribe, a downward incline for Hashem's flow (Kedushas Levi) |
+| מטה | mateh | staff, tribe | a staff of office (Malbim, Wertheimer); neutral; the tribe's members (Mecklenburg); the same as *shevet* (Ohel Moed); as tribe, a downward incline for Hashem's flow (Kedushas Levi); from *natah*, what one leans on (Radak) |
 | שבט | shevet | rod, tribe | a rod struck with a wind-up (Vilna Gaon); authority (Rashi); a branch (Malbim); the same as *mateh* (Ohel Moed) |
 | משענת | mishenes | cane | a cane to lean on; positive, supporting the elderly (Lorberbaum) |
 | מקל | makel | rod for striking | the shepherd's striking rod; negative, tied to punishment (Lorberbaum) |
@@ -93,6 +93,8 @@ Moed* writes twice that *shevet* is *mateh*.
   together being unparalleled. He relates the word to *mateh*, inclined, after
   the curve at the top by which it is gripped, and holds that a *mateh* (like a
   *makel*) is made only of wood.
+- Radak (*Sefer HaShorashim*) relates *mateh* to *natah*: a staff is something
+  one leans on.
 - Rabbi Yehuda ibn Kuraish (a ninth-century Spanish grammarian) writes that a
   *mateh* is specifically a stick of dry wood, though rabbinic tradition teaches
   that Moshe's *mateh* was made of blue rock, either sapphire or lapis lazuli.
@@ -209,4 +211,4 @@ Rabbi Reuven Chaim Klein, "[Trusting and Relying on G-d](https://articles.ohr.ed
 
 Rabbi Reuven Chaim Klein, "Tribesmen Stick Together," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Bereishis 49:28; Yirmiyahu 1:11; Tehillim 2:9; Megillas Esther (the *sharvit* of Achashverosh); Sanhedrin 5a; Malbim to Yirmiyahu 1:11 and Bereishis 49:28; Rashi to Sanhedrin 5a; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. שבר/קוה/יחל/חכה and קוה/יחל/חכה; the Vilna Gaon; Rabbi Yehuda ibn Kuraish; Rabbi Yaakov Lorberbaum of Lissa; Rabbi Yaakov Tzvi Mecklenburg, citing Shadal; Rabbi Zev HaKohen Hoberman; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. שע, קו, חס, and *Yerios Shlomo* (חוברת ד' יריעה ו'); the Targumim; *Ohel Moed*; Kedushas Levi to Bereishis 29:30 and Shemos 1:1; Shadal to Bamidbar 17:17.
+Cited in the essay: Bereishis 49:28; Yirmiyahu 1:11; Tehillim 2:9; Megillas Esther (the *sharvit* of Achashverosh); Sanhedrin 5a; Malbim to Yirmiyahu 1:11 and Bereishis 49:28; Rashi to Sanhedrin 5a; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. שבר/קוה/יחל/חכה and קוה/יחל/חכה; the Vilna Gaon; Rabbi Yehuda ibn Kuraish; Rabbi Yaakov Lorberbaum of Lissa; Rabbi Yaakov Tzvi Mecklenburg, citing Shadal; Rabbi Zev HaKohen Hoberman; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. שע, קו, חס, and *Yerios Shlomo* (חוברת ד' יריעה ו'); the Targumim; *Ohel Moed*; Kedushas Levi to Bereishis 29:30 and Shemos 1:1; Shadal to Bamidbar 17:17; Radak, *Sefer HaShorashim*.

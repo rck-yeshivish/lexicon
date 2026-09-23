@@ -42,7 +42,7 @@ sources:
   - wiaw:8333 "Bovine Words: Cows and Cowboys" (2019-07-20) https://articles.ohr.edu/articles/bovine-words-cows-and-cowboys
   - wiaw:9308 "The Ultimate Teacher" (2021-07-24) https://articles.ohr.edu/articles/the-ultimate-teacher
   - ms:271-bovine-words-cows-and-cowboys.md "Bovine Words: Cows and Cowboys"
-authorities: [Rabbi Eliezer HaKallir, Peirush HaRokeach, Rabbeinu Efrayim, Rabbi Zalman Hanau, Rabbi Shlomo Pappenheim, Rashi, Radak, Rabbi Yonah Merzbach, the Vilna Gaon, Rabbi Yehoshua Steinberg, Julian Mason, Malbim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Eliyahu Benamozegh]
+authorities: [Rabbi Eliezer HaKallir, Peirush HaRokeach, Rabbeinu Efrayim, Rabbi Zalman Hanau, Rabbi Shlomo Pappenheim, Rashi, Radak, Rabbi Yonah Merzbach, the Vilna Gaon, Rabbi Yehoshua Steinberg, Julian Mason, Malbim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Eliyahu Benamozegh, Shadal]
 updated: 2026-09-22
 ---
 # Cattle: shor / par / egel / aleph / bakar
@@ -140,11 +140,15 @@ alphabet.
   the chieftain with a firm hold over those under him is an *aluf*, and the
   number one must command to earn that title is an *elef*, a thousand; an
   *aleph* is on that reckoning the strongest sort of ox.
+- The Gemara (Sanhedrin 99b): every *aluf* is a kingship without a crown.
 - The Vilna Gaon (to Mishlei 14:4) instead connects *aleph* to the Aramaic
   *yalif*, to learn, though his account of how *aleph* differs from *shor* is
   involved.
 - Malbim likewise ties the word to learning: an *aleph* is a *trained* ox, one
   that has already learned how to work the land.
+- Shadal (to Bereishis 36:15, 36:40, 36:43; Shemos 15:15): an *aluf* is a
+  family; said of one man, it is the one recognized as head of a family, and in
+  Hebrew the word means one who is known and recognized.
 
 ### bakar (בקר)
 The collective, cattle.
@@ -194,4 +198,4 @@ Rabbi Reuven Chaim Klein, "[The Ultimate Teacher](https://articles.ohr.edu/artic
 
 Rabbi Reuven Chaim Klein, "Bovine Words: Cows and Cowboys," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Shemos 21:37 with *Peirush HaRokeach* and Rabbeinu Efrayim; Vayikra 22:24, 22:27; Devarim 7:13, 28:4, 28:18, 28:51; Yeshayahu 30:24; Amos 7:14; Tehillim 8:8, 50:10, 69:32 with Rashi and Radak; Mishlei 3:8, 14:4 with the Vilna Gaon; Yechezkel 16:4; Iyov 40:16; Parah 1:1; Chullin 60a; Avodah Zarah 8a; Rabbi Eliezer HaKallir's *piyut* for the second day of Pesach; *Tzohar HaTeivah*; Radak, *Sefer HaShorashim*; Rabbi Yonah Merzbach; Rabbi Yehoshua Steinberg; Dr. Julian Mason; Malbim, *Sefer HaCarmel* s.v. אלף; HaKsav VeHaKabbalah to Vayikra 22:28; Benamozegh, *Eim LaMikra* to Bereishis 38:17.
+Cited in the essay: Shemos 21:37 with *Peirush HaRokeach* and Rabbeinu Efrayim; Vayikra 22:24, 22:27; Devarim 7:13, 28:4, 28:18, 28:51; Yeshayahu 30:24; Amos 7:14; Tehillim 8:8, 50:10, 69:32 with Rashi and Radak; Mishlei 3:8, 14:4 with the Vilna Gaon; Yechezkel 16:4; Iyov 40:16; Parah 1:1; Chullin 60a; Avodah Zarah 8a; Rabbi Eliezer HaKallir's *piyut* for the second day of Pesach; *Tzohar HaTeivah*; Radak, *Sefer HaShorashim*; Rabbi Yonah Merzbach; Rabbi Yehoshua Steinberg; Dr. Julian Mason; Malbim, *Sefer HaCarmel* s.v. אלף; HaKsav VeHaKabbalah to Vayikra 22:28; Benamozegh, *Eim LaMikra* to Bereishis 38:17; Sanhedrin 99b; Bereishis 36:15, 36:40, 36:43 and Shemos 15:15 with Shadal.

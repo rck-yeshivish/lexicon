@@ -22,7 +22,7 @@ words:
 sources:
   - wiaw:10804 "Vaera: The Trick of Magi" (2023-01-21) https://articles.ohr.edu/articles/vaera-the-trick-of-magi
   - ms:096-the-trick-of-magi.md "The Trick of Magi"
-authorities: [Targum Onkelos, Rashi, Ramban, Ibn Ezra, Radak, Ibn Janach, Menachem Ibn Saruk, Tosafists (Moshav Zekenim), Rabbi Avraham Saba, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Saadia Gaon, Rabbeinu Chananel, Rabbi Avraham Maimuni, Ralbag, Rabbi David HaNaggid, Rabbi Yehuda HaLevi, Vilna Gaon, Rabbi Shes ben Yefes, Igeres Shmuel, Rabbi Yehudah Provencal]
+authorities: [Targum Onkelos, Rashi, Ramban, Ibn Ezra, Radak, Ibn Janach, Menachem Ibn Saruk, Tosafists (Moshav Zekenim), Rabbi Avraham Saba, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Saadia Gaon, Rabbeinu Chananel, Rabbi Avraham Maimuni, Ralbag, Rabbi David HaNaggid, Rabbi Yehuda HaLevi, Vilna Gaon, Rabbi Shes ben Yefes, Igeres Shmuel, Rabbi Yehudah Provencal, Rabbi Moshe Shapiro]
 updated: 2026-09-22
 ---
 # Magic: lahat / lat (ittim)
@@ -99,6 +99,9 @@ first plague, and that is what the meforshim are commenting on.
   hand, and *lat* the arousing of the onlooker's imagination so that he thinks
   he sees what is not there, which relates to *sheidim* in the Rambam's sense
   (*Moreh Nevuchim* 3:46).
+- Rabbi Moshe Shapiro (Shemos 5757): in the world that Avraham Avinu built,
+  sorcery of this kind cannot exist; in the false world the *chartumim* built,
+  it could.
 
 ## Distinctions
 
@@ -169,4 +172,4 @@ Rabbi Reuven Chaim Klein, "[Vaera: The Trick of Magi](https://articles.ohr.edu/a
 
 Rabbi Reuven Chaim Klein, "The Trick of Magi," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Shemos 7:11, 7:22, 8:3, 8:14-15; Bereishis 3:24; Sanhedrin 67b with Rashi; Targum Onkelos, Ramban, and Ibn Ezra to Shemos 7:11 and 7:22; *Moshav Zekenim* and *Tzror HaMor* there; *Cheshek Shlomo* and *Yerios Shlomo*; Rav Hirsch to Shemos 7:11; Tehillim 104:4; Shmuel I 18:22, 21:10; Shoftim 4:21; Yeshayahu 8:6, 19:3 with Rashi, 25:7; Bereishis 33:14; Shmuel II 18:5; Iyov 15:11; *Moreh Nevuchim* 3:46; *Biur HaGra*, Yoreh Deah 179:13; Rabbi David HaNaggid, *Klil HaYofi* to Shemos 7:11; Rabbi Moshe Maimon, *Mechilta* vol. 4; *Chemdas HaChemdah* to Shemos 7:11; *Igeres Shmuel* to Rus 3:7.
+Cited in the essay: Shemos 7:11, 7:22, 8:3, 8:14-15; Bereishis 3:24; Sanhedrin 67b with Rashi; Targum Onkelos, Ramban, and Ibn Ezra to Shemos 7:11 and 7:22; *Moshav Zekenim* and *Tzror HaMor* there; *Cheshek Shlomo* and *Yerios Shlomo*; Rav Hirsch to Shemos 7:11; Tehillim 104:4; Shmuel I 18:22, 21:10; Shoftim 4:21; Yeshayahu 8:6, 19:3 with Rashi, 25:7; Bereishis 33:14; Shmuel II 18:5; Iyov 15:11; *Moreh Nevuchim* 3:46; *Biur HaGra*, Yoreh Deah 179:13; Rabbi David HaNaggid, *Klil HaYofi* to Shemos 7:11; Rabbi Moshe Maimon, *Mechilta* vol. 4; *Chemdas HaChemdah* to Shemos 7:11; *Igeres Shmuel* to Rus 3:7; Rabbi Moshe Shapiro, Shemos 5757.

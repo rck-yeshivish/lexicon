@@ -16,8 +16,9 @@ words:
     distinct: not the doer but the persuader, he goes to the authorities on the community's behalf to change their position, from shadal in its persuading sense
 sources:
   - wiaw:10720 "Toldos: The Doers and Fighters" (2022-11-26) https://articles.ohr.edu/articles/toldos-the-doers-and-fighters
+  - ms:041-the-doers-and-fighters.md "The Doers and Fighters"
 authorities: [Sforno, Targum Onkelos, Rashi, Ramban, Menachem Ibn Saruk, Rabbi Binyamin Mussafia, pseudo-Rasag, Tosafos, Rabbi Ernest Klein, Alexander Kohut, Rabbi Reuven Chaim Klein]
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 # Communal activist: askan / shtadlan (esek, shadal, shadar)
 
@@ -109,6 +110,10 @@ the Aramaic *iska* (Rashi to Berachos 56a, Shabbos 19b, Moed Katan 22a, Kesubos
 (Kesubos 8a, Bava Metzia 68b). In Modern Hebrew an *osek* is a freelancer and
 *issuk* one's occupation.
 
+Several old siddurim spell *la'asok* in the daily Birkas HaTorah with a sin in
+place of the samech: so the *Siddur Areshet Sefatayim* (Amsterdam, 1906) and
+Seligman Baer's *Avodas Yisrael*.
+
 ### askan (עסקן)
 Rashi (to Chullin 57b): Rabbi Shimon ben Chalafta was called an *askan* because he went out to test for himself what other authorities reported. The word therefore carries the extra exertion of doing a thing with
 one's own hands, which is exactly the modern communal *askan*.
@@ -165,4 +170,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Toldos: The Doers and Fighters](https://articles.ohr.edu/articles/toldos-the-doers-and-fighters)," *What's in a Word?*, Ohr Somayach, 26 November 2022.
 
-Cited in the essay: Bereishis 26:20 with Sforno, and 12:17, 20:11, 20:18, 32:25; Shemos 22:15 with Targum Onkelos and Rashi; Yehoshua 14:6; Yechezkel 38:4; Rus 2:19; Daniel 6:15 with Tosafos to Kiddushin 39b and pseudo-Rasag; Ezra 4:15, 4:19; Koheles 3:1, 3:18, 7:8, 8:2; *Avos* 2:5, 4:10, 4:18; Berachos 56a, 58a; Moed Katan 22a; Kesubos 8a and 80b; Bava Metzia 68b; Kiddushin 30b; Chullin 57b with Rashi; Shavuos 31a and Bava Metzia 14a with Rashi; Mishnah *Shekalim* 6:2, *Maaser Sheini* 4:7, *Shabbos* 23:4, *Rosh Hashanah* 4:8, *Sotah* 1:9, *Kiddushin* 4:14, *Eduyos* 2:5, *Kerisos* 4:3, *Menachos* 10:3, *Taharos* 7:8, *Niddah* 8:2, *Zavim* 2:2; *Mussaf HaAruch*; *Machberes Menachem*; *Aruch HaShalem*.
+Rabbi Reuven Chaim Klein, "The Doers and Fighters," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 26:20 with Sforno, and 12:17, 20:11, 20:18, 32:25; Shemos 22:15 with Targum Onkelos and Rashi; Yehoshua 14:6; Yechezkel 38:4; Rus 2:19; Daniel 6:15 with Tosafos to Kiddushin 39b and pseudo-Rasag; Ezra 4:15, 4:19; Koheles 3:1, 3:18, 7:8, 8:2; *Avos* 2:5, 4:10, 4:18; Berachos 56a, 58a; Moed Katan 22a; Kesubos 8a and 80b; Bava Metzia 68b; Kiddushin 30b; Chullin 57b with Rashi; Shavuos 31a and Bava Metzia 14a with Rashi; Mishnah *Shekalim* 6:2, *Maaser Sheini* 4:7, *Shabbos* 23:4, *Rosh Hashanah* 4:8, *Sotah* 1:9, *Kiddushin* 4:14, *Eduyos* 2:5, *Kerisos* 4:3, *Menachos* 10:3, *Taharos* 7:8, *Niddah* 8:2, *Zavim* 2:2; *Mussaf HaAruch*; *Machberes Menachem*; *Aruch HaShalem*; *Siddur Areshet Sefatayim* (Amsterdam, 1906); Seligman Baer, *Avodas Yisrael*.

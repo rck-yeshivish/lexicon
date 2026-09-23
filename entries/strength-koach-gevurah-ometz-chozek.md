@@ -43,7 +43,7 @@ words:
   - he: אדיר
     tr: adir
     en: mighty
-    distinct: the most powerful of a whole group, where chazak is only stronger than another, from ד-ר, unconstrained motion (Pappenheim); related to hadar, glory, since Hashem's strength brings Him glory (Rabbi Edel); the Aramaic form of ezor, all-encompassing (Shadal)
+    distinct: the most powerful of a whole group, where chazak is only stronger than another, from ד-ר, unconstrained motion (Pappenheim); related to hadar, glory, since Hashem's strength brings Him glory (Rabbi Edel); the Aramaic form of ezor, all-encompassing (Shadal); strength one with the thing's own being (Rabbi Moshe Shapiro)
   - he: תקיף
     tr: takif
     en: overpowering
@@ -53,7 +53,8 @@ sources:
   - wiaw:8857 "The Strong Ones" (2020-09-12) https://articles.ohr.edu/articles/the-strong-ones
   - wiaw:8505 "The Ovine and Caprine Families" (2019-12-07) https://articles.ohr.edu/articles/the-ovine-and-caprine-families
   - ms:325-the-strong-ones.md "The Strong Ones"
-authorities: [Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Edel, Rav Hirsch, Metzudas David, Maharsha, Rabbi J. B. Soloveitchik, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Aharon Wertheimer, Vilna Gaon, Malbim, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Dr. Asher Weiser, Rabbi Moshe Shapiro, Rabbi Aharon Marcus, Rabbi Naftali Hertz Wessely, Rabbi Yerucham Levovitz, Rabbi Shlomo of Urbino, Yonah Wilheimer, Rashi, Rambam, Tosafos, Targum, Shadal, Shadal, Shadal, Rabbi Eliyahu Benamozegh]
+  - ms:161-the-beauty-of-adar.md "The Beauty of Adar"
+authorities: [Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Edel, Rav Hirsch, Metzudas David, Maharsha, Rabbi J. B. Soloveitchik, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Aharon Wertheimer, Vilna Gaon, Malbim, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Dr. Asher Weiser, Rabbi Moshe Shapiro, Rabbi Aharon Marcus, Rabbi Naftali Hertz Wessely, Rabbi Yerucham Levovitz, Rabbi Shlomo of Urbino, Yonah Wilheimer, Rashi, Rambam, Tosafos, Targum, Shadal, Rabbi Eliyahu Benamozegh, Aruch, Pri Toar]
 updated: 2026-09-22
 ---
 # Strength: koach / gevurah / chozek / ometz (otzem, oz, eitan, adir, kabir, takif)
@@ -91,7 +92,7 @@ Pappenheim).
 | עצם | otzem | vastness, innate strength | strength through numbers (Edel); pent-up potential strength (Rabbi Moshe Shapiro) |
 | איתן | eitan | steadfast | strength that holds back, like a river bank (Edel); durable, like bedrock (Rav Hirsch); ever giving without tiring, from *tan* (Shadal) |
 | כביר | kabir | mighty in number | strength of many equal units banded together (Pappenheim) |
-| אדיר | adir | mighty | the most powerful of a whole group (Pappenheim); tied to *hadar*, glory (Edel); the Aramaic form of *ezor*, all-encompassing (Shadal) |
+| אדיר | adir | mighty | the most powerful of a whole group (Pappenheim); tied to *hadar*, glory (Edel); the Aramaic form of *ezor*, all-encompassing (Shadal); strength one with the thing's own being (Rabbi Moshe Shapiro) |
 | תקיף | takif | overpowering | strength that surrounds and overpowers (Pappenheim); the Targum's Aramaic for *chozek* and *oz* |
 
 ## Distinctions
@@ -282,7 +283,8 @@ Rabbi Pappenheim admits he is unsure how to break the word down.
 units banded together (see Rashi to Berachos 8a, who associates *kabir* with the
 power of communal prayer). He then divides quantitative strength: *otzem* where
 the sub-units do not necessarily contribute an equal force, *kabir* where the
-components are equally powerful.
+components are equally powerful. The *Pri Toar* (Yoreh De'ah 19:10) relates
+*achbar*, the mouse, to *kabir*.
 
 - *Adir*: Rabbi Pappenheim, calling someone *chazak* means he is more powerful
   than someone else, *adir* that he is the most powerful of a whole group. It is
@@ -297,6 +299,21 @@ components are equally powerful.
   often becoming dalet in Aramaic, because *adir* is power that encompasses
   everything, as a belt encircles the body; so too *aderes*, a cloak that goes
   around it.
+- Rabbi Moshe Shapiro (Shekalim 5754): *adir* is the level at which a thing's
+  strength is one with its very being. A power one has gathered and acquired is
+  something other than oneself; *adir* is strength identical with the one who
+  has it. So *mikolos mayim rabim adirim mishberei yam* (Tehillim 93:4): the
+  might is in the waters themselves. The malachim argued that this level cannot
+  rest on earth, hence *asher tenah hodcha al hashamayim* (Tehillim 8:2), and
+  when they conceded to Moshe Rabbeinu they closed with *mah adir shimcha bechol
+  ha'aretz* (8:10). The Avos are called *adirim* (Menachos 53a) because they
+  carry all of this within themselves. So too the Gemara (Beitzah 15b): one who
+  wants his property to endure should plant an *adar* in it, for *adir bamarom
+  Hashem*. The Aruch (in *Mesores HaShas*) explains that he should give tzedakah
+  from it, which makes the property his in essence; Rashi, that the *adar* is a
+  notable tree by which the field is known as his. Either way, says Rabbi Moshe
+  Shapiro, the *adar* raises a thing from something acquired to something one's
+  own in essence.
 
 *Takif*: the standard Aramaic of the Targumim for *chozek* and *oz*, and also a
 Hebrew word in Tanach (see Esther 9:29, 10:2; Koheles 4:12; Daniel 4:27).
@@ -350,4 +367,6 @@ Rabbi Reuven Chaim Klein, "[The Ovine and Caprine Families](https://articles.ohr
 
 Rabbi Reuven Chaim Klein, "The Strong Ones," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Bereishis 7:18-19, 25:23, 49:24; Shemos 1:20, 14:27, 15:6; Bamidbar 13:18, 13:28, 24:21; Devarim 7:1, 8:18, 21:4, 31:7, 31:23; Yehoshua 1:6, 1:7, 1:9, 1:18; Melachim I 8:2; Yeshayahu 28:2; Yirmiyahu 32:18; Yoel 2:2; Zecharyah 6:3; Tehillim 8:2, 29:11, 35:18, 68:35, 89:1, 93:4; Mishlei 24:5, 31:25; Koheles 4:12, 8:1; Esther 9:29, 10:2; Daniel 4:27; Divrei HaYamim I 22:13, 28:20; Avos 4:1; Berachos 8a, 32b; Shabbos 119b; Yoma 69b; Rosh Hashanah 11a; Bava Basra 15a; *Eichah Rabbah* 1:33; Targum to Devarim 8:18; Rashi to Devarim 21:4, Berachos 8a and Shabbos 119b; Tosafos to Shabbos 119b; Rambam, Hilchos Rotzeach 9:2; Maharsha to Bava Basra 15a; Metzudas David to Melachim I 8:2; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Rabbi Yehuda Leib Edel; Rav Hirsch to Shemos 14:27; Rabbi J. B. Soloveitchik, *Catharsis*; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Shemos 9:33 and 20:5, Devarim 1:5; Rabbi Avraham Bedersi HaPenini; Rabbi Shlomo Aharon Wertheimer; the Vilna Gaon to Yehoshua 1:7 and Mishlei 24:5; Malbim, *Yair Ohr* and to Yeshayahu 28:2; Rabbi Yehuda Leib Shapira-Frankfurter, *HaRechasim LeVikah* to Bereishis 25:23; Rabbi Dr. Asher Weiser; Rabbi Moshe Shapiro; Rabbi Aharon Marcus, *Barzilai* (עמ' 63); Rabbi Naftali Hertz Wessely; Rabbi Yerucham Levovitz; Rabbi Shlomo of Urbino, *Ohel Moed*, with Yonah Wilheimer's 1881 edition; Shadal to Shemos 14:27; Shadal to Shemos 15:1; Shadal to Shemos 15:6; Benamozegh, *Eim LaMikra* to Vayikra 23:24.
+Rabbi Reuven Chaim Klein, "The Beauty of Adar," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 7:18-19, 25:23, 49:24; Shemos 1:20, 14:27, 15:6; Bamidbar 13:18, 13:28, 24:21; Devarim 7:1, 8:18, 21:4, 31:7, 31:23; Yehoshua 1:6, 1:7, 1:9, 1:18; Melachim I 8:2; Yeshayahu 28:2; Yirmiyahu 32:18; Yoel 2:2; Zecharyah 6:3; Tehillim 8:2, 29:11, 35:18, 68:35, 89:1, 93:4; Mishlei 24:5, 31:25; Koheles 4:12, 8:1; Esther 9:29, 10:2; Daniel 4:27; Divrei HaYamim I 22:13, 28:20; Avos 4:1; Berachos 8a, 32b; Shabbos 119b; Yoma 69b; Rosh Hashanah 11a; Bava Basra 15a; *Eichah Rabbah* 1:33; Targum to Devarim 8:18; Rashi to Devarim 21:4, Berachos 8a and Shabbos 119b; Tosafos to Shabbos 119b; Rambam, Hilchos Rotzeach 9:2; Maharsha to Bava Basra 15a; Metzudas David to Melachim I 8:2; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Rabbi Yehuda Leib Edel; Rav Hirsch to Shemos 14:27; Rabbi J. B. Soloveitchik, *Catharsis*; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Shemos 9:33 and 20:5, Devarim 1:5; Rabbi Avraham Bedersi HaPenini; Rabbi Shlomo Aharon Wertheimer; the Vilna Gaon to Yehoshua 1:7 and Mishlei 24:5; Malbim, *Yair Ohr* and to Yeshayahu 28:2; Rabbi Yehuda Leib Shapira-Frankfurter, *HaRechasim LeVikah* to Bereishis 25:23; Rabbi Dr. Asher Weiser; Rabbi Moshe Shapiro; Rabbi Aharon Marcus, *Barzilai* (עמ' 63); Rabbi Naftali Hertz Wessely; Rabbi Yerucham Levovitz; Rabbi Shlomo of Urbino, *Ohel Moed*, with Yonah Wilheimer's 1881 edition; Shadal to Shemos 14:27; Shadal to Shemos 15:1; Shadal to Shemos 15:6; Benamozegh, *Eim LaMikra* to Vayikra 23:24; Rabbi Moshe Shapiro, Shekalim 5754; Tehillim 8:2, 8:10, 93:4; Menachos 53a; Beitzah 15b with Rashi and the Aruch; *Pri Toar*, Yoreh De'ah 19:10.

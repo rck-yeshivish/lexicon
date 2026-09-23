@@ -9,11 +9,11 @@ words:
   - he: זכור
     tr: zachor
     en: remember, call to mind
-    distinct: remembering in the mind alone, doing nothing else, or constantly over a long span (Malbim); recalling what one knew and forgot (Ibn Ezra); implies mercy (Treves); after a shorter time (Al-Dhamari); at root smelling (Shadal); of Shabbos, keeping the present in mind (Shadal)
+    distinct: remembering in the mind alone, doing nothing else, or constantly over a long span (Malbim); recalling what one knew and forgot (Ibn Ezra); implies mercy (Treves); after a shorter time (Al-Dhamari); at root smelling (Shadal); of Shabbos, keeping the present in mind (Shadal); of Shabbos, looking back to Creation (Rashbam)
   - he: שמור
     tr: shamor
     en: keep in mind
-    distinct: keeping in mind something one currently knows, against zachor, remembering what one once knew and forgot (Ibn Ezra)
+    distinct: keeping in mind something one currently knows, against zachor, remembering what one once knew and forgot (Ibn Ezra); keeping for a time, waiting until the time to act (the Rokeach)
   - he: פקד
     tr: pakad
     en: attend to, take note of
@@ -21,7 +21,7 @@ words:
 sources:
   - wiaw:9110 "Ki Tisa: Remember Forever" (2021-03-06) https://articles.ohr.edu/articles/ki-tisa-remember-forever
   - ms:163-parshas-zachor-remember-forever.md "Parshas Zachor: Remember Forever"
-authorities: [Rabbi Moshe Ibn Ezra, Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo of Urbino, Rabbi Saadia ben David Al-Dhamari, Rashbatz, Rabbi Moshe de Leon, Rabbi Naftali Hertz Treves, Kedushas Levi, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Asher Weiser, Rashi, Kli Yakar, Shadal, Shadal, Shadal]
+authorities: [Rabbi Moshe Ibn Ezra, Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo of Urbino, Rabbi Saadia ben David Al-Dhamari, Rashbatz, Rabbi Moshe de Leon, Rabbi Naftali Hertz Treves, Kedushas Levi, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Asher Weiser, Rashi, Kli Yakar, Shadal, the Rokeach, Mahari Kara, Rashbam, Chizkuni, Sforno]
 updated: 2026-09-22
 ---
 # Remember: zachor / pakad
@@ -38,8 +38,8 @@ in action.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| זכור | zachor | remember, call to mind | in thought alone (Malbim, Wertheimer); recalling the forgotten (Ibn Ezra); merciful (Treves); at root smelling (Shadal); of Shabbos, keeping the present in mind (Shadal) |
-| שמור | shamor | keep in mind | keeping in mind what one currently knows (Ibn Ezra) |
+| זכור | zachor | remember, call to mind | in thought alone (Malbim, Wertheimer); recalling the forgotten (Ibn Ezra); merciful (Treves); at root smelling (Shadal); of Shabbos, keeping the present in mind (Shadal); of Shabbos, looking back to Creation (Rashbam) |
+| שמור | shamor | keep in mind | keeping in mind what one currently knows (Ibn Ezra); keeping for a time, waiting until the time to act (the Rokeach) |
 | פקד | pakad | attend to, take note of | remembering that issues in action (Malbim); after a long time (Al-Dhamari) |
 
 ## Distinctions
@@ -61,6 +61,17 @@ Root ז-כ-ר.
 - The most basic definition is Rabbi Moshe Ibn Ezra's (1055-1138): *zachor* is
   to remember something one once knew and forgot, as against *shamor*, to keep
   in mind something one currently knows.
+- The Rokeach (*Peirush HaRokeach*, Shemos, p. 118) sets four verbs in a row.
+  *Zechirah* is of what one has seen, as *lema'an tizkor es yom tzeischa*
+  (Devarim 16:3) and *zachor es yom haShabbos*. *Shemirah* is keeping for a
+  time, as *ve'aviv shamar es hadavar* (Bereishis 37:11); *netirah*, keeping for
+  a later time, as *lo sitor* (Vayikra 19:18); and *netzirah*, guarding at every
+  moment until the thing is needed, as *netzor beni mitzvas avicha* (Mishlei
+  6:20) and *yitzrenhu ke'ishon eino* (Devarim 32:10). In his siddur (pp. 372,
+  376) he sets *notzer*, guarding in every respect, against *shemirah*, which is
+  for the time being: a waiting until the time comes to act, as Eli was *shomer
+  es piha*, waiting until Chanah stopped (Shmuel I 1:12). Mahari Kara (to
+  Koheles 5:7) likewise reads *shomer* as waiting.
 - Malbim points to two differences between the two kinds of remembering. First,
   *zachor* simply refers to remembering in one's mind, mentally recalling a fact
   or idea and doing nothing else. Alternatively, Malbim explains that *zachor*
@@ -84,6 +95,15 @@ memory of something is a whiff of that idea and is not it itself.
 Shadal (to Shemos 20:8): *zachor* said of Shabbos means keeping the present in
 mind, remembering each week that it is Shabbos so as not to lose the day's
 holiness by forgetting it.
+
+On that pasuk the meforshim differ on whether *zachor* looks back. Rashbam (to
+Shemos 20:8): every *zechirah* refers to days gone by, as *zechor yemos olam*
+(Devarim 32:7) and *zachor es hayom hazeh* (Shemos 13:3), and here it is the
+Shabbos of the six days of Creation; Chizkuni there says the same, that
+*zechirah* is used of the past and never of the future. Rashi there reads it of
+the present, "set your heart to remember the day of Shabbos always," and Sforno
+of the working week, keeping Shabbos in mind in one's weekday dealings, as with
+*zachor es asher asah lecha Amalek* (Devarim 25:17).
 
 Shadal (to Vayikra 2:2): the original, concrete meaning of *zachor* is smelling.
 Smell fixes a thing in the mind so it can be recalled without being present, and
@@ -214,4 +234,4 @@ Rabbi Reuven Chaim Klein, "[Ki Tisa: Remember Forever](https://articles.ohr.edu/
 
 Rabbi Reuven Chaim Klein, "Parshas Zachor: Remember Forever," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Bereishis 8:1, 21:1, 30:22, 41:51; Shemos 3:16, 20:5, 20:8; Vayikra 5:23, 6:8; Bamidbar 1:21, 1:50, 2:32, 16:29, 31:14, 31:49; Devarim 4:9, 9:7, 16:3, 24:9, 25:17, 25:19, 32:18; Shmuel I 15:4; Yeshayahu 38:10; Yirmiyahu 46:21; Hoshea 2:15, 14:8; Tehillim 19:9, 20:4, 109:6, 119:56; Esther 2:3; Ezra 1:2; Rosh Hashanah 32b; Bava Basra 21b; Rashi to Bereishis 8:1 and Nedarim 39b; Kli Yakar to Bamidbar 16:29; Rabbi Moshe Ibn Ezra; Malbim, *Yair Ohr* (אות ז' סימ ו זכר\פקד); Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. זכר\פקד; Rabbi Naftali Hertz Treves, *Sefer HaGur*; Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Dr. Asher Weiser, *Mikra V'Lashon* (עמ' 196); Rabbi Saadia ben David Al-Dhamari; Rashbatz to Avos 5:12; Rabbi Moshe de Leon, *Sefer HaRimmon*; *Yaaleh V'Yavo*; *Kedushas Levi* to Bereishis 21:1; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Bereishis 1:27; Shadal to Shemos 20:8; Shadal to Bereishis 12:2; Shadal to Vayikra 2:2.
+Cited in the essay: Bereishis 8:1, 21:1, 30:22, 41:51; Shemos 3:16, 20:5, 20:8; Vayikra 5:23, 6:8; Bamidbar 1:21, 1:50, 2:32, 16:29, 31:14, 31:49; Devarim 4:9, 9:7, 16:3, 24:9, 25:17, 25:19, 32:18; Shmuel I 15:4; Yeshayahu 38:10; Yirmiyahu 46:21; Hoshea 2:15, 14:8; Tehillim 19:9, 20:4, 109:6, 119:56; Esther 2:3; Ezra 1:2; Rosh Hashanah 32b; Bava Basra 21b; Rashi to Bereishis 8:1 and Nedarim 39b; Kli Yakar to Bamidbar 16:29; Rabbi Moshe Ibn Ezra; Malbim, *Yair Ohr* (אות ז' סימ ו זכר\פקד); Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. זכר\פקד; Rabbi Naftali Hertz Treves, *Sefer HaGur*; Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Dr. Asher Weiser, *Mikra V'Lashon* (עמ' 196); Rabbi Saadia ben David Al-Dhamari; Rashbatz to Avos 5:12; Rabbi Moshe de Leon, *Sefer HaRimmon*; *Yaaleh V'Yavo*; *Kedushas Levi* to Bereishis 21:1; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Bereishis 1:27; Shadal to Shemos 20:8; Shadal to Bereishis 12:2; Shadal to Vayikra 2:2; *Peirush HaRokeach*, Shemos p. 118; *Siddur HaRokeach*, pp. 372, 376; Devarim 16:3, 32:10; Bereishis 37:11; Vayikra 19:18; Mishlei 6:20; Shmuel I 1:12; Koheles 5:7 with Mahari Kara; Shemos 20:8 with Rashi, Rashbam, Chizkuni and Sforno; Shemos 13:3; Devarim 25:17, 32:7.

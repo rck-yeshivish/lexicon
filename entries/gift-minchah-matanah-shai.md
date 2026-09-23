@@ -33,7 +33,7 @@ words:
 sources:
   - wiaw:7982 "The Gift of Giving" (2018-12-01) https://articles.ohr.edu/articles/the-gift-of-giving
   - ms:052-the-gift-of-giving.md "The Gift of Giving"
-authorities: [Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Rabbi Yaakov Tzvi Mecklenburg, Radak, Rabbi Avraham Bedersi HaPenini, Rabbi Avraham ben Chaim Ibn Ramoch, Malbim, Midrash Shocher Tov, Rabbi Eliyahu HaBachur, Moshe Halbertal, Shadal]
+authorities: [Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Rabbi Yaakov Tzvi Mecklenburg, Radak, Rabbi Avraham Bedersi HaPenini, Rabbi Avraham ben Chaim Ibn Ramoch, Malbim, Midrash Shocher Tov, Rabbi Eliyahu HaBachur, Moshe Halbertal, Shadal, Rashi]
 updated: 2026-09-22
 ---
 # Gift: minchah / matanah / shai / teshurah / eshkar / doron
@@ -84,6 +84,11 @@ uses four times for Yaakov's tribute of five hundred and fifty animals to Esav
   is meant to settle and placate the recipient.
 - Shadal (to Bereishis 4:3): *minchah* is from נ-ו-ח, a gift meant to appease a
   superior in case one sinned against him unawares.
+- Shadal and Rashi (to Bereishis 33:11): *berachah* is another word for a
+  present. Yaakov calls his gift to Esav *birchasi*, and Rashi glosses it
+  *minchasi*, the gift that comes on seeing someone.
+- Rashi (to Niddah 31b) explains the *kar* that a male child is said to bring
+  into the world in his hand as a *minchah*, a sign of peace.
 
 Rabbi Mecklenburg presses further: the more submission a gift shows, the more it
 deserves the name *minchah*. Hence *Tefillas Minchah*, said as the sun is on its
@@ -181,4 +186,4 @@ Rabbi Reuven Chaim Klein, "[The Gift of Giving](https://articles.ohr.edu/article
 
 Rabbi Reuven Chaim Klein, "The Gift of Giving," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Bereishis 32:14, 32:19-22 with Targum Yonasan, and ch. 27; Shmuel II 8:2; Melachim II 17:3; Esther 9:22; Yeshayahu 18:7; Tehillim 68:30, 72:10, 76:12; Yechezkel 27:15; Shmuel I 9:7; *Midrash Shocher Tov* to Tehillim 87; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* s.v. doron; Rav Hirsch; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. מתנה, מנחה, תשורה, שי and אשכר; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Bereishis 4:3, Vayikra 2:1; Radak; Rabbi Avraham Bedersi HaPenini; Rabbi Avraham ben Chaim Ibn Ramoch; Malbim, *Sefer HaCarmel* s.v. תשורה; Halbertal, *On Sacrifice* p. 10; Shadal to Bereishis 4:3.
+Cited in the essay: Bereishis 32:14, 32:19-22 with Targum Yonasan, and ch. 27; Shmuel II 8:2; Melachim II 17:3; Esther 9:22; Yeshayahu 18:7; Tehillim 68:30, 72:10, 76:12; Yechezkel 27:15; Shmuel I 9:7; *Midrash Shocher Tov* to Tehillim 87; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* s.v. doron; Rav Hirsch; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. מתנה, מנחה, תשורה, שי and אשכר; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Bereishis 4:3, Vayikra 2:1; Radak; Rabbi Avraham Bedersi HaPenini; Rabbi Avraham ben Chaim Ibn Ramoch; Malbim, *Sefer HaCarmel* s.v. תשורה; Halbertal, *On Sacrifice* p. 10; Shadal to Bereishis 4:3; Bereishis 33:11 with Shadal and Rashi; Niddah 31b with Rashi.

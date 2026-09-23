@@ -22,7 +22,7 @@ words:
   - he: כען
     tr: ke'an
     en: now
-    distinct: the only Aramaic now in Tanach, in Daniel and Ezra, and the Targumim's regular rendering of both atah and na; a contraction of ke'idana, according to this time (Marcus Jastrow)
+    distinct: the only Aramaic now in Tanach, in Daniel and Ezra, and the Targumim's regular rendering of both atah and na; a contraction of ke'idana, according to this time (Marcus Jastrow); Onkelos uses it for koh too
   - he: כדון
     tr: ke'don
     en: now
@@ -39,8 +39,9 @@ words:
     nk: עֵת
 sources:
   - wiaw:7409 "Elul 2: Now!" (2017-09-09) https://articles.ohr.edu/articles/elul-2-now
-authorities: [Rabbi Eliyahu HaBachur, Rabbi Binyamin Mussafia, Rabbi Wolf Heidenheim, Marcus Jastrow]
-updated: 2026-09-10
+  - ms:200-now-and-forthwith.md "Now and Forthwith!"
+authorities: [Rabbi Eliyahu HaBachur, Rabbi Binyamin Mussafia, Rabbi Wolf Heidenheim, Marcus Jastrow, Targum Onkelos]
+updated: 2026-09-22
 ---
 # Now: atah / na / achshav (and the Aramaic ke'an, hashta, ha'idna)
 
@@ -60,7 +61,7 @@ and *na*; *ke'don*, *hashta*, and *ha'idna* are its companions outside Tanach.
 | עתה | atah | now | the common biblical now; its letters spell *eis*, time |
 | נא | na | now | second biblical now; also please and raw, eaten before cooking |
 | עכשיו | achshav | now | Chazal's and Modern Hebrew's now, not in Tanach; *atah kemo shehu* (Jastrow) |
-| כען | ke'an | now | the only Aramaic now in Tanach; Targum's word for *atah* and *na* |
+| כען | ke'an | now | the only Aramaic now in Tanach; Targum's word for *atah* and *na*; Onkelos uses it for *koh* too |
 | כדון | ke'don | now | Aramaic now outside Tanach; like *ke'an*, from *ke'idana* (Jastrow) |
 | השתא | hashta | now | *ha shaata*, this hour (Heidenheim); the Haggadah's wording disputed |
 | האידנא | ha'idna | now | *ha idana*, this time (Mussafia), though the spellings differ (Rabbi Klein) |
@@ -80,12 +81,14 @@ similar-sounding *na*.
 
 ### achshav (עכשיו)
 Not in Tanach at all; common in the writings of Chazal, and the word Modern
-Hebrew has adopted as its principal "now." The earliest
-documented instance of *achshav* is in the Dead Sea Scrolls, in the scroll
-designated 4Q225. Dr. Marcus Jastrow proposed that *achshav* is a contraction of
-*atah kemo shehu*, "now, as it is," which, if so, Rabbi Klein notes, would make it a word based on *atah* that denotes a slightly different idea.
-Parenthetically, Rabbi Eliyahu HaBachur writes that he has seen some spell the
-word with a *yud* as the penultimate letter, and deems the *yud* unnecessary.
+Hebrew has adopted as its principal "now." The earliest documented instance of
+*achshav* is in the Dead Sea Scrolls, in the scroll designated 4Q225. Dr. Marcus
+Jastrow proposed that *achshav* is a contraction of *atah kemo shehu*, "now, as
+it is," which, if so, Rabbi Klein notes, would make it a word based on *atah*
+that denotes a slightly different idea. Parenthetically, Rabbi Eliyahu HaBachur
+writes that he has seen some spell the word with a *yud* as the penultimate
+letter, and deems the *yud* unnecessary. In 4Q225 the word is written without
+it.
 
 ### ke'an (כען) and ke'don (כדון)
 *Ke'an* is the only Aramaic word for "now" that appears in Tanach, in the Aramaic
@@ -94,14 +97,18 @@ both *atah* and *na*. Jastrow argues, as he does for *achshav*, that *ke'an* too
 is a contraction or abbreviation, here of the Aramaic *ke'idana*, "according to
 this time," and that the related *ke'don* is the same.
 
+Onkelos also uses *ke'an* for the Hebrew *koh*: *ad koh*, "until now" (Shemos
+7:16), becomes *ad ke'an*, so that *koh* too can mean "now."
+
 ### hashta (השתא)
 Reading the words for "now" as contractions is not Jastrow's innovation. Rabbi
 Wolf Heidenheim had already offered a similar idea in his Roedelheim Machzor,
 where he reads *hashta* as a contraction of the two-word Aramaic *ha shaata*,
-"this hour," which conceptually comes to the same thing as "now." Over the Haggadah's
-Aramaic line, "now we are here, next year in Eretz Yisrael," a disagreement
-arose between authorities over whether the word for "now" there should be
-*hashta* or *ha shaata*.
+"this hour," which conceptually comes to the same thing as "now." Over the
+Haggadah's Aramaic line, "now we are here, next year in Eretz Yisrael," a
+disagreement arose between authorities over whether the word for "now" there
+should be *hashta* or *ha shaata*. Jastrow himself gives the same etymology for
+*hashta*.
 
 ### ha'idna (האידנא)
 Earlier still than Rabbi Heidenheim, Rabbi Binyamin Mussafia read *ha'idna* as a
@@ -135,4 +142,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Elul 2: Now!](https://articles.ohr.edu/articles/elul-2-now)," *What's in a Word?*, Ohr Somayach, 9 September 2017.
 
-Cited in the essay: the Aramaic portions of Daniel and Ezra for *ke'an*; the Targumim's rendering of *atah* and *na*; Rabbi Eliyahu HaBachur on the spelling of *achshav*; Rabbi Wolf Heidenheim, Roedelheim Machzor, on *hashta*; Rabbi Binyamin Mussafia on *ha'idna*; the Haggadah's *Ha Lachma Anya* for the *hashta* / *ha shaata* dispute; Dr. Marcus Jastrow on the *achshav* and *ke'an* contractions; the Dead Sea Scrolls, 4Q225.
+Rabbi Reuven Chaim Klein, "Now and Forthwith!," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: the Aramaic portions of Daniel and Ezra for *ke'an*; the Targumim's rendering of *atah* and *na*; Rabbi Eliyahu HaBachur on the spelling of *achshav*; Rabbi Wolf Heidenheim, Roedelheim Machzor, on *hashta*; Rabbi Binyamin Mussafia on *ha'idna*; the Haggadah's *Ha Lachma Anya* for the *hashta* / *ha shaata* dispute; Dr. Marcus Jastrow on the *achshav* and *ke'an* contractions; the Dead Sea Scrolls, 4Q225; Shemos 7:16 with Onkelos.

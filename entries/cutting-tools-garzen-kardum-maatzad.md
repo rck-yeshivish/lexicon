@@ -17,7 +17,7 @@ words:
   - he: מעצד
     tr: maatzad
     en: adze
-    distinct: the woodworker's shaping tool, and the smaller of the pair with kashil, so its scraps stay with the craftsman (Mishnah Bava Kamma 10:10); Rashi puts it in the blacksmith's hand instead
+    distinct: the woodworker's shaping tool, and the smaller of the pair with kashil, so its scraps stay with the craftsman (Mishnah Bava Kamma 10:10); Rashi and the Rambam put it in the blacksmith's hand instead
   - he: כשיל
     tr: kashil
     en: large axe
@@ -28,8 +28,9 @@ words:
     distinct: a hapax beside kashil in the same pasuk; Donash reads both as woodcutters' tools, Menachem Ibn Saruk as weapons, and Targum uses a form of this word to render kardum
 sources:
   - wiaw:11644 "Vayigash: Cutting Tools" (2025-01-04) https://articles.ohr.edu/articles/vayigash-cutting-tools
-authorities: [Menachem Ibn Saruk, Radak, Ibn Janach, Rabbi Shlomo Ibn Parchon, Donash Ibn Labrat, Rashi, Rabbeinu Tam, Rav Hirsch, Targum Yonasan, Dr. Aaron J. Koller]
-updated: 2026-09-10
+  - ms:314-cutting-tools.md "Cutting Tools"
+authorities: [Menachem Ibn Saruk, Radak, Ibn Janach, Rabbi Shlomo Ibn Parchon, Donash Ibn Labrat, Rashi, Rabbeinu Tam, Rav Hirsch, Targum Yonasan, Dr. Aaron J. Koller, Rambam, Piskei Rid]
+updated: 2026-09-22
 ---
 # Cutting tools: garzen / kardum / maatzad (kashil, keilapot)
 
@@ -38,8 +39,7 @@ updated: 2026-09-10
 *Garzen* is the general Biblical **axe**, and equally the stonecutter's **pick**;
 it never occurs in Rabbinic Hebrew except when a pasuk is quoted.
 *Kardum* is the double-headed **adze-axe** or **mattock**, adze on one face and
-axe on the other. *Maatzad* is the **adze**, the woodworker's shaping tool and
-the smaller implement of the pair. *Kashil* is the **large axe** and *keilapot*
+axe on the other. *Maatzad* is the **adze**, the woodworker's shaping tool (Dr. Koller, from the Mishnah) and the smaller implement of the pair; Rashi and the Rambam make it an ironworker's tool. *Kashil* is the **large axe** and *keilapot*
 the **hatchets**, both appearing once only, together in one pasuk. *Maatzad* and
 *kashil* are separated by size, and a real halachah in Bava Kamma turns on it.
 
@@ -49,7 +49,7 @@ the **hatchets**, both appearing once only, together in one pasuk. *Maatzad* and
 |---|---|---|---|
 | גרזן | garzen | axe; pick | for wood and for stone alike; from ג-ר-ז, cutting (Radak); absent from Rabbinic Hebrew |
 | קרדם | kardum | adze-axe, mattock | seemingly double-headed, adze and axe on one head (Keilim 13:3; Radak); "spade" for Ibn Janach |
-| מעצד | maatzad | adze | woodworker's shaping tool; the smaller tool, fine scraps (Bava Kamma 10:10) |
+| מעצד | maatzad | adze | woodworker's shaping tool; the smaller tool, fine scraps (Bava Kamma 10:10); an ironworker's tool (Rashi, Rambam) |
 | כשיל | kashil | large axe | hapax, Tehillim 74:6; the larger tool, coarse scraps (Bava Kamma 10:10) |
 | כילפות | keilapot | hatchets | hapax, same pasuk; a woodcutter's tool (Donash), a weapon (Menachem Ibn Saruk) |
 
@@ -86,7 +86,11 @@ the fallen log into pieces and chop off protruding branches.
 
 **Whose tool the *maatzad* is.**
 - Rashi (to Yeshayahu 44:12) makes it one of the blacksmith's tools, and
-  elsewhere (to Shabbos 102b) a type of large *kurnas*.
+  elsewhere (to Shabbos 102b) a type of large *kurnas*. There he calls it a
+  great iron hammer for ironwork, and the Rambam (*Peirush HaMishnayos*, Shabbos
+  12:1) likewise makes it an ironworker's tool; the notes to the Hamaor edition
+  of the Rambam observe that Ibn Janach, Radak in *Sefer HaShorashim*, and the
+  *Piskei Rid* seem to disagree.
 - Against this, Dr. Koller notes that the Mishnah always has the *maatzad* in a
   woodworker's hand (Shabbos 12:1, Bava Kamma 10:10, Erchin 6:3, Keilim 13:4,
   29:6). Both of its appearances in Tanach, too, are in the prophets' mockery of
@@ -214,4 +218,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Vayigash: Cutting Tools](https://articles.ohr.edu/articles/vayigash-cutting-tools)," *What's in a Word?*, Ohr Somayach, 4 January 2025.
 
-Cited in the essay: Devarim 19:5, 20:19; Yeshayahu 10:15 and 44:12; Melachim I 6:7; Melachim II 20:20; Divrei HaYamim II 32:30; Shmuel I 13:20-21; Shoftim 9:48; Tehillim 31:23, 74:5, 74:6; Yirmiyahu 46:22, 10:3; Mishnah Peah 4:4, Sheviis 4:6 and 5:4, Shabbos 12:1 and 17:2, Beitzah 4:3, Bava Kamma 10:10, Avos 4:5, Erchin 6:3, Meilah 5:1, Keilim 13:3, 13:4, 20:3, 29:4-7 and 29:6, Taharos 9:7, Parah 12:5; Yoma 37b; Rashi to Yeshayahu 44:12 and Shabbos 102b; Radak, *Sefer HaShorashim*, and to Shmuel I 13:20; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach, *Sefer HaShorashim*; Ibn Parchon, *Machberes HeAruch*; Rav Hirsch to Shemos 26:6; Dr. Aaron J. Koller, *The Semantic Field of Cutting Tools in Biblical Hebrew: The Interface of Philological, Semantic, and Archeological Evidence* (2012), and his 2013 article on *maatzad* in the *Journal of Near Eastern Studies*; the Siloam Inscription; the Gezer Calendar.
+Rabbi Reuven Chaim Klein, "Cutting Tools," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Devarim 19:5, 20:19; Yeshayahu 10:15 and 44:12; Melachim I 6:7; Melachim II 20:20; Divrei HaYamim II 32:30; Shmuel I 13:20-21; Shoftim 9:48; Tehillim 31:23, 74:5, 74:6; Yirmiyahu 46:22, 10:3; Mishnah Peah 4:4, Sheviis 4:6 and 5:4, Shabbos 12:1 and 17:2, Beitzah 4:3, Bava Kamma 10:10, Avos 4:5, Erchin 6:3, Meilah 5:1, Keilim 13:3, 13:4, 20:3, 29:4-7 and 29:6, Taharos 9:7, Parah 12:5; Yoma 37b; Rashi to Yeshayahu 44:12 and Shabbos 102b; Radak, *Sefer HaShorashim*, and to Shmuel I 13:20; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach, *Sefer HaShorashim*; Ibn Parchon, *Machberes HeAruch*; Rav Hirsch to Shemos 26:6; Dr. Aaron J. Koller, *The Semantic Field of Cutting Tools in Biblical Hebrew: The Interface of Philological, Semantic, and Archeological Evidence* (2012), and his 2013 article on *maatzad* in the *Journal of Near Eastern Studies*; the Siloam Inscription; the Gezer Calendar; Shabbos 102b with Rashi; Mishnah Shabbos 12:1 with the Rambam; *Piskei Rid*.
