@@ -10,7 +10,7 @@ words:
     tr: moshe
     en: draw out of water
     nk: מֹשֶׁה
-    distinct: specifically drawing something out from within water (Rashbam), as against a general pull (Rabbi David Chaim Chelouche); the root of the name Moshe
+    distinct: specifically drawing something out from within water (Rashbam), as against a general pull (Rabbi David Chaim Chelouche); the root of the name Moshe; present tense, one who draws Yisrael out (Kli Yakar)
   - he: משך
     tr: moshech
     en: pull, draw
@@ -45,7 +45,7 @@ from a well; *shoef* is its air counterpart, **inhale**, and in *sheifah*,
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| משה | moshe | draw out of water | specifically from within water (Rashbam, Rabbi Chelouche) |
+| משה | moshe | draw out of water | specifically from within water (Rashbam, Rabbi Chelouche); present tense, one who draws Yisrael out (Kli Yakar) |
 | משך | moshech | pull, draw | the general term; includes moshe (Rabbi Chelouche) |
 | שאב | shoev | draw water | almost always from a well; water and not air (Wertheimer) |
 | שאף | shoef | inhale, yearn | air and not water (Wertheimer); hence sheifah, an internalized higher yearning |

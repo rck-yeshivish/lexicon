@@ -42,7 +42,7 @@ words:
   - he: כרובים
     tr: kruvim
     en: cherubim
-    distinct: the ninth rank; from Aramaic ravia, a lad, with a kaf of simile, so the kruvim on the Aron looked like children (Chagigah 13b, Sukkah 5b); also the destructive angels guarding the path to the Eitz HaChaim (Rashi)
+    distinct: the ninth rank; from Aramaic ravia, a lad, with a kaf of simile, so the kruvim on the Aron looked like children (Chagigah 13b, Sukkah 5b); also the destructive angels guarding the path to the Eitz HaChaim (Rashi); from rechev, what Hashem rides (Shadal)
   - he: אישים
     tr: ishim
     en: men
@@ -50,7 +50,7 @@ words:
   - he: עירין
     tr: irin
     en: watchers
-    distinct: not on Rambam's list; sent to the cities (ir) of this world to observe men's deeds and give particular dreams (the school of the Rokeach); from eir, awake, always watching what people do (Rabbi Yaakov Tzvi Mecklenburg)
+    distinct: not on Rambam's list; sent to the cities (ir) of this world to observe men's deeds and give particular dreams (the school of the Rokeach); from eir, awake, always watching what people do (Rabbi Yaakov Tzvi Mecklenburg); rousing the heavenly forces (Ramban); from Hebrew tzir, messenger (Shadal)
   - he: קדישין
     tr: kadishin
     en: holy ones
@@ -86,9 +86,9 @@ general word for **angels**.
 | מלאכים | malachim | angels | sixth rank, and also the general word for every rank |
 | אלהים | elohim | rank of angels (no settled English) | seventh rank; any entity in a position of power or authority |
 | בני אלהים | bnei elohim | rank of angels (no settled English) | eighth rank; secondary to the *elohim* |
-| כרובים | kruvim | cherubim | ninth rank; from Aramaic *ravia*, lad, so shaped like children |
+| כרובים | kruvim | cherubim | ninth rank; from Aramaic *ravia*, lad, so shaped like children; from *rechev*, what Hashem rides (Shadal) |
 | אישים | ishim | men | lowest rank (Rambam), speaking with nevi'im; they sometimes act like men (Movshovitz) |
-| עירין | irin | watchers | not in Rambam; sent to the cities to observe, or always awake (Mecklenburg) |
+| עירין | irin | watchers | not in Rambam; sent to the cities to observe, or always awake (Mecklenburg); rousing the heavenly forces (Ramban); from Hebrew *tzir*, messenger (Shadal) |
 | קדישין | kadishin | holy ones | not in Rambam; set apart, directing other angels rather than acting |
 
 ## Distinctions

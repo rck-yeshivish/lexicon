@@ -22,7 +22,7 @@ words:
     tr: sapar
     en: barber
     nk: סַפָּר
-    distinct: absent from Tanach, standard in the Targumim and Mishnah, and the everyday word now; from Neo-Babylonian sirpu, shears (Dr. Chaim Tawil); the barber cutting around the head (Rabbi David Golumb) or limiting the hair's growth (Mecklenburg)
+    distinct: absent from Tanach, standard in the Targumim and Mishnah, and the everyday word now; from Neo-Babylonian sirpu, shears (Dr. Chaim Tawil); the barber cutting around the head (Rabbi David Golumb) or limiting the hair's growth (Mecklenburg); a trim, as Yosef's (the Rogatchover)
   - he: תער
     nk: תַּעַר
 sources:
@@ -52,7 +52,7 @@ and the Nazir.
 | גילוח | giluach | shaving | a close shave, of a person (Pappenheim); exposing the skin (Rav Hirsch) |
 | גזיזה | gizah | shearing | an animal's wool; leaves something standing (Pappenheim) |
 | גלב | galav | barber | a barber, once only in Tanach (Radak); Akkadian *gallabu* (Tawil) |
-| ספר | sapar | barber | not Biblical; Targumic and Mishnaic, and today's word; limits growth (Mecklenburg) |
+| ספר | sapar | barber | not Biblical; Targumic and Mishnaic, and today's word; limits growth (Mecklenburg); a trim, as Yosef's (the Rogatchover) |
 
 ## Distinctions
 

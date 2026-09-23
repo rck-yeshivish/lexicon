@@ -13,7 +13,7 @@ words:
   - he: חורב
     tr: Chorev
     en: Horeb
-    distinct: alluding to cherev, a sword, since the Sanhedrin's authority to carry out capital punishment comes from the Torah given there
+    distinct: alluding to cherev, a sword, since the Sanhedrin's authority to carry out capital punishment comes from the Torah given there; a separate mountain from Sinai, or another peak of it (Shadal)
   - he: הר האלהים
     tr: Har HaElokim
     en: Mountain of God
@@ -60,7 +60,7 @@ two mountains or one; both answers are given.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | סיני | Sinai | Mount Sinai | the best-known name; *sinah*, hatred, comes from that place |
-| חורב | Chorev | Horeb | *cherev*, a sword: the Sanhedrin's authority over capital cases comes from the Torah given there |
+| חורב | Chorev | Horeb | *cherev*, a sword: the Sanhedrin's authority over capital cases comes from the Torah given there; a separate mountain from Sinai, or another peak of it (Shadal) |
 | הר האלהים | Har HaElokim | Mountain of God | Yisrael accepted the Creator's Godhood there; *Elokim*, judgment, for the civil laws given there |
 | הר בשן | Har Bashan | Mount Bashan | *ba sham*, He came there; or *bi-shinav*, with his teeth |
 | הר גבננים | Har Gavnunim | Mount Gavnunim | *giben*, a disqualifying blemish; or *gevinah*, cheese (the Midrash) |

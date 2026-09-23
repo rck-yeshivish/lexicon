@@ -18,7 +18,7 @@ words:
   - he: רע
     tr: reya
     en: companion, confidant
-    distinct: the most intimate; the one you are with frequently and to whom you reveal your secrets (Rokeach); complete affection, the highest form of companionship (Wertheimer)
+    distinct: the most intimate; the one you are with frequently and to whom you reveal your secrets (Rokeach); complete affection, the highest form of companionship (Wertheimer); one whose thoughts cleave to his fellow's, from ra'ayon (Rabbi Mattisyahu HaYitzhari)
 sources:
   - wiaw:7620 "G-d's Best Friend" (2018-02-03) https://articles.ohr.edu/articles/g-ds-best-friend
   - ms:122-g-ds-best-friend.md "G-d’s Best Friend"
@@ -43,7 +43,7 @@ Rabbi Shlomo Aharon Wertheimer both set them in this order.
 |---|---|---|---|
 | עמית | amis | associate, acquaintance | loosest; comes now and then (Rokeach); a business associate (Wertheimer) |
 | חבר | chaver | friend | the default; joined in one shared respect, as learning together (Wertheimer) |
-| רע | reya | companion, confidant | most intimate; you tell him your secrets (Rokeach); complete affection (Wertheimer) |
+| רע | reya | companion, confidant | most intimate; you tell him your secrets (Rokeach); complete affection (Wertheimer); one whose thoughts cleave to his fellow's, from *ra'ayon* (Rabbi Mattisyahu HaYitzhari) |
 
 ## Distinctions
 

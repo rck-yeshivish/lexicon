@@ -9,7 +9,7 @@ words:
   - he: שולחן
     tr: shulchan
     en: table
-    distinct: the Biblical word, of the Mishkan's golden table and of a king's table; a top on four legs, against a legless tavla (Rash MiShantz)
+    distinct: the Biblical word, of the Mishkan's golden table and of a king's table; a top on four legs, against a legless tavla (Rash MiShantz); from shalach, sending forth food (Benamozegh)
   - he: פתורא
     tr: petora
     en: table
@@ -46,7 +46,7 @@ simply the Rabbinic Hebrew for *shulchan*; for Rash MiShantz it differs, a
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| שולחן | shulchan | table | the Biblical word; a top on four legs (Rash MiShantz) |
+| שולחן | shulchan | table | the Biblical word; a top on four legs (Rash MiShantz); from *shalach*, sending forth food (Benamozegh) |
 | פתורא | petora | table | the Targumim's rendering of *shulchan*; the large, communal table (Yudelovitch) |
 | טכא | taka | tray-table | glossed *shulchan* by Rashi; in practice the individual's table (Yudelovitch) |
 | טבלא | tavla | board, table top | a flat surface with no legs attached (Rash MiShantz) |

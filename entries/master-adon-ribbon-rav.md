@@ -9,7 +9,7 @@ words:
   - he: אדון
     tr: adon
     en: master
-    distinct: the usual Hebrew word for a slave's master, whose form Adonai is a Name of Hashem; a standing, all-encompassing title borne in every context (Rabbi Baruch Aryeh HaLevi Fischer); in the berachah, dominion over the spiritual realm, in Hebrew (Vilna Gaon)
+    distinct: the usual Hebrew word for a slave's master, whose form Adonai is a Name of Hashem; a standing, all-encompassing title borne in every context (Rabbi Baruch Aryeh HaLevi Fischer); in the berachah, dominion over the spiritual realm, in Hebrew (Vilna Gaon); said of a slave's master, where baal is not (Tosafos Yom Tov)
   - he: רבון
     tr: ribbon
     en: Master
@@ -46,7 +46,7 @@ charge.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| אדון | adon | master | the Hebrew master; a standing title, hence *Adonai* a Name (Fischer) |
+| אדון | adon | master | the Hebrew master; a standing title, hence *Adonai* a Name (Fischer); said of a slave's master, where *baal* is not (Tosafos Yom Tov) |
 | רבון | ribbon | Master | Aramaic for *adon* (Onkelos); only with a subordinate in his charge (Fischer) |
 | רב | rav | master, chief | Mishnaic owner of a slave; in Tanach only in construct, as chief of the executioners |
 | רבי | rebbi | Rebbi, Rabbi | my master; a Torah teacher or a bandit leader (Bava Metzia 84a) |

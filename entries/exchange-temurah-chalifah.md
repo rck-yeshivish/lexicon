@@ -9,11 +9,11 @@ words:
   - he: תמורה
     tr: temurah
     en: substitution
-    distinct: putting a second thing in place of the first, seen from the man who does it (Malbim); one man swapping his own animals (Algazi); trading better for worse (Shapira-Frankfurter, Wertheimer), so any attempt counts as for the worse (Rav Hirsch)
+    distinct: putting a second thing in place of the first, seen from the man who does it (Malbim); one man swapping his own animals (Algazi); trading better for worse (Shapira-Frankfurter, Wertheimer), so any attempt counts as for the worse (Rav Hirsch); good for bad (Toras Gavriel); moving holiness from one consecrated animal to another (Chemdas HaChemdah)
   - he: חליפה
     tr: chalifah
     en: exchange
-    distinct: seen from the objects switched (Malbim), and from the thing gotten rid of, moved out of one place or state whether or not anything replaces it (Rav Hirsch); two people swapping (Algazi); trading up (Shapira-Frankfurter) or neutral (Wertheimer)
+    distinct: seen from the objects switched (Malbim), and from the thing gotten rid of, moved out of one place or state whether or not anything replaces it (Rav Hirsch); two people swapping (Algazi); trading up (Shapira-Frankfurter) or neutral (Wertheimer); bad for good (Toras Gavriel); letting a consecrated animal be lost to replace it (Chemdas HaChemdah)
 sources:
   - wiaw:8714 "Old Switcheroo" (2020-05-23) https://articles.ohr.edu/articles/old-switcheroo
   - ms:215-the-old-switcheroo.md "The Old Switcheroo"
@@ -38,8 +38,8 @@ only *hamer yamir*. *Chalifah* carries a sense of its own.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| תמורה | temurah | substitution | substitution seen from the one who switches (Malbim); a downgrade (Shapira-Frankfurter, Rav Hirsch) |
-| חליפה | chalifah | exchange | the objects switched (Malbim); moving a thing out (Rav Hirsch); neutral (Wertheimer) |
+| תמורה | temurah | substitution | substitution seen from the one who switches (Malbim); a downgrade (Shapira-Frankfurter, Rav Hirsch); good for bad (Toras Gavriel); moving holiness from one consecrated animal to another (Chemdas HaChemdah) |
+| חליפה | chalifah | exchange | the objects switched (Malbim); moving a thing out (Rav Hirsch); neutral (Wertheimer); bad for good (Toras Gavriel); letting a consecrated animal be lost to replace it (Chemdas HaChemdah) |
 
 ## Distinctions
 

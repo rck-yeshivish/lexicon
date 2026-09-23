@@ -17,7 +17,7 @@ words:
   - he: כנעני
     tr: cnaani
     en: trader
-    distinct: '"Canaanite" used for "merchant" (Pesachim 50a; Rashi and Radak to Yeshayahu 23:8); Malbim places him between the socher and the rochel'
+    distinct: '"Canaanite" used for "merchant" (Pesachim 50a; Rashi and Radak to Yeshayahu 23:8); Malbim places him between the socher and the rochel; Canaan, the lowland, against Aram (Benamozegh)'
   - he: תגר
     tr: tagar
     en: merchant (Aramaic)
@@ -49,7 +49,7 @@ with Rashi at Yechezkel 16:29, Hoshea 12:8, Iyov 40:30), means "trader," not
 |---|---|---|---|
 | סוחר | socher | merchant, wholesaler | the general word; buys in bulk, supplies the rochel (Malbim); travels (Rashi) |
 | רוכל | rochel | peddler | small-scale, door to door (Malbim); often a perfume seller (Rashi) |
-| כנעני | cnaani | trader | "Canaanite" as an occupation (Pesachim 50a); the middleman (Malbim) |
+| כנעני | cnaani | trader | "Canaanite" as an occupation (Pesachim 50a); the middleman (Malbim); Canaan, the lowland, against Aram (Benamozegh) |
 | תגר | tagar | merchant | Aramaic; the seller who stays in his own town (Rashi to Eruvin 55a) |
 
 ## Where the authorities disagree

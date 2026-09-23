@@ -10,7 +10,7 @@ words:
     tr: teivah
     en: ark, basket
     nk: תֵּיבָה
-    distinct: Noach's ark and the infant Moshe's basket; perhaps a container kept afloat, or one holding a living person, like a home, kin to bayis (Rabbi Aharon Marcus), a temporary domicile from י-ש-ב (Rav Hirsch); in Rabbinic Hebrew near-interchangeable with aron
+    distinct: Noach's ark and the infant Moshe's basket; perhaps a container kept afloat, or one holding a living person, like a home, kin to bayis (Rabbi Aharon Marcus), a temporary domicile from י-ש-ב (Rav Hirsch); in Rabbinic Hebrew near-interchangeable with aron; a chest, with no boat's shape or oars (Ibn Ezra)
   - he: ארון
     tr: aron
     en: ark, chest, coffin
@@ -38,7 +38,7 @@ and *aron* an **ark**, **chest**, or **coffin**. In Rabbinic Hebrew the two word
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| תיבה | teivah | ark, basket | Noach's ark, Moshe's basket; perhaps afloat, or holding a living person |
+| תיבה | teivah | ark, basket | Noach's ark, Moshe's basket; perhaps afloat, or holding a living person; a chest, with no boat's shape or oars (Ibn Ezra) |
 | ארון | aron | ark, chest, coffin | the Aron HaBris and Yosef's coffin; neither afloat nor holding the living |
 
 ## Distinctions

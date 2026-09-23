@@ -17,7 +17,7 @@ words:
   - he: צחר
     tr: tzochar
     en: white, or combed
-    distinct: disputed; Rashi reads "white" (Shoftim 5:10, Yechezkel 27:18), Ibn Janach and Rabbi Avraham Bedersi read "combed," white only as a by-product
+    distinct: disputed; Rashi reads "white" (Shoftim 5:10, Yechezkel 27:18), Ibn Janach and Rabbi Avraham Bedersi read "combed," white only as a by-product; kin to shachar (Benamozegh)
   - he: חלבון
     tr: chelbon
     en: white wine, egg white
@@ -54,7 +54,7 @@ word means white at all.
 |---|---|---|---|
 | לבן | lavan | white | seemingly the umbrella Hebrew term for every kind of white (Pappenheim); root of *leveinah*, *levanah*, *levonah* |
 | חיור | chivar | white, pale | Aramaic; the Targumic rendering of *lavan* (Rashi glosses it back as *lavan*); whiteness caused from outside (Pappenheim) |
-| צחר | tzochar | white / combed | Rashi: white. Ibn Janach and Bedersi: combed, and only incidentally white |
+| צחר | tzochar | white / combed | Rashi: white. Ibn Janach and Bedersi: combed, and only incidentally white; kin to *shachar* (Benamozegh) |
 | חלבון | chelbon | white wine | white by color (Rashi), seemingly from *chalav*; rich, seemingly from *cheilev* (Menachem); a place in Aram (Radak) |
 
 ## Where the authorities disagree

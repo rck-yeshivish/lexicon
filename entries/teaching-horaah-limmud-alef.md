@@ -9,11 +9,11 @@ words:
   - he: הוראה
     tr: hora'ah
     en: instruction
-    distinct: instruction given once in the expectation that the pupil will retain it (Shadal, cited by Malbim); one step in the learning process that limmud completes (Rav Hirsch); in Mishnaic Hebrew a halachic ruling
+    distinct: instruction given once in the expectation that the pupil will retain it (Shadal, cited by Malbim); one step in the learning process that limmud completes (Rav Hirsch); in Mishnaic Hebrew a halachic ruling; one-way, where limmud runs both ways (Rabbi Klein)
   - he: למוד
     tr: limmud
     en: teaching by drilling
-    distinct: going over the lesson again and again until it is engraved on the pupil's heart (Shadal, cited by Malbim); bringing the teaching to its conclusion, seeing the seeds to fruition (Rav Hirsch)
+    distinct: going over the lesson again and again until it is engraved on the pupil's heart (Shadal, cited by Malbim); bringing the teaching to its conclusion, seeing the seeds to fruition (Rav Hirsch); runs both ways, the student teaching too (Rabbi Klein)
   - he: אלף
     tr: alef
     en: train, school
@@ -50,8 +50,8 @@ them), and Shadal reads a whole tragedy in Tanach off the difference.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| הוראה | hora'ah | instruction | taught once, expected to be retained (Shadal); in the Mishnah, a halachic ruling |
-| למוד | limmud | teaching by drilling | repeated until engraved on the heart (Shadal); sees the seeds to fruition (Rav Hirsch) |
+| הוראה | hora'ah | instruction | taught once, expected to be retained (Shadal); in the Mishnah, a halachic ruling; one-way, where *limmud* runs both ways (Rabbi Klein) |
+| למוד | limmud | teaching by drilling | repeated until engraved on the heart (Shadal); sees the seeds to fruition (Rav Hirsch); runs both ways, the student teaching too (Rabbi Klein) |
 | אלף | alef | train, school | disputed: inadvertent teaching by example (Malbim) against firm grasp through repetition (Pappenheim) |
 | הדרכה | hadrachah | guidance, counsel | guiding what one already knows along a *derech*; no new information (Malbim) |
 

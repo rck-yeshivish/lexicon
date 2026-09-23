@@ -14,7 +14,7 @@ words:
   - he: ערירי
     tr: ariri
     en: childless
-    distinct: the line ending rather than the man; every karet can carry it (Rashi, Ibn Ezra), against a separate penalty attaching only to the forbidden marriages (Riva)
+    distinct: the line ending rather than the man; every karet can carry it (Rashi, Ibn Ezra), against a separate penalty attaching only to the forbidden marriages (Riva); bare, without descendants (Shadal); kin to arur (Rabbi Shlomo Astruc)
 sources:
   - wiaw:8271 "Karet and Ariri" (2019-06-01) https://articles.ohr.edu/articles/karet-and-ariri
   - ms:196-karet-and-ariri.md "Karet and Ariri"
@@ -38,7 +38,7 @@ marriages.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | כרת | karet | excision | the man himself cut off; in body, soul or both (Ramban) |
-| ערירי | ariri | childless | the line ending; part of any *karet* (Rashi) or a separate penalty (Riva) |
+| ערירי | ariri | childless | the line ending; part of any *karet* (Rashi) or a separate penalty (Riva); bare, without descendants (Shadal); kin to *arur* (Rabbi Shlomo Astruc) |
 
 ## Distinctions
 

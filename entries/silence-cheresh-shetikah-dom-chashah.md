@@ -10,7 +10,7 @@ words:
     tr: cheresh
     en: contemplative silence, holding one's peace
     nk: חֶרֶשׁ
-    distinct: the inward silence of one who is turning something over and not saying it, the quiet of the craftsman and the wise man (Bedersi); from charishah, plowing, since it prepares the ground for speech as plowing prepares a field (Pappenheim); Rav Hirsch has it as acting deaf to a request
+    distinct: the inward silence of one who is turning something over and not saying it, the quiet of the craftsman and the wise man (Bedersi); from charishah, plowing, since it prepares the ground for speech as plowing prepares a field (Pappenheim); Rav Hirsch has it as acting deaf to a request; quietly, in secret (Shadal)
   - he: שתיקה
     tr: shetikah
     en: quieting down
@@ -50,7 +50,7 @@ specifically (*hachareish tacharishi*, Esther 4:14).
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| חרש | cheresh | hold one's peace | inward, deliberating silence; the quiet of the craftsman and the wise (Bedersi); prepares speech as plowing prepares a field (Pappenheim) |
+| חרש | cheresh | hold one's peace | inward, deliberating silence; the quiet of the craftsman and the wise (Bedersi); prepares speech as plowing prepares a field (Pappenheim); quietly, in secret (Shadal) |
 | שתיקה | shetikah | quiet down | the calm after a commotion is stilled (Bedersi); the Targum's Aramaic for cheresh |
 | דום | dom | fall silent | a state, not an act: struck speechless (Bedersi) or a set refusal to speak (Mecklenburg); for others, simply stoppage |
 | חשה | chashah | keep still | reflective stillness (Mecklenburg) or withholding an answer one has (Wertheimer) |

@@ -13,7 +13,7 @@ words:
   - he: קידושין
     tr: kiddushin
     en: betrothal
-    distinct: the Mishnah's term for the same act; from hekdesh, forbidding her to all others (Rabbanan Savorai), a rabbinic term because only the rabbinic enactment makes her like hekdesh (Rabbi Shor, Rabbi Horowitz); from designating, not consecrating (Tosafos); a loanword from Greek ekdosis (Satlow), which Rabbi Klein finds hard to accept
+    distinct: the Mishnah's term for the same act; from hekdesh, forbidding her to all others (Rabbanan Savorai), a rabbinic term because only the rabbinic enactment makes her like hekdesh (Rabbi Shor, Rabbi Horowitz); from designating, not consecrating (Tosafos); a loanword from Greek ekdosis (Satlow), which Rabbi Klein finds hard to accept; a fence against sin, and so kedushah (Hon Ashir)
   - he: נישואין
     tr: nissuin
     en: marriage
@@ -50,7 +50,7 @@ contrasted, *kiddushin* carries the *hekdesh* sense of setting apart and
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | אירוסין | erusin | betrothal | the Torah's word for the first stage; tying (Mansoura); not engagement (Rav Hirsch) |
-| קידושין | kiddushin | betrothal | the Mishnah's word, from *hekdesh* (Kiddushin 2b); set aside, not consecrated (Tosafos) |
+| קידושין | kiddushin | betrothal | the Mishnah's word, from *hekdesh* (Kiddushin 2b); set aside, not consecrated (Tosafos); a fence against sin, and so *kedushah* (Hon Ashir) |
 | נישואין | nissuin | marriage | the second stage, effected by chuppah; marriage proper |
 | שידוכין | shidduchin | engagement | an agreement to marry later; engagement, not betrothal |
 

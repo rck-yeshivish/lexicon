@@ -20,7 +20,7 @@ words:
     tr: meri
     en: defiance
     nk: מְרִי
-    distinct: defiance as switching allegiance, putting another's word in place of a ruler's; the reaction to the unpalatable, from מ-ר, changing (Pappenheim); blurred with meridah, both from מ-ר as in Mar (Marcus)
+    distinct: defiance as switching allegiance, putting another's word in place of a ruler's; the reaction to the unpalatable, from מ-ר, changing (Pappenheim); blurred with meridah, both from מ-ר as in Mar (Marcus); tied to mored (Shadal)
   - he: מורה
     nk: מוֹרֶה
 sources:
@@ -48,7 +48,7 @@ not a revolutionary, and in the *shomrim* sugya (Shemos 22:8) the *poshea* is
 |---|---|---|---|
 | פשע | pesha | negligence, rebellion | negligence out of laziness, rebellion only by extension (Pappenheim) |
 | מרידה | meridah | revolt | throwing off a present ruler; reversing *rodeh*, lording over (Pappenheim) |
-| מרי | meri | defiance | switching out a ruler's word for another's (Pappenheim) |
+| מרי | meri | defiance | switching out a ruler's word for another's (Pappenheim); tied to *mored* (Shadal) |
 
 ## Distinctions
 

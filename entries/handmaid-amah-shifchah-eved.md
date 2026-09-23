@@ -18,7 +18,7 @@ words:
   - he: עבד
     tr: eved
     en: slave, bondsman
-    distinct: covers both the Jewish and the non-Jewish male, because an eved Ivri loses something of his standing as a Jew (Moshav Zekeinim; Rabbi Moshe Sherrow), so no second word was needed
+    distinct: covers both the Jewish and the non-Jewish male, because an eved Ivri loses something of his standing as a Jew (Moshav Zekeinim; Rabbi Moshe Sherrow), so no second word was needed; beside amah, a Canaanite slave (HaKsav VeHaKabbalah)
 sources:
   - wiaw:8120 "The Handmaid's Deal" (2019-02-02) https://articles.ohr.edu/articles/the-handmaids-deal
   - wiaw:9448 "Family Matters" (2021-11-20) https://articles.ohr.edu/articles/family-matters
@@ -46,7 +46,7 @@ words cross the line.
 |---|---|---|---|
 | אמה | amah | maidservant, handmaid | the dignified role: nursemaid (Bedersi) or housekeeper (Pappenheim) |
 | שפחה | shifchah | bondwoman | full servitude, the female *eved* (Wertheimer) |
-| עבד | eved | slave, bondsman | one word for Jewish and non-Jewish alike (Moshav Zekeinim; Rabbi Moshe Sherrow) |
+| עבד | eved | slave, bondsman | one word for Jewish and non-Jewish alike (Moshav Zekeinim; Rabbi Moshe Sherrow); beside *amah*, a Canaanite slave (HaKsav VeHaKabbalah) |
 
 ## Where the authorities disagree
 

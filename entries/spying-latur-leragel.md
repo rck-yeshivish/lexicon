@@ -9,7 +9,7 @@ words:
   - he: תור
     tr: latur
     en: scout out
-    distinct: searching out what is good in a place, its advantages (Rabbi Yaakov Tzvi Mecklenburg); the verb Bamidbar uses throughout for Moshe's men
+    distinct: searching out what is good in a place, its advantages (Rabbi Yaakov Tzvi Mecklenburg); the verb Bamidbar uses throughout for Moshe's men; from turning, going round to look everywhere (Shadal)
   - he: תרים
     tr: tarim
     en: scouts
@@ -18,7 +18,7 @@ words:
     tr: leragel
     en: spy out
     nk: רִגֵּל
-    distinct: searching out weakness and vulnerability (Rabbi Yaakov Tzvi Mecklenburg); the verb Devarim uses in hindsight, derived, Rabbi Klein suggests, from regel, the foot, the lowest part of the body
+    distinct: searching out weakness and vulnerability (Rabbi Yaakov Tzvi Mecklenburg); the verb Devarim uses in hindsight, derived, Rabbi Klein suggests, from regel, the foot, the lowest part of the body; each step serving the scout's aim (Rav Hirsch)
   - he: מרגלים
     tr: meraglim
     en: spies
@@ -51,9 +51,9 @@ alongside *veyachperu*).
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| תור | latur | scout out | looking for the good in a place (Mecklenburg) |
+| תור | latur | scout out | looking for the good in a place (Mecklenburg); from turning, going round to look everywhere (Shadal) |
 | תרים | tarim | scouts | Moshe's twelve, as Bamidbar names them |
-| רגל | leragel | spy out | looking for weakness (Mecklenburg); perhaps from regel, the lowest limb (Rabbi Klein) |
+| רגל | leragel | spy out | looking for weakness (Mecklenburg); perhaps from regel, the lowest limb (Rabbi Klein); each step serving the scout's aim (Rav Hirsch) |
 | מרגלים | meraglim | spies | Yosef's brothers, Yehoshua's two men; never Moshe's twelve |
 | חפר | veyachperu | dig up | mining for damning information; kin to cherpah (Mecklenburg) |
 

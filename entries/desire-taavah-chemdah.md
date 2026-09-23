@@ -13,7 +13,7 @@ words:
   - he: חמדה
     tr: chemdah
     en: coveting
-    distinct: desire for what is not itself a bodily pleasure, fine clothes, a house, money (Vilna Gaon); follows from the object's inherent, recognized properties (Pappenheim, Mecklenburg); roused by seeing it (Malbim)
+    distinct: desire for what is not itself a bodily pleasure, fine clothes, a house, money (Vilna Gaon); follows from the object's inherent, recognized properties (Pappenheim, Mecklenburg); roused by seeing it (Malbim); for what is not within reach (Shadal)
   - he: חפץ
     tr: chefetz
     en: desire
@@ -52,7 +52,7 @@ illicit relations, and the Vilna Gaon explains that it does so respectively:
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | תאוה | taavah | craving, lust | bodily pleasure (Vilna Gaon); from within, one's own imagination (Malbim); usually intimacy |
-| חמדה | chemdah | coveting | not a bodily pleasure: money, a house (Vilna Gaon); roused by seeing (Malbim) |
+| חמדה | chemdah | coveting | not a bodily pleasure: money, a house (Vilna Gaon); roused by seeing (Malbim); for what is not within reach (Shadal) |
 | חפץ | chefetz | desire | culinary desire (Vilna Gaon); between the other two (Rabbi Klein); the immediate goal (Kook); a pull with no reason in the object (Ohel Yaakov) |
 
 ## Where the authorities disagree

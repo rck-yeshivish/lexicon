@@ -43,7 +43,7 @@ words:
   - he: לקלס
     tr: lekales
     en: to exalt
-    distinct: Rabbinic to exalt, though in Biblical Hebrew to disparage, so some omit it; kilus is praise with a negative edge, embellished, inverted or exaggerated to denigrate (Pappenheim)
+    distinct: Rabbinic to exalt, though in Biblical Hebrew to disparage, so some omit it; kilus is praise with a negative edge, embellished, inverted or exaggerated to denigrate (Pappenheim); denigrating, as in iconoclast (Benamozegh)
 sources:
   - wiaw:6934 "Ten Expressions of Praise" (2016-09-17) https://articles.ohr.edu/articles/ten-expressions-of-praise
   - wiaw:7644 "The Beauty of Adar" (2018-02-17) https://articles.ohr.edu/articles/the-beauty-of-adar
@@ -78,7 +78,7 @@ exalt**, not to disparage, though the Biblical verb means the latter.
 | לרומם | leromem | to extol | admitting Hashem is above *us* (Pincus) |
 | לעלה | le'aleh | to raise high | admitting Hashem is above *everything* (Pincus) |
 | לברך | levarech | to bless | acknowledging Hashem as the source of all blessing (Rabbi Chaim Volozhiner) |
-| לקלס | lekales | to exalt | Rabbinic exalting, Biblical disparaging; praise with a negative edge (Pappenheim) |
+| לקלס | lekales | to exalt | Rabbinic exalting, Biblical disparaging; praise with a negative edge (Pappenheim); denigrating, as in *iconoclast* (Benamozegh) |
 
 ## Distinctions
 

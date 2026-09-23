@@ -10,7 +10,7 @@ words:
     tr: milah
     en: spoken word
     nk: מִילָּה
-    distinct: the biblical term; the spoken word (Rabbi Eliyahu HaBachur), or written or spoken (Rabbi Yosef Teomim); from מ-ל-ל, speech (Rabbi Shlomo Zalman of Hanau), or from מ-ל, edge, a unit cut off from the sentence (Pappenheim)
+    distinct: the biblical term; the spoken word (Rabbi Eliyahu HaBachur), or written or spoken (Rabbi Yosef Teomim); from מ-ל-ל, speech (Rabbi Shlomo Zalman of Hanau), or from מ-ל, edge, a unit cut off from the sentence (Pappenheim); memallel only of evil speech in the Yerushalmi (Kesubos 2:10)
   - he: תיבה
     tr: teivah
     en: written word
@@ -45,7 +45,7 @@ word cut off as a unit from the sentence. *Davar* is a **word** that is also a
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| מילה | milah | spoken word | biblical; spoken (HaBachur); a unit cut off from the sentence (Pappenheim) |
+| מילה | milah | spoken word | biblical; spoken (HaBachur); a unit cut off from the sentence (Pappenheim); *memallel* only of evil speech in the Yerushalmi (Kesubos 2:10) |
 | תיבה | teivah | written word | later rabbinic; the written word (HaBachur, Teomim); a box for letters |
 | דבר | davar | word, thing | both word and thing: the world made of Divine words (Rabbi Moshe Shapiro) |
 

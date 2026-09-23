@@ -9,11 +9,11 @@ words:
   - he: דיבור
     tr: dibbur
     en: speak, address
-    distinct: harsh speech (Rashi), limited to intensity or boldness (Mecklenburg); a forceful announcement with raised voice (Zohar); the act of speaking, complete with no hearer (Rabbi Shlomo Pappenheim, Rav Hirsch); a proposition, not absolute (Malbim); the Written Torah (Rabbeinu Bachaya)
+    distinct: harsh speech (Rashi), limited to intensity or boldness (Mecklenburg); a forceful announcement with raised voice (Zohar); the act of speaking, complete with no hearer (Rabbi Shlomo Pappenheim, Rav Hirsch); a proposition, not absolute (Malbim); the Written Torah (Rabbeinu Bachaya); out in the open (Kedushas Levi); the general term for speech (HaKsav VeHaKabbalah to Devarim 4:13)
   - he: אמירה
     tr: amirah
     en: say, tell
-    distinct: gentle speech (Rashi); communication aimed at a hearer who takes in the meaning (Rabbi Shlomo Pappenheim, Rav Hirsch); speech that switches reality (Mecklenburg); absolute (Malbim), or the short headline (Rabbi Shmuel Jaffa-Ashkenazi); the Oral Torah (Rabbeinu Bachaya); the Vilna Gaon seems to reverse the pair
+    distinct: gentle speech (Rashi); communication aimed at a hearer who takes in the meaning (Rabbi Shlomo Pappenheim, Rav Hirsch); speech that switches reality (Mecklenburg); absolute (Malbim), or the short headline (Rabbi Shmuel Jaffa-Ashkenazi); the Oral Torah (Rabbeinu Bachaya); the Vilna Gaon seems to reverse the pair; intimate and quiet (Kedushas Levi)
   - he: מאמר
     tr: maamar
     en: saying
@@ -51,8 +51,8 @@ Maamaros* "Ten Sayings" too.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| דיבור | dibbur | speak, address | speech as an act; harsh (Rashi); complete with no hearer (Rav Hirsch) |
-| אמירה | amirah | say, tell | speech as communication, gentle, aimed at a hearer (Rashi, Rav Hirsch) |
+| דיבור | dibbur | speak, address | speech as an act; harsh (Rashi); complete with no hearer (Rav Hirsch); out in the open (Kedushas Levi); the general term for speech (HaKsav VeHaKabbalah to Devarim 4:13) |
+| אמירה | amirah | say, tell | speech as communication, gentle, aimed at a hearer (Rashi, Rav Hirsch); intimate and quiet (Kedushas Levi) |
 | מאמר | maamar | saying | the sayings of creation, with no audience yet (Rabbi Klein) |
 | דיברות | dibros | sayings, Decalogue | Sinai's sayings, to an assembled audience; Hashem's standing will (Rav Hirsch) |
 

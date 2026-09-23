@@ -21,7 +21,7 @@ words:
   - he: תבואה
     tr: tevuah
     en: crop
-    distinct: whatever comes forth from seed or tree, even before full ripeness (Wertheimer); produce that comes in at set times (Ibn Janach); this year's grain, as against avur (Radak); the choicest produce, brought into the house (Rav Hirsch)
+    distinct: whatever comes forth from seed or tree, even before full ripeness (Wertheimer); produce that comes in at set times (Ibn Janach); this year's grain, as against avur (Radak); the choicest produce, brought into the house (Rav Hirsch); grain in the ear (Seder Berachos)
   - he: תנובה
     tr: tenuvah
     en: ripe produce
@@ -29,7 +29,7 @@ words:
   - he: דגן
     tr: dagan
     en: grain
-    distinct: the five grains once ripened, reaped and heaped into a smooth pile (Wertheimer); from ד-ג, fecundity, like dag (Pappenheim), though Menachem Ibn Saruk, Ibn Janach and Radak give it its own root
+    distinct: the five grains once ripened, reaped and heaped into a smooth pile (Wertheimer); from ד-ג, fecundity, like dag (Pappenheim), though Menachem Ibn Saruk, Ibn Janach and Radak give it its own root; grain threshed and winnowed (Seder Berachos)
   - he: בר
     tr: bar
     en: grain cleaned of its chaff
@@ -70,9 +70,9 @@ Onkelos renders *ochel*, *bar*, *shever* and *dagan* all by *avur*.
 | אוכל | ochel | food | anything eaten; the widest word |
 | מזון | mazon | sustenance | food that actually nourishes, giving the body what it needs |
 | יבול | yevul | produce | produce as perishable, from ב-ל, decomposition (Pappenheim) |
-| תבואה | tevuah | crop | what comes forth, ripe or not (Wertheimer); this year's crop (Radak) |
+| תבואה | tevuah | crop | what comes forth, ripe or not (Wertheimer); this year's crop (Radak); grain in the ear (Seder Berachos) |
 | תנובה | tenuvah | ripe produce | fully developed, ripe produce, like *niv sefasayim* (Pappenheim) |
-| דגן | dagan | grain | the five grains, reaped and heaped (Wertheimer); from ד-ג, fecundity (Pappenheim) |
+| דגן | dagan | grain | the five grains, reaped and heaped (Wertheimer); from ד-ג, fecundity (Pappenheim); grain threshed and winnowed (Seder Berachos) |
 | בר | bar | grain cleaned of its chaff | grain separated from its chaff (Pappenheim, Rabbi Yitzchok of Volozhin) |
 | שבר | shever | provisions | grain that breaks the famine (Radak); a purchased commodity (Rabbeinu Bachaya) |
 | עבור | avur | grain | Onkelos's one word for them all; last year's grain (Radak) |

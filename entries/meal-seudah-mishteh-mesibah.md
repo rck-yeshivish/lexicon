@@ -11,11 +11,11 @@ words:
   - he: סעודה
     tr: seudah
     en: meal
-    distinct: a meal generally associated with bread, from saad, to sustain (Radak), named for what it does for the body; the word for the three Shabbos meals; centers on eating, against mishteh (Rabbi Tzaddok HaKohen of Lublin)
+    distinct: a meal generally associated with bread, from saad, to sustain (Radak), named for what it does for the body; the word for the three Shabbos meals; centers on eating, against mishteh (Rabbi Tzaddok HaKohen of Lublin); the heavier afternoon meal, against the evening mishteh (Shadal)
   - he: משתה
     tr: mishteh
     en: feast
-    distinct: a feast built on wine, from shoseh, to drink, the Purim meal and the banquets of Megillas Esther (Rabbi Tzaddok HaKohen of Lublin), though Rashi makes wine the defining element of any joyous seudah; a meal of gladness (Rabbi Levi Yitzchok of Berditchev)
+    distinct: a feast built on wine, from shoseh, to drink, the Purim meal and the banquets of Megillas Esther (Rabbi Tzaddok HaKohen of Lublin), though Rashi makes wine the defining element of any joyous seudah; a meal of gladness (Rabbi Levi Yitzchok of Berditchev); a light evening meal over wine (Shadal)
   - he: מסיבה
     tr: mesibah
     en: reclining meal
@@ -43,8 +43,8 @@ the wine, or the posture.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| סעודה | seudah | meal | meal of bread, from *saad*, to sustain (Radak); the Shabbos meals |
-| משתה | mishteh | feast | wine feast, from *shoseh*, to drink; the Purim meal (Rabbi Tzaddok) |
+| סעודה | seudah | meal | meal of bread, from *saad*, to sustain (Radak); the Shabbos meals; the heavier afternoon meal, against the evening *mishteh* (Shadal) |
+| משתה | mishteh | feast | wine feast, from *shoseh*, to drink; the Purim meal (Rabbi Tzaddok); a light evening meal over wine (Shadal) |
 | מסיבה | mesibah | reclining meal | meal taken reclining (Rashi); only later a party in general |
 
 ## Distinctions

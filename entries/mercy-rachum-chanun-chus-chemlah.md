@@ -9,12 +9,12 @@ words:
   - he: רחום
     tr: rachum
     en: merciful
-    distinct: one of the Thirteen Attributes, which Rabbeinu Bachaya elsewhere makes one with chanun; focuses on the savior, moved by the sufferer's plight (Rabbi Klein); for the poor (Bechor-Shor); beyond the letter of the law (Rokeach), or, others say, only for one who asks
+    distinct: one of the Thirteen Attributes, which Rabbeinu Bachaya elsewhere makes one with chanun; focuses on the savior, moved by the sufferer's plight (Rabbi Klein); for the poor (Bechor-Shor); beyond the letter of the law (Rokeach), or, others say, only for one who asks; from rechem, opened in childbirth (Rabbeinu Efrayim)
   - he: רחמים
     tr: rachamim
     en: mercy, compassion
     nk: רַחֲמִים
-    distinct: Hashem withholding a calamity before it falls (gloss to Tosafos); His general oversight of the world (Rabbeinu Bachaya); against din, the Giver gives without weighing desert (Rabbi Klein); from motherly protection, as in rechem (Rav Hirsch)
+    distinct: Hashem withholding a calamity before it falls (gloss to Tosafos); His general oversight of the world (Rabbeinu Bachaya); against din, the Giver gives without weighing desert (Rabbi Klein); from motherly protection, as in rechem (Rav Hirsch); surviving past a sin, as the womb shelters until teshuvah (Rabbi Moshe Shapiro); chesed mixed with din (Rabbi Moshe de Leon)
   - he: חנון
     tr: chanun
     en: gracious
@@ -55,8 +55,8 @@ receiver's standing; other commentators divide the two differently.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| רחום | rachum | merciful | the giver moved by the sufferer's plight (Rabbi Klein); for the poor (Bechor-Shor) |
-| רחמים | rachamim | mercy, compassion | gives without weighing desert, against *din* (Rabbi Klein); motherly protection (Rav Hirsch) |
+| רחום | rachum | merciful | the giver moved by the sufferer's plight (Rabbi Klein); for the poor (Bechor-Shor); from *rechem*, opened in childbirth (Rabbeinu Efrayim) |
+| רחמים | rachamim | mercy, compassion | gives without weighing desert, against *din* (Rabbi Klein); motherly protection (Rav Hirsch); surviving past a sin, as the womb shelters until *teshuvah* (Rabbi Moshe Shapiro); *chesed* mixed with *din* (Rabbi Moshe de Leon) |
 | חנון | chanun | gracious | the receiver finds favor (Rabbi Klein); a free, undeserved gift (Rashi) |
 | חוס | chus | sparing | sparing a thing for the benefit one would lose (Malbim) |
 | חמלה | chemlah | pity | pity for a thing's own worth (Malbim); reaches one who cannot ask (Wertheimer) |

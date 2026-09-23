@@ -9,11 +9,11 @@ words:
   - he: מנחה
     tr: minchah
     en: homage, tribute
-    distinct: a gift of homage that serves the giver, showing his subservience and dependence (Rav Hirsch); a gift that gains the giver atonement (Wertheimer); can be an outright tax paid to a master, and the more submission it shows the more it deserves the name (Rabbi Mecklenburg)
+    distinct: a gift of homage that serves the giver, showing his subservience and dependence (Rav Hirsch); a gift that gains the giver atonement (Wertheimer); can be an outright tax paid to a master, and the more submission it shows the more it deserves the name (Rabbi Mecklenburg); from nuach, a gift to appease a superior (Shadal); from one of lower standing to a superior (Halbertal)
   - he: מתנה
     tr: matanah
     en: gift
-    distinct: formed from the verb of giving; serves the receiver's need, the giver gaining nothing beyond filling it (Wertheimer); the word of matanos la'evyonim; inappropriate for an offering to Hashem (Rabbi Mecklenburg), since Hashem has no needs (Rabbi Klein)
+    distinct: formed from the verb of giving; serves the receiver's need, the giver gaining nothing beyond filling it (Wertheimer); the word of matanos la'evyonim; inappropriate for an offering to Hashem (Rabbi Mecklenburg), since Hashem has no needs (Rabbi Klein); an exchange between equals (Halbertal)
   - he: שי
     tr: shai
     en: weighty gift
@@ -57,8 +57,8 @@ context narrows it (Rabbi Mecklenburg).
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| מנחה | minchah | homage, tribute | serves the giver, showing subservience (Rav Hirsch); gains atonement (Wertheimer) |
-| מתנה | matanah | gift | fills the receiver's need, nothing coming back (Wertheimer); not offered to Hashem (Mecklenburg) |
+| מנחה | minchah | homage, tribute | serves the giver, showing subservience (Rav Hirsch); gains atonement (Wertheimer); from *nuach*, a gift to appease a superior (Shadal); from one of lower standing to a superior (Halbertal) |
+| מתנה | matanah | gift | fills the receiver's need, nothing coming back (Wertheimer); not offered to Hashem (Mecklenburg); an exchange between equals (Halbertal) |
 | שי | shai | weighty gift | a gift of substance (Bedersi); weighty to the giver (Wertheimer); always to Hashem |
 | תשורה | teshurah | showpiece gift | the eye-catching showpiece (Wertheimer); brought on greeting a navi (Malbim) |
 | אשכר | eshkar | gift (no settled English) | obscure and disputed; choice fruits (Ibn Ramoch), or a gift that intoxicates (Wertheimer) |

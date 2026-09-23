@@ -9,7 +9,7 @@ words:
   - he: חטא
     tr: chet
     en: sin, inadvertent sin
-    distinct: the general and lightest word; inadvertent (Gemara, Peirush HaRokeach); a lack, failing a positive mitzvah (Vilna Gaon); a goal missed (Rabbi Moshe Shapiro); knowingly indulging physical temptation (Malbim); alone, any sin (Rabbi Netanel Weil)
+    distinct: the general and lightest word; inadvertent (Gemara, Peirush HaRokeach); a lack, failing a positive mitzvah (Vilna Gaon); a goal missed (Rabbi Moshe Shapiro); knowingly indulging physical temptation (Malbim); alone, any sin (Rabbi Netanel Weil); the sins of youth, before the mind rules (Radak); also the punishment that follows (HaKsav VeHaKabbalah)
   - he: עון
     tr: avon
     en: iniquity
@@ -18,7 +18,7 @@ words:
     tr: pesha
     en: rebellious sin
     nk: פֶּשַׁע
-    distinct: the sin done to rebel against Hashem (Gemara, Malbim); at root negligence through laziness, borrowed for rebellion as a slight to the King (Pappenheim); simply the willful sin (Peirush HaRokeach)
+    distinct: the sin done to rebel against Hashem (Gemara, Malbim); at root negligence through laziness, borrowed for rebellion as a slight to the King (Pappenheim); simply the willful sin (Peirush HaRokeach); deliberate rebellion, from twenty years up (Radak)
   - he: עבירה
     tr: aveirah
     en: transgression
@@ -48,9 +48,9 @@ every kind of sin and is simply "sin." *Aveirah*, the Rabbinic catch-all, is
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| חטא | chet | sin, inadvertent sin | lightest: inadvertent (Gemara); a lack or a missed goal (Vilna Gaon, Rabbi Moshe Shapiro) |
+| חטא | chet | sin, inadvertent sin | lightest: inadvertent (Gemara); a lack or a missed goal (Vilna Gaon, Rabbi Moshe Shapiro); the sins of youth, before the mind rules (Radak); also the punishment that follows (HaKsav VeHaKabbalah) |
 | עון | avon | iniquity | intentional sin (Gemara); a mind persuaded astray (Malbim); a sin for benefit (Rokeach) |
-| פשע | pesha | rebellious sin | rebellion (Gemara); at root lazy negligence, a slight to the King (Pappenheim) |
+| פשע | pesha | rebellious sin | rebellion (Gemara); at root lazy negligence, a slight to the King (Pappenheim); deliberate rebellion, from twenty years up (Radak) |
 | עבירה | aveirah | transgression | Rabbinic catch-all, not in Tanach; passing over one's thoughts (Mecklenburg) |
 
 ## The Kohen Gadol's vidui

@@ -9,7 +9,7 @@ words:
   - he: מס
     tr: mas
     en: tax, corvée work
-    distinct: the word typically translated tax and the generic word in Modern Hebrew, though some scholars read it as corvée work, compulsory unpaid labor, as with the sarei missim; a burden carried, or assets melted away (Pappenheim)
+    distinct: the word typically translated tax and the generic word in Modern Hebrew, though some scholars read it as corvée work, compulsory unpaid labor, as with the sarei missim; a burden carried, or assets melted away (Pappenheim); from nasa, a burden carried (Shadal)
   - he: מכס
     tr: meches
     en: tax, levy
@@ -72,7 +72,7 @@ and the Gemara equates several of them (*belo* is *gulgalta*, which is *karga*;
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| מס | mas | tax, corvée work | generic tax; for some scholars corvée, forced labor; a burden carried (Pappenheim) |
+| מס | mas | tax, corvée work | generic tax; for some scholars corvée, forced labor; a burden carried (Pappenheim); from *nasa*, a burden carried (Shadal) |
 | מכס | meches | tax, levy | Hashem's share of the booty; Akkadian loan (Tawil), number (Radak), or king's pocket (Pappenheim) |
 | מנדה | mindah | measured fee, king's portion | a fee by measure of property (Toledano); the king's portion (Gemara) |
 | בלו | belo | food tax, head tax | food, which wears out (Toledano); head tax, the same as *gulgalta* (Gemara) |

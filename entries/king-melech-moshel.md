@@ -9,12 +9,12 @@ words:
   - he: מלך
     tr: melech
     en: king
-    distinct: king by the people's willing acceptance, commissioned by them; rises from within the masses with no inherent advantage, their equal once their recognition is gone (Vilna Gaon); the popular sovereign his constituents accepted (Ibn Ezra)
+    distinct: king by the people's willing acceptance, commissioned by them; rises from within the masses with no inherent advantage, their equal once their recognition is gone (Vilna Gaon); the popular sovereign his constituents accepted (Ibn Ezra); perhaps from Aramaic mamlach, a counsellor (Benamozegh)
   - he: מושל
     tr: moshel
     en: ruler
     nk: מוֹשֵׁל
-    distinct: holds power by force or proven superiority, accepted or not; leads by his abilities and seizes his constituency, as Gideon was offered (Vilna Gaon); a dictator who rules whether or not his people object (Ibn Ezra); some explain instead a governor or deputy under the king, which Bereishis 24:2, 45:8 and 1:16 fit (Rabbi Klein)
+    distinct: holds power by force or proven superiority, accepted or not; leads by his abilities and seizes his constituency, as Gideon was offered (Vilna Gaon); a dictator who rules whether or not his people object (Ibn Ezra); some explain instead a governor or deputy under the king, which Bereishis 24:2, 45:8 and 1:16 fit (Rabbi Klein); from mashal, leaders who spoke in parables (Benamozegh)
   - he: מלוכה
     nk: מְלוּכָה
 sources:
@@ -39,8 +39,8 @@ is not mere repetition.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| מלך | melech | king | king by the people's willing acceptance; their equal without it (Vilna Gaon) |
-| מושל | moshel | ruler | rules by force or proven ability, accepted or not (Vilna Gaon); some say a deputy, as Bereishis 24:2 and 45:8 fit (Rabbi Klein) |
+| מלך | melech | king | king by the people's willing acceptance; their equal without it (Vilna Gaon); perhaps from Aramaic *mamlach*, a counsellor (Benamozegh) |
+| מושל | moshel | ruler | rules by force or proven ability, accepted or not (Vilna Gaon); some say a deputy, as Bereishis 24:2 and 45:8 fit (Rabbi Klein); from *mashal*, leaders who spoke in parables (Benamozegh) |
 
 ## Distinctions
 

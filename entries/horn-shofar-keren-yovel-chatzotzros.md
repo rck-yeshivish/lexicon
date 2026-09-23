@@ -9,7 +9,7 @@ words:
   - he: שופר
     tr: shofar
     en: ram's horn
-    distinct: the hollow horn whose filling is drawn out, where a solid horn stays keren (Ramban); a hollow tube, from shefoferes (Ran); beauty and fitness, from ש-פ-ר (Ritva), many parts fitted into one order (Rav Hirsch)
+    distinct: the hollow horn whose filling is drawn out, where a solid horn stays keren (Ramban); a hollow tube, from shefoferes (Ran); beauty and fitness, from ש-פ-ר (Ritva), many parts fitted into one order (Rav Hirsch); gathers the people, as tzavar (Ohalei Yehudah)
   - he: קרן
     tr: keren
     en: horn
@@ -55,7 +55,7 @@ halachah turns on the bovine horn being *called* a *keren*.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| שופר | shofar | ram's horn | hollow horn (Ramban); a tube (Ran); beauty of parts in harmony (Rav Hirsch) |
+| שופר | shofar | ram's horn | hollow horn (Ramban); a tube (Ran); beauty of parts in harmony (Rav Hirsch); gathers the people, as *tzavar* (Ohalei Yehudah) |
 | קרן | keren | horn | the general horn; also ray, corner, principal; a fork in the road (Rabbi Moshe Shapiro) |
 | יובל | yovel | horn, jubilee | a horn, also a ram; names the fiftieth year it proclaims |
 | חצוצרות | chatzotzros | trumpets | the Torah's silver trumpets; for a time, the name for *shofaros* |

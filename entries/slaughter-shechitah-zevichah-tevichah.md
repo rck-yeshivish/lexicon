@@ -9,7 +9,7 @@ words:
   - he: שחיטה
     tr: shechitah
     en: ritual slaughter
-    distinct: the specific halachic act of cutting through the esophagus and trachea (Malbim); for Rabbi Shlomo Pappenheim the general term for any act causing a living being's death, halachic slaughter being one case of it; the word said of kodashim, where zevichah is said of chullin (Mahari Assad)
+    distinct: the specific halachic act of cutting through the esophagus and trachea (Malbim); for Rabbi Shlomo Pappenheim the general term for any act causing a living being's death, halachic slaughter being one case of it; the word said of kodashim, where zevichah is said of chullin (Mahari Assad); from sachat, pressing out the blood (Shadal)
   - he: נחירה
     tr: nechirah
     en: stabbing
@@ -17,11 +17,11 @@ words:
   - he: זביחה
     tr: zevichah
     en: sacrificial slaughter
-    distinct: slaughter with a stated purpose, a korban or meat for a festive gathering (Malbim); a species of shechitah, killing for sacrifice (Rabbi Shlomo Pappenheim); Ralbag to Devarim 12:21 lets it include nechirah, yet to Vayikra 1:1 calls it a synonym of shechitah, as the Sifrei (Naso 23) counts them one thing; said of chullin, not kodashim (Mahari Assad)
+    distinct: slaughter with a stated purpose, a korban or meat for a festive gathering (Malbim); a species of shechitah, killing for sacrifice (Rabbi Shlomo Pappenheim); Ralbag to Devarim 12:21 lets it include nechirah, yet to Vayikra 1:1 calls it a synonym of shechitah, as the Sifrei (Naso 23) counts them one thing; said of chullin, not kodashim (Mahari Assad); from zav, making the blood flow (Shadal)
   - he: טביחה
     tr: tevichah
     en: slaughter for food
-    distinct: killing an animal for food in a general way, even outside ritual slaughter (Malbim); a shechitah defined by its reason, ordinary human consumption (Rabbi Shlomo Pappenheim); Ibn Janach dissents and reads it as cooking, which Wertheimer answers from rabbinic usage
+    distinct: killing an animal for food in a general way, even outside ritual slaughter (Malbim); a shechitah defined by its reason, ordinary human consumption (Rabbi Shlomo Pappenheim); Ibn Janach dissents and reads it as cooking, which Wertheimer answers from rabbinic usage; a small slaughter (the Rokeach)
   - he: טבח
     tr: tabach
     en: butcher, executioner
@@ -52,10 +52,10 @@ The first two are disputed as well: Mahari Assad holds *shechitah* is said of
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| שחיטה | shechitah | ritual slaughter | the halachic neck-cut (Malbim); any putting to death (Pappenheim); of *kodashim* (Mahari Assad) |
+| שחיטה | shechitah | ritual slaughter | the halachic neck-cut (Malbim); any putting to death (Pappenheim); of *kodashim* (Mahari Assad); from *sachat*, pressing out the blood (Shadal) |
 | נחירה | nechirah | stabbing | stabbing in the neck, the Noahide way; from *chor*, a hole (Mussafia) |
-| זביחה | zevichah | sacrificial slaughter | slaughter for a purpose (Malbim); above all for a *korban* (Pappenheim); of *chullin* (Mahari Assad); one thing with *shechitah* (Sifrei) |
-| טביחה | tevichah | slaughter for food | killing for food, even outside ritual slaughter (Malbim); cooking, for Ibn Janach |
+| זביחה | zevichah | sacrificial slaughter | slaughter for a purpose (Malbim); above all for a *korban* (Pappenheim); of *chullin* (Mahari Assad); one thing with *shechitah* (Sifrei); from *zav*, making the blood flow (Shadal) |
+| טביחה | tevichah | slaughter for food | killing for food, even outside ritual slaughter (Malbim); cooking, for Ibn Janach; a small slaughter (the Rokeach) |
 | טבח | tabach | butcher, executioner | Potiphar's title; over the king's slaughterers (Rashi) or Chief Executioner (Onkelos, Ramban) |
 
 ## Where the authorities disagree

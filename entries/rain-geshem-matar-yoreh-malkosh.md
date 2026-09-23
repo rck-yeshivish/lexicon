@@ -14,7 +14,7 @@ words:
   - he: מטר
     tr: matar
     en: rain (as sent)
-    distinct: rain given at its appointed time; on one reading specifically heavy rain, which is why forms of it are used of the fire and brimstone at Sedom (Bereishis 19:24) and the hail in Mitzrayim (Shemos 9:18); some make it the general term and geshem the specific one
+    distinct: rain given at its appointed time; on one reading specifically heavy rain, which is why forms of it are used of the fire and brimstone at Sedom (Bereishis 19:24) and the hail in Mitzrayim (Shemos 9:18); some make it the general term and geshem the specific one; matarin, the womb, from matar (Bereishis Rabbah 47:2)
   - he: יורה
     tr: yoreh
     en: the first rain
@@ -46,7 +46,7 @@ and *malkosh* **the last rain**, in early spring before the harvest.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | גשם | geshem | rain | the commonest word; general rain, or specifically the heavy or blessed rain (the views differ) |
-| מטר | matar | rain | rain sent at its time; on one reading heavy rain, hence Sedom's fire and brimstone (Bereishis 19:24) |
+| מטר | matar | rain | rain sent at its time; on one reading heavy rain, hence Sedom's fire and brimstone (Bereishis 19:24); *matarin*, the womb, from *matar* (Bereishis Rabbah 47:2) |
 | יורה | yoreh | the first rain | opens the season; "teaches" people to secure roofs and store produce (Taanis 6a) |
 | מלקוש | malkosh | the last rain | falls near Pesach, before the reaping, from *mekoshesh* (Taanis 6a) |
 

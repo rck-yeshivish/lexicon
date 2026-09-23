@@ -9,7 +9,7 @@ words:
   - he: שה
     tr: seh
     en: lamb, kid
-    distinct: gender-neutral, a single young animal of either species, which the Torah often pairs with a more specific word saying which species is meant
+    distinct: gender-neutral, a single young animal of either species, which the Torah often pairs with a more specific word saying which species is meant; the male, against the female taleh (the Rokeach)
   - he: צאן
     tr: tzon
     en: flock
@@ -56,7 +56,7 @@ words:
   - he: טלה
     tr: tleh
     en: lamb
-    distinct: another young sheep, and can name a young human, like English kid (Rav Hirsch); from tal, dew (Pappenheim); an animal still nursing (Rabbi Meir Mazuz)
+    distinct: another young sheep, and can name a young human, like English kid (Rav Hirsch); from tal, dew (Pappenheim); an animal still nursing (Rabbi Meir Mazuz); the female (the Rokeach)
   - he: עתוד
     tr: atud
     en: he-goat
@@ -84,7 +84,7 @@ sheep, or any adult male of either species.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| שה | seh | lamb, kid | one young animal of either species, sex unstated |
+| שה | seh | lamb, kid | one young animal of either species, sex unstated; the male, against the female *taleh* (the Rokeach) |
 | צאן | tzon | flock | collective flock of both species; they go out even in winter (Pappenheim) |
 | עז | eiz | she-goat | female goat, eight days to two years (Ibn Zimra); sure-footed (Pappenheim) |
 | תיש | tayish | he-goat | adult male goat; the very opposite of weakness (Pappenheim) |
@@ -95,7 +95,7 @@ sheep, or any adult male of either species.
 | יובל | yovel | ram | ram (Gemara); borrowed for the ram's horn and the fiftieth year |
 | כבש | keves | lamb | sheep in its first year; washes away sin (Pesikta Rabbasi) |
 | כשב | kesev | lamb | disputed: metathesis of *keves* (Radak), older sheep (Netziv), any age (Malbim) |
-| טלה | tleh | lamb | young sheep, also a young human (Rav Hirsch); still nursing (Mazuz) |
+| טלה | tleh | lamb | young sheep, also a young human (Rav Hirsch); still nursing (Mazuz); the female (the Rokeach) |
 | עתוד | atud | he-goat | most obscure: large lead he-goat (Ibn Ezra), fat young sheep, or any male (Ramban) |
 
 ## Distinctions

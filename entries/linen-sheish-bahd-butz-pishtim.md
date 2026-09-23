@@ -18,12 +18,12 @@ words:
     tr: bahd
     en: linen
     nk: בַּד
-    distinct: a single-fiber linen thread, from bad, alone (Ralbag, Abarbanel); a linen garment, called alone because linen was never blended with another material (Pappenheim); the word for the Kohen Gadol's white garments on Yom Kippur
+    distinct: a single-fiber linen thread, from bad, alone (Ralbag, Abarbanel); a linen garment, called alone because linen was never blended with another material (Pappenheim); the word for the Kohen Gadol's white garments on Yom Kippur; linen, as Egyptian priests wore (Benamozegh)
   - he: בוץ
     tr: butz
     en: fine linen
     nk: בּוּץ
-    distinct: fine linen as a material (Ralbag, Abarbanel), the later Hebrew and Aramaic word, on one view rendering the Egyptian sheish (Daas Zekeinim); linen already worked, against kitna (Rabbi Yaakov Zev Lev); a flax that grows in watery soil (Pappenheim)
+    distinct: fine linen as a material (Ralbag, Abarbanel), the later Hebrew and Aramaic word, on one view rendering the Egyptian sheish (Daas Zekeinim); linen already worked, against kitna (Rabbi Yaakov Zev Lev); a flax that grows in watery soil (Pappenheim); later than sheish and bahd (Hurvitz)
   - he: כיתנא
     tr: kitna
     en: linen
@@ -59,8 +59,8 @@ Kutscher traces it to *katan*, "small."
 |---|---|---|---|
 | פשתים | pishtim | flax | flax, the raw material (Ralbag, Abarbanel); still growing in the ground (Pappenheim) |
 | שש | sheish | fine linen | six-fiber thread (Ralbag, Abarbanel); perhaps a whitish color (Steipler Gaon) |
-| בד | bahd | linen | single-fiber thread, from *bad*, alone (Ralbag, Abarbanel); unblended linen (Pappenheim) |
-| בוץ | butz | fine linen | later word for fine linen, already worked (Rabbi Yaakov Zev Lev); grows in marshy soil (Pappenheim) |
+| בד | bahd | linen | single-fiber thread, from *bad*, alone (Ralbag, Abarbanel); unblended linen (Pappenheim); linen, as Egyptian priests wore (Benamozegh) |
+| בוץ | butz | fine linen | later word for fine linen, already worked (Rabbi Yaakov Zev Lev); grows in marshy soil (Pappenheim); later than *sheish* and *bahd* (Hurvitz) |
 | כיתנא | kitna | linen | Talmudic Aramaic for linen; unprocessed flax in the ground (Rabbi Yaakov Zev Lev) |
 
 ## Distinctions

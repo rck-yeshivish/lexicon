@@ -9,15 +9,15 @@ words:
   - he: ארור
     tr: arur
     en: cursed, a curse
-    distinct: the true, intense curse, used for cursing a king (Vilna Gaon); broad and all-inclusive, able to stand alone (Rabbi Mecklenburg); narrowly, the working-out of a curse in one specific thing (Malbim), and so arah is a limited curse against the all-embracing kavah (Rabbeinu Efrayim)
+    distinct: the true, intense curse, used for cursing a king (Vilna Gaon); broad and all-inclusive, able to stand alone (Rabbi Mecklenburg); narrowly, the working-out of a curse in one specific thing (Malbim), and so arah is a limited curse against the all-embracing kavah (Rabbeinu Efrayim); said not to a man's face (Shadal)
   - he: קללה
     tr: kelalah
     en: disparagement, curse
-    distinct: from kal, light, a belittling rather than a true curse, used for cursing a judge (Vilna Gaon); the specific curse that must name its effect, only of what physically exists (Rabbi Mecklenburg)
+    distinct: from kal, light, a belittling rather than a true curse, used for cursing a judge (Vilna Gaon); the specific curse that must name its effect, only of what physically exists (Rabbi Mecklenburg); said to his face (Shadal)
   - he: אלה
     tr: allah
     en: oath-curse, imprecation
-    distinct: a curse expressly invoking Hashem (Radak); a conditional curse laid down with a stipulation (Rabbi Mecklenburg); a conflict in which one wishes ill on another, kin to elach (Rav Hirsch)
+    distinct: a curse expressly invoking Hashem (Radak); a conditional curse laid down with a stipulation (Rabbi Mecklenburg); a conflict in which one wishes ill on another, kin to elach (Rav Hirsch); an oath with a curse, from Eloah (Shadal)
   - he: קבה
     tr: kavah
     en: public curse
@@ -47,9 +47,9 @@ word; Shemos 22:27 uses both of them in a single pasuk.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| ארור | arur | cursed, a curse | the intense, open-ended curse (Vilna Gaon, Mecklenburg); narrow and specific (Malbim, Rabbeinu Efrayim) |
-| קללה | kelalah | disparagement, curse | from *kal*, belittling (Vilna Gaon); must name its effect (Mecklenburg) |
-| אלה | allah | oath-curse, imprecation | invokes Hashem (Radak); conditional (Mecklenburg) |
+| ארור | arur | cursed, a curse | the intense, open-ended curse (Vilna Gaon, Mecklenburg); narrow and specific (Malbim, Rabbeinu Efrayim); said not to a man's face (Shadal) |
+| קללה | kelalah | disparagement, curse | from *kal*, belittling (Vilna Gaon); must name its effect (Mecklenburg); said to his face (Shadal) |
+| אלה | allah | oath-curse, imprecation | invokes Hashem (Radak); conditional (Mecklenburg); an oath with a curse, from *Eloah* (Shadal) |
 | קבה | kavah | public curse | cursed in public, the victim named outright (Malbim); all-embracing, against the limited *arah* (Rabbeinu Efrayim) |
 
 ## Distinctions

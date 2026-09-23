@@ -10,7 +10,7 @@ words:
     tr: bushah
     en: shame
     nk: בּוּשָׁה
-    distinct: the general, milder word, and the one written first when it stands beside another (Radak); covers shame for a good reason as well as a bad one, and can be merely social, the thief ashamed at being seen (Edel)
+    distinct: the general, milder word, and the one written first when it stands beside another (Radak); covers shame for a good reason as well as a bad one, and can be merely social, the thief ashamed at being seen (Edel); in private (Vilna Gaon)
   - he: כלימה
     tr: kelimah
     en: humiliation
@@ -22,7 +22,7 @@ words:
   - he: חפרה
     tr: chafrah
     en: mortification
-    distinct: the wish to dig (chofer) a hole and hide; Malbim makes it the most intense of all, burying one's head out of sheer shame
+    distinct: the wish to dig (chofer) a hole and hide; Malbim makes it the most intense of all, burying one's head out of sheer shame; in public (Vilna Gaon)
 sources:
   - wiaw:9907 "An Utter Embarrassment" (2022-09-17) https://articles.ohr.edu/articles/an-utter-embarrassment
   - wiaw:9554 "Digging Deeper" (2022-01-29) https://articles.ohr.edu/articles/digging-deeper
@@ -49,10 +49,10 @@ chronological sequence.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| בושה | bushah | shame | mildest; written first in a pair (Radak); can be social only, without contrition (Edel) |
+| בושה | bushah | shame | mildest; written first in a pair (Radak); can be social only, without contrition (Edel); in private (Vilna Gaon) |
 | כלימה | kelimah | humiliation | graver; inflicted from outside (Malbim); the deed itself is disgraceful (Edel) |
 | חרפה | cherpah | disgrace, reproach | follows another's insult (Wertheimer); disparagement rather than shame (Bedersi); more intense than *bushah* and *klimah* (Chelouche) |
-| חפרה | chafrah | mortification | wanting to dig a hole and hide (Wertheimer); the most intense, wanting to bury one's head (Malbim) |
+| חפרה | chafrah | mortification | wanting to dig a hole and hide (Wertheimer); the most intense, wanting to bury one's head (Malbim); in public (Vilna Gaon) |
 
 ## Where the authorities disagree
 

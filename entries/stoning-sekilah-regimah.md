@@ -13,7 +13,7 @@ words:
   - he: רגימה
     tr: regimah
     en: stoning to death
-    distinct: the result rather than the act, the victim subdued and immobile (Rabbi Shlomo Pappenheim), or stoning to death (Yashar); a whole heap thrown, a communal effort rather than a single stone (Rabbi Yehuda Leib Shapira-Frankfurter)
+    distinct: the result rather than the act, the victim subdued and immobile (Rabbi Shlomo Pappenheim), or stoning to death (Yashar); a whole heap thrown, a communal effort rather than a single stone (Rabbi Yehuda Leib Shapira-Frankfurter); non-Semitic, from Hittite (Noonan)
   - he: מרגמה
     tr: margeimah
     en: sling, catapult
@@ -45,7 +45,7 @@ of stones (Ibn Janach, Radak).
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | סקילה | sekilah | stoning, pelting | the act of throwing, not necessarily fatal (Yashar); one stone could in theory suffice (Shapira-Frankfurter) |
-| רגימה | regimah | stoning to death | the result: subdued and immobile (Pappenheim); a heap thrown, typically by "the entire nation" (Shapira-Frankfurter) |
+| רגימה | regimah | stoning to death | the result: subdued and immobile (Pappenheim); a heap thrown, typically by "the entire nation" (Shapira-Frankfurter); non-Semitic, from Hittite (Noonan) |
 | מרגמה | margeimah | sling, catapult | the launching device (Mishlei 26:8), seemingly from ר-ג-ם |
 
 ## Where the authorities disagree

@@ -9,11 +9,11 @@ words:
   - he: עפר
     tr: afar
     en: dirt, soil
-    distinct: the general word, the soil that can grow things, against eifer and avak which grow nothing (Zohar); Beis Shammai limits it to literal soil, Beis Hillel includes ashes, and the halachah follows Beis Hillel
+    distinct: the general word, the soil that can grow things, against eifer and avak which grow nothing (Zohar); Beis Shammai limits it to literal soil, Beis Hillel includes ashes, and the halachah follows Beis Hillel; cold and wet (Rabbeinu Efrayim)
   - he: אפר
     tr: eifer
     en: ashes
-    distinct: what fire leaves, matter broken down into particles by burning (Rabbi Shlomo Pappenheim); grows nothing (Zohar); ashes have no fruitful future, as in Avraham's afar va'eifer (Netziv); burnt through with no fire left, against deshen (Rabbi Eliezer Lipman Lichtenstein)
+    distinct: what fire leaves, matter broken down into particles by burning (Rabbi Shlomo Pappenheim); grows nothing (Zohar); ashes have no fruitful future, as in Avraham's afar va'eifer (Netziv); burnt through with no fire left, against deshen (Rabbi Eliezer Lipman Lichtenstein); hot and dry (Rabbeinu Efrayim)
   - he: אבק
     tr: avak
     en: dust
@@ -45,8 +45,8 @@ the ashes of the Parah Adumah *afar* and not *eifer*.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| עפר | afar | dirt, soil | the general word; fertile, it grows things (Zohar) |
-| אפר | eifer | ashes | burnt remains; sterile, grows nothing (Zohar); no fruitful future (Netziv) |
+| עפר | afar | dirt, soil | the general word; fertile, it grows things (Zohar); cold and wet (Rabbeinu Efrayim) |
+| אפר | eifer | ashes | burnt remains; sterile, grows nothing (Zohar); no fruitful future (Netziv); hot and dry (Rabbeinu Efrayim) |
 | אבק | avak | dust | fine powder from pulverizing; always the product of a struggle (Rabbi Moshe Shapiro) |
 | דשן | deshen | ashes, fatty ash | disputed: still glowing (Lichtenstein); Mikdash ash (Shapira-Frankfurter); animal ash, from fat (Pappenheim) |
 

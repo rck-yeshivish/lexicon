@@ -9,11 +9,11 @@ words:
   - he: נביא
     tr: navi
     en: prophet, spokesman
-    distinct: the prophet as mouth, bringing Hashem's word; from niv, fruit of the lips (Rashi, Rashbam), or from נ-ב-א (Ibn Ezra); plainly spokesman at Shemos 7:1 (Onkelos, Rasag); sent to rebuke the public, and feared (Malbim)
+    distinct: the prophet as mouth, bringing Hashem's word; from niv, fruit of the lips (Rashi, Rashbam), or from נ-ב-א (Ibn Ezra); plainly spokesman at Shemos 7:1 (Onkelos, Rasag); sent to rebuke the public, and feared (Malbim); sent to preach to the people (Chasam Sofer)
   - he: רואה
     tr: roeh
     en: seer
-    distinct: the earlier prophet, seeing by ruach hakodesh to help individuals uncover the hidden, and sought out (Malbim); the Hebrew word for one who sees, of sharp vision (Vilna Gaon)
+    distinct: the earlier prophet, seeing by ruach hakodesh to help individuals uncover the hidden, and sought out (Malbim); the Hebrew word for one who sees, of sharp vision (Vilna Gaon); saw visions without a charge to spread them (Chasam Sofer)
   - he: חוזה
     tr: chozeh
     en: visionary
@@ -42,8 +42,8 @@ switch to Aramaic as a mark of dimmer clarity.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| נביא | navi | prophet, spokesman | the mouth that brings Hashem's word; sent to rebuke, and feared (Malbim) |
-| רואה | roeh | seer | the earlier seer people came to (Malbim); sharp vision (Vilna Gaon) |
+| נביא | navi | prophet, spokesman | the mouth that brings Hashem's word; sent to rebuke, and feared (Malbim); sent to preach to the people (Chasam Sofer) |
+| רואה | roeh | seer | the earlier seer people came to (Malbim); sharp vision (Vilna Gaon); saw visions without a charge to spread them (Chasam Sofer) |
 | חוזה | chozeh | visionary | the later seer; the Aramaic word marks dimmer clarity (Vilna Gaon) |
 
 ## Distinctions

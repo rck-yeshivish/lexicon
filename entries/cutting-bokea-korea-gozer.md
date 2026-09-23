@@ -9,7 +9,7 @@ words:
   - he: בקיעה
     tr: bokea
     en: split open
-    distinct: splitting from the inside outward, as a hatchling bursts out of its egg; the Written Torah's verb for the sea, split from within at Hashem's word (Rabbi Shmuel Borenstein of Sochatchov)
+    distinct: splitting from the inside outward, as a hatchling bursts out of its egg; the Written Torah's verb for the sea, split from within at Hashem's word (Rabbi Shmuel Borenstein of Sochatchov); kin to betza, kuf and tzadi interchanging (Shadal)
   - he: קריעה
     tr: korea
     en: tear
@@ -92,7 +92,7 @@ saying something different about who did what to what.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| בקיעה | bokea | split open | splitting from the inside out (Shem MiShmuel) |
+| בקיעה | bokea | split open | splitting from the inside out (Shem MiShmuel); kin to *betza*, kuf and tzadi interchanging (Shadal) |
 | קריעה | korea | tear | tearing something soft (Pappenheim); from outside (Shem MiShmuel) |
 | גזירה | gozer | cut, decree | a blade sawing through something thick (Pappenheim); also deciding (Rav Hirsch) |
 | חתיכה | chatichah | cut | cutting in half (Pappenheim); the general Rabbinic word |

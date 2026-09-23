@@ -9,15 +9,15 @@ words:
   - he: אימה
     tr: eimah
     en: dread, terror
-    distinct: the felt emotion of being afraid, as against pachad, its outward manifestation (Ibn Ezra); for Rashi, eimah and pachad differ as fear of a distant threat and of a near one, the versions disagreeing on which is which
+    distinct: the felt emotion of being afraid, as against pachad, its outward manifestation (Ibn Ezra); for Rashi, eimah and pachad differ as fear of a distant threat and of a near one, the versions disagreeing on which is which; graver than pachad, felt only by the loftier creations (Abudarham)
   - he: פחד
     tr: pachad
     en: fright, fear
-    distinct: the sudden start of fear (Rashi), short-lived and so the less intense, and only of human beings, who grasp what a danger implies (Wertheimer); the outward manifestation of fear (Ibn Ezra)
+    distinct: the sudden start of fear (Rashi), short-lived and so the less intense, and only of human beings, who grasp what a danger implies (Wertheimer); the outward manifestation of fear (Ibn Ezra); the lesser fear, felt by all other creatures (Abudarham)
   - he: יראה
     tr: yirah
     en: fear
-    distinct: the general word, with its noun morah; fear pent up over time (Rashi), continual and building on itself, so the more intense (Wertheimer); fear of what might happen, as against daagah (Beis HaLevi)
+    distinct: the general word, with its noun morah; fear pent up over time (Rashi), continual and building on itself, so the more intense (Wertheimer); fear of what might happen, as against daagah (Beis HaLevi); mora the same as chitas (Abarbanel)
   - he: דאגה
     tr: daagah
     en: worry, anxiety
@@ -47,9 +47,9 @@ therefore the more intense.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| אימה | eimah | dread, terror | the inner feeling of fear (Ibn Ezra); far or near threat, versions disagree (Rashi) |
-| פחד | pachad | fright, fear | sudden and brief (Rashi, Wertheimer); humans only (Wertheimer); fear's outward show (Ibn Ezra) |
-| יראה | yirah | fear | fear in general; of its pair מורא, Rashi gives fear long pent up and Wertheimer the more intense |
+| אימה | eimah | dread, terror | the inner feeling of fear (Ibn Ezra); far or near threat, versions disagree (Rashi); graver than *pachad*, felt only by the loftier creations (Abudarham) |
+| פחד | pachad | fright, fear | sudden and brief (Rashi, Wertheimer); humans only (Wertheimer); fear's outward show (Ibn Ezra); the lesser fear, felt by all other creatures (Abudarham) |
+| יראה | yirah | fear | fear in general; of its pair מורא, Rashi gives fear long pent up and Wertheimer the more intense; *mora* the same as *chitas* (Abarbanel) |
 | דאגה | daagah | worry, anxiety | fear of loss or coming evil (Rashi); what will surely happen (Beis HaLevi) |
 
 ## Distinctions

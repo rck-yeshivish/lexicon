@@ -9,7 +9,7 @@ words:
   - he: מגבעת
     tr: migbaas
     en: headdress
-    distinct: the ordinary kohen's plain hat, tied to kova (Meiri); comes pre-sewn, ready to put on (Vilna Gaon); humped like a hill, from givah (Abarbanel); the same hat as mitznefes (Rashi, Ramban)
+    distinct: the ordinary kohen's plain hat, tied to kova (Meiri); comes pre-sewn, ready to put on (Vilna Gaon); humped like a hill, from givah (Abarbanel); the same hat as mitznefes (Rashi, Ramban); from givah, a hill raising the head (Rabbi Avigdor Miller)
   - he: מצנפת
     tr: mitznefes
     en: turban
@@ -53,7 +53,7 @@ distinguish them.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| מגבעת | migbaas | headdress | the ordinary *kohen*'s plain hat (Meiri); pre-sewn (Vilna Gaon); humped like a hill (Abarbanel) |
+| מגבעת | migbaas | headdress | the ordinary *kohen*'s plain hat (Meiri); pre-sewn (Vilna Gaon); humped like a hill (Abarbanel); from *givah*, a hill raising the head (Rabbi Avigdor Miller) |
 | מצנפת | mitznefes | turban | the *kohen gadol*'s long cloth wound around the head (Meiri); names the honor (Tosafos HaRosh) |
 | כובע | kova | helmet, hard hat | all six appearances in *Tanach* are a soldier's; likely a helmet |
 | אבנט | avnet | sash | the ritual belt, worn by all the *kohanim* (Malbim) |

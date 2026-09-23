@@ -9,7 +9,7 @@ words:
   - he: חלב
     tr: cheilev
     en: fat, forbidden fat
-    distinct: fat in the plain sense, and in halachic contexts the hard visceral fat offered on the mizbeach and forbidden to eat (Ramban, Rabbeinu Bachya); borrowed for the choicest part of anything (Rashi); the energy the body stores aside for future use (Rav Hirsch)
+    distinct: fat in the plain sense, and in halachic contexts the hard visceral fat offered on the mizbeach and forbidden to eat (Ramban, Rabbeinu Bachya); borrowed for the choicest part of anything (Rashi); the energy the body stores aside for future use (Rav Hirsch); kin to Assyrian tahlubti, a covering (Benamozegh)
   - he: שומן
     tr: shuman
     en: permitted fat
@@ -48,7 +48,7 @@ refer to animal fat at all.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| חלב | cheilev | fat, forbidden fat | fat; in halachah the forbidden visceral fat (Ramban); also the choicest (Rashi) |
+| חלב | cheilev | fat, forbidden fat | fat; in halachah the forbidden visceral fat (Ramban); also the choicest (Rashi); kin to Assyrian *tahlubti*, a covering (Benamozegh) |
 | שומן | shuman | permitted fat | post-biblical; the permitted soft fat attached to the meat (Rashi, Ramban) |
 | תרבא | tarba | fat | Targumic Aramaic for *cheilev* (Onkelos); from *rav*, growing (Chizkuni) |
 | פדר | pader | fat, fatty membrane | disputed: plain fat (Radak, Rashi); membrane (Ramban); organ cluster (Rabbi Saadia Gaon) |

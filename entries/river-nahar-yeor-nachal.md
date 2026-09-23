@@ -9,11 +9,11 @@ words:
   - he: נהר
     tr: nahar
     en: river
-    distinct: the default river, fed by smaller streams that make it stand out, from ה-ר (Rabbi Shlomo Pappenheim); keeps its water within its banks, unlike the yeor (Malbim); the natural river as against the man-made yeor when the two stand together (Rashi, Rabbi Malkiel Tzvi Tannenbaum)
+    distinct: the default river, fed by smaller streams that make it stand out, from ה-ר (Rabbi Shlomo Pappenheim); keeps its water within its banks, unlike the yeor (Malbim); the natural river as against the man-made yeor when the two stand together (Rashi, Rabbi Malkiel Tzvi Tannenbaum); a river whose ends cannot be seen (Chasam Sofer)
   - he: יאור
     tr: yeor
     en: irrigation canal, the River
-    distinct: a man-made irrigation canal (Rashi), a sense held only where it stands beside nahar (Rabbi Malkiel Tzvi Tannenbaum); a river that overflows its banks, mostly the Nile (Malbim); a river whose waters shoot downstream with violent force (Rabbi Pappenheim)
+    distinct: a man-made irrigation canal (Rashi), a sense held only where it stands beside nahar (Rabbi Malkiel Tzvi Tannenbaum); a river that overflows its banks, mostly the Nile (Malbim); a river whose waters shoot downstream with violent force (Rabbi Pappenheim); a river whose end is in sight (Chasam Sofer); first the Nile, then any river (Benamozegh)
   - he: נחל
     tr: nachal
     en: brook, wadi
@@ -43,8 +43,8 @@ when they appear together, so that Rashi's canal is what *yeor* means beside a
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| נהר | nahar | river | the ordinary river, above its tributaries (Pappenheim); keeps within its banks (Malbim) |
-| יאור | yeor | irrigation canal, the River | an irrigation canal (Rashi); overflows its banks, mostly the Nile (Malbim) |
+| נהר | nahar | river | the ordinary river, above its tributaries (Pappenheim); keeps within its banks (Malbim); a river whose ends cannot be seen (Chasam Sofer) |
+| יאור | yeor | irrigation canal, the River | an irrigation canal (Rashi); overflows its banks, mostly the Nile (Malbim); a river whose end is in sight (Chasam Sofer); first the Nile, then any river (Benamozegh) |
 | נחל | nachal | brook, wadi | river and valley at once; only a river flowing to the sea (Wertheimer) |
 
 ## Distinctions

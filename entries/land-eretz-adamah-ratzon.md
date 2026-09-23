@@ -15,7 +15,7 @@ words:
     tr: adamah
     en: ground
     nk: אֲדָמָה
-    distinct: from DALET-MEM, likeness and so incongruity, whence domem, inert, the ground staying passive while what grows in it is active (Rabbi Shlomo Pappenheim); often the lands outside Eretz Yisrael
+    distinct: from DALET-MEM, likeness and so incongruity, whence domem, inert, the ground staying passive while what grows in it is active (Rabbi Shlomo Pappenheim); often the lands outside Eretz Yisrael; only the surface (Shadal)
   - he: חפץ
     nk: חֵפֶץ
 sources:
@@ -46,7 +46,7 @@ so there are seven words for the earth: *eretz*, *adamah*, *arka*, *charavah*,
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | ארץ | eretz | land | root REISH-TZADI, running; the land that runs to do Hashem's will (Bereishis Rabbah 5:8) |
-| אדמה | adamah | ground | root DALET-MEM, whence *domem*, inert; passive while its plants are active (Rabbi Shlomo Pappenheim) |
+| אדמה | adamah | ground | root DALET-MEM, whence *domem*, inert; passive while its plants are active (Rabbi Shlomo Pappenheim); only the surface (Shadal) |
 
 ## Where the authorities disagree
 

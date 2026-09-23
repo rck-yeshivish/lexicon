@@ -10,11 +10,11 @@ words:
     tr: boker
     en: morning
     nk: בּוֹקֶר
-    distinct: the whole morning, a stretch from sunrise until four hours into the day or midday, not a moment (Malbim, Wertheimer), though Wertheimer hesitates over Bereishis 22:3; from a root meaning to seek out and discern, since only daylight tells things apart (Ibn Ezra, Radak)
+    distinct: the whole morning, a stretch from sunrise until four hours into the day or midday, not a moment (Malbim, Wertheimer), though Wertheimer hesitates over Bereishis 22:3; from a root meaning to seek out and discern, since only daylight tells things apart (Ibn Ezra, Radak); boke'a ohr, light breaking through (Shadal)
   - he: שחר
     tr: shachar
     en: dawn, daybreak
-    distinct: the first rays breaking through the night's darkness, arriving all at once (Rabbi Shlomo Alkabetz); a point that comes before boker; also seeking (Rabbi Menachem Ibn Saruk, Malbim), and kin to shachor, black (Rabbi Wolf Heidenheim, Peirush HaRokeach)
+    distinct: the first rays breaking through the night's darkness, arriving all at once (Rabbi Shlomo Alkabetz); a point that comes before boker; also seeking (Rabbi Menachem Ibn Saruk, Malbim), and kin to shachor, black (Rabbi Wolf Heidenheim, Peirush HaRokeach); kin to tzachar (Benamozegh)
   - he: צפרא
     tr: tzafra
     en: morning
@@ -49,8 +49,8 @@ and discerning, which is why *shachar* and *boker* can each mean "search."
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| בוקר | boker | morning | the whole morning, a stretch (Malbim, Wertheimer); root means to discern (Radak) |
-| שחר | shachar | dawn, daybreak | first light breaking the night, all at once (Alkabetz); kin to *shachor*, black (Heidenheim) |
+| בוקר | boker | morning | the whole morning, a stretch (Malbim, Wertheimer); root means to discern (Radak); *boke'a ohr*, light breaking through (Shadal) |
+| שחר | shachar | dawn, daybreak | first light breaking the night, all at once (Alkabetz); kin to *shachor*, black (Heidenheim); kin to *tzachar* (Benamozegh) |
 | צפרא | tzafra | morning | Aramaic morning; only for *boker* in Iyov, Mishlei, Tehillim (Eliyahu HaBachur); kin to *tzipor* |
 | קריצתא | kritzuta | dawn | Targum's *shachar* in Iyov, Mishlei, Tehillim; a wink, dawn's small sign (Kosover) |
 

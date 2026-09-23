@@ -9,12 +9,12 @@ words:
   - he: גוי
     tr: goy
     en: nation (in the loose sense)
-    distinct: a mass of people held together by nothing stronger than land, language, descent, or a political bargain, with no single king over them (Rabbi Yoel Ibn Shuaib, Rabbi Wolf Heidenheim, Malbim); from gviah, a collection of bodies (Malbim)
+    distinct: a mass of people held together by nothing stronger than land, language, descent, or a political bargain, with no single king over them (Rabbi Yoel Ibn Shuaib, Rabbi Wolf Heidenheim, Malbim); from gviah, a collection of bodies (Malbim); a multitude of one language (the Rokeach)
   - he: עם
     tr: am
     en: people, nation
     nk: עַם
-    distinct: the narrower word, a body of people united under one king, leader, or God (Heidenheim, Malbim), or like-minded people who act alike (Wertheimer); hence it takes possessive forms, ami, amcha (Mecklenburg, Malbim)
+    distinct: the narrower word, a body of people united under one king, leader, or God (Heidenheim, Malbim), or like-minded people who act alike (Wertheimer); hence it takes possessive forms, ami, amcha (Mecklenburg, Malbim); a smaller body, one kingdom and one religion, even one city (the Rokeach)
   - he: לאום
     tr: leom
     en: nation by religion, kingdom
@@ -49,8 +49,8 @@ too.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| גוי | goy | nation | no single king; united by land, language, descent, or convenience (Ibn Shuaib, Heidenheim, Malbim); associated with sheer numbers (Malbim) |
-| עם | am | people, nation | united under one king or under Hashem (Heidenheim, Malbim); like-minded and acting alike (Wertheimer); takes the possessive (Mecklenburg) |
+| גוי | goy | nation | no single king; united by land, language, descent, or convenience (Ibn Shuaib, Heidenheim, Malbim); associated with sheer numbers (Malbim); a multitude of one language (the Rokeach) |
+| עם | am | people, nation | united under one king or under Hashem (Heidenheim, Malbim); like-minded and acting alike (Wertheimer); takes the possessive (Mecklenburg); a smaller body, one kingdom and one religion, even one city (the Rokeach) |
 | לאום | leom | nation, kingdom | joined by common religion, may span kingdoms (Malbim); a clan within a nation (Edel) |
 | אומה | umah | nation | a nation that is under one king, against goy which is not (Ibn Shuaib) |
 

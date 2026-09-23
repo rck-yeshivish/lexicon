@@ -10,7 +10,7 @@ words:
     tr: mitah
     en: death
     nk: מִיתָה
-    distinct: the physical end, the parting of body and soul, said of anyone and of animals; names the conclusion of life and says nothing of what follows, so even the wicked have a mitah; death in general (Rabbi Avraham Chaim Schor)
+    distinct: the physical end, the parting of body and soul, said of anyone and of animals; names the conclusion of life and says nothing of what follows, so even the wicked have a mitah; death in general (Rabbi Avraham Chaim Schor); the general word, where geviah is the body's death and asifah the soul's (Shadal)
   - he: פטירה
     tr: petirah
     en: passing
@@ -36,7 +36,7 @@ continuation. *Nifter* is "passed away" or "departed."
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| מיתה | mitah | death | the physical end, of anyone or any animal; says nothing of what follows |
+| מיתה | mitah | death | the physical end, of anyone or any animal; says nothing of what follows; the general word, where *geviah* is the body's death and *asifah* the soul's (Shadal) |
 | פטירה | petirah | passing | exiting to the Next World; for the righteous (Rabbi Klein); freed from suffering (Schor) |
 
 ## Distinctions

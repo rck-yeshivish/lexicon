@@ -9,7 +9,7 @@ words:
   - he: פרעה
     tr: Paroh
     en: Pharaoh
-    distinct: a title, not a personal name, held by every king of Egypt (Rashi) or by most (Radak); the king acting from personal interest or stubbornness (Rav Chaim Kanievsky); the flesh-and-blood king (Zohar)
+    distinct: a title, not a personal name, held by every king of Egypt (Rashi) or by most (Radak); the king acting from personal interest or stubbornness (Rav Chaim Kanievsky); the flesh-and-blood king (Zohar); phi and uro, the king, or tied to Re (Shadal); also a god's name, Phre (Benamozegh)
   - he: מלך מצרים
     tr: Melech Mitzrayim
     en: King of Egypt
@@ -37,7 +37,7 @@ six places it writes both (*Paroh Melech Mitzrayim*).
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| פרעה | Paroh | Pharaoh | a title, not a name (Rashi); the king acting for himself (Rav Chaim Kanievsky) |
+| פרעה | Paroh | Pharaoh | a title, not a name (Rashi); the king acting for himself (Rav Chaim Kanievsky); *phi* and *uro*, the king, or tied to Re (Shadal); also a god's name, Phre (Benamozegh) |
 | מלך מצרים | Melech Mitzrayim | King of Egypt | the king for the nation (Rav Chaim Kanievsky); Egypt's heavenly minister (Zohar) |
 | פרעה מלך מצרים | Paroh Melech Mitzrayim | Pharaoh, King of Egypt | personal and national interest both at work (Rav Chaim Kanievsky); six times |
 

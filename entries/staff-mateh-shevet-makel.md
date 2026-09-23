@@ -10,7 +10,7 @@ words:
     tr: mateh
     en: staff, tribe
     nk: מַטֶּה
-    distinct: the stick of a dignitary or one in authority (Malbim, Wertheimer), so only Moshe's is a mateh; dry wood (Rabbi Yehuda ibn Kuraish); neutral in connotation (Rabbi Yaakov Lorberbaum of Lissa); as tribe, its members rather than its leader (Mecklenburg, citing Shadal); the same as shevet (Rabbi Shlomo of Urbino, Ohel Moed)
+    distinct: the stick of a dignitary or one in authority (Malbim, Wertheimer), so only Moshe's is a mateh; dry wood (Rabbi Yehuda ibn Kuraish); neutral in connotation (Rabbi Yaakov Lorberbaum of Lissa); as tribe, its members rather than its leader (Mecklenburg, citing Shadal); the same as shevet (Rabbi Shlomo of Urbino, Ohel Moed); as tribe, a downward incline for Hashem's flow (Kedushas Levi)
   - he: שבט
     tr: shevet
     en: rod, tribe
@@ -64,7 +64,7 @@ Moed* writes twice that *shevet* is *mateh*.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| מטה | mateh | staff, tribe | a staff of office (Malbim, Wertheimer); neutral; the tribe's members (Mecklenburg); the same as *shevet* (Ohel Moed) |
+| מטה | mateh | staff, tribe | a staff of office (Malbim, Wertheimer); neutral; the tribe's members (Mecklenburg); the same as *shevet* (Ohel Moed); as tribe, a downward incline for Hashem's flow (Kedushas Levi) |
 | שבט | shevet | rod, tribe | a rod struck with a wind-up (Vilna Gaon); authority (Rashi); a branch (Malbim); the same as *mateh* (Ohel Moed) |
 | משענת | mishenes | cane | a cane to lean on; positive, supporting the elderly (Lorberbaum) |
 | מקל | makel | rod for striking | the shepherd's striking rod; negative, tied to punishment (Lorberbaum) |

@@ -18,7 +18,7 @@ words:
   - he: קהלת
     tr: Koheles
     en: Koheles
-    distinct: from hakhel and kahal, because his teachings were said in gatherings, "then Shlomo gathered" (Melachim I 8:1), or because he gathered up many kinds of wisdom (Rashi to Koheles 1:1)
+    distinct: from hakhel and kahal, because his teachings were said in gatherings, "then Shlomo gathered" (Melachim I 8:1), or because he gathered up many kinds of wisdom (Rashi to Koheles 1:1); a common noun, given hakoheles (Ibn Ezra)
   - he: אגור
     tr: Agur
     en: Agur
@@ -69,7 +69,7 @@ justification for exceeding the Torah's limits on a king.
 |---|---|---|---|
 | שלמה | Shlomo | Shlomo | *shalem*, he completed the Mikdash; or *shalom* (Targum Sheini) |
 | ידידיה | Yedidyah | friend of Hashem | given by Nosson HaNavi (Shmuel II 12:24-25); Menachos 53 |
-| קהלת | Koheles | Koheles | gathered people (Melachim I 8:1), or gathered wisdom (Rashi) |
+| קהלת | Koheles | Koheles | gathered people (Melachim I 8:1), or gathered wisdom (Rashi); a common noun, given *hakoheles* (Ibn Ezra) |
 | אגור | Agur | Agur | *agar*, amassed wisdom; Mishlei 30:1 |
 | יקה | Yakeh | Yakeh | *heikiah*, spat out: lost wisdom, or rejected falsehood (Ralbag) |
 | איתיאל | Isiel | Isiel | *iti El*, "with me is the power"; Mishlei 30:1 |

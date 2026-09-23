@@ -10,7 +10,7 @@ words:
     tr: gever
     en: rooster
     nk: גֶּבֶר
-    distinct: usually "man" or "male," and seemingly a cognate of gevurah, strength; called a rooster because its voice stands out among birds as a man's does among women's (Rabbeinu Efrayim)
+    distinct: usually "man" or "male," and seemingly a cognate of gevurah, strength; called a rooster because its voice stands out among birds as a man's does among women's (Rabbeinu Efrayim); hence the rooster for kaparos, standing in for a man (Abudarham)
   - he: שכוי
     tr: sechvi
     en: rooster / heart
@@ -46,7 +46,7 @@ kind, which Targum renders **wild fowl**.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| גבר | gever | rooster (sometimes) | normally "man"; seemingly a cognate of *gevurah*, strength; the distinctive voice among birds (Rabbeinu Efrayim) |
+| גבר | gever | rooster (sometimes) | normally "man"; seemingly a cognate of *gevurah*, strength; the distinctive voice among birds (Rabbeinu Efrayim); hence the rooster for *kaparos*, standing in for a man (Abudarham) |
 | שכוי | sechvi | rooster / heart | a hapax; rooster for Chazal; heart, or at least also heart, for most mefarshim; skull for Pappenheim |
 | זיז שדי | ziz sadai | wild fowl | Tehillim 50:11, 80:14; *tarnegol bara* in Targum |
 | תרנגול | tarnegol | rooster | post-Biblical, the Mishnaic standard; contains the letters of Nergal (Rabbi Meir HaLevi Abulafia) |

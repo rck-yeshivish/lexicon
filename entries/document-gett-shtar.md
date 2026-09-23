@@ -9,12 +9,12 @@ words:
   - he: גט
     tr: gett
     en: document, bill of divorce
-    distinct: any document, but unmodified a bill of divorce (Rashi, Rambam); the broader word, every shtar a gett but not every gett a shtar (Rabbi Yisrael Yaakov Algazi); scholarly consensus makes it a loanword from Akkadian gittu
+    distinct: any document, but unmodified a bill of divorce (Rashi, Rambam); the broader word, every shtar a gett but not every gett a shtar (Rabbi Yisrael Yaakov Algazi); scholarly consensus makes it a loanword from Akkadian gittu; called sefer in Tanach (Devarim 24:1)
   - he: שטר
     tr: shtar
     en: document
     nk: שְׁטָר
-    distinct: a document, often specified by its type, written to last as evidence, unlike an iggeret (Ritva); whether kin to shoter, the officer, is disputed, separate senses (Rabbi Eliyahu HaBachur) against one root (Rav Hirsch)
+    distinct: a document, often specified by its type, written to last as evidence, unlike an iggeret (Ritva); whether kin to shoter, the officer, is disputed, separate senses (Rabbi Eliyahu HaBachur) against one root (Rav Hirsch); called sefer in Tanach (Yirmiyahu 32:11)
   - he: ספר כריתות
     tr: sefer kerisus
     en: scroll of cutting
@@ -47,8 +47,8 @@ a deed of sale is *sefer hamiknah* (Yirmiyahu 32).
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| גט | gett | document, bill of divorce | any document; unmodified, a bill of divorce (Rashi, Rambam); broader than *shtar* (Algazi) |
-| שטר | shtar | document | a document written to last, unlike an *iggeret* (Ritva); narrower than *gett* (Algazi) |
+| גט | gett | document, bill of divorce | any document; unmodified, a bill of divorce (Rashi, Rambam); broader than *shtar* (Algazi); called *sefer* in Tanach (Devarim 24:1) |
+| שטר | shtar | document | a document written to last, unlike an *iggeret* (Ritva); narrower than *gett* (Algazi); called *sefer* in Tanach (Yirmiyahu 32:11) |
 | ספר כריתות | sefer kerisus | scroll of cutting | the biblical bill of divorce; *gett* may mirror its cutting (Levush) |
 | ספר המקנה | sefer hamiknah | scroll of acquisition | the biblical deed of sale (Yirmiyahu 32) |
 

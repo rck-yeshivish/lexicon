@@ -17,7 +17,7 @@ words:
   - he: הצלה
     tr: hatzalah
     en: rescue
-    distinct: being pulled out of danger, separated from what endangers one (Rav Hirsch, Pappenheim); a partial or temporary respite (Peirush HaRokeach), or the saving plus protection from future troubles (Malbim); from any threat (Heilpern)
+    distinct: being pulled out of danger, separated from what endangers one (Rav Hirsch, Pappenheim); a partial or temporary respite (Peirush HaRokeach), or the saving plus protection from future troubles (Malbim); from any threat (Heilpern); separating from harm, as every hatzalah in Mikra (Rashi)
   - he: פורקן
     tr: purkan
     en: redemption
@@ -49,7 +49,7 @@ of the saving. *Purkan*
 |---|---|---|---|
 | ישועה | yeshuah | salvation | salvation answering a cry; rescue of one's very existence (Rav Hirsch); total release (Rokeach) |
 | תשועה | teshuah | salvation | answers a cry; saves property and freedom, often military victory (Rav Hirsch) |
-| הצלה | hatzalah | rescue | pulled out of danger; partial (Rokeach), or saving plus future protection (Malbim) |
+| הצלה | hatzalah | rescue | pulled out of danger; partial (Rokeach), or saving plus future protection (Malbim); separating from harm, as every *hatzalah* in Mikra (Rashi) |
 | פורקן | purkan | redemption | Aramaic for *pidyon*, bought back; deliverance from financial ruin (Landau of Dubno) |
 
 ## Distinctions

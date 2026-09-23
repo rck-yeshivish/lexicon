@@ -9,11 +9,11 @@ words:
   - he: חכמה
     tr: chochmah
     en: wisdom
-    distinct: what one hears and learns from others (Rashi, Radak); mastery of any body of knowledge, in Tanach above all the sage's Torah (Bedersi); the unhurried learner who waits (Pappenheim); practical wisdom, truly only by revelation (Malbim); the lowest of the three
+    distinct: what one hears and learns from others (Rashi, Radak, Chasam Sofer); mastery of any body of knowledge, in Tanach above all the sage's Torah (Bedersi); the unhurried learner who waits (Pappenheim); practical wisdom, truly only by revelation (Malbim); the lowest of the three
   - he: בינה
     tr: binah
     en: understanding
-    distinct: understanding one matter from within another; telling one datum from another, from bein (Bedersi); building on an idea, from ב-ן (Pappenheim); the abstract counterpart of chochmah (Malbim); the big picture against tevunah's parts (Pappenheim); the Oral Torah (the Vilna Gaon)
+    distinct: understanding one matter from within another; telling one datum from another, from bein (Bedersi); building on an idea, from ב-ן (Pappenheim); the abstract counterpart of chochmah (Malbim); the big picture against tevunah's parts (Pappenheim); the Oral Torah (the Vilna Gaon); weighing what one has learned against what one knows (Chasam Sofer)
   - he: תבונה
     tr: tevunah
     en: understanding
@@ -21,7 +21,7 @@ words:
   - he: דעת
     tr: daat
     en: knowledge
-    distinct: grasping the reason behind a lesson (Rashi, Bartenura); ruach hakodesh or reconciliation (Rashi), united as connection (Rabbi Burnstein); intellect joined to emotion (Rabbi Friedlander); new ideas thought independently (Rabbeinu Yonah); certainty (Malbim); the synthesis (Ramchal); above binah (some sources, see Maharsha) or below it (Maharal)
+    distinct: grasping the reason behind a lesson (Rashi, Bartenura); ruach hakodesh or reconciliation (Rashi), united as connection (Rabbi Burnstein); intellect joined to emotion (Rabbi Friedlander); new ideas thought independently (Rabbeinu Yonah); certainty (Malbim); the synthesis (Ramchal); above binah (some sources, see Maharsha) or below it (Maharal); the power to set it before others and teach them (Chasam Sofer)
 sources:
   - wiaw:8959 "To Be a Wise Guy (Part 1 of 2)" (2020-12-12) https://articles.ohr.edu/articles/to-be-a-wise-guy-part-1-of-2
   - wiaw:8969 "Miketz: To Be a Wise Guy (Part 2 of 2)" (2020-12-19) https://articles.ohr.edu/articles/miketz-to-be-a-wise-guy-part-2-of-2
@@ -56,9 +56,9 @@ ranks higher is disputed (the Maharal against some sources, see Maharsha).
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | חכמה | chochmah | wisdom | learned from others (Rashi); practical wisdom (Malbim); lowest of the three |
-| בינה | binah | understanding | derives one matter from another; builds on what one holds (Pappenheim) |
+| בינה | binah | understanding | derives one matter from another; builds on what one holds (Pappenheim); weighing what one has learned against what one knows (Chasam Sofer) |
 | תבונה | tevunah | understanding | almost *binah*; the parts (Pappenheim) or what one can explain (Vilna Gaon) |
-| דעת | daat | knowledge | connection (Burnstein); certainty (Malbim); the synthesis of the other two (Ramchal) |
+| דעת | daat | knowledge | connection (Burnstein); certainty (Malbim); the synthesis of the other two (Ramchal); the power to set it before others and teach them (Chasam Sofer) |
 
 ## Distinctions
 

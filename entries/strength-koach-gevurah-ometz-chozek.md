@@ -13,7 +13,7 @@ words:
   - he: גבורה
     tr: gevurah
     en: might, heroism
-    distinct: the act that actualizes potential koach, an outward show of strength (Pappenheim); koach used proactively to defeat opposition (Rabbi Mecklenburg); heroism given to man alone to transcend the survival instinct (Rabbi Soloveitchik); physical strength (Shapira-Frankfurter); power within nature, against oz (Wessely)
+    distinct: the act that actualizes potential koach, an outward show of strength (Pappenheim); koach used proactively to defeat opposition (Rabbi Mecklenburg); heroism given to man alone to transcend the survival instinct (Rabbi Soloveitchik); physical strength (Shapira-Frankfurter); power within nature, against oz (Wessely); from gavah, the higher overpowering (Shadal)
   - he: חזק
     tr: chozek
     en: strong
@@ -35,7 +35,7 @@ words:
   - he: איתן
     tr: eitan
     en: steadfast
-    distinct: strength that holds back, as a river bank holds the waters (Rabbi Edel); something strong and durable that has lasted, like bedrock (Rav Hirsch); inherent, qualitative strength compressed from connected parts, or a Divine gift of strength (Pappenheim)
+    distinct: strength that holds back, as a river bank holds the waters (Rabbi Edel); something strong and durable that has lasted, like bedrock (Rav Hirsch); inherent, qualitative strength compressed from connected parts, or a Divine gift of strength (Pappenheim); ever giving without tiring, from tan (Shadal)
   - he: כביר
     tr: kabir
     en: mighty in number
@@ -43,7 +43,7 @@ words:
   - he: אדיר
     tr: adir
     en: mighty
-    distinct: the most powerful of a whole group, where chazak is only stronger than another, from ד-ר, unconstrained motion (Pappenheim); related to hadar, glory, since Hashem's strength brings Him glory (Rabbi Edel)
+    distinct: the most powerful of a whole group, where chazak is only stronger than another, from ד-ר, unconstrained motion (Pappenheim); related to hadar, glory, since Hashem's strength brings Him glory (Rabbi Edel); the Aramaic form of ezor, all-encompassing (Shadal)
   - he: תקיף
     tr: takif
     en: overpowering
@@ -85,14 +85,14 @@ Pappenheim).
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | כח | koach | strength | most general, the ability to do or withstand (Pappenheim); physical, shared with beasts (Soloveitchik) |
-| גבורה | gevurah | might, heroism | potential *koach* actualized (Pappenheim); heroism beyond the survival instinct, man's alone (Soloveitchik) |
+| גבורה | gevurah | might, heroism | potential *koach* actualized (Pappenheim); heroism beyond the survival instinct, man's alone (Soloveitchik); from *gavah*, the higher overpowering (Shadal) |
 | חזק | chozek | strong | the standard word (Bedersi, Wertheimer); outer, physical strength (Vilna Gaon); courage to enter (Shapira-Frankfurter) |
 | אמץ | ometz | fortitude, resolve | above-normal strength (Bedersi, Wertheimer); strength of heart (Vilna Gaon); resolve to stay in the fight (Shapira-Frankfurter) |
 | עז | oz | might | strength of spirit that shows in the face (Wertheimer); Divine, supernatural power (Wessely) |
 | עצם | otzem | vastness, innate strength | strength through numbers (Edel); pent-up potential strength (Rabbi Moshe Shapiro) |
-| איתן | eitan | steadfast | strength that holds back, like a river bank (Edel); durable, like bedrock (Rav Hirsch) |
+| איתן | eitan | steadfast | strength that holds back, like a river bank (Edel); durable, like bedrock (Rav Hirsch); ever giving without tiring, from *tan* (Shadal) |
 | כביר | kabir | mighty in number | strength of many equal units banded together (Pappenheim) |
-| אדיר | adir | mighty | the most powerful of a whole group (Pappenheim); tied to *hadar*, glory (Edel) |
+| אדיר | adir | mighty | the most powerful of a whole group (Pappenheim); tied to *hadar*, glory (Edel); the Aramaic form of *ezor*, all-encompassing (Shadal) |
 | תקיף | takif | overpowering | strength that surrounds and overpowers (Pappenheim); the Targum's Aramaic for *chozek* and *oz* |
 
 ## Distinctions

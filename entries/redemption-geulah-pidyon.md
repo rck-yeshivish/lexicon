@@ -9,11 +9,11 @@ words:
   - he: פדיון
     tr: pidyon
     en: ransom, buying back
-    distinct: redemption by exchange, a swap (Vilna Gaon); a change in the object's own status (Rabbi Chaim of Brisk); negative, the bare fact of rescue (Chatam Sofer, Malbim); temporary relief (Rabbi Menachem Mendel of Kosov); releasing hekdesh, or the individual (Stern)
+    distinct: redemption by exchange, a swap (Vilna Gaon); a change in the object's own status (Rabbi Chaim of Brisk); negative, the bare fact of rescue (Chatam Sofer, Malbim); temporary relief (Rabbi Menachem Mendel of Kosov); releasing hekdesh, or the individual (Stern); the act that brings the release (Pappenheim)
   - he: גאולה
     tr: geulah
     en: redemption, deliverance
-    distinct: by sheer force, with no payment (Vilna Gaon); a change of ownership (Rabbi Chaim of Brisk); positive, raised above one's circumstances (Chatam Sofer); born of closeness, as goel hadam (Malbim); the profane brought into holiness, or the nation (Stern)
+    distinct: by sheer force, with no payment (Vilna Gaon); a change of ownership (Rabbi Chaim of Brisk); positive, raised above one's circumstances (Chatam Sofer); born of closeness, as goel hadam (Malbim); the profane brought into holiness, or the nation (Stern); the release itself, the aim of the act (Pappenheim)
 sources:
   - wiaw:7742 "Words of Redemption" (2018-05-05) https://articles.ohr.edu/articles/words-of-redemption
   - ms:214-words-of-redemption.md "Words of Redemption"
@@ -37,8 +37,8 @@ and Rabbi Shmuel Tuvia Stern cut the difference on other axes.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| פדיון | pidyon | ransom, buying back | redemption by exchange (Vilna Gaon); bare rescue from calamity (Chatam Sofer) |
-| גאולה | geulah | redemption, deliverance | by force, no payment (Vilna Gaon); raised up as well as rescued (Chatam Sofer) |
+| פדיון | pidyon | ransom, buying back | redemption by exchange (Vilna Gaon); bare rescue from calamity (Chatam Sofer); the act that brings the release (Pappenheim) |
+| גאולה | geulah | redemption, deliverance | by force, no payment (Vilna Gaon); raised up as well as rescued (Chatam Sofer); the release itself, the aim of the act (Pappenheim) |
 
 ## Distinctions
 

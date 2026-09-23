@@ -23,7 +23,7 @@ words:
   - he: פת
     tr: pat
     en: morsel, piece of bread
-    distinct: a broken piece, a morsel (Radak), eleven of its fourteen appearances the phrase pas lechem; in Mishnah and Gemara simply another synonym for bread, Targum even rendering kikar as pas
+    distinct: a broken piece, a morsel (Radak), eleven of its fourteen appearances the phrase pas lechem; in Mishnah and Gemara simply another synonym for bread, Targum even rendering kikar as pas; from pasos, broken (Shadal); a piece broken from a whole loaf (Pappenheim)
   - he: ריפתא
     tr: rifta
     en: bread
@@ -61,7 +61,7 @@ bread in Rabbinic usage. *Rifta* and *nahamah* are the Aramaic words for bread.
 | לחם | lechem | bread | the wide word; the staple food of a society (Matalon) |
 | ככר | kikar | loaf | a circle, so a round loaf; in Tanach usually a talent or a valley |
 | חלה | challah | meal-cake | in Tanach a korban meal-cake; in the Mishnah the tithe from dough |
-| פת | pat | morsel, piece of bread | a broken piece (Radak); in Rabbinic usage plain bread |
+| פת | pat | morsel, piece of bread | a broken piece (Radak); in Rabbinic usage plain bread; from *pasos*, broken (Shadal); a piece broken from a whole loaf (Pappenheim) |
 | ריפתא | rifta | bread | Aramaic bread; perhaps a flat loaf, or a meal of two loaves (Aruch) |
 | נהמא | nahamah | bread | Aramaic bread, in the Gemara and the Zohar; perhaps from Persian *nan* |
 

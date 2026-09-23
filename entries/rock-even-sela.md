@@ -15,7 +15,7 @@ words:
     tr: leveinah
     en: brick
     nk: לְבֵנָה
-    distinct: the brick a man makes by mixing mortar, set against even, the stone formed by nature (Malbim)
+    distinct: the brick a man makes by mixing mortar, set against even, the stone formed by nature (Malbim); from even, built with in place of stones (Shadal)
   - he: סלע
     tr: sela
     en: crag
@@ -48,7 +48,7 @@ The Mishnah at *Zevachim* 13:3 sets *even* and *sela* side by side.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | אבן | even | stone | general, natural stone (Malbim); hypernym including *sela* (Pappenheim); loose enough to pick up (Ricci) |
-| לבנה | leveinah | brick | man-made brick, against natural *even* (Malbim) |
+| לבנה | leveinah | brick | man-made brick, against natural *even* (Malbim); from *even*, built with in place of stones (Shadal) |
 | סלע | sela | crag | hard crag fixed in the ground (Ricci); set apart by hardness (Pappenheim); later a coin |
 
 ## Distinctions

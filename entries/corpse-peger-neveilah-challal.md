@@ -17,7 +17,7 @@ words:
   - he: חלל
     tr: challal
     en: the slain, hollow
-    distinct: literally empty or hollow, a body emptied of its soul like an emptied vessel; the root of chalil, chullin and a kohen's disqualified chalal
+    distinct: literally empty or hollow, a body emptied of its soul like an emptied vessel; the root of chalil, chullin and a kohen's disqualified chalal; one killed by another man, where a meis died naturally (Rabbeinu Hillel)
 sources:
   - wiaw:7788 "Of Corpses and Carcasses" (2018-06-09) https://articles.ohr.edu/articles/of-corpses-and-carcasses
   - ms:244-of-corpses-and-carcasses.md "Of Corpses and Carcasses"
@@ -42,7 +42,7 @@ is a technical term.
 |---|---|---|---|
 | פגר | peger | corpse | a human body, the rotting body of a rasha (Eliyahu HaBachur) |
 | נבלה | neveilah | carcass | unslaughtered animal; human remains only if killed by outside force (Eliyahu HaBachur) |
-| חלל | challal | the slain, hollow | literally empty: a body emptied of its soul |
+| חלל | challal | the slain, hollow | literally empty: a body emptied of its soul; one killed by another man, where a *meis* died naturally (Rabbeinu Hillel) |
 
 ## Distinctions
 

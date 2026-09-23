@@ -9,7 +9,7 @@ words:
   - he: צבע
     tr: tzeva
     en: color, dye, colorant
-    distinct: the color a thing is given, from tzovea, dyeing; an artificial color imposed by painting or dyeing, as against a thing's natural color (Shadal)
+    distinct: the color a thing is given, from tzovea, dyeing; an artificial color imposed by painting or dyeing, as against a thing's natural color (Shadal); at Shoftim 5:30 perhaps a many-coloured garment (Scholem)
   - he: גוון
     tr: gavan
     en: color, shade
@@ -49,7 +49,7 @@ an Aramaic borrowing of an Indo-European word.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| צבע | tzeva | color, dye, colorant | from *tzovea*, dyeing; artificial color imposed on a thing (Shadal); concrete colorant rather than abstract color (Rabbi Meir Hellman) |
+| צבע | tzeva | color, dye, colorant | from *tzovea*, dyeing; artificial color imposed on a thing (Shadal); concrete colorant rather than abstract color (Rabbi Meir Hellman); at Shoftim 5:30 perhaps a many-coloured garment (Scholem) |
 | גוון | gavan | color, shade | Aramaic only, common in Bavli and Targum, absent from Tanach and seemingly from the Mishnah, bar one possible case |
 | עין | ein | color | construct of *ayin*, eye: the specific color, since the eye discriminates colors (Raavad I) |
 | מראה | mareh | appearance, sight | from ר-א-ה: the whole picture, which could include color, not color alone (Malbim to Vayikra 13:5) |

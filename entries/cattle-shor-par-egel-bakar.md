@@ -26,7 +26,7 @@ words:
     tr: shor
     en: ox
     nk: שׁוֹר
-    distinct: called so from the day it is born (Rashi); from shar, the umbilical cord, the ox's strength being in its belly (Rabbi Shlomo Pappenheim); commonly assumed castrated, which cannot be, castration being forbidden (Rabbi Yonah Merzbach)
+    distinct: called so from the day it is born (Rashi); from shar, the umbilical cord, the ox's strength being in its belly (Rabbi Shlomo Pappenheim); commonly assumed castrated, which cannot be, castration being forbidden (Rabbi Yonah Merzbach); related to shavar (HaKsav VeHaKabbalah)
   - he: אלף
     tr: aleph
     en: ox
@@ -65,7 +65,7 @@ a synonym for *par* at any age.
 | עגלה | eglah | female calf | the female calf, until one year (Rabbi Eliezer) or two (Chachamim) |
 | פר | par | bull | the fertile male (Pappenheim); a name taken on only once grown (Rashi) |
 | פרה | parah | cow, heifer | the grown female, kept for calving and milk (Pappenheim) |
-| שור | shor | ox | an ox from the day it is born (Rashi); not necessarily castrated (Merzbach) |
+| שור | shor | ox | an ox from the day it is born (Rashi); not necessarily castrated (Merzbach); related to *shavar* (HaKsav VeHaKabbalah) |
 | אלף | aleph | ox | the poetic word; the strongest ox (Pappenheim), or a trained one (Malbim) |
 | בקר | bakar | cattle | the collective; herd animals that need watching (Steinberg) |
 

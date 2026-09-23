@@ -17,7 +17,7 @@ words:
   - he: סייף
     tr: sayif
     en: sword
-    distinct: the common Aramaic word for a sword in the Talmud; from sof, end, since a sword ends a life (Rabbi Shlomo Pappenheim, Rabbi Avraham Vilner)
+    distinct: the common Aramaic word for a sword in the Talmud; from sof, end, since a sword ends a life (Rabbi Shlomo Pappenheim, Rabbi Avraham Vilner); the same as cherev (Tashbetz)
   - he: סכין
     tr: sakin
     en: knife
@@ -53,7 +53,7 @@ Arabic (Rashi, Rabbeinu Shimshon of Shantz) or Greek (Bartenura).
 |---|---|---|---|
 | חרב | cherev | sword | related to *churban* (Rabbi Shlomo Pappenheim); for slicing, by implication (Malbim) |
 | שלח | shelach | sword, for stabbing | for stabbing (Malbim); perhaps like a dagger (Rabbi Klein) |
-| סייף | sayif | sword | Aramaic; from *sof*, end (Rabbi Shlomo Pappenheim, Rabbi Avraham Vilner) |
+| סייף | sayif | sword | Aramaic; from *sof*, end (Rabbi Shlomo Pappenheim, Rabbi Avraham Vilner); the same as *cherev* (Tashbetz) |
 | סכין | sakin | knife | related to *sikim*, thorns (Rabbi Shlomo Pappenheim) |
 | מאכלת | maacheles | knife | from eating (Rashi) |
 | חלף | chalaf | slaughtering knife | Arabic (Rashi, Rabbeinu Shimshon of Shantz); Greek (Bartenura) |

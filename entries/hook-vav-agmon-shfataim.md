@@ -13,7 +13,7 @@ words:
   - he: אנקליות
     tr: ankliyot
     en: hook
-    distinct: the Mishnaic word, especially the barbed part of a hook; apparently a Greek loanword from a root meaning to bend, kin to anchor and angle; Targum's word for shfataim and, at Iyov 40:26, agmon
+    distinct: the Mishnaic word, especially the barbed part of a hook; apparently a Greek loanword from a root meaning to bend, kin to anchor and angle; Targum's word for shfataim and, at Iyov 40:26, agmon; from ע-ק-ל with a nun added (Hoil Moshe)
   - he: אגמון
     tr: agmon
     en: hooked reed
@@ -48,7 +48,7 @@ and, at least at Iyov 40:26, for *agmon*.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | וו | vav | hook | only the Mishkan's pillar fittings; named for the hook-shaped letter (Marcus) |
-| אנקליות | ankliyot | hook | the Mishnaic word, especially the barb; a Greek loanword, kin to anchor |
+| אנקליות | ankliyot | hook | the Mishnaic word, especially the barb; a Greek loanword, kin to anchor; from ע-ק-ל with a nun added (Hoil Moshe) |
 | אגמון | agmon | hooked reed | hook-topped marsh reed, used as a fishhook, then anything bent (Pappenheim) |
 | שפתים | shfataim | hooks, setting for pots | disputed: hooks (Targum), a pot-setting (Radak, Abarbanel), or a ledge (Rabbi Eliezer of Beaugency) |
 

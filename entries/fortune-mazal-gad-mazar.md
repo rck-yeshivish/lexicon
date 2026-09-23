@@ -14,7 +14,7 @@ words:
     tr: gad
     en: fortune
     nk: גַּד
-    distinct: twice in Tanach (Bereishis 30:11; Yeshayahu 65:11); the spiritual force attached to a particular thing or person, from the biliteral ג-ד, "attaching" (Rabbi Shlomo Pappenheim)
+    distinct: twice in Tanach (Bereishis 30:11; Yeshayahu 65:11); the spiritual force attached to a particular thing or person, from the biliteral ג-ד, "attaching" (Rabbi Shlomo Pappenheim); a grouping of stars acting on the world (Benamozegh)
   - he: מזר
     tr: mazar
     en: constellation
@@ -43,7 +43,7 @@ of good, not to blind chance.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | מזל | mazal | constellation, destiny | usually understood as the zodiac (Melachim II 23:5); from "flowing" (Ibn Janach, Radak) |
-| גד | gad | fortune | the force attached to a given thing (Rabbi Shlomo Pappenheim) |
+| גד | gad | fortune | the force attached to a given thing (Rabbi Shlomo Pappenheim); a grouping of stars acting on the world (Benamozegh) |
 | מזר | mazar | constellation | hapax at Iyov 38:32; = mazal (most commentators, Rashi among them) or a specific star (Ibn Ezra) |
 
 ## Where the authorities disagree

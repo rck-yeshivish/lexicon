@@ -17,7 +17,7 @@ words:
   - he: עשתי
     tr: ashtei
     en: (the element in ashtei asar)
-    distinct: from al plus shteim-asar, "upon twelve" (Ibn Janach); or kin to ashtonot, "plans," which are born of thought as eleven is born out of ten (Ibn Ezra); or from eshet, a swollen body, a bloated ten (Rabbi Meir Mintzberg); or unknown (Radak)
+    distinct: from al plus shteim-asar, "upon twelve" (Ibn Janach); or kin to ashtonot, "plans," which are born of thought as eleven is born out of ten (Ibn Ezra); or from eshet, a swollen body, a bloated ten (Rabbi Meir Mintzberg); or unknown (Radak); from eshes, compounded of units and tens (Pappenheim); one, in the tongue of Shinar (Rabbi Aharon Marcus)
 sources:
   - wiaw:7864 "The Number Eleven" (2018-07-21) https://articles.ohr.edu/articles/the-number-eleven
   - ms:294-the-number-eleven.md "The Number Eleven"
@@ -44,7 +44,7 @@ takes the definite article, while every other number does.
 |---|---|---|---|
 | אחד עשר | achad asar | eleven | an independent number; takes *ha-* (Rabbi Meir Mintzberg) |
 | עשתי עשר | ashtei asar | eleventh | eleven as a swelling of ten; never takes *ha-* (Rabbi Meir Mintzberg) |
-| עשתי | ashtei | the disputed element | "upon twelve" (Ibn Janach), "born of ten" (Ibn Ezra), "bloated" (Mintzberg), or unknown (Radak) |
+| עשתי | ashtei | the disputed element | "upon twelve" (Ibn Janach), "born of ten" (Ibn Ezra), "bloated" (Mintzberg), or unknown (Radak); from *eshes*, compounded of units and tens (Pappenheim); one, in the tongue of Shinar (Rabbi Aharon Marcus) |
 
 Counting the feminine forms there are four words: *achad asar* and *achat
 esreh*, *ashtei asar* and *ashtei esreh*. *Ashtei asar* and *ashtei esreh*

@@ -21,12 +21,12 @@ words:
   - he: קשיש
     tr: kashish
     en: aged
-    distinct: the Aramaic equivalent, the Targum's rendering of yashish and one of its two for zaken, with the same sense as yashish (Rabbeinu Chananel, Rabbi Nosson of Rome); tied to yashish only by an unlikely gematria interchange (Rabbi Mordechai Tzvi Herzka)
+    distinct: the Aramaic equivalent, the Targum's rendering of yashish and one of its two for zaken, with the same sense as yashish (Rabbeinu Chananel, Rabbi Nosson of Rome); tied to yashish only by an unlikely gematria interchange (Rabbi Mordechai Tzvi Herzka); from kasheh, hard (Rabbi Yehoshua Steinberg)
   - he: ישן
     tr: yashan
     en: aged, last year's
     nk: יָשָׁן
-    distinct: old of plants and produce, not of people, set against zaken, which is for people and animals (Rabbi Yehuda Leib Shapira-Frankfurter)
+    distinct: old of plants and produce, not of people, set against zaken, which is for people and animals (Rabbi Yehuda Leib Shapira-Frankfurter); so too Chiddushei HaRa'ah and HaKsav VeHaKabbalah
   - he: עתיק
     tr: atik
     en: ancient
@@ -62,8 +62,8 @@ Rabbi Reuven Chaim Klein judges more plausible (that of Rabbi Ernest Klein), mea
 | זקן | zaken | elder | sixty, before *seivah* (Bedersi); people and animals, not plants (Shapira-Frankfurter); anyone of standing, whatever his age (Shadal) |
 | שיבה | seivah | old age | seventy, after *zaken* (Bedersi); *seva yamim*, satisfied with days (Reines) |
 | ישיש | yashish | the aged | beyond *seivah*, from *yesh* (Radak); perhaps ninety (Bedersi) |
-| קשיש | kashish | aged | Aramaic for *yashish*, the Targum's standing rendering; also renders *zaken* |
-| ישן | yashan | aged, last year's | old of plants and produce, never of people (Shapira-Frankfurter) |
+| קשיש | kashish | aged | Aramaic for *yashish*, the Targum's standing rendering; also renders *zaken*; from *kasheh*, hard (Rabbi Yehoshua Steinberg) |
+| ישן | yashan | aged, last year's | old of plants and produce, never of people (Shapira-Frankfurter); so too Chiddushei HaRa'ah and HaKsav VeHaKabbalah |
 | עתיק | atik | ancient | remote in time, from a root of moving in space; *Atik Yomin* |
 | ותיק | vatik | veteran, senior | veteran, from Arabic *wathuqa*, firm (Rabbi Ernest Klein); dependability, not age |
 

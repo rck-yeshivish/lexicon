@@ -12,11 +12,11 @@ words:
     tr: tefillah
     en: prayer
     nk: תְּפִילָּה
-    distinct: prayer proper; its praising side, or fixed formal prayer with set formulae and halachos, against ad hoc bakashah (Rabbi Simcha Maimon); pressing a claim of injustice, from pelilah (Mecklenburg), or a thoughtful plea (Maharal)
+    distinct: prayer proper; its praising side, or fixed formal prayer with set formulae and halachos, against ad hoc bakashah (Rabbi Simcha Maimon); pressing a claim of injustice, from pelilah (Mecklenburg), or a thoughtful plea (Maharal); prayer of praise (Rashi to Berachos 31a)
   - he: בקשה
     tr: bakashah
     en: request
-    distinct: the unscripted request for one's needs in one's own words; Yaakov's bow, powerful through the urgency behind it rather than its words (Rabbi Simcha Maimon), reaching Heaven from afar (Rabbi Shmuel Laniado)
+    distinct: the unscripted request for one's needs in one's own words; Yaakov's bow, powerful through the urgency behind it rather than its words (Rabbi Simcha Maimon), reaching Heaven from afar (Rabbi Shmuel Laniado); asking for one's needs (Rashi to Berachos 31a)
   - he: תחינה
     tr: techinah
     en: supplication
@@ -49,8 +49,8 @@ they are not the same thing.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| תפילה | tefillah | prayer | fixed, formal prayer (Rabbi Simcha Maimon); pressing a claim for justice (Mecklenburg) |
-| בקשה | bakashah | request | unscripted asking in one's own words; its power is urgency (Maimon) |
+| תפילה | tefillah | prayer | fixed, formal prayer (Rabbi Simcha Maimon); pressing a claim for justice (Mecklenburg); prayer of praise (Rashi to Berachos 31a) |
+| בקשה | bakashah | request | unscripted asking in one's own words; its power is urgency (Maimon); asking for one's needs (Rashi to Berachos 31a) |
 | תחינה | techinah | supplication | admits he has no claim and asks for favor, *chen* (Mecklenburg) |
 
 ## Distinctions

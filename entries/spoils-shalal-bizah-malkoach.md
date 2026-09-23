@@ -9,7 +9,7 @@ words:
   - he: שלל
     tr: shalal
     en: spoils
-    distinct: the general term for the defeated side's ownerless property (Malbim), anything taken in battle when it stands alone (Rav Hirsch); in a list, clothing and jewelry (Rashi) or clothing and vessels (Radak); the valuables taken first (the Vilna Gaon)
+    distinct: the general term for the defeated side's ownerless property (Malbim), anything taken in battle when it stands alone (Rav Hirsch); in a list, clothing and jewelry (Rashi) or clothing and vessels (Radak); the valuables taken first (the Vilna Gaon); also a stitch (Parah 12:9 with the Rosh); tied to nakedness (Benamozegh)
   - he: בזה
     tr: bizah
     en: plunder
@@ -21,7 +21,7 @@ words:
   - he: שבי
     tr: shevi
     en: captives
-    distinct: human prisoners (Radak); all the captured people of the defeated side (Malbim); living people or animals (the Vilna Gaon); the captive curtailed as if at rest, from ש-ב (Rabbi Shlomo Pappenheim)
+    distinct: human prisoners (Radak); all the captured people of the defeated side (Malbim); living people or animals (the Vilna Gaon); the captive curtailed as if at rest, from ש-ב (Rabbi Shlomo Pappenheim); from shav, what is not returned (Benamozegh)
   - he: עד
     tr: ad
     en: plunder, ornaments
@@ -60,10 +60,10 @@ what the Jews took from them is *bizas Mitzrayim* and *bizas hayam*, not
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| שלל | shalal | spoils | the general word (Malbim); in a list, clothing and jewelry (Rashi) |
+| שלל | shalal | spoils | the general word (Malbim); in a list, clothing and jewelry (Rashi); also a stitch (Parah 12:9 with the Rosh); tied to nakedness (Benamozegh) |
 | בזה | bizah | plunder | lesser loot taken after the valuables, akin to *bizayon* (the Gra) |
 | מלקוח | malkoach | living booty | living booty, people and animals (Rashi); animals beside *shevi* (Radak) |
-| שבי | shevi | captives | human prisoners (Radak); all the captured people (Malbim) |
+| שבי | shevi | captives | human prisoners (Radak); all the captured people (Malbim); from *shav*, what is not returned (Benamozegh) |
 | עד | ad | plunder, ornaments | disputed: plunder (Rashi), battle finery (Pappenheim), or dead animals (Malbim) |
 
 ## Distinctions

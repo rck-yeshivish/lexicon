@@ -9,11 +9,11 @@ words:
   - he: שירה
     tr: shirah
     en: song
-    distinct: verbal song, against instrumental zimrah (Ibn Ezra, Radak, Sforno, the Vilna Gaon, Rav Hirsch, Wertheimer); the general term, sacred or secular (Malbim); the lyrics without the tune (Mecklenburg); song at completion, its beginning attached to its end (Maharal)
+    distinct: verbal song, against instrumental zimrah (Ibn Ezra, Radak, Sforno, the Vilna Gaon, Rav Hirsch, Wertheimer); the general term, sacred or secular (Malbim); the lyrics without the tune (Mecklenburg); song at completion, its beginning attached to its end (Maharal); feminine, nukva, against masculine zimrah (Noam Elimelech)
   - he: זמרה
     tr: zimrah
     en: music, melody
-    distinct: instrumental music (Ibn Ezra, Radak, Sforno, Rav Hirsch); the tune, sung or played (Mecklenburg); a higher form than shirah, and possibly the religious song of Hashem's praise (Malbim); from zomer, pruning, the choicest part of a song (Pappenheim)
+    distinct: instrumental music (Ibn Ezra, Radak, Sforno, Rav Hirsch); the tune, sung or played (Mecklenburg); a higher form than shirah, and possibly the religious song of Hashem's praise (Malbim); from zomer, pruning, the choicest part of a song (Pappenheim); masculine, dechura (Noam Elimelech)
   - he: מזמור
     tr: mizmor
     en: psalm
@@ -50,8 +50,8 @@ the *shir*/*zemer* pair as one such nuance.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| שירה | shirah | song | the sung, worded song; the general term, sacred or secular (Malbim) |
-| זמרה | zimrah | music, melody | instrumental music, or the tune (Mecklenburg); higher than *shirah* (Malbim) |
+| שירה | shirah | song | the sung, worded song; the general term, sacred or secular (Malbim); feminine, *nukva*, against masculine *zimrah* (Noam Elimelech) |
+| זמרה | zimrah | music, melody | instrumental music, or the tune (Mecklenburg); higher than *shirah* (Malbim); masculine, *dechura* (Noam Elimelech) |
 | מזמור | mizmor | psalm | a psalm title; the tune against *shir*, the words (Pappenheim, Pincus) |
 
 ## Distinctions

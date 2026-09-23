@@ -9,7 +9,7 @@ words:
   - he: ארגמן
     tr: argaman
     en: red-dyed wool (conventionally "purple")
-    distinct: wool dyed a certain color rather than a color word, on which all commentators agree; Rambam (Klei HaMikdash 8:13) makes the shade red, and none of the traditional sources makes it the red-blue mixture English now calls purple
+    distinct: wool dyed a certain color rather than a color word, on which all commentators agree; Rambam (Klei HaMikdash 8:13) makes the shade red, and none of the traditional sources makes it the red-blue mixture English now calls purple; a darker red, standing for man (Rav Hirsch)
   - he: ארגון
     tr: argavan
     en: argaman (variant)
@@ -46,7 +46,7 @@ pressed into service as color words, with no standing in Tanach.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| ארגמן | argaman | red-dyed wool | dyed wool, not a color (Rambam, *Klei HaMikdash* 8:13; Bartenura to *Kilayim* 9:1); for Raavad, cloth of several colors woven together |
+| ארגמן | argaman | red-dyed wool | dyed wool, not a color (Rambam, *Klei HaMikdash* 8:13; Bartenura to *Kilayim* 9:1); for Raavad, cloth of several colors woven together; a darker red, standing for man (Rav Hirsch) |
 | ארגון | argavan | argaman | mem/vav variant (Divrei HaYamim II 2:6); Aramaic *argevana* (Daniel 5:7, Targum) |
 | סגול | segol | purple, violet | coined 1894 from *siglei*, the violet flower (Rashi to Berachos 43b, Shabbos 50b) |
 | לילך | lilach | purple, lilac | the lilac flower's name taken for the color; modern |

@@ -17,7 +17,7 @@ words:
   - he: אזרח
     tr: ezrach
     en: native, citizen
-    distinct: the native whose identity and family are out in the open, as light makes all visible, from ז-ר-ח, shining (Radak); the easterner properly oriented within civilization, hence citizen (Rabbi David Chaim Chelouche)
+    distinct: the native whose identity and family are out in the open, as light makes all visible, from ז-ר-ח, shining (Radak); the easterner properly oriented within civilization, hence citizen (Rabbi David Chaim Chelouche); the Jewish inhabitant of the land, against Reggio's native Canaanite (Benamozegh); from Eisan HaEzrachi (Zini)
   - he: זר
     tr: zar
     en: stranger
@@ -49,7 +49,7 @@ v'toshav* of Vayikra 25:35 is one person, a *ger toshav*.
 |---|---|---|---|
 | גר | ger | sojourner | temporary, cut off from his roots (Rav Hirsch); opposite of *ezrach* and *toshav* (Wertheimer) |
 | תושב | toshav | resident | settled long-term resident (Radak); owns or has rights to the land (Modiliano) |
-| אזרח | ezrach | native, citizen | native whose family is known to all, from shining (Radak); easterner, hence citizen (Chelouche) |
+| אזרח | ezrach | native, citizen | native whose family is known to all, from shining (Radak); easterner, hence citizen (Chelouche); the Jewish inhabitant of the land, against Reggio's native Canaanite (Benamozegh); from Eisan HaEzrachi (Zini) |
 | זר | zar | stranger | the plain stranger; akin to *ger* by the zayin-gimmel interchange (Rabbi Klein) |
 
 ## Distinctions

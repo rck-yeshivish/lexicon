@@ -9,7 +9,7 @@ words:
   - he: שחין
     tr: shechin
     en: boil, inflamed sore
-    distinct: the umbrella term, thirteen times in Tanach; a wound inflamed by a blow or by heat that is not fire (Mishnah Nega'im 9:1), the root meaning heat in Mishnaic Hebrew (Rashi)
+    distinct: the umbrella term, thirteen times in Tanach; a wound inflamed by a blow or by heat that is not fire (Mishnah Nega'im 9:1), the root meaning heat in Mishnaic Hebrew (Rashi); at root heat (Benamozegh)
   - he: גרב
     tr: garav
     en: moist boils (dry, when it stands alone)
@@ -45,7 +45,7 @@ stands beside it.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| שחין | shechin | boil, inflamed sore | the general term; a wound heated and inflamed, not a burn (Nega'im 9:1; Rashi) |
+| שחין | shechin | boil, inflamed sore | the general term; a wound heated and inflamed, not a burn (Nega'im 9:1; Rashi); at root heat (Benamozegh) |
 | גרב | garav | moist boils / dry boils | moist when cheres is beside it, dry when it stands alone (Rashi, Bechoros 41a) |
 | חרס | cheres | dry boils | dry and hard as pottery (Bedersi; Rashi); or perhaps from cheres, the sun (Mecklenburg) |
 | ילפת | yalefet | clinging boils | attaches to a man until death, leaving a permanent scar (Rashi; Pappenheim) |

@@ -9,7 +9,7 @@ words:
   - he: יבם
     tr: yavam
     en: brother-in-law (the levir)
-    distinct: the deceased's brother, party to the mitzvah of yibbum; a woman's word for her husband's brother (Rabbi Eliyahu HaBachur), though Rabbi Yaakov Tzvi Mecklenburg holds it is never a plain kinship term at all
+    distinct: the deceased's brother, party to the mitzvah of yibbum; a woman's word for her husband's brother (Rabbi Eliyahu HaBachur), though Rabbi Yaakov Tzvi Mecklenburg holds it is never a plain kinship term at all; in the tongue of Rus, to lie with a woman (Sefer HaShoham)
   - he: יבמה
     tr: yevamah
     en: sister-in-law (the widow)
@@ -48,7 +48,7 @@ relations at once, a woman's husband's brother, a woman's sister's husband, a ma
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| יבם | yavam | the levir, brother-in-law | the surviving brother; a woman's word (HaBachur) |
+| יבם | yavam | the levir, brother-in-law | the surviving brother; a woman's word (HaBachur); in the tongue of Rus, to lie with a woman (Sefer HaShoham) |
 | יבמה | yevamah | the widow, sister-in-law | bound to him; also a husband's brother's wife (Rus 1:15) |
 | ייבום | yibbum | levirate marriage | the mitzvah act; its sense disputed three ways |
 | גיס | giss | brother-in-law | Mishnaic; a man's word (HaBachur) |

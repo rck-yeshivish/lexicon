@@ -18,7 +18,7 @@ words:
   - he: צבא
     tr: tzava
     en: legion, army
-    distinct: literally a gathering of people, an army only because they share one want (Rav Hirsch, Rabbi Chaim Friedlander); on the two-letter root, a standing force ready for orders, against a militia that must be assembled (Rabbi Shlomo Pappenheim)
+    distinct: literally a gathering of people, an army only because they share one want (Rav Hirsch, Rabbi Chaim Friedlander); on the two-letter root, a standing force ready for orders, against a militia that must be assembled (Rabbi Shlomo Pappenheim); Yisrael's legions, so the Chumash never says Hashem Tzevaos (Benamozegh)
 sources:
   - wiaw:8563 "My Dear Deer" (2020-01-18) https://articles.ohr.edu/articles/my-dear-deer
   - ms:095-my-dear-deer.md "My Dear Deer"
@@ -43,7 +43,7 @@ Land" on the plain reading, "the Land of the Deer" in the derashos of Chazal.
 |---|---|---|---|
 | צבי | tzvi | splendor / desire / deer | beauty (Rashi) against desire and glory (Radak) |
 | צביון | tzivyon | consent, or ideal form | consented (Rashi, Rabbeinu Gershom) against beauty (Ritva) |
-| צבא | tzava | legion, army | a group united by one want (Rav Hirsch, Rav Friedlander) |
+| צבא | tzava | legion, army | a group united by one want (Rav Hirsch, Rav Friedlander); Yisrael's legions, so the Chumash never says *Hashem Tzevaos* (Benamozegh) |
 
 ## Where the authorities disagree
 

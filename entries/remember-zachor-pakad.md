@@ -9,7 +9,7 @@ words:
   - he: זכור
     tr: zachor
     en: remember, call to mind
-    distinct: remembering in the mind alone, doing nothing else, or constantly over a long span (Malbim); recalling what one knew and forgot (Ibn Ezra); implies mercy (Treves); after a shorter time (Al-Dhamari)
+    distinct: remembering in the mind alone, doing nothing else, or constantly over a long span (Malbim); recalling what one knew and forgot (Ibn Ezra); implies mercy (Treves); after a shorter time (Al-Dhamari); at root smelling (Shadal); of Shabbos, keeping the present in mind (Shadal)
   - he: שמור
     tr: shamor
     en: keep in mind
@@ -39,7 +39,7 @@ in action.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| זכור | zachor | remember, call to mind | in thought alone (Malbim, Wertheimer); recalling the forgotten (Ibn Ezra); merciful (Treves) |
+| זכור | zachor | remember, call to mind | in thought alone (Malbim, Wertheimer); recalling the forgotten (Ibn Ezra); merciful (Treves); at root smelling (Shadal); of Shabbos, keeping the present in mind (Shadal) |
 | שמור | shamor | keep in mind | keeping in mind what one currently knows (Ibn Ezra) |
 | פקד | pakad | attend to, take note of | remembering that issues in action (Malbim); after a long time (Al-Dhamari) |
 

@@ -15,7 +15,7 @@ words:
   - he: חמות
     tr: chamos
     en: mother-in-law
-    distinct: in Biblical Hebrew always a wife's mother-in-law (Radak), later a husband's too; from Aramaic seeing, since she is forever watching her daughter-in-law (Pri Megadim)
+    distinct: in Biblical Hebrew always a wife's mother-in-law (Radak), later a husband's too; from Aramaic seeing, since she is forever watching her daughter-in-law (Pri Megadim); kin to cheimah, anger (Ibn Janach)
   - he: חותן
     tr: chosen
     en: father-in-law
@@ -48,7 +48,7 @@ The Hebrew tells which side of the marriage is speaking.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | חם | cham | father-in-law | the wife's word (Radak); widened in Mishnaic Hebrew to the husband's |
-| חמות | chamos | mother-in-law | the wife's word (Radak); forever watching her daughter-in-law (Pri Megadim) |
+| חמות | chamos | mother-in-law | the wife's word (Radak); forever watching her daughter-in-law (Pri Megadim); kin to *cheimah*, anger (Ibn Janach) |
 | חותן | chosen | father-in-law | the husband's word, never widened (Pri Megadim); kin to *chasan* |
 | חותנת | choseness | mother-in-law | the husband's word, formed from *chosen* (Pri Megadim) |
 

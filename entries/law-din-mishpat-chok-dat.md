@@ -9,7 +9,7 @@ words:
   - he: חק
     tr: chok
     en: statute, decree
-    distinct: a law whose reason is not revealed (Yoma 67b, Rambam); engraved, so set and unchanging, often joined to forever, and apt to be written down (Pappenheim); obedience engraved in the person (Rabbi Margules); kin to chag, a circle (Rav Hirsch); the Written Torah (Zera Beirach) or the Oral (Zohar)
+    distinct: a law whose reason is not revealed (Yoma 67b, Rambam); engraved, so set and unchanging, often joined to forever, and apt to be written down (Pappenheim); obedience engraved in the person (Rabbi Margules); kin to chag, a circle (Rav Hirsch); the Written Torah (Zera Beirach) or the Oral (Zohar); kin to chag for Shadal too; engraved on the soul (Rabbi Shlomo Astruc)
   - he: משפט
     tr: mishpat
     en: ordinance, judgment
@@ -60,7 +60,7 @@ Tanach to see which answer is most convincing. Nothing below is presented as set
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| חק | chok | statute, decree | unexplained law (Yoma 67b, Rambam); engraved, fixed and unchanging (Pappenheim) |
+| חק | chok | statute, decree | unexplained law (Yoma 67b, Rambam); engraved, fixed and unchanging (Pappenheim); kin to *chag* for Shadal too; engraved on the soul (Rabbi Shlomo Astruc) |
 | משפט | mishpat | ordinance, judgment | rational, interpersonal law (Rambam); the verdict weighing two sides (Rabbi Moshe Shapiro) |
 | דין | din | judgment, law | the dispute itself (Bedersi); the penal outcome (Wertheimer); the letter of the law (Nechemias) |
 | דת | dat | law, edict | edict, the king's law, not religion (Rabbi Klein); practice against *din*'s letter (Nechemias) |

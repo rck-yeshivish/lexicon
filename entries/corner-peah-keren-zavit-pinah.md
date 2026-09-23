@@ -30,7 +30,7 @@ words:
   - he: קצה
     tr: katzeh
     en: edge, end
-    distinct: the right-angled corner, a spacious area like peah rather than a point, but above, below, in front or behind where peah is at the side (Pappenheim); rendered zavit by Onkelos
+    distinct: the right-angled corner, a spacious area like peah rather than a point, but above, below, in front or behind where peah is at the side (Pappenheim); rendered zavit by Onkelos; whence katzin, the army's visible face (Benamozegh)
   - he: אתיק
     tr: atik
     en: corner
@@ -73,7 +73,7 @@ as *zavit*, and *peah* too at the corners of the Shulchan.
 | זוית | zavit | inner corner | the inner face of a corner (Pappenheim); Onkelos's word for the others |
 | פינה | pinah | corner, prominence | the outer corner (Pappenheim); primarily a raised place (Zer-Kavod) |
 | מקצוע | miktzoa | angle | the sharp angle at a single point (Pappenheim) |
-| קצה | katzeh | edge, end | the right-angled corner, above, below, before or behind (Pappenheim) |
+| קצה | katzeh | edge, end | the right-angled corner, above, below, before or behind (Pappenheim); whence *katzin*, the army's visible face (Benamozegh) |
 | אתיק | atik | corner | a biblical rarity; a panel holding a wall in place (Pappenheim) |
 | דמשק | demeshek | corner of a bed | a hapax; corner of a bed (Radak) or Damesek (Rashi) |
 

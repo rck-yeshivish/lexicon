@@ -9,15 +9,15 @@ words:
   - he: כתר
     tr: keter
     en: royal crown
-    distinct: the crown of royalty, always keser malchus in Tanach; encircles the head without rising above it, a coronet (Malbim); some make it the general word
+    distinct: the crown of royalty, always keser malchus in Tanach; encircles the head without rising above it, a coronet (Malbim); some make it the general word; the sign of rule, worn by kings (Pappenheim); kingship (Rabbi Zev Leff)
   - he: עטרה
     tr: atarah
     en: crown, wreath
-    distinct: the general crown, of any wearer, encircling the head and rising above it (Malbim); for others, marked by being covered on top
+    distinct: the general crown, of any wearer, encircling the head and rising above it (Malbim); for others, marked by being covered on top; the sign of greatness, worn by nobles (Pappenheim); adornment only (Rabbi Zev Leff)
   - he: נזר
     tr: nezer
     en: crown of consecration
-    distinct: the crown that marks a man off as set apart, worn by the nazir and the Kohen Gadol; kin to zer, a golden band; encircles only half the head, a tiara (Malbim)
+    distinct: the crown that marks a man off as set apart, worn by the nazir and the Kohen Gadol; kin to zer, a golden band; encircles only half the head, a tiara (Malbim); the sign of honor, worn by sages and perushim (Pappenheim)
   - he: זר
     nk: זֵר
   - he: כליל
@@ -52,9 +52,9 @@ kinds, but most read all three as distinct kinds.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| כתר | keter | royal crown | the royal crown; circles the head without rising above it (Malbim) |
-| עטרה | atarah | crown, wreath | any wearer's crown; rises above the head (Malbim) |
-| נזר | nezer | crown of consecration | marks the wearer as set apart (nazir, Kohen Gadol); half the head (Malbim) |
+| כתר | keter | royal crown | the royal crown; circles the head without rising above it (Malbim); the sign of rule, worn by kings (Pappenheim); kingship (Rabbi Zev Leff) |
+| עטרה | atarah | crown, wreath | any wearer's crown; rises above the head (Malbim); the sign of greatness, worn by nobles (Pappenheim); adornment only (Rabbi Zev Leff) |
+| נזר | nezer | crown of consecration | marks the wearer as set apart (nazir, Kohen Gadol); half the head (Malbim); the sign of honor, worn by sages and *perushim* (Pappenheim) |
 | כליל | klil | crown | Aramaic, what encompasses; source of *kallah* (Mecklenburg) |
 | תג | tag | crown | the rabbinic idiom's crown; the *tagin* atop letters |
 

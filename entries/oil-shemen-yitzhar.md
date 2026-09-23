@@ -13,7 +13,7 @@ words:
   - he: יצהר
     tr: yitzhar
     en: olive oil
-    distinct: for Rabbi Klein olive oil in itself, never joined to zayis in Tanach; Radak narrows it to oil as it comes from the press; Rabbi Yitzchak Zev Yadler makes it whatever oil a place burns for light
+    distinct: for Rabbi Klein olive oil in itself, never joined to zayis in Tanach; Radak narrows it to oil as it comes from the press; Rabbi Yitzchak Zev Yadler makes it whatever oil a place burns for light; oil as what brings light, like tzohar (Benamozegh)
 sources:
   - wiaw:7061 "Olives and Oil" (2016-12-24) https://articles.ohr.edu/articles/olives-and-oil
   - ms:079-olives-and-oil.md "Olives and Oil"
@@ -35,7 +35,7 @@ Tanach. Every occurrence of *yitzhar* is agricultural, the yield of the press.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | שמן | shemen | oil | the general term, from shuman, fat (Ibn Saruk); needs zayis for olive oil (Rabbi Klein) |
-| יצהר | yitzhar | olive oil | inherently olive (Rabbi Klein); fresh from the press (Radak); or lamp oil by local custom (Yadler) |
+| יצהר | yitzhar | olive oil | inherently olive (Rabbi Klein); fresh from the press (Radak); or lamp oil by local custom (Yadler); oil as what brings light, like *tzohar* (Benamozegh) |
 
 ## Where the authorities disagree
 

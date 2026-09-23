@@ -9,11 +9,11 @@ words:
   - he: שד
     tr: sheid
     en: demon
-    distinct: part angel and part man, winged and knowing what is to come, yet eating, drinking, breeding and dying (*Chagigah* 16a); humanoid in form and eating and drinking like a man (Rashi to *Sanhedrin* 109a)
+    distinct: part angel and part man, winged and knowing what is to come, yet eating, drinking, breeding and dying (*Chagigah* 16a); humanoid in form and eating and drinking like a man (Rashi to *Sanhedrin* 109a); from shadud, desolate places (Ramban), sadeh, the field (Maasei Hashem), or shoded, seizing the mind (Chemdas HaChemdah)
   - he: לילית
     tr: lilis
     en: female demon
-    distinct: a *sheidah*, whether the name of one particular demoness, mother of all the *sheidim* and consort of Samael (the *Zohar*), or the name of a class of them; at Yeshayahu 34:14 a female demon (Rashi), a night bird (Ibn Ezra) or a night animal (Radak), as Rabbi Tanchum HaYerushalmi has it, a wild animal that scavenges by night
+    distinct: a *sheidah*, whether the name of one particular demoness, mother of all the *sheidim* and consort of Samael (the *Zohar*), or the name of a class of them; at Yeshayahu 34:14 a female demon (Rashi), a night bird (Ibn Ezra) or a night animal (Radak), as Rabbi Tanchum HaYerushalmi has it, a wild animal that scavenges by night; from yelel, howling (Chemdas HaChemdah)
   - he: רוח
     tr: ruach
     en: apparition
@@ -41,8 +41,8 @@ the *ruach* has none.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| שד | sheid | demon | between angel and man (*Chagigah* 16a); humanoid, eats and drinks (Rashi to *Sanhedrin* 109a) |
-| לילית | lilis | female demon | takes human shape but has wings too (Rashi to *Sanhedrin* 109a); a name or a class, disputed |
+| שד | sheid | demon | between angel and man (*Chagigah* 16a); humanoid, eats and drinks (Rashi to *Sanhedrin* 109a); from *shadud*, desolate places (Ramban), *sadeh*, the field (Maasei Hashem), or *shoded*, seizing the mind (Chemdas HaChemdah) |
+| לילית | lilis | female demon | takes human shape but has wings too (Rashi to *Sanhedrin* 109a); a name or a class, disputed; from *yelel*, howling (Chemdas HaChemdah) |
 | רוח | ruach | apparition | no body and no form (Rashi to *Sanhedrin* 109a) |
 
 ## Where the authorities disagree

@@ -10,7 +10,7 @@ words:
     tr: kanaf
     en: wing; edge, corner
     nk: כָּנָף
-    distinct: the outermost part of the wing, farthest from the body, that casts shade and so shelters (Rabbi Wertheimer); since the wing sits at the bird's edge, also the edge or periphery of a garment or a land (Bedersi)
+    distinct: the outermost part of the wing, farthest from the body, that casts shade and so shelters (Rabbi Wertheimer); since the wing sits at the bird's edge, also the edge or periphery of a garment or a land (Bedersi); from kaf, covering, as the wing covers the body (Shadal)
   - he: אבר
     tr: ever
     en: pinion; limb
@@ -55,7 +55,7 @@ itself.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| כנף | kanaf | wing; edge, corner | the outermost part of the wing (Wertheimer); hence periphery (Bedersi) |
+| כנף | kanaf | wing; edge, corner | the outermost part of the wing (Wertheimer); hence periphery (Bedersi); from *kaf*, covering, as the wing covers the body (Shadal) |
 | אבר | ever | pinion; limb | the outer wing with its flight feathers; any limb, and the strongest (Bedersi) |
 | אגף | agaf | wing near the body; flank | the inner part, branching off the body (Wertheimer); only in Yechezkel |
 | נוצה | notzah | feather | the feather itself, not the wing |

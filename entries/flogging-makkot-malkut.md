@@ -9,7 +9,7 @@ words:
   - he: מכה
     tr: makkah
     en: blow, wound, plague
-    distinct: Hebrew, and active (HaBachur), the striking, and by extension the wound it leaves and the plague that strikes; root נ-כ-ה for Ibn Chayyuj, Ibn Janach and Radak
+    distinct: Hebrew, and active (HaBachur), the striking, and by extension the wound it leaves and the plague that strikes; root נ-כ-ה for Ibn Chayyuj, Ibn Janach and Radak; from koh, a message whose meaning is not plain (Zohar, Rabbi Moshe Shapiro)
   - he: מכות
     tr: makkot
     en: blows, lashes
@@ -49,7 +49,7 @@ can mean impaired rather than struck.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| מכה | makkah | blow, wound, plague | Hebrew, active (HaBachur), the striking and its result; root נ-כ-ה for Ibn Chayyuj, Ibn Janach, and Radak |
+| מכה | makkah | blow, wound, plague | Hebrew, active (HaBachur), the striking and its result; root נ-כ-ה for Ibn Chayyuj, Ibn Janach, and Radak; from *koh*, a message whose meaning is not plain (Zohar, Rabbi Moshe Shapiro) |
 | מכות | makkot | lashes | the Torah's verb for flogging; rabbinic *makkos mardus* on one view (Taieb) |
 | מלקות | malkut | flogging | Mishnaic, from Aramaic on Even-Shoshan's derivation; Torah-ordained lashes on one view (Taieb) |
 | לקה | lakah | be struck, be impaired | passive (HaBachur), and broader than striking (Tiferes Yisrael) |

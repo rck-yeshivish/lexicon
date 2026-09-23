@@ -9,7 +9,7 @@ words:
   - he: עדן
     tr: eden
     en: sensual pleasure, delight of the senses
-    distinct: pleasure of the body and the five senses, in Tanach almost always of taste and touch; it joins the one enjoying to the object, from ע-ד (Pappenheim), and stays physical even when it yields spiritual pleasure
+    distinct: pleasure of the body and the five senses, in Tanach almost always of taste and touch; it joins the one enjoying to the object, from ע-ד (Pappenheim), and stays physical even when it yields spiritual pleasure; from idan, time (Rabbi Nissim of Marseilles)
   - he: מעדנים
     tr: maadanim
     en: delicacies
@@ -48,7 +48,7 @@ claim that fits the one pasuk but does not account for the Targumim, which use
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| עדן | eden | sensual pleasure, delight of the senses | bodily pleasure of the senses, chiefly taste and touch (Pappenheim) |
+| עדן | eden | sensual pleasure, delight of the senses | bodily pleasure of the senses, chiefly taste and touch (Pappenheim); from *idan*, time (Rabbi Nissim of Marseilles) |
 | מעדנים | maadanim | delicacies | delicacies of a king's table, *maadanei melech* |
 | עונג | oneg | delight, enjoyment | delight of the soul, even through the body (Pappenheim); favorable surroundings (Rav Hirsch) |
 | פינוק | pinuk | pampering, indulgence | playfulness and flattery, not pleasure (Pappenheim); Targum's word for *oneg* and *eden* |

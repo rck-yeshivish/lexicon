@@ -21,7 +21,7 @@ words:
   - he: חוג
     tr: chug
     en: circle, orbit
-    distinct: what orbits around another body, as a planet does (Radak); a circle, or machug, considered from its center (Malbim)
+    distinct: what orbits around another body, as a planet does (Radak); a circle, or machug, considered from its center (Malbim); from Aramaic chinga, a circle dance, the nun dropped (Rabbi Klein, Rabbi Chelouche)
 sources:
   - wiaw:7530 "Around in Concentric Circles" (2017-12-09) https://articles.ohr.edu/articles/around-in-concentric-circles
   - ms:080-around-in-concentric-circles.md "Around in Concentric Circles"
@@ -48,7 +48,7 @@ center, an orbit. Bare *saviv* may concede only an arc.
 | סביב | saviv | around, about | around a center without completing the circle, even a detour (Pappenheim) |
 | היקף | heikef | circuit, circumference | always a complete circuit, hence *hakafos* |
 | עפף | afef | envelop, beset | closing in from every corner; always for the worse (Malbim) |
-| חוג | chug | circle, orbit | what orbits another body (Radak); a circle seen from its center (Malbim) |
+| חוג | chug | circle, orbit | what orbits another body (Radak); a circle seen from its center (Malbim); from Aramaic *chinga*, a circle dance, the nun dropped (Rabbi Klein, Rabbi Chelouche) |
 
 ## Distinctions
 

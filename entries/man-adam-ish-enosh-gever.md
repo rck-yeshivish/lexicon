@@ -9,7 +9,7 @@ words:
   - he: אדם
     tr: adam
     en: man, mankind
-    distinct: the species name and highest term, singular and plural, male and female (Zohar); behaves like a proper name, never plural or feminine (Malbim); from adamah (Maharal, Pappenheim), resemblance (Pappenheim) or hadom, footstool (Rav Hirsch); the child for Ibn Yachya
+    distinct: the species name and highest term, singular and plural, male and female (Zohar); behaves like a proper name, never plural or feminine (Malbim); from adamah (Maharal, Pappenheim), resemblance (Pappenheim) or hadom, footstool (Rav Hirsch); the child for Ibn Yachya; from adom, the bare red skin (Shadal); the four elements (Rabbi Yitzchak of Pira)
   - he: אנוש
     tr: enosh
     en: mortal, frail man
@@ -46,7 +46,7 @@ gender-neutral uses against him). The Zohar ranks them (*adam* > *enosh* > *ish*
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| אדם | adam | man, mankind | the species, highest term (Zohar); like a proper name, never plural (Malbim) |
+| אדם | adam | man, mankind | the species, highest term (Zohar); like a proper name, never plural (Malbim); from *adom*, the bare red skin (Shadal); the four elements (Rabbi Yitzchak of Pira) |
 | אנוש | enosh | mortal, frail man | man in weakness, mortal (Radak); plural *anashim* flips to men of standing (Rashi) |
 | איש | ish | a man | a single mature specimen, against woman or child; has all he needs (Pappenheim) |
 | גבר | gever | strong man | man as strength (Malbim); always male (Ibn Ezra) or not (Edel) |

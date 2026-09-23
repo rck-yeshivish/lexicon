@@ -9,17 +9,17 @@ words:
   - he: שמש
     tr: shemesh
     en: sun
-    distinct: literally the servant, naming the sun by its subservience to Hashem and its utilitarian place in the celestial order (Rabbi Aharon Marcus); the default word, and the first of the three coined
+    distinct: literally the servant, naming the sun by its subservience to Hashem and its utilitarian place in the celestial order (Rabbi Aharon Marcus); the default word, and the first of the three coined; serves Hashem (Tashbetz)
   - he: חמה
     tr: chamah
     en: sun
     nk: חַמָּה
-    distinct: literally the hot one, naming the sun by its heat (Rabbi Aharon Marcus); coined later, once shemesh had itself been taken up as the name of a sun-cult
+    distinct: literally the hot one, naming the sun by its heat (Rabbi Aharon Marcus); coined later, once shemesh had itself been taken up as the name of a sun-cult; makes things hot (Tashbetz)
   - he: חרס
     tr: cheres
     en: sun
     nk: חֶרֶס
-    distinct: literally pottery, either for the sun's power to bake pottery, a mainstay of ancient life (Rabbi Aharon Marcus), or, for others, for its reddish, pottery-like hue at sunrise and sunset
+    distinct: literally pottery, either for the sun's power to bake pottery, a mainstay of ancient life (Rabbi Aharon Marcus), or, for others, for its reddish, pottery-like hue at sunrise and sunset; breaks things (Tashbetz)
   - he: ירח
     tr: yareach
     en: moon
@@ -29,7 +29,7 @@ words:
     tr: levanah
     en: moon
     nk: לְבָנָה
-    distinct: literally the white one, naming the moon by its perceived color (Rabbi Aharon Marcus)
+    distinct: literally the white one, naming the moon by its perceived color (Rabbi Aharon Marcus); the source of Latin luna (Benamozegh)
   - he: סהר
     tr: sahar
     en: crescent moon
@@ -60,11 +60,11 @@ represent successive stages in man's relationship with the sun and moon.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| שמש | shemesh | sun | the servant, subservient to Hashem (Rabbi Aharon Marcus) |
-| חמה | chamah | sun | the hot one, named for its heat |
-| חרס | cheres | sun | pottery: it bakes pottery, or it is pottery-colored at dawn and dusk |
+| שמש | shemesh | sun | the servant, subservient to Hashem (Rabbi Aharon Marcus); serves Hashem (Tashbetz) |
+| חמה | chamah | sun | the hot one, named for its heat; makes things hot (Tashbetz) |
+| חרס | cheres | sun | pottery: it bakes pottery, or it is pottery-colored at dawn and dusk; breaks things (Tashbetz) |
 | ירח | yareach | moon | from *orach*, path: its orbital course |
-| לבנה | levanah | moon | the white one, named for its color |
+| לבנה | levanah | moon | the white one, named for its color; the source of Latin *luna* (Benamozegh) |
 | סהר | sahar | crescent moon | named for its shape; possibly an Aramaic loanword |
 
 ## Where the authorities disagree

@@ -14,7 +14,7 @@ words:
   - he: זן
     tr: zan
     en: kind, type
-    distinct: the Aramaic for min, Targum's rendering of every min (Rabbi Eliyahu HaBachur); Late Biblical Hebrew for min (Professor Avi Hurvitz) or an Old Persian loanword (Dr. Menachem Zvi Kaddari); at its three Hebrew appearances the meforshim debate whether it means type at all
+    distinct: the Aramaic for min, Targum's rendering of every min (Rabbi Eliyahu HaBachur); Late Biblical Hebrew for min (Professor Avi Hurvitz) or an Old Persian loanword (Dr. Menachem Zvi Kaddari); at its three Hebrew appearances the meforshim debate whether it means type at all; from zenus, kinds crossed by man (Kesem Paz)
   - he: סוג
     tr: sug
     en: genus, category
@@ -49,7 +49,7 @@ Ramban answers the Teivah's capacity with a miracle instead.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | מין | min | kind, species | the Torah's word; individuals alike enough to class together (Ibn Janach, Radak) |
-| זן | zan | kind, type | the Aramaic *min* (Eliyahu HaBachur); its Hebrew sense is debated |
+| זן | zan | kind, type | the Aramaic *min* (Eliyahu HaBachur); its Hebrew sense is debated; from *zenus*, kinds crossed by man (Kesem Paz) |
 | סוג | sug | genus, category | post-biblical; the genus above the *min* (Rambam, Ramchal); in the Mishnah a container |
 
 ## Distinctions

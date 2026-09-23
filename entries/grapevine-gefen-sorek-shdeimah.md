@@ -9,12 +9,12 @@ words:
   - he: גפן
     tr: gefen
     en: grapevine
-    distinct: the ordinary, unmarked word for a vine, 55 times in Tanach; the early grammarians (Ibn Saruk, Ibn Janach, Radak) take the root as ג-פ-ן, while Rabbi Shlomo Pappenheim derives it from ג-ף, outward protrusion, for the vine's wing-like shoots
+    distinct: the ordinary, unmarked word for a vine, 55 times in Tanach; the early grammarians (Ibn Saruk, Ibn Janach, Radak) take the root as ג-פ-ן, while Rabbi Shlomo Pappenheim derives it from ג-ף, outward protrusion, for the vine's wing-like shoots; any vine, laden or bare (Sechel Tov); gefen while attached, zemorah once cut (Rabbeinu Bachya)
   - he: שורק
     tr: sorek
     en: choice vine
     nk: שׂוֹרֵק
-    distinct: on most readings the best kind of vine; Targum Yonasan renders it "a choice gefen"; Radak, citing Rabbi Yitzchak Ibn Ghiyyat, says its grapes are seedless; Rashi instead reads it as the vine's long tendrils or its shoots fit for planting
+    distinct: on most readings the best kind of vine; Targum Yonasan renders it "a choice gefen"; Radak, citing Rabbi Yitzchak Ibn Ghiyyat, says its grapes are seedless; Rashi instead reads it as the vine's long tendrils or its shoots fit for planting; a vine without grapes, planted bare (Sechel Tov)
   - he: שדמה
     tr: shdeimah
     en: field, or vine (disputed)
@@ -48,8 +48,8 @@ thing.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| גפן | gefen | grapevine | the common, unmarked word (55 times); root ג-פ-ן (Ibn Saruk, Ibn Janach, Radak) or ג-ף, protruding (Pappenheim) |
-| שורק | sorek | choice vine | the choicest stock (Targum Yonasan, Ibn Janach, Radak), seedless grapes (Ibn Ghiyyat); or tendrils/plantable shoots (Rashi) |
+| גפן | gefen | grapevine | the common, unmarked word (55 times); root ג-פ-ן (Ibn Saruk, Ibn Janach, Radak) or ג-ף, protruding (Pappenheim); any vine, laden or bare (Sechel Tov); *gefen* while attached, *zemorah* once cut (Rabbeinu Bachya) |
+| שורק | sorek | choice vine | the choicest stock (Targum Yonasan, Ibn Janach, Radak), seedless grapes (Ibn Ghiyyat); or tendrils/plantable shoots (Rashi); a vine without grapes, planted bare (Sechel Tov) |
 | שדמה | shdeimah | field (or vine) | grain field (Rashi) against vine (Ibn Janach, Ibn Ezra, Radak, Rabbeinu Bachaya); nourishing ground (Pappenheim); poor field (*Ohalei Yehuda*, *Shoresh Yesha*) |
 | שריג | sarig | tendril | the twining shoot of Bereishis 40:10; seemingly from ש-ר-ג, entangling; Ibn Saruk equates sorek with it, possibly via the kuf and gimmel interchange |
 

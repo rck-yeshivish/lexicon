@@ -9,7 +9,7 @@ words:
   - he: הר
     tr: har
     en: mountain
-    distinct: a mountain whose slope climbs to a point and climaxes at its tip (the Vilna Gaon, and Radak much the same); or simply the overly tall one, against the lesser hills around it (Malbim)
+    distinct: a mountain whose slope climbs to a point and climaxes at its tip (the Vilna Gaon, and Radak much the same); or simply the overly tall one, against the lesser hills around it (Malbim); like harah, holding metals within (Ibn Ezra); tied to horaah (Benamozegh)
   - he: גבעה
     tr: givah
     en: hill
@@ -43,7 +43,7 @@ on the height.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| הר | har | mountain | climbs to a point (the Vilna Gaon, Radak); or simply the tall one among lesser hills (Malbim) |
+| הר | har | mountain | climbs to a point (the Vilna Gaon, Radak); or simply the tall one among lesser hills (Malbim); like *harah*, holding metals within (Ibn Ezra); tied to *horaah* (Benamozegh) |
 | גבעה | givah | hill | flat on top, a plateau (the Vilna Gaon, Radak); or the lower hills ringing the mountain (Malbim); kin to *gaviah*, a goblet (Rabbi Eliyahu Margules) |
 | פסגה | pisgah | peak | taller than a mountain, fit to serve as a lookout (the commentators) |
 

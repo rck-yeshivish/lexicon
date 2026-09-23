@@ -9,7 +9,7 @@ words:
   - he: כילי
     tr: kilay
     en: miser
-    distinct: the Biblical miser, opposite of nadiv and shoa (Radak); one who jails his own money, from כ-ל (Rabbi Shlomo Pappenheim); read as ki yomar sheli sheli, what is mine is mine (Ibn Ezra); for the Ashkenazic commentators a trickster, from נ-כ-ל (Rashi, Mahari Kara, Rabbi Eliezer of Beaugency)
+    distinct: the Biblical miser, opposite of nadiv and shoa (Radak); one who jails his own money, from כ-ל (Rabbi Shlomo Pappenheim); read as ki yomar sheli sheli, what is mine is mine (Ibn Ezra); for the Ashkenazic commentators a trickster, from נ-כ-ל (Rashi, Mahari Kara, Rabbi Eliezer of Beaugency); a vessel that takes in and gives nothing out (Maharal)
   - he: צייקן
     tr: tzaykan
     en: skinflint
@@ -17,7 +17,7 @@ words:
   - he: קמצן
     tr: kamtzan
     en: cheapskate
-    distinct: the post-Mishnaic and living word; from ק-מ-ץ, the kemitzah of a minchah, held to three fingers with the excess wiped away (Rashi), so he stores his wealth and keeps to the least anyone can get from him
+    distinct: the post-Mishnaic and living word; from ק-מ-ץ, the kemitzah of a minchah, held to three fingers with the excess wiped away (Rashi), so he stores his wealth and keeps to the least anyone can get from him; mekametz is mekabetz, gathering (Kesubos 77a)
 sources:
   - wiaw:9734 "On Misers and Cheapskates" (2022-06-18) https://articles.ohr.edu/articles/on-misers-and-cheapskates
   - ms:067-on-misers-and-cheapskates.md "On Misers and Cheapskates"
@@ -42,9 +42,9 @@ Commentators such as Radak read it as "miser," the Ashkenazic commentators
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| כילי | kilay | miser | Biblical miser (Radak); a trickster (Rashi, Mahari Kara); locks money away (Pappenheim) |
+| כילי | kilay | miser | Biblical miser (Radak); a trickster (Rashi, Mahari Kara); locks money away (Pappenheim); a vessel that takes in and gives nothing out (Maharal) |
 | צייקן | tzaykan | skinflint | Mishnaic; narrow (Ernest Klein) or hard about parting with his money |
-| קמצן | kamtzan | cheapskate | the living word; measures out the minimum, like the *kemitzah* (Rashi) |
+| קמצן | kamtzan | cheapskate | the living word; measures out the minimum, like the *kemitzah* (Rashi); *mekametz* is *mekabetz*, gathering (Kesubos 77a) |
 
 ## Distinctions
 
