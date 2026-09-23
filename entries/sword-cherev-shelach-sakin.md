@@ -34,7 +34,6 @@ sources:
   - wiaw:90001 "The Sword of Methusaleh" (2018-10-11) https://groups.google.com/g/whats-in-a-word/c/zywT24_4uaM
   - ms:010-the-sword-of-methusaleh.md "The Sword of Methusaleh"
 authorities: [Midrash, Peirush HaRokeach, Sifsei Kohen, Imrei Noam, Zera Beirech, Radak, Rabbi Shlomo Pappenheim, Malbim, Rabbi Eliyahu HaBachur, Rabbi Avraham Vilner, Rashi, Rabbeinu Shimshon of Shantz, Rabbi Reuven Margolios, Rabbi David Kamin, Ritva, Bartenura, Rabbi Yisrael Lipschitz, Tashbetz, Moshe Oussi]
-status: reviewed
 updated: 2026-09-22
 ---
 # Sword and knife: cherev / shelach / sayif / sakin / maacheles / chalaf

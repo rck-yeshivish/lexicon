@@ -45,7 +45,6 @@ sources:
   - wiaw:8304 "Names of the Underworld" (2019-06-29) https://articles.ohr.edu/articles/names-of-the-underworld
   - ms:155-solomons-seven-names.md "Solomon’s Seven Names"
 authorities: [Rabbi Yehoshua ben Levi, Targum Sheini, Rashi, Ibn Ezra, Ralbag, Rabbi Yeshayah of Trani (the Rid), Tosafos, Tosafos Shantz, Midrash Agur, Maharal]
-status: reviewed
 updated: 2026-09-22
 ---
 # Names of Shlomo HaMelech: Shlomo / Koheles / Agur / Lemuel (Yedidyah, Yakeh, Isiel)

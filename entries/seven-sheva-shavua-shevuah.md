@@ -32,7 +32,6 @@ sources:
   - wiaw:9694 "The Year of Seven (Part 2 of 2)" (2022-05-21) https://articles.ohr.edu/articles/the-year-of-seven-part-2-of-2
   - wiaw:7758 "Stop! It's Shavuot!" (2018-05-19) https://articles.ohr.edu/articles/stop-itas-shavuot
 authorities: [Ibn Ezra, Ramban, Rashi, Rasag, Ralbag, Targum Onkelos, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Rav Hirsch, Sefer HaChinuch, Rabbi Moshe Elyakim Briah Hopstein, Rabbi Alter HaLevi Hilowitz, Rabbi Moshe Zuriel, Rabbi Yitzchok Avigdor Lubchansky, Shelah, Brown-Driver-Briggs]
-status: reviewed
 updated: 2026-09-10
 ---
 # Seven: sheva / sheviis / shavua / shabbos / shevuah

@@ -22,7 +22,6 @@ sources:
   - wiaw:7572 "The Pharaoh and the King" (2018-01-06) https://articles.ohr.edu/articles/the-pharaoh-and-the-king
   - ms:087-the-pharaoh-and-the-king.md "The Pharaoh and the King"
 authorities: [Rashi, Radak, Rabbi Ovadia of Bartenura, Ibn Ezra, Zohar, Rabbeinu Bachya, Rav Chaim Kanievsky, Abarbanel, Rabbi Avraham Menachem Rappaport, Rabbi Eliezer ben Eliyahu Ashkenazi, Chasam Sofer, Rabbi Shimshon of Ostropoli, Shadal, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # The Egyptian monarch: Paroh / Melech Mitzrayim

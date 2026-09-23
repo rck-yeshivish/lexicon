@@ -40,7 +40,6 @@ sources:
   - wiaw:8487 "The Old Man and the See" (2019-11-23) https://articles.ohr.edu/articles/the-old-man-and-the-see
   - ms:031-the-old-man-and-the-see.md "The Old Man and the See"
 authorities: [Rabbi Avraham Bedersi HaPenini, Radak, Rabbi Eliezer Reines, Rabbi Mordechai Tzvi Herzka, Rabbeinu Chananel, Rabbi Nosson of Rome, Rabbi Yehuda Leib Shapira-Frankfurter, Rashi, Bartenura, Rabbi Ernest Klein, Rabbi Shaul Goldman, Rabbi Elimelech of Lizhensk, Chiddushei HaRa'ah, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Shadal]
-status: reviewed
 updated: 2026-09-22
 ---
 # Old age: zaken / seivah / yashish / yashan / atik / vatik

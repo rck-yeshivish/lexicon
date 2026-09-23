@@ -27,7 +27,6 @@ sources:
   - wiaw:11523 "Ki Savo: No More Boils" (2024-09-21) https://articles.ohr.edu/articles/ki-savo-no-more-boils
   - ms:323-no-more-boils.md "No More Boils"
 authorities: [Rashi, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Avraham Bedersi, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yitzchak of Zeldin, Rabbi Natan Borgel, Rabbi Ernest Klein, David A. Clines, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Boils: shechin / garav / cheres / yalefet (avabuos)

@@ -47,7 +47,6 @@ sources:
   - wiaw:8339 "Heavy Taxes and Empty Pockets" (2019-07-27) https://articles.ohr.edu/articles/heavy-taxes-and-empty-pockets
   - ms:279-heavy-taxes-and-empty-pockets.md "Heavy Taxes and Empty Pockets"
 authorities: [Rabbi Shlomo Pappenheim, Dr. Chaim Tawil, Menachem Ibn Saruk, Rabbi Yehuda Ibn Chayyuj, Rabbi Yonah Ibn Janach, Radak, Rabbi Baruch Avraham Toledano, Rashi, Rabbi Nosson of Rome, Rabbeinu Nissim, Maharam Chalavah, Meiri, Shadal, Filosseno Luzzatto]
-status: reviewed
 updated: 2026-09-22
 ---
 # Tax: mas / meches (and the Aramaic terms)

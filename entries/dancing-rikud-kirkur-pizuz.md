@@ -21,7 +21,6 @@ words:
 sources:
   - wiaw:11784 "Shemini: Dancing Away" (2025-04-26) https://articles.ohr.edu/articles/shemini-dancing-away
 authorities: [Talmud Yerushalmi, Rabbi Aharon Marcus, Rabbi Moshe Tedeschi-Ashkenazi, Menachem Ibn Saruk, Radak, Rabbi Shlomo Pappenheim, Rabbi Yosef Kara, Rabbi Tanchum HaYerushalmi, Rabbeinu Yonah Ibn Janach, Rabbeinu Avraham ben Shlomo, Targum, Rambam, Rabbi Yehudah Aryeh of Carpentras, Metzudas David, Rabbi Zev Atlas, Rashbam, Shadal, Yehoshua Yaron]
-status: reviewed
 updated: 2026-09-10
 ---
 # Dancing: rikud / kirkur / pizuz

@@ -39,7 +39,6 @@ sources:
   - wiaw:7758 "Stop! It's Shavuot!" (2018-05-19) https://articles.ohr.edu/articles/stop-itas-shavuot
   - ms:292-stop-its-shavuot.md "Stop! It’s Shavuot"
 authorities: [Midrash Lekach Tov (Rabbi Tuviah ben Eliezer), Ramban, Rabbi Chaim Elazar Shapiro (Munkatcher Rebbe), Rabbi Moshe Zacuto, Kedushas Levi (Rabbi Levi Yitzchak of Berditchev), Rabbi Dovid Tzvi Hoffmann, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yechezkel Abramsky, Rabbi Baruch Epstein, Rashi, Josephus, Philo Judaeus, Bartenura]
-status: reviewed
 updated: 2026-09-22
 ---
 # Names of Shavuos: Shavuos / Atzeres / Chag HaKatzir / Yom HaBikkurim

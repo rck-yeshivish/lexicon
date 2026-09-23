@@ -21,7 +21,6 @@ words:
 sources:
   - wiaw:7927 "Straying from the Path" (2018-09-08) https://articles.ohr.edu/articles/straying-from-the-path
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Moshe Shapiro, Rabbi Aharon Marcus]
-status: reviewed
 updated: 2026-09-10
 ---
 # Straying from a path: zenus / stiyah

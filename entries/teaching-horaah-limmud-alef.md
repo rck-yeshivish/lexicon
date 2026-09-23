@@ -27,7 +27,6 @@ sources:
   - wiaw:9308 "The Ultimate Teacher" (2021-07-24) https://articles.ohr.edu/articles/the-ultimate-teacher
   - ms:302-the-ultimate-teacher.md "The Ultimate Teacher"
 authorities: [Ibn Janach, Radak, Menachem Ibn Saruk, Malbim, Shadal, Rav Hirsch, Rabbi Shlomo Pappenheim, Vilna Gaon]
-status: reviewed
 updated: 2026-09-22
 ---
 # Teaching: hora'ah / limmud / alef (and hadrachah)

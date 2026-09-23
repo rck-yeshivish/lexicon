@@ -25,7 +25,6 @@ words:
 sources:
   - wiaw:11613 "Bishalach: Armed and Ready" (2024-01-27) https://articles.ohr.edu/articles/bishalach-armed-and-ready
 authorities: [Rashi, Ramban, Menachem Ibn Saruk, Yonah Ibn Janach, Shlomo Ibn Parchon, Radak, Ibn Ezra, Rabbi Yehudah Ibn Balaam, Rashbam, Daas Zekeinim, Malbim, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Shlomo of Urbino, Korban HaEidah, Torah Temimah, Rabbi Chaim Kanievsky, Baal HaTurim, Rabbi Ernest Klein, Wilhelm Gesenius, David Curwin, Rabbi Elimelech Bleiberg, Rabbi Itamar Habshush, David Assaf, Yisrael Bartel]
-status: reviewed
 updated: 2026-09-10
 ---
 # Armed: chamush / chalutz / mezuyan

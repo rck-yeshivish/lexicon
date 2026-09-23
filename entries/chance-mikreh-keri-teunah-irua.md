@@ -30,7 +30,6 @@ sources:
   - wiaw:11821 "Bamidbar/Shavuot: Coincidence or Happenstance? (Part 1/2)" (2025-05-31) https://articles.ohr.edu/articles/bamidbarshavuot-coincidence-or-happenstance-part-12
   - wiaw:11822 "Naso: Coincidence or Happenstance? (Part 2/2)" (2025-06-07) https://articles.ohr.edu/articles/naso-coincidence-or-happenstance-part-22
 authorities: [Rabbi Shlomo Pappenheim, Malbim, Rav Hirsch, Rashi, Rabbi Shaul Goldman, Stephen B. Chapman]
-status: reviewed
 updated: 2026-09-10
 ---
 # Chance: mikreh / keri / te'unah / i'rua

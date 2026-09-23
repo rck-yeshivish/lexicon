@@ -21,7 +21,6 @@ words:
 sources:
   - wiaw:9795 "Matot: The Names of Jericho" (2022-07-23) https://articles.ohr.edu/articles/matot-the-names-of-jericho
 authorities: [Rashi, Radak, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Josephus, Yossiphon, Rabbeinu Yoel, Peirush HaRokeach, Rabbi Menachem Azaria of Fano, Rabbi Yedidya Tia Weil, Rabbi David Luria, Rabbi Shimon Schwab, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rashash]
-status: reviewed
 updated: 2026-09-10
 ---
 # Jericho: Yereicho / Yericho (Ir HaTmarim, reyach, yareyach)

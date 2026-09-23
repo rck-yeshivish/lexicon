@@ -23,7 +23,6 @@ sources:
   - wiaw:9211 "Shavuot: Brilliant Prohibitions" (2021-05-15) https://articles.ohr.edu/articles/shavuot-brilliant-prohibitions
   - wiaw:10970 "All Tied Up" (2023-06-03) https://articles.ohr.edu/articles/all-tied-up
 authorities: [Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Ibn Parchon, Rabbi Avraham Maimuni, Rabbeinu Efrayim, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Yehuda Ibn Chayyuj, Rabbi Jose Faur, Malbim]
-status: reviewed
 updated: 2026-09-10
 ---
 # Prohibition: azharah / issur / lav

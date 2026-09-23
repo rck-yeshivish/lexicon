@@ -25,7 +25,6 @@ sources:
   - wiaw:7730 "On the Tombstone" (2018-04-28) https://articles.ohr.edu/articles/on-the-tombstone
   - wiaw:10810 "Parshas Bo: Please Stand Up" (2023-01-28) https://articles.ohr.edu/articles/parshas-bo-please-stand-up
 authorities: [Rabbi Yechiel Michel Tukachinsky, Rabbi Shlomo Zalman Ehrenreich, Rabbi Moshe Shick, Rabbi Asher Pollak, Rabbi Eliyahu Katz, Rashi, Rabbi Shlomo Aharon Wertheimer]
-status: reviewed
 updated: 2026-09-10
 ---
 # Tombstone: matzeivah / tziyun / nefesh

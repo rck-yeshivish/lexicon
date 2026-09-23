@@ -21,7 +21,6 @@ words:
 sources:
   - wiaw:7332 "United We Fast" (2017-07-08) https://articles.ohr.edu/articles/united-we-fast
 authorities: [Radak, Rabbi Akiva Shlomo Deutsch-Dayan of Geneva, Rabbi Avraham Etiel Gurwitz, Rambam, Rema, Rabbi Yechiel Heilpern, Rabbi Moshe Di'Segovia Benveniste]
-status: reviewed
 updated: 2026-09-10
 ---
 # Fasting: tzom / taanis (inui)

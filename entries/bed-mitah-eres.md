@@ -21,7 +21,6 @@ sources:
   - wiaw:8364 "Beds of the Righteous" (2019-08-10) https://articles.ohr.edu/articles/beds-of-the-righteous
   - ms:297-beds-of-the-righteous.md "Beds of the Righteous"
 authorities: [Ramchal, Menachem Ibn Saruk, Radak, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rashbam, Rabbi Nosson of Rome, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Aviad Sar-Shalom Basilea, Rabbi Tzvi Hirsch Kaidanover, Dr. Richard C. Steiner]
-status: reviewed
 updated: 2026-09-22
 ---
 # Bed: mitah / eres (arisah)

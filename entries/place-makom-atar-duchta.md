@@ -21,7 +21,6 @@ words:
 sources:
   - wiaw:10994 "Chukas: The Right Site" (2023-06-17) https://articles.ohr.edu/articles/chukas-the-right-site
 authorities: [Targum Onkelos, Rashi, Rashbam, Rabbeinu Yosef Bechor Shor, Ibn Ezra, Eichah Rabbah, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Toviah ben Eliezer, Rabbeinu Meyuchas, Rabbi Menachem Ricanati, Rabbi Eliyahu HaBachur, Rabbi Yaakov Yehudah de Kassif, Rabbi Aharon Marcus, Rabbi Dr. Ernest Klein, Rabbi Dr. Yitzchak Greenblatt, Rabbi Joseph Perles, Dr. Alexander Kohut, Rabbi Shaul Goldman, HaKsav VeHaKabbalah]
-status: reviewed
 updated: 2026-09-10
 ---
 # Place: makom / atar / duchta

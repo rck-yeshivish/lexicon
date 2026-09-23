@@ -21,7 +21,6 @@ words:
 sources:
   - wiaw:11245 "Yisro: Stairs to Above" (2024-02-03) https://articles.ohr.edu/articles/yisro-stairs-to-above
 authorities: [Rambam, Rashi, pseudo-Rashi, Targum Yonasan, Targum Rav Yosef, Menachem Ibn Saruk, Yonah Ibn Janach, Shlomo Ibn Parchon, Radak, Rav Hirsch, Rabbi Yitzchak of Zeldin (Shoresh Yesha), Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Wilhelm Gesenius, Rabbi Dr. Ernest Klein, Avraham Even-Shoshan, Chaim Tawil, Benno Landsberger, Kohut, Brown-Driver-Briggs]
-status: reviewed
 updated: 2026-09-10
 ---
 # Level: madreigah / maalah / sulam

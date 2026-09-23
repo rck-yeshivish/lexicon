@@ -17,7 +17,6 @@ words:
 sources:
   - wiaw:7562 "Shouldering the Burden" (2017-12-30) https://articles.ohr.edu/articles/shouldering-the-burden
 authorities: [Targum, Rashi, Ibn Ezra, Radak, Ibn Janach, Rabbi Shlomo of Urbino (Ohel Moed), Rabbi Ezra Reuven Dangoor, Rabbi Chaim Elazar Shapiro (Munkatcher Rebbe), Rabbi Dovid Zvi Hoffmann]
-status: reviewed
 updated: 2026-09-10
 ---
 # Shoulder: shechem / katef

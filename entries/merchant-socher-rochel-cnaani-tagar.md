@@ -26,7 +26,6 @@ sources:
   - wiaw:11160 "Vayeshev: Mercantile Man" (2023-12-09) https://articles.ohr.edu/articles/vayeshev-mercantile-man
   - ms:060-mercantile-man.md "Mercantile Man"
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rashi, Rashbam, Ramban, Ibn Ezra, Ralbag, Malbim, Meiri, Metzudas Tzion, Rabbi Avraham Bedersi, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Shimon Yehuda Leib Goldblit, Rabbi Yosef Nechemias, Rabbi David Chaim Chelouche, Rabbi Eliyahu HaBachur, Rabbi Shlomo Fischer, Alexander Kohut, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Merchant: socher / rochel / cnaani (and tagar)

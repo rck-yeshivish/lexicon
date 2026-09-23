@@ -20,7 +20,6 @@ sources:
   - wiaw:11218 "Bo: Filling your Phylacteries" (2024-01-20) https://articles.ohr.edu/articles/bo-filling-your-phylacteries
   - ms:112-filling-your-phylacteries.md "Filling your Phylacteries"
 authorities: [Targum Onkelos, Targum Yonasan, Targum Neofiti, Peshitta, Ibn Ezra, Tosafos, Ibn Janach, Radak, Rashbam, Zohar, Rabbi Yaakov Tzvi Mecklenburg, Menachem Ibn Saruk, Rashi, Chizkuni, Rabbi Yosef Bechor Shor, Rabbi Yissocher Ber Eilenberg, Rabbi Mordechai Yaffe, Daas Mikra, Rabbi Shlomo Pappenheim, Rabbi Akiva, Rabbeinu Chaim Paltiel, Rabbi Avraham Saba, Abarbanel, Professor Hubert Grimme, Professor Jeffrey H. Tigay, the Rosh, the Tur, Maharal, Rabbi Yaakov Emden, Tiferes Yisrael, Rabbi Nosson of Rome, Sefer HeAruch, Rabbi Eliyahu HaBachur, Dr. Alexander Kohut, Pri Megadim, Rabbi Mordechai Abadi, Paneach Raza, Baal HaTurim, Noam Elimelech, Professor Moshe Weinfeld, Rabbi Pinchas Avraham Meyers, Rabbi Moshe Rachamim Shayo, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Phylacteries: totafos / tefillin

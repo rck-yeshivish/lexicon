@@ -23,7 +23,6 @@ words:
 sources:
   - wiaw:11898 "Voeschanan - A Time to Whistle" (2025-08-09) https://articles.ohr.edu/articles/voeschanan-a-time-to-whistle
 authorities: [Rashi, Radak, Rabbi Shlomo Ibn Parchon, Menachem Ibn Saruk, Ibn Janach, Rabbi Moshe Kimchi, Rabbi Shlomo Pappenheim, Ibn Ezra, Maharsha, Rabbi Avraham Palagi, Rabbi Shlomo Tapiero, Ramban, Rema, Aruch HaShulchan, Tur, Rabbi Yaakov Berger, Rabbi Shaul Goldman, Rabbi Yissachar Shlomo Teichtal, Rabbi Amitai Ben-David, the Lubavitcher Rebbe, Rashaz, Rabbi Efrayim Greenblatt, Chazon Ish, Rabbi Chaim Kanievsky, Rabbi Yosef Yitzchok Lerner]
-status: reviewed
 updated: 2026-09-10
 ---
 # Whistle: shreikah / tziftzuf

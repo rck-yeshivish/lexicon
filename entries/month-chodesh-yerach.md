@@ -23,7 +23,6 @@ words:
 sources:
   - wiaw:7687 "Old Month versus New Month" (2018-03-17) https://articles.ohr.edu/articles/old-month-versus-new-month
 authorities: [Malbim, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Mordechai Jaffe]
-status: reviewed
 updated: 2026-09-10
 ---
 # Month: chodesh / yerach

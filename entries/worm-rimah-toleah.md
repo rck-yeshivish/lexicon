@@ -19,7 +19,6 @@ words:
 sources:
   - wiaw:11902 "Matos-Masei: The Wormy Place" (2025-07-26) https://articles.ohr.edu/articles/matos-masei-the-wormy-place
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Ibn Parchon, Rabbi Shlomo Pappenheim, Rav Hirsch, Malbim, Netziv, Vilna Gaon, Rabbi Binyamin Rivlin, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Shlomo Aharon Wertheimer, Rabbi Eliyahu HaBachur, Rashbam, Rabbi Yehudah Aryeh of Carpentras, Rabbi David Chaim Chelouche, Rabbi Shaul Goldman, Alfred Jones]
-status: reviewed
 updated: 2026-09-10
 ---
 # Worm: rimah / toleah (tola'as)

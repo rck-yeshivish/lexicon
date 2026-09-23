@@ -36,7 +36,6 @@ sources:
   - wiaw:10940 "Bamidbar: Out in the Wild" (2023-05-20) https://articles.ohr.edu/articles/bamidbar-out-in-the-wild
   - ms:076-boats-ships-and-nautical-rhapsody.md "Boats, Ships, and Nautical Rhapsody"
 authorities: [Rashi, Radak, Ibn Ezra, Ralbag, Malbim, Rav Hirsch, Rabbi Shlomo Pappenheim, Rambam, Abarbanel, Sumchos, Rabbi Yaakov ben Yehudah Chazzan of London, Rabbi Dr. Daniel Sperber, Raphael Patai, Chaim Tawil, Shoresh Yesha, Menachem Ibn Saruk, the Vilna Gaon]
-status: reviewed
 updated: 2026-09-22
 ---
 # Boats: oniah / sefinah / rafsodah (and the smaller craft)

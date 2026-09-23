@@ -40,7 +40,6 @@ words:
 sources:
   - wiaw:7409 "Elul 2: Now!" (2017-09-09) https://articles.ohr.edu/articles/elul-2-now
 authorities: [Rabbi Eliyahu HaBachur, Rabbi Binyamin Mussafia, Rabbi Wolf Heidenheim, Marcus Jastrow]
-status: reviewed
 updated: 2026-09-10
 ---
 # Now: atah / na / achshav (and the Aramaic ke'an, hashta, ha'idna)

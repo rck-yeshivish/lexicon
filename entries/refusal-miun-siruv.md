@@ -22,7 +22,6 @@ sources:
   - wiaw:9254 "Biblical Refuseniks" (2021-06-19) https://articles.ohr.edu/articles/biblical-refuseniks
   - wiaw:9809 "Of Thorns and Thistles" (2022-08-06) https://articles.ohr.edu/articles/of-thorns-and-thistles
 authorities: [Menachem Ibn Saruk, Donash Ibn Labrat, Rashi, Radak, Rambam, Bartenura, Tosafos Yom Tov, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Yaakov Dienna, Oxford English Dictionary, Mahari Kara]
-status: reviewed
 updated: 2026-09-10
 ---
 # Refusal: mi'un / siruv

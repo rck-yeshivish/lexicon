@@ -25,7 +25,6 @@ words:
 sources:
   - wiaw:9785 "In the Middle" (2022-07-16) https://articles.ohr.edu/articles/in-the-middle
 authorities: [Menachem Ibn Saruk, Rabbeinu Yonah Ibn Janach, Rabbi Shlomo Ibn Parchon, Radak, Rabbi Eliyahu HaBachur, Rabbi Shmuel Ibn Tibbon, Rabbi David Golumb, Rabbi Ernest Klein, Rabbi Yehoshua Steinberg, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Shlomo Pappenheim, Ramban, Avraham Even-Shoshan]
-status: reviewed
 updated: 2026-09-10
 ---
 # Middle: emtza / merkaz / lev / tabur

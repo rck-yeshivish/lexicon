@@ -26,7 +26,6 @@ sources:
   - wiaw:11677 "Bo: Follow the Leader (Part 1/2)" (2025-02-01) https://articles.ohr.edu/articles/bo-follow-the-leader-part-12
   - wiaw:11678 "Beshalach: Follow the Leader (Part 2/2)" (2025-02-08) https://articles.ohr.edu/articles/beshalach-follow-the-leader-part-22
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Malbim, Rav Hirsch, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Shimon Goldblit, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Yaakov Tzvi Mecklenburg, Rabbi David Chaim Chelouche, Rabbi Yosef Grayever, Rabbi Ezra Reuven Dangoor, Rabbi Yosef Shapotshnick, Menachem Ibn Saruk, Ibn Janach, Ibn Parchon, Radak, Rabbi Shmuel Yehudah Steiger, Yehoshua Yaron, Rabbi Shmuel Ibn Tibbon, Shadal, Rabbi Shlomo of Urbino, Mahari Mintz, Rabbi Yaakov Emden, Pele Yoetz, Sdei Chemed]
-status: reviewed
 updated: 2026-09-10
 ---
 # Leading: noheg / molich / nachah / nohel

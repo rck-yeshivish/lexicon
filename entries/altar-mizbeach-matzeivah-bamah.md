@@ -26,7 +26,6 @@ sources:
   - wiaw:10810 "Parshas Bo: Please Stand Up" (2023-01-28) https://articles.ohr.edu/articles/parshas-bo-please-stand-up
   - ms:043-stoned-and-high-altars.md "Stoned and High Altars"
 authorities: [Rashi, Ramban, Radak, Rabbi Yonah Ibn Janach, Rabbi Avraham Maimuni, Zohar, Rabbi Elimelech of Lizhensk, Sifrei, Mishnah Zevachim, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, the Vilna Gaon, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Altar: mizbeach / matzeivah / bamah

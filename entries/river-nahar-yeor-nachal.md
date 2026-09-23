@@ -22,7 +22,6 @@ sources:
   - wiaw:8076 "Down by the River" (2019-01-05) https://articles.ohr.edu/articles/down-by-the-river
   - ms:100-down-by-the-river.md "Down by the River"
 authorities: [Rashi, Malbim, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Malkiel Tzvi Tannenbaum, Chasam Sofer, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # River: nahar / yeor / nachal

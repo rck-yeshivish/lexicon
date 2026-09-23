@@ -30,7 +30,6 @@ sources:
   - wiaw:11526 "Yom Kippur: Shake & Quake (Pt. 2/3)" (2024-10-12) https://articles.ohr.edu/articles/yom-kippur-shake-quake-pt-23
   - wiaw:11527 "Sukkot: Shake & Quake (Pt. 3/3)" (2024-10-19) https://articles.ohr.edu/articles/sukkot-shake-quake-pt-33
 authorities: [Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Shlomo Pappenheim, Radak, Rabbeinu Yonah Ibn Janach, Menachem Ibn Saruk, Rabbi Avraham Bedersi, Rabbi Yosef Kimchi, Rabbi Shlomo Ibn Parchon, Rashi, Rashbam, Shadal, Rabbi Reuven Landau, Targum Onkelos, Targum Yonasan, Baal HaTurim, Rabbi Mordechai Kohen of Safed, Avraham Even-Shoshan]
-status: reviewed
 updated: 2026-09-10
 ---
 # Trembling: ra'adah / ziyah / retet (ra'ash, rogez, ga'ash)

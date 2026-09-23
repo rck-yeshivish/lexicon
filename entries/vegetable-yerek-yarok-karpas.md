@@ -22,7 +22,6 @@ words:
 sources:
   - wiaw:11353 "Metzorah/Shabbos HaGadol: Veggies for the Dipping" (2024-04-20) https://articles.ohr.edu/articles/metzorahshabbos-hagadol-veggies-for-the-dipping
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rashi, Rabbi Avraham Bedersi, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Saadia Gaon, Ibn Parchon, Ibn Ezra, Rabbi Tanchum HaYerushalmi, Ralbag, Ibn Yachya, Rabbi Yosef Nechemias, Rabbi Baruch Epstein, Rabbi Dr. Ernest Klein, Aquila, Dr. Alexander Kohut, Rabbi Shaul Goldman, Rabbi Alan Yuter, Rabbeinu Manoach, Maharil, Ibn Shuaib, Ben Ish Chai, Rabbi Shmuel of Falaise, Rabbi Yosef Tuv-Elem, Rabbi Yaakov Yisroel Stahl]
-status: reviewed
 updated: 2026-09-10
 ---
 # Vegetable and green: yerek / yarok / karpas

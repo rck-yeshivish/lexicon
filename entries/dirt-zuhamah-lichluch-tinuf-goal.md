@@ -29,7 +29,6 @@ words:
 sources:
   - wiaw:11413 "Shavuos: Getting Dirty" (2024-06-08) https://articles.ohr.edu/articles/shavuos-getting-dirty
 authorities: [Rabbi Shlomo Pappenheim, Rav Hirsch, Radak, Menachem Ibn Saruk, Rabbeinu Yonah Ibn Janach, Donash Ibn Labrat, Rabbi Tanchum HaYerushalmi, Rabbi Yehoshua Steinberg, Rabbi Yaakov Emden, Rashi, Rambam, Rabbi Shimon of Shantz, Rabbi Shaul Goldman, Rabbi Shlomo Ibn Parchon, Shadal, Rabbi Tzemach Duran, Pseudo-Rashbam, Alexander Kohut, Wilhelm Gesenius]
-status: reviewed
 updated: 2026-09-10
 ---
 # Dirt: zuhamah / lichluch / tinuf / go'al / elach

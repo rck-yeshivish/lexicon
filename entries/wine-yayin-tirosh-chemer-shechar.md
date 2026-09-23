@@ -32,7 +32,6 @@ sources:
   - wiaw:9616 "Words for Wine (Part 1)" (2022-03-12) https://articles.ohr.edu/articles/words-for-wine-part-1
   - wiaw:9632 "Words for Wine (Part 2)" (2022-03-26) https://articles.ohr.edu/articles/words-for-wine-part-2
 authorities: [Rashi, Radak, Ramban, Rabbi Yosef Kimchi, Menachem Ibn Saruk, Rabbeinu Yonah Ibn Janach, Rabbi Moshe Ibn Ezra, Ibn Ezra, Rabbi Yehudah Ibn Balaam, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Yaakov Emden, Rabbeinu Elyakim, Rabbeinu Bachaya, Rabbi Avraham Bedersi, Rabbi Yosef Kara, the Vilna Gaon, Maharal, Maharil, Rabbi Shlomo of Urbino, Rabbi Dr. Yehuda Felix, Rambam, Rashbam, Rabbi Yosef Bechor Shor, Ritva, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yosef Nechemias, Rabbi David Chaim Chelouche, Rabbi Yaakov Yosef Katz of Polonne, Rabbi Yitzchak of Zeldin, Rabbi Yitzchak Sarim, Edward Yechezkel Kutscher]
-status: reviewed
 updated: 2026-09-10
 ---
 # Wine: yayin / tirosh / chemer / shechar

@@ -29,7 +29,6 @@ words:
 sources:
   - wiaw:11644 "Vayigash: Cutting Tools" (2025-01-04) https://articles.ohr.edu/articles/vayigash-cutting-tools
 authorities: [Menachem Ibn Saruk, Radak, Ibn Janach, Rabbi Shlomo Ibn Parchon, Donash Ibn Labrat, Rashi, Rabbeinu Tam, Rav Hirsch, Targum Yonasan, Dr. Aaron J. Koller]
-status: reviewed
 updated: 2026-09-10
 ---
 # Cutting tools: garzen / kardum / maatzad (kashil, keilapot)

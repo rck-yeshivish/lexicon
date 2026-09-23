@@ -55,7 +55,8 @@ Every entry in `../entries/` must trace to a file here. Orthodox sources only.
   has since allowed is an essay the published corpus does not hold at all: *My Husband, My
   Man*, *Of Demons and Spirits* and *Output Understood* are entries drawn from the chapter
   alone, and their source line is `ms:<chapter>.md` because there is nothing to link to.
-  Each chapter opens with the author's own working notes before the essay proper begins. His
+  He has read the husband entry; *Of Demons and Spirits*, *Output Understood* and *Making
+  Mountains out of Hills* still wait for his reading. Each chapter opens with the author's own working notes before the essay proper begins. His
   rule for them: a note that is fully formed and stands on its own may go into an entry; one
   that only names a source without saying what it says, or says "see" something, or is too raw
   to mean anything alone, stays out. The notes he meant for use are usually highlighted yellow,

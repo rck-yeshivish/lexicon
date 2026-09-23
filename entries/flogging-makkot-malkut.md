@@ -26,7 +26,6 @@ sources:
   - wiaw:8584 "That's a Flogging" (2020-02-01) https://articles.ohr.edu/articles/thats-a-flogging
   - ms:111-thats-a-flogging.md "That’s a Flogging"
 authorities: [Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Ibn Chayyuj, Rabbi Yonah Ibn Janach, Radak, Rabbi Eliyahu HaBachur, Rabbi Naftali HaKohen Katz, Rabbi Shmuel Taieb, Tiferes Yisrael, Rabbi Elazar Rokeach, Avraham Even-Shoshan, Zohar, Rabbi Moshe Shapiro]
-status: reviewed
 updated: 2026-09-22
 ---
 # Flogging: makkot / malkut (lakah)

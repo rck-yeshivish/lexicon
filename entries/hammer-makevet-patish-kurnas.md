@@ -26,7 +26,6 @@ sources:
   - wiaw:11627 "Vayeshev: The Hebrew Hammers (Part 1/2)" (2024-12-21) https://articles.ohr.edu/articles/vayeshev-the-hebrew-hammers-part-12
   - wiaw:11634 "Miketz: The Hebrew Hammers (Part 2/2)" (2024-12-28) https://articles.ohr.edu/articles/miketz-the-hebrew-hammers-part-22
 authorities: [Ibn Janach, Ibn Parchon, Radak, Menachem Ibn Saruk, Rashi, Rabbeinu Gershom, Rabbi Nosson of Rome, Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yitzchak Avineri, Rabbi Binyamin Mussafia, Rokeach, Rabbi Avraham Saba, Alshich, Shelah, Vilna Gaon, Chasam Sofer, Ramak, Maggid of Kozhnitz, Rabbi Yochanan Treves, Rabbi Ernest Klein, Dr. Alexander Kohut, Abraham Kahana, Rabbi Eliyahu Shmuel Hartom]
-status: reviewed
 updated: 2026-09-10
 ---
 # Hammer: makeves / patish / kurnas (and halmus)

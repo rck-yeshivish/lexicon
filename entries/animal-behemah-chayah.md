@@ -22,7 +22,6 @@ sources:
   - wiaw:6999 "Don't be a Behemah or a Chayah!" (2016-11-12) https://articles.ohr.edu/articles/dont-be-a-behemah-or-a-chayah
   - wiaw:9126 "Vayakhel/Pekudei: Animal Sounds" (2021-03-13) https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds
 authorities: [Ibn Ezra, Radak, Ramban, Netziv, Rabbi Chaim Kanievsky, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus]
-status: reviewed
 updated: 2026-09-10
 ---
 # Animal: behemah / chayah

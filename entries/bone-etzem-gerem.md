@@ -18,7 +18,6 @@ words:
 sources:
   - wiaw:10785 "Them Bones and Themselves" (2023-01-07) https://articles.ohr.edu/articles/them-bones-and-themselves
 authorities: [Menachem Ibn Saruk, Rashi, Ralbag, Ramban, Rav Hirsch, Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Yaakov Emden, Rabbi Eliyahu HaBachur, Rambam, Rabbi Tanchum HaYerushalmi, Rabbeinu Bachaya, Metzudas Tzion, Tosafos, Rabbi David Chaim Chelouche]
-status: reviewed
 updated: 2026-09-10
 ---
 # Bone: etzem / gerem

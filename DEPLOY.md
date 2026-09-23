@@ -61,10 +61,8 @@ reason this file no longer gives that command anywhere.
 
 ## Before sharing the link
 
-The site is publicly readable, and every entry is still `status: draft`:
-sourced and lint-clean, but not yet read against its source by a person.
-Cloudflare Access can gate the whole site in the meantime, under the project's
-**Settings → Access policy**.
+The site is publicly readable. Cloudflare Access can gate the whole site if it
+should not be, under the project's **Settings → Access policy**.
 
 ## Building on Cloudflare instead of here
 

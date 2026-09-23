@@ -22,7 +22,6 @@ sources:
   - wiaw:7839 "A Heritage of Inheritance" (2018-07-07) https://articles.ohr.edu/articles/a-heritage-of-inheritance
   - ms:270-a-heritage-of-inheritance.md "A Heritage of Inheritance"
 authorities: [Malbim, Shadal, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Inheritance: nachalah / yerushah / achuzah

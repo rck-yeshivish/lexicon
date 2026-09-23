@@ -28,7 +28,6 @@ sources:
   - wiaw:11200 "Shemos: Pulling & Drawing" (2024-01-06) https://articles.ohr.edu/articles/shemos-pulling-drawing
   - ms:094-pulling-drawing.md "Pulling & Drawing"
 authorities: [Rashi, Rashbam, Radak, Ibn Janach, Ibn Chayyuj, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi David Chaim Chelouche, Rabbi Shlomo Aharon Wertheimer, Ramban, Rabbi Menachem ben Shlomo (Midrash Sechel Tov), Rabbi Shlomo Ibn Parchon, Rabbi Moshe Alshich, Chizkuni, Peirush HaRokeach, Peirush HaTur, Midrash HaGadol, Shadal, Rabbi Shlomo Zalman Ehrenreich, Rabbi Menachem Mendel Kasher (Torah Shleimah), Moshav Zekanim, Rabbi Yaakov Berger, Ibn Ezra, Mahari Kara, Kli Yakar]
-status: reviewed
 updated: 2026-09-22
 ---
 # Pulling and drawing: moshe / moshech / shoev / shoef

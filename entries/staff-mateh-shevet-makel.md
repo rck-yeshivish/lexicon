@@ -37,7 +37,6 @@ sources:
   - wiaw:9877 "Trusting and Relying on G-d" (2022-09-10) https://articles.ohr.edu/articles/trusting-and-relying-on-g-d-2
   - ms:274-tribesmen-stick-together.md "Tribesmen Stick Together"
 authorities: [Malbim, Rashi, Rabbi Shlomo Aharon Wertheimer, Vilna Gaon, Rabbi Yehuda ibn Kuraish, Rabbi Yaakov Lorberbaum of Lissa, Rabbi Yaakov Tzvi Mecklenburg, Shadal, Rabbi Zev HaKohen Hoberman, Rabbi Shlomo Pappenheim, Ohel Moed, Rabbi Levi Yitzchak of Berditchev]
-status: reviewed
 updated: 2026-09-22
 ---
 # Staff and tribe: mateh / shevet / mishenes / makel / sharvit / choter

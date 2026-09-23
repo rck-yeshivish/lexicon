@@ -22,7 +22,6 @@ sources:
   - wiaw:10935 "Emor: Getting Stoned" (2023-05-06) https://articles.ohr.edu/articles/emor-getting-stoned
   - ms:205-getting-stoned.md "Getting Stoned"
 authorities: [Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Yosef Kimchi, Rashi, Targum, Meiri, Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Yaakov Tzvi Mecklenburg, Yashar, Rabbi Yehuda Leib Shapira-Frankfurter, Sefer HaChochmah, Rav Hirsch, Rabbi Yehoshua Steinberg, Rabbi Yaakov Berger, Ohalei Yehuda, Rabbi Aharon Marcus, Rabbi Avi Kobernick, Rabbi Yitzchak Ginsburgh, Mishnas Rabbi Eliezer, Ibn Ezra, Abarbanel, Avraham Shmuel Herschberg, Rabbi Refael Gruskin, Rabbi Chaim Hirschensohn, Rabbi Yaakov Yehudah Zilberberg Di Kasif, Rabbi Binyamin Kohen-Shauli, Rabbi Yaakov Loyfer, Noonan]
-status: reviewed
 updated: 2026-09-22
 ---
 # Stoning: sekilah / regimah (margeimah, regem)

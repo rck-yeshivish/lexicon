@@ -28,7 +28,6 @@ sources:
   - wiaw:11449 "Chukas: Out in Public" (2024-07-13) https://articles.ohr.edu/articles/chukas-out-in-public
   - ms:219-escape-from-patros.md "Escape from Patros"
 authorities: [Radak, Rashi, Ibn Ezra, Ramban, Rabbeinu Bachaya, Chizkuni, Midrash Sechel Tov, Bereishis Rabbah, Maharzu, Peirush HaRokeach, Rabbi Yehuda HaChassid, Sefer Chassidim, Hadar Zekeinim, Ateres Zekeinim, Rabbi Elazar Rokeach of Worms, Rabbi Chaim Vital, Rid, Tosafos, Rabbeinu Tam, Rabbeinu Chananel, Rabbeinu Nissim Gaon, Shitah Mekubetzes, Rabbi Aharon Marcus, Rabbi Shlomo Ibn Gabirol, Shadal, Solomon Löwisohn, Alexander Kohut, Shulamit Elitzur, Rabbi Shlomo Pappenheim, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Egypt: Mitzrayim / Patros / Rahav (Matzor, Kaftor, eretz Cham)

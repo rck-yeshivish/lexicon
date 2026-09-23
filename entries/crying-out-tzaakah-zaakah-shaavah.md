@@ -23,7 +23,6 @@ sources:
   - wiaw:7655 "For Crying Out Loud" (2018-02-24) https://articles.ohr.edu/articles/for-crying-out-loud
   - wiaw:9464 "Seeking Salvation" (2021-11-27) https://articles.ohr.edu/articles/seeking-salvation
 authorities: [Rashi, Ramban, Zohar, Malbim, Tosafos, Rabbi Shlomo Pappenheim, Rabbi Elazar Rokeach of Worms, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Emmanuel Chai Ricci, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch]
-status: reviewed
 updated: 2026-09-10
 ---
 # Crying out: tzaakah / zaakah / shaavah

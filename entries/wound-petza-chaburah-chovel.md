@@ -27,7 +27,6 @@ sources:
   - wiaw:11066 "Taking Collateral" (2023-08-26) https://articles.ohr.edu/articles/taking-collateral
   - wiaw:10974 "Shelach: Learning the Ropes" (2023-06-10) https://articles.ohr.edu/articles/shelach-learning-the-ropes
 authorities: [Rashi, Vilna Gaon, Malbim, Rabbi Shlomo Aharon Wertheimer, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Ibn Ezra, Rav Saadia Gaon, Rashbam, Rav Hirsch, Rabbi Moshe Tedeschi-Ashkenazi, Rambam, Rabbi Yaakov Berger, Yitzchak Ber Levinsohn, Rabbi David Chaim Chelouche, Yoel Florsheim, Rabbi Baruch Schönfeld, Rabbi Shlomo Pappenheim]
-status: reviewed
 updated: 2026-09-10
 ---
 # Wound: petza / chaburah (chovel)

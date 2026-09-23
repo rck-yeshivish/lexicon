@@ -29,7 +29,6 @@ words:
 sources:
   - wiaw:11128 "Vayera: Getting Pushy" (2023-11-04) https://articles.ohr.edu/articles/vayera-getting-pushy
 authorities: [Rav Hirsch, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Malbim, Menachem Ibn Saruk, Ibn Janach, Radak, Rashi, Rabbi David Abudarham, Rabbi Yosef Kimchi, Rabbi David Golumb, Ramban, Targum Yonasan, Metzudas Tzion, Shadal, Rabbi Abraham Grego, Norbert Pearlroth, David L. Gold]
-status: reviewed
 updated: 2026-09-10
 ---
 # Pushing: potzer / docheh / dochef / hadof / dofek

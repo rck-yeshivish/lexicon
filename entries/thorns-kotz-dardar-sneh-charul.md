@@ -70,7 +70,6 @@ sources:
   - wiaw:9809 "Of Thorns and Thistles" (2022-08-06) https://articles.ohr.edu/articles/of-thorns-and-thistles
   - wiaw:9482 "Freezing Cold" (2021-12-11) https://articles.ohr.edu/articles/freezing-cold
 authorities: [Rabbi Shlomo of Urbino, Menachem Ibn Saruk, Yonah Ibn Janach, Radak, Rashi, Rabbi Saadia Gaon, Ibn Ezra, Rabbi Shlomo Pappenheim, Rav Hirsch, Vilna Gaon, Ohalei Yehuda, Shoresh Yesha, Rabbi Aharon Marcus, Rabbi Yehoshua Steinberg, Ramban, Donash Ibn Labrat, Mahari Kara, Rabbi Avraham ben Shlomo, Rabbi David Chaim Chelouche, Malbim, Rabbi David Golumb, Rabbi Yaakov Yehudah de Kassif, Yaakov Reifman, Rabbi Yechiel Michel Stern, Metzudas Tzion, Rashbam, Rabbi Yosef Nechemias]
-status: reviewed
 updated: 2026-09-10
 ---
 # Thorns: kotz / dardar / sneh / charul (and the rest of the twenty)

@@ -26,7 +26,6 @@ words:
 sources:
   - wiaw:9192 "Strange Aliens" (2021-05-01) https://articles.ohr.edu/articles/strange-aliens
 authorities: [Ibn Ezra, Vilna Gaon, Rabbi Shlomo Aharon Wertheimer, Malbim, Sefer Chassidim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Targum Onkelos, Targum Yonatan, Peirush Yonatan, Mechilta, Yair, Me'at Tzari, Oxford English Dictionary]
-status: reviewed
 updated: 2026-09-10
 ---
 # Stranger: zar / nachri (chiloni, hedyot)

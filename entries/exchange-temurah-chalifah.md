@@ -18,7 +18,6 @@ sources:
   - wiaw:8714 "Old Switcheroo" (2020-05-23) https://articles.ohr.edu/articles/old-switcheroo
   - ms:215-the-old-switcheroo.md "The Old Switcheroo"
 authorities: [Rabbi Yisrael Yaakov Algazi, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Malbim, Ibn Chayyuj, Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Shes ben Yefes, Rabbi Gavriel Wolf Margolios]
-status: reviewed
 updated: 2026-09-22
 ---
 # Exchange: temurah / chalifah

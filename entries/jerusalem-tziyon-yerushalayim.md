@@ -22,7 +22,6 @@ words:
 sources:
   - wiaw:7874 "Twin Cities: Zion and Jerusalem" (2018-07-28) https://articles.ohr.edu/articles/twin-cities-zion-and-jerusalem
 authorities: [Rabbi Ashtori HaParchi, Radbaz, Rabbi Elazar Azkiri, Rashi, Vilna Gaon, Ibn Ezra, Radak, Dunash ibn Labrat, Midrash Socher Tov, Rabbi Yosef Tuv-Elem, Zohar, Rabbi Yechiel Michel Tukachinsky, Rogatchover Gaon, Targum]
-status: reviewed
 updated: 2026-09-10
 ---
 # Jerusalem: Tziyon / Yerushalayim (Ir David, tziyun)

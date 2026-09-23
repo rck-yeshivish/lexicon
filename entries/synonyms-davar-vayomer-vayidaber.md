@@ -19,7 +19,6 @@ sources:
   - wiaw:9039 "Bo: Come To Pharaoh" (2021-01-23) https://articles.ohr.edu/articles/bo-come-to-pharaoh
   - ms:003-flying-sparks.md "Introduction: Synonyms in the Hebrew Language"
 authorities: [Malbim, Ibn Ezra, Vilna Gaon, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Tosafos, Zohar, Afarkesta DeAnya, Sifrei]
-status: reviewed
 updated: 2026-09-22
 ---
 # Synonyms: the method (davar, vayomer / vayidaber, melucha / moshel, ba / atah)

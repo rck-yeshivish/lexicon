@@ -43,7 +43,6 @@ sources:
   - wiaw:9308 "The Ultimate Teacher" (2021-07-24) https://articles.ohr.edu/articles/the-ultimate-teacher
   - ms:271-bovine-words-cows-and-cowboys.md "Bovine Words: Cows and Cowboys"
 authorities: [Rabbi Eliezer HaKallir, Peirush HaRokeach, Rabbeinu Efrayim, Rabbi Zalman Hanau, Rabbi Shlomo Pappenheim, Rashi, Radak, Rabbi Yonah Merzbach, the Vilna Gaon, Rabbi Yehoshua Steinberg, Julian Mason, Malbim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Cattle: shor / par / egel / aleph / bakar

@@ -38,7 +38,6 @@ words:
 sources:
   - wiaw:10974 "Shelach: Learning the Ropes" (2023-06-10) https://articles.ohr.edu/articles/shelach-learning-the-ropes
 authorities: [Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Abarbanel, Targum Yonasan, Targum Onkelos, Malbim, Rashi, Rav Hirsch, Rabbi David Chaim Chelouche, Rabbi Amitai Ben-David, Rabbi Ernest Klein]
-status: reviewed
 updated: 2026-09-10
 ---
 # Rope: chevel / chut / avot (kevel, eitun, meitar, moseirah)

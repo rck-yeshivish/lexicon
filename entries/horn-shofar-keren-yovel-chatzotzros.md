@@ -34,7 +34,6 @@ sources:
   - wiaw:8505 "The Ovine and Caprine Families" (2019-12-07) https://articles.ohr.edu/articles/the-ovine-and-caprine-families
   - ms:342-the-shofars-horn.md "The Shofar’s Horn"
 authorities: [Ramban, Ran, Ritva, Rav Hirsch, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Ibn Janach, Radak, Rambam, Mabit, Chasam Sofer, Aruch LaNer, Avraham Even-Shoshan, Rabbi Ernest Klein, Ohalei Yehudah]
-status: reviewed
 updated: 2026-09-22
 ---
 # Horn: shofar / keren / yovel / chatzotzros

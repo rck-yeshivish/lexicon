@@ -31,7 +31,6 @@ words:
 sources:
   - wiaw:11363 "Pesach: Eating Cake" (2024-04-27) https://articles.ohr.edu/articles/pesach-eating-cake
 authorities: [Rashi, Mechilta D'Rabbi Yishmael, Targum, Ibn Ezra, Shadal, Rabbi Shalom Shabazi, Rabbi Yehuda Aszad, Rabbi Shimon Sofer of Erloi, Rabbi Chizkiyah Medini, Rabbi Binyamin Mussafia, Rabbi Ernest Klein, Rabbi Aharon Marcus, Rabbi Yechiel Michel Epstein, Rabbi Yitzchak of Pira, Rabbi Shaul Goldman, Dr. Tamar Katzir, Alexander Kohut, HALOT, Avraham Even-Shoshan, Julius Pokorny, Tosafos]
-status: reviewed
 updated: 2026-09-10
 ---
 # Cake: ugah / chararah / kikar / gluskos

@@ -21,7 +21,6 @@ words:
 sources:
   - wiaw:6774 "Energizing the Tired and Exhausted" (2017-10-28) https://articles.ohr.edu/articles/energizing-the-tired-and-exhausted
 authorities: [Rid, Radak, Malbim, Rabbi Yosef of Saragossa, Rabbi Shlomo Aharon Wertheimer, Rabbi Shimon Schwab]
-status: reviewed
 updated: 2026-09-10
 ---
 # Tired: ayef / yaef / yagea

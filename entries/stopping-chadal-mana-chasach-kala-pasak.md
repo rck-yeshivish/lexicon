@@ -32,7 +32,6 @@ sources:
   - wiaw:9359 "Seasoning the Land (Part 2) - Nitzavim / Rosh Hashanah:" (2021-09-04) https://articles.ohr.edu/articles/seasoning-the-land-part-2-nitzavim-rosh-hashanah
   - ms:103-stop-it.md "Stop It!"
 authorities: [Rabbi Yosef Grayever, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Malbim, Targum Onkelos, Rashi, Rabbi Yaakov Toledano, Rabbi Rafael Binyamin Posen, Rav Hirsch]
-status: reviewed
 updated: 2026-09-22
 ---
 # Stopping: chadal / mana / chasach / kala / pasak

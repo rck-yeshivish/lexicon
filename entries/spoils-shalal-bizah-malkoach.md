@@ -32,7 +32,6 @@ sources:
   - wiaw:8422 "Return to Sender: The True Meaning of Teshuva" (2019-10-05) https://articles.ohr.edu/articles/return-to-sender-the-true-meaning-of-teshuva
   - ms:117-take-your-booty.md "Take Your Booty"
 authorities: [Rashi, Rabbi Avraham Bedersi HaPenini, Maharal, Radak, Rabbi Yaakov Chaim Sofer, Vilna Gaon, Malbim, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Targum Onkelos, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Baruch HaLevi Epstein, Menachem Ibn Saruk, Ibn Janach, Rabbi Shmuel Ibn Tibbon, the Rosh, Rabbi Eliyahu Benamozegh, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Spoils of war: shalal / baz (bizah) / malkoach / shevi / ad

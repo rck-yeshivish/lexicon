@@ -28,7 +28,6 @@ sources:
   - wiaw:11342 "Tazria: The Cutter" (2024-04-13) https://articles.ohr.edu/articles/tazria-the-cutter
   - wiaw:11687 "Yisro: Write it down" (2025-02-15) https://articles.ohr.edu/articles/yisro-write-it-down
 authorities: [Rashi, Rambam, Abarbanel, Rabbi Chaim Kanievsky, Shadal, Rav Hirsch, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Menachem Ibn Saruk, Rabbi Yehudah Aryeh of Carpentras, Malbim, Rabbi Yosef Kara, Ibn Ezra, Vilna Gaon, Metzudas David, Rabbi Shalom Shabazi, Targum Onkelos, Alexander Kohut, Peretz Smolenskin]
-status: reviewed
 updated: 2026-09-10
 ---
 # Artisan: charash / choshev / rokem

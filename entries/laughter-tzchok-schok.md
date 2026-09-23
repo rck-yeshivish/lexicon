@@ -18,7 +18,6 @@ sources:
   - wiaw:8903 "A Laughing Matter" (2020-10-31) https://articles.ohr.edu/articles/a-laughing-matter
   - ms:020-a-laughing-matter.md "A Laughing Matter"
 authorities: [Menachem Ibn Saruk, Ibn Janach, Rabbi Shlomo Pappenheim, Rav Hirsch, Malbim, Onkelos, Rashi, Rabbeinu Bachaya, Rabbi Shmuel Feivish Kahane, Rabbi Yehuda Moscato, Rabbi Shmuel Borenstein, Vilna Gaon, Arizal, the Ran]
-status: reviewed
 updated: 2026-09-22
 ---
 # Laughter: tzchok / s'chok

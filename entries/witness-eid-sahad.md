@@ -26,7 +26,6 @@ words:
 sources:
   - wiaw:11139 "Vayeitzei: Testify!" (2023-11-25) https://articles.ohr.edu/articles/vayeitzei-testify
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Shlomo Ibn Parchon, Malbim, Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Shadal, Rabbi Yehudah Aryeh of Carpentras, Rabbi Avraham Kobernick, Herschell Filipowsky, Ángel Sáenz-Badillo, Rabbi Yosef Kerman]
-status: reviewed
 updated: 2026-09-10
 ---
 # Witness: eid / sahad (and kadosh)

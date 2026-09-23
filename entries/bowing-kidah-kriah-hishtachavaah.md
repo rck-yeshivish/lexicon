@@ -25,7 +25,6 @@ words:
 sources:
   - wiaw:90002 "Take a Bow" (2018-11-01) https://groups.google.com/g/whats-in-a-word/c/7yPb1reWKno
 authorities: [Gemara, Tosafos, Maharsha, Rabbi Shlomo Pappenheim, Malbim, Rav Hirsch, Radak, Targum]
-status: reviewed
 updated: 2026-09-14
 ---
 # Bowing: kidah / kriah / hishtachavaah / segidah

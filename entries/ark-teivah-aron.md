@@ -20,7 +20,6 @@ sources:
   - wiaw:9405 "Words for Words" (2021-10-23) https://articles.ohr.edu/articles/words-for-words
   - ms:011-a-tale-of-two-arks.md "A Tale of Two Arks"
 authorities: [Rabbi Aharon Marcus, Ibn Janach, Radak, Rav Hirsch, Ibn Ezra]
-status: reviewed
 updated: 2026-09-22
 ---
 # Ark: teivah / aron

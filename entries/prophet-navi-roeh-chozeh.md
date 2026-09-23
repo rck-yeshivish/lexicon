@@ -24,7 +24,6 @@ sources:
   - wiaw:8052 "Prophets and Visionaries" (2018-12-29) https://articles.ohr.edu/articles/prophets-and-visionaries
   - ms:091-prophets-and-visionaries.md "Prophets and Visionaries"
 authorities: [Rashi, Rashbam, Ibn Ezra, Rabbi Yonah Ibn Janach, Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Malbim, Vilna Gaon, Rabbi Aharon Marcus, Targum Onkelos, Rasag, Bereishis Rabbah, Chasam Sofer]
-status: reviewed
 updated: 2026-09-22
 ---
 # Prophet: navi / roeh / chozeh

@@ -29,7 +29,6 @@ words:
 sources:
   - wiaw:11006 "Balak: Muzzled Up" (2023-07-01) https://articles.ohr.edu/articles/balak-muzzled-up
 authorities: [Radak, Rashi, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi, Rabbi Moshe Tedeschi-Ashkenazi, Rav Hirsch, Rabbi Yehudah Aryeh of Carpentras, Rabbi Aharon Marcus, Rabbi Yehoshua Steinberg, Rabbi Yaakov Tzvi Mecklenburg, Shadal, Rabbi Amitai Ben-David, Menachem Ibn Saruk, Yonah Ibn Janach, Shlomo Ibn Parchon, Dr. David J. A. Clines, Dr. Alexander Kohut]
-status: reviewed
 updated: 2026-09-10
 ---
 # Muzzle: resen / meteg / zemam (prumbia, afsar)

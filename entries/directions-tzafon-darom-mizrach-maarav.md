@@ -66,7 +66,6 @@ sources:
   - wiaw:7029 "Looking Four Directions" (2016-12-03) https://articles.ohr.edu/articles/looking-four-directions
   - ms:301-looking-four-directions.md "Looking Four Directions"
 authorities: [Rabbeinu Bachaya, Rabbi Shlomo Pappenheim, Rashi, Chavos Yair, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Compass directions: tzafon / darom (negev, teiman) / mizrach (kedem) / maarav (yam)

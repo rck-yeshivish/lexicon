@@ -23,7 +23,6 @@ words:
 sources:
   - wiaw:11069 "Single Guys" (2023-09-02) https://articles.ohr.edu/articles/single-guys
 authorities: [Rashi, Tosafos, Rambam, Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Matnos Kehunah, Radak, Rabbi Yehudah Aryeh of Carpentras, Dr. Alexander Kohut, Rabbi Dr. Ernest Klein]
-status: reviewed
 updated: 2026-09-10
 ---
 # Unmarried man: ravak / panui / bachur

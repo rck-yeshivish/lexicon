@@ -25,7 +25,6 @@ words:
 sources:
   - wiaw:11010 "Pinchas: Piercing Spears" (2023-07-08) https://articles.ohr.edu/articles/pinchas-piercing-spears
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Moshe Tedeschi-Ashkenazi, Ohalei Yehuda, Rav Hirsch, Rabbi Shlomo Pappenheim, Shoresh Yesha, Rambam, Rabbi Ernest Klein, Rabbi Yehoshua Steinberg, Rabbi Tanchum HaYerushalmi, Targum, Rabbi Shmuel Krauss, HALOT, Dr. Raphael Sappan, Avraham Even-Shoshan, Elimelech Klein]
-status: reviewed
 updated: 2026-09-10
 ---
 # Spear: romach / chanit / kidon (alunki)

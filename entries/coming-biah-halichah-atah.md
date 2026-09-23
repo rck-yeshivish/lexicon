@@ -24,7 +24,6 @@ sources:
   - wiaw:9039 "Bo: Come To Pharaoh" (2021-01-23) https://articles.ohr.edu/articles/bo-come-to-pharaoh
   - wiaw:6817 "Introduction - Synonyms in the Hebrew Language" (2016-06-25) https://articles.ohr.edu/articles/introduction-synonyms-in-the-hebrew-language
 authorities: [Baal HaTurim, Hadar Zekeinim, Moshav Zekeinim, Ramban, Zohar, Rabbi Elimelech of Lizhensk, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rav Hirsch, Malbim, Rabbi Menachem Mendel Kasher]
-status: reviewed
 updated: 2026-09-10
 ---
 # Coming: bo (biah) / lech (halichah) / atah

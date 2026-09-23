@@ -19,7 +19,6 @@ sources:
   - wiaw:7828 "Foot Festivals" (2018-06-30) https://articles.ohr.edu/articles/foot-festivals
   - ms:266-foot-festivals.md "Foot Festivals"
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Targum Onkelos, Rashi, Ibn Ezra, Ramban, Rabbi Shmuel Dovid Walkin, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Foot: paam / regel

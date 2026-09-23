@@ -25,7 +25,6 @@ sources:
   - wiaw:9405 "Words for Words" (2021-10-23) https://articles.ohr.edu/articles/words-for-words
   - ms:027-words-for-words.md "Words for Words"
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Yosef Teomim, Rabbi Shlomo Zalman of Hanau, Rokeach, Rabbeinu Efrayim, Rabbi Yehuda Leib Shapira-Frankfurter, Ibn Janach, Radak, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Shimon Yehuda Leib Goldblit, Alexander Kohut, Rabbi Moshe Shapiro, Rabbi Akiva Tatz, Rabbi Matityahu Glazerson, Faigy Peritzman, Yerushalmi]
-status: reviewed
 updated: 2026-09-22
 ---
 # Word: milah / teivah / davar

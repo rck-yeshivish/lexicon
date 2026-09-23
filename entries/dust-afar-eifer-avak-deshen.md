@@ -26,7 +26,6 @@ sources:
   - wiaw:8467 "Dirt, Dust and Ashes" (2019-11-09) https://articles.ohr.edu/articles/dirt-dust-and-ashes
   - ms:018-dirt-dust-and-ashes.md "Dirt, Dust, and Ashes"
 authorities: [Netziv, Beis Shammai, Beis Hillel, Zohar, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus, Rabbi Yehuda Leib Edel, Rabbi Shlomo Aharon Wertheimer, Rabbi Eliezer Lipman Lichtenstein, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbeinu Efrayim ben Shimshon, Bartenura]
-status: reviewed
 updated: 2026-09-22
 ---
 # Dust: afar / eifer / avak / deshen

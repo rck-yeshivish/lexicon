@@ -27,7 +27,6 @@ sources:
   - wiaw:7491 "The Unaffiliated Nations" (2017-11-18) https://articles.ohr.edu/articles/the-unaffiliated-nations
   - ms:036-the-unaffiliated-nations.md "The Unaffiliated Nations"
 authorities: [Rashi, Rabbi Menachem Ibn Saruk, Rabbi Wolf Heidenheim, Rabbi Yoel Ibn Shuaib, Malbim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Edel, Rabbi Eliyahu Mizrachi, Rabbi Shlomo Ibn Melech, Radak, Rabbeinu Yonah, Rabbi Elazar Rokeach of Worms]
-status: reviewed
 updated: 2026-09-22
 ---
 # Nation: goy / am / leom / umah

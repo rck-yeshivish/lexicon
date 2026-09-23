@@ -17,7 +17,6 @@ words:
 sources:
   - wiaw:7039 "Why? Which \"Why\"?" (2016-12-10) https://articles.ohr.edu/articles/why-which-why
 authorities: [Ibn Parchon, Radak, Rabbeinu Yonah Ibn Janach, Ibn Ezra, Ramban, Rabbi Yaakov Tzvi Mecklenburg, Malbim, Rabbi Shlomo Aharon Wertheimer]
-status: reviewed
 updated: 2026-09-10
 ---
 # Why: lamah / madua

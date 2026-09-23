@@ -27,7 +27,6 @@ sources:
   - wiaw:8922 "Chayei Sarah: Boys and Girls (Part 1)" (2020-11-14) https://articles.ohr.edu/articles/chayei-sarah-boys-and-girls-part-1
   - wiaw:8933 "Toldot: Boys and Girls (Part 2)" (2020-11-21) https://articles.ohr.edu/articles/toldot-boys-and-girls-part-2
 authorities: [Rashi, Rabbi Eliyahu Mizrachi, Radak, Ibn Ezra, Rav Hirsch, Peirush HaRokeach, Rabbeinu Efrayim ben Shimshon, Rabbi Shimon Dov Ber Analak, Chizkuni, Rabbi Yonah Ibn Janach, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim]
-status: reviewed
 updated: 2026-09-10
 ---
 # Youth: naar (naarah) / elem (almah)

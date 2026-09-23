@@ -51,7 +51,7 @@ the line, say the sources do not separate the words. That is a finding.
   exactly this shape, one line per article:
   `  - wiaw:<id> "<title>" (<yyyy-mm-dd>) https://articles.ohr.edu/articles/<slug>`
   taking id, title, date, and slug from the raw file's own front matter;
-  `authorities` (names as the article gives them); `status: draft`; `updated`.
+  `authorities` (names as the article gives them); `updated`.
 - **The `words:` block.** One item per Hebrew word in the cluster,
   giving that word's own English and the one line that separates it from its
   neighbours, with the authority named. This is what makes the guide a lookup

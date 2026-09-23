@@ -33,7 +33,6 @@ words:
 sources:
   - wiaw:6839 "Subtleties of Simcha and Sasson" (2016-07-09) https://articles.ohr.edu/articles/subtleties-of-simcha-and-sasson
 authorities: [Malbim, Vilna Gaon, Machzor Vitry, Bereishis Rabbah]
-status: reviewed
 updated: 2026-09-10
 ---
 # Joy: simchah / sasson / gilah / rinah / ditzah / chedvah

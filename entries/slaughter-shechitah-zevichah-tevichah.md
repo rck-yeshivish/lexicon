@@ -31,7 +31,6 @@ sources:
   - wiaw:11327 "Shemini: The Nosey Truth" (2024-04-06) https://articles.ohr.edu/articles/shemini-the-nosey-truth
   - ms:064-slaughtering-and-butchering.md "Slaughtering and Butchering"
 authorities: [Malbim, Ralbag, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rabbi Yonah Ibn Janach, Rashi, Ibn Ezra, Ramban, Targum Onkelos, Rabbi Binyamin Mussafia, Mahari Assad, Rabbi Elazar Rokeach of Worms, Shadal, Sifrei]
-status: reviewed
 updated: 2026-09-22
 ---
 # Slaughter: shechitah / zevichah / tevichah (tabach)

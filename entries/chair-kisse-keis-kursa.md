@@ -25,7 +25,6 @@ words:
 sources:
   - wiaw:10930 "Chair of Thrones" (2023-04-22) https://articles.ohr.edu/articles/chair-of-thrones
 authorities: [Radak, Rabbi Shlomo Pappenheim, Rabbi Avraham Abulafia, Rav Hirsch, Rabbi David Chaim Chelouche, Rabbi Eliyahu HaBachur, Rashi, Rambam, Rabbi Menachem Mendel of Shklov, Rabbi Ernest Klein, Minchas Shai, Chaim Tawil]
-status: reviewed
 updated: 2026-09-10
 ---
 # Chair: kisse / kisseh / keis / kursa (kathedra)

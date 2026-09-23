@@ -34,7 +34,6 @@ sources:
   - wiaw:8439 "Succot - the Majestic Holiday of Gathering" (2019-10-12) https://articles.ohr.edu/articles/succot-aeur-the-majestic-holiday-of-gathering
   - ms:343-the-majestic-holiday-of-gathering.md "The Majestic Holiday of Gathering"
 authorities: [Rashi, Radak, Malbim, Vilna Gaon, Rabbi Yehuda Leib Edel, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Aharon Wertheimer, Rabbi Elazar Rokeach of Worms, Rabbi Zev Leff]
-status: reviewed
 updated: 2026-09-22
 ---
 # Gathering: asifah / kovetz / aggudah / kehillah / eidah / agur

@@ -30,7 +30,6 @@ sources:
   - wiaw:10714 "True Love (Part 1/2)" (2023-11-11) https://articles.ohr.edu/articles/true-love-part-12
   - wiaw:10983 "True Love (Part 2/2)" (2023-11-18) https://articles.ohr.edu/articles/true-love-part-22
 authorities: [Rav Hirsch, Rabbi Eliyahu Lopian, Rav Dessler, Rabbi Shlomo Pappenheim, Rabbi Yitzchak of Zeldin, Rabbi Pinchas Eliyahu Horowitz, Rabbi Meir Ibn Gabbai, Orchos Tzadikim, Rabbi Avraham Erlanger, Rabbi Yehoshua Steinberg, Menachem Ibn Saruk, Rabbi Yehuda Chayyuj, Ibn Janach, Ibn Parchon, Radak, Rashi, Ibn Ezra, Ibn Ramoch, Rabbi Yosef Kara, Rabbi Yitzchak Avineri, Shadal, Rabbi Benzion Chaim Lubetzky, Rabbi Yosef Zechariah Stern, Rabbi Yehuda Leib Maimon-Fishman, Rabbi Yehuda Leib Edel, Rabbi David Chaim Chelouche, Rabbi Shaul Goldman, Wilhelm Gesenius, HALOT, BDB, Professor Saul Levin, Dr. Oswald Szemerényi, Rabbi Shlomo Luria, Rabbi Yaakov Margolis of Regensburg, HaMabit, Peirush HaRokeach, Moshav Zekanim, Yechiel Michel Pines, Rabbi Tzvi Yehuda Kook]
-status: reviewed
 updated: 2026-09-10
 ---
 # Love: ahavah / chibah / rechim / agav

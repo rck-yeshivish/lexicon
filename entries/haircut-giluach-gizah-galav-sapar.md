@@ -30,7 +30,6 @@ sources:
   - wiaw:7251 "When Just Counting Doesn't Count" (2017-05-13) https://articles.ohr.edu/articles/when-just-counting-doesnt-count
   - ms:190-haircut-time.md "Haircut Time"
 authorities: [Rav Hirsch, Rabbi David Golumb, Rabbi Shlomo Pappenheim, Radak, Rabbi Nosson of Rome, Rabbi Eliyahu HaBachur, Rashi, Mahari Kara, Rabbi Avraham Abulafia, Dr. Alexander Kohut, Dr. Chaim Tawil, Rabbi Yaakov Tzvi Mecklenburg, the Rogatchover Gaon]
-status: reviewed
 updated: 2026-09-22
 ---
 # Haircut: giluach / gizah / galav / sapar

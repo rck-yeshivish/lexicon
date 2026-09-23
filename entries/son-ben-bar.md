@@ -19,7 +19,6 @@ sources:
   - wiaw:8257 "Boys and Bars" (2019-05-25) https://articles.ohr.edu/articles/boys-and-bars
   - ms:227-boys-and-bars.md "Boys and Bars"
 authorities: [Malbim, Rabbi Yaakov Margolis, Maharshal, Maharik, Rema, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Meir Simcha of Dvinsk, Rabbi David Ovadiah, Rabbi Alexander Sender Feuerstein, Rabbi Meir Mintzberg, Rabbi Yehuda ben Kalonymos of Speyer, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Son: ben / bar

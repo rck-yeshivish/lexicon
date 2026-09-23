@@ -17,7 +17,6 @@ words:
 sources:
   - ms:232-my-husband-my-man.md "My Husband, My Man"
 authorities: [Radak, Abarbanel, Maharsha, Rashi, Rabbi Yochanan, Malbim, Rabbi Yosef Dov Soloveitchik, Rabbi Yitzchak Isaac Chaver, Maharal, the Vilna Gaon, Rav Hirsch, Rabbi Yehoshua Steinberg, Rabbi Meir Emden]
-status: draft
 updated: 2026-09-18
 ---
 # Husband: ish / baal

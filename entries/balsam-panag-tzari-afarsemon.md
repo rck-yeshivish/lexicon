@@ -41,7 +41,6 @@ words:
 sources:
   - wiaw:10824 "Ki Sisa: Awesome Balsam" (2023-03-11) https://articles.ohr.edu/articles/ki-sisa-awesome-balsam
 authorities: [Rashi, Radak, Rabbi Yosef Kara, Rabbi Eliezer of Beaugency, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Shmuel David Luzzatto, Zohar, Shoresh Yesha, Rambam, Ramban, Rabbi Saadia Gaon, Rabbi Avraham Maimuni, Rabban Shimon ben Gamliel, Rabbi Yosef Teomim-Frankel, Rabbi Shlomo Pappenheim, Rabbi Binyamin Mussafia, Rabbi Moshe ben Yekutiel of Rome, Rabbi Yosef of Saragossa, Zohar Amar, Marcus Jastrow, Alexander Kohut, Richard C. Steiner, Josephus]
-status: reviewed
 updated: 2026-09-10
 ---
 # Balsam: panag / tzari (nataf, ketaf) / bosem / afarsemon

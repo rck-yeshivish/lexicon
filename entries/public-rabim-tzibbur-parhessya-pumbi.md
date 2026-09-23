@@ -29,7 +29,6 @@ words:
 sources:
   - wiaw:11449 "Chukas: Out in Public" (2024-07-13) https://articles.ohr.edu/articles/chukas-out-in-public
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Eliyahu HaBachur, Sefer HeAruch, Rabbi David Golumb, Rav Hirsch, Rabbi Ernest Klein]
-status: reviewed
 updated: 2026-09-10
 ---
 # Public: b'rabim / b'tzibbur / parhessya / pirsum / b'pumbi

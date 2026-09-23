@@ -32,7 +32,6 @@ sources:
   - wiaw:6876 "A Crown is a Crown" (2016-07-30) https://articles.ohr.edu/articles/a-crown-is-a-crown
   - ms:235-a-crown-is-a-crown.md "A Crown is a Crown"
 authorities: [Malbim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Zev Leff, Rabbi Shlomo Pappenheim]
-status: reviewed
 updated: 2026-09-22
 ---
 # Crown: keter / atarah / nezer

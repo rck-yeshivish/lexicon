@@ -18,7 +18,6 @@ sources:
   - wiaw:9473 "Wake-up Time" (2021-12-04) https://articles.ohr.edu/articles/wake-up-time
   - ms:061-wake-up-time.md "Wake-up Time"
 authorities: [Rabbi Shlomo Pappenheim, Rav Hirsch, Malbim, Radak, Ibn Chayyuj, Ibn Janach, Menachem Ibn Saruk, Rabbi Aharon Marcus, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yechezkel Pannet, Shoresh Yesha, Rashi, Tosafos, Targum, Rabbi Nissim of Marseilles]
-status: reviewed
 updated: 2026-09-22
 ---
 # Waking: yekitzah / oorah

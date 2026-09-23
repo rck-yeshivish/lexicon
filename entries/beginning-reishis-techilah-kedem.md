@@ -31,7 +31,6 @@ words:
 sources:
   - wiaw:11562 "Bereishis: In the Beginning..." (2024-10-26) https://articles.ohr.edu/articles/bereishis-in-the-beginning
 authorities: [Rashi, Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Netziv, Maharal, the Vilna Gaon, Malbim, Rabbi Zev Hoberman, Rabbi Shaul Goldman, Targum Onkelos, Targum Yerushalmi]
-status: reviewed
 updated: 2026-09-10
 ---
 # Beginning: reishis / techilah / kedem (rishon, rosh)

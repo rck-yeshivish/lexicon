@@ -43,7 +43,6 @@ words:
 sources:
   - wiaw:10970 "All Tied Up" (2023-06-03) https://articles.ohr.edu/articles/all-tied-up
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehuda Ibn Chayyuj, Rabbi Eliyahu HaBachur, Rav Hirsch, Radak, Rabbi Yosef Kimchi (Radak's father), Rashi, Chizkuni, Rabbi Yaakov Berger, Dr. Michael Sokoloff, Rabbi Aharon Marcus]
-status: reviewed
 updated: 2026-09-10
 ---
 # Tying: keshirah / asirah / kafut (ketirah, tzror, akeidah)

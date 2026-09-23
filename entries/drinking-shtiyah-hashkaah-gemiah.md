@@ -28,7 +28,6 @@ sources:
   - wiaw:10709 "Chayei Sarah: Take a Drink" (2022-11-12) https://articles.ohr.edu/articles/chayei-sarah-take-a-drink
   - wiaw:9126 "Vayakhel/Pekudei: Animal Sounds" (2021-03-13) https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds
 authorities: [Rabbi Aharon Marcus, Rabbi Shlomo Pappenheim, Shadal, Menachem Ibn Saruk, Ibn Chayyuj, Ibn Janach, Radak, Rashi, Rav Hirsch, Rabbi Ernest Klein, Antoine-Chrysostome Quatremere de Quincy, Vilna Gaon]
-status: reviewed
 updated: 2026-09-10
 ---
 # Drinking: lishtos / lehashkos (mashkeh) / hagmieini

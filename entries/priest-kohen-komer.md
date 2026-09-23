@@ -17,7 +17,6 @@ words:
 sources:
   - wiaw:8529 "Holy Priests vs. Unholy Priests" (2019-12-28) https://articles.ohr.edu/articles/holy-priests-vs-unholy-priests
 authorities: [Targum Onkelos, Rashi, Radak, Rabbi Yosef Ibn Kaspi, Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Aharon Marcus, Dr. Chaim Tawil]
-status: reviewed
 updated: 2026-09-10
 ---
 # Priest: kohen / komer

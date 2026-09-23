@@ -30,7 +30,6 @@ words:
 sources:
   - wiaw:11066 "Taking Collateral" (2023-08-26) https://articles.ohr.edu/articles/taking-collateral
 authorities: [Rabbi Eliyahu HaBachur, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi-Ashkenazi, Rav Hirsch, Rashi, Tosafos Yom Tov, Rambam, Sefer HeAruch, Daniel Sperber]
-status: reviewed
 updated: 2026-09-10
 ---
 # Collateral: mashkon / chaval / avot / rahan / apoteiki

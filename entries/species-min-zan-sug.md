@@ -23,7 +23,6 @@ sources:
   - wiaw:10897 "Shemini: Types of Species" (2023-04-15) https://articles.ohr.edu/articles/shemini-types-of-species
   - ms:186-types-of-species.md "Types of Species"
 authorities: [Rabbeinu Yonah Ibn Janach, Radak, Shadal, Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Rav Hirsch, Rav Saadia Gaon, Ibn Ezra, Donash Ibn Labrat, Menachem Ibn Saruk, Rashi, pseudo-Rashi, Ralbag, Targum, Rabbi Yehoshua Steinberg, Ramban, Rabbeinu Nissim of Gerona, Rambam, Rabbi Moshe Ibn Tibbon, Rabbi Shmuel Ibn Tibbon, Ramchal, Professor Avi Hurvitz, Dr. Menachem Zvi Kaddari, Rabbi Shimon Lavie]
-status: reviewed
 updated: 2026-09-22
 ---
 # Species: min / zan / sug

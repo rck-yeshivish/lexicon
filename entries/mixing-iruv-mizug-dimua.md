@@ -21,7 +21,6 @@ words:
 sources:
   - wiaw:11480 "Devarim: All Mixed Up" (2024-08-10) https://articles.ohr.edu/articles/devarim-all-mixed-up
 authorities: [Menachem Ibn Saruk, Rabbeinu Yonah Ibn Janach, Rashi, Tosafos, Ibn Ezra, Radak, Ramban, Maharal, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Shimon Dov Ber Analak of Shidlitz, Rabbi Meir Posner, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Vilna Gaon, Rabbi Dovid Tzvi Hoffmann, Rabbi Kalonymos Kalman Epstein, Rabbi Yisroel Yaakov Algazi, Rabbi Eliyahu Menachem Margulies, Rabbi Moshe Shapiro, Ritva, Rashba, Maharsha, Yaavetz]
-status: reviewed
 updated: 2026-09-10
 ---
 # Mixing: iruv / mizug / dimua (and dimah, navoch)

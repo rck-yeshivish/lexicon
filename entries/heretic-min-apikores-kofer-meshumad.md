@@ -30,7 +30,6 @@ words:
 sources:
   - wiaw:11438 "Korach: Of Heretics and Apostates" (2024-07-06) https://articles.ohr.edu/articles/korach-of-heretics-and-apostates
 authorities: [Rambam, Rashba, Rabbi Yeshayah of Trani, Rabbi Eliyahu HaBachur, Rabbi Shmuel David Luzzatto, Rabbi Binyamin Mussafia, Rabbi J. D. Eisenstein, Rabbi Shlomo Tzvi Shick, Ramban, Rav Hai Gaon, Rabbi Moshe Ibn Ezra, Rabbi Shlomo Ibn Parchon, Rashbatz, Kuzari, Rabbi Tanchum HaYerushalmi, Rabbi Yair Chaim Bachrach, Chasam Sofer, Rabbi Ernest Klein, Friedrich Delitzsch, Avraham Even-Shoshan, Peshitta]
-status: reviewed
 updated: 2026-09-10
 ---
 # Heretic: min / apikores / kofer / meshumad (mumar)

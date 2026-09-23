@@ -25,7 +25,6 @@ words:
 sources:
   - wiaw:11342 "Tazria: The Cutter" (2024-04-13) https://articles.ohr.edu/articles/tazria-the-cutter
 authorities: [Rashi, Rabbeinu Chananel, Rabbeinu Gershom, Targum Onkelos, Rabbi Shlomo Pappenheim, Shadal, Rabbi Yissachar Tamar, Rabbi David Zacut Modena, Rabbi Dov Kook, Solomon Dubno, Wilhelm Gesenius, Alexander Kohut, Shach]
-status: reviewed
 updated: 2026-09-10
 ---
 # Circumciser: mohel / gozer / rofeh / uman

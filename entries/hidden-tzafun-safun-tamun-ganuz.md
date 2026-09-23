@@ -36,7 +36,6 @@ words:
 sources:
   - wiaw:11696 "Mishpatim: Hidden Things" (2025-02-22) https://articles.ohr.edu/articles/mishpatim-hidden-things
 authorities: [Mechilta, Rabbi Shlomo Pappenheim, Rabbi Yosef Kimchi, Rashi, Menachem Ibn Saruk, Shadal, Rabbi Yehoshua Steinberg, Rabbi Ernest Klein, Rabbi Yehuda Leib Shapira-Frankfurter, Targum, Professor Edward Yechezkel Kutscher, Hillel Halkin]
-status: reviewed
 updated: 2026-09-10
 ---
 # Hidden: tzafun / safun / tamun / ganuz (nistar, ne'elam)

@@ -21,7 +21,6 @@ words:
 sources:
   - wiaw:8167 "The True Blue" (2019-03-09) https://articles.ohr.edu/articles/the-true-blue
 authorities: [Rashi, Ramban, Rabbeinu Bachya, Targum, Bamidbar Rabbah, Frankie Snyder, Aharon Demsky]
-status: reviewed
 updated: 2026-09-10
 ---
 # Blue: sapir / techeiles / kachol

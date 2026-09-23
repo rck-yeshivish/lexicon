@@ -27,7 +27,6 @@ sources:
   - wiaw:11413 "Shavuos: Getting Dirty" (2024-06-08) https://articles.ohr.edu/articles/shavuos-getting-dirty
   - ms:267-a-collection-of-curses.md "A Collection of Curses"
 authorities: [Vilna Gaon, Rabbi Yaakov Tzvi Mecklenburg, Malbim, Radak, Rav Hirsch, Rabbeinu Efrayim ben Shimshon, Shadal, Shadal]
-status: reviewed
 updated: 2026-09-22
 ---
 # Curse: arur / kelalah / allah / kavah

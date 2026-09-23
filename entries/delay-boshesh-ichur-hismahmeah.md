@@ -24,7 +24,6 @@ sources:
   - wiaw:8644 "Better Late Than …….." (2020-03-14) https://articles.ohr.edu/articles/better-late-than-aeuraeur
   - wiaw:9907 "An Utter Embarrassment" (2022-09-17) https://articles.ohr.edu/articles/an-utter-embarrassment
 authorities: [Rashi, Malbim, Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Avraham Saba, Rav Hirsch, Rabbi David Golumb, Rabbi Aharon Marcus, Rabbi Chanoch Zundel of Bialystok, Piskei HaRosh, Talmidei Rabbeinu Yonah, Maadanei Yom Tov, Isaac Satanow]
-status: reviewed
 updated: 2026-09-10
 ---
 # Delay: boshesh / ichur / hismahmeah

@@ -26,7 +26,6 @@ sources:
   - wiaw:9575 "The Color Purple" (2022-02-12) https://articles.ohr.edu/articles/the-color-purple
   - ms:146-the-color-purple.md "The Color Purple"
 authorities: [Rambam, Raavad, Bartenura, Rabbi Avraham Maimuni, Rabbi Tanchum HaYerushalmi, Radak, Rasag, Rashi, Ibn Ezra, Menachem Ibn Saruk, Rabbi Yosef Kurkis, Rabbi Yosef Karo, Rabbi Yechiel Michel Epstein, Rabbi Eliyahu HaBachur, Rabbi Ernest Klein, Zohar, Ohalei Yehudah, Chaim Tawil, William Foxwell Albright, Athalya Brenner-Idan, Rav Hirsch]
-status: reviewed
 updated: 2026-09-22
 ---
 # Purple: argaman / argavan / segol / lilach

@@ -23,7 +23,6 @@ sources:
   - wiaw:9523 "Put in Place" (2022-01-08) https://articles.ohr.edu/articles/put-in-place
   - ms:106-put-in-place.md "Put in Place"
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Moshe Zuriel, Rabbi Avraham Shick of Slonim (Eshed HaNechalim), Even-Shoshan concordance, Rabbi Elazar Rokeach of Worms]
-status: reviewed
 updated: 2026-09-22
 ---
 # Placing: natan / sam / shat

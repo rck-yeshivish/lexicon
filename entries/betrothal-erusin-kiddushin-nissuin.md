@@ -28,7 +28,6 @@ sources:
   - wiaw:8883 "Holy Matrimony" (2020-10-03) https://articles.ohr.edu/articles/holy-matrimony
   - ms:329-holy-matrimony.md "Holy Matrimony"
 authorities: [Rabbanan Savorai, Tosafos, Rashi, Rav Hirsch, Rabbi Yitzchak Vana, Rabbi Alexander Sender Shor, Rabbi Elazar Moshe Horowitz, Taz, Rabbi Aharon HaLevi of Barcelona, Rabbi Yosef Ibn Ezra, Rabbi Eliezer Ashkenazi, Rabbi Shalom Mansoura, Rabbi Yitzchak Ratzabi, Rabbi Baruch HaLevi Epstein, Shamma Friedman, Michael Satlow, Rabbi Immanuel Chai Ricci]
-status: reviewed
 updated: 2026-09-22
 ---
 # Betrothal: erusin / kiddushin / nissuin (hekdesh, shidduchin)

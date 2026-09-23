@@ -25,7 +25,6 @@ words:
 sources:
   - wiaw:9275 "Flour Power" (2021-07-03) https://articles.ohr.edu/articles/flour-power
 authorities: [Rashi, Rashbam, Ibn Ezra, Radak, Rabbeinu Yonah Ibn Janach, Menachem Ibn Saruk, Donash Ibn Labrat, Ibn Sheshes, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Yehudah Aryeh of Carpentras]
-status: reviewed
 updated: 2026-09-10
 ---
 # Flour: kemach / soles

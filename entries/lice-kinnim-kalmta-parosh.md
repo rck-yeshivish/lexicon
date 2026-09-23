@@ -31,7 +31,6 @@ words:
 sources:
   - wiaw:11666 "VaEra: Lice Ain't Nice" (2025-01-25) https://articles.ohr.edu/articles/vaera-lice-aint-nice
 authorities: [Ibn Janach, Menachem Ibn Saruk, Ibn Parchon, Radak, Rashbam, Ibn Ezra, Rabbi Shlomo Pappenheim, Rav Hirsch, Targum Onkelos, Targum Yonasan, Rashi, Metzudas Tzion, Malbim, Rabbi Dovid Tzvi Hoffmann, Tosafos, Tosafos HaRosh, Sefer HeAruch, Rabbi Nosson of Rome, Ludovicus de Dieu, Shadal, Rosenmuller, Gesenius, Avraham Even-Shoshan, Alexander Kohut, Peretz Smolenskin, Chaim Tawil, Daniel Vainstub, Rabbi Dr. Yitzchak Greenblatt, Rabbi Shaul Goldman]
-status: reviewed
 updated: 2026-09-10
 ---
 # Lice: kinnim / kinam / kinah (kalmta, parosh)

@@ -19,7 +19,6 @@ words:
 sources:
   - wiaw:8622 "Foreheads and Fadihot" (2020-02-29) https://articles.ohr.edu/articles/foreheads-and-fadihot
 authorities: [Targum Yonasan, Rashi, Ritva, Tosafos Yeshanim, Tosafos HaShalem, Rav Hai Gaon, Rabbeinu Chananel, Sefer HeAruch, Rabbi Zecharia Aghmati, Rabbi Shlomo Pappenheim, Rabbi David Chaim Chelouche, Rabbi Yaakov Yehuda Zilberberg, Rabbi Yehoshua Steinberg, Rabbi Yosef de Jong, Rabbi Shaul Goldman, Alexander Kohut]
-status: reviewed
 updated: 2026-09-10
 ---
 # Forehead: meitzach / padachat

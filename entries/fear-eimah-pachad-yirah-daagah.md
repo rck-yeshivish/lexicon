@@ -27,7 +27,6 @@ sources:
   - wiaw:9228 "Fishy Words (Part 1/2)" (2021-05-29) https://articles.ohr.edu/articles/fishy-words-part-12
   - ms:115-afraid-of-fright-or-ready-to-fight.md "Afraid of Fright or Ready to Fight"
 authorities: [Rashi, Ibn Ezra, Rabbi Shlomo Aharon Wertheimer, Beis HaLevi, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Ibn Janach, Radak, Abarbanel, Abudarham]
-status: reviewed
 updated: 2026-09-22
 ---
 # Fear: eimah / pachad / yirah (morah) / daagah

@@ -42,7 +42,6 @@ words:
 sources:
   - wiaw:8007 "Playing with Fire" (2018-12-01) https://articles.ohr.edu/articles/playing-with-fire-2
 authorities: [Rabbi Eliyahu HaBachur (Meturgeman), Rabbi Shlomo Pappenheim, Malbim, Radak, Alexander Beider]
-status: reviewed
 updated: 2026-09-10
 ---
 # Fire: aish / ur / lehavah / shalheves / lahat / lapid

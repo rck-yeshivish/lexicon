@@ -29,7 +29,6 @@ sources:
   - wiaw:7302 "Spy versus Spy" (2017-06-17) https://articles.ohr.edu/articles/spy-versus-spy
   - ms:341-an-utter-embarrassment.md "An Utter Embarrassment"
 authorities: [Radak, Rabbeinu Yonah, Rabbi Avraham Bedersi, Rabbi David Chaim Chelouche, Rabbi David Golumb, Malbim, Rav Hirsch, Isaac Satanow, Rabbi Shlomo Aharon Wertheimer, Rabbi Yehuda Leib Edel, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Eliyahu HaBachur, Maggid of Kozhnitz, Maharal, Rabbi Yosef Kimchi, Rabbi Yaakov Tzvi Mecklenburg, the Vilna Gaon]
-status: reviewed
 updated: 2026-09-22
 ---
 # Shame: bushah / klimah / cherpah (chafrah)

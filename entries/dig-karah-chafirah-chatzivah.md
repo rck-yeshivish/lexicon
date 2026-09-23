@@ -25,7 +25,6 @@ sources:
   - wiaw:7302 "Spy versus Spy" (2017-06-17) https://articles.ohr.edu/articles/spy-versus-spy
   - ms:137-digging-deeper.md "Digging Deeper"
 authorities: [Malbim, Ibn Ezra, Ibn Ramoch, Meiri, Rabbi Yaakov Tzvi Mecklenburg, Netziv, Rav Hirsch, Rabbi Shaul Bruch, Rabbi Shlomo Pappenheim, Rabbi Yosef Kara, the Gemara, Rabbi Yitzchak Isaac Chaver]
-status: reviewed
 updated: 2026-09-22
 ---
 # Dig: karah / chafirah / chatzivah

@@ -20,7 +20,6 @@ words:
 sources:
   - wiaw:9184 "Say Uncle" (2021-04-24) https://articles.ohr.edu/articles/say-uncle
 authorities: [Rashi, Targum Onkelos, Rabbi Rafael Binyamin Posen, Rabbi Shlomo Pappenheim, Ibn Ezra, Rabbi Yehuda Ibn Kuraish, Ibn Janach, Radak, Rabbi Moshe Kunitz, Rabbi Yosef Chaim of Baghdad, Rabbi David Cohen, Rabbi Yochanan Sofer, Rabbi Yosef Ibn Kaspi, Targum Yonasan, Rabbi Shimon Yehuda Leib Goldblit, Rabbi Shlomo Aharon Wertheimer, Rabbi Zev Hoberman, Yefet ben Ali, Professor Gary Rendsburg, Yechezkel Kutscher, Septuagint, Peshitta, HaKsav VeHaKabbalah, Shoresh Yesha, Malbim, Oxford English Dictionary]
-status: reviewed
 updated: 2026-09-10
 ---
 # Uncle: dod / misaref

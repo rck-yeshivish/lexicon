@@ -17,7 +17,6 @@ words:
 sources:
   - wiaw:7548 "Speaking in Tongues" (2017-12-23) https://articles.ohr.edu/articles/speaking-in-tongues
 authorities: [Rav Dessler, Rashi, Ramban, Chasam Sofer]
-status: reviewed
 updated: 2026-09-10
 ---
 # Language: safah / lashon

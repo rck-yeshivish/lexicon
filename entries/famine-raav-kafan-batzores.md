@@ -21,7 +21,6 @@ words:
 sources:
   - wiaw:10761 "Famishing Famines" (2022-12-31) https://articles.ohr.edu/articles/famishing-famines
 authorities: [Menachem Ibn Saruk, Rashi, Radak, Ibn Ezra, Rabbi Shmuel Masnuth, Rabbi Yosef Kimchi, Ralbag, Rabbi Shimon ben Tzemach Duran, Rabbi Yehudah Aryeh of Carpentras, Rabbi Shlomo Pappenheim, Vilna Gaon, Rabbi Shlomo Aharon Wertheimer, Rabbi Eliyahu HaBachur, Rabbi Moshe Zidel]
-status: reviewed
 updated: 2026-09-10
 ---
 # Famine: ra'av / kafan / batzores

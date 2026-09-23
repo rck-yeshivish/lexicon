@@ -13,7 +13,6 @@ words:                    # one item per Hebrew word: its OWN English and what s
 sources:
   - wiaw:<id> "<article title>" (<yyyy-mm-dd>) https://ohr.edu/<id>
 authorities: [<names as the source gives them, e.g. Radak, Rabbeinu Yonah, Malbim, Rabbi Shlomo Pappenheim>]
-status: draft
 updated: <yyyy-mm-dd>
 ---
 # <Cluster>: <word> / <word> / <word>
@@ -63,4 +62,4 @@ in their own overlay file rather than accumulate them here.>
 <Restate the source line(s) in prose with the article title and link, plus any
 primary loci the article cites (Radak to Yeshayahu 45:16; Sefer HaShorashim s.v.).>
 
-<!-- status is draft or reviewed. Remove these angle-bracket placeholders entirely; keep every heading. -->
+<!-- Remove these angle-bracket placeholders entirely; keep every heading. -->

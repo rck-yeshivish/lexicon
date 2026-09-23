@@ -18,7 +18,6 @@ sources:
   - wiaw:7804 "Lost or Mistaken" (2018-06-16) https://articles.ohr.edu/articles/lost-or-mistaken
   - ms:058-lost-or-mistaken.md "Lost or Mistaken"
 authorities: [Rabbi Eliyahu HaBachur, Radak, Rabbi Yosef Kimchi, Kli Yakar, Rabbi Avraham Aharon Broide, Rabbi Yaakov Zev Lev, Rabbi Shlomo Aharon Wertheimer, Targum Onkelos, Rabbi Yehoshua Alt]
-status: reviewed
 updated: 2026-09-22
 ---
 # Straying and error: taah with a tav (תעה) / taah with a tes (טעה)

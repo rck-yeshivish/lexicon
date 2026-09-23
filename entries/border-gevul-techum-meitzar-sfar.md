@@ -30,7 +30,6 @@ sources:
   - wiaw:9642 "Haircut Time" (2022-04-02) https://articles.ohr.edu/articles/haircut-time
   - wiaw:8217 "Pesach: Telling the Story" (2019-04-13) https://articles.ohr.edu/articles/pesach-telling-the-story
 authorities: [Rashi, Targum Onkelos, Mahari Kara, Ibn Ezra, Rabbi Yehuda Ibn Kuraish, Radak, Rav Hirsch, HaKsav VeHaKabbalah, Rabbi Shlomo Pappenheim, Rabbi Yehoshua Steinberg, Rabbi David Golumb, Rabbi Avraham Rivlin, Rabbi Benzion Chaim Lubetzki, Ramak, Rabbi Saadia Gaon, Rabbi Avraham Yitzchok Shain, Rabbi Pinchas of Koretz, Rabbi Ernest Klein, Wilhelm Gesenius, Rabbi Moshe Shapiro]
-status: reviewed
 updated: 2026-09-10
 ---
 # Border: gevul / techum / meitzar / sfar

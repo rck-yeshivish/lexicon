@@ -34,7 +34,6 @@ sources:
   - wiaw:9338 "Sort of Siblings" (2021-08-21) https://articles.ohr.edu/articles/sort-of-siblings
   - wiaw:11024 "Don't Trample On Me" (2023-07-22) https://articles.ohr.edu/articles/dont-trample-on-me
 authorities: [Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Rabbi Yaakov Emden, Rabbi Tzvi Hirsch Ferber, Rabbi Baruch HaLevi Epstein, Rabbi Menachem Kasher, Rashi, Rambam, Rabbi Ernest Klein, Even Shoshan, Professor Edward Yechezkel Kutscher, Max Weinreich, Julius Pokorny]
-status: reviewed
 updated: 2026-09-10
 ---
 # Platform: kan / duchan / bimah / basis / itztaba

@@ -27,7 +27,6 @@ sources:
   - wiaw:9745 "The Gorgeous Windpipe" (2022-06-25) https://articles.ohr.edu/articles/the-gorgeous-windpipe
   - ms:182-the-gorgeous-windpipe.md "The Gorgeous Windpipe"
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Ibn Ezra, Rabbi Moshe Kimchi, Rashi, Rambam, Rabbi Yom Tov Lipmann Heller, Rabbi Binyamin Mussafia, Rabbi Yaakov Emden, Rabbi Tanchum HaYerushalmi, Rabbi Yaakov Weil, Rabbi Amitai Ben-David, Rabbi Yosef de Bonne of Stadthagen, Rabbi Meir Batzri, Shach, Pri Megadim, Rabbi Immanuel Chai Ricci]
-status: reviewed
 updated: 2026-09-22
 ---
 # Throat: garon / gargeres / kaneh (against veshet)

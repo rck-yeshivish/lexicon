@@ -18,7 +18,6 @@ sources:
   - wiaw:6850 "Listen Up!" (2016-07-16) https://articles.ohr.edu/articles/listen-up
   - ms:304-listen-up.md "Listen up!"
 authorities: [Sifrei, Baalei HaTosafos, Chizkuni, Abarbanel, Rabbi Yitzchak Arama, Malbim, Rokeach, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Hearing: shema / haazinu

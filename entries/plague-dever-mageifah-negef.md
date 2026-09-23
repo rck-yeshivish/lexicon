@@ -23,7 +23,6 @@ sources:
   - wiaw:7579 "Plague of Plagues" (2018-01-13) https://articles.ohr.edu/articles/plague-of-plagues
   - ms:098-plague-of-plagues.md "Plague of Plagues"
 authorities: [Rashi, Abarbanel, Rabbeinu Chananel, Malbim, Rabbi Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Yair Chaim Bachrach (Chavos Yair), Rabbi Chaim Kanievsky]
-status: reviewed
 updated: 2026-09-22
 ---
 # Plague: dever / mageifah / negef

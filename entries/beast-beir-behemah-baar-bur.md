@@ -33,7 +33,6 @@ sources:
   - wiaw:9126 "Vayakhel/Pekudei: Animal Sounds" (2021-03-13) https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds
   - ms:134-boorish-animals.md "Boorish Animals"
 authorities: [Rabbi Yonah Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehudah Aryeh of Carpentras, Rashi, Rav Hirsch, Rabbi Yehuda Leib Edel, Malbim, Rabbi Eliyahu HaBachur, Rabbi Dr. Asher Weiser, Tashbetz, Bartenura, Rabbi Yaakov Yechiel Weinberg, Rabbi David Chaim Chelouche, Rabbi Shlomo Yehuda Rapoport, Rabbi Shet bar Yefet, Mitchell First, Hillel Halkin, Rabbi Aharon Marcus, Pri Megadim]
-status: reviewed
 updated: 2026-09-22
 ---
 # Beast and boor: be'ir / behemah / chayah / ba'ar / bur

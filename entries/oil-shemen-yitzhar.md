@@ -18,7 +18,6 @@ sources:
   - wiaw:7061 "Olives and Oil" (2016-12-24) https://articles.ohr.edu/articles/olives-and-oil
   - ms:079-olives-and-oil.md "Olives and Oil"
 authorities: [Menachem Ibn Saruk, Radak, Rabbi Yosef Kimchi, Ibn Ezra, Rashi, Rabbi Yitzchak Zev Yadler, Chizkuni, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Oil: shemen / yitzhar

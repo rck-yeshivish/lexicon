@@ -37,7 +37,6 @@ words:
 sources:
   - wiaw:8287 "On Clouds" (2019-06-15) https://articles.ohr.edu/articles/on-clouds
 authorities: [Talmud Yerushalmi, Midrash Tehillim, Bereishis Rabbah, Rashi, Ibn Ezra, Rabbeinu Bachya, Sefer HaChochmah, Peirush HaRokeach, Rabbi Shlomo Pappenheim, Rabbi Shlomo of Urbino, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Rabbi Yehudah Ibn Balaam, Midrash Lekach Tov, Metzudas Tzion, Rabbi Yaakov Chaim Sofer, Zohar]
-status: reviewed
 updated: 2026-09-10
 ---
 # Clouds: anan / av / eid / nasi / chaziz

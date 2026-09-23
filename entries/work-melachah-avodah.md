@@ -23,7 +23,6 @@ sources:
   - wiaw:8654 "Laborious Work and Angelic Creativity" (2020-03-21) https://articles.ohr.edu/articles/laborious-work-and-angelic-creativity
   - wiaw:7512 "Angels and Agents" (2017-12-02) https://articles.ohr.edu/articles/angels-and-agents
 authorities: [Radak, Ramban, Abarbanel, Rabbi Yitzchak Shmuel Reggio, Rabbi Aharon Leib Steinman, Rabbi Naftali Hertz Wessely, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Moshe Alshich, Rabbi Tzvi Yehuda Kook, Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Rabbi Yoel Teitelbaum of Satmar, Tosafists, Peirush HaRokeach, Rabbi Shmuel David Ungar]
-status: reviewed
 updated: 2026-09-10
 ---
 # Work: melachah / avodah (sheirus)

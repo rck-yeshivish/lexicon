@@ -24,7 +24,6 @@ sources:
   - wiaw:8422 "Return to Sender: The True Meaning of Teshuva" (2019-10-05) https://articles.ohr.edu/articles/return-to-sender-the-true-meaning-of-teshuva
   - wiaw:9694 "The Year of Seven (Part 2 of 2)" (2022-05-21) https://articles.ohr.edu/articles/the-year-of-seven-part-2-of-2
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Menachem Ricanati, Rabbeinu Bachaya, Rabbi David Ibn Zimra, Rabbi Yosef Ibn Kaspi, Rabbi Yaakov Tzvi Mecklenburg]
-status: reviewed
 updated: 2026-09-10
 ---
 # Return: shuv (teshuvah) / chazarah

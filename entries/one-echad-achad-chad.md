@@ -29,7 +29,6 @@ words:
 sources:
   - wiaw:10975 "Korach: The One and Only" (2023-06-17) https://articles.ohr.edu/articles/korach-the-one-and-only
 authorities: [Rashi, Targum Onkelos, Rashbam, Chizkuni, Ramban, Rabbi Wolf Heidenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Zalman Hanau, Rabbi Moshe Sofer, Malbim, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Rabbi Shmuel Yehudah Steiger, Rabbi Yehonosson Eybeschutz]
-status: reviewed
 updated: 2026-09-10
 ---
 # One: echad / achad / chad (achat, echat, ach)

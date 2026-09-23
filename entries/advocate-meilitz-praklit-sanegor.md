@@ -29,7 +29,6 @@ words:
 sources:
   - wiaw:9368 "Calling the Defender - Vayelech / Yom Kippur" (2021-09-11) https://articles.ohr.edu/articles/calling-the-defender-vayelech-yom-kippur
 authorities: [Rashi, Machzor Vitri, Rambam, Rabbeinu Chananel, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rashbatz, Tiferet Yisrael, Melechet Shlomo, Rabbi Eliyahu HaBachur, Rabbi Yaakov Yehuda Zilberberg, Rabbeinu Elyakim, Moshav Zekanim, Rabbi Yaakov bar Shimshon, Chaim Tawil]
-status: reviewed
 updated: 2026-09-10
 ---
 # Advocate: meilitz / praklit / sanegor (and kategor)

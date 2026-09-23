@@ -27,7 +27,6 @@ sources:
   - wiaw:11705 "Terumah: Color Me" (2025-03-01) https://articles.ohr.edu/articles/terumah-color-me
   - ms:141-color-me.md "Color Me"
 authorities: [Radak, Rashi, Malbim, Shadal, Maharal, Raavad I, Rambam, Menachem Ibn Saruk, Rabbi Natan of Rome, Rabbi Eliyahu HaBachur, Rabbi Aharon Fuld, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Rabbi Shmuel Yehudah Steiger, Rabbi Meir Hellman, Rabbi Shalom Pushinsky, Rabbi Ernest Klein, Alexander Kohut, Aharon Aaronsohn, Gershom Scholem]
-status: reviewed
 updated: 2026-09-22
 ---
 # Color: tzeva / gavan / ein / mareh

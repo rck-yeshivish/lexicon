@@ -50,7 +50,6 @@ sources:
   - wiaw:10786 "Shemos: Drawing Water" (2023-01-14) https://articles.ohr.edu/articles/shemos-drawing-water
   - wiaw:11205 "Vaera: The Vertically-Challenged" (2024-01-13) https://articles.ohr.edu/articles/vaera-the-vertically-challenged
 authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Yehuda Kalatz, Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Shlomo Pappenheim, Rabbi Yair Chaim Bachrach, Rabbi Moshe Sternbuch, Rabbi Yechiel Michel Epstein, Rav Chaim Kanievsky, Rabbi Avraham ben Yitzchak HaLevi Tamach, Midrash Tanchuma, Midrash Mishlei, Vayikra Rabbah, Dr. Leon Aryeh Feldman, Rabbi Moshe Tedeschi-Ashkenazi (Hoil Moshe), Menachem Ibn Saruk, Wilhelm Gesenius, Ibn Janach, Radak, Ibn Chayyuj, Rabbi Dr. Ernest Klein, Rabbi Eliyahu HaBachur]
-status: reviewed
 updated: 2026-09-10
 ---
 # Poverty: ani / evyon / misken / rash / dal / dach / mach / heilech

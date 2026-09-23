@@ -33,7 +33,6 @@ words:
 sources:
   - wiaw:7917 "On the Straight and Narrow" (2018-09-01) https://articles.ohr.edu/articles/on-the-straight-and-narrow
 authorities: [Rabbi Meshullam, Rabbeinu Bachya, Vilna Gaon, Malbim, Zohar, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Rabbi Moshe Shapiro, Rav Hirsch]
-status: reviewed
 updated: 2026-09-10
 ---
 # Paths: netiv / rechov / mesilah / maagal / mishol / shvil

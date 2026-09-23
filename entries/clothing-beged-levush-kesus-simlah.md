@@ -39,7 +39,6 @@ words:
 sources:
   - wiaw:7658 "My Clothes and Me" (2018-02-24) https://articles.ohr.edu/articles/my-clothes-and-me
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Maharik, Ibn Ezra, Rabbi Moshe Shapiro, Rabbi Shlomo of Karlin]
-status: reviewed
 updated: 2026-09-10
 ---
 # Clothing: beged / levush / kesus / simlah (mad, me'il, maateh)

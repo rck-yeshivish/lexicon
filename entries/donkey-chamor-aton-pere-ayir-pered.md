@@ -38,7 +38,6 @@ sources:
   - wiaw:11871 "Balak: An Asinine Essay (Part 1/2)" (2025-07-12) https://articles.ohr.edu/articles/balak-an-asinine-essay-part-12
   - wiaw:11869 "Pinchas: An Asinine Essay (Part 2/2)" (2025-07-19) https://articles.ohr.edu/articles/pinchas-an-asinine-essay-part-22
 authorities: [Radak, Rashi, Rashbam, Rav Hirsch, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Shadal, Rabbi David Chaim Chelouche, Rav Hai Gaon, Rabbi Yehoshua Steinberg, Rabbi Aharon Marcus, Ibn Ezra, Targum Onkelos, Rabbi Ernest Klein, Rabbi Yehuda ben Simon]
-status: reviewed
 updated: 2026-09-10
 ---
 # Donkey: chamor / aton / pere / ayir / pered

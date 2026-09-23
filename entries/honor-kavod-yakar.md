@@ -17,7 +17,6 @@ words:
 sources:
   - wiaw:11724 "Ki Sisa/Purim: Heavy Honors" (2025-03-15) https://articles.ohr.edu/articles/ki-sisapurim-heavy-honors
 authorities: [Rabbi Eliyahu HaBachur, Rabbi Yehudah Aryeh of Carpentras, Rabbi Shlomo Pappenheim, Malbim, Rabbi Avraham Vilner, Rabbi Benzion Meir Chai Uziel, Rabbi Baruch HaLevi Epstein, Rabbi Yosef Shaul Nathansohn, Yad Ramah, Maharsha, Aruch L'Ner, Rabbi Efrayim Zalman Margulies, Sfas Emes, Rabbi Zvi Hirsch Chajes, Rabbi Eliezer Harstik, Rabbi Naftali Maskileison, Rabbi Dr. Ephraim Kanarfogel]
-status: reviewed
 updated: 2026-09-10
 ---
 # Honor: kavod / yakar

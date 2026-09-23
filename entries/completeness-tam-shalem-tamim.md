@@ -20,7 +20,6 @@ words:
 sources:
   - wiaw:9396 "Seeking Completion" (2021-10-16) https://articles.ohr.edu/articles/seeking-completion
 authorities: [Rabbeinu Bachaya, Malbim, Rabbi Shlomo Pappenheim, Zohar, Kedushat Levi, Targum Onkelos, Sefer HaBahir, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rabbi Avraham Bedersi, Rabbi Moshe Sofer, Rabbi Shimon Dov Ber Analak]
-status: reviewed
 updated: 2026-09-10
 ---
 # Completeness: tam / tamim / shalem

@@ -18,7 +18,6 @@ sources:
   - wiaw:7742 "Words of Redemption" (2018-05-05) https://articles.ohr.edu/articles/words-of-redemption
   - ms:214-words-of-redemption.md "Words of Redemption"
 authorities: [Vilna Gaon, Rabbi Chaim Soloveitchik of Brisk, Chatam Sofer, Rabbi Menachem Mendel Hager of Kosov, Malbim, Rabbi Shmuel Tuvia Stern, Rashi, Ramban, Ibn Janach, Menachem Ibn Saruk, Radak, Rabbi Shlomo Pappenheim]
-status: reviewed
 updated: 2026-09-22
 ---
 # Redemption: geulah / pidyon (pedus)

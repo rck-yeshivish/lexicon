@@ -22,7 +22,6 @@ sources:
   - wiaw:11813 "Acharei Mos/Kedoshim: The Watchers and Guardians" (2025-05-10) https://articles.ohr.edu/articles/acharei-moskedoshim-the-watchers-and-guardians
   - wiaw:8941 "Castle in the Sky" (2020-11-28) https://articles.ohr.edu/articles/castle-in-the-sky
 authorities: [Rashi, Malbim, Vilna Gaon, Rabbi Shlomo Aharon Wertheimer, Siddur HaRokeach, Rabbi Shimon Dov Ber Analak, Rabbi Dr. Asher Weiser, Mahari Kara, Rabbi Eliyahu HaBachur, Vayikra Rabbah, Rabbi Shlomo Pappenheim]
-status: reviewed
 updated: 2026-09-10
 ---
 # Guarding: shemirah / netzirah / netirah

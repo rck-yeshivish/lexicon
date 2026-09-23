@@ -24,7 +24,6 @@ sources:
   - wiaw:7176 "Party Hardy" (2017-03-11) https://articles.ohr.edu/articles/party-hardy
   - ms:166-party-hardy.md "Party Hardy"
 authorities: [Radak, Rabbi Tzaddok HaKohen of Lublin, Rashi, Rashbam, Rabbi Levi Yitzchok of Berditchev, Shadal, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Meal: seudah / mishteh / mesibah

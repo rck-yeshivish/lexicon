@@ -22,7 +22,6 @@ sources:
   - wiaw:7788 "Of Corpses and Carcasses" (2018-06-09) https://articles.ohr.edu/articles/of-corpses-and-carcasses
   - ms:244-of-corpses-and-carcasses.md "Of Corpses and Carcasses"
 authorities: [Rabbi Eliyahu HaBachur, Rashi, Rabbi Shlomo Pappenheim, Rabbi Yosef Teomim, Rabbeinu Hillel]
-status: reviewed
 updated: 2026-09-22
 ---
 # Corpse: peger / neveilah / challal

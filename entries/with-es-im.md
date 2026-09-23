@@ -19,7 +19,6 @@ sources:
   - wiaw:8323 "Are You Really \"With Me\"?" (2019-07-13) https://articles.ohr.edu/articles/are-you-really-with-me
   - ms:264-are-you-really-with-me.md "Are You Really “With Me”?"
 authorities: [Ibn Janach, Radak, Rashi, the Vilna Gaon, Malbim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Nachman Marcuson, Zohar]
-status: reviewed
 updated: 2026-09-22
 ---
 # With: es (itto) / im (imo)

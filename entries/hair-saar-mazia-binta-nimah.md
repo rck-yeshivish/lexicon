@@ -27,7 +27,6 @@ sources:
   - wiaw:8754 "All About Hair" (2020-06-20) https://articles.ohr.edu/articles/all-about-hair
   - ms:252-all-about-hair.md "All About Hair"
 authorities: [Rashi, Ibn Janach, Ibn Parchon, Ibn Ezra, Radak, Rabbi Eliyahu HaBachur, Tosafos Yom Tov, Rabbi Avraham Meir Israel, Rabbi Dr. Jared Greenblatt, Rabbi Dr. Alexander Kohut, Rabbi Yoel Sirkes]
-status: reviewed
 updated: 2026-09-22
 ---
 # Hair: saar / mazia / binta / nimah

@@ -22,7 +22,6 @@ sources:
   - wiaw:9110 "Ki Tisa: Remember Forever" (2021-03-06) https://articles.ohr.edu/articles/ki-tisa-remember-forever
   - ms:163-parshas-zachor-remember-forever.md "Parshas Zachor: Remember Forever"
 authorities: [Rabbi Moshe Ibn Ezra, Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo of Urbino, Rabbi Saadia ben David Al-Dhamari, Rashbatz, Rabbi Moshe de Leon, Rabbi Naftali Hertz Treves, Kedushas Levi, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Asher Weiser, Rashi, Kli Yakar, Shadal, Shadal, Shadal]
-status: reviewed
 updated: 2026-09-22
 ---
 # Remember: zachor / pakad

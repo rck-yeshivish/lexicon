@@ -36,7 +36,6 @@ sources:
   - wiaw:11394 "Bechukosai: All About Money" (2024-06-01) https://articles.ohr.edu/articles/bechukosai-all-about-money
   - wiaw:9907 "An Utter Embarrassment" (2022-09-17) https://articles.ohr.edu/articles/an-utter-embarrassment
 authorities: [Rabbi Natan of Rome, Rabbi Eliyahu HaBachur, Rabbi Ernest Klein, Rabbi Shlomo Pappenheim, Rashi, Rashbam, Ibn Ezra, Ibn Janach, Radak, Chida, Rabbi Yitzchok Schmelkes, Rabbi Shlomo Zalman Ehrenreich, Rabbi Chaim of Friedberg, Rabbi Yaakov Emden, Rabbi Azaria Figo, Rabbi Eliezer Herstik, Pri Megadim, Rabbi Shimon Yehuda Leib Goldblit, Theo Vennemann, Maharal]
-status: reviewed
 updated: 2026-09-10
 ---
 # Money: mammon / damim / maos (zuz, kesef, mechir)

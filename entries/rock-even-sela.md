@@ -26,7 +26,6 @@ sources:
   - wiaw:8000 "Like a Rock (Part 2)" (2018-11-24) https://articles.ohr.edu/articles/like-a-rock-part-2
   - ms:042-like-a-rock.md "Like a Rock"
 authorities: [Malbim, Rabbi Immanuel Chai Ricci, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus, Aaron Kahn, Shadal]
-status: reviewed
 updated: 2026-09-22
 ---
 # Rock: even / sela

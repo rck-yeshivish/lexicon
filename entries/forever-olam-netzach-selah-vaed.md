@@ -29,7 +29,6 @@ sources:
   - wiaw:7633 "Forever and Ever" (2018-02-10) https://articles.ohr.edu/articles/forever-and-ever
   - ms:130-forever-and-ever.md "Forever and Ever"
 authorities: [Rashi, Rabbi Menachem Ibn Saruk, Rabbi Yosef Kimchi, Maharsha, Rabbi Avraham ben Ezriel of Vienna, Rabbi Avraham ben Natan HaYarchi, Abudraham, Rabbi Yitzchak Abuhab, Rabbi Shlomo Aharon Wertheimer, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Radak, Malbim, Meiri, Ibn Ezra, Rabbi Aviad Sar-Shalom Basilea, Rabbi Yaakov Emden, Rabbi Chaim Friedlander, Shadal]
-status: reviewed
 updated: 2026-09-22
 ---
 # Forever: olam / netzach / selah / va'ed

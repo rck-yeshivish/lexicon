@@ -31,7 +31,6 @@ sources:
   - wiaw:11178 "Vayigash: Say it Clear (Part 2/2)" (2023-12-23) https://articles.ohr.edu/articles/vayigash-say-it-clear-part-22
   - wiaw:10832 "Mishpatim: Boorish Animals" (2023-02-18) https://articles.ohr.edu/articles/mishpatim-boorish-animals
 authorities: [Radak, Malbim, Ibn Janach, Menachem Ibn Saruk, Donash Ibn Labrat, Shadal, Rav Hirsch, Rabbi Avraham Bedersi, Rabbi Yehudah Aryeh of Carpentras, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Eliyahu HaBachur, Rabbi Shlomo Ibn Melech, Rabbi Avraham Vilner, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Reuven Subar, Rashi, Rashbam, Rabbeinu Tam, Rambam, Maharal, Meiri, Rabbi Tzvi Hirsch Ferber, Alexander Kohut, Rabbi Chaim Gelernter, Rabbi Ernest Klein, Rabbi Dr. Asher Weiser]
-status: reviewed
 updated: 2026-09-10
 ---
 # Explanation: peirush / beiur / hesber / pesher / pitaron

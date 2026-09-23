@@ -77,9 +77,6 @@ After any change to entries:
 python tools/check_entries.py && python tools/build_index.py
 ```
 
-Entries are marked `status: draft` until a human has read one against its
-source; `reviewed` is that human's mark, not the drafter's.
-
 ## The site
 
 `python tools/build_site.py` generates `site/`, a static Cloudflare Pages

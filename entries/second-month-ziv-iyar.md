@@ -18,7 +18,6 @@ sources:
   - wiaw:11411 "The Shiny Month" (2024-05-25) https://articles.ohr.edu/articles/the-shiny-month
   - ms:228-the-shiny-month.md "The Shiny Month"
 authorities: [Ibn Ezra, Radak, Rabbi Shlomo Pappenheim, Rashi, Maharil, Terumas HaDeshen, Rabbi Yaakov Margolis, Shulchan Aruch, Rema, Nachalas Shivah, Beis Shmuel, Aruch HaShulchan, Megaleh Amukos, Rabbi Eliezer Hagar of Vizhnitz, Sefer HaKushyos, Rabbi Yosef Kara, Maharal, Maharsha, Rabbi Moshe Shapiro, Rabbi Shimshon of Ostropoli, Chasam Sofer, Rabbi Mordechai Nachman Aronovsky, Rabbi Dovid Jungreis, Moshe Escott]
-status: reviewed
 updated: 2026-09-22
 ---
 # The second month: Ziv / Iyar

@@ -17,7 +17,6 @@ words:
 sources:
   - wiaw:7164 "Sacred Spaces" (2017-03-04) https://articles.ohr.edu/articles/sacred-spaces
 authorities: [Eruvin 2a, Mishnah Zevachim 14:6, Yoma 9a-9b, Zevachim 119a, Rabbi Avraham Wittenstein]
-status: reviewed
 updated: 2026-09-10
 ---
 # Sanctuary: Mishkan / Mikdash

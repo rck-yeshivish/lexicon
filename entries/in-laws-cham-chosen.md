@@ -29,7 +29,6 @@ sources:
   - wiaw:9338 "Sort of Siblings" (2021-08-21) https://articles.ohr.edu/articles/sort-of-siblings
   - ms:123-heat-with-the-in-laws.md "Heat with the In-laws"
 authorities: [Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Menachem Azariah of Fano, Pri Megadim, Rabbi Shimon Pollack, Rabbi Yonah Ibn Janach]
-status: reviewed
 updated: 2026-09-22
 ---
 # In-laws: cham and chamos / chosen and choseness

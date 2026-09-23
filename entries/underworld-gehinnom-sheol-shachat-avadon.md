@@ -47,7 +47,6 @@ sources:
   - wiaw:8304 "Names of the Underworld" (2019-06-29) https://articles.ohr.edu/articles/names-of-the-underworld
   - ms:251-names-of-the-underworld.md "Names of the Underworld"
 authorities: [Rabbi Yehoshua ben Levi, Rashi, Ibn Ezra, Malbim, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi HaPenini, Ibn Janach, Radak, Rav Hirsch, Rabbi Aharon Marcus, Tosafos, Maharsha, Maharal, Rabbi Chaim of Volozhin, Rabbi Yitzchak Abuhab, Rabbi Tzvi Matisyahu Abrahams, Rabbi J. D. Eisenstein, the Vulgate, Rabbi Avraham bar Chiya]
-status: reviewed
 updated: 2026-09-22
 ---
 # Underworld: Gehinnom / sheol / shachat / avadon

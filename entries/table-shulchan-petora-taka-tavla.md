@@ -26,7 +26,6 @@ sources:
   - wiaw:11261 "Terumah: A Table for Thee" (2024-02-17) https://articles.ohr.edu/articles/terumah-a-table-for-thee
   - ms:140-a-table-for-thee.md "A Table for Thee"
 authorities: [Rabbi Yonah Ibn Janach, Radak, Menachem Ibn Saruk, Rashi, Targum, Matnos Kehunah, Rabbi Avraham Menachem Rappaport, Shadal, Rabbi Ezra Reuven Dangoor, Rif, Rabbi David Abudraham, Arizal, Rabbi Mordechai Dov Yudelovitch, Rabbi Shaul Goldman, Dr. Michael Sokoloff, Rabbi Eliyahu HaBachur, Rash MiShantz, Rabbeinu Manoach, Sefer HeAruch, Bartenura, Rabbi Chaim Vital, Kli Yakar, HaKsav VeHaKabbalah, Alexandre Beider, Rabbi Eliyahu Benamozegh, Rabbi Dr. Eliyahu Rachamim Zini]
-status: reviewed
 updated: 2026-09-22
 ---
 # Table: shulchan / petora / taka / tavla

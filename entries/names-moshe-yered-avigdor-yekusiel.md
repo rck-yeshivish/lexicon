@@ -40,7 +40,6 @@ sources:
   - wiaw:9503 "Moses' Many Names" (2021-12-25) https://articles.ohr.edu/articles/moses-many-names
   - wiaw:11200 "Shemos: Pulling & Drawing" (2024-01-06) https://articles.ohr.edu/articles/shemos-pulling-drawing
 authorities: [Vayikra Rabbah, Shemos Rabbah, Radak, Vilna Gaon, Targum Rav Yosef, Ibn Ezra, Rabbi Chaim Shmuelevitz, Rabbi Gedaliah Ibn Yachya, Rabbi Moshe Teitelbaum, Rabbi Chanoch Henoch Teitelbaum of Sassov, Zayis Raanan, Dr. Alexander Beider, Rashbam, Rabbi Yehuda Ibn Chayyuj, Rabbi Yonah Ibn Janach, Menachem Ibn Saruk, Rashi]
-status: reviewed
 updated: 2026-09-10
 ---
 # Names of Moshe: Moshe / Yered / Avigdor / Chever / Avi-Socho / Yekusiel / Avi-Zanoach

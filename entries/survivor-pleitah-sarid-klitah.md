@@ -22,7 +22,6 @@ sources:
   - wiaw:11148 "Vayishlach: Saving Survivors" (2023-12-02) https://articles.ohr.edu/articles/vayishlach-saving-survivors
   - ms:056-saving-survivors.md "Saving Survivors"
 authorities: [Targum Onkelos, Targum pseudo-Yonasan, Malbim, Rabbi Avraham Bedersi, the Vilna Gaon, Rabbi Avraham Yitzchak Shain, Rashi, Rashbam, Ibn Ezra, Chizkuni, Ramban, Rabbi Yosef Chaim of Baghdad, Rabbi Yitzchak of Zeldin, Rabbi Yehoshua Steinberg, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Nosson Kamenetsky, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Survivor: pleitah / sarid / klitah

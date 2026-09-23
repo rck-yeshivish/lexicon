@@ -32,7 +32,6 @@ sources:
   - wiaw:10130 "Sukkos - Bereishis - Revealing the Secret" (2022-10-08) https://articles.ohr.edu/articles/sukkos-bereishis-revealing-the-secret
   - wiaw:11006 "Balak: Muzzled Up" (2023-07-01) https://articles.ohr.edu/articles/balak-muzzled-up
 authorities: [Ibn Janach, Radak, Rav Hirsch, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rashi, Malbim, Rabbi Avi Kobernick, Rabbi Eliyahu HaBachur, Rabbi Ernest Klein, Targum, Chida, Rabbi Dov Kook, Chassidei Ashkenaz, Rabbi Yitzchak Ibn Ghiyyat, Rabbi Elazar Lipa Gartenhaus, Academy of the Hebrew Language]
-status: reviewed
 updated: 2026-09-10
 ---
 # Secret: sod / raz / tamir (kamus, dvar seter)

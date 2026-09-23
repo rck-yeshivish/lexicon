@@ -22,7 +22,6 @@ sources:
   - toi:behar-making-mountains-out-of-hills "Behar: Making Mountains Out of Hills" (2019-05-15) https://blogs.timesofisrael.com/behar-making-mountains-out-of-hills
   - ms:306-making-mountains-out-of-hills.md "Making Mountains out of Hills"
 authorities: [the Vilna Gaon, Radak, Malbim, Rabbi Eliyahu Margules, Dr. Chaim Tawil, Ibn Ezra, Bereishis Rabbah, Rabbi Eliyahu Benamozegh]
-status: draft
 updated: 2026-09-22
 ---
 # Mountain: har / givah (pisgah)

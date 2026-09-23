@@ -36,7 +36,6 @@ sources:
   - wiaw:8922 "Chayei Sarah: Boys and Girls (Part 1)" (2020-11-14) https://articles.ohr.edu/articles/chayei-sarah-boys-and-girls-part-1
   - wiaw:8505 "The Ovine and Caprine Families" (2019-12-07) https://articles.ohr.edu/articles/the-ovine-and-caprine-families
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yonah Ibn Janach, Radak, Rashi, Midrash Tadshe, Rabbi Eliyahu HaKohen of Izmir, Rabbi Meir Simcha of Dvinsk, Targum Onkelos, Rabbi Yaakov Kamenetsky, Rashbatz, Bartenura, Rav Hirsch]
-status: reviewed
 updated: 2026-09-10
 ---
 # Child: yeled / olel / roveh / elem (and Aramaic ravya, talya)

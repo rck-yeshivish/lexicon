@@ -86,7 +86,6 @@ sources:
   - wiaw:11413 "Shavuos: Getting Dirty" (2024-06-08) https://articles.ohr.edu/articles/shavuos-getting-dirty
   - wiaw:11527 "Sukkot: Shake & Quake (Pt. 3/3)" (2024-10-19) https://articles.ohr.edu/articles/sukkot-shake-quake-pt-33
 authorities: [Rabbeinu Efrayim, Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo of Urbino, Malbim, Rabbi Shlomo Pappenheim, Peirush HaRokeach, Vilna Gaon, Ibn Janach, Ibn Ezra, Radak, Eitz Yosef, Rambam, Rabbi Avraham Maimuni, Rashi, Menachem, Rabbeinu Tam, Targum Yonatan, Donash, Rabbi Yosef Kimchi, Rav Hirsch, Shadal, Rashbam]
-status: reviewed
 updated: 2026-09-10
 ---
 # Anger: kaas / cheimah / charon / evrah / zaam / ketzef / rogez / af

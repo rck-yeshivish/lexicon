@@ -18,7 +18,6 @@ sources:
   - wiaw:7123 "Turning off the Lights" (2017-02-04) https://articles.ohr.edu/articles/turning-off-the-lights
   - ms:109-turning-off-the-lights.md "Turning off the Lights"
 authorities: [Rashi, Radak, Malbim, Rav Saadia Gaon, Rambam, Chizkuni, Yaavetz, Vilna Gaon, Ramban, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Ibn Parchon, Rabbi Baruch HaLevi Epstein, Rabbi Yehuda Leib Edel, Rabbi Shlomo Aharon Wertheimer, Chasam Sofer]
-status: reviewed
 updated: 2026-09-22
 ---
 # Darkness: choshech / afeilah

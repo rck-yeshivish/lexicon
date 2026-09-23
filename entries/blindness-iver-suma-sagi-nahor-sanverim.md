@@ -30,7 +30,6 @@ sources:
   - wiaw:7974 "The Man with Enough Light" (2018-11-03) https://articles.ohr.edu/articles/the-man-with-enough-light
   - wiaw:9473 "Wake-up Time" (2021-12-04) https://articles.ohr.edu/articles/wake-up-time
 authorities: [Rabbi Shlomo Pappenheim, Shoresh Yesha, Zohar, Rabbi Mordechai HaKohen of Tzfas, Kli Yakar, Rashbam, Malbim, Shadal, Rav Hirsch, Rabbi Yehoshua Trunk of Kutna, Rabbi Shmuel Borenstein of Sochatchov, Rabbi Yehoshua Steinberg, Immanuel Vilkovsky, Fred Rosner, Evyatar Cohen, Chaim Tawil]
-status: reviewed
 updated: 2026-09-10
 ---
 # Blindness: iver / suma / sagi nahor / sanverim

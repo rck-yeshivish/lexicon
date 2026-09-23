@@ -21,7 +21,6 @@ words:
 sources:
   - wiaw:11903 "Devarim: The Sharp River" (2025-08-02) https://articles.ohr.edu/articles/devarim-the-sharp-river
 authorities: [Targum Onkelos, Rashi, Rabbi Saadia Gaon, Abarbanel, Rabbi Naftali HaKohen Katz, Rabbi Binyamin Mussafia, Shadal, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Baruch HaLevi Epstein, Rabbi Refael Mamo, Rabbi Matzliach Mazuz, Josephus, Rabbi Levi ben Avraham, Rabbi Nissim of Marseilles, Targum Neofiti, Wilhelm Gesenius, Rabbi Ernest Klein, Isidore of Seville, Dr. Alexander Kohut]
-status: reviewed
 updated: 2026-09-10
 ---
 # Tigris: Chidekel / Diglat (ha'dekel, tigras)

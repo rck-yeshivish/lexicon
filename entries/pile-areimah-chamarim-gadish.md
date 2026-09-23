@@ -25,7 +25,6 @@ words:
 sources:
   - wiaw:9534 "Piles and Piles" (2022-01-15) https://articles.ohr.edu/articles/piles-and-piles
 authorities: [Rambam, Rabbi Sherirah Gaon, Rabbi Yaakov Emden, Rav Hirsch, Rabbi Shlomo Pappenheim, Machberes Menachem, Rasag, Donash Ibn Librat, Ibn Ezra, Rashbam, Rashi, Targum Onkelos, Chizkuni, Rabbi Chaim Paltiel, Sefer HaGan, Rabbi Aharon Marcus]
-status: reviewed
 updated: 2026-09-10
 ---
 # Pile: areimah / chamarim / gadish (omer)

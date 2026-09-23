@@ -36,7 +36,6 @@ sources:
   - wiaw:11353 "Metzorah/Shabbos HaGadol: Veggies for the Dipping" (2024-04-20) https://articles.ohr.edu/articles/metzorahshabbos-hagadol-veggies-for-the-dipping
   - ms:148-is-cotton-a-type-of-linen.md "Is Cotton a Type of Linen?"
 authorities: [Ralbag, Abarbanel, Rambam, Daas Zekeinim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Zev Lev, Rabbi Moshe Mordechai Schulsinger, Steipler Gaon, Rabbi Dov Landau, Rashi, Professor Edward Yechezkel Kutscher, Sir Godfrey Rolles Driver, Rabbi Saadia Gaon, Ibn Janach, Ibn Ezra, Radak, Rabbi Yosef Nechemias, Targum Rishon, Targum Sheini, Rabbi Ernest Klein, Rabbi Yosef Karo, Rabbi Eliyahu Benamozegh, Rabbi Eliyahu Benamozegh, Avi Hurvitz]
-status: reviewed
 updated: 2026-09-22
 ---
 # Linen: sheish / bahd / butz / pishtim

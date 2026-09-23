@@ -28,7 +28,6 @@ sources:
   - wiaw:7366 "Words of Destruction" (2017-07-29) https://articles.ohr.edu/articles/words-of-destruction
   - wiaw:9359 "Seasoning the Land (Part 2) - Nitzavim / Rosh Hashanah:" (2021-09-04) https://articles.ohr.edu/articles/seasoning-the-land-part-2-nitzavim-rosh-hashanah
 authorities: [Vilna Gaon, Rashi, Sefer HaChochmah, Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Tanchum HaYerushalmi, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Shoresh Yesha, Rabbi Avraham Maimuni, Radak, Rabbi Aharon Marcus, Rabbi Eliyahu HaBachur, Rabbi Yaakov Zev Lev, Rabbi Yehuda Leib Shapira-Frankfurter, Ibn Ezra, Rav Hirsch, Peirush HaRokeach, Avos d'Rabbi Nasan, Midrash Mishlei]
-status: reviewed
 updated: 2026-09-10
 ---
 # Dry: yavesh / chorev / negev

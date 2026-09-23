@@ -17,7 +17,7 @@ def bare(s):
     return NIKUD.sub("", s).translate(FINALS).strip()
 
 
-KEYS = ["cluster", "hebrew", "roots", "translit", "english", "domain", "sources", "authorities", "status", "updated"]
+KEYS = ["cluster", "hebrew", "roots", "translit", "english", "domain", "sources", "authorities", "updated"]
 HEADINGS = ["## Bottom line", "## Distinctions", "## Rendering guidance", "## Notes for a project", "## Sources"]
 DOMAINS = {"emotion", "cognition", "speech", "body", "action", "nature", "ritual", "society", "time", "quantity", "other"}
 AI_PHRASES = ["the journey of", "on a journey", "journey toward", "journey towards"]
@@ -67,8 +67,6 @@ def check(p):
         errs.append("no well-formed source line (  - wiaw:<id> \"<title>\" (<date>) https://articles.ohr.edu/articles/<slug>, or the author's Google Group thread; or   - toi:<slug> \"<title>\" (<date>) https://blogs.timesofisrael.com/<slug> for one Ohr Somayach does not carry; or   - ms:<chapter>.md \"<title>\" for one only in the book manuscript)")
     if re.search(r"^hebrew:\s*\[\s*\]", fm, re.M) or not re.search(r"[א-ת]", fm):
         errs.append("hebrew list empty or not Hebrew script")
-    if not re.search(r"^status:\s*(draft|reviewed)\s*$", fm, re.M):
-        errs.append("status must be draft or reviewed")
     if "<" in fm and ">" in fm:
         errs.append("template placeholder left in front matter")
     body = t[m.end():]

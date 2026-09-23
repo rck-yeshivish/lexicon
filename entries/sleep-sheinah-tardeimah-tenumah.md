@@ -36,7 +36,6 @@ sources:
   - wiaw:11119 "Bereishit: Sleepy Words (Part 1/2)" (2023-09-25) https://articles.ohr.edu/articles/bereishit-sleepy-words-part-12
   - wiaw:11120 "Sleepy Words (Part 2/2)" (2023-10-19) https://articles.ohr.edu/articles/sleepy-words-part-22
 authorities: [Ibn Chayyuj, Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Yitzchak Zeldin, Ibn Ezra, Peirush HaRokeach, Rambam, Rabbi Moshe Sternbuch, Rabbi Shlomo Aharon Wertheimer, Rabbi Yosef Nechemias, the Vilna Gaon, Rabbi Avraham Bedersi, Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, Malbim, Netziv, Rabbi Ezra Reuven Dangoor, Rabbi Avraham Zacut, Shadal, Rabbi Chaim Vital, Aderet, Rabbi Chaim Kanievsky, Targum Onkelos, Radal, Yidei Moshe, HaKsav VeHaKabbalah, Rema, Alexander Kohut, Rabbi Yitzchak Greenblatt]
-status: reviewed
 updated: 2026-09-10
 ---
 # Sleep: sheinah / tardeimah / tenumah (linah, durmitah)

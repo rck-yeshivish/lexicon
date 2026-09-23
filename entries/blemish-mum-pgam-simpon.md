@@ -26,7 +26,6 @@ sources:
   - wiaw:11087 "An Article About Nothing (Part 2 of 2)" (2023-09-16) https://articles.ohr.edu/articles/an-article-about-nothing-part-2-of-2
   - ms:203-blemished-imperfections.md "Blemished Imperfections"
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Ernest Klein, Rav Hirsch, Rabbi Eliyahu HaBachur, Rashi, Sefer HeAruch, Rabbi Binyamin Mussafia, Rabbi Yaakov Dienna, Rabbi Yehudah Aryeh of Carpentras, Wilhelm Gesenius, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Blemish: mum / pgam / simpon

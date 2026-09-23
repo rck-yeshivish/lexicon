@@ -31,7 +31,6 @@ words:
 sources:
   - wiaw:9448 "Family Matters" (2021-11-20) https://articles.ohr.edu/articles/family-matters
 authorities: [Menachem Ibn Saruk, Ibn Janach, Ibn Chayyuj, Radak, Rashi, Rabbi Shlomo Pappenheim, Rabbi Samson Raphael Hirsch, Rabbi Yehudah Aryeh of Carpentras, HaKtav V'HaKabbalah, Rabbi Aharon Marcus, Rabbi Zev Hoberman, Rambam, Sefer HeAruch, Rabbi Eliyahu HaBachur, Rabbi Gedaliah Lipschutz, Rabbi Eliezer Herstik, Alexander Kohut]
-status: reviewed
 updated: 2026-09-10
 ---
 # Family: mishpachah / bayis / machaneh / she'er

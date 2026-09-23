@@ -17,7 +17,6 @@ words:
 sources:
   - wiaw:8913 "Elephants Galore" (2020-11-07) https://articles.ohr.edu/articles/elephants-galore
 authorities: [Targum, Rashi, Radak, Metzudos, Ralbag, Rabbi Yosef Karo, Abarbanel, Rabbeinu Yonah Ibn Janach, Rabbeinu Efrayim ben Shimshon, HaKallir, Rabbi Avraham ben Shlomo, Rabbi Yosef Bechor Shor, Rabbi Menashe ben Israel, Rabbi Ernest Klein, Rabbi Yehoshua Steinberg, Rabbi Yechiel Michel Stern, Chaim Tawil]
-status: reviewed
 updated: 2026-09-10
 ---
 # Elephant: pil / shenhav

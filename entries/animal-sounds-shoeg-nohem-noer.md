@@ -34,7 +34,6 @@ words:
 sources:
   - wiaw:9126 "Vayakhel/Pekudei: Animal Sounds" (2021-03-13) https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds
 authorities: [Donash Ibn Labrat, Menachem Ibn Saruk, Rashi, Rabbi Nosson of Rome (Sefer HeAruch), Vilna Gaon, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Yechiel Michel Stern, Rabbi David Chaim Chelouche, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Aharon Marcus]
-status: reviewed
 updated: 2026-09-10
 ---
 # Animal sounds: shoeg / nohem / yehegeh / noer (shokek, nohek)

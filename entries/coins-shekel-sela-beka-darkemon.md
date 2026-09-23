@@ -27,7 +27,6 @@ sources:
   - wiaw:9595 "Vayakhel (Shabbat Shekalim)" (2022-02-26) https://articles.ohr.edu/articles/vayakhel-shabbat-shekalim
   - wiaw:7990 "Like a Rock (Part 1)" (2018-11-17) https://articles.ohr.edu/articles/like-a-rock-part-1
 authorities: [Targum Onkelos, Targum Yonasan, Rashi, Ramban, Rambam, Rashbam, Ibn Ezra, Radak, Sefer HaChinuch, Rabbi Menachem Azariah of Fano, Rabbi Yaakov Zev Lev, Rabbi David Schlussel of Munkatch, Rabbi David Cohen, Rabbi Elazar Rokach of Amsterdam, Rabbi Asher Gvirer, Rabbi Elazar HaKallir]
-status: reviewed
 updated: 2026-09-10
 ---
 # Coins: shekel / sela / beka (darkemon)

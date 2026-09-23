@@ -26,7 +26,6 @@ sources:
   - wiaw:8613 "Stealing and Robbing" (2020-02-22) https://articles.ohr.edu/articles/stealing-and-robbing
   - ms:133-stealing-and-robbing.md "Stealing and Robbing"
 authorities: [Bereishis Rabbah, Rambam, S'ma, Rashi, Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Netziv, Rabbi Ernest Klein, Dr. Chaim Tawil, Kesef Mishneh, Lechem Mishneh, Even HaAzel, Rabbi Moshe Ibn Ezra, Shadal]
-status: reviewed
 updated: 2026-09-22
 ---
 # Theft: genevah / gezeilah / chamas / listim

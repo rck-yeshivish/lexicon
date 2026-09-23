@@ -23,7 +23,6 @@ sources:
   - wiaw:8563 "My Dear Deer" (2020-01-18) https://articles.ohr.edu/articles/my-dear-deer
   - ms:095-my-dear-deer.md "My Dear Deer"
 authorities: [Rashi, Radak, Ritva (Rabbi Yom Tov of Seville), Ibn Ezra, Ralbag, Rav Saadia Gaon, Targum, Rabbeinu Gershom, Rabbi Nosson of Rome, Rabbi Eliyahu HaBachur (Elias Levita), Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rav Hirsch, Rabbi Chaim Friedlander, Midrash Shocher Tov, Rabbi Eliyahu Benamozegh, Michelangelo Lanci]
-status: reviewed
 updated: 2026-09-22
 ---
 # Root צ-ב (splendor, desire, consent, army): tzvi / tzivyon / tzava

@@ -65,7 +65,6 @@ sources:
   - wiaw:8505 "The Ovine and Caprine Families" (2019-12-07) https://articles.ohr.edu/articles/the-ovine-and-caprine-families
   - ms:047-the-ovine-and-caprine-families.md "The Ovine and Caprine Families"
 authorities: [Rabbi Shlomo Pappenheim, Rabbi David Ibn Zimra, Abarbanel, Rav Hirsch, Rambam, Rashi, Radak, Ibn Ezra, Ibn Parchon, Rabbi Yeshayah of Trani, Turei Zahav, Panei'ach Raza, Baal HaTurim, Peirush HaRokeach, Netziv, Rabbi Shmuel Strashun, Malbim, Rabbi Meir Simcha of Dvinsk, Rabbi Aharon Marcus, Rabbi Yisrael David Miller of Grodno, Ramban, Rabbi Yosef Chiyyun, Rabbi Meir Mazuz, Aruch HaShulchan HeAsid, Pesikta Rabbasi, Peirush HaTur HaAruch, Rabbi Elazar Rokeach of Worms]
-status: reviewed
 updated: 2026-09-22
 ---
 # Sheep and goats: seh / tzon / eiz / tayish / gedi / seir / rachel / ayil / keves / kesev / tleh / atud

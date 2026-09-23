@@ -18,7 +18,6 @@ sources:
   - wiaw:7133 "Tree Words" (2017-02-11) https://articles.ohr.edu/articles/tree-words
   - wiaw:8857 "The Strong Ones" (2020-09-12) https://articles.ohr.edu/articles/the-strong-ones
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Chaim Hirschensohn, Rabbi Betzalel Stern, Rabbi Moshe Shapiro]
-status: reviewed
 updated: 2026-09-10
 ---
 # Tree: eitz / ilan

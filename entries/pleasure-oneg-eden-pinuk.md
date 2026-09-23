@@ -26,7 +26,6 @@ sources:
   - wiaw:8295 "Indulging in Pleasure" (2019-06-22) https://articles.ohr.edu/articles/indulging-in-pleasure
   - ms:312-indulging-in-pleasure.md "Indulging in Pleasure"
 authorities: [Rabbi Shlomo Pappenheim, Targum Onkelos, Radak, Ibn Ezra, Rabbi Yehuda Chalava, Rav Hirsch, Rabbi Yaakov Tzvi Mecklenburg, Sefer HaYashar, Rabbi Nissim of Marseilles]
-status: reviewed
 updated: 2026-09-22
 ---
 # Pleasure: eden / oneg / pinuk

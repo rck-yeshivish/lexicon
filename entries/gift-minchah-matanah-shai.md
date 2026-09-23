@@ -34,7 +34,6 @@ sources:
   - wiaw:7982 "The Gift of Giving" (2018-12-01) https://articles.ohr.edu/articles/the-gift-of-giving
   - ms:052-the-gift-of-giving.md "The Gift of Giving"
 authorities: [Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Rabbi Yaakov Tzvi Mecklenburg, Radak, Rabbi Avraham Bedersi HaPenini, Rabbi Avraham ben Chaim Ibn Ramoch, Malbim, Midrash Shocher Tov, Rabbi Eliyahu HaBachur, Moshe Halbertal, Shadal]
-status: reviewed
 updated: 2026-09-22
 ---
 # Gift: minchah / matanah / shai / teshurah / eshkar / doron

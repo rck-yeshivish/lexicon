@@ -23,7 +23,6 @@ sources:
   - wiaw:7218 "Jumping for Passover: Part 2" (2017-04-08) https://articles.ohr.edu/articles/jumping-for-passover-part-2
   - ms:218-jumping-for-passover.md "Jumping for Passover"
 authorities: [Rashi, Vilna Gaon, Rambam, Rosh, Rabbi Shimshon of Shantz, Rabbi Ovadia of Bartenura, Rabbi Yisrael Lipschitz, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Rabbi Yaakov Lorberbaum of Lisa, Rabbi Avigdor Nevenzahl, Rabbi Nachshon Schiller, Shadal]
-status: reviewed
 updated: 2026-09-22
 ---
 # Jumping: pesach / dilug / kefitzah

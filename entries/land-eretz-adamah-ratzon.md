@@ -21,7 +21,6 @@ words:
 sources:
   - wiaw:9346 "Seasoning the Land" (2021-08-28) https://articles.ohr.edu/articles/seasoning-the-land
 authorities: [Avos d'Rabbi Nasan, Bereishis Rabbah, Radak, Netziv, Rabbi Toviah ben Eliezer, Rabbi Shaul Mortera, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rav Tzvi Yehuda Kook, Midrash Mishlei, Rashi]
-status: reviewed
 updated: 2026-09-10
 ---
 # Land: eretz / adamah (and ratzon)

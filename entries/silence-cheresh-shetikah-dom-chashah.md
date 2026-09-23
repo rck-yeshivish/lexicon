@@ -31,7 +31,6 @@ sources:
   - wiaw:8634 "To Remain Silent" (2020-03-07) https://articles.ohr.edu/articles/to-remain-silent
   - ms:168-to-remain-silent.md "To Remain Silent"
 authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Yaakov Tzvi Mecklenburg, Ramban, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Shlomo Algazi, Targum, Ibn Ezra, Tosafos, Maharsha, Hagahos Rashash, Rashi, Shadal]
-status: reviewed
 updated: 2026-09-22
 ---
 # Silence: cheresh / shetikah / dom / chashah (hass)

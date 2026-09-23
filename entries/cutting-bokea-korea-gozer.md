@@ -74,7 +74,6 @@ sources:
   - wiaw:8271 "Karet and Ariri" (2019-06-01) https://articles.ohr.edu/articles/karet-and-ariri
   - ms:114-cut-it-out.md "Cut it out!"
 authorities: [Rabbi Yitzchok Meir Alter of Ger, Shulchan Aruch HaRav, Rabbi Shmuel Borenstein of Sochatchov, Rabbi Shlomo Pappenheim, Rav Hirsch, Shadal]
-status: reviewed
 updated: 2026-09-22
 ---
 # Cutting: bokea / korea / gozer (and the wider family)

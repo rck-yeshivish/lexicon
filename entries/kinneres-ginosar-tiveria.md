@@ -21,7 +21,6 @@ words:
 sources:
   - wiaw:8351 "The Shining Sea of Galilee" (2019-08-03) https://articles.ohr.edu/articles/the-shining-sea-of-galilee
 authorities: [Rabbi Nosson of Rome, Rashi, Tosafos, Bereishis Rabbah, Rabbi Yosef Karo, Rabbi Moshe ben Yosef of Trani, Josephus, Jastrow, Dr. Dov Ginzberg]
-status: reviewed
 updated: 2026-09-10
 ---
 # Kinneres: Kinneret / Ginosar / Yamah shel Tiveria

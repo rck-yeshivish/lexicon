@@ -26,7 +26,6 @@ sources:
   - wiaw:11218 "Bo: Filling your Phylacteries" (2024-01-20) https://articles.ohr.edu/articles/bo-filling-your-phylacteries
   - ms:072-say-your-prayers.md "Say your Prayers"
 authorities: [Targum Onkelos, Rabbi Simcha Maimon, Rabbi Shmuel Laniado, Rabbi Yaakov Tzvi Mecklenburg, Maharal, Rashi]
-status: reviewed
 updated: 2026-09-22
 ---
 # Prayer: tefillah / bakashah / techinah

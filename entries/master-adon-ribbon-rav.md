@@ -26,7 +26,6 @@ sources:
   - wiaw:7153 "Rabbi of Robbers" (2017-02-25) https://articles.ohr.edu/articles/rabbi-of-robbers
   - ms:138-rabbi-of-robbers.md "Rabbi of Robbers"
 authorities: [Targum Onkelos, Vilna Gaon, Rabbi Aharon Leib Steinman, Rabbi Baruch Aryeh HaLevi Fischer, Tosafos Yom Tov, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Master: adon / ribbon / rav

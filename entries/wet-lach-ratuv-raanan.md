@@ -33,7 +33,6 @@ words:
 sources:
   - wiaw:11276 "Titzaveh: Wet Words" (2024-02-24) https://articles.ohr.edu/articles/titzaveh-wet-words
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Ibn Parchon, Rabbi Moshe Tedeschi-Ashkenazi, Rashi, Ibn Ezra, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi, Rav Hirsch, Rabbi Yosef Kara, Rabbi Yosef Kimchi, Sforno, Metzudas Tzion, Malbim, Rabbi Nosson of Rome, Marcus Jastrow, Alexander Kohut, Ralbag, Rema, Ben Yehoyada, Rabbi Chaim Kanievsky]
-status: reviewed
 updated: 2026-09-10
 ---
 # Wetness: lach / ratuv / ra'anan / rutfash / tofeach / mefulam

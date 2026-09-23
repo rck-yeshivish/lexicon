@@ -31,7 +31,6 @@ sources:
   - wiaw:9338 "Sort of Siblings" (2021-08-21) https://articles.ohr.edu/articles/sort-of-siblings
   - ms:320-sorts-of-siblings.md "Sorts of Siblings"
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Wolf Heidenheim, Ibn Ezra, Meshech Chochmah, Rabbi Eliyahu HaBachur, Rabbi Tanchum HaYerushalmi, Ritva, Nimukei Yosef, Rabbi Yaakov Emden, Ibn Janach, Radak, Pri Megadim, Rabbi Moshe ben Yitzchak ben HaNesiah, Rabbi Yitzchak of Chernigov]
-status: reviewed
 updated: 2026-09-22
 ---
 # Sibling-in-law: yavam / yevamah / giss

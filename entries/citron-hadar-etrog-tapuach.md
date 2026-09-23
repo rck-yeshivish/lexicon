@@ -31,7 +31,6 @@ sources:
   - wiaw:10055 "The Beautiful Citron" (2022-09-24) https://articles.ohr.edu/articles/the-beautiful-citron
   - wiaw:7644 "The Beauty of Adar" (2018-02-17) https://articles.ohr.edu/articles/the-beauty-of-adar
 authorities: [Ibn Ezra, Rambam, Ramban, Raavyah, Baal HaTurim, Rabbeinu Tam, Targum Onkelos, Targum Yonasan, Ra'ah, Ritva, Meiri, Rabbeinu Bachya, Tashbetz, Rabbi Moshe Mintz, Rabbi Meir Mazuz, Chazon Ish, Rabbi David Kochavi of Estelle, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Dr. Zohar Amar, Dr. Michael Sokoloff, Alexander Kohut, Malbim]
-status: reviewed
 updated: 2026-09-10
 ---
 # Citron: hadar / esrog / tapuach

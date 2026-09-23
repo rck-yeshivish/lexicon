@@ -24,7 +24,6 @@ words:
 sources:
   - wiaw:6963 "Of Oaths and Promises" (2016-10-01) https://articles.ohr.edu/articles/of-oaths-and-promises
 authorities: [Chazal (Nedarim 2b)]
-status: reviewed
 updated: 2026-09-10
 ---
 # Vow: neder / shevuah / nedavah

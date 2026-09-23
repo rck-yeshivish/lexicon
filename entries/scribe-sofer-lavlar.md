@@ -18,7 +18,6 @@ sources:
   - wiaw:10818 "Bishalach: Scribal Culture" (2023-02-04) https://articles.ohr.edu/articles/bishalach-scribal-culture
   - wiaw:9581 "Between Books and Scrolls" (2022-02-19) https://articles.ohr.edu/articles/between-books-and-scrolls
 authorities: [Rashi, Rabbi Eliyahu HaBachur, Rabbi Yehuda Aryeh Blau, Rabbi Shmuel Krauss, Raymond P. Dougherty]
-status: reviewed
 updated: 2026-09-10
 ---
 # Scribe: sofer / lavlar

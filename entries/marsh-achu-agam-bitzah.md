@@ -27,7 +27,6 @@ words:
 sources:
   - wiaw:9031 "Marshes, Marshes, Marshes" (2021-01-16) https://articles.ohr.edu/articles/marshes-marshes-marshes
 authorities: [Rashi, Ramban, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Moshe ben Shem Tov Gabbai, Ibn Janach, Radak, Rabbi Shlomo Aharon Wertheimer, Rabbi Avraham Meir HaKohen Glanzer]
-status: reviewed
 updated: 2026-09-10
 ---
 # Marsh: achu / agam / bitzah (suf)

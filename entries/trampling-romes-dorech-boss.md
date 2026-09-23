@@ -25,7 +25,6 @@ words:
 sources:
   - wiaw:11024 "Don't Trample On Me" (2023-07-22) https://articles.ohr.edu/articles/dont-trample-on-me
 authorities: [Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Shlomo Ibn Parchon, Rabbi Yosef Kimchi, Radak, Ramban, Rashi, Rav Hirsch, Malbim, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Shlomo Pappenheim, Ibn Chayyuj, Rabbi Yisroel Zev Horowitz, Oxford English Dictionary]
-status: reviewed
 updated: 2026-09-10
 ---
 # Trampling: romes / dorech / boss (remes)

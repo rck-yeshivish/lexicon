@@ -30,7 +30,6 @@ words:
 sources:
   - wiaw:10751 "Miketz: Cans of Oil" (2022-12-17) https://articles.ohr.edu/articles/miketz-cans-of-oil
 authorities: [Rashi, Radak, Machberes Menachem, Rabbi Shlomo Pappenheim, Tosafot, Tosafos Yom Tov, Daas Zekeinim, Hadar Zekeinim, Rabbeinu Bachya, Rabbi Tzvi Elimelech Shapiro of Dinov, Dr. Alexander Kohut, Oxford English Dictionary, Rabbi Ernest Klein, Rambam, Rabbi Yosef Karo, Aruch HaShulchan HeAsid, Mabit, Rabbi Massoud Chai Rokach, Rabbi Avraham Dovber Kahane-Shapiro, Rashbam, Ibn Ezra, Jastrow]
-status: reviewed
 updated: 2026-09-10
 ---
 # Vessel: pach / kankan / kad / chavis (kaneh)

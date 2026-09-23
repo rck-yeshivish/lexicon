@@ -33,7 +33,6 @@ sources:
   - wiaw:8129 "Cherubic Children and Other Angels" (2019-02-09) https://articles.ohr.edu/articles/cherubic-children-and-other-angels
   - wiaw:10720 "Toldos: The Doers and Fighters" (2022-11-26) https://articles.ohr.edu/articles/toldos-the-doers-and-fighters
 authorities: [Radak, Rabbi Shlomo Pappenheim, Malbim, Ralbag, Rambam, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Yaakov Lorberbaum of Lissa, Vilna Gaon, Rashi, Bereishis Rabbah, the anonymous commentator to Rambam, the school of Rabbi Elazar Rokeach of Worms, Ramban]
-status: reviewed
 updated: 2026-09-10
 ---
 # Angel / messenger: malach / shaliach / tzir

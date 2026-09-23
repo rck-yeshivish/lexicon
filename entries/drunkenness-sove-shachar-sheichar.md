@@ -26,7 +26,6 @@ words:
 sources:
   - wiaw:11520 "Ki Seitzei: Getting Drunk" (2024-09-14) https://articles.ohr.edu/articles/ki-seitzei-getting-drunk
 authorities: [Menachem Ibn Saruk, Rabbi Shlomo of Urbino, Malbim, Rabbi Shlomo Pappenheim, Rabbi Moshe Tzuriel, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Yehudah Aryeh of Carpentras, Rav Hirsch, Rabbi Shimon Yehuda Leib Goldblit, Rabbi Shlomo Aharon Wertheimer, Rabbi Yosef Kara, Rabbi Yosef Nechemias, Rabbi Dr. Asher Weiser, Dr. Lawrence Resnick, Rashi, Radak, Rambam, Ramban, Rabbi Aharon Marcus]
-status: reviewed
 updated: 2026-09-10
 ---
 # Drunkenness: sove / shachar (sheichar)

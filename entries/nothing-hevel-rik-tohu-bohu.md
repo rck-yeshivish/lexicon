@@ -48,7 +48,6 @@ sources:
   - wiaw:9138 "A Perfect Sacrifice" (2021-03-20) https://articles.ohr.edu/articles/a-perfect-sacrifice
   - wiaw:8696 "Blemished Imperfections" (2020-05-09) https://articles.ohr.edu/articles/blemished-imperfections
 authorities: [Rabbi Avraham Bedersi, Shadal, Malbim, Rabbi Avraham Dovid Kobernick, Menachem Ibn Saruk, Rabbi Yitzchak Zeldin, Ran, Seder Rav Amram Gaon, Martin Luther, John Calvin, Rashi, Targum Onkelos, Targum pseudo-Yonasan, Targum Neofiti, Sefer HaBahir, Zohar, Ramban, Ralbag, Abarbanel, Rabbi Nissim of Marseilles, Rabbi Avraham bar Chiyya HaNasi, Rabbi Shlomo Pappenheim, Rabbi Moshe Botarel, Rabbi Levi ben Shlomo of Lunel, Radak, Rabbi Saadia Gaon, Ibn Ezra, Rabbi Moshe Kimchi, Rabbi Shabsai Donnolo, Sefer Yetzirah, Rabbeinu Bachya, Maharsham, Avraham Even-Shoshan, Rabbi Binyamin Mussafia, Rabbi Yair Chaim Bachrach, Rabbi Yehudah Aryeh of Carpentras, Rabbi Ernest Klein, Wilhelm Gesenius, Rabbi Alexander Hool, Rav Hirsch]
-status: reviewed
 updated: 2026-09-10
 ---
 # Nothing: hevel / rik / tohu / bohu (efes, blimah, meumah, klum)

@@ -22,7 +22,6 @@ sources:
   - wiaw:7110 "Just Because" (2017-01-28) https://articles.ohr.edu/articles/just-because
   - wiaw:7917 "On the Straight and Narrow" (2018-09-01) https://articles.ohr.edu/articles/on-the-straight-and-narrow
 authorities: [Rabbi Wolf Heidenheim, Rabbi Yaakov Tzvi Mecklenburg, Malbim, Rabbi Shlomo Pappenheim]
-status: reviewed
 updated: 2026-09-10
 ---
 # Because: baavur / biglal / bishvil

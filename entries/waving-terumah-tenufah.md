@@ -19,7 +19,6 @@ words:
 sources:
   - wiaw:11422 "Behaaloscha: Lift & Wave" (2024-06-22) https://articles.ohr.edu/articles/behaaloscha-lift-wave
 authorities: [Rashi, Ibn Ezra, Ramban, Rabbeinu Avraham ben HaRambam, Rabbi Yosef Bechor Shor, Peirush HaRokeach, Baal HaTurim, Targum Onkelos, Rambam, Zohar, Sefer HaChinuch, Rabbi Shlomo Pappenheim, Rav Hirsch, Meshech Chochmah, HaKsav VeHaKabbalah, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yaakov Zev Lev, Rabbi Yehuda Kalats, Rabbi Yehoshua Steinberg, Yonah Ibn Janach, Rabbi Shmuel Botnick]
-status: reviewed
 updated: 2026-09-10
 ---
 # Waving: terumah / tenufah

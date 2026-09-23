@@ -22,7 +22,6 @@ sources:
   - wiaw:9482 "Freezing Cold" (2021-12-11) https://articles.ohr.edu/articles/freezing-cold
   - ms:178-freezing-cold.md "Freezing Cold"
 authorities: [Rashi, Ibn Ezra, Radak, Rabbi Yosef Kimchi, Rabbi Moshe Kimchi, Rabbi Yeshayah of Trani, Rashbam, Abarbanel, Rabbi Yosef Nechemias, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi David Golumb, Rabbi Yehoshua Steinberg, Shoresh Yesha]
-status: reviewed
 updated: 2026-09-22
 ---
 # Cold: kor / tzinah

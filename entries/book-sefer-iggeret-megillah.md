@@ -43,7 +43,6 @@ words:
 sources:
   - wiaw:9581 "Between Books and Scrolls" (2022-02-19) https://articles.ohr.edu/articles/between-books-and-scrolls
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Ritva, Rabbeinu Tam, Rabbi Shmuel Strashun, Rabbi Elimelech of Lizhensk, Rabbi Moshe Shapiro, Rabbi Shlomo Aharon Wertheimer, Rabbi Yosef Dov Soloveitchik, Rabbi Jose Faur, Radak, the Vilna Gaon, Rabbi Eliyahu HaBachur, Rabbi Binyamin Mussafia, Rabbi Daniel Sperber, Rabbi Ernest Klein, Rabbi Moshe Chaim Leiter, Raymond P. Dougherty, Avi Hurvitz]
-status: reviewed
 updated: 2026-09-10
 ---
 # Book: sefer / iggeret / megillah (gilayon, shtar, machzor, kuntres)

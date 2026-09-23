@@ -29,7 +29,6 @@ words:
 sources:
   - wiaw:8724 "Where's The Gold?" (2020-05-30) https://articles.ohr.edu/articles/wheres-the-gold
 authorities: [Radak, Ibn Janach, Ibn Ezra, Rashi, Menachem Ibn Saruk, Donash Ibn Labrat, Ramban, Ralbag, Rabbi Yeshayah of Trani, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Moshe David Valle, Rabbi Moshe Ibn Ezra, Peirush HaRokeach, Rabbi Todros Abulafia, Rabbi Binyamin HaRofeh Anav, Maharal, Rabbi Eliezer Papo, Rabbi Pinchas Eliyahu Horowitz, Rabbi Yosef Chaim of Baghdad, Dr. Chaim Tawil, William Foxwell Albright, Dr. Shmuel Yeivin]
-status: reviewed
 updated: 2026-09-10
 ---
 # Gold: zahav / paz / kesem / charutz (betzer)

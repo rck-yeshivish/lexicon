@@ -19,7 +19,6 @@ words:
 sources:
   - wiaw:10810 "Parshas Bo: Please Stand Up" (2023-01-28) https://articles.ohr.edu/articles/parshas-bo-please-stand-up
 authorities: [Rabbi Tzvi Elimelech Shapiro of Dinov, Rashi, Bereishis Rabbah, Targum, Targum Sheini, Rabbi Shlomo Pappenheim, Malbim, Radak, Metzudas David, Rabbi Shimon Dov Ber Analak, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rambam]
-status: reviewed
 updated: 2026-09-10
 ---
 # Standing: nitzav / amidah

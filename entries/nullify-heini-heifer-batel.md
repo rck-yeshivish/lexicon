@@ -25,7 +25,6 @@ words:
 sources:
   - wiaw:7851 "Null and Void" (2018-07-14) https://articles.ohr.edu/articles/null-and-void
 authorities: [Rabbi Shlomo Aharon Wertheimer, Malbim, Rav Hirsch, Menachem Ibn Saruk, Dunash Ibn Labrat, Rabbi Saadia Gaon, Rashi, Ibn Ezra, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Dr. Yosaif M. Dubovick]
-status: reviewed
 updated: 2026-09-10
 ---
 # Nullify: heini / heifer / batel

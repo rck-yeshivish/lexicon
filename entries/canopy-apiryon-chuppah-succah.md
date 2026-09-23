@@ -22,7 +22,6 @@ sources:
   - wiaw:7103 "A Panoply of Canopies" (2017-01-21) https://articles.ohr.edu/articles/a-panoply-of-canopies
   - ms:088-a-panoply-of-canopies.md "A Panoply of Canopies"
 authorities: [Rashi, Maharsha, Rabbi Pheobus Meir Parenzo, Rabbi Tzvi Mordechai Libber, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk]
-status: reviewed
 updated: 2026-09-22
 ---
 # Canopy: apiryon / chuppah / succah

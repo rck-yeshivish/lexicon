@@ -31,7 +31,6 @@ words:
 sources:
   - wiaw:11205 "Vaera: The Vertically-Challenged" (2024-01-13) https://articles.ohr.edu/articles/vaera-the-vertically-challenged
 authorities: [Rashbam, Radak, Sefer HeAruch, Rashi, Mahari Kara, Rabbi Yehoshua Steinberg, Targum Yonasan, Rabbi Eliyahu HaBachur, Ibn Janach, Ibn Chayyuj, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Binyamin Mussafia, Rabbi Dr. Ernest Klein, Dr. Alexander Kohut, Professor Michael Sokoloff]
-status: reviewed
 updated: 2026-09-10
 ---
 # Shortness of stature: gamad / namuch / gutz / nanas

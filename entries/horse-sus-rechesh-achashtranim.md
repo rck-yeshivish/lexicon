@@ -27,7 +27,6 @@ sources:
   - wiaw:10842 "Purim/Trumah: Speedy Horsepower (Part 1/2)" (2023-02-11) https://articles.ohr.edu/articles/purimtrumah-speedy-horsepower-part-12
   - wiaw:10843 "Purim/Titzaveh: Speedy Horsepower (Part 2/2)" (2023-02-11) https://articles.ohr.edu/articles/purimtitzaveh-speedy-horsepower-part-22
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbeinu Bachaya, Rabbi Avraham Saba, Rabbi Yaakov Ashkenazi of Janow, Maharal, Ralbag, Ibn Ezra, Rabbi Moshe Ibn Chalava, Ohalei Yehuda, Rabbeinu Nissim of Gerona, Rav Saadia Gaon, Rabbi Yosef Kimchi, Rabbi Tuviah ben Eliezer, Rashi, Rabbi Ernest Klein, Rambam, Rabbi Shlomo Sirilio, Rabbi Yosef Kara, Peirush HaRokeach, Targum Sheini, Rabbi Eliyahu HaBachur, Rabbi Yaakov Daniel Amash, Wilhelm Gesenius, Naftali Tur-Sinai, Solomon Rabinowitz, Dr. Alexander Kohut, Dr. Dan Shapira]
-status: reviewed
 updated: 2026-09-10
 ---
 # Horse: sus / rechesh / achashtranim / remachim

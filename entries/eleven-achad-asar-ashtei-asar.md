@@ -22,7 +22,6 @@ sources:
   - wiaw:7864 "The Number Eleven" (2018-07-21) https://articles.ohr.edu/articles/the-number-eleven
   - ms:294-the-number-eleven.md "The Number Eleven"
 authorities: [Rabbi Yonah Ibn Janach, Ibn Ezra, Radak, Peirush HaRokeach, Rabbi Meir Mintzberg, the Gemara, Zohar, Rabbi Aharon Marcus, Rabbi Shlomo Pappenheim]
-status: reviewed
 updated: 2026-09-22
 ---
 # Eleven: achad-asar / ashtei-asar

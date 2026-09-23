@@ -17,7 +17,6 @@ words:
 sources:
   - wiaw:9153 "Pesach: The Sickle and the Exile" (2021-03-27) https://articles.ohr.edu/articles/pesach-the-sickle-and-the-exile
 authorities: [Sifrei, Targum, Radak, Rambam, Rav Hirsch, Rabbi David Chaim Chelouche, Rabbi Moshe David Valle, Rabbi Chaim Vital, Rabbi Shlomo Pappenheim, Dr. Shmuel Yeivin, Dr. Shlomo Mandelkorn]
-status: reviewed
 updated: 2026-09-10
 ---
 # Sickle: chermesh / magal

@@ -25,7 +25,6 @@ words:
 sources:
   - wiaw:7426 "Forthwith in the Fourth Dimension" (2017-09-16) https://articles.ohr.edu/articles/forthwith-in-the-fourth-dimension
 authorities: [Maharal of Prague, Rabbi Yishaya Pick-Berlin, Rabbi Yaakov Emden, Rabbi Emmanuel Chai Ricci, Rabbi Betzalel Ronsberg, Rav Hai Gaon, Sefer HeAruch, Rashi, Rashba]
-status: reviewed
 updated: 2026-09-10
 ---
 # Immediately: teikef / miyad / le'alter / otyom

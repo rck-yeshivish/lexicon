@@ -25,7 +25,6 @@ words:
 sources:
   - wiaw:8528 "A Real Toss Up" (2019-12-21) https://articles.ohr.edu/articles/a-real-toss-up
 authorities: [Rabbi Shlomo Pappenheim, Ramban, Maharal, Rashbam, Rashi, Malbim, Rabbi Yehoshua Hartman, Rabbi Moshe Shapiro, Menachem Ibn Saruk, Ibn Janach, Radak, Targum, Rabbi Ernest Klein, Avraham Even-Shoshan]
-status: reviewed
 updated: 2026-09-10
 ---
 # Throwing: hashlachah / zerikah / hazayah / ramah

@@ -24,7 +24,6 @@ sources:
   - wiaw:9039 "Bo: Come To Pharaoh" (2021-01-23) https://articles.ohr.edu/articles/bo-come-to-pharaoh
   - ms:108-the-sign-is-coming.md "The Sign is Coming…"
 authorities: [Ramban, Sifrei, Midrash Lekach Tov, Rabbi Shlomo Aharon Wertheimer, Radak, Sforno, Abarbanel, Rabbi Shmuel Ibn Tibbon, Malbim, Rabbi Avraham Menachem HaKohen Rappaport, Rabbi Shlomo Pappenheim, Rabbi Elimelech of Lizhensk]
-status: reviewed
 updated: 2026-09-22
 ---
 # Sign: oht / mofet

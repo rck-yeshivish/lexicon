@@ -36,7 +36,6 @@ sources:
   - wiaw:10974 "Shelach: Learning the Ropes" (2023-06-10) https://articles.ohr.edu/articles/shelach-learning-the-ropes
   - ms:248-growing-the-fringes.md "Growing the Fringes"
 authorities: [Rashi, Malbim, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Rav Hirsch, Ibn Janach, Ibn Parchon, Radak, Rabbi Yosef Kimchi, Rabbi Nosson of Rome, Rav Matzliach Gaon, Rabbeinu Bachaya, Rabbi Nosson Shapiro, Rabbi Eliyahu HaBachur, Rabbi Binyamin Mussafia, Rabbi Tanchum HaYerushalmi, Rabbi Ernest Klein, Dr. Alexander Kohut, David Curwin, Rabbi Dr. Seth Mandel, Rabbi Shaul Goldman, Ramban, Rashbam, Rabbi Avraham Maimuni, Rabbi Moshe HaDarshan, Rabbeinu Chaim Paltiel, Paneach Raza, Baal HaTurim, Targum Onkelos, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Fringes: tzitzis / gedilim / petil / tallis / kruspidin

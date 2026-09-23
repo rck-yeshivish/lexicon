@@ -21,7 +21,6 @@ sources:
   - wiaw:11715 "Tetzaveh/Purim: Do the Din" (2025-03-08) https://articles.ohr.edu/articles/tetzavehpurim-do-the-din
   - wiaw:10983 "True Love (Part 2/2)" (2023-11-18) https://articles.ohr.edu/articles/true-love-part-22
 authorities: [Ramban, the Kabbalists, Rabbi Reuven Chaim Klein, Rabbi Shlomo Pappenheim, Rav Hirsch]
-status: reviewed
 updated: 2026-09-10
 ---
 # Divine judgment: din / rachamim (tekiah / teruah)

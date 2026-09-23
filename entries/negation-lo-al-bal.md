@@ -23,7 +23,6 @@ words:
 sources:
   - wiaw:10949 "Naso/Shavuos: Just Say No" (2023-05-27) https://articles.ohr.edu/articles/nasoshavuos-just-say-no
 authorities: [Rashi, Machberes Menachem, Rabbi Yishaya Pick-Berlin, Rabbi Chizkiyah Medini, Rabbi Betzalel Ashkenazi, Rabbi Meir HaMeili, Rabbi Reuven Margolios, Rabbi Ber Oppenheimer, Rabbi Aharon Maggid, Rabbi Eliyahu Gutmacher, Rabbi Avraham Eliezer Hirshawitz, Rabbi Yisroel Rubin, Rabbi Eli Silberstein, Rabbi Shlomo Pappenheim, Chasam Sofer]
-status: reviewed
 updated: 2026-09-10
 ---
 # Negation: lo / al / bal

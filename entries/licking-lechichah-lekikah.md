@@ -20,7 +20,6 @@ sources:
   - wiaw:11448 "Balak: Lick It Up" (2024-07-20) https://articles.ohr.edu/articles/balak-lick-it-up
   - ms:261-lick-it-up.md "Lick It Up"
 authorities: [Menachem Ibn Saruk, Ibn Chayyuj, Ibn Janach, Radak, Ibn Parchon, Rabbi Shlomo of Urbino, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Yaakov Berger, Rabbi Yaakov Yehudah Zilberberg, Rabbi Asher Weiser, Ibn Ezra, Yefet ben Ali, Baal HaTurim, Wilhelm Gesenius, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Licking: lechichah / lekikah

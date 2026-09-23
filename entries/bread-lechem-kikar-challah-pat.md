@@ -39,7 +39,6 @@ sources:
   - wiaw:11276 "Titzaveh: Wet Words" (2024-02-24) https://articles.ohr.edu/articles/titzaveh-wet-words
   - ms:256-let-them-eat-bread.md "Let Them Eat Bread"
 authorities: [Radak, Rabbi Nosson of Rome, Targum Onkelos, Rabbi Dr. Guy Matalon, Jastrow, Ibn Ezra, Netziv, Rabbi Shlomo Pappenheim, Rabbi Elimelech of Lizhensk, Shadal]
-status: reviewed
 updated: 2026-09-22
 ---
 # Bread: lechem / kikar / challah / pat (rifta, nahamah)

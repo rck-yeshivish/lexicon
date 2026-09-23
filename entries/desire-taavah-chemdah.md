@@ -24,7 +24,6 @@ sources:
   - wiaw:9346 "Seasoning the Land" (2021-08-28) https://articles.ohr.edu/articles/seasoning-the-land
   - ms:239-deleterious-desires.md "Deleterious Desires"
 authorities: [Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Malbim, Rabbi Tzvi Yehuda Kook, Rashi, Rabbi Eliyahu Benamozegh, Shadal, the Dubno Maggid, Rabbi Shlomo Aharon Wertheimer]
-status: reviewed
 updated: 2026-09-22
 ---
 # Desire: taavah / chemdah / chefetz

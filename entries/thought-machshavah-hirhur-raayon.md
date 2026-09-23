@@ -22,7 +22,6 @@ sources:
   - wiaw:7082 "A Word for a Thought" (2017-01-07) https://articles.ohr.edu/articles/a-word-for-a-thought
   - ms:230-a-word-for-a-thought.md "A Word for a Thought"
 authorities: [Vilna Gaon, Rashi, Ramban, Rabbi Meir HaLevi Abulafia, Rabbi Pinchas HaLevi Horowitz, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim]
-status: reviewed
 updated: 2026-09-22
 ---
 # Thought: machshavah / hirhur / raayon

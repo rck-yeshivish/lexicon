@@ -37,7 +37,6 @@ sources:
   - wiaw:7815 "Let Them Eat Bread" (2018-06-23) https://articles.ohr.edu/articles/let-them-eat-bread
   - wiaw:8941 "Castle in the Sky" (2020-11-28) https://articles.ohr.edu/articles/castle-in-the-sky
 authorities: [Rashi, Ibn Ezra, Targum Onkelos, Bereishis Rabbah, Ramban, Ibn Janach, Radak, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Rav Hirsch, Chizkuni, Rabbi Shmuel Masnuth, Rabbi Hai Gaon, Sefer HeAruch, Rabbi Shlomo of Urbino, Rambam, Rabbi Yeshayah of Trani, Rabbi Yosef Kara, pseudo-Rashbam, Shadal, Rabbi David Tzvi Hoffmann, Rabbi Ernest Klein, Rabbi Aharon Marcus, Even-Shoshan concordance]
-status: reviewed
 updated: 2026-09-10
 ---
 # Plain: mishor / sharon / eil / kikar (avel, padan)

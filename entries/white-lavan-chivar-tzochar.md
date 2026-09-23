@@ -27,7 +27,6 @@ sources:
   - wiaw:11743 "Pekudai: Seeing Red (Part 2/3)" (2025-03-29) https://articles.ohr.edu/articles/pekudai-seeing-red-part-23
   - ms:075-white-is-light.md "White is Light"
 authorities: [Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Rashi, Rabbi Saadia Gaon, Ibn Ezra, Ramban, Shadal, Ibn Janach, Rid, Ralbag, Rabbi Moshe Chalavah, Rabbi Yosef Nechemias, Rabbi Avraham Bedersi, Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, Rabbi Shmuel de Ucceda, Rashba, Radal, Rabbi Benzion Chaim Lubetzky, Rabbi Dovberish Rosenberg, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yitzchak of Zeldin, Menachem Ibn Saruk, Peshitta, Targum Yonasan, Rabbi Matisyahu Strashun, Rabbi Binyamin Rabinowitz-Teomim, Rabbi Aharon Marcus, David J. A. Clines, Rabbi Ernest Klein, Marcus Jastrow, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # White: lavan / chivar / tzochar (chelbon)

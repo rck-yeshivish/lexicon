@@ -60,7 +60,6 @@ sources:
   - wiaw:8444 "Bereishet - Be a Man" (2019-10-26) https://articles.ohr.edu/articles/bereishet-be-a-man
   - ms:143-cherubic-children-and-other-angels.md "Cherubic Children and Other Angels"
 authorities: [Rambam, the anonymous commentator to Rambam, the school of Rabbi Elazar Rokeach of Worms, Orchos Chaim, Kolbo, Masechta Atzilus, Rabbi Moshe ibn Chaviv, Rabbi Dovid Luria, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Mordechai Shlomo Movshovitz, Rashi, Ramban, Shadal, Shadal, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Angel classes: kruvim / chayos / ofanim / erelim / ishim

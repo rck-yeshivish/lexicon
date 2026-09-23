@@ -22,7 +22,6 @@ words:
 sources:
   - wiaw:7611 "Sweet and Pleasant" (2018-01-27) https://articles.ohr.edu/articles/sweet-and-pleasant
 authorities: [Vilna Gaon, Rabbi Shlomo Pappenheim]
-status: reviewed
 updated: 2026-09-10
 ---
 # Sweet: matok / areiv / na'im

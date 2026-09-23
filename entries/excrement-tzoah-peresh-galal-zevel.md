@@ -41,7 +41,6 @@ words:
 sources:
   - ms:324-output-understood.md "Output Understood"
 authorities: [Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shmuel Strashun, Rabbi Tanchum HaYerushalmi, Rashi, Rabbi Aharon Marcus, Rabbi Yitzchak of Zeldin, Rabbi Yaakov Yehuda Zilberberg, Rabbi Shabsai Donnolo, Rabbi Shes bar Yefes, Rabbi Eliyahu Mizrachi, Rabbi Avraham Bakrat, Rabbi Eliyahu HaBachur]
-status: draft
 updated: 2026-09-18
 ---
 # Excrement: tzoah / peresh / galal / zevel (ree, chara)

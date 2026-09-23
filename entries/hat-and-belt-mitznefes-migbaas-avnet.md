@@ -34,7 +34,6 @@ sources:
   - wiaw:7195 "Hats and Belts" (2017-03-25) https://articles.ohr.edu/articles/hats-and-belts
   - ms:147-hats-and-belts.md "Hats and Belts"
 authorities: [Meiri, Vilna Gaon, Abarbanel, Rambam, Rashi, Ramban, Tosafos HaRosh, Malbim, Josephus, Rabbi Avigdor Miller]
-status: reviewed
 updated: 2026-09-22
 ---
 # Hat and belt: migbaas / mitznefes / kova; avnet / chagor / eizor

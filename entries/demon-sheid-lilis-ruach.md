@@ -21,7 +21,6 @@ words:
 sources:
   - ms:288-of-demons-and-spirits.md "Of Demons and Spirits"
 authorities: [Rashi, Ibn Ezra, Radak, Zohar, Sefer Chassidim, Ruth Rabbah, Rabbi Yehudah Fatiyah, Rabbi Shes ben Yefes, Ramban, Ramban, Maasei Hashem, Rabbi Moshe David Valle, Rabbi Elazar Rokeach of Worms, Ralbag, Rabbi Shes ben Yefes, Rabbi Tanchum HaYerushalmi]
-status: draft
 updated: 2026-09-22
 ---
 # Demon: sheid / lilis / ruach

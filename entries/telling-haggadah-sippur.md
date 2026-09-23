@@ -20,7 +20,6 @@ sources:
   - wiaw:8217 "Pesach: Telling the Story" (2019-04-13) https://articles.ohr.edu/articles/pesach-telling-the-story
   - wiaw:9642 "Haircut Time" (2022-04-02) https://articles.ohr.edu/articles/haircut-time
 authorities: [Ramban, Rashi, Ibn Ezra, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehuda Leib Edel, Rabbi Eliyahu HaBachur, Netziv, Rabbi Dovid Abudraham, Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Moshe Shapiro, Peirush HaRokeach, Rabbi Chaim Soloveitchik, Brisker Rav, Rabbi Aryeh Pomeranchik, Rabbi Yechiel Michel Feinstein, Rabbi Nosson Gestetner, Rabbi Dr. Ari Bergmann, Alshich, Rabbi David Golumb]
-status: reviewed
 updated: 2026-09-10
 ---
 # Telling: haggadah (maggid) / sippur (misaper)

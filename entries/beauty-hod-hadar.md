@@ -18,7 +18,6 @@ words:
 sources:
   - wiaw:7644 "The Beauty of Adar" (2018-02-17) https://articles.ohr.edu/articles/the-beauty-of-adar
 authorities: [Sefer HaKushyos, Rabbi Shlomo of Urbino, Vilna Gaon, Rabbi Moshe Shapiro, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shmuel David Luzzatto, Malbim, Rabbi Simcha Maimon, Sifrei, Rav Hirsch]
-status: reviewed
 updated: 2026-09-10
 ---
 # Beauty: hod / hadar (adar)

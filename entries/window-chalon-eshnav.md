@@ -17,7 +17,6 @@ words:
 sources:
   - wiaw:9056 "Beshalach: Through the Looking Window" (2021-01-30) https://articles.ohr.edu/articles/beshalach-through-the-looking-window
 authorities: [Rabbi Shlomo Pappenheim, Radak, Rabbeinu Yonah Ibn Janach, Rashi, Rabbi Yosef Kara, Meiri, Rabbi Yeshayah of Trani, Rabbi Shaul Goldman, Malbim, Rabbi Shmuel Landiado, Menachem Ibn Saruk, Rabbi Moshe David Valle, Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, Shmuel Yeivin, Rabbi Aharon Marcus, Rabbi Baruch HaLevi Epstein, Rabbi Ernest Klein, Rabbi Elazar Reines, Rabbi Chaim Futernik, Abarbanel, Alshich]
-status: reviewed
 updated: 2026-09-10
 ---
 # Window: chalon / eshnav

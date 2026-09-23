@@ -28,7 +28,6 @@ sources:
   - wiaw:11743 "Pekudai: Seeing Red (Part 2/3)" (2025-03-29) https://articles.ohr.edu/articles/pekudai-seeing-red-part-23
   - ms:074-through-the-grapevine.md "Through the Grapevine"
 authorities: [Rabbi Shlomo of Urbino, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Shoresh Yesha, Rashi, Rabbeinu Bachaya, Ibn Ezra, Ohalei Yehuda, Targum Yonasan, Rabbi Yitzchak Ibn Ghiyyat, Rabbi Shmuel ben Chofni Gaon, Maharsha, Rivan, Shitah Mekubetzes, Sechel Tov, Arugas HaBosem, Rabbi Elazar Rokeach of Worms, Rabbeinu Bachya]
-status: reviewed
 updated: 2026-09-22
 ---
 # Grapevine: gefen / sorek / shdeimah (sarig)

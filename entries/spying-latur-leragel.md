@@ -33,7 +33,6 @@ sources:
   - wiaw:9554 "Digging Deeper" (2022-01-29) https://articles.ohr.edu/articles/digging-deeper
   - ms:246-spy-versus-spy.md "Spy versus Spy"
 authorities: [Rabbi Yaakov Tzvi Mecklenburg (HaKsav VeHaKabbalah), Midrash, Pseudo-Philo, David Curwin, Dr. Isaac Elchanan Mozeson, Rav Hirsch, Shadal, Shadal]
-status: reviewed
 updated: 2026-09-22
 ---
 # Spying: latur / leragel (tarim, meraglim)

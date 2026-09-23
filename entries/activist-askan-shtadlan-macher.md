@@ -17,7 +17,6 @@ words:
 sources:
   - wiaw:10720 "Toldos: The Doers and Fighters" (2022-11-26) https://articles.ohr.edu/articles/toldos-the-doers-and-fighters
 authorities: [Sforno, Targum Onkelos, Rashi, Ramban, Menachem Ibn Saruk, Rabbi Binyamin Mussafia, pseudo-Rasag, Tosafos, Rabbi Ernest Klein, Alexander Kohut, Rabbi Reuven Chaim Klein]
-status: reviewed
 updated: 2026-09-10
 ---
 # Communal activist: askan / shtadlan (esek, shadal, shadar)

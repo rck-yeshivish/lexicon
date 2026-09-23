@@ -38,7 +38,6 @@ sources:
   - wiaw:9228 "Fishy Words (Part 1/2)" (2021-05-29) https://articles.ohr.edu/articles/fishy-words-part-12
   - ms:242-fishy-words.md "Fishy Words"
 authorities: [Rashi, Zohar, Rabbeinu Bachaya, Rabbi Avraham bar Chiya HaNasi, Ibn Ezra, Malbim, Rabbi Mordechai Gimpel Yaffe, Menachem Ibn Saruk, Ibn Janach, Ibn Chayyuj, Radak, Rabbi Yehudah Ibn Balaam, Rabbi Shlomo Pappenheim, Rabbi Samson Raphael Hirsch, Rabbi Aharon Marcus, Sefer HeAruch, Rabbeinu Gershom, Rashbam, Rabbi David Golumb, Rabbi Moshe Batzri, Moshe Raanan, Shadal]
-status: reviewed
 updated: 2026-09-22
 ---
 # Fish: dag / dagah

@@ -26,7 +26,6 @@ sources:
   - wiaw:11314 "Tzav: Good Fat, Bad Fat" (2024-03-30) https://articles.ohr.edu/articles/tzav-good-fat-bad-fat
   - ms:184-good-fat-bad-fat.md "Good Fat, Bad Fat"
 authorities: [Rashi, Ramban, Rabbeinu Bachya, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Rav Hirsch, Chizkuni, Menachem Ibn Saruk, Radak, Ibn Ezra, Rashbam, Rabbi Shlomo of Urbino, Rabbeinu Gershom, Rabbi Saadia Gaon, Ibn Janach, Ibn Parchon, Rabbi Eliyahu HaBachur, Rabbi David Chaim Chelouche, Rabbi Shaul Goldman, Rambam, Tosafos Yom Tov, Sefer HeAruch, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Fat: cheilev / shuman / pader / tarba

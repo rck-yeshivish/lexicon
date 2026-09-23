@@ -50,7 +50,6 @@ sources:
   - wiaw:9234 "Fun with Fish (Part 2/2)" (2021-06-05) https://articles.ohr.edu/articles/fun-with-fish-part-22
   - ms:260-slithering-serpents-and-sea-snakes.md "Slithering Serpents and Sea Snakes"
 authorities: [Avos d'Rabbi Nassan, Rabbi Shlomo Aharon Wertheimer, Rashi, Rabbi Aharon Marcus, Rabbi Shlomo Ibn Parchon, Rabbi Yonah Ibn Janach, Rabbi Yosef Bechor Shor, Vilna Gaon, Malbim, Radak, Mahari Kara, Rabbi Shalom Buzaglo, Rabbi Natan Nata Shapiro, Rabbi Shlomo Pappenheim, Rabbi Avigdor the Frenchman, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yechiel Heilpern, Rabbi Elazar Rokeach of Worms, Rabbi Yaakov Yisroel Stahl, Mitchell First, Rav Hirsch, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Snake: nachash / saraph / tanin / tzefa / efeh / achshuv / peten / shephiphon

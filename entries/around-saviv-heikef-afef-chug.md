@@ -26,7 +26,6 @@ sources:
   - wiaw:7530 "Around in Concentric Circles" (2017-12-09) https://articles.ohr.edu/articles/around-in-concentric-circles
   - ms:080-around-in-concentric-circles.md "Around in Concentric Circles"
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Radak, Rabbi Yom Tov Lipmann Heller, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Wolf Heidenheim, Sefer HeAruch, Rabbi Chelouche]
-status: reviewed
 updated: 2026-09-22
 ---
 # Around: saviv / heikef / afef / chug

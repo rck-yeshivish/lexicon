@@ -19,7 +19,6 @@ sources:
   - wiaw:10786 "Shemos: Drawing Water" (2023-01-14) https://articles.ohr.edu/articles/shemos-drawing-water
   - wiaw:11200 "Shemos: Pulling & Drawing" (2024-01-06) https://articles.ohr.edu/articles/shemos-pulling-drawing
 authorities: [Ibn Chayyuj, Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Moshe Tedeschi-Ashkenazi (Hoil Moshe), Malbim, Shadal, Rabbi Chaim Kanievsky, Wilhelm Gesenius, Targum Onkelos, Ramban, Rabbi Yaakov Berger]
-status: reviewed
 updated: 2026-09-10
 ---
 # Drawing water: dalah / shoev

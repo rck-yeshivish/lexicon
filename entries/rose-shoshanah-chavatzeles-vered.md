@@ -25,7 +25,6 @@ words:
 sources:
   - wiaw:11391 "Emor: Rose by Another Name" (2024-05-18) https://articles.ohr.edu/articles/emor-rose-by-another-name
 authorities: [Rashi, Radak, Ibn Ezra, Ibn Janach, Menachem Ibn Saruk, Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Shlomo of Urbino, Rabbi Shlomo Aharon Wertheimer, Matnos Kehunah, Eitz Yosef, Maharzu, Peirush HaRokeach, Peirush Chachmei Tzarfas, Targum, Rav Yehudai Gaon, Rav Hai Gaon, Rabbi Saadia Gaon, Rabbi Shemaryah ben Elchanan, Rabbeinu Yonah, Rabbi Eliyahu HaBachur, Rabbi Yaakov Emden, Rambam, Rabbi Yosef Karo, Rabbi Massoud Chai Rokach, Rabbi Yirmiyahu Low, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Daniel Frisch, Sefer HeAruch, Rabbi Ernest Klein, Zohar Amar]
-status: reviewed
 updated: 2026-09-10
 ---
 # Rose: shoshanah / chavatzeles / vered (narkis)

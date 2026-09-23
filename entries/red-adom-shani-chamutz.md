@@ -35,7 +35,6 @@ sources:
   - wiaw:11743 "Pekudai: Seeing Red (Part 2/3)" (2025-03-29) https://articles.ohr.edu/articles/pekudai-seeing-red-part-23
   - wiaw:11763 "Vayikra: Seeing Red (Part 3/3)" (2025-04-05) https://articles.ohr.edu/articles/vayikra-seeing-red-part-33
 authorities: [Radak, Ibn Janach, Menachem Ibn Saruk, Ibn Ezra, Mahari Kara, Rabbi Saadia Gaon, Rabbi Avraham Maimuni, Raavad, Rash M'Shantz, Meiri, Malbim, Rashbam, Chizkuni, Ramban, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi-Ashkenazi, Shadal, Rabbi Eliyahu HaBachur, Rabbi Tanchum HaYerushalmi, Rashi, pseudo-Rashi, Rema, Sefer HeAruch, Rabbeinu Chananel, Ohr HaChaim, Rabbi Yaakov Hibbert, Rabbi Yosef Noach Wilkover, Midrash Chefetz, Meor HaAfeilah, Rabbi Ernest Klein, Marcus Jastrow, David J. A. Clines, Alexander Kohut]
-status: reviewed
 updated: 2026-09-10
 ---
 # Red: adom / shani / chamutz (and the rest)

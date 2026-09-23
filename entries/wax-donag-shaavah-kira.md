@@ -25,7 +25,6 @@ words:
 sources:
   - wiaw:8953 "Pick your Wax - Chanukah" (2020-12-05) https://articles.ohr.edu/articles/pick-your-wax-chanukah
 authorities: [Rav Hirsch, Rabbi Yehoshua Steinberg, Avraham Even-Shoshan, Rabbi Ernest Klein, Heinrich Leberecht Fleischer, Rabbi Eliyahu HaBachur, Rabbi Matisyahu Strashun, Ibn Janach, Professor Zohar Amar, Targum Onkelos, Targum Yonasan, Targum Neofiti, Ramban, Rabbi Avraham Vilner, Rabbi Yosef Teomim-Frankel, Rashi, Rema]
-status: reviewed
 updated: 2026-09-10
 ---
 # Wax: donag / shaavah / kira (nechot)

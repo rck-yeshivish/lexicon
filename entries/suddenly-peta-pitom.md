@@ -17,7 +17,6 @@ words:
 sources:
   - wiaw:8790 "When Suddenly…" (2020-07-18) https://articles.ohr.edu/articles/when-suddenlyaeur
 authorities: [Rabbi Yoshiya, Rabbi Yonatan, Rashi, Rabbi Ovadiah of Bartenuro, Rabbi David HaLevi Segal, the Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbeinu Efrayim ben Shimshon of Regensburg, Rabbi David Golumb, Rav Hirsch, Ibn Ezra, Rabbi Avraham Menachem Rappaport]
-status: reviewed
 updated: 2026-09-10
 ---
 # Suddenly: peta / pitom

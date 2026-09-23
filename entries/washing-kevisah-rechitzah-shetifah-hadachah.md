@@ -33,7 +33,6 @@ words:
 sources:
   - wiaw:9544 "Laundering and Cleaning" (2022-01-22) https://articles.ohr.edu/articles/laundering-and-cleaning
 authorities: [Rashi, Rambam, Radak, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi, Menachem Ibn Saruk, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Shlomo HaKohen of Vilna, Netziv, Sefer HaShem, Pesikta Rabbasi]
-status: reviewed
 updated: 2026-09-10
 ---
 # Washing: kevisah / rechitzah / shetifah / hadachah / merikah (kinuach)

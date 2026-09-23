@@ -23,7 +23,6 @@ sources:
   - wiaw:10804 "Vaera: The Trick of Magi" (2023-01-21) https://articles.ohr.edu/articles/vaera-the-trick-of-magi
   - ms:096-the-trick-of-magi.md "The Trick of Magi"
 authorities: [Targum Onkelos, Rashi, Ramban, Ibn Ezra, Radak, Ibn Janach, Menachem Ibn Saruk, Tosafists (Moshav Zekenim), Rabbi Avraham Saba, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Saadia Gaon, Rabbeinu Chananel, Rabbi Avraham Maimuni, Ralbag, Rabbi David HaNaggid, Rabbi Yehuda HaLevi, Vilna Gaon, Rabbi Shes ben Yefes, Igeres Shmuel, Rabbi Yehudah Provencal]
-status: reviewed
 updated: 2026-09-22
 ---
 # Magic: lahat / lat (ittim)

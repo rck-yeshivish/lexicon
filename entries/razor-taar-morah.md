@@ -19,7 +19,6 @@ words:
 sources:
   - wiaw:7768 "Razor's Edge" (2018-05-26) https://articles.ohr.edu/articles/razors-edge
 authorities: [Targum, Rashi, Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Vayikra Rabbah]
-status: reviewed
 updated: 2026-09-10
 ---
 # Razor: taar / morah

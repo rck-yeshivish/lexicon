@@ -19,7 +19,6 @@ sources:
   - wiaw:8271 "Karet and Ariri" (2019-06-01) https://articles.ohr.edu/articles/karet-and-ariri
   - ms:196-karet-and-ariri.md "Karet and Ariri"
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Chaim of Volozhin, Ramban, Rabbeinu Bachya, Ibn Ezra, Rashi, Riva, Shadal, Rabbi Shlomo Astruc]
-status: reviewed
 updated: 2026-09-22
 ---
 # Excision: karet / ariri

@@ -35,7 +35,6 @@ sources:
   - wiaw:10983 "True Love (Part 2/2)" (2023-11-18) https://articles.ohr.edu/articles/true-love-part-22
   - ms:152-mercy-or-pity.md "Mercy or Pity"
 authorities: [Rabbeinu Bachaya, Rashi, Rabbi Yosef Bechor-Shor, gloss to Tosafos, Rabbi Elazar Rokeach of Worms, Rabbi Avraham bar Chaim Ibn Ramoch, Malbim, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Yitzchak Avineri, Rabbi Moshe Shapiro, Rabbi Moshe de Leon, Rabbeinu Efrayim ben Shimshon]
-status: reviewed
 updated: 2026-09-22
 ---
 # Mercy: rachum / chanun / chus / chemlah

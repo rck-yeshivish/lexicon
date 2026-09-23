@@ -25,7 +25,6 @@ words:
 sources:
   - wiaw:9266 "Balaam's Numa" (2021-06-26) https://articles.ohr.edu/articles/balaams-numa
 authorities: [Menachem Ibn Saruk, Ibn Janach, Ibn Chayyuj, Radak, Rabbi Shlomo Pappenheim, Peirush HaRokeach, Siddur HaRokeach, Rabbeinu Efrayim, Sefer HeAruch, Rabbi Gershon Shaul Yom Tov Lipmann Heller, Rabbi Yechezkel Landau, Rabbi Binyamin Mussafia, Ibn Ezra, Abudraham, Dr. Shlomo Mandelkorn, Ernst Daniel Goldschmidt, Oxford English Dictionary]
-status: reviewed
 updated: 2026-09-10
 ---
 # Speech: ne'um / yichaveh / yabia / siach

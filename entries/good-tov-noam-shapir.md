@@ -29,7 +29,6 @@ sources:
   - wiaw:9992 "Nitzavim/Vayelech/RH: The Shofar's Horn" (2022-09-17) https://articles.ohr.edu/articles/nitzavimvayelechrh-the-shofars-horn
   - wiaw:10060 "Nitzavim/Vayelech/RH: The Shofar's Horn" (2022-09-24) https://articles.ohr.edu/articles/nitzavimvayelechrh-the-shofars-horn-2
 authorities: [Rabbi Eliyahu HaBachur, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Rav Hirsch, Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Avraham Bedersi, Rabbi Shaul Goldman, Rabbi Reuven Chaim Klein, Vilna Gaon]
-status: reviewed
 updated: 2026-09-10
 ---
 # Good: tov / noam / shapir (shefer)

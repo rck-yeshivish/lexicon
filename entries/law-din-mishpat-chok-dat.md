@@ -32,7 +32,6 @@ sources:
   - wiaw:8315 "Laws and Orders" (2019-07-06) https://articles.ohr.edu/articles/laws-and-orders
   - ms:255-laws-and-orders.md "Laws and Orders"
 authorities: [Rabbi Avraham Bedersi, Ibn Janach, Targum Onkelos, Rabbi Yosef Nechemias, Ibn Ezra, Rabbi Moshe Chalavah, Rabbi Shmuel Laniado, Maharal of Prague, Rabbi Yosef Zecharia Stern, Rabbi Shlomo Aharon Wertheimer, Rabbi Tzadok HaKohen of Lublin, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Nissim of Marseilles, Menachem Ibn Saruk, Ibn Parchon, Ramban, Rashi, Abarbanel, Rav Hirsch, Shadal, Rabbi Moshe Tedeschi, Abu Omar Ibn Yaqwi, Rabbi Eliyahu Benamozegh, Peirush HaRokeach, Rambam, Rabbeinu Bachaya, Ibn Yachya, Radak, Rabbi Eliyahu Menachem Margules, Rabbi Moshe Shapiro, Rabbi Yisrael Salanter, Rabbi Berachiah Beirach Shapiro, Zohar, Rabbi Yaakov Tzvi Mecklenburg, Shemos Rabbah, Old Midrash Tanchuma, Yalkut Shimoni, Gesenius, Avraham Even-Shoshan, Yehoshua Yaron, Benjamin J. Noonan, Rabbi Shlomo Astruc]
-status: reviewed
 updated: 2026-09-22
 ---
 # Law: din / mishpat / chok / dat / nimus

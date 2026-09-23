@@ -21,7 +21,6 @@ words:
 sources:
   - wiaw:11307 "Vayikra: The Kidneys Advisory" (2024-03-23) https://articles.ohr.edu/articles/vayikra-the-kidneys-advisory
 authorities: [Rashi, Rashbam, Radak, Ibn Ezra, Ibn Janach, Menachem Ibn Saruk, Ramban, Rav Hirsch, Chizkuni, Rabbeinu Bachya, Shadal, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Elazar Rokeach of Worms, Rabbi Shes ben Yefes HaRofeh, Rabbi Avraham Ibn Ramoch, Metzudas Tzion, Chochmas Manoach, Targum Onkelos, Daas Mikra, Brown-Driver-Briggs, David J. A. Clines, Rabbi Natan Slifkin]
-status: reviewed
 updated: 2026-09-10
 ---
 # Kidneys: kilayos / atzeh / tuchos

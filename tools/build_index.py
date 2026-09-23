@@ -87,7 +87,6 @@ for p in sorted(ENTRIES.glob("*.md")):
         "translit": fm.get("translit", []),
         "english": fm.get("english", []),
         "domain": fm.get("domain", "other"),
-        "status": fm.get("status", "draft"),
         "bottom": one_paragraph(section(t, "Bottom line")),
         # Whole, not flowed into one line: it is the one place the guide
         # tells anyone how to translate, and it carries lists.
@@ -146,7 +145,7 @@ for e in sorted(entries, key=lambda x: (x["domain"], x["cluster"])):
         cur = e["domain"]
     heb = " / ".join(e["hebrew"])
     tr = ", ".join(e["translit"][:8])
-    out += [f"**{heb}** — {e['cluster']} | {tr} | {e['status']} | [{e['file']}](entries/{e['file']})", ""]
+    out += [f"**{heb}**: {e['cluster']} | {tr} | [{e['file']}](entries/{e['file']})", ""]
     if e["bottom"]:
         out += [e["bottom"], ""]
     if e["rendering"]:

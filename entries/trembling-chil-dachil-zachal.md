@@ -22,7 +22,6 @@ words:
 sources:
   - wiaw:11544 "Nitzavim-Vayelech: Shake & Quake (Pt. 1/3)" (2024-09-21) https://articles.ohr.edu/articles/nitzavim-vayelech-shake-quake-pt-13
 authorities: [Rav Hirsch, Rabbi Shlomo Pappenheim, Targum Onkelos, Targum Yonasan, Rabbi Eliyahu HaBachur, Menachem Ibn Saruk, Rashi, Ibn Ezra, Ibn Janach, Rabbi Yosef Kara, Sforno, Metzudas Tzion, Rabbi David Golumb, Rabbi Asher Weiser, Toras Chaim, Rabbi Shaul Goldman, Dr. Tzvi Langermann]
-status: reviewed
 updated: 2026-09-10
 ---
 # Trembling: chil / dachil / zachal

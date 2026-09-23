@@ -22,7 +22,6 @@ words:
 sources:
   - wiaw:11327 "Shemini: The Nosey Truth" (2024-04-06) https://articles.ohr.edu/articles/shemini-the-nosey-truth
 authorities: [Menachem Ibn Saruk, Rabbeinu Yonah Ibn Janach, Radak, Rabbi Aharon Marcus, Rashi, Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yehudah Ibn Balaam, Rabbi Yosef Kara, Ibn Ezra, Zohar, Maharsha, Rabbi Binyamin Mussafia, Rabbi Moshe Yair Weinstock, Rabbi Shlomo Ibn Parchon, Peirush HaRokeach, Rabbi David Conforte, Ben Ish Chai, Rabbi Avraham Nissan Orenstein, Prof. Edward Yechezkel Kutscher]
-status: reviewed
 updated: 2026-09-10
 ---
 # Nose: af / chotem / nichirayim

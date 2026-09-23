@@ -23,7 +23,6 @@ sources:
   - wiaw:7620 "G-d's Best Friend" (2018-02-03) https://articles.ohr.edu/articles/g-ds-best-friend
   - ms:122-g-ds-best-friend.md "G-d’s Best Friend"
 authorities: [Rabbi Elazar Rokeach of Worms, Rabbi Shlomo Aharon Wertheimer, Rashi, Maharsha, Targum Onkelos, Rabbi Mattisyahu HaYitzhari]
-status: reviewed
 updated: 2026-09-22
 ---
 # Friend: reya / chaver / amis

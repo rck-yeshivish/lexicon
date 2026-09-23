@@ -31,7 +31,6 @@ sources:
   - wiaw:9658 "Pesach: Putting Pressure" (2022-04-16) https://articles.ohr.edu/articles/pesach-putting-pressure
   - wiaw:9682 "The Year of Slipping Away (Part 1 of 2)" (2022-05-14) https://articles.ohr.edu/articles/the-year-of-slipping-away-part-1-of-2
 authorities: [Rabbi Eliezer Ashkenazi, Rabbi Shlomo Pappenheim, Rabbi Shimon Schwab, Rabbi Refael Binyamin Posen, Malbim, Targum Onkelos, Targum Yonatan, Targum Neofiti, Rashi, Menachem Ibn Saruk, Ramban, Radak, Ibn Janach, Bereishis Rabbah, Rabbi Moshe ben HaNessiah, Rabbi Yosef Chaim of Baghdad]
-status: reviewed
 updated: 2026-09-10
 ---
 # Pressure: lachatz / d'chak / negisah / atz / alatz

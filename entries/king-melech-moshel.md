@@ -22,7 +22,6 @@ sources:
   - wiaw:6817 "Introduction - Synonyms in the Hebrew Language" (2016-06-25) https://articles.ohr.edu/articles/introduction-synonyms-in-the-hebrew-language
   - ms:337-divine-dictator-or-populist-king.md "Divine Dictator or Populist King"
 authorities: [Vilna Gaon, Rabbi Moshe Soloveitchik of Switzerland, Ibn Ezra, Avi Hurvitz, Rabbi Eliyahu Benamozegh, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # King: melech / moshel

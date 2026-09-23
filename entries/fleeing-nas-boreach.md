@@ -27,7 +27,6 @@ sources:
   - wiaw:7779 "Running Away" (2018-06-02) https://articles.ohr.edu/articles/running-away
   - ms:237-running-away.md "Running Away"
 authorities: [Sforno, Malbim, Sefer HaChochmah (Rabbi Elazar Rokeach of Worms), Rabbi Naftali Hertz Treves (Sefer HaGur), Rabbi Shlomo Aharon Wertheimer, Targum Onkelos, Rabbi Shlomo Pappenheim]
-status: reviewed
 updated: 2026-09-22
 ---
 # Fleeing: nas / boreach

@@ -29,7 +29,6 @@ words:
 sources:
   - wiaw:11563 "Noach: Ashkenaz and Teutonic Jews" (2024-11-02) https://articles.ohr.edu/articles/noach-ashkenaz-and-teutonic-jews
 authorities: [Shadal, Filosseno Luzzatto, Targum Yerushalmi, Targum Rav Yosef, Vilna Gaon, Rabbi Nathan of Rome, Rashi, Rabbeinu Tam, Rashbam, Maharshal, Rabbi Yaakov Emden, Rabbeinu Efrayim, Radak, Rabbi Aryeh Kaplan, Rabbi Aharon Marcus, Rabbi Yosef Prager, Rabbi Ernest Klein, Wilhelm Gesenius, Brown-Driver-Briggs, Alfred Jones, David L. Gold, Rainer Josef Barzen]
-status: reviewed
 updated: 2026-09-10
 ---
 # Names for Germany: Ashkenaz / Germamia / Lotir / Almenia

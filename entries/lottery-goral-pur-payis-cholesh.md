@@ -37,7 +37,6 @@ sources:
   - wiaw:10974 "Shelach: Learning the Ropes" (2023-06-10) https://articles.ohr.edu/articles/shelach-learning-the-ropes
   - ms:167-playing-the-lottery.md "Playing the Lottery"
 authorities: [Maharitatz (Rabbi Yom Tov Tzahalon), Rabbi Yaakov Lorberbaum of Lissa, Midrash Lekach Tov, Rashbam, Ibn Ezra, Ramban, Rabbi Yosef ben Yosef Ibn Nachmias, Rabbi Shlomo Pappenheim, Tosafos Yom Tov, Meiri, Sefer HeAruch, Rabbi Shlomo HaAdani (Meleches Shlomo), Rabbi Yosef Yishai Rain, Rabbi Levi Yitzchak of Berditchev]
-status: reviewed
 updated: 2026-09-22
 ---
 # Lottery: goral / pur / payis / cholesh

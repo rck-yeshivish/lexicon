@@ -54,7 +54,6 @@ sources:
   - wiaw:8505 "The Ovine and Caprine Families" (2019-12-07) https://articles.ohr.edu/articles/the-ovine-and-caprine-families
   - ms:325-the-strong-ones.md "The Strong Ones"
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Edel, Rav Hirsch, Metzudas David, Maharsha, Rabbi J. B. Soloveitchik, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Aharon Wertheimer, Vilna Gaon, Malbim, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Dr. Asher Weiser, Rabbi Moshe Shapiro, Rabbi Aharon Marcus, Rabbi Naftali Hertz Wessely, Rabbi Yerucham Levovitz, Rabbi Shlomo of Urbino, Yonah Wilheimer, Rashi, Rambam, Tosafos, Targum, Shadal, Shadal, Shadal, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Strength: koach / gevurah / chozek / ometz (otzem, oz, eitan, adir, kabir, takif)

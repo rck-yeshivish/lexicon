@@ -50,7 +50,6 @@ sources:
   - babel:2020 "Learning to differentiate between apparent synonyms" (2020-05) sources/klein-babel-2020/synonyms-in-language.txt
   - wiaw:11024 "Don't Trample On Me" (2023-07-22) https://articles.ohr.edu/articles/dont-trample-on-me
 authorities: [Vilna Gaon, Malbim, Rabbi Tzvi Hirsch Shlez, Rabbi Shlomo Aharon Wertheimer, Zohar, Rabbi Shlomo Pappenheim, Radak, Rashi, Rabbi Moshe Shapiro, Rabbi Moshe Tedeschi-Ashkenazi]
-status: reviewed
 updated: 2026-09-10
 ---
 # Path: derech / orach

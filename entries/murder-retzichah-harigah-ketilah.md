@@ -24,7 +24,6 @@ sources:
   - wiaw:10820 "Yisro: Murder He Wrote" (2023-02-11) https://articles.ohr.edu/articles/yisro-murder-he-wrote
   - ms:127-murder-he-wrote.md "Murder He Wrote"
 authorities: [Rashbam, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi, Abarbanel, Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Galblum, Rabbi Nathan Adler, Menachem Ibn Saruk, Rashi, Targum Onkelos, Sefer Yeraim, Sefer HaChochmah, Rabbi Aharon Marcus, Rabbi Yaakov Berger, Ohr Chadash]
-status: reviewed
 updated: 2026-09-22
 ---
 # Murder: retzichah / harigah / ketilah

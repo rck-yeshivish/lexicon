@@ -39,7 +39,6 @@ sources:
   - wiaw:7463 "Seeing is Believing" (2017-11-04) https://articles.ohr.edu/articles/seeing-is-believing
   - ms:022-seeing-is-believing.md "Seeing is Believing"
 authorities: [Malbim, Vilna Gaon, Rabbi Yaakov Tzvi Mecklenburg, Rashi, Radak, Rabbi Shlomo Aharon Wertheimer, Rabbi Elazar Rokeach of Worms, Rabbi Shlomo Pappenheim, Rabbi Moshe Shapiro, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Seeing: ra'ah / hibit / mashkif / tzofeh (shur, metzitz, mashgiach)

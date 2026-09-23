@@ -49,7 +49,6 @@ sources:
   - wiaw:9228 "Fishy Words (Part 1/2)" (2021-05-29) https://articles.ohr.edu/articles/fishy-words-part-12
   - ms:069-a-biblical-feast.md "A Biblical Feast"
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Menachem Ibn Saruk, Ibn Chayyuj, Ibn Janach, Radak, Rav Hirsch, Meiri, Rabbeinu Bachaya, Peirush HaRokeach, Rabbi Yitzchok of Volozhin, Ramban, Rabbi Yehuda HaChassid, Rabbi Avraham Rivlin, Rabbi Yechezkel Weinfeld, Targum Onkelos, Targum Yonasan, Seder Berachos]
-status: reviewed
 updated: 2026-09-22
 ---
 # Food: ochel / mazon / yevul / tevuah / tenuvah / dagan / bar / shever

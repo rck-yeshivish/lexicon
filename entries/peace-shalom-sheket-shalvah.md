@@ -29,7 +29,6 @@ sources:
   - wiaw:8816 "Peace and Quiet" (2020-08-08) https://articles.ohr.edu/articles/peace-and-quiet
   - ms:211-peace-and-quiet.md "Peace and Quiet"
 authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Malbim, Rav Hirsch, Ibn Janach, Radak, Rashi, Ibn Ezra, Ramban, Chasam Sofer]
-status: reviewed
 updated: 2026-09-22
 ---
 # Peace: shalom / shalvah / sheket / shaanan

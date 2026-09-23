@@ -27,7 +27,6 @@ sources:
   - wiaw:9245 "Revolting Revolutions" (2021-06-12) https://articles.ohr.edu/articles/revolting-revolutions
   - ms:249-revolting-revolutions.md "Revolting Revolutions"
 authorities: [Rashi, Midrash Tanchuma, Rabbi Shlomo Pappenheim, Targum, Rabbi Yonah Ibn Janach, Radak, Machberes Menachem (Rabbi Menachem Ibn Saruk), Rav Hirsch, Rabbi Aharon Marcus, Sifrei, Shadal]
-status: reviewed
 updated: 2026-09-22
 ---
 # Rebellion: pesha / meridah / meri (mamre)

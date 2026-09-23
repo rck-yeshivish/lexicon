@@ -25,7 +25,6 @@ words:
 sources:
   - wiaw:9428 "Disgraceful Disparagement" (2021-11-06) https://articles.ohr.edu/articles/disgraceful-disparagement
 authorities: [Rashi, Rambam, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi David Chaim Chelouche, Rabbi Ernest Klein, Maggid of Kozhnitz]
-status: reviewed
 updated: 2026-09-10
 ---
 # Disgrace: bizayon / kalon / zilzul / gnai

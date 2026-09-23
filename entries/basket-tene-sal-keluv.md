@@ -35,7 +35,6 @@ sources:
   - wiaw:8846 "A Basket Case" (2020-09-05) https://articles.ohr.edu/articles/a-basket-case
   - wiaw:10020 "A Basket Case" (2022-09-17) https://articles.ohr.edu/articles/a-basket-case-2
 authorities: [Rav Hirsch, Rabbi Aharon Marcus, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Ernest Klein, Rabbi David Chaim Chelouche, Rabbi Tanchum HaYerushalmi, Rashi, Rashbam, Rabbeinu Gershom, Targum Onkelos, Chaim Tawil]
-status: reviewed
 updated: 2026-09-10
 ---
 # Basket: tene / sal / keluv

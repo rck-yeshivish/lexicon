@@ -23,7 +23,6 @@ sources:
   - wiaw:11106 "Enter the Garden (Part 2 of 2)" (2023-09-30) https://articles.ohr.edu/articles/enter-the-garden-part-2-of-2
   - ms:007-enter-the-garden.md "Enter the Garden"
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rashi, Rashbam, Rabbi Yosef Kara, Metzudas Tzion, Ibn Ezra, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Yehudah Aryeh of Carpentras, Rabbi Avraham Bedersi, Rabbi Yedaiah HaPenini, Rabbi Shlomo Aharon Wertheimer, Rabbi David Luria, Rabbi Eliyahu HaBachur, Rabbi Ernest Klein, Dr. Alexander Kohut, Rabbi Shaul Goldman, Rabbi Hai Gaon, Arizal, Ramak, Rema, Rambam]
-status: reviewed
 updated: 2026-09-22
 ---
 # Garden: gan / pardes / bustan

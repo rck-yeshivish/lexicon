@@ -30,7 +30,6 @@ words:
 sources:
   - wiaw:9682 "The Year of Slipping Away (Part 1 of 2)" (2022-05-14) https://articles.ohr.edu/articles/the-year-of-slipping-away-part-1-of-2
 authorities: [Rabbi Yonah Ibn Janach, Radak, Ibn Ezra, Rashi, Ramban, Rabbi Shlomo Pappenheim, Shoresh Yesha, Rabbi Moshe ben HaNessiah Britannico, Rabbi Yosef Chaim of Baghdad, Vayikra Rabbah, Targum Yonasan, Targum Rav Yosef, Rabbi Ernest Klein, Joseph Klausner]
-status: reviewed
 updated: 2026-09-10
 ---
 # Slipping off: shemittah / chalitzah / shalaf / shal

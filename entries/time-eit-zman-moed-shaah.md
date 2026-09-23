@@ -27,7 +27,6 @@ sources:
   - wiaw:7396 "Elul 1: Trends in Time" (2017-09-02) https://articles.ohr.edu/articles/elul-1-trends-in-time
   - ms:204-trends-in-time.md "Trends in Time"
 authorities: [Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Maharal of Prague, Malbim, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Moshe Isserles, Rabbi Yaakov Emden, Targumim, Shadal]
-status: reviewed
 updated: 2026-09-22
 ---
 # Time: eit / zman / moed / shaah

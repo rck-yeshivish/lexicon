@@ -23,7 +23,6 @@ sources:
   - wiaw:10730 "Vayetzei: Gad Luck to You" (2022-11-26) https://articles.ohr.edu/articles/vayetzei-gad-luck-to-you
   - ms:045-gad-luck-to-you.md "Gad Luck to You"
 authorities: [Rashi, Ibn Janach, Radak, Menachem Ibn Saruk, Ibn Ezra, Ramban, Ralbag, Rabbi Saadia Gaon, Rabbi Moshe Kimchi, Dunash Ibn Labrat, Rabbi Yitzchak the Blind, Rabbi Yosef Gikatilla, Tiferes Yisrael, Ramchal, Rabbi Shlomo Pappenheim, Rabbi Yosef Grayever, Rabbi Yehudah Aryeh of Carpentras, Rabbi Eliyahu Katz, Rav Hirsch, Ernest Klein, Chaim Tawil, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Fortune: mazal / gad / mazar

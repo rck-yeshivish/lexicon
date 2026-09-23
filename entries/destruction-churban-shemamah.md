@@ -25,7 +25,6 @@ sources:
   - wiaw:7366 "Words of Destruction" (2017-07-29) https://articles.ohr.edu/articles/words-of-destruction
   - wiaw:9775 "On Dry Land" (2022-07-09) https://articles.ohr.edu/articles/on-dry-land
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Radak, Ibn Ezra, Rabbi Chaim of Volozhin, Shoresh Yesha]
-status: reviewed
 updated: 2026-09-10
 ---
 # Destruction: churban / shemamah

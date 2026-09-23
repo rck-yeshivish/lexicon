@@ -19,7 +19,6 @@ sources:
   - wiaw:10907 "Acharei Mos: Confronting Death" (2024-05-04) https://articles.ohr.edu/articles/acharei-mos-confronting-death
   - ms:193-confronting-death.md "Confronting Death"
 authorities: [Rabbi Yehuda Chayyuj, Ibn Janach, Rabbi Shlomo Ibn Parchon, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Moshe Shapiro, Rabbi Avraham Chaim Schor, Shadal]
-status: reviewed
 updated: 2026-09-22
 ---
 # Death: mitah / petirah (nifter)

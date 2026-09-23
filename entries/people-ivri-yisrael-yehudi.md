@@ -23,7 +23,6 @@ sources:
   - wiaw:7961 "Names of a People" (2018-10-20) https://articles.ohr.edu/articles/names-of-a-people
   - wiaw:8553 "Jacob's Three Names" (2020-01-11) https://articles.ohr.edu/articles/jacobs-three-names
 authorities: [Bereishis Rabbah, Pesikta Rabbasi, Shemos Rabbah, Rabbeinu Bachya, Rabbi Dr. Norman Lamm]
-status: reviewed
 updated: 2026-09-10
 ---
 # Names of the Jewish people: Ivri / Yisrael / Yehudi

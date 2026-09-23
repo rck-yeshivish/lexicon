@@ -25,7 +25,6 @@ words:
 sources:
   - wiaw:8478 "Where are You" (2019-11-16) https://articles.ohr.edu/articles/where-are-you
 authorities: [Rabbi Shlomo Pappenheim of Breslau, Rabbi Shlomo Aharon Wertheimer, Rashi, Rabbi Eliyahu Mizrachi, Radak, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Uriel Frank]
-status: reviewed
 updated: 2026-09-10
 ---
 # Where: ayeh (ey) / eifoh / anah

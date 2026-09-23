@@ -28,7 +28,6 @@ sources:
   - wiaw:7009 "Fowl Language and Poultry" (2016-11-19) https://articles.ohr.edu/articles/fowl-language-and-poultry
   - ms:124-just-winging-it.md "Just Winging It"
 authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Rabbeinu Yonah Ibn Janach, Radak, Rashi, Rashbam, Chaim Tawil, Shadal]
-status: reviewed
 updated: 2026-09-22
 ---
 # Wing: kanaf / ever / agaf

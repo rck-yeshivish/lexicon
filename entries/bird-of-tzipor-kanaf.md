@@ -26,7 +26,6 @@ sources:
   - wiaw:9070 "Yitro: Just Winging It" (2021-02-06) https://articles.ohr.edu/articles/yitro-just-winging-it
   - ms:180-fowl-language-and-poultry.md "Fowl Language and Poultry"
 authorities: [Rashi, Radak, Rabbi Yom Tov Lipman Heller, Sifri, Rambam, Ramban, Rabbi Chanoch Zundel of Bialystok, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Bird: of / tzipor / kanaf

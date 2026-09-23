@@ -53,7 +53,6 @@ sources:
   - wiaw:9877 "Trusting and Relying on G-d" (2022-09-10) https://articles.ohr.edu/articles/trusting-and-relying-on-g-d-2
   - wiaw:11178 "Vayigash: Say it Clear (Part 2/2)" (2023-12-23) https://articles.ohr.edu/articles/vayigash-say-it-clear-part-22
 authorities: [Rabbeinu Bachaya Ibn Pakuda, Malbim, Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Moshe Tzuriel, Peirush HaRokeach, Rabbi Moshe Wolfson, Rav Hirsch]
-status: reviewed
 updated: 2026-09-10
 ---
 # Trust: bitachon / machseh / tikvah / tocheles / chikui / semichah / mishan / saad / sever / kesel

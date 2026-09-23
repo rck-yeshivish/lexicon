@@ -23,7 +23,6 @@ sources:
   - wiaw:8553 "Jacob's Three Names" (2020-01-11) https://articles.ohr.edu/articles/jacobs-three-names
   - ms:070-jacobs-three-names.md "Jacob’s Three Names"
 authorities: [Rashi, Ramban, Rabbeinu Bachya, Maharal, Maharsha, Vilna Gaon, Ohr HaChaim, Rav Hirsch, Rabbi Elimelech of Lizhensk, Rabbi Yaakov Tzvi Mecklenburg, Chasam Sofer, Megaleh Amukos, Arizal, Zohar, Noda BiYehudah, Rabbi Meir Simcha of Dvinsk, Rabbi Nosson Kamenetsky, Rabbi Shes ben Yefes, Rabbi Yitzchak ben Yosef of Pira]
-status: reviewed
 updated: 2026-09-22
 ---
 # Names of Yaakov: Yaakov / Yisrael / Yeshurun

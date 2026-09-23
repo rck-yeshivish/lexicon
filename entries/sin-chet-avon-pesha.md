@@ -28,7 +28,6 @@ sources:
   - wiaw:9245 "Revolting Revolutions" (2021-06-12) https://articles.ohr.edu/articles/revolting-revolutions
   - ms:338-degrees-of-sin.md "Degrees of Sin"
 authorities: [Rashi, Vilna Gaon, Rabbi Yechezkel Landau, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Malbim, Peirush HaRokeach, Rabbi Netanel Weil, Rambam, Rabbi Yosef Babad, Rabbi Elazar Menachem Mann Shach, Rabbi Yaakov Tzvi Mecklenburg, Radak, Ibn Ezra, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Sin: chet / avon / pesha (aveirah)

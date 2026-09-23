@@ -29,7 +29,6 @@ words:
 sources:
   - wiaw:11889 "Chukas: Words for War" (2025-07-05) https://articles.ohr.edu/articles/chukas-words-for-war
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Theological Dictionary of the Old Testament, Netziv, Rabbi Yehudah Aryeh of Carpentras, Rabbi Binyamin Mussafia, Matnos Kehunah, Rabbi Natan of Rome, Dr. Alexander Kohut, Rabbeinu Gershom, Rashba, Rashbam, Rashi, Rabbi Shaul Goldman]
-status: reviewed
 updated: 2026-09-10
 ---
 # War: milchamah / krav / pulmus (tarunya, kenigia)

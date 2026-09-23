@@ -26,7 +26,6 @@ sources:
   - wiaw:11817 "Emor: A Window into Widows (Part 1/2)" (2025-05-17) https://articles.ohr.edu/articles/emor-a-window-into-widows-part-12
   - wiaw:11816 "Behar/Bechukosai: A Window into Widows (Part 2/2)" (2025-05-24) https://articles.ohr.edu/articles/beharbechukosai-a-window-into-widows-part-22
 authorities: [Ibn Janach, Radak, Rabbi Shlomo Ibn Parchon, Rav Hirsch, Theological Dictionary of the Old Testament, Rav Chana of Baghdad, Chasam Sofer, Rabbi Yaakov Tzvi Mecklenburg, Ritva, Rashi, Rabbi Betzalel Ashkenazi, Rabbi Yehuda Aryeh of Modena, Rabbi Shmuel Strashun, Peirush HaRokeach, Ben Yehoyada, Zohar, Rabbi Aharon Berechiah of Modena, Rabbi Mordechai Spielman, Targum Yonasan, Rabbi Saadia Gaon, Rabbi Yehudah Ibn Balaam, Mahari Kara, Abarbanel, Malbim, Ibn Ezra, Ibn Kaspi, Rabbi Shlomo Eiger, Rabbi David Chaim Chelouche, Rambam, Rabbi Shabsai Frankel, Rabbi Ernest Klein, Jacob Barth, Theodor Noldeke, Rudolf Ruzicka]
-status: reviewed
 updated: 2026-09-10
 ---
 # Widow: almanah / alman / armalta (karmelis)

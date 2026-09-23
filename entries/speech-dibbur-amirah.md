@@ -27,7 +27,6 @@ sources:
   - wiaw:10940 "Bamidbar: Out in the Wild" (2023-05-20) https://articles.ohr.edu/articles/bamidbar-out-in-the-wild
   - ms:293-thats-amore.md "That’s Amore!"
 authorities: [Rashi, Rabbi Yaakov Tzvi Mecklenburg, Maharal, Moshav Zekanim, Zohar, Sefer HaChochmah, Rabbi Elazar Rokeach of Worms, Rabbeinu Bachaya, Vilna Gaon, Rabbi Pinchas Horowitz of Frankfurt, Netziv, Malbim, Rabbi Moshe Feinstein, Rabbi Shmuel Jaffa-Ashkenazi of Istanbul, Rabbi Shlomo Pappenheim, Rabbi Wolf Heidenheim, Ibn Ezra, Rabbi Yoel Ibn Shuaib, Rav Hirsch, Rav Saadia Gaon, Dunash ibn Labrat, Raavan, Rabbi Yonah Isaac Neiman of Makow, Rabbi Shmuel Shmelka Horowitz of Nikolsburg, Rabbi Kalonymus Kalman Epstein of Krakow, Rabbi Yaakov Yosef of Ostrog, Rabbi Shimon Maryles of Jaroslaw, Sifsei Chachamim, Bartenura, Targum, Menachem Ibn Saruk, Radak, Yalkut Shorashim, Rabbi Eliyahu Benamozegh, Rabbi Yitzchak bar Yakar, Rabbeinu Efrayim ben Shimshon, Rabbi Levi Yitzchak of Berditchev]
-status: reviewed
 updated: 2026-09-22
 ---
 # Speech: dibbur / amirah

@@ -24,7 +24,6 @@ sources:
   - wiaw:7707 "Defining Freedom" (2018-03-31) https://articles.ohr.edu/articles/defining-freedom
   - wiaw:11687 "Yisro: Write it down" (2025-02-15) https://articles.ohr.edu/articles/yisro-write-it-down
 authorities: [Rashi, Ibn Ezra, Radak, Rabbeinu Yonah Ibn Janach, Ramban, Sefer HeAruch, Rabbi Shlomo Aharon Wertheimer, Rabbi Yitzchok Dov Bamberger, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Jonathan Sacks, Isaiah Berlin, Menachem Ibn Saruk]
-status: reviewed
 updated: 2026-09-10
 ---
 # Freedom: cheirus / chofesh / dror

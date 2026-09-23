@@ -31,7 +31,6 @@ sources:
   - wiaw:11286 "Vayakhel: Myrrh & Myrtle (Part 2)" (2024-03-09) https://articles.ohr.edu/articles/vayakhel-myrrh-myrtle-part-2
   - wiaw:11326 "Vayakhel: Myrrh & Myrtle (Part 2)" (2024-03-09) https://articles.ohr.edu/articles/vayakhel-myrrh-myrtle-part-2-2
 authorities: [Rashi, Ibn Ezra, Ralbag, Maharsha, Keren Orah, Vilna Gaon, Sefer HeAruch, Targum Sheini, Chachmei Tzarfas, Peirush HaRokeach, Rabbi Avigdor Katz, Rabbi Tanchum HaYerushalmi, Rabbi Yitzchak Arama, Rabbi Shlomo Alkabetz, Rabbi Eliezer Ashkenazi, Rabbi Yaakov Emden, Rabbi Yosef Nechemias, Rabbi Yehonatan Eybeschutz, Rabbi Chaim Palagi, Torah Temimah, Rabbi Tzadok HaKohen of Lublin, Rabbi Yekusiel Yehuda Halberstam, Rabbi Meir Mazuz, Rabbi Refael Berdugo, Rabbi Dovid Oppenheim, Pri Megadim, Rambam, Melechet Shlomo, Rabbi Yitzchak Epstein, Dr. Alexander Kohut, Yitzchak Ber Levinsohn, Dr. Herbert C. Dobrinsky]
-status: reviewed
 updated: 2026-09-10
 ---
 # Names of Mordechai and Esther: Mordechai / Petachyah / Bilshan, Esther / Hadassah

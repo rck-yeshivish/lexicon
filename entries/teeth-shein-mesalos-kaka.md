@@ -34,7 +34,6 @@ words:
 sources:
   - wiaw:10931 "Showing Teeth" (2023-04-22) https://articles.ohr.edu/articles/showing-teeth
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Shoresh Yesha, Rabbi David Chaim Chelouche, Rabbi Moshe Tedeschi-Ashkenazi, Shadal, Rashi, Biur HaGra, Ibn Parchon, Tosafos, Rabbeinu Chananel, Rabbeinu Gershom, Rabbi Nosson of Rome, Rambam, Dr. Daniel Vainstub, Dr. Alexander Kohut]
-status: reviewed
 updated: 2026-09-10
 ---
 # Teeth: shein / mesalos (malteos) / kaka / nivi / gallal / chit

@@ -28,7 +28,6 @@ sources:
   - wiaw:11594 "Toldot: Noble Clothes" (2024-11-30) https://articles.ohr.edu/articles/toldot-noble-clothes
   - wiaw:11856 "Korach: Growing the Fringes (Part 2/2)" (2025-06-28) https://articles.ohr.edu/articles/korach-growing-the-fringes-part-22
 authorities: [Targum Onkelos, Targum Yonasan, Rashi, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Nosson of Rome, Rabbi David Golumb, Rav Hirsch, Rabbi Eliyahu HaBachur, Rabbi Yosef Chaim of Baghdad, Dr. Michael Sokoloff, Dr. Alexander Kohut, David Curwin, Rabbi Dr. Seth Mandel, Rabbi Tanchum HaYerushalmi]
-status: reviewed
 updated: 2026-09-10
 ---
 # Outer garment: aderes / glima / itztala / tachrich

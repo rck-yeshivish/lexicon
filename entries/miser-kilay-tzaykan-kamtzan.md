@@ -22,7 +22,6 @@ sources:
   - wiaw:9734 "On Misers and Cheapskates" (2022-06-18) https://articles.ohr.edu/articles/on-misers-and-cheapskates
   - ms:067-on-misers-and-cheapskates.md "On Misers and Cheapskates"
 authorities: [Radak, Ibn Janach, Rabbi Shlomo Pappenheim, Ibn Ezra, Rashi, Mahari Kara, Rabbi Eliezer of Beaugency, Menachem Ibn Saruk, Rabbeinu Chananel, Rabbi Ernest Klein, Rashbam, Rabbi Chaim of Friedberg, Maharal, Orchos Tzaddikim, Rabbeinu Yonah, Solomon Rabinowitz, Mendele Mocher Seforim, Alexander Kohut, the Gemara, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Miser: kilay / tzaykan / kamtzan

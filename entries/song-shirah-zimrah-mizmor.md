@@ -22,7 +22,6 @@ sources:
   - wiaw:8681 "PESACH: Sing and Song" (2020-04-04) https://articles.ohr.edu/articles/pesach-sing-and-song
   - ms:224-sing-and-song.md "Sing and Song"
 authorities: [Ibn Ezra, Radak, Sforno, Vilna Gaon, Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Yehuda Leib Edel, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yitzchak Hutner, Chasam Sofer, Rabbi Yaakov Haber, Rabbi Immanuel Frances, Rashi, Rabbeinu Efrayim ben Shimshon, Rabbi Nachman of Breslov, Rabbi Elimelech of Lizhensk (Noam Elimelech), Maharal of Prague, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Rabbi Shimon Dov Ber Analak, Rabbi Shimshon Pincus, Cyrus Gordon]
-status: reviewed
 updated: 2026-09-22
 ---
 # Song: shirah / zimrah / mizmor

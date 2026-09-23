@@ -30,7 +30,6 @@ sources:
   - wiaw:11580 "Lech Lecha: The Princess' Gaze (Part 1/2)" (2024-11-09) https://articles.ohr.edu/articles/lech-lecha-the-princess-gaze-part-12
   - wiaw:11581 "Vayera: The Princess' Gaze (Part 2/2)" (2024-11-16) https://articles.ohr.edu/articles/vayera-the-princess-gaze-part-22
 authorities: [Rashi, Rabbi Shlomo Pappenheim, Maharal, Maharsha, Abarbanel, Rabbi Shlomo Astruc, Rabbi David Luria, Rabbi Shmuel David Luzzatto, Kli Yakar, Rav Hirsch, Rabbeinu Nissim, Baal HaTurim, Peirush HaRokeach, Rabbeinu Efrayim bar Shimshon, Ibn Ezra, Rabbi Avraham Abba Herczl, Rabbi Shabsai Bass, Rabbi Eliyahu Benamozegh, Rabbi Yaakov Emden, Rabbi Yosef Chaim of Baghdad, Rabbi Aharon Marcus, Chasam Sofer, Rabbi Eliyahu HaBachur, Septuagint, Philo of Alexandria, Josephus, Dr. Alexander Kohut, Rabbi Shaul Goldman, Rabbi Yosef Kerman, Professor Grant W. Smith]
-status: reviewed
 updated: 2026-09-10
 ---
 # Princess: Sarai / Sarah / Yiscah

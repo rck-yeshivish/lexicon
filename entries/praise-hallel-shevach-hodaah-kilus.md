@@ -49,7 +49,6 @@ sources:
   - wiaw:7644 "The Beauty of Adar" (2018-02-17) https://articles.ohr.edu/articles/the-beauty-of-adar
   - ms:327-ten-expressions-of-praise.md "Ten Expressions of Praise"
 authorities: [Arizal, Maharal of Prague, Abudraham, Rabbi Shlomo Aharon Wertheimer, Rabbi Shimshon Pincus, Rabbi Chaim Volozhiner, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Franz Boas, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Praise: hallel / shevach / hoda'ah / kilus (the ten expressions)

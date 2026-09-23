@@ -18,7 +18,6 @@ sources:
   - wiaw:7260 "Burke and Rebuke" (2017-05-20) https://articles.ohr.edu/articles/burke-and-rebuke
   - wiaw:10970 "All Tied Up" (2023-06-03) https://articles.ohr.edu/articles/all-tied-up
 authorities: [Vilna Gaon, Malbim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg]
-status: reviewed
 updated: 2026-09-10
 ---
 # Rebuke: mussar / tochachah

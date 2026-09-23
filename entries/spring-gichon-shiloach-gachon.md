@@ -19,7 +19,6 @@ words:
 sources:
   - wiaw:11019 "Matos Masei: The Shiloach Waters" (2023-07-15) https://articles.ohr.edu/articles/matos-masei-the-shiloach-waters
 authorities: [Rashi, Radak, Ibn Janach, Rabbi Yosef Kimchi, Ibn Ezra, Rabbi Saadia Gaon, Rabbi Avraham Maimuni, Rabbi Moshe Maimon, Rabbi Meir Abulafia (Ramah), HaKosev, Targum, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Moshe Ibn Chaviv, Rabbi Yoel Teitelbaum of Satmar, Rama, Wilhelm Gesenius, Avraham Even-Shoshan, Professor Carol A. Dray, Septuagint, Radal]
-status: reviewed
 updated: 2026-09-10
 ---
 # Spring: Gichon / Shiloach / gachon

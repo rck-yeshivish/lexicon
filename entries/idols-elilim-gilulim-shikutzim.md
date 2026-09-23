@@ -53,7 +53,6 @@ sources:
   - wiaw:8198 "Top Ten Words for Idols" (2019-03-30) https://articles.ohr.edu/articles/top-ten-words-for-idols
   - wiaw:11687 "Yisro: Write it down" (2025-02-15) https://articles.ohr.edu/articles/yisro-write-it-down
 authorities: [Avos d'Rabbi Nosson, Malbim, Maharitatz, Rashi, Rabbeinu Nissim, Ritva, Ibn Ezra, Ramban, Rabbi Shlomo Pappenheim, Rabbi Eliyahu Benamozegh, Rabbeinu Shimshon of Shantz, Pirush HaRaavad, Rav Achai Gaon, Netziv, Rav Hirsch]
-status: reviewed
 updated: 2026-09-10
 ---
 # Idols: elilim / pesel / masechah / matzeivah / atzabim / gilulim / terafim / shikutzim / chamanim / asherim

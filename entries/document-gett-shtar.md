@@ -28,7 +28,6 @@ sources:
   - wiaw:9581 "Between Books and Scrolls" (2022-02-19) https://articles.ohr.edu/articles/between-books-and-scrolls
   - ms:208-divorce-bills-and-other-documents.md "Divorce Bills and other Documents"
 authorities: [Rashi, Rabbeinu Tam, Tosafos, Rambam, Maharsha, Maharam Shiff, Elyah Rabbah, Tosafos Yom Tov, Rabbi Eliyahu HaBachur, Rabbi Yisrael Yaakov Algazi, Vilna Gaon, Rabbi Chaim of Friedburg, Rabbi Meir Mazuz, Rabbi Chaim Kanievsky, Rabbi Yehoshua Boaz, Chasam Sofer, Levush, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Aryeh Leib Tzintz, Rabbi David Tzvi Fetene, Rabbi Eliezer Herstik, Chaim Tawil, Ritva]
-status: reviewed
 updated: 2026-09-22
 ---
 # Document: gett / shtar (and the biblical sefer kerisus)

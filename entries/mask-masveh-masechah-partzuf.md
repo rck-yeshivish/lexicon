@@ -27,7 +27,6 @@ sources:
   - wiaw:9092 "Purim: Fake Faces" (2021-02-20) https://articles.ohr.edu/articles/purim-fake-faces
   - wiaw:8198 "Top Ten Words for Idols" (2019-03-30) https://articles.ohr.edu/articles/top-ten-words-for-idols
 authorities: [Rabbi Shlomo Ibn Parchon, Rabbi Yehuda Chayyuj, Ibn Janach, Radak, Rashi, Rashbam, Ibn Ezra, Chizkuni, Menachem Ibn Saruk, Donash Ibn Labrat, Rambam, Rabbi Shlomo Pappenheim, Rabbi Ephraim Lenchitz, Rabbi Zerach Eidlitz, Rabbeinu Chananel, Sefer Chassidim, Tosefos Yom Tov, Rabbi Binyamin Mussafia, Rabbi Moshe Chagiz, Rema, Rabbi Yuzpa Shamash, the Rash, Rabbi Dr. Ernest Klein, Avraham Even-Shoshan, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-10
 ---
 # Mask: masveh / masechah / partzuf (suto)

@@ -22,7 +22,6 @@ sources:
   - wiaw:8400 "Forms of Forgiveness" (2019-09-21) https://articles.ohr.edu/articles/forms-of-forgiveness
   - ms:339-forms-of-forgiveness.md "Forms of Forgiveness"
 authorities: [Rabbi Eliyahu HaBachur, Rabbi Moshe Meth, Rabbi Yitzchak Eizik of Tirna, Rabbi Aharon Fuld, Rabbi Moshe Yitzchak Avigdor, Rabbi Yehuda Aszad, Rabbi Shlomo Pappenheim, Rabbi Yechezkel Landau, Malbim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Ernest Klein, Rabbi Dosa the Greek, Rabbi Zev Hoberman, Rabbi Eliyahu Menachem Margulies, the Vilna Gaon, Rabbi Yitzchak Hutner]
-status: reviewed
 updated: 2026-09-22
 ---
 # Forgiveness: mechilah / selichah / kapparah

@@ -29,7 +29,6 @@ sources:
   - wiaw:9308 "The Ultimate Teacher" (2021-07-24) https://articles.ohr.edu/articles/the-ultimate-teacher
   - ms:308-rain-rain-come-again.md "Rain, Rain Come Again"
 authorities: [Taanis 6a, Rashi, Rabbi Moshe Shapiro, Ibn Janach, Radak, Menachem Ibn Saruk, Bereishis Rabbah]
-status: reviewed
 updated: 2026-09-22
 ---
 # Rain: geshem / matar / yoreh / malkosh

@@ -26,7 +26,6 @@ sources:
   - wiaw:7483 "Maybe Yes, Maybe No" (2017-11-11) https://articles.ohr.edu/articles/maybe-yes-maybe-no
   - ms:032-maybe-yes-maybe-no.md "Maybe Yes, Maybe No"
 authorities: [Rabbi Shlomo of Urbino, Rabbi Eliyahu HaBachur, Rabbi Immanuel Benevento, Malbim, Rabbi Yaakov Tzvi Mecklenburg, Vilna Gaon, Rashi, Rabbi Yehuda Leib Edel, Rabbi Tzvi Hirsch Chayes, Rabbi Seligman Baer Bamberger, Rabbi Shlomo Aharon Wertheimer, Rabbi Zalman Sorotzkin, Rabbi Meir Mazuz, Rabbi Shlomo Pappenheim, Rabbi Nissim of Marseilles, Rabbi Elazar Rokeach of Worms]
-status: reviewed
 updated: 2026-09-22
 ---
 # Maybe: ulai / pen

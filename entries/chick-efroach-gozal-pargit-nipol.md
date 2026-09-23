@@ -25,7 +25,6 @@ words:
 sources:
   - wiaw:9906 "Ki Saytzei: Flowering Chicklings" (2022-09-10) https://articles.ohr.edu/articles/ki-saytzei-flowering-chicklings
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Ibn Ezra, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rav Hirsch, Rabbi Yehuda Aryeh Leib of Carpentras, Rabbi Yehonasan HaKohen of Lunel, Rabbi Yitzchak Sarim, Rabbi Shlomo Kohen of Lissa, Rabbi Yaakov Kamenetsky, Rabbi Shmuel Ashkenazi, Rashi, Rabbeinu Gershom, Rambam, Rabbi Shlomo Ganzfried, Rabbi Nosson of Rome, Rabbi Ernest Klein, Rabbi Dr. Asher Weiser, Dr. Moshe Raanan, Academy of the Hebrew Language]
-status: reviewed
 updated: 2026-09-10
 ---
 # Chick: efroach / gozal / pargit / nipol

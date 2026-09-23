@@ -21,7 +21,6 @@ sources:
   - wiaw:9346 "Seasoning the Land" (2021-08-28) https://articles.ohr.edu/articles/seasoning-the-land
   - ms:250-the-land-down-under.md "The Land Down Under"
 authorities: [Vilna Gaon, Malbim, Rabbeinu Bachaya, Ritva, Rabbi Yechiel Michel Moravsky of Lublin, Rabbi Yisrael Lipschitz, Maharshal, Rabbi Yitzchok Dov Bamberger, Pri Megadim, Rabbi Yaakov Chaim Sofer, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Shadal]
-status: reviewed
 updated: 2026-09-22
 ---
 # Land: eretz / adamah

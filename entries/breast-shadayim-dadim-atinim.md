@@ -26,7 +26,6 @@ sources:
   - wiaw:11489 "Nursing from the Good" (2024-08-17) https://articles.ohr.edu/articles/nursing-from-the-good
   - wiaw:8287 "On Clouds" (2019-06-15) https://articles.ohr.edu/articles/on-clouds
 authorities: [Menachem Ibn Saruk, Ibn Janach, Shlomo Ibn Parchon, Radak, Rabbi Shlomo Pappenheim, Rashi, Dunash, Malbim, Rabbeinu Chananel, Rabbi Menachem ben Shimon of Posquieres, Ralbag, Rabbi Shlomo of Urbino, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Natan of Rome, Pseudo-Rasag, Rabbi Shaul Goldman, Shadal, Wilhelm Gesenius, Daas Mikra, Mitchell First, Chaim Tawil, David J. A. Clines, Rabbi Yaakov Chaim Sofer, Peirush HaRokeach]
-status: reviewed
 updated: 2026-09-10
 ---
 # Breast: shadayim / dadim / atinim (ziz)

@@ -27,7 +27,6 @@ sources:
   - wiaw:8444 "Bereishet - Be a Man" (2019-10-26) https://articles.ohr.edu/articles/bereishet-be-a-man
   - ms:006-be-a-man.md "Be a Man"
 authorities: [Zohar, Malbim, Maharal of Prague, Rabbi Shlomo Pappenheim, Rav Hirsch, Vilna Gaon, Radak, Rabbi Shlomo Aharon Wertheimer, Rashi, Rabbi Yaakov Tzvi Mecklenburg, Ibn Ezra, Rabbi Yehuda Leib Edel, Ibn Yachya, Shadal, Rabbi Yitzchak ben Yosef of Pira]
-status: reviewed
 updated: 2026-09-22
 ---
 # Man: adam / enosh / ish / gever

@@ -27,7 +27,6 @@ sources:
   - wiaw:8969 "Miketz: To Be a Wise Guy (Part 2 of 2)" (2020-12-19) https://articles.ohr.edu/articles/miketz-to-be-a-wise-guy-part-2-of-2
   - ms:083-to-be-a-wise-guy.md "To Be a Wise Guy"
 authorities: [Rashi, Rabbi Ovadia Bartenura, Rashbatz, Rabbeinu Yonah, Radak, Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Pappenheim, Vilna Gaon, Malbim, Maharsha, Maharal, Ramchal, Rabbi Chaim of Volozhin, Rabbi Shmuel Yaakov Burnstein, Rabbi Chaim Friedlander, Rabbi Yaakov Chaim Sofer, Rabbi Eliyahu Tzion Sofer, Rabbi Shlomo Brevda, Rabbi Chaim Soloveitchik, Rabbi Shaul Levi Mortera, Michael G. Samet, Robert J. Sternberg]
-status: reviewed
 updated: 2026-09-22
 ---
 # Wisdom: chochmah / binah (tevunah) / daat

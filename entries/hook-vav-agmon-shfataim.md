@@ -26,7 +26,6 @@ sources:
   - wiaw:9565 "On Hooks and Hangers" (2022-02-05) https://articles.ohr.edu/articles/on-hooks-and-hangers
   - ms:156-on-hooks-and-hangers.md "On Hooks and Hangers"
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rashi, Rabbi Shlomo of Urbino, Abarbanel, Rabbi Eliezer of Beaugency, Targum Onkelos, Shadal, A. E. Silverstone, Rabbi Moshe Yitzchak Ashkenazi Tedeschi]
-status: reviewed
 updated: 2026-09-22
 ---
 # Hook: vav / agmon / shfataim (ankliyot)

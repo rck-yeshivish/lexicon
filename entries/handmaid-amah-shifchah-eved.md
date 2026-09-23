@@ -24,7 +24,6 @@ sources:
   - wiaw:9448 "Family Matters" (2021-11-20) https://articles.ohr.edu/articles/family-matters
   - ms:131-the-handmaids-deal.md "The Handmaid’s Deal"
 authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Pappenheim, Rabbi Eliezer Reines, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rabbi Moshe Sherrow, Moshav Zekeinim, Rabbi Aharon Marcus, Rabbi Zev Hoberman, Menachem Ibn Saruk, Ibn Janach, Radak]
-status: reviewed
 updated: 2026-09-22
 ---
 # Handmaid: amah / shifchah (and eved)

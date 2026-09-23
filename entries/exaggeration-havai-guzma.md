@@ -18,7 +18,6 @@ sources:
   - wiaw:9756 "Empty Exaggerations" (2022-07-02) https://articles.ohr.edu/articles/empty-exaggerations
   - ms:296-empty-exaggerations.md "Empty Exaggerations"
 authorities: [Rashi, Rabbeinu Tam, Rabbi Eliezer of Metz, Rabbeinu Nissim, Tosafos Yeshanim, Rabbi Eliyahu HaBachur, Rabbi Binyamin Mussafia, Rabbi Yaakov Emden, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Aryeh Leib Feinstein, Rabbi Shmuel Jaffa-Ashkenazi, Rabbi Yissachar Ber Eilenberg, Rabbi Eliyahu HaKohen of Izmir, Rabbi Menachem Azariah of Fano, Rabbi Meir Pozna, Rabbi Ami, Alexander Kohut]
-status: reviewed
 updated: 2026-09-22
 ---
 # Exaggeration: havai / guzma

@@ -26,7 +26,6 @@ sources:
   - wiaw:10750 "Vayeshev: The Amazing Multi-Named Joseph" (2022-12-17) https://articles.ohr.edu/articles/vayeshev-the-amazing-multi-named-joseph
   - ms:057-the-amazing-multi-named-joseph.md "The Amazing Multi-Named Joseph"
 authorities: [Rashi, Targum Onkelos, Targum Yonasan, Ibn Chayyuj, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Levi Yitzchak of Berditchev, Rambam, Chasam Sofer, Ibn Ezra, Rabbi Eliyahu HaBachur, Taz (Divrei Dovid), Rabbi Chaim Vital, Sefer Russiana, Pittsburgher Rebbe, Rabbi Chaim Kanievsky, Rabbi Mordechai Gross, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Names of Yosef: Yosef / Yehosef / Tzafnas Paneach / Avreich

@@ -71,7 +71,7 @@ For one entry, with its source article open beside it:
 - Do not rewrite for style. This pass changes truth conditions, nothing else.
 - The `words:` block is optional and carries nikud for colliding spellings; the
   per-word rulings live in the body table. A sparse block, or none at all, is
-  not a fault and is not a reason to leave an entry `draft`. Correct a `tr`,
+  not a fault. Correct a `tr`,
   `en` or `distinct` there only where the article contradicts it, never an
   `nk:`, and never write an unquoted colon inside a YAML value.
 
@@ -128,9 +128,3 @@ For one entry, with its source article open beside it:
   something as it does, not what the article misprints or fails to specify, not
   archive details, and never an internal file path. Where the article misprints
   a locus, the body and the loci list simply give the right one.
-## Marking
-
-When an entry has been through this pass and its claims trace to the article,
-set `status: reviewed` in the front matter. Until then it stays `draft`, and
-the site says so. `reviewed` is a claim that someone checked; do not set it on
-an entry you only skimmed.

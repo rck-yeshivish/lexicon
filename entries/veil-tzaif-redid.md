@@ -21,7 +21,6 @@ words:
 sources:
   - wiaw:11584 "Chayei Sarah: All Wrapped Up" (2024-11-23) https://articles.ohr.edu/articles/chayei-sarah-all-wrapped-up
 authorities: [Targum Onkelos, Targum Yonasan, Targum Yerushalmi, Rabbi Menachem ben Shlomo, Rabbi Yehudah Aryeh of Carpentras, Rabbi Saadia al Damari, Rabbi Avraham Vilner, Rabbi Yaakov Zev Lev, Rabbi Yehoshua Steinberg, Rabbi Yitzchak Ratzabi, Ibn Saruk, Ibn Janach, Gesenius, Shadal, Rav Hirsch, Samuel Shaviv, Sefer HeAruch, Ibn Ezra, Radak, Metzudas Tzion, Rabbi Shlomo Pappenheim, Rambam, Rabbi Ernest Klein]
-status: reviewed
 updated: 2026-09-10
 ---
 # Veil: tza'if / redid

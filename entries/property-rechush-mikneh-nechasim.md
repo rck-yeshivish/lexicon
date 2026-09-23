@@ -25,7 +25,6 @@ sources:
   - wiaw:10695 "Prime Property" (2022-11-05) https://articles.ohr.edu/articles/prime-property
   - wiaw:11394 "Bechukosai: All About Money" (2024-06-01) https://articles.ohr.edu/articles/bechukosai-all-about-money
 authorities: [Rav Hirsch, Ramban, Radak, Ibn Ezra, Rabbi Shlomo Pappenheim, Midrash Sechel Tov, Rabbi Aharon Marcus, Rabbi Shmuel de Ucedah, Rabbi Shimon Yehuda Leib Goldblit, Shoresh Yesha, Ohalei Yehudah, Solomon Rabinowitz, Naftali Tur-Sinai, Gerald Leonard Cohen, Rabbi Natan of Rome, Rabbi Eliyahu HaBachur]
-status: reviewed
 updated: 2026-09-10
 ---
 # Property: rechush / mikneh / nechasim

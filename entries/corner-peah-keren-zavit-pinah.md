@@ -45,7 +45,6 @@ sources:
   - wiaw:10883 "Vayikra: Turning the Corner (Part 2/2)" (2023-03-25) https://articles.ohr.edu/articles/vayikra-turning-the-corner-part-22
   - ms:158-turning-the-corner.md "Turning the Corner"
 authorities: [Rabbi Shlomo Pappenheim, Malbim, Radak, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Rabbi David Chaim Chelouche, Menachem Ibn Saruk, Ibn Janach, Rashba, Rabbi Yitzchak Zev Yadler, Rabbi Yishmael ben Chachamon, Targum Onkelos, Rashi, Mahari Kara, Shadal, Mordechai Zer-Kavod, Rabbi Benzion Chaim Lubetzky, Avi Hurvitz, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Corner: peah / keren / zavit / pinah / miktzoa / katzeh

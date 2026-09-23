@@ -33,7 +33,6 @@ words:
 sources:
   - wiaw:90003 "Rule of Thumb" (2019-03-19) https://groups.google.com/g/whats-in-a-word/c/_5Ps72u72D0
 authorities: [Rashi, Toras Kohanim, Tosafos, Rambam, Rabbi Baruch HaLevi Epstein, Rabbeinu Bachya, Rabbi Shimshon of Shantz, Abarbanel, Targum, Midrash Tanchuma]
-status: reviewed
 updated: 2026-09-14
 ---
 # Thumb: bohen / gudal / agudal / zikfa / ravravta / ilyon

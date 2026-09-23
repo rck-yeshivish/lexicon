@@ -18,7 +18,6 @@ sources:
   - wiaw:11831 "Behaaloscha: Chew That" (2025-06-14) https://articles.ohr.edu/articles/behaaloscha-chew-that
   - wiaw:10931 "Showing Teeth" (2023-04-22) https://articles.ohr.edu/articles/showing-teeth
 authorities: [Rashi, Maharsha, Radak, Yonah Ibn Janach, Menachem Ibn Saruk, Mahari Kara, Rabbi Shlomo Pappenheim, Ohr Zarua, Rabbeinu Chananel, Rav Hai Gaon, Rabbi Moshe Tedeschi-Ashkenazi, Shadal, Rema, Ravyah, Rabbi Matzliach Mazuz, Rabbi Meir Mazuz, Rabbi Yitzchak Barda, Rabbi Avi Kobernick, Rabbi Ernest Klein, Rabbi Yaakov Yehudah Zilberberg, Dr. Asher Weiser, Samuel Krauss, Dr. A. Weiss]
-status: reviewed
 updated: 2026-09-10
 ---
 # Chewing: koses / lo'es

@@ -27,7 +27,6 @@ sources:
   - wiaw:9288 "Welcome to Rooster City" (2021-07-10) https://articles.ohr.edu/articles/welcome-to-rooster-city
   - ms:277-welcome-to-rooster-city.md "Welcome to Rooster City"
 authorities: [Targum Yonasan, Rabbeinu Efrayim, Peirush HaRokeach, Siddur HaRokeach, Rabbeinu Bachya, Rabbi Menachem Tziyyoni, Ibn Janach, Rabbeinu Chananel, Rashi, Ibn Ezra, Radak, Rosh, Tur, Abudarham, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Rabbi Meir HaLevi Abulafia, Rabbi Chaim Futernik, Rabbi Yehuda Felix, Daas Mikra, Rabbi Ernest Klein, Jessica Lamont]
-status: reviewed
 updated: 2026-09-22
 ---
 # Rooster: gever / sechvi / ziz sadai / tarnegol

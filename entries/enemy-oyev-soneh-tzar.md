@@ -22,7 +22,6 @@ sources:
   - wiaw:6828 "A Variety of Enemies" (2016-07-02) https://articles.ohr.edu/articles/a-variety-of-enemies
   - ms:236-a-variety-of-enemies.md "A Variety of Enemies"
 authorities: [Malbim, Vilna Gaon, Rabbi Yaakov Emden, Shadal, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Enemy: oyev / soneh / tzar

@@ -29,7 +29,6 @@ words:
 sources:
   - wiaw:8941 "Castle in the Sky" (2020-11-28) https://articles.ohr.edu/articles/castle-in-the-sky
 authorities: [Rav Hirsch, Radak, Targum, Ibn Janach, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rashi, Ibn Ezra, Rabbi Dovid Tzvi Hoffmann, Rabbi David Chaim Chelouche, Rabbi Ernest Klein, Dr. Chaim Tawil]
-status: reviewed
 updated: 2026-09-10
 ---
 # Palace: zvul / armon / apadna / tirah (paltin)

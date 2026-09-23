@@ -39,7 +39,6 @@ words:
 sources:
   - wiaw:11687 "Yisro: Write it down" (2025-02-15) https://articles.ohr.edu/articles/yisro-write-it-down
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Rashi, Rashbam, Rabbi Moshe Zacuto, Rabbi Eliyahu HaBachur, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Rabbi Ernest Klein, Rabbi Shaul Goldman, Rabbi Tzadok HaKohen of Lublin, Rabbi Shem Tov Gaguine, Rabbi Yitzchak Ginsburgh, Rabbi Yehuda HaLevi, Rabbi Meshullam bar Kalonymus]
-status: reviewed
 updated: 2026-09-10
 ---
 # Writing: ketivah / charut / charushah / chakuk / pasal / pituach

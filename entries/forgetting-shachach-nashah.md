@@ -19,7 +19,6 @@ words:
 sources:
   - wiaw:8389 "Forget About It" (2019-09-14) https://articles.ohr.edu/articles/forget-about-it
 authorities: [Rashi, Menachem Ibn Saruk, Ibn Chayyuj, Rabbeinu Yonah Ibn Janach, Radak, Zohar, Tosafos Chachmei Anglia, Rabbeinu Bachya ibn Chalava, Rabbi Yehuda Chalava, Rabbi Binyamin Mussafia, Rabbi Shmuel HaLevi, Rabbi Avraham Menachem Rappaport, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi-Ashkenazi, Malbim, Rav Hirsch, Rabbi Eliyahu Katz, Rabbi Yekusiel Yehudah Teitelbaum of Sighet, Rabbi Moshe Shapiro, Daas Mikra, Robert Alter]
-status: reviewed
 updated: 2026-09-10
 ---
 # Forgetting: shachach / nashah

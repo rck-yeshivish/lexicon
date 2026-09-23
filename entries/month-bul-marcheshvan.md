@@ -17,7 +17,6 @@ words:
 sources:
   - wiaw:11123 "Lech Lecha: Eighth Month" (2023-10-28) https://articles.ohr.edu/articles/lech-lecha-eighth-month
 authorities: [Rashi, Radak, Ramban, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Rid, Rav Hirsch, Rabbi Shlomo Pappenheim, Pri Megadim, Rabbi Aharon Marcus, Rabbi Moshe Shapiro, Aruch HaShulchan, Nachalas Shivah, Pri Chadash, Rabbi Chizkiyahu Medini, Rabbi Betzalel Stern, Rabbi Zecharia HaRofeh, Sefer HaKushyos, Rabbi Yisrael of Ruzhin, Rabbi Ernest Klein, Rabbi Dr. Ari Zivotofsky, Rabbi Shaul Goldman, Maharal, Rabbi Chaim Dov Lieman, Rabbi Yosef Chaim of Baghdad, Alexander Kohut, Avraham Epstein, Johannes Buxtorf]
-status: reviewed
 updated: 2026-09-10
 ---
 # The eighth month: Bul / Marcheshvan (mabul, geshem)

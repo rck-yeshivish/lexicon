@@ -22,7 +22,6 @@ words:
 sources:
   - wiaw:10740 "Vayishlach: Enter the Gate" (2022-12-03) https://articles.ohr.edu/articles/vayishlach-enter-the-gate
 authorities: [Rashi, Shadal, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Eliyahu HaBachur, Meiri, Tosafos Yom Tov, Rabbi Shmuel Ibn Tibbon, Rabbi Yitzchak Frank, Rabbi Uriel Frank, Rabbi Jeremy Steinberg]
-status: reviewed
 updated: 2026-09-10
 ---
 # Gate: shaar / tera / bava

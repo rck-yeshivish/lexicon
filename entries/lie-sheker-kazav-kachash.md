@@ -23,7 +23,6 @@ sources:
   - wiaw:9080 "Mishpatim: Feeding the Lie" (2021-02-13) https://articles.ohr.edu/articles/mishpatim-feeding-the-lie
   - ms:132-feeding-the-lie.md "Feeding the Lie"
 authorities: [Rabbi Yosef Albo, Rabbi Yehuda Leib Edel, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Vilna Gaon, Rabbeinu Yosef Bechor Shor, Rabbi Yehuda Leib Shapira-Frankfurter, Malbim, Rabbi Yonah Wilheimer, Rabbi Shlomo Aharon Wertheimer, Shadal]
-status: reviewed
 updated: 2026-09-22
 ---
 # Falsehood: sheker / kazav / kachash

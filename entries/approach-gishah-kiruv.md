@@ -18,7 +18,6 @@ sources:
   - wiaw:8980 "Vayigash: Coming Close" (2020-12-26) https://articles.ohr.edu/articles/vayigash-coming-close
   - wiaw:11889 "Chukas: Words for War" (2025-07-05) https://articles.ohr.edu/articles/chukas-words-for-war
 authorities: [Rabbi Yehuda Leib Shapira-Frankfurter, Malbim, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Ramban, Rambam, Abarbanel, Rabbi Yehudah Aryeh of Carpentras, Menachem Ibn Saruk, Ibn Janach, Radak]
-status: reviewed
 updated: 2026-09-10
 ---
 # Approach: gishah / kiruv

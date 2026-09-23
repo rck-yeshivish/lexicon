@@ -30,7 +30,6 @@ sources:
   - wiaw:11619 "Vayishlach: Go Camel" (2024-12-14) https://articles.ohr.edu/articles/vayishlach-go-camel
   - ms:053-go-camel.md "Go Camel"
 authorities: [Menachem Ibn Saruk, Rav Hirsch, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yitzchak Avineri, Radak, Rabbi Shlomo Pappenheim, Rashi, Ibn Janach, Rabbi Saadia Gaon, Ibn Ezra, Rabbi Yehudah Ibn Balaam, Rabbi Tanchum HaYerushalmi, Rabbi Shlomo Ibn Parchon, Rabbi Yosef Kimchi, Rabbi Yosef Bechor Shor, Rabbi Nosson of Rome, Mahari Kara, Targum, Rabbi Ernest Klein, Rabbi Aharon Marcus, Avraham Even-Shoshan, Michael Sokoloff, Kli Yakar]
-status: reviewed
 updated: 2026-09-22
 ---
 # Camel: gamal / nakah / becher / kar

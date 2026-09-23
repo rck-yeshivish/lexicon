@@ -27,7 +27,6 @@ sources:
   - wiaw:10698 "Be My Guest" (2022-11-12) https://articles.ohr.edu/articles/be-my-guest
   - ms:023-be-my-guest.md "Be My Guest"
 authorities: [Menachem Ibn Saruk, Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rashi, Rabbeinu Chananel, Tosafos, Rabbi Eliyahu HaBachur, Rabbi Yaakov Emden, Rabbi Shimon Yehuda Leib Goldblit, Rabbi Yitzchak Avineri, Rabbi Dr. Ernest Klein, Rabbi Avi Kobernick, Rabbi Yaakov Chaim Sofer, Rabbi Dr. Alexander Kohut, Rabbi Shmuel Krauss, Ludwig Koehler, Walter Baumgartner, Michael Sokoloff]
-status: reviewed
 updated: 2026-09-22
 ---
 # Guest: oreach / ushpiz / achsanai

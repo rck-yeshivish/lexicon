@@ -275,7 +275,6 @@ def collect():
             "english": fm.get("english", []),
             "authorities": fm.get("authorities", []),
             "roots": fm.get("roots", []),
-            "status": fm.get("status", "draft"),
             "sources": fm.get("sources", []),
             "bottom_md": bottom,
             "sections": secs,
@@ -619,7 +618,7 @@ def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
 </head>
 <body data-up="{up}">
 <header class="site{'' if header_search else ' bare'}">
-  <a class="brand" href="{up}index.html" aria-label="What&rsquo;s in a Word? — back to the start">What&rsquo;s in a Word?</a>
+  <a class="brand" href="{up}index.html" aria-label="Back to the start of What&rsquo;s in a Word?">What&rsquo;s in a Word?</a>
   {'<div class="hsearch"><input id="q" type="search" placeholder="Search Hebrew or English" autocomplete="off" spellcheck="false" dir="auto"><div id="ac" class="ac" hidden></div></div>' if header_search else ''}
   <nav class="navs">
     <a class="meth {'on' if active == 'me' else ''}" href="{up}method.html">About</a>
@@ -1184,7 +1183,7 @@ def entry_page(e):
     page = (f'<div class="entry-layout{" has-rail" if rail else ""}">{nav}\n'
             + "\n".join(parts) + rail + "</div>")
     # His citations open their pesukim here too, not only on the roots page.
-    return shell(f'{title} — What’s in a Word?', page, depth=1, active="",
+    return shell(f'{title} · What’s in a Word?', page, depth=1, active="",
                  extra_js='<script>wireEntryCites();</script>')
 
 
@@ -1316,7 +1315,7 @@ def main():
   <a class="card" href="roots.html"><h3>Browse Roots<span class="chev" aria-hidden="true">&rsaquo;</span></h3>
     <p><bdi lang="he">שרשים</bdi> &middot; {len(root_map(entries)):,} roots</p></a>
 </section>'''
-    emit("index.html", shell("What’s in a Word? — Synonyms in the Hebrew Language", home, header_search=False))
+    emit("index.html", shell("What’s in a Word? · Synonyms in the Hebrew Language", home, header_search=False))
 
     letters = "".join(f'<button class="ltr" data-l="{l}">{l}</button>' for l in ALEFBET)
     he_body = f'''<section class="browse">
@@ -1326,7 +1325,7 @@ def main():
   <p class="count" id="count">{len(words):,} words</p>
   <div id="list" class="rows">{he_rows(words, emap)}</div>
 </section>'''
-    emit("hebrew.html", shell("Hebrew — What’s in a Word?", he_body, active="he",
+    emit("hebrew.html", shell("Hebrew · What’s in a Word?", he_body, active="he",
                               extra_js='<script>initBrowse("he");</script>'))
 
     en_letters = "".join(f'<button class="ltr" data-l="{c}">{c}</button>'
@@ -1338,7 +1337,7 @@ def main():
   <p class="count" id="count">{sum(1 for x in english if x["e"][:1].upper().isalpha()):,} terms</p>
   <div id="list" class="rows en3">{en_rows(english)}</div>
 </section>'''
-    emit("english.html", shell("English — What’s in a Word?", en_body, active="en",
+    emit("english.html", shell("English · What’s in a Word?", en_body, active="en",
                                extra_js='<script>initBrowse("en");</script>'))
 
     rmap = root_map(entries)
@@ -1417,7 +1416,7 @@ def main():
         emit(f"shorashim/{letter}.json", json.dumps(part, ensure_ascii=False, separators=(",", ":")))
     for letter, part in verses.items():
         emit(f"pesukim/{letter}.json", json.dumps(part, ensure_ascii=False, separators=(",", ":")))
-    emit("roots.html", shell("Roots — What’s in a Word?", roots_body, active="roots",
+    emit("roots.html", shell("Roots · What’s in a Word?", roots_body, active="roots",
                              extra_js='<script>initBrowse("roots");wireRoots();</script>'))
 
     method_src = ROOT / "references" / "how-synonyms-differ.md"
@@ -1449,7 +1448,7 @@ def main():
                  f'column itself with the same question, why Hebrew should need several words for '
                  f'one thing, and answered it with the templates the answers tend to follow. That '
                  f'is <a href="entries/{METHOD}.html">a page of its own</a>.</p></div>')
-        emit("method.html", shell("Methodology — What’s in a Word?",
+        emit("method.html", shell("Methodology · What’s in a Word?",
                                   f'<article class="entry prose">{tabs}'
                                   f'<div class="pane" id="pane-summary">{md(body)}{intro}</div>'
                                   f'{pdf_pane}</article>',
@@ -1504,8 +1503,7 @@ attributed as he attributes it. Nothing is brought in from outside the essays.
 
 ## Caveats worth passing on
 
-Entries are marked `status: draft`: sourced and checked for consistency, but
-not yet read one by one against the essays they rest on. Where a word has no
+Where a word has no
 per-word ruling, the site says which group it belongs to rather than implying
 its neighbours' glosses are its own meaning.
 

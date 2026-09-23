@@ -27,7 +27,6 @@ sources:
   - wiaw:9199 "Behar - Bechukotai: Settled Citizens" (2021-05-08) https://articles.ohr.edu/articles/behar-bechukotai-settled-citizens
   - ms:209-settled-citizens.md "Settled Citizens"
 authorities: [Malbim, Rav Hirsch, Ibn Ezra, Rabbi Yaakov Tzvi Mecklenburg, Radak, Rabbi Moshe Kimchi, Rabbi Yosef Kimchi, Menachem Ibn Saruk, Yonah Ibn Janach, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Eliyahu HaBachur, Rashi, Ramban, Mizrachi, Rabbi Yisrael Yaakov Algazi, Rabbi Shmuel Modiliano, Rabbi David Chaim Chelouche, Shadal, Rabbi Eliyahu Benamozegh, Rabbi Yitzchak Shmuel Reggio, Rabbi Dr. Eliyahu Rachamim Zini]
-status: reviewed
 updated: 2026-09-22
 ---
 # Resident: ger / toshav / ezrach (zar)

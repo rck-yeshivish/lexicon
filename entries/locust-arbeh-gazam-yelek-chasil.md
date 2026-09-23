@@ -44,7 +44,6 @@ sources:
   - wiaw:7592 "Army of Grasshoppers" (2018-01-20) https://articles.ohr.edu/articles/army-of-grasshoppers
   - wiaw:9756 "Empty Exaggerations" (2022-07-02) https://articles.ohr.edu/articles/empty-exaggerations
 authorities: [Rashi, Radak, Malbim, Meiri, Rabbi Shmuel ben Meshullam of Gerona, Rav Chaim Kanievsky, Rabbi Menachem Tzioni, Rabbeinu Bachya, Peirush HaRokeach, Rav Saadia Gaon, Ralbag, Ramban, Midrash HaGadol, Midrash Sechel Tov, Targum, Rabbi Richard Jacobs, Rabbi Shlomo Pappenheim]
-status: reviewed
 updated: 2026-09-10
 ---
 # Locust: arbeh / gazam / yelek / chasil (and the kosher four)

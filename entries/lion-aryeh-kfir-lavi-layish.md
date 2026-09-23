@@ -37,7 +37,6 @@ words:
 sources:
   - wiaw:8039 "Crouching Lion, Hidden Blessing" (2018-12-22) https://articles.ohr.edu/articles/crouching-lion-hidden-blessing
 authorities: [Rabbi Yochanan, Rabbi Levi, Tikkunei Zohar, Rabbi Menachem Azariah of Fano, Rabbi Chaim Palagi, Rashi, the Vilna Gaon, Baal HaTurim, Radak, Abarbanel, Rabbi Yosef Ibn Kaspi, Rashbam, Rabbi Yechiel Michel Stern, Rabbi Yeshayah of Trani, Rabbi Pinchas Eliyahu Horowitz, Rabbi Shlomo Pappenheim]
-status: reviewed
 updated: 2026-09-10
 ---
 # Lion: aryeh / kfir / lavi / layish (shachal, shachatz, gur)

@@ -21,7 +21,6 @@ words:
 sources:
   - wiaw:9723 "More Cheese Please" (2022-06-04) https://articles.ohr.edu/articles/more-cheese-please
 authorities: [Rabbi Shimshon of Ostropoli, Ralbag, Rabbi Saadia Gaon, Radak, Abarbanel, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Avi Kobernick, Targum Yonasan, Rashi, Menachem Ibn Saruk, Ibn Janach, Rabbi Yosef Kara, Metzudas Tzion, Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, Radal, Rabbi Shmuel Yaffe-Ashkenazi, Rabbi Avraham ben Shlomo, Rabbi Avraham Maskileison, Rabbi Chaim Dov Rabinowitz, Rema, Pri Megadim, Rabbi Yosef Nissim Ben-Adahan, Alexander Kohut, Josephus]
-status: reviewed
 updated: 2026-09-10
 ---
 # Cheese: gvinah / charitz / shfot

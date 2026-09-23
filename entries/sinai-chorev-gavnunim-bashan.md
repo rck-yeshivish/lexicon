@@ -39,7 +39,6 @@ sources:
   - wiaw:9723 "More Cheese Please" (2022-06-04) https://articles.ohr.edu/articles/more-cheese-please
   - ms:291-the-mountain-of-many-names.md "The Mountain of Many Names"
 authorities: [Midrash, Zohar, Rabbi Yehudah HaLevi, Rabbi Berachiah Baruch Shapiro, Rabbi Naftali Katz, Rabbi Shlomo Pappenheim, Alexander Kohut, Shadal]
-status: reviewed
 updated: 2026-09-22
 ---
 # Mount Sinai: Sinai / Chorev / Har HaElokim / Bashan / Gavnunim / Chemed

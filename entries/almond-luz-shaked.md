@@ -17,7 +17,6 @@ words:
 sources:
   - wiaw:9436 "Almonds in the Bible" (2021-11-13) https://articles.ohr.edu/articles/almonds-in-the-bible
 authorities: [Rabbi Saadia Gaon, Radak, Ibn Ezra, Menachem Ibn Saruk, Rashi, Tosafos, Ibn Janach, Rabbi Shlomo Pappenheim, Midrash Sechel Tov, Targum Onkelos, Targum Yonasan, Targum Neofiti, Rabbi J. D. Eisenstein, Avraham Even-Shoshan, Gary Rendsburg, Joshua D. Klein, Solomon Löwisohn]
-status: reviewed
 updated: 2026-09-10
 ---
 # Almond: luz / shaked

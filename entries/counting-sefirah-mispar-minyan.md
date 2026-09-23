@@ -36,7 +36,6 @@ sources:
   - wiaw:9110 "Ki Tisa: Remember Forever" (2021-03-06) https://articles.ohr.edu/articles/ki-tisa-remember-forever
   - wiaw:10897 "Shemini: Types of Species" (2023-04-15) https://articles.ohr.edu/articles/shemini-types-of-species
 authorities: [the Vilna Gaon, Rabbi Wertheimer, Rabbi Shlomo Pappenheim of Breslau, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Moshe Shapiro, Malbim]
-status: reviewed
 updated: 2026-09-10
 ---
 # Counting: sefirah (sofer, mispar) / moneh (minyan)

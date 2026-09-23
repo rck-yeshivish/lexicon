@@ -26,7 +26,6 @@ words:
 sources:
   - wiaw:8157 "Raise the Curtain" (2019-03-02) https://articles.ohr.edu/articles/raise-the-curtain
 authorities: [Rashi, Rabbi Shlomo Pappenheim, Shoresh Yesha, Sefer HeAruch, Rav Hai Gaon, Rabbi Ernest Klein]
-status: reviewed
 updated: 2026-09-10
 ---
 # Curtain: paroches / masach / vilon / pargod

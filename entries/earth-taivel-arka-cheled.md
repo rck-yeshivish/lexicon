@@ -37,7 +37,6 @@ words:
 sources:
   - wiaw:9359 "Seasoning the Land (Part 2) - Nitzavim / Rosh Hashanah:" (2021-09-04) https://articles.ohr.edu/articles/seasoning-the-land-part-2-nitzavim-rosh-hashanah
 authorities: [Avos d'Rabbi Nasan, Metzudas Tzion, Malbim, Rashi, Rabbi Shlomo Pappenheim, Rabbi Yom Tov Tzahalon, Rabbi Shmuel Yaffe-Ashkenazi, Midrash Mishlei, Rabban Shimon ben Gamliel, Bereishis Rabbah, Radak, Ibn Ezra, Yerushalmi Shabbos, Rabbi David Chaim Chelouche, Rav Hirsch, Rabbi Avraham Bedersi]
-status: reviewed
 updated: 2026-09-10
 ---
 # Earth: taivel / arka / cheled (charavah, yabashah)

@@ -23,7 +23,6 @@ words:
 sources:
   - wiaw:9005 "Shemot: Hard Work and Hard Hearts" (2021-01-09) https://articles.ohr.edu/articles/shemot-hard-work-and-hard-hearts
 authorities: [Rabbi Shlomo of Urbino, Targum Onkelos, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rashi, Rabbi Shlomo Pappenheim, Ibn Ezra, Radak, Rabbi Shlomo Ibn Melech, Metzudas Tzion, Rabbi Saadia Gaon, Toras Kohanim]
-status: reviewed
 updated: 2026-09-10
 ---
 # Hard: kashah / kashiach / perech

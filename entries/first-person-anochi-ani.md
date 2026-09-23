@@ -18,7 +18,6 @@ sources:
   - wiaw:7144 "Myself and I" (2017-02-18) https://articles.ohr.edu/articles/myself-and-i
   - ms:126-myself-and-i.md "Myself and I"
 authorities: [Maharal, Rabbi Shlomo Pappenheim, Malbim, Rav Hirsch, Rabbeinu Bachya, Ibn Ezra, Rabbi Yehuda Leib Edel, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # First person: anochi / ani

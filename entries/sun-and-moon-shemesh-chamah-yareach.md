@@ -39,7 +39,6 @@ sources:
   - wiaw:9795 "Matot: The Names of Jericho" (2022-07-23) https://articles.ohr.edu/articles/matot-the-names-of-jericho
   - ms:310-my-three-suns-and-moons.md "My Three Suns (and Moons)"
 authorities: [Rabbi Aharon Marcus, Menachem Ibn Saruk, Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Tashbetz, Rabbi Eliyahu Benamozegh, Rabbi Eliyahu Benamozegh]
-status: reviewed
 updated: 2026-09-22
 ---
 # Sun and moon: shemesh / chamah / cheres and yareach / levanah / sahar

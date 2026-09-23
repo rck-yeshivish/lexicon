@@ -40,7 +40,6 @@ sources:
   - wiaw:11562 "Bereishis: In the Beginning..." (2024-10-26) https://articles.ohr.edu/articles/bereishis-in-the-beginning
   - ms:172-pick-your-poison.md "Pick your Poison"
 authorities: [Rashi, Ibn Ezra, Radak, Vilna Gaon, Rabbi Yeshayah of Trani, Rabbeinu Efrayim, Rabbi Shlomo Pappenheim, Rabbi Shlomo of Urbino, Rabbi Menachem Azariah of Fano, Targum Rishon, Targum Sheini, Midrash Sechel Tov, Midrash Aggadah, Daas Zekeinim, Rabbi Yehuda Feliks, Yossiphon, Mechilta, Midrash Tanchuma, Dr. Alexander Kohut, Rabbi Ernest Klein, Avraham Even-Shoshan, Comprehensive Aramaic Lexicon, Rav Hirsch, Targum Yonasan]
-status: reviewed
 updated: 2026-09-22
 ---
 # Poison: eres / sam hamaves / rosh / chamat / ra'al

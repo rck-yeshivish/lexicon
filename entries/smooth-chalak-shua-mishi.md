@@ -25,7 +25,6 @@ words:
 sources:
   - wiaw:8497 "Smooth Sliding and Glad Gliding" (2019-11-30) https://articles.ohr.edu/articles/smooth-sliding-and-glad-gliding
 authorities: [Targum Onkelos, Rashi, Tosafos, Rambam, Radak, Menachem Ibn Saruk, Rabbi Avraham Vilner (Tirgem Avraham), Rabbi Yaakov Tzvi Mecklenburg (HaKsav VeHaKabbalah)]
-status: reviewed
 updated: 2026-09-10
 ---
 # Smooth: chalak / shua (shiiya, mishi)
