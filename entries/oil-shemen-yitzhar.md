@@ -13,12 +13,12 @@ words:
   - he: יצהר
     tr: yitzhar
     en: olive oil
-    distinct: for Rabbi Klein olive oil in itself, never joined to zayis in Tanach; Radak narrows it to oil as it comes from the press; Rabbi Yitzchak Zev Yadler makes it whatever oil a place burns for light; oil as what brings light, like tzohar (Benamozegh)
+    distinct: for Rabbi Klein olive oil in itself, joined to zayis in Tanach only once (Melachim II 18:32); Radak narrows it to oil as it comes from the press; Rabbi Yitzchak Zev Yadler makes it whatever oil a place burns for light; oil as what brings light, like tzohar (Benamozegh)
 sources:
   - wiaw:7061 "Olives and Oil" (2016-12-24) https://articles.ohr.edu/articles/olives-and-oil
   - ms:079-olives-and-oil.md "Olives and Oil"
 authorities: [Menachem Ibn Saruk, Radak, Rabbi Yosef Kimchi, Ibn Ezra, Rashi, Rabbi Yitzchak Zev Yadler, Chizkuni, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 # Oil: shemen / yitzhar
 
@@ -26,8 +26,7 @@ updated: 2026-09-22
 
 *Shemen* is the general word, **oil**. Rabbi Klein argues that *yitzhar*, by
 contrast, is **olive oil** in itself: the Torah must say *shemen zayis zach* to
-specify **pure olive oil**, while *yitzhar* is never paired with *zayis* in
-Tanach. Every occurrence of *yitzhar* is agricultural, the yield of the press.
+specify **pure olive oil**, while *yitzhar* is paired with *zayis* in Tanach only once, in *eretz zeis yitzhar* (Melachim II 18:32), which he notes as the one exception. Every occurrence of *yitzhar* is agricultural, the yield of the press.
 
 ## At a glance
 
@@ -47,7 +46,7 @@ one; none is chosen over the others.
    inference rather than Ibn Saruk's stated distinction, that *yitzhar* means
    olive oil by definition and *shemen* may mean oil of any kind. The phrase
    *shemen zayis zach* implies as much from the other side: *shemen* alone does
-   not intrinsically mean olive oil, and *yitzhar* is never joined to *zayis*.
+   not intrinsically mean olive oil, and *yitzhar* is joined to *zayis* only once, in *eretz zeis yitzhar* (Melachim II 18:32), which Rabbi Klein notes as the one exception.
 2. **By stage.** Radak (*Sefer HaShorashim*): *yitzhar* is oil as it comes out of
    the press. Every occurrence in Tanach is olive oil as an agricultural
    product, and Iyov 24:11 has a verb form of the word, which Rashi explains as
@@ -114,4 +113,4 @@ Rabbi Reuven Chaim Klein, "[Olives and Oil](https://articles.ohr.edu/articles/ol
 
 Rabbi Reuven Chaim Klein, "Olives and Oil," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Shemos 6:18, 2:10; Iyov 24:11; Zecharyah 4:12; Shabbos 26b; *Machberes Menachem*; Radak, *Sefer HaShorashim*; Rabbi Yosef Kimchi, *Sefer HaGalui*; Ibn Ezra to Iyov 24:11; Chizkuni to Bereishis 6:16; Benamozegh, *Eim LaMikra* to Bereishis 35:2.
+Cited in the essay: Shemos 6:18, 2:10; Iyov 24:11; Melachim II 18:32; Zecharyah 4:12; Shabbos 26b; *Machberes Menachem*; Radak, *Sefer HaShorashim*; Rabbi Yosef Kimchi, *Sefer HaGalui*; Ibn Ezra to Iyov 24:11; Chizkuni to Bereishis 6:16; Benamozegh, *Eim LaMikra* to Bereishis 35:2.

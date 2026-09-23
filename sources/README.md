@@ -28,7 +28,13 @@ Every entry in `../entries/` must trace to a file here. Orthodox sources only.
   gathered into a book by parsha, 1,258 pages, with footnotes and his working notes.
   Unpublished and still being edited; held for private research use, never for the site.
   This copy carries the 21 corrections he made after reading the verification pass, which
-  `git log -p` on the chapters shows one by one.
+  `git log -p` on the chapters shows one by one. On 23 September 2026 he confirmed six more
+  that the guide had already made against his printed text (Shemos 21:28 for 21:25 in
+  *Coming Closer*; Mishnah Bava Basra 2:5 for 2:4 in *Jumping for Passover*; Shemos 9:14-15
+  for 9:14 in *Plague of Plagues*; Ramban to Bereishis 14:19 for 14:18 in *Prime Property*;
+  Shemos 35:7 for 35:4 in *Seeing Red*; Mishnah Pesachim 4:7 for 5:7 in *Welcome to Rooster
+  City*), and for *Olives and Oil* asked that the claim that *yitzhar* is never joined to
+  *zayis* stand, with Melachim II 18:32 noted as the one exception.
 - **Split.** `python tools/split_manuscript.py` writes `chapters/`, one essay per file with
   its footnotes, and `chapters.json`. The book's outline carries the shape, and Word stores
   it two ways: a Heading style on some paragraphs, a direct `outlineLvl` on the rest. Reading
