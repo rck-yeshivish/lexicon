@@ -43,8 +43,8 @@ updated: 2026-09-22
 On the reading of Rabbi Yehuda Leib Edel, Rashi and Malbim, *asifah* is
 **gathering in**, bringing scattered things to where they belong, and *kovetz*
 is **collecting**, with no bringing-in implied. *Aggudah* goes further: the
-gathered are **bound** into one unit. *Kehillah* is an **assembly** of people,
-*eidah* for Bedersi a **congregation** joined for a purpose, *agur* is
+gathered are **bound** into one unit. *Kehillah* is an **assembly** of people;
+*eidah*, for Bedersi, a **congregation** joined for a purpose; and *agur*,
 **stockpiling** for later.
 
 ## At a glance

@@ -29,17 +29,19 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Ravak* is the Mishnaic word for an **unmarried man**, and whether it covers a
-divorcé and a widower (Rashi) or only a man never married (Tosafos, Rambam) is a
-dispute among the commentators on the Mishnah's restrictions. Its etymology is disputed too: "empty" (*Matnos Kehunah*;
-Rabbi Dr. Ernest Klein, as "more probable"), against Dr. Alexander Kohut's
-loanword from Arabic meaning "youth." *Panui* is **unattached**, from Mishnaic
-*panah*, to clear, empty, make available (Rabbi Eliyahu HaBachur), the man being
-available and open to marriage; Rabbi Shlomo Pappenheim says he is cleared of a family man's obligations. *Bachur* is a **young man**,
-not exclusively a bachelor: in Tanach it never refers exclusively to an
-unmarried man, colloquially it does mean one but can technically be said of a
-married young man, and its one Mishnaic appearance (Taanis 4:8) clearly means
-unmarried men. *Ravak* and *panui* do not appear in Tanach at all. English
+*Ravak* is the Mishnaic word for an **unmarried man**. The commentators on the
+Mishnah's restrictions dispute whether it covers a divorcé and a widower (Rashi)
+or only a man never married (Tosafos, Rambam). Its etymology is disputed too:
+"empty" (*Matnos Kehunah*; Rabbi Dr. Ernest Klein, as "more probable"), or, for
+Dr. Alexander Kohut, a loanword from Arabic meaning "youth." *Panui* is
+**unattached**, from Mishnaic *panah*, to clear, empty, make available (Rabbi
+Eliyahu HaBachur): the man is available and open to marriage. Rabbi Shlomo
+Pappenheim says he is cleared of a family man's obligations. *Bachur* is a
+**young man**, and only sometimes a bachelor. In Tanach it never refers
+exclusively to an unmarried man; colloquially it does mean one, though
+technically it can be said of a married young man; and in its one Mishnaic
+appearance (Taanis 4:8) it clearly means unmarried men. *Ravak* and *panui* do
+not appear in Tanach at all. English
 "bachelor" does not come from *bachur* but from Latin (Rabbi Dr. Ernest Klein).
 
 ## At a glance

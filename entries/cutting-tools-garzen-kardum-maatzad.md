@@ -39,9 +39,11 @@ updated: 2026-09-22
 *Garzen* is the general Biblical **axe**, and equally the stonecutter's **pick**;
 it never occurs in Rabbinic Hebrew except when a pasuk is quoted.
 *Kardum* is the double-headed **adze-axe** or **mattock**, adze on one face and
-axe on the other. *Maatzad* is the **adze**, the woodworker's shaping tool (Dr. Koller, from the Mishnah) and the smaller implement of the pair; Rashi and the Rambam make it an ironworker's tool. *Kashil* is the **large axe** and *keilapot*
-the **hatchets**, both appearing once only, together in one pasuk. *Maatzad* and
-*kashil* are separated by size, and a real halachah in Bava Kamma turns on it.
+axe on the other. *Maatzad* is the **adze**, the woodworker's shaping tool (Dr.
+Koller, from the Mishnah), though Rashi and the Rambam make it an ironworker's
+tool. *Kashil* is the **large axe** and *keilapot* the **hatchets**, each
+appearing only once, in the same pasuk. Of *maatzad* and *kashil*, the *maatzad*
+is the smaller tool, and a halachah in Bava Kamma turns on the difference.
 
 ## At a glance
 

@@ -37,10 +37,9 @@ cognates *ey*, *ayekah*) is **where is**, and for Shapira-Frankfurter, followed
 by Rabbi Yaakov Tzvi Mecklenburg, it carries a further charge: the searcher
 expected the thing to be here and is surprised it is not. Rabbi Shlomo Aharon
 Wertheimer and Rabbi Shlomo Pappenheim instead set the two apart by how vague
-the question is. *Anah* is **to where**,
-a question of destination, not of present place (Pappenheim), and with a
-prefixed mem, *me'ayin*, it flips to **from where**, a question of origin. Where a pasuk turns on *ayeh*, on Shapira-Frankfurter's
-reading the surprise at an absence is inside the word.
+the question is. *Anah* is **to where**, a question of destination rather than
+of present place (Pappenheim), and with a prefixed mem, *me'ayin*, it flips to
+**from where**, a question of origin.
 
 ## At a glance
 

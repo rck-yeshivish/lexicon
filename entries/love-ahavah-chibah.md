@@ -41,11 +41,12 @@ that gives itself to the beloved (Rav Hirsch, Rabbi Eliyahu Lopian) and embraces
 whole person, faults included (Rabbi Yosef Zechariah Stern). *Chibah* is love held
 close and inward, love of what is dear in someone: **fondness, affection**; *chaviv*,
 **dear**. *Rechim* is the Targum's Aramaic for *ahavah* (in Hebrew the root is
-usually mercy, save Tehillim 18:2): **love**. *Agav* is love in its negative form:
-**lust**, not the positive love the others name. On the readings above *chibah* is not a plain synonym; beside *ahavah* it
-is the narrower, inner, selective word. Rabbi Klein himself, though, offers the other possibility, that
-*chibah* is no different from *ahavah* and may even be etymologically the same
-word, so the distinction is not closed.
+usually mercy, save Tehillim 18:2): **love**. *Agav* is love in a negative form,
+**lust**, unlike the positive love the other words name. On these readings
+*chibah* is no plain synonym: beside *ahavah* it is the narrower, inner,
+selective word. Rabbi Klein himself, though, raises the other possibility, that
+*chibah* is no different from *ahavah* and may even be the same word
+etymologically, so the question stays open.
 
 ## At a glance
 

@@ -33,11 +33,11 @@ song sacred or secular (Malbim). *Zemer* / *zimrah* is **music**, or
 **melody**: instrumental music (Ibn Ezra, Radak, Sforno, the Vilna Gaon, Rav
 Hirsch, Wertheimer), or the tune as against the words (Mecklenburg), and, in
 what is possibly a second view of Malbim's, the specifically religious song of
-Hashem's praise; when the two stand together *shirah* comes first, *zimrah*
-second, because *zimrah* is somehow the higher (Malbim). *Mizmor* is **psalm** as a title, and in the
-superscriptions *mizmor shir* / *shir mizmor* the *mizmor* is the tune and the
-*shir* the words (Pappenheim and Pincus, two credible
-authorities who beg to differ with Ibn Ezra, who holds there is no difference).
+Hashem's praise. When the two stand together *shirah* comes first and *zimrah*
+second, because *zimrah* is somehow the higher (Malbim). *Mizmor* is **psalm**
+as a title, and in the superscriptions *mizmor shir* / *shir mizmor* the
+*mizmor* is the tune and the *shir* the words (Pappenheim and Pincus), against
+Ibn Ezra, who holds there is no difference.
 
 The American historian Cyrus Gordon (1908-2001) said, in effect, that the
 ancients were no less talented than we are but expressed their intelligence

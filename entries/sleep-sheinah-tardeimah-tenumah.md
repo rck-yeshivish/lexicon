@@ -45,8 +45,10 @@ updated: 2026-09-10
 *Sheinah* is ordinary **sleep**, and doubles as the general term. *Tardeimah* is
 **deep sleep**, the sleep that overpowers a man rather than being chosen.
 *Tenumah* is **drowsiness** or **dozing**, the half-asleep state in which one
-still answers to his name. *Linah*, technically speaking, means **leaving something overnight** rather than sleeping, though it generally takes in the hours
-people sleep, and it governs meat and a corpse as readily as a guest. Ibn Ezra
+still answers to his name. *Linah*, technically speaking, means **leaving
+something overnight** rather than sleeping, though it generally takes in the
+hours people sleep; it is said of meat and of a corpse as readily as of a guest.
+Ibn Ezra
 ranks *tenumah* under *sheinah* under *tardeimah*, and Radak, *Peirush HaRokeach*,
 Rabbi Sternbuch, Rabbi Wertheimer and Rabbi Yosef Nechemias follow that ranking
 or a similar one; the Netziv disagrees with it and makes *tardeimah* the *lighter*
