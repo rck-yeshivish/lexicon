@@ -374,10 +374,10 @@ ASSETS = {"css": "app.css", "js": "app.js"}   # filled in at build time with has
 # The feedback box posts a reader's note to a form relay (Web3Forms), which
 # emails it on. The address it goes to is held by the relay against this access
 # key and appears nowhere on the site; the key itself is meant to be public.
-# With no key the box is left off every page, so nothing half-works. For a local
-# look without the real key, set LEXICON_FEEDBACK_KEY to anything.
+# With no key the box is left off every page, so nothing half-works.
+# LEXICON_FEEDBACK_KEY overrides it, for pointing a local build elsewhere.
 FEEDBACK = {"endpoint": "https://api.web3forms.com/submit",
-            "key": "" or os.environ.get("LEXICON_FEEDBACK_KEY", "")}
+            "key": os.environ.get("LEXICON_FEEDBACK_KEY") or "2578177d-e8f1-4516-b812-b27927ccd384"}
 
 
 def feedback_box():
