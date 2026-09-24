@@ -21,7 +21,7 @@ words:
 sources:
   - wiaw:7788 "Of Corpses and Carcasses" (2018-06-09) https://articles.ohr.edu/articles/of-corpses-and-carcasses
   - ms:244-of-corpses-and-carcasses.md "Of Corpses and Carcasses"
-authorities: [Rabbi Eliyahu HaBachur, Rashi, Rabbi Shlomo Pappenheim, Rabbi Yosef Teomim, Rabbeinu Hillel]
+authorities: [Rabbi Eliyahu HaBachur, Rashi, Rabbi Shlomo Pappenheim, Rabbi Yosef Teomim-Frankel, Rabbeinu Hillel]
 updated: 2026-09-22
 ---
 # Corpse: peger / neveilah / challal
@@ -102,7 +102,7 @@ Rabbeinu Hillel (to *Sifrei*, Chukas 127): a *meis* died of natural causes, a
 
 ### Why the siddur says pegarim
 *Elokai Neshamah* thanks Hashem for returning souls *lifgarim meisim*, to dead
-bodies. Rabbi Yosef Teomim (*Pri Megadim*), building on Rabbi Eliyahu HaBachur,
+bodies. Rabbi Yosef Teomim-Frankel (*Pri Megadim*), building on Rabbi Eliyahu HaBachur,
 explains the choice: since *peger* connotes the body of a wicked man, the
 berachah is saying that Hashem returns the soul even to the most wicked, who
 have done nothing to deserve it. That is the measure of His kindness.
@@ -137,4 +137,4 @@ Rabbi Reuven Chaim Klein, "[Of Corpses and Carcasses](https://articles.ohr.edu/a
 
 Rabbi Reuven Chaim Klein, "Of Corpses and Carcasses," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Bamidbar 14:29-33; Bereishis 15:11 with Rashi; Yeshayahu 26:19; Yevamos 49b; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* and glosses to Radak's *Sefer HaShorashim*; Rabbi Shlomo Pappenheim on *po gar*; Rabbi Yosef Teomim (*Pri Megadim*) in his letters on Hebrew grammar, on *Elokai Neshamah*; Rabbeinu Hillel to *Sifrei*, Chukas 127.
+Cited in the essay: Bamidbar 14:29-33; Bereishis 15:11 with Rashi; Yeshayahu 26:19; Yevamos 49b; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* and glosses to Radak's *Sefer HaShorashim*; Rabbi Shlomo Pappenheim on *po gar*; Rabbi Yosef Teomim-Frankel (*Pri Megadim*) in his letters on Hebrew grammar, on *Elokai Neshamah*; Rabbeinu Hillel to *Sifrei*, Chukas 127.

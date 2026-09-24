@@ -25,7 +25,7 @@ words:
 sources:
   - wiaw:11489 "Nursing from the Good" (2024-08-17) https://articles.ohr.edu/articles/nursing-from-the-good
   - wiaw:8287 "On Clouds" (2019-06-15) https://articles.ohr.edu/articles/on-clouds
-authorities: [Menachem Ibn Saruk, Ibn Janach, Shlomo Ibn Parchon, Radak, Rabbi Shlomo Pappenheim, Rashi, Dunash, Malbim, Rabbeinu Chananel, Rabbi Menachem ben Shimon of Posquieres, Ralbag, Rabbi Shlomo of Urbino, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Natan of Rome, Pseudo-Rasag, Rabbi Shaul Goldman, Shadal, Wilhelm Gesenius, Daas Mikra, Mitchell First, Chaim Tawil, David J. A. Clines, Rabbi Yaakov Chaim Sofer, Peirush HaRokeach]
+authorities: [Menachem Ibn Saruk, Ibn Janach, Shlomo Ibn Parchon, Radak, Rabbi Shlomo Pappenheim, Rashi, Dunash, Malbim, Rabbeinu Chananel, Rabbi Menachem ben Shimon of Posquieres, Ralbag, Rabbi Shlomo of Urbino, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Nosson of Rome, Pseudo-Rasag, Rabbi Shaul Goldman, Shadal, Wilhelm Gesenius, Daas Mikra, Mitchell First, Chaim Tawil, David J. A. Clines, Rabbi Yaakov Chaim Sofer, Peirush HaRokeach]
 updated: 2026-09-10
 ---
 # Breast: shadayim / dadim / atinim (ziz)
@@ -156,7 +156,7 @@ A hapax: the wicked man dies at ease, "his *atinim* full of milk" (Iyov
   the little that justifies reaching for more; and *atah*, wrapping, a lazy way
   of putting on clothes, stingy in effort. The udder is never at rest, always
   filling and being emptied.
-- Targum to Iyov 21:24 renders *atinim* *bizoi*, and Rabbi Natan of Rome (*Sefer
+- Targum to Iyov 21:24 renders *atinim* *bizoi*, and Rabbi Nosson of Rome (*Sefer
   HeAruch*) explains the Rabbis' *bizaya* in "woe to the breasts that nursed
   this one" (Yerushalmi *Kilayim* 1:7, Bereishis Rabbah 5:9) as that same Greek
   word. The Greek βυζίου (*byziou*) is a cousin of the English "bosom," from
@@ -211,4 +211,4 @@ Rabbi Reuven Chaim Klein, "[Nursing from the Good](https://articles.ohr.edu/arti
 
 Rabbi Reuven Chaim Klein, "[On Clouds](https://articles.ohr.edu/articles/on-clouds)," *What's in a Word?*, Ohr Somayach, 15 June 2019.
 
-Cited in the essay: Bereishis 49:25 with Rashi and *Peirush HaRokeach*; Bamidbar 11:8 with Rashi, *Yoma* 75a, *Sifrei* Behaaloscha 89, Tosefta *Sotah* 4:1; Yechezkel 23:3 with Rabbeinu Chananel as quoted by Rabbi Menachem ben Shimon of Posquieres, 23:8, 23:21; Mishlei 5:19 with *Eruvin* 54b; *Shabbos* 53b; *Yoma* 3:10; Iyov 21:23-25 with Rashi, the Ralbag, and Targum there; Yeshayahu 66:11 with Radak, Shadal, Gesenius, *Daas Mikra*, Malbim and Mitchell First; Daniel 1:7 with Pseudo-Rasag; Bamidbar 1:5, 2:10, 7:30, 7:35, 10:18, 11:26-27, 34:21; Shmuel I 14:33, 15:19; Yerushalmi *Kilayim* 1:7 and Bereishis Rabbah 5:9 with *Sefer HeAruch*; Koheles 2:8; *Maasros* 4:3, *Bava Metzia* 5:7, *Taharos* 9:1 and 9:9, *Menachos* 8:4, *Negaim* 6:7-8, *Niddah* 5:8, *Bechoros* 7:5, *Sotah* 1:6, *Keilim* 8:11; *Machberes Menachem*; Radak, *Sefer HaShorashim*; Malbim, *Sefer HaCarmel*; Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim*; Dr. Chaim Tawil, *An Akkadian Lexical Companion for Biblical Hebrew*; David J. A. Clines, *The Dictionary of Classical Hebrew*.
+Cited in the essay: Bereishis 49:25 with Rashi and *Peirush HaRokeach*; Bamidbar 11:8 with Rashi, *Yoma* 75a, *Sifrei* Behaaloscha 89, Tosefta *Sotah* 4:1; Yechezkel 23:3 with Malbim, and with Rabbeinu Chananel as quoted by Rabbi Menachem ben Shimon of Posquieres, 23:8, 23:21; Mishlei 5:19 with Malbim and *Eruvin* 54b; *Shabbos* 53b; *Yoma* 3:10; Iyov 21:23-25 with Rashi, the Ralbag, and Targum there; Yeshayahu 66:11 with Radak, Shadal, Gesenius, *Daas Mikra*, Malbim and Mitchell First; Daniel 1:7 with Pseudo-Rasag; Bamidbar 1:5, 2:10, 7:30, 7:35, 10:18, 11:26-27, 34:21; Shmuel I 14:33, 15:19; Yerushalmi *Kilayim* 1:7 and Bereishis Rabbah 5:9 with *Sefer HeAruch*; Koheles 2:8; *Maasros* 4:3, *Bava Metzia* 5:7, *Taharos* 9:1 and 9:9, *Menachos* 8:4, *Negaim* 6:7-8, *Niddah* 5:8, *Bechoros* 7:5, *Sotah* 1:6, *Keilim* 8:11; *Machberes Menachem*; Radak, *Sefer HaShorashim*; Malbim, *Sefer HaCarmel* s.v. שד and דד; Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim* §74; Dr. Chaim Tawil, *An Akkadian Lexical Companion for Biblical Hebrew*; David J. A. Clines, *The Dictionary of Classical Hebrew*.

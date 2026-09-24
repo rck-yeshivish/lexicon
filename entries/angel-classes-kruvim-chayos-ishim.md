@@ -59,8 +59,8 @@ sources:
   - wiaw:8129 "Cherubic Children and Other Angels" (2019-02-09) https://articles.ohr.edu/articles/cherubic-children-and-other-angels
   - wiaw:8444 "Bereishet - Be a Man" (2019-10-26) https://articles.ohr.edu/articles/bereishet-be-a-man
   - ms:143-cherubic-children-and-other-angels.md "Cherubic Children and Other Angels"
-authorities: [Rambam, the anonymous commentator to Rambam, the school of Rabbi Elazar Rokeach of Worms, Orchos Chaim, Kolbo, Masechta Atzilus, Rabbi Moshe ibn Chaviv, Rabbi Dovid Luria, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Mordechai Shlomo Movshovitz, Rashi, Ramban, Shadal, Shadal, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+authorities: [Rambam, the anonymous commentator to Rambam, the school of Rabbi Elazar Rokeach of Worms, Orchos Chaim, Kolbo, Masechta Atzilus, Rabbi Moshe ibn Chaviv, Rabbi Dovid Luria, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Mordechai Shlomo Movshovitz, Rashi, Ramban, Shadal, Rabbi Eliyahu Benamozegh]
+updated: 2026-09-24
 ---
 # Angel classes: kruvim / chayos / ofanim / erelim / ishim
 
@@ -176,7 +176,9 @@ some sort of child-bird hybrid. The word also names the destructive angels said
 to guard the path to the Eitz HaChaim (Rashi to Bereishis 3:24).
 
 Shadal (to Shemos 25:18): *keruv* comes from *rechev*, since the keruv is
-described as what Hashem rides (Tehillim 18:11; Divrei HaYamim I 28:18).
+described as what Hashem rides (Tehillim 18:11; Divrei HaYamim I 28:18). To
+Bereishis 3:24 he adds that the *kruvim* are a vehicle to spread Hashem's
+glory, as though He were riding them to bring Himself everywhere.
 
 Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 3:24) discusses whether
 *keruv* means a child, a calf, a bird, or a *rechev*, a vehicle for riding.
@@ -242,4 +244,4 @@ Rabbi Reuven Chaim Klein, "[Bereishet - Be a Man](https://articles.ohr.edu/artic
 
 Rabbi Reuven Chaim Klein, "Cherubic Children and Other Angels," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Rambam, *Hilchos Yesodei HaTorah* 2:7; *Orchos Chaim*, *Seder Tefillas Shabbos Shacharis* §2; *Kolbo* §37; *Masechta Atzilus*; *Pirkei d'Rabbi Eliezer* ch. 4 with the glosses of Rabbi Dovid Luria; Yeshayahu 33:7; Yechezkel 9:11; Yechezkel 43:15; Tehillim 78:25; Kesubos 104a; Chagigah 13b; Sukkah 5b; Bereishis 3:24 with Rashi; Bereishis 18; Targum to Bereishis 21:17; Ramban to Vayikra 18:25; Shadal to Bereishis 1:1; Shadal to Shemos 25:18; Tehillim 18:11; Divrei HaYamim I 28:18; Benamozegh, *Eim LaMikra* to Bereishis 3:24.
+Cited in the essay: Rambam, *Hilchos Yesodei HaTorah* 2:7; *Orchos Chaim*, *Seder Tefillas Shabbos Shacharis* §2; *Kolbo* §37; *Masechta Atzilus*; *Pirkei d'Rabbi Eliezer* ch. 4 with the glosses of Rabbi Dovid Luria; Yeshayahu 33:7; Yechezkel 9:11; Yechezkel 43:15; Tehillim 78:25; Kesubos 104a; Chagigah 13b; Sukkah 5b; Bereishis 3:24 with Rashi; Bereishis 18; Targum to Bereishis 21:17; Ramban to Vayikra 18:25; Shadal to Bereishis 1:1; Shadal to Shemos 25:18 and Bereishis 3:24; Tehillim 18:11; Divrei HaYamim I 28:18; Benamozegh, *Eim LaMikra* to Bereishis 3:24.

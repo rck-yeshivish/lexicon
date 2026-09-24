@@ -24,7 +24,7 @@ sources:
   - wiaw:8422 "Return to Sender: The True Meaning of Teshuva" (2019-10-05) https://articles.ohr.edu/articles/return-to-sender-the-true-meaning-of-teshuva
   - wiaw:9694 "The Year of Seven (Part 2 of 2)" (2022-05-21) https://articles.ohr.edu/articles/the-year-of-seven-part-2-of-2
   - ms:340-real-teshuvah-return-to-sender.md "Real Teshuvah: Return to Sender"
-authorities: [Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Menachem Ricanati, Rabbeinu Bachaya, Rabbi David Ibn Zimra, Rabbi Yosef Ibn Kaspi, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Eliyahu Benamozegh]
+authorities: [Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Menachem Ricanati, Rabbeinu Bachya, Rabbi David Ibn Zimra, Rabbi Yosef Ibn Kaspi, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Eliyahu Benamozegh]
 updated: 2026-09-22
 ---
 # Return: shuv (teshuvah) / chazarah
@@ -135,7 +135,7 @@ The closest word to *chazarah* in Tanach is *chazir*, "pig," whose root is also
 
 - Rabbi Menachem Ricanati (to Vayikra 11:2): the pig is called *chazir* because
   in the future Hashem will "return" to us the right to eat it, our relationship
-  with the pig thus reversing course, after a fashion. (Rabbeinu Bachaya and
+  with the pig thus reversing course, after a fashion. (Rabbeinu Bachya and
   Rabbi David Ibn Zimra write that this should not be taken literally.)
 - Ibn Kaspi also points out that the root of *chazarah* appears in Tanach only
   in the word *chazir*, which he explains gets that name because pigs commonly
@@ -169,4 +169,4 @@ Rabbi Reuven Chaim Klein, "[The Year of Seven (Part 2 of 2)](https://articles.oh
 
 Rabbi Reuven Chaim Klein, "Real Teshuvah: Return to Sender," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Bereishis 24:5; Vayikra 5:23, 11:2; Devarim 22:1, 30:2; Yechezkel 18:21-27, 33:18-19; Hoshea 14:2; Berachos 29a; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. שב; Rabbi Eliyahu HaBachur (Elias Levita); Rabbi Menachem Ricanati to Vayikra 11:2; Rabbeinu Bachaya; Rabbi David Ibn Zimra; Rabbi Yosef Ibn Kaspi; Rabbi Yaakov Tzvi Mecklenburg; Vayikra 16:4, 23:24 and Bamidbar 36:4 with Benamozegh.
+Cited in the essay: Bereishis 24:5; Vayikra 5:23, 11:2; Devarim 22:1, 30:2; Yechezkel 18:21-27, 33:18-19; Hoshea 14:2; Berachos 29a; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. שב; Rabbi Eliyahu HaBachur (Elias Levita); Rabbi Menachem Ricanati to Vayikra 11:2; Rabbeinu Bachya; Rabbi David Ibn Zimra; Rabbi Yosef Ibn Kaspi; Rabbi Yaakov Tzvi Mecklenburg; Vayikra 16:4, 23:24 and Bamidbar 36:4 with Benamozegh.

@@ -166,8 +166,10 @@ The *luz* bone, said to be the kernel from which a person is revived at
   in one clause and "hasten" in the other kills it.
 - Trap: English "almond" would absorb *luz* and *shaked* both, which is fine for
   the Targum Yonasan and wrong for Targum Onkelos, who keeps them apart. In a
-  passage that quotes Onkelos, or Rashi to Bereishis 30:38, render *luz* as
-  "hazel" and say which *Rishon* is being followed.
+  passage that quotes Rashi to Bereishis 30:38, render *luz* as "hazel"; in one
+  that quotes Onkelos, who seems to follow one of the views that *luz* is not
+  the almond (silverleaf poplar, cedar or hazel) without saying which, keep it
+  apart from "almond". Say which *Rishon* is being followed.
 - Bereishis 30:37: leave the identification open where the text does. "*Luz*
   rods" with a gloss beats a confident "almond rods" when Onkelos declined to
   translate the word at all.

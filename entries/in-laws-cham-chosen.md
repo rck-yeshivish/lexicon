@@ -30,7 +30,7 @@ sources:
   - ms:123-heat-with-the-in-laws.md "Heat with the In-laws"
   - ms:122-g-ds-best-friend.md "G-d’s Best Friend"
 authorities: [Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Menachem Azariah of Fano, Pri Megadim, Rabbi Shimon Pollack, Rabbi Yonah Ibn Janach, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 # In-laws: cham and chamos / chosen and choseness
 
@@ -94,8 +94,8 @@ reads *shochev im chosanto* (Devarim 27:23).
   has no word for that relationship at all.)
 - Rabbi Shlomo Pappenheim derives *chasan* from the biliteral ח-ת, descending or
   setting down, since the groom branches off from his family to found a new
-  subdivision; his parents-in-
-  law are *chosen* and *choseness* because in giving him their daughter they
+  subdivision; his parents-in-law
+  are *chosen* and *choseness* because in giving him their daughter they
   gave him the chance to open that branch. (Radak gives the core sense of
   *chasan* differently, as one who experiences a new joy, which is why the word
   covers a baby at his bris as well as a groom.)
@@ -134,7 +134,11 @@ teacher" first in the second, offers as one suggestion that *chami* in that
 sense is only Mishnaic and rests on Aramaic, so the Hebrew *mori* is given
 precedence; whereas for one's father both words are Hebrew. He supports this
 from the fact that a man who uses the Biblical *chosni* will usually say
-*chosni mori*, both words there being Hebrew.
+*chosni mori*, both words there being Hebrew. Rabbi Klein explains the switch
+simply by the order of events: a man's father was first his father and
+only then his rebbe, hence *avi mori*; and usually, where a man says *mori
+vechami*, the one he names became his father-in-law because he was first his
+rebbe.
 
 ## Rendering guidance
 

@@ -9,7 +9,7 @@ words:
   - he: נאם
     tr: ne'um
     en: declaration, utterance
-    distinct: used overwhelmingly for the Word of Hashem; a deliberate declaration stressing that what is said is true, from א-ם (Rabbi Shlomo Pappenheim, Radak); an irrevocable decree or oath, even Bilaam's (Peirush HaRokeach, Rabbeinu Efrayim)
+    distinct: used overwhelmingly for the Word of Hashem; a deliberate declaration stressing that what is said is true, from א-ם (Rabbi Shlomo Pappenheim); tied to truth by Radak too, from נ-א-ם; an irrevocable decree or oath, even Bilaam's (Peirush HaRokeach, Rabbeinu Efrayim)
   - he: יחוה
     tr: yichaveh
     en: express, declare
@@ -34,13 +34,12 @@ updated: 2026-09-10
 *Ne'um*, "word," is used overwhelmingly for the Word of Hashem. For Rabbi
 Pappenheim it is a deliberate declaration that stresses the truth of what is
 said; for *Peirush HaRokeach* and Rabbeinu Efrayim it conveys an irrevocable
-decree or oath. It is a **declaration**, an **utterance**, and in a *nevuah*
-**thus says**. Rabbi Pappenheim explains *yichaveh* as speech that gives an idea
-life by bringing it out into the open, or else as speech that joins speaker to
-listener as *ach* to *ach*: **express**, **declare**. *Yabia* is speech welling
-up from the depths like a spring: **pour forth**, **utter**. *Siach* is
-discursive, wandering speech that unburdens the speaker: **converse**, **muse**,
-**pour out one's talk**.
+decree or oath. It is a **declaration**, an **utterance**. Rabbi Pappenheim
+explains *yichaveh* as speech that gives an idea life by bringing it out into
+the open, or else as speech that joins speaker to listener as *ach* to *ach*:
+**express**, **declare**. *Yabia* is speech welling up from the depths like a
+spring: **pour forth**, **utter**. *Siach* is discursive, wandering speech that
+unburdens the speaker: **converse**, **muse**, **pour out one's talk**.
 
 ## At a glance
 
@@ -187,8 +186,8 @@ whisper." Rabbi Klein says outright: "I am not sure what to make of that."
   Following Pappenheim, this is unburdening speech, not conversation with
   another person.
 - Rabbinic *nam lo*, *numeinu*, *neimah*: translate as ordinary "he said," "we
-  said," "let us say." Do not import the Biblical solemnity into a *sugya*; the
-  register shifted.
+  said," "let us say." Do not import the Biblical solemnity into a *sugya*;
+  *nam lo* means the same as the more common *amar lo*.
 
 ## Notes for a project
 

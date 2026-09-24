@@ -9,7 +9,7 @@ words:
   - he: תם
     tr: tam
     en: whole
-    distinct: whole in quality, an exact match with nothing missing and nothing extra, the inside like the outside (Rabbeinu Bachaya, Pappenheim); undivided intention (Malbim); qualitative completion that includes the quantitative (Wertheimer); a positive completion (Bedersi); completion in one aspect, mostly spiritual (Rabbi Shimon Dov Ber Analak); as finishing, one part of a whole, against kilayon (Analak)
+    distinct: whole in quality, an exact match with nothing missing and nothing extra, the inside like the outside (Rabbeinu Bachya, Pappenheim); undivided intention (Malbim); qualitative completion that includes the quantitative (Wertheimer); a positive completion (Bedersi); completion in one aspect, mostly spiritual (Rabbi Shimon Dov Ber Analak); as finishing, one part of a whole, against kilayon (Analak)
   - he: שלם
     tr: shalem
     en: complete, whole
@@ -20,7 +20,7 @@ words:
 sources:
   - wiaw:9396 "Seeking Completion" (2021-10-16) https://articles.ohr.edu/articles/seeking-completion
   - ms:298-words-of-destruction.md "Words of Destruction"
-authorities: [Rabbeinu Bachaya, Malbim, Rabbi Shlomo Pappenheim, Zohar, Kedushat Levi, Targum Onkelos, Sefer HaBahir, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rabbi Avraham Bedersi, Rabbi Moshe Sofer, Rabbi Shimon Dov Ber Analak]
+authorities: [Rabbeinu Bachya, Malbim, Rabbi Shlomo Pappenheim, Zohar, Kedushat Levi, Targum Onkelos, Sefer HaBahir, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rabbi Avraham Bedersi, Rabbi Moshe Sofer, Rabbi Shimon Dov Ber Analak]
 updated: 2026-09-22
 ---
 # Completeness: tam / tamim / shalem
@@ -30,7 +30,7 @@ updated: 2026-09-22
 *Shalem* is **complete**, **whole**: nothing is now lacking, measured as a
 quantity (Rabbi Shlomo Pappenheim), and having more than enough does not
 disqualify it. *Tam* / *tamim* is **whole** in quality: an exact match with
-nothing missing and nothing extra (Rabbeinu Bachaya; Pappenheim); of a korban
+nothing missing and nothing extra (Rabbeinu Bachya; Pappenheim); of a korban
 **unblemished**, of a person **wholehearted** or **wholesome**, of the Torah
 **perfect**. *Shleimus* is **completeness** or **wholeness**.
 
@@ -38,7 +38,7 @@ nothing missing and nothing extra (Rabbeinu Bachaya; Pappenheim); of a korban
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| תם | tam | whole | qualitative; an exact match, nothing missing or extra (Rabbeinu Bachaya, Pappenheim); as finishing, one part of a whole, against *kilayon* (Analak) |
+| תם | tam | whole | qualitative; an exact match, nothing missing or extra (Rabbeinu Bachya, Pappenheim); as finishing, one part of a whole, against *kilayon* (Analak) |
 | שלם | shalem | complete, whole | quantitative; nothing lacking, excess allowed (Pappenheim) |
 
 ## Distinctions
@@ -49,7 +49,7 @@ Hashem told Avraham that with his milah he would become *tamim*, whole
 (Bereishis 17:1); Yitzchak is an *olah temimah*, an unblemished burnt-offering
 (*Bereishis Rabbah* 64:3); and Yaakov is an *ish tam*, a wholesome man
 (Bereishis 25:27).
-- Rabbeinu Bachaya (Bereishis 17:1) gives two marks. First, no deficiency and no
+- Rabbeinu Bachya (Bereishis 17:1) gives two marks. First, no deficiency and no
   superfluity: the Torah is *temimah* (Tehillim 19:8) because nothing may be
   added to it or taken from it (Devarim 13:1). Second, the inside like the
   outside: what the *tam* believes in his heart is exactly what his mouth says.
@@ -168,4 +168,4 @@ Rabbi Reuven Chaim Klein, "[Seeking Completion](https://articles.ohr.edu/article
 
 Rabbi Reuven Chaim Klein, "Words of Destruction," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Bereishis 17:1 with Rabbeinu Bachaya; Bereishis 25:27; Bereishis Rabbah 64:3; Tehillim 19:8; Devarim 13:1, 18:13 (with Onkelos and Sefer HaBahir 137), 25:15, 27:6, 34:8; Yehoshua 8:31; Shemos 3:5; Vayikra 1:3, 22:21, 23:15 with Vayikra Rabbah 28:3; Bamidbar 19:2; Bereishis 15:16 and 33:18 with Shabbos 33b; Zohar to Bamidbar 165b; Malbim; Rabbi Shlomo Pappenheim; the Kedushat Levi; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Aharon Wertheimer; Rabbi Avraham Bedersi; Rabbi Moshe Sofer; Rabbi Shimon Dov Ber Analak; Bereishis 2:1, 29:21, 41:53, 43:2, 47:15; Vayikra 25:29; Bamidbar 17:28; Melachim I 1:14, 7:22, 7:51; Yeshayahu 60:20; Tehillim 102:28.
+Cited in the essay: Bereishis 17:1 with Rabbeinu Bachya; Bereishis 25:27; Bereishis Rabbah 64:3; Tehillim 19:8; Devarim 13:1, 18:13 (with Onkelos and Sefer HaBahir 137), 25:15, 27:6, 34:8; Yehoshua 8:31; Shemos 3:5; Vayikra 1:3, 22:21, 23:15 with Vayikra Rabbah 28:3; Bamidbar 19:2; Bereishis 15:16 and 33:18 with Shabbos 33b; Zohar to Bamidbar 165b; Malbim; Rabbi Shlomo Pappenheim; the Kedushat Levi; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Aharon Wertheimer; Rabbi Avraham Bedersi; Rabbi Moshe Sofer; Rabbi Shimon Dov Ber Analak; Bereishis 2:1, 29:21, 41:53, 43:2, 47:15; Vayikra 25:29; Bamidbar 17:28; Melachim I 1:14, 7:22, 7:51; Yeshayahu 60:20; Tehillim 102:28.

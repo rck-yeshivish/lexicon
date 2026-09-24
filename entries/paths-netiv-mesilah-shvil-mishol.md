@@ -29,11 +29,12 @@ words:
   - he: שביל
     tr: shvil
     en: trail
-    distinct: a path on a steep downward incline, from shafel (Rav Hirsch); from shevel, the leg, and narrower than a netiv (Malbim); the narrowest path, wide enough for one ankle at a time (Wertheimer); the road of ankles, giving bishvil (Pappenheim)
+    distinct: a path on a steep downward incline, from shafel (Rav Hirsch); from shevel, the leg, and narrower than a netiv (Malbim); the narrowest path, wide enough for one ankle or heel at a time (Wertheimer); the road of ankles or heels, giving bishvil (Pappenheim)
 sources:
   - wiaw:7917 "On the Straight and Narrow" (2018-09-01) https://articles.ohr.edu/articles/on-the-straight-and-narrow
+  - ms:334-ways-and-means.md "Ways and Means"
 authorities: [Rabbi Meshullam, Rabbeinu Bachya, Vilna Gaon, Malbim, Zohar, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Rabbi Moshe Shapiro, Rav Hirsch]
-updated: 2026-09-10
+updated: 2026-09-24
 ---
 # Paths: netiv / rechov / mesilah / maagal / mishol / shvil
 
@@ -42,9 +43,9 @@ updated: 2026-09-10
 *Rechov* is the **city street**, *mesilah* the **paved** and generally straight
 road, *netiv* the narrow **path** that only some people use, *mishol* the
 **footpath** that cannot take the weight of a wagon, *shvil* the **trail** wide
-enough for only one ankle at a time, and *maagal* a **roundabout way** that goes
-nowhere in particular. Rabbeinu Bachya makes a *netiv* narrower than a *derech*,
-and Malbim and others make a *shvil* narrower than a *netiv*.
+enough for only one ankle or heel at a time, and *maagal* a **roundabout way**
+that goes nowhere in particular. Rabbeinu Bachya makes a *netiv* narrower than a
+*derech*, and Malbim and others make a *shvil* narrower than a *netiv*.
 
 ## At a glance
 
@@ -55,7 +56,7 @@ and Malbim and others make a *shvil* narrower than a *netiv*.
 | מסילה | mesilah | paved road | paved, usually the walk at a street's edge (Malbim); straight (Wertheimer) |
 | מעגל | maagal | roundabout way | circular (Vilna Gaon); goes nowhere useful, the scenic route (Wertheimer) |
 | משעול | mishol | footpath | for feet or a rider, not a wagon (Pappenheim) |
-| שביל | shvil | trail | a steep downward path (Rav Hirsch); one ankle wide (Wertheimer) |
+| שביל | shvil | trail | a steep downward path (Rav Hirsch); one ankle or heel wide (Wertheimer) |
 
 ## Distinctions
 
@@ -117,6 +118,14 @@ of the foot (Melachim I 20:10, Yeshayahu 40:12), so a footpath.
 - Rabbi Moshe Shapiro (1935-2017) alternatively ties *mishol* to *shual*, a fox,
   and reads it as the track foxes cut through a vineyard as they partially
   destroy it (Shir HaShirim 2:15).
+- Rav Hirsch (to Devarim 32:24, on *zochalei afar*): in the language of Chazal
+  *zachal* is the slow flow of water along the ground, whence *mazchilah*, a
+  roof's gutter (Eruvin 99b), and so the motion of a snake going on its belly.
+  Perhaps close to it are *sho'al* (Melachim I 20:10), the sole of the foot;
+  *mishol hakeramim* (Bamidbar 22:24), a narrow path no wider than the sole of a
+  foot, on which one can walk only step by step; and *shual* and *shachal*,
+  animals that slip through and pass along *misholim* (and see his commentary to
+  Bamidbar 22:24).
 
 ### shvil (שביל)
 - Rav Hirsch (1808-1888): related to *shafel*, lowly, a path on a steep downward
@@ -125,11 +134,11 @@ of the foot (Melachim I 20:10, Yeshayahu 40:12), so a footpath.
   striking the ground as one walks; he and others note that a *shvil* is
   narrower than a *netiv*.
 - Wertheimer: the shortest and narrowest sort of path, wide enough for one ankle
-  at a time, so that a man cannot stand on it with his feet together.
+  or heel at a time, so that a man cannot stand on it with his feet together.
 - Pappenheim gives the same explanations and supports them from a clever
-  observation: *eikev* means both ankle and "because," and on the strength of
-  that double meaning the Rabbis took *shvil*, the road of ankles, the same way,
-  giving *bishvil*, "for the sake of."
+  observation: *eikev* means both heel and "because," and on the strength of
+  that double meaning the Rabbis took *shvil*, the road of ankles or heels, the
+  same way, giving *bishvil*, "for the sake of."
 
 ## Rendering guidance
 
@@ -160,4 +169,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[On the Straight and Narrow](https://articles.ohr.edu/articles/on-the-straight-and-narrow)," *What's in a Word?*, Ohr Somayach, 1 September 2018.
 
-Cited in the essay: Shemos 35:35 (Rabbeinu Bachya); Bamidbar 20:17, 20:19, 22:24; Shoftim 5:6, 5:20; Melachim I 20:10; Yeshayahu 40:12, 47:2; Shir HaShirim 2:15; Shekalim 1:1 with Rabbi Meshullam; Bikkurim 3:2; Taanis 2:1; Megillah 3:1; Zohar, Mikeitz 197b and Va'era 31a-b.
+Rabbi Reuven Chaim Klein, "Ways and Means," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 35:35 (Rabbeinu Bachya); Bamidbar 20:17, 20:19, 22:24; Shoftim 5:6, 5:20; Melachim I 20:10; Yeshayahu 40:12, 47:2; Shir HaShirim 2:15; Shekalim 1:1 with Rabbi Meshullam; Bikkurim 3:2; Taanis 2:1; Megillah 3:1; Zohar, Mikeitz 197b and Va'era 31a-b; Eruvin 99b; Rav Hirsch to Devarim 32:24 and Bamidbar 22:24.

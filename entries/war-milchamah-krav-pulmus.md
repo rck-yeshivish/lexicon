@@ -21,14 +21,14 @@ words:
   - he: טרוניא
     tr: b'tarunya
     en: tyranny
-    distinct: in Avodah Zarah 3a, Hashem does not come b'tarunya with His creations; tyranny, from Greek tyronia (Rabbi Binyamin Mussafia), where Rabbi Klein once read batrunya, battle; Rome's tironya is tyranny (Matnos Kehunah) or a military tax (Rabbi Natan of Rome, Kohut)
+    distinct: in Avodah Zarah 3a, Hashem does not come b'tarunya with His creations; tyranny, from Greek tyronia (Rabbi Binyamin Mussafia), where Rabbi Klein once read batrunya, battle; Rome's tironya is tyranny (Matnos Kehunah) or a military tax (Rabbi Nosson of Rome, Kohut)
   - he: קניגיא
     tr: kenigia
     en: war, hunting
     distinct: a Bavli hapax, Gavriel's kenigia with the Leviasan; war (Rabbeinu Gershom, Rashba) against hunting (Rashbam), which the Greek kynigia, hunting, supports
 sources:
   - wiaw:11889 "Chukas: Words for War" (2025-07-05) https://articles.ohr.edu/articles/chukas-words-for-war
-authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Theological Dictionary of the Old Testament, Netziv, Rabbi Yehudah Aryeh of Carpentras, Rabbi Binyamin Mussafia, Matnos Kehunah, Rabbi Natan of Rome, Dr. Alexander Kohut, Rabbeinu Gershom, Rashba, Rashbam, Rashi, Rabbi Shaul Goldman]
+authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Theological Dictionary of the Old Testament, Netziv, Rabbi Yehudah Aryeh of Carpentras, Rabbi Binyamin Mussafia, Matnos Kehunah, Rabbi Nosson of Rome, Dr. Alexander Kohut, Rabbeinu Gershom, Rashba, Rashbam, Rashi, Rabbi Shaul Goldman]
 updated: 2026-09-10
 ---
 # War: milchamah / krav / pulmus (tarunya, kenigia)
@@ -143,7 +143,7 @@ is in the Targumim, which render *sarnei Plishtim* (Yehoshua 13:3, Shoftim 3:3
 and 16:5-27, Shmuel I 5:8-11, 6:4, 6:16, 7:7, 29:7, Divrei HaYamim I 12:20) as
 *turnaei Plishtaei* (in Modern Hebrew a *seren* is roughly a captain). Bereishis
 Rabbah 42:4 says Rome imposed a *tironya* on the nations; *Matnos Kehunah* there
-reads it as tyranny, that is, sovereignty or lordship, while Rabbi Natan of Rome
+reads it as tyranny, that is, sovereignty or lordship, while Rabbi Nosson of Rome
 (*Sefer HeAruch*) reads it as a tax for military funding, and Dr. Alexander
 Kohut (*Aruch HaShalem*) writes at great length to defend that reading.
 
@@ -198,4 +198,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Chukas: Words for War](https://articles.ohr.edu/articles/chukas-words-for-war)," *What's in a Word?*, Ohr Somayach, 5 July 2025.
 
-Cited in the essay: Menachem Ibn Saruk, *Machberes Menachem*, and the *Sefer HaShorashim* of Ibn Janach and of Radak, s.v. ל-ח-ם; Rav Hirsch to Bereishis 3:19, 10:9, 14:2 and Tehillim 140:2; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. ח-ם; *Theological Dictionary of the Old Testament*, vol. 7; Yerushalmi Beitzah 1:5; Vayikra Rabbah 3:3; Shir HaShirim Rabbah 4:30, 5:10; the Netziv, *Haamek Davar* to Bamidbar 28:2; Divrei HaYamim I 20:5; Eruvin 63b; Shemos 14:10; Devarim 2:19, 20:10; Bereishis 20:4; Vayikra 18:6; Devarim 22:14; Yeshayahu 8:3; Rabbi Yehudah Aryeh of Carpentras, *Aholei Yehudah*; Zecharyah 14:3; Tehillim 78:9; Iyov 38:23; Koheles 9:18; *Sotah* 9:14; *Avodah Zarah* 2b-3a; Rabbi Binyamin Mussafia, *Mussaf HeAruch*; Yehoshua 13:3, Shoftim 3:3, 16:5-27, Shmuel I 5:8-11, 6:4, 6:16, 7:7, 29:7, Divrei HaYamim I 12:20 with the Targumim; Bereishis Rabbah 42:4 with *Matnos Kehunah*; Rabbi Natan of Rome, *Sefer HeAruch*; Dr. Alexander Kohut, *Aruch HaShalem*; *Bava Basra* 74b-75a with Rabbeinu Gershom, Rashbam, and Rashba; *Chullin* 60b with Rashi and Rabbeinu Gershom; Rabbi Shaul Goldman.
+Cited in the essay: Menachem Ibn Saruk, *Machberes Menachem*, and the *Sefer HaShorashim* of Ibn Janach and of Radak, s.v. ל-ח-ם; Rav Hirsch to Bereishis 3:19, 10:9, 14:2 and Tehillim 140:2; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. ח-ם; *Theological Dictionary of the Old Testament*, vol. 7; Yerushalmi Beitzah 1:5; Vayikra Rabbah 3:3; Shir HaShirim Rabbah 4:30, 5:10; the Netziv, *Haamek Davar* to Bamidbar 28:2; Divrei HaYamim I 20:5; Eruvin 63b; Shemos 14:10; Devarim 2:19, 20:10; Bereishis 20:4; Vayikra 18:6; Devarim 22:14; Yeshayahu 8:3; Rabbi Yehudah Aryeh of Carpentras, *Aholei Yehudah*; Zecharyah 14:3; Tehillim 78:9; Iyov 38:23; Koheles 9:18; *Sotah* 9:14; *Avodah Zarah* 2b-3a; Rabbi Binyamin Mussafia, *Mussaf HeAruch*; Yehoshua 13:3, Shoftim 3:3, 16:5-27, Shmuel I 5:8-11, 6:4, 6:16, 7:7, 29:7, Divrei HaYamim I 12:20 with the Targumim; Bereishis Rabbah 42:4 with *Matnos Kehunah*; Rabbi Nosson of Rome, *Sefer HeAruch*; Dr. Alexander Kohut, *Aruch HaShalem*; *Bava Basra* 74b-75a with Rabbeinu Gershom, Rashbam, and Rashba; *Chullin* 60b with Rashi and Rabbeinu Gershom; Rabbi Shaul Goldman.

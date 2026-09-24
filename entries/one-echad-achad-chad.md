@@ -41,9 +41,10 @@ one. *Achad* is rarer, and Rabbi Wolf Heidenheim distinguishes two forms of it.
 In the construct ("one of the mountains"), he holds, it carries the same weight
 as *echad*: **one of the important ones**. The absolute, which can usually be
 told by the *mem* that follows ("*achad me...*"), means for him **any one of
-them**, and implies something less important. *Chad* is *echad* with the *aleph*
-dropped (Radak), and almost always Aramaic. *Achat* and *echat* are the
-feminine, one word vowelised two ways.
+them**, and implies something less important. One comment of Malbim's seems to
+reject the rule. *Chad* is *echad* with the *aleph* dropped (Radak), and almost
+always Aramaic. *Achat* and *echat* are the feminine, one word vowelised two
+ways.
 
 ## At a glance
 
@@ -91,7 +92,8 @@ Tzvi Mecklenburg, *HaKtav VaHaKabbalah* to Bamidbar 16:15; see also Rabbi Shlomo
 Zalman Hanau, *Shaarei Tefillah* 11.)
 
 ### achad (אחד, construct)
-65 occurrences in all. In the construct form it is simply "one of," and by
+65 occurrences in all, the two forms together. In the construct form it is
+simply "one of," and by
 Heidenheim's account carries the same freight of importance as *echad*: "on
 *achad* of the mountains that I will tell you" (Bereishis 22:2), which is Har
 HaMoriah; "*achad* of the nation nearly lay with your wife" (Bereishis 26:10),

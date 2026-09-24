@@ -47,7 +47,7 @@ gender-neutral uses against him. The Zohar ranks the four: *adam* highest, then
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | אדם | adam | man, mankind | the species, highest term (Zohar); like a proper name, never plural (Malbim); from *adom*, the bare red skin (Shadal); the four elements (Rabbi Yitzchak of Pira) |
-| אנוש | enosh | mortal, frail man | man in weakness, mortal (Radak); plural *anashim* flips to men of standing (Rashi) |
+| אנוש | enosh | mortal, frail man | man in weakness; a root meaning weak and sickly (Radak); plural *anashim* flips to men of standing (Rashi) |
 | איש | ish | a man | a single mature specimen, against woman or child; has all he needs (Pappenheim) |
 | גבר | gever | strong man | man as strength (Malbim); always male (Ibn Ezra) or not (Edel) |
 
@@ -160,4 +160,4 @@ Rabbi Reuven Chaim Klein, "[Bereishet - Be a Man](https://articles.ohr.edu/artic
 
 Rabbi Reuven Chaim Klein, "Be a Man," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Zohar Tazria 48a and Nasso 141b; Bereishis 1:24, 1:26-27, 7:2; Radak, *Sefer HaShorashim* s.v. אנש; Rashi to Bamidbar 13:3; Ibn Ezra to Shemos 10:11; Yeshayahu 51:12, 40:26, 47:5; Iyov 14:19; Tehillim 8:5, 104:15; Yechezkel 9:11; Shemos 25:20, 26:3; Yirmiyahu 13:18; Shadal to Bereishis 1:26; Rabbi Yitzchak ben Yosef of Pira to Bereishis 3:20.
+Cited in the essay: Zohar Tazria 48a and Nasso 141b; Bereishis 1:24, 1:26-27, 7:2; Radak, *Sefer HaShorashim* s.v. אנש; Rashi to Bamidbar 13:3; Ibn Ezra to Shemos 10:11; Yeshayahu 51:12, 40:26, 47:5; Iyov 14:19; Tehillim 8:5, 104:15; Yechezkel 9:11; Shemos 25:20, 26:3; Yirmiyahu 13:18; Shadal to Bereishis 1:26; Rabbi Yitzchak ben Yosef of Pira to Bereishis 3:20; Rav Hirsch to Bereishis 1:26; the Vilna Gaon, *Aderes Eliyahu* to Bereishis 5:3; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Bamidbar 23:19 and 31:20.

@@ -47,7 +47,7 @@ sources:
   - wiaw:8339 "Heavy Taxes and Empty Pockets" (2019-07-27) https://articles.ohr.edu/articles/heavy-taxes-and-empty-pockets
   - ms:279-heavy-taxes-and-empty-pockets.md "Heavy Taxes and Empty Pockets"
 authorities: [Rabbi Shlomo Pappenheim, Dr. Chaim Tawil, Menachem Ibn Saruk, Rabbi Yehuda Ibn Chayyuj, Rabbi Yonah Ibn Janach, Radak, Rabbi Baruch Avraham Toledano, Rashi, Rabbi Nosson of Rome, Rabbeinu Nissim, Maharam Chalavah, Meiri, Shadal, Filosseno Luzzatto]
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 # Tax: mas / meches (and the Aramaic terms)
 
@@ -171,6 +171,8 @@ since the tax fell on each head.
   *annona*, used to supply grain and other foodstuffs to the city of Rome, and
   named from the Latin *annus*, year (whence English *annual*), because it was
   calculated from the sum total of the year's harvests.
+- Others say *arnona* comes from *annona*, which is cognate with English
+  *annual*, as it was a yearly tax.
 - Alternatively, Rabbi Nosson of Rome (*Sefer HeAruch*) explains *arnona* as the
   meal each city had to supply to the king or army travelling through it (Rabbi
   Klein glosses the travelling as *halach*, going). Rabbeinu Nissim (Nedarim

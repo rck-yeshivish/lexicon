@@ -27,7 +27,7 @@ sources:
   - wiaw:10890 "Tzav-Pesach: Escape from Patros" (2023-04-01) https://articles.ohr.edu/articles/tzav-pesach-escape-from-patros
   - wiaw:11449 "Chukas: Out in Public" (2024-07-13) https://articles.ohr.edu/articles/chukas-out-in-public
   - ms:219-escape-from-patros.md "Escape from Patros"
-authorities: [Radak, Rashi, Ibn Ezra, Ramban, Rabbeinu Bachaya, Chizkuni, Midrash Sechel Tov, Bereishis Rabbah, Maharzu, Peirush HaRokeach, Rabbi Yehuda HaChassid, Sefer Chassidim, Hadar Zekeinim, Ateres Zekeinim, Rabbi Elazar Rokeach of Worms, Rabbi Chaim Vital, Rid, Tosafos, Rabbeinu Tam, Rabbeinu Chananel, Rabbeinu Nissim Gaon, Shitah Mekubetzes, Rabbi Aharon Marcus, Rabbi Shlomo Ibn Gabirol, Shadal, Solomon Löwisohn, Alexander Kohut, Shulamit Elitzur, Rabbi Shlomo Pappenheim, Rabbi Eliyahu Benamozegh]
+authorities: [Radak, Rashi, Ibn Ezra, Ramban, Rabbeinu Bachya, Chizkuni, Midrash Sechel Tov, Bereishis Rabbah, Maharzu, Peirush HaRokeach, Rabbi Yehuda HaChassid, Sefer Chassidim, Hadar Zekeinim, Ateres Zekeinim, Rabbi Elazar Rokeach of Worms, Rabbi Chaim Vital, Rid, Tosafos, Rabbeinu Tam, Rabbeinu Chananel, Rabbeinu Nissim Gaon, Shitah Mekubetzes, Rabbi Aharon Marcus, Rabbi Shlomo Ibn Gabirol, Shadal, Solomon Löwisohn, Alexander Kohut, Shulamit Elitzur, Rabbi Shlomo Pappenheim, Rabbi Eliyahu Benamozegh]
 updated: 2026-09-22
 ---
 # Egypt: Mitzrayim / Patros / Rahav (Matzor, Kaftor, eretz Cham)
@@ -61,7 +61,7 @@ heavenly minister; *eretz Cham*, the Land of Cham, is Tehillim's name for it.
 - *Bereishis Rabbah* 37:5 notes that the sons' names all carry a *yam* ending;
   Maharzu, that they settled along the coast, and Ramban (to 10:13) places them
   all in Egypt's vicinity.
-- Rabbeinu Bachaya (to 10:13): the yud-mem hints that these family-nations were
+- Rabbeinu Bachya (to 10:13): the yud-mem hints that these family-nations were
   destined to drown at Krias Yam Suf.
 - Many sources read the name as a portmanteau of *meitzar*, a narrow place,
   border or strait, and *yam*, sea, each explaining the connection its own way;

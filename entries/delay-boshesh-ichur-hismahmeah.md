@@ -30,12 +30,16 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Ichur* is the neutral word: **being late**, simply past the appointed time.
-*Boshesh* is **long overdue**, a delay so far past the hour that those waiting
-give up, and the word carries the sting of *bushah*, shame. *Hismahmeah* is
-**tarrying** or **dawdling**, going slower than one should, though Rabbi Shlomo
-Pappenheim sees in it the one delay that is at times the right thing to do.
-Shemos 32:1 says *boshesh* where the *Eitz Yosef* would expect *ichur*.
+*Ichur* is **being late**, and for Rabbi Shlomo Pappenheim and Malbim the
+neutral word: simply past the appointed time. *Boshesh* is **long overdue**:
+hours upon hours for Shapira-Frankfurter, so long for Rav Hirsch that those
+waiting give up, and for Pappenheim the delay one ought to be ashamed of, with
+the sting of *bushah*, shame. Weisel, quoted by Rabbi Mecklenburg, divides the
+two differently: *ichur* is lateness that is willing and deliberate, *boshesh*
+being held up by forces beyond one's control. *Hismahmeah* is **tarrying** or
+**dawdling**, going slower than one should, though Pappenheim sees in it the one
+delay that is at times the right thing to do. Shemos 32:1 says *boshesh* where
+the *Eitz Yosef* would expect *ichur*.
 
 ## At a glance
 

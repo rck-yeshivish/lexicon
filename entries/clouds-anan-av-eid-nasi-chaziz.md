@@ -57,7 +57,7 @@ lightning (Rabbi Pappenheim). Chazal count these five as the words for cloud.
 |---|---|---|---|
 | ענן | anan | cloud | the plain, general word; the cloud the wind sets moving (Pappenheim) |
 | עב | av | thick cloud | heavy cloud that darkens the sky (Chazal); dense with water (Pappenheim) |
-| אד | eid | rising vapor, mist | vapor drawn out of a larger body of water (Pappenheim, Rabbeinu Bachya) |
+| אד | eid | rising vapor, mist | clouds formed from water evaporated out of a larger body (Pappenheim); water vapor (Rabbeinu Bachya) |
 | נשיא | nasi | rain cloud | the prince-maker (Chazal); carries rainwater, or light enough to rise (Pappenheim) |
 | חזיז | chaziz | thundercloud | the cloud with thunder, tied to sight by its lightning (Pappenheim) |
 | נבל | nivlei shamayim | clouds | beyond the five (Rabbi Shlomo of Urbino); clouds as jugs pouring water (Ibn Janach) |

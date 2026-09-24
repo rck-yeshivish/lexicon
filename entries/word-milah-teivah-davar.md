@@ -10,12 +10,12 @@ words:
     tr: milah
     en: spoken word
     nk: מִילָּה
-    distinct: the biblical term; the spoken word (Rabbi Eliyahu HaBachur), or written or spoken (Rabbi Yosef Teomim); from מ-ל-ל, speech (Rabbi Shlomo Zalman of Hanau), or from מ-ל, edge, a unit cut off from the sentence (Pappenheim); memallel only of evil speech in the Yerushalmi (Kesubos 2:10)
+    distinct: the biblical term; the spoken word (Rabbi Eliyahu HaBachur), or written or spoken (Rabbi Yosef Teomim-Frankel); from מ-ל-ל, speech (Rabbi Shlomo Zalman of Hanau), or from מ-ל, edge, a unit cut off from the sentence (Pappenheim); memallel only of evil speech in the Yerushalmi (Kesubos 2:10)
   - he: תיבה
     tr: teivah
     en: written word
     nk: תֵּיבָה
-    distinct: in this sense only in later rabbinic writing, a grammarians' term (Pappenheim); the written word (HaBachur, Rabbi Yosef Teomim), as in roshei teivos; in Tanach an ark or box, a word being a box that holds its letters
+    distinct: in this sense only in later rabbinic writing, a grammarians' term (Pappenheim); the written word (HaBachur, Rabbi Yosef Teomim-Frankel), as in roshei teivos; in Tanach an ark or box, a word being a box that holds its letters
   - he: דבר
     tr: davar
     en: word, thing
@@ -24,7 +24,7 @@ words:
 sources:
   - wiaw:9405 "Words for Words" (2021-10-23) https://articles.ohr.edu/articles/words-for-words
   - ms:027-words-for-words.md "Words for Words"
-authorities: [Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Yosef Teomim, Rabbi Shlomo Zalman of Hanau, Rokeach, Rabbeinu Efrayim, Rabbi Yehuda Leib Shapira-Frankfurter, Ibn Janach, Radak, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Shimon Yehuda Leib Goldblit, Alexander Kohut, Rabbi Moshe Shapiro, Rabbi Akiva Tatz, Rabbi Matityahu Glazerson, Faigy Peritzman, Yerushalmi]
+authorities: [Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Yosef Teomim-Frankel, Rabbi Shlomo Zalman of Hanau, Rokeach, Rabbeinu Efrayim, Rabbi Yehuda Leib Shapira-Frankfurter, Ibn Janach, Radak, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Shimon Yehuda Leib Goldblit, Alexander Kohut, Rabbi Moshe Shapiro, Rabbi Akiva Tatz, Rabbi Matityahu Glazerson, Faigy Peritzman, Yerushalmi]
 updated: 2026-09-22
 ---
 # Word: milah / teivah / davar
@@ -35,7 +35,7 @@ updated: 2026-09-22
 Rabbi Eliyahu HaBachur it is the **spoken word**. *Teivah* in this sense appears
 only in later rabbinic writing, a grammarians' term as Rabbi Shlomo Pappenheim
 seems to understand it, and for HaBachur it is the **written word**, as in
-*roshei teivos*. Rabbi Yosef Teomim differs slightly: *milah* can be written or
+*roshei teivos*. Rabbi Yosef Teomim-Frankel differs slightly: *milah* can be written or
 spoken, *teivah* only written. Rabbi Pappenheim traces *milah* to מ-ל, "edge,"
 so that a word is a unit cut off from the rest of the sentence. *Davar* means
 both **word** and **thing**, a double sense Rabbi Moshe Shapiro finds especially
@@ -62,7 +62,7 @@ only in later rabbinic writing.
 - Rabbi Eliyahu HaBachur (1469 to 1549, also known as Elias Levita), in *Mesores
   HaMesores* and *Sefer HaTishbi*, notes that many treat the two as identical and
   disagrees: *milah* is the spoken word, *teivah* the written one.
-- Rabbi Yosef Teomim (1727 to 1792) differs slightly: *milah* covers both
+- Rabbi Yosef Teomim-Frankel (1727 to 1792) differs slightly: *milah* covers both
   written and spoken, while *teivah* is written only.
 
 On the etymology there are two lines.
@@ -113,7 +113,7 @@ reading.
 On the root:
 - Ibn Janach (*Sefer HaShorashim*) gives ת-ב-ה.
 - Radak (*Sefer HaShorashim*) mentions ת-י-ב as a possible alternative.
-- Following Radak, Rabbi Yosef Teomim suggests tying Aramaic ת-י-ב to Hebrew
+- Following Radak, Rabbi Yosef Teomim-Frankel suggests tying Aramaic ת-י-ב to Hebrew
   ש-ו-ב, "return" (a connection that, Rabbi Klein notes, may be justified by the
   common shift of Hebrew shin to Aramaic tav): what a person stores in a
   *teivah* he means to come back for, unlike what he leaves on the floor.
@@ -170,9 +170,9 @@ word squeezes infinite thought into a finite casing.
   106:2), and it is the Targum's standard word for *amirah*. Where a commentary
   builds on the Rokeach's sense (at length) or Rabbeinu Efrayim's (truly), bring
   that out, as at Iyov 33:3, "my lips speak knowledge clearly."
-- Rabbi Pappenheim's *milah* from מ-ל, "edge," is the etymology behind any
-  reading that links *bris milah* to speech; where a text makes that link, it is
-  his, and should be attributed rather than presented as the plain meaning.
+- Rabbi Pappenheim's *milah* from מ-ל, "edge," links *bris milah* to the word;
+  where a text makes that link on his etymology, it is his, and should be
+  attributed rather than presented as the plain meaning.
 
 ## Notes for a project
 
@@ -184,4 +184,4 @@ Rabbi Reuven Chaim Klein, "[Words for Words](https://articles.ohr.edu/articles/w
 
 Rabbi Reuven Chaim Klein, "Words for Words," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Bereishis 6 to 9; Bereishis 6:14 with Rav Hirsch; Bereishis 21:7 with Rabbeinu Efrayim; Shemos 2:3; Shmuel II 23:2; Tehillim 19:5, 106:2, 139:4; Mishlei 23:9; Iyov 8:2, 33:3; the Aramaic chapters of Daniel; *Megillah* 18a; *Yevamos* 13b; *Shabbos* 58b; *Sefer Yetzirah*; Rabbi Eliyahu HaBachur, *Mesores HaMesores* and *Sefer HaTishbi*; Rabbi Yosef Teomim; Rabbi Shlomo Zalman of Hanau; *Peirush HaRokeach* and *Siddur HaRokeach*; Rabbi Yehuda Leib Shapira-Frankfurter, *HaRechasim LeVik'ah* (בר' כא:ז מבוא בהכתב והקבלה שם); Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. מל, and *Yerios Shlomo* (עמ' 506); Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Aharon Marcus; Rabbi Shimon Yehuda Leib Goldblit, *Leshon Chachamim* (ח"א ערך תיבה); Alexander Kohut, *Aruch HaShalem* s.v. תבה; Rabbi Moshe Shapiro; Rabbi Akiva Tatz; Rabbi Matityahu Glazerson; Faigy Peritzman, *Mishpacha*, 1 April 2020; Yerushalmi *Kesubos* 2:10.
+Cited in the essay: Bereishis 6 to 9; Bereishis 6:14 with Rav Hirsch; Bereishis 21:7 with Rabbeinu Efrayim; Shemos 2:3; Shmuel II 23:2; Tehillim 19:5, 106:2, 139:4; Mishlei 23:9; Iyov 8:2, 33:3; the Aramaic chapters of Daniel; *Megillah* 18a; *Yevamos* 13b; *Shabbos* 58b; *Sefer Yetzirah*; Rabbi Eliyahu HaBachur, *Mesores HaMesores* and *Sefer HaTishbi*; Rabbi Yosef Teomim-Frankel; Rabbi Shlomo Zalman of Hanau; *Peirush HaRokeach* and *Siddur HaRokeach*; Rabbi Yehuda Leib Shapira-Frankfurter, *HaRechasim LeVik'ah* (בר' כא:ז מבוא בהכתב והקבלה שם); Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. מל, and *Yerios Shlomo* (עמ' 506); Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Aharon Marcus; Rabbi Shimon Yehuda Leib Goldblit, *Leshon Chachamim* (ח"א ערך תיבה); Alexander Kohut, *Aruch HaShalem* s.v. תבה; Rabbi Moshe Shapiro; Rabbi Akiva Tatz; Rabbi Matityahu Glazerson; Faigy Peritzman, *Mishpacha*, 1 April 2020; Yerushalmi *Kesubos* 2:10.

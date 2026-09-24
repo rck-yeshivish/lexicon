@@ -61,6 +61,11 @@ interchangeable, but in practice *shoev* is water and *shoef* air.
 - Rashi (Shemos 2:10) takes up the question over *mishisihu* and rules with the
   triliteralists, rejecting Menachem by name.
 
+Ibn Janach and Radak derive *meshi*, silk, from the same triliteral root as
+*moshe*, while Menachem Ibn Saruk traces *meshi* to a triliteral root of its
+own, מ-ש-י. Rabbi Shlomo Pappenheim accounts for the tie between *meshi* and
+*moshe*: silk is a material drawn from the body of the silkworm.
+
 **Whether moshe and moshech share a root.**
 
 - Rabbi David Chaim Chelouche brings both back to one biliteral מ-ש, "moving or

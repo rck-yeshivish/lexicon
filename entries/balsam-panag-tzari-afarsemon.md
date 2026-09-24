@@ -13,7 +13,7 @@ words:
   - he: צרי
     tr: tzari
     en: balm, balsam
-    distinct: a scented potion used medicinally, the balsam resin of Tanach and the ketores (Rambam, Bereishis Rabbah) or theriaca (Rashi); what drips from the ketaf tree (Rabban Shimon ben Gamliel), or on Ramban's reading of Rambam a piece of the tree itself
+    distinct: a scented potion used medicinally, the balsam of Tanach and the ketores (Rambam, Bereishis Rabbah) or theriaca (Rashi); what drips from the ketaf tree (Rabban Shimon ben Gamliel), or on Ramban's reading of Rambam a piece of the tree itself
   - he: נטף
     tr: nataf
     en: the dripping one
@@ -62,7 +62,7 @@ lists the two separately.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | פנג | panag | balsam oil (disputed) | disputed hapax: balsam oil (Rashi) against *pinuk*, pleasure (Tedeschi-Ashkenazi) |
-| צרי | tzari | balm, balsam | the balsam resin (Rambam) or theriaca (Rashi) |
+| צרי | tzari | balm, balsam | the balsam (Rambam) or theriaca (Rashi) |
 | נטף | nataf | the dripping one | the incense passage's name for *tzari*: sap that drips from the tree |
 | קטף | ketaf | balsam tree | the tree *tzari* drips from; the balsam tree (Rambam); Onkelos's word for *tzari* |
 | בלסם | balsam | balsam | the Rabbinic word from Greek *balsamon* (Bereishis Rabbah) |
@@ -246,8 +246,8 @@ as well.
   one list, which is Radak's objection; rendering both "balsam" silently answers
   a question the meforshim left open. Transliterate *panag*.
 - Where *bosem* and *afarsemon* stand together, keep "spices" against "balsam
-  oil": the *shemen hamishchah* recipe uses *besamim* and did not call for
-  balsam, while its informal counterpart did.
+  oil": the *shemen hamishchah* recipe uses *besamim* and apparently did not
+  call for balsam, while its informal counterpart did.
 
 ## Notes for a project
 

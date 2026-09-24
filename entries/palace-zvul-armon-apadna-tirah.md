@@ -25,7 +25,7 @@ words:
   - he: פלטין
     tr: paltin
     en: palace
-    distinct: the late Hebrew palace in the imperial sense, the cognate of English palace, from Rome's Palatium hill; or, by another derivation, from Latin praetorium, a governor's residence
+    distinct: the late Hebrew palace, the cognate of English palace, from Rome's Palatium hill; or, by another derivation, from Latin praetorium, a governor's residence
   - he: טרקלין
     tr: traklin
     en: palace
@@ -60,7 +60,7 @@ sure exactly how."
 | ארמון | armon | palace, castle | the general word, both palace and stronghold; from height (Ibn Janach) |
 | אפדנא | apadna | palace | luxury sense; in the Gemara a royal dining room (Rashi) |
 | טירה | tirah | fortress | defensive, a fortified enclosure; built to guard (Chelouche); same as *armon* (Ibn Ezra) |
-| פלטין | paltin | palace | late Hebrew imperial palace; kin to English *palace*, from Palatium |
+| פלטין | paltin | palace | late Hebrew palace; kin to English *palace*, from Palatium |
 | טרקלין | traklin | palace | the Mishnah's word, entered from the *prozdor* (Avos 4:16) |
 
 ## Distinctions

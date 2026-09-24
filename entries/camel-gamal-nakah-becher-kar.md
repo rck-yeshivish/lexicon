@@ -39,11 +39,11 @@ updated: 2026-09-22
 These words name stages and kinds of camel. *Becher* (masculine) and *bichrah*
 (feminine) are the **young camel**, newly born and not yet able to carry loads;
 grown, it becomes *gamal* for a male and *nakah* for a female (Rabbi Nosson of
-Rome, *Sefer HeAruch*). *Gamal* is the default word and can cover females too
-when no distinction is being drawn; to mark the she-camels Yaakov sends Esav,
-the pasuk says *gemalim meinikos*, nursing camels (Bereishis 32:16). *Kar* and
-*kirkaros* are disputed, and each has readings that make it something other than
-a camel.
+Rome, *Sefer HeAruch*). *Gamal* is masculine in form but can include females too
+(*Sefer HeAruch*; Rabbi Yitzchak Avineri); to mark the she-camels Yaakov sends
+Esav, the pasuk says *gemalim meinikos*, nursing camels (Bereishis 32:16). *Kar*
+and *kirkaros* are disputed, and each has readings that make it something other
+than a camel.
 
 ## At a glance
 
@@ -114,7 +114,9 @@ All three are live.
   *gamar*, "finishing," on the lamed/reish interchange: a toddler or a fruit is
   weaned only on completing its term of growth, a debt is typically repaid only
   when the loan reaches maturity (see Bava Basra 5b), and perhaps the camel too,
-  which functions in the desert once it has finished drinking.
+  which functions in the desert once it has finished drinking. Rabbi Klein adds
+  that the ideas of recompense or completion are possibly reflected in the camel's
+  essential role in transport, sustenance and trade in harsh desert conditions.
 - Rabbi Yehudah Aryeh of Carpentras (*Aholei Yehudah*) offers several
   etymologies; the best, to Rabbi Klein, is a compound: *gav* (body, inside)
   plus *maleh* (full), the beast that fills itself before a long crossing. Rabbi
@@ -209,11 +211,12 @@ Bava Kamma 80a).
 - Trap: "camel" alone will absorb *gamal*, *nakah*, *becher*, and *bichrah*.
   Where the age or sex is doing work, write "she-camel," "young camel," "young
   she-camel."
-- Bereishis 32:16 lists *gemalim meinikos* and their young against thirty male
-  camels. Render the first "nursing she-camels," not "camels," or Yaakov's gift
-  loses its structure.
+- Bereishis 32:16 sends thirty female camels, *gemalim meinikos*, and thirty
+  male camels. Render the first "nursing she-camels," not "camels," or Yaakov's
+  gift loses its structure.
 - Yirmiyahu 2:23: *bichrah kalah* is "a swift young she-camel." "Young camel"
-  drops the feminine, and with it Rashi's point about a beast never yoked.
+  drops the feminine, and with it Rashi's point about a beast not used to heavy
+  burdens.
 - *Kar* in Bereishis 31:34 must be the saddle-basket, since Rachel sits on it.
   *Kar* in Yeshayahu 16:1 is disputed; do not silently harmonize the two.
 - Do not press *gamal* into "dromedary" or "Bactrian." Tanach does not mark the

@@ -17,7 +17,7 @@ words:
     distinct: the bone as one part within a larger frame, whence a single step of a staircase (Metzudas Tzion to Melachim II 9:13) and causation (Rav Hirsch); for the Vilna Gaon the hollow interior where the marrow sits
 sources:
   - wiaw:10785 "Them Bones and Themselves" (2023-01-07) https://articles.ohr.edu/articles/them-bones-and-themselves
-authorities: [Menachem Ibn Saruk, Rashi, Ralbag, Ramban, Rav Hirsch, Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Yaakov Emden, Rabbi Eliyahu HaBachur, Rambam, Rabbi Tanchum HaYerushalmi, Rabbeinu Bachaya, Metzudas Tzion, Tosafos, Rabbi David Chaim Chelouche]
+authorities: [Menachem Ibn Saruk, Rashi, Ralbag, Ramban, Rav Hirsch, Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Yaakov Emden, Rabbi Eliyahu HaBachur, Rambam, Rabbi Tanchum HaYerushalmi, Rabbeinu Bachya, Metzudas Tzion, Tosafos, Rabbi David Chaim Chelouche]
 updated: 2026-09-10
 ---
 # Bone: etzem / gerem
@@ -73,7 +73,7 @@ gazelle (49:21), Binyamin to a wolf (49:27). What, then, did he call Yissachar?
 
 1. **A strong-boned donkey.** Rashi: *garem* is *etzem*, so the blessing is a
    strong donkey able to bear heavy burdens, fitting a tribe of talmidei
-   chachamim who take on the yoke of Torah (see also Rabbeinu Bachaya there).
+   chachamim who take on the yoke of Torah (see also Rabbeinu Bachya there).
    Rabbi Yaakov Emden reaches the same result from causation: the bones are the
    frame on which the body stands, so they cause the animal's stoutness.
 2. **A bony donkey.** Ralbag, exactly the reverse: a donkey so poorly fed that

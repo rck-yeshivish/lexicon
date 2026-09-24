@@ -9,7 +9,7 @@ words:
   - he: חטא
     tr: chet
     en: sin, inadvertent sin
-    distinct: the general and lightest word; inadvertent (Gemara, Peirush HaRokeach); a lack, failing a positive mitzvah (Vilna Gaon); a goal missed (Rabbi Moshe Shapiro); knowingly indulging physical temptation (Malbim); alone, any sin (Rabbi Netanel Weil); the sins of youth, before the mind rules (Radak); also the punishment that follows (HaKsav VeHaKabbalah)
+    distinct: the lightest word; inadvertent (Gemara, Peirush HaRokeach); a lack, failing a positive mitzvah (Vilna Gaon); a goal missed (Rabbi Moshe Shapiro); knowingly indulging physical temptation (Malbim); alone, any sin (Rabbi Netanel Weil); the sins of youth, before the mind rules (Radak); also the punishment that follows (HaKsav VeHaKabbalah)
   - he: עון
     tr: avon
     en: iniquity
@@ -34,12 +34,13 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Chet* is the general and lightest word, **sin**; set beside the other two, it
-is the **inadvertent sin** (*shogeg*). *Avon* is **iniquity**, the wanton or
+*Chet*, **sin**, is the lightest of the three; set beside the other two, it is
+the **inadvertent sin** (*shogeg*). *Avon* is **iniquity**, the wanton or
 intentional sin (*meizid*). *Pesha* is the **rebellious sin**, done to defy
 Hashem. That is how the Gemara grades them (*Yoma* 36b), and the *vidui*
 confesses them in that ascending order: "I have sinned, I have done iniquity, I
-have rebelled." Rabbi Netanel Weil writes that the difference between *chet* and
+have rebelled." Malbim and *Peirush HaRokeach* each divide them slightly
+differently. Rabbi Netanel Weil writes that the difference between *chet* and
 *avon* shows only when the two stand together; alone, either one takes in every
 kind of sin and means simply "sin." *Aveirah*, the Rabbinic catch-all, is
 **transgression**.
@@ -179,7 +180,7 @@ of inadvertency or of pure wantonness.
   Keep the ascending order; never collapse two of them into "sin."
 - Standalone: *chet* is "sin"; *avon* is "sin" too (Weil), and "iniquity" only
   where the text sets it against *chet*; *pesha* alone is "rebellious sin" or
-  "willful transgression," so the defiance stays audible.
+  "willful sin," so the defiance stays audible.
 - *Chet* is "inadvertent," not "accidental" or "a mistake": the *vidui*
   confesses it, and Rabbi Moshe Shapiro reads it as a goal missed.
 - Trap: "sin" absorbs all three, and "transgression" is ambiguous between

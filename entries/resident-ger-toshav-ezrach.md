@@ -9,15 +9,15 @@ words:
   - he: גר
     tr: ger
     en: sojourner
-    distinct: cut off from his place of origin and living somewhere temporarily, the opposite of both ezrach and toshav (Wertheimer); detachment from one's roots (Rav Hirsch, Ibn Ezra); primarily one who repudiates avodah zarah (Rabbi Eliyahu HaBachur)
+    distinct: cut off from his place of origin and living somewhere temporarily, the opposite of both ezrach and toshav (Wertheimer); detachment from one's roots (Rav Hirsch, Ibn Ezra); not born there, and with no fixed dwelling to settle in all his life (Pappenheim); primarily one who repudiates avodah zarah (Rabbi Eliyahu HaBachur)
   - he: תושב
     tr: toshav
     en: resident
-    distinct: the settled resident there for the long term, from י-ש-ב, sitting and settling (Radak); a permanent dwelling with no need to return elsewhere (Pappenheim); settling where one owns or has rights to the land, against gar who does not (Rabbi Shmuel Modiliano)
+    distinct: the settled resident there for the long term, from י-ש-ב, sitting and settling (Radak); a permanent dwelling with no need to return elsewhere, the toshav being one not born there who has settled as one of the natives (Pappenheim); settling where one owns or has rights to the land, against gar who does not (Rabbi Shmuel Modiliano)
   - he: אזרח
     tr: ezrach
     en: native, citizen
-    distinct: the native whose identity and family are out in the open, as light makes all visible, from ז-ר-ח, shining (Radak); the easterner properly oriented within civilization, hence citizen (Rabbi David Chaim Chelouche); the Jewish inhabitant of the land, against Reggio's native Canaanite (Benamozegh); from Eisan HaEzrachi (Zini)
+    distinct: the native whose identity and family are out in the open, as light makes all visible, from ז-ר-ח, shining (Radak); one born in the land, present where he first appeared, from zerichah as a thing's first appearance (Pappenheim); the easterner properly oriented within civilization, hence citizen (Rabbi David Chaim Chelouche); the Jewish inhabitant of the land, against Reggio's native Canaanite (Benamozegh); from Eisan HaEzrachi (Zini)
   - he: זר
     tr: zar
     en: stranger
@@ -26,8 +26,8 @@ words:
 sources:
   - wiaw:9199 "Behar - Bechukotai: Settled Citizens" (2021-05-08) https://articles.ohr.edu/articles/behar-bechukotai-settled-citizens
   - ms:209-settled-citizens.md "Settled Citizens"
-authorities: [Malbim, Rav Hirsch, Ibn Ezra, Rabbi Yaakov Tzvi Mecklenburg, Radak, Rabbi Moshe Kimchi, Rabbi Yosef Kimchi, Menachem Ibn Saruk, Yonah Ibn Janach, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Eliyahu HaBachur, Rashi, Ramban, Mizrachi, Rabbi Yisrael Yaakov Algazi, Rabbi Shmuel Modiliano, Rabbi David Chaim Chelouche, Shadal, Rabbi Eliyahu Benamozegh, Rabbi Yitzchak Shmuel Reggio, Rabbi Dr. Eliyahu Rachamim Zini]
-updated: 2026-09-22
+authorities: [Malbim, Rav Hirsch, Ibn Ezra, Rabbi Yaakov Tzvi Mecklenburg, Radak, Rabbi Moshe Kimchi, Rabbi Yosef Kimchi, Menachem Ibn Saruk, Yonah Ibn Janach, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Eliyahu HaBachur, Rashi, Ramban, Mizrachi, Rabbi Yisrael Yaakov Algazi, Rabbi Shmuel Modiliano, Rabbi David Chaim Chelouche, Shadal, Rabbi Eliyahu Benamozegh, Rabbi Yitzchak Shmuel Reggio, Rabbi Dr. Eliyahu Rachamim Zini, Giambattista Vico]
+updated: 2026-09-24
 ---
 # Resident: ger / toshav / ezrach (zar)
 
@@ -46,9 +46,9 @@ the *ger v'toshav* of Vayikra 25:35 as one person, a *ger toshav*.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| גר | ger | sojourner | temporary, cut off from his roots (Rav Hirsch); opposite of *ezrach* and *toshav* (Wertheimer) |
-| תושב | toshav | resident | settled long-term resident (Radak); owns or has rights to the land (Modiliano) |
-| אזרח | ezrach | native, citizen | native whose family is known to all, from shining (Radak); easterner, hence citizen (Chelouche); the Jewish inhabitant of the land, against Reggio's native Canaanite (Benamozegh); from Eisan HaEzrachi (Zini) |
+| גר | ger | sojourner | temporary, cut off from his roots (Rav Hirsch); opposite of *ezrach* and *toshav* (Wertheimer); not born there, with no fixed dwelling (Pappenheim) |
+| תושב | toshav | resident | settled long-term resident (Radak); not born there but settled as a native (Pappenheim); owns or has rights to the land (Modiliano) |
+| אזרח | ezrach | native, citizen | native whose family is known to all, from shining (Radak); born in the land, where he first appeared (Pappenheim); easterner, hence citizen (Chelouche); the Jewish inhabitant of the land, against Reggio's native Canaanite (Benamozegh); from Eisan HaEzrachi (Zini) |
 | זר | zar | stranger | the plain stranger; akin to *ger* by the zayin-gimmel interchange (Rabbi Klein) |
 
 ## Distinctions
@@ -73,12 +73,43 @@ far from it (Bereishis 15:13, Shemos 18:3) or near (Shoftim 19:1, 19:16).
   his newfound land and community; and from *girui*, irritation or instigation,
   for the *ger*'s knack for instigating a fight against his natural desires and
   overcoming them.
+- Rabbi Shlomo Pappenheim (*Cheshek Shlomo* s.v. גר) takes the noun *ger*
+  (Bereishis 15:13, 23:4; Vayikra 16:29) from *gerirah*, dragging, as said of a
+  living being. It describes one who sojourns in a land not his own, the
+  opposite of the *ezrach*, who is born in the land where he is: a *ger* is one
+  not born here who also has no fixed dwelling in which to settle all the days
+  of his life.
+- Giambattista Vico (1668 to 1744), the Italian philosopher and historian, held
+  that primitive man was at first a loner, each man living by himself in the
+  wild without social or family bonds, until Hashem brought much lightning and
+  thunder, which frightened men into hiding from the inclement weather in caves
+  and tunnels. So they came to dwell in the same shelters, and from that came
+  family life and the convention of man and wife living in one home. Rabbi
+  Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 12:10) takes this a step
+  further: the themes of Vico's account are all present in the root ג-(ו)-ר,
+  whose words variously mean fear (Iyov 19:29), dwelling, and social grouping
+  (Tehillim 59:4).
 
 The temporariness is rabbinic tradition. Yosef's brothers
 tell Pharaoh they came *lagur* in Mitzrayim (Bereishis 47:4), and the Haggadah
 reads that as coming only to escape the famine, never to settle. Rabbi Shlomo
 Aharon Wertheimer adds Yaakov's *garti* for his fourteen years in Lavan's house
 (Bereishis 32:5), which he never intended and only circumstances imposed.
+Rabbi Shlomo Pappenheim likewise takes the verb (*vayagar Avraham*, Bereishis
+21:34; *ha'echad ba lagur*, 19:9; *lagur ba'aretz banu*, 47:4; *eretz
+megureihem*, Shemos 6:4) as the language of a dwelling that is not fixed,
+though it is sometimes said of a fixed dwelling too: *agurah v'ohalcha olamim*
+(Tehillim 61:5), *lo yosifu lagur* (Eichah 4:15). From dwelling he also takes
+*gur*, the young of beasts of prey (Yechezkel 19:2; Eichah 4:3): the cub
+dwells in its den and hole and does not yet go out roaming the land for prey,
+since the grown ones bring it food. So the lioness brings up one of her cubs
+from the den and it grows into a *kfir*, the one that roams the villages
+(*kfarim*) to find sustenance, and afterwards learns to prey (Yechezkel 19:3).
+The tribes are likened for preying to a *gur aryeh* (Bereishis 49:9), a young
+lion, because the young lion is keener at preying than the old, although as
+long as it is a *gur* it does not usually prey. For Rav Hirsch, by contrast, the
+*gur* is the cub newly weaned and detached from its mother, left to fend for
+itself.
 
 Targum generally renders *ger* as *dayar* (Targum Onkelos to Devarim 10:19 is a
 notable exception), a word with Aramaic relatives (Daniel 2:11, 4:9, 4:32,
@@ -109,6 +140,8 @@ means a *ger toshav*.
   Pappenheim defines as returning or reverting to a former place or status: a
   *yeshivah* is a permanent dwelling that removes any need to return elsewhere,
   and a *toshav* is the permanent resident who engages in *yeshivah*.
+- Rabbi Shlomo Pappenheim again (*Cheshek Shlomo* s.v. גר): a *toshav* is one
+  not born here who has taken up his dwelling as one of the natives of the land.
 
 Rabbi Yisrael Yaakov Algazi (1680-1757) cites a
 fascinating responsum by Rabbi Shmuel Modiliano, who *argues* that they divide
@@ -130,6 +163,18 @@ that his descendants would remain there even after his death.
   and in *Sefer HaShorashim*): as light makes everything visible, an *ezrach* is
   one whose identity and family are out in the open, against the *ger*, whose
   origins stay unknown.
+- Rabbi Shlomo Pappenheim (*Cheshek Shlomo* s.v. גר) also takes it from
+  *zerichah*, but in the sense that the verb *zarach* marks the first revealing
+  of any thing, as *v'hatzaraas zarchah b'mitzcho* (Divrei HaYamim II 26:19). So
+  the sun's first appearance on the horizon is called *mizrach*, *mizrach
+  hashemesh* (Yehoshua 1:15), and *zerichah* is said not of the sun once it is
+  already shining on the earth but only of its first coming out on the horizon.
+  One who lives in the land of his birth is therefore an *ezrach*, present in the
+  place of his *zerichah*, his first appearance in the world. *Umisareh k'ezrach
+  raanan* (Tehillim 37:35) means the *ezrach* of a fresh tree, that is, like its
+  *zerichah* and first appearance, for from the very start of its growth it is
+  thick and coarse and full of branches; there, he says, *ezrach* qualifies the
+  verb and is not a noun.
 - Bava Basra 15a has Avraham writing in Tehillim under the name Eisan HaEzrachi,
   and Targum (to Tehillim 89:1) explains the title as marking that he came from
   the east, *mizrach*, itself from ז-ר-ח because the sun begins to shine there.
@@ -206,4 +251,4 @@ Rabbi Reuven Chaim Klein, "[Behar - Bechukotai: Settled Citizens](https://articl
 
 Rabbi Reuven Chaim Klein, "Settled Citizens," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Bereishis 12:14, 15:13, 23:4, 32:5, 47:4; Shemos 12:45, 18:3, 20:10, 23:12; Vayikra 16:29, 18:26, 25:35, 25:47; Bamidbar 15:29, 15:30; Devarim 10:19, 14:21; Shoftim 19:1, 19:16; Yechezkel 25:7; Tehillim 37:35, 89:1; Daniel 2:11, 4:9, 4:32, 5:21; Mishnah *Eruvin* 2:5, 5:1, *Kesubos* 12:3, *Bava Basra* 1:5, *Avodah Zarah* 1:9; Yevamos 48b; Kiddushin 20a; Gittin 57b; Bava Kamma 113b; Bava Metzia 71a, 111b; Bava Basra 15a; Sanhedrin 96b; Avodah Zarah 64b; Arachin 30b; the Haggadah; Targum Onkelos to Devarim 10:19; Targum to Tehillim 89:1; Rashi to Shemos 12:45, 23:12 and Devarim 14:21; Ramban to Shemos 20:10; Mizrachi; *Rashba Meyuchas L'Ramban* 257; Malbim, *Sefer HaCarmel* s.v. גר; Rav Hirsch to Bereishis 12:14 and 23:4; Ibn Ezra to Bereishis 15:13, 23:4 and Tehillim 37:35; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Menachem Ibn Saruk; Ibn Janach; Radak, *Sefer HaShorashim* s.v. ישב and s.v. זרח, and to Tehillim 37:35 and Yechezkel 25:7; Rabbi Moshe Kimchi; Rabbi Yosef Kimchi, *Sefer Zikaron*; Rabbi Shlomo Pappenheim; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. גור/שכן/דור/זבול, גר/גר תושב /גר בש and / גר אשר בארצך / נכרי; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* s.v. גר; Rabbi Yisrael Yaakov Algazi; Rabbi Shmuel Modiliano; Rabbi David Chaim Chelouche, *Michtam LeDavid* (תהלים פט:א, לוח השרשים ערך אזרח); Shadal, *Ohev Ger*; Benamozegh, *Eim LaMikra* to Shemos 12:49 and Vayikra 19:34, with Zini's comments.
+Cited in the essay: Bereishis 12:14, 15:13, 19:9, 21:34, 23:4, 32:5, 47:4, 49:9; Shemos 6:4, 12:45, 18:3, 20:10, 23:12; Vayikra 16:29, 18:26, 25:35, 25:47; Bamidbar 15:29, 15:30; Devarim 10:19, 14:21; Yehoshua 1:15; Shoftim 19:1, 19:16; Yechezkel 19:2, 19:3, 25:7; Tehillim 37:35, 59:4, 61:5, 89:1; Iyov 19:29; Eichah 4:3, 4:15; Daniel 2:11, 4:9, 4:32, 5:21; Divrei HaYamim II 26:19; Mishnah *Eruvin* 2:5, 5:1, *Kesubos* 12:3, *Bava Basra* 1:5, *Avodah Zarah* 1:9; Yevamos 48b; Kiddushin 20a; Gittin 57b; Bava Kamma 113b; Bava Metzia 71a, 111b; Bava Basra 15a; Sanhedrin 96b; Avodah Zarah 64b; Arachin 30b; the Haggadah; Targum Onkelos to Devarim 10:19; Targum to Tehillim 89:1; Rashi to Shemos 12:45, 23:12 and Devarim 14:21; Ramban to Shemos 20:10; Mizrachi; *Rashba Meyuchas L'Ramban* 257; Malbim, *Sefer HaCarmel* s.v. גר; Rav Hirsch to Bereishis 12:14 and 23:4; Ibn Ezra to Bereishis 15:13, 23:4 and Tehillim 37:35; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Menachem Ibn Saruk; Ibn Janach; Radak, *Sefer HaShorashim* s.v. ישב and s.v. זרח, and to Tehillim 37:35 and Yechezkel 25:7; Rabbi Moshe Kimchi; Rabbi Yosef Kimchi, *Sefer Zikaron*; Rabbi Shlomo Pappenheim, including *Cheshek Shlomo* s.v. גר; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. גור/שכן/דור/זבול, גר/גר תושב /גר בש and / גר אשר בארצך / נכרי; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* s.v. גר; Rabbi Yisrael Yaakov Algazi; Rabbi Shmuel Modiliano; Rabbi David Chaim Chelouche, *Michtam LeDavid* (תהלים פט:א, לוח השרשים ערך אזרח); Shadal, *Ohev Ger*; Benamozegh, *Eim LaMikra* to Bereishis 12:10, Shemos 12:49 and Vayikra 19:34, with Zini's comments; Giambattista Vico.

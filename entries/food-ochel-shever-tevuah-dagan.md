@@ -39,7 +39,7 @@ words:
     tr: shever
     en: provisions
     nk: שֶׁבֶר
-    distinct: grain that breaks the famine (Radak, Meiri); food as a purchased commodity (Ibn Saruk, Peirush HaRokeach, Rabbeinu Bachaya); grain with its chaff, alluding to bad and good together (Rabbeinu Bachaya)
+    distinct: produce that breaks the famine (Radak, Meiri); food as a purchased commodity (Ibn Saruk, Peirush HaRokeach, Rabbeinu Bachya); grain with its chaff, alluding to bad and good together (Rabbeinu Bachya)
   - he: עבור
     tr: avur
     en: grain
@@ -48,7 +48,7 @@ sources:
   - wiaw:8546 "A Biblical Feast" (2020-01-04) https://articles.ohr.edu/articles/a-biblical-feast
   - wiaw:9228 "Fishy Words (Part 1/2)" (2021-05-29) https://articles.ohr.edu/articles/fishy-words-part-12
   - ms:069-a-biblical-feast.md "A Biblical Feast"
-authorities: [Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Menachem Ibn Saruk, Ibn Chayyuj, Ibn Janach, Radak, Rav Hirsch, Meiri, Rabbeinu Bachaya, Peirush HaRokeach, Rabbi Yitzchok of Volozhin, Ramban, Rabbi Yehuda HaChassid, Rabbi Avraham Rivlin, Rabbi Yechezkel Weinfeld, Targum Onkelos, Targum Yonasan, Seder Berachos]
+authorities: [Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Menachem Ibn Saruk, Ibn Chayyuj, Ibn Janach, Radak, Rav Hirsch, Meiri, Rabbeinu Bachya, Peirush HaRokeach, Rabbi Yitzchok of Volozhin, Ramban, Rabbi Yehuda HaChassid, Rabbi Avraham Rivlin, Rabbi Yechezkel Weinfeld, Targum Onkelos, Targum Yonasan, Seder Berachos]
 updated: 2026-09-22
 ---
 # Food: ochel / mazon / yevul / tevuah / tenuvah / dagan / bar / shever
@@ -59,9 +59,9 @@ updated: 2026-09-22
 food that actually nourishes. *Dagan* is threshed **grain**, and *bar* is grain
 **cleaned of its chaff**. The other four are words for produce. *Tevuah* is
 **crop**, what comes forth, ripe or not, while *tenuvah* is **ripe produce**.
-*Yevul* is **produce** seen as perishable, and *shever* is **provisions**, grain
-bought in a famine. Onkelos renders *ochel*, *bar*, *shever* and *dagan* all as
-*avur*.
+*Yevul* is **produce** seen as perishable, and *shever* is **provisions**,
+produce bought in a famine. Onkelos renders *ochel*, *bar*, *shever* and *dagan*
+all as *avur*.
 
 ## At a glance
 
@@ -74,7 +74,7 @@ bought in a famine. Onkelos renders *ochel*, *bar*, *shever* and *dagan* all as
 | תנובה | tenuvah | ripe produce | fully developed, ripe produce, like *niv sefasayim* (Pappenheim) |
 | דגן | dagan | grain | the five grains, reaped and heaped (Wertheimer); from ד-ג, fecundity (Pappenheim); grain threshed and winnowed (Seder Berachos) |
 | בר | bar | grain cleaned of its chaff | grain separated from its chaff (Pappenheim, Rabbi Yitzchok of Volozhin) |
-| שבר | shever | provisions | grain that breaks the famine (Radak); a purchased commodity (Rabbeinu Bachaya) |
+| שבר | shever | provisions | produce that breaks the famine (Radak); a purchased commodity (Rabbeinu Bachya) |
 | עבור | avur | grain | Onkelos's one word for them all; last year's grain (Radak) |
 
 ## Distinctions
@@ -167,14 +167,14 @@ The word seems to derive from the triliteral ש-ב-ר, breaking.
 - *Peirush HaRokeach* connects *shever* to *sever*, hope, since men look to
   Hashem trustingly and hopefully while He gives them their food (Tehillim
   145:15).
-- Ibn Saruk, *Peirush HaRokeach* and Rabbeinu Bachaya all take *shever* as food
-  regarded as a purchased commodity; Rabbeinu Bachaya says the word implies a
+- Ibn Saruk, *Peirush HaRokeach* and Rabbeinu Bachya all take *shever* as food
+  regarded as a purchased commodity; Rabbeinu Bachya says the word implies a
   sale, which is seen in rabbinic Hebrew, where *shover* is a receipt, attesting
   to payment and so breaking a litigant's ability to claim a debt. (In Modern
   Hebrew *shover* is a voucher and *kabbalah* is the receipt.)
 - Rabbi Avraham Rivlin points out that *shever* thus carries two diametrically
   opposed senses at once, breaking or destroying and building or sustaining.
-- Rabbeinu Bachaya adds that Yaakov asked his sons for *shever* rather than
+- Rabbeinu Bachya adds that Yaakov asked his sons for *shever* rather than
   *ochel* or *bar* because *shever* implies the edible grain together with its
   chaff, alluding to them that in time they would endure the bad, the exile in
   which they would be broken as a people, along with the good.
@@ -203,7 +203,7 @@ Yehoshua 5:11, where Radak reads it as last year's grain.
   grain with the seed still in, not maize. "Corn" is a false friend; use
   "grain."
 - *Shever* in the Yosef narrative is a purchase, not a gift. "To buy provisions"
-  keeps Rabbeinu Bachaya's sense of a sale; "to get food" loses it.
+  keeps Rabbeinu Bachya's sense of a sale; "to get food" loses it.
 
 ## Notes for a project
 
@@ -217,4 +217,4 @@ Rabbi Reuven Chaim Klein, "[Fishy Words (Part 1/2)](https://articles.ohr.edu/art
 
 Rabbi Reuven Chaim Klein, "A Biblical Feast," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: *Chuppas Eliyahu*; *Pirkei Rabbeinu HaKadosh*; Bereishis 41:35, 41:49, 41:56, 42:1, 45:23; Shemos 3:2, 24:17; Devarim 2:28, 7:13, 32:13, 32:42; Yehoshua 5:11; Yeshayahu 57:19; Yirmiyahu 46:10; Amos 8:5; Tehillim 145:15; Mishlei 3:14, 10:3, 10:16, 18:20; Yerushalmi *Kilayim* 7:5; *Berachos* 47b with Rashi; Targum Onkelos; Targum Yonasan to Amos 8:5; Radak, *Sefer HaShorashim*, and to Yehoshua 5:11, Bereishis 41:56, Amos 8:5; Meiri to Mishlei 10:3; Ramban to Bereishis 41:49; Rabbeinu Bachaya on the Yosef narrative; *Peirush HaRokeach*; Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Menachem Ibn Saruk; Ibn Chayyuj; Ibn Janach; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. תבואה\דגן; Rav Hirsch; Rabbi Yehuda HaChassid; Rabbi Yitzchok of Volozhin; Rabbi Avraham Rivlin; Rabbi Yechezkel Weinfeld; the King James Version; *Seder Berachos*, beginning.
+Cited in the essay: *Chuppas Eliyahu*; *Pirkei Rabbeinu HaKadosh*; Bereishis 41:35, 41:49, 41:56, 42:1, 45:23; Shemos 3:2, 24:17; Devarim 2:28, 7:13, 32:13, 32:42; Yehoshua 5:11; Yeshayahu 57:19; Yirmiyahu 46:10; Amos 8:5; Tehillim 145:15; Mishlei 3:14, 10:3, 10:16, 18:20; Yerushalmi *Kilayim* 7:5; *Berachos* 47b with Rashi; Targum Onkelos; Targum Yonasan to Amos 8:5; Radak, *Sefer HaShorashim*, and to Yehoshua 5:11, Bereishis 41:56, Amos 8:5; Meiri to Mishlei 10:3; Ramban to Bereishis 41:49; Rabbeinu Bachya on the Yosef narrative; *Peirush HaRokeach*; Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Menachem Ibn Saruk; Ibn Chayyuj; Ibn Janach; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. תבואה\דגן; Rav Hirsch; Rabbi Yehuda HaChassid; Rabbi Yitzchok of Volozhin; Rabbi Avraham Rivlin; Rabbi Yechezkel Weinfeld; the King James Version; *Seder Berachos*, beginning.

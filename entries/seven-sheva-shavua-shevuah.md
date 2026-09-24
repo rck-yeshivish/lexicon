@@ -31,8 +31,9 @@ words:
 sources:
   - wiaw:9694 "The Year of Seven (Part 2 of 2)" (2022-05-21) https://articles.ohr.edu/articles/the-year-of-seven-part-2-of-2
   - wiaw:7758 "Stop! It's Shavuot!" (2018-05-19) https://articles.ohr.edu/articles/stop-itas-shavuot
-authorities: [Ibn Ezra, Ramban, Rashi, Rasag, Ralbag, Targum Onkelos, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Rav Hirsch, Sefer HaChinuch, Rabbi Moshe Elyakim Briah Hopstein, Rabbi Alter HaLevi Hilowitz, Rabbi Moshe Zuriel, Rabbi Yitzchok Avigdor Lubchansky, Shelah, Brown-Driver-Briggs]
-updated: 2026-09-10
+  - ms:206-the-seventh-year-of-slipping-away.md "The Seventh Year of Slipping Away"
+authorities: [Ibn Ezra, Ramban, Rashi, Rasag, Ralbag, Targum Onkelos, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Rav Hirsch, Sefer HaChinuch, Rabbi Moshe Elyakim Briah Hopstein, Rabbi Alter HaLevi Hilowitz, Rabbi Moshe Zuriel, Rabbi Yitzchok Avigdor Lubchansky, Shelah, Brown-Driver-Briggs, Maharal, Rabbi Eliyahu Menachem Margulies, Vayikra Rabbah]
+updated: 2026-09-24
 ---
 # Seven: sheva / sheviis / shavua / shabbos / shevuah
 
@@ -40,11 +41,13 @@ updated: 2026-09-10
 
 *Sheviis*, "the seventh," is the Sabbatical year, and it is the Mishnah's usual
 word for it. *Shavua* is a **week**, but in several mishnayos, and seemingly
-throughout Daniel, it is a **seven-year cycle**. *Shabbos* is the day, and by
-synecdoche the **week** it closes (Ramban), and the Sabbatical **year** itself.
-*Shevuah* is an **oath**; most of the authorities Rabbi Klein brings tie it to
-*sheva*, though they differ on why. *Sheva* itself is not always the number:
-Rasag renders it "much" at Bereishis 4:24 and "many" at Mishlei 24:16.
+throughout Daniel, it is a **seven-year cycle**. *Shabbos* is the day and the
+Sabbatical **year**, and by synecdoche the **week** the day closes (Ramban),
+though Rabbi Mecklenburg objects that nowhere else in Tanach does it mean a
+week, and reads it in Vayikra 23 as cessation. *Shevuah* is an **oath**; most of
+the authorities Rabbi Klein brings tie it to *sheva*, though they differ on why.
+*Sheva* itself is not always the number: Rasag renders it "much" at Bereishis
+4:24 and "many" at Mishlei 24:16.
 
 ## At a glance
 
@@ -77,6 +80,10 @@ Rasag renders it "much" at Bereishis 4:24 and "many" at Mishlei 24:16.
   *shabbos* mean week, and reads it there in its plain sense of ceasing: between
   the Omer on the second day of Pesach and the Two Loaves on Shavuos no new grain
   is used in the Mikdash, so those weeks may be characterized as a cessation.
+  The Torah says *shabbasos* in Parshas Emor to allude to that stopping of
+  offerings from the new grain, and he says a *chiddush*: even new barley is not
+  brought between the sixteenth of Nissan and Shavuos, which bears in practice
+  on the *minchas sotah*.
 
 **Shabbos or shavua, when both mean week.**
 
@@ -89,8 +96,13 @@ Rasag renders it "much" at Bereishis 4:24 and "many" at Mishlei 24:16.
   heretical Tzedoki position; on his account the name Shavuos lends credence to
   it, and that is why Chazal refrained from using it and called the festival
   *Atzeres* instead.
+- Mecklenburg's own reading runs against Hilowitz's. Parshas Emor says
+  *shabbasos* (Vayikra 23:15-16) for the cessation of offerings from the new
+  grain; Parshas Re'eh says *shavuos* (Devarim 16:9) because from *shabbasos*
+  alone one would have understood weeks that begin on Sunday, so there the Torah
+  makes clear with *shavuos* that any kind of week is meant.
 
-**Why an oath is a shevuah.** Five accounts:
+**Why an oath is a shevuah.** Six accounts:
 
 1. **Sevenfold strengthening.** Rava rules that saying "no, no" or "yes, yes" is
    an oath (*Shevuos* 36a), which Rashi explains as strengthening by repetition,
@@ -126,12 +138,32 @@ Rasag renders it "much" at Bereishis 4:24 and "many" at Mishlei 24:16.
    *seviah*, being satisfied, since swearing in Hashem's name is a way of
    clinging to Him, and the righteous are not satisfied until they cling to Him
    entirely.
+6. **Tying the claim to This World's higher purpose.** Maharal (*Derech Chaim*
+   to Avos 5:15) sets out three worlds, each with its number: This World, which
+   we experience, is four; the Highest World, the Divine world of direct
+   emanations from Hashem, is ten; and the Middle World, the celestial world of
+   the *mazalos*, which joins This World to the Highest World as the conduit for
+   Hashem's influx of *shefa*, is seven. Lying between four and ten, seven also
+   connotes connecting This World to a higher purpose, a man using his free will
+   to choose goodness and holiness, and following such connections reveals the
+   true purpose of This World. Rabbi Eliyahu Menachem Margulies (*Emunas
+   Eliezer*, *Yerach HaEisanim* ch. 9, and see ch. 18) notes that the Torah, in
+   giving the etymology of the place-name Be'er Sheva, shows a connection
+   between *sheva* and *shevuah*: "therefore he called that place Be'er Sheva
+   [literally, the seventh well], because there they both swore" (Bereishis
+   21:31). On the Maharal's basis he explains that one who takes an oath ties
+   his undertaking or his truth-claim to the goals of This World that *sheva*
+   represents.
 
 Rabbi Yitzchok Avigdor Lubchansky of Milwaukee notes that the mitzvah
 to swear in Hashem's name, as against the name of any other deity (Devarim
 6:13, 10:20), is listed as the seventh positive commandment in Rambam's
 reckoning of the 613, which illustrates the tie again between Hashem, swearing
 and the number seven.
+
+Tishrei is called the seventh month, and the Midrash (*Vayikra Rabbah* 29:9)
+ties that ordinal to *shevuah*, since it was in that month that Hashem swore to
+Avraham at the Akeidah.
 
 **Is sheva always the number?**
 
@@ -218,4 +250,6 @@ Rabbi Reuven Chaim Klein, "[The Year of Seven (Part 2 of 2)](https://articles.oh
 
 Rabbi Reuven Chaim Klein, "[Stop! It's Shavuot!](https://articles.ohr.edu/articles/stop-itas-shavuot)" *What's in a Word?*, Ohr Somayach, 19 May 2018.
 
-Cited in the essay: Bereishis 4:24 with Rasag's *Tafsir*, 21:23-33 with Rav Hirsch to 21:23 and Ibn Ezra to 21:31, 24:9 with Targum Onkelos, 29:27-28; Shemos 23:11; Vayikra 12:5, 23:15-16 with Ibn Ezra, Ramban and Targum Onkelos, 25:2, 25:4, 25:6, 25:8, 25:20, 26:18, 26:24, 26:28, 26:34-35; Bamidbar 30:3 with Ramban; Devarim 6:13, 10:20, 15:12, 16:9; Tehillim 90:10; Mishlei 24:16 with Rasag, Ibn Ezra and Ralbag; Daniel 9:24-27, 10:2-3; Nechemiah 10:32; Divrei HaYamim II 15:11-15, 36:21; Mishnah *Sheviis* 2:6, 4:7-9, *Taanis* 4:7, *Megillah* 3:4, *Kesubos* 1:1, 5:6-7, *Nedarim* 8:1, *Bava Metzia* 9:10, 9:11, *Bava Basra* 5:10, *Sanhedrin* 5:1, *Makkos* 1:10, *Eduyos* 4:10, *Erachin* 2:1, *Negaim*, *Parah* 8:9, *Niddah* 4:5; *Shevuos* 36a with Rashi; Rashi to *Pesachim* 12a, 86a, *Moed Katan* 12a, *Sotah* 44a, *Bava Metzia* 110b, *Sanhedrin* 97a; *Sefer Yetzirah* 4:2-3; *Sefer HaChinuch*, mitzvah 330; Rambam's count of the 613 mitzvos; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Pappenheim; Rabbi Moshe Elyakim Briah Hopstein; Rabbi Dr. Alter HaLevi Hilowitz; Rabbi Moshe Zuriel; Rabbi Yitzchok Avigdor Lubchansky; the Shelah; the Brown-Driver-Briggs lexicon.
+Rabbi Reuven Chaim Klein, "The Seventh Year of Slipping Away," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 4:24 with Rasag's *Tafsir*, 21:23-33 with Rav Hirsch to 21:23 and Ibn Ezra to 21:31, 24:9 with Targum Onkelos, 29:27-28; Shemos 23:11; Vayikra 12:5, 23:15-16 with Ibn Ezra, Ramban, Targum Onkelos and Mecklenburg, 25:2, 25:4, 25:6, 25:8, 25:20, 26:18, 26:24, 26:28, 26:34-35; Bamidbar 30:3 with Ramban; Devarim 6:13, 10:20, 15:12, 16:9 with Mecklenburg; Tehillim 90:10; Mishlei 24:16 with Rasag, Ibn Ezra and Ralbag; Daniel 9:24-27, 10:2-3; Nechemiah 10:32; Divrei HaYamim II 15:11-15, 36:21; Mishnah *Sheviis* 2:6, 4:7-9, *Taanis* 4:7, *Megillah* 3:4, *Kesubos* 1:1, 5:6-7, *Nedarim* 8:1, *Bava Metzia* 9:10, 9:11, *Bava Basra* 5:10, *Sanhedrin* 5:1, *Makkos* 1:10, *Eduyos* 4:10, *Erachin* 2:1, *Negaim*, *Parah* 8:9, *Niddah* 4:5; *Shevuos* 36a with Rashi; Rashi to *Pesachim* 12a, 86a, *Moed Katan* 12a, *Sotah* 44a, *Bava Metzia* 110b, *Sanhedrin* 97a; *Vayikra Rabbah* 29:9; *Sefer Yetzirah* 4:2-3; *Sefer HaChinuch*, mitzvah 330; Rambam's count of the 613 mitzvos; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Pappenheim; Rabbi Moshe Elyakim Briah Hopstein; Rabbi Dr. Alter HaLevi Hilowitz; Rabbi Moshe Zuriel; Rabbi Yitzchok Avigdor Lubchansky; the Shelah; Maharal, *Derech Chaim* to Avos 5:15; Rabbi Eliyahu Menachem Margulies, *Emunas Eliezer*, *Yerach HaEisanim* chs. 9 and 18; the Brown-Driver-Briggs lexicon.

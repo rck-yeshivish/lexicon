@@ -20,7 +20,7 @@ sources:
   - wiaw:7313 "The Land Down Under" (2017-06-24) https://articles.ohr.edu/articles/the-land-down-under
   - wiaw:9346 "Seasoning the Land" (2021-08-28) https://articles.ohr.edu/articles/seasoning-the-land
   - ms:250-the-land-down-under.md "The Land Down Under"
-authorities: [Vilna Gaon, Malbim, Rabbeinu Bachaya, Ritva, Rabbi Yechiel Michel Moravsky of Lublin, Rabbi Yisrael Lipschitz, Maharshal, Rabbi Yitzchok Dov Bamberger, Pri Megadim, Rabbi Yaakov Chaim Sofer, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Shadal]
+authorities: [Vilna Gaon, Malbim, Rabbeinu Bachya, Ritva, Rabbi Yechiel Michel Moravsky of Lublin, Rabbi Yisrael Lipschitz, Maharshal, Rabbi Yitzchok Dov Bamberger, Pri Megadim, Rabbi Yaakov Chaim Sofer, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Shadal]
 updated: 2026-09-22
 ---
 # Land: eretz / adamah
@@ -59,7 +59,7 @@ The berachos put the difference on display. Over bread one says that Hashem
 brings forth bread *min ha'aretz*, from the land; over vegetables, that He
 creates the fruit *ha'adamah*, of the ground.
 
-- Rabbeinu Bachaya and the Ritva: bread should by rights have taken the more
+- Rabbeinu Bachya and the Ritva: bread should by rights have taken the more
   specific *adamah*, the word for a field, and the reason it does not is that
   Chazal shaped the berachah on the language of the pasuk (Tehillim 104:14),
   which says bread comes from the *eretz*.

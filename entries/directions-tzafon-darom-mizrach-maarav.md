@@ -23,7 +23,7 @@ words:
   - he: ים
     tr: yam
     en: west, seaward
-    distinct: literally sea, serving for west because the Mediterranean lies at the west side of Eretz Yisrael (Rabbeinu Bachaya); like negev, a name taken from the land itself
+    distinct: literally sea, serving for west because the Mediterranean lies at the west side of Eretz Yisrael (Rabbeinu Bachya); like negev, a name taken from the land itself
   - he: מערב
     tr: maarav
     en: west
@@ -44,7 +44,7 @@ words:
   - he: אסתן
     tr: estan
     en: north
-    distinct: the Gemara's Aramaic word for north (Kesubos 23a); perhaps related to Aramaic asuta, health, alluding to the healing properties of the north wind (Rabbeinu Bachaya)
+    distinct: the Gemara's Aramaic word for north (Kesubos 23a); perhaps related to Aramaic asuta, health, alluding to the healing properties of the north wind (Rabbeinu Bachya)
   - he: דרום
     tr: darom
     en: south
@@ -65,7 +65,7 @@ words:
 sources:
   - wiaw:7029 "Looking Four Directions" (2016-12-03) https://articles.ohr.edu/articles/looking-four-directions
   - ms:301-looking-four-directions.md "Looking Four Directions"
-authorities: [Rabbeinu Bachaya, Rabbi Shlomo Pappenheim, Rashi, Chavos Yair, Rabbi Eliyahu Benamozegh]
+authorities: [Rabbeinu Bachya, Rabbi Shlomo Pappenheim, Rashi, Chavos Yair, Rabbi Eliyahu Benamozegh]
 updated: 2026-09-22
 ---
 # Compass directions: tzafon / darom (negev, teiman) / mizrach (kedem) / maarav (yam)
@@ -92,12 +92,12 @@ certain topographical features of Eretz Yisrael.
 | מזרח | mizrach | east | where the sun first shines out, from *zarach*, to shine |
 | קדם | kedem | east, forward side | the sun's first, forward position; can also mean aforetime |
 | פנים | panim | east, facewards | facewards: Adam was created with his front facing east |
-| ים | yam | west, seaward | seaward, toward the Mediterranean (Rabbeinu Bachaya); named from the land |
+| ים | yam | west, seaward | seaward, toward the Mediterranean (Rabbeinu Bachya); named from the land |
 | מערב | maarav | west | where shadows blur at sunset, from *me'urav*, mixed |
 | אחרון | acharon | west | the sun's last place on the horizon before setting |
 | צפון | tzafon | north, hidden side | hidden from the sun; or gazing at the northern star; or Mount Tzafon |
 | שמאל | smol | north, left | left, when one faces east; never north in Tanach (Benamozegh) |
-| אסתן | estan | north | Aramaic; perhaps *asuta*, health, for the healing north wind (Rabbeinu Bachaya) |
+| אסתן | estan | north | Aramaic; perhaps *asuta*, health, for the healing north wind (Rabbeinu Bachya) |
 | דרום | darom | south | *derech yom*, the path of the day's sun |
 | נגב | negev | south, dry country | the dry country of southern Eretz Yisrael |
 | תימן | teiman | south, right | right, when one faces east; with *mizrach* at Devarim 3:27 |
@@ -134,7 +134,7 @@ Rashi (to *Bava Basra* 25a): the east is called *orient*, from *ohr*, light,
 since the light comes from there in the morning (see *Chavos Yair* §219).
 
 ### West: yam (ים), maarav (מערב), acharon (אחרון)
-Rabbeinu Bachaya explains that *yam* literally means sea, and serves for west
+Rabbeinu Bachya explains that *yam* literally means sea, and serves for west
 because the Mediterranean lies at the west side of Eretz Yisrael. The west is
 also called *maarav*, from *me'urav*,
 mixed: as the sun sets, the shapes of the shadows become mixed up. Thirdly,
@@ -155,7 +155,7 @@ The commentators offer several explanations of *tzafon*.
   identify as Jebel Aqra, on the border between modern-day Turkey and Syria.
 
 *Smol*, left, follows from facing east. The Gemara sometimes uses the Aramaic
-*estan* for north (e.g. Kesubos 23a); Rabbeinu Bachaya (1255-1340) proposes that
+*estan* for north (e.g. Kesubos 23a); Rabbeinu Bachya (1255-1340) proposes that
 it may be related to the Aramaic *asuta*, health, alluding to certain healing
 properties of the north wind (see Yevamos 72a). Some people have a custom of
 exclaiming *Asuta!* on hearing another sneeze, to bless him with good health.
@@ -208,4 +208,4 @@ Rabbi Reuven Chaim Klein, "[Looking Four Directions](https://articles.ohr.edu/ar
 
 Rabbi Reuven Chaim Klein, "Looking Four Directions," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Bereishis 28:14 (*yam*, *kedem*, *tzafon*, *negev*); Devarim 3:27 (*yam*, *tzafon*, *mizrach*, *teiman*); Rabbeinu Bachaya on the direction words; Kesubos 23a (*estan*); Yevamos 72a (the healing north wind); Pappenheim, *Cheshek Shlomo* s.v. קד; Shemos 27:13; Bamidbar 2:3; Rashi to *Bava Basra* 25a; *Chavos Yair* 219; Benamozegh, *Eim LaMikra* to Bereishis 24:49.
+Cited in the essay: Bereishis 28:14 (*yam*, *kedem*, *tzafon*, *negev*); Devarim 3:27 (*yam*, *tzafon*, *mizrach*, *teiman*); Rabbeinu Bachya on the direction words; Kesubos 23a (*estan*); Yevamos 72a (the healing north wind); Pappenheim, *Cheshek Shlomo* s.v. קד; Shemos 27:13; Bamidbar 2:3; Rashi to *Bava Basra* 25a; *Chavos Yair* 219; Benamozegh, *Eim LaMikra* to Bereishis 24:49.

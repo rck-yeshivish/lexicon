@@ -26,7 +26,7 @@ words:
 sources:
   - wiaw:10842 "Purim/Trumah: Speedy Horsepower (Part 1/2)" (2023-02-11) https://articles.ohr.edu/articles/purimtrumah-speedy-horsepower-part-12
   - wiaw:10843 "Purim/Titzaveh: Speedy Horsepower (Part 2/2)" (2023-02-11) https://articles.ohr.edu/articles/purimtitzaveh-speedy-horsepower-part-22
-authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbeinu Bachaya, Rabbi Avraham Saba, Rabbi Yaakov Ashkenazi of Janow, Maharal, Ralbag, Ibn Ezra, Rabbi Moshe Ibn Chalava, Ohalei Yehuda, Rabbeinu Nissim of Gerona, Rav Saadia Gaon, Rabbi Yosef Kimchi, Rabbi Tuviah ben Eliezer, Rashi, Rabbi Ernest Klein, Rambam, Rabbi Shlomo Sirilio, Rabbi Yosef Kara, Peirush HaRokeach, Targum Sheini, Rabbi Eliyahu HaBachur, Rabbi Yaakov Daniel Amash, Wilhelm Gesenius, Naftali Tur-Sinai, Solomon Rabinowitz, Dr. Alexander Kohut, Dr. Dan Shapira]
+authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbeinu Bachya, Rabbi Avraham Saba, Rabbi Yaakov Ashkenazi of Janow, Maharal, Ralbag, Ibn Ezra, Rabbi Moshe Ibn Chalava, Ohalei Yehuda, Rabbeinu Nissim of Gerona, Rav Saadia Gaon, Rabbi Yosef Kimchi, Rabbi Tuviah ben Eliezer, Rashi, Rabbi Ernest Klein, Rambam, Rabbi Shlomo Sirilio, Rabbi Yosef Kara, Peirush HaRokeach, Targum Sheini, Rabbi Eliyahu HaBachur, Rabbi Yaakov Daniel Amash, Wilhelm Gesenius, Naftali Tur-Sinai, Solomon Rabinowitz, Dr. Alexander Kohut, Dr. Dan Shapira]
 updated: 2026-09-10
 ---
 # Horse: sus / rechesh / achashtranim / remachim
@@ -140,7 +140,7 @@ Yeshayahu 38:14 the same word is a bird.
   fertile blossoming.
 - The link predates the grammarians: Shir HaShirim Rabbah 1:49 (on 1:9) has
   Hashem glad to drown Pharaoh's cavalry as He is always glad to destroy
-  Israel's enemies, which *Eitz Yosef* there and Rabbeinu Bachaya (to Bereishis
+  Israel's enemies, which *Eitz Yosef* there and Rabbeinu Bachya (to Bereishis
   2:19) ground in this very pun and in the horse's gladness in war (see Pesachim
   113b, that horses love war).
 - Rabbi Avraham Saba (*Tzror HaMor* to Bereishis 2:20) writes that the horse is

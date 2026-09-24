@@ -9,7 +9,7 @@ words:
   - he: מעלה
     tr: maalah
     en: step, virtue
-    distinct: a step up, from the root of aliyah, naming stairs by their upward use; in the abstract an advantage or virtue; the ordinary word in Tanach, a free-standing stair in a house or courtyard, hence the altar prohibition (Wertheimer); perhaps the Hebrew word against a foreign madreigos (Rabbi Klein)
+    distinct: a step up, from the root of aliyah, naming stairs by their upward use; in the abstract an advantage or virtue; the ordinary word in Tanach, a free-standing stair in a house or courtyard, hence the altar prohibition (Wertheimer); perhaps the Hebrew word against a foreign madreigos (Rabbi Reuven Chaim Klein)
   - he: מדרגה
     tr: madreigah
     en: level, degree
@@ -144,10 +144,9 @@ that the three belong to one cluster.
   HaMaalos*: "Song of Ascents."
 - *Sulam*: "ladder" for Yaakov's dream and in the Mishnah unless the Gemara's
   context is plainly a fixed stair; then "stairway" is defensible from Rashi.
-- When *maalos* and *madreigos* stand together (Rambam, Hilchos Beis
-  HaBechirah 1:17; Rashi glossing one by the other), the second is a gloss,
-  not a second object; render the Torah's own word and let the gloss be
-  silent or bracketed.
+- When *maalos* and *madreigos* stand together (Rashi glossing one by the
+  other), the second is a gloss, not a second object; render the Torah's own
+  word and let the gloss be silent or bracketed.
 - Trap: "step" absorbs *maalah* and *madreigah*, and "level" absorbs
   *madreigah* and abstract *maalah*. Where a text climbs (a ladder of
   *madreigos*, a *maalah* above a *maalah*), keep one English word per Hebrew

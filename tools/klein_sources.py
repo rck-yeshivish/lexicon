@@ -100,7 +100,7 @@ WORKS = {
     'אסף המזכיר': ('Asaf HaMazkir', 'Rabbi Meir Mazuz'),
     'חכמוני': ('Chachmoni', 'Rabbi Shabsai Donnolo'),
     'מלים ותולדותיהן': ("Milim V'Toldoteihen", 'Professor Edward Yechezkel Kutscher'),
-    'כד הקמח': ('Kad HaKemach', 'Rabbeinu Bachaya'),
+    'כד הקמח': ('Kad HaKemach', 'Rabbeinu Bachya'),
     # Ten of the thirteen essays whose footnote cites רדיפי מיא name Rabbi Yehuda
     # Leib Edel in the body and no work with him, and the book names him only
     # fifteen times all told. Its loci are all `ערך` and `שורש`, a lexicon by

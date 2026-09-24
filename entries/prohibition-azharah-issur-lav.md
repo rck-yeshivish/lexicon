@@ -22,8 +22,9 @@ words:
 sources:
   - wiaw:9211 "Shavuot: Brilliant Prohibitions" (2021-05-15) https://articles.ohr.edu/articles/shavuot-brilliant-prohibitions
   - wiaw:10970 "All Tied Up" (2023-06-03) https://articles.ohr.edu/articles/all-tied-up
-authorities: [Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Ibn Parchon, Rabbi Avraham Maimuni, Rabbeinu Efrayim, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Yehuda Ibn Chayyuj, Rabbi Jose Faur, Malbim]
-updated: 2026-09-10
+  - ms:287-brilliant-prohibitions.md "Brilliant Prohibitions"
+authorities: [Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Ibn Parchon, Rabbi Avraham Maimuni, Rabbeinu Efrayim, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Yehuda Ibn Chayyuj, Rabbi Jose Faur, Malbim, Rasag]
+updated: 2026-09-24
 ---
 # Prohibition: azharah / issur / lav
 
@@ -44,7 +45,7 @@ committing, named for the word *lo*.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| אזהרה | azharah | forewarning | forewarning that enlightens (Pappenheim); the warning, as against the punishment |
+| אזהרה | azharah | forewarning | forewarning that enlightens (Avraham Maimuni, Pappenheim); the warning, as against the punishment |
 | איסור | issur | prohibition, binding | a binding that ties one's hands; precluded against one's will (Malbim) |
 | לאו | lav | negative commandment | the plain negative commandment, from *lo*; rabbinic, not in Tanach |
 
@@ -62,8 +63,11 @@ punishment aspect (for example, *Yevamos* 3b and *Sifrei Naso* 1).
 - The early lexicographers (Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak,
   and Rabbi Shlomo Ibn Parchon, the twelfth-century author of *Machberes
   He'Aruch*) all take ז-ה-ר as one triliteral root carrying two very distinct
-  senses, warning and light, and none of them intimates a connection between the
-  two.
+  senses, warning and light (Yechezkel 8:2, Daniel 12:3), and none of them
+  intimates a connection between the two.
+- Rasag, in his commentary to Koheles 12:12, seems to connect the two senses.
+  Rabbi Klein learned this from Mossad HaRav Kook's *Toras Chaim* to Shemos
+  18:20 and had not seen the Koheles commentary himself.
 - Rambam's son, Rabbi Avraham Maimuni, does connect them: the root means
   light or brilliance (*zohar*), and one illuminates another's intellectual
   perception by instructing him as to his responsibilities, so to warn a person
@@ -166,4 +170,6 @@ Rabbi Reuven Chaim Klein, "[Shavuot: Brilliant Prohibitions](https://articles.oh
 
 Rabbi Reuven Chaim Klein, "[All Tied Up](https://articles.ohr.edu/articles/all-tied-up)," *What's in a Word?*, Ohr Somayach, 3 June 2023.
 
-Cited in the essay: Bereishis 39:20, 40:3; Shemos 18:20, 32:20; Vayikra 15:31, 26:33; Bamidbar 30:3; Yechezkel 3:17; Tehillim 106:27; Rus 3:2; Koheles 4:14; Divrei HaYamim II 19:10; Mishnah *Pesachim* 3:1, *Sanhedrin* 7:7, *Kerisos* 3:10; *Yevamos* 3b; *Sifrei Naso* 1; Menachem Ibn Saruk; Rabbi Yonah Ibn Janach; Radak; Rabbi Shlomo Ibn Parchon, *Machberes HeAruch*; Rabbi Avraham Maimuni; Rabbeinu Efrayim; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. זר, סר and בל; Rabbi Aharon Marcus; Rabbi Yehuda Ibn Chayyuj; Rabbi Jose Faur; Malbim, *Sefer HaCarmel* s.v. ענד, חבש, אסר and קשר, and *Yair Ohr*.
+Rabbi Reuven Chaim Klein, "Brilliant Prohibitions," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 39:20, 40:3; Shemos 18:20 with Mossad HaRav Kook's *Toras Chaim*, 32:20; Vayikra 15:31, 26:33; Bamidbar 30:3; Yechezkel 3:17, 8:2; Tehillim 106:27; Rus 3:2; Koheles 4:14, 12:12 with Rasag; Daniel 12:3; Divrei HaYamim II 19:10; Mishnah *Pesachim* 3:1, *Sanhedrin* 7:7, *Kerisos* 3:10; *Yevamos* 3b; *Sifrei Naso* 1; Menachem Ibn Saruk; Rabbi Yonah Ibn Janach; Radak; Rabbi Shlomo Ibn Parchon, *Machberes HeAruch*; Rabbi Avraham Maimuni; Rabbeinu Efrayim; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. זר, סר and בל; Rabbi Aharon Marcus; Rabbi Yehuda Ibn Chayyuj; Rabbi Jose Faur; Malbim, *Sefer HaCarmel* s.v. ענד, חבש, אסר and קשר, and *Yair Ohr*.

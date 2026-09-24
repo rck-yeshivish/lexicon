@@ -9,11 +9,11 @@ words:
   - he: מיאון
     tr: mi'un
     en: refusing, declining
-    distinct: the biblical Hebrew word, forty-six times in Tanach; declining to comply with what one was asked (Dienna); from ein, no, ignoring what one rejects (Pappenheim); perhaps only siruv's Hebrew twin, since the Targumim render it siruv (Eliyahu HaBachur); technically the minor's refusal of her husband
+    distinct: the biblical Hebrew word, forty-six times in Tanach; declining to comply with what one was asked (Dienna); from ein, no, ignoring what one rejects (Pappenheim); perhaps only siruv's Hebrew twin (Rabbi Klein), since the Targumim render it siruv (Eliyahu HaBachur); technically the minor's refusal of her husband
   - he: סירוב
     tr: siruv
     en: refusal, utter rejection
-    distinct: Aramaic and rabbinic, at most once in Tanach and disputed there, rebels (Menachem, Rashi, Radak) or thorns (Donash); the utter rejection of a proposition, harsher than mi'un (Dienna); technically contempt of beis din
+    distinct: Aramaic and rabbinic, at most once in Tanach and disputed there, rebels (Menachem, Rashi, Radak) or thorns (Donash); the utter rejection of a proposition, harsher than mi'un (Dienna); technically contempt of beis din, the man in siruv being more brazen than the girl doing mi'un (Rabbi Klein)
   - he: מרי
     nk: מְרִי
   - he: מרידה
@@ -22,8 +22,8 @@ sources:
   - wiaw:9254 "Biblical Refuseniks" (2021-06-19) https://articles.ohr.edu/articles/biblical-refuseniks
   - wiaw:9809 "Of Thorns and Thistles" (2022-08-06) https://articles.ohr.edu/articles/of-thorns-and-thistles
   - ms:259-biblical-refuseniks.md "Biblical Refuseniks"
-authorities: [Menachem Ibn Saruk, Donash Ibn Labrat, Rashi, Radak, Rambam, Bartenura, Tosafos Yom Tov, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Yaakov Dienna, Oxford English Dictionary, Mahari Kara, Dr. Alexander Kohut, Jastrow]
-updated: 2026-09-22
+authorities: [Menachem Ibn Saruk, Donash Ibn Labrat, Rashi, Radak, Rambam, Bartenura, Tosafos Yom Tov, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Yaakov Dienna, Oxford English Dictionary, Mahari Kara, Dr. Alexander Kohut, Jastrow, Targum Onkelos]
+updated: 2026-09-24
 ---
 # Refusal: mi'un / siruv
 
@@ -49,7 +49,7 @@ contempt of beis din.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | מיאון | mi'un | refusing, declining | biblical Hebrew; declining a request (Dienna); a minor's refusal of her husband |
-| סירוב | siruv | refusal, utter rejection | Aramaic loanword; outright rejection, harsher than *mi'un* (Dienna); contempt of beis din |
+| סירוב | siruv | refusal, utter rejection | Aramaic loanword; outright rejection, harsher than *mi'un* (Dienna); contempt of beis din, more brazen than a girl's *mi'un* (Rabbi Klein) |
 
 ## Distinctions
 
@@ -93,9 +93,10 @@ In that same perek Hashem uses forms of *meri* /
 where Yechezkel 2:3 uses *pesha* for rebellion, Targum renders it with an
 Aramaicized *meridah*. Rabbi Eliyahu HaBachur (1469-1549) points out in *Sefer
 HaTishbi* and *Meturgeman* that most instances of the Hebrew *meridah*, *meri*
-and *mi'un* in the Torah are rendered by the Targumim as *siruv*. In light of
-this, Rabbi Klein writes, it *seems* that the two are indeed synonyms but are
-sourced in different languages: *mi'un* and its cognates, appearing many times
+and *mi'un* in the Torah are rendered by the Targumim as *siruv*. The Targum
+renders *vayima'en* as *vesarev* at Bereishis 37:35, 39:8, 48:19 and Bamidbar
+20:21. In light of this, Rabbi Klein writes, it *seems* that the two are indeed
+synonyms but are sourced in different languages: *mi'un* and its cognates, appearing many times
 in Tanach, *seem* to be genuine Hebrew, while *siruv*, which at most appears
 once, *seems* to be a borrowed Aramaic loanword, and so became more popular in
 post-biblical Hebrew when Aramaic had a stronger influence on the language.
@@ -106,14 +107,20 @@ a chazan who errs is replaced at once, and warns that the replacement must not
 be a *sarvan*. The Rambam and Bartenura: ordinarily one asked to lead should
 show humility and decline at first, but here, replacing a chazan mid-tefillah,
 refusing the honor is out of place. One who badgers another and will not let up
-is *misarev* (*Nedarim* 8:7), because he refuses to give up on changing the
-other's mind (see *Tosafos Yom Tov*); the form sometimes takes an extra hei,
-*mis'harev*, for pestering (Rashi to Bava Kamma 28a, 32b, Chullin 94a).
+is *misarev* (*Nedarim* 8:7), and the word there is read two ways. *Tosafos Yom
+Tov* (s.v. *hayu mesarvin*) keeps it a word of refusing: he refuses to give up
+on changing the other's mind, refusing to accept the position of the other, who
+is unwilling, and so keeps pressing him to agree. Rabbi Klein notes the other
+reading: there *misarev* is not a word of refusing at all but of pressing, urging. The form sometimes takes an
+extra hei, *mis'harev*, for pestering (Rashi to Bava Kamma 28a, 32b, Chullin
+94a).
 
-Some derive the word from *rahav*, on the *shafel* pattern (Dr. Alexander Kohut,
-*Aruch HaShalem* s.v. סרב; Jastrow, p. 1023). In some places *sarhev* means
-haste, like *rahav* (Berachos 47a; Shabbos 10a, 129b; Chullin 7b; Targum to
-Mishlei 1:16, 6:8; Targum Sheni to Esther 10).
+Some derive this *misarev* from *rahav*, on the *shafel* pattern (Dr. Alexander
+Kohut, *Aruch HaShalem* s.v. סרב; Jastrow, pp. IX, 1023), and so the Bavli has
+*mis'harev*, meaning urging (Shabbos 10a; Bava Kamma 28a, 32b; Chullin 94a). In
+some places, similarly, *sarhev* means haste, like *rahav* (Berachos 47a;
+Shabbos 10a, 129b; Chullin 7b; Targum to Mishlei 1:16, 6:8; Targum Sheni to
+Esther 10).
 
 ### Where they part
 The early commentary to Targum Onkelos *ascribed* to Rabbi Yaakov Dienna
@@ -153,7 +160,10 @@ father and her mother or brothers married her off) refuses her husband and is
 allowed to marry another. *Siruv* is refusing to heed a summons to beis din or
 refusing to listen to its ruling; such a man, held in contempt of the court, may
 be subject to sanctions resembling excommunication, and the dayanim may give the
-opposing litigant permission to petition a non-Jewish court.
+opposing litigant permission to petition a non-Jewish court. Rabbi Klein notes
+that a man in *siruv* is more brazen (*mechutzaf*) than a girl doing *mi'un*, so
+the two technical senses fit with Rabbi Dienna's view that *siruv* is the
+stronger refusal.
 
 As for the English suffix in "refusenik": according to
 the *Oxford English Dictionary* the *-nik* of *beatnik*, *no-goodnik*,
@@ -195,4 +205,4 @@ Rabbi Reuven Chaim Klein, "[Of Thorns and Thistles](https://articles.ohr.edu/art
 
 Rabbi Reuven Chaim Klein, "Biblical Refuseniks," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Bereishis 37:35, 39:8, 48:19; Shemos 7:27 with Midrash *Sechel Tov*, 22:16; Bamidbar 20:21, 22:13; Shmuel II 13:9; Yechezkel 2:3, 2:6 with Menachem Ibn Saruk, Donash Ibn Labrat, Rashi, Mahari Kara and Radak, 28:24; Mishnah *Berachos* 5:3 with the Rambam and Bartenura, *Nedarim* 8:7 with *Tosafos Yom Tov*, *Moed Katan* 3:3, *Yevamos* 13:1-6, *Bava Metzia* 1:8, *Sanhedrin* 1:3, *Chullin* 1:7; Rashi to Bava Kamma 28a, 32b and Chullin 94a; Targum Onkelos; Rabbi Shlomo Pappenheim; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* and *Meturgeman*; the commentary to Targum Onkelos ascribed to Rabbi Yaakov Dienna (*Patshegen*, *Sefer HaYair*), to Shemos 22:16 and Bamidbar 22:13; the *Oxford English Dictionary*; *Aruch HaShalem* s.v. סרב; Jastrow, p. 1023; Berachos 47a; Shabbos 10a, 129b; Chullin 7b; Targum to Mishlei 1:16, 6:8; Targum Sheni to Esther 10.
+Cited in the essay: Bereishis 37:35, 39:8, 48:19 with the Targum; Shemos 7:27 with Midrash *Sechel Tov*, 22:16; Bamidbar 20:21 with the Targum, 22:13; Shmuel II 13:9; Yechezkel 2:3, 2:6 with Menachem Ibn Saruk, Donash Ibn Labrat, Rashi, Mahari Kara and Radak, 28:24; Mishnah *Berachos* 5:3 with the Rambam and Bartenura, *Nedarim* 8:7 with *Tosafos Yom Tov* s.v. *hayu mesarvin*, *Moed Katan* 3:3, *Yevamos* 13:1-6, *Bava Metzia* 1:8, *Sanhedrin* 1:3, *Chullin* 1:7; Bava Kamma 28a, 32b and Chullin 94a with Rashi; Targum Onkelos; Rabbi Shlomo Pappenheim; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* and *Meturgeman*; the commentary to Targum Onkelos ascribed to Rabbi Yaakov Dienna (*Patshegen*, *Sefer HaYair*), to Shemos 22:16 and Bamidbar 22:13; the *Oxford English Dictionary*; *Aruch HaShalem* s.v. סרב; Jastrow, pp. IX, 1023; Berachos 47a; Shabbos 10a, 129b; Chullin 7b; Targum to Mishlei 1:16, 6:8; Targum Sheni to Esther 10.

@@ -18,7 +18,7 @@ words:
   - he: שדמה
     tr: shdeimah
     en: field, or vine (disputed)
-    distinct: the contested word; a grain field (Rashi), a synonym for gefen (Ibn Janach, Ibn Ezra, Radak, Rabbeinu Bachaya), or simply ground rich enough to nourish growth (Pappenheim)
+    distinct: the contested word; a grain field (Rashi), a synonym for gefen (Ibn Janach, Ibn Ezra, Radak, Rabbeinu Bachya), or simply ground rich enough to nourish growth (Pappenheim)
   - he: שריג
     tr: sarig
     en: tendril
@@ -27,7 +27,7 @@ sources:
   - wiaw:9491 "Through the Grapevine" (2021-12-18) https://articles.ohr.edu/articles/through-the-grapevine
   - wiaw:11743 "Pekudai: Seeing Red (Part 2/3)" (2025-03-29) https://articles.ohr.edu/articles/pekudai-seeing-red-part-23
   - ms:074-through-the-grapevine.md "Through the Grapevine"
-authorities: [Rabbi Shlomo of Urbino, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Shoresh Yesha, Rashi, Rabbeinu Bachaya, Ibn Ezra, Ohalei Yehuda, Targum Yonasan, Rabbi Yitzchak Ibn Ghiyyat, Rabbi Shmuel ben Chofni Gaon, Maharsha, Rivan, Shitah Mekubetzes, Sechel Tov, Arugas HaBosem, Rabbi Elazar Rokeach of Worms, Rabbeinu Bachya]
+authorities: [Rabbi Shlomo of Urbino, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Shoresh Yesha, Rashi, Rabbeinu Bachya, Ibn Ezra, Ohalei Yehuda, Targum Yonasan, Rabbi Yitzchak Ibn Ghiyyat, Rabbi Shmuel ben Chofni Gaon, Maharsha, Rivan, Shitah Mekubetzes, Sechel Tov, Arugas HaBosem, Rabbi Elazar Rokeach of Worms]
 updated: 2026-09-22
 ---
 # Grapevine: gefen / sorek / shdeimah (sarig)
@@ -49,7 +49,7 @@ thing.
 |---|---|---|---|
 | גפן | gefen | grapevine | the common, unmarked word (55 times); root ג-פ-ן (Ibn Saruk, Ibn Janach, Radak) or ג-ף, protruding (Pappenheim); any vine, laden or bare (Sechel Tov); *gefen* while attached, *zemorah* once cut (Rabbeinu Bachya) |
 | שורק | sorek | choice vine | the choicest stock (Targum Yonasan, Ibn Janach, Radak), seedless grapes (Ibn Ghiyyat); or tendrils/plantable shoots (Rashi); a vine without grapes, planted bare (Sechel Tov) |
-| שדמה | shdeimah | field (or vine) | grain field (Rashi) against vine (Ibn Janach, Ibn Ezra, Radak, Rabbeinu Bachaya); nourishing ground (Pappenheim); poor field (*Ohalei Yehuda*, *Shoresh Yesha*) |
+| שדמה | shdeimah | field (or vine) | grain field (Rashi) against vine (Ibn Janach, Ibn Ezra, Radak, Rabbeinu Bachya); nourishing ground (Pappenheim); poor field (*Ohalei Yehuda*, *Shoresh Yesha*) |
 | שריג | sarig | tendril | the twining shoot of Bereishis 40:10; seemingly from ש-ר-ג, entangling; Ibn Saruk equates sorek with it, possibly via the kuf and gimmel interchange |
 
 ## Where the authorities disagree
@@ -57,7 +57,7 @@ thing.
 **What shdeimah means.** Four views.
 - **Grain field**: Rashi (to Devarim 32:32, Yeshayahu 16:8, Chavakuk 3:17),
   consistently.
-- **Grapevine, a true synonym of gefen**: Rabbeinu Bachaya (to Devarim 32:32),
+- **Grapevine, a true synonym of gefen**: Rabbeinu Bachya (to Devarim 32:32),
   who reads the pasuk as deliberate doubled verbiage, with Ibn Janach (*Sefer
   HaShorashim*), Ibn Ezra and Radak (to Yeshayahu 16:8).
 - **Any nourishing ground**: Pappenheim: land juicy enough to feed what grows in it, neither a vine nor Rashi's grain field.
@@ -170,7 +170,7 @@ tied to *sorekah*?
   "He will tie his donkey to the vine, and his young donkey to the choice vine"
   keeps the escalation that Targum Yonasan and Radak hear in *sorek*.
 - Devarim 32:32 pairs *gefen* and *shdeimos*: following Rashi, "of the fields
-  of Amorah"; following Rabbeinu Bachaya and the grammarians, both are vines.
+  of Amorah"; following Rabbeinu Bachya and the grammarians, both are vines.
 - Trap: English "vine" will swallow *gefen*, *sorek*, and *sarig* together.
   Reserve "vine" for *gefen*, "choice vine" for *sorek*, "tendril" for *sarig*.
   Where a passage turns on Kesubos 111b, keep *sorekah* and *srak* distinct in

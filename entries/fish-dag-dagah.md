@@ -13,7 +13,7 @@ words:
   - he: דגה
     tr: dagah
     en: fish
-    distinct: "disputed: big and small fish alike (Chazal); a female fish (Rashi, Yalkut Shimoni); a dead fish (Zohar, Rabbeinu Bachaya, Rabbi Avraham bar Chiya HaNasi); fish as a collective species (Ibn Ezra); one particular Egyptian fish (Rabbi Mordechai Gimpel Yaffe)"
+    distinct: "disputed: big and small fish alike (Chazal); a female fish (Rashi, Yalkut Shimoni); a dead fish (Zohar, Rabbeinu Bachya, Rabbi Avraham bar Chiya HaNasi); fish as a collective species (Ibn Ezra); one particular Egyptian fish (Rabbi Mordechai Gimpel Yaffe)"
   - he: אברומא
     tr: avruma
     en: small fish
@@ -37,7 +37,7 @@ words:
 sources:
   - wiaw:9228 "Fishy Words (Part 1/2)" (2021-05-29) https://articles.ohr.edu/articles/fishy-words-part-12
   - ms:242-fishy-words.md "Fishy Words"
-authorities: [Rashi, Zohar, Rabbeinu Bachaya, Rabbi Avraham bar Chiya HaNasi, Ibn Ezra, Malbim, Rabbi Mordechai Gimpel Yaffe, Menachem Ibn Saruk, Ibn Janach, Ibn Chayyuj, Radak, Rabbi Yehudah Ibn Balaam, Rabbi Shlomo Pappenheim, Rabbi Samson Raphael Hirsch, Rabbi Aharon Marcus, Sefer HeAruch, Rabbeinu Gershom, Rashbam, Rabbi David Golumb, Rabbi Moshe Batzri, Moshe Raanan, Shadal]
+authorities: [Rashi, Zohar, Rabbeinu Bachya, Rabbi Avraham bar Chiya HaNasi, Ibn Ezra, Malbim, Rabbi Mordechai Gimpel Yaffe, Menachem Ibn Saruk, Ibn Janach, Ibn Chayyuj, Radak, Rabbi Yehudah Ibn Balaam, Rabbi Shlomo Pappenheim, Rabbi Samson Raphael Hirsch, Rabbi Aharon Marcus, Sefer HeAruch, Rabbeinu Gershom, Rashbam, Rabbi David Golumb, Rabbi Moshe Batzri, Moshe Raanan, Shadal]
 updated: 2026-09-22
 ---
 # Fish: dag / dagah
@@ -46,18 +46,19 @@ updated: 2026-09-22
 
 *Dag* is **a fish**, the singular. How *dagah* differs from it is disputed: it
 is **a large fish or a small one** (Chazal), **a female fish** (Rashi and
-others), **a dead fish** (Zohar), or **fish as a collective**, the species
-rather than the individual (Ibn Ezra). Most of the sources that deal with the
-difference focus on Yonah, where the fish is first a *dag* (2:1) and then a
-*dagah* (2:2). Rashi glosses several Aramaic words in the Gemara (*avruma*,
-*munini*, *gildna*, *tzachanta*) as **small fish**.
+others), **a dead fish** (Zohar), **fish as a collective**, the species rather
+than the individual (Ibn Ezra), or one particular fish native to Egypt (Rabbi
+Mordechai Gimpel Yaffe). Most of the sources that deal with the difference focus
+on Yonah, where the fish is first a *dag* (2:1) and then a *dagah* (2:2). Rashi
+glosses several Aramaic words in the Gemara (*avruma*, *munini*, *gildna*,
+*tzachanta*) as **small fish**.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | דג | dag | a fish | the plain singular; from ד-ג, fecundity (Pappenheim) |
-| דגה | dagah | fish | disputed: big or small (Chazal); female (Rashi); dead (Zohar); collective (Ibn Ezra) |
+| דגה | dagah | fish | disputed: big or small (Chazal); female (Rashi); dead (Zohar); collective (Ibn Ezra); one Egyptian fish (Yaffe) |
 | אברומא | avruma | small fish | Aramaic, small fish (Rashi); *avdumah* in the *Aruch* |
 | מוניני | munini | small fish, brine | small fish (Rashi); also fish brine, and brine as such |
 | גילדנא | gildna | small fish | small fish, or a particular fish (Rashi, Rabbeinu Gershom, Rashbam) |
@@ -74,8 +75,8 @@ fisherman, and *dugah* (Amos 4:2), a fishing boat. Ibn Chayyuj, Ibn Janach, and
 Radak treat the vav in *davag* as root-letter. In Nechemiah 13:16 the word is
 written דאג though read *dag*: Ibn Ezra (there and in *Sefer Tzachus*) takes the
 root as triliteral ד-י-ג or ד-ו-ג with an aleph standing in for the middle
-letter; the Rasag commentary there reads the aleph as a derashah, that trading on
-Shabbos brought extra *da'agah*, worry, into the world.
+letter; the commentary attributed to Rasag (Pseudo-Rasag) there reads the aleph
+as a derashah, that trading on Shabbos brought extra *da'agah*, worry, into the world.
 
 ### dagah (דגה)
 - Chazal (Nedarim 51b): *dag* is a big fish; *dagah* covers big and small alike.
@@ -91,14 +92,14 @@ Shabbos brought extra *da'agah*, worry, into the world.
   suit the reading in Yoma 75a that "eating *dagah*" in Bamidbar 11:5 is not
   about food at all but about the illicit intimacy the people were free to
   engage in there.)
-- Zohar (Beshalach 47b-48a), followed by Rabbeinu Bachaya (to Bamidbar 11:5 and
+- Zohar (Beshalach 47b-48a), followed by Rabbeinu Bachya (to Bamidbar 11:5 and
   in *Kad HaKemach*; cf. his comments to Bamidbar 22:33) and Rabbi Avraham bar
   Chiya HaNasi (*Higayon HaNefesh*): *dag* is a living fish, *dagah* a dead one.
   Hashem killed the fish around Yonah to make him uncomfortable enough to
   daven; and the Zohar further adduces the reading from Shemos 7:18, which uses
   *dagah* for the dead fish of the plague. On this reading it seems that the
-  people in the midbar recalled eating *dagah* because they ate dead fish, one
-  may not eat a live fish (see Rema, Yoreh Deah 13:1).
+  people in the midbar recalled eating *dagah* because they ate dead fish, since
+  one may not eat a live fish (see Rema, Yoreh Deah 13:1).
 - Ibn Ezra (to Shemos 7:18), and see Rashi to Yirmiyahu 6:6 and Malbim to Yonah
   2:2: *dagah* is the collective, fish as a species rather than an individual
   fish. This explains Shemos and Bamidbar (fish of every kind) but not the
@@ -192,4 +193,4 @@ Rabbi Reuven Chaim Klein, "[Fishy Words (Part 1/2)](https://articles.ohr.edu/art
 
 Rabbi Reuven Chaim Klein, "Fishy Words," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Bereishis 9:2, 48:16; Shemos 7:18 with Ibn Ezra; Bamidbar 11:5 and 22:33 with Rabbeinu Bachaya; Yeshayahu 19:8; Yirmiyahu 6:6 with Rashi, 16:16; Yonah 2:1-2 with Rashi and Malbim; Amos 4:2; Nechemiah 13:16 with Ibn Ezra and the Rasag commentary; Nedarim 51b; Yoma 75a; Succah 18a; Sanhedrin 49a, 100b; Avodah Zarah 29a; Kesubos 60b, 105b; Shabbos 39a, 105b, 110b; Gittin 69b; Horayos 12a; Berachos 44a, 44b; Megillah 6a; Chullin 66a; Bava Basra 73b with Rabbeinu Gershom and Rashbam; Shabbos 10:1 and Eduyos 5:6 (Mishnah); Yerushalmi Nedarim 6:3; Zohar, Beshalach 47b-48a; *Yalkut Shimoni* 550; Rema, Yoreh Deah 13:1; Ibn Ezra, *Sefer Tzachus*; Rabbeinu Bachaya, *Kad HaKemach*; Rabbi Avraham bar Chiya HaNasi, *Higayon HaNefesh*; *Sefer HeAruch* s.v. אברומא; Menachem Ibn Saruk; Ibn Chayyuj; Ibn Janach; Radak; Rabbi Yehudah Ibn Balaam; Rabbi Shlomo Pappenheim; Rav Hirsch; Rabbi Aharon Marcus, *Keses HaSofer* (עמ' עד), and *Barzilai* (עמ' 44, 95-96); Rabbi Mordechai Gimpel Yaffe; Rabbi David Golumb, *Targumna* to Bereishis 1:26; Rabbi Moshe Batzri; Dr. Moshe Raanan on the species identifications; Shadal to Bereishis 48:16; Tehillim 72:17.
+Cited in the essay: Bereishis 9:2, 48:16; Shemos 7:18 with Ibn Ezra; Bamidbar 11:5 and 22:33 with Rabbeinu Bachya; Yeshayahu 19:8; Yirmiyahu 6:6 with Rashi, 16:16; Yonah 2:1-2 with Rashi and Malbim; Amos 4:2; Nechemiah 13:16 with Ibn Ezra and the commentary attributed to Rasag; Nedarim 51b; Yoma 75a; Succah 18a; Sanhedrin 49a, 100b; Avodah Zarah 29a; Kesubos 60b, 105b; Shabbos 39a, 105b, 110b; Gittin 69b; Horayos 12a; Berachos 44a, 44b; Megillah 6a; Chullin 66a; Bava Basra 73b with Rabbeinu Gershom and Rashbam; Shabbos 10:1 and Eduyos 5:6 (Mishnah); Yerushalmi Nedarim 6:3; Zohar, Beshalach 47b-48a; *Yalkut Shimoni* 550; Rema, Yoreh Deah 13:1; Ibn Ezra, *Sefer Tzachus*; Rabbeinu Bachya, *Kad HaKemach*; Rabbi Avraham bar Chiya HaNasi, *Higayon HaNefesh*; *Sefer HeAruch* s.v. אברומא; Menachem Ibn Saruk; Ibn Chayyuj; Ibn Janach; Radak; Rabbi Yehudah Ibn Balaam; Rabbi Shlomo Pappenheim; Rav Hirsch; Rabbi Aharon Marcus, *Keses HaSofer* (עמ' עד), and *Barzilai* (עמ' 44, 95-96); Rabbi Mordechai Gimpel Yaffe; Rabbi David Golumb, *Targumna* to Bereishis 1:26; Rabbi Moshe Batzri; Dr. Moshe Raanan on the species identifications; Shadal to Bereishis 48:16; Tehillim 72:17.

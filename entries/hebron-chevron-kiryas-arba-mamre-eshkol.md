@@ -25,7 +25,7 @@ words:
 sources:
   - wiaw:9416 "The City of Four" (2021-10-30) https://articles.ohr.edu/articles/the-city-of-four
   - ms:029-the-city-of-four-and-more.md "The City of Four and More"
-authorities: [Bereishis Rabbah, Rashi, Radak, Ibn Ezra, Daas Zekeinim, Rabbeinu Efrayim, Rabbeinu Bachaya Ibn Chalava, Rabbi Yehuda Ibn Chalava, Rabbi Avraham Maimuni, Rabbi Avraham Menachem Rappaport, Targum Yonasan, Rabbi Dr. Moshe Zidel, Rabbi Chaim Kanievsky, Rabbi David Zvi Hoffmann, Peshitta, Rabbi Shes ben Yefes]
+authorities: [Bereishis Rabbah, Rashi, Radak, Ibn Ezra, Daas Zekeinim, Rabbeinu Efrayim, Rabbeinu Bachya Ibn Chalava, Rabbi Yehuda Ibn Chalava, Rabbi Avraham Maimuni, Rabbi Avraham Menachem Rappaport, Targum Yonasan, Rabbi Dr. Moshe Zidel, Rabbi Chaim Kanievsky, Rabbi David Zvi Hoffmann, Peshitta, Rabbi Shes ben Yefes]
 updated: 2026-09-22
 ---
 # Hebron: Chevron / Kiryas Arba / Mamre / Eshkol
@@ -63,7 +63,7 @@ well.
    pursued the four kings; four parties took portions in it (the tribe of
    Yehudah, the Leviim, the Kohanim, and Kalev's family); and it is one of only
    four rocky districts in Eretz Yisrael. Rashi (to Bereishis 23:2) folds the
-   second and third together: four couples are buried there. Rabbeinu Bachaya
+   second and third together: four couples are buried there. Rabbeinu Bachya
    Ibn Chalava and Rabbi Yehuda Ibn Chalava tie the four to Yehudah, Yaakov's
    fourth son, whose tribe inherited the city.
 2. **A personal name.** Rashi (to Yehoshua 14:15), *Daas Zekeinim* and Ibn Ezra

@@ -26,7 +26,7 @@ words:
 sources:
   - wiaw:11705 "Terumah: Color Me" (2025-03-01) https://articles.ohr.edu/articles/terumah-color-me
   - ms:141-color-me.md "Color Me"
-authorities: [Radak, Rashi, Malbim, Shadal, Maharal, Raavad I, Rambam, Menachem Ibn Saruk, Rabbi Natan of Rome, Rabbi Eliyahu HaBachur, Rabbi Aharon Fuld, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Rabbi Shmuel Yehudah Steiger, Rabbi Meir Hellman, Rabbi Shalom Pushinsky, Rabbi Ernest Klein, Alexander Kohut, Aharon Aaronsohn, Gershom Scholem]
+authorities: [Radak, Rashi, Malbim, Shadal, Maharal, Raavad I, Rambam, Menachem Ibn Saruk, Rabbi Nosson of Rome, Rabbi Eliyahu HaBachur, Rabbi Aharon Fuld, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Rabbi Shmuel Yehudah Steiger, Rabbi Meir Hellman, Rabbi Shalom Pushinsky, Rabbi Ernest Klein, Alexander Kohut, Aharon Aaronsohn, Gershom Scholem]
 updated: 2026-09-22
 ---
 # Color: tzeva / gavan / ein / mareh
@@ -136,7 +136,7 @@ In Aramaic the same root means immersing or soaking (Daniel 4:12, 4:20, 4:22,
 4:30, 5:21; Targum to Vayikra 4:6, 11:25, 15:17). Rabbi Yehoshua Steinberg: the
 core is still dyeing, and since dyeing is done by soaking the material in a
 solution, the root came to cover soaking of every kind. Menachem Ibn Saruk
-(*Machberes Menachem*) and Rabbi Natan of Rome (*Sefer HeAruch*) already imply
+(*Machberes Menachem*) and Rabbi Nosson of Rome (*Sefer HeAruch*) already imply
 this, listing both senses under one root without their usual separation.
 
 Dr. Alexander Kohut (*Aruch HaShalem*) ties צ-ב-ע to ט-ב-ע, which

@@ -57,7 +57,7 @@ window taken up below:
 1. **Smaller.** Rabbi Yosef Kara (to Shoftim 5:28) and the Meiri (to Mishlei
    7:6): an *eshnav* is a small window, while *chalon*, presumably, is the
    general term for any window.
-2. **A peephole.** Rabbi Yeshayah of Trani (1180 to 1250): smaller at the end
+2. **A peephole.** Rabbi Yeshayah of Trani (the Rid, 1180 to 1250): smaller at the end
    that opens to the outside and wider at the end that opens to the inside. He
    then gives a Latin or Italian translation of the word, which Rabbi Shaul
    Goldman reads as *balustraria*, a narrow opening or slit from which arrows

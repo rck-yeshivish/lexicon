@@ -29,8 +29,8 @@ words:
 sources:
   - wiaw:8724 "Where's The Gold?" (2020-05-30) https://articles.ohr.edu/articles/wheres-the-gold
   - ms:278-wheres-the-gold.md "Where’s the Gold?"
-authorities: [Radak, Ibn Janach, Ibn Ezra, Rashi, Menachem Ibn Saruk, Donash Ibn Labrat, Ramban, Ralbag, Rabbi Yeshayah of Trani, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Moshe David Valle, Rabbi Moshe Ibn Ezra, Peirush HaRokeach, Rabbi Todros Abulafia, Rabbi Binyamin HaRofeh Anav, Maharal, Rabbi Eliezer Papo, Rabbi Pinchas Eliyahu Horowitz, Rabbi Yosef Chaim of Baghdad, Dr. Chaim Tawil, William Foxwell Albright, Dr. Shmuel Yeivin]
-updated: 2026-09-22
+authorities: [Radak, Ibn Janach, Ibn Ezra, Rashi, Menachem Ibn Saruk, Donash Ibn Labrat, Ramban, Ralbag, Rabbi Yeshayah of Trani, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Moshe David Valle, Rabbi Moshe Ibn Ezra, Peirush HaRokeach, Rabbi Todros Abulafia, Rabbi Binyamin HaRofeh Anav, Maharal, Rabbi Eliezer Papo, Rabbi Pinchas Eliyahu Horowitz, Rabbi Yosef Chaim of Baghdad, Dr. Chaim Tawil, William Foxwell Albright, Dr. Shmuel Yeivin, Yanai, Rabbi Pinchas HaKohen, Rabbi Yaakov Yisrael Stahl, Midrash Tanchuma, Talmud Yerushalmi, Bamidbar Rabbah]
+updated: 2026-09-24
 ---
 # Gold: zahav / paz / kesem / charutz (betzer)
 
@@ -38,12 +38,13 @@ updated: 2026-09-22
 
 *Zahav* is the general word: **gold**. Most commentators take *paz* as gold;
 Radak specifies good, unadulterated gold, and Rabbi Shlomo Aharon Wertheimer
-makes it **fine gold**, the best and rarest grade. Tehillim 19:11 and 119:127
-set *paz* beside *zahav*. *Kesem* is also fine gold, named for the malleability
-that lets it be beaten thin (Rabbi Shlomo Pappenheim). *Charutz* is gold dug out
-of the ground (Rabbi Aharon Marcus, Rabbi Wertheimer). *Betzer* is disputed: in
-Iyov 22:24 it is read variously as gold, silver, a stronghold, or the unrefined
-ore that yields gold.
+makes it **fine gold**, the best and rarest grade. Ibn Ezra makes it a precious
+stone instead, and Rabbi Moshe David Valle royal jewels that happened to be made
+of gold. Tehillim 19:11 and 119:127 set *paz* beside *zahav*. *Kesem* is also
+fine gold, named for the malleability that lets it be beaten thin (Rabbi Shlomo
+Pappenheim). *Charutz* is gold dug out of the ground (Rabbi Aharon Marcus, Rabbi
+Wertheimer). *Betzer* is disputed: in Iyov 22:24 it is read variously as gold,
+silver, a stronghold, or the unrefined ore that yields gold.
 
 ## At a glance
 
@@ -133,7 +134,8 @@ tov*, *zahav Ophir* (Divrei HaYamim I 29:4), *zahav mufaz*, *zahav shachut*
 *zahav parvayim* (Divrei HaYamim II 3:6), which is either gold from Parvayim or
 gold the color of a cow's blood. *Shemos Rabbah* 35:1 gives a variant list,
 substituting *zahav tahor* and *zahav mezukak* for plain *zahav* and *zahav
-Ophir*. *Tikkunei Zohar* (*Tikkun* 70) carries a parallel tradition of seven
+Ophir*. The Yerushalmi (Yoma 4:5) also speaks of seven kinds of gold.
+*Tikkunei Zohar* (*Tikkun* 70) carries a parallel tradition of seven
 shades in David HaMelech's hair. Ibn Janach and Radak note that *zahav* can be
 borrowed for anything clean and pristine (Yirmiyahu 51:7, Zecharyah 4:12).
 
@@ -190,8 +192,21 @@ names the shine and luster without regard to hue. The Mishnah's use of *kesem*
 for a blood stain (Niddah 8:1) hints that *kesem* is reddish, and gold alloyed
 with copper, red or rose gold, is indeed reddish.
 
+*Bamidbar Rabbah* 12:4 says there are different kinds and shades of gold.
+
 The *Midrash Aggadah* (ed. Buber, Bamidbar 19) says the Golden Calf was made of
 red gold, and so its atonement was a red heifer.
+
+A tradition found in the works of paytanim of Eretz Yisrael in the Byzantine
+period, such as Yanai and Rabbi Pinchas HaKohen, holds that the ornaments of
+the Menorah in the Mikdash miraculously gave off the appearance of coming from
+different kinds of gold of different colors: the *gevi'im* were made of green
+gold (*charutz*), the *kaftorim* of red gold (possibly *parvayim*), and the
+*perachim* of white gold. Rabbi Yaakov Yisrael Stahl finds an allusion to this
+tradition in *Midrash Tanchuma* (Shemini 8), which says that when Hashem showed
+Moshe how to make the Menorah, He showed him "a white fire, a red fire, a black
+fire, and a green fire," and from them made the Menorah and its *gevi'im*,
+*kaftorim*, *perachim* and six branches.
 
 ## Rendering guidance
 
@@ -200,8 +215,8 @@ red gold, and so its atonement was a red heifer.
   119:127, "more than gold and fine gold." (Tehillim 119:72 pairs *zahav* with
   silver rather than with *paz*.)
 - Do not render *charutz* "gold" in a passage where its other sense, diligent, is
-  being played on; the Rid reads the two senses as one word, and a derashah may
-  turn on it.
+  being played on; Rabbi Yeshayah of Trani reads the two senses as one word, and
+  a derashah may turn on it.
 - In Iyov 22:24 leave *betzer* transliterated or render it "ore," and footnote
   the four readings. "Gold" there quietly picks Ibn Janach over Rashi.
 - *Kesem* in Niddah and *kesem* in Iyov are the same consonants doing opposite
@@ -220,4 +235,4 @@ Rabbi Reuven Chaim Klein, "[Where's The Gold?](https://articles.ohr.edu/articles
 
 Rabbi Reuven Chaim Klein, "Where’s the Gold?," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Bereishis 2:11-12 with Ramban, 10:29, 49:23-24 with Rav Hirsch; Melachim I 6 and 7, 9:28, 10:11, 10:16-18, 22:49; Divrei HaYamim I 1:23, 29:4; Divrei HaYamim II 3:6, 4, 9:10, 9:15-16; Yeshayahu 13:12; Yirmiyahu 2:22, 10:9, 51:7; Zecharyah 4:12; Tehillim 19:11 with Radak, Ibn Ezra and Rav Hirsch, 45:10, 68:14, 119:72, 119:127; Iyov 22:24-25, 28:16, 31:24, 36:19; Shir HaShirim 5:11 with Ibn Ezra; Shmuel II 6:16; Daniel 10:5; Mishlei 25:11; Yoma 44b-45a and Mishnah Yoma 4:4; Mishnah Niddah 8:1; *Tosafos* to Nedarim 32a; *Shemos Rabbah* 35:1; *Tikkunei Zohar* *Tikkun* 70; Rabbi Pinchas Eliyahu Horowitz, *Sefer HaBris*; Menachem Ibn Saruk; Donash Ibn Labrat; Ibn Janach; Radak; Ralbag; Rashi; Rabbi Yeshayah of Trani; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. פז and כה\כת; Rabbi Aharon Marcus, *Keses HaSofer* (בר' יא:א, עמ' שיט בר' ב:יב עמ' קמט); Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. זהב\חרוץ\פז; Rabbi Moshe David Valle; Rabbi Moshe Ibn Ezra; *Peirush HaRokeach*; Rabbi Todros Abulafia; Rabbi Binyamin HaRofeh Anav; the Maharal; Rabbi Eliezer Papo; Rabbi Yosef Chaim of Baghdad; Dr. Chaim Tawil; William Foxwell Albright; Dr. Shmuel Yeivin; the *Oxford English Dictionary*; *Midrash Aggadah* (Buber), Bamidbar 19.
+Cited in the essay: Bereishis 2:11-12 with Ramban, 10:29, 49:23-24 with Rav Hirsch; Melachim I 6 and 7, 9:28, 10:11, 10:16-18, 22:49; Divrei HaYamim I 1:23, 29:4; Divrei HaYamim II 3:6, 4, 9:10, 9:15-16; Yeshayahu 13:12; Yirmiyahu 2:22, 10:9, 51:7; Zecharyah 4:12; Tehillim 19:11 with Radak, Ibn Ezra and Rav Hirsch, 45:10, 68:14, 119:72, 119:127; Iyov 22:24-25, 28:16, 31:24, 36:19; Shir HaShirim 5:11 with Ibn Ezra; Shmuel II 6:16; Daniel 10:5; Mishlei 25:11; Yoma 44b-45a and Mishnah Yoma 4:4; Yerushalmi Yoma 4:5; Mishnah Niddah 8:1; *Tosafos* to Nedarim 32a; *Shemos Rabbah* 35:1; *Bamidbar Rabbah* 12:4; *Midrash Tanchuma*, Shemini 8; *Tikkunei Zohar* *Tikkun* 70; Rabbi Pinchas Eliyahu Horowitz, *Sefer HaBris*; Menachem Ibn Saruk; Donash Ibn Labrat; Ibn Janach; Radak; Ralbag; Rashi; Rabbi Yeshayah of Trani; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. פז and כה\כת; Rabbi Aharon Marcus, *Keses HaSofer* (בר' יא:א, עמ' שיט בר' ב:יב עמ' קמט); Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. זהב\חרוץ\פז; Rabbi Moshe David Valle; Rabbi Moshe Ibn Ezra; *Peirush HaRokeach*; Rabbi Todros Abulafia; Rabbi Binyamin HaRofeh Anav; the Maharal; Rabbi Eliezer Papo; Rabbi Yosef Chaim of Baghdad; Dr. Chaim Tawil; William Foxwell Albright; Dr. Shmuel Yeivin; Yanai; Rabbi Pinchas HaKohen; Rabbi Yaakov Yisrael Stahl; the *Oxford English Dictionary*; *Midrash Aggadah* (Buber), Bamidbar 19.

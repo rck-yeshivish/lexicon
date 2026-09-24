@@ -44,7 +44,7 @@ vanquished.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| אויב | oyev | enemy, foe | acts, or plans to (Malbim); targets body and money (Vilna Gaon); hides his hatred and keeps it forever (Emden); the stronger hatred (Shadal) |
+| אויב | oyev | enemy, foe | acts, or has at least pictured himself causing harm, and rejoices at misfortune (Malbim); targets body and money (Vilna Gaon); hides his hatred and keeps it forever (Emden); the stronger hatred (Shadal) |
 | שונא | soneh | hater | hatred kept inside, seen in what he refrains from; targets the soul (Vilna Gaon); hates openly, in speech (Emden) |
 | צר | tzar | adversary, persecutor | open hostility, spending his own reputation and resources to attack |
 
@@ -52,8 +52,9 @@ vanquished.
 
 **Which of the two hides his hatred.**
 
-- The *oyev* acts, or at least plans to (Malbim), while the *soneh* holds his
-  hatred inside, read from what he refrains from doing.
+- The *oyev* acts, or has at least pictured himself causing harm (Malbim),
+  while the *soneh* holds his hatred inside, read from what he refrains from
+  doing.
 - Rabbi Yaakov Emden (*Eim LaBinah* to Shemos 23:22): the reverse. The *soneh*
   hates openly, in speech (see Bereishis 37:4); the *oyev* keeps his enmity
   buried in his heart and holds the grudge forever, like Esav (see Yechezkel

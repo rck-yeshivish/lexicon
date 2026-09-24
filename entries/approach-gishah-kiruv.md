@@ -9,16 +9,17 @@ words:
   - he: גישה
     tr: gishah
     en: approach, come right up to
-    distinct: approaching in awe or across a gap in standing (Rabbi Yehuda Leib Shapira-Frankfurter, Malbim), and closing the distance completely, as near as one can get (Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer); used of people only (Rav Hirsch)
+    distinct: approaching in awe or across a gap in standing (Rabbi Yehuda Leib Shapira-Frankfurter, Malbim), or wherever there is difficulty in approaching (Malbim to Shemos 19:15), and closing the distance completely, as near as one can get (Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer); used of people only (Rav Hirsch)
   - he: קירוב
     tr: kiruv
     en: draw near, bring closer
-    distinct: closing a gap between equals, still on the way (Malbim, Rabbi Shlomo Pappenheim); the abstract nearness of a meeting of minds (Rabbi Yaakov Tzvi Mecklenburg), or simply reducing distance, of animals as well as people (Rav Hirsch)
+    distinct: closing a gap between equals, still on the way (Malbim, Rabbi Shlomo Pappenheim); the abstract nearness of a meeting of minds (Rabbi Yaakov Tzvi Mecklenburg), or simply reducing distance, of animals as well as people (Rav Hirsch); where drawing near is easy (Malbim to Shemos 19:15)
 sources:
   - wiaw:8980 "Vayigash: Coming Close" (2020-12-26) https://articles.ohr.edu/articles/vayigash-coming-close
   - wiaw:11889 "Chukas: Words for War" (2025-07-05) https://articles.ohr.edu/articles/chukas-words-for-war
+  - ms:065-coming-closer.md "Coming Closer"
 authorities: [Rabbi Yehuda Leib Shapira-Frankfurter, Malbim, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Ramban, Rambam, Abarbanel, Rabbi Yehudah Aryeh of Carpentras, Menachem Ibn Saruk, Ibn Janach, Radak]
-updated: 2026-09-10
+updated: 2026-09-24
 ---
 # Approach: gishah / kiruv
 
@@ -40,8 +41,8 @@ lost: Targum typically renders both words by *kiruv* cognates.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| גישה | gishah | approach, come right up to | in awe (Rabbi Yehuda Leib Shapira-Frankfurter), or across a gap in rank (Malbim); as close as one can get (Rabbi Shlomo Pappenheim); of people only (Rav Hirsch) |
-| קירוב | kiruv | draw near, bring closer | between equals (Malbim), still on the way (Rabbi Shlomo Pappenheim); the closeness of mind, not of body (Rabbi Yaakov Tzvi Mecklenburg) |
+| גישה | gishah | approach, come right up to | in awe (Rabbi Yehuda Leib Shapira-Frankfurter), or across a gap in rank, or wherever approach is hard (Malbim); as close as one can get (Rabbi Shlomo Pappenheim); of people only (Rav Hirsch) |
+| קירוב | kiruv | draw near, bring closer | between equals, where drawing near is easy (Malbim), still on the way (Rabbi Shlomo Pappenheim); the closeness of mind, not of body (Rabbi Yaakov Tzvi Mecklenburg) |
 
 ## Where the authorities disagree
 
@@ -54,6 +55,8 @@ Three accounts of the same contrast, and they do not reduce to one.
    litigant *nigash* before a judge (Devarim 25:1) while Hashem coming to judge us
    is *kiruv* (Malachi 3:5): He approaches without fear. Malbim says the same in
    other terms, that *gishah* fits where there is a gap in power between the two.
+   To Shemos 19:15 he puts it this way: *kiruv* is where the two are equal and
+   drawing near is easy, *gishah* where there is difficulty in approaching.
 2. **How far along the approach is.** Rabbi Shlomo Pappenheim and Rabbi Shlomo
    Aharon Wertheimer: *kiruv* is coming closer, *gishah* is arriving as close as
    possible. Rabbi Pappenheim's illustration is Vayikra 2:8, where the owner
@@ -66,7 +69,7 @@ Three accounts of the same contrast, and they do not reduce to one.
    Mecklenburg: *gishah* is bodily closeness and *kiruv* a meeting of minds, so a
    litigant "brought near" to the court (Shemos 22:7) is composing himself to
    stand there, and a *korban* brings a man's will into line with Hashem's, since
-   no physical approach to Him is possible, since He is incorporeal. Rav Hirsch
+   He is incorporeal and no physical approach to Him is possible. Rav Hirsch
    (to Vayikra 21:17) takes the opposite line: *kiruv* is absolute nearness, the
    antonym of *richuk*, absolute farness, so that *karov* names the mathematical
    difference between one location's coordinates and another's and *kiruv* is
@@ -111,7 +114,16 @@ in order to harm him (Tehillim 32:9), and approaching a woman for intimacy
 (Bereishis 20:4), which Rabbi Yaakov Tzvi Mecklenburg allows as *kiruv* standing
 in for the goal it aims at. Ramban (in his notes to the Rambam's *Sefer
 HaMitzvos*, lo saaseh 353) observes that both words are used of intimacy: *kiruv*
-at Devarim 22:14 and Yeshayahu 8:3, *gishah* at Shemos 19:15. Rabbi Yaakov Tzvi
+at Devarim 22:14 and Yeshayahu 8:3, *gishah* at Shemos 19:15. Malbim (to Shemos
+19:15) explains why that pasuk has *gishah*. Chazal explain in Maseches Shabbos
+that the three days of separation were needed because of the women, since a woman who
+expels *shichvas zera* on the third day is tamei, and Malbim finds this evident
+from the wording: of approaching a woman the Torah always says *kiruv*, and only
+here *gishah*. Even *lo sikrevu legalos ervah* (Vayikra 18:6) is *kiruv*,
+because the woman is warned like the man and the two approach alike. Here the
+hindrance was on her side alone, not on his, for he could immerse and become
+tahor, while she would not be fit, a woman who expels *shichvas zera* within
+three days being tamei; so the pasuk took the word *gishah*. Rabbi Yaakov Tzvi
 Mecklenburg reads the choice of *kiruv* in the arayos parashah (Vayikra 18:6) as
 load-bearing: the Torah forbids any coming nearer, the closest approach included, which is the Rambam's source that hugging and kissing are forbidden
 mid'oraisa.
@@ -145,4 +157,6 @@ Rabbi Reuven Chaim Klein, "[Vayigash: Coming Close](https://articles.ohr.edu/art
 
 Rabbi Reuven Chaim Klein, "[Chukas: Words for War](https://articles.ohr.edu/articles/chukas-words-for-war)," *What's in a Word?*, Ohr Somayach, 5 July 2025.
 
-Cited in the essay: Bereishis 18:23, 20:4, 44:18; Shemos 14:10, 19:15, 21:28, 22:7; Vayikra 1:2, 2:8, 18:6, 22:3; Devarim 2:19, 20:2-3, 20:10, 22:14, 25:1; Yeshayahu 8:3, 59:10; Malachi 3:5; Tehillim 32:9; Iyov 7:5; Bava Kamma 116b; Bava Metzia 79b; Rav Hirsch to Vayikra 21:17; Ramban to *Sefer HaMitzvos*, lo saaseh 353; Abarbanel to *Moreh Nevuchim* 1:18; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; *Ohalei Yehuda*.
+Rabbi Reuven Chaim Klein, "Coming Closer," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 18:23, 20:4, 44:18; Shemos 14:10, 19:15, 21:28, 22:7; Vayikra 1:2, 2:8, 18:6, 22:3; Devarim 2:19, 20:2-3, 20:10, 22:14, 25:1; Yeshayahu 8:3, 59:10; Malachi 3:5; Tehillim 32:9; Iyov 7:5; Bava Kamma 116b; Bava Metzia 79b; Rav Hirsch to Vayikra 21:17; Ramban to *Sefer HaMitzvos*, lo saaseh 353; Malbim to Shemos 19:15; Abarbanel to *Moreh Nevuchim* 1:18; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; *Ohalei Yehuda*.

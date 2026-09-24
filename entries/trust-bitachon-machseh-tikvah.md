@@ -52,7 +52,7 @@ sources:
   - wiaw:8836 "Trusting and Relying on G-d" (2020-08-29) https://articles.ohr.edu/articles/trusting-and-relying-on-g-d
   - wiaw:9877 "Trusting and Relying on G-d" (2022-09-10) https://articles.ohr.edu/articles/trusting-and-relying-on-g-d-2
   - wiaw:11178 "Vayigash: Say it Clear (Part 2/2)" (2023-12-23) https://articles.ohr.edu/articles/vayigash-say-it-clear-part-22
-authorities: [Rabbeinu Bachaya Ibn Pakuda, Malbim, Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Moshe Tzuriel, Peirush HaRokeach, Rabbi Moshe Wolfson, Rav Hirsch]
+authorities: [Rabbeinu Bachya Ibn Pakuda, Malbim, Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Moshe Tzuriel, Peirush HaRokeach, Rabbi Moshe Wolfson, Rav Hirsch]
 updated: 2026-09-10
 ---
 # Trust: bitachon / machseh / tikvah / tocheles / chikui / semichah / mishan / saad / sever / kesel
@@ -191,4 +191,4 @@ Rabbi Reuven Chaim Klein, "[Trusting and Relying on G-d](https://articles.ohr.ed
 
 Rabbi Reuven Chaim Klein, "[Vayigash: Say it Clear (Part 2/2)](https://articles.ohr.edu/articles/vayigash-say-it-clear-part-22)," *What's in a Word?*, Ohr Somayach, 23 December 2023.
 
-Cited in the essay: Rabbeinu Bachaya Ibn Pakuda, *Chovos HaLevavos*, Shaar HaBitachon; Bereishis 1:9 to 10, 18:5; Shemos 7:19; Vayikra 11:36; Bamidbar 8:10; Devarim 34:9; Yehoshua 2:18; Michah 3:11; Tehillim 104:15, 118:9, 130:7, 145:15; Mishlei 3:26, 14:26 with *Biur HaGra*; Koheles 2:14; Chagigah 16b; Malbim to Shoftim 16:29 and Iyov 4:6 and 8:13, *Sefer HaCarmel* s.v. בטח and חסה, and *Yair Ohr*, maareches shin os 4; the Vilna Gaon; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. שע, קו and חס, and *Yerios Shlomo*, chovereth 4 yeriah 6; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. שבר/קוה/יחל/חכה and קוה/יחל/חכה; Rabbi Moshe Tzuriel; *Peirush HaRokeach*; Rabbi Moshe Wolfson; Rav Hirsch to Tehillim 145:15.
+Cited in the essay: Rabbeinu Bachya Ibn Pakuda, *Chovos HaLevavos*, Shaar HaBitachon; Bereishis 1:9 to 10, 18:5; Shemos 7:19; Vayikra 11:36; Bamidbar 8:10; Devarim 34:9; Yehoshua 2:18; Michah 3:11; Tehillim 104:15, 118:9, 130:7, 145:15; Mishlei 3:26, 14:26 with *Biur HaGra*; Koheles 2:14; Chagigah 16b; Malbim to Shoftim 16:29 and Iyov 4:6 and 8:13, *Sefer HaCarmel* s.v. בטח and חסה, and *Yair Ohr*, maareches shin os 4; the Vilna Gaon; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. שע, קו and חס, and *Yerios Shlomo*, chovereth 4 yeriah 6; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. שבר/קוה/יחל/חכה and קוה/יחל/חכה; Rabbi Moshe Tzuriel; *Peirush HaRokeach*; Rabbi Moshe Wolfson; Rav Hirsch to Tehillim 145:15.

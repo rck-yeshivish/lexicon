@@ -14,7 +14,7 @@ words:
     tr: chaver
     en: friend
     nk: חָבֵר
-    distinct: the middle and default word, from joining; one who has attached himself elsewhere, or two once apart now drawn close (Rokeach); connection in one shared respect, as two who learn in one place (Wertheimer)
+    distinct: the middle word, from joining; one who has attached himself elsewhere, or two once apart now drawn close (Rokeach); connection in one shared respect, as two who learn in one place (Wertheimer)
   - he: רע
     tr: reya
     en: companion, confidant
@@ -22,7 +22,7 @@ words:
 sources:
   - wiaw:7620 "G-d's Best Friend" (2018-02-03) https://articles.ohr.edu/articles/g-ds-best-friend
   - ms:122-g-ds-best-friend.md "G-d’s Best Friend"
-authorities: [Rabbi Elazar Rokeach of Worms, Rabbi Shlomo Aharon Wertheimer, Rashi, Maharsha, Targum Onkelos, Rabbi Mattisyahu HaYitzhari]
+authorities: [Rabbi Elazar Rokeach of Worms, Rabbi Shlomo Aharon Wertheimer, Rashi, Maharsha, Targum Onkelos, Rabbi Mattisyahu HaYitzhari, Rabbi Shlomo Pappenheim]
 updated: 2026-09-22
 ---
 # Friend: reya / chaver / amis
@@ -31,17 +31,17 @@ updated: 2026-09-22
 
 The three run on a scale of closeness. *Amis* is the loosest: **associate,
 acquaintance**, the man one deals with rather than confides in. *Chaver* is the
-middle and the default: **friend**, one joined to you in some shared thing.
-*Reya* is the closest: **companion** or **confidant**, the one you are with
-frequently and to whom you tell your secrets. Rabbi Elazar Rokeach of Worms and
-Rabbi Shlomo Aharon Wertheimer both set them in this order.
+middle: **friend**, one joined to you in some shared thing. *Reya* is the
+closest: **companion** or **confidant**, the one you are with frequently and to
+whom you tell your secrets. Rabbi Elazar Rokeach of Worms and Rabbi Shlomo
+Aharon Wertheimer both set them in this order.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | עמית | amis | associate, acquaintance | loosest; comes now and then (Rokeach); a business associate (Wertheimer) |
-| חבר | chaver | friend | the default; joined in one shared respect, as learning together (Wertheimer) |
+| חבר | chaver | friend | the middle; joined in one shared respect, as learning together (Wertheimer) |
 | רע | reya | companion, confidant | most intimate; you tell him your secrets (Rokeach); complete affection (Wertheimer); one whose thoughts cleave to his fellow's, from *ra'ayon* (Rabbi Mattisyahu HaYitzhari) |
 
 ## Distinctions
@@ -91,11 +91,11 @@ intimate of the three.
 chesilim yeiro'a*. Rashi: *yeiro'a* there is not "will become evil" but "will
 be broken" (see also Maharsha to Berachos 63a on Mishlei 18:24). Likewise the
 Talmudic *kosel ra'ua*, a broken wall, and *teruah*, the broken-up shofar
-blasts against the unbroken *tekiah*. Rabbi Klein offers two ways to hold the
-opposites together, both of them tentative: "it seems" that this is one more
-Hebrew word carrying a sense and its reverse, or, as he then suggests himself,
-a *reya* is precisely one whose separate existence is a brokenness off from
-you, really meant to be attached to you.
+blasts against the unbroken *tekiah*. Rabbi Shlomo Pappenheim (*Cheshek
+Shlomo*) points out that this is one more Hebrew word carrying a sense and its
+reverse. Alternatively, Rabbi Klein suggests, a *reya* is precisely one whose
+separate existence is a brokenness off from you, really meant to be attached to
+you.
 
 Rabbi Mattisyahu HaYitzhari (on *Avos* 6:1): a *rei'a* is one who cleaves to his
 fellow and whose thoughts never part from him, in study, in public affairs, or
@@ -138,4 +138,4 @@ Rabbi Reuven Chaim Klein, "[G-d's Best Friend](https://articles.ohr.edu/articles
 
 Rabbi Reuven Chaim Klein, "G-d’s Best Friend," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: the Midrash on Yisro's seven names; Devarim 13:7; Vayikra 19:18; Shemos 11:2; Kiddushin 41a; Niddah 17a; Shabbos 63a; Mishlei 13:20 with Rashi, and 18:24 with Maharsha to Berachos 63a; Targum Onkelos; Rabbi Elazar Rokeach of Worms, commentary to the Siddur; Rabbi Shlomo Aharon Wertheimer; Ralph Waldo Emerson; President Bill Clinton; Rabbi Mattisyahu HaYitzhari on *Avos* 6:1; Koheles 1:17; Tehillim 139:2, 139:17; Mishlei 17:17.
+Cited in the essay: the Midrash on Yisro's seven names; Devarim 13:7; Vayikra 19:18; Shemos 11:2; Kiddushin 41a; Niddah 17a; Shabbos 63a; Mishlei 13:20 with Rashi, and 18:24 with Maharsha to Berachos 63a; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. רע; Targum Onkelos; Rabbi Elazar Rokeach of Worms, commentary to the Siddur; Rabbi Shlomo Aharon Wertheimer; Ralph Waldo Emerson; President Bill Clinton; Rabbi Mattisyahu HaYitzhari on *Avos* 6:1; Koheles 1:17; Tehillim 139:2, 139:17; Mishlei 17:17.

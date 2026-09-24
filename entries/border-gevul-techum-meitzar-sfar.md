@@ -22,7 +22,7 @@ words:
     tr: sfar
     en: frontier
     nk: סְפָר
-    distinct: what sits near the line, the border region exposed to what lies outside; later Rabbinic, with one possible Biblical instance in sefarah (Rabbi Mecklenburg), most taking that as a place name; from circle, border cities walled round (Rabbi Golumb); confines all within it as one unit (Rabbi Moshe Shapiro)
+    distinct: what sits near the line, the border region exposed to what lies outside; later Rabbinic, with one possible Biblical instance in sefarah (Rabbi Mecklenburg), most apparently taking that as a place name; from circle, border cities walled round (Rabbi Golumb); confines all within it as one unit (Rabbi Moshe Shapiro)
   - he: מצרים
     nk: מְצָרִים
 sources:
@@ -189,7 +189,7 @@ The etymology is not immediately clear.
   "between the boundaries" and keep "straits" for the Tehillim 118:5 sense.
 - *Techum Shabbos* stays transliterated, glossed once as "the Shabbos limit."
 - *Sfar* is "frontier" or "border region," never plain "border," since the
-  point in both mishnayos is exposure to the outside.
+  point in *Sanhedrin* 1:5 is exposure to the outside.
 
 ## Notes for a project
 
@@ -203,4 +203,4 @@ Rabbi Reuven Chaim Klein, "[Haircut Time](https://articles.ohr.edu/articles/hair
 
 Rabbi Reuven Chaim Klein, "[Pesach: Telling the Story](https://articles.ohr.edu/articles/pesach-telling-the-story)," *What's in a Word?*, Ohr Somayach, 13 April 2019.
 
-Cited in the essay: Eichah 1:3 with *Eichah Rabbah* 1:29, Rashi, Ibn Ezra, Targum and Mahari Kara; Bamidbar 34:1-12; Shemos 7:27 with Rav Hirsch, 10:4, 13:7, 19:12, 19:23; Bereishis 10:6, 10:19, 10:30, 23:17, 49:13; Devarim 1:7, 19:4; Melachim I 5:32; Yechezkel 27:9; Tzefaniah 2:5-6; Amos 5:9; Tehillim 39:14, 118:5, 147:5; Iyov 9:27, 10:20; Divrei HaYamim I 1:8; Kesubos 44a; Mishnah *Eruvin* 5:5, *Beitzah* 4:2, *Sotah* 5:3 and 9:2, *Sanhedrin* 1:5, *Ohalos* 2:2, *Shabbos* 24:3, *Bava Metzia* 10:5, *Parah* 9:5; Radak, *Sefer HaShorashim*; Rabbi Yehuda Ibn Kuraish, *Risala*; *Yerios Shlomo* p. 836; *Cheshek Shlomo*; *HaKsav VeHaKabbalah* to Shemos 13:7, 19:12 and Vayikra 23:16; *Iyun Tefillah* to Tehillim 147:5; *Targumna* to Shemos 9:29 and Vayikra 14:9; *Midrash Safah Echas*; *Birkas Ish*; *Pardes Rimonim* shaar 8 ch. 2; Rabbi Ernest Klein's etymological dictionary; Wilhelm Gesenius.
+Cited in the essay: Eichah 1:3 with *Eichah Rabbah* 1:29, Rashi, Ibn Ezra, Targum and Mahari Kara; Bamidbar 34:1-12; Shemos 7:27 with Rav Hirsch, 10:4, 13:7, 19:12, 19:23; Bereishis 10:6, 10:19, 10:30, 23:17, 49:13; Devarim 1:7, 19:4; Melachim I 5:32; Yechezkel 27:9; Tzefaniah 2:5-6; Amos 5:9; Tehillim 39:14, 118:5, 147:5; Iyov 9:27, 10:20; Divrei HaYamim I 1:8; Kesubos 44a; Mishnah *Eruvin* 5:5, *Beitzah* 4:2, *Sotah* 5:3 and 9:2, *Sanhedrin* 1:5, *Ohalos* 2:2, *Shabbos* 24:3, *Bava Metzia* 10:5, *Parah* 9:5; Radak, *Sefer HaShorashim*; Rabbi Yehuda Ibn Kuraish, *Risala*; *Yerios Shlomo* p. 836; *Cheshek Shlomo*; *HaKsav VeHaKabbalah* to Shemos 13:7, 19:12 and Vayikra 23:16; *Iyun Tefillah* to Tehillim 147:5; *Targumna* to Shemos 9:29 and Vayikra 14:9; *Midrash Safah Echas*; *Birkas Ish*; *Imrei Pinchas HaShaleim*, *Bein HaMitzarayim* §356; *Pardes Rimonim* shaar 8 ch. 2; Rabbi Ernest Klein's etymological dictionary; Wilhelm Gesenius.

@@ -21,7 +21,7 @@ words:
   - he: אץ
     tr: atz
     en: hurrying
-    distinct: pressing a man to move faster, from צ, going out (Pappenheim); or physically pushing him, since Onkelos renders it d'chak (Posen)
+    distinct: pressing a man to move faster, from צ, going out (Pappenheim); or, at Bereishis 19:15, physically pushing Lot, since Onkelos there renders it d'chak (Posen)
   - he: אלץ
     tr: alatz
     en: pressing with words
@@ -46,18 +46,18 @@ readings that do not agree. Rabbi Eliezer Ashkenazi and Pappenheim take opposite
 sides on which of the two carries the malice. *Negisah* is the **taskmaster's
 driving**, which Pappenheim sees as relentless and up close. *Atz* is
 **hurrying** someone along as Pappenheim reads it; Rabbi Posen, from the Targum,
-takes it as physically pushing him. *Alatz* is **pressing with words**.
-Pappenheim explains it as cajoling, Ramban and Radak tie it to *lachatz*, and
-Ibn Janach reads it as making a man angry.
+takes it at Bereishis 19:15 as physically pushing Lot. *Alatz* is **pressing
+with words**. Pappenheim explains it as cajoling, Ramban and Radak tie it to
+*lachatz*, and Ibn Janach reads it as making a man angry.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| לחץ | lachatz | pressure | on the one applying it (Schwab); benign (Ashkenazi) or meant to hurt (Pappenheim) |
+| לחץ | lachatz | pressure | on the one applying it (Schwab); not necessarily nefarious (Ashkenazi) or meant to hurt (Pappenheim) |
 | דחק | d'chak | crowding, squeezing out | pressure that lands (Schwab); shoving a man aside for one's own gain (Pappenheim) |
 | נגישה | negisah | taskmaster's driving | standing over a man, from closeness (Pappenheim); pressing for money not owed (Malbim) |
-| אץ | atz | hurrying | hurrying a man along (Pappenheim); physically pushing, per Onkelos (Posen) |
+| אץ | atz | hurrying | hurrying a man along (Pappenheim); at Bereishis 19:15, physically pushing Lot, per Onkelos (Posen) |
 | אלץ | alatz | pressing with words | cajoling with words (Pappenheim); kin to *lachatz* (Ramban, Radak); angering (Ibn Janach) |
 
 ## Distinctions

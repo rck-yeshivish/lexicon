@@ -34,26 +34,27 @@ words:
     distinct: Mishnaic, usually a wooden pole with a sharpened end, a spit or skewer; a loanword from Greek spodos (Rabbi Ernest Klein), and perhaps cognate with English spit (Rabbi Reuven Chaim Klein)
 sources:
   - wiaw:11433 "Shelach: Message on a Pole" (2024-06-29) https://articles.ohr.edu/articles/shelach-message-on-a-pole
-authorities: [Rabbi Yaakov Tzvi Mecklenburg, Zohar, Rabbeinu Yonah Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Shlomo of Urbino, Rav Hirsch, Rambam, Rashi, Rabbi Ernest Klein, Rabbi Tzvi Matisyahu Abrahams, Midrash Tanchuma, Mechilta, Even Shoshan, Doron Yaakov]
-updated: 2026-09-10
+  - ms:243-message-on-a-pole.md "Message on a Pole"
+authorities: [Rabbi Yaakov Tzvi Mecklenburg, Zohar, Rabbeinu Yonah Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Shlomo of Urbino, Rav Hirsch, Rambam, Rashi, Rabbi Ernest Klein, Rabbi Tzvi Matisyahu Abrahams, Midrash Tanchuma, Mechilta, Even Shoshan, Doron Yaakov, Rabbi Zundel Kroizer]
+updated: 2026-09-24
 ---
 # Pole: mot / bad / neis / toren / shapud
 
 ## Bottom line
 
-*Mot* is a pole for carrying things, and the feminine *motah* most often the
-bar of a yoke: **carrying pole, yoke-bar**. *Bad*, which Rabbi Shlomo of Urbino
+*Mot* is a pole for carrying things, and the feminine *motah* most often the bar
+of a yoke: **carrying pole, yoke-bar**. *Bad*, which Rabbi Shlomo of Urbino
 makes a synonym of *mot*, is the carrying pole of the Mishkan vessels:
 **stave**. *Neis* is a high pole or flagpole (**banner, standard**), and on a
-ship the **sail**. *Toren* is the **mast** that holds the *neis* up. *Shapud* is a
-pointed **skewer** or spit.
+ship the **sail**. *Toren* is the **mast** that holds the *neis* up. *Shapud* is
+usually a pointed **skewer** or spit.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | מוט | mot | carrying pole, yoke-bar | carrying pole; *motah*, a yoke-bar; synonym of *bad* (Rabbi Shlomo of Urbino) |
-| זמורה | zemorah | branch | the same wood as *mot* while still on the tree (Zohar) |
+| זמורה | zemorah | branch | the same wood as *mot* while still on the tree (Zohar), or a second object beside the pole (Mecklenburg) |
 | בד | bad | stave | the Mishkan vessels' carrying stave; the branch singled out, alone (Pappenheim) |
 | נס | neis | banner, sail | tall flagpole or banner, a ship's sail; lifted above the rest (Pappenheim) |
 | תורן | toren | mast | a ship's mast, holding up the *neis*; held by ropes (Pappenheim) |
@@ -125,6 +126,15 @@ gather in our exiles."
   interchanging: a *neis* as miracle is an event lifted out of the ordinary
   order of nature, and a *neis* as pole is the branch lifted above the rest of
   the tree.
+- Rabbi Zundel Kroizer (1924 to 2014), in *Ohr HaChamah* on *Al HaNissim*, sees
+  *neis*, miracle, as related to *has*, silence, because before Hashem performs
+  a miracle every angelic accusation that would stop it from happening must be
+  silenced. In his words, this is the name *neis*: Hakadosh Baruch Hu says
+  *has kateigor*, "Silence, accuser!", and the miracle is done. Rabbi Klein
+  notes that this works neatly with a monoliteral root samech, so that with a
+  nun it is נס and with a hei הס. He calls the monoliteral samech Rabbi
+  Pappenheim's idea, though the one-letter root for *nasah* given above is
+  *Machberes Menachem*'s, and Pappenheim's own root for *neis* is ש-א.
 - Mecklenburg (*HaKsav VeHaKabbalah* to Bereishis 22:1): a *nisayon* from the
   All-Knowing cannot be for the tester to learn something, so it is for the
   tested to reach new levels by prevailing through the travails of a Divine
@@ -201,8 +211,7 @@ pp. 2-3).
   liturgical prose ("raise a *neis*") keep "banner"; a reader who hears
   "miracle" loses the image of the ingathering signal.
 - *Badim* in the Mishkan are "staves," not "poles" and never "rods"; the Torah
-  is careful that they are not removed (Shemos 25:15), and the halachic term of
-  art in English is settled.
+  is careful that they are not removed (Shemos 25:15).
 - *Motah* is "yoke-bar" or, in the idiom of Vayikra 26:13, "the bars of your
   yoke." Do not level it to "yoke," which is *ol*.
 - *Shapud*: "skewer" for food, "spit" for roasting; both are fine, but pick one
@@ -216,4 +225,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Shelach: Message on a Pole](https://articles.ohr.edu/articles/shelach-message-on-a-pole)," *What's in a Word?*, Ohr Somayach, 29 June 2024.
 
-Cited in the essay: Bereishis 17:20, 22:1, 39:12; Shemos 15:25, 25:13-15, 25:28, 27:7, 30:4, 37:5, 37:14, 37:27, 38:7; Vayikra 26:13; Bamidbar 4:10, 4:12, 13:23, 21:8-9; Yeshayahu 30:17, 33:23, 58:6; Yechezkel 27:5, 27:7, 30:18; Nachum 1:13; Tehillim 4:7; Zohar *Shelach* 160b; *Mechilta* to Shemos 15:25; *Tanchuma Vayeira* 43; Mishnah *Shabbos* 1:9, *Pesachim* 7:1-2, *Sukkah* 1:8, *Nedarim* 3:2, *Bava Kamma* 8:1, *Bava Metzia* 10:4, *Bava Basra* 1:6, 4:4-5, 5:1, *Shevuos* 3:8, *Avodah Zarah* 5:12, *Zevachim* 11:7, *Keilim* 5:5, 7:3, 12:3, 20:3, *Ohalos* 1:3, *Taharos* 10:1-2, 10:8, *Zavim* 4:7; Rambam's commentary to *Bava Basra* 5:1; Rashi to *Bava Basra* 73a and to Yeshayahu 30:17; Rav Hirsch to Bereishis 17:20, 22:1 and Tehillim 4:7; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Ibn Janach and Radak, *Sefer HaShorashim*; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* and *Yerios Shlomo*; Rabbi Shlomo of Urbino, *Ohel Moed*; the Kaufmann manuscript of the Mishnah; Even Shoshan's concordance; Rabbi Ernest Klein; Doron Yaakov, *Academ* vol. 40 pp. 2-3; Rabbi Tzvi Matisyahu Abrahams, *Root Connections in the Torah* 120-125.
+Rabbi Reuven Chaim Klein, "Message on a Pole," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 17:20, 22:1, 39:12; Shemos 15:25, 25:13-15, 25:28, 27:7, 30:4, 37:5, 37:14, 37:27, 38:7; Vayikra 26:13; Bamidbar 4:10, 4:12, 13:23, 21:8-9; Yeshayahu 30:17, 33:23, 58:6; Yechezkel 27:5, 27:7, 30:18; Nachum 1:13; Tehillim 4:7; Zohar *Shelach* 160b; *Mechilta* to Shemos 15:25; *Tanchuma Vayeira* 43; Mishnah *Shabbos* 1:9, *Pesachim* 7:1-2, *Sukkah* 1:8, *Nedarim* 3:2, *Bava Kamma* 8:1, *Bava Metzia* 10:4, *Bava Basra* 1:6, 4:4-5, 5:1, *Shevuos* 3:8, *Avodah Zarah* 5:12, *Zevachim* 11:7, *Keilim* 5:5, 7:3, 12:3, 20:3, *Ohalos* 1:3, *Taharos* 10:1-2, 10:8, *Zavim* 4:7; Rambam's commentary to *Bava Basra* 5:1; Rashi to *Bava Basra* 73a and to Yeshayahu 30:17; Rav Hirsch to Bereishis 17:20, 22:1 and Tehillim 4:7; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Ibn Janach and Radak, *Sefer HaShorashim*; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* and *Yerios Shlomo*; Rabbi Shlomo of Urbino, *Ohel Moed*; the Kaufmann manuscript of the Mishnah; Even Shoshan's concordance; Rabbi Ernest Klein; Doron Yaakov, *Academ* vol. 40 pp. 2-3; Rabbi Tzvi Matisyahu Abrahams, *Root Connections in the Torah* 120-125; Rabbi Zundel Kroizer, *Ohr HaChamah* on *Al HaNissim*.

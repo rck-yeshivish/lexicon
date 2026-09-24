@@ -9,12 +9,12 @@ words:
   - he: רחום
     tr: rachum
     en: merciful
-    distinct: one of the Thirteen Attributes, which Rabbeinu Bachaya elsewhere makes one with chanun; focuses on the savior, moved by the sufferer's plight (Rabbi Klein); for the poor (Bechor-Shor); beyond the letter of the law (Rokeach), or, others say, only for one who asks; from rechem, opened in childbirth (Rabbeinu Efrayim)
+    distinct: one of the Thirteen Attributes, which Rabbeinu Bachya elsewhere makes one with chanun; focuses on the savior, moved by the sufferer's plight (Rabbi Klein); for the poor (Bechor-Shor); beyond the letter of the law (Rokeach), or, others say, only for one who asks; from rechem, opened in childbirth (Rabbeinu Efrayim)
   - he: רחמים
     tr: rachamim
     en: mercy, compassion
     nk: רַחֲמִים
-    distinct: Hashem withholding a calamity before it falls (gloss to Tosafos); His general oversight of the world (Rabbeinu Bachaya); against din, the Giver gives without weighing desert (Rabbi Klein); from motherly protection, as in rechem (Rav Hirsch); surviving past a sin, as the womb shelters until teshuvah (Rabbi Moshe Shapiro); chesed mixed with din (Rabbi Moshe de Leon)
+    distinct: Hashem withholding a calamity before it falls (gloss to Tosafos); His general oversight of the world (Rabbeinu Bachya); against din, the Giver gives without weighing desert (Rabbi Klein); from motherly protection, as in rechem (Rav Hirsch); surviving past a sin, as the womb shelters until teshuvah (Rabbi Moshe Shapiro); chesed mixed with din (Rabbi Moshe de Leon)
   - he: חנון
     tr: chanun
     en: gracious
@@ -34,7 +34,7 @@ sources:
   - wiaw:8411 "Rosh Hashana: A Tale of Two Beginnings" (2019-09-28) https://articles.ohr.edu/articles/rosh-hashana-a-tale-of-two-beginnings
   - wiaw:10983 "True Love (Part 2/2)" (2023-11-18) https://articles.ohr.edu/articles/true-love-part-22
   - ms:152-mercy-or-pity.md "Mercy or Pity"
-authorities: [Rabbeinu Bachaya, Rashi, Rabbi Yosef Bechor-Shor, gloss to Tosafos, Rabbi Elazar Rokeach of Worms, Rabbi Avraham bar Chaim Ibn Ramoch, Malbim, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Yitzchak Avineri, Rabbi Moshe Shapiro, Rabbi Moshe de Leon, Rabbeinu Efrayim ben Shimshon]
+authorities: [Rabbeinu Bachya, Rashi, Rabbi Yosef Bechor-Shor, gloss to Tosafos, Rabbi Elazar Rokeach of Worms, Rabbi Avraham bar Chaim Ibn Ramoch, Malbim, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Yitzchak Avineri, Rabbi Moshe Shapiro, Rabbi Moshe de Leon, Rabbeinu Efrayim ben Shimshon]
 updated: 2026-09-22
 ---
 # Mercy: rachum / chanun / chus / chemlah
@@ -68,7 +68,7 @@ revealed to Moshe as he prayed for the Jewish People after the golden calf,
 attributes that are key to how Hashem runs the world and to how a man attains
 atonement; although one generally refrains from using adjectives to describe
 Hashem, these are presented as such.
-- Rabbeinu Bachaya (on Shemos) writes that *rachum* and *chanun* are Hashem's
+- Rabbeinu Bachya (on Shemos) writes that *rachum* and *chanun* are Hashem's
   way of forgiving sinners who ask forgiveness, repent and undergo some
   affliction, but he does not there explain how the two differ; elsewhere he
   writes that they are actually one and the same attribute, His heeding prayer
@@ -86,7 +86,7 @@ Hashem, these are presented as such.
   calamity before it falls.
 - Rabbi Elazar Rokeach of Worms: *rachum* acts beyond the letter of the law
   (others explain the opposite: *rachum* only for one who asks for mercy).
-- Rabbeinu Bachaya again: *rachamim* is Hashem's general oversight of the world.
+- Rabbeinu Bachya again: *rachamim* is Hashem's general oversight of the world.
 - Rabbi Avraham bar Chaim Ibn Ramoch, who lived in Spain at the beginning of the
   Spanish Inquisition (to Tehillim 86:16, 112:4, 145:8): *rachum* saves from any
   form of suffering.
@@ -130,7 +130,7 @@ Hashem, these are presented as such.
 - Rokeach: *chanun* uses the system of justice to heed another's call for
   clemency (others explain the opposite: *chanun* is even for one who does not
   request mercy).
-- Rabbeinu Bachaya: *chanun* is His particular oversight of each element of
+- Rabbeinu Bachya: *chanun* is His particular oversight of each element of
   creation.
 - Ibn Ramoch: *chanun* grants intellectual gifts by which a man helps himself.
 
@@ -158,7 +158,7 @@ Neither is among the Thirteen Attributes.
   Thirteen Attributes and wherever רחום וחנון stand together, keep "merciful
   and gracious"; where חמלה or חוס joins them, use "pity" or "spare" so the
   third word is not a repeat.
-- Together, order and attribution follow the pasuk (Rabbeinu Bachaya notes
+- Together, order and attribution follow the pasuk (Rabbeinu Bachya notes
   both orders occur); do not reorder for climax as one does with *bushah* and
   *klimah*.
 
@@ -176,4 +176,4 @@ Rabbi Reuven Chaim Klein, "[True Love (Part 2/2)](https://articles.ohr.edu/artic
 
 Rabbi Reuven Chaim Klein, "Mercy or Pity," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Rabbeinu Bachaya to Shemos; Rashi to Devarim 3:23; gloss to Tosafos, Rosh Hashanah 17b; Ibn Ramoch to Tehillim 86:16, 112:4, 145:8; Malbim on *chus* and *chemlah*; Rabbi Wertheimer; Rav Hirsch to Shemos 13:2; Rabbi Yitzchak Avineri; Rabbi Moshe Shapiro, *Re'ay Emunah* p. 280; Rabbi Moshe de Leon; Rabbeinu Efrayim to Bereishis 29:31.
+Cited in the essay: Rabbeinu Bachya to Shemos; Rashi to Devarim 3:23; gloss to Tosafos, Rosh Hashanah 17b; Ibn Ramoch to Tehillim 86:16, 112:4, 145:8; Malbim on *chus* and *chemlah*; Rabbi Wertheimer; Rav Hirsch to Shemos 13:2; Rabbi Yitzchak Avineri; Rabbi Moshe Shapiro, *Re'ay Emunah* p. 280; Rabbi Moshe de Leon; Rabbeinu Efrayim to Bereishis 29:31.

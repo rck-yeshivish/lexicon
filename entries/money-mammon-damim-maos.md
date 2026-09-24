@@ -35,7 +35,7 @@ words:
 sources:
   - wiaw:11394 "Bechukosai: All About Money" (2024-06-01) https://articles.ohr.edu/articles/bechukosai-all-about-money
   - wiaw:9907 "An Utter Embarrassment" (2022-09-17) https://articles.ohr.edu/articles/an-utter-embarrassment
-authorities: [Rabbi Natan of Rome, Rabbi Eliyahu HaBachur, Rabbi Ernest Klein, Rabbi Shlomo Pappenheim, Rashi, Rashbam, Ibn Ezra, Ibn Janach, Radak, Chida, Rabbi Yitzchok Schmelkes, Rabbi Shlomo Zalman Ehrenreich, Rabbi Chaim of Friedberg, Rabbi Yaakov Emden, Rabbi Azaria Figo, Rabbi Eliezer Herstik, Pri Megadim, Rabbi Shimon Yehuda Leib Goldblit, Theo Vennemann, Maharal]
+authorities: [Rabbi Nosson of Rome, Rabbi Eliyahu HaBachur, Rabbi Ernest Klein, Rabbi Shlomo Pappenheim, Rashi, Rashbam, Ibn Ezra, Ibn Janach, Radak, Chida, Rabbi Yitzchok Schmelkes, Rabbi Shlomo Zalman Ehrenreich, Rabbi Chaim of Friedberg, Rabbi Yaakov Emden, Rabbi Azaria Figo, Rabbi Eliezer Herstik, Pri Megadim, Rabbi Shimon Yehuda Leib Goldblit, Theo Vennemann, Maharal]
 updated: 2026-09-10
 ---
 # Money: mammon / damim / maos (zuz, kesef, mechir)
@@ -70,7 +70,7 @@ Absent from Tanach, frequent from the Mishnah on: loving Hashem "with all your
 *mammon*" (Berachos 9:5, on Devarim 6:5), a motive for kidnapping (Kesubos 2:9),
 the exemption of one liable to death from monetary payment (Kesubos 3:2), and
 Rabbi Yishmael's advice that one who wants to grow wise should occupy himself
-with *dinei mammonos* (Bava Basra 10:8). Rabbi Natan of Rome (*Sefer HeAruch*)
+with *dinei mammonos* (Bava Basra 10:8). Rabbi Nosson of Rome (*Sefer HeAruch*)
 and Rabbi Eliyahu HaBachur (*Sefer HaTishbi*, *Meturgeman*): *mammon* is
 Targum's standard Aramaic for the Biblical *hon* (wealth) and *rechush*
 (property). Etymologies:

@@ -44,9 +44,12 @@ the later prophets grasped their visions less clearly.
 |---|---|---|---|
 | נביא | navi | prophet, spokesman | the mouth that brings Hashem's word; sent to rebuke, and feared (Malbim); sent to preach to the people (Chasam Sofer) |
 | רואה | roeh | seer | the earlier seer people came to (Malbim); sharp vision (Vilna Gaon); saw visions without a charge to spread them (Chasam Sofer) |
-| חוזה | chozeh | visionary | the later seer; the Aramaic word marks dimmer clarity (Vilna Gaon) |
+| חוזה | chozeh | visionary | the later seer; the Aramaic word marks a vision less clearly grasped (Vilna Gaon) |
 
 ## Distinctions
+
+Tanach has three words for a prophet, *navi*, *roeh* and *chozeh* (see *Avos
+d'Rabbi Nasan* ch. 34).
 
 ### navi (נביא)
 Two accounts of the root.
@@ -127,8 +130,7 @@ and spokesman before Paroh. The root of
 *meturgaman*/*targum* seems to be ר-ג-ם, which has no other cognates in Hebrew
 but in Ugaritic means "saying," so that the Hebrew word for translating from one
 language into another is itself derived from the word for "saying" in a different
-language. *Avos d'Rabbi Nasan* ch. 34 is where the three words are listed
-together.
+language.
 
 ## Rendering guidance
 

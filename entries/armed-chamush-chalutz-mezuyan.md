@@ -224,7 +224,7 @@ of physical weapons.
   49a; do not render it "belly," which loses the anatomical precision the Gemara
   is supplying.
 - Bereishis 41:34, *v'chimesh*: pick one, "he shall take a fifth" (Rashbam, Ibn
-  Ezra, Radak) or "he shall organize" (Onkelos, Rashi), and name the other in
+  Ezra, Radak) or "he shall spur them on" (Onkelos, Rashi), and name the other in
   a note. The two readings are not compatible in one English clause.
 - *Zayin* stays transliterated where the source is playing on the letter-name
   (the *Avos d'Rabbi Nosson* passage, the absence of zayin from Tehillim 91);

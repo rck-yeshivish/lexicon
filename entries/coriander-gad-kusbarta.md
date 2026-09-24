@@ -21,7 +21,7 @@ words:
     distinct: a Talmudic food that Rashi renders with his Old French word for coriander, suggesting a tie to gad; a clover or a cherry (Jastrow)
 sources:
   - wiaw:8735 "A Coriander Conundrum" (2020-06-06) https://articles.ohr.edu/articles/a-coriander-conundrum
-authorities: [Targum Onkelos, Targum Yonasan, Menachem Ibn Saruk, Radak, Rashi, Rashbam, Ralbag, Ibn Ezra, Rabbi Yehudah Ibn Balaam, Rav Hai Gaon, Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Krinsky, Rabbi David Golumb, Rabbeinu Chananel, Rabbi Natan of Rome, Tosafos Rabbeinu Elchanan, Tosafos HaRosh, Nimukei Yosef, Wilhelm Gesenius]
+authorities: [Targum Onkelos, Targum Yonasan, Menachem Ibn Saruk, Radak, Rashi, Rashbam, Ralbag, Ibn Ezra, Rabbi Yehudah Ibn Balaam, Rav Hai Gaon, Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Krinsky, Rabbi David Golumb, Rabbeinu Chananel, Rabbi Nosson of Rome, Tosafos Rabbeinu Elchanan, Tosafos HaRosh, Nimukei Yosef, Wilhelm Gesenius]
 updated: 2026-09-10
 ---
 # Coriander: gad / kusbarta (and gudgedaniyos)

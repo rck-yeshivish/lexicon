@@ -62,7 +62,7 @@ Yiddish *macher* is simply a **doer**.
   refers specifically to a matter that is subject to controversy (Rashi to
   Shavuos 31a, Bava Metzia 14a).
 
-That is where Rabbi Klein comes out: Kohut's second reading, with his own
+That is where Rabbi Klein comes out: Kohut's own reading, with his own
 bridge.
 
 **What eshtadur is.**
@@ -144,9 +144,9 @@ for *hishtadel*. *Shadar* has another sense: in post-Biblical Aramaic it means "
 entry).
 
 ### macher (Yiddish)
-The Yiddish *macher*, from *mach*, to do, is the cognate of English "make": not
-a technical word, just a man who goes around getting things done for the good of
-the community, as the *askan* and the *shtadlan* do.
+The Yiddish *macher* comes from *mach*, to do, a cognate of English "make". The
+word is not a technical one: a *macher* is just a man who goes around getting
+things done for the good of the community, as the *askan* and the *shtadlan* do.
 
 ## Rendering guidance
 

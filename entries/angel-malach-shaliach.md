@@ -32,8 +32,9 @@ sources:
   - wiaw:7512 "Angels and Agents" (2017-12-02) https://articles.ohr.edu/articles/angels-and-agents
   - wiaw:8129 "Cherubic Children and Other Angels" (2019-02-09) https://articles.ohr.edu/articles/cherubic-children-and-other-angels
   - wiaw:10720 "Toldos: The Doers and Fighters" (2022-11-26) https://articles.ohr.edu/articles/toldos-the-doers-and-fighters
-authorities: [Radak, Rabbi Shlomo Pappenheim, Malbim, Ralbag, Rambam, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Yaakov Lorberbaum of Lissa, Vilna Gaon, Rashi, Bereishis Rabbah, the anonymous commentator to Rambam, the school of Rabbi Elazar Rokeach of Worms, Ramban]
-updated: 2026-09-10
+  - ms:050-angels-and-agents.md "Angels and Agents"
+authorities: [Radak, Rabbi Shlomo Pappenheim, Malbim, Ralbag, Rambam, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Yaakov Lorberbaum of Lissa, Vilna Gaon, Rashi, Bereishis Rabbah, the anonymous commentator to Rambam, the school of Rabbi Elazar Rokeach of Worms, Ramban, Hadar Zekeinim, Rabbi Eliyahu Benamozegh]
+updated: 2026-09-24
 ---
 # Angel / messenger: malach / shaliach / tzir
 
@@ -64,7 +65,7 @@ Malbim one who must also report back.
 - Radak (*Sefer HaShorashim*): the root is ל-א-ך and the mem is not radical,
   which Rabbi Klein calls somewhat perplexing since no other Hebrew word has
   this root. He adds that archaeology has proven Radak correct: texts found at
-  the ancient city of Ugarit, in modern-day Lebanon, are written in a Semitic
+  the ancient city of Ugarit, in modern-day Syria, are written in a Semitic
   language closely resembling Hebrew, and there the root of the verb for sending
   is not ש-ל-ח as in Hebrew but exactly ל-א-ך.
 - Rabbi Shlomo Pappenheim of Breslau (1740-1814), in an approach similar to
@@ -91,6 +92,11 @@ Malbim one who must also report back.
   through work; *malach* is that power personified in a proxy; and the word
   sometimes names Hashem Himself, who is ever engaged in the *melachah* of
   creation.
+- Rav Hirsch (to Bereishis 48:16, s.v. *hamalach hagoel*) also suggests that
+  perhaps *malach* derives from *melech*, a force that acts and prevails; this
+  force does not act on its own authority, but bears within itself the letter
+  aleph, the hidden sign of another personality that guides and blesses it,
+  quite literally "My Name is within him" (Shemos 23:21).
 - On Yaakov's *malachim* to Eisav (Bereishis 32:4), Bereishis Rabbah 75:4
   records a dispute, angels or men; Rashi takes angels.
 
@@ -127,12 +133,17 @@ trying, to save Daniel (Daniel 6:15); Ramban takes the core meaning of *shadar*
 as rebelling (*eshtadur*, Ezra 4:15, 4:19) and theorizes that it is a cognate of
 *shadal*, persuading or attempting, since lamed and reish interchange.
 
+*Hadar Zekeinim* (to Devarim 33:14) writes that *geresh* (literally what is
+driven outward from the plant) in the sense of produce is a metathesized form of
+*sheger* (שגר), except that *sheger* refers to fauna and *geresh* to flora.
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bamidbar 36:4) adds that *sarigim*,
+shoots, may also be related to *sheger*.
+
 ## Rendering guidance
 
 - מלאך of Hashem, or where the context is plainly celestial: "angel." מלאך
   sent by a man: "messenger," "envoy." Where the identity is disputed
-  (Yaakov's *malachim*; the three at Avraham's tent by some readings), write
-  "messengers" and let a note carry the dispute.
+  (Yaakov's *malachim*), write "messengers" and let a note carry the dispute.
 - שליח: "agent" in halachah (*shaliach* of a get, *shelichus*); "emissary,"
   "messenger" in narrative; transliterate *shaliach* when the halachic
   concept is the subject.
@@ -157,4 +168,6 @@ Rabbi Reuven Chaim Klein, "[Cherubic Children and Other Angels](https://articles
 
 Rabbi Reuven Chaim Klein, "[Toldos: The Doers and Fighters](https://articles.ohr.edu/articles/toldos-the-doers-and-fighters)," *What's in a Word?*, Ohr Somayach, 26 November 2022.
 
-Cited in the essay: Bereishis 32:4 with *Bereishis Rabbah* 75:4 and Rashi; Radak, *Sefer HaShorashim* s.v. לאך; Rambam, *Moreh Nevuchim* 2:6, and *Hilchos Yesodei HaTorah* 2:7; Ralbag on Tanach passim; Vilna Gaon to Mishlei 13:17; Daniel 6:15; Ezra 4:15, 4:19.
+Rabbi Reuven Chaim Klein, "Angels and Agents," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 32:4 with *Bereishis Rabbah* 75:4 and Rashi; Radak, *Sefer HaShorashim* s.v. לאך; Rambam, *Moreh Nevuchim* 2:6, and *Hilchos Yesodei HaTorah* 2:7; Ralbag on Tanach passim; Vilna Gaon to Mishlei 13:17; Daniel 6:15; Ezra 4:15, 4:19; Rav Hirsch to Bereishis 48:16; Shemos 23:21; *Hadar Zekeinim* to Devarim 33:14; Benamozegh, *Eim LaMikra* to Bamidbar 36:4.

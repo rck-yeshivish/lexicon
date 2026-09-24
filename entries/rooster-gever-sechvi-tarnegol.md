@@ -39,8 +39,9 @@ sometimes means rooster but more often means **man** or **male**; the Mishnah's
 Etzion Gever as the City of the Rooster. The meaning of *sechvi* is genuinely
 open. Chazal take it for a **rooster** and build the morning berachah on it, but
 most mefarshim (Rashi, Ibn Ezra, Radak, Rosh and Tur among them) read it as the
-**heart**, or at least as also meaning heart. *Ziz sadai* is a bird of some
-kind, which Targum renders **wild fowl**.
+**heart**, or at least as also meaning heart, and Rabbi Shlomo Pappenheim takes
+it as the **skull**. *Ziz sadai* is a bird of some kind, which Targum renders
+**wild fowl**.
 
 ## At a glance
 
