@@ -14,7 +14,7 @@ There is a small markdown renderer here rather than a dependency, because the
 entries use a known, narrow subset (headings, tables, lists, bold, italic,
 links, code) and a build that needs no install is one less thing to break.
 """
-import re, sys, json, html, shutil, pathlib, unicodedata, datetime, hashlib, urllib.parse
+import os, re, sys, json, html, shutil, pathlib, unicodedata, datetime, hashlib, urllib.parse
 from collections import Counter
 
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
@@ -371,6 +371,33 @@ def en_rows(terms):
 # ------------------------------------------------------------------ page shells
 
 ASSETS = {"css": "app.css", "js": "app.js"}   # filled in at build time with hashed names
+# The feedback box posts a reader's note to a form relay (Web3Forms), which
+# emails it on. The address it goes to is held by the relay against this access
+# key and appears nowhere on the site; the key itself is meant to be public.
+# With no key the box is left off every page, so nothing half-works. For a local
+# look without the real key, set LEXICON_FEEDBACK_KEY to anything.
+FEEDBACK = {"endpoint": "https://api.web3forms.com/submit",
+            "key": "" or os.environ.get("LEXICON_FEEDBACK_KEY", "")}
+
+
+def feedback_box():
+    """The button at the bottom right and the box it opens, or "" with no key."""
+    if not FEEDBACK["key"]:
+        return ""
+    return f"""<div class="fb" id="fb">
+  <button class="fb-btn" type="button" aria-expanded="false" aria-controls="fb-panel" aria-label="Suggestions or comments" title="Suggestions or comments"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.5 11.5a8 8 0 0 1-11.7 7.1L4 20l1.3-4.3A8 8 0 1 1 20.5 11.5z"/><path d="M8.6 10.3h7.2M8.6 13.4h4.6"/></svg></button>
+  <form class="fb-panel" id="fb-panel" role="dialog" aria-labelledby="fb-page" hidden data-endpoint="{html.escape(FEEDBACK["endpoint"])}" data-key="{html.escape(FEEDBACK["key"])}">
+    <div class="fb-head">
+      <div><p class="fb-kicker">Suggestions and comments</p><h2 class="fb-page" id="fb-page" dir="auto"></h2></div>
+      <button type="button" class="fb-x" aria-label="Close">&times;</button>
+    </div>
+    <p class="fb-lede">A mistake on this page, a source to add, a word we should cover: write it here and it goes to the editors.</p>
+    <textarea name="message" rows="5" required dir="auto" aria-label="Your suggestion or comment" placeholder="Your suggestion or comment"></textarea>
+    <input type="email" name="email" autocomplete="email" aria-label="Your email, if you would like a reply" placeholder="Your email, if you&rsquo;d like a reply (optional)">
+    <input type="checkbox" name="botcheck" class="fb-hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+    <div class="fb-foot"><span class="fb-status" role="status" aria-live="polite"></span><button type="submit" class="fb-send">Send</button></div>
+  </form>
+</div>"""
 # How many essays the guide rests on, and the year the column started: the
 # footer's answer to a first-time reader asking how much is behind this.
 ESSAYS = {"n": 0, "from": ""}
@@ -636,6 +663,7 @@ def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
   <p>Every distinction is attributed; where the authorities disagree, the entry names the views.</p>
   <p class="muted">Built on <em>What&rsquo;s in a Word?</em> by Rabbi Reuven Chaim Klein, published by Ohr Somayach since {ESSAYS["from"]}: {ESSAYS["n"]} essays, and each entry links to the essay it rests on. This is an independent rendering guide: the entries are written here, and the site is not published by or affiliated with Ohr Somayach. Parsha and Yom Tov dates from <a href="https://www.hebcal.com/">Hebcal</a> (CC BY 4.0).</p>
 </footer>
+{feedback_box()}
 <script src="{up}assets/{ASSETS["js"]}"></script>
 {extra_js}
 </body>
@@ -1536,14 +1564,14 @@ CSS = r""":root{
   --ui:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Inter,system-ui,sans-serif;
   --radius:14px; --heb:"Frank Ruhl Libre","SF Hebrew","Noto Sans Hebrew","Arial Hebrew","Times New Roman",serif;
   --brand:#14601f; --brand-sub:#2f6b3a;
-  --gold:#8a6d2a; --gold-soft:#f2e8cf;
+  --gold:#8a6d2a; --gold-soft:#f2e8cf; --err:#a3372b;
   --w0:#3f6690; --w1:#98583a; --w2:#2f7a72; --w3:#7a4f86; --w4:#6d7431; --w5:#9a4a5e; --w6:#4b5aa0; --w7:#8a5a24;
 }
 @media (prefers-color-scheme:dark){:root{
   --bg:#12110e; --panel:#1c1a16; --ink:#f3efe6; --dim:#b1aa9c; --faint:#8f887a;
   --line:#2f2b24; --accent:#6cc27d; --accent-soft:#1c2a1e; --shadow:0 1px 3px rgba(0,0,0,.5);
   --brand:#6cc27d; --brand-sub:#8fcf9b;
-  --gold:#d9b86b; --gold-soft:#2c2616;
+  --gold:#d9b86b; --gold-soft:#2c2616; --err:#e38b7d;
   --w0:#8fb1d8; --w1:#e0a07e; --w2:#72c2b8; --w3:#c29bd0; --w4:#b8c070; --w5:#df95a8; --w6:#9aa8e6; --w7:#d9a36a;
 }}
 *{box-sizing:border-box}
@@ -2069,6 +2097,47 @@ code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.88em;
 footer{max-width:940px;margin:0 auto;padding:30px 22px 60px;border-top:1px solid var(--line);
   color:var(--dim);font-size:14px}
 footer p{margin:0 0 6px}
+
+/* feedback ------------------------------------------------------------------
+   One quiet round button at the bottom right of every page; it opens a box
+   headed with the page the reader is on. Panel-white with the site green, so
+   it is findable without shouting over the entry. */
+.fb{position:fixed;right:20px;bottom:20px;z-index:60}
+.fb-btn{width:48px;height:48px;border-radius:50%;border:1px solid var(--line);background:var(--panel);
+  color:var(--accent);display:grid;place-items:center;cursor:pointer;padding:0;
+  box-shadow:0 1px 3px rgba(60,50,30,.10),0 6px 20px rgba(60,50,30,.10);transition:border-color .15s}
+.fb-btn:hover,.fb.open .fb-btn{border-color:var(--accent)}
+.fb-btn:focus-visible{outline:none;box-shadow:0 0 0 3px var(--accent-soft)}
+.fb-btn svg{width:22px;height:22px}
+.fb-panel{position:absolute;right:0;bottom:60px;width:360px;max-width:calc(100vw - 32px);
+  background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
+  box-shadow:0 2px 6px rgba(60,50,30,.08),0 16px 44px rgba(60,50,30,.14);padding:16px 16px 14px}
+.fb-panel[hidden]{display:none}
+.fb-head{display:flex;align-items:flex-start;gap:10px}
+.fb-kicker{margin:0;font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--faint);font-weight:600}
+.fb-page{margin:3px 0 0;font-size:18px;line-height:1.3;font-weight:600;color:var(--ink)}
+.fb-x{margin-left:auto;border:0;background:none;color:var(--faint);font-size:24px;line-height:1;cursor:pointer;padding:0 2px}
+.fb-x:hover{color:var(--ink)}
+.fb-lede{margin:8px 0 10px;font-size:14px;line-height:1.45;color:var(--dim)}
+.fb-panel textarea,.fb-panel input[type=email]{display:block;width:100%;font:inherit;font-size:15px;color:var(--ink);
+  background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:9px 11px;outline:none}
+.fb-panel textarea{min-height:112px;resize:vertical;line-height:1.45}
+.fb-panel input[type=email]{margin-top:8px;height:38px}
+.fb-panel textarea:focus,.fb-panel input[type=email]:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
+.fb-hp{position:absolute;left:-9999px;width:1px;height:1px;opacity:0}
+.fb-foot{display:flex;align-items:center;gap:10px;margin-top:10px}
+.fb-status{flex:1;font-size:13.5px;line-height:1.35;color:var(--dim)}
+.fb-status.ok{color:var(--accent)}
+.fb-status.err{color:var(--err)}
+.fb-send{border:0;border-radius:9px;background:var(--accent);color:var(--panel);font:inherit;font-size:14.5px;
+  font-weight:600;padding:8px 18px;cursor:pointer}
+.fb-send:disabled{opacity:.6;cursor:default}
+@media (max-width:700px){
+  .fb{right:14px;bottom:14px}
+  .fb-btn{width:44px;height:44px}
+  .fb-panel{position:fixed;left:12px;right:12px;bottom:68px;width:auto;max-width:none}
+}
+@media print{.fb{display:none}}
 .muted{color:var(--faint)}
 """
 
@@ -2655,7 +2724,64 @@ function wireHome(){
     `<a href="entries/${esc(a.s)}.html"><span>${a.q}</span><span class="chev" aria-hidden="true">&rsaquo;</span></a>`).join("");
 }
 
+// The feedback box. It is headed with the page the reader is on and sends that
+// page's name and address with the note, so a note needs no explaining.
+function wireFeedback(){
+  const box = document.getElementById("fb");
+  if(!box) return;
+  const btn = box.querySelector(".fb-btn"), form = box.querySelector(".fb-panel");
+  const status = form.querySelector(".fb-status"), send = form.querySelector(".fb-send");
+  const msg = form.elements.message;
+  const h1 = document.querySelector("main h1");
+  let page = ((h1 && h1.textContent) || document.title.split(" \u00b7 ")[0]).trim();
+  // Entry headings are stored lowercase and capitalized in CSS; the box and the
+  // email's subject should read the way the heading does on screen.
+  if(h1 && getComputedStyle(h1).textTransform === "capitalize")
+    page = page.replace(/(^|\s)(\p{Ll})/gu, (m, s, c) => s + c.toUpperCase());
+  form.querySelector(".fb-page").textContent = page;
+  const show = (on, refocus) => {
+    form.hidden = !on;
+    btn.setAttribute("aria-expanded", String(on));
+    box.classList.toggle("open", on);
+    if(on){ if(!status.classList.contains("ok")) status.textContent = ""; msg.focus(); }
+    else if(refocus) btn.focus();
+  };
+  btn.addEventListener("click", () => show(form.hidden, true));
+  form.querySelector(".fb-x").addEventListener("click", () => show(false, true));
+  document.addEventListener("keydown", e => { if(e.key === "Escape" && !form.hidden) show(false, true); });
+  document.addEventListener("click", e => { if(!form.hidden && !box.contains(e.target)) show(false, false); });
+  msg.addEventListener("input", () => { if(status.classList.contains("ok")){ status.textContent = ""; status.className = "fb-status"; } });
+  form.addEventListener("submit", async e => {
+    e.preventDefault();
+    const text = msg.value.trim();
+    if(!text){ msg.focus(); return; }
+    if(form.elements.botcheck.checked) return;
+    send.disabled = true;
+    status.className = "fb-status";
+    status.textContent = "Sending\u2026";
+    const body = {access_key: form.dataset.key, subject: "Feedback on " + page,
+                  from_name: "What\u2019s in a Word?", page: page, url: location.href, message: text};
+    const email = form.elements.email.value.trim();
+    if(email) body.email = email;
+    try{
+      const r = await fetch(form.dataset.endpoint, {method: "POST",
+        headers: {"Content-Type": "application/json", "Accept": "application/json"}, body: JSON.stringify(body)});
+      const j = await r.json().catch(() => ({}));
+      if(!r.ok || j.success === false) throw new Error(j.message || String(r.status));
+      form.reset();
+      status.className = "fb-status ok";
+      status.textContent = "Thank you. Your note has been sent.";
+    }catch(err){
+      status.className = "fb-status err";
+      status.textContent = "It did not go through. Please try again in a moment.";
+    }finally{
+      send.disabled = false;
+    }
+  });
+}
+
 document.addEventListener("DOMContentLoaded", () => {
+  wireFeedback();
   wireWeek();
   wireHome();
   wire();
