@@ -32,16 +32,17 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Eden* (with *ednah*, *maadanim*) is on Rabbi Shlomo Pappenheim primarily
-pleasure of the body, and in Tanach it is almost always of taste and touch:
-**sensual pleasure, delight of the senses**; *maadanim*, **delicacies**. *Oneg*
-is primarily pleasure of the soul, mind and heart, even when it arrives by way
-of the body: **delight, enjoyment**; *oneg Shabbos* is therefore delight in
-Shabbos, which may come through good food, not physical pleasure. Rav Hirsch reads
-*oneg* on other lines altogether, as being surrounded by favorable conditions.
-*Pinuk* is for Pappenheim playfulness and flattery rather than pleasure, a
-claim that fits the one pasuk but does not account for the Targumim, which use
-*pinuk* words for both *oneg* and *eden*: **pampering, indulgence**.
+For Rabbi Shlomo Pappenheim, *eden* (with *ednah* and *maadanim*) is primarily
+pleasure of the body: **sensual pleasure, delight of the senses**. In Tanach,
+Rabbi Klein observes, it almost always concerns taste and touch; *maadanim* are
+**delicacies**. Pappenheim holds that *oneg* is primarily pleasure of the soul,
+mind and heart, even when it arrives by way of the body: **delight, enjoyment**.
+*Oneg Shabbos* is therefore delight in Shabbos rather than physical pleasure,
+though it may come through good food. Rav Hirsch explains *oneg* differently, as
+being surrounded by favorable conditions. *Pinuk* is **pampering, indulgence**.
+Pappenheim takes it as playfulness and flattery rather than pleasure; that fits
+its one pasuk, but it does not account for the Targumim, which use *pinuk* words
+to render both *oneg* and *eden*.
 
 ## At a glance
 

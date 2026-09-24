@@ -33,12 +33,13 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Tarnegol* is the ordinary word for a **rooster** in Mishnaic Hebrew. *Gever* sometimes means rooster but more
-often means **man** or **male**; it is taken as the bird in the Mishnah's "call of
-the *gever*" and by Targum Yonasan on Etzion Gever. *Sechvi* is
-the genuinely open word: Chazal fix it as **rooster** in the morning berachah,
-but most mefarshim, Rashi, Ibn Ezra, Radak, Rosh, and Tur among them, read it as
-the **heart**, or at least as also meaning heart. *Ziz sadai* is a bird of some
+*Tarnegol* is the ordinary word for a **rooster** in Mishnaic Hebrew. *Gever*
+sometimes means rooster but more often means **man** or **male**; the Mishnah's
+"call of the *gever*" is understood as the rooster's, and Targum Yonasan renders
+Etzion Gever as the City of the Rooster. The meaning of *sechvi* is genuinely
+open. Chazal take it for a **rooster** and build the morning berachah on it, but
+most mefarshim (Rashi, Ibn Ezra, Radak, Rosh and Tur among them) read it as the
+**heart**, or at least as also meaning heart. *Ziz sadai* is a bird of some
 kind, which Targum renders **wild fowl**.
 
 ## At a glance

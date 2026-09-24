@@ -54,18 +54,18 @@ updated: 2026-09-22
 ## Bottom line
 
 *Mas* is the word typically translated **tax**, and in Modern Hebrew it is the
-generic word; but some scholars argue that a more accurate translation is
+generic word. Some scholars argue, however, that a more accurate translation is
 **corvée work**, compulsory unpaid labor imposed by a sovereign, and the Bible
-bears that meaning out in several places (the *sarei missim* over the Jews in
-Mitzrayim, Shlomo HaMelech's conscription). *Meches* is the other Biblical
-Hebrew word that sometimes means tax: six times, all in Bamidbar 31, of the
-consecrated share of the Midianite booty given to Hashem. Its origin is
-disputed three ways: an Akkadian loanword for dues or tributes (Dr. Chaim
-Tawil); a Hebrew root meaning number (Menachem Ibn Saruk, Chayyuj, Ibn Janach,
-Radak); a Hebrew root meaning covering, whence the pocket, so the tax that goes
-into the king's own purse (Rabbi Pappenheim). The Aramaic terms are technical,
-and the Gemara equates several of them (*belo* is *gulgalta*, which is *karga*;
-*halach* is *arnona*).
+bears that meaning out in several places: the *sarei missim* over the Jews in
+Mitzrayim, and Shlomo HaMelech's conscription. *Meches* is the other Biblical
+Hebrew word that sometimes means tax. It appears six times in that sense, all in
+Bamidbar 31, for the consecrated share of the Midianite booty given to Hashem.
+Its origin is disputed three ways. Dr. Chaim Tawil takes it as a loanword from
+an Akkadian word for dues or tributes. Menachem Ibn Saruk, Chayyuj, Ibn Janach
+and Radak find a Hebrew root meaning number. For Rabbi Pappenheim that root
+means covering, as in *kis*, a pocket, so *meches* is the tax that goes into the
+king's own purse. The Aramaic terms are technical, and the Gemara equates
+several of them (*belo* is *gulgalta*, which is *karga*; *halach* is *arnona*).
 
 ## At a glance
 

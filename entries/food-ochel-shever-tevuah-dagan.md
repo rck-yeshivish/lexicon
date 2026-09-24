@@ -56,11 +56,12 @@ updated: 2026-09-22
 ## Bottom line
 
 *Ochel* is **food**, anything eaten, the widest word. *Mazon* is **sustenance**,
-food that actually nourishes. Of the produce words: *tevuah* is **crop**, what
-comes forth (ripe or not); *tenuvah* is **ripe produce**; *yevul* is
-**produce** seen as perishable; *dagan* is threshed **grain**; *bar* is grain
-**cleaned of its chaff**; *shever* is **provisions**, grain bought in a famine.
-Onkelos renders *ochel*, *bar*, *shever* and *dagan* all by *avur*.
+food that actually nourishes. *Dagan* is threshed **grain**, and *bar* is grain
+**cleaned of its chaff**. The other four are words for produce. *Tevuah* is
+**crop**, what comes forth, ripe or not, while *tenuvah* is **ripe produce**.
+*Yevul* is **produce** seen as perishable, and *shever* is **provisions**, grain
+bought in a famine. Onkelos renders *ochel*, *bar*, *shever* and *dagan* all as
+*avur*.
 
 ## At a glance
 

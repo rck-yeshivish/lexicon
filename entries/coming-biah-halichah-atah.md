@@ -30,18 +30,18 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Bo* is **come**: it looks at the destination, and, as Rabbi Shlomo Pappenheim
-explains, it covers both the arriving and the being on the way. *Lech* is
-**go**. Just how the pair divides is not settled: the Tosafists' reading of the
-makkos pesukim seems to suggest that *bo* somehow implies entering where *lech*
-does not, and Rabbi Klein offers two theories of his own, that *bo* fixes on the
-destination and *lech* on the place of departure, or else that *halichah* names
-the act of walking while *biah* names a change of place however it came about.
-He adds that a concordance would have to be consulted to see how well any of
-these theories pans out. *Atah* is
-**arrive**: like *bo* it faces the destination, but it names only the arrival
-and never the journey (Rabbi Pappenheim, cited by Malbim). *Bo* and *atah*
-are not interchangeable.
+*Bo* is **come**. It looks to the destination, and Rabbi Shlomo Pappenheim
+explains that it covers both the arrival and the journey there. *Lech* is
+**go**. Just how the pair divides is not settled. The pattern the Tosafists
+observe in the makkos pesukim seems to suggest that *bo* somehow implies
+entering where *lech* does not. Rabbi Klein offers two theories of his own: that
+*bo* fixes on the destination and *lech* on the place of departure, or else that
+*biah* names any change of place, however it came about, and *halichah*
+specifically the act of walking. He adds that a concordance would have to be
+consulted to see how well any of these theories pans out. *Atah* is **arrive**:
+like *bo* it faces the destination, but it names only the arrival and never the
+journey (Rabbi Pappenheim, cited by Malbim). *Bo* and *atah* are not
+interchangeable.
 
 ## At a glance
 

@@ -66,12 +66,13 @@ updated: 2026-09-22
 
 ## Bottom line
 
-These are not synonyms for one another; they are ranks. Rambam (*Hilchos Yesodei
-HaTorah* 2:7) counts ten, from the *chayos* at the top down to the *ishim* at
-the bottom: *chayos*, *ofanim*, *erelim*, *chashmalim*, *serafim*, *malachim*,
-*elohim*, *bnei elohim*, *kruvim*, *ishim*. *Kruvim* are the **cherubim**. One
-rank does double duty: *malachim*, which is both a rank of its own and the
-general word for **angels**.
+These words name the ranks of angels. Rambam (*Hilchos Yesodei HaTorah* 2:7)
+counts ten, from highest to lowest: *chayos*, *ofanim*, *erelim*, *chashmalim*,
+*serafim*, *malachim*, *elohim*, *bnei elohim*, *kruvim*, *ishim*. *Kruvim* are
+the **cherubim**. *Malachim* does double duty: it is a rank of its own and also
+the general word for **angels** (the anonymous commentator to Rambam). Rabbi
+Dovid Luria, though, understands *Pirkei d'Rabbi Eliezer* to hold *kruvim* and
+*chayos* synonymous, and *ofanim* and *galgalim* likewise.
 
 ## At a glance
 

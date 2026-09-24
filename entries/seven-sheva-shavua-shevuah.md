@@ -38,13 +38,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Sheviis*, "the seventh," is the Sabbatical year, and it is the Mishnah's word
-for it. *Shavua* is a **week**, but in Daniel, seemingly, and in several mishnayos it is a
-**seven-year cycle**, so context decides. *Shabbos* is the day, and by
+*Sheviis*, "the seventh," is the Sabbatical year, and it is the Mishnah's usual
+word for it. *Shavua* is a **week**, but in several mishnayos, and seemingly
+throughout Daniel, it is a **seven-year cycle**. *Shabbos* is the day, and by
 synecdoche the **week** it closes (Ramban), and the Sabbatical **year** itself.
-*Shevuah* is an **oath**, tied to *sheva* by most of the authorities here, though they
-part on why. *Sheva* is not "seven" where the sources read it as
-"many" (Rasag to Bereishis 4:24 and Mishlei 24:16).
+*Shevuah* is an **oath**; most of the authorities Rabbi Klein brings tie it to
+*sheva*, though they differ on why. *Sheva* itself is not always the number:
+Rasag renders it "much" at Bereishis 4:24 and "many" at Mishlei 24:16.
 
 ## At a glance
 

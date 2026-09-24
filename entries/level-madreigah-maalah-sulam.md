@@ -27,16 +27,17 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Maalah* (plural *maalos*) is a step *up*, an ascent; in the abstract a
-**step up, an advantage, a virtue**: physically **step, stair**. *Madreigah*
-is a graded step or terrace; in later Hebrew a **degree, a level** (of
+*Maalah* (plural *maalos*) is a step *up*, an ascent: physically a **step,
+stair**, and in the abstract a **step up, an advantage, a virtue**. *Madreigah*
+is a graded step or terrace, and in later Hebrew a **degree, a level** (of
 achievement, the spiritual *madreigah* among them). *Sulam* is a **ladder**,
-though Rashi defines it by *maalos* and *madreigos* alike. In Tanach *maalos*
-is the ordinary word (some fifty times; *madreigos* only twice), and Rabbi
-Shlomo Aharon Wertheimer, who alone here separates them by sense, makes
-*madreigos* a terraced way cut up a mountainside and *maalos* a free-standing
-stair in a house or courtyard; that is why the altar prohibition says *maalos*
-(Shemos 20:23).
+though Rashi defines it by *maalos* and *madreigos* alike. In Tanach *maalos* is
+the ordinary word, some fifty times against twice for *madreigos*. Rabbi Reuven
+Chaim Klein suggests that the difference might be that *maalos* is Hebrew and
+*madreigos* comes from another language. Rabbi Shlomo Aharon Wertheimer
+separates them by sense instead: *madreigos* is a terraced way built up a
+mountainside, *maalos* a free-standing stair in a house or courtyard, and that
+is why the altar prohibition says *maalos* (Shemos 20:23).
 
 ## At a glance
 

@@ -23,19 +23,20 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Chalon* is the ordinary **window**, thirty-one times in Tanach, and its root
-describes what a window is: an empty space in a wall (Rabbi Shlomo Pappenheim;
-Radak and Ibn Janach, under ח-ל-ל). *Eshnav* appears only twice; at Shoftim 5:28
-Sisera's mother looks through both. Rashi, Ibn Janach and Radak define *eshnav*
-as *chalon*, which suggests the two mean the same thing. Others distinguish
-them, and they do not agree how: a small window (Rabbi Yosef Kara, Meiri), a
-peephole (Rid), an enchanted window used for divination (Malbim to Shoftim, with
-*Kli Yakar* reversing the two words), a lens that brings the distant near
-(Malbim in *Yair Ohr*), a lattice (Menachem Ibn Saruk, Rabbi Moshe David Valle),
-a shuttered window (Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, and independently
-Dr. Shmuel Yeivin), or a window for the wind (Rabbi Aharon Marcus, Rabbi Baruch
-HaLevi Epstein, Rabbi Ernest Klein). Rabbi Reuven Chaim Klein does not choose.
-Modern Hebrew's *eshnav*, a service window, is a neologism.
+*Chalon*, the ordinary **window**, appears thirty-one times in Tanach, and its
+root describes what a window is: an empty space in a wall (Rabbi Shlomo
+Pappenheim; Radak and Ibn Janach, under ח-ל-ל). *Eshnav* appears only twice, and
+at Shoftim 5:28 Sisera's mother looks through both. Rashi, Ibn Janach and Radak
+define *eshnav* as *chalon*, which suggests the two mean the same thing. Others
+distinguish them, and they do not agree how: a small window (Rabbi Yosef Kara,
+Meiri), a peephole (Rabbi Yeshayah of Trani), an enchanted window used for
+divination (Malbim to Shoftim; *Kli Yakar* makes the *chalon* the divining
+mirror instead), a lens that brings the distant near (Malbim in *Yair Ohr*), a
+lattice (Menachem Ibn Saruk, Rabbi Moshe David Valle), a shuttered window (Rabbi
+Moshe Yitzchak Tedeschi-Ashkenazi, and independently Dr. Shmuel Yeivin), or a
+window for the wind (Rabbi Aharon Marcus, Rabbi Baruch HaLevi Epstein, Rabbi Dr.
+Ernest Klein). Rabbi Reuven Chaim Klein does not choose among them. Modern
+Hebrew's *eshnav*, a service window, is a neologism.
 
 ## At a glance
 

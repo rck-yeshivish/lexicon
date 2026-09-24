@@ -26,19 +26,22 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Dod* is not the English "uncle," which covers four relationships. In Biblical
-Hebrew it primarily means **father's brother**: Rashi asserts that Scripture
+English "uncle" covers four relationships, but *dod* in Biblical Hebrew
+primarily means one, the **father's brother**; Rashi asserts that Scripture
 never uses *dod* for a mother's brother. In Shir HaShirim it seems to mean
-**beloved**. *Misaref* is a *hapax legomenon*
-(Amos 6:10) and is disputed: **maternal uncle** (Ibn Kuraish, Ibn Janach, Radak
-in *Sefer HaShorashim*; so too the Karaite Yefet ben Ali), a reading Rabbi Klein
-entertains ("seems to mean one's mother's brother") and then questions; a generic
-**kinsman** (seemingly Rashi, with the Septuagint, the Peshitta and Ibn Kaspi); a
-verb of **burning** (Targum Yonasan, Radak in his commentary); or a word from
-*seraf*, sap or resin (Professor Gary Rendsburg after Yechezkel Kutscher, "to
-smear with resin"; Rabbi Shlomo Aharon Wertheimer, unwanted offspring). A mother's
-brother in Tanach is spelled out as "his mother's brother," never *misaref*, and
-never *dod*.
+**beloved**.
+
+*Misaref*, a *hapax legomenon* (Amos 6:10), is disputed. Ibn Kuraish, Ibn Janach
+and Radak in *Sefer HaShorashim* read it as the **maternal uncle**, and so does
+the Karaite Yefet ben Ali; Rabbi Klein entertains this reading ("seems to mean
+one's mother's brother") and then questions it. Rashi seems to take it as a
+generic **kinsman**, as do the Septuagint, the Peshitta and, seemingly, Ibn
+Kaspi. Targum Yonasan and Radak, in his commentary, read it as a verb of
+**burning**. Professor Gary Rendsburg, following Yechezkel Kutscher, relates it
+to *seraf*, sap or syrup, and reads "to smear with resin"; Rabbi Shlomo Aharon
+Wertheimer similarly derives it from *seraf* and takes it as unwanted offspring.
+A mother's brother in Tanach is spelled out as "his mother's brother," never
+*misaref*, and never *dod*.
 
 ## At a glance
 

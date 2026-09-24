@@ -32,13 +32,12 @@ updated: 2026-09-10
 ## Bottom line
 
 *Kemach* is ordinary **flour**, ground with the bran and germ still in it:
-**whole wheat flour**, and by extension anything of the coarser grade.
-*Soles* is the sifted, refined grade: **fine flour**. Rav Hirsch (Bereishis
-18:6) makes the point sharply: the difference is not how fine or coarse the
-grind is per se, but the difference between whole wheat flour and white flour,
-*soles* being made of the endosperm alone. So *kemach* has everything in it and
-*soles* has been sifted clean. Rashi (Bava Metzia 87a)
-states that *soles* is better than *kemach*.
+**whole wheat flour**, and by extension anything of the coarser grade. *Soles*
+is the sifted, refined grade: **fine flour**. Rav Hirsch (Bereishis 18:6)
+clarifies that the two do not differ in how fine or coarse the flour is per se;
+they differ as whole wheat flour differs from white flour, *soles* being made of
+the endosperm alone. Rashi (Bava Metzia 87a) states that *soles* is better than
+*kemach*.
 
 ## At a glance
 

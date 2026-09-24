@@ -32,16 +32,17 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Shadayim* (singular *shad* or *shod*) is the standard Biblical word:
-**breasts**, twenty-four times in Tanach, only once in Chumash (Bereishis
-49:25). *Dadim* is the rarer Biblical pair-word, and by the Mishnah's Hebrew it
-plainly means **breasts** too, including breast-shaped **spigots**. *Atinim* is a
-hapax in Iyov 21:24, understood by the Ralbag and others as **breasts**; in
-Modern Hebrew it is the **udders** of a milk-producing animal or a human
-**nipple**. *Ziz* (Yeshayahu 66:11) is disputed: Radak reads it as *ziv*,
-**radiance**, while Shadal and Gesenius read it as **breast**. Rabbi Shlomo of Urbino (*Ohel Moed*) lists the
-first three as Biblical synonyms, though Malbim holds that *dadim* and
-*shadayim* name different parts of the body.
+*Shadayim* (singular *shad* or *shod*) is the standard Biblical word for
+**breasts**. It occurs twenty-four times in Tanach, and only once in Chumash
+(Bereishis 49:25). *Dadim* is rarer in Tanach; in Rabbinic Hebrew it plainly
+means **breasts**, and the Mishnah also uses it of breast-shaped **spigots**.
+*Atinim*, a hapax in Iyov 21:24, is understood by the Ralbag and others as
+**breasts**; in Modern Hebrew it is the **udders** of a milk-producing animal or
+a human **nipple**. *Ziz* (Yeshayahu 66:11) is disputed: Radak reads it as
+*ziv*, **radiance**, while Shadal and Gesenius read it as **breast**. Rabbi
+Shlomo of Urbino (*Ohel Moed*) lists *shadayim*, *dadim* and *atinim* as
+Biblical synonyms, though Malbim holds that *dadim* and *shadayim* name
+different parts of the body.
 
 ## At a glance
 

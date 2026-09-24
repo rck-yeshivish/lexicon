@@ -37,17 +37,18 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Lachatz* is **pressure** applied; on Rabbi Shimon Schwab the eye is on the one
-applying it. *D'chak* is **crowding** or **squeezing out**, and on Rabbi Shlomo
-Pappenheim's crudest sense it is shoving a man from his place so that someone
-else can have it. How the two differ is itself disputed, with
-five readings that do not agree, Rabbi Eliezer Ashkenazi and Pappenheim taking
-opposite sides on which of the two carries the malice. *Negisah* is the
-**taskmaster's driving**, relentless and up close. *Atz* is **hurrying** someone
-along, or on Rabbi Posen's Targum reading physically pushing him. *Alatz* is
-**pressing with words**, cajoling on Pappenheim, tied to *lachatz* by Ramban and
-Radak, and read as making a man angry by Ibn Janach. The Haggadah's *v'es
-lachatzeinu, zeh had'chak* is a gloss of one by the other.
+*Lachatz* is **pressure**; for Rabbi Shimon Schwab, the word looks to the one
+applying it. *D'chak* is **crowding** or **squeezing out**; in its crudest
+sense, Rabbi Shlomo Pappenheim says, it is shoving a man from his place so that
+someone else can have it. The Haggadah glosses one by the other, *v'es
+lachatzeinu, zeh had'chak*, and how the two differ is itself disputed, in five
+readings that do not agree. Rabbi Eliezer Ashkenazi and Pappenheim take opposite
+sides on which of the two carries the malice. *Negisah* is the **taskmaster's
+driving**, which Pappenheim sees as relentless and up close. *Atz* is
+**hurrying** someone along as Pappenheim reads it; Rabbi Posen, from the Targum,
+takes it as physically pushing him. *Alatz* is **pressing with words**.
+Pappenheim explains it as cajoling, Ramban and Radak tie it to *lachatz*, and
+Ibn Janach reads it as making a man angry.
 
 ## At a glance
 

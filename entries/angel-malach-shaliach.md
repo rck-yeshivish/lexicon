@@ -39,13 +39,15 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Malach* is a **messenger** who stands in for the sender on a mission the
-sender would do himself (Pappenheim, Malbim); of Hashem's messengers it is an
-**angel**, and the same Hebrew word covers both. *Shaliach* is the plain
-**agent** or **emissary**, one who is sent (on Rav Hirsch's approach, merely a
-messenger; the Lissa Rav: one who chose to accept the mission). *Tzir* is an
-**envoy**, a diplomatic messenger, and for Malbim one who reports back. *Malach* is not automatically an angel: the Midrash disputes whether
-Yaakov's *malachim* were angels or men.
+*Malach* is a **messenger** who stands in for the sender on a mission the sender
+would do himself (Pappenheim, Malbim). Of Hashem's messengers the same word
+means **angel**, though a *malach* is not automatically an angel: the Midrash
+records a dispute over whether Yaakov's *malachim* were angels or men, and
+Ralbag consistently tries to read every *malach* as a prophet. *Shaliach* is the
+plain **agent** or **emissary**, one who is sent: on Rav Hirsch's approach
+simply a messenger, and for Rabbi Yaakov Lorberbaum of Lissa one who chose to
+accept his mission. *Tzir* is an **envoy**, a diplomatic messenger, and for
+Malbim one who must also report back.
 
 ## At a glance
 

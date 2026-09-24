@@ -34,13 +34,13 @@ updated: 2026-09-22
 ## Bottom line
 
 *Ger* is the **sojourner**, cut off from his place of origin and living
-somewhere temporarily; *toshav* is the settled **resident** who is there for
-the long term; *ezrach* is the **native** or **citizen**, whose family and
-origins are known to everyone. *Zar* is the plain **stranger**. Rabbi Shlomo
-Aharon Wertheimer's capsulization: a *ger* is the opposite of an *ezrach* and the opposite of a
-*toshav*, neither a full-fledged citizen of this land nor an alien resident, but
-simply living here as one stop in a greater journey. On Mizrachi's reading *ger
-v'toshav* of Vayikra 25:35 is one person, a *ger toshav*.
+somewhere temporarily; *toshav* is the settled **resident**, there for the long
+term; *ezrach* is the **native** or **citizen**, whose family and origins, Radak
+explains, are known to everyone. *Zar* is the plain **stranger**. Rabbi Shlomo
+Aharon Wertheimer sums it up: a *ger* is the opposite of both the *ezrach* and
+the *toshav*, neither a full-fledged citizen of this land nor an alien resident,
+but someone simply living here as one stop in a greater journey. Mizrachi reads
+the *ger v'toshav* of Vayikra 25:35 as one person, a *ger toshav*.
 
 ## At a glance
 

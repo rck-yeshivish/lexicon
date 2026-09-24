@@ -34,15 +34,15 @@ updated: 2026-09-10
 All three mean **armed**, and the Midrashim equate them outright: *Bamidbar
 Rabbah* 13:20 says *chamushim* means *chalutzim*, while *Mechilta d'Rabbi
 Yishmael* to Shemos 13:18 and *Shemos Rabbah* 20:19 say it means *mezuyanim*.
-*Chamush* is the Chumash's word (Shemos 13:18), tied by the grammarians to the
-*chomesh*, the part of the body where a weapon is typically girded, and by the
-derashos to *chamesh*, five.
-*Chalutz* is, on Rabbi Shlomo Pappenheim's reading, the **vanguard**, the men
-drawn out to go at the head of the army. *Mezuyan* is post-biblical, from Aramaic *zayin*, a weapon.
-Targum renders *chamush* in all four places by *zariz*, ready at a moment's
-notice, and often renders *chalutz* the same way; Onkelos gives *vayarek* of
-Avraham by *zariz* too. At Shemos 13:18 "armed" and "a fifth of them" are
-both live readings of one word.
+*Chamush*, the word used of Yisrael leaving Mitzrayim (Shemos 13:18), is tied by
+the grammarians to the *chomesh*, the part of the body where a weapon is
+typically girded, and by the derashos to *chamesh*, five. On Rabbi Shlomo
+Pappenheim's reading, *chalutz* is the **vanguard**, the men drawn out to go at
+the head of the army. *Mezuyan* is post-biblical, from Aramaic *zayin*, a
+weapon. Targum renders *chamush* by *zariz*, ready at a moment's notice, in all
+four places it occurs, and often renders *chalutz* the same way; Onkelos renders
+Avraham's *vayarek* by *zariz* too. At Shemos 13:18 "armed" and "a fifth of
+them" are both live readings of one word.
 
 ## At a glance
 

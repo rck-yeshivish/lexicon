@@ -29,19 +29,20 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Mi'un* is the biblical word for **refusing**, its cognates appearing forty-six
-times in Tanach; *siruv* is Aramaic and rabbinic, at most once in Tanach, and
-even that one instance is disputed. Rabbi Klein gives two approaches to the
-difference and does not choose between them. On the first, resting on Rabbi
+*Mi'un* is the biblical word for **refusing**; its cognates appear forty-six
+times in Tanach. *Siruv* is Aramaic and rabbinic: it appears at most once in
+Tanach, and even that one instance is disputed. Rabbi Klein gives two approaches
+to the difference and does not choose between them. The first starts from Rabbi
 Eliyahu HaBachur's observation that the Targumim render most instances of
-*meridah*, *meri* and *mi'un* alike by *siruv*, it *seems* the two are simply
-synonyms sourced in different languages: *mi'un* genuine Hebrew, *siruv* a
-borrowed Aramaic loanword that grew popular in post-biblical Hebrew. On the
-second, Rabbi Yaakov Dienna's, they are not perfect synonyms: *mi'un* is
-declining to comply with something asked of one, *siruv* is the utter rejection
-of the proposition itself, and it *somehow* implies the more intense refusal.
-Both words also have technical rabbinic senses: *mi'un* is the minor's refusal
-of her husband, *siruv* is contempt of beis din.
+*meridah*, *meri* and *mi'un* alike by *siruv*. In light of that, the two *seem*
+to be simply synonyms from different languages, *mi'un* genuine Hebrew and
+*siruv* a borrowed Aramaic loanword that grew popular in post-biblical Hebrew.
+The second is Rabbi Yaakov Dienna's, in the commentary to Onkelos ascribed to
+him: the two are not perfect synonyms. *Mi'un* is declining to comply with a
+request, while *siruv* is the utter rejection of the proposition itself, and
+*somehow* implies the more intense refusal. Both words also have technical
+rabbinic senses: *mi'un* is the minor's refusal of her husband, and *siruv* is
+contempt of beis din.
 
 ## At a glance
 

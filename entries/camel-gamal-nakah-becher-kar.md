@@ -39,10 +39,11 @@ updated: 2026-09-22
 These words name stages and kinds of camel. *Becher* (masculine) and *bichrah*
 (feminine) are the **young camel**, newly born and not yet able to carry loads;
 grown, it becomes *gamal* for a male and *nakah* for a female (Rabbi Nosson of
-Rome, *Sefer HeAruch*). *Gamal* is the default word and can cover females too when
-no distinction is being drawn; Tanach marks a she-camel by the phrase *gemalim
-meinikos*, nursing camels (Bereishis 32:16). *Kar* and *kirkaros* are contested,
-and not every view takes either of them as a camel.
+Rome, *Sefer HeAruch*). *Gamal* is the default word and can cover females too
+when no distinction is being drawn; to mark the she-camels Yaakov sends Esav,
+the pasuk says *gemalim meinikos*, nursing camels (Bereishis 32:16). *Kar* and
+*kirkaros* are disputed, and each has readings that make it something other than
+a camel.
 
 ## At a glance
 

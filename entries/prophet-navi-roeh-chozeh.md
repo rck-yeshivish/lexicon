@@ -30,12 +30,13 @@ updated: 2026-09-22
 
 ## Bottom line
 
-All three are words for a **prophet**, but they name different sides of the office.
-*Navi* is the prophet as **mouth**, the one who brings and speaks Hashem's word,
-and in Shemos 7:1 it means plainly **spokesman**. *Roeh* is the **seer**, the
-earlier kind, sought out by individuals, whose vision was sharp. *Chozeh* is the
-later **visionary**, the Aramaic word for a seer, and the Vilna Gaon takes the
-switch to Aramaic as a mark of dimmer clarity.
+All three are words for a **prophet**, but they name different sides of the
+office. *Navi* is the prophet as **mouth**, the one who brings and speaks
+Hashem's word, and at Shemos 7:1 it plainly means **spokesman**. *Roeh* is the
+**seer**, the earlier kind; Malbim says individuals sought him out, and the
+Vilna Gaon that his vision was sharp. *Chozeh* is the later **visionary**, the
+Aramaic word for a seer, and the Gaon takes the switch to Aramaic as a sign that
+the later prophets grasped their visions less clearly.
 
 ## At a glance
 

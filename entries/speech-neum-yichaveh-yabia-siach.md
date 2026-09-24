@@ -31,16 +31,16 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Ne'um*, "word," is used overwhelmingly for the Word of Hashem. It is the solemn
-declaration whose force is that it is true (Pappenheim) and settled (*Peirush
-HaRokeach* and Rabbeinu Efrayim): a **declaration**, an **utterance**, in a
-*nevuah* **thus says**.
-*Yichaveh* is speech that gives an idea life by bringing it out into the open,
-or, on Pappenheim's alternative, speech that joins speaker to listener as *ach*
-to *ach*: **express**, **declare**. *Yabia* is speech welling up from the depths
-like a spring: **pour forth**, **utter**. *Siach* is discursive, wandering
-speech that unburdens the speaker: **converse**, **muse**, **pour out one's
-talk**.
+*Ne'um*, "word," is used overwhelmingly for the Word of Hashem. For Rabbi
+Pappenheim it is a deliberate declaration that stresses the truth of what is
+said; for *Peirush HaRokeach* and Rabbeinu Efrayim it conveys an irrevocable
+decree or oath. It is a **declaration**, an **utterance**, and in a *nevuah*
+**thus says**. Rabbi Pappenheim explains *yichaveh* as speech that gives an idea
+life by bringing it out into the open, or else as speech that joins speaker to
+listener as *ach* to *ach*: **express**, **declare**. *Yabia* is speech welling
+up from the depths like a spring: **pour forth**, **utter**. *Siach* is
+discursive, wandering speech that unburdens the speaker: **converse**, **muse**,
+**pour out one's talk**.
 
 ## At a glance
 

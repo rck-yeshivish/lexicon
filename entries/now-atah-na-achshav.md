@@ -47,12 +47,13 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Atah* is the ordinary biblical **now**, over four hundred times, and it carries
-*eis*, time, in its own letters. *Na* also means **now**, and only secondarily
-"please" or "raw." *Achshav* is **now** in the language of Chazal and in Modern
-Hebrew, and never occurs in Tanach. In Aramaic,
-*ke'an* is the biblical form and the Targum's regular rendering of both *atah*
-and *na*; *ke'don*, *hashta*, and *ha'idna* are its companions outside Tanach.
+*Atah* is the ordinary **now** of Tanach, where it appears over four hundred
+times, and its first two letters spell *eis*, time. *Na* also means **now**, and
+only secondarily "please" or "raw." *Achshav* is **now** in the language of
+Chazal and in Modern Hebrew, and never occurs in Tanach. Of the four Aramaic
+words, only *ke'an* appears in Tanach, and it is the Targumim's usual word for
+both *atah* and *na*; the other three, *ke'don*, *hashta* and *ha'idna*, appear
+only outside it.
 
 ## At a glance
 

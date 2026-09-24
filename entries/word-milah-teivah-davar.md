@@ -32,13 +32,14 @@ updated: 2026-09-22
 ## Bottom line
 
 *Milah* is the biblical term (Tehillim 19:5, 139:4; Iyov throughout), and for
-Rabbi Eliyahu HaBachur the **spoken word**; *teivah* in this sense appears only
-in later rabbinic writing, a grammarians' term as Rabbi Shlomo Pappenheim seems
-to understand it, and for HaBachur the **written word**, the one behind *roshei
-teivos*. Rabbi Yosef Teomim differs slightly: *milah* can be written or spoken,
-*teivah* only written. Rabbi Pappenheim, from מ-ל, "edge," makes *milah* the
-word cut off as a unit from the sentence. *Davar* is a **word** that is also a
-**thing**, and for Rabbi Moshe Shapiro that double sense is the point.
+Rabbi Eliyahu HaBachur it is the **spoken word**. *Teivah* in this sense appears
+only in later rabbinic writing, a grammarians' term as Rabbi Shlomo Pappenheim
+seems to understand it, and for HaBachur it is the **written word**, as in
+*roshei teivos*. Rabbi Yosef Teomim differs slightly: *milah* can be written or
+spoken, *teivah* only written. Rabbi Pappenheim traces *milah* to מ-ל, "edge,"
+so that a word is a unit cut off from the rest of the sentence. *Davar* means
+both **word** and **thing**, a double sense Rabbi Moshe Shapiro finds especially
+telling.
 
 ## At a glance
 

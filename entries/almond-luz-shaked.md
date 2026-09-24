@@ -23,14 +23,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Shaked* is the Hebrew word for the **almond**, and its root ש-ק-ד seems to be the
-one meaning watchful and diligent, a link that may already be at work in the
-*nevuah* in Yirmiyahu 1:11 to 12, where **almond** plays on **vigilant**. *Luz* means the same thing in Arabic,
-according to Rabbi Saadia Gaon as Radak and Ibn Ezra cite him, and Rabbi Klein
-reaches Aramaic as his own hedged upshot, so **almond**
-again, though a substantial set of *Rishonim* read *luz* as **hazel** and Targum
-Onkelos never once renders *shaked* as *luz*. Rabbi Klein's upshot is a
-hedged one: it seems that *luz* is an Aramaic word and *shaked* a genuinely
+*Shaked* is the Hebrew word for the **almond**. It seems to be related to ש-ק-ד,
+the root of watchfulness and diligence, and the link between the two senses may
+already be at work in the *nevuah* of Yirmiyahu 1:11 to 12, where **almond**
+plays on **vigilant**. Rabbi Saadia Gaon, cited by Radak and Ibn Ezra, takes
+*luz* as **almond**, as in Arabic, though many *Rishonim* read it as **hazel**,
+and Targum Onkelos never once renders *shaked* as *luz*. Rabbi Klein's upshot is
+a hedged one: it seems that *luz* is an Aramaic word and *shaked* a genuinely
 Hebrew one, in which case the two mean exactly the same thing and differ only by
 language.
 

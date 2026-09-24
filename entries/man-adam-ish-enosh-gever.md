@@ -33,13 +33,14 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Adam* is the species name and the highest term: **man** or **mankind**.
-*Enosh* is man in his weakness: **mortal**, **frail man** (the plural *anashim*
-flips to "men of standing," Rashi). *Ish* is one individual, physically mature:
-**a man**, "man" as against woman or child. *Gever* is man as strength: **man**
-in the sense of the strong male, and not generic humanity, though whether it is
-always male is itself disputed (Ibn Ezra says yes, Rabbi Yehuda Leib Edel brings
-gender-neutral uses against him). The Zohar ranks them (*adam* > *enosh* > *ish* > *gever*).
+*Adam* is the species name and the highest term: **man** or **mankind**. *Enosh*
+is man in his weakness: **mortal**, **frail man**, though its plural *anashim*
+means "men of standing" (Rashi). *Ish* is one individual, physically mature: **a
+man**, as against a woman or a child. *Gever* is man as strength: **man** in the
+sense of the strong male rather than generic humanity. Whether it is always male
+is disputed: Ibn Ezra holds that it is, and Rabbi Yehuda Leib Edel cites
+gender-neutral uses against him. The Zohar ranks the four: *adam* highest, then
+*enosh*, *ish* and *gever*.
 
 ## At a glance
 

@@ -41,9 +41,9 @@ updated: 2026-09-10
 
 *Rechov* is the **city street**, *mesilah* the **paved** and generally straight
 road, *netiv* the narrow **path** that only some people use, *mishol* the
-**footpath** too weak for a wagon, *shvil* the **trail** narrow enough for one
-ankle at a time, and *maagal* a **roundabout way** that goes nowhere in
-particular. On width, Rabbeinu Bachya makes a *netiv* narrower than a *derech*,
+**footpath** that cannot take the weight of a wagon, *shvil* the **trail** wide
+enough for only one ankle at a time, and *maagal* a **roundabout way** that goes
+nowhere in particular. Rabbeinu Bachya makes a *netiv* narrower than a *derech*,
 and Malbim and others make a *shvil* narrower than a *netiv*.
 
 ## At a glance

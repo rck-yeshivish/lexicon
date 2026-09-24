@@ -44,13 +44,13 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Dag* is **a fish**, the singular; *dagah* is the loaded form, and what it adds
-is disputed: **a large fish or a small one** (Chazal), **a female fish**
-(Rashi and others), **a dead fish** (Zohar), or **fish as a collective**, the
-species rather than the individual (Ibn Ezra). Most of the sources that take up
-the difference focus on the switch from *dag* to *dagah* in Yonah 2:1 and 2:2.
-Rashi glosses several Aramaic words in the Gemara (*avruma*, *munini*, *gildna*,
-*tzachanta*) as **small fish**.
+*Dag* is **a fish**, the singular. How *dagah* differs from it is disputed: it
+is **a large fish or a small one** (Chazal), **a female fish** (Rashi and
+others), **a dead fish** (Zohar), or **fish as a collective**, the species
+rather than the individual (Ibn Ezra). Most of the sources that deal with the
+difference focus on Yonah, where the fish is first a *dag* (2:1) and then a
+*dagah* (2:2). Rashi glosses several Aramaic words in the Gemara (*avruma*,
+*munini*, *gildna*, *tzachanta*) as **small fish**.
 
 ## At a glance
 

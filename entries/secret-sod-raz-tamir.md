@@ -38,17 +38,17 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Sod* in Tanach is **counsel** or **council** (the circle of advisors and the
-advice they give: Radak, who disagrees with Ibn Janach's split into two distinct
-senses and holds the two are really one); only in Chazal does
-it become **secret**, the confidence shared with a few. The Biblical word for a
-secret proper is *dvar seter*, **a hidden matter** (Pappenheim). *Kamus* is
-**stored away, sealed up** (Devarim 32:34, once only); for Rav Hirsch, classified information.
-*Raz* (Aramaic, Daniel) is **mystery**, an idea closed off from the many
-(Rashi: *seter*, *satum*). *Tamir* is Aramaic **hidden**, Targum's word for
-many Hebrew hiding-words. In a pasuk, סוד is
-usually "counsel" or "assembly," not "secret"; in a Gemara
-it is "secret."
+In Tanach *sod* is **counsel** or **council**, and never quite a secret. Ibn
+Janach splits it into two distinct senses, a gathering of people and advice;
+Radak disagrees and holds they are really one, the circle of advisors and the
+advice one takes from them. Only in the language of Chazal did it widen to
+**secret**, a confidence shared with a few. Rabbi Shlomo Pappenheim holds that
+the Biblical word for a secret proper is *dvar seter*, **a hidden matter**.
+*Kamus*, found only once (Devarim 32:34), is **stored away, sealed up**; Rav
+Hirsch takes it as protected, classified information. *Raz*, an Aramaic word
+found in Daniel, is **mystery**: Rashi glosses it *seter* and *satum*, an idea
+closed off from the many. *Tamir* is the Aramaic for **hidden**, the Targum's
+word for many of the Hebrew words for hiding.
 
 ## At a glance
 

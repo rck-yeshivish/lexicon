@@ -31,12 +31,12 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Churban* is **destruction**, and in Rabbi Shlomo Pappenheim's sense a place cut
-off from what kept it alive; the buildings may be standing. *Shemamah* is
-**desolation**, ruin visible to anyone who looks (Rabbi Mecklenburg), and for
-Malbim the stronger of the two. Vayikra 26:31 puts
-both in one pasuk: "I will make your cities a ruin (*charbah*) and lay your sanctuaries waste
-(*vahashimosi*)."
+*Churban* is **destruction**. For Rabbi Shlomo Pappenheim it names a place cut
+off from what kept it alive, though its buildings may still be standing.
+*Shemamah* is **desolation**, ruin visible to anyone who looks (Rabbi Yaakov
+Tzvi Mecklenburg); Malbim makes it the more severe of the two. Vayikra 26:31
+puts both in one pasuk: "I will make your cities a ruin (*charbah*) and lay your
+sanctuaries waste (*vahashimosi*)."
 
 ## At a glance
 

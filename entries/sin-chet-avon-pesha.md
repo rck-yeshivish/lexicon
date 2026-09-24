@@ -34,13 +34,14 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Chet* is the general and lightest word: **sin**, and beside its neighbors the
-**inadvertent sin** (*shogeg*). *Avon* is **iniquity**, the wanton or intentional
-sin (*meizid*). *Pesha* is the **rebellious sin**, done to defy Hashem. That is
-the Gemara's ladder (Yoma 36b), and the *vidui* keeps its ascending order: "I
-have sinned, I have done iniquity, I have rebelled." Rabbi Netanel Weil: the
-difference between *chet* and *avon* holds only when the two stand together; a lone *chet* or *avon* covers
-every kind of sin and is simply "sin." *Aveirah*, the Rabbinic catch-all, is
+*Chet* is the general and lightest word, **sin**; set beside the other two, it
+is the **inadvertent sin** (*shogeg*). *Avon* is **iniquity**, the wanton or
+intentional sin (*meizid*). *Pesha* is the **rebellious sin**, done to defy
+Hashem. That is how the Gemara grades them (*Yoma* 36b), and the *vidui*
+confesses them in that ascending order: "I have sinned, I have done iniquity, I
+have rebelled." Rabbi Netanel Weil writes that the difference between *chet* and
+*avon* shows only when the two stand together; alone, either one takes in every
+kind of sin and means simply "sin." *Aveirah*, the Rabbinic catch-all, is
 **transgression**.
 
 ## At a glance

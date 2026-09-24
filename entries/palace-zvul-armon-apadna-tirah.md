@@ -40,17 +40,17 @@ updated: 2026-09-22
 
 ## Bottom line
 
-Rabbi Reuven Chaim Klein offers a way of differentiating them. *Armon* is the
-general word and covers both English senses, **palace** and **castle**. *Apadna*
-seems to line up with the luxury sense: a **palace**, or in the Gemara a grand
-hall or room. *Tirah* seems to be associated with the defensive sense: a
-**fortress** or fortified enclosure. *Paltin* is the late Hebrew for a
-**palace** in the imperial sense. *Zvul* is a **lofty abode** (Rabbi Dovid Tzvi
-Hoffmann's suggestion), the dwelling that perfectly suits the one it is meant
-for (Rav Hirsch), and it is used most often of the Beis HaMikdash. Where it sits
-relative to the other four Rabbi Reuven Chaim Klein leaves open: the term
-*zvul*, he writes, "somehow fits in to all of this, I'm just not sure exactly
-how."
+Rabbi Reuven Chaim Klein proposes a way of telling the words apart. *Armon* is
+the general word and covers both English senses, **palace** and **castle**.
+*Apadna* seems to line up with the luxury sense: a **palace**, and in the Gemara
+sometimes a grand hall or room. *Tirah* seems to be associated with the
+defensive sense: a **fortress** or fortified enclosure. *Paltin*, the late
+Hebrew for a **palace**, is a cousin of the English word. Rabbi Dovid Tzvi
+Hoffmann suggests that *zvul* is a **lofty abode**, and Rav Hirsch explains it
+as the dwelling that perfectly suits the one it is meant for; it is used most
+often of the Beis HaMikdash. Rabbi Klein leaves open where *zvul* stands among
+the other four: it "somehow fits in to all of this," he writes, "I'm just not
+sure exactly how."
 
 ## At a glance
 

@@ -24,12 +24,13 @@ updated: 2026-09-22
 
 ## Bottom line
 
-An *askan* is a **communal activist**: he is busy with the matter himself and
-gets it done. A *shtadlan* is an **intercessor** or lobbyist: he works on the
-authorities to change their position. The Yiddish *macher* is simply a
-**doer**. Behind them stand *esek*, **dealing** with a matter (and in Tanach,
-fighting over one), and *shadal*, **making an effort** or **persuading**. Between *askan* and *shtadlan* the whole distinction is that one
-acts and the other persuades.
+An *askan* is a **communal activist**: he busies himself with whatever needs
+doing and gets it done himself. A *shtadlan* is an **intercessor** or lobbyist:
+he goes to the authorities on the community's behalf to change their position.
+The whole distinction between the two is that the one acts and the other
+persuades. Behind them stand *esek*, **dealing** with a matter (and in Tanach,
+fighting over one), and *shadal*, **making an effort** or **persuading**. The
+Yiddish *macher* is simply a **doer**.
 
 ## At a glance
 

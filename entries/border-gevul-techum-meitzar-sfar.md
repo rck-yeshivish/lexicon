@@ -36,15 +36,17 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Gevul* is the Biblical word and, on Rav Hirsch's reading, names the whole **territory** inside the line: "throughout your borders"
-means the whole country. *Techum* is the Targum's rendering of *gevul* and the
-Mishnaic word for **the bounded area** (*techum Shabbos*). *Meitzar* (plural
-*mitzarim*) is the Rabbinic word for a **boundary**, as between adjoining
-fields, distinct, per Ibn Kuraish, from the Biblical *meitzar* meaning
-**straits**. *Sfar* typically names what sits near the line, the **frontier** or border region exposed to what lies outside. Rashi reads
-*bein hametzarim* two ways at once: the Three Weeks, taking
-*mitzarim* from *tzarah*, "sorrow"; and, in the plain sense, "between the
-boundaries."
+*Gevul* is the Biblical word, and on Rav Hirsch's reading it names the whole
+**territory** inside the line: when Hashem warns that He will strike Pharaoh's
+whole *gevul* with frogs (Shemos 7:27), the whole country is meant. *Techum* is
+the Targum's rendering of *gevul* and the Mishnaic word for **the bounded area**
+(*techum Shabbos*). *Meitzar* (plural *mitzarim*) is the Rabbinic word for a
+**boundary**, as between adjoining fields. Ibn Kuraish holds it unrelated to the
+Biblical *meitzar*, **straits**, while Ibn Ezra and Rabbi Shlomo Pappenheim
+connect the two. *Sfar* typically names what sits near the line, the
+**frontier** or border region exposed to what lies outside. Rashi reads *bein
+hametzarim* two ways: as the Three Weeks, taking *mitzarim* from *tzarah*,
+"sorrow"; and, in the plain sense, as "between the boundaries."
 
 ## At a glance
 

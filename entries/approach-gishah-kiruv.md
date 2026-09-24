@@ -24,16 +24,17 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Gishah* is **to approach** in the strong sense: coming right up to something, and
-usually across a gap of standing or in awe of it. *Kiruv* is **to draw near** or
-**bring closer**, a step taken while still on the way, between parties on a level.
-So when Yehudah *vayigash* to the viceroy (Bereishis 44:18), Rabbi Klein's own
-conclusion, drawn twice and marked each time as what "it seems," is that he came
-up close and personal rather than merely nearer, and that he did so very
-deliberately, as a further step in his campaign for Binyamin's release; on the
-first of those readings, Rabbi Klein says, Yehudah may even have come close in a
-threatening way, as certain midrashic sources imply. In Aramaic the distinction
-disappears: Targum typically renders both by *kiruv* cognates.
+*Gishah* is **to approach** in the strong sense: coming right up to something
+(Pappenheim, Wertheimer), and usually in awe of it or across a gap of standing
+(Shapira-Frankfurter, Malbim). *Kiruv* is **to draw near** or **bring closer**,
+a step taken while still on the way (Pappenheim, Wertheimer), between parties on
+a level (Malbim). So when Yehudah *vayigash* to the viceroy (Bereishis 44:18),
+it seems to Rabbi Klein that he came up close and personal rather than merely
+nearer, perhaps even in a threatening way, as certain midrashic sources imply.
+In line with Rav Hirsch, for whom *gishah* is a move toward a specific goal, it
+also seems to Rabbi Klein that Yehudah approached very deliberately, as a
+further step in his campaign for Binyamin's release. In Aramaic all of this is
+lost: Targum typically renders both words by *kiruv* cognates.
 
 ## At a glance
 

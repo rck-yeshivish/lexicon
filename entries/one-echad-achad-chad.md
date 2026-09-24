@@ -37,12 +37,13 @@ updated: 2026-09-10
 
 *Echad* is the ordinary and overwhelmingly common word for **one**, and where
 Chazal read it closely it means **the one that matters**, the choice or unique
-one. *Achad* is the rarer form and splits in two (Rabbi Wolf Heidenheim): in the
-construct ("one of the mountains") it carries the same weight as *echad*, **one
-of the important ones**; in the absolute, recognisable because a *mem* usually follows
-("*achad me...*"), it means **any one of them**, and implies the lesser, not the
-greater. *Chad* is *echad* with the *aleph* dropped, Aramaic in almost every
-occurrence. *Achat* / *echat* are the feminine, one word vowelised two ways.
+one. *Achad* is rarer, and Rabbi Wolf Heidenheim distinguishes two forms of it.
+In the construct ("one of the mountains"), he holds, it carries the same weight
+as *echad*: **one of the important ones**. The absolute, which can usually be
+told by the *mem* that follows ("*achad me...*"), means for him **any one of
+them**, and implies something less important. *Chad* is *echad* with the *aleph*
+dropped (Radak), and almost always Aramaic. *Achat* and *echat* are the
+feminine, one word vowelised two ways.
 
 ## At a glance
 

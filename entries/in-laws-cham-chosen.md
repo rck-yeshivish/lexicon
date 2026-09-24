@@ -36,12 +36,12 @@ updated: 2026-09-22
 
 ## Bottom line
 
-Both pairs mean **father-in-law** and **mother-in-law**; in Biblical Hebrew
-they differ by whose in-laws they are. Radak: *cham* and *chamos* are always a
-**wife's** parents-in-law, *chosen* and *choseness* always a **husband's**. In
-Mishnaic Hebrew *cham* and *chamos* widened to cover a husband's in-laws too,
-but *chosen* and *choseness* never widened to cover a wife's (*Pri Megadim*).
-The Hebrew tells which side of the marriage is speaking.
+Both pairs mean **father-in-law** and **mother-in-law**, and in Biblical Hebrew
+they differ by whose in-laws they are. Radak writes that *cham* and *chamos* are
+always a **wife's** parents-in-law and *chosen* and *choseness* always a
+**husband's**. In Mishnaic Hebrew, as Radak points out, *cham* and *chamos*
+widened to cover a husband's in-laws too, but *chosen* and *choseness*, the *Pri
+Megadim* writes, never widened to cover a wife's.
 
 ## At a glance
 

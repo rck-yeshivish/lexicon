@@ -34,15 +34,15 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Shachar* is **dawn** or **daybreak**, the first light breaking the night before
-the sun is up. *Boker* is **morning**, beginning at *haneitz hachamah* and
-running on into the day. *Shachar* is a point; *boker* is a stretch, and
-*shachar* comes first. In Tanach *shachar* in the sense of morning appears some
-twenty times, against more than 200 for *boker*. In Aramaic, Onkelos renders
-both as *tzafra*, but in
-Iyov, Mishlei and Tehillim the Targum separates them: *boker* is *tzafra* and
-*shachar* is *kritzuta*. Both Hebrew roots also carry the sense of seeking out
-and discerning, which is why *shachar* and *boker* can each mean "search."
+*Shachar* is **dawn** or **daybreak**: a point in time, earlier than *boker*,
+when the first light breaks through the night before the sun is up. *Boker* is
+**morning**, a stretch of time: for Malbim and Rabbi Shlomo Aharon Wertheimer it
+runs from *haneitz hachamah* on into the day, though Wertheimer hesitates over
+Bereishis 22:3. *Shachar* in the sense of morning appears some twenty times in
+Tanach, *boker* more than 200. Onkelos renders both as *tzafra* throughout
+Chumash, but in Iyov, Mishlei and Tehillim the Targum separates them, *boker* as
+*tzafra* and *shachar* as *kritzuta*. Both words also mean seeking out and
+discerning, as Ibn Ezra says outright (Tehillim 63:2).
 
 ## At a glance
 

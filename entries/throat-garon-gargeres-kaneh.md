@@ -34,17 +34,16 @@ updated: 2026-09-22
 ## Bottom line
 
 All three name the **windpipe**, and whether they are truly synonymous is
-disputed. For Rabbi Yaakov Emden they are one organ in three strata of the
-language: *garon* the Biblical word, *gargeres* the Mishnaic, *kaneh* the
-Talmudic (Rabbi Tanchum HaYerushalmi likewise calls *gargeres* and *kaneh* two
-words for one thing). For Rabbi Yaakov Weil *gargeres* and *kaneh* are two parts
+disputed. For Rabbi Yaakov Emden, what Tanach calls *garon* the Mishnah calls
+*gargeres* and the Gemara *kaneh*: one organ, named in three stages of the
+language. Rabbi Tanchum HaYerushalmi likewise calls *gargeres* and *kaneh* two
+words for one thing. For Rabbi Yaakov Weil, *gargeres* and *kaneh* are two parts
 of the windpipe, the ringed exterior and the inner membrane, and the difference
-has halachic weight. In Tanach *garon* and *gargeres* often mean the visible
-**throat** or **neck** rather than the pipe inside it, and Rabbi Pappenheim even
-takes *garon* as the food pipe first; from the Mishnah on, *gargeres* and
-*kaneh* are technical and their partner is *veshet*, the **food pipe**. In any
-*shechitah* context *gargeres* or *kaneh* is the windpipe and *veshet* the
-esophagus.
+has halachic weight. In Tanach *gargeres* seems to mean the visible **throat**
+or **neck** rather than the pipe inside it, and *garon* at times does too;
+Malbim takes *garon* as the windpipe first, Rabbi Pappenheim as the food pipe
+first. From the Mishnah on, *gargeres* and *kaneh* are technical terms, set
+against *veshet*, the **food pipe**.
 
 ## At a glance
 

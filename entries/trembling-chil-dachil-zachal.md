@@ -31,15 +31,16 @@ updated: 2026-09-10
 *Chil* is the commonest of the three in Biblical Hebrew: **fear** and the
 **trembling** that fear produces, the word Tanach often uses of a woman's labor
 pangs. For Rav Hirsch it is a specific fear, of what one's place will be in a
-changing order; for Rabbi Shlomo Pappenheim the whole body spasming at something
-frightening. *Dachil* is the Aramaic word: **fearsome, dread**, typically used by
-Targum for *yirah*, *nora* and *pachad*. Rabbi Klein gives two possibilities:
-*chil* and *dachil* may simply be Hebrew against Aramaic for one thing, or, in
-light of Rav Hirsch, *chil* seems to be the specific fear and *dachil* the more
-general one. *Zachal* carries two senses in Tanach, **crawling** and **fear**, and
-the fear sense may well be the Aramaic *dachil* Hebraicized, dalet to zayin
-(*Metzudas Tzion*, repeated by Rabbi David Golumb and Rabbi Asher Weiser). The
-piyut *Yarasi Befitzchi Si* sets all three in rhyme.
+changing order; for Rabbi Shlomo Pappenheim it is the whole body spasming at
+something frightening. *Dachil* is the Aramaic word, **fearsome, dread**, which
+Targum typically uses for *yirah*, *nora* and *pachad*. Rabbi Klein gives two
+possibilities: *chil* and *dachil* may simply be the Hebrew and the Aramaic
+words for the same thing, or, in light of Rav Hirsch, *chil* seems to be the
+specific fear and *dachil* the more general one. *Zachal* carries two senses in
+Tanach, **crawling** and **fear**, and the fear sense may well be the Aramaic
+*dachil* Hebraicized, since Aramaic dalet answers to Hebrew zayin (*Metzudas
+Tzion*, repeated by Rabbi David Golumb and Rabbi Asher Weiser). The piyut
+*Yarasi Befitzchi Si* sets all three in rhyme.
 
 ## At a glance
 

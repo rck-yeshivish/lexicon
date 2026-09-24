@@ -36,13 +36,14 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Zahav* is the general word: **gold**. *Paz*, for most commentators, is **fine
-gold**, the best and rarest grade (Rabbi Shlomo Aharon Wertheimer). *Kesem* is
-also fine gold, named for the malleability that lets it be beaten thin (Rabbi
-Shlomo Pappenheim). *Charutz* is gold as mined, dug out of the ground (Rabbi
-Aharon Marcus, Rabbi Wertheimer). *Betzer* is contested: gold, silver, a
-stronghold, and unrefined ore are all live readings of Iyov 22:24. Tehillim
-19:11 and 119:127 pair two of them.
+*Zahav* is the general word: **gold**. Most commentators take *paz* as gold;
+Radak specifies good, unadulterated gold, and Rabbi Shlomo Aharon Wertheimer
+makes it **fine gold**, the best and rarest grade. Tehillim 19:11 and 119:127
+set *paz* beside *zahav*. *Kesem* is also fine gold, named for the malleability
+that lets it be beaten thin (Rabbi Shlomo Pappenheim). *Charutz* is gold dug out
+of the ground (Rabbi Aharon Marcus, Rabbi Wertheimer). *Betzer* is disputed: in
+Iyov 22:24 it is read variously as gold, silver, a stronghold, or the unrefined
+ore that yields gold.
 
 ## At a glance
 

@@ -34,11 +34,14 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Moshech* is the general verb: **pull, draw**, taking something from its place
-toward oneself. *Moshe* is narrow and almost always in water: **draw out of the
-water** (Rashbam). *Shoev* is **draw water**, in almost all biblical instances
-from a well; *shoef* is its air counterpart, **inhale**, and in *sheifah*,
-**yearning**. Wertheimer is the one who holds the water/air line in practice.
+*Moshech* is the general verb, **pull, draw**: taking something from its place
+by bringing it toward oneself (Rabbi David Chaim Chelouche). *Moshe* is
+narrower, specifically drawing something out from within water: **draw out of
+the water** (Rashbam). *Shoev* is **draw water**, in almost all biblical
+instances from a well. *Shoef* draws air instead: **inhale**, and in *sheifah*,
+**yearning**. The line between water and air is Rabbi Shlomo Aharon
+Wertheimer's: strictly speaking, he writes, the two could be somewhat
+interchangeable, but in practice *shoev* is water and *shoef* air.
 
 ## At a glance
 

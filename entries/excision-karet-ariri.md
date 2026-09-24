@@ -25,12 +25,12 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Karet* is **excision**, the sinner himself cut off: from his years, from his
-soul's place in the World of Souls, or from the source his soul hangs on. *Ariri* is
-**childless**, the line ending rather than the man. Whether they are one
-punishment or two is a *machlokes*: Rashi holds every *karet* can carry *ariri*
-with it; Riva holds *ariri* is a separate penalty attaching only to the forbidden
-marriages.
+*Karet* is **excision**: the sinner himself is cut off, whether from his years,
+from his soul's place in the World of Souls, or from the Upper Source to which
+his soul is joined. *Ariri* is **childless**, the line ending rather than the
+man. Whether they are one punishment or two is a *machlokes*. Rashi holds that
+every *karet* can carry *ariri* with it; Riva holds that *ariri* is a separate
+penalty, attaching only to the forbidden marriages.
 
 ## At a glance
 

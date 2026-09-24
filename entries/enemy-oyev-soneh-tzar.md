@@ -28,15 +28,17 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Oyev* is the enemy who acts, or at least plans to act: **enemy**, **foe**.
-*Soneh* is hatred held inside, shown by what a man refrains from doing:
-**hater**. *Tzar* (*tzorer*) is open, self-costing hostility: **adversary**,
-**persecutor**. Rabbi Yaakov Emden reverses the first two: the *soneh* hates
-openly, in speech, and the *oyev* buries his enmity in his heart and holds it
-forever, like Esav. Which is the graver is disputed too: the *soneh*, aiming at
-the soul, for the Vilna Gaon; the *oyev* for Shadal. Bamidbar 10:35 pairs
-*oyev* and *soneh*, and Rabbi Klein concludes that Moshe davens there that both
-kinds of Hashem's enemies be vanquished.
+An *oyev* is an **enemy** or **foe** who actively tries to harm his victim, or
+at least contemplates doing so. A *soneh* is a **hater** whose hatred stays
+inside, shown by what he refrains from doing. A *tzar* (*tzorer*) is an
+**adversary** or **persecutor**, who attacks openly and will spend his own
+reputation and resources to do it. Rabbi Yaakov Emden reverses the first two:
+the *soneh* hates openly, in speech, and the *oyev* buries his enmity in his
+heart and holds it forever, like Esav. The authorities differ, too, over which
+is the graver: for the Vilna Gaon it is the *soneh*, who aims at the soul, and
+for Shadal the *oyev*. Bamidbar 10:35 pairs *oyev* and *soneh*, and Rabbi Klein
+concludes that Moshe davens there that both kinds of Hashem's enemies be
+vanquished.
 
 ## At a glance
 

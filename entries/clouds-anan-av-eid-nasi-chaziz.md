@@ -43,11 +43,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Anan* is the plain, general **cloud** (close to a hundred times in Tanach).
-*Av* is the **thick cloud** that darkens the sky. *Eid* is the **rising vapor**
-or mist that clouds are formed from. *Nasi* is the **rain cloud**, for Pappenheim either the one that carries
-water or the one light enough to be lifted. *Chaziz* is the **thundercloud** that comes with
-lightning (Pappenheim). Chazal count these five as the words for cloud.
+*Anan* is the plain, general word for **cloud**, found close to a hundred times
+in Tanach. *Av* is the **thick cloud** that darkens the sky. *Eid* is **rising
+vapor** or mist. Rabbeinu Bachya takes it as water vapor, and Rabbi Shlomo
+Pappenheim as clouds formed from water that has evaporated. *Nasi* is the **rain
+cloud**; Rabbi Pappenheim takes it either as the cloud that carries water or as
+one light enough to be lifted. *Chaziz* is the **thundercloud** that comes with
+lightning (Rabbi Pappenheim). Chazal count these five as the words for cloud.
 
 ## At a glance
 

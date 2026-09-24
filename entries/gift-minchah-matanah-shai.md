@@ -41,16 +41,18 @@ updated: 2026-09-22
 ## Bottom line
 
 *Minchah* is a gift of **homage or tribute**: for Rav Hirsch it serves the
-giver, who is showing his dependence on the receiver. *Matanah* is a gift that
-serves the **receiver's need**, given with nothing coming back (Wertheimer); it
-is the word for *matanos la'evyonim*. Rabbi Mecklenburg holds it inappropriate
-for an offering to Hashem, and Rabbi Klein explains why: Hashem has no needs to
-fill. *Shai* is a **weighty gift**, on Bedersi's reading substantial in itself
-and on Wertheimer's weighty in the giver's eyes though not in the receiver's; in
-Tanach it is always given to Hashem. *Teshurah* is the **showpiece gift**
-brought when one comes before a great man. *Eshkar* is obscure and disputed.
-*Doron* is the Greek word for "gift" that the Targum uses. *Minchah* is not "meal-offering," it is "gift," and only the sacrificial
-context narrows it (Rabbi Mecklenburg).
+giver, who shows by it his dependence on the receiver. Rabbi Mecklenburg points
+out that the word itself means "gift," not "meal-offering"; only among the
+korbanos does it name the meal-offering. *Matanah* is a gift that serves the
+**receiver's need**, given with nothing coming back (Wertheimer); it is the word
+for *matanos la'evyonim*. Rabbi Mecklenburg holds *matanah* inappropriate for an
+offering to Hashem, and Rabbi Klein explains why: Hashem has no needs to fill.
+*Shai* is a **weighty gift**: for Bedersi it is substantial in itself, for
+Wertheimer weighty in the giver's eyes though not in the receiver's. In Tanach
+it is always given to Hashem. *Teshurah* is the **showpiece gift** (Midrash
+Shocher Tov, Wertheimer); Malbim makes it the gift brought when one comes before
+a great man. *Eshkar* is obscure and disputed. *Doron* is the Greek word for
+"gift" that the Targum uses.
 
 ## At a glance
 

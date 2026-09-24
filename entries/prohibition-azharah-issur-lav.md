@@ -29,17 +29,16 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Azharah* is the prohibition as **forewarning**; Rabbi Klein's own summary is
-that it *seems* to focus on a prohibition as a way of "enlightening" a person as
-to his duties and expectations, and several authorities read its root as light,
-so on their reading it puts a person on notice by making his
-duty clear. *Issur* is the prohibition as a **binding**,
-the rule that ties a person's hands and takes the act off the table. *Lav* is
-simply a **negative commandment**, a "no-no" people are enjoined from
-committing, named for the word *lo*. *Azharah* and *issur* are not two names
-for one thing. *Azharah* often names the warning
-aspect of a prohibition as against its punishment aspect (*Yevamos* 3b);
-*issur* is the substantive prohibited status.
+*Azharah* is the prohibition as **forewarning**. Rabbi Klein concludes that it
+*seems* to focus on a prohibition as a way of "enlightening" a person as to his
+duties and expectations, and several authorities read its root as light, so that
+on their reading it puts a person on notice by making his duty clear. It often
+names the warning aspect of a prohibition, as opposed to its punishment aspect
+(*Yevamos* 3b). *Issur* is the prohibition as a **binding**, the rule that ties
+a person's hands and bars him from certain actions; it is the substantive
+prohibited status. *Azharah* and *issur* are not two names for one thing. *Lav*
+is simply a **negative commandment**, a "no-no" people are enjoined from
+committing, named for the word *lo*.
 
 ## At a glance
 

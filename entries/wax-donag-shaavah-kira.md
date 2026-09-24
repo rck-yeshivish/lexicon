@@ -32,15 +32,15 @@ updated: 2026-09-10
 ## Bottom line
 
 *Donag* is the Biblical word for **wax**, and it always appears as the substance
-that melts in fire; its name is tied to wax's pliability (Rav Hirsch), to its
-giving light (Rabbi Yehoshua Steinberg), or to Akkadian *dumqu*, "clear" or
-"shiny" (Avraham Even-Shoshan), and Rabbi Dr. Ernest Klein calls it of uncertain etymology.
-*Shaavah* is the Mishnaic and Targumic word for the same substance: **beeswax**,
-or **candle wax** in a halachic context. The Gemara defines it as the refuse of
-honey, and its name seems to come from SHIN-AYIN, "smooth," for the texture of
-hardened wax. *Kira* (and *keirosa*, *kiri*) is **wax** too, but a Greek and
-Latin loan-word, not Hebrew or Aramaic. *Nechot* in the Yosef narrative is
-generally a **spice**; some make it wax, following the Midrash.
+that melts in fire. Rav Hirsch ties its name to wax's pliability, Rabbi Yehoshua
+Steinberg to its giving light, and Avraham Even-Shoshan to Akkadian *dumqu*,
+"clear" or "shiny"; Rabbi Dr. Ernest Klein concludes that its etymology is
+uncertain. *Shaavah*, the Mishnaic and Targumic word for the same substance, is
+**beeswax** or **candle wax**. The Gemara defines it as the refuse of honey. Its
+name seems to come from SHIN-AYIN, "smooth," for the texture of hardened wax.
+*Kira* (and *keirosa*, *kiri*) is **wax** too, but a Greek and Latin loan-word,
+not Hebrew or Aramaic. *Nechot* in the Yosef narrative is generally understood
+as a **spice**, though the Midrash and some commentators make it wax.
 
 ## At a glance
 
