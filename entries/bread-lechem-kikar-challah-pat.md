@@ -45,13 +45,14 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Lechem* is the wide word, **bread** in the sense of the staple food, over three
-hundred times in Tanach. *Kikar* seems to mean a circle; it is the **loaf**,
-named for its round shape, but in Tanach it usually means a talent of metal or a
-valley ringed by mountains, not bread. *Challah* in Tanach is a **meal-cake**,
-almost always one brought as a korban, and in the Mishnah generally the
-**tithe** separated from dough, not the loaf we call by that name today. *Pat* is a **morsel**, a broken piece, which became a plain synonym for
-bread in Rabbinic usage. *Rifta* and *nahamah* are the Aramaic words for bread.
+*Lechem* is the wide word, **bread** in the sense of the staple food, and it
+appears over three hundred times in Tanach. *Kikar* seems to mean a circle; it
+is the **loaf**, named for its round shape, but in Tanach it usually means a
+talent of metal or a valley ringed by mountains, not bread. *Challah* in Tanach
+is a **meal-cake**, almost always one brought as a korban, and in the Mishnah
+generally the **tithe** separated from dough, not the loaf we call by that name
+today. *Pat* is a **morsel**, a broken piece, and in Rabbinic usage it became a
+plain synonym for bread. *Rifta* and *nahamah* are the Aramaic words for bread.
 
 ## At a glance
 

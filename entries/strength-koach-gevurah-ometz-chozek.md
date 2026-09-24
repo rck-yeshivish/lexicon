@@ -62,22 +62,22 @@ updated: 2026-09-22
 ## Bottom line
 
 *Koach* is **strength**, the general word: the plain ability to do or withstand
-something (Rabbi Pappenheim); in Tanach and Torah sources generally physical
-strength, which man shares with beast (Rabbi Soloveitchik). *Gevurah* is
-**might** or **heroism**: for Rabbi Pappenheim the act that actualizes potential
-*koach*, for Rabbi Mecklenburg *koach* used to defeat opposition rather than
-merely withstand it, for Rabbi Soloveitchik the heroism given to man alone to
-transcend the instinct of survival; the Mishnah's *gibbor* conquers his yetzer
-(Avos 4:1). On *chozek*: for Bedersi and Wertheimer it is the standard word for
-**strong** and *ometz* is strength above the normal measure; for Rabbi
-Pappenheim *chozek* is extra-strength *koach*, the strength by which one stands
-out above the rest. The Vilna Gaon makes *chozek* outer, physical strength and
-*ometz* strength of the heart, and *chazak v'ematz* has four more readings
-besides (below). *Eitan* is
-strength that holds back (Rabbi Edel) or endures (Rav Hirsch); *adir* the most
-powerful of a whole group (Rabbi Pappenheim); *oz* strength of spirit that
-others cannot deter (Wertheimer), or, for Rabbi Wessely, primarily Divine,
-supernatural power; *takif* strength that surrounds and **overpowers** (Rabbi
+something (Rabbi Pappenheim). In Tanach and Torah sources it is generally
+physical strength, which man shares with animals (Rabbi Soloveitchik).
+*Gevurah* is **might** or **heroism**. For Rabbi Pappenheim it is the act that
+turns potential *koach* into actual strength; for Rabbi Mecklenburg, *koach*
+used to defeat opposition rather than merely withstand it; for Rabbi
+Soloveitchik, the heroism, given to man alone, to transcend the instinct for
+survival. The Mishnah's *gibbor* is the one who conquers his yetzer (Avos 4:1).
+Bedersi and Wertheimer make *chozek* the standard word for **strong** and
+*ometz* strength beyond the normal measure. For Rabbi Pappenheim, *chozek* is
+*koach* intensified, the strength by which one stands out above the rest. The
+Vilna Gaon makes *chozek* outer, physical strength and *ometz* strength of the
+heart, and *chazak v'ematz* is read four more ways besides. *Eitan* is strength
+that holds back (Rabbi Edel) or that endures (Rav Hirsch); *adir*, the most
+powerful of a whole group (Rabbi Pappenheim); *oz*, strength of spirit that
+others cannot easily deter (Wertheimer), or for Rabbi Wessely a primarily Divine,
+supernatural power; *takif*, strength that surrounds and **overpowers** (Rabbi
 Pappenheim).
 
 ## At a glance

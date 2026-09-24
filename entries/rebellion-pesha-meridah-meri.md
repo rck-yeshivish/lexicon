@@ -33,13 +33,13 @@ updated: 2026-09-22
 
 ## Bottom line
 
-Three words for rebellion, and Rabbi Klein's own summary separates them
-cleanly. *Pesha* at its core is **negligence** born of laziness, and means
-**rebellion** only by extension. *Meridah* is **revolt** as a counter-response,
-especially throwing off a present ruler. *Meri* and *mamre* are **defiance** as switching
-allegiance, replacing one authority's word with another's. A lazy *poshea* is
-not a revolutionary, and in the *shomrim* sugya (Shemos 22:8) the *poshea* is
-**negligent**, not a rebel.
+Rabbi Klein's own summary sets the three words for rebellion cleanly apart.
+*Pesha* is at its core **negligence** born of laziness, and means **rebellion**
+only by extension. *Meridah* is **revolt**, a counter-response, especially the
+throwing off of a present ruler. *Meri* and *mamre* are **defiance** that
+switches allegiance, putting one authority's word in place of another's. A lazy
+*poshea* is no revolutionary, and in the *shomrim* sugya (Shemos 22:8) the
+*poshea* is **negligent**, not a rebel.
 
 ## At a glance
 

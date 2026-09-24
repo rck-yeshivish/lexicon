@@ -32,17 +32,18 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Almanah* is **widow**, *alman* **widower**, *almenus* **widowhood**. The
-Aramaic *armalta* is, as Rabbi Reuven Chaim Klein argues from the fluidity of such consonants
-and the Semitic cognates, the same word in Aramaic. In Kesubos 1:2 *almanah* covers any
-previously married woman, divorced as well as widowed, though even in Rabbinic
-Hebrew it usually means widow.
-The etymology is disputed: Ibn Janach's muteness (א-ל-ם), which Radak, Ibn
-Parchon and Rav Hirsch cite approvingly and the Ritva calls the grammarians'
-derivation, stands beside *al manah* readings, deserted palaces, and academic
-proposals. And *almenos* in Yeshayahu 13:22 is not widows: Targum Yonasan,
-Rashi, Radak and others read **palaces**, Abarbanel and Malbim relate it to a
-hall, and Ibn Ezra and Ibn Kaspi read **palaces emptied** of their dwellers.
+*Almanah* is **widow**, *alman* **widower**, *almenus* **widowhood**. Rabbi
+Reuven Chaim Klein argues, from the fluidity of such consonants and from the
+Semitic cognates, that the Aramaic *armalta* is the same word. In Kesubos
+1:2 *almanah* covers any previously married woman, divorced as well as widowed,
+though even in Rabbinic Hebrew it usually means widow.
+The etymology is disputed. Ibn Janach derives the word from *ilem*, mute
+(א-ל-ם); Radak, Ibn Parchon and Rav Hirsch cite it approvingly, and the Ritva
+stresses that the Gemara grants it. Beside it stand readings from *al manah*,
+a reading from deserted palaces, and academic proposals. *Almenos* in Yeshayahu
+13:22 does not mean widows: Targum Yonasan, Rashi, Radak and others read
+**palaces**, Abarbanel and Malbim relate it to a hall, and Ibn Ezra and Ibn
+Kaspi read **palaces emptied** of their dwellers.
 
 ## At a glance
 

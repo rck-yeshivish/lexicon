@@ -37,10 +37,12 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Ugah* is not "cake" in the modern sense: its core is **round**, and as a food, two scholars suggest, it is a
-**flat round loaf**, which would explain why the Torah calls the matzos of Yetzias Mitzrayim *ugos
-matzos* (Shemos 12:39). *Chararah* is Rashi's and the Mechilta's gloss on it. *Kikar* is a **loaf** with
-body, *challah* a **round loaf**, *gluska* the Rabbinic **fine roll**.
+*Ugah* is not "cake" in the modern sense. At root it means **round**, and as a
+food it is, two scholars suggest, a **flat round loaf**, which would explain why
+the Torah calls the matzos of Yetzias Mitzrayim *ugos matzos* (Shemos 12:39).
+*Chararah* is Rashi's and the Mechilta's gloss on it. *Kikar*, on the same
+scholars' suggestion, is a rounded **loaf**, spherical rather than flat;
+*challah* is a **round loaf**, and *gluska* the Rabbinic **fine roll**.
 
 ## At a glance
 

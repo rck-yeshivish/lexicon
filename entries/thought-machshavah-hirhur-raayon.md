@@ -29,14 +29,13 @@ updated: 2026-09-22
 ## Bottom line
 
 *Machshavah* is the deliberate, worked-out thought, kin to *cheshbon*:
-**thought**. *Raayon* is, for Rabbi Shlomo Aharon Wertheimer, the spark that
-surfaces unbidden and may upon deliberation be developed: **idea**, **notion**;
-but Rashi (to Berachos 55b) and Ramban treat it as a synonym of *machshavah*,
-the Yad Ramah makes it simply the Aramaic for *machshavah*, and Rashi to Daniel
-defines it as *hirhur*. *Hirhur* is, for the Vilna Gaon, a thought already
-formulated into possible words, or alternatively a thought of the heart rather
-than the brain: **musing**, or where the heart sense governs **stirring**.
-On the Gaon's first reading *hirhur* is thought already put into words, and in
+**thought**. *Raayon*, for Rabbi Shlomo Aharon Wertheimer, is the spark that
+surfaces unbidden and may, with deliberation, be developed: **idea**,
+**notion**. Rashi (to Berachos 55b) and Ramban, however, treat it as a synonym
+of *machshavah*; the Yad Ramah makes it simply the Aramaic for *machshavah*; and
+Rashi to Daniel defines it as *hirhur*. *Hirhur*, for the Vilna Gaon, is either
+a thought already formulated into possible words or a thought of the heart
+rather than the brain: **musing**, or, in the heart sense, **stirring**. In
 Rabbi Klein's synthesis of the three it is the *last* stage, thought at the
 threshold of speech.
 

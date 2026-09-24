@@ -39,9 +39,9 @@ to the meat. *Pader* is contested: most of the grammarians read it as simply
 **fat**, a synonym of *cheilev*; Ramban narrows it to the **thin fatty
 membrane** dividing the innards; and a group of grammarians drops the fat sense
 altogether for the **organ cluster** of trachea, lungs, heart, and liver.
-*Tarba* is the Aramaic standing in for *cheilev*. *Cheilev* is also sometimes
-borrowed for **the choicest part** of a non-animal thing, where it does not
-refer to animal fat at all.
+*Tarba* is the usual Aramaic for *cheilev*. *Cheilev* is also sometimes borrowed for
+**the choicest part** of things other than animals, with no reference to animal
+fat at all.
 
 ## At a glance
 

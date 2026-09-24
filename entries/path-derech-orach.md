@@ -59,15 +59,15 @@ updated: 2026-09-10
 *Derech* is the **way** or **road**: broad, public, open to everyone.
 *Orach* is the **path**: short, narrow, less commonly traveled (Vilna Gaon), the
 road that reaches the outlying towns and villages (Malbim). *Derech* and *orach*
-are not interchangeable. Pappenheim dissents: they can name one road, *derech*
-for its length, *orach* for its width. Six more words fill out the cluster: *rechov* is the **street**
-inside a town, against *derech* the road between towns; *netiv* is the
-**narrow path**, shorter or narrower than a *derech*, and in the Zohar's
-approach a private one open only to select individuals; *mesilah* is the
-**paved road**; *mishol* the **footpath**, for a man on foot; *maagal* the
-**circular path**, from *igul*, a circle; *shvil* the **downhill path**, from
-*shafel*, low. Of these six only the Zohar's reading of *netiv* carries a
-name; the others are anonymous explanations.
+are not interchangeable. Pappenheim dissents: for him they can name one road,
+*derech* for its length, *orach* for its width. Six more words fill out the
+cluster. *Rechov* is the **street** inside a town, where *derech* is the road
+between towns; *netiv* is the **narrow path**, shorter or narrower than a
+*derech*, and on the Zohar's approach a private one open only to select
+individuals; *mesilah* is the **paved road**; *mishol* the **footpath**, for a
+man on foot; *maagal* the **circular path**, from *igul*, a circle; *shvil* the
+**downhill path**, from *shafel*, low. Of these six, only the Zohar's reading of
+*netiv* is attributed to anyone; the rest are given anonymously.
 
 ## At a glance
 

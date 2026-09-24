@@ -42,9 +42,9 @@ updated: 2026-09-22
 standing **pond**. *Bitzah* is a **mire**, ground held in mud, from *botz*, mud.
 *Achu* divides the meforshim: Rashi makes it a **marsh**, plain and simple;
 Ramban and Rav Hirsch make it the **riverbank growth**, the reeds and grasses,
-not the place. *Suf* is the **reeds** that grow in a marsh,
-which is why *Yam Suf* is the Sea of Reeds. Iyov 8:11 puts *bitzah* and *achu*
-in one pasuk with *gome* beside them.
+not the place. *Suf* means the **reeds** that grow in a marsh, which is why
+*Yam Suf* is the Sea of Reeds. Iyov 8:11 sets *bitzah* and *achu* in a single
+pasuk, with *gome* beside them.
 
 ## At a glance
 

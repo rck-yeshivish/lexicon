@@ -32,15 +32,15 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Of* is the broad word, **fowl** or anything that flies. *Tzipor* is the
-narrower **bird**, and what narrows it is disputed: every bird as against
-insects (Radak), only a kosher bird (Sifri and Rambam), or the small chirping
-songbird that greets the morning (Ramban). The Ramban names the *tzipor* for
-*tzafra*, the morning; Rabbi Aharon Marcus (*Keses HaSofer*) runs it the other
-way, *tzipor* from its chirping and *tzafra* named for the birds. *Kanaf* is literally **winged
-creature**, the wing itself doing the naming, and it reaches to grasshoppers and
-other winged insects. All three stand in one pasuk, Bereishis 7:14, where Rashi
-reads *kol kanaf* as including what *kol tzipor* had not covered.
+*Of* is the broad word, **fowl**, anything that flies. *Tzipor* is the narrower
+**bird**, and what narrows it is disputed: every bird, as distinct from insects
+(Radak); only a kosher bird (Sifri and Rambam); or the small chirping songbird
+that greets the morning (Ramban). The Ramban names the *tzipor* for *tzafra*,
+the morning; Rabbi Aharon Marcus (*Keses HaSofer*) runs it the other way,
+*tzipor* from its chirping and *tzafra* named for the birds. *Kanaf*, literally
+**winged creature**, is named for the wing itself, and it takes in grasshoppers
+and other winged insects. All three stand in one pasuk, Bereishis 7:14, where
+Rashi reads *kol kanaf* as including what *kol tzipor* had not covered.
 
 ## At a glance
 
