@@ -48,9 +48,10 @@ the entry each would complete.
    renders none of them gives a reader without Hebrew nothing at all. Quote a
    pasuk, then say what it says.
 3. **Cite in English.** `(Yirmiyahu 22:14)`, never `(ירמיה כב, יד)`. Take the
-   chapter and pasuk from his Hebrew and write the book's name in English. A
-   citation left in Hebrew is one the reader cannot read and one the check
-   cannot verify against his own citations.
+   chapter and pasuk from his Hebrew and write the book's name in English,
+   unless his address is a slip the pesukim themselves settle, which the traps
+   below take up. A citation left in Hebrew is one the reader cannot read and
+   one the check cannot verify against his own citations.
 
    What he brings from outside Tanach goes the same way, named in English with
    the place he gives: a masechta by daf, `(Sanhedrin 63b)`, as a hundred-odd
@@ -115,31 +116,49 @@ the entry each would complete.
   text. The commonest failure is quoting across the divine name or across a
   citation in parentheses, which makes a phrase he never wrote. Copy; do not
   retype from memory.
-- **Verse numbers from memory.** Cite what his text prints, even where you are
-  sure he is a pasuk off. Where his edition differs, say so: `(Ezra 1:4 in his
-  edition)`.
-- **A misprinted book is not an edition difference.** Where the chapter and
-  pasuk are right and the book is not, as at שוע, where ולכילי לא יאמר שוע of
-  Yeshayahu 32:5 is printed (במדבר לב, ה), do not write "Bamidbar 32:5 in his
-  edition": that tells a reader his edition puts the pasuk in the Chumash, and
-  Bamidbar 32:5 is a real pasuk about something else. Quote the phrase, give it
-  its English, and leave it uncited.
-- **Two of his own addresses swapped between two phrases** are the one case
-  where you may repair a citation, because the repair uses nothing but his own
-  text. At גדר he prints גדר דרכי בגזית as (איכה ג, ז) and גדר בעדי ולא אצא as
-  (איכה ג, ט), and the two pesukim are the other way about. Both addresses are
-  his, and the site shows a pasuk's words when a reader opens the citation, so
-  printing them as he has them puts Hebrew on the screen that contradicts the
-  Hebrew beside it. Pair each phrase with the pasuk whose words it actually is.
-  This is not licence to correct a number you think is wrong: it applies only
-  where he cites both pesukim himself and the texts settle which is which.
-- **The same goes for a chapter number that lands somewhere real.** At כתר בי
-  יכתירו צדיקים is printed (תהלים קטב, ח), a קטב for קמב: that reads as Tehillim
-  111:8, a real pasuk and the wrong one, where the pasuk is 142:8. "In his
-  edition" is for a number a pasuk or two out, not for one that sends a reader
-  somewhere else entirely. The check cannot help here, since it reads his
-  printed citation the same way you do and finds them agreeing; only your eye
-  catches it. Quote the phrase, give it its English, leave it uncited.
+- **Verse numbers from memory.** Never. Cite what his text prints, unless the
+  words he quotes are not in the pasuk he prints, which is the next trap.
+- **Where his address is a slip, cite the pasuk the words are in.** This is the
+  site owner's rule since September 2026, and it is the one `CLAUDE.md` sets for
+  the entries: the bar is certainty, and the texts settle it, not memory. Look
+  the quoted words up in `references/pesukim.json` and
+  `references/radak-pesukim.json`. Where they stand in the pasuk you would cite
+  and his address is plainly a printer's slip, give the right address with no
+  note. Where they stand in more than one pasuk, his address has to pick one
+  out, the same book and the nearest to what he prints: אָב וָאֵם, printed
+  Esther 2:6, is Esther 2:7 and not Yechezkel 22:7. The slips found so far are
+  the ordinary ones. A letter of the number misread: נו for נז at אָעִירָה
+  שָּׁחַר, Tehillim 57:9, the vav for a zayin this edition sets elsewhere too. A
+  digit dropped: Iyov 29:1 for 29:11. A few pesukim out: Bereishis 29:24 for
+  29:27. The chapter wrong: Shmuel II 24:25 for 19:25, where only Mefiboshes's
+  feet answer to וְלֹא־עָשָׂה רַגְלָיו. The book wrong: at שוע, ולכילי לא
+  יאמר שוע is Yeshayahu 32:5 and is printed (במדבר לב, ה).
+
+  The check takes a citation he does not print only where the Hebrew quoted
+  just before it stands in that pasuk, so a wrong correction fails exactly as a
+  wrong citation always did.
+
+  Where you cannot be certain, do not correct. That is where the stores do not
+  hold the pasuk, or where the words stand in two places his address does not
+  choose between, as כִּפָּה וְאַגְמוֹן does in Yeshayahu 9:13 and 19:15,
+  printed 40:14. Then keep what he prints, marked `(Ezra 1:4 in his edition)`,
+  if it is a pasuk or two out; if it would send a reader somewhere else
+  entirely, quote the phrase, give it its English, and leave it uncited. Never
+  write "in his edition" over a misprinted book, which tells a reader his
+  edition puts the pasuk somewhere it does not.
+- **Two of his own addresses swapped between two phrases.** At גדר he prints
+  גדר דרכי בגזית as (איכה ג, ז) and גדר בעדי ולא אצא as (איכה ג, ט), and the two
+  pesukim are the other way about. The site shows a pasuk's words when a reader
+  opens the citation, so printing them as he has them puts Hebrew on the screen
+  that contradicts the Hebrew beside it. Pair each phrase with the pasuk whose
+  words it actually is. It is the rule above at its plainest, since both
+  addresses are his.
+- **A chapter number that lands somewhere real.** At כתר בי יכתירו צדיקים is
+  printed (תהלים קטב, ח), a קטב for קמב: that reads as Tehillim 111:8, a real
+  pasuk and the wrong one, where the pasuk is 142:8. The stores do not hold
+  142:8, so the rule above cannot settle it and the phrase stands uncited. The
+  check cannot catch a slip like this, since it reads his printed citation the
+  same way you do and finds them agreeing; only your eye catches it.
 - **Naming an authority he does not name.** Rabbi Yonah, Ibn Ezra, the Targum,
   Rav Saadiah Gaon, Rashi, the Mesorah, Chazal and the rest go in only where his
   Hebrew names them.

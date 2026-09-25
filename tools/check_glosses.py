@@ -218,13 +218,28 @@ def numbered(text):
 
 
 def cited_keys(text):
-    """Every Tanach citation the English makes, as pesukim.json keys."""
-    out = set()
+    """Every Tanach citation the English makes, as pesukim.json keys, each with
+    the Hebrew quoted just before it."""
+    out = {}
     for m in refs.TANACH_RX.finditer(text):
         book = refs.TANACH[m.group(1)]
+        before = HEB.findall(text[:m.start()])
         for piece in refs.PIECE.findall(m.group(0)):
             c, v = piece[0], piece[1]            # the third group is a range's end
-            out.add(f"{book}.{int(c)}.{int(v)}")
+            out.setdefault(f"{book}.{int(c)}.{int(v)}", before[-1] if before else "")
+    return out
+
+
+def pasuk_texts():
+    """Every pasuk the site holds, the entries' store and his, flattened. Where
+    his printed address is a slip the gloss cites the pasuk the words are in,
+    and this is what shows they are in it."""
+    out = {}
+    for name in ("pesukim.json", "radak-pesukim.json"):
+        p = ROOT / "references" / name
+        if p.exists():
+            for k, v in json.loads(p.read_text(encoding="utf-8"))["verses"].items():
+                out[k] = f" {flat(v)} "
     return out
 
 
@@ -266,6 +281,7 @@ def main():
     if "--thin" in sys.argv:
         thin(g["glosses"], roots)
         return 0
+    pesukim = pasuk_texts()
     byhw = {}
     for v in roots.values():
         for p in ([v] + v.get("more", [])) if v else []:
@@ -326,12 +342,21 @@ def main():
                 f = flat(phrase)
                 if len(f.replace(" ", "")) > 2 and f not in text:
                     say(f"{where}: {phrase!r} is not in his entry")
-            for key in cited_keys(s) - cites:
+            for key, quoted in cited_keys(s).items():
+                if key in cites:
+                    continue
                 book, c, v = key.rsplit(".", 2)
                 # He may cite it as שם, which carries no link: take it if the
                 # book is one this entry cites and the numbers are printed here.
-                if not (book in books and (int(c), int(v)) in pairs):
-                    say(f"{where}: he does not cite {key}")
+                if book in books and (int(c), int(v)) in pairs:
+                    continue
+                # Where his address is a slip, the gloss gives the pasuk the
+                # words are in (GLOSS-BRIEF.md, rule 3). Take it only where the
+                # Hebrew quoted just before the citation stands in that pasuk.
+                q = flat(quoted)
+                if len(q.replace(" ", "")) > 2 and f" {q} " in pesukim.get(key, ""):
+                    continue
+                say(f"{where}: he does not cite {key}")
             for name, hebrew in NAMED.items():
                 # The entry's text is compared flattened, so the needles are too,
                 # or אבן עזרא would never be found in אבנ עזרא.
