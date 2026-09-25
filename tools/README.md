@@ -63,6 +63,14 @@ later corrections are written down. Drop it on the old one and run these three.
   once. Run it after `build_index.py`. It writes in place and sweeps stale
   files rather than deleting the tree, because a OneDrive-synced folder holds
   directory handles and `rmtree` fails part way through.
+- **`trace_logo.py`** traces the two logo images in `brand/` (words beside
+  the drawing for the header, words under it for the home page) into the SVGs,
+  `favicon.ico` and `apple-touch-icon.png` beside them. Run it only when the
+  logo changes, then `build_site.py`, which copies what it wrote and adds the
+  green. It needs Pillow, OpenCV and `potracer`; the build needs none of them,
+  which is why its output is committed. In the header version the drawing is
+  scaled down to the height of the words (`MARK_TO_WORDS`), since at the
+  image's own proportions the English came out about 13px tall.
 - **`fetch_calendar.py [first] [last]`** saves the diaspora parshiyos and
   Yamim Tovim from Hebcal to `references/calendar.json`. It covers four years
   by default; run it again before they run out.

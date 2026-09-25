@@ -371,6 +371,35 @@ def en_rows(terms):
 # ------------------------------------------------------------------ page shells
 
 ASSETS = {"css": "app.css", "js": "app.js"}   # filled in at build time with hashed names
+
+# The logo, traced from the images in brand/ by tools/trace_logo.py. The SVGs
+# there carry no colour; it goes in here, light and dark, and each goes out
+# under a hashed name like the CSS, since /assets/ is cached as immutable.
+LOGO_INK = ("#184028", "#6cc27d")   # the green of the images; the dark one was --brand
+LOGO = {}   # "wide" | "stacked" | "icon" -> (file name, width, height, svg text); filled in main()
+# Below this width the header shows the drawing alone: the words beside it
+# would come out too small to read in the room the tabs leave.
+BRAND_MARK_ONLY = 350
+
+
+def logo_svg(name, icon=False):
+    """brand/<name>.svg in the logo's green. As a favicon (icon=True) its lines
+    are thickened and its canvas squared, since a tab draws it 16 or 32 pixels
+    high and the lines as drawn would fall below one."""
+    s = (ROOT / "brand" / f"{name}.svg").read_text(encoding="utf-8")
+    w, h = map(int, re.search(r'viewBox="0 0 (\d+) (\d+)"', s).groups())
+    grow = ""
+    if icon:
+        side = max(w, h) + 120
+        s = re.sub(r'viewBox="[^"]+"', f'viewBox="{(w - side) // 2} {(h - side) // 2} {side} {side}"', s)
+        s = re.sub(r' width="[^"]+" height="[^"]+"', "", s)
+        w = h = side
+        grow = ";stroke:{};stroke-width:80;stroke-linejoin:round"
+    fill = lambda c: f"path{{fill:{c}{grow.format(c)}}}"
+    style = f"<style>{fill(LOGO_INK[0])}@media (prefers-color-scheme:dark){{{fill(LOGO_INK[1])}}}</style>"
+    return s.replace("><path", f">{style}<path", 1), round(w / 10), round(h / 10)
+
+
 # The feedback box posts a reader's note to a form relay (Web3Forms), which
 # emails it on. The address it goes to is held by the relay against this access
 # key and appears nowhere on the site; the key itself is meant to be public.
@@ -641,11 +670,15 @@ def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;500;700&display=swap">
 <link rel="stylesheet" href="{up}assets/{ASSETS["css"]}">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>א</text></svg>">
+<link rel="icon" href="{up}favicon.ico" sizes="32x32">
+<link rel="icon" href="{up}assets/{LOGO["icon"][0]}" type="image/svg+xml">
+<link rel="apple-touch-icon" href="{up}apple-touch-icon.png">
 </head>
 <body data-up="{up}">
 <header class="site{'' if header_search else ' bare'}">
-  <a class="brand" href="{up}index.html" aria-label="Back to the start of What&rsquo;s in a Word?">What&rsquo;s in a Word?</a>
+  <a class="brand" href="{up}index.html" aria-label="Back to the start of What&rsquo;s in a Word?"><picture>
+    <source media="(max-width:{BRAND_MARK_ONLY}px)" srcset="{up}assets/{LOGO["icon"][0]}" width="{LOGO["icon"][1]}" height="{LOGO["icon"][2]}">
+    <img src="{up}assets/{LOGO["wide"][0]}" alt="" width="{LOGO["wide"][1]}" height="{LOGO["wide"][2]}"></picture></a>
   {'<div class="hsearch"><input id="q" type="search" placeholder="Search Hebrew or English" autocomplete="off" spellcheck="false" dir="auto"><div id="ac" class="ac" hidden></div></div>' if header_search else ''}
   <nav class="navs">
     <span class="seg">
@@ -1221,6 +1254,9 @@ def main():
     for kind, text in (("css", CSS), ("js", JS)):
         h = hashlib.sha256(text.encode("utf-8")).hexdigest()[:10]
         ASSETS[kind] = f"app.{h}.{kind}"
+    for kind, name in (("wide", "logo-wide"), ("stacked", "logo-stacked"), ("icon", "mark")):
+        text, w, h = logo_svg(name, icon=kind == "icon")
+        LOGO[kind] = (f"{name}.{hashlib.sha256(text.encode('utf-8')).hexdigest()[:10]}.svg", w, h, text)
 
     entries, words, english = collect()
     ESSAYS["n"], ESSAYS["from"] = essay_span(entries)
@@ -1303,7 +1339,7 @@ def main():
     first_taste = next((x for x in taste_pool if x["s"].startswith("wisdom-")), taste_pool[0] if taste_pool else None)
     home = f'''<section class="hero">
   <div class="banner">
-    <h1 class="wm">What&rsquo;s in a Word?</h1>
+    <h1 class="wm"><img src="assets/{LOGO["stacked"][0]}" alt="What&rsquo;s in a Word? מה במילה" width="{LOGO["stacked"][1]}" height="{LOGO["stacked"][2]}"></h1>
     <p class="wm-sub">Synonyms in the Hebrew Language</p>
     <p class="wm-sub wm-credit">From the essays of <span class="nw">Rabbi Reuven Chaim Klein</span></p>
     <hr class="wm-rule">
@@ -1543,6 +1579,11 @@ pages as the rendering to use.
 
     emit(f'assets/{ASSETS["css"]}', CSS)
     emit(f'assets/{ASSETS["js"]}', JS)
+    for name, _, _, text in LOGO.values():
+        emit(f"assets/{name}", text)
+    # At the root, where a browser that is given no link goes looking for them.
+    copy("favicon.ico", ROOT / "brand" / "favicon.ico")
+    copy("apple-touch-icon.png", ROOT / "brand" / "apple-touch-icon.png")
     emit("_headers", HEADERS)
 
     stale = [f for f in OUT.rglob("*") if f.is_file() and f.resolve() not in written]
@@ -1565,14 +1606,12 @@ CSS = r""":root{
   --line:#ebe6da; --accent:#1d6b2a; --accent-soft:#e6efe2; --shadow:0 1px 3px rgba(60,50,30,.06),0 8px 28px rgba(60,50,30,.05);
   --ui:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Inter,system-ui,sans-serif;
   --radius:14px; --heb:"Frank Ruhl Libre","SF Hebrew","Noto Sans Hebrew","Arial Hebrew","Times New Roman",serif;
-  --brand:#14601f; --brand-sub:#2f6b3a;
   --gold:#8a6d2a; --gold-soft:#f2e8cf; --err:#a3372b;
   --w0:#3f6690; --w1:#98583a; --w2:#2f7a72; --w3:#7a4f86; --w4:#6d7431; --w5:#9a4a5e; --w6:#4b5aa0; --w7:#8a5a24;
 }
 @media (prefers-color-scheme:dark){:root{
   --bg:#12110e; --panel:#1c1a16; --ink:#f3efe6; --dim:#b1aa9c; --faint:#8f887a;
   --line:#2f2b24; --accent:#6cc27d; --accent-soft:#1c2a1e; --shadow:0 1px 3px rgba(0,0,0,.5);
-  --brand:#6cc27d; --brand-sub:#8fcf9b;
   --gold:#d9b86b; --gold-soft:#2c2616; --err:#e38b7d;
   --w0:#8fb1d8; --w1:#e0a07e; --w2:#72c2b8; --w3:#c29bd0; --w4:#b8c070; --w5:#df95a8; --w6:#9aa8e6; --w7:#d9a36a;
 }}
@@ -1587,13 +1626,14 @@ main{max-width:940px;margin:0 auto;padding:0 22px 96px}
 
 /* header ------------------------------------------------------------------ */
 header.site{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap:26px;
-  padding:15px 26px;background:color-mix(in srgb,var(--bg) 82%,transparent);
+  padding:9px 26px;background:color-mix(in srgb,var(--bg) 82%,transparent);
   backdrop-filter:saturate(180%) blur(20px);-webkit-backdrop-filter:saturate(180%) blur(20px);
   border-bottom:1px solid var(--line)}
-/* The same serif wordmark as the home page. */
-.brand{font-family:"Frank Ruhl Libre",Georgia,serif;font-weight:700;color:var(--brand);font-size:24px;flex:0 0 auto;
-  white-space:nowrap}
-.brand:hover{text-decoration:none;opacity:.75}
+/* The logo, words to the right of the drawing. Its green is its own, set in
+   the SVG (LOGO_INK in build_site.py), so it follows the colour scheme there. */
+.brand{flex:0 0 auto;display:block;line-height:0}
+.brand img{display:block;height:52px;width:auto}
+.brand:hover{opacity:.75}
 .hsearch{flex:1 1 auto;position:relative;max-width:520px;margin:0 auto}
 .hsearch input{width:100%;height:40px;padding:0 14px;border:1px solid var(--line);
   border-radius:10px;background:var(--panel);color:var(--ink);font-size:15px;outline:none}
@@ -1623,13 +1663,14 @@ header.bare .brand{flex:1}
 .seg a.on::before,.seg a.on+a::before{opacity:0}
 /* Phones. The header never wrapped, so every page was ~495px wide on a 375px
    screen and scrolled sideways: the English tab sat off the right edge and the
-   header search was crushed to 29px. It now wraps to two rows, wordmark and
-   tabs on the first and a full-width search on the second, measured at 430,
-   390, 375 and 360px. Methodology stays visible at every one of them; only a
-   320px screen takes a third row, and even there nothing scrolls sideways. */
+   header search was crushed to 29px. It now wraps to two rows, logo and tabs
+   on the first and a full-width search on the second, measured at 430, 390,
+   375 and 360px. About stays visible at every one of them. Below
+   BRAND_MARK_ONLY the logo drops its words, so a 320px screen keeps two rows
+   as well, and nothing scrolls sideways at any width. */
 @media (max-width:700px){
   header.site{flex-wrap:wrap;gap:8px 10px;padding:8px 12px}
-  .brand{font-size:17px}
+  .brand img{height:38px}
   .navs{gap:8px;margin-left:auto}
   .meth{font-size:13px;padding:6px 0}
   .seg{font-size:13px}
@@ -1639,7 +1680,7 @@ header.bare .brand{flex:1}
 }
 @media (max-width:400px){
   header.site{gap:8px}
-  .brand{font-size:16px}
+  .brand img{height:34px}
   .navs{gap:6px}
   .meth{font-size:12.5px}
   .seg{font-size:12.5px}
@@ -1647,13 +1688,16 @@ header.bare .brand{flex:1}
 }
 
 /* home -------------------------------------------------------------------- */
-.hero{padding:64px 0 30px;text-align:center}
+.hero{padding:36px 0 30px;text-align:center}
 .banner{margin:0 0 30px}
-/* A serif wordmark over a letterspaced small-caps line and a short rule. The
-   byline moved to the footer: "By Rabbi Klein" under the title read as though
-   he wrote this site, and the footer says exactly what the site owes him. */
-.hero .wm{font-family:"Frank Ruhl Libre",Georgia,serif;font-weight:700;color:var(--brand);font-size:56px;line-height:1.05;
-  letter-spacing:-.01em;margin:0 0 12px}
+/* The logo, words under the drawing, over a letterspaced small-caps line and
+   a short rule. The byline moved to the footer: "By Rabbi Klein" under the
+   title read as though he wrote this site, and the footer says exactly what
+   the site owes him. */
+.hero .wm{margin:0 0 20px;line-height:0}
+/* Sized so the search box still sits well above the fold on a laptop: the
+   drawing makes the logo nearly square, and at 290px it pushed the box to 624px. */
+.hero .wm img{display:block;margin:0 auto;width:230px;height:auto}
 .wm-sub{color:var(--dim);font-size:12.5px;font-weight:600;margin:0;letter-spacing:.18em;text-transform:uppercase}
 .wm-rule{width:48px;height:1px;background:var(--line);margin:20px auto 26px;border:0}
 /* The credit sits under the subtitle and the rule closes the block, so it is
@@ -1661,7 +1705,7 @@ header.bare .brand{flex:1}
 .wm-credit{margin-top:11px;font-size:11.5px;font-weight:500;letter-spacing:.12em;color:var(--faint)}
 /* On a phone the credit breaks before his name, never inside it. */
 .nw{white-space:nowrap}
-@media (max-width:640px){.hero .wm{font-size:38px}.wm-sub{font-size:11.5px;letter-spacing:.14em}
+@media (max-width:640px){.hero .wm img{width:200px}.wm-sub{font-size:11.5px;letter-spacing:.14em}
   .wm-credit{font-size:10.5px;letter-spacing:.1em}}
 .hero h1{font-size:44px;line-height:1.08;letter-spacing:-.022em;font-weight:600;margin:0 0 14px}
 .lede{color:var(--dim);font-size:17px;max-width:620px;margin:0 auto 30px}
@@ -1721,7 +1765,7 @@ header.bare .brand{flex:1}
 @media (max-width:640px){.asks-list{grid-template-columns:1fr}.taste-q{font-size:18px}}
 .split{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:40px}
 @media (max-width:860px){.split{grid-template-columns:1fr}}
-@media (max-width:640px){.hero h1{font-size:33px}.hero{padding:52px 0 20px}}
+@media (max-width:640px){.hero h1{font-size:33px}.hero{padding:28px 0 20px}}
 /* The two browse cards are the page's other clickable panels, so they are
    built like the question cards rather than as a pair of billboards. */
 .card{display:block;padding:13px 16px;border:1px solid var(--line);border-radius:12px;
