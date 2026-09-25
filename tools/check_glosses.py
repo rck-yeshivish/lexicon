@@ -111,7 +111,10 @@ def flat(s):
     """Hebrew with its pointing, maqaf and final forms levelled, for comparing."""
     # The maqaf falls inside the range of marks, so it becomes a space first,
     # or על־הארץ would flatten to one word and match nothing.
-    s = unicodedata.normalize("NFD", s).replace("־", " ")
+    # The Aseres HaDibros carry both cantillations, and the store marks them
+    # with a combining grapheme joiner inside the word (תרצ͏ח), which would
+    # otherwise keep the pasuk from matching its own words.
+    s = unicodedata.normalize("NFD", s).replace("־", " ").replace("͏", "")
     s = MARKS.sub("", s).replace("[", " ").replace("]", " ")
     return re.sub(r"\s+", " ", s).strip().translate(BASE)
 
