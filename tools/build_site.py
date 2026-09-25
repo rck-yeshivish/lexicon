@@ -1626,13 +1626,13 @@ main{max-width:940px;margin:0 auto;padding:0 22px 96px}
 
 /* header ------------------------------------------------------------------ */
 header.site{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap:26px;
-  padding:9px 26px;background:color-mix(in srgb,var(--bg) 82%,transparent);
+  padding:12px 26px;background:color-mix(in srgb,var(--bg) 82%,transparent);
   backdrop-filter:saturate(180%) blur(20px);-webkit-backdrop-filter:saturate(180%) blur(20px);
   border-bottom:1px solid var(--line)}
 /* The logo, words to the right of the drawing. Its green is its own, set in
    the SVG (LOGO_INK in build_site.py), so it follows the colour scheme there. */
 .brand{flex:0 0 auto;display:block;line-height:0}
-.brand img{display:block;height:52px;width:auto}
+.brand img{display:block;height:46px;width:auto}
 .brand:hover{opacity:.75}
 .hsearch{flex:1 1 auto;position:relative;max-width:520px;margin:0 auto}
 .hsearch input{width:100%;height:40px;padding:0 14px;border:1px solid var(--line);
