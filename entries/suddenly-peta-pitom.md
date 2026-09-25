@@ -25,16 +25,19 @@ updated: 2026-09-10
 
 Both mean **suddenly**, but seem to refer to different degrees of intentionality
 in the one who did or experienced the sudden event. *Peta* is the rarer word
-(seven times in Tanach), and the Gemara (Kerisus 9a) holds that it means
-*shogeg* only; *pitom* (twenty-five times) is for the Gemara the more ambiguous
-word, reaching *shogeg*, *oness* and even *meizid*. Not all agree: in the Sifrei
-Rabbi Yoshiya makes *pitom* *oness* and Rabbi Yonatan reverses the pair; Rashi's
-reading of *peta* as immediacy seems to fit *oness*, and Bartenuro reaches
-*oness* by another route; Rav Hirsch makes *peta* the subjective surprise and
-*pitom* the objective one, and Rabbi Pappenheim the exact opposite. Most sources
-point to a marked difference, though Ibn Ezra seems to say the two are one and
-the same. Where they stand together, as in Bamidbar 6:9, the Gemara reads them
-as a halachic pair.
+(seven times in Tanach). The Gemara (Kerisus 9a) holds that it means *shogeg*
+only, while *pitom* (twenty-five times) is the more ambiguous word, reaching
+*shogeg*, *oness* and even *meizid*. In Bamidbar 6:9, where the two stand
+together, the Gemara reads them as a halachic pair. Not all agree. In the
+Sifrei, Rabbi Yoshiya holds that *peta* is *shogeg* and *pitom* *oness*, and
+Rabbi Yonatan the reverse. Rashi seems to follow Rabbi Yonatan, though the TaZ
+explains that he actually follows Rabbi Yoshiya. Rashi's reading of *peta*
+elsewhere as immediacy seems to fit that ostensible view, that *peta* is
+*oness*, and Bartenuro reaches *oness* by another route. Rav Hirsch explains
+*peta* as a subjective surprise and *pitom* as an objective one; Rabbi
+Pappenheim writes the exact opposite. Rabbi Klein concludes that, whatever the
+exact difference, most sources point to a marked one, though Ibn Ezra seems to
+say the two are one and the same.
 
 ## At a glance
 

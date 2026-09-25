@@ -32,17 +32,18 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Tefillah* is prayer proper. Rabbi Simcha Maimon offers two ways of taking it
-against *bakashah*: either it is the praising side of prayer and *bakashah* the
-asking side, or it is the fixed, formal **prayer** with its nusach and its
-halachos against an *ad hoc* asking. On Rabbi Yaakov Tzvi Mecklenburg's reading
-of the root it is a plea that Hashem set right what the petitioner feels is
-unjust. *Bakashah* is the **request**, the unscripted asking for one's needs.
-*Techinah* or *tachanun* is
-**supplication**: the appeal of one who admits he has no claim and asks to be
-given anyway, out of *chen*, favor. Where Yaakov's sword and bow are darshened
-(*Bava Basra* 123a), *tefillah* and *bakashah* stand side by side, which suggests
-they are not the same thing.
+*Tefillah* is prayer proper. Rabbi Simcha Maimon distinguishes it from
+*bakashah* in two ways: either *tefillah* is the side of prayer that praises
+Hashem and *bakashah* the side that asks, or *tefillah* is the fixed, formal
+**prayer**, with its nusach and its halachos, while *bakashah* is *ad hoc*.
+*Bakashah* is the **request**, the unscripted asking for one's needs. Rabbi
+Yaakov Tzvi Mecklenburg reads *tefillah*, from its root, as a plea that Hashem
+set right what the petitioner feels is unjust, and sets *techinah* or
+*tachanun*, **supplication**, on the opposite footing: the appeal of one who
+admits he has no claim and asks to be given anyway, out of *chen*, favor. In
+*Bava Basra* 123a Yaakov's sword and bow are darshened as *tefillah* and
+*bakashah*, and that the two stand side by side suggests they are not the same
+thing.
 
 ## At a glance
 

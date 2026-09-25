@@ -41,14 +41,17 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Rachum* (*rachamim*) is **mercy**, **compassion**; in Rabbi Klein's own
-analysis, the savior is moved by the sufferer's plight and acts. *Chanun* (*chein*) is **grace**, **favor**: the
-sufferer finds favor and is given a free gift he need not deserve (Rashi:
-*matnas chinam*). *Chus* is **sparing**, refusing to let something be lost
-because one values it; *chemlah* is **pity** that will not see a thing ruined
-for its own worth, and it can reach the one who cannot ask (Malbim, Wertheimer).
-So for Rabbi Klein *rachum* looks at the giver's heart, *chanun* at the
-receiver's standing; other commentators divide the two differently.
+*Rachum* (*rachamim*) is **mercy**, **compassion**, and *chanun* (*chein*) is
+**grace**, **favor**. In Rabbi Klein's own analysis, *rachum* looks to the
+savior's heart: he is moved by the sufferer's plight and acts. *Chanun* looks to
+the sufferer's standing: he finds favor in the savior's eyes, or is simply
+granted a reprieve. Rashi ties *chanun* to *matnas chinam*, a free gift the
+receiver need not deserve. Other commentators divide the two differently, and
+Rabbeinu Bachya, in one place, holds that they are one and the same attribute.
+*Chus* is **sparing** and *chemlah* is **pity**. Malbim explains that *chus*
+refuses to let a thing be destroyed because one would lose the benefit one has
+from it, while *chemlah* will not see a thing ruined for its own worth. Rabbi
+Wertheimer notes that *chemlah* can reach one who cannot ask for help.
 
 ## At a glance
 

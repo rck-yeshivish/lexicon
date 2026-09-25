@@ -54,15 +54,14 @@ updated: 2026-09-22
 ## Bottom line
 
 *Gehinnom* is a place name borrowed for the sinner's afterlife, commonly
-translated "hell" or "purgatory." *Sheol*'s literal meaning is **the grave**
-(so Rabbi Klein, and so Ibn Ezra maintains),
-though by derashah it can refer to the soul's purgatory after death (Rashi).
-*Shachat* in many pesukim means simply a **pit**, and Bedersi also reads
-"destruction" in it. *Avadon* is either the body's **destruction** after death
-or the place where souls are **lost** for a time. Eruvin 19a gives seven Biblical terms for
-Gehinnom, and Maharsha reads them as seven different places within it; Rabbi
-Avraham bar Chiya, by contrast, holds that *sheol* and *avadon* mean the same
-thing.
+translated "hell" or "purgatory." *Sheol* literally means **the grave**, as
+Rabbi Klein says and as Ibn Ezra maintains; Rashi explains that by derashah it
+can also refer to the soul's purgatory after death. *Shachat* in many pesukim
+means simply a **pit**, and Bedersi also reads "destruction" in it. *Avadon* is
+either the body's **destruction** after death or the place where souls are
+**lost** for a time. Eruvin 19a gives seven Biblical terms for Gehinnom.
+Maharsha reads them as seven different places within it, while Rabbi Avraham bar
+Chiya holds that *sheol* and *avadon* mean the same thing.
 
 ## At a glance
 

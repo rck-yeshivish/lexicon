@@ -37,15 +37,15 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Shechitah* is **ritual slaughter** in the halachic sense, and by Rabbi Shlomo
-Pappenheim's reading it is also the **general word for putting a living thing to
-death**. *Zevichah* is slaughter **for a purpose**, above all **sacrificial
-slaughter**. *Tevichah* is slaughter **for eating**, killing an animal for food
-in a general way, even outside the frame of ritual slaughter. Rabbi Yonah ibn
-Janach dissents on that last word entirely and reads *tevichah* as **cooking**.
-The first two are disputed as well: Mahari Assad holds *shechitah* is said of
-*kodashim* and *zevichah* of *chullin*, and the *Sifrei* (Naso 23) counts
-*zevichah* and *shechitah* as two expressions for one thing.
+*Shechitah* is **ritual slaughter** in the halachic sense, and for Rabbi Shlomo
+Pappenheim it is also the **general word for putting a living thing to death**.
+*Zevichah* is slaughter **for a purpose**, above all **sacrificial slaughter**.
+*Tevichah* is slaughter **for eating**, killing an animal for food in a general
+way, even outside ritual slaughter. Rabbi Yonah Ibn Janach dissents entirely on
+*tevichah* and reads it as **cooking**. The first two words are disputed as
+well. Mahari Assad holds that *shechitah* is said of *kodashim* and *zevichah*
+of *chullin*, and the *Sifrei* (Naso 23) counts *zevichah* and *shechitah* as
+two expressions for one thing.
 
 ## At a glance
 
@@ -188,8 +188,7 @@ midbachaya* (its sacrifice house).
   *shechitah*, use **sacrifice** or **slaughter as a korban** for *zevichah*,
   and **butcher** or **slaughter for food** for *tevichah*.
 - Where *zevichah* and *shechitah* appear together in one passage, do not
-  flatten them; Ralbag to Devarim 12:21 makes the gap load-bearing (*zevichah*
-  can take in *nechirah*, which is not valid *shechitah*).
+  flatten them; Ralbag to Devarim 12:21 makes the gap load-bearing (*zevichah* can take in *nechirah*, which is not valid *shechitah*), though the *Sifrei* (Naso 23) and Ralbag to Vayikra 1:1 treat the two as one thing, and Mahari Assad holds that *shechitah* is said of *kodashim* and *zevichah* of *chullin*.
 - *sar ha'tabachim*: "chief of the butchers" follows Rashi, "chief executioner"
   follows Onkelos, Ibn Ezra and Ramban. Pick one and footnote the other; do not
   write a compromise that says neither.

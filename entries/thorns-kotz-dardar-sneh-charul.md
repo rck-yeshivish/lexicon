@@ -76,18 +76,18 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Hebrew has some twenty words in this field. Rabbi Shlomo of Urbino (*Ohel
-Moed*) lists seventeen in Tanach and treats them as somewhat synonymous, without
-differentiating the species; Rashi (to Yechezkel 2:6) and Rabbi Saadia Gaon (to
-Mishlei 15:19) both say in passing that there are twenty; Rabbi Klein, following
-*Ohel Moed* and adding three more, reaches twenty-one with *na'atzutz*.
-Some are set against each other: *kotz v'dardar* names two different kinds of thorn;
-the Vilna Gaon sets *kimosh*, the thorns along a
-field's edge, against *charul*, the ordinary thorn; Rabbi Pappenheim splits
-*salon* from *silon*. *Kotz* is a **thorn**; *sneh* a **thornbush** (Rashi,
-Rabbi Saadia Gaon), used of the Burning Bush; *charul* a **nettle** or
-thistle as some define it, for Radak a grass-like thorn; *chedek* a **brier**.
-קוץ ודרדר is two kinds, not a doubled phrase.
+Hebrew has some twenty words in this field. Rabbi Shlomo of Urbino (*Ohel Moed*)
+lists seventeen in Tanach and treats them as somewhat synonymous, without
+differentiating the species. Rashi (to Yechezkel 2:6) and Rabbi Saadia Gaon (to
+Mishlei 15:19) both say in passing that there are twenty. Rabbi Klein follows
+*Ohel Moed* and adds three more, and with *na'atzutz* he reaches twenty-one.
+Some are set against each other. *Kotz v'dardar* (קוץ ודרדר) names two different
+kinds of thorn and is not a doubled phrase. The Vilna Gaon distinguishes
+*kimosh*, the thorns along a field's edge, from *charul*, the ordinary thorn,
+and Rabbi Pappenheim splits *salon* from *silon*. *Kotz* is a **thorn**, and
+*sneh* a **thornbush** (Rashi, Rabbi Saadia Gaon), the word used of the Burning
+Bush. *Charul* is a grass-like thorn for Radak, and for others a **nettle** or
+thistle. *Chedek* is a **brier**.
 
 ## At a glance
 

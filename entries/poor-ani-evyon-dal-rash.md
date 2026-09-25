@@ -57,15 +57,15 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Ani* is **poor**, the general word, a man still holding onto his dignity.
-*Evyon* is **destitute**, worse off and past the shame of asking. *Dal* is
-**reduced**, one who has lost what he had, not necessarily a charity case.
-*Rash* is **dispossessed**, poor from the cradle or stripped of property.
-*Misken* is **wretched, unfortunate**, poor and despised with it. *Dach* is
-**emaciated** (physically crushed), *mach* **downtrodden** (crushed by
-circumstance). *Heilech* is the **itinerant**, a door-to-door beggar or
-wanderer. The Gemara seems to grade *ani* and *evyon*, and *evyon* is the
-lower of the two.
+*Ani* is **poor**, the general word, a man who still holds onto his dignity.
+*Evyon* is **destitute**. The Gemara seems to grade the two, and the *evyon* is
+the lower: worse off than the *ani* and past the shame of asking. *Dal* is
+**reduced**, one who has lost what he had, and for Malbim not necessarily poor
+enough to take charity. *Rash* is **dispossessed**, stripped of his property or,
+as Rabbi Wertheimer suggests, poor from the cradle. *Misken* is **wretched,
+unfortunate**, poor and despised with it. *Dach* is **emaciated**, physically
+crushed; *mach* is **downtrodden**, crushed by circumstance. *Heilech* is the
+**itinerant**, a door-to-door beggar or wanderer.
 
 ## At a glance
 

@@ -45,12 +45,13 @@ updated: 2026-09-10
 ## Bottom line
 
 They sort by thickness and by what the cord is doing. *Chut* is the **thread**,
-the single strand; *chevel* the ordinary **rope**; *avot* the **thick rope** or
-cable, which Malbim describes as braided from three. *Meitar* is the cord under tension, so a **tent cord**
-or a **bowstring**; *moseirah* the **bond** that restrains a captive, and *kevel*
-the iron **fetter**; *eitun*, on Radak's reading, a **cord of fine linen**, once only. Shoftim
-16:12 puts *avot* and *chut* in a single sentence, Shimshon snapping the one off
-his arms as though it were the other.
+the single strand; *chevel* is the ordinary **rope**; and *avot* is the **thick
+rope** or cable, which Malbim describes as three strands braided together.
+*Meitar* is the cord under tension, so a **tent cord** or a **bowstring**.
+*Moseirah* is the **bond** that restrains a captive, and *kevel* the iron
+**fetter**. *Eitun*, which appears only once, is on Radak's reading a **cord of
+fine linen**. Shoftim 16:12 puts *avot* and *chut* in a single sentence:
+Shimshon snaps the thick ropes off his arms as though they were thread.
 
 ## At a glance
 

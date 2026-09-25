@@ -37,10 +37,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-All five are names, and each pair is two names, not one. **Mordechai** is the Babylonian name the Megillah uses
-throughout, **Petachyah** his Hebrew name, **Bilshan**, for the Gemara, a title of his mastery of languages.
-**Esther** is the name the Megillah uses; **Hadassah** appears once, at Esther 2:7, whose
-*hi Esther* says they are one woman. Which was her birth name is a Tannaic dispute.
+All five are names, and no two are the same name. **Mordechai** is the
+Babylonian name the Megillah uses throughout, and **Petachyah** his Hebrew name.
+For the Gemara, **Bilshan** is a title that speaks of his mastery of languages;
+Ibn Ezra presumes it is the name of the next man listed. **Hadassah** appears
+only once, at Esther 2:7, where *hi Esther* says the two are one woman;
+everywhere else the Megillah calls her **Esther**. Which of the two was her real
+name is a dispute among the Tannaim.
 
 ## At a glance
 

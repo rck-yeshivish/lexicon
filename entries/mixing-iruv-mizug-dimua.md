@@ -17,7 +17,7 @@ words:
   - he: דימוע
     tr: dimua
     en: commingling
-    distinct: the Mishnaic term for mixing, above all terumah fallen into chullin; Shemos 22:28's dimah read as terumah, for its one-in-a-hundred rule (Rashi) or as something wet (Tosafos); one root with dimah, tear, connected by most but not Ibn Janach
+    distinct: the Mishnaic term for mixing, above all terumah fallen into chullin; Shemos 22:28's dimah read as terumah, for its one-in-a-hundred rule (Rashi) or as something wet (Tosafos); its root shared with dimah, tear, and with the dimah of Shemos 22:28, which most connect with the tear and Ibn Janach does not
 sources:
   - wiaw:11480 "Devarim: All Mixed Up" (2024-08-10) https://articles.ohr.edu/articles/devarim-all-mixed-up
 authorities: [Menachem Ibn Saruk, Rabbeinu Yonah Ibn Janach, Rashi, Tosafos, Ibn Ezra, Radak, Ramban, Maharal, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Shimon Dov Ber Analak of Shidlitz, Rabbi Meir Posner, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Vilna Gaon, Rabbi Dovid Tzvi Hoffmann, Rabbi Kalonymos Kalman Epstein, Rabbi Yisroel Yaakov Algazi, Rabbi Eliyahu Menachem Margulies, Rabbi Moshe Shapiro, Ritva, Rashba, Maharsha, Yaavetz]
@@ -27,14 +27,16 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Iruv* is for **dry** things intermingling:
-**mixing, intermingling**. *Mizug* is for **liquids**, specifically the pouring
-of one into another: **mixing, diluting** (a cup of wine). *Dimua* is the
-Mishnaic term for mixing, used for instance of **terumah** that has fallen into
-unsanctified produce: **commingling**. *Dimua* and *dimah* ("tear") are the same root ד-מ-ע, and how the
-two senses relate has been the subject of much discussion;
-most of the commentators below hold them connected, Ibn Janach being the
-one who does not.
+Rabbi Shimon Dov Ber Analak of Shidlitz separates *iruv* from *mizug* by what is
+mixed: *iruv* is for **dry** things intermingling (**mixing, intermingling**),
+and *mizug* is for **liquids**, as when a cup of wine is mixed with water
+(**mixing, diluting**). *Dimua* is the Mishnaic term for mixing, used for
+instance of **terumah** that has fallen into unsanctified produce:
+**commingling**. Its root, ד-מ-ע, is also that of *dimah*, "tear," and of the
+*dimah* of Shemos 22:28, which the Gemara and the Mechilta read as terumah; how
+the three senses relate has been the subject of much discussion. Most of the
+commentators connect the terumah *dimah* with the tear; Ibn Janach holds the two
+to be unrelated meanings of one root.
 
 ## At a glance
 

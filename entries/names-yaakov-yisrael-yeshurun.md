@@ -29,13 +29,15 @@ updated: 2026-09-22
 
 ## Bottom line
 
-Yaakov, Yisrael and Yeshurun are three names for one man, and though the Torah
-seems to use the first two almost interchangeably, the commentators distinguish them.
-Yaakov is the man, and by the Ohr HaChaim's reading the man in a low
-moment; Yisrael is the man as founder of the nation (Maharal, Rav Hirsch), an added
-name rather than a replacement (Rabbeinu Bachya); Yeshurun is a rare title of praise, four times in all
-Tanach, built on *yashar*, and it answers Esav's charge that Yaakov means crooked
-dealing (Ramban).
+Yaakov, Yisrael and Yeshurun are three names for one man. The Torah seems to use
+the first two almost interchangeably, but the commentators distinguish them. For
+the Maharal and Rav Hirsch, among others, Yaakov is the man as an individual and
+Yisrael the man as founder of the nation; for the Ohr HaChaim, Yaakov is the man
+in a low moment and Yisrael the man at peace. Yisrael was an added name, not a
+replacement (Rabbeinu Bachya). Yeshurun is rare, four times in all Tanach. The
+Ramban builds it on *yashar*, straight, a title of praise that answers Esav's
+charge that Yaakov means crooked dealing; Rabbeinu Bachya takes it instead from
+*shur*, to gaze, and the Vilna Gaon from *shir*, song.
 
 ## At a glance
 

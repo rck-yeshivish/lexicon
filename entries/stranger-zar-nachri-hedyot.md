@@ -34,15 +34,16 @@ updated: 2026-09-10
 
 *Zar* and *nachri* both mean "stranger," and it seems from most of the
 commentators that they measure different distances. A *zar* is estranged **in
-one respect**, and is often a member of the same nation or household: an
+one respect**, and often comes from the same nation or locality: an
 **outsider**, a **stranger**. A *nachri* is a complete **foreigner**, strange in
-many ways, from another nation entirely. Malbim puts the rule in a line: the *nachri* is
+many ways, from another nation entirely. On Malbim's reading, the *nachri* is
 *more* unfamiliar than the *zar*. Rabbi Shlomo Pappenheim dissents, holding the
 two equally estranged and differing only in what their roots fix on. In Kodashim
 contexts *zar* is a technical term, the **non-Kohen**. *Chiloni* is often the
-Targum's Aramaic for *zar*, and the Midrash's word for a non-Kohen; *hedyot* is a Greek
-loanword for a **commoner** or **layman**, the ordinary man against the leader,
-the amateur against the craftsman, the *Kohen hedyot* against the Kohen Gadol.
+Targumim's Aramaic for *zar*, and it is the Midrash's word for a non-Kohen.
+*Hedyot*, a Greek loanword, is a **commoner** or **layman**: the ordinary man as
+distinct from the leader, the amateur as distinct from the craftsman, and, in
+*Kohen hedyot*, the ordinary Kohen as distinct from the Kohen Gadol.
 
 ## At a glance
 

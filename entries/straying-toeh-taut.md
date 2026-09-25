@@ -24,20 +24,22 @@ updated: 2026-09-22
 
 ## Bottom line
 
-The two are essentially pronounced alike and spelled differently, and the
-general assumption among the commentators is that **תעה (tav) is "lost,
-stray"** and **טעה (tes) is "err, make a mistake"**; throughout Rabbinic
-literature *ta'us* always means a mistake. Whether they differ is disputed.
-Rabbi Eliyahu HaBachur draws the line as straying off the path
-against an error of heart or intellect. Rabbi Avraham Aharon Broide rejects
-that: the tav word too means erring, and Radak writes that the two are the same
-word, the tav being the preferred orthography in Scripture and the tes in
-Rabbinic sources. Rabbi Yaakov Zev Lev reconciles the positions: Hebrew has two
-words, Aramaic only one. Rabbi Shlomo Aharon Wertheimer, also disagreeing with
-HaBachur, holds that both can mean one lost on the road and differ in how he is
-lost: the *to'eh* with a tav is at a complete loss which way to go, the *to'eh*
-with a tes thinks he knows where he is going and has taken the wrong path for
-the right one.
+The two are pronounced essentially alike and spelled differently. The general
+assumption among the commentators is that **תעה (tav) is "lost, stray"** and
+**טעה (tes) is "err, make a mistake"**, and throughout Rabbinic literature
+*ta'us* always means a mistake. Whether they differ is disputed. Rabbi Eliyahu
+HaBachur holds that the tav word is one who strayed off the path and ended up
+lost, and the tes word a mistake of heart or intellect. Rabbi Avraham Aharon
+Broide rejects that distinction: the tav word too means erring, and he notes
+that Radak himself calls the two the same word. Radak writes, too, that the tav
+is the preferred spelling in Scripture and the tes in Rabbinic sources. Rabbi
+Yaakov Zev Lev reconciles the positions: in Hebrew the two words differ, but
+Aramaic has only one, spelled with a tes, carrying both meanings. Rabbi Shlomo
+Aharon Wertheimer also disagrees with HaBachur. Both words, he holds, can
+describe one lost on the road, and they differ in how he is lost: the *to'eh*
+with a tav is at a complete loss which way to go, while the *to'eh* with a tes
+thinks he knows where he is going and has taken the wrong path for the right
+one.
 
 ## At a glance
 

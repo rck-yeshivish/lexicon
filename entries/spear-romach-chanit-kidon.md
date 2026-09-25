@@ -31,15 +31,16 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Romach* is the **spear** or **lance** Pinchas took (Bamidbar 25:7), the only one
-of the three in the Chumash; "spear" is the common translation, and HALOT
-glosses it "lance." *Chanit* is the **spear** (HALOT's gloss too), for Rabbi
-Shlomo Pappenheim the weapon of the military camp, from the "encamping" root.
-*Kidon* is a small *romach* (Rambam), usually thrown at the enemy (Rabbi Tanchum
-HaYerushalmi), so **javelin** or **dart**; HALOT instead gives "hunting
-knife/scimitar," and Targum renders it *romcha*. *Alunki* is the rabbinic
-**lance**, from Greek (Rabbi Shmuel Krauss). For Rabbi Krauss all
-three are one weapon.
+*Romach* is the **spear** or **lance** that Pinchas took (Bamidbar 25:7), the
+only one of the three words in the Chumash. It is commonly translated "spear,"
+and HALOT glosses it "lance." *Chanit* is the **spear**, HALOT's gloss as well;
+Rabbi Shlomo Pappenheim explains it as the weapon commonly found in the military
+camp, from the root for encamping. *Kidon* is a small *romach* (Rambam), usually
+thrown at the enemy (Rabbi Tanchum HaYerushalmi), so a **javelin** or **dart**;
+HALOT instead gives "hunting knife/scimitar," and Targum renders it *romcha*.
+Rabbi Shmuel Krauss holds that *romach*, *chanit* and *kidon* all name the same
+weapon, and that the rabbis had a fourth word for it, *alunki*, from Greek: the
+rabbinic **lance**.
 
 ## At a glance
 

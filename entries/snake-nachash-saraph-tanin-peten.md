@@ -56,16 +56,19 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Nachash* is the general word, **snake**, and on Wertheimer's second reading
-specifically the snake that can be charmed. *Saraph* is the **fiery serpent**
-whose venom burns. *Tanin* is the **sea serpent** (Rashi: simply a large fish).
-*Tzefa* / *tzifoni* is the **viper** so venomous that even its dung is poison,
-and *efeh* is Rashi's completely evil snake, though Radak holds the two are one
-creature under two names. *Peten* is the **asp** that charming cannot touch
-(Wertheimer). *Shephiphon* is a small **adder** that keeps its body on the
-ground, and *achshuv* is a *hapax* whose identity is unsettled. Avos d'Rabbi
-Nassan lists the seven beside *nachash*, but scribal errors have crept into our
-editions and rendered its own treatment unintelligible; the distinctions below
+*Nachash* is **snake**, and Wertheimer gives two readings of it: the general
+word, or specifically the snake that can be charmed. *Saraph* is the **fiery
+serpent** whose venom burns. The Vilna Gaon writes that *nachash* is to land as
+*tanin* is to sea, which suggests that the *tanin* is a **sea serpent**; Rashi
+says simply that a *tanin* is a big fish. *Tzefa* / *tzifoni* is the **viper**;
+Malbim explains that the *tzefa* is especially poisonous because even its dung
+is venomous. Rashi calls the *tzifoni* an evil snake and the *efeh* a completely
+evil one, while Radak holds that *tzifoni* and *efeh* are two words for the same
+creature. *Peten* is the **asp** that charming cannot touch (Wertheimer).
+*Shephiphon* is a small **adder** that keeps its body on the ground, and
+*achshuv* is a *hapax* whose identity is unsettled. Avos d'Rabbi Nassan counts
+seven words for snake besides *nachash*, but scribal errors have crept into our
+editions and made its own treatment of them unintelligible, so the distinctions
 come from other sources.
 
 ## At a glance

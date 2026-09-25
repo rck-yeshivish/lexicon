@@ -29,18 +29,18 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Dever* is **pestilence**, a lethal contagious disease. *Mageifah* is the wider
-word for a **plague** or **blow**, from a root that means striking, and by
-Rashi's reading it does not by itself mean anything fatal. *Negef*, *mageifah*'s
-first cousin, is the exception: Malbim reads it as a plague that does kill, and
-Rashi glosses it as *dever*. Following Rashi, Rabbi Klein takes *mageifah* as
-any striking and *dever* as a plague that brings death, though Abarbanel holds
-*mageifah* inherently lethal. On Rabbi Klein's own summary a *mageifah* is just
-a plague while a *dever* is an especially deadly one. Rabbi Yair Chaim Bachrach,
-against a sage who made *mageifah* the deadlier of the two, shows that the
-difference between the words does not lie in the extent of their impact. Rabbi
-Chaim Kanievsky holds *mageifah* the graver, because it is an illness that
-spreads.
+*Dever* is **pestilence**, a lethal contagious disease. *Mageifah* is a
+**plague** or **blow**, from a root that means striking. Rashi holds that it
+does not by itself mean anything fatal, and Rabbi Klein, following him, takes
+*mageifah* as the general word for any striking and *dever* as a plague that
+brings death. Abarbanel holds *mageifah* inherently lethal. *Negef*,
+*mageifah*'s first cousin, is the exception to Rashi's rule: Malbim reads it as
+a plague that brings certain death, and Rashi glosses it as *dever*. Rabbi Klein
+sums up the difference this way: a *mageifah* is just a plague, and a *dever* an
+especially deadly one. Rabbi Yair Chaim Bachrach rejects the view of a sage who
+made *mageifah* the deadlier of the two, showing that the difference between the
+words does not lie in the extent of their impact. Rabbi Chaim Kanievsky holds
+*mageifah* the graver, because it is an illness that spreads.
 
 ## At a glance
 

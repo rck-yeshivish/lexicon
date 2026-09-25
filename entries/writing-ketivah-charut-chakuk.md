@@ -45,22 +45,22 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Ketivah* is the general word for **writing**, about 260 times in Tanach, used
-both of the Luchos and of a Sefer Torah written in ink on parchment. Most of the
-others are ways of cutting. *Charut* is writing pressed or cut deep into the
-material: Rabbi Shlomo Pappenheim and, centuries earlier, Rabbi Moshe Zacuto
-take it from *chor*, a hole, writing that went clean through the stone (Rav
-Hirsch makes a similar point), while Rashi and Rashbam relate it to ח-ר-ט, the
-work of the *cheret* (stylus). *Charushah* is **engraving**, which Ibn Saruk
-files under plowing. *Chakuk* is **incising** small grooves with a stylus
-(Pappenheim). *Pasal* is
-technically **engraving or hewing** rather than writing. *Pituach* is the
-opposite of engraving, **embossing**: the background is cut or pressed down so
-the letters stand out (*Gittin* 20a). Aramaic *galif*, Targum's word for
-*pituchei chosam*, Rabbi Yehoshua Steinberg suggests is related to ג-ל-ב, the
-barber, and Rabbi Ernest Klein derives from Greek *glyphein*. *Resham* is
-**noting down**, for Pappenheim the writing of only the heads (*rosh*) of a
-matter.
+*Ketivah* is the general word for **writing**. It appears about 260 times in
+Tanach and is used both of the Luchos and of a Sefer Torah written in ink on
+parchment. Most of the others are ways of cutting. Rabbi Shlomo Pappenheim and,
+centuries earlier, Rabbi Moshe Zacuto take *charut* from *chor*, a hole: writing
+that went clean through the stone (Rav Hirsch makes a similar point). Rashi and
+Rashbam relate it instead to ח-ר-ט, the work of the *cheret* (stylus). Either
+way, Rabbi Reuven Chaim Klein concludes, *charut* is a form of engraving, the
+letters pressed or cut deep into the material. *Charushah* is **engraving**,
+which Ibn Saruk ties to plowing. *Chakuk* is **incising** small grooves with a
+stylus (Pappenheim). *Pasal* is technically **engraving or hewing** rather than
+writing. *Pituach* is **embossing**, the opposite of engraving: the background
+is cut or pressed down so the letters stand out (*Gittin* 20a). The Aramaic
+*galif* is Targum's word for *pituchei chosam*. Rabbi Yehoshua Steinberg
+suggests it is related to ג-ל-ב, the barber, while Rabbi Ernest Klein derives it
+from Greek *glyphein*. *Resham* is **noting down**, which Pappenheim explains as
+writing only the heads (*rosh*) of a matter.
 
 ## At a glance
 

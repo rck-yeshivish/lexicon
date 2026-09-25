@@ -30,14 +30,17 @@ updated: 2026-09-22
 
 Both mean **stoning**, and Targum renders both *sekilah* and *regimah* as
 *regimah* (Rabbi Eliyahu HaBachur, *Meturgeman*). Rabbi Shlomo Pappenheim makes
-*sekilah* the act of throwing and *regimah* the result, the victim subdued and
-immobile; Yashar similarly makes *sekilah* stoning that need not kill, hence the
-Torah's added "he shall be put to death," and *regimah* stoning to death. Rabbi
-Yehuda Leib Shapira-Frankfurter: *sekilah* is a means of killing that one stone
-could accomplish, *regimah* a whole heap thrown by many. *Sefer HaChochmah*
-reverses the pair, and Rabbi Moshe Tedeschi-Ashkenazi admits no clear line holds
-in usage. The root ס-ק-ל also means clearing a field of stones, the opposite use
-of stones (Ibn Janach, Radak).
+*sekilah* the act of throwing and *regimah* its result, the victim subdued and
+immobile. For Yashar, similarly, *sekilah* is a stoning that need not kill,
+which is why wherever the Torah prescribes it, it adds "he shall be put to
+death," while *regimah* is stoning to death. For Rabbi Yehuda Leib
+Shapira-Frankfurter, *sekilah* is a means of killing that one stone could
+accomplish, while *regimah* is a whole heap thrown by many. *Sefer HaChochmah*
+reverses the pair, making *regimah* the throwing and *sekilah* the pile of
+stones that results. Rabbi Moshe Tedeschi-Ashkenazi admits that no clear line
+separates the two in actual usage. The root ס-ק-ל also means clearing stones
+away, which Ibn Janach and Radak see as the exact opposite of stoning, getting
+rid of stones rather than using them.
 
 ## At a glance
 

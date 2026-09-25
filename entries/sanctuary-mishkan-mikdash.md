@@ -23,12 +23,14 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Mishkan* is the **Mishkan** (English "Tabernacle"), generally the portable Sanctuary of
-the wilderness and of Gilgal, Shiloh, Nov and Givon. *Mikdash*, or *Beis
-HaMikdash*, is the permanent **Temple** in Yerushalayim. The distinction is
-temporary against permanent, and it shows in the building itself: curtains and
-cloth for the *Mishkan*, walls and a roof for the *Mikdash*. The Gemara does sometimes use the words almost interchangeably, but those
-are borrowed usages, not evidence that they are synonyms.
+*Mishkan* is the **Mishkan** (English "Tabernacle"), generally the portable
+Sanctuary of the wilderness and of Gilgal, Shiloh, Nov and Givon. *Mikdash*, or
+*Beis HaMikdash*, is the permanent **Temple** in Yerushalayim. The *Mishkan* was
+temporary and the *Mikdash* permanent, and the difference shows in the building
+itself: curtains and cloth for the *Mishkan*, walls and a roof for the
+*Mikdash*. The Gemara (Eruvin 2a) grants that the two words are sometimes used
+almost interchangeably, but Rabbi Klein holds that those are borrowed usages and
+that the words are not truly synonymous.
 
 ## At a glance
 

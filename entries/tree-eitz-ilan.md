@@ -25,12 +25,12 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Eitz* seems to be the Hebrew word and *ilan(a)* the Aramaic one (Rabbi Klein's
-inference from Daniel 4). For Rabbi Chaim Hirschensohn, *Chazal* then divided
-the field: *ilan* is the **living tree**, *eitz* only the **wood**. In Tanach
-*eitz* does both jobs. The berachah says *borei pri ha'eitz*
-over the fruit of an *ilan*, and that is not a slip; Rabbi Betzalel Stern takes
-it as proof that *Chazal* preferred Biblical Hebrew when fixing the wording of
+*Eitz* seems to be the Hebrew word and *ilan(a)* the Aramaic one, as Rabbi Klein
+infers from Daniel 4. Rabbi Chaim Hirschensohn explains that in Tanach *eitz*
+means both the tree and its wood, and that *Chazal* separated the two: *ilan* is
+the **living tree**, *eitz* only the **wood**. Yet the Mishnah says *borei pri
+ha'eitz* over the fruit of an *ilan*, and Rabbi Betzalel Stern takes that as
+proof that *Chazal* preferred Biblical Hebrew when fixing the wording of
 berachos.
 
 ## At a glance

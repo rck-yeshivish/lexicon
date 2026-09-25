@@ -55,15 +55,19 @@ updated: 2026-09-22
 
 ## Bottom line
 
-The siddur's list (end of Pesukei DeZimrah on Shabbos and Yom Tov, the
-Haggadah, the close of Hallel) reads, in order: *lehodos* **to thank**,
-*lehallel* **to praise**, *leshabei'ach* **to laud**, *lefa'er* **to glorify**,
-*leromem* **to extol**, *lehader* **to beautify**, *levarech* **to bless**,
-*le'aleh* **to raise high**, *lekales* **to exalt**; Nusach Sefard (Arizal)
-adds *lenatzei'ach* **to eternalize** after *lehader*, Nusach Ashkenaz
-(Maharal) omits it. Thanking generally comes before lauding because personal
-gratitude precedes the general duty (Wertheimer), and *lekales* here is **to
-exalt**, not to disparage, though the Biblical verb means the latter.
+The liturgy lists these verbs of praise at the end of Pesukei DeZimrah on
+Shabbos and Yom Tov, in the Haggadah and at the close of Hallel. In order they
+are *lehodos* **to thank**, *lehallel* **to praise**, *leshabei'ach* **to
+laud**, *lefa'er* **to glorify**, *leromem* **to extol**, *lehader* **to
+beautify**, *levarech* **to bless**, *le'aleh* **to raise high** and *lekales*
+**to exalt**. Nusach Sefard, following the Arizal, adds *lenatzei'ach* **to
+eternalize** after *lehader*; Nusach Ashkenaz, following the Maharal, leaves it
+out. Rabbi Shlomo Aharon Wertheimer notes that thanking generally comes before
+lauding, because one's personal duty of gratitude comes before the general duty
+to praise. *Lekales* is **to exalt** in Rabbinic Hebrew but to disparage in
+Biblical Hebrew, and some authorities recommend leaving it out for that reason;
+Rabbi Shlomo Pappenheim reconciles the two by giving the praise called *kilus* a
+somewhat negative edge.
 
 ## At a glance
 

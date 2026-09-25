@@ -45,16 +45,17 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Rabbi Reuven Chaim Klein's own summary: *chomah* is the **city wall** (or a lookout post),
-*kir* the generic **structural wall**, *cheil* a **short wall**, *chayitz* a
-**flimsy partition** and *mechitzah* any partition (Rabbi Moshe Zacuto,
-where Pappenheim makes *chayitz* synonymous with *mechitzah*), *shur*
-the Aramaic for *chomah*, *kotel* the Aramaic for *kir*. Where the *cheil*
-stands is disputed: outside a taller wall, with the empty space between them
-(Rabbi Shlomo Pappenheim), or a shorter wall inside the *chomah* (Rashi); Radak
-seems unsure which, and suggests it may be a moat. Rabbi Shlomo of Urbino, as
-is his wont, holds the six mean exactly the same thing; Rabbi Reuven Chaim Klein sees more to it than that, and Pappenheim's two-letter roots help bring out
-the nuances.
+In Rabbi Reuven Chaim Klein's own summary, *chomah* is the **city wall** (or a
+lookout post), *kir* the generic **structural wall**, *cheil* a **short wall**,
+*chayitz* a **flimsy partition** and *mechitzah* any partition, *shur* the
+Aramaic for *chomah*, and *kotel* the Aramaic for *kir*. The line between
+*chayitz* and *mechitzah* is Rabbi Moshe Zacuto's; Rabbi Shlomo Pappenheim makes
+the two synonymous. Where the *cheil* stands is disputed. For Rabbi Pappenheim
+it is a short wall outside a taller one, with empty space between them, and for
+Rashi a shorter wall inside the *chomah*. Radak seems unsure which, and suggests
+it may be a moat. Rabbi Shlomo of Urbino holds that the six words mean exactly
+the same thing; Rabbi Reuven Chaim Klein sees more to it than that, and Rabbi
+Pappenheim's two-letter roots help bring out the nuances.
 
 ## At a glance
 

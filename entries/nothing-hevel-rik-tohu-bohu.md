@@ -54,28 +54,30 @@ updated: 2026-09-10
 
 ## Bottom line
 
-All of these are Hebrew words for "nothing," separated by nuances. *Hevel* and *rik*, which *Aleinu* pairs as what the other
-nations serve, denote the impotence and powerlessness of their imagined deities.
-Rabbi Avraham Bedersi makes *hevel* the less intense of the two, something that
-does exist but has no purpose, and *rik* something that does not even exist. For
-Shadal *hevel* is what appears valuable on the surface and is ultimately shown
-to be worthless, a **futility**, and *rik* is toiling for a result that yields
-nothing, labor **for naught**. Malbim takes the exact opposite approach: *hevel*
-is total "nothingness," and *rik* is what has some value on the surface until
-one digs deeper. Rabbi Shlomo Pappenheim, tracing each to its two-letter root,
-makes *rik* (ר-ק, emptying) what is completely lacking in import, as though
-emptied of its very substance, and *hevel* (ב-ל, negation) what is futile,
-somewhat substantial but still mostly useless. *Efes*, the "nothing" of *Aleinu*'s "nothing exists besides Him,"
-means "nothing" or "non-existent" in Tanach and also "but, however"; Menachem
-Ibn Saruk holds that sense distinct, while Radak implies that all its meanings
-are interrelated. *Tohu* and *bohu*, both commonly translated "nothingness,"
-describe the state of the world before the Six Days of Creation, and the
-commentators read them in many ways, dividing among other things over which is
-matter and which is form (Ramban: *tohu* matter, *bohu* form; Ralbag the exact
-opposite). *Blimah*, *meumah* and *klum*, Rabbi Reuven Chaim Klein holds, are etymologically
-related, all relating back to *mah*, "what." *Meumah* means "nothing" and can
-also mean "anything," because Hebrew allows double negatives; *klum*, its
-Rabbinic counterpart, also means "nothing."
+All of these are Hebrew words for "nothing," separated by nuances. *Hevel* and
+*rik*, which *Aleinu* pairs as what the other nations serve, denote the
+impotence and powerlessness of their imagined deities. Rabbi Avraham Bedersi
+makes *hevel* the less intense of the two, something that does exist but has no
+purpose, and *rik* something that does not even exist. For Shadal *hevel* is
+what appears valuable on the surface and is ultimately shown to be worthless, a
+**futility**, and *rik* is toiling for a result that yields nothing, labor **for
+naught**. Malbim takes the exact opposite approach: *hevel* is total
+"nothingness," and *rik* is what has some value on the surface until one digs
+deeper. Rabbi Shlomo Pappenheim traces each to its two-letter root: *rik* (ר-ק,
+emptying) is what is completely lacking in import, as though emptied of its very
+substance, and *hevel* (ב-ל, negation) is what is futile, somewhat substantial
+but still mostly useless. *Efes*, the "nothing" of *Aleinu*'s "nothing exists
+besides Him," means "nothing" or "non-existent" in Tanach and also "but,
+however." Menachem Ibn Saruk treats that last sense as distinct, while Radak
+implies that all its meanings are interrelated. *Tohu* and *bohu*, both commonly
+translated "nothingness," describe the state of the world before the Six Days of
+Creation. The commentators read them in many ways and divide, among other
+things, over which is matter and which is form: Ramban takes *tohu* as matter
+and *bohu* as form, and Ralbag the exact opposite. Rabbi Reuven Chaim Klein
+holds that *blimah*, *meumah* and *klum* are etymologically related, all going
+back to *mah*, "what." *Meumah* means "nothing" and can also mean "anything,"
+because Hebrew allows double negatives; *klum*, its Rabbinic counterpart, also
+means "nothing."
 
 ## At a glance
 
@@ -226,12 +228,11 @@ Chassidim.
 A medieval Ashkenazi tradition sees *hevel* and *rik* in *Aleinu* as allusions
 to Jesus, because *hevel* in gematria equals *zol*, "cheap, disgraced," and
 *varik* equals *Yeshu*, the rabbinic name for him (his Hebrew name was Yeshua).
-Tanach itself already uses *hevel* of idolatry (Devarim
-32:21; Melachim II 17:15), because that mode of worship is worthless and
-produces nothing of significance. This wording in *Aleinu* made much trouble for
-Jews in Christian Europe throughout history, and because of the damning
-implications of this tradition, the line containing *hevel varik* has often been
-excised by censors.
+Tanach itself already uses *hevel* of idolatry (Devarim 32:21; Melachim II
+17:15), because that mode of worship is worthless and produces nothing of
+significance. This wording in *Aleinu* made much trouble for Jews in Christian
+Europe throughout history, and because of the damning implications of this
+tradition, the line containing *hevel varik* has often been excised by censors.
 
 Although *Aleinu* as we have it reads "the seat of His honor (*yikaro*) is in
 the Heavens above," some sources claim an old custom, found in *Seder Rav Amram

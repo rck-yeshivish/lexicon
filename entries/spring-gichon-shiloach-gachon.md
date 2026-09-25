@@ -25,17 +25,17 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Gichon* and *Shiloach* are, for various rabbinic sages, two names for one body
-of water, the spring by Yerushalayim: Rashi and Radak say so
-outright, and Targum renders Gichon as *Shilucha*. Later linguists disagree:
-for Wilhelm Gesenius the Gichon is the fountain and the Shiloach the aqueduct
-that channels it, for Avraham Even-Shoshan the Shiloach is a channel or pool the
-Gichon flows into, and for Professor Carol A. Dray the Gichon lay outside the
-walls and the Shiloach within. There is also the *other* Gichon: the river of
-Bereishis 2:13 that circles Kush is, for Rashi and Rabbi Avraham Maimuni, a
-different river from the Yerushalayim spring, while Rav Saadia Gaon, Ibn Ezra
-and the Ramah identify the two. *Gachon* (Bereishis 3:14) names the serpent's **belly**, which Rav Hirsch
-(tentatively) and Rabbi Pappenheim tie to the name Gichon.
+Various rabbinic sages take *Gichon* and *Shiloach* as two names for one body of
+water, the spring by Yerushalayim. Rashi and Radak say so outright, and Targum
+renders Gichon as *Shilucha*. Later linguists disagree. For Wilhelm Gesenius the
+Gichon is the fountain and the Shiloach the aqueduct that channels it; for
+Avraham Even-Shoshan the Shiloach is a channel or pool the Gichon flows into;
+and for Professor Carol A. Dray the Gichon lay outside the walls and the
+Shiloach within. There is also the *other* Gichon, the river of Bereishis 2:13
+that circles Kush. Rashi and Rabbi Avraham Maimuni hold that it is a different
+river from the Yerushalayim spring, while Rav Saadia Gaon, Ibn Ezra and the
+Ramah identify the two. *Gachon* (Bereishis 3:14) names the serpent's **belly**,
+which Rav Hirsch (tentatively) and Rabbi Pappenheim tie to the name Gichon.
 
 ## At a glance
 

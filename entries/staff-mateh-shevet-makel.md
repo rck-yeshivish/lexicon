@@ -44,20 +44,22 @@ updated: 2026-09-22
 ## Bottom line
 
 *Mateh* is a **staff** of office, the stick of a dignitary or a man in authority
-(Malbim, Rabbi Shlomo Aharon Wertheimer), and also a **tribe**, almost
-exclusively in Bamidbar and Yehoshua. *Shevet* is a **rod**, wound up with force
-to strike (the Vilna Gaon), the instrument of authority (Rashi) and of flogging,
-and equally a **tribe**. *Mishenes* is a **cane**, leaned on. *Makel* is a **rod
-for striking**, in Tanach generally the shepherd's stick. *Sharvit* is the royal
-**scepter**. *Choter* is probably a Hebraized form of Aramaic *chutra*, staff. On
-how the two words for tribe differ: citing Shadal, Rabbi Yaakov Tzvi
-Mecklenburg holds that *shevet* first named the tribe's leader and *mateh* its
-members; Malbim reads *shevet* as a branch, each tribe a branch of Yaakov's
-family tree; and Rabbi Zev HaKohen Hoberman calls Yisrael *shevatim* for their
-authority and responsibility over the nations and *matos* as Yaakov Avinu's cane,
-the support he leans on to carry his legacy. *Mateh* and *shevet* are both stick
-and tribe. Against all these distinctions, Rabbi Shlomo of Urbino's *Ohel
-Moed* writes twice that *shevet* is *mateh*.
+(Malbim, Rabbi Shlomo Aharon Wertheimer), and it also means **tribe**, almost
+exclusively in Bamidbar and Yehoshua. *Shevet* is a **rod** whose blow must be
+wound up with energy to be felt (the Vilna Gaon). It denotes authority and the
+responsibility that goes with it (Rashi), in law it is the instrument of
+flogging, and it too means **tribe**. *Mishenes* is a **cane**, something to
+lean on. *Makel* is a **rod for striking**, in Tanach generally the shepherd's
+stick. *Sharvit* is the royal **scepter**. *Choter* is probably a Hebraized form
+of Aramaic *chutra*, staff. The two words for tribe are explained in several
+ways. Citing Shadal, Rabbi Yaakov Tzvi Mecklenburg holds that *shevet* first
+named the tribe's leader and *mateh* its members. Malbim reads *shevet* as a
+branch, each tribe being a branch of Yaakov's family tree. Rabbi Zev HaKohen
+Hoberman says the tribes of Yisrael are called *shevatim* for their authority
+and responsibility over the nations, and *matos* because they serve as Yaakov
+Avinu's cane, the support he leans on to carry on his legacy. Against every one
+of these distinctions, of stick and of tribe alike, Rabbi Shlomo of Urbino's
+*Ohel Moed* writes twice that *shevet* is *mateh*.
 
 ## At a glance
 

@@ -33,19 +33,19 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Lavan* is the general Hebrew word: **white**, and for Rabbi Shlomo Pappenheim
-it seems to be the umbrella for every manifestation of white. *Chivar* is the
-Aramaic equivalent, the Targumim's standard rendering of *lavan*: **white**, or **pale** where it
-describes a face. Rashi's glossing of *chivar*
-as *lavan* implies, perhaps, that the two mean the same and differ only in
-language, while Pappenheim narrows *chivar* to whiteness caused from outside.
-*Tzochar* is contested: Rashi reads
-**white**, while Bedersi, preferring Ibn Janach, reads **combed**, with
-whiteness only a side effect. *Chelbon* wine (Yechezkel 27:18) is **white
-wine** for Rashi, rich wine for Menachem and the Peshitta, a wine named for a
-place in Aram for Radak, and "sweet wine" in the Targum as Rabbi Aharon Marcus
-reads it. In Shoftim 5:10 and Yechezkel 27:18 the whole question is whether the
-word means white at all.
+*Lavan* is the general Hebrew word for **white**, and for Rabbi Shlomo
+Pappenheim it seems to be the umbrella for every manifestation of white.
+*Chivar* is the Aramaic equivalent, the Targumim's standard rendering of
+*lavan*: **white**, or **pale** where it describes a face. Rashi glosses
+*chivar* as *lavan*, which Rabbi Klein takes to imply that perhaps Rashi
+understood the two to mean the same thing, differing only in language;
+Pappenheim narrows *chivar* to whiteness caused from outside. *Tzochar* is
+contested: Rashi reads **white**, while Bedersi, preferring Ibn Janach, reads
+**combed**, with whiteness only a side effect. *Chelbon* wine (Yechezkel 27:18)
+is **white wine** for Rashi and rich wine for Menachem and the Peshitta; for
+Radak *chelbon* is a place in Aram that produced quality wine, and Targum
+Yonasan, as Rabbi Aharon Marcus notes, renders it "sweet wine." In Shoftim 5:10
+and Yechezkel 27:18 the whole question is whether the word means white at all.
 
 ## At a glance
 

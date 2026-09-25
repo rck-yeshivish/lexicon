@@ -42,11 +42,12 @@ updated: 2026-09-10
 
 *Kan* is the Biblical word: a **base**, **stand** or **pedestal**, and by
 extension a man's **post**. *Duchan* is Mishnaic, the **platform** the Leviim
-sang from and, in the Gemara, the platform the Kohanim bless from (hence the
-Yiddish *duchenen*); it is a noun, not a verb. *Bimah* is the **stage** or
-**dais**, and *basis* the **base** of a vessel, both Mishnaic. *Itztaba* is a
-raised **platform** or **colonnade**, mostly in the Beis HaMikdash. *Duchan* is not an
-action; a Kohen goes up *to* the *duchan*.
+sang from and, in the Gemara, the platform the Kohanim bless from; the Yiddish
+*duchenen* comes from that second sense. *Duchan* itself is a noun and not a
+verb, as Rabbi Eliyahu HaBachur already pointed out: a Kohen goes up *to* the
+*duchan*. *Bimah* is the **stage** or **dais**, and *basis* the **base** of a
+vessel; both are Mishnaic. *Itztaba* is a raised **platform** or **colonnade**,
+mostly in the Beis HaMikdash.
 
 ## At a glance
 

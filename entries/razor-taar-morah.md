@@ -18,7 +18,8 @@ words:
     distinct: the Neviim's word in the same formula; razor throughout (Radak), against scissors by Shimshon and fear of men by Shmuel (Targum, Rashi); from י-ר-ה, throwing away (Rashi), or מ-ר, switching (Pappenheim); what hair fears (Vayikra Rabbah)
 sources:
   - wiaw:7768 "Razor's Edge" (2018-05-26) https://articles.ohr.edu/articles/razors-edge
-authorities: [Targum, Rashi, Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Vayikra Rabbah]
+  - ms:234-razors-edge.md "Razor’s Edge"
+authorities: [Targum, Rashi, Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Bamidbar Rabbah]
 updated: 2026-09-10
 ---
 # Razor: taar / morah
@@ -28,11 +29,10 @@ updated: 2026-09-10
 *Taar* is the plain word for a **razor**; the Torah uses it for the *nazir*
 (Bamidbar 6:5). *Morah* is the word the Neviim use in the same formula (Shoftim
 13:5, 16:17; Shmuel I 1:11), and it is contested: Radak renders it **razor**
-throughout, while Targum and Rashi render it **scissors** by Shimshon and
-**the fear of men** by Shmuel. Rabbi Klein's own conclusion is an admission: he
-has found no source that clearly explains the difference between the two words,
-and has been unable to work out why the Torah says *taar* and the Neviim say
-*morah*.
+throughout, while Targum and Rashi render it **scissors** by Shimshon and **the
+fear of men** by Shmuel. Rabbi Klein writes that he has found no source that
+clearly explains the difference between the two words, and that he has been
+unable to work out why the Torah says *taar* and the Neviim say *morah*.
 
 ## At a glance
 
@@ -63,7 +63,7 @@ Hirsch's reading. Two further etymologies are given.
   religion): shaving away hair paves the way for a new batch to replace what was
   cut.
 
-*Vayikra Rabbah* 10:5 hears "fear" in the word: why is the *taar* called a
+*Bamidbar Rabbah* 10:5 hears "fear" in the word: why is the *taar* called a
 *morah*? Because hair is scared (*morah*) only of the razor, which shaves it with
 a shaving of destruction, as it says "do not destroy the corner of your beard"
 (Vayikra 19:27). Rabbi Klein says the deeper meaning of this Midrash seems
@@ -90,7 +90,7 @@ obscured, and treats it as an opening for the discussion.
   choose silently; where the passage bears on whether Shmuel was a *nazir*,
   give one reading in the body and the other in a note.
 - Trap: English "razor" absorbs *taar* and *morah* both, which is usually
-  harmless, but not where *Vayikra Rabbah* 10:5 is being darshened. There the
+  harmless, but not where *Bamidbar Rabbah* 10:5 is being darshened. There the
   derashah runs on the sound of *morah* as fear, and the English must hold both:
   "the razor, the *morah*, of which the hair alone is afraid."
 - Do not manufacture a distinction between the two words in a footnote. Rabbi
@@ -105,4 +105,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Razor's Edge](https://articles.ohr.edu/articles/razors-edge)," *What's in a Word?*, Ohr Somayach, 26 May 2018.
 
-Cited in the essay: Bamidbar 6:5 with Rav Hirsch; Vayikra 19:27; Shoftim 13:5, 16:17; Shmuel I 1:11; Targum, Rashi and Radak to Shoftim 13:5, 16:17 and Shmuel I 1:11; *Vayikra Rabbah* 10:5; *Nazir* 66a; Rabbi Shlomo Pappenheim.
+Rabbi Reuven Chaim Klein, "Razor’s Edge," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bamidbar 6:5 with Rav Hirsch; Vayikra 19:27; Shoftim 13:5, 16:17; Shmuel I 1:11; Targum, Rashi and Radak to Shoftim 13:5, 16:17 and Shmuel I 1:11; *Bamidbar Rabbah* 10:5; *Nazir* 66a; Rabbi Shlomo Pappenheim.

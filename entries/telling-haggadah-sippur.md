@@ -26,18 +26,19 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Haggadah* is **telling** in the strong sense: something new, said forcefully,
-and, at its core in Rabbi Klein's summary, drawing a past event into the
-listener's present. *Sippur* is the more general **relating** of a story, old or
-new, and for Rav Moshe Shapiro it carries the sense of many details joined into
-one whole. Ramban (to Devarim 26:3) seems to treat the two as synonyms; most
-commentators do not. Why the Torah commands *v'higadta l'vincha* while Chazal
-call the mitzvah *sippur yetzias Mitzrayim* is answered more than one way: for
-Rabbi Klein, when the Torah spoke the story was still new, and by the time of
-Chazal it had been handed down for generations; for Rabbi Yechiel Michel
+*Haggadah* is **telling** in the strong sense: something new, said forcefully.
+At its core, in Rabbi Klein's summary, it draws a past event into the listener's
+present. *Sippur* is the more general **relating** of a story, one that need not
+be new, and for Rav Moshe Shapiro it carries the sense of many details joined
+into one whole. Ramban (to Devarim 26:3) seems to treat the two as synonyms;
+most commentators do not. The Torah commands *v'higadta l'vincha*, yet Chazal
+call the mitzvah *sippur yetzias Mitzrayim*, and this is explained more than one
+way. For Rabbi Klein, when the Torah spoke the story was still new, and by the
+time of Chazal it had been handed down for generations. For Rabbi Yechiel Michel
 Feinstein, Chazal took the word the Torah uses for the purpose of the miracles
-(*l'maan tesaper*, Shemos 10:2), where *v'higadta* only teaches how to tell;
-Rabbi Nosson Gestetner concludes that they are two separate mitzvos.
+(*l'maan tesaper*, Shemos 10:2), while *v'higadta* teaches only how to tell the
+story. Rabbi Nosson Gestetner concludes that *sippur yetzias Mitzrayim* and
+*v'higadta* are two separate mitzvos.
 
 ## At a glance
 

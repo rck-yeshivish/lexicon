@@ -22,7 +22,7 @@ words:
 sources:
   - wiaw:10897 "Shemini: Types of Species" (2023-04-15) https://articles.ohr.edu/articles/shemini-types-of-species
   - ms:186-types-of-species.md "Types of Species"
-authorities: [Rabbeinu Yonah Ibn Janach, Radak, Shadal, Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Rav Hirsch, Rav Saadia Gaon, Ibn Ezra, Donash Ibn Labrat, Menachem Ibn Saruk, Rashi, pseudo-Rashi, Ralbag, Targum, Rabbi Yehoshua Steinberg, Ramban, Rabbeinu Nissim of Gerona, Rambam, Rabbi Moshe Ibn Tibbon, Rabbi Shmuel Ibn Tibbon, Ramchal, Professor Avi Hurvitz, Dr. Menachem Zvi Kaddari, Rabbi Shimon Lavie]
+authorities: [Rabbeinu Yonah Ibn Janach, Radak, Shadal, Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Rav Hirsch, Rav Saadia Gaon, Ibn Ezra, Donash Ibn Labrat, Menachem Ibn Saruk, Rashi, pseudo-Rashi, Ralbag, Targum, Rabbi Yehoshua Steinberg, Ramban, Rabbeinu Nissim of Gerona, Rambam, Rabbi Moshe Ibn Tibbon, Rabbi Shmuel Ibn Tibbon, Ramchal, Professor Avi Hurvitz, Dr. Menachem Zvi Kaddari, Rabbi Shimon Lavie, Rabbi Yeshayah of Trani]
 updated: 2026-09-22
 ---
 # Species: min / zan / sug
@@ -31,17 +31,18 @@ updated: 2026-09-22
 
 *Min* is the Torah's word: **kind** or **species**, a grouping of individuals
 alike enough in their properties to be classed as one kind (Ibn Janach, Radak).
-*Zan* means the same in Aramaic, the word Targum uses for every *min* in Tanach
-(Rabbi Eliyahu HaBachur); Professor Avi Hurvitz calls it the Late Biblical
-Hebrew equivalent of Classical *min*, and Dr. Menachem Zvi Kaddari an Old Persian
-loanword; in its three Hebrew appearances the meforshim argue whether it means
-"type" at all. *Sug* is post-biblical, in the Mishnah a big container, and in
-the language of logic the **parent category** (genus) above the *min* (Rambam in
-Rabbi Moshe Ibn Tibbon's translation, Rabbi Shmuel Ibn Tibbon, the Ran,
-Ramchal). The Torah's *minim* do not necessarily
-line up with the species of modern botany and zoology, as Rabbi Klein notes; the
-Ran reads the *minim* of the Teivah as the ancestors of today's species, though
-Ramban answers the Teivah's capacity with a miracle instead.
+*Zan* means the same in Aramaic, and Targum uses it for every *min* in Tanach
+(Rabbi Eliyahu HaBachur). Professor Avi Hurvitz argues that *zan* is the Late
+Biblical Hebrew equivalent of Classical *min*, and Dr. Menachem Zvi Kaddari
+proposes that it is a loanword from Old Persian. At each of its three
+appearances in Hebrew, the meforshim debate whether it means "type" at all.
+*Sug* is post-biblical: in the Mishnah it is a big container, and in the
+language of logic it is the **parent category** (genus) above the *min* (Rambam
+in Rabbi Moshe Ibn Tibbon's translation, Rabbi Shmuel Ibn Tibbon, the Ran,
+Ramchal). Rabbi Klein notes that the Torah's *minim* do not necessarily line up
+with the species of modern botany and zoology. On how the Teivah could hold
+every known species, Ramban posits a miracle, while the Ran reads its *minim* as
+the ancestors of today's species.
 
 ## At a glance
 
@@ -77,8 +78,7 @@ they could not categorize, "for they did not know what it was" (Shemos 16:15).
   *aspect*, *suspect*, *scope* and others. Shadal extends the sense to *min*,
   heretic: each heretic's belief differs slightly from the next, yet they all
   fall into one category.
-- Rabbi Eliyahu HaBachur (1469 to 1549, *Sefer HaTishbi*) takes a different
-  approach, associating *min* in this sense with the pagan deity Meni (Yeshayahu
+- Rabbi Yeshayah of Trani takes a different approach, associating *min* in this sense with the pagan deity Meni (Yeshayahu
   65:11).
 - Rabbi Shlomo Pappenheim (1740 to 1814) takes the two-letter root מ-ן as
   "creating order out of causes and effects." One group of its derivatives is

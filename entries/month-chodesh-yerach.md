@@ -29,15 +29,16 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Both words come out **month** in English, but they name different things.
-*Chodesh* is properly the **new moon**, the month's beginning, from *chadash*,
-"new"; "month" is a secondary, borrowed sense (Malbim, Rav Hirsch). *Yerach* Rabbi
-Klein takes, as a suggestion and not a ruling, to be the month as a full span of
-days, kin to *yareach*, the moon; Malbim himself reads it as simply a thirty-day
-period. Where a pasuk uses
-*chodesh* in a place that calls for *Rosh Chodesh*, it is the new moon, not the
-month. Practically: by custom a *kesubah* says *chodesh* and a *get* says *yerach*
-(Levush), so the two are not interchangeable even in a document.
+Both words come out **month** in English, but they name different things. Malbim
+and Rav Hirsch explain that *chodesh* is properly the **new moon**, the month's
+beginning, from *chadash*, "new," and that "month" is only a secondary, borrowed
+sense. When a pasuk uses *chodesh* where one would expect *Rosh Chodesh*, it
+means the new moon, not the month. Rabbi Klein holds that *yerach* is kin to
+*yareach*, the moon, and on that basis suggests, though not as a ruling, that it
+names the month as a full span of days; Malbim reads it simply as a period of
+thirty days. The Levush records the custom that a *kesubah* names the month
+*chodesh* and a *get* names it *yerach*, so the two are not interchangeable even
+in a document.
 
 ## At a glance
 

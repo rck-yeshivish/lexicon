@@ -27,14 +27,16 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Ayef* is **tired**, the common word and the one Modern Hebrew kept. *Yaef* is the same
-three letters in a different order. Some explain the two as one word by metathesis (the
-Rid compares *kesev* and *keves*); Rabbi Shimon Schwab reads them as two degrees, *ayef*
-tired but with some energy left, *yaef* **exhausted**, with nothing left, which for him
-is why the morning berachah says *ha'nosen la'yaef koach*. *Yagea* is **worn out**,
-tiredness from a different cause: for Malbim, (over)exertion, against the natural low
-energy of *ayef*; for Rabbi Yosef of Saragossa, the speed of one's actions, against the
-persistence of *ayef*.
+*Ayef* is **tired**, a little more frequent in Tanach than *yaef* and the word
+Modern Hebrew kept. *Yaef* is the same three letters in a different order. Some
+explain the two as one word by metathesis, and the Rid compares *kesev* and
+*keves*. Rabbi Shimon Schwab reads them as two degrees of tiredness: *ayef* is
+tired but with some energy left, and *yaef* is **exhausted**, with nothing left,
+which for him is why the morning berachah says *ha'nosen la'yaef koach*. *Yagea*
+is **worn out**, tiredness from a different cause. For Malbim it comes from
+(over)exertion, where *ayef* is the regular tiredness of one whose energy is
+naturally low; for Rabbi Yosef of Saragossa it comes from the speed of one's
+actions, where *ayef* comes from the persistence of an action.
 
 ## At a glance
 

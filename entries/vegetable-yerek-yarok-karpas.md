@@ -28,14 +28,19 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Yerek* (plural *yerakos*) is the generic word: **vegetable**, any of them.
-*Yarok* is the color, **green**, though in Rabbinic Hebrew it technically
-reaches from yellow through green to blue. *Karpas* is **not** a synonym for
-*yerek*: in the Mishnah it names one particular plant (the Yerushalmi identifies it as parsley, though Rabbi Reuven Chaim Klein calls the matter "far from settled"), and in
-Megillas Esther the context, as he reads it, fairly clearly wants a **fabric**, with the
-commentators divided between a fabric (silk; fine linen), a **color** (green),
-and, in the Targumim, an association with leek. Seder-night *karpas* does not mean "vegetable"; its popular use seems to
-have come from a piyut, where it was one item from a list.
+*Yerek* (plural *yerakos*) is the generic word for any **vegetable**. *Yarok* is
+the color, **green**, though in Rabbinic Hebrew it technically reaches from
+yellow through green to blue. *Karpas* is **not** a synonym for *yerek*: in the
+Mishnah it names one particular plant, which the Yerushalmi identifies as
+parsley, though Rabbi Reuven Chaim Klein calls the matter "far from settled." In
+Megillas Esther, he says, the context fairly clearly points to a **fabric**, and
+the authorities differ over what the word means there: silk for Rabbi Saadia
+Gaon, fine linen for Rabbi Dr. Ernest Klein, a **color** for Ibn Janach, Rashi
+and others, and green in particular for Radak; the Targumim associate it with
+leek. Rabbi Reuven Chaim Klein concludes that Seder-night *karpas* does not mean
+"vegetable." Its popular use seems to have come from the piyut *Kadesh,
+Urchatz*, whose author seems to have taken the word from an earlier piyut's list
+of vegetables for the first dipping, where *karpasa* was one among many.
 
 ## At a glance
 

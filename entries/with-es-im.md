@@ -25,18 +25,17 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Es*, where it means "with," and *im* both mean **with**, and Tanach uses now
-one and now the other. On both views the difference is whether the two parties
-stand as equals. The Vilna Gaon and
-Malbim: *im* is "with" in the full sense, two equal and cooperative parties,
-while *es* does not connote equality: one party is dominant and active, the
-other passive. Rabbi Shlomo Pappenheim and Rabbi Yaakov Tzvi Mecklenburg take
-the opposite approach: *im* is circumstantial, they merely happened to be
-together, while *es* is the stronger, more deliberate and more equal "with." The
-two schools read the same pesukim in opposite ways (Lot's *itto* and *imo*),
-though on Bilam Rabbi Mecklenburg's reading mirrors the Gra's. At Devarim 5:4,
-HaKsav VeHaKabbalah says *es* and *im* mean the same, both setting the two
-parties as equals.
+Both *es* and *im* can mean **with**, and Tanach uses now one and now the other.
+The Vilna Gaon and Malbim hold that *im* is "with" in the full sense, two equal
+and cooperative parties, while *es* does not connote equality: one party is
+dominant and active, the other passive. Rabbi Shlomo Pappenheim and Rabbi Yaakov
+Tzvi Mecklenburg take the opposite approach: *im* is circumstantial, two who
+merely happened to be together, while *es* is the stronger, more deliberate and
+more equal "with." For both schools the difference is whether the two parties
+stand as equals. They read the same pesukim, Lot's *itto* and *imo*, in opposite
+ways, though on Bilam Rabbi Mecklenburg's reading mirrors the Gra's. At Devarim
+5:4, HaKsav VeHaKabbalah, Rabbi Mecklenburg's own commentary, says that *es* and
+*im* mean the same, in that both set the two parties as equals.
 
 ## At a glance
 

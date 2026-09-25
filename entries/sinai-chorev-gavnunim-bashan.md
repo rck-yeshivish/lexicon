@@ -48,11 +48,15 @@ updated: 2026-09-22
 One mountain carries many names. **Sinai** is the best known; Tanach also calls
 it **Har HaElokim**, the Mountain of God, **Har Bashan** and **Har Gavnunim**
 (Tehillim 68:16), **Har Chemed** (Tehillim 68:17) and **Chorev**, Horeb (Shemos
-33:6). Various Midrashic sources explain how each name fits the one mountain,
+33:6), though Shadal holds that Chorev and Sinai are two mountains, or two peaks
+of one. Various Midrashic sources explain how each name fits the one mountain,
 most of them by a play on the name: *sinah*, hatred; *cherev*, a sword;
-*chemdah*, desire; *giben*, a blemish, or *gevinah*, cheese. Some versions of the
-Midrash add **Moriah**, which raises the question whether Moriah and Sinai are
-two mountains or one; both answers are given.
+*chemdah*, desire; *giben*, a blemish, or *gevinah*, cheese. Some versions of
+the Midrash add **Moriah**, and whether Moriah and Sinai are then two mountains
+or one is disputed. The simplest resolution is that two different mountains are
+both named Moriah; Rabbi Berachiah Baruch Shapiro and Rabbi Naftali Katz hold
+that they are one mountain, brought from Yerushalayim to the wilderness for the
+giving of the Torah and then returned.
 
 ## At a glance
 
@@ -147,7 +151,7 @@ See the question above.
   *gevinah*), or the derashah disappears.
 - *Har HaElokim*: "the Mountain of God," keeping *Elokim* visible where the point
   is the attribute of judgment.
-- *Chorev*: "Horeb" or "Chorev," as one mountain with Sinai, never a second place.
+- *Chorev*: "Horeb" or "Chorev," as one mountain with Sinai, unless following Shadal, who makes them two mountains or two peaks of one.
 - "The Mountain of Myrrh" in *Yom Shabbaton* is Moriah; rendered only as a
   description it hides the identification the poem implies.
 

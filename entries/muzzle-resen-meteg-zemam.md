@@ -35,15 +35,17 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Resen* and *meteg* are both the gear that controls a beast. Rabbi Avraham Bedersi has *meteg* the metal
-bit and *resen* a rope or a leather bit; Dr. David J. A. Clines, with a similar
-approach, has *meteg* the whole bridle and *resen* the
-mouthpiece or the reins; Rabbi Moshe Tedeschi-Ashkenazi has the exact opposite of
-Bedersi, *meteg* the leather strap and *resen* the metal bit. Aramaic *zemam*
-covers both and is a **muzzle**, the device that closes a mouth. *Prumbia* is
-the rabbinic **muzzle/halter**; *afsar* is the **reins** by which one takes
-legal possession of an animal. The noun *zemam* (muzzle) is distinct from
-its homograph *zomem/zimah* (plot, scheme), though the sources tie them.
+*Resen* and *meteg* both name the gear that controls a beast, and what separates
+them is disputed. For Rabbi Avraham Bedersi the *meteg* is a metal bit and the
+*resen* a rope or a leather bit. Dr. David J. A. Clines takes a similar
+approach: the *meteg* is the whole bridle, and the *resen* the mouthpiece or the
+reins. Rabbi Moshe Tedeschi-Ashkenazi holds the exact opposite of Bedersi: the
+*meteg* is the leather strap and the *resen* the metal bit. The Aramaic *zemam*,
+which Targum uses for both, is a **muzzle**, the device that closes a mouth.
+*Prumbia* is the rabbinic **muzzle/halter**; *afsar* is the **reins**, by which
+one takes legal possession of an animal. The noun *zemam* is distinct from its
+homograph *zomem* or *zimah*, a plot or scheme, though Shadal, among others,
+ties them: the scheme stays locked in the mind as the muzzle locks the mouth.
 
 ## At a glance
 

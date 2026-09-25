@@ -32,13 +32,13 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Yosef* is a name; Rachel gave it from *yosef*, "He
-shall add" (Bereishis 30:24). *Yehosef* is the same person with a hei of
-Hashem's Name added (Tehillim 81:6). *Tzafnas Paneach* is, by Rashi's reading,
-**revealer of mysteries**. *Avreich* is
-read as **father to the king**, **a father in wisdom though young
-in years**, or **one before whom all kneel**. *Rach* may, on some
-readings, mean "royal."
+Rachel named him *Yosef*, from *yosef*, "He shall add" (Bereishis 30:24).
+Tehillim 81:6 calls the same man *Yehosef*, with a hei of Hashem's Name added.
+Rashi renders *Tzafnas Paneach* **revealer of mysteries**, and the Chasam Sofer
+reverses it, "concealer of mysteries." *Avreich* has three readings, all brought
+by Rashi: **father to the king**, **a father in wisdom though young in years**,
+or **one before whom all kneel**. *Rach* means soft or young, but on some
+readings it may also mean "royal."
 
 ## At a glance
 

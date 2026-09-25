@@ -46,12 +46,12 @@ updated: 2026-09-22
 ## Bottom line
 
 Three names are the Torah's: **Shavuos**, Festival of Weeks; **Chag HaKatzir**,
-Festival of the Harvest; **Yom HaBikkurim**, Day of the First Fruits. Three more
-are post-Biblical: **Yom HaChamishim**, the Fiftieth Day; **Chag HaTene**,
+Festival of the Harvest; and **Yom HaBikkurim**, Day of the First Fruits. Three
+more are post-Biblical: **Yom HaChamishim**, the Fiftieth Day; **Chag HaTene**,
 Festival of the Basket; and **Asartha**, the Aramaic of **Atzeres**. *Atzeres*
-is the name of Chazal and the one the Mishnah and Gemara normally use, though the
-Torah never applies it to this yom tov. Its sense is disputed,
-**Assembly** on one reading and **Conclusion** on another.
+is Chazal's name for it, the one the Mishnah and Gemara normally use, though the
+Torah never applies it to this yom tov. Its sense is disputed: on one reading it
+means **Assembly**, on another **Conclusion**.
 
 ## At a glance
 

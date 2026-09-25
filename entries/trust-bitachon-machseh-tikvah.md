@@ -59,19 +59,21 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Bitachon* is **trust**, the inner confidence that the future will be good
-(Malbim: a state of the heart, silent about action). *Machseh* is **refuge**,
-trust lived out (Malbim), or trust in Hashem beyond what He promised (Vilna
-Gaon). *Tikvah* is **hope**, *tocheles* **expectant waiting** with some doubt,
-*chikui* **waiting** in full certainty (Wertheimer's scale of certainty).
-*Semichah* is **leaning**, *mishan* **leaning for support**, on two different
-lines: for Malbim *semichah* is with one's whole weight and *mishan* only
-partial; for Pappenheim *somech* covers any leaning, even by choice, and
-*mishan* is leaning out of need. *Saad* is **support** given (Malbim: to one
-unaware of it; Pappenheim: to one who needs *mishan*), or, as Rabbi Moshe
-Tzuriel suggests, **help**, the beneficiary also doing his part. *Sever* is **hopeful
-looking-to**; *kesel* **assurance** that nothing bad will happen (Malbim). Chovos
-HaLevavos counts these as ten levels of one thing.
+*Bitachon* is **trust**, inner confidence that the future will be good; for
+Malbim it is a state of the heart and says nothing about action. *Machseh* is
+**refuge**. For Malbim it is trust lived out; for the Vilna Gaon it is trust in
+Hashem beyond what He promised, where *bitachon* is trust that He will do what
+He did promise. *Tikvah* is **hope**, *tocheles* **expectant waiting** with some
+doubt, and *chikui* **waiting** in full certainty; Rabbi Wertheimer grades the
+three by how certain one is. *Semichah* is **leaning** and *mishan* **leaning
+for support**, and Malbim and Rabbi Pappenheim divide them differently: for
+Malbim *semichah* is done with one's whole weight and *mishan* only partly; for
+Pappenheim *somech* covers any leaning, even by choice, and *mishan* is leaning
+out of need. *Saad* is **support** given, for Malbim to one unaware of it and
+for Pappenheim to one who needs *mishan*; or, as Rabbi Moshe Tzuriel suggests,
+it is **help**, since the beneficiary also does his part. *Sever* is **hopeful
+looking-to**, and *kesel* is **assurance** that nothing bad will happen
+(Malbim). Chovos HaLevavos counts all ten as ten levels of trust in Hashem.
 
 ## At a glance
 

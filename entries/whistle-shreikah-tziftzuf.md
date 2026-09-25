@@ -31,13 +31,14 @@ updated: 2026-09-10
 
 *Shreikah* is a **whistle**, used in two opposite settings: the whistle or hiss
 of astonishment at a ruined place that had been thriving, and the signal by
-which Hashem calls the masses to gather, at the end of days to gather His people
-home. Rabbi Yaakov Berger notes that biblical *shreikah* seemingly always means
-whistling with the mouth alone, while the Aramaic *mashrokita* of Daniel is an
-instrument. *Tziftzuf*, its apparent synonym, is
-**whistling, chirping, tweeting**, the bird's sound, and by extension a low,
-rapid whisper or half-intelligible **prattle**; in the Rema's halachic usage
-*mitzaftzef* is simply "to whistle."
+which Hashem calls the masses to gather and, at the end of days, calls His
+people home. Rabbi Yaakov Berger notes that biblical *shreikah* seemingly always
+means whistling with the mouth alone, while the Aramaic *mashrokita* of Daniel
+is an instrument. *Tziftzuf*, its apparent synonym, is **whistling, chirping,
+tweeting**, the bird's sound. By extension it is a low, rapid whisper, or, as
+Rabbi Shaul Goldman explains, a babble meant to be heard but almost always
+unintelligible. Rashi and Ramban use it for the mindless **prattle** typified by
+*lashon hara*. In the Rema's halachic usage *mitzaftzef* is simply "to whistle."
 
 ## At a glance
 

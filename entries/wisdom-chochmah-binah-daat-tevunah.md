@@ -34,21 +34,24 @@ updated: 2026-09-22
 ## Bottom line
 
 Jewish tradition has long seen the Menorah as a symbol of wisdom (Bava Basra
-25b); the three terms together form the basis of Jewish epistemology.
-*Chochmah* is **wisdom**: for Rashi, after the *Sifrei*, what one hears and
-learns from others, and Chazal's *chacham* gathers from every source; for
-Malbim, practical wisdom, the smart way of acting. *Binah* (with *tevunah*, which most use almost interchangeably) is
-**understanding**, understanding one matter from within another (Chagigah 14a),
-building on what one already holds (a *navon* is **discerning**). *Daat* is
-**knowledge**, and its readings are many: grasping the reason behind a lesson
-(Rashi and Bartenura to Avos 3:17); *ruach hakodesh* (Rashi to Shemos 31:3) or
-reconciliation (Rashi to Chagigah 12a), which Rabbi Shmuel Yaakov Burnstein
-unites as connection; the joining of intellect and emotion (Rabbi Chaim
-Friedlander); thinking of new ideas oneself (Rabbeinu Yonah); the certainty of
-what *binah* concludes (Malbim); and, for the kabbalists and Ramchal, the
-synthesis of the other two. Everyone agrees that *chochmah* is the *lowest* of
-the three (Shemos Rabbah 41:3; Rashi to Shabbos 31a); whether *binah* or *daat*
-ranks higher is disputed (the Maharal against some sources, see Maharsha).
+25b). Together, *chochmah*, *binah* and *daat* form the basis of Jewish
+epistemology. *Chochmah* is **wisdom**, which Chazal's *chacham* gathers from
+every source. Rashi, following the *Sifrei*, explains it as what one hears and
+learns from others; for Malbim it is practical wisdom, the smart way of acting.
+*Binah* is **understanding**, and most authorities use *tevunah* almost
+interchangeably with it. The *navon*, who is **discerning**, understands one
+matter from within another (Chagigah 14a), building on what he already holds.
+*Daat* is **knowledge**, and its readings are many: grasping the reason behind a
+lesson (Rashi and Bartenura to Avos 3:17); *ruach hakodesh* (Rashi to Shemos
+31:3) or reconciliation (Rashi to Chagigah 12a), which Rabbi Shmuel Yaakov
+Burnstein unites as connection; the joining of intellect and emotion (Rabbi
+Chaim Friedlander); thinking of new ideas oneself (Rabbeinu Yonah); the
+certainty of what *binah* concludes (Malbim); and, for the kabbalists and
+Ramchal, the synthesis of the other two. Everyone agrees that *chochmah* is the
+*lowest* of the three (Shemos Rabbah 41:3; Rashi to Shabbos 31a). Which of
+*binah* and *daat* ranks higher is disputed: some sources put *daat* above
+*binah* (see Maharsha to Kesubos 5a), while the Maharal puts *binah* above
+*daat*.
 
 ## At a glance
 

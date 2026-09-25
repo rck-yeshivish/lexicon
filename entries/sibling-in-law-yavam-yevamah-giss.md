@@ -37,11 +37,15 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Yavam* and *yevamah* belong to *yibbum*: **the levir** and **the
-widow**, the **brother-in-law** and **sister-in-law** of the mitzvah. *Giss* is the Mishnaic word, a man's word for his wife's brother and, on
-some views, his sister's husband too. On the view of Rabbi Mecklenburg and
-others, Biblical Hebrew has no general word for a sibling-in-law, only *eishes achiv*. English "brother-in-law" covers four
-relations at once, a woman's husband's brother, a woman's sister's husband, a man's wife's brother and a man's sister's husband.
+*Yavam* and *yevamah* belong to *yibbum*: **the levir** and **the widow**, the
+**brother-in-law** and **sister-in-law** of the mitzvah. Rabbi Mecklenburg and
+others hold that they name only the parties to the mitzvah, Biblical Hebrew
+having no general word for a sibling-in-law, only *eishes achiv*; Ibn Ezra and
+HaBachur, as Rabbi Heidenheim cites them, take them as kinship terms even
+outside *yibbum*. *Giss* is the Mishnaic word, a man's word for his wife's
+brother and, on some views, his sister's husband too. English "brother-in-law"
+covers several relations at once, among them a woman's husband's brother, a
+woman's sister's husband, a man's wife's brother and a man's sister's husband.
 
 ## At a glance
 

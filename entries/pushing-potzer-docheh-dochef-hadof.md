@@ -35,14 +35,16 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Potzer* is to **press** or **urge** someone until he relents; it is almost
-always about a person's will, not his body. *Docheh* is to **push away**, to
-remove a thing from its place, and in halachic Hebrew for one law to **override**
-another. *Dochef* is to **hurry** someone, pushed into moving faster than
-planned. *Hadof* is to **thrust away** or **dislodge**, particularly what is
-loosely held. *Dofek* is repeated beating: to **knock** at a door, to **drive**
-animals too hard, later a **pulse**. *Docheh* in a sugya is not physical at
-all.
+*Potzer* is to **press** or **urge** someone until he relents. It concerns a
+person's will rather than his body, though Rabbi Yaakov Tzvi Mecklenburg reads
+the Sedomites' pressing of Lot (Bereishis 19:9) physically, as pushing him away
+from the door. *Docheh* is to **push away**, to remove a thing from its place,
+and in halachic Hebrew for one law to **override** another, a sense with nothing
+physical in it. *Dochef* is to **hurry**, to be pushed into doing something
+faster than planned. *Hadof* is to **thrust away** or **dislodge**, particularly
+what is loosely held (Rabbi Shlomo Pappenheim, Malbim). *Dofek* is repeated
+beating: to **knock** at a door, to **drive** animals too hard, and later a
+**pulse**.
 
 ## At a glance
 

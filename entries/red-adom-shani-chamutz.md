@@ -41,14 +41,15 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Adom* is plain **red**, and on Radak's comparison at Zecharyah 6:2-3 the
-stronger red against *chamutz* / *amutz*. *Shani* (*tola'as shani*) is
-**crimson**, the worm-dye of the Mishkan. *Chamutz* and *amutz* are the weaker red: **red-stained**
-in Yeshayahu, **chestnut** or burgundy in Zecharyah. *Seruk* is **pink** on
-Malbim's reading, though Radak takes it only as "colorful"; *chum* is a dark red
-near black, which in some later sources *seems* to mean **brown**; *chachlilei* is a drinker's
-**bloodshot** eye, though Ramban ties that word to blue instead. In Aramaic
-*sumak* is everyday red and *zehoris* the Targum's word for *shani*.
+*Adom* is plain **red**, and at Zecharyah 6:2-3 Radak finds it a stronger red
+than *chamutz* / *amutz*. *Shani* (*tola'as shani*) is **crimson**, the worm-dye
+of the Mishkan. *Chamutz* and *amutz* are **red-stained** in Yeshayahu and
+**chestnut** or burgundy in Zecharyah. *Seruk* is **pink** on Malbim's reading,
+though Radak takes it only as "colorful." *Chum* is a dark red near black, which
+in some later sources *seems* to mean **brown**. *Chachlilei* is a drinker's
+**bloodshot** eye, though Ramban ties the word to blue instead. In Aramaic,
+*sumak* is the everyday word for red, and *zehoris* is the Targum's word for
+*shani*.
 
 ## At a glance
 

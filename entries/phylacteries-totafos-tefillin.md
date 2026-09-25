@@ -26,12 +26,12 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Totafos* is the word of Chumash and belongs to the head alone. *Tefillin* is the Mishnaic word, plural because it
-names the pair of head and arm together; the singular of one box is *tefillah*.
-The Torah never calls the arm box *totafos*, which is one
-of the two reasons Rabbi Pinchas Avraham Meyers and Rabbi Moshe Rachamim Shayo
-give for the berachah before laying them saying *tefillin* and not the biblical
-term.
+*Totafos* is the word of Chumash and belongs to the head alone. *Tefillin* is
+the Mishnaic word, plural because it names the pair of head and arm together;
+the singular, for one box, is *tefillah*. Rabbi Pinchas Avraham Meyers and Rabbi
+Moshe Rachamim Shayo give two reasons why the berachah before laying them says
+*tefillin* and not the biblical term, and one of them is that the Torah never
+calls the arm box *totafos*.
 
 ## At a glance
 

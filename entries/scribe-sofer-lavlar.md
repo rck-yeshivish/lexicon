@@ -28,8 +28,12 @@ updated: 2026-09-22
 Both words mean **scribe**, and Rashi uses each to define the other. *Sofer* is
 the Hebrew word, at home in Tanach and in the Mishnah; *lavlar* is the later
 term, found in Mishnaic and Talmudic Hebrew and borrowed from Latin. Whether
-they differ in *meaning* is disputed between two named views (see below). In
-the plural, *sofrim* in rabbinic usage is often **the Sofrim**, the early Sages, rather than "scribes."
+they differ in *meaning* is disputed. For Rabbi Yehuda Aryeh Blau, a *sofer* is
+an official scribe holding a bureaucratic post and *lavlar* a general term that
+takes in even the freelance clerk; for Rabbi Shmuel Krauss the two are
+effectively synonymous, though *lavlar* may have carried a somewhat more formal
+connotation. In the plural, *sofrim* in rabbinic usage is often **the Sofrim**,
+the early Sages, rather than "scribes."
 
 ## At a glance
 

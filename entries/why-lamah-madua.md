@@ -23,15 +23,15 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Both mean **why**, and in many places they seem interchangeable; Ibn Parchon
-and Radak hold them synonymous, while Rabbi Klein holds that no two Hebrew words
-mean exactly the same thing. Those who find a difference give four accounts:
-Rabbi Yaakov Tzvi Mecklenburg and the Malbim make *madua* ask the effective
-cause and *lamah* the ultimate purpose; Rabbi Shlomo Aharon Wertheimer makes
-*lamah* imply that the matter is wrong, a complaint or rebuke, and *madua*
-neutral; others make *lamah* rhetorical and *madua* a request for a real
-answer; and some make *madua* specifically the question about a ruling or
-command.
+Both mean **why**, and in many places they seem interchangeable. Ibn Parchon and
+Radak hold that the two are synonymous; Rabbi Klein holds that no two Hebrew
+words mean exactly the same thing. Those who find a difference give four
+accounts. For Rabbi Yaakov Tzvi Mecklenburg and the Malbim, *madua* asks after
+the effective cause of a thing and *lamah* after its ultimate purpose. For Rabbi
+Shlomo Aharon Wertheimer, *lamah* implies that the matter is wrong and is the
+word of complaint or rebuke, while *madua* is neutral. Others explain that
+*lamah* is rhetorical and that *madua* asks for a real answer. And some explain
+that *madua* is the word used specifically to question a ruling or command.
 
 ## At a glance
 

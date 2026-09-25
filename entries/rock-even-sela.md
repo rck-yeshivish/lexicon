@@ -32,15 +32,16 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Even* is the general word: **stone**, any naturally occurring one, as against
-*leveinah*, a man-made brick (Malbim). *Sela* is a **crag**, a hard rock still
-fixed in the ground and often a rocky height; because it is so hard and cannot
-easily be chipped, it became the recognized standard for weights and currencies,
-and by Mishnaic times it is also the name of a coin. Rabbi Immanuel Chai Ricci
-puts the difference in attachment
-(*sela* joined to the ground, *even* loose enough to pick up); Rabbi Shlomo
-Pappenheim puts it in hardness, with *even* the hypernym that includes *sela*.
-The Mishnah at *Zevachim* 13:3 sets *even* and *sela* side by side.
+*Even* is the general word for **stone**, and Malbim defines it as any naturally
+occurring stone, as against *leveinah*, a man-made brick. *Sela* is a **crag**,
+in most of its appearances in Tanach a hard rock protruding from the ground, or
+even a rocky mountain. Because it is so hard and cannot easily be chipped, it
+became the recognized standard for weights and currencies, and in the time of
+the Mishnah *sela* was also the name of a coin. The Mishnah (*Zevachim* 13:3)
+sets *even* and *sela* side by side. Rabbi Immanuel Chai Ricci puts the
+difference between them in attachment: a *sela* is joined to the ground, and an
+*even* is loose enough to pick up. Rabbi Shlomo Pappenheim puts it in hardness,
+and makes *even* the umbrella term that includes *sela*.
 
 ## At a glance
 

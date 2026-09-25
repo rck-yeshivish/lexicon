@@ -9,11 +9,11 @@ words:
   - he: הניא
     tr: heini
     en: restrain, hold back
-    distinct: works on what has not yet come about, stopping a plan before it is carried out (Rabbi Shlomo Aharon Wertheimer); against that, forcing something out of existence (Malbim); its core sense to break (Menachem Ibn Saruk, Ibn Ezra) or to deny and withhold (Dunash Ibn Labrat, Rashi)
+    distinct: works on what has not yet come about, stopping a plan before it is carried out (Rabbi Shlomo Aharon Wertheimer); forcing something out of existence (Malbim); its core sense to break (Menachem Ibn Saruk, Ibn Ezra) or to deny and withhold (Dunash Ibn Labrat, Rashi)
   - he: הפר
     tr: heifer
     en: annul, break
-    distinct: cancels what already exists, crumbling it like pur, a crumb, as one tears up a binding contract (Rabbi Shlomo Aharon Wertheimer); against that, simply ensuring something will not come to fruition, without force (Malbim)
+    distinct: cancels what already exists, crumbling it like pur, a crumb, as one tears up a binding contract (Rabbi Shlomo Aharon Wertheimer); simply ensuring something will not come to fruition, without force (Malbim)
   - he: בטל
     tr: batel
     en: void
@@ -31,13 +31,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Heini* (*yani*) works on what has not yet come about: **restrain**, **hold
-back**, stop a plan from being carried out. *Heifer* works on what already
-exists: **annul**, **break**, crumble a standing legal reality out of being.
-That is why Bamidbar 30 uses both of a husband nullifying his wife's neder: he
-*heini*s her plan and *heifer*s the vow (Rabbi Shlomo Aharon Wertheimer).
-*Batel* is the Rabbinic word, apparently Aramaic in origin: **void**, and by
-extension **idle, futile**.
+Rabbi Shlomo Aharon Wertheimer explains that *heini* (*yani*) works on what has
+not yet come about: **restrain**, **hold back**, stop a plan from being carried
+out. *Heifer*, in his account, works on what already exists: **annul**,
+**break**, crumble a standing legal reality out of being. That, he says, is why
+Bamidbar 30 uses both words of a husband nullifying his wife's neder: the Torah
+says *heini* of her plan and *heifer* of the vow. *Batel* is the Rabbinic word,
+apparently Aramaic in origin: **void**, and by extension **idle, futile**.
 
 ## At a glance
 

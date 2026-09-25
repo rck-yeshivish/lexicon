@@ -42,12 +42,13 @@ updated: 2026-09-10
 The soul has five names, each for a different aspect of it (Bereishis Rabbah
 14:9), and Rabbi Klein's thesis is that they are not mere synonyms. *Nefesh* is
 the **soul**, which the Midrash ties to blood, the lifeline of physical
-existence; in Tanach it also means blood, one who has died, will, the self,
-and a name. *Ruach* is **spirit**: for Rambam primarily air, whence wind and
-direction, and also the life-giving spirit; it also means prophecy and
-temperament, and the Midrash makes it the soul's wind-like aspect. *Neshamah*,
-the **higher soul**, means only the soul, is tied to breathing, and only man
-has one (Ibn Ezra). *Chayah* is the soul that lives on when the body dies, and
+existence; in Tanach it also means blood, one who has died, will, the self, and
+a name. *Ruach* is **spirit**. Rambam explains that it is primarily air, from
+which it came to mean wind and direction, and that it is also the life-giving
+spirit. It also means prophecy and temperament, and the Midrash makes it the
+soul's wind-like aspect. *Neshamah*, the **higher soul**, means only the soul;
+the Midrash ties it to breathing, and Ibn Ezra holds that only man has one.
+*Chayah* is the soul's transcendence, which lives on when the body dies, and
 *yechidah* its uniqueness (the Midrash). The authorities map the soul's parts
 onto the faculties, the organs and the stages of life in different ways, and
 they differ over who has *chayah* and *yechidah* at all.

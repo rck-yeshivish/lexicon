@@ -28,11 +28,14 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Zachor* is remembering in the mind: **remember, call to mind**. *Pakad* is
-remembering that issues in action: **attend to, take note of** (and in the
-right context "count," "appoint," "punish," "deposit"). Rabbi Shlomo Aharon
-Wertheimer, capsulizing Malbim's stance: *zechirah* is in thought, *pekidah* is
-in action.
+In the first of Malbim's two explanations, *zachor* is remembering in the mind,
+**remember, call to mind**, and *pakad* is remembering in order to act, **attend
+to, take note of** (and in the right context "count," "appoint," "punish,"
+"deposit"). Rabbi Shlomo Aharon Wertheimer sums up this stance: *zechirah* is in
+thought, *pekidah* is in action. In Malbim's second explanation, *zachor* is
+constant remembering over a long span and *pakad* one fleeting act of
+remembering. Rabbi Saadia ben David Al-Dhamari reads the pair by elapsed time
+instead: *pakad* is remembering after a long time, *zachor* after a shorter one.
 
 ## At a glance
 

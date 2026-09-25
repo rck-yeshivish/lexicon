@@ -46,12 +46,11 @@ updated: 2026-09-10
 
 ## Bottom line
 
-These are one man's ten names. The six of Divrei HaYamim I 4:18
-(Yered, Avigdor, Chever, Avi-Socho, Yekusiel, Avi-Zanoach) are read as Moshe by
-*Vayikra Rabbah* 1:3, each expounded from a Hebrew root; four more (Toviah,
-Shemayah, Ben Nesanel, Levi) follow. The Midrash
-concludes that of all ten, the Torah and Hashem Himself call him only **Moshe**,
-the name Basyah gave him.
+*Vayikra Rabbah* 1:3 gives Moshe ten names. It reads the six of Divrei HaYamim I
+4:18 (Yered, Avigdor, Chever, Avi-Socho, Yekusiel, Avi-Zanoach) as Moshe,
+expounding each from a Hebrew root, and adds four more (Toviah, Shemayah, Ben
+Nesanel, Levi). The Midrash concludes that of all ten, the Torah and Hashem
+Himself call him only **Moshe**, the name Basyah gave him.
 
 ## At a glance
 

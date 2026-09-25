@@ -30,11 +30,11 @@ updated: 2026-09-22
 ## Bottom line
 
 Rabbi Shlomo Pappenheim ranks the three by how deliberate and how lasting the
-placing is. *Natan* is the loosest: **put** something down, anywhere. *Sam* is
-**place**, into a spot designated for it, as part of a plan, but for no stated
-duration. *Shat* is **set** or **lay**, placed into an order and meant to stay
-there indefinitely. The Rokeach draws the line differently: *sim* is placing
-with intent, *yashis* without.
+placing is. *Natan* is the loosest: to **put** something down, anywhere. *Sam*
+is to **place** a thing in a spot designated for it, as part of a plan, but for
+no stated duration. *Shat* is to **set** or **lay** a thing into an order, where
+it is meant to stay indefinitely. The Rokeach draws the line differently: *sim*
+is placing with intent, and *yashis* placing without it.
 
 ## At a glance
 

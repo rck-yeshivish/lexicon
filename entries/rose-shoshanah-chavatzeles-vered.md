@@ -31,15 +31,15 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Shoshanah* is the Biblical
-flower, for Rabbi Eliyahu HaBachur a **rose** (it
-grows among thorns, and lilies do not), though Modern Hebrew has reassigned it
-to the **lily**. *Chavatzeles* is either the same flower at a different stage or
-in a different place, or a **daffodil**; *Shulchan Aruch* defines it as a *narkis*,
-while also citing a view that it is a lily.
-*Vered* is post-Biblical **rose**, and the Targumim use it to render *shoshanah*.
-Shir HaShirim 2:1 sets
-*chavatzeles* and *shoshanah* side by side in a single pasuk.
+*Shoshanah* is the flower of Tanach. Rabbi Eliyahu HaBachur takes it for a
+**rose**, since it grows among thorns and lilies do not; on the tradition Ibn
+Ezra and Radak cite, it has six petals, which would rule a rose out. In Modern
+Hebrew it is the **lily**. *Chavatzeles* is either the same flower as
+*shoshanah*, or that flower at a younger stage or grown in a different place, or
+else a **daffodil**. *Shulchan Aruch* defines it as a *narkis*, while also
+citing a view that it is a lily. *Vered*, a word of the Mishnah and not of
+Tanach, is a **rose**, and the Targumim use it to render *shoshanah*. Shir
+HaShirim 2:1 sets *chavatzeles* and *shoshanah* side by side in a single pasuk.
 
 ## At a glance
 

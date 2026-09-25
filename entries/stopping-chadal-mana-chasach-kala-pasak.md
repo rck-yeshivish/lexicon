@@ -38,19 +38,21 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Chadal* is **cease**: for Rabbi Yosef Grayever it stops because it cannot go
-on, and for Rabbi Shlomo Pappenheim and Malbim the halt comes from the person or
-thing itself, with no verdict on whether it is right (Pappenheim). *Mana* is
-**withhold**, a conscious refusal (Grayever), willful and total (Rabbi Shlomo
-Aharon Wertheimer), and for Pappenheim a withholding of what ought not be
-withheld. *Chasach* is **hold back** or **spare**: stopping a thing before it
-starts (Grayever) or interrupting one under way (Wertheimer); for Pappenheim,
-followed by Malbim, a check from outside, and for Pappenheim a rightly applied
-one. *Kala* stops because the goal is reached or the reason has lapsed
-(Grayever, Wertheimer), or, for Malbim, is detained against its nature:
-**cease**, **be held back**. *Pasak* is **break off** in the middle (Grayever).
-Grayever himself allows that colloquially the words interchange, and that each
-keeps its own connotation in most, not all, of its appearances.
+*Chadal* is **cease**. For Rabbi Yosef Grayever it stops because it cannot go
+on; for Rabbi Shlomo Pappenheim and Malbim the halt comes from the person or
+thing itself, and Pappenheim holds that the word passes no verdict on whether
+the stopping is good or bad. *Mana* is **withhold**, a conscious refusal
+(Grayever), willful and total (Rabbi Shlomo Aharon Wertheimer), and for
+Pappenheim a withholding of what ought not be withheld. *Chasach* is **hold
+back** or **spare**. Grayever makes it stopping a thing before it starts, and
+Wertheimer, disagreeing, interrupting one already under way. For Pappenheim it
+is a check applied from outside, and rightly applied; Malbim follows him on the
+outside force. *Kala* is **cease** or **be held back**: for Grayever and
+Wertheimer, stopping because the goal is reached or the reason has lapsed; for
+Malbim, being detained against its own nature. *Pasak* is **break off** in the
+middle (Grayever). Grayever himself allows that colloquially the words can be
+used interchangeably, and that each keeps its own connotation in most, though
+not all, of its appearances.
 
 ## At a glance
 

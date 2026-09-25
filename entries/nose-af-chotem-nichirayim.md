@@ -31,8 +31,8 @@ updated: 2026-09-10
 *Af* is the biblical word: **nose** in a minority of its appearances, **anger**
 or **even, also** in most, and in the dual *apayim* usually **face**. *Chotem*
 is the rabbinic word for the organ, and in the plural *chotmin* the **nostrils**
-proper. *Nichirayim* is a single biblical word for the two **nostrils** as
-openings (Iyov 41:12).
+proper. *Nichirayim*, which occurs once in Tanach (Iyov 41:12), is the two
+**nostrils** as openings.
 
 ## At a glance
 

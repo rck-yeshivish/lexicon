@@ -24,16 +24,18 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Yekitzah* is **waking up**; *oorah* is **rousing** or **stirring**. How they differ is disputed; there are three views. Rabbi Shlomo Pappenheim:
-*yekitzah* is sudden and complete, asleep one moment and awake the next, while
-*oorah* is gradual and includes the half-asleep state (so "my heart is awake,"
-Shir HaShirim 5:2). Rabbi Yechezkel Pannet seems to suggest that *orer* suits
-waking from deep sleep and *yekitzah* waking one who merely dozed off. Malbim:
-two stages of one process, *oorah* first (coming to one's senses), then
-*yekitzah* (getting up and staying awake); and in Chavakuk 2:19 *yekitzah* is
-the more responsive waking, *oorah* the most basic. Rabbi Klein adds his own
-suggestion that *yekitzah* is the end of a dream or other false impression,
-since most of its Biblical occurrences follow a dream or drunkenness.
+*Yekitzah* is **waking up**; *oorah* is **rousing** or **stirring**. How they
+differ is disputed, and there are three views. Rabbi Shlomo Pappenheim explains
+that *yekitzah* is sudden and complete, asleep one moment and awake the next,
+while *oorah* is gradual and includes the half-asleep state, which "my heart is
+awake" (Shir HaShirim 5:2) alludes to. Rabbi Yechezkel Pannet seems to suggest
+that *orer* suits waking from deep sleep and *yekitzah* waking one who merely
+dozed off. Malbim explains them as two stages of one process: *oorah* comes
+first, coming to one's senses, and then *yekitzah*, getting up and staying
+awake. In Chavakuk 2:19 he takes *yekitzah* as the more responsive waking and
+*oorah* as the most basic. Rabbi Klein adds his own suggestion that *yekitzah*
+is the end of a dream or other false impression, since most of its occurrences
+in Tanach follow a dream or drunkenness.
 
 ## At a glance
 

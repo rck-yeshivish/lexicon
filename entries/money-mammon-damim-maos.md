@@ -42,15 +42,15 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Mammon* is **money** in the broadest sense, one's assets and holdings; it
-never appears in Tanach, only from the Mishnah on, and the *Pri Megadim* holds it
-to be Aramaic. *Damim*
-is **the price** or **the value** of a thing, always plural, and it is the
-homonym of *damim*, blood. *Maos* and *zuzim* are coin
-names that widened into general words for **money**; *kesef* is **silver**, which
-probably widened the same way. *Mechir* is the Biblical **price**. In a Mishnaic passage
-*damim* is regularly money, while in Tanach
-it is generally understood to be blood, with only two pesukim disputed.
+*Mammon* is **money** in the broadest sense, one's assets and holdings, and
+*damim* is **the price** or **the value** of a thing (Rabbi Eliezer Herstik).
+*Mammon* never appears in Tanach, only from the Mishnah on, and the *Pri
+Megadim* holds it to be Aramaic. *Damim* is always plural and a homonym of
+*damim*, blood; in the Mishnah it is regularly money, while in Tanach it is
+generally understood to be blood, with only two pesukim disputed. *Maos* and
+*zuzim* are names of coins that widened into general words for **money**, and
+*kesef*, **silver**, probably widened the same way. *Mechir* is the Biblical
+**price**.
 
 ## At a glance
 

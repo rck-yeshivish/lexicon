@@ -42,9 +42,9 @@ updated: 2026-09-22
 The two verbs are not interchangeable. *Latur* is to **scout out** with an eye
 for what is good; *leragel* is to **spy out** with an eye for what is weak
 (Rabbi Yaakov Tzvi Mecklenburg). Bamidbar calls Moshe's twelve *tarim*,
-**scouts**, throughout; Tanach never calls them *meraglim*, the traditional
-name, which is drawn from the verb Devarim uses looking back (*leragel*,
-alongside *veyachperu*).
+**scouts**, throughout. Tanach never calls them *meraglim*; that traditional
+name is drawn from *leragel*, the verb Devarim uses, alongside *veyachperu*,
+when it looks back on the episode.
 
 ## At a glance
 

@@ -32,16 +32,17 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Ulai* is **maybe** for an outcome the speaker wants (or at least expects);
-*pen* is **lest**, a maybe the speaker hopes will not happen. On Rabbi Eliyahu
-HaBachur's and Rabbi Immanuel Benevento's view, Biblical Hebrew has no neutral
-"maybe" at all: every *ulai* and every *pen* carries the speaker's leaning.
-Rabbi Shlomo of Urbino holds the opposite, that *ulai* is neutral, and Rabbi Klein leaves the machlokes standing, noting a significant
-problem with the first view. Two other readings turn on likelihood: Rabbi
-Nissim of Marseilles makes *pen* a remote possibility and *ulai* a likelier one,
-and *Sefer HaChochmah*, ascribed to the Rokeach, takes *pen* as what will surely
-happen, as though it were *ken*. Aramaic *shema* / *dilma* is neutral on all
-accounts.
+*Ulai* is **maybe** and *pen* is **lest**. On the view of Rabbi Eliyahu HaBachur
+and Rabbi Immanuel Benevento, Biblical Hebrew has no neutral "maybe" at all:
+*ulai* introduces an outcome the speaker wants, and *pen* one he hopes will not
+happen. Malbim writes similarly that *ulai* shows the speaker wants the outcome,
+or at least thinks it the likelier. Rabbi Shlomo of Urbino holds the opposite,
+that *ulai* is neutral, and Rabbi Klein leaves the machlokes standing, noting a
+significant problem with HaBachur's and Benevento's view. Two other readings
+turn on likelihood: Rabbi Nissim of Marseilles makes *pen* a remote possibility
+and *ulai* a likelier one, and *Sefer HaChochmah*, ascribed to the Rokeach,
+takes *pen* as what will surely happen, as though it were *ken*. Aramaic *shema*
+and *dilma* are neutral on all accounts.
 
 ## At a glance
 

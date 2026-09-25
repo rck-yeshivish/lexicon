@@ -32,11 +32,13 @@ updated: 2026-09-10
 ## Bottom line
 
 *Chalak* is the adjective: **smooth**, and where a surface lets things slide,
-**slippery**. *Shua* and its Aramaic form *shiiya* are, Rabbi Klein concludes in
-light of Rabbi Yaakov Tzvi Mecklenburg's explanation, not one hundred percent
-synonymous with it: they name daubing or pasting one material onto another, which
-incidentally smooths the surface (**smoothed on**, **daubed**, **plastered**). The
-dispute over *shaatnez* in *Kilayim* 9:8 turns on what *shua* means.
+**slippery**. Rabbi Klein concludes, in light of Rabbi Yaakov Tzvi Mecklenburg's
+explanation, that *shua* and its Aramaic form *shiiya* are not one hundred
+percent synonymous with it: they name daubing or pasting one material onto
+another, which incidentally smooths the surface (**smoothed on**, **daubed**,
+**plastered**). Rashi takes *shua* instead as combing a single material smooth,
+and the dispute between him and the Tosafists over *shaatnez* in *Kilayim* 9:8
+turns on that difference.
 
 ## At a glance
 

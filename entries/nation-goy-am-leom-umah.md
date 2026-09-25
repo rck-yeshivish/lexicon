@@ -26,23 +26,26 @@ words:
 sources:
   - wiaw:7491 "The Unaffiliated Nations" (2017-11-18) https://articles.ohr.edu/articles/the-unaffiliated-nations
   - ms:036-the-unaffiliated-nations.md "The Unaffiliated Nations"
-authorities: [Rashi, Rabbi Menachem Ibn Saruk, Rabbi Wolf Heidenheim, Rabbi Yoel Ibn Shuaib, Malbim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Edel, Rabbi Eliyahu Mizrachi, Rabbi Shlomo Ibn Melech, Radak, Rabbeinu Yonah, Rabbi Elazar Rokeach of Worms]
+authorities: [Rashi, Rabbi Menachem Ibn Saruk, Rabbi Wolf Heidenheim, Rabbi Yoel Ibn Shuaib, Malbim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Edel, Rabbi Eliyahu Mizrachi, Rabbi Shlomo Ibn Melech, Radak, Rabbi Yonah Ibn Janach, Rabbi Elazar Rokeach of Worms]
 updated: 2026-09-22
 ---
 # Nation: goy / am / leom / umah
 
 ## Bottom line
 
-*Goy* is the loose word: a **nation** in the sense of a mass of people with no
-one king over them. *Am* is the tight word: a **people** united under a single
-king, leader, or under Hashem, and, unlike *goy*, it regularly
-takes a possessive (*ami*, "My people"). *Leom* is a **nation** bound by a
-shared religion, so it can cover more than one kingdom (Malbim). *Umah* stands with
-*leom* against *goy* as a nation that does have a crown (Rabbi Yoel Ibn Shuaib). On Heidenheim's
-approach it follows that every *am* is also a *goy*, but not every *goy* is an
-*am*. Colloquially *goy* is
-"gentile," but it literally means nation, and in Tanach it is applied to Yisrael
-too.
+*Goy* is the loose word, a **nation** in the sense of a mass of people: for
+Rabbi Yoel Ibn Shuaib one with no single king over it, for Heidenheim one not
+necessarily bound together in any concrete way, and for Malbim a union of
+convenience. *Am* is the tight word: a **people** united under a single king or
+leader, or under Hashem (Heidenheim, Malbim), and, unlike *goy*, it regularly
+takes a possessive (*ami*, "My people"). On Heidenheim's approach it follows
+that every *am* is also a *goy*, but not every *goy* is an *am*. The Vilna Gaon
+reverses where the bond lies: for him *goy* denotes people who share a common
+manner, and *am* a mass of individuals. *Leom* is a **nation** bound by a shared
+religion, so it can cover more than one kingdom (Malbim). *Umah* stands with
+*leom* against *goy* as a nation that does have a crown (Ibn Shuaib).
+Colloquially *goy* is "gentile," but it literally means nation, and in Tanach it
+is applied to Yisrael too.
 
 ## At a glance
 
@@ -67,7 +70,7 @@ too.
 - Rabbi Eliyahu Mizrachi (to Bereishis 20:4): *goy* is only ever a nation, never
   an individual.
 - Rabbi Shlomo Ibn Melech (*Michlal Yofi* there) and Radak (*Sefer HaShorashim*)
-  in the name of Rabbeinu Yonah: it can name an individual.
+  in the name of Rabbi Yonah Ibn Janach (*Sefer HaRikmah*, Shaar 28): it can name an individual.
 - Rabbi Yaakov Tzvi Mecklenburg proves from Shemos 21:8 that both *am* and *goy*
   can point to any single member of the group, which is the ground of the
   everyday usage.

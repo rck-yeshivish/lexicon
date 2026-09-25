@@ -38,13 +38,14 @@ same, **witness**. Lavan named the mound *Yegar Sahadusa*, and Yaakov called it
 are not quite synonyms: their meanings line up, but they come from two
 languages, as both Talmudim recognise in calling *sahaduta* Aramaic (Yerushalmi
 Sotah 7:2, Sanhedrin 10:1; Shabbos 115b; Megillah 9a). Malbim and Rabbi Shlomo
-Aharon Wertheimer nonetheless posit a difference: for Malbim, *eid* attests to
-conduct toward people and *sahad* to piety before Hashem; for Rabbi Wertheimer,
-*eid* names how the witness knows and *sahad* how he relays it. *Eid* also means
-**warn** (Rabbi Shlomo Pappenheim; Shadal makes warning its primary role). One
-who dies al kiddush Hashem is called a *kadosh*, "holy," where the Syriac,
-Arabic and English words for a martyr all mean "witness"; Rabbi Klein reads that
-difference as a statement about how Judaism views martyrdom.
+Aharon Wertheimer nonetheless posit a difference. For Malbim, the *eid* of Iyov
+16:19 attests to Iyov's conduct toward people and the *sahad* to his piety
+before Hashem; for Rabbi Wertheimer, *eid* names how the witness knows and
+*sahad* how he relays it. *Eid* also means **warn**, as Rabbi Shlomo Pappenheim
+explains, and Shadal makes warning the *eid*'s primary role. One who dies *al
+kiddush Hashem* is called a *kadosh*, "holy," while the Syriac and Arabic words
+for a martyr, like the Greek behind English *martyr*, all mean "witness." Rabbi
+Klein reads that difference as a statement about how Judaism views martyrdom.
 
 ## At a glance
 

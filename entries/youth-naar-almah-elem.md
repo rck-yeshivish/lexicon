@@ -9,7 +9,7 @@ words:
   - he: נער
     tr: naar
     en: youth, lad
-    distinct: the wide word, used far outside any age bracket, so perhaps not an age at all (Rabbi Klein); a boy of thirteen, others by resemblance or as an attendant (Mizrachi, Radak); the tenacious drive to shake off obstacles (Rabbi Analak); tied to revealing (Rabbi Klein)
+    distinct: the wide word, used far outside any age bracket, so perhaps not an age at all (Rabbi Klein); a boy of thirteen, others by resemblance or as an attendant (Mizrachi, Radak); the tenacious drive to shake off obstacles (Rabbi Analak); tied to revealing, from ע-ר (Pappenheim)
   - he: נערה
     tr: naarah
     en: young woman
@@ -34,20 +34,25 @@ updated: 2026-09-10
 ## Bottom line
 
 *Naar* and *naarah* are the wide words: **youth**, **lad**, **young woman**. The
-Gemara's *naarah* is a girl from twelve until six months past maturity (Kesubos
-39a), and Rashi reads Yaakov and Esav as *ne'arim* at thirteen (Bereishis
-25:27), yet Tanach calls a three-month-old Moshe and a fifty-seven-year-old
-Yehoshua a *naar*. *Midrash Mishlei* stretches the age to thirty; Rabbi Klein
-infers that the words may not name an age group at all; Rabbi Eliyahu Mizrachi
-keeps the age sense and explains the outliers by resemblance, among them anyone
-serving as an **attendant** (so too Radak); Rabbi Shimon Dov Ber Analak reads
-it as the tenacious drive of adolescence; and Rabbi Klein relates *naar* to
-revealing. *Elem* and *almah*, **young man** and **maiden**, are tied by many
-commentators to *ne'elam*, hidden (Rav Hirsch: potential still undeveloped).
-Against *naarah*, Ibn Ezra makes *almah* younger, *Peirush HaRokeach* less
-outgoing, and Rabbeinu Efrayim wiser, one who hides his words; Rabbi Analak
-makes *elem* sheer strength; *Chizkuni* finds no difference of meaning, only
-Hebrew against Aramaic. Tanach uses *naar* far outside any age bracket.
+Gemara defines a *naarah* as a girl from twelve until six months past maturity
+(Kesubos 39a), and Rashi explains that Yaakov and Esav were thirteen when the
+Torah calls them *ne'arim* (Bereishis 25:27), yet Tanach uses *naar* of a
+three-month-old Moshe and a fifty-seven-year-old Yehoshua. *Midrash Mishlei*
+stretches the age to thirty. Rabbi Klein suggests that the words refer to
+something other than a specific age group. Rabbi Eliyahu Mizrachi keeps the age
+sense and explains the outliers as people who in some way resemble a *naar*;
+anyone who serves others, he adds, can be called a *naar*, an **attendant**,
+whatever his age (so too Radak). Rabbi Shimon Dov Ber Analak reads *naar* as the
+tenacious drive of adolescence. Many commentators tie *elem* and *almah*,
+**young man** and **maiden**, to *ne'elam*, hidden; Rav Hirsch explains that an
+*elem* is one whose potential is still hidden and undeveloped. Rabbi Shlomo
+Pappenheim traces *naar*, for its part, to revealing, which, Rabbi Klein notes,
+contrasts neatly with the hiding in *elem* and *almah*. The commentators
+distinguish *almah* from *naarah* in various ways: Ibn Ezra makes the *almah*
+younger, *Peirush HaRokeach* less outgoing, and Rabbeinu Efrayim one who hides
+her words, typically a sign of wisdom. Rabbi Analak reads *elem* as the
+adolescent's sheer strength. *Chizkuni* holds that *naarah* and *almah* mean
+exactly the same thing, *naarah* being Hebrew and *almah* Aramaic.
 
 ## At a glance
 
@@ -185,8 +190,7 @@ better, as the Gemara (Sotah 12b) evidently felt in reaching for derashos: she
 was called *almah* because she hid the fact that she was Moshe's sister, or
 because she acted with the strength and vigor expected of an older young woman.
 
-Rabbi Klein relates *naar* and *naarah*, for their part, to revealing, which
-contrasts neatly with *elem* and *almah* as hiding.
+Rabbi Shlomo Pappenheim traces *naar* and *naarah*, for their part, to ע-ר, revealing, which, Rabbi Klein notes, contrasts neatly with *elem* and *almah* as hiding.
 
 ## Rendering guidance
 

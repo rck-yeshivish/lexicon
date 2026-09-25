@@ -47,11 +47,14 @@ updated: 2026-09-22
 ## Bottom line
 
 *Eres* is **venom**, most often snake venom, and it is Talmudic, not Biblical.
-*Sam hamaves* is the general **poison**, literally the potion of death, and
-never venom. *Rosh* is **poison** in Tanach, drawn either from a snake's head or from
-a poisonous plant. *Chamat* is **venom** as what an angered snake emits. *Ra'al*
-is disputed: poison, or a draught that leaves a man limp and reeling. Chullin
-3:5 shows that *sam hamaves* is not venom.
+Rabbi Klein concludes that *sam hamaves*, literally the potion of death, seems
+to be the general word for **poison**; it is never venom, since Chullin 3:5
+lists it separately from a snakebite. *Rosh* is **poison** in Tanach, drawn
+either from a snake's head or from a poisonous plant. *Chamat* is **venom**,
+what a snake emits when its anger, *cheimah*, is aroused. *Ra'al* is disputed.
+It is commonly rendered poison, but Rashi takes it as a draught that leaves a
+man weak and immobile, and Radak, who cites the poison reading, also defines it
+as shaking.
 
 ## At a glance
 

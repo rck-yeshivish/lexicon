@@ -33,23 +33,25 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Zman* is **time** in general, the span or flow (Wertheimer: the most general
-of the three; Rav Hirsch: time in general; Maharal: the flow of time as an
-existing element of creation). *Eit* is **a time**, a point or portion within
-the span (anonymous "others": a point; Rav Hirsch: a portion); for Malbim it is
-a natural unit of time that nature itself shows, "rain in its *eit*." *Moed* is
-**appointed time**, the most specific preset point (Wertheimer), set by man or
-by Hashem, hence the *moadim* (Malbim). The scheme is not agreed: Malbim puts
-*zman* with *moed* as time set by man, and Rabbi Yaakov Emden makes *moed* the
-beginning of an appointed time, *zman* its whole duration and *eit* any point
-within it, while conceding that in practical usage all these words may be used
-interchangeably. Shadal puts the recurrence in *moed*, a set time that comes
-round at intervals, and makes *eit* and *zman* one-time; Rabbi Shlomo
-Pappenheim makes *zman* the quantity of time, *moed* one thing's coinciding with
-another, and *eit* the sequence of time. *Shaah* beside *eit* is **hour**, the hours of the day against
-the seasons of the year (Rama). For the Rama, בכל עת ובכל שעה is not a redundancy; he rejects those who
-say only *bechol eit* and reads two measures, "at every season and every hour,"
-though Rabbi Yaakov Emden takes issue with his limiting *eit* to the seasons.
+*Zman* is **time** in general, the span or flow: for Wertheimer the most general
+of the three words, for Rav Hirsch time in general, and for Maharal the flow of
+time as an existing element of creation. *Eit* is **a time**, a point or portion
+within the span; anonymous "others" make it a point, and Rav Hirsch a portion.
+For Malbim it is a natural unit of time that nature itself shows, "rain in its
+*eit*." *Moed* is **appointed time**, for Wertheimer the most specific preset
+point, and for Malbim a time set by man, or by Hashem in the case of the
+*moadim*. The scheme is not agreed. For Malbim *zman* too is time set by man,
+like *moed*. Rabbi Yaakov Emden makes *moed* the beginning of an appointed time,
+*zman* its whole duration and *eit* any point within it, though he concedes that
+in practical usage all these words may be used interchangeably. Shadal puts the
+recurrence in *moed*, a set time that comes round at intervals, and makes *eit*
+and *zman* one-time. Rabbi Shlomo Pappenheim makes *zman* the quantity of time,
+*moed* one thing's coinciding with another, and *eit* the sequence of time.
+Beside *eit*, *shaah* is **hour**. For the Rama, *eit* is the seasons of the
+year and *shaah* the hours of the day, so בכל עת ובכל שעה names two measures,
+"at every season and every hour," and is not a redundancy; he rejects those who
+say only *bechol eit*. Rabbi Yaakov Emden takes issue with his limiting *eit* to
+the seasons.
 
 ## At a glance
 
@@ -76,7 +78,7 @@ though Rabbi Yaakov Emden takes issue with his limiting *eit* to the seasons.
 
 **Which word recurs.**
 
-- Malbim: *eit* is the unit nature brings round, "rain in its *eit*"; for the
+- Malbim: *eit* is a natural unit of time that nature itself shows, "rain in its *eit*"; for the
   Rama, *eit* is the seasons.
 - Shadal (to Bereishis 1:14): *moed* is the cyclical time that comes and goes at
   intervals, while *eit* and *zman* are said of one-time events.

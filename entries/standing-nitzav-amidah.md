@@ -28,15 +28,15 @@ updated: 2026-09-10
 *Amidah* is plain **standing**: upright and stationary, the posture opposite
 sitting, lying and walking, with no purpose implied (Rabbi Shlomo Pappenheim,
 Malbim). *Nitzav* is **taking up a position**, standing for a reason, in
-readiness or anticipation: so the Midrash (*etimos*, "ready"), Pappenheim,
-Malbim (typically with special effort), Rabbi Shimon Dov Ber Analak and Rabbi
-Yaakov Tzvi Mecklenburg. Two other readings stand beside it: Rabbi Tzvi
-Elimelech Shapiro of Dinov, who concedes there are counter-proofs, makes
-*nitzav* standing anew and *amidah* standing already; Rabbi Shlomo Aharon
-Wertheimer makes *nitzav* prolonged standing, which implies that *amidah* could
-even be momentary. Several of these authorities build on a pasuk's switch from
-one to the other, though *Metzudas David* holds the two synonymous at Divrei
-HaYamim II 20:17.
+readiness or anticipation. So the Midrash reads it (*etimos*, "ready"), and so
+do Pappenheim, Malbim (for whom it typically takes special effort), Rabbi Shimon
+Dov Ber Analak and Rabbi Yaakov Tzvi Mecklenburg. Two other readings stand
+beside this one. Rabbi Tzvi Elimelech Shapiro of Dinov makes *nitzav* standing
+anew and *amidah* standing already, though he himself concedes there are
+counter-proofs. Rabbi Shlomo Aharon Wertheimer makes *nitzav* prolonged
+standing, which implies that *amidah* could even be momentary. Several of these
+authorities build on pesukim that switch from one word to the other, though
+*Metzudas David* holds the two synonymous at Divrei HaYamim II 20:17.
 
 ## At a glance
 

@@ -31,11 +31,13 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Shuv* is returning **to** a place or condition: **return**, and *teshuvah* is
-**repentance** precisely because it is a return.
-*Chazarah* is the about-face itself, the act of **turning back** or **reverting**
-from where one now stands. *Shuv* names the destination, *chazarah* names the
-U-turn. *Chazarah* is Mishnaic; it never appears in Tanach.
+*Shuv* is returning **to** a place or condition: **return**. Rabbi Klein
+explains that *teshuvah* is **repentance** precisely because it is a return, to
+man's natural, sin-free state, whether or not he was ever there before.
+*Chazarah* is the about-face itself, the act of **turning back** or
+**reverting** from where one now stands. Rabbi Klein sums up the pair: *shuv*
+looks to the destination, getting back to where one used to be, and *chazarah*
+to the U-turn. *Chazarah* is Mishnaic; it never appears in Tanach.
 
 ## At a glance
 

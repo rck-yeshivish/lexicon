@@ -34,13 +34,15 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Seudah* is a **meal** generally associated with bread, from *saad*, to sustain; it is the word
-for the three Shabbos meals. *Mishteh* is a **feast** built on wine, from
-*shoseh*, to drink; it is the word for the Purim meal and for the banquets of
-Megillas Esther. *Mesibah* focuses on neither food nor drink: it is the
-meal at which people **recline**, and only later came to mean a party in
-general. In Rabbi Klein's summary, each word focuses on one thing: the bread,
-the wine, or the posture.
+*Seudah* is a **meal** generally associated with bread, from *saad*, to sustain;
+it is the word for the three Shabbos meals. *Mishteh* is a **feast** built on
+wine, from *shoseh*, to drink; it is the word for the Purim meal and for the
+banquets of Megillas Esther. Rabbi Tzaddok HaKohen of Lublin draws this line,
+*seudah* centering on eating and *mishteh* on drinking, though Rashi writes that
+the defining element of an enjoyable, joyous *seudah* is the wine. *Mesibah*
+focuses on neither food nor drink: it is the meal at which people **recline**,
+and only later came to mean a party in general. In Rabbi Klein's summary, each
+word focuses on one thing: the bread, the wine, or the posture.
 
 ## At a glance
 

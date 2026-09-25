@@ -49,17 +49,18 @@ updated: 2026-09-10
 
 ## Bottom line
 
-For Malbim, *keshirah* is **tying** where the thing tied consents to it: **bind,
-tie, join**; *asirah* is **tying down** without the consent of what is tied:
-**bind, detain, restrain**, and it is the root of *assir* (prisoner) and *issur*
-(prohibition). *Kafut* is the Aramaic and Mishnaic **tied down**; one way of
-reading it ties it to *kefiyah*, compulsion; Rashi glosses
-it sometimes with *asirah* and sometimes with *keshirah*; and Dr. Michael
-Sokoloff connects it to a different Aramaic root altogether. *Tzror* is
-**binding tight**, a union of strongly attached parts (Pappenheim). *Ketirah* is
-the Aramaic of *keshirah*, Targum's standard rendering of it (HaBachur), by a
-shin-to-tav shift, presuming tav and tes interchange (Rabbi Yaakov Berger). On Malbim's consent test, consent
-belongs to *keshirah*, its absence to *asirah*.
+For Malbim the main difference between *keshirah* and *asirah* is consent.
+*Keshirah* is **tying** to which the thing tied consents: **bind, tie, join**.
+*Asirah* is **tying down** without the consent of what is tied: **bind, detain,
+restrain**; from its root come *assir* (prisoner) and *issur* (prohibition).
+*Kafut* is **tied down** in Aramaic and Mishnaic Hebrew, and Rashi glosses it
+sometimes with *asirah* and sometimes with *keshirah*. One way of reading it
+ties it to *kefiyah*, compulsion; Dr. Michael Sokoloff instead connects it to a
+different Aramaic root altogether. *Tzror* is **binding tight**, which Rabbi
+Pappenheim traces to צ-ר, a union of strongly attached parts. *Ketirah* is the
+Aramaic for *keshirah* and, as Rabbi Eliyahu HaBachur noted, Targum's standard
+rendering of it; Rabbi Yaakov Berger accounts for the form by the change of
+Hebrew shin to Aramaic tav, presuming tav and tes interchange.
 
 ## At a glance
 

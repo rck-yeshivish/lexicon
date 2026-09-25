@@ -18,7 +18,7 @@ words:
   - he: דום
     tr: dom
     en: falling silent, stopping
-    distinct: silence as a state rather than an act, the speechlessness of one overwhelmed (Bedersi), or deliberate refusal to comment (Mecklenburg); for others simply stoppage, as the sun stopped at Givon (Yehoshua 10:12)
+    distinct: the speechlessness of one overwhelmed, a state rather than an act (Bedersi), or deliberate refusal to comment (Mecklenburg); for others simply stoppage, as the sun stopped at Givon (Yehoshua 10:12)
   - he: חשה
     tr: chashah
     en: keeping still
@@ -37,13 +37,15 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Cheresh* is thinking silence: **holding one's peace** while turning something
-over. *Shetikah* is the **quieting down** that follows
-a commotion. *Dom* is **falling silent**, silence as a state that comes over a
-person, and at root simply stoppage. *Chashah* is **keeping still**, an inward
-stillness or a held-back answer. *Hass* alone is transitive: to **hush**
-others. Mordechai chose *cheresh*
-specifically (*hachareish tacharishi*, Esther 4:14).
+*Cheresh* is contemplative silence: **holding one's peace** while turning
+something over. *Shetikah* is the **quieting down** that follows a commotion.
+*Dom* is **falling silent**, and the authorities differ over what it means: for
+Bedersi, a natural state of silence that comes over a person; for Mecklenburg, a
+deliberate silence; for still others, a general word for stoppage. *Chashah* is
+**keeping still**: for Mecklenburg an inward, reflective stillness, for
+Wertheimer the holding back of an answer one has. *Hass* alone is transitive: to
+**hush** others. Mordechai chose *cheresh* specifically (*hachareish
+tacharishi*, Esther 4:14).
 
 ## At a glance
 
@@ -180,8 +182,7 @@ sense of being quiet in order to hear what somebody else has to say.
   no moment to sit and think out what to say; on Rav Hirsch's reading, that she
   must not act deaf to the call. So too Shemos 14:14, *v'atem tacharishun*, where
   Yisrael stands by watching how Hashem wages their war.
-- Vayikra 10:3, *vayidom Aharon*: "and Aharon fell silent." Do not write "was
-  quiet"; *dom* is a stopping, not a mood.
+- Vayikra 10:3, *vayidom Aharon*: "and Aharon fell silent." Do not write "was quiet," which loses the falling silent.
 - Trap: "be silent" in English will absorb *cheresh*, *dom*, and *chashah* alike.
   Reserve "hold one's peace" for *cheresh*, "fall silent" for *dom*, and "keep
   still" for *chashah*. *Hass* is never "be silent" but "hush"; it takes an

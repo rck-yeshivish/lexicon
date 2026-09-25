@@ -51,15 +51,15 @@ updated: 2026-09-22
 
 ## Bottom line
 
-Two of the twenty-four books open by ascribing themselves to Shlomo, *Shir
-HaShirim* and *Mishlei*, and a third, *Koheles*, ascribes itself to Koheles son of
-David, king of Yerushalayim, whom tradition identifies as Shlomo; that gives
-three names, and Rabbi Yehoshua ben Levi, the early Amora, adds four more, for
-seven in all: **Shlomo**,
-**Yedidyah**, **Koheles**, and the four proper names in the last two chapters of
-Mishlei, **Agur**, **Yakeh**, **Isiel** and **Lemuel**. Shlomo turns on
-completeness or peace (*shalem* or *shalom*); Koheles and Agur on gathering;
-Yakeh on spitting out; and Isiel and Lemuel, in the Midrash, both allude to his
+Two of the twenty-four books, *Shir HaShirim* and *Mishlei*, open by ascribing
+themselves to **Shlomo**. A third, *Koheles*, ascribes itself to Koheles son of
+David, king of Yerushalayim, whom tradition identifies as Shlomo, so that
+**Koheles** is another of his names. Together with **Yedidyah**, the name Nosson
+HaNavi gave him, that makes three. Rabbi Yehoshua ben Levi, the early Amora,
+adds four more, the proper names in the last two chapters of Mishlei, **Agur**,
+**Yakeh**, **Isiel** and **Lemuel**, for seven in all. The name Shlomo turns on
+completeness or peace (*shalem* or *shalom*), Koheles and Agur on gathering, and
+Yakeh on spitting out; in the Midrash, Isiel and Lemuel both allude to his
 justification for exceeding the Torah's limits on a king.
 
 ## At a glance

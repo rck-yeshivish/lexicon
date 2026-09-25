@@ -28,9 +28,10 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Paroh* is **Pharaoh**, a title, not a personal name. *Melech Mitzrayim* is **the King of Egypt**, on Rav
-Chaim Kanievsky's reading the office in its national capacity. The Torah's choice between them is deliberate, and in
-six places it writes both (*Paroh Melech Mitzrayim*).
+*Paroh* is **Pharaoh**, a title and not a personal name. *Melech Mitzrayim* is
+**the King of Egypt**; Rav Chaim Kanievsky reads it as the office in its
+national capacity. The Torah's choice between them is deliberate, and in six
+places it writes both (*Paroh Melech Mitzrayim*).
 
 ## At a glance
 

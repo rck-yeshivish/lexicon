@@ -36,11 +36,11 @@ updated: 2026-09-10
 ## Bottom line
 
 *B'rabim* is **in front of many**, the plain word for a public setting.
-*Tzibbur* is the **community** as a body that can own and appoint.
-*Parhessya* is **openly**,
-in the eyes of the community, and its foil is *b'tzina*, in private. *Pirsum*
-is the act, **publicizing**, and *b'pumbi* is a public **spectacle**, an affair
-made deliberately conspicuous.
+*Tzibbur* is the **community** as a body, one that can own property and appoint
+its servants. *Parhessya* is **openly**, in the eyes of the community, and its
+foil is *b'tzina*, in private. *Pirsum* means the same, Rabbi Eliyahu HaBachur
+explains, but names the act, **publicizing**. *B'pumbi* is a public
+**spectacle**, an affair made deliberately conspicuous.
 
 ## At a glance
 

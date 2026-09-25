@@ -38,22 +38,24 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Shalal* is the general word for **spoils** (Malbim; standing alone, Rav
-Hirsch); paired with others it is the clothing and jewelry (Rashi) or clothing
-and vessels (Radak), the valuables taken first (the Gra). *Baz* / *bizah* is
-**plunder**: the lesser loot taken after the valuables, akin to *bizayon* (the
-Gra); movable goods other than jewelry (Rashi); property already taken as loot
-(Malbim). *Malkoach* is **living booty**, people and animals (Rashi); for Radak,
-animals beside *shevi*, every living thing alone. *Shevi* is **captives**: human
-prisoners (Radak), all the captured people (Malbim), or living people or animals
-(the Gra). On *ad* the authorities differ: plunder, as in Aramaic (Rashi);
-ornamental battle-dress (Pappenheim); jewelry and decorative items, against
-*shalal* the catch-all (Mecklenburg); or dead animals taken as war prizes, not
-ordinary booty (Malbim). The Midian account (Bamidbar 31) uses four of them,
-each doing separate work. Rabbi Klein holds that the words are not truly
-synonymous. The Egyptians say "I will apportion the *shalal*" (Shemos 15:9), yet
-what the Jews took from them is *bizas Mitzrayim* and *bizas hayam*, not
-*shalal*.
+*Shalal* is the general word for **spoils** (Malbim), and when it stands alone
+it can cover anything taken in battle (Rav Hirsch). Paired with the other words
+it is the clothing and jewelry (Rashi) or the clothing and vessels (Radak); for
+the Gra it is the valuables, which are taken first. *Baz* / *bizah* is
+**plunder**: for the Gra the lesser loot taken after the valuables, akin to
+*bizayon*; for Rashi movable goods other than jewelry; for Malbim property
+already taken as loot. *Malkoach* is **living booty**, people and animals
+(Rashi); for Radak it is the animals when *shevi* stands beside it, and every
+living thing when it stands alone. *Shevi* is **captives**: human prisoners
+(Radak), all the captured people (Malbim), or living people or animals (the
+Gra). On *ad* the authorities differ: plunder, as the root means in Aramaic
+(Rashi); ornamental battle-dress (Pappenheim); specifically jewelry and
+decorative items, where *shalal* is the catch-all (Mecklenburg); or dead animals
+taken as war prizes, and not ordinary booty (Malbim). The account of the war
+with Midian (Bamidbar 31) uses four of these words, each for something
+different. Rabbi Klein holds that the words are not truly synonymous. The
+Egyptians say "I will apportion the *shalal*" (Shemos 15:9), yet what the Jews
+took from them is *bizas Mitzrayim* and *bizas hayam*, and not *shalal*.
 
 ## At a glance
 

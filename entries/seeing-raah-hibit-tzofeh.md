@@ -45,14 +45,16 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Ra'ah* is plain **seeing**, the eye doing its work, including what a man happens
-upon without meaning to. *Hibit* is the more deliberate **look**, though Rabbi
-Yaakov Tzvi Mecklenburg denies that the word itself denotes deliberateness; in
-the Midrash it is the look of one positioned above what he sees. *Mashkif* is **looking out** or
-**down** from a height, one who sees without being seen; in the Chumash Rashi
-takes it as boding ill. *Tzofeh* is **gazing** at what is not present to the eye,
-which is why a navi is sometimes called a *tzofeh* and why waiting for what has not yet come is
-*mitzapeh*. *Shur* is seeing from far off, *metzitz* is **peeking** through a
+*Ra'ah* is plain **seeing**, the eye doing its work, including what a man
+happens upon without meaning to. *Hibit* is the more deliberate **look**, though
+Rabbi Yaakov Tzvi Mecklenburg denies that the word itself denotes
+deliberateness. In the Midrash it is the look of one positioned above what he
+sees. *Mashkif* is **looking out** or **down** from a height, seeing without
+being seen. Rashi holds that it bodes ill, save in one pasuk, and Wertheimer
+explains that he means in the Torah, not in all of Tanach. *Tzofeh* is
+**gazing** at what is not present to the eye, which is why a navi is sometimes
+called a *tzofeh* and why waiting for what has not yet come is *mitzapeh*.
+*Shur* is seeing from far off (Malbim), *metzitz* is **peeking** through a
 narrow opening, and *mashgiach* is watching that acts on what it sees.
 
 ## At a glance

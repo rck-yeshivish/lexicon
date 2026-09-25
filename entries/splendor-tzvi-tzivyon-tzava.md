@@ -30,11 +30,12 @@ updated: 2026-09-22
 ## Bottom line
 
 *Tzvi* carries three senses: **splendor, glory, beauty**; **desire, what is
-wanted**; and the animal, **deer** or **gazelle**. Rashi (to Yeshayahu 4:2)
-reads beauty, Radak desire and glory. *Tzivyon* is
-either **consent** or **ideal form**, depending on the commentator. *Tzava* is a
-**legion**, a body joined by one shared want. *Eretz hatzvi* is "the Desired
-Land" on the plain reading, "the Land of the Deer" in the derashos of Chazal.
+wanted**; and the animal, **deer** or **gazelle**. At Yeshayahu 4:2 Rashi reads
+it as beauty, and Radak as desire and glory. *Tzivyon* is **consent** for Rashi
+and Rabbeinu Gershom, and **ideal form** for the Ritva, following the *Aruch*.
+*Tzava* is a **legion**, which Rav Hirsch and Rabbi Chaim Friedlander explain as
+a body joined by one shared want. *Eretz hatzvi* is "the Desired Land" on the
+plain reading, and "the Land of the Deer" in the derashos of Chazal.
 
 ## At a glance
 

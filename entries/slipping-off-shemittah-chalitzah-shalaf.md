@@ -37,11 +37,15 @@ updated: 2026-09-10
 ## Bottom line
 
 *Shemittah* is **releasing**: loosening one's grip so that a thing slips out of
-one's control, which may be why the same word covers letting a field lie and letting
-a debt go. *Chalitzah* is **extracting** something from what encloses it.
-*Shalaf* is **drawing** a thing quickly out of a loose holder, most often a sword
-from its sheath. *Shal* is a shoe **slipped off** with no hands at all. Shoresh Yesha draws a three-way
-distinction among the shoe-removal verbs.
+one's control, which may be why the same word covers letting a field lie and
+letting a debt go. For Rabbi Shlomo Pappenheim, *chalitzah* is **extracting**
+something from what encloses it, and *shalaf* is **drawing** a thing quickly out
+of a loose holder, most often a sword from its sheath. Shoresh Yesha sorts the
+three verbs for taking off a shoe by how the shoe is fastened: *shal* is a shoe
+**slipped off** with no hands at all, *shalaf* is taking it off by hand, and
+*chalitzah* is removing one that must first be untied. Targum Yonasan, though,
+renders the *chalitzah* of Devarim 25:9 with a cognate of *shalaf*, and Rashi
+links the two verbs as though they were synonyms.
 
 ## At a glance
 

@@ -36,15 +36,19 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Ra'adah* is **trembling**: primarily felt within the body and not seen (Wertheimer), or
-inner fear so full that it breaks out in tremors (Malbim). *Ziyah* is a
-**shudder**, a quiver felt rather than seen (Pappenheim), Onkelos's word for
-*vayecherad* at Sinai and Targum's standard word for *ra'ash*. *Retet* is the
-**lighter** tremble (Wertheimer). *Ra'ash* is **quaking** or **tumult**,
-vigorous movement of any kind, and also loud noise. *Rogez* is **agitation**,
-physical in Hebrew (Shadal) and anger in Biblical Aramaic (Rashbam), though not
-always anger (Bedersi). *Chareid* is **trembling** too, the word behind
-*chareidim*. Yoma 4b strings several of these together and Shmuel II 22:8 puts three in one pasuk.
+*Ra'adah* is **trembling**: for Rabbi Wertheimer it is primarily felt within the
+body and not seen, and for Malbim it is inner fear so full that it breaks out in
+tremors. *Ziyah* is a **shudder**, which Rabbi Pappenheim likens to the quiver
+of a harp string, felt rather than seen; Onkelos uses it for *vayecherad* at
+Sinai, and it is Targum's standard word for *ra'ash*. *Retet* is a **lighter**
+tremble than *ra'adah* (Rabbi Wertheimer). *Ra'ash* is **quaking** or
+**tumult**, vigorous movement of any kind, and also loud noise. *Rogez* is
+**agitation**: Shadal holds that it primarily means physical shaking and was
+then applied to any agitation; Rashbam notes that in Biblical Aramaic it means
+anger; and Bedersi, that though it sometimes means anger, it does not always.
+*Chareid* is **trembling** too, as in Yeshayahu's *chareidim*, those who tremble
+at His word. Yoma 4b strings several of these together, and Shmuel II 22:8 puts
+three in one pasuk.
 
 ## At a glance
 

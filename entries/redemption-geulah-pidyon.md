@@ -24,13 +24,16 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Pidyon* (verb *podeh*) is redemption by exchange: **ransom**, **buying back**,
-the fact of being freed. *Geulah* (verb *goel*) is redemption by right of
-kinship and by force, with no payment: **redemption**, **deliverance**, and it carries the sense of being raised up, beyond being let out. Several
-explanations run in the same direction (the Chatam Sofer, Rabbi Menachem Mendel
-of Kosov, Malbim), each making *geulah* the fuller term and *pidyon* the bare
-one; the Vilna Gaon sets exchange against sheer force, and Rabbi Chaim of Brisk
-and Rabbi Shmuel Tuvia Stern cut the difference on other axes.
+*Pidyon* (verb *podeh*) is **ransom** or **buying back**, and *geulah* (verb
+*goel*) is **redemption** or **deliverance**. For the Vilna Gaon, *pidyon* is
+redemption through an exchange, and *geulah* rescue by sheer force, with no
+payment. Three others, the Chatam Sofer, Rabbi Menachem Mendel of Kosov and
+Malbim, run in a direction of their own, each making *geulah* the fuller term
+and *pidyon* the bare one. For the Chatam Sofer, *geulah* raises a person above
+his circumstances, beyond saving him from harm; for Malbim, *pidyon* is the bare
+fact of being saved, and *geulah* is redemption born of the closeness between
+redeemer and redeemed. Rabbi Chaim of Brisk, Rabbi Shmuel Tuvia Stern and Rabbi
+Shlomo Pappenheim draw the line on other axes.
 
 ## At a glance
 

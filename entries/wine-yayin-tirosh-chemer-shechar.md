@@ -38,23 +38,25 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Yayin* is **wine**, by far the commonest. *Tirosh* is on an earlier tradition
-**new wine**, *yayin* being old (Ramban, Radak, *Tosafos Rid*, Rashi), a
-tradition Rabbi Pappenheim's etymology of *tirosh* reflects; Rav Hirsch and
-Rabbi Dr. Yehuda Felix make it juice not yet fermented, and the Vilna Gaon
-makes the difference sweetness and the hour of drinking, not age. In Rabbinic
-Hebrew *tirosh* came to mean a sweet, juicy product and specifically not wine.
-*Chemer* is **wine**, the ordinary Aramaic
-word; whether it is named for red (Rabbi Moshe Ibn Ezra, Rabbi Yehuda Ibn
-Balaam, with Radak tying it to wine's redness), for brown (Rabbi Aharon Marcus)
-or for fermentation (other linguists; Rav Hirsch) is disputed. *Shechar* is wine
-for the Nazir on the Targumim and the *Sifrei*; for Rabbi Moshe Ibn Ezra and Ibn
-Ezra it is any intoxicating drink, **strong drink**; in rabbinic usage it is a
-drink other than wine, usually mead or beer (Bedersi). Beside the four stand
-*sove*/*sava* (drunkard, and in Yeshayahu 1:22 wine), *assis* (**pressed
-juice**), *mel'ayah* and *dim'ah* (Shemos 22:28, disputed between wine, grapes
-and grain), and *smadar*
-(unripe grapes, though Dr. Edward Kutscher took it for a wine).
+*Yayin* is **wine**, by far the commonest word for it. An earlier tradition
+makes *tirosh* **new wine** and *yayin* old wine (Ramban, Radak, *Tosafos Rid*,
+Rashi), and Rabbi Pappenheim's etymology of *tirosh* reflects that tradition.
+Rav Hirsch and Rabbi Dr. Yehuda Felix take *tirosh* as juice not yet fermented,
+and for the Vilna Gaon the difference is sweetness and the hour of drinking, not
+age. In Rabbinic Hebrew *tirosh* came to mean a sweet, juicy product and
+specifically not wine. *Chemer* is **wine**, the ordinary word for it in
+Aramaic. What it is named for is disputed: red, for Rabbi Moshe Ibn Ezra and
+Rabbi Yehudah Ibn Balaam, with Radak tying it to wine's redness; brown, for
+Rabbi Aharon Marcus; or fermentation, for other linguists and for Rav Hirsch.
+The Targumim and the *Sifrei* take the Nazir's *shechar* as wine. For Rabbi
+Moshe Ibn Ezra the word means any intoxicating drink, **strong drink**, though
+he grants that the Rabbis read it as wine for the Nazir; Ibn Ezra seems to
+disagree, and includes any intoxicating drink even for the Nazir. In rabbinic
+usage, Bedersi points out, it is a drink other than wine, usually mead or beer.
+Besides these four there are *sove* or *sava* (a drunkard, and in Yeshayahu 1:22
+wine), *assis* (**pressed juice**), *mel'ayah* and *dim'ah* (Shemos 22:28,
+disputed between wine, grapes and grain), and *smadar* (unripe grapes, though
+Dr. Edward Kutscher took it for a kind of wine).
 
 ## At a glance
 

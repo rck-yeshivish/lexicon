@@ -30,10 +30,11 @@ updated: 2026-09-10
 *Chidekel* and *Diglat* are one river under two names, the **Tigris**:
 *Chidekel* is the Biblical name, *Diglat* the later one that Targum and Shas
 use. Rashi states explicitly that the Diglat of the Gemara is the Chidekel of
-Tanach; that the two are cognates, Hebrew and Aramaic, is Shadal's observation.
-Berachos 59b hears *chad* (sharp) and *kal* (light, swift) in *Chidekel*.
-*Tigras* in Chullin 59b is a separate word for an animal, not the river, though
-Abarbanel and Rabbi Binyamin Mussafia tie the river's Greek name to the tiger.
+Tanach, and Shadal observes that the two names are cognates, *Chidekel* Hebrew
+and *Diglat* Aramaic. Berachos 59b expounds *Chidekel* as *chad* (sharp) and
+*kal* (light, swift). *Tigras* in Chullin 59b is a separate word for an animal,
+not the river, though Abarbanel and Rabbi Binyamin Mussafia tie the river's name
+*Tigris* to the tiger.
 
 ## At a glance
 

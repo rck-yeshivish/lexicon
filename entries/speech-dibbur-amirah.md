@@ -35,16 +35,15 @@ updated: 2026-09-22
 
 *Dibbur* is speech as an act (**speak, address, discourse**): forceful, bold,
 and complete whether or not anyone receives it. *Amirah* is speech as
-communication (**say, tell**): gentle, aimed at a hearer who takes the
-meaning in. Rashi's "*dibbur* is harsh, *amirah* is soft" is limited from
-several directions (Mecklenburg, the Gemara on *yadber*, Maharal, *Moshav
-Zekanim*). Rav Hirsch reads the pair as act of speech against act of
-communication. But the direction is not settled: Malbim reverses the force of
-the two, and the Vilna Gaon to Bamidbar 22:5 seems to make *dibbur* the more
-communicative of them. *Aseres HaDibros* is "Ten Sayings" or "Decalogue"; Rabbi
-Klein's line is that this "would be better" than "Ten Commandments," said with
-all due respect to Cecil B. DeMille and Charlton Heston. He renders *Asarah
-Maamaros* "Ten Sayings" too.
+communication (**say, tell**): gentle, and aimed at a hearer who takes the
+meaning in. Rashi's rule that *dibbur* is harsh and *amirah* soft is limited
+from several directions, by Mecklenburg, the Gemara on *yadber*, Maharal and
+*Moshav Zekanim*. Rav Hirsch reads *dibbur* as the act of speech and *amirah* as
+the act of communication. But the direction is not settled: Malbim reverses the
+force of the two, and the Vilna Gaon to Bamidbar 22:5 seems to make *dibbur* the
+more communicative of them. Rabbi Klein holds that "Ten Sayings" or "Decalogue"
+would be a better translation of *Aseres HaDibros* than "Ten Commandments," and
+he calls the *Asarah Maamaros* "Ten Sayings" too.
 
 ## At a glance
 

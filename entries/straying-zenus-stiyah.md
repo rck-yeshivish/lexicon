@@ -28,17 +28,18 @@ updated: 2026-09-10
 ## Bottom line
 
 Both roots denote deviating from a given path. *Zonah* literally refers to one
-who has strayed from a set of expectations: idolatry and adultery both eschew
-an expected loyalty, to Hashem or to a spouse, which is why Tanach, especially
+who has strayed from a set of expectations. Idolatry and adultery both eschew an
+expected loyalty, to Hashem or to a spouse, which is why Tanach, especially
 Hoshea and Yechezkel, uses words of sexual deviance for theistic infidelity.
-Rabbi Shlomo Pappenheim reaches the same breadth from the other end: *zenus*
-comes from ז-ן, sustenance, first named deviance from the sexual norm, and only
-then came to mean deviance from any expectation, idol worship included.
-*Stiyah* is **deviation** from a specific track, and Rabbi Klein traces the
-same root through *sotah*, *satan*, *shoteh* and *ruach shtus*; Rabbi Moshe
-Shapiro relates *shitah*, the ordered approach, to it as its diametric opposite.
-Rabbi Aharon Marcus goes further, proposing that the letter tes by itself denotes
-movement to the side, so that *chet*, sin, is a straying.
+Rabbi Shlomo Pappenheim derives *zenus* from ז-ן, the root of sustenance, since
+an over-abundance of food draws a person toward the physical and so to lustful
+desires. The word thus first named deviance from the sexual norm, and then came
+to mean deviance from any expectation, idol worship included. *Stiyah* is
+**deviation** from a specific track. Rabbi Klein traces the same root through
+*sotah*, *satan*, *shoteh* and *ruach shtus*, and Rabbi Moshe Shapiro relates
+*shitah*, the ordered approach, to it as its diametric opposite. Rabbi Aharon
+Marcus goes further, proposing that the letter tes by itself denotes movement to
+the side, so that *chet*, sin, is a straying.
 
 ## At a glance
 

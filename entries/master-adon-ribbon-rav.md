@@ -33,13 +33,13 @@ updated: 2026-09-22
 ## Bottom line
 
 *Adon* is the Hebrew word for a **master**, and the form *Adonai* is a Name of
-Hashem. *Ribbon* is the Aramaic equivalent that Targum Onkelos uses for *adon*,
-an honorific of *rav*, which is itself **master** and in the Mishnah the
-ordinary word for a slave's owner. Two readings of the difference: the working
-assumption, that it is simply Hebrew against Aramaic; and the thematic way
-Rabbi Baruch Aryeh HaLevi Fischer *suggests*, that *adon* is a standing title
-while *rav*/*ribbon* is used only where there is a subordinate in the master's
-charge.
+Hashem. *Ribbon* is the Aramaic equivalent that Targum Onkelos uses for *adon*.
+It is an honorific form of *rav*, which also means **master** and is the
+Mishnah's ordinary word for a slave's owner. There are two readings of the
+difference. The working assumption is that it is simply Hebrew against Aramaic.
+Rabbi Baruch Aryeh HaLevi Fischer *suggests* a thematic one: *adon* is a
+standing title, while *rav*/*ribbon* is used only where there is a subordinate
+in the master's charge.
 
 ## At a glance
 

@@ -30,14 +30,15 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Oht* is a **sign** or **token**, the general word, and it can be entirely
-natural: the luminaries are an *oht* for the seasons, tefillin are an *oht*, the
-tribal flags were an *oht*, a letter of the aleph-beis is an *oht*. *Mofet* is
-the narrower word, a **wonder** or **portent**, on some readings (Ramban, Malbim)
-one that bends nature. For Malbim, every *mofet* is an *oht*, not every
-*oht* a *mofet*; the *Sifrei* (Naso 23) instead counts them as two terms the
-Torah uses for one thing. The makkos
-are called both (Shemos 10:1-2 and 11:9-10).
+*Oht* is a **sign** or **token**, the general word, and Abarbanel's examples
+suggest it can be entirely natural: the luminaries are an *oht* for the seasons,
+tefillin are an *oht*, the tribal flags were an *oht*, a letter of the
+aleph-beis is an *oht*. *Mofet* is the narrower word, a **wonder** or
+**portent**. Ramban and Malbim take it as a sign that bends nature, while
+Abarbanel holds that neither word refers to a supernatural wonder. For Malbim,
+every *mofet* is an *oht*, but not every *oht* a *mofet*; the *Sifrei* (Naso 23)
+instead counts them as two terms the Torah uses for one thing. The makkos are
+called both (Shemos 10:1-2 and 11:9-10).
 
 ## At a glance
 

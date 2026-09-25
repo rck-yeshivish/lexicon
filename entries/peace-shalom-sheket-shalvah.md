@@ -35,17 +35,17 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Shalom* is the general word: **peace**, the absence of war and, at root, wholeness
-with nothing lacking (Rabbi Shlomo Pappenheim). *Shalvah* is peace felt within, or a
-pocket of peace inside a larger discord: **tranquility, ease** (Malbim, Pappenheim),
-with a shadow of complacency (Bedersi, Rav Hirsch); Chasam Sofer instead ranks it
-above *shalom*, the peace once Esav's efforts are wholly undone, where *shalom*
-must still contend with him. *Sheket* is the cessation of
-motion and outward disturbance: **quiet, stillness, calm**; whether it ranks above
-*shalom* (Bedersi) or below it as a mere ceasefire (Rabbi Shlomo Aharon Wertheimer)
-is disputed, and both readings stay live. *Shaanan* is the
-fullest rest, free even of the busyness of prosperity: **serenity** (Bedersi,
-Pappenheim).
+*Shalom* is the general word, **peace**: for Bedersi the absence of war, and for
+Rabbi Shlomo Pappenheim, at root, wholeness with nothing lacking. *Shalvah* is
+**tranquility, ease**. Malbim takes it as peace felt within and Pappenheim as a
+pocket of peace inside a larger discord, and Bedersi and Rav Hirsch find in it a
+shadow of complacency. Bedersi and Rabbi Shlomo Aharon Wertheimer rank it with
+*shalom*; the Chasam Sofer ranks it above, since *shalom* is peace while one
+must still contend with Esav and *shalvah* the peace once his efforts are wholly
+undone. *Sheket* is the cessation of motion and outward disturbance, **quiet,
+stillness, calm**, and whether it ranks above *shalom* (Bedersi) or below it as
+a mere ceasefire (Wertheimer) is disputed. *Shaanan* is **serenity**, the
+fullest rest (Bedersi), free even of the busyness of prosperity (Pappenheim).
 
 ## At a glance
 

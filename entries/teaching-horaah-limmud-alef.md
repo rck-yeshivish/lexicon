@@ -35,15 +35,17 @@ updated: 2026-09-22
 
 For Shadal, cited by Malbim, *hora'ah* is **instruction** given once in the
 expectation that the pupil will retain it, and *limmud* is **teaching by
-drilling**, repeating a lesson until it is engraved in the pupil's heart; in
-Mishnaic Hebrew *hora'ah* narrows to **halachic ruling**. *Alef* is read two
-ways: for Malbim, teaching that happens **inadvertently**, a person or thing
-serving as the example from which a lesson is drawn; for Rabbi Pappenheim, the
-learner's **firm grasp** of material won through repeated instruction.
-*Hadrachah*, Malbim's contrast term, is **guidance** or counsel in applying
-what one already knows, not necessarily new information. *Hora'ah* and
-*limmud* are stages, not synonyms (Shadal and Rav Hirsch, as Rabbi Klein pairs
-them), and Shadal reads a whole tragedy in Tanach off the difference.
+drilling**, repeating a lesson until it is engraved in the pupil's heart. In
+Mishnaic Hebrew *hora'ah* is specifically a **halachic ruling**. *Alef* is read
+two ways: for Malbim, it is teaching that happens **inadvertently**, a person or
+thing serving as the example from which a lesson is drawn; for Rabbi Pappenheim,
+it is the learner's **firm grasp** of material won through repeated instruction.
+Malbim sets *hadrachah* against *hora'ah* and *limmud*: it is **guidance** or
+counsel in applying what one already knows, not necessarily new information. For
+Shadal and Rav Hirsch, as Rabbi Klein pairs them, *hora'ah* and *limmud* are
+stages, not synonyms, and Shadal finds in Melachim II 12:3 a criticism of
+Yehoyada, who taught the young Yoash by *hora'ah* and never repeated the
+lessons.
 
 ## At a glance
 

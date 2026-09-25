@@ -33,14 +33,13 @@ updated: 2026-09-22
 ## Bottom line
 
 *Matzeivah* is the **monument** or **headstone**, the common word in spoken
-Hebrew, and the one the Torah uses at Kever Rachel. *Tziyun* is the **marker**.
-*Nefesh* is the Mishnah's word, literally "soul," used
-for the structure. Rabbi Yechiel
-Michel Tukachinsky reads the three as three reasons for erecting a stone at
-all: to make the grave visible for those who come to daven, to delineate where
-the body lies so that others (Kohanim especially) avoid tumah, and to honor the
-departed and his soul. Others read all three instead as the deceased's desire
-to go on serving Hashem, cut off by death.
+Hebrew and the one the Torah uses at Kever Rachel. *Tziyun* is the **marker**.
+*Nefesh*, literally "soul," is the Mishnah's word for the structure. Rabbi
+Yechiel Michel Tukachinsky reads the three as three reasons for erecting a stone
+at all: to make the grave visible for those who come to daven, to delineate
+where the body lies so that others (Kohanim especially) avoid tumah, and to
+honor the departed and his soul. Others read all three instead as the deceased's
+desire to go on serving Hashem, which death cut off.
 
 ## At a glance
 

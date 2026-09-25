@@ -41,9 +41,10 @@ updated: 2026-09-14
 
 *Bohen* is the Torah's word for the **thumb** and the **big toe**; *gudal* and
 *agudal*, which may be used interchangeably, are its apparent synonyms in later
-Hebrew. Rashi equates *bohen* with *gudal* in one place, and elsewhere cites Toras
-Kohanim that the *bohen* is the **middle joint** of the *gudal*. *Zikfa*, *ravravta*
-and *ilyon* are Aramaic for the thumb, *ilyon* the Targumim's word for *bohen*.
+Hebrew. Rashi equates *bohen* with *gudal* in one place, and elsewhere cites
+Toras Kohanim that the *bohen* is the **middle joint** of the *gudal*. *Zikfa*,
+*ravravta* and *ilyon* are Aramaic for the thumb, and *ilyon* is the word the
+Targumim tend to use for *bohen*.
 
 ## At a glance
 

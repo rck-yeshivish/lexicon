@@ -31,12 +31,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-They divide first by period. *Emtza* is the **middle** of Mishnaic Hebrew and
-does not occur in Tanach. *Merkaz* is **center** and is later still, first used
-in medieval Hebrew and borrowed from Arabic (Rabbi Shmuel Ibn Tibbon says so
-himself); it carries the extra sense of "principal, main," as "central" does in
-English. Tanach says middle with two body words: *lev*, the **heart** or midst
-of a thing, and *tabur*, the **navel** or central point of a land.
+The four words divide first by period. *Emtza* is the **middle** of Mishnaic
+Hebrew and does not occur in Tanach. *Merkaz*, **center**, is later still: it
+first appears in medieval Hebrew, and Rabbi Shmuel Ibn Tibbon writes that he
+borrowed it from Arabic. Like "central" in English, it also carries the sense of
+"principal, main." Tanach says "middle" with two words for parts of the body:
+*lev*, the **heart** or midst of a thing, and *tabur*, the **navel** or central
+point of a land.
 
 ## At a glance
 

@@ -29,17 +29,18 @@ updated: 2026-09-22
 ## Bottom line
 
 The Targumim generally render *klitah* and *pleitah* alike, with the Aramaic
-word for salvation (*shizba*/*shaziv*), which suggests that in some ways the
-two are synonyms, both "saving" in general. At the core, though, *pleitah* is
-rescue by **expulsion**: one is spit out of the danger, so a *palit* is a
-**refugee**. *Klitah* is rescue
-by **reception**: one is taken in, as a *miklat* receives him, so it is
-**refuge**, **taking in**. For Malbim and Bedersi *sarid* is the one who was
-caught and could not get out and lived anyway: **survivor** or **remnant**.
-Rabbi Avraham Yitzchak Shain, accounting for another pattern in their usage,
-explains that the *palit* was totally surrounded and spit out, while the *sarid*
-was not necessarily totally enveloped.
-*Sarid u'palit* is a stock pair.
+word for salvation (*shizba*/*shaziv*), which suggests that in some ways the two
+are synonyms, both meaning "saving" in general. At the core, though, *pleitah*
+is rescue by **expulsion**: one is spit out of the danger, and so a *palit* is a
+**refugee**. *Klitah* is rescue by **reception**: one is taken in, as a *miklat*
+receives whoever flees to it, and so it means **refuge**, **taking in**. Malbim
+and Bedersi explain *sarid* as one who was caught in the middle, could not get
+out, and lived anyway: a **survivor** or **remnant**. Rabbi Avraham Yitzchak
+Shain notices another pattern: in Tanach the survivor of a war waged by non-Jews
+is generally a *palit*, and of one waged by Jews a *sarid*. He explains that the
+*palit* was totally surrounded and spit out, while the *sarid* was not
+necessarily totally enveloped. *Sarid u'palit* is a stock pair in Tanach and the
+Gemara.
 
 ## At a glance
 

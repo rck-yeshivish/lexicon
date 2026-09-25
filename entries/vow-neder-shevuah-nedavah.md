@@ -30,16 +30,16 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Neder*, commonly translated "promise," works on an
-**object**, giving it a forbidden status on the
-model of hekdesh. *Shevuah* is an **oath**: it works on the **person**, binding
-him to do or not do, and it generally invokes Hashem's name. They are not two
-grades of one thing: the Gemara (Nedarim 2b) understands them as two different
-types of verbal expression, each dealt with on its own terms, and the Mishnah
-gives each its own masechta in a different seder. A *nedavah* is a type of *neder*: one statement that undertakes a korban (sometimes
-only implicitly) and designates the specific animal. The common English
-"promise" and "oath," Rabbi Klein says, imply the two are basically synonymous, a
-*shevuah* being a more serious *neder*.
+*Neder* is commonly translated "promise" and *shevuah* "oath," and that
+rendering, Rabbi Klein says, implies that the two are basically synonymous, a
+*shevuah* being a more serious *neder*. They are not two grades of one thing:
+the Gemara (Nedarim 2b) understands them as two different types of verbal
+expression, each dealt with on its own terms, and the Mishnah gives each its own
+masechta in a different seder. A *neder* works on an **object**, giving it a
+forbidden status on the model of hekdesh. A *shevuah* is an **oath**: it works
+on the **person**, binding him to do or not do, and it generally invokes
+Hashem's name. A *nedavah* is a type of *neder*: one statement that undertakes a
+korban (sometimes only implicitly) and designates the specific animal.
 
 ## At a glance
 

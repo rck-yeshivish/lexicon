@@ -35,10 +35,13 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Geshem* and *matar* both mean **rain**, and the authorities split on which is
-the general word and which the specific one. *Yoreh* and *malkosh* are rains bound to
-their times: *yoreh* is **the first rain**, at the start of the rainy season,
-and *malkosh* **the last rain**, in early spring before the harvest.
+*Geshem* and *matar* both mean **rain**, and the authorities differ over how the
+two relate. Some make *geshem* the general word and *matar* the specific one,
+others the reverse, and others again separate them by origin, *geshem* being
+rain by the natural order and *matar* rain that Hashem brings directly at set
+times. *Yoreh* and *malkosh* are rains bound to their times: *yoreh* is **the
+first rain**, at the start of the rainy season, and *malkosh* **the last rain**,
+in early spring before the harvest.
 
 ## At a glance
 

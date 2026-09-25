@@ -35,14 +35,22 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Milchamah* is the common Biblical word for **war**, over three hundred times in
-Tanach, with the verb *lochem*, **to wage war** (also around three hundred).
-*Krav* also means **war, battle, combat**, in such phrases as *yom krav* and
-*klei krav*. *Pulmus* is Mishnaic, from Greek *polemos*, war, found three times in one Mishnah (*Sotah* 9:14). Rabbi Klein presents these, with *b'tarunya* and
-*kenigia* (the last three Greek), as apparent synonyms and draws no line between *milchamah* and *krav*. The disputes are over the root of
-*milchamah* (bread and war from ל-ח-ם, or from ח-ם, heat, or "coming
-together"), over *b'tarunya* (battle, or Greek tyranny), and over *kenigia*
-(war, or hunting, which the Greek *kynigia* supports).
+*Milchamah* is the common Biblical word for **war**, appearing over three
+hundred times in Tanach, and its verb *lochem*, **to wage war**, appears around
+three hundred times as well. *Krav* also means **war, battle, combat**, in such
+phrases as *yom krav* and *klei krav*. *Pulmus* is Mishnaic, from Greek
+*polemos*, war, and appears three times in one Mishnah (*Sotah* 9:14). Rabbi
+Klein presents these as apparent synonyms, together with *b'tarunya* and
+*kenigia*; *pulmus* and those two are Greek. He draws no line between
+*milchamah* and *krav*. The root of *milchamah* is disputed. It is almost
+unanimously traced to ל-ח-ם, the root of *lechem*, bread; Rabbi Shlomo
+Pappenheim derives both words from ח-ם, heat; and the *Theological Dictionary of
+the Old Testament* suggests that the basic idea of ל-ח-ם is "coming together."
+Rabbi Klein always understood the word *batrunya* as "battle," but on further
+investigation it appears to be *b'tarunya*, which Rabbi Binyamin Mussafia
+explains as Greek for tyranny. *Kenigia* is disputed too: Rabbeinu Gershom and
+the Rashba define it as war, and the Rashbam as hunting, which the Greek
+*kynigia* supports.
 
 ## At a glance
 

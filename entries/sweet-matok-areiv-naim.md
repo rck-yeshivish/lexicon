@@ -30,11 +30,12 @@ updated: 2026-09-10
 
 *Matok* is **sweet** to the tongue; for Rabbi Pappenheim, the objective taste
 opposed to bitter. *Areiv* is **pleasing**: for Rabbi Pappenheim, sweetness as
-this particular person finds it; in Tanach it attaches to a voice, on one view
-to a scent, and to food only once. *Na'im* is **pleasant**: visual appeal for
-the Vilna Gaon, and for Rabbi Pappenheim the transcendent pleasure of enjoying the thing rather than a physical property. Where the Hebrew moves from
-*matok* to *areiv* it has moved, on Rabbi Pappenheim's reading, from what
-everyone tastes to what one person happens to love.
+this particular person finds it. In Tanach it is used of a voice, and of food
+only once; on one view in the Gemara it is used of a scent as well. *Na'im* is
+**pleasant**: visual appeal for the Vilna Gaon, and for Rabbi Pappenheim the
+transcendent pleasure of enjoying something sweet, rather than any physical
+property. So on Rabbi Pappenheim's reading, *matok* is what everyone tastes as
+sweet, and *areiv* what one person happens to love.
 
 ## At a glance
 

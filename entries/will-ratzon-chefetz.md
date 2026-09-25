@@ -30,17 +30,19 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Ratzon* is **will**; *chefetz* is **desire**. A number of commentators make
-*chefetz* the stronger, more physical desire and *ratzon* the subtler wish to
-do right: for Rabbi Shlomo Pappenheim the difference is intensity, for Rabbi
-Tzvi Yehuda Kook *chefetz* is stronger because more concrete, for Rabbi
-Margolios it is the animal drive against the innate wish to do good. Malbim
-makes *ratzon* the mind's chosen wanting, and so aimed at the good, and
-*chefetz* the soul's emotional pull that comes unchosen and can fasten on what
-is bad; Rabbi Avraham Bedersi disputes that *chefetz* is ever unchosen, since
-Hashem is called *chafetz*. Rabbi Yehuda Leib Edel offers a totally different
-axis: *ratzon* can name means as well as ends, *chefetz* only the final goal.
-*Tzvi* in the sense of wanting is **yearning**, a wanting that persists (Rabbi Pappenheim).
+*Ratzon* is **will**; *chefetz* is **desire**. A number of commentators explain
+*chefetz* as the stronger, more physical desire and *ratzon* as the subtler wish
+to do right. For Rabbi Shlomo Pappenheim the difference is one of intensity.
+Rabbi Tzvi Yehuda Kook holds that *chefetz* is stronger because it is more
+concrete. For Rabbi Margolios, *chefetz* is the animal drive and *ratzon* the
+innate wish to do good. Malbim explains *ratzon* as the mind's chosen wanting,
+and so aimed at the good, and *chefetz* as the soul's emotional pull, which
+comes unchosen and can fasten on what is bad. Rabbi Avraham Bedersi disagrees:
+since Tanach calls Hashem *chafetz*, *chefetz* too must be a wanting that lies
+within free choice. Rabbi Yehuda Leib Edel draws a different line altogether:
+*ratzon* can name the means as well as the end, *chefetz* only the final goal.
+For Rabbi Pappenheim, *tzvi* in the sense of wanting is **yearning**, a wanting
+that persists.
 
 ## At a glance
 

@@ -32,13 +32,13 @@ updated: 2026-09-10
 ## Bottom line
 
 *Areimah* is the standard word for a **pile** or **heap**, in Tanach and in
-Mishnaic Hebrew alike. *Chamarim* (doubled in Shemos 8:10, *chamarim chamarim*) is
-**heaps upon heaps**, a mass gathered together. *Gadish* is a **stack** of grain
-still in the sheaf; *omer* is the **bundle** or **sheaf** itself. Rambam seems
-to equate *areimah* and *gadish*, but Rabbi Shlomo
-Pappenheim separates them: the difference is threshed grain (*areimah*)
-against unthreshed (*gadish*). Rabbi Klein reports that he has found no source that
-distinguishes *areimah* from *chamarim* in meaning.
+Mishnaic Hebrew alike. *Chamarim*, doubled in Shemos 8:10 (*chamarim chamarim*),
+is **heaps upon heaps**, a mass gathered together. *Gadish* is a **stack** of
+grain still in the sheaf, and *omer* is the **bundle** or **sheaf** itself.
+Rambam seems to equate *areimah* and *gadish*, but Rabbi Shlomo Pappenheim
+separates them: an *areimah* is grain already threshed, and a *gadish* grain not
+yet threshed. Rabbi Klein reports that he has found no source that distinguishes
+*areimah* from *chamarim* in meaning.
 
 ## At a glance
 

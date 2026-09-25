@@ -33,13 +33,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-On Rashi's reading (to Shemos 21:25), which the Vilna Gaon shares, *petza* is
-an **open wound**, a **laceration** that breaks the skin and bleeds, and
-*chaburah* a **bruise**, blood pooled under skin that stayed whole. Rav Saadia
-Gaon, cited by Ibn Ezra, makes *petza* a broken bone and *chaburah* the
-bleeding wound; the Rashbam seems to make both open wounds, *petza* the graver.
-*Chovel* is the Rabbinic verb, **to injure**. The pair stands together in
-Bereishis 4:23, Shemos 21:25, Yeshayahu 1:6 and Mishlei 20:30.
+*Petza* and *chaburah* stand together in Bereishis 4:23, Shemos 21:25, Yeshayahu
+1:6 and Mishlei 20:30. On Rashi's reading (to Shemos 21:25), which the Vilna
+Gaon shares, *petza* is an **open wound**, a **laceration** that breaks the skin
+and bleeds, and *chaburah* is a **bruise**, blood pooled under skin that stayed
+whole. Rav Saadia Gaon, cited by Ibn Ezra, makes *petza* a broken bone and
+*chaburah* the bleeding wound. The Rashbam seems to make both open wounds, with
+*petza* the graver. *Chovel* is the Rabbinic verb, **to injure**.
 
 ## At a glance
 

@@ -32,11 +32,13 @@ updated: 2026-09-10
 ## Bottom line
 
 *Rechush* is **property** or **possessions**, the movable goods a man has
-gathered. *Mikneh* is **livestock**, rather than property at large, the herds that
-were the ancient world's measure of wealth. *Nechasim*, always plural, is
-**assets**, the standard word in the Mishnah, where *rechush* and *mikneh* do
-not appear at all. *Mikneh* shares the root of *kinyan* and looks like a general word
-for what one has acquired, but it is herds.
+gathered. *Mikneh* shares the root of *kinyan* and looks like a general word for
+what one has acquired, but it is **livestock**, the herds that were the ancient
+world's measure of wealth. The authorities differ over how the two relate: Radak
+counts livestock as one kind of *rechush*, Rav Hirsch keeps *rechush* to
+inanimate belongings, and *Midrash Sechel Tov* seems to make it human property,
+slaves and maidservants. *Nechasim*, always plural, is **assets**, the standard
+word in the Mishnah, where *rechush* and *mikneh* do not appear at all.
 
 ## At a glance
 
@@ -170,8 +172,7 @@ dozens more).
 - Trap: English "property" absorbs all three at once. Keep "livestock" for
   *mikneh* wherever the passage lets you; a verse with both *rechush* and
   *mikneh* is drawing a distinction, and "property and property" is no
-  translation. Bereishis 13:6, the herdsmen's quarrel, has *rechush* in the wide
-  sense: render "possessions."
+  translation. Bereishis 13:6, the herdsmen's quarrel: render *rechush* "possessions."
 - *Nechasim* in a Mishnah or Gemara is "assets" or "estate," not "property"; as
   the standard rabbinic term for a man's *total* assets it wants the financial
   word.

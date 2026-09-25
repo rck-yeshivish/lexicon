@@ -29,14 +29,15 @@ updated: 2026-09-22
 ## Bottom line
 
 *Har* is the **mountain** and *givah* the **hill**, and what separates them is
-disputed. The Vilna Gaon takes it as shape: a *har* rises to a point, a *givah*
-is flat on top, a plateau. Malbim takes it as height and position: a *har* is
-the tall one, *givaos* the ring of lower hills around it. Radak stands
-substantially with the Vilna Gaon. *Pisgah* is the uncommon third word, a
-**peak** higher than an ordinary mountain and so the place to look out from.
-When Shir HaShirim sets the two side by side, *Chazal* read the pair as the two
-sets of forebears, and the mystical reading that follows turns on the shape, not
-on the height.
+disputed. For the Vilna Gaon the difference is shape: a *har* rises to a point,
+while a *givah* is flat on top, a plateau. Radak takes much the same view. For
+Malbim it is height and position: a *har* is the tall one, and *givaos* are the
+ring of lower hills around it. *Pisgah* is the uncommon third word, a **peak**;
+the commentators explain that it is taller even than an ordinary mountain, and
+so the place to look out from. When Shir HaShirim sets the two words side by
+side, *Chazal* read them as the merit of the *avos* and the merit of the
+*imahos*, and the mystical reading built on that turns on the shape, not on the
+height.
 
 ## At a glance
 

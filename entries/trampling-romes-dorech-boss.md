@@ -31,17 +31,18 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Dorech* is neutral: **tread**, **step on**, and in a winepress or olive press
-**press** (Malbim). *Romes* is destructive: **trample**, walking in a damaging way
-(Malbim), with the full force of the body so as to smash what lies under the foot
-(Rav Hirsch). *Boss* is **trample down**: for Rabbi Shlomo Pappenheim, treading on
-what is not necessarily destined to be trodden on, so that the act registers that
-the walker does not think it important, and Rabbi Moshe Tedeschi-Ashkenazi expresses
-a similar sentiment (*boss* as kin to *boz*, disgrace). But Rashi equates *boss* with
-*romes*, and Rabbi Klein finds *boss* used in very much the same ways as the other
-two. Tedeschi also reads *romes* and *dorech* by the ground rather than the act, and
-Pappenheim takes *romes* as treading on what is meant to be walked on. Tehillim
-91:13 has *tidroch* and *tirmos* in one pasuk.
+*Dorech* is neutral: **tread**, **step on**, and in a winepress or olive press,
+**press** (Malbim). *Romes* is destructive: **trample**, walking in a damaging
+way (Malbim), with the full force of the body so as to smash what lies under the
+foot (Rav Hirsch). Rabbi Moshe Tedeschi-Ashkenazi reads *romes* and *dorech* by
+the ground being walked on rather than by the act. Tehillim 91:13 has *tidroch*
+and *tirmos* in one pasuk. *Boss* is **trample down**. For Rabbi Shlomo
+Pappenheim, *romes* is treading on what is meant to be walked on, and *boss*
+treading on what is not necessarily destined to be trodden on, so that the act
+registers that the walker does not think it important; Tedeschi expresses a
+similar sentiment, relating *boss* to *boz*, disgrace. But Rashi equates *boss*
+with *romes*, and Rabbi Klein finds *boss* used in very much the same ways as
+the other two.
 
 ## At a glance
 

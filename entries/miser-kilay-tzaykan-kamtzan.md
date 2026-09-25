@@ -28,14 +28,15 @@ updated: 2026-09-22
 
 ## Bottom line
 
-Three words for the same vice, one per layer of the language: *kilay* is the
-Biblical **miser**, *tzaykan* the Mishnaic **skinflint**, *kamtzan* the
-post-Mishnaic and Modern Hebrew **cheapskate**. Each carries its own image on the etymologies offered:
-*kilay* locks his money up (Rabbi Shlomo Pappenheim), *tzaykan* is narrow or,
-on another possible etymology, hard about parting with it, *kamtzan* measures
-out the smallest possible amount. *Kilay* is disputed.
-Commentators such as Radak read it as "miser," the Ashkenazic commentators
-(Rashi, Mahari Kara, Rabbi Eliezer of Beaugency) as "trickster."
+Three words for the same vice, one for each layer of the language: *kilay* is
+the Biblical **miser**, *tzaykan* the Mishnaic **skinflint**, and *kamtzan* the
+post-Mishnaic and Modern Hebrew **cheapskate**. On the etymologies offered, each
+carries its own image. The *kilay* locks his money up (Rabbi Shlomo Pappenheim);
+the *tzaykan* is narrow (Rabbi Ernest Klein) or, on another possible etymology,
+hard about parting with it; the *kamtzan* measures out the smallest possible
+amount. What *kilay* means is itself disputed: commentators such as Radak read
+it as "miser," while the Ashkenazic commentators (Rashi, Mahari Kara, Rabbi
+Eliezer of Beaugency) read it as "trickster."
 
 ## At a glance
 

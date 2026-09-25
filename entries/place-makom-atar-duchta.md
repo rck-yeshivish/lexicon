@@ -27,11 +27,14 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Makom* is the only native Hebrew word for "place." *Atar* is the
-standard Aramaic word for the same thing, the Targum's regular rendering of
-*makom*; *duchta* is an Aramaic word for "place," quite common in the Bavli,
-which Rabbi Reuven Chaim Klein suggests, if the derivation holds, may itself be
-an Old Persian loanword rather than native Aramaic. They differ in *language*, and the meaning is one.
+*Makom* is the only native Hebrew word for "place," though Rabbi Yaakov Yehudah
+de Kassif seems to explain *atar* as a Hebrew word too. *Atar* is the standard
+Aramaic word for the same thing and, as Rabbi Eliyahu HaBachur notes, the
+Targumim's regular rendering of *makom*. *Duchta* is another Aramaic word for
+"place," quite common in the Bavli. Rabbi Joseph Perles derives it from Old
+Persian, and if that derivation holds, Rabbi Reuven Chaim Klein suggests,
+*duchta* may itself be a loanword and not native Aramaic. They differ in
+*language*, and the meaning is one.
 
 ## At a glance
 

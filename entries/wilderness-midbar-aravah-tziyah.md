@@ -28,15 +28,18 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Three readings of how the words differ. *Metzudas David* (to Yirmiyahu 50:12)
-treats them as synonyms, possibly for poetic effect. The Vilna Gaon (to Hoshea
-2:5) holds *midbar* and *tziyah* essentially the same, *tziyah* the more intense
-desolation. Malbim (to Yeshayahu 35:1) separates all three: *midbar* is the **wilderness**, land inherently unfit for
-settlement or cultivation and so empty of people; *aravah* is a **desert
-plain** overrun with thorns and wild growth, not bone-dry; *tziyah* is a
-**parched land**, dried out by prolonged heat. For Malbim *tziyah* and *aravah*
-are desolate from an outside cause (heat; weeds), *midbar* by its own nature. Early English Bibles themselves split on
-*midbar*, "desert" (Wycliffe) against "wilderness" (Tyndale, KJV), and Rabbi
+There are three views on whether and how the words differ. *Metzudas David* (to
+Yirmiyahu 50:12) treats them as synonyms, possibly for poetic effect. The Vilna
+Gaon (to Hoshea 2:5) holds that *midbar* and *tziyah* mean essentially the same
+thing, but that *tziyah* implies the more intense desolation. Malbim (to
+Yeshayahu 35:1) separates all three: *midbar* is the **wilderness**, land
+inherently unfit for settlement or cultivation and so empty of people; *aravah*
+is a **desert plain** overrun with thorns and wild growth, and not as dry as a
+*tziyah*; *tziyah* is a **parched land**, dried out by prolonged heat. In
+Malbim's view the *tziyah* and the *aravah* are desolate from outside causes,
+the heat in the one and the weeds in the other, while a *midbar* is desolate by
+its own nature. The early English Bibles differ over *midbar*, Wycliffe
+rendering it "desert" and Tyndale and the King James "wilderness," and Rabbi
 Klein takes no side.
 
 ## At a glance

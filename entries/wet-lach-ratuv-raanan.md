@@ -44,20 +44,21 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Lach* is **moist**: a little wet, and on Rabbi Shlomo Pappenheim's reading the
-inner moisture of a living thing. *Ratuv* is **wet**. Rashi, Ibn Ezra and Radak
-simply define it as *lach*, and Rabbi Klein suggests that perhaps the two are
-not technically synonyms, *lach* being native Hebrew and *ratuv* borrowed from
-Aramaic; Pappenheim instead makes *ratuv* enough liquid to show on the
-surface and to wet whatever touches it, moisture that comes from outside, and
-Rabbi Avraham Bedersi likewise makes it moisture from external water.
-*Ra'anan* is **fresh, verdant**, for Bedersi the inner moisture that keeps a
-thing growing. *Rutfash* is **revivified**, flesh restored to youthful
-moisture. *Tofeach* and *mefulam* are Rabbinic: *tofeach* is **wet**, familiar
-in the phrase for wet enough to make something else wet; *mefulam* is **wet**
-for Rashi but **hearty, plump** for the *Aruch*, and Rabbi Klein suggests Rashi
-may mean **sodden**, so saturated as to be bloated. Pappenheim's difference between a little
-moisture and enough to wet something else can carry halachic weight.
+*Lach* is **moist**. For Rabbi Shlomo Pappenheim it is only a little wet, and
+also the inner moisture of a living thing. *Ratuv* is **wet**. Rashi, Ibn Ezra
+and Radak simply define it as *lach*, and Rabbi Klein suggests that perhaps the
+two are not technically synonyms, *lach* being native Hebrew and *ratuv*
+borrowed from Aramaic. Pappenheim instead makes *ratuv* enough liquid to show on
+the surface and to wet whatever touches it, moisture that comes from outside,
+and Rabbi Avraham Bedersi likewise makes it moisture from external water.
+*Ra'anan* is **fresh, verdant**. Ibn Ezra says it means the same as *ratuv*,
+while for Bedersi it is the inner moisture that keeps a thing growing. *Rutfash*
+is **revivified**, flesh restored to youthful moisture. *Tofeach* and *mefulam*
+are Rabbinic. *Tofeach* is **wet**, familiar from *tofeach al menas lehatfiach*,
+wet enough to make something else wet. *Mefulam* is **wet** for Rashi but
+**hearty, plump** for the *Aruch*, and Rabbi Klein suggests Rashi may mean
+**sodden**, so saturated as to be bloated. Pappenheim's difference between a
+little moisture and enough to wet something else can carry halachic weight.
 
 ## At a glance
 

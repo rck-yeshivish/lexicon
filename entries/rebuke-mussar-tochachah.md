@@ -24,11 +24,14 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Tochachah* is **reproof** (or **rebuke**): spoken, argued, proving to the
-other that he did wrong, about his past deeds, and possible between equals.
-*Mussar* is **discipline** (or **chastisement**): from a superior to a
-subordinate, by word or by blow, aimed at his future conduct; the Vilna Gaon
-ties it to *yissurin*, afflictions.
+*Tochachah* is **reproof** (or **rebuke**), and *mussar* is **discipline** (or
+**chastisement**). Malbim separates them three ways. *Tochachah* is purely
+verbal, proving to the other by argument that he did wrong; it concerns his past
+deeds; and it may pass even between equals. *Mussar* comes from a superior to a
+subordinate, by word or by blow, and aims at his future conduct. The Vilna Gaon
+draws the same line between past and future; for him *tochachah* comes from the
+mouth and *mussar* from the other limbs, and he ties *mussar* to *yissurin*,
+afflictions.
 
 ## At a glance
 

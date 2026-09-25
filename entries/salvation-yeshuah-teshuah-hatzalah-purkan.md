@@ -35,12 +35,12 @@ updated: 2026-09-22
 ## Bottom line
 
 *Yeshuah* and *teshuah* are **salvation**, specifically salvation that answers a
-cry (*shav'ah*) for help, and for the Rokeach total release from oppression.
-*Hatzalah* is **rescue**, being pulled out of danger (root sense
-"separate, remove"). The Rokeach calls it partial or temporary next to
-*yeshuah*; Malbim has it carrying more, protection from future troubles on top
-of the saving. *Purkan*
-(Aramaic, the Targum's *pidyon*) is **redemption**, being bought back.
+cry (*shav'ah*) for help. *Hatzalah* is **rescue**, being pulled out of danger
+(the root sense is "separate, remove"). For the Rokeach, *yeshuah* and *teshuah*
+are a total release from oppression and *hatzalah* only a partial or temporary
+respite; for Malbim, *hatzalah* carries more than *yeshuah*, protection from
+future troubles on top of the saving. *Purkan* (Aramaic, the Targum's word for
+*pidyon*) is **redemption**, being bought back.
 
 ## At a glance
 

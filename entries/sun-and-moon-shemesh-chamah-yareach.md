@@ -45,15 +45,19 @@ updated: 2026-09-22
 
 ## Bottom line
 
-Three words each, and each names its luminary by a different aspect, the two
-threes somewhat paralleling each other. *Shemesh* is the **sun** as servant,
-doing its assigned work; *chamah* the **sun** as the hot one; *cheres* the
-**sun** as the baker of pottery, or, as others explain, the pottery-colored one
-at sunrise and sunset. *Yareach* is the **moon** as the traveler on its path;
-*levanah* the **moon** as the white one; *sahar* the **crescent**, the moon by
-its shape, though others note it is an Aramaic loanword sometimes used for the
-moon. The account is Rabbi Aharon Marcus's, who adds that the words may
-represent successive stages in man's relationship with the sun and moon.
+Biblical Hebrew has three words for the sun and three for the moon, and Rabbi
+Aharon Marcus explains that each names its luminary by a different aspect.
+*Shemesh* is the **sun** as servant, doing its assigned work; *chamah* is the
+**sun** as the hot one; *cheres* is the **sun** as the baker of pottery, or, as
+others explain, as the pottery-colored one at sunrise and sunset. *Yareach* is
+the **moon** as the traveler on its path; *levanah* is the **moon** as the white
+one; *sahar* is the **crescent**, the moon named by its shape, though others
+note it is an Aramaic loanword sometimes used for the moon. Rabbi Marcus adds
+that the words may also represent different stages in the history of man's
+relationship with the sun and moon. Rabbi Klein notes that some might reject
+that historical part as seeming to contradict the Divine origin of the Hebrew
+language, but the basic point still holds: the two sets of three somewhat
+parallel each other.
 
 ## At a glance
 

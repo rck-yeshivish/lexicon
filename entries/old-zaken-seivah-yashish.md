@@ -46,13 +46,15 @@ updated: 2026-09-22
 
 ## Bottom line
 
-The three age words run in ascending order: *zaken* is **an elder** (sixty),
-*seivah* is **old age** proper (seventy), *yashish* is **the aged**, older still.
-For Shadal, though, *zaken* is anyone of honor and importance, whatever his age,
-as *senior* and *signore* are.
-*Yashan* is **old** of plants and produce, not of people ("aged," "last year's").
-*Atik* is **ancient**, old by remoteness in time. *Vatik*, on the explanation
-Rabbi Reuven Chaim Klein judges more plausible (that of Rabbi Ernest Klein), means **veteran** or **senior**, of standing and reliability, and is no age word at all.
+The three age words ascend: *zaken* is **an elder** (sixty); *seivah*, **old
+age** proper (seventy), comes after it (Bedersi); and *yashish*, **the aged**,
+is older still (Radak). For Shadal, though, *zaken* is anyone of honor and
+importance, whatever his age, as *senior* and *signore* are. *Yashan* is **old**
+of plants and produce, not of people ("aged," "last year's"). *Atik* is
+**ancient**, old by remoteness in time. Rabbi Reuven Chaim Klein judges Rabbi
+Ernest Klein's explanation of *vatik* the more plausible; on it *vatik* means
+**veteran** or **senior**, one of standing and reliability, and is no age word
+at all.
 
 ## At a glance
 

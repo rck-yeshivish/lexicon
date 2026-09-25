@@ -24,15 +24,14 @@ updated: 2026-09-22
 
 ## Bottom line
 
-The Torah numbers the months rather than naming them, as it does not name the
-days of the week either (Ibn Ezra to Devarim 16:1),
-so the second month is "the second month." Where Tanach does name it, it is
-**Ziv** (Melachim I 6:1, 6:37), a word meaning **radiance**, and specifically
-radiance as something given off rather than the source itself (Rabbi Moshe
-Shapiro). **Iyar** is the name in use since Bavel and appears nowhere in Tanach.
-How to spell Iyar, with
-one yud or two, is an unsettled halachic question in a *get*, and the poskim
-cited conclude that one should optimally write two.
+The Torah numbers the months rather than naming them, just as it gives no names
+to the days of the week (Ibn Ezra to Devarim 16:1), so the second month is "the
+second month." Where Tanach does name it, it is **Ziv** (Melachim I 6:1, 6:37),
+a word meaning **radiance**, and specifically the radiance a thing gives off
+rather than the thing itself (Rabbi Moshe Shapiro). **Iyar**, the name in use
+today, came up from Bavel and appears nowhere in Tanach. How to spell it in a
+*get*, with one yud or two, is an unsettled halachic question; Maharil, the
+*Shulchan Aruch*, Rema and others conclude that one should optimally write two.
 
 ## At a glance
 

@@ -40,20 +40,21 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Shein* is the ordinary word for a **tooth**, and by extension **ivory** and the
-"teeth" of a tool. *Mesalos* and *malteos* are one word with the lamed and tav
-switched, and how they differ from *shein* is answered three ways: they are the
-**molars**, the thick teeth at the back, against *shein* the front incisors
-(Rabbi Tedeschi; Rashi, Radak and the *Biur HaGra* likewise make them the thick
-teeth deeper in the mouth); they are the **fangs** protruding from a wild
-animal's mouth (Ibn Parchon); or *shein* is the general term and they the
-specific one, whether fangs, tusks or molars. *Kaka* is the Targum's Aramaic for
-*shein*, *nivi* its Aramaic for *mesalos*, and Rabbi Klein finds the difference
-between the Hebrew pair evident from that split. *Gallal* is "tooth" only as the
-Gemara reads it, in context the tort category of tooth damage. *Chit*, in
-Rabbinic literature only in one Mishnah and its Sifra parallel, is disputed: the
-**gums** (Rashi) or the **teeth** themselves (the Mainz commentary ascribed to
-Rabbeinu Gershom, and the *Aruch*).
+*Shein* is the ordinary word for a **tooth**, and by extension for **ivory** and
+for the "teeth" of a tool. *Mesalos* and *malteos* are one word with the lamed
+and tav switched, and there are three ways of telling them apart from *shein*.
+For Rabbi Tedeschi they are the **molars** at the back of the mouth, while
+*shein* is one of the front incisors; Rashi, Radak and the *Biur HaGra* likewise
+explain them as thick teeth set deeper in the mouth than a *shein*. For Ibn
+Parchon they are the **fangs** protruding from a wild animal's mouth. Or *shein*
+is the general term and they the specific one, whether fangs, tusks or molars.
+The Targumim render *shein* into Aramaic as *kaka* and *mesalos* as *nivi*, and
+Rabbi Klein finds the difference between the Hebrew words evident from that
+split. *Gallal* means "tooth" only as the Gemara reads it, and there it stands
+for the tort category of damage done by the tooth. *Chit* appears in Rabbinic
+literature only in one Mishnah and its parallel in the Sifra, and its meaning is
+disputed: the **gums** (Rashi) or the **teeth** themselves (the Mainz commentary
+ascribed to Rabbeinu Gershom, and Rabbi Nosson of Rome in the *Aruch*).
 
 ## At a glance
 

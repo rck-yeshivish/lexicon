@@ -29,14 +29,14 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Ivri* is **Hebrew**, first applied to Avraham; *Yisrael* and *Bnei Yisrael* are
-**Israel** and **the Children of Israel**, the Torah's ordinary name for the
-nation; *Yehudi* is **Jew**, strictly a subject of the Kingdom of Yehudah before
-it became the name of the whole people. These are not interchangeable
-registers of the same word: Rabbeinu Bachya holds
-*Ivri* marks a lower standing than *Yisrael*, which is why the Torah keeps
-*eved Ivri* for the Jewish slave even after Sinai, by which point the term had
-otherwise largely fallen out of use in Tanach.
+*Ivri* is **Hebrew**, first applied to Avraham. *Yisrael* and *Bnei Yisrael*,
+**Israel** and **the Children of Israel**, are the Torah's ordinary name for the
+nation. *Yehudi* is **Jew**; strictly it meant a subject of the Kingdom of
+Yehudah, and it later became the name of the whole people. These are not
+interchangeable registers of one word. Rabbeinu Bachya holds that *Ivri* marks a
+lower standing than *Yisrael*, which is why, even after Sinai, the Torah still
+calls a Jewish slave an *eved Ivri*, though by then the term had otherwise
+largely fallen out of use in Tanach.
 
 ## At a glance
 

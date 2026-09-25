@@ -37,12 +37,14 @@ updated: 2026-09-22
 
 *Bushah* is the general, milder word: **shame**. *Klimah* is the graver,
 inherently disgraceful kind: **humiliation** (or **disgrace**). *Cherpah* is
-shame inflicted by another's insult or reproach: **disgrace, reproach**; its
-partner *chafrah* is the mortified wish to dig a hole and hide:
-**mortification**. In Tanach *bushah* is always written first when it stands
-beside *klimah* or *cherpah*. *Why* it stands first is disputed: the
-grammarians read the order as ascending intensity, while others read it as
-chronological sequence.
+**disgrace, reproach**. Wertheimer explains it as shame inflicted by another's
+insult or reproach, and Malbim too makes it shame that comes from outside;
+Bedersi reads it as closer to disparagement than to shame. Its partner *chafrah*
+is **mortification**, the wish, as Wertheimer puts it, to dig a hole and hide.
+In Tanach *bushah* is always written first when it stands beside *klimah* or
+*cherpah*. The authorities differ over why. Radak, Rabbeinu Yonah and Bedersi
+read the order as ascending intensity; Satanow and Shapira-Frankfurter read it
+as chronological sequence.
 
 ## At a glance
 

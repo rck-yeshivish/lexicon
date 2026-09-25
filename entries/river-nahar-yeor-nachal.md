@@ -28,15 +28,17 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Nahar* is the default **river**, a natural watercourse fed by tributaries.
-*Yeor* is the Nile and rivers that behave like it, a river that floods past its
-banks; Rashi (to Shemos 7:19) glosses it **an irrigation canal**, and standing
-alone it is **the River**, the Nile. *Nachal* is a **brook** or **wadi**, variously
-explained as the river that cuts a valley, the seasonal runoff, or the river that
-runs to the sea, and the same word
-names the valley itself. Rabbi Malkiel Tzvi Tannenbaum *proposes* that *nahar* and *yeor* are only sharply distinguished
-when they appear together, so that Rashi's canal is what *yeor* means beside a
-*nahar*; apart, on his proposal, either word can mean a river of any kind.
+*Nahar* is the default **river**; Rabbi Shlomo Pappenheim explains it as the
+river into which smaller streams flow, which makes it stand out above them.
+Malbim explains *yeor* as a river that floods past its banks, and most of its
+appearances in Tanach are the Nile, **the River**, which behaves that way. Rashi
+(to Shemos 7:19) glosses *yeor* **an irrigation canal**. Rabbi Malkiel Tzvi
+Tannenbaum *proposes* that *nahar* and *yeor* are sharply distinguished only
+when they appear together: side by side, *nahar* is the natural river and *yeor*
+is Rashi's canal, while apart, either word can mean a river of any kind.
+*Nachal* is a **brook** or **wadi**, and the same word names the valley itself.
+Some explain it as the river that cuts a valley, others as the seasonal runoff,
+and Rabbi Shlomo Aharon Wertheimer as only a river that runs to the sea.
 
 ## At a glance
 

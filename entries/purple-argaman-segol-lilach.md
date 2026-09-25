@@ -33,13 +33,16 @@ updated: 2026-09-22
 ## Bottom line
 
 Classical Hebrew has no word for purple. *Argaman* is not a color word at all:
-all commentators agree it is **wool dyed** a certain color, and the shade the
-traditional sources describe is a **red**, whether crimson, orange, or a
-yellowish red; none of them makes it a mixture of red with blue or green. (One
-academic reading, Professor Athalya Brenner-Idan's, does
-stretch the term as far as violet; see below.) The English word "purple" once
-covered any deep red. *Segol* and *lilach* are Modern Hebrew flower-names
-pressed into service as color words, with no standing in Tanach.
+all commentators agree it is **wool dyed** a certain color, and the traditional
+sources describe that color as a **red**, whether crimson, orange, or a
+yellowish red. Rambam makes it one red; Raavad makes it two or three colors
+woven together, though Rabbi Reuven Chaim Klein writes that Raavad too, without
+saying so, seems to mean shades of red. None of these sources makes it a mixture
+of red with blue or green. One academic, Professor Athalya Brenner-Idan, does
+stretch the term to take in shades running from pink as far as violet. The
+English word "purple" once meant any shade of red. *Segol* and *lilach* are
+Modern Hebrew flower-names pressed into service as color words, with no standing
+in Tanach.
 
 ## At a glance
 

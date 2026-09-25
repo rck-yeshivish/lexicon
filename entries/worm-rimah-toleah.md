@@ -28,18 +28,18 @@ updated: 2026-09-10
 Hebrew has two words for the worms of the grave, *rimah* and *toleah*, which
 always stand in that order (*Avos* 3:1 and the Gemara; Yeshayahu 14:11; Iyov
 25:6). Rabbi Shaul Goldman explains that *rimah* is **maggots** or larvae, and
-more broadly decay from within; *toleah* (commonly *tola'as*) is the **worm**
-that eats, destruction from without. Rabbi Klein reads the fixed order as
-chronological, and the Netziv and the Vilna Gaon make *rimah* the first,
-smaller stage of infestation and *toleah* the later, larger worm; in a similar
-vein Rabbi Moshe Tedeschi-Ashkenazi makes *rimah* a cluster of larvae still in
-the egg and *toleah* one grown worm. Others draw the line elsewhere: worms of
-fruit and cheese against worms of the innards and the ground (Rabbi
-Tedeschi-Ashkenazi's alternative); formed, or seemingly formed, from within
-against coming from outside (Rav Hirsch); not yet moved from where they were
-generated against able to crawl, or worms of rot against worms as such
-(Malbim); creatures that do not eat against creatures that eat as if with teeth
-(*Midrash Sechel Tov*).
+more broadly decay from within, while *toleah* (commonly *tola'as*) is the
+**worm** that eats, destruction from without. Rabbi Klein reads the fixed order
+as chronological, and the Netziv and the Vilna Gaon make *rimah* the first,
+smaller stage of infestation and *toleah* the later, larger worm. In a similar
+vein, Rabbi Moshe Tedeschi-Ashkenazi makes *rimah* a cluster of larvae still in
+the egg and *toleah* one grown worm. Others draw the line elsewhere. Rabbi
+Tedeschi-Ashkenazi's alternative puts *rimah* in fruit and cheese and *toleah*
+in the innards and the ground. For Rav Hirsch, *rimah* form, or seem to form,
+from within, while *toleah* come from outside. For Malbim, *rimah* have not yet
+moved from where they were generated, while *toleah* can already move about;
+elsewhere he makes *rimah* worms of rot and *toleah* worms as such. For *Midrash
+Sechel Tov*, *rimah* do not eat, while *toleah* eat as if they had teeth.
 
 ## At a glance
 

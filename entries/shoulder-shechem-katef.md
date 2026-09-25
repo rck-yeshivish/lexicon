@@ -23,11 +23,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Both mean **shoulder**, and no single ruling settles them. One
-division (the *Ohel Moed*'s second view, with Radak): *katef* is the shoulder proper, the whole shoulder; *shechem* is the
-part of it directly opposite the neck, so **upper shoulder**. In Iyov 31:22,
-which sets the two in a spatial relation, *shechem* seems rather to be the
-**upper back**. *Shechem* also carries the borrowed senses of a parcel carried there and, from that, a **portion** or allotment.
+Both mean **shoulder**, and the authorities give no single answer to how they
+differ. In one division, the second view the *Ohel Moed* cites, *katef* is the
+whole shoulder and *shechem* the part of it directly opposite the neck, the
+**upper shoulder**; Radak likewise makes *shechem* the part nearest the neck. In
+Iyov 31:22, where the *katef* sits atop the *shechem*, *shechem* seems rather to
+be the **upper back**. *Shechem* also carries the borrowed senses of a parcel,
+carried on the shoulder, and from that a **portion** or allotment.
 
 ## At a glance
 

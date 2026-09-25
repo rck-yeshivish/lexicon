@@ -25,17 +25,18 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Both are used of the ritual waving of a korban, and whether they name two acts
-is the question in dispute. Rashi (and, it seems, Ibn Ezra) makes *tenufah*
-**waving** back and forth on the horizontal axis and *terumah* **raising and lowering**, the vertical. Rabbi
-Shlomo Pappenheim makes *terumah* the up-and-down alone and *tenufah* the
-broader term covering both axes; Rabbeinu Avraham ben HaRambam has *tenufah*
-itself cover both; Rabbi Yosef Bechor Shor holds the two synonyms, alternated
-for elegance; and Targum Onkelos, as Rabbi Yaakov Zev Lev reads him, makes
-*tenufah* up and down just like *terumah*. Outside the korban, *terumah* is the
-**separated portion**: of the Mishkan donation Rashi (to Shemos 25:2) renders it
-"separation," not "lifting," and as the Kohen's tithe the word is parsed *trei
-mi'meah*, two per hundred.
+Both are used of the ritual waving of a korban, and the authorities differ over
+whether they name two acts. Rashi (and, it seems, Ibn Ezra) makes *tenufah*
+**waving** back and forth on the horizontal axis and *terumah* **raising and
+lowering** on the vertical. Rabbi Shlomo Pappenheim makes *terumah* the
+up-and-down alone and *tenufah* the broader term covering both axes, and
+Rabbeinu Avraham ben HaRambam has *tenufah* itself cover both. Rabbi Yosef
+Bechor Shor holds that the two are synonyms, alternated for elegance. Targum
+Onkelos, as Rabbi Yaakov Zev Lev reads him, makes *tenufah* up and down just
+like *terumah*. Outside the korban, *terumah* is the **separated portion**.
+Rashi (to Shemos 25:2) glosses the *terumah* of the Mishkan donation as
+"separation," not "lifting," and for the Kohen's tithe the Zohar, the Rambam and
+*Sefer HaChinuch* parse the word as *trei mi'meah*, two per hundred.
 
 ## At a glance
 

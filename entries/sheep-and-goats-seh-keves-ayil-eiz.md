@@ -71,13 +71,15 @@ updated: 2026-09-22
 
 ## Bottom line
 
-The words sort by species. General (either species):
-*seh* = **a lamb or kid**, one animal; *tzon* = **flock**. Goats: *eiz* =
-**she-goat**, *tayish* = **he-goat**, *gedi* and *seir* = **kid**. Sheep:
-*rachel* = **ewe**, *ayil* = **ram**, *keves* and *tleh* = **lamb**. *Kesev* is,
-on one reading, an exact metathesis of *keves*, and on others a slightly older or more general sheep. *Atud* is the word whose meaning is
-most obscured: it might be any goat, or an extra-large adult goat, or a fat young
-sheep, or any adult male of either species.
+The words sort by species. Two cover both: *seh* is **a lamb or kid**, a single
+animal, and *tzon* is the **flock**. Among the goats, *eiz* is the **she-goat**,
+*tayish* the **he-goat**, and *gedi* and *seir* the **kid**. Among the sheep,
+*rachel* is the **ewe**, *ayil* the **ram**, and *keves* and *tleh* the
+**lamb**. *Kesev* is read three ways: as an exact metathesis of *keves*, with
+the same meaning; as a bigger or older sheep; or as a more general word for
+sheep of any age. *Atud* is the one whose meaning is most obscure: it might be
+any goat, an extra-large adult goat, a fat young sheep, or any adult male of
+either species.
 
 ## At a glance
 
@@ -234,8 +236,7 @@ quenching or satisfying.
   them.
 - *Keves* and *kesev*: unless the passage turns on the difference, render both
   "lamb." If it does turn on it (a derashah on the fourteen *kesev* places, or a
-  count of the two spellings), follow the majority of the later commentators and
-  make *keves* the young one and *kesev* the general or older term, and say
+  count of the two spellings), follow the commentators who make *keves* the young one and *kesev* the general or older term, and say
   whose reading you are following.
 - *Ayil* is "ram," never "deer"; *ayal* is the deer. In an unpointed text check
   the context before choosing.

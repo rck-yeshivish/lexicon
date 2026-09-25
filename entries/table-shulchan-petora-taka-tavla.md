@@ -33,13 +33,13 @@ updated: 2026-09-22
 ## Bottom line
 
 *Shulchan* is the Biblical **table**, and the Aramaic *petora* is its standard
-equivalent. *Taka* is also glossed *shulchan* by Rashi,
-and the variant readings of one Talmudic story seem to make it interchangeable
-with *petora*; but Rabbi Mordechai Dov Yudelovitch, whose view Rabbi Klein
-adopts, holds that *taka* is the small, private **tray-table** for one, while
-*petora* is the longer dining table. *Tavla* is for Rabbi Eliyahu HaBachur
-simply the Rabbinic Hebrew for *shulchan*; for Rash MiShantz it differs, a
-**board** or table top without legs attached.
+equivalent. Rashi glosses *taka* as *shulchan* too, and the variant readings of
+one Talmudic story seem to make it interchangeable with *petora*. But Rabbi
+Mordechai Dov Yudelovitch, whose view Rabbi Klein adopts, holds that *taka* is
+the small, private **tray-table** for one, and *petora* the longer dining table.
+For Rabbi Eliyahu HaBachur, *tavla* is simply the Rabbinic Hebrew for
+*shulchan*; for Rash MiShantz it differs, a **board** or table top without legs
+attached.
 
 ## At a glance
 

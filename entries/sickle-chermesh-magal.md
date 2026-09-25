@@ -25,11 +25,13 @@ updated: 2026-09-22
 ## Bottom line
 
 Both mean **sickle**, and the weight of the sources treats them as one tool
-under two names; the Targumim suggest that *chermesh* is the Hebrew word and *magal*
-a Hebraicized form of the Aramaic *magla*. That is why the Torah says *meihachel chermesh bakamah* (Devarim
-16:9) while the Mishnah's ceremony of cutting the Omer asks the crowd twice
-*magal zeh?* (Menachos 10:3). The proposal that one is a "sickle" and the other a
-"scythe" was made by some scholars and rejected by Dr. Shmuel Yeivin.
+under two names. The Targumim render *chermesh* as *magla*, which suggests that
+*chermesh* is the Hebrew word and *magal* a Hebraicized form of the Aramaic
+*magla*. This accounts for the Torah saying *meihachel chermesh bakamah*
+(Devarim 16:9), while in the Mishnah's account of cutting the Omer the harvester
+twice asks the crowd, "Is this a *magal*?" (Menachos 10:3). Some scholars have
+proposed that *chermesh* is a "sickle" and *magal* the larger "scythe"; Dr.
+Shmuel Yeivin rejects the proposal.
 
 ## At a glance
 

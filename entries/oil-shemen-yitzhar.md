@@ -24,9 +24,16 @@ updated: 2026-09-23
 
 ## Bottom line
 
-*Shemen* is the general word, **oil**. Rabbi Klein argues that *yitzhar*, by
-contrast, is **olive oil** in itself: the Torah must say *shemen zayis zach* to
-specify **pure olive oil**, while *yitzhar* is paired with *zayis* in Tanach only once, in *eretz zeis yitzhar* (Melachim II 18:32), which he notes as the one exception. Every occurrence of *yitzhar* is agricultural, the yield of the press.
+*Shemen* is the general word, **oil**. The authorities differ over what sets
+*yitzhar* apart. Rabbi Klein argues that it is **olive oil** in itself: the
+Torah must say *shemen zayis zach* to specify **pure olive oil**, while
+*yitzhar* is never joined to *zayis* in Tanach, with the one exception he notes,
+*eretz zeis yitzhar* (Melachim II 18:32). Radak takes *yitzhar* to be oil just
+as it comes from the press, and every occurrence of the word in Tanach is indeed
+agricultural; on his reading both words can mean olive oil, *yitzhar* marking it
+in its freshest state. Rabbi Yitzchak Zev Yadler holds that *yitzhar* does not
+mean olive oil in itself but whatever oil a place burns for light, which in
+Eretz Yisrael was olive oil.
 
 ## At a glance
 

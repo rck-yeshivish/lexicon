@@ -34,15 +34,14 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Even* is the general term for any rock; from there the hardness runs *sela*
-(hard), *tzur* (harder still, per both Rabbi Shlomo Pappenheim and Malbim), and
-*chalamish* (per Rabbi Pappenheim, the hardest stones within the *tzur* class).
-*Tzur* is **flintrock** or **hard rock**, and it is also a divine epithet;
-Rambam adds a second sense, the quarry a stone is hewn from, hence **source**. *Chalamish* is conventionally **flint**,
-but Rabbi Shlomo Pappenheim makes it a subdivision of *tzur*, the very hardest
-stones. On Malbim's account a *sela* is porous and can hold water and
-a *tzur* cannot, which fits neatly with Rabbi Chaim Vital's calling a *tzur* the
-stone that gives fire.
+*Even* is the general term for any rock. A *sela* is a hard rock, and Rabbi
+Shlomo Pappenheim and Malbim both write that a *tzur* is harder still. *Tzur* is
+**flintrock** or **hard rock**, and it is also a divine epithet; Rambam adds a
+second sense, the quarry a stone is hewn from, hence **source**. *Chalamish* is
+conventionally **flint**, but Rabbi Pappenheim makes it a subdivision of *tzur*
+covering the very hardest stones. Malbim explains that a *sela* is porous and
+can hold water while a *tzur* cannot, and this, Rabbi Klein notes, fits neatly
+with Rabbi Chaim Vital's calling a *tzur* the stone that gives fire.
 
 ## At a glance
 

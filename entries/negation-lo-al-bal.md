@@ -29,13 +29,14 @@ updated: 2026-09-10
 
 ## Bottom line
 
-All three negate. *Lo* is the Torah's word for a standing prohibition and also
-the plain factual "did not"; *al* is a negative imperative aimed at a future
-act, "do not" (Rabbi Ber Oppenheimer); *bal* is the word Chazal use to *name* a prohibition already
-issued in the Torah with *lo*. So *lo sashchis* in a pasuk is **"you shall not
-destroy"**, while *bal tashchis* in a sugya is **"the prohibition of bal
-tashchis"**, not a fresh command. *Bal* is not a Rabbinic coinage: it appears
-close to seventy times in Tanach, though never in Chumash.
+All three negate. *Lo* is the Torah's word for a standing prohibition. Rabbi Ber
+Oppenheimer explains that it also serves for the plain factual "did not," while
+*al* is a negative imperative aimed at a future act, "do not." *Bal* is the word
+Chazal use to *name* a prohibition that the Torah already issued with *lo*. So
+*lo sashchis* in a pasuk is **"you shall not destroy"**, while *bal tashchis* in
+a sugya is **"the prohibition of bal tashchis"**, not a fresh command. *Bal* is
+not a Rabbinic coinage: it appears close to seventy times in Tanach, though
+never in Chumash.
 
 ## At a glance
 

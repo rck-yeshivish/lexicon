@@ -24,13 +24,15 @@ updated: 2026-09-10
 ## Bottom line
 
 *Kohen* is the general word: a **priest** of any cult, and in Tanach it is used
-of Poti Phera, Yisro, and the priest of Michah's idol no less than of Aharon's
-sons. *Komer* is specific: an **idolatrous priest** (Radak, Ibn Kaspi).
-*Kohen* does not by itself mean an idolatrous priest; the Targum and Rashi
-decide that case by case. This distinction does not settle Tzefaniah 1:4, where
-four readings stand, including Targum and Rashi seemingly reversing the usual
-division and, on Dr. Chaim Tawil's Akkadian evidence, the possibility that the
-two words are synonyms from two languages.
+of Poti Phera, Yisro and the priest of Michah's idol no less than of Aharon's
+sons. *Komer* is specific: an **idolatrous priest** (Radak, Ibn Kaspi). *Kohen*
+does not by itself mean an idolatrous priest; the Targum and Rashi decide case
+by case whether it does. Where it is bound to a place name, as with Poti Phera
+and Yisro, Onkelos renders it *rabbah*, master, and Rashi takes it as a position
+of leadership. The general rule does not settle Tzefaniah 1:4, where both words
+stand in one pasuk and four readings are given. Targum and Rashi seem to reverse
+the usual division there, and on Dr. Chaim Tawil's Akkadian evidence the two
+words may be synonyms drawn from two languages.
 
 ## At a glance
 

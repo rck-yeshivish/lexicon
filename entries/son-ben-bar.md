@@ -25,11 +25,12 @@ updated: 2026-09-22
 
 ## Bottom line
 
-Simplistically speaking, both mean **son** and the difference is language, not
-sense: *ben* is Hebrew, *bar* is its Aramaic equivalent, which is why Targum
-renders *ben* as *bar* everywhere. *Bar* in Aramaic also means **outside**
-or **separate**; for Rabbi Yaakov Margolis that double meaning is why a get
-says *ben*, and some read a lesson from it into *bar mitzvah*.
+Simplistically speaking, *ben* and *bar* both mean **son**, in two different
+languages: *ben* is the Hebrew word and *bar* its Aramaic equivalent, which is
+why the Targumim render *ben* as *bar* wherever it appears in Tanach. In Aramaic
+*bar* also means **outside** or **separate**. Rabbi Yaakov Margolis rules that a
+get should say *ben* because *bar* carries that double meaning, and some read in
+that second sense a lesson for the *bar mitzvah* boy.
 
 ## At a glance
 

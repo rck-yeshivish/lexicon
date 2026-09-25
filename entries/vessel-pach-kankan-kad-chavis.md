@@ -36,17 +36,21 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Pach* is a pottery **flask** or **jug**, smaller than a *chavis* (Rashi), used
-in Tanach only in *pach hashemen*. *Kankan* is a Mishnaic **jug** or **jar**;
-*kad* is typically translated **jug** or **pitcher**, *chavis* **barrel**. The Mishnah uses *kad* and *chavis* as though
-interchangeable, because in the vernacular they were not necessarily fixed (Bava
-Kamma 27a), and Rabbi Reuven Chaim Klein adds *kankan* (from Mishnayos that swap it with both)
-and *pach* (from the version of Chullin 91a that reads *levado* as *l'kado*).
-Why does *Maoz Tzur* sing of *kankanim* where the Gemara says *pachim*? Rabbi
-Reuven Chaim Klein answers that it is poetic license, and that the
-interchangeability justifies the swap as well; he calls that interchangeability
-"a real possibility," and concludes that the two "essentially mean the same
-thing." *Kaneh* is a **reed**, **stem**, or **tube**, typically hollow, rather than a container.
+*Pach* is a pottery **flask** or **jug**, smaller than a *chavis* (Rashi), and
+in Tanach it appears only in *pach hashemen*. *Kankan* is a Mishnaic **jug** or
+**jar**; *kad* is typically translated **jug** or **pitcher**, and *chavis*
+**barrel**. The Mishnah uses *kad* and *chavis* as though they were
+interchangeable, because in the vernacular their meaning was not necessarily
+fixed (Bava Kamma 27a). Rabbi Reuven Chaim Klein adds *kankan* to the set, since
+some Mishnayos swap it with both, and *pach*, since the version of Chullin 91a
+that reads *levado* as *l'kado* uses *pach* and *kad* interchangeably. Why does
+*Maoz Tzur* sing of *kankanim* where the Gemara says *pachim*? Rabbi Tzvi
+Elimelech Shapiro of Dinov rejects the answer of poetic license; Rabbi Reuven
+Chaim Klein still holds it, and adds that the interchangeability of the words
+justifies the swap as well. He calls it "a real possibility" that *pach* and
+*kankan* are synonyms, and concludes that the two "essentially mean the same
+thing." *Kaneh* is a **reed**, **stem**, or **tube**, typically hollow, rather
+than a container.
 
 ## At a glance
 

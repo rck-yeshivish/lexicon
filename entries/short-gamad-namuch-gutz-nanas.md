@@ -37,18 +37,19 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Gomed* is a **measure**, an *amah* or a cut-down *amah*, and *gamadim* in
+*Gomed* is a **measure**, an *amah* or a cut-down *amah*, and the *gamadim* in
 Yechezkel are read either as sounders of the sea's depth or as **dwarfs** an
-*amah* tall. *Namuch* is **low**, the plain Rabbinic word for short in height, of
-a person or a fence alike. *Gutz* is **stunted**; the derivation
-Rabbi Reuven Chaim Klein finds more plausible than its two rivals is a Semitic
-one, from an Aramaic sense of cutting off, as though the man's height had been
-cut short. *Nanas* is the Rabbinic term for a **dwarf**, and equally for short
-boards or low walls. *Gamad*, *namuch* and *nanas* are not confined to people.
+*amah* tall. *Namuch* is **low**, the plain Rabbinic word for short in height,
+of a person or a fence alike. *Gutz* is **stunted**. Of the three derivations
+offered for it, Rabbi Reuven Chaim Klein finds the Semitic one more plausible:
+the verb *gutz* in Aramaic carries the sense of cutting off, as though the man's
+height had been cut short. *Nanas* is the Rabbinic term for a **dwarf**, and
+equally for short boards or low walls. *Gamad*, *namuch* and *nanas* are not
+confined to people.
 
 The Gemara (Moed Katan 18a) says that the Pharaoh of Moshe's day was but one
-*amah* tall, which, Rabbi Reuven Chaim Klein observes, gives a different spin to the scene of
-Moshe and Aharon standing before him.
+*amah* tall; as Rabbi Reuven Chaim Klein observes, that gives a different spin
+to the scene of Moshe and Aharon standing before him.
 
 ## At a glance
 

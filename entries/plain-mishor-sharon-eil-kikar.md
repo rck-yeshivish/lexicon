@@ -43,15 +43,15 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Mishor* is the neutral word: **plain**, any level stretch, and it may be barren.
-*Sharon* is a **fertile plain**, rich enough to farm (Radak), and in at least
-some of its appearances in Tanach, if not all, it is the proper name of a
-specific region. *Eil* / *eilonei* is contested:
-**plain** for Targum Onkelos, the **name** of a particular plain for Rashi, and
-**wooded land outside a city** for Ramban. *Kikar* is the **grassland plain** of
-the Yarden, *avel* a bare **prairie**, and *padan* the Aramaic of *sadeh*,
-**field** (Shadal). *Mishor* sometimes means moral straightness rather than a
-plain.
+*Mishor* is the neutral word: a **plain**, any level stretch, which Rabbi Yaakov
+Tzvi Mecklenburg points out may be barren. The same word sometimes means moral
+straightness rather than a plain. *Sharon* is a **fertile plain**, rich enough
+to farm (Radak), and in at least some of its appearances in Tanach, if not all,
+it is the proper name of a specific region. *Eil* / *eilonei* is contested: it
+is a **plain** for Targum Onkelos, the **name** of a particular plain for Rashi,
+and **wooded land outside a city** for Ramban. Ramban explains *kikar*, the
+plain of the Yarden, as a **grassland plain**, and *avel* as a bare **prairie**.
+*Padan* is Aramaic for *sadeh*, **field** (Shadal).
 
 ## At a glance
 

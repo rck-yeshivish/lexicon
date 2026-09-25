@@ -30,14 +30,18 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Retzichah* is **murder**: killing with no legal warrant, and the word itself
-passes the verdict. *Harigah* is **killing** plain, lawful or not, direct or
-brought about at a distance, and it covers animals and plants as well as people.
-*Ketilah* is the Aramaic word the Targumim use for both, the ordinary Aramaic for
-**kill**; in the few Hebrew pesukim it is disputed. *Lo tirtzach* means
-"do not murder," not "do not kill," and the choice of root, Bedersi explains,
-confines the prohibition of extra-judicial killing to people, not animals or
-plants.
+*Retzichah* is **murder** and *harigah* is **killing**. Rashbam explains that
+*retzichah* is killing with no legal warrant, so that the word itself passes a
+verdict on the killer, while *harigah* is neutral, lawful or not; Rabbi
+Pappenheim draws the same line. Bedersi adds that *harigah* also covers a death
+brought about at a distance, where *retzichah* is said only of the one whose own
+hand did it (Abarbanel disagrees), and that *harigah* is used of animals and
+plants as well as people. Rabbi Nathan Adler, citing Tehillim 94:6, holds the
+two synonymous. *Ketilah* is the Aramaic word the Targumim use for both, the
+ordinary Aramaic for **kill**; what exactly it means, in Aramaic and in the four
+Hebrew pesukim that have it, is disputed. *Lo tirtzach* means "do not murder,"
+not "do not kill," and the choice of root, Bedersi explains, confines the
+prohibition of extra-judicial killing to people.
 
 ## At a glance
 

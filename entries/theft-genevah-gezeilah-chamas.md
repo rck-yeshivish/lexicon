@@ -32,18 +32,18 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Genevah* is theft **by stealth**: the *ganav* hides himself. It is
+*Genevah* is theft **by stealth**, in which the *ganav* hides himself:
 **stealing**, and the actor a **thief**. *Gezeilah* is taking **openly**, in
-public or by force: **robbery**, and the actor a **robber**. The distinction
-is visibility. The Torah imposes extra fines on the *ganav* (double, and four or
+public or by force: **robbery**, and the actor a **robber**. The distinction is
+visibility. The Torah imposes extra fines on the *ganav* (double, and four or
 five times for a slaughtered or sold animal) and none on the *gazlan*, because
 the *ganav* shows more respect for man than for Hashem (Bava Kamma 79b).
-*Chamas* appears in Tanach as theft (Rashi to Bereishis 6:13) but not always
-exclusively so, sometimes as general **violence** or **injustice**; in Chazal a
-*chamsan* is a coercive buyer who does pay, a wrongdoer but not technically a
-thief or robber. *Listim* is a Greek loanword for a **robber** or brigand, and
-whether an armed *listim* counts as *ganav* or *gazlan* is disputed among the
-authorities.
+*Chamas* can mean theft in Tanach (Rashi to Bereishis 6:13), but it does not
+always refer exclusively to stealing; sometimes it is general **violence** or
+**injustice**. In Chazal a *chamsan* is a coercive buyer who does pay: a
+wrongdoer, but not technically a thief or robber. *Listim* is a Greek loanword
+for a **robber** or brigand, and whether an armed *listim* counts as *ganav* or
+*gazlan* is disputed among the authorities.
 
 ## At a glance
 

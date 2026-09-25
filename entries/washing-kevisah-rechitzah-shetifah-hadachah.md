@@ -39,19 +39,21 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Kevisah* is **laundering**: for Rabbi Shlomo Pappenheim, objects only, never a
-body, and (in his second formulation) with the water going right through the
-cloth. *Rechitzah* is **washing** a body or a part of one, by immersion or by
-pouring (Pappenheim); Rabbi Shlomo Aharon Wertheimer allows it outside or
-inside. *Shetifah* is **sluicing**: under flowing water (Pappenheim), with much
-water (Wertheimer; Radak calls it the stronger washing). *Hadachah* is
-typically translated **rinsing**, the same exterior work with little water
-(Wertheimer); *Sefer HaShem* instead distinguishes it from *rechitzah* by what
-is removed, blood against filth. *Merikah* is, for Rabbi Avraham Bedersi, **scouring** rather than water-cleaning, buffing off rust or tarnish; Rashi and
-Rambam read it within the washing of a vessel, inside against outside or a
-matter of thoroughness. *Kinuach*, Rabbinic only, is **wiping**. Vayikra 6:21 (*merikah*, *shetifah*)
-and Yeshayahu 4:4 (*rechitzah*, *hadachah*) each put two of them in a single
-verse.
+*Kevisah* is **laundering**. Rabbi Shlomo Pappenheim says it is used only of
+objects, never of a body, and, in his second formulation, that the water goes
+right through the cloth. *Rechitzah* is **washing** a body or a part of one, by
+immersion or by pouring (Pappenheim); Rabbi Shlomo Aharon Wertheimer allows it
+outside or inside. *Shetifah* is **sluicing**, under flowing water for
+Pappenheim and with much water for Wertheimer; Radak calls it the stronger
+washing. *Hadachah*, typically translated **rinsing**, works the exterior as
+*shetifah* does, but with little water (Wertheimer). *Sefer HaShem* instead
+distinguishes it from *rechitzah* by what is washed away, *hadachah* for blood
+and *rechitzah* for filth. *Merikah* is **scouring**. For Rabbi Avraham Bedersi
+it is buffing off rust or tarnish rather than cleaning with water; Rashi and
+Rambam keep it within the washing of a vessel, Rashi making it the inside as
+*shetifah* is the outside, Rambam a matter of thoroughness. *Kinuach*, Rabbinic
+only, is **wiping**. Vayikra 6:21 (*merikah*, *shetifah*) and Yeshayahu 4:4
+(*rechitzah*, *hadachah*) each put two of them in a single verse.
 
 ## At a glance
 

@@ -32,15 +32,18 @@ updated: 2026-09-22
 
 ## Bottom line
 
-For Malbim (to Yechezkel 17:4, 27:3) the three are a graded set: *socher* is
-the **wholesaler**, *cnaani* the **trader** in the middle, *rochel*
-the **peddler** who buys from the *socher* and goes door to door. Standing alone,
-*socher* is simply **merchant**, and *tagar*, the Aramaic word, is also
-**merchant** (Rashi, Eruvin 55a, makes him the local seller against the
-travelling *socher*). *Cnaani*, in a string of pesukim (Bereishis 38:2,
-Yeshayahu 23:8, Mishlei 31:24, Zecharyah 14:21 as most commentators read it, and
-with Rashi at Yechezkel 16:29, Hoshea 12:8, Iyov 40:30), means "trader," not
-"Canaanite."
+Malbim (to Yechezkel 17:4, 27:3) makes the three a graded set: the *socher* is
+the **wholesaler**, the *cnaani* the **trader** in the middle, and the *rochel*
+the **peddler** who buys from the *socher* and goes door to door. Rashi (to
+Erchin 23b) takes *socher* and *rochel* as more or less synonymous, and Rabbi
+Klein, had he been asked, would have put the *cnaani* at the top, as the
+super-wholesaler who supplies the *socher*. Standing alone, *socher* is simply
+**merchant**. *Tagar*, the Aramaic word, is also **merchant**; Rashi (to Eruvin
+55a) makes the *tagar* a local seller who stays in his own town, and the
+*socher* one who goes around the various towns. *Cnaani*, in a string of
+pesukim, means "trader," not "Canaanite": Bereishis 38:2 on Chazal's reading,
+Yeshayahu 23:8, Mishlei 31:24, Zecharyah 14:21 as most commentators read it,
+and, with Rashi, Yechezkel 16:29, Hoshea 12:8 and Iyov 40:30.
 
 ## At a glance
 
