@@ -81,11 +81,13 @@ updated: 2026-09-22
 ## Bottom line
 
 *Bokea* is **splitting open**, from the inside outward. *Korea* is **tearing**,
-and specifically of something soft, by a force from outside. *Gozer* is
-**cutting** with a blade through something thick, and by extension **decreeing**.
-*Chatichah* is the ordinary Rabbinic word for **cutting**, originally cutting in
-half. The splitting of the sea is called by all three verbs in different sources, each
-saying something different about who did what to what.
+specifically of something soft, and by a force from outside. *Gozer* is
+**cutting** with a blade through something thick, and by extension
+**decreeing**. *Chatichah* is the ordinary Rabbinic word for **cutting**,
+originally cutting in half. The Torah describes the splitting of the sea with
+*bokea*, the Oral Torah with *korea* (*kriyas Yam Suf*), and Tehillim 136:13
+with *gozer*, and each verb says something different about what happened at the
+sea.
 
 ## At a glance
 

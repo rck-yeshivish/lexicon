@@ -27,12 +27,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Gvinah* is the ordinary word and the one Chazal use: **cheese**. *Charitz*
+*Gvinah*, **cheese**, is the ordinary word and the one Chazal use. *Charitz*
 (*charitzei hechalav*, Shmuel I 17:18) and *shfot* (*shfot bakar*, Shmuel II
 17:29) each occur once, and Targum Yonasan renders both as *guvnin d'chalva*,
-cheese; but each is disputed, *charitz* possibly meaning unweaned kids or milk
-still in the udder, *shfot* possibly the udders themselves or butter. On Rabbi Avraham Maskileison's reading, that dispute is why
-Bechoros 6b cites the *charitz* pasuk only as a possible proof.
+cheese. Each is disputed, though: *charitz* may mean young kids, *shfot* the
+udders themselves or butter, and either may be milk still in the udder. Rabbi
+Avraham Maskileison explains that the dispute over *charitz* is why Bechoros 6b
+cites its pasuk only as a possible proof.
 
 ## At a glance
 

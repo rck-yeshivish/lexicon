@@ -25,14 +25,14 @@ updated: 2026-09-22
 ## Bottom line
 
 *Tzchok* and *s'chok* both mean **laughter**, and whether they differ is
-disputed. The lexicographers make them one word, with sin and tzadi
-interchanging, and find no difference of meaning between them (Menachem Ibn
-Saruk, Ibn Janach, Rabbi Shlomo Pappenheim): both run the full range from
-laughing and playing to mocking and deriding. The Ran, in his commentary on the
-Torah, separates them: *tzechok* is in the mouth, for joy, and *sechok* in the
-heart, by way of scorn. On the lexicographers' view, the discussion of
-*Yitzchak* against *Yischak* is homiletical and kabbalistic, and says nothing
-about what the words mean.
+disputed. The lexicographers Menachem Ibn Saruk, Ibn Janach and Rabbi Shlomo
+Pappenheim make them one word, sin and tzadi interchanging, with no difference
+of meaning, and for Pappenheim it runs the full range from laughing and playing
+to mocking and deriding. The Ran, in his commentary on the Torah, separates
+them: *tzechok* is in the mouth, for joy, and *sechok* in the heart, by way of
+scorn. On the lexicographers' view, the readings of the two spellings *Yitzchak*
+and *Yischak* are homiletical and kabbalistic, and say nothing about what the
+words mean.
 
 ## At a glance
 

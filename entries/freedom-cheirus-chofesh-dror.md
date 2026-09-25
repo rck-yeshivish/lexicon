@@ -30,12 +30,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Dror* is freedom from being owned by another: **release**, "free as a bird,"
-the Yovel word. *Chofesh* is freedom from the obligation to serve:
-**free, released** (a *chofshi* slave owes no more labor). *Cheirus* is the
-later, rabbinic word: **freedom** as a standing, the *ben chorin*; for Rabbi
-Jonathan Sacks it is the positive liberty. *Cheirus* never carries the sense of
-freedom in Tanach, only in Chazal.
+*Dror* is **release**, freedom from being owned by another (Rabbi Shlomo Aharon
+Wertheimer). It is the Yovel word, and it denotes being "free as a bird."
+*Chofesh* is freedom from the obligation to work (Wertheimer): **free,
+released** (a *chofshi* slave owes no more labor). *Cheirus* is the later,
+rabbinic word, **freedom** as a standing, the *ben chorin*; it never carries the
+sense of freedom in Tanach, only in Chazal. For Rabbi Jonathan Sacks it is the
+positive liberty.
 
 ## At a glance
 

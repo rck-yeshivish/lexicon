@@ -29,12 +29,13 @@ updated: 2026-09-10
 ## Bottom line
 
 *Shemirah* is the general word: **guard**, **watch**, **keep**, and by extension
-**wait for** something whose hour has not yet come; for the *Siddur HaRokeach*
-and Rabbi Wertheimer it is bounded in time. *Netzirah* is, for the Vilna Gaon
-and Wertheimer, the stronger watch, and for the Rokeach and Wertheimer the
-perpetual one: **safeguard**, **watch over** (unceasingly). *Netirah*, for
-Malbim, is holding something in the mind: **harbor** (a grudge), **hold on to**. *Lo sitor* (Vayikra 19:18) does not mean "do not guard" but "do
-not keep it stored up inside."
+**wait for** something whose hour has not yet come. For the *Siddur HaRokeach*
+and Rabbi Wertheimer it is bounded in time. *Netzirah* is to **safeguard** or
+**watch over** (unceasingly): the Vilna Gaon and Wertheimer hold that it is the
+stronger watch, and the Rokeach and Wertheimer that it is the perpetual one. For
+Malbim, *netirah* is holding something in the mind: **harbor** (a grudge),
+**hold on to**. *Lo sitor* (Vayikra 19:18) forbids keeping a grievance stored up
+inside, though nothing tangible is being guarded.
 
 ## At a glance
 

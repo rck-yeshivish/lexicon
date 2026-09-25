@@ -28,13 +28,14 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Nachalah* is **inheritance** in the sense of a patrimony: property that comes
-down the generations (Malbim), or one portion among several (Shadal).
-*Yerushah* is **inheritance** as a bare legal transfer: property that passes out
-of one man's *reshus* into another's, with no assumption that it was willingly
-given (Malbim), or with no one else sharing in it (Shadal). *Achuzah* is the
-**holding**, inherited property the heir has actually taken hold of. Several
-competing approaches separate the first two.
+Several competing approaches separate *nachalah* from *yerushah*. *Nachalah* is
+**inheritance** in the sense of a patrimony: property that comes down the
+generations (Malbim), or one portion among several (Shadal). *Yerushah* is
+**inheritance** too. For Malbim it is a bare legal transfer, property that
+passes out of one man's *reshus* into another's with no assumption that it was
+willingly given; for Shadal it is inheritance with no one else sharing in it.
+*Achuzah* is the **holding**, inherited property the heir has actually taken
+hold of.
 
 ## At a glance
 

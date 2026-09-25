@@ -46,11 +46,14 @@ updated: 2026-09-10
 
 These are different animals, not stylistic variants. *Chamor* is the
 domesticated donkey and, in Biblical Hebrew, of either sex (Radak): **donkey**.
-*Aton* is the she-donkey, the **jenny** or **she-ass** (Radak; Bilaam's animal
-through Bamidbar 22). *Pere* (Aramaic *arud*) is the undomesticated **wild ass**;
-Radak classes *chamor* as a *behemah* and *pere* as a *chayah*. *Ayir* is the
-young one, a **foal**; *pered* is the **mule**. Zecharyah 9:9 puts *chamor* and
-*ayir* in one pasuk.
+*Aton*, Bilaam's animal throughout Bamidbar 22, is the she-donkey according to
+Radak: the **jenny** or **she-ass**. Shadal holds that it first meant the female
+of the wild *pere* and later took in the domestic female too, and Rabbi Shlomo
+Pappenheim rejects the feminine reading and makes it the donkey at its full
+strength. *Pere* (Aramaic *arud*) is the undomesticated **wild ass**. Radak
+classes the *chamor* as a *behemah* and the *pere* as a *chayah*. *Ayir* is the
+young one, a **foal**, and Zecharyah 9:9 puts *chamor* and *ayir* in one pasuk.
+*Pered* is the **mule**.
 
 ## At a glance
 

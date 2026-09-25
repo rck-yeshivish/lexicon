@@ -43,17 +43,16 @@ updated: 2026-09-10
 
 ## Bottom line
 
-All of these are words for a **lion**, and Chazal count six or seven of them.
-The sources divide on what the set is.
-The sources of the first group seem to take all seven as the same animal, named
-for seven different attributes of it or human reactions to it (Sanhedrin 95a;
-*Yalkut Shimoni*). Others take them as stages of a lion's life, and differ among
-themselves: Radak's progression runs *gur* the nursing cub, then *kfir*, then
-*aryeh*, then *lavi*, then *layish*, each stage stronger than the last, and he
-does not say where *shachal* fits; the Vilna Gaon has three stages only, *kfir*,
-*aryeh*, *shachal*; Abarbanel flattens the set to two, *gur* and *kfir* young,
-*aryeh*, *layish* and *lavi* grown. Others still read some of these words as other
-animals altogether.
+Chazal count six or seven words for a **lion**, and the sources divide on what
+the set is. The sources that count them (Sanhedrin 95a; *Yalkut Shimoni*) seem
+to take all seven as the same animal, named for seven different attributes of it
+or human reactions to it. Others take them as stages of a lion's life, and
+differ among themselves. Radak's progression runs *gur*, the nursing cub, then
+*kfir*, then *aryeh*, then *lavi*, then *layish*, each stage stronger than the
+last, and he does not say where *shachal* fits. The Vilna Gaon has only three
+stages, *kfir*, *aryeh* and *shachal*. Abarbanel rejects so many stages: *gur*
+and *kfir* are synonyms for a young lion, and *aryeh*, *layish* and *lavi* for
+an older one. Others still read some of these words as other animals altogether.
 
 ## At a glance
 

@@ -40,14 +40,14 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Poh* is the ordinary **here**, and for Luzzatto and Wertheimer the precise one:
-a specific spot. *Halom* is
-directional, **hither**, a step arrived at rather than a place stood in (Rav
-Hirsch, as Dr. Lawrence Resnick sums him up), and Chazal read it as marking a
-place of royal weight (Zevachim 102a). *Heinah* is **here** as a destination
-reached from elsewhere (Luzzatto), and, unlike *poh* and *halom*, also **until
-now** (Bedersi). *Zeh* for place is the loose one, a general area, and *koh* is
-**thereabouts** (both Luzzatto).
+*Poh* is the ordinary **here**, and Luzzatto and Wertheimer take it as the more
+specific one, a particular spot. *Halom* is directional, **hither**, a step
+arrived at rather than a place stood in (Rav Hirsch, as Dr. Lawrence Resnick
+sums him up), and Chazal postulate that it always connotes something to do with
+royalty (Zevachim 102a). *Heinah* is **here** as a destination reached from
+elsewhere (Luzzatto), and, unlike *poh* and *halom*, it can also mean **until
+now** (Bedersi). Luzzatto takes *zeh*, used of place, as the less specific word,
+a general area, and *koh* as **thereabouts**, near here rather than here itself.
 
 ## At a glance
 

@@ -41,19 +41,23 @@ updated: 2026-09-22
 
 ## Bottom line
 
-Biblical Hebrew assigns each animal its own verb, exactly as English does not
-let a cow bark. Rabbi Klein sees onomatopoeia at work: he holds that in all
-languages the words for animal sounds seem to derive from the sounds themselves,
-and that societies sometimes hear those sounds differently, which is why an American child
-says a rooster crows "cock-a-doodle-do" and an Israeli child "koo-koo-ri-koo",
-and why a dog goes "bow-wow" in one place and "hav-hav" in another. A lion has
-four verbs: *shoeg* is **roars** (hunger, dominance),
-*nohem* is **growls** (satisfaction turned wild), *yehegeh* is **moans** (steady
-and sustained, also said of a dove), and *noer* is a sudden **roar** let out by
-a cub. A bear is *shokek*, a wild donkey *nohek* (**brays**), a cow *goeh*
-(**bellows**), a horse *tzohel* (**neighs**), a bird *mitzaftzef* (**chirps**),
-a dog *novayach* (**barks**). The point of listing the four lion verbs is that
-they differ.
+Biblical Hebrew assigns each animal its own verb, just as English does not let a
+cow bark. Rabbi Klein sees onomatopoeia at work: he holds that in all languages
+the words for animal sounds seem to derive from the sounds themselves, and that
+societies sometimes hear those sounds differently, which is why an American
+child says a rooster crows "cock-a-doodle-do" and an Israeli child
+"koo-koo-ri-koo", and why a dog goes "bow-wow" in one place and "hav-hav" in
+another. A lion has four distinct verbs: *shoeg* is **roars**, *nohem* is
+**growls**, *yehegeh* is **moans** (also said of a dove), and *noer* is a
+**roar** let out by a cub. Rabbi Yechiel Michel Stern suggests that they differ
+by the reason the lion makes noise: it is *shoeg* when it is hungry and shows
+its dominance (the Vilna Gaon), and *nohem* when it has plenty to eat and goes
+wild (Rashi). Rabbi Shlomo Pappenheim separates them by their roots instead:
+*shoeg* is almost involuntary, *nohem* deliberate, *yehegeh* steady and
+sustained, and *noer* sudden. A bear is *shokek*, though Ibn Janach and Radak
+take that word as its sauntering gait rather than a sound. A wild donkey is
+*nohek* (**brays**), a cow *goeh* (**bellows**), a horse *tzohel* (**neighs**),
+a bird *mitzaftzef* (**chirps**), and a dog *novayach* (**barks**).
 
 ## At a glance
 

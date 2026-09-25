@@ -49,12 +49,16 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Shor* is the **ox**, and it bears that name from the day it is born. *Par* is
-the **bull**, *parah* the **cow** or **heifer**, and the name attaches only once
-the animal is grown. *Egel* and *eglah* are the male and female **calf**. *Aleph*
-is the strong working **ox** of Tanach's poetry, eight appearances. *Bakar* is
-the collective, **cattle**, and its *boker* is the **herdsman**. *Shor* is not
-a synonym for *par* at any age.
+*Shor* is the **ox**, *par* the **bull**, and *parah* the **cow** or **heifer**.
+Rashi explains that a *shor* bears its name from the day it is born, while *par*
+is a name the animal takes on only later; Rabbi Shlomo Pappenheim sees the *par*
+as the fertile male, and Radak calls the *shor* big and the *par* small, without
+saying whether in age or in build. *Shor* is not a synonym for *par* at any age.
+*Egel* and *eglah* are the male and female **calf**, and the female is called a
+*parah* only once grown. *Aleph*, which appears eight times in Tanach for
+cattle, is the poetic word for the **ox**: for Rabbi Pappenheim the strongest
+sort of ox, for Malbim a trained one. *Bakar* is the collective, **cattle**, and
+its *boker* is the **herdsman**.
 
 ## At a glance
 

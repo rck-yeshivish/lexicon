@@ -39,11 +39,15 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Behemah* is the ordinary word for a **domesticated animal**; *chayah* a **wild
-animal**; *be'ir* a rare word for a **beast**, and for Rav Hirsch the most
-subdued of the three, doing nothing but what instinct drives it to. The same root
-gives *ba'ar*, the **brute** or **boor**, and on one view the Mishnaic *bur*, the
-**uncultured man**. A pasuk that pairs *ba'ar* with *behemah* (Tehillim 73:22) may allude to the connection between beast and boor.
+*Behemah* is the ordinary word for a **domesticated animal**, *chayah* a **wild
+animal**, and *be'ir* a rare word for a **beast**, which for Rav Hirsch is the
+most subdued of the three, doing nothing but what instinct drives it to. Rav
+Hirsch and others tie *be'ir* to *ba'ar*, the **brute** or **boor**; Mitchell
+First holds *be'ir* unrelated to the other senses of ב-ע-ר, and Rabbi Shlomo
+Yehuda Rapoport reads it as "in the city." Rabbi Eliyahu HaBachur takes the
+Mishnaic *bur*, the **uncultured man**, as a form of *ba'ar* too, though others
+derive it differently. Tehillim 73:22, which pairs *ba'ar* with *behemah*, may
+allude to the connection between beast and boor.
 
 ## At a glance
 

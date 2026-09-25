@@ -26,10 +26,10 @@ updated: 2026-09-22
 ## Bottom line
 
 *Mitah* (*maves*, *meis*) is **death** as the physical end, the parting of body
-and soul, said of anyone and of animals. *Petirah* (*nifter*) is **passing**,
-literally "exiting, taking leave," the Rabbinic word for a person leaving This
-World for the Next; it is generally reserved for the righteous and implies a
-continuation. *Nifter* is "passed away" or "departed."
+and soul, and it is said of anyone, animals included. *Petirah* (*nifter*) is
+**passing**, literally "exiting" or "taking leave." It is the Rabbinic word for
+a person's leaving This World for the Next; it is generally reserved for the
+righteous, and it implies a continuation.
 
 ## At a glance
 

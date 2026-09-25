@@ -33,11 +33,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Sus* is the ordinary **horse**. *Rechesh* is a particular kind, fast, used for
-couriers or for pulling: **swift steed** or **courier horse**, not plain "horse."
-*Achashtranim* and *remachim* occur together only in Esther 8:10, and Megillah
-18a says outright that we do not know what they mean; many commentators make
-*achashtranim* **mules** and *remachim* the **mares** that bore them.
+*Sus* is the ordinary **horse**. *Rechesh* is a particular kind of horse, fast
+and used for couriers or for pulling: a **swift steed** or **courier horse**,
+not plain "horse." Radak, though, holds that it is some swift animal and not
+necessarily a horse at all. *Achashtranim* and *remachim* occur together only in
+Esther 8:10, and Megillah 18a says outright that we do not know what they mean.
+Many commentators take *achashtranim* to be **mules** and *remachim* the
+**mares** that bore them.
 
 ## At a glance
 
@@ -191,7 +193,7 @@ king's horse the name Shifrigaz, which Rabbi Eliyahu HaBachur vocalizes in
 *Megillas Lester*, where the king's horse is named Hangover.)
 
 ### achashtranim (אחשתרנים) and remachim (רמכים)
-Both are confined to Esther 8:10. Menachem Ibn Saruk, Ibn Janach, and Radak parse
+*Remachim* appears only at Esther 8:10; *achashtranim* appears there and at 8:14. Menachem Ibn Saruk, Ibn Janach, and Radak parse
 *achashtranim* from a six-letter root, Ibn Janach holding the NUN not a root
 letter, and elsewhere implying the same of the ALEPH, so that for him the root
 is four or five letters;

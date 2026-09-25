@@ -32,17 +32,18 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Makkah* is a **blow**, and from there a **wound** and a **plague**; cognates of
+*Makkah* is a **blow**, and from there a **wound** and a **plague**. Cognates of
 *makkah* are the Torah's own language for judicial **lashes**, and the plural
-*makkot* names them. *Malkut* is the
-Mishnaic word for the same punishment, **flogging**, which the linguist Avraham
-Even-Shoshan derives from the Aramaic root ל-ק-ה. On Even-Shoshan's account the
-two mean essentially the same thing in different languages, and Rabbi Klein
-posits from this that the masechta simply carries a Hebrew name and an Aramaic
+*makkot* names them. *Malkut* is the Mishnaic word for the same punishment,
+**flogging**, and the linguist Avraham Even-Shoshan derives it from the Aramaic
+root ל-ק-ה. On his account the two mean essentially the same thing in different
+languages, and in light of this and of Rabbi Eliyahu HaBachur's understanding,
+Rabbi Klein posits that the masechta simply carries a Hebrew name and an Aramaic
 one. Two other authorities do read a real difference of scope into the pair, in
-opposite directions; and in any case *makkeh* is the one who strikes and *lokeh*
-the one struck (Rabbi Eliyahu HaBachur). The Tiferes Yisrael holds that *lakah*
-can mean impaired rather than struck.
+opposite directions: for the Tiferes Yisrael *makkot* is the narrower word,
+since *lakah* can mean impaired rather than struck, and for Rabbi Elazar Rokeach
+*makkot* is the wider, covering any painful ordeal. In any case, *makkeh* is the
+one who strikes and *lokeh* the one struck (HaBachur).
 
 ## At a glance
 

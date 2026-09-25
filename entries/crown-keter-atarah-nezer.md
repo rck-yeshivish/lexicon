@@ -38,14 +38,15 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Keter* is the **royal crown**: all three appearances in Tanach are in the phrase
-*keser malchus* (Esther 1:11, 2:17, 6:8), and by the Malbim it sits around the
-head without rising above it, a coronet. *Atarah* is the general **crown** or
-**wreath**, of any wearer, and it encircles the head and rises above it
-(Malbim). *Nezer*
-is the crown of **consecration and separation**, worn by the nazir and the Kohen
-Gadol, which is why the word marks a man off as set apart. Some hold *keter* is the general word and the other two are particular
-kinds, but most read all three as distinct kinds.
+*Keter* is the **royal crown**: all three of its appearances in Tanach are in
+the phrase *keser malchus* (Esther 1:11, 2:17, 6:8). The Malbim describes it as
+sitting around the head without rising above it, a coronet. *Atarah* is the
+general **crown** or **wreath**, of any wearer, and it encircles the head and
+rises above it (Malbim). *Nezer* is the crown of **consecration and
+separation**, worn by the nazir and the Kohen Gadol, and its use for them shows
+that the word marks a man off as set apart. Some explain that *keter* is the
+general word and the other two are particular kinds, but most commentators take
+all three as distinct kinds.
 
 ## At a glance
 

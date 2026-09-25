@@ -36,17 +36,17 @@ updated: 2026-09-10
 ## Bottom line
 
 *Tov* is **good**, the plain and general word. *Noam* (adjective *naim*) is
-**pleasant**: goodness felt as beauty that draws a person in; Rabbi Bedersi
+**pleasant**, goodness felt as beauty that draws a person in; Rabbi Bedersi
 (*Chosam Tochnis*) defines it as *yofi*. *Shapir* / *shefer* is **fine** or
-**fitting**: goodness in the sense of well done, proper, meeting the standard;
+**fitting**, goodness in the sense of well done, proper, meeting the standard.
 Bedersi defines it as *tov*, and in the Gemara *shapir* is primarily the adverb
-"well". Two readings of Bedersi's split, neither of them his own words: Rabbi
-Klein, who freely admits he is probably reading too much into Bedersi, takes
-*noam* as subjective, personally felt goodness and *shapir* as objective
-goodness; Rabbi Shaul Goldman holds that even if both are subjective they name
-different qualities, *noam* attraction and desirability (whatever its basis) and
-*shapir* plain positivity with no pull in it. *Tov* and *naim* sit together in
-one pasuk (Bereishis 49:14).
+"well". Bedersi's split is read two ways, and neither reading is in his own
+words. Rabbi Klein, who freely admits he is probably reading too much into
+Bedersi, takes *noam* as subjective, personally felt goodness and *shapir* as
+objective goodness. Rabbi Shaul Goldman holds that even if both are subjective
+they name different qualities: *noam* is attraction and desirability, whatever
+its basis, and *shapir* is plain positivity, which need have no pull in it.
+*Tov* and *naim* appear together in one pasuk (Bereishis 49:15).
 
 ## At a glance
 
@@ -137,7 +137,7 @@ Naftali is the quick and persuasive communicator.
 ### Why Torah mastery went to Yissachar and not Naftali
 Yaakov gave Yissachar and Naftali essentially the same berachah, that they excel
 in Torah, and the only difference is the word: *na'eimah* for Yissachar
-(Bereishis 49:14, read of Torah by Bereishis Rabbah 98:12, with the Zohar
+(Bereishis 49:15, read of Torah by Bereishis Rabbah 98:12, with the Zohar
 Vayechi 242b making "rest" the Written Torah and "the land" the Oral Torah) and
 *imrei shefer* for Naftali (49:21). Yet in practice it is Yissachar who is more
 associated with mastery of Torah: Klal Yisrael consulted the children of
@@ -163,7 +163,7 @@ the precedent of Sarah and Hagar.
 - *shapir* / *shefer*: "fine", "fitting", "well" (Aramaic adverb), "becoming".
   *Imrei shefer*: "fine sayings" or "goodly words"; not "beautiful words", which
   hands *shefer* the English that belongs to *yofi* and *noam*.
-- Together, Bereishis 49:14: "he saw that rest was good and the land was
+- Together, Bereishis 49:15: "he saw that rest was good and the land was
   pleasant." Tehillim 16:6: "portions have fallen to me in pleasant places; yes,
   a fine inheritance is mine." Two words, never "good" twice.
 - Trap: "good" absorbs all three, and "beautiful" absorbs *noam* and *shapir*
@@ -186,4 +186,4 @@ Rabbi Reuven Chaim Klein, "[Nitzavim/Vayelech/RH: The Shofar's Horn](https://art
 
 Rabbi Reuven Chaim Klein, "[Nitzavim/Vayelech/RH: The Shofar's Horn](https://articles.ohr.edu/articles/nitzavimvayelechrh-the-shofars-horn-2)," *What's in a Word?*, Ohr Somayach, 24 September 2022.
 
-Cited in the essay: Bereishis 4:22, 30:3-9, 30:14-18, 46:13, 49:14, 49:21; Melachim I 14:21, 14:31; Melachim II 5:2-27; Divrei HaYamim II 12:13; Tehillim 16:6; Iyov 26:13; Daniel 3:32, 4:24, 6:2; Rabbi Eliyahu HaBachur, *Meturgeman*, on Targum to Vayikra 10:20, Bamidbar 24:1, Bereishis 6:2, 12:11, 29:17, 41:2, Shmuel I 8:16, 9:2, Melachim I 20:3; Rabbi Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo* s.v. נעם; Rav Hirsch to Bereishis 5:30, and to 5:1 and 49:11; the Vilna Gaon on *naim* and *matok*; Ibn Janach and Radak, *Sefer HaShorashim* s.v. שפר and נעם; *Machberes Menachem*; Bedersi, *Chosam Tochnis* s.v. שפר / נעם; Rabbi Moshe Shapiro; Bereishis Rabbah 98:12; Zohar Vayechi 242b; Midrash Shocher Tov to Tehillim 81:4; Sotah 13a; Midrash Aggadah to Bereishis 49:21; Kiddushin 22a; Sifrei Ki Seitzei 211; Ibn Ezra to Devarim 21:11; Divrei HaYamim I 12:33; Yoma 26a; Targum Yonasan to Bereishis 46:13; Rabbi Shaul Goldman in private correspondence with the author.
+Cited in the essay: Bereishis 4:22, 30:3-9, 30:14-18, 46:13, 49:15, 49:21; Melachim I 14:21, 14:31; Melachim II 5:2-27; Divrei HaYamim II 12:13; Tehillim 16:6; Iyov 26:13; Daniel 3:32, 4:24, 6:2; Rabbi Eliyahu HaBachur, *Meturgeman*, on Targum to Vayikra 10:20, Bamidbar 24:1, Bereishis 6:2, 12:11, 29:17, 41:2, Shmuel I 8:16, 9:2, Melachim I 20:3; Rabbi Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo* s.v. נעם; Rav Hirsch to Bereishis 5:30, and to 5:1 and 49:11; the Vilna Gaon on *naim* and *matok*; Ibn Janach and Radak, *Sefer HaShorashim* s.v. שפר and נעם; *Machberes Menachem*; Bedersi, *Chosam Tochnis* s.v. שפר / נעם; Rabbi Moshe Shapiro; Bereishis Rabbah 98:12; Zohar Vayechi 242b; Midrash Shocher Tov to Tehillim 81:4; Sotah 13a; Midrash Aggadah to Bereishis 49:21; Kiddushin 22a; Sifrei Ki Seitzei 211; Ibn Ezra to Devarim 21:11; Divrei HaYamim I 12:33; Yoma 26a; Targum Yonasan to Bereishis 46:13; Rabbi Shaul Goldman in private correspondence with the author.

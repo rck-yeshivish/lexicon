@@ -76,14 +76,15 @@ Each direction has three Hebrew names, and each name says *why*: **east** is
 *mizrach* (where the sun shines out), *kedem* (the sun's first, forward
 position), or *panim* (facewards); **west** is *yam* (seaward, toward the
 Mediterranean), *maarav* (where shadows blur), or *acharon* (the sun's last
-place); **north** is *tzafon* (on one explanation, hidden from the sun), *smol* (left), or the
-Aramaic *estan*; **south** is *darom* (the sun's daytime path), *negev* (the dry
-country), or *teiman*/*yamin* (right). Rabbi Eliyahu Benamozegh notes that Tanach never
-actually uses *semol* for the north, as it uses *yamin* for the south. Bereishis 28:14 pairs *yam*, *kedem*, *tzafon*, *negev*; Devarim 3:27 pairs
-*yam*, *tzafon*, *mizrach*, *teiman*. Rabbi Klein's own answer to why the
-doublets exist: the several names each fix on a different aspect of the same
-direction, and are generally based either on the movements of the sun or on
-certain topographical features of Eretz Yisrael.
+place); **north** is *tzafon* (on one explanation, hidden from the sun), *smol*
+(left), or the Aramaic *estan*; **south** is *darom* (the sun's daytime path),
+*negev* (the dry country), or *teiman*/*yamin* (right). Rabbi Eliyahu Benamozegh
+notes, though, that Tanach never actually uses *semol* for the north as it uses
+*yamin* for the south. Bereishis 28:14 names the four directions *yam*, *kedem*,
+*tzafon* and *negev*; Devarim 3:27 names them *yam*, *tzafon*, *mizrach* and
+*teiman*. Rabbi Klein explains the doublets this way: the several names each fix
+on a different aspect of the same direction, and are generally based either on
+the movements of the sun or on certain topographical features of Eretz Yisrael.
 
 ## At a glance
 

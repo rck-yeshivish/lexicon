@@ -34,10 +34,11 @@ updated: 2026-09-22
 
 *Mizbeach* is the **altar** proper, built of many stones (or of plated wood in
 the Mishkan), square, with four horns. *Matzeivah* is the **single-stone altar**
-or **pillar**, beloved in the days of the Avos and forbidden afterwards; where no sacrifice is in view it is a **pillar** or
-**monument**, and Ramban denies it is an altar at all. *Bamah* is a **high place**, a **private altar**
-away from the central place of worship. The Torah itself contrasts the
-commanded *mizbeach* with the hated *matzeivah*.
+or **pillar**; where no sacrifice is in view it is a **pillar** or **monument**.
+On Rashi's reading it is an altar, beloved in the days of the Avos and forbidden
+afterwards; Ramban denies it is an altar at all. *Bamah* is a **high place**, a
+**private altar** away from the central place of worship. The Torah itself
+contrasts the commanded *mizbeach* with the hated *matzeivah*.
 
 ## At a glance
 

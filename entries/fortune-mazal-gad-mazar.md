@@ -30,12 +30,12 @@ updated: 2026-09-22
 ## Bottom line
 
 In its one Biblical use *mazal* seems to be a **constellation**; in Chazal it is
-also the **destiny** or Divine influence channeled to a person or thing. *Gad* is
-**fortune**, and more precisely the spiritual force assigned to a particular
-thing (Rabbi Shlomo Pappenheim). *Mazar* is a hapax: a **constellation** for
-most commentators, Rashi among them, a particular star or group of stars for Ibn
-Ezra. *Mazal tov*, as the prevailing custom uses it, refers to Hashem's bestowal
-of good, not to blind chance.
+also the **destiny** or Divine influence channeled to a person or thing. *Gad*
+is **fortune**, and more precisely the spiritual force attached to a particular
+thing (Rabbi Shlomo Pappenheim). *Mazar* is a hapax. Most commentators, Rashi
+among them, take it as a **constellation**; Ibn Ezra takes it as a particular
+star or group of stars. *Mazal tov*, as the prevailing custom uses it, refers to
+Hashem's bestowal of good, not to blind chance.
 
 ## At a glance
 

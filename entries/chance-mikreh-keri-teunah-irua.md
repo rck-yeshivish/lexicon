@@ -36,15 +36,16 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Mikreh* is an **occurrence** or **happenstance**, the collision of a person
-with circumstances he did not arrange. *Keri* is the same root in the Torah's
-rebuke (Vayikra 26), where it means **offhandedness** or
-**flippancy** toward Hashem (Rabbi Shlomo Pappenheim reads it instead as the
-sinner's provoking posture), and in Mishnaic Hebrew it is the euphemism for a
-seminal emission. *Te'unah* is a **mishap** or
-**befalling**, named, on Malbim's reading, for the causes that converge rather than the point of
-contact. *I'rua* is post-biblical, a plain **event** or **incident**. The whole
-argument of Vayikra 26 is about attitude, not chance.
+*Mikreh* is an **occurrence** or **happenstance**; Rabbi Shlomo Pappenheim
+explains it as the sudden, unanticipated collision of a person with a new set of
+circumstances. *Keri*, from the same root, appears in the Torah's rebuke
+(Vayikra 26), where many commentators, Rav Hirsch among them, take it as
+**offhandedness** or **flippancy** toward Hashem, while Rabbi Pappenheim reads
+it as the sinner's provoking posture. On either reading, Vayikra 26 is about
+attitude, not chance. In Mishnaic Hebrew *keri* is the euphemism for a seminal
+emission. *Te'unah* is a **mishap** or **befalling**; Malbim takes it to refer
+to the confluence of an incident's causes, where *mikreh* is the point at which
+things meet. *I'rua* is post-biblical, a plain **event** or **incident**.
 
 ## At a glance
 

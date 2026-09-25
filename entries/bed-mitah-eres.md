@@ -27,14 +27,15 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Mitah* is the ordinary **bed**, close to thirty appearances in Tanach, from a
-root meaning to incline or stretch out, since a man inclines his body to lie
-down. *Eres* is the rarer word, nine appearances, and most of the explanations that
-distinguish the two make it the more particular one: a fitted or special bed, an iron-framed one, a
-crib, a bed of woven or cross-fastened planks. In many instances Targum renders
-both by *arsa*.
-Ramchal holds they are genuine synonyms paired for poetic effect; the other views
-cited do not treat them as fully synonymous.
+*Mitah* is the ordinary **bed**, found close to thirty times in Tanach. It comes
+from a root meaning to incline or stretch out, since a man inclines his body to
+lie down. *Eres* is the rarer word, found nine times, and most of the
+explanations that distinguish the two make it the more particular one: a fitted
+or special bed (Malbim), an iron-framed one (Rabbi Wertheimer), a crib
+(Rashbam), or a bed of woven or cross-fastened planks (Rabbi Mecklenburg and Rav
+Hirsch). Ramchal holds they are genuine synonyms paired for poetic effect, and
+the Targumim, which in many instances render both by *arsa*, would suggest that
+they mean the same thing; the other views do not treat them as fully synonymous.
 
 ## At a glance
 

@@ -35,18 +35,19 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Go'al* is dirtying by something inherently disgusting (blood, excrement,
-forbidden food): **defilement, befouling**. *Tinuf* and *lichluch* are dirtying
-by something not necessarily disgusting in itself but unwanted where it landed
-(Rabbi Shlomo Pappenheim): **soiling** and **grime**, with *lichluch* wet in its
-one mishnaic use (*Mikvaos* 9:4). *Zuhamah* is the unwanted residue that clings and
-usually smells: **filth**. *Elach* is the spoiling of something homogeneous by
-an incompatible admixture: **tainted, sullied**. The difference is whether the dirtying agent is disgusting
-in itself (*go'al*), merely misplaced (*tinuf*, *lichluch*), or a foreign
-element mixed in (*elach*). The distinctions are not agreed, though: Rabbi
-Tanchum HaYerushalmi writes fairly clearly, in at least two places, that
-*tinuf*, *lichluch* and *zuhamah* are all synonymous, and Pappenheim himself
-seems to equate *lichluch* with *tinuf*, as do Ibn Janach and Radak.
+*Go'al* is dirtying by something inherently disgusting, such as blood, excrement
+or forbidden food: **defilement, befouling**. *Tinuf* and *lichluch* are
+dirtying by something not necessarily disgusting in itself but unwanted where it
+landed (Rabbi Shlomo Pappenheim): **soiling** and **grime**, with *lichluch* wet
+in its one mishnaic use (*Mikvaos* 9:4). *Zuhamah* is the unwanted residue that
+clings and usually smells: **filth**. *Elach* is the spoiling of something
+homogeneous by an incompatible admixture: **tainted, sullied**. On Pappenheim's
+account, then, the difference lies in the dirtying agent: whether it is
+disgusting in itself (*go'al*), merely misplaced (*tinuf*, *lichluch*), or a
+foreign element mixed in (*elach*). The distinctions are not agreed, though.
+Rabbi Tanchum HaYerushalmi writes fairly clearly, in at least two places, that
+*tinuf*, *lichluch* and *zuhamah* are all synonymous, and Pappenheim too seems
+to equate *lichluch* with *tinuf*, as do Ibn Janach and Radak.
 
 ## At a glance
 

@@ -34,12 +34,13 @@ updated: 2026-09-22
 ## Bottom line
 
 *Saar* (Aramaic *saara*) is the plain word for hair, whether one strand or the
-whole growth: **hair**. Rabbi Klein found no earlier theory of how the Aramaic
-words divide the field, and offers his own suggestion: *mazia* is a patch of
-hair, **hair** or **a head of hair**; *binta* is one single strand, **a hair**;
-*nimah* is a hair that protrudes or is unwanted, and outside the hair sense it
-is a **string** or **thread**. *Binta* and *mazia* stand side by side in Yoma
-69b and Bava Metzia 84b, where a single *binta* comes loose from the *mazia*.
+whole growth: **hair**. Rabbi Klein found no theory of why Talmudic Aramaic
+would have four words for hair, and offers his own suggestion: *mazia* is a
+patch of hair, **hair** or **a head of hair**; *binta* is one single strand, **a
+hair**; *nimah* is a hair that protrudes or is unwanted, and outside the hair
+sense it is a **string** or **thread**. *Binta* and *mazia* stand side by side
+in Yoma 69b and Bava Metzia 84b, where a single *binta* comes loose from the
+*mazia*.
 
 ## At a glance
 
@@ -85,8 +86,7 @@ the one appearance of this Aramaic word in Tanach; others, including Ibn Janach,
 Ibn Parchon, Ibn Ezra and Radak, explain *mezei* differently.
 
 *Mazia* is used of Mordechai asking Haman to cut his hair (Megillah 16a), of
-Rabbi Akiva picking the straw out of Rachel's hair (Nedarim 50a), of Rebbi
-letting his hair grow as *teshuvah* (Sanhedrin 25a), of the shaving of the
+Rabbi Akiva picking the straw out of Rachel's hair (Nedarim 50a), of a certain butcher letting his hair grow as *teshuvah* (Sanhedrin 25a), of the shaving of the
 *yefas to'ar* (Targum Yonasan to Devarim 21:12), and of the wife of On ben Pelet
 uncovering her hair to keep Korach's men away (Sanhedrin 109b to 110a; On is
 listed with Korach's entourage at Bamidbar 16:1 and then drops out of the

@@ -28,15 +28,16 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Tziyon* and *Yerushalayim* do not necessarily name the same place. *Tziyon* is
-the **City of David**, a separate walled city that only later came inside the
-walls of **Yerushalayim**; the nechamah formula, "the mourners of Tziyon and
-Yerushalayim," already implies that they are two. Where *tziyon* stands for the
-Beis HaMikdash or for Klal Yisrael, it is, on Rabbi Tukachinsky's reading, the
-common noun *tziyun*, "outstanding", not the place. Where the Hebrew uses
-*Tziyon* for the whole city, some sources suggest it serves as a synonym, though
-Rabbi Klein proposes that synecdoche, the part naming the whole, may be the more
-accurate term.
+*Tziyon* and *Yerushalayim* do not necessarily name the same place; the formula
+for comforting mourners, "the mourners of Tziyon and Yerushalayim," already
+implies that they are two. *Tziyon* is the **City of David**, a separate walled
+city that only later came inside the walls of **Yerushalayim**, though Rabbi
+Tukachinsky holds that in Tanach it is at times a neighborhood inside
+Yerushalayim. Where *tziyon* stands for the Beis HaMikdash or for Klal Yisrael,
+he reads it as a common noun meaning "outstanding", derived from *tziyun*, and
+not as the place-name. Where the Hebrew uses *Tziyon* for the whole city, some
+sources suggest it serves as a synonym, though Rabbi Klein proposes that
+synecdoche, the part naming the whole, may be the more accurate term.
 
 ## At a glance
 

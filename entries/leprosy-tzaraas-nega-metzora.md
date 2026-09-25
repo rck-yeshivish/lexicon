@@ -31,16 +31,18 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Tzaraas* is the **affliction itself**; *nega* is the **spot**, for Rabbi
-Shlomo Pappenheim the point of contact where the affliction strikes. On the
-Arizal's reading *tzaraas* is the impurity that has taken hold and *nega* the
-Divine blow that brings it to the surface, so that where the Torah pairs them,
-*nega tzaraas*, it is naming two things and not one. *Tzarua* and *metzora* both
-mean **leper**; of four explanations of why the Torah alternates them,
-Perlmutter's is that *tzarua* is the man while the affliction is on him and
-*metzora* still fits him until the purification is complete. The affliction has been rendered leprosy, Hansen's disease,
-epilepsy, mold and mere skin discoloration, and Rav Hirsch holds that an affliction that is merely
-pathological is by definition not a *nega* at all.
+*Tzaraas* is the **affliction itself**; *nega* is the **spot**, which Rabbi
+Shlomo Pappenheim explains as the point of contact where the affliction strikes.
+On the Arizal's reading *tzaraas* is the impurity that has taken hold and *nega*
+the Divine blow that brings it to the surface, so that where the Torah pairs
+them, *nega tzaraas*, it is naming two things and not one. *Tzarua* and
+*metzora* both mean **leper**. Of the four explanations of why the Torah
+alternates them, Rabbi Eliezer Perlmutter's is that *tzarua* is the man while
+the affliction is on him, and *metzora* still fits him until the purification is
+complete. *Tzaraas* has been translated leprosy, Hansen's disease, epilepsy,
+mold and mere skin discoloration. Rav Hirsch holds that an affliction that is
+merely pathological, and not plainly from Above, is by definition not a *nega*
+at all.
 
 ## At a glance
 

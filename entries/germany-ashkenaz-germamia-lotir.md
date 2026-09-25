@@ -13,7 +13,7 @@ words:
   - he: גרממיא
     tr: germamia
     en: Germania
-    distinct: Chazal's identification of Gomer (Yoma 10a; Yerushalmi Megillah 1:9); the Vilna Gaon emends to Germania, and the Aruch says plainly it is what we call the Land of Ashkenaz
+    distinct: Chazal's identification of Gomer (Yoma 10a; Yerushalmi Megillah 1:9); the Vilna Gaon emends to Germania, and Rabbi Binyamin Mussafia (Mussaf HeAruch) says plainly it is what we call the Land of Ashkenaz
   - he: לותיר
     tr: lotir
     en: Lothar, the Rhineland
@@ -28,20 +28,22 @@ words:
     distinct: Yefes's son and Ashkenaz's father (Bereishis 10:2); Chazal identify his descendants as Germamia, and Radak reads both Gomer and Ashkenaz as Alemania
 sources:
   - wiaw:11563 "Noach: Ashkenaz and Teutonic Jews" (2024-11-02) https://articles.ohr.edu/articles/noach-ashkenaz-and-teutonic-jews
-authorities: [Shadal, Filosseno Luzzatto, Targum Yerushalmi, Targum Rav Yosef, Vilna Gaon, Rabbi Nathan of Rome, Rashi, Rabbeinu Tam, Rashbam, Maharshal, Rabbi Yaakov Emden, Rabbeinu Efrayim, Radak, Rabbi Aryeh Kaplan, Rabbi Aharon Marcus, Rabbi Yosef Prager, Rabbi Ernest Klein, Wilhelm Gesenius, Brown-Driver-Briggs, Alfred Jones, David L. Gold, Rainer Josef Barzen]
+  - ms:014-ashkenaz-and-teutonic-jews.md "Ashkenaz and Teutonic Jews"
+authorities: [Shadal, Filosseno Luzzatto, Targum Yerushalmi, Targum Rav Yosef, Vilna Gaon, Rabbi Binyamin Mussafia, Rashi, Rabbeinu Tam, Rashbam, Maharshal, Rabbi Yaakov Emden, Rabbeinu Efrayim, Radak, Rabbi Aryeh Kaplan, Rabbi Aharon Marcus, Rabbi Yosef Prager, Rabbi Ernest Klein, Wilhelm Gesenius, Brown-Driver-Briggs, Alfred Jones, David L. Gold, Rainer Josef Barzen]
 updated: 2026-09-10
 ---
 # Names for Germany: Ashkenaz / Germamia / Lotir / Almenia
 
 ## Bottom line
 
-*Ashkenaz* in Tanach is a person and a kingdom (Bereishis 10:3; Yirmiyahu
-51:27); Shadal states outright that the Biblical Ashkenaz has nothing to do with
-Germany, and that the later usage borrows an old name for a new place. From
-Rashi onward it does mean **Germany**, and *leshon Ashkenaz* means **German**.
-*Germamia* (the Vilna Gaon: *Germania*) is Chazal's name for that land (*Sefer
-HeAruch*); *Lotir* is the Rishonim's own **Rhineland**; *Almenia* is
-**Alemannia**.
+In Tanach *Ashkenaz* is a person and a kingdom (Bereishis 10:3; Yirmiyahu
+51:27). Shadal states outright that the Biblical Ashkenaz has nothing to do with
+Germany, and that the later usage borrows an old name for a new place; Radak,
+though, reads both Gomer and Ashkenaz as Alemania. By Rashi's day *Ashkenaz*
+already means **Germany**, and *leshon Ashkenaz* means **German**. *Germamia*,
+which the Vilna Gaon emends to *Germania*, is Chazal's name for that land, as
+Rabbi Binyamin Mussafia (*Mussaf HeAruch*) says. *Lotir* is the Rishonim's own
+name for the **Rhineland**, and *Almenia* is **Alemannia**.
 
 ## At a glance
 
@@ -90,7 +92,7 @@ HeAruch*); *Lotir* is the Rishonim's own **Rhineland**; *Almenia* is
   Rav Yosef to Divrei HaYamim I 1:5, appear to use it for Magog, Gomer's brother
   (so *Yefeh Einayim* to Yoma 10a).
 
-Rabbi Nathan of Rome settles the practical question in *Sefer HeAruch*:
+Rabbi Binyamin Mussafia settles the practical question in *Mussaf HeAruch*:
 Germamia is the Land of Ashkenaz. In Modern Hebrew the standard word for Germany
 is *Germaniya*.
 
@@ -216,4 +218,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Noach: Ashkenaz and Teutonic Jews](https://articles.ohr.edu/articles/noach-ashkenaz-and-teutonic-jews)," *What's in a Word?*, Ohr Somayach, 2 November 2024.
 
-Cited in the essay: Bereishis 10:2-3 in Targum pseudo-Yonasan, Targum Yerushalmi and Targum Neofiti, and with Shadal and Rabbeinu Efrayim; Divrei HaYamim I 1:5-6 in Targum Rav Yosef; Yirmiyahu 51:27; Ovadiah 1:20 with Radak; Yoma 10a with *Yefeh Einayim*; Yerushalmi Megillah 1:9; Megillah 6a with *Hagahos Yaavetz*; Kesubos 77a; Sukkah 17a; Gittin 55b; Bava Metzia 73b; Chullin 93a; Bava Basra 74a, 150b, 158b; Berachos 18a; Pesachim 105a; Negaim 2:1; Daniel 1:3; Hoshea 1:1-3; *Sefer HeAruch*; Rabbi Yaakov Emden, *Eim L'Binah*; *Maharshal* §29; Rashi's responsa and *Sefer HaPardes*; Rabbi Aryeh Kaplan, *The Living Torah* to Bereishis 10:2-3; Rabbi Aharon Marcus, *Keses HaSofer* to Bereishis 10:3; Rabbi Yosef Prager, *Yerushaseinu*; *Kovetz Yeshurun* vol. 17; Joel Muller, *Teshuvos Chachmei Tzarfas V'Lotir*; Rabbi Ernest Klein; Wilhelm Gesenius; the Brown-Driver-Briggs lexicon; Josephus; Pliny the Elder; Strabo; Alfred Jones; Professor Rainer Josef Barzen; Professor David L. Gold.
+Rabbi Reuven Chaim Klein, "Ashkenaz and Teutonic Jews," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 10:2-3 in Targum pseudo-Yonasan, Targum Yerushalmi and Targum Neofiti, and with Shadal and Rabbeinu Efrayim; Divrei HaYamim I 1:5-6 in Targum Rav Yosef; Yirmiyahu 51:27; Ovadiah 1:20 with Radak; Yoma 10a with *Yefeh Einayim*; Yerushalmi Megillah 1:9; Megillah 6a with *Hagahos Yaavetz*; Kesubos 77a; Sukkah 17a; Gittin 55b; Bava Metzia 73b; Chullin 93a; Bava Basra 74a, 150b, 158b; Berachos 18a; Pesachim 105a; Negaim 2:1; Daniel 1:3; Hoshea 1:1-3; *Mussaf HeAruch*; Rabbi Yaakov Emden, *Eim L'Binah*; *Maharshal* §29; Rashi's responsa and *Sefer HaPardes*; Rabbi Aryeh Kaplan, *The Living Torah* to Bereishis 10:2-3; Rabbi Aharon Marcus, *Keses HaSofer* to Bereishis 10:3; Rabbi Yosef Prager, *Yerushaseinu*; *Kovetz Yeshurun* vol. 17; Joel Muller, *Teshuvos Chachmei Tzarfas V'Lotir*; Rabbi Ernest Klein; Wilhelm Gesenius; the Brown-Driver-Briggs lexicon; Josephus; Pliny the Elder; Strabo; Alfred Jones; Professor Rainer Josef Barzen; Professor David L. Gold.

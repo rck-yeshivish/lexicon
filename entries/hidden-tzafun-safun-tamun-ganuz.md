@@ -43,13 +43,13 @@ updated: 2026-09-10
 ## Bottom line
 
 All six mean "hidden," and Rabbi Shlomo Pappenheim does most of the separating.
-*Tamun* is **buried, concealed within** something (for Pappenheim, usually the
-ground). For him *safun* is **stowed, hidden away** deliberately, its outer face
-seemingly covered, and *tzafun* is **hidden away for safekeeping, stored up**:
-concealed in order to preserve. *Ganuz* is **stored away, put in the treasury**
-(Rabbinic: consigned to *genizah*). *Nistar* / *mustar* is **hidden** from sight
-or from knowledge. For Pappenheim *ne'elam* is **hidden from the mind, beyond
-one's grasp**.
+*Tamun* is **buried, concealed within** something, and for Pappenheim it usually
+implies hiding in the ground. For him *safun* is **stowed, hidden away**
+deliberately, its outer face seemingly covered, and *tzafun* is **hidden away
+for safekeeping, stored up**, concealed in order to preserve it. *Ganuz* is
+**stored away, put in the treasury**, and in Rabbinic Hebrew also consigned to
+*genizah*. *Nistar* / *mustar* is **hidden** from sight or from knowledge. For
+Pappenheim, *ne'elam* is **hidden from the mind, beyond one's grasp**.
 
 ## At a glance
 

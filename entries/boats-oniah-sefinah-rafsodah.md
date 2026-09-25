@@ -42,13 +42,15 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Oniah* is the general Biblical word, **ship**; *sefinah* is the ordinary
-Mishnaic word for the same thing, **ship** or **boat**, and appears only once in
-Tanach. At that one place (Yonah 1:5) Malbim makes the *sefinah* the ship's
-covered lower deck, and the Vilna Gaon (*Aderes Eliyahu*) the same ship,
-called *sefinah* once it is near land. *Rafsodah* and *dovrah* are both a **raft** of tied beams; *avarah* a
-**ferry**; *dugit* a small **fishing skiff**; *tzi* a **large ship**, usually a
-warship. In a pasuk *sefinah* is a rarity, in a Mishnah the default word.
+*Oniah* is the general Biblical word, **ship**. *Sefinah*, which appears only
+once in Tanach, is the ordinary Mishnaic word for the same thing, **ship** or
+**boat**; Rabbi Shlomo Pappenheim, in one of the four derivations he offers,
+suggests it may be a lesser vessel kept near shore. At its one place in Tanach
+(Yonah 1:5), Malbim makes the *sefinah* the ship's covered lower deck, and the
+Vilna Gaon (*Aderes Eliyahu*) the same ship, called *sefinah* once it is near
+land. *Rafsodah* and *dovrah* are both a **raft** of tied beams, *avarah* is a
+**ferry**, and *dugit* a small **fishing skiff**. *Tzi* is a **large ship**, and
+Malbim adds that it is typically a warship.
 
 ## At a glance
 

@@ -29,18 +29,20 @@ updated: 2026-09-10
 ## Bottom line
 
 *Gad*, the seed the man resembled (Shemos 16:31, Bamidbar 11:7), is most widely
-identified as **coriander**: so Targum Yonasan, Menachem Ibn Saruk, Radak, and
-Rashi, who render it with the Aramaic *kusbarta* and the Old French *coliander*.
-Rav Hai Gaon, quoted by Rabbi Yehudah Ibn Balaam, says **mustard seed** instead,
-and Ibn Ezra records both and leaves it open. Onkelos declines to translate at
-all. "White *gad* seed" does not mean the seed is white. Rashi, the Rashbam, and Radak all say the man was white and only its shape
-was like a *gad* seed, and that *gad* seeds are not white.
+identified as **coriander**: so Targum Yonasan (*kusbar*), Menachem Ibn Saruk
+(*kusbaras*), Radak (what Chazal call *kusbarta*), and Rashi (the Old French
+*coliander*). Rav Hai Gaon, quoted by Rabbi Yehudah Ibn Balaam, says **mustard
+seed** instead, and Ibn Ezra records both and leaves it open. Onkelos declines
+to translate at all. Rashi, the Rashbam, and Radak all say that "white *gad*
+seed" means the man was white and only its shape was like a *gad* seed, and that
+*gad* seeds are not white. The Ralbag holds that the *gad* seed was itself
+white.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| גד | gad | coriander | coriander (Targum Yonasan, Rashi) against mustard seed (Rav Hai Gaon); not itself white |
+| גד | gad | coriander | coriander (Targum Yonasan, Rashi) against mustard seed (Rav Hai Gaon); not itself white (Rashi, Rashbam, Radak), or white (Ralbag) |
 | כוסברתא | kusbarta | coriander | the Mishnaic and Aramaic word for coriander; Rebbi's coded answer to Antoninus |
 | גודגדניות | gudgedaniyos | a Talmudic food | Rashi's coriander word, tying it to *gad*; clover or cherry (Jastrow) |
 

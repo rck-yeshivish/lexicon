@@ -25,15 +25,15 @@ updated: 2026-09-10
 
 *Pil* is the ordinary word for **elephant**, but it is post-biblical; it belongs
 to the language of Chazal, not to Tanach. *Shenhav* (plural *shenhabim*) is the
-biblical word, and most of the commentators render it **ivory**, not the animal
-(Targum, Rashi, Radak, Metzudos, Ralbag, Rabbi Yosef Karo). A minority read it as
-the elephant itself (Ibn Janach, seemingly; HaKallir; Rabbi Avraham ben Shlomo;
-and the commentary printed as Rashi to Divrei HaYamim). Even on the minority
-reading, Rabbi Reuven Chaim Klein holds, the word focuses on the elephant
-specifically as the source of ivory. That is the difference he settles on: *shenhav*
-names the beast for its tusks, while
-post-biblical *pil* names it for other properties, its superlative mass or
-possibly its knack for burying the dead.
+biblical word, and most of the commentators read it as **ivory**, not the animal
+(Targum, Rashi, Radak, Metzudos, Ralbag, Rabbi Yosef Karo). A minority read it
+as the elephant itself: HaKallir, Rabbi Avraham ben Shlomo, and seemingly Ibn
+Janach, as Rabbi Reuven Chaim Klein understands him. The commentary printed as
+Rashi to Divrei HaYamim takes it as both the tusk and the animal. Even if it
+means the elephant, Rabbi Klein holds, *shenhav* focuses on the beast
+specifically as the source of ivory, while post-biblical *pil* names it for
+other properties, its superlative mass or possibly its knack for burying the
+dead.
 
 ## At a glance
 

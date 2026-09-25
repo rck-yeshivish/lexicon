@@ -35,10 +35,12 @@ All four are Rabbinic Hebrew, none of them in Tanach, and all four mean
 "immediately." *Teikef* is **immediately after**, one thing hard on the heels of
 another (it also means physically pressed close together). *Miyad* is
 **straightaway**, literally "from hand," which suggests the readiness of what is
-already in your hand. *Le'alter* is **on the spot**, which some commentators
-explain as a contraction of *al atar*. *Otyom* is a technical Mishnaic term; Rav
-Hai Gaon, the *Aruch*, Rashi and Rashba all hold it is a Greek loanword, and the
-Ancient Greek εὐθέως, *eutheos*, means "immediately."
+already in your hand. *Le'alter* is **on the spot**; some commentators explain
+the word as a contraction of *al atar*. *Otyom* appears once, in the Mishnah
+(Niddah 2:2), and its derivation is disputed. Rabbi Emmanuel Chai Ricci takes it
+as an abbreviation of a Hebrew phrase. Rabbi Betzalel Ronsberg prefers the view
+of Rav Hai Gaon, the *Aruch*, Rashi and Rashba, who all hold it is a Greek
+loanword, and the Ancient Greek εὐθέως, *eutheos*, means "immediately."
 
 ## At a glance
 

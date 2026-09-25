@@ -44,11 +44,11 @@ updated: 2026-09-22
 
 Neither *gett* nor *shtar* is biblical. In the language of Chazal both mean
 **document**, and both often take a modifier (*gett chov*, *shtar erusin*).
-*Gett* is the broader of the two for Rabbi Yisrael Yaakov Algazi: every *shtar*
-may be called a *gett*, not every *gett* a *shtar*. Unmodified, *gett* means
-**a bill of divorce** (Rashi; Rambam). In Tanach the bill of divorce is *sefer
-kerisus*, literally **a scroll of cutting** (Devarim 24:1-3; Yeshayahu 50:1), and
-a deed of sale is *sefer hamiknah* (Yirmiyahu 32).
+Rabbi Yisrael Yaakov Algazi holds that *gett* is the broader of the two: every
+*shtar* may be called a *gett*, but not every *gett* a *shtar*. Rashi and Rambam
+record that *gett* on its own means **a bill of divorce**. In Tanach the bill of
+divorce is *sefer kerisus*, literally **a scroll of cutting** (Devarim 24:1-3;
+Yeshayahu 50:1), and a deed of sale is *sefer hamiknah* (Yirmiyahu 32).
 
 ## At a glance
 

@@ -32,14 +32,15 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Paroches* is a **dividing curtain**, the one that marks off one domain from
-the next; *masach* is a **screen**, a heavy cloth that covers and shields. In
-the Mishkan the *paroches* separates the Kodesh from the Kodesh HaKodashim and
-the *masach* hangs over an entrance. *Vilon* and *pargod* are the later
-Rabbinic words: *vilon* a plain **curtain**, *pargod* a **partition curtain**
-standing where the *paroches* stands, and in aggadic contexts the screen
-between Hashem and what is below. On Rabbi Shlomo Pappenheim's reading,
-*paroches* names a function, not a fabric.
+*Paroches* is a **dividing curtain**, one that marks off one domain from the
+next, and on Rabbi Shlomo Pappenheim's reading the word names that function, not
+a fabric. *Masach* is a **screen**, a heavy cloth that covers and shields. In
+the Mishkan the *paroches* separates the Kodesh from the Kodesh HaKodashim, and
+the *masach* hangs over an entrance. *Vilon* and *pargod* are the later Rabbinic
+words. *Vilon* is a plain **curtain**. *Pargod* is a **partition curtain**, the
+Rabbinic word for what Tanach calls a *paroches*; in aggadic contexts Rashi
+explains it as the separation between Hashem and the *malachim*, or His Holy
+Presence.
 
 ## At a glance
 
@@ -92,8 +93,7 @@ outside.
 Four times in the Mishnah (*Keilim* 20:6, 24:13, 27:9, and *Negaim* 11:11), and
 the name of the first of the seven heavens (*Chagigah* 12b), because it serves
 as the curtain over the entrance to the heavens. The origins of the word are
-neither Hebrew nor Aramaic: it is a loanword from the Latin *velum*, which
-the Greek βῆλον in turn borrowed, and which is related to the English *veil*. *Velum* survives in English scientific
+neither Hebrew nor Aramaic: it is a loanword from the Latin *velum*, which is related to the Greek βῆλον and to the English *veil*. *Velum* survives in English scientific
 terminology for a thin veil-like membrane, and the English *reveal* and *unveil*
 literally mean to undo a veiling.
 

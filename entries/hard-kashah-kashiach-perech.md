@@ -30,11 +30,14 @@ updated: 2026-09-10
 ## Bottom line
 
 *Kashah* is the general word, and covers both English senses of hard: **hard**
-as in rigid and unyielding, and **hard** as in difficult. *Kashiach* means cruelty rather than hardness of substance (Ibn Ezra, Radak), for Rabbi Shlomo Ibn
-Melech specifically toward those one should love: **cruel, callous**. *Perech* literally breaks, so *avodas perech* is
-**back-breaking** labor, or, on a second line of reading, **pointless** labor,
-work with no end and no product. Rabbi Shlomo of Urbino (*Ohel Moed*) lists the
-three as the Hebrew words for hard.
+as in rigid and unyielding, and **hard** as in difficult. *Kashiach* is **cruel,
+callous**: Ibn Ezra and Radak define it as cruelty rather than hardness of
+substance, and Rabbi Shlomo Ibn Melech adds that it is specifically the cruelty
+of estrangement from those one should love. *Perech* literally means to break,
+and Rashi reads *avodas perech* as **back-breaking** labor; a second line of
+reading, that of *Toras Kohanim* and Rabbi Saadia Gaon, takes it as
+**pointless** labor, work with no end and no product. Rabbi Shlomo of Urbino
+(*Ohel Moed*) lists the three as the Hebrew words for hard.
 
 ## At a glance
 

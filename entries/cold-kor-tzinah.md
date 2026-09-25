@@ -28,11 +28,12 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Tzinah* is ordinary coldness, the kind a body is built to withstand: **cold,
-chill**. *Kor* is the severe kind, the cold that hurts: **bitter cold,
-freezing** (Rabbi Shlomo Pappenheim). Rabbi Yehoshua Steinberg draws the line
-differently: *kor* is the drop in temperature, *tzinah* is a cold that
-surrounds and envelops a person like snow. Both words are rare in Tanach.
+Rabbi Shlomo Pappenheim treats the two as degrees of cold. *Tzinah* is ordinary
+coldness, the kind the body is built to withstand: **cold, chill**. *Kor* is the
+severe kind, the cold that hurts: **bitter cold, freezing**. Rabbi Yehoshua
+Steinberg draws the line differently: *kor* is the drop in temperature, and
+*tzinah* a cold that surrounds and envelops a person, as snow does. Both words
+are rare in Tanach.
 
 ## At a glance
 

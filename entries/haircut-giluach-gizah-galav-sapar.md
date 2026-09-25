@@ -36,13 +36,13 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Giluach* is **shaving**, for Rabbi Shlomo Pappenheim a person's hair cut down
-to the skin; *gizah* is **shearing**, typically an animal's wool, and a cut that
-leaves something standing.
-*Galav* is a **barber** (or his razor), a *hapax legomenon* in Yechezkel 5:1.
-*Sapar* is not Biblical at all: it is the Targumic and Mishnaic word, "barber"
-and "to give a haircut," and it is the ordinary word today. The Torah uses *giluach* for the *metzora*
-and the Nazir.
+*Giluach* is **shaving**, the word the Torah uses for the *metzora* and the
+Nazir, and *gizah* is **shearing**. Rabbi Shlomo Pappenheim explains that
+*giluach* is of a person's hair, cut down to the skin, while *gizah* is
+typically of an animal's wool, and is a cut that leaves something standing.
+*Galav* is a **barber** (or his razor); it appears only once, in Yechezkel 5:1.
+*Sapar* is not Biblical at all: it is the Targumic and Mishnaic word for
+"barber" and "to give a haircut," and it is the ordinary word today.
 
 ## At a glance
 

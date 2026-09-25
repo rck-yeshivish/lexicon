@@ -37,11 +37,14 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Hadar* means **beautiful** or **splendid**; nothing in the word says citron.
-The Torah's *pri eitz hadar* (Vayikra 23:40) is the esrog by Mesorah, and the
-Gemara's derivations are asmachta (Ibn Ezra, Rambam). *Esrog* is the
-**citron**, the Mishnaic and Targumic name. *Tapuach* is an **apple**, though
-in Shir HaShirim 2:3 Rabbeinu Tam reads it as a citron (whether there alone or generally is unclear).
+*Hadar* means **beautiful** or **splendid**, and on its face the word does not
+say which fruit is meant. Ibn Ezra and the Rambam hold that the Torah's *pri
+eitz hadar* (Vayikra 23:40) is the esrog by Mesorah, and that Chazal's derashos
+linking the two are asmachta. The Ramban, for his part, holds that *hadar* is
+simply the Hebrew for what Aramaic calls *esrog*, "the desirable fruit." *Esrog*
+is the **citron**, the Mishnaic and Targumic name. *Tapuach* is an **apple**,
+though Rabbeinu Tam reads it as the citron in Shir HaShirim 2:3; whether he
+means that verse alone or every *tapuach* in Tanach is unclear.
 
 ## At a glance
 

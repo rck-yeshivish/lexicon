@@ -27,18 +27,17 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Eretz* is **land** and *adamah* is **ground**, and the difference lies in the
-two roots: *eretz* from REISH-TZADI, running, and *adamah* from
-DALET-MEM, likeness and so inertness. *Eretz* is therefore the active land, and
-often Eretz Yisrael in particular; *adamah* the passive ground, and often the
-lands outside it. *Ratzon* belongs to the same root as *eretz*: it is a person's
-**will** at its deepest, as against *chefetz*, the immediate goal in front of
-him.
+*Eretz* is **land** and *adamah* is **ground**, and the difference lies in their
+roots: *eretz* comes from REISH-TZADI, running, and *adamah* from DALET-MEM,
+likeness and so inertness. *Eretz* is therefore the active land, and often Eretz
+Yisrael in particular, while *adamah* is the passive ground, and often the lands
+outside it. *Ratzon* comes from the same root as *eretz*; Rav Tzvi Yehuda Kook
+explains it as a person's **will** at its deepest, and *chefetz* as the
+immediate goal in front of him.
 
-Avos d'Rabbi Nasan (version 1, ch. 37) teaches that as there are seven heavens
+Avos d'Rabbi Nasan (version 1, ch. 37) teaches that as there are seven heavens,
 so there are seven words for the earth: *eretz*, *adamah*, *arka*, *charavah*,
-*yabashah*, *taivel* and *cheled*. Of these, this entry treats *eretz* and
-*adamah*.
+*yabashah*, *taivel* and *cheled*.
 
 ## At a glance
 

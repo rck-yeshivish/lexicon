@@ -35,15 +35,17 @@ updated: 2026-09-22
 
 ## Bottom line
 
-On the Maharsha's reading of Eruvin 54a, *olam* is a very long but bounded span:
-**for all time**, and for the Hebrew bondsman "until the Yovel," not literally
-forever; *netzach*, *selah*, and *va'ed* are the truly unbounded words:
-**forever**, **everlasting**, **for all eternity**. That reading is not the only
-one: Ibn Saruk and Rabbi Yosef Kimchi treat all four as flat synonyms, and Rabbi
+Rashi to Shemos 21:6 caps *le'olam* at the fifty-year Yovel cycle, and the
+Maharsha builds on that in reading Eruvin 54a. For him *olam* is a very long but
+bounded span, **for all time**, and for the Hebrew bondsman "until the Yovel,"
+not literally forever. So for the Maharsha, when *olam* stands beside *netzach*,
+*selah*, or *va'ed*, the second word is doing work, and those three are the
+truly unbounded words: **forever**, **everlasting**, **for all eternity**. That
+reading is not the only one. Rashi reads the Gemara simply, that the words mean
+the same because they appear together; Ibn Saruk and Rabbi Yosef Kimchi treat
+them as flat synonyms, though Kimchi leaves *selah* off his list; and Rabbi
 Avraham ben Ezriel of Vienna limits the Gemara's finding to the verses where
-these words stand beside *olam*. Rashi to Shemos 21:6 caps *le'olam* at the
-fifty-year Yovel cycle, and the Maharsha builds on that. For the Maharsha, when
-*olam* stands beside one of the other three, the second word is doing work.
+these words stand beside *olam*.
 
 ## At a glance
 
@@ -137,7 +139,7 @@ disputed:
 - The triple in the berachah said just before Shema in the morning, נצח סלה ועד
   ("Your mercy and Your kindness shall not forsake us"): English "forever"
   will swallow all three. Wertheimer's grid gives the way out: "unceasingly,
-  continually, for all eternity." That the words differ is precisely the dispute:
+  continually, for all eternity." All of them treat the words as synonyms; the dispute is over saying them all:
   Rabbi Avraham ben Natan HaYarchi and Abudraham held the phrase redundant and
   would say only *va'ed*; Rabbi Yitzchak Abuhab kept all three, the piling-up
   being the point.

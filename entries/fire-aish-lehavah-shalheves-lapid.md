@@ -49,11 +49,12 @@ updated: 2026-09-10
 ## Bottom line
 
 *Aish* is the general word: **fire**. *Ur* is a **fire** too, but a smaller one
-(Malbim). *Lahav* and *lehavah* are the **flame** that shoots outward from a
-fire, which is why the same word means a **blade**. *Shalheves* is a flame
+(Malbim). For Rabbi Shlomo Pappenheim, *lahav* and *lehavah* are the **flame**
+that shoots outward from a fire, the part of an *aish* that reaches beyond it,
+which is why the same word means a **blade**; a *shalheves*, for him, is a flame
 gripping some material it is consuming. *Lahat* is fire moving fast, a
-**blaze**. *Lapid* is a **torch**, the object carrying the fire, and *avukah* a
-multi-wick torch against *ner*, the single-wick **lamp**. *Lehavah* is the outward-reaching part of an *aish*.
+**blaze**. *Lapid* is a **torch**, the object carrying the fire. An *avukah* is
+a multi-wick torch, and a *ner* the single-wick **lamp**.
 
 ## At a glance
 

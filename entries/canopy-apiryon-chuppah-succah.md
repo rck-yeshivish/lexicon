@@ -28,21 +28,22 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Succah* is a **booth**, named for its *sechach*, and the word carries the sense
-of shelter, a covering that protects from what is above. *Chuppah* is a
-**canopy**, from *chofeh*, to cover; it says only that the thing is covered on
-top, with nothing about protection. *Apiryon* Rabbi Klein takes to be more than a
-canopy: the Mishnah suggests a **mobile enclosure** a woman travels inside, and
-on the reading of those who tie the word to the Sanskrit *paryanka* it is a
-**palanquin**, a covered litter carried on poles. On that reading, the
-mefarshim who gloss *apiryon* as a *chuppah* are stating
-its halachic function at Amram and Yocheved's remarriage, not equating the two
-words; Rashi (to *Yevamos* 110a) likewise makes the *apiryon* a sedan, tied to
-*chuppah* only in the halachic sense. Two other readings stand apart: Rabbi
-Shlomo Pappenheim derives *apiryon* from *pri*, a bed on which children are
-brought forth, and some cited in *Machberes Menachem* make it a crown. Rabbi
-Klein's working premise is that no two words in Hebrew
-mean exactly the same thing, so a difference must be found.
+*Succah* is a **booth**, named for its *sechach*, and Rabbi Tzvi Mordechai
+Libber explains that the word carries the sense of shelter, a covering that
+protects from what is above. *Chuppah*, from *chofeh*, to cover, is a
+**canopy**; on his reading it says only that the thing is covered on top, with
+nothing about protection. Rabbi Pheobus Meir Parenzo and the Maharsha gloss
+*apiryon* as a *chuppah*, but Rabbi Klein, whose working premise is that no two
+words in Hebrew mean exactly the same thing, takes an *apiryon* to be more than
+a canopy: the Mishnah suggests a **mobile enclosure** a woman travels inside,
+and on the reading of those who tie the word to the Sanskrit *paryanka* it is a
+**palanquin**, a covered litter carried on poles. On that reading, their gloss
+states the *apiryon*'s halachic function at Amram and Yocheved's remarriage and
+does not equate the two words; Rashi (to *Yevamos* 110a) likewise makes the
+*apiryon* a sedan, tied to a *chuppah* only in the halachic sense. Two other
+readings stand apart: Rabbi Shlomo Pappenheim derives *apiryon* from *pri*, a
+bed on which children are brought forth, and some cited in *Machberes Menachem*
+make it a crown.
 
 ## At a glance
 

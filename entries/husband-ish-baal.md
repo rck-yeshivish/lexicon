@@ -24,14 +24,14 @@ updated: 2026-09-23
 
 ## Bottom line
 
-Both are the **husband**, and Hoshea sets them against each other: "you will
-call Me *ishi* and you will not call Me *baali* any longer" (Hoshea 2:18).
-Whether the two differ in meaning at all is the first dispute. Radak, Abarbanel
-and Maharsha say they do not, and that the pasuk is only about avoiding a word
-that is also the name of the Canaanite idol. The rest of the authorities say
-they do, and though they part on the detail they point one way: *baal* is the
-**master** or **owner**, the one who acts and lords, while *ish* is the husband
-of a mutual bond, the two as one flesh.
+Both mean **husband**, and Hoshea sets them against each other: "you will call
+Me *ishi* and you will not call Me *baali* any longer" (Hoshea 2:18). Whether
+the two differ in meaning at all is the first dispute. Radak, Abarbanel and
+Maharsha say they do not, and that the pasuk is only about avoiding a word that
+is also the name of the Canaanite idol. The rest of the authorities say they do.
+Their readings differ in detail, but many of them point the same way: *baal* is
+the **master** or **owner**, the one who acts and lords, while *ish* is the
+husband of a mutual bond, the two as one flesh.
 
 ## At a glance
 

@@ -44,12 +44,17 @@ updated: 2026-09-10
 ## Bottom line
 
 Avos d'Rabbi Nasan (version 1, ch. 37) counts seven words for the earth:
-*eretz*, *adamah*, *arka*, *charavah*, *yabashah*, *taivel*, *cheled*. Of these,
-*taivel* is **the inhabited world**, the settled parts as against *eretz* for
-the whole (Malbim); *arka* is **earth**, a hapax in the one Aramaic pasuk of Yirmiyahu;
-*cheled* is **the transient world**, the earth under time; *charavah* and
-*yabashah* are **dry land**. *Taivel* is not *tevel*, abomination: same
-letters, different nikud, one root. And *karka* is not on this list at all.
+*eretz*, *adamah*, *arka*, *charavah*, *yabashah*, *taivel* and *cheled*.
+*Taivel* is **the inhabited world**, the settled parts, while *eretz* is the
+uninhabited parts (Metzudas Tzion) or the whole globe (Malbim); Rashi instead
+takes *eretz* as Eretz Yisrael and *taivel* as the rest of the world. *Arka* is
+**earth**, and it appears only once in Tanach, in the one Aramaic pasuk of
+Yirmiyahu. *Cheled* is **the transient world**, the earth as subject to time.
+*Charavah* and *yabashah* are **dry land**. *Taivel* is not *tevel*,
+abomination: the two are spelled alike and pointed differently, but they share
+one root. *Karka* is not on the list at all; Rabbi Avraham Bedersi notes that in
+Biblical Hebrew it is a different thing altogether, the **floor** beneath a
+building or a sea.
 
 ## At a glance
 

@@ -37,13 +37,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Mishpachah* is the ordinary word for **family** (clan, extended kin).
-*Bayis* is **household** in the sense of the people under one roof, and in
-several places specifically **wife**. *Machaneh* is more precisely a **camp** than a family,
-even where it names Yaakov's people. *She'er* is a **blood relative**,
-kinsman, from the "flesh" sense of the word, and it too can mean **wife**.
-*Pamalia* is an **entourage** or retinue, human or angelic. Two of these,
-*machaneh* and *bayis*, name Yaakov's family within a single parashah.
+*Mishpachah* is the ordinary word for **family**, the clan or extended kin.
+*Bayis* is the **household**, the people under one roof, and sometimes
+specifically one's **wife** (Ibn Janach). *Machaneh* is more precisely a
+**camp** than a family, even in Vayishlach, where it names Yaakov's people, as
+*bayis* does in the same parashah. *She'er* is a **blood relative** or kinsman,
+from the "flesh" sense of the word, and it too can mean **wife**. *Pamalia* is
+an **entourage** or retinue, human or angelic.
 
 ## At a glance
 

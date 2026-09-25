@@ -24,14 +24,14 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Temurah* is **substitution**: putting a second thing in the place of the first,
-with the eye on the man who does it (Malbim) and, in several readings, on a
-downgrade (Rabbi Shapira-Frankfurter, Wertheimer, Rav Hirsch). *Chalifah* is
-**exchange** or **swapping out**: the eye is on the thing being gotten rid of
-(Rav Hirsch), and it is the neutral (Wertheimer) or even upgrading
-(Shapira-Frankfurter) word. Vayikra 27:10 uses
-both of the same prohibited act; Vayikra 27:33, stating the consequence, uses
-only *hamer yamir*. *Chalifah* carries a sense of its own.
+*Temurah* is **substitution**, putting a second thing in the place of the first.
+It looks at the man who makes the switch (Malbim), and in several readings it
+implies a downgrade (Rabbi Shapira-Frankfurter, Wertheimer, Rav Hirsch).
+*Chalifah* is **exchange** or **swapping out**. It looks at the thing being
+gotten rid of (Rav Hirsch), and it is the neutral word (Wertheimer) or even the
+word for trading up (Shapira-Frankfurter). Vayikra 27:10 uses both words to
+forbid the act, but where the Torah states the consequence it uses only *hamer
+yamir* (27:10, 27:33). *Chalifah* carries a sense of its own.
 
 ## At a glance
 

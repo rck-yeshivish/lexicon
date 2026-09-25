@@ -29,14 +29,15 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Tzaakah* and *zaakah* both mean **to cry out**, and Rashi, Ramban, the Zohar,
-Rabbi Shlomo Pappenheim and others treat them as one word with two
-interchangeable opening letters. *Shaavah* is not the same: it is **a cry for help**, and Rabbi Yehuda
-Leib Shapira-Frankfurter holds it is addressed only to Hashem. In *tzaakah*
-and *zaakah* the sufferer voices his pain, while in
-*shaavah* he asks outright to be saved (Rabbi Yaakov Tzvi Mecklenburg). Among those who
-do separate *tzaakah* from *zaakah*, Rabbi Shlomo Aharon Wertheimer and Malbim
-make *tzaakah* the graver of the two.
+*Tzaakah* and *zaakah* both mean **to cry out**. Rashi, Ramban, the Zohar and
+others treat them as one word with two interchangeable opening letters, and
+Rabbi Shlomo Pappenheim likewise writes that there is no difference between
+them. *Shaavah* is not the same: it is **a cry for help**, and Rabbi Yehuda Leib
+Shapira-Frankfurter holds that it is addressed only to Hashem. Rabbi Yaakov Tzvi
+Mecklenburg explains that in *tzaakah* and *zaakah* the sufferer voices his
+pain, while in *shaavah* he asks outright to be saved. Among those who do
+separate *tzaakah* from *zaakah*, Rabbi Shlomo Aharon Wertheimer and Malbim make
+*tzaakah* the graver of the two.
 
 ## At a glance
 

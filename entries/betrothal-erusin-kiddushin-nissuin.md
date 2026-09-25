@@ -35,14 +35,17 @@ updated: 2026-09-22
 ## Bottom line
 
 *Erusin* and *kiddushin* name the same halachic act, the first of the two stages
-of marriage: **betrothal**, after which she is halachically his wife and adultery
+of marriage: **betrothal**. After it she is halachically his wife and adultery
 applies, though the couple may not yet live together. *Nissuin*, effected by
 chuppah, is the second stage: **marriage** proper. *Shidduchin* is what English
-calls **engagement**, an agreement to marry later. Modern Hebrew uses *erusin* for engagement, but
-Rav Hirsch (to Shemos 22:15)
-already warns that the Torah's *erusin* is not that. Where the two words are
-contrasted, *kiddushin* carries the *hekdesh* sense of setting apart and
-*erusin*, on Rabbi Shalom Mansoura's reading, the sense of binding or tying.
+calls **engagement**, an agreement to marry later. Modern Hebrew uses *erusin*
+for engagement, but Rav Hirsch (to Shemos 22:15) already makes clear that the
+Torah's *erusin* is not that. The Rabbanan Savorai (*Kiddushin* 2b) derive
+*kiddushin* from *hekdesh*, since betrothal, like consecration, forbids her to
+all others, and where the two words are contrasted *kiddushin* carries that
+sense. Tosafos (to *Kiddushin* 2b) derive it instead from designating, not
+consecrating. *Erusin*, on Rabbi Shalom Mansoura's reading, carries the sense of
+binding or tying.
 
 ## At a glance
 

@@ -50,13 +50,15 @@ updated: 2026-09-10
 ## Bottom line
 
 *Sefer* is the general **book** or written document, and in early medieval usage
-specifically the **scroll**. *Megillah* is the **scroll** meant to be rolled
-up, and unqualified it means Megillas Esther. *Iggeret* is a **letter** or
-**epistle**, on several accounts a short-lived document sent elsewhere. *Gilayon* is a single
-**sheet**, later a margin and then a **gloss**; *shtar* a **deed** meant to
-last; *machzor* originally the **codex**, later the yom tov siddur; *kuntres* a
-**pamphlet**. Esther is called all three of *sefer*, *megillah* and *iggeret*,
-and each name carries a halachah.
+specifically the **scroll**. *Megillah* is the **scroll** meant to be rolled up,
+and unqualified it means Megillas Esther. *Iggeret* is a **letter** or
+**epistle**, on several accounts a short-lived document sent elsewhere, though
+Rabbi Shlomo Aharon Wertheimer takes it as a document meant to be preserved.
+*Gilayon* is a single **sheet**, which later came to mean a margin and then a
+**gloss**. A *shtar* is a **deed** meant to last. *Machzor* was originally the
+**codex**, later the yom tov siddur, and a *kuntres* is a **pamphlet**. Esther
+is called by all three names, *sefer*, *megillah* and *iggeret*, and each name
+carries a halachah.
 
 ## At a glance
 

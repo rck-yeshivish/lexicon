@@ -29,14 +29,15 @@ updated: 2026-09-22
 
 ## Bottom line
 
-Both words mean **foot** and both can mean **time, instance**. *Regel* is the
-plain foot, the limb. *Paam*, for Rabbi Pappenheim, is the foot as it strikes
-the ground, a **step**, and from there **each occurrence**; Rabbi Walkin
-likewise takes "step" as its primary sense. For Malbim its core sense is
-**corner** (the low corner of a thing), the feet being a man's lower corner. *Shalosh regalim* and *shalosh peamim* both
-mean "three times." *Regel* in the sense of "instance" occurs in Tanach in only
-two contexts, Bilaam's donkey (Bamidbar 22:28 and 32) and the three festivals
-(Shemos 23:14); elsewhere it is usually the limb.
+Both words mean **foot**, and both can mean **time, instance**. *Regel* is the
+plain foot, the limb. Rabbi Pappenheim reads *paam* as the foot striking the
+ground, a **step**, and from there **each occurrence**; Rabbi Walkin likewise
+takes "step" as its primary sense. For Malbim the core sense of *paam* is
+**corner** (the low corner of a thing), and the feet are called *paam* because
+they sit at a man's lower corner. *Shalosh regalim* and *shalosh peamim* both
+mean "three times." In Tanach *regel* means "instance" in only two contexts,
+Bilaam's donkey (Bamidbar 22:28 and 32) and the three festivals (Shemos 23:14);
+elsewhere it is usually the limb.
 
 ## At a glance
 

@@ -27,13 +27,13 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Sheid* is the **demon**, the general word: *Chazal* put it between the angel
-and the man, winged and knowing the future like the one, eating and drinking and
-dying like the other. *Ruach*, the word that plainly means wind or spirit, is
-the **apparition** with no body and no form at all. *Lilis* is the **female
-demon**, and whether that is the name of one particular demoness or the name of
-a whole class of them is disputed, as is what the word means in the one pasuk
-where it appears. Two of the three are separated by body: the *sheid* has one,
+*Sheid* is the **demon**, the general word. *Chazal* place the *sheidim* between
+angels and men: like the angels they have wings and know the future, and like
+men they eat, drink and die. *Ruach*, which literally means wind or spirit, is
+the **apparition**, with no body and no form at all. *Lilis* is the **female
+demon**. Whether the word names one particular demoness or a whole class of them
+is disputed, and so is its meaning in Yeshayahu 34:14, where it first appears.
+What separates the *sheid* from the *ruach* is a body: the *sheid* has one, and
 the *ruach* has none.
 
 ## At a glance

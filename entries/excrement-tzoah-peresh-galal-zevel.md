@@ -49,13 +49,14 @@ updated: 2026-09-23
 ## Bottom line
 
 *Tzoah* is the general word and the human one: in Tanach and in the Mishnah it
-never means animal droppings. The others are each specific. *Peresh* is what is
-still inside the slaughtered animal and was never voided, and in Tanach it
-belongs to the sacrifices. *Zevel* is animal manure, and unlike *peresh* it has
-already left the body. *Galal* is named for its round shape, the pellet.
-*Ree* is what the body could not take in because too much was eaten. *Chara*
-is the coarse word, and the Mesorah will not let it be read aloud, substituting
-*tzoah* in its place.
+never means animal droppings. Each of the others is more specific. *Peresh* is
+what is still inside the slaughtered animal and was never voided (Pappenheim,
+Strashun), and in Tanach it belongs to the sacrifices. *Zevel* in the Mishnah
+usually means animal manure, and unlike *peresh* it has already left the body
+(Strashun). *Galal* is the dung pellet, named for its round shape. *Ree* is what
+the body could not take in because too much was eaten (Pappenheim). *Chara* is
+the coarse word, which the Mesorah will not have read aloud, reading *tzoah* in
+its place.
 
 ## At a glance
 
@@ -84,9 +85,7 @@ holds even though the word in fact names the matter before it leaves the body.
 Rabbi Pappenheim takes the same root the other way: what is separated off, the
 byproducts of digestion parted from the nutriment and not absorbed.
 
-**Where techorim comes from.** Four readings, and the difficulty driving them
-is that *techorim* is the clean word the Mesorah substitutes, yet it looks to
-share the root of *chara*, which is the word too offensive to say.
+**Where techorim comes from.** Four readings. Rabbi Klein notes a difficulty: *techorim* seems somehow to be the cleaner word, the one the Mesorah substitutes, even though it seems to share the root of *chara*, which is too offensive to say.
 
 1. Menachem Ibn Saruk, Ibn Janach and Radak: the triliteral ט-ח-ר, which simply
    means hemorrhoids and nothing else.
@@ -94,8 +93,7 @@ share the root of *chara*, which is the word too offensive to say.
    ט-ח, a trajectory or path, and ח-ר, a hole.
 3. Rabbi Aharon Marcus (1843 to 1916): kin to *achor*, behind, for where the
    affliction sits.
-4. Rabbi Yaakov Yehuda Zilberberg (1914 to 2003), who offers his etymology
-   because of that very difficulty: ט-ר-ח, *tircha*, a burden or bother, by
+4. Rabbi Yaakov Yehuda Zilberberg (1914 to 2003), who offers his etymology perhaps because of that difficulty, as Rabbi Klein suggests: ט-ר-ח, *tircha*, a burden or bother, by
    metathesis, hemorrhoids being a bother to a man.
 
 Rabbi Klein adds an observation of his own: Rabbi Shabsai Donnolo (913 to 982)

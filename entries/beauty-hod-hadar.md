@@ -24,15 +24,15 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Hod* is **splendor** or **majesty**: beauty that is a thing's own, inner and
-not seen with the eye, the sun's own light (Vilna Gaon; Malbim; Rav Hirsch, of
-Hashem, "His essence"). *Hadar* is **glory**: outward, visible, reflected
-beauty, the moon's light, the *esrog*'s fruit, the trappings of kingship without
-its essence (Vilna Gaon; Malbim; Rabbi Simcha Maimon). *Adar*, the month's name,
-comes like all the month-names from the Babylonian calendar, where it was
-Addaru, and seems, on the interchange of the Aramaic aleph with the Hebrew hei,
-to be correlated with *hadar*. In the fixed pair הוד והדר, *hod* comes first:
-**splendor and glory**.
+*Hod* is **splendor** or **majesty**: a beauty that is a thing's own, inner and
+not seen with the eye, like the sun's own light (Vilna Gaon; Malbim). Rav Hirsch
+calls Hashem's *hod* His essence. *Hadar* is **glory**: outward, visible,
+reflected beauty, such as the moon's light, the fruit of the *esrog* tree, or
+the trappings of kingship without its essence (Vilna Gaon; Malbim; Rabbi Simcha
+Maimon). Like all the month names, *Adar* comes from the Babylonian calendar,
+where it was Addaru, and since the Aramaic aleph interchanges with the Hebrew
+hei, it seems to be correlated with *hadar*. In the fixed pair הוד והדר, *hod*
+comes first: **splendor and glory**.
 
 ## At a glance
 

@@ -50,14 +50,14 @@ updated: 2026-09-10
 
 ## Bottom line
 
-It seems to Rabbi Klein that these are species names,
-though he says plainly that it is not known for sure what each one is. *Arbeh*
-is both one species and the umbrella word, the **locust** swarm. *Gazam* is the
-cutter, *yelek* the licker, *chasil* the finisher, and in Yoel 1:4
-they arrive in a fixed order, *gazam*, *arbeh*, *yelek*, *chasil*, each eating
-what the one before left. *Chagav* is also the general term for **kosher**
-grasshoppers (Meiri, *Beis HaBechirah*, and Rabbi Shmuel ben Meshullam of Gerona,
-*Ohel Mo'ed*). In a plague context the sense is a devouring swarm.
+It seems to Rabbi Klein that these are species names, though he says plainly
+that it is not known for sure what each one is. *Arbeh* is both one species and
+the umbrella word, the **locust** swarm. *Gazam* is the cutter, *yelek* the
+licker and *chasil* the finisher (Radak). In Yoel 1:4 they arrive in a fixed
+order, *gazam*, *arbeh*, *yelek*, *chasil*, each eating what the one before
+left. *Chagav*, one of the four permitted species, is also the general term for
+**kosher** grasshoppers (Meiri, *Beis HaBechirah*, and Rabbi Shmuel ben
+Meshullam of Gerona, *Ohel Mo'ed*).
 
 ## At a glance
 

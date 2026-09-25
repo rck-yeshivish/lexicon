@@ -45,12 +45,15 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Beged* is the general word, **garment**, and covers the rest (Malbim). *Levush* is whatever one dresses in, of no set type, so **apparel**, and in practice
-the distinctive dress of a station (*levush malchus*). *Kesus* is a **covering**,
-draped rather than put on; *simlah* (or *salmah*) a **cloak**, a *kesus* that
-also confers honor. *Mad* is the **fitted garment**, *me'il* the **outer robe**,
-*maateh* any **wrap**. The difference between *beged* and *levush* carries two
-separate derashos.
+*Beged* is the general word, **garment**, and includes all the rest (Malbim).
+*Levush*, **apparel**, is whatever one dresses in, of no set type; in usage it
+is the distinctive dress of a station, as in *levush malchus*. *Kesus* is a
+**covering**, draped over oneself rather than put on, and *simlah* (or *salmah*)
+is a **cloak**, a *kesus* that also confers honor. The Maharik takes *beged* and
+*kesus* the other way round: for him *beged* is a plain cloth like a tallis, not
+fitted to its wearer, and *kesus* a garment sewn to his shape. *Mad* is the
+**fitted garment**, *me'il* the **outer robe**, and *maateh* any **wrap**. Two
+separate derashos turn on the difference between *beged* and *levush*.
 
 ## At a glance
 

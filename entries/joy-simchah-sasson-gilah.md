@@ -39,14 +39,16 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Simchah* is the inner, continual gladness: **joy, gladness**.
-*Sasson* is joy shown outwardly, in dress, music, celebration: **rejoicing** (Malbim);
-for the Vilna Gaon it is the joy attained at the end, where *simchah* begins the
-pursuit. *Gilah* is a burst of joy that does not last (Malbim), or the joy of
-recalling past joys (Gra): **exultation, a burst of joy**. *Rinah* is joy that breaks
-into song of Hashem's praise: **joyous song**. *Ditzah* and *chedvah* are, on
-many commentators' account, Aramaic forms of the word for joy: **mirth, delight**. Both
-ששון ושמחה and שמחה וששון are scriptural, and Chazal darshen the order (Sukkah 48b).
+*Simchah* is the inner, continual gladness: **joy, gladness**. *Sasson* is joy
+shown outwardly, in festive clothes and in music at a celebration:
+**rejoicing**. That is Malbim's distinction. The Vilna Gaon draws it
+differently: *simchah* begins the pursuit, and *sasson* is the joy attained at
+its end. *Gilah* is a burst of joy that does not last (Malbim), or the joy of
+recalling past joys (Vilna Gaon): **exultation, a burst of joy**. *Rinah* is joy
+that breaks into song of Hashem's praise (Machzor Vitry): **joyous song**.
+*Ditzah* and *chedvah* are, on many commentators' account, Aramaic forms of the
+word for joy: **mirth, delight**. Both ששון ושמחה and שמחה וששון appear in
+Tanach, and Chazal darshen the order (Sukkah 48b).
 
 ## At a glance
 

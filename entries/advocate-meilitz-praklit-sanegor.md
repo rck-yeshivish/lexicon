@@ -38,19 +38,18 @@ updated: 2026-09-10
 *Meilitz* is the only native Hebrew word of the three: a **go-between**, in
 Bereishis an **interpreter**, and in the phrase *meilitz yosher* a **defending
 advocate** who speaks up for a man's uprightness. *Praklit* and *sanegor* are
-both Greek loanwords for a defender, and the traditional sources cited below
-define each of them by *meilitz yosher*, so the difference between them
-comes not from those sources but from what historians of Greek law say the two
-offices were: the *praklit* the **patron** or **character witness** whose
-standing and vouching help the defendant, the *synegoros* the **defense counsel**
-who argues the case before the assembly (and some scholars go as far as saying
-the *praklit* helped silently, by showing up). *Kategor* is the **accuser** or
-**prosecutor**. The mishnah that anchors the cluster is Rabbi Eliezer ben
-Yaakov's, that one who performs a single mitzvah acquires for himself one
-*praklit* and one who commits a single transgression acquires one *kategor*
-(*Avos* 4:11); in other cases the antonym of *kategor* is *sanegor*. In Modern
-Hebrew a *praklit* is a state attorney, who is actually a prosecutor, not a
-defender.
+both Greek loanwords for a defender. Rashi and other traditional sources define
+each of them by *meilitz yosher*, so the difference between them comes not from
+those sources but from what historians of Greek law say the two offices were:
+the *praklit* was a **patron** or **character witness**, whose standing and
+vouching helped the defendant, and the *synegoros* was the **defense counsel**,
+who argued the case before the assembly. Some scholars go as far as saying that
+the *praklit* helped silently, by showing up. *Kategor* is the **accuser** or
+**prosecutor**. Rabbi Eliezer ben Yaakov teaches that one who performs a single
+mitzvah acquires for himself one *praklit*, and one who commits a single
+transgression acquires one *kategor* (*Avos* 4:11); in other cases the antonym
+of *kategor* is *sanegor*. In Modern Hebrew a *praklit* is a state attorney, who
+is actually a prosecutor, not a defender.
 
 ## At a glance
 

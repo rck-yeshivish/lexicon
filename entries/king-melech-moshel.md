@@ -28,11 +28,14 @@ updated: 2026-09-22
 
 ## Bottom line
 
-Both words name the same position of power; they differ in how the man got
-there. A *melech* is **king** by the people's willing acceptance. A *moshel* is
-a **ruler** who holds them by force or by proven superiority, accepted or not.
-Where Yosef's brothers set them side by side (Bereishis 37:8), the second word
-is not mere repetition.
+The consensus view is that both words name the same position of power and differ
+only in how the man got there. A *melech* is **king** by the people's willing
+acceptance; a *moshel* is a **ruler** who holds the people by force or by proven
+superiority, whether they accept him or not. Some explain instead that a
+*moshel* is a governor or deputy to whom the king has delegated power, and Rabbi
+Klein observes that Bereishis 24:2 and 45:8 fit that view. Where Yosef's
+brothers set the two words side by side (Bereishis 37:8), the second is not mere
+repetition.
 
 ## At a glance
 

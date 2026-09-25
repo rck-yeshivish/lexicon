@@ -40,21 +40,23 @@ updated: 2026-09-22
 ## Bottom line
 
 *Chok* is **statute** (or **decree**): a law whose reason is not revealed (Yoma
-67b, Rambam), set and unchanging (Pappenheim). *Mishpat* is **ordinance** or **judgment**:
-the rational, mostly interpersonal law, and the verdict a judge reaches by
-weighing two sides (Rambam, Rabbi Moshe Shapiro). *Din* is **judgment** or
-**law** in the sense of the case and its penalty: the dispute itself (Bedersi),
-the penal outcome (Wertheimer). *Dat* is **law, edict, royal decree**; in
-Megillas Esther the king's law, in Devarim 33:2 Divine law. Rabbi Klein calls
-"religion" a mistranslation and holds that the original sense of *dat* may have
-nothing to do with religion as such. *Nimus* (Rabbinic, from Greek *nomos*) is
-**law, rule** as society sets it.
+67b, Rambam), set and unchanging (Pappenheim). *Mishpat* is **ordinance** or
+**judgment**: the rational, mostly interpersonal law, and the verdict a judge
+reaches by weighing two sides (Rambam, Rabbi Moshe Shapiro). *Din* is
+**judgment** or **law** in the sense of the case and its penalty: the dispute
+itself (Bedersi) and the penal system (Wertheimer). *Dat* is **law, edict, royal
+decree**: in Megillas Esther the king's law, and in Devarim 33:2, where the
+Masorah reads *aish dat*, Divine law. Rabbi Klein calls "religion" a
+mistranslation and holds that the original sense of *dat* may have nothing to do
+with religion as such. *Nimus* (Rabbinic, from Greek *nomos*) is **law, rule**,
+and Rabbi Nissim of Marseilles separates it from *dat*: *nimus* is the rules
+society sets, *dat* what Hashem commands.
 
-On *dat* against *din* Rabbi Klein is explicitly provisional: many answers
-have been offered over the generations, many of them differing from each other
-only in nuance; what he gives is a simplified overview, and doing the question
-justice, he says, would mean working through every instance of both words in
-Tanach to see which answer is most convincing. Nothing below is presented as settled.
+Rabbi Klein does not decide how *dat* differs from *din*. Many answers have been
+offered over the generations, many of them differing only in nuance. He gives
+what he calls a simplified overview, and says that doing the question justice
+would mean working through every instance of both words in Tanach to see which
+answer is most convincing.
 
 ## At a glance
 

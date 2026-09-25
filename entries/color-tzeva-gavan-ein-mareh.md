@@ -33,15 +33,16 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Tzeva* is **color** in the sense of dye: the colorant, and the color a thing
-has been given (from *tzovea*, dyeing; for Shadal, an artificial color). *Ein*,
-construct of *ayin*, is a thing's own single **color**; Rambam sometimes uses
-*tzeva* for colors, but in other cases consistently uses *ein*. *Mareh* is the
-**appearance**, the whole picture of a thing, which could include its color
+*Tzeva*, from *tzovea* (dyeing), is **color** in the sense of dye: the colorant,
+and the color a thing has been given. For Shadal it is an artificial color.
+*Ein*, construct of *ayin*, is a thing's own single **color**. Rambam sometimes
+uses *tzeva* for colors, but in other cases consistently uses *ein*. *Mareh* is
+the **appearance**, the whole picture of a thing, which could include its color
 (Malbim); for Shadal it is a sight that may include more than one color. *Gavan*
-is Aramaic, **color** or **shade**, and belongs to Talmudic and Targumic
-language, not to Tanach. Between *tzeva* and *gavan* Rabbi Reuven Chaim Klein would
-say the difference is simply one of origin: *tzeva* is the native Hebrew word, *gavan*
+is Aramaic, **color** or **shade**, and belongs to the Bavli and the Targum, not
+to Tanach. Rabbi Meir Hellman and Aharon Aaronsohn each find a difference of
+meaning between *tzeva* and *gavan*. Rabbi Reuven Chaim Klein would say the
+difference is simply one of origin: *tzeva* is the native Hebrew word, *gavan*
 an Aramaic borrowing of an Indo-European word.
 
 ## At a glance

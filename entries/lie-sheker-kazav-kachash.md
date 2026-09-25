@@ -30,14 +30,14 @@ updated: 2026-09-22
 ## Bottom line
 
 *Sheker* is **falsehood** outright, false already when it was said. Whether it
-must also be knowing is left open: Rabbi Edel and Mecklenburg say yes, and Rabbi
-Klein offers a possible defense of Albo's broader *sheker*, which covers the
-inadvertent untruth too.
-*Kazav* is **a lie that time exposes**: it sounded true, and only later proves
-false (the Gra: he meant it when he said it and then did not keep his word).
-*Kachash* is **denial**, a false answer to a claim already standing against
-him. The three are not interchangeable; the Yom Kippur confession *b'kachash
-uvchazav* names two of them side by side.
+must also be knowing is disputed: Rabbi Edel and Rabbi Mecklenburg say it must,
+and Rabbi Klein offers a possible defense of Rabbi Albo's broader *sheker*,
+which covers the inadvertent untruth too. *Kazav* is **a lie that time
+exposes**, one that sounded true and only later proved false; the Gra's example
+is a man who meant it when he said it and then did not keep his word. *Kachash*
+is **denial**, a false answer to a claim that already stands against the
+speaker. The three are not interchangeable, and the Yom Kippur confession
+*b'kachash uvchazav* names two of them side by side.
 
 ## At a glance
 

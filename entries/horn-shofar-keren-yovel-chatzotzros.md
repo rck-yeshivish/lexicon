@@ -40,15 +40,16 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Shofar* names the **ram's horn**,
-and the word carries the sense of a **hollow tube** (Ran, from *shefoferes*)
-and of **beauty and fitness** (root ש-פ-ר; Ritva). *Keren* is the general
+*Shofar* names the **ram's horn**. Ran takes the word as a cognate of
+*shefoferes*, a **hollow tube**; the traditional derivation is from ש-פ-ר, and
+Ritva notes that *shofar* implies **beauty and fitness**. *Keren* is the general
 **horn**, still on the animal or off it, and by extension a **ray**, a
 **corner**, **strength**, and in the Mishnah the **principal** of a debt or
 investment. *Yovel* is a horn too (Shemos 19:13) and gives its name to the
 fiftieth year. *Chatzotzros* are the silver **trumpets** of Bamidbar 10:2,
-though after the Churban *shofaros* came to be called *chatzotzros*. In Rosh Hashanah 3:2 the whole
-halachah turns on the bovine horn being *called* a *keren*.
+though after the Churban *shofaros* came to be called *chatzotzros*. The Mishnah
+(Rosh Hashanah 3:2) disqualifies a bovine horn, and the Gemara grounds that in
+its being *called* a *keren*.
 
 ## At a glance
 

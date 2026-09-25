@@ -34,14 +34,14 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Gefen* is the plain word: **grapevine**. *Sorek*, by most readings, is a **choice vine**, the best stock. *Shdeimah*
-is the disputed one: Rashi makes it a **grain field**, the grammarians a
-**vine**, Rabbi Shlomo Pappenheim simply rich, nourishing **ground**. *Sarig*
-is the **tendril**. Rabbi Shlomo of Urbino (*Ohel Moed*) lists *gefen*,
-*sorek*, and *shdeimah* together as "grapevines", but not everybody agrees that
-*shdeimah* refers to a grapevine. Rabbi Klein suggests that perhaps
-all these different explanations of *sorek* are somehow describing the same
-thing.
+*Gefen* is the plain word: **grapevine**. *Sorek*, by most readings, is a
+**choice vine**, the best stock; Rabbi Klein suggests that perhaps all the
+different explanations of *sorek* are somehow describing the same thing. *Sarig*
+is the **tendril**. Rabbi Shlomo of Urbino (*Ohel Moed*) lists *gefen*, *sorek*
+and *shdeimah* together as "grapevines", but not everybody agrees that
+*shdeimah* refers to a grapevine. Rashi makes it a **grain field**, Rabbeinu
+Bachya and the grammarians a **vine**, Rabbi Shlomo Pappenheim simply rich,
+nourishing **ground**, and *Ohalei Yehuda* and *Shoresh Yesha* a poor field.
 
 ## At a glance
 

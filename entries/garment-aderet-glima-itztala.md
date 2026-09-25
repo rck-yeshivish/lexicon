@@ -34,14 +34,14 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Aderes* is the biblical word: a **mantle**, an outer garment that for Radak
-displays the wearer's importance. *Glima* is its Aramaic counterpart in the
-Gemara, an **unfitted robe**, on Rashi's reading a flat sheet of cloth rather
-than a tailored garment. *Itztala* is a **ceremonial cloak**, an outer garment
-tied to office and rank. *Tachrich* is a **wrap**, and in the plural
-*tachrichin* the burial shrouds. Rashi glosses all three of the first as
-*tallis*, but they can carry slightly different connotations: *glima* stresses
-the garment's shapelessness, *itztala* the wearer's standing.
+*Aderes* is the biblical word: a **mantle**, an outer garment that, Radak
+explains, displays the wearer's importance. *Glima* is its Aramaic counterpart
+in the Gemara, an **unfitted robe**, which Rashi explains as a flat sheet of
+cloth rather than a tailored garment. *Itztala* is a **ceremonial cloak**, an
+outer garment tied to office and rank. *Tachrich* is a **wrap**, and in the
+plural, *tachrichin*, the burial shrouds. Rashi glosses the first three alike as
+*tallis*, but *glima* and *itztala* can carry slightly different connotations:
+*glima* stresses the garment's shapelessness, *itztala* the wearer's standing.
 
 ## At a glance
 

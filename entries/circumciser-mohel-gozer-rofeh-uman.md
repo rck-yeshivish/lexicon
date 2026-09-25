@@ -32,12 +32,13 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Mohel* is the **circumciser**. *Gozer* is the **cutter**, the older title,
-which in a name carries a second sense, halachic decisor. *Rofeh* is a
-**physician** who performs the circumcision, *uman* a **practitioner** or
-bloodletter who does; on Rabbi Yissachar Tamar's reading neither means "circumciser" as such. His
-rule sorts them: a man whose main profession was circumcision alone was a *mohel*, one who
-also bled and healed a *rofeh* or an *uman*.
+*Mohel* is the **circumciser**. *Gozer* is the **cutter**, the older title, and
+as an honorific it also carried a second sense, halachic decisor. *Rofeh* is a
+**physician** who performs the circumcision, and *uman* a **practitioner** or
+bloodletter who does so; on Rabbi Yissachar Tamar's reading, neither word means
+"circumciser" as such. His rule sorts them: a man whose main profession was
+circumcision alone was a *mohel*, and one who also let blood or practiced other
+kinds of healing was a *rofeh* or an *uman*.
 
 ## At a glance
 

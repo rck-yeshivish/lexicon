@@ -34,21 +34,22 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Lishtos* is **to drink**, the act itself, and it is said only of people and
-animals; over 220 appearances in Tanach. *Lehashkos* is **to give to drink**, to
-water: it names the providing and not the drinking, and so is almost always in
-*hifil*; over 60 appearances, and it covers watering the ground as well as
-people and beasts. *Mashkeh* is the **beverage**, sometimes with the implication of an
-alcoholic one. *Hagmieini* is the servant's word, something along the lines of
-**let me drink**; Rashi ties its root to the Mishnaic word for **swallowing**.
-In the Rivkah narrative the Torah alternates the two roots.
+*Lishtos* is **to drink**, the act itself. It appears over 220 times in Tanach
+and is said only of people and animals. *Lehashkos* is **to give to drink**, to
+water. It names the providing and not the drinking, and so it is almost always
+in *hifil*; its more than 60 appearances cover watering the ground as well as
+people and beasts. *Mashkeh* is the **beverage**, sometimes with the implication
+of an alcoholic one. *Hagmieini* is the servant's word, something along the
+lines of **let me drink**; Rashi ties its root to the Mishnaic word for
+**swallowing**. In the Rivkah narrative the Torah alternates the two roots.
 
 Rabbi Reuven Chaim Klein asks why Hebrew should have two different roots for
-drinking and giving to drink, when eating and feeding come off one root (א-כ-ל,
+drinking and giving to drink, when eating and feeding come from one root (א-כ-ל,
 *lechol* and *leha'achil*), and why the active *lishtos* should be confined to
 man and beast while the causative *lehashkos* reaches even to plants. He has
 wondered about these questions for years and has not yet found a satisfactory
-answer. What follows are etymological insights, not a resolution.
+answer. The etymologies of the words give some insight into the words
+themselves, but they do not answer those questions.
 
 ## At a glance
 

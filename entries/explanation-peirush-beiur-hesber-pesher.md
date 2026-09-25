@@ -37,14 +37,14 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Peirush* is the plain **explanation** or **commentary**: it makes known what a
-text says on its surface, its legal and practical sense (Malbim: exoteric).
-*Beiur* is **elucidation**: it goes beneath the surface to bring up what is
-hidden (Malbim), at length and in writing, so that the matter is clear (Shadal).
-*Hesber* is **explanation of the reasoning**, the *svara*: it answers *why*,
-where *beiur* answers *what* (Rabbi Reuven Subar). *Pesher* and *pitaron* are
-**interpretation**, the solving of an enigma; *pitaron* in Tanach is dream
-interpretation only (Radak, Malbim).
+*Peirush* is the plain **explanation** or **commentary**. For Malbim it reveals
+the exoteric: what a text says on its surface, and its legal and normative
+sense. *Beiur* is **elucidation**. For Malbim it goes beneath the surface to
+bring up what is hidden; for Shadal it is a clear manner of writing, expanding
+on an idea at length. *Hesber* is **explanation of the reasoning**, the *svara*:
+it answers *why*, where *beiur* answers *what* (Rabbi Reuven Subar). *Pesher*
+and *pitaron* are **interpretation**, the solving of an enigma, and in Tanach
+*pitaron* is only ever the interpretation of a dream (Radak, Malbim).
 
 ## At a glance
 

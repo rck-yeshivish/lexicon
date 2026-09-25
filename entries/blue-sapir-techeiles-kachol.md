@@ -32,9 +32,9 @@ updated: 2026-09-22
 
 ## Bottom line
 
-The Torah has no word for the color blue. *Sapir* is a **stone**, *techeiles* a
-**dyed wool**, and *kachol* comes from the name of a cosmetic powder; its range runs to dark
-and black.
+The Torah has no word for the color blue. *Sapir* is a **stone** and *techeiles*
+a **dyed wool**. *Kachol* takes its name from kohl, a cosmetic powder for the
+eyes, and the word's range runs to dark and black.
 
 ## At a glance
 

@@ -31,12 +31,14 @@ updated: 2026-09-14
 
 ## Bottom line
 
-The Gemara (Megillah 22b, Berachos 34b) teaches that the three are three kinds of bowing: *kidah* is bowing the face, *kriah* is kneeling, and
+The Gemara (Megillah 22b, Berachos 34b) teaches that three words for bowing name
+three different acts: *kidah* is bowing the face, *kriah* is kneeling, and
 *hishtachavaah* is full prostration with hands and feet stretched out. Maharsha
-explains that each bows the head and some add more: *kidah* with the body otherwise
-erect, *kriah* on the knees, *hishtachavaah* stretched out on the floor. *Segidah* is
-Aramaic for *hishtachavaah* according to Radak; Malbim holds that the act may be
-the same but the purpose differs.
+explains that all three involve bowing the head, and some involve more: in
+*kidah* the body otherwise stays erect, in *kriah* one is on the knees, and in
+*hishtachavaah* one is stretched out on the floor. Radak holds that *segidah* is
+the Aramaic for *hishtachavaah*; Malbim holds that the act may be the same but
+the purpose differs.
 
 ## At a glance
 

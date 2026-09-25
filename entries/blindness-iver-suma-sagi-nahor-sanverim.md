@@ -42,12 +42,13 @@ updated: 2026-09-22
 ## Bottom line
 
 *Iver* is the Biblical **blind man** and *ivaron* his **blindness**; *suma* is
-the same in Aramaic. *Sagi nahor*, "light enough," is the euphemism. *Sanverim* is the harder word: it
-occurs three times in Tanach, and a wide range of scholars have tried to
-say how it differs from *ivaron*, some of them reading it as a **dazzlement** or
-disordering of sight rather than plain absence of sight. For Rabbi Shlomo
-Pappenheim *iver* names an eye that works but is covered over,
-which is what makes the bribed-judge metaphor work.
+the same in Aramaic. For Rabbi Shlomo Pappenheim the *iver* has an eye that
+works but is covered over, and he explains the bribe that blinds the eyes of the
+wise (Devarim 16:19) the same way. *Sagi nahor*, "light enough," is a euphemism
+on the plain reading, though the Kli Yakar takes it literally. *Sanverim* is the
+harder word. It occurs three times in Tanach, and a wide range of scholars have
+tried to say how it differs from *ivaron*; some of them read it as a
+**dazzlement** or disordering of sight rather than plain absence of sight.
 
 ## At a glance
 

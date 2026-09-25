@@ -25,16 +25,17 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Meitzach* is the biblical word, some thirteen times in Tanach; *padachat* is the
-word of Chazal, absent from Tanach. From the Geonim onward they are treated as
-the same thing in two strata of the language (Rav Hai Gaon; Rabbeinu Chananel;
-*Sefer HeAruch*), and Rashi's glossing *padachat* as *meitzach* every time
-suggests that he too took them as synonyms, so on that view both are
-**forehead**. At Shemos 28:38, since most authorities hold
-the *tzitz* sat above the forehead where the *tefillin* go, the Ritva and
-*Tosafos Yeshanim* either read the pasuk as "above his *meitzach*" or take
-biblical *meitzach* as **the top of the head**, or at least as including the top
-of the head along with the forehead.
+*Meitzach* is the biblical word, found some thirteen times in Tanach; *padachat*
+is the word of Chazal, absent from Tanach. From the Geonim onward they are
+treated as the same thing in two strata of the language (Rav Hai Gaon; Rabbeinu
+Chananel; *Sefer HeAruch*). Rashi glosses *padachat* as *meitzach* every time,
+which suggests that he too took them as synonyms. On that view both are
+**forehead**. Most authorities hold that the *tzitz* sat above the forehead,
+where the *tefillin* go, and so at Shemos 28:38 the Ritva and *Tosafos Yeshanim*
+either read the pasuk as "above his *meitzach*" or take biblical *meitzach* as
+**the top of the head**, or at least as including the top of the head along with
+the forehead. *Tosafos HaShalem* states outright that *meitzach* does not mean
+*padachat*.
 
 ## At a glance
 

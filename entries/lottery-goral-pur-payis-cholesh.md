@@ -43,12 +43,13 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Goral* is the general Hebrew word for a **lot**, and also for the **portion**
-allotted to a man, often by lot. *Pur* is the word Megillas Esther itself
-glosses as *goral*; the rishonim cited call it Persian. *Payis* is the Mishnaic
-word for the **lottery** among the *kohanim* in the Beis HaMikdash, and *kalpi* the **box** the lots are drawn
-from. *Cholesh* is a rare word for casting lots (Yeshayahu 14:12). *Goral* is
-both the drawing and the thing drawn.
+*Goral* is the general Hebrew word for a **lot**, both the drawing and the thing
+drawn, and also for the **portion** allotted to a man, often by lot. *Pur* is
+the word Megillas Esther itself glosses as *goral*. Four rishonim call it
+Persian; Rabbi Yaakov Lorberbaum of Lissa and Rabbi Shlomo Pappenheim hold that
+it is Hebrew. *Payis* is the Mishnaic word for a **lottery**, above all the one
+among the *kohanim* in the Beis HaMikdash, and *kalpi* is the **box** the lots
+are drawn from. *Cholesh* is a rare word for casting lots (Yeshayahu 14:12).
 
 ## At a glance
 

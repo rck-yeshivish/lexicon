@@ -33,14 +33,14 @@ updated: 2026-09-22
 ## Bottom line
 
 There are seemingly three words for "hook" in Biblical Hebrew and one in
-Mishnaic. *Vav* seems to be the most basic, the fittings of the Mishkan's
-pillars, and it occurs nowhere else in Tanach. *Agmon* is a **hooked reed** or
-thistle, used, as Rabbi Pappenheim explains it, as a fishhook and then for
-anything bent. *Shfataim* occurs once and is disputed: **hooks** (Targum, Rashi)
-or a **setting for pots** (Radak, Abarbanel) or a **ledge** (Rabbi Eliezer of
-Beaugency). *Ankliyot* is the Mishnaic word for a hook, especially its barbed
-part, and appears to be a Greek loanword; it is what Targum uses for *shfataim*
-and, at least at Iyov 40:26, for *agmon*.
+Mishnaic. *Vav* seems to be the most basic; it is used of the fittings on the
+Mishkan's pillars and nowhere else in Tanach. *Agmon* is a **hooked reed** or
+thistle. Rabbi Pappenheim explains that it served as a fishhook, and that from
+there the word came to mean anything bent. *Shfataim* occurs once, and its
+meaning is disputed: **hooks** (Targum, Rashi), a **setting for pots** (Radak,
+Abarbanel), or a **ledge** (Rabbi Eliezer of Beaugency). *Ankliyot* is the
+Mishnaic word for a hook, especially its barbed part, and appears to be a Greek
+loanword; Targum uses it for *shfataim*, and for *agmon* at least at Iyov 40:26.
 
 ## At a glance
 

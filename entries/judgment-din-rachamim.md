@@ -27,14 +27,14 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Din* is **judgment** and *rachamim* is **mercy**; as Rabbi Reuven Chaim Klein
-explains them, the difference between them is where the attention rests. Under *rachamim*
-the focus is on the Giver, so the flow is constant and unearned. Under *din* the
+*Din* is **judgment** and *rachamim* is **mercy**, and as Rabbi Reuven Chaim
+Klein explains them, they differ in where the focus rests. Under *rachamim* the
+focus is on the Giver, so the flow is constant and unearned. Under *din* the
 focus is on the receiver, so the flow is measured out by what he deserves. *Din*
-is not punishment: Hashem gives under *din* too. The Divine Name of *din* is *Elokim*; the
-four-letter Name is the Name of *rachamim*. In the shofar, *tekiah* (one
-unbroken sound) answers to *rachamim* and *teruah* (a broken, fragmented sound)
-to *din*.
+is not punishment: Hashem gives under *din* too. Tradition ties the Name
+*Elokim* to *din* and the four-letter Name to *rachamim*. In the shofar, the
+*tekiah* (one unbroken sound) answers to *rachamim* and the *teruah* (a broken,
+fragmented sound) to *din*.
 
 ## At a glance
 

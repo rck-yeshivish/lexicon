@@ -32,15 +32,15 @@ updated: 2026-09-22
 
 ## Bottom line
 
-One city, four names (*Bereishis Rabbah* 58:4). **Chevron** is the standing name,
-which seems to derive from ח-ב-ר, connection or friendship.
-**Kiryas Arba** is the older one (Yehoshua 14:15), and the live question is
-whether *arba* is the number, "City of Four," or the personal name of the giants'
-father, "City of Arba"; Rashi holds each way in a different place, and other
-scholars suggest a third view, that the name is of non-Semitic origin and
-originally had nothing to do with either. **Mamre** and **Eshkol** are the names
-of Avraham's two allies, and the Midrash counts both as names of the city as
-well.
+One city, four names (*Bereishis Rabbah* 58:4). **Chevron**, the later name,
+seems to derive from ח-ב-ר, connection or friendship. **Kiryas Arba** is the
+older one (Yehoshua 14:15), and the authorities differ over whether *arba* is
+the number, "City of Four," or the personal name of the giants' father, "City of
+Arba." Rashi reads it each way in a different place (to Bereishis 23:2 and to
+Yehoshua 14:15). Other scholars suggest a third view, that the name is of
+non-Semitic origin and originally had nothing to do with either. **Mamre** and
+**Eshkol** are the names of Avraham's two allies, and the Midrash counts both as
+names of the city as well.
 
 ## At a glance
 

@@ -31,7 +31,8 @@ updated: 2026-09-22
 extension the earth itself down to its core. *Adamah* is **ground**: the arable
 surface, the soil worked for crops. The Gra, Malbim and Rabbi Moravsky make
 *eretz* the broader word, and the last two confine *adamah* to the thin top
-layer; the Maharshal inverts it.
+layer. The Maharshal holds the reverse: *eretz* is limited to the surface, and
+*adamah* is the broader word, taking in the depths as well.
 
 ## At a glance
 

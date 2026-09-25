@@ -17,7 +17,7 @@ words:
   - he: בצורת
     tr: batzores
     en: famine
-    distinct: the rabbinic term, from the Biblical shnas batzores, a year of famine (Rashi); the crop failure rather than the people's suffering; closest to the root's sense of withholding, people pressed into narrow straits (Rabbi Reuven Chaim Klein)
+    distinct: the rabbinic term, from the Biblical shnas batzores, a year of famine (Rashi); closest to the root's sense of withholding, people pressed into narrow straits (Rabbi Reuven Chaim Klein)
 sources:
   - wiaw:10761 "Famishing Famines" (2022-12-31) https://articles.ohr.edu/articles/famishing-famines
 authorities: [Menachem Ibn Saruk, Rashi, Radak, Ibn Ezra, Rabbi Shmuel Masnuth, Rabbi Yosef Kimchi, Ralbag, Rabbi Shimon ben Tzemach Duran, Rabbi Yehudah Aryeh of Carpentras, Rabbi Shlomo Pappenheim, Vilna Gaon, Rabbi Shlomo Aharon Wertheimer, Rabbi Eliyahu HaBachur, Rabbi Moshe Zidel]
@@ -27,15 +27,16 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Ra'av* is the standard word, some 130 occurrences: **famine**, or **hunger**
-when the subject is a person. *Kafan* appears in Hebrew only twice, both in Iyov
-(5:22, 30:3), and is the harder case: it may be simply the Aramaic word for
-the same thing, or, on various readings, the famine of prices or of a stomach
-that has stopped complaining. *Batzores* is the rabbinic term; the Biblical
-*shnas batzores* Rashi glosses as **a year of famine** (the famine sense
-seemingly closest to the root's third meaning, withholding). Where *kafan*
-stands beside *ra'av* in the same passage, the pairing is what suggests that
-the two differ.
+*Ra'av* is the standard word, found some 130 times in Tanach: **famine**, or
+**hunger** when the subject is a person. *Kafan* appears in Hebrew only twice,
+both in Iyov (5:22, 30:3), and is harder to pin down. Rabbi Klein thinks it
+quite possible that it is simply the Aramaic word for the same thing; but in
+Iyov it stands beside *ra'av* itself, which suggests that in Hebrew it means
+something slightly different. Among the readings, it is famine brought on by
+hoarding and high prices (Ralbag), or starvation so far gone that the man no
+longer feels his hunger (Wertheimer). *Batzores* is the rabbinic term. In Tanach
+it appears in *shnas batzores*, which Rashi explains as **a year of famine**,
+and its famine sense seems closest to the root's third meaning, withholding.
 
 ## At a glance
 
@@ -43,7 +44,7 @@ the two differ.
 |---|---|---|---|
 | רעב | ra'av | famine, hunger | the standard word; simple scarcity (Ralbag); the external lack of produce (Vilna Gaon) |
 | כפן | kafan | dearth | disputed: hoarding and high prices (Ralbag); food that does not satisfy (Vilna Gaon) |
-| בצורת | batzores | famine | the rabbinic term; the crop failure, not the suffering; withholding |
+| בצורת | batzores | famine | the rabbinic term; a year of famine (Rashi); withholding |
 
 ## Distinctions
 
@@ -148,9 +149,7 @@ derive from the Hebrew root א-ל-ץ, the root of Biblical *alatz*.
   "scarcity and starvation," or spell the distinction out. In Iyov 5 the two
   stand in one passage (*ra'av* in 5:20, *kafan* in 5:22), and a single English
   word erases the point.
-- Trap: *batzores* is not interchangeable with *ra'av* in a rabbinic text. When
-  Chazal say *shnas batzores* they mean the crop failure; *ra'av* names what the
-  people are suffering.
+- Trap: *batzores* is not interchangeable with *ra'av* in a rabbinic text.
 - Where the Vilna Gaon's reading is in play, *kafan* is food that does not satisfy; "famine" is then actively wrong. "Want" or "unsated
   hunger" carries it.
 - Do not smooth *kafnah* in Yechezkel 17:7 to "gathered" without a note; Rashi

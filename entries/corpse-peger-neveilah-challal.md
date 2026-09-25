@@ -28,12 +28,12 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Peger* is a human **corpse**, and by Rabbi Eliyahu HaBachur the rotting body
-of a rasha. *Neveilah* is a **carcass**, an animal that died without shechitah,
-and by the same authority it can name a human body too, but only one killed by
-an outside force. *Challal* literally means **empty** or **cavity**: a body
-emptied of its soul is like an empty vessel. *Neveilah* in a halachic passage
-is a technical term.
+*Peger* is a human **corpse**; Rabbi Eliyahu HaBachur explains that it is used
+specifically of the rotting body of a rasha. *Neveilah* is a **carcass**, and in
+halachah it is the technical term for an animal that died without shechitah.
+Rabbi Eliyahu HaBachur holds that *neveilah* can name a human body as well, but
+only one killed by an outside force. *Challal* literally means **empty** or
+**cavity**: a body emptied of its soul is like an empty vessel.
 
 ## At a glance
 

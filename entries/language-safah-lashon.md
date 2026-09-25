@@ -23,13 +23,14 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Both mean **language**, and both are body parts taken over for speech: *safah*
-is the lip, *lashon* the tongue. Rav Dessler: the lip is outside the body and the
-tongue inside, so a *lashon* is a language whose speakers have taken its inner
-content into themselves, while a *safah* is one they hold only externally, its
-mechanics without its values. That is why Hebrew is *Lashon HaKodesh*, and why
-the generation of the Haflagah, who spoke the same words with none of their
-content, had one *safah* (Bereishis 11:1).
+Both mean **language**, and taken literally both are body parts: *safah* is the
+lip, *lashon* the tongue. Rav Dessler explains that the lip is outside the body
+and the tongue inside, so a *lashon* is a language whose speakers have taken its
+inner content into themselves, while a *safah* is one they hold only externally,
+its mechanics without its values. That is why Hebrew is called *Lashon
+HaKodesh*, since we strive to take in the values it stands for, and why the
+generation of the Haflagah, who spoke that same language only on the surface,
+without its essence, had one *safah* (Bereishis 11:1).
 
 ## At a glance
 

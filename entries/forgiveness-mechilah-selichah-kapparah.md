@@ -29,20 +29,22 @@ updated: 2026-09-22
 ## Bottom line
 
 *Selichah* is **forgiveness** proper: the bond between the sinner and the One
-sinned against is mended (Rav Hirsch); it is the Biblical word (*salachti*,
-Bamidbar 14:20). *Mechilah* is **pardon**: the penalty remitted (Rav Hirsch);
-it is Rabbinic, never Biblical, and doubles as the word for forgoing what one is
-owed. *Kapparah* is **atonement**: every consequence of the sin wiped out (Rav
+sinned against is mended (Rav Hirsch). It is the Biblical word (*salachti*,
+Bamidbar 14:20). *Mechilah* is **pardon**: the penalty remitted (Rav Hirsch). It
+is Rabbinic, never Biblical, and it also means forgoing what one is owed.
+*Kapparah* is **atonement**: every consequence of the sin wiped out (Rav
 Hirsch), at a price and usually through a korban (Malbim). The liturgy's סלח
-לנו, מחל לנו, כפר לנו uses all three. Rav Hirsch's three-way map is slightly
-more comprehensive than the others: neither Mecklenburg nor Wertheimer addresses
-how their two words differ from *kapparah* at all. Which of *selichah* and
-*mechilah* is the fuller is disputed: *selichah* for Rav Hirsch and Rabbi Zev
-Hoberman, for whom it restores the love that stood before the sin; *mechilah*
-for Mecklenburg, Wertheimer and Rabbi Dosa the Greek, for whom *selichah* only
-defers the debt. Rabbi Eliyahu Menachem Margulies, following the Vilna Gaon,
-gives each its own object: *selichah* forgives the infraction, *mechilah*
-forgoes the slight to Hashem's honor.
+לנו, מחל לנו, כפר לנו uses all three. Rav Hirsch's explanation is slightly more
+comprehensive than the others: neither Mecklenburg nor Wertheimer addresses how
+their two words differ from *kapparah* at all. The authorities differ over which
+of *selichah* and *mechilah* is the fuller. For Rav Hirsch it is *selichah*,
+which mends the bond; so too for Rabbi Zev Hoberman, for whom *selichah*
+restores the love that stood before the sin. For Mecklenburg, Wertheimer and
+Rabbi Dosa the Greek it is *mechilah*, since for them *selichah* only defers the
+debt. Rabbi Eliyahu Menachem Margulies also takes *selichah* to be the more
+encompassing, but he rejects Rabbi Hoberman's explanation; following the Vilna
+Gaon, he gives each word its own object: *selichah* forgives the infraction,
+*mechilah* forgoes the slight to Hashem's honor.
 
 ## At a glance
 

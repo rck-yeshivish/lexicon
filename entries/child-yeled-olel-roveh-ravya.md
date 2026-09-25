@@ -42,14 +42,14 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Yeled* is the unmarked word for a **child**, and does not necessarily carry an age with it.
-*Olel* is the **toddler** who has
-been weaned and gets himself up to look for food. *Roveh* is a **youngster**,
-in *Midrash Tadshe*'s list between *naar* and *elem*. *Elem* is the **young man** who has nearly reached
-his full height. In Aramaic, *ravya* and *talya* both mean **boy** or
-**lad**, and the Targum is not consistent about which Hebrew word each renders.
-This entry covers the etymologies and the child-words; for *naar* and *almah*
-themselves see [youth](youth-naar-almah-elem.html).
+Rabbi Shlomo Pappenheim calls *yeled* the general word for a **child**, and
+writes that it does not necessarily denote any specific age. *Olel* is the
+**toddler** who has been weaned and now gets himself up to look for food.
+*Roveh* is a **youngster**, the stage *Midrash Tadshe* places between *naar* and
+*elem*. *Elem* is the **young man** who has nearly reached his full height. In
+Aramaic, *ravya* and *talya* both mean **boy** or **lad**, and the Targum is not
+consistent about which Hebrew word each renders. For *naar* and *almah*
+themselves, see [youth](youth-naar-almah-elem.html).
 
 ## At a glance
 
@@ -89,8 +89,6 @@ themselves see [youth](youth-naar-almah-elem.html).
 - Rabbi Eliyahu HaKohen of Izmir cites anonymous "sages of astrology" who put
   *yeled* at two to five, *naar* at five to eight, and *bachur* at eight to
   eighteen.
-
-The bracket schemes are context-bound.
 
 **The Aramaic correspondences.** They do not line up. Onkelos usually renders
 *yeled* as *ravya* (Bereishis 21:8, 21:16; Shemos 2:6; see also Sukkah 5b), the

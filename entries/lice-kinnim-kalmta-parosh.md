@@ -40,11 +40,11 @@ updated: 2026-09-10
 *Kinnim* is **lice**, the plural; *kinam* is the same creature named as a
 **species**; *kinah* is a single **louse**, a word of the Mishnah and Gemara
 rather than of Tanach. The Aramaic is *kalmta*, and in the Gemara *kalmei*. A
-*parosh* is a **flea**, for *Metzudas Tzion* a black *kinah* that jumps. At
-Yeshayahu 51:6 and Bamidbar 13:33 the standard reading of *kein* is "so,
-likewise"; certain commentators read it as "louse", a possibility first proposed
-at Yeshayahu 51:6 by the seventeenth century Dutch Protestant scholar Ludovicus
-de Dieu and taken up by others, Malbim among them.
+*parosh* is a **flea**; *Metzudas Tzion* defines it as a black *kinah* that
+jumps. At Yeshayahu 51:6 and Bamidbar 13:33 the standard reading of *kein* is
+"so, likewise", but certain commentators read it as "louse". The seventeenth
+century Dutch Protestant scholar Ludovicus de Dieu first proposed that
+possibility at Yeshayahu 51:6, and others took it up, Malbim among them.
 
 ## At a glance
 

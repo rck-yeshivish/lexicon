@@ -33,11 +33,11 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Shekel* does not mean the same thing in Tanach and in Mishnah. In Tanach a
-*shekel* is the full weighed coin; the Mishnah calls that coin a *sela* and uses
-*shekel* for the **half-shekel** of the annual donation (Ramban to Shemos 30:13).
-Biblical שקל is the **shekel** and Mishnaic סלע the **sela**. *Beka* is **half a
-shekel**, from "splitting."
+*Shekel* does not mean the same thing in Tanach and in the Mishnah. In Tanach
+the **shekel** is the full weighed coin. The Mishnah calls that coin a **sela**
+and uses *shekel* for the **half-shekel** of the annual donation (Ramban to
+Shemos 30:13; Rabbi Menachem Azariah of Fano). *Beka*, from the root for
+splitting, is **half a shekel**.
 
 ## At a glance
 

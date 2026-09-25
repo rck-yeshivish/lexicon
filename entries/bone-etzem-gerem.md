@@ -24,13 +24,14 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Both mean **bone**, and both also mean **the thing itself**. *Etzem* is the bone
-as something hard, strong, and self-contained, and for Rabbi Shlomo Aharon
-Wertheimer the general word;
-*gerem* is the bone as one part within a frame, which is why the same root gives
-a single step of a staircase and, in rabbinic Hebrew, *grama*, indirect
-**causation** (Rav Hirsch). The Vilna Gaon puts the line differently: *etzem* is
-the bone's hard outside, *gerem* the hollow inside where the marrow is.
+Both mean **bone**, and both also mean **the thing itself**. Rav Hirsch explains
+that *etzem* is the bone as something hard, strong and self-contained, and
+*gerem* the bone as one part within a frame, which is why the same root gives a
+single step of a staircase and, in rabbinic Hebrew, *grama*, indirect
+**causation**. For Rabbi Shlomo Aharon Wertheimer, *etzem* is the general word
+for any bone, and *gerem* specifically the larger bones that carry a heavy load.
+The Vilna Gaon puts the line differently: *etzem* is the bone's hard outside,
+*gerem* the hollow inside where the marrow is.
 
 ## At a glance
 

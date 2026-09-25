@@ -26,18 +26,16 @@ updated: 2026-09-10
 
 Both are rabbinic; neither is biblical, and Biblical Hebrew has no plain verb
 for chewing at all (*maaleh geirah* means brings up the cud, not chews it).
-*Koses* is to **chew**, on Rashi's definitions, in the sense of gnawing something raw or eating it in
-an unusual way, and *lo'es*, on Rabbi Meir Mazuz's reading, is to **chew** in the ordinary sense of working food
-before swallowing. Rashi flatly equates them (*lo'es* means *koses*). Rabbi
-Reuven Chaim Klein's own suggestion is that perhaps no semantic difference is called for at
-all, since the two seem to come from different languages. Where a passage
-turns on the word choice, members of the Mazuz family seem to presume a difference:
-Rabbi Meir Mazuz has
-*le'isah* typically implying chewing toward swallowing while *kesisah* does not
-necessarily carry that implication, and Rabbi Yitzchak Barda has *kesisah* the
-more enjoying chew and *le'isah* the more workaday one. Rabbi Klein grants that
-the difference the Mazuz family presumes is hard to substantiate, and hard even
-to state exactly.
+*Koses* is to **chew**, and Rashi defines it both as eating something raw and as
+eating in an unusual way. *Lo'es* is also to **chew**, and Rashi flatly equates
+the two (*lo'es* means *koses*). Rabbi Reuven Chaim Klein's own suggestion is
+that perhaps no semantic difference is called for at all, since the two seem to
+come from different languages. Members of the Mazuz family, however, seem to
+presume a difference. Rabbi Meir Mazuz holds that *le'isah* typically implies
+chewing toward swallowing, while *kesisah* does not necessarily carry that
+implication; Rabbi Yitzchak Barda takes *kesisah* as the more enjoying chew and
+*le'isah* as the more workaday one. Rabbi Klein grants that the difference the
+Mazuz family presumes is hard to substantiate, and hard even to state exactly.
 
 ## At a glance
 

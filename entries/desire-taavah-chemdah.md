@@ -31,20 +31,22 @@ updated: 2026-09-22
 ## Bottom line
 
 *Taavah* is **craving**, and in a mussar context **lust**: the desire whose
-fulfillment is direct bodily pleasure, born of the man's own appetite and
-imagination (Vilna Gaon; Malbim). The word almost exclusively conjures the desire
-for intimacy. *Chemdah* is **coveting**: desire drawn by the object's own worth and
-roused by seeing it, typically for money, a house, fine clothes (Vilna Gaon;
-Rabbi Pappenheim and Rabbi Mecklenburg; Malbim). *Chefetz*, the Vilna Gaon's word
-for desire for food, seems to sit between them, as Rabbi Klein suggests: plain
-**desire** (see the *ratzon* entry). That is disputed: the *Ohel Yaakov* makes
-*chefetz* a desire with no reason in the object, against *cheshek*, the desire
-for a gain one sees; HaKsav VeHaKabbalah calls *cheshek* the desire without
+fulfillment is direct bodily pleasure (Vilna Gaon), born of the man's own
+proclivities (Rabbi Pappenheim and Rabbi Mecklenburg) and his own imagination
+(Malbim). The word almost exclusively conjures the desire for intimacy.
+*Chemdah* is **coveting**: the desire for such things as money, a house or fine
+clothes (Vilna Gaon), drawn by the object's own worth (Rabbi Pappenheim and
+Rabbi Mecklenburg) and roused by seeing it (Malbim). The contrast between the
+two is inside (*taavah*) against outside (*chemdah*). The Vilna Gaon explains
+that Chagigah 11b, which applies the two words to theft and illicit relations,
+pairs *chemdah* with theft and *taavah* with illicit relations. *Chefetz*, the
+Vilna Gaon's word for desire for food, is plain **desire** (see the *ratzon*
+entry), and Rabbi Klein suggests that it seems to sit between the other two. The
+authorities differ over *chefetz* and *cheshek*: the *Ohel Yaakov* makes
+*chefetz* a desire with no reason in the object, and *cheshek* the desire for a
+gain one sees in it; HaKsav VeHaKabbalah calls *cheshek* the desire without
 logic; and Rabbi Wertheimer reports that others hold the opposite of the *Ohel
-Yaakov*. Chagigah 11b applies the two to theft and
-illicit relations, and the Vilna Gaon explains that it does so respectively:
-*chemdah* with theft, *taavah* with illicit relations. The contrast between the two is inside (*taavah*) against outside
-(*chemdah*).
+Yaakov*.
 
 ## At a glance
 

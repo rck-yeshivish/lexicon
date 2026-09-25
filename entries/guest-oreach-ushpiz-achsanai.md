@@ -35,13 +35,13 @@ updated: 2026-09-22
 
 *Oreach* is the biblical **guest**, more precisely the **wayfarer** taken in
 while travelling; the word is built on *orach*, a road. *Achsanai* is the
-rabbinic **guest**, and *achsanyah* the **lodging** or the **host** who
-provides it. *Ushpiz* is Aramaic and cuts both ways: in the Gemara usually the
-**host**, in the Zohar (the *Ushpizin* of Sukkos) usually the **guest**. Its
-origin is disputed: Latin *hospes* for Rabbi Eliyahu HaBachur, Middle Persian
-for Sokoloff.
-*Achsanyah* shares something of that ambiguity: both words can point sometimes
-to the guest and sometimes to the host.
+rabbinic **guest**, and *achsanyah* the **lodging** or the **host** who provides
+it. *Ushpiz* is Aramaic and points both ways: in the Gemara it usually means the
+**host**, and in the Zohar (the *Ushpizin* of Sukkos) usually the **guest**.
+*Achsanyah* shares something of that ambiguity, and like *ushpiz* can point
+sometimes to the guest and sometimes to the host. The origin of *ushpiz* is
+disputed: Rabbi Eliyahu HaBachur derives it from Latin *hospes*, and Sokoloff
+from Middle Persian.
 
 ## At a glance
 

@@ -23,15 +23,16 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Kavod* is **honor**: weight, the honor a thing commands by what it is (Malbim:
-inherent worth, as with a talmid chacham). *Yakar* is **precious** as an
-adjective and **esteem** or **preciousness** as a noun: value that comes from
-rarity and from the impact a thing makes (Rabbi Pappenheim; Malbim). In
-Megillas Esther the noun *yikar* is "esteem" or "honor". The authorities split
-on which of the two is inherent: Malbim gives that to *kavod*, Rabbi Avraham
-Vilner to *yakar*, and Rabbi Klein says we are back to
-square one. *Yakar* means "rare" (Shmuel I 3:1), "costly"
-(Tehillim 116:15) or "dear" (Yirmiyahu 31:19), by context.
+*Kavod* is **honor**, and its root also means heavy. *Yakar* is **precious** as
+an adjective and **esteem** or **preciousness** as a noun; by context it means
+"rare" (Shmuel I 3:1), "costly" (Tehillim 116:15) or "dear" (Yirmiyahu 31:19).
+For Rabbi Pappenheim the *yakar* thing is one that makes an impact, and the rare
+thing makes the greater impact. In Megillas Esther the noun *yikar* is "esteem"
+or "honor". The authorities split on which of the two is inherent. Malbim gives
+that to *kavod*, as with a talmid chacham, and makes *yakar* an importance that
+comes from rarity; Rabbi Avraham Vilner gives it to *yakar* and makes *kavod*
+one's standing relative to others. Rabbi Klein says this puts us back at square
+one.
 
 ## At a glance
 

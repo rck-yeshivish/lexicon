@@ -24,15 +24,15 @@ updated: 2026-09-22
 
 ## Bottom line
 
-Both mean **I**. *Ani* is the plain first person; *anochi* is the emphatic, **I
-myself**, and it is the weightier and rarer word (*ani* outnumbers it more than
-two to one in Tanach). Where the two are contrasted, Malbim and Rabbi
-Pappenheim hold that with *anochi* the news is in the subject (I, and no one
-else, did it), and with *ani* the news is in the predicate (what I did, as
-against something else I might have done). But that is
-not the only reading in the field: Rav Hirsch takes *anochi*'s force to be
-nearness rather than exclusion, and Rabbi Edel takes the pair to name body and
-soul. The distinction is applied to *Anochi Hashem Elokecha*.
+Both mean **I**. *Ani* is the plain first person; *anochi* is the emphatic **I
+myself**, the weightier and rarer word (*ani* outnumbers it more than two to one
+in Tanach). Malbim and Rabbi Pappenheim locate the difference in where the news
+lies: with *anochi* it is in the subject (I, and no one else, did it), and with
+*ani* in the predicate (what I did, as against something else I might have
+done). So for them *Anochi Hashem Elokecha* stresses that He, and no other, is
+our God. Others read the pair differently: Rav Hirsch takes the force of
+*anochi* to be nearness rather than exclusion, and Rabbi Edel takes *ani* to
+speak for the soul and *anochi* for the body.
 
 ## At a glance
 

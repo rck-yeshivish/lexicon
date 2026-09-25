@@ -27,12 +27,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Kilayos* is the plain word for **kidneys**, and in a *pasuk* about Hashem
-searching a man it is his **innermost thoughts**. *Tuchos* is a poetic word for
-the same organ: **kidneys** by Chazal's reading, **innards** by Ibn
-Ezra's. *Atzeh* is a hapax and genuinely disputed: **kidneys** on the Gemara's
-reading, **the base of the spine** on Targum Onkelos's.
-Both *kilayos* and *tuchos* appear only in the plural.
+*Kilayos* is the plain word for **kidneys**, and where a *pasuk* speaks of
+Hashem searching a man, it means his **innermost thoughts**. *Tuchos* is a
+poetic word for the same organ: Chazal read it as the **kidneys**, and Ibn Ezra
+as the **innards** generally. *Atzeh* occurs only once in Tanach, and its
+meaning is disputed: the Gemara reads it as the **kidneys**, and Targum Onkelos
+as **the base of the spine**. In Tanach both *kilayos* and *tuchos* appear only
+in the plural.
 
 ## At a glance
 

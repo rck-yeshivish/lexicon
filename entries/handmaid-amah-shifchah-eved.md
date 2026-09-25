@@ -30,14 +30,15 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Shifchah* is a **bondwoman**, the female counterpart of the *eved*, set to
-whatever work the household needs. *Amah* is a **maidservant** or **handmaid** in
-the higher sense: a nursemaid to her master's children (Bedersi) or a housekeeper
-over the domestic work rather than under it (Rabbi Shlomo Pappenheim). *Eved* is
-the one word for both the Jewish and the non-Jewish male **slave**. The shorthand
-that *shifchah* means a non-Jewish woman and *amah* a Jewish one might hold
-in Rabbinic usage, but it gives only a partial picture of Tanach, where both
-words cross the line.
+*Shifchah* is a **bondwoman**: as Rabbi Shlomo Aharon Wertheimer puts it, the
+female counterpart of the *eved*, set to whatever work the household needs.
+*Amah* is a **maidservant** or **handmaid** in the more dignified position: a
+nursemaid to her master's children (Bedersi) or a housekeeper who oversees the
+household rather than doing its menial work (Rabbi Shlomo Pappenheim). *Eved* is
+the one word for both the Jewish and the non-Jewish male **slave**. Some argue
+that *shifchah* means a non-Jewish woman and *amah* a Jewish one. Rabbi Klein
+allows that this may hold in rabbinic usage, but notes that it gives only a
+partial picture of Tanach, where both words cross the line.
 
 ## At a glance
 

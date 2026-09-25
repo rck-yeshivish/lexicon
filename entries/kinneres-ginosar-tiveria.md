@@ -27,12 +27,12 @@ updated: 2026-09-10
 
 ## Bottom line
 
-One lake, three names, each seemingly taken from whichever city on its shore was
-most prominent at the time: **Kinneret** in Tanach, **Ginosar** in the Targumim
-and in the works of that era, Josephus included, and **Yamah shel Tiveria**, the
-Sea of Tiberias, in the Gemara. It seems, Rabbi Klein says, that the lake has no
-name of its own at all. "The Sea of Galilee" is a regional label and
-not the term any of these sources uses.
+Rabbi Klein suggests that the lake has no name of its own, and that each of its
+three names was taken from whichever city on its shore was most prominent at the
+time. It is **Kinneret** in Tanach; **Ginosar** in the Targumim and other works
+of the Second Temple period, Josephus among them; and **Yamah shel Tiveria**,
+the Sea of Tiberias, in the Gemara. "The Sea of Galilee" is named for the
+surrounding region, and none of these sources uses it.
 
 ## At a glance
 

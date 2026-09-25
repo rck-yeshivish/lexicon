@@ -32,11 +32,12 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Sove* is **swilling**, drinking intoxicants to excess; by Malbim it names the
-drinking itself, whether or not the drinker actually got drunk. *Shachar* is
-**getting drunk**, the state achieved. The noun *sheichar* is the **strong
-drink** that produces it. In the *ben sorer u'moreh* pasuk, *zollel* is the meat
-side (gluttony) and *sove* the drink side (swilling).
+*Sove* is **swilling**, drinking intoxicants to excess. For Malbim it names the
+drinking itself, whether or not the drinker actually got drunk, though Menachem
+Ibn Saruk defines it simply as drunkenness. *Shachar* is **getting drunk**, the
+state achieved, and the noun *sheichar* is the **strong drink** that produces
+it. In the *ben sorer u'moreh* pasuk, *zollel* is gluttony, the meat half of the
+pair, and *sove* is swilling, the drink half.
 
 ## At a glance
 

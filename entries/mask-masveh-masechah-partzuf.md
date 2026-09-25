@@ -33,10 +33,11 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Masveh* is the Biblical **mask** or **veil**, and it appears only of the
-covering Moshe Rabbeinu put over his face. *Masechah* in Tanach is a **molten image**, cast metal, as in *egel masechah*; the modern sense
-of "mask" is a later development. *Partzuf* is a **face**, a Greek loan-word, and
-it is the word the early poskim use for the Purim custom.
+*Masveh* is the Biblical **mask** or **veil**, used only of the covering Moshe
+Rabbeinu put over his face. In Tanach *masechah* is a **molten image**, a figure
+of cast metal, as in *egel masechah*; only in Modern Hebrew does it mean a mask.
+*Partzuf* is a **face**, a Greek loan-word, and the earliest poskim to mention
+the Purim custom call it wearing *partzufim*.
 
 ## At a glance
 

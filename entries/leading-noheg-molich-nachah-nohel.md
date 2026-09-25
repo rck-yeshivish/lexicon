@@ -32,21 +32,26 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Four verbs, all "lead," and they are not interchangeable. *Noheg* is to **drive**:
-leading by force, from strength, keeping the charges on a fixed course, and,
+Four verbs all mean "lead," and they are not interchangeable; the commentators
+offer several ways of telling them apart. *Noheg* is to **drive**. For Rabbi
+Wertheimer it is leading from power and strength, for Rabbi Pappenheim holding
+one's charges to a consistent course, and Rabbi Shapira-Frankfurter notes that,
 unlike *nachah* and *nohel*, it can sometimes be used of leading something to
-its ruin. *Molich* is to **take** or **bring**, a form of *holech*, moving people
-from one place or state to another. *Nachah* is to **guide**: leading that
-shields those led from harm and brings them to rest. *Nohel* is to **lead with
-care**, the leader who shields, provides and sustains. Shiras HaYam
-sets *nachisa* and *neihalta* in one pasuk (Shemos 15:13), and Rabbi Pappenheim
-reads the pasuk as built on the contrast between them.
+its ruin. Rabbi Goldblit, on the other hand, makes *noheg* the protective
+leading, and Rabbi Tedeschi-Ashkenazi a passive one. *Molich* is to **take** or
+**bring**, a form of *holech*: getting people from one place or state to another
+(Rabbi Wertheimer). *Nachah* is to **guide**, leading that shields those led
+from harm and brings them to rest (Rabbi Pappenheim). *Nohel* is to **lead with
+care**, the leader who shields, provides and sustains (Rabbi Wertheimer, Rabbi
+Pappenheim). Rabbi Pappenheim infers the difference between these two from
+Shiras HaYam, which uses *nachisa* for leading the Jews out of Egypt and
+*neihalta* for leading them in to the holy abode (Shemos 15:13).
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| נוהג | noheg | drive | leading by force, holding a fixed course (Pappenheim); can lead to ruin (Shapira-Frankfurter) |
+| נוהג | noheg | drive | leading from power and strength (Wertheimer); holding a consistent course (Pappenheim); can lead to ruin (Shapira-Frankfurter) |
 | מוליך | molich | take, bring | a form of *holech*; moving people from one place or state to another (Wertheimer) |
 | נחה | nachah | guide | shields from harm and brings to rest, from *menuchah* (Pappenheim); a shared goal (Rav Hirsch) |
 | נהל | nohel | lead with care | shields, provides and sustains (Pappenheim, Wertheimer); leads the tired (Malbim) |

@@ -92,14 +92,18 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Kaas* is the plain, generic word: **anger**. *Cheimah* is heated anger held in the
-heart: **wrath**. *Charon* is anger past heat to burning: **burning anger**; the
-idiom *charon af*, **fierce anger**. *Evrah* overflows its object onto others:
-**fury**. *Zaam* is angry contempt that breaks into cursing: **indignation**.
-*Ketzef* is anger at the boil, outward and visible: **rage**. *Rogez* is the body
-shaken out of its calm: **agitation**. *Af* is anger on the face: **anger**. Rabbi
-Shlomo Pappenheim ranks them by intensity (kaas, zaam, cheimah, charon, charon af,
-ketzef, evrah).
+*Kaas* is the plain, generic word: **anger**. *Cheimah* is heated anger:
+**wrath**. Malbim says it is held in the heart a long time, even without any act
+of rage, while for the Vilna Gaon it is anger in action. *Charon* is anger past
+heat to burning (Bedersi): **burning anger**. The idiom *charon af* is **fierce
+anger**; Peirush HaRokeach holds that *charon* on its own means merely upset,
+and that *charon af* is anger. *Evrah* overflows its object onto others:
+**fury**. *Zaam* is **indignation**. Ibn Janach and Bedersi make it anger born
+of contempt, and Malbim anger that breaks into cursing; the Vilna Gaon calls it
+suppressed anger. *Ketzef* is anger at the boil, outward and visible: **rage**.
+*Rogez* is the body shaken out of its calm: **agitation**. *Af* is anger on the
+face: **anger**. Rabbi Shlomo Pappenheim ranks them by intensity (kaas, zaam,
+cheimah, charon, charon af, ketzef, evrah).
 
 ## At a glance
 

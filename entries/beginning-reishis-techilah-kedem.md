@@ -38,14 +38,14 @@ updated: 2026-09-10
 ## Bottom line
 
 *Reishis* is the **beginning** that is also the **foremost**: a starting point
-that carries importance in its own right. How absolute that starting point is
-depends on whom you follow: for Malbim it need not be part of a counted
-sequence at all, while the Vilna Gaon has *reishis* mean the first of a series without
-denying that something preceded the series. *Rishon* is **first** in a counted
-series, one of several. *Techilah* is the **onset**, marking (on Malbim's
-account) that a thing did not exist before, without tying itself to what follows.
-*Kedem* is **before**, and in space **east**. *Reishis* carries value as well as order, and Rashi's opening comment and the Netziv's *terumah* reading both
-depend on that importance.
+that carries importance in its own right as well as order. Rashi's comment on
+the Torah's first word and the Netziv's reading of *terumah* both rest on that
+importance. The authorities differ over how absolute a beginning it is. For
+Malbim it need not be part of a counted sequence at all; for the Vilna Gaon it
+is the first of a series, without denying that something preceded the series.
+*Rishon* is **first** in a counted series. *Techilah* is the **onset**; on
+Malbim's account it marks that a thing did not exist before, without tying
+itself to what follows. *Kedem* is **before**, and in space **east**.
 
 ## At a glance
 

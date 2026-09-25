@@ -37,11 +37,12 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Dag* is the Hebrew for fish and the only one Tanach uses; *nun* and *kavra* are its
-Aramaic counterparts, both **fish**. *Shibuta* and *sandal* are named species. *Tanin*
-is a **sea monster**. *Nun* never occurs in Tanach in the sense of fish;
-where it does occur, in *Yehoshua bin Nun*, it is a man's name, and the fish sense is a
-derashah on it.
+*Dag* is the Hebrew for fish and the only one Tanach uses; *nun* and *kavra* are
+its Aramaic counterparts, both **fish**, though whether *kavra* means fish in
+general or one particular kind remains unclear (Tosafos to Moed Katan 11a).
+*Nun* never occurs in Tanach in the sense of fish; where it does occur, in
+*Yehoshua bin Nun*, it is a man's name, and the fish sense is a derashah on it.
+*Shibuta* and *sandal* are named species, and *tanin* is a **sea monster**.
 
 ## At a glance
 

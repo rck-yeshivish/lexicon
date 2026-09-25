@@ -33,14 +33,12 @@ updated: 2026-09-22
 
 ## Bottom line
 
-For Ibn Ezra, *eimah* is the felt emotion of being afraid: **dread, terror**.
-*Pachad* is the sudden, short-lived start of fear, for Ibn Ezra its outward
-manifestation: **fright, fear**. *Yirah*
-and its noun *morah* are the sustained fear that has built up over time: **fear**
-(the general word). *Daagah* is fear of a loss or of a coming evil: **worry,
-anxiety**. Rashi contrasts *pachad* as sudden with *morah* as pent up over time;
-for Rabbi Shlomo Aharon Wertheimer *pachad* is brief and *morah* continual and
-therefore the more intense.
+For Ibn Ezra, *eimah* is the felt emotion of being afraid, **dread, terror**,
+and *pachad* is its outward manifestation, **fright, fear**. *Yirah*, with its
+noun *morah*, is the general word: **fear**. Rashi contrasts *pachad*, a sudden
+fear, with *morah*, a fear pent up over time; for Rabbi Shlomo Aharon Wertheimer
+*pachad* is brief and *morah* continual, and therefore the more intense.
+*Daagah* is fear of a loss or of a coming evil: **worry, anxiety**.
 
 ## At a glance
 

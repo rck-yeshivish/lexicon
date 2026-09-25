@@ -29,14 +29,15 @@ updated: 2026-09-10
 ## Bottom line
 
 All three mean **gate**: *shaar* in Hebrew, *tera* in Targumic Aramaic, *bava*
-in the Aramaic of the Gemara. They are not synonyms within one language; each
-carries a second, non-architectural sense. *Shaar* in a Mishnah is usually a
-gate and less commonly a market **price**, and *bava* in a Gemara can also be a
-**section** of a text, as in Bava Kamma. Whether the textual sense has anything
-to do with a gate is left open. Rabbi Uriel Frank says it has none; *Tosafos Yom
-Tov* reads the names of the three masechtos as gates; and Ibn Tibbon ties
-*shaar* as a section of a book to the one city gate that all its citizens share,
-and Rabbi Klein thinks it not farfetched to say the same of *bava*.
+in the Aramaic of the Gemara. They are not synonyms within one language, and
+each carries a second, non-architectural sense. In the Mishnah *shaar* is
+usually a gate and less commonly a market **price**, and in the Gemara *bava*
+can also be a **section** of a text, as in Bava Kamma. The authorities differ
+over whether that textual sense has anything to do with a gate. Rabbi Uriel
+Frank says it has none. *Tosafos Yom Tov* reads the names of the three masechtos
+as gates. Ibn Tibbon explains that a section of a book is called a *shaar*
+because its statements are like the citizens of one city, who all share the one
+gate; Rabbi Klein thinks it not farfetched to say the same of *bava*.
 
 ## At a glance
 

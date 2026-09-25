@@ -33,12 +33,13 @@ updated: 2026-09-22
 ## Bottom line
 
 *Heikef* is always a full circuit: **circumference**, **circuit** (hence
-*hakafos*). *Saviv* is going around a center without any guarantee of completing
-the circle, so **around**, **about**, and even a detour or a roundabout way of
-speaking; doubled as *saviv saviv* it does mean all the way around (Malbim).
-*Afef* is encircling that closes in on a man from every side, and Malbim holds it
-is always for the worse: **envelop**, **beset**. *Chug* is a circle seen from its
-center, an orbit. Bare *saviv* may concede only an arc.
+*hakafos*). *Saviv* is **around** or **about**, going around a center with no
+guarantee of completing the circle (Malbim, Rabbi Shlomo Pappenheim); for
+Pappenheim even an arc, a detour or a roundabout way of speaking qualifies.
+Doubled as *saviv saviv*, Malbim notes, it does mean all the way around. *Afef*
+is an encircling that closes in from every side, and Malbim holds it is always
+for the worse: **envelop**, **beset**. For Malbim a *chug* is a circle seen from
+its center; for Radak it is what orbits another body.
 
 ## At a glance
 

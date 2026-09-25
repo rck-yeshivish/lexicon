@@ -35,14 +35,16 @@ updated: 2026-09-22
 
 ## Bottom line
 
-All three mean **dough**.
-Where a passage distinguishes them: *arisah* is dough as a **mixture** just
-kneaded together (the Torah's word in the mitzvah of *challah*), *batzek* is
-dough already worked into one batch and **rising** (the Torah's word for
-ordinary dough), and *issah* is the Mishnaic word, dough as the thing that is
-**kneaded and pressed**. But the distinction is not agreed: Ibn Janach and Radak
-hold *arisah* and *batzek* to be simply synonymous, and which reading prevails
-is left open.
+All three mean **dough**, and some authorities distinguish them. *Arisah*, the
+Torah's word in the mitzvah of *challah*, is dough as a **mixture** just kneaded
+together (Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch). *Batzek*, the Torah's word
+for ordinary dough, is dough already worked into one batch and **rising**, or
+about to rise (Mecklenburg). *Issah*, the Mishnaic word, is dough as the thing
+that is **kneaded and pressed** (Rabbi Shlomo Pappenheim, Mecklenburg, Rabbi
+Aharon Marcus). But the distinction is not agreed: Ibn Janach and Radak hold
+*arisah* and *batzek* to be simply synonymous, and Rabbeinu Meyuchas bar Eliyahu
+takes *arisah* as the kneading trough rather than the dough. Which reading
+prevails is left open.
 
 ## At a glance
 

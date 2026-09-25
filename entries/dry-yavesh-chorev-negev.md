@@ -34,11 +34,17 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Charev* is **dried** in the partial sense: the surface has dried but moisture
-remains underneath. *Yavesh* is **dry** outright, drained through and through.
-The order is fixed: wherever the two stand together, *charev* comes first and
-*yavesh* second (Malbim). *Negev* is **arid** or **parched**, closer to *charev* than to
-*yavesh* (Rabbi Yaakov Zev Lev), and in Tanach it usually means "south" rather than "dry" at all.
+*Charev* is **dried** only in part: the surface has dried, but moisture remains
+underneath. *Yavesh* is **dry** outright, drained through and through. This is
+the distinction the Vilna Gaon and Malbim draw, and Malbim adds that wherever
+the two stand together, *charev* comes first and *yavesh* second. Rabbi Klein
+cautions, though, that Rabbi Tanchum HaYerushalmi equates *chareivah* with
+*yavesh*, which leaves open the possibility that the two are synonyms. *Negev*
+is **arid** or **parched**, and it can carry only the partial dryness of
+*charev*, never the total dryness of *yavesh* (Rabbi Yaakov Zev Lev). In Tanach
+it nearly always means "south." Rabbi Yehuda Leib Shapira-Frankfurter holds that
+in Hebrew it means only "south," dryness being its sense in Aramaic alone, while
+Rabbi Klein finds it most plausible that its core meaning is "dry."
 
 ## At a glance
 

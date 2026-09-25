@@ -33,17 +33,17 @@ updated: 2026-09-22
 
 *Karah* is the opening of a dig, the preparatory or partial digging that does
 not finish the work: **dig** in the sense of **begin to dig, hollow out**.
-*Chafirah* (verb *chofer*) is digging carried to completion and depth, down
-to the water: **dig out, dig through**; in the abstract, **search out**.
-*Chatzivah* is hewing rock with a tool: **hew, quarry** (Malbim; Rabbi Yosef
-Kara instead makes it digging a round pit). A verse that uses both verbs of one
-pit (Tehillim 7:16; Bereishis 26:25 against 26:32; Bamidbar 21:18) is not
-repeating itself, and *karah* is the *earlier, lesser* act (Malbim, Mecklenburg,
-Netziv, Rav Hirsch, Rabbi Shaul Bruch). *Be'er Yitzchak* draws the line
-elsewhere: a *chafirah* is a hole meant to stay open, a *kirah* one meant to be
-closed, as the grave of *asher karisi li* (Bereishis 50:5). The Gemara (*Sotah*
-13a) reads that *karisi* as "bought," since in the coastal towns selling is
-called *kirah*.
+*Chafirah* (verb *chofer*) is digging carried to completion and depth, down to
+the water: **dig out, dig through**, and in the abstract **search out**. Where
+both verbs are used of one pit (Tehillim 7:16; Bereishis 26:25 and 26:32;
+Bamidbar 21:18), the text is not repeating itself: *karah* is the *earlier,
+lesser* act (Malbim, Mecklenburg, Netziv, Rav Hirsch, Rabbi Shaul Bruch). *Be'er
+Yitzchak* draws the line elsewhere: a *chafirah* is a hole meant to stay open
+and a *kirah* one meant to be closed, as is the grave of *asher karisi li*
+(Bereishis 50:5). The Gemara (*Sotah* 13a) reads *karisi* there as "bought,"
+since in the coastal towns selling is called *kirah*. Malbim explains
+*chatzivah* as hewing rock with a tool: **hew, quarry**. Rabbi Yosef Kara
+instead makes it the digging of a round pit.
 
 ## At a glance
 

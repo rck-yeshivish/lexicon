@@ -27,14 +27,15 @@ updated: 2026-09-10
 
 ## Bottom line
 
-One city, two vocalizations, and three descriptive names. *Yericho* (with a yud between
-the reish and the ches) is the form of Yehoshua and Shmuel II; *Yereicho* (without it) the
-form of Chumash and of most of the later sefarim. Which vowel carries which sense is not
-settled: several sources hear *reyach*, scent, in the yud-less
-*Yereicho* (*Yossiphon* as Rashi reads him, Rabbeinu Yoel, the *Peirush HaRokeach*), while
-the anonymous editor of the Oraysa *Yossiphon* suggests the opposite alignment, yud present
-for *reyach* and yud absent for *yareyach*, the moon. **Ir HaTmarim**, the City of Dates,
-is one of the Bible's names for Jericho, and where it appears without a name Targum and
+One city, two vocalizations, and three descriptive names. *Yericho*, with a yud
+between the reish and the ches, is the form in Yehoshua and Shmuel II;
+*Yereicho*, without it, is the form in Chumash and in most of the later sefarim.
+Which form carries which sense is not settled. Several sources hear *reyach*,
+scent, in the yud-less *Yereicho* (*Yossiphon* as Rashi reads him, Rabbeinu
+Yoel, the *Peirush HaRokeach*); the anonymous editor of the Oraysa *Yossiphon*
+suggests the opposite, with the yud present for *reyach* and absent for
+*yareyach*, the moon. **Ir HaTmarim**, the City of Dates, is one of the names
+Tanach gives Jericho, and where the phrase stands without a name, Targum and
 Rashi take it as Jericho.
 
 ## At a glance

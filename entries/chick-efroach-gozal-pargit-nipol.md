@@ -32,13 +32,15 @@ updated: 2026-09-10
 ## Bottom line
 
 *Efroach* is the Torah's word for a **hatchling**, the bird that has just
-"flowered" out of its egg. *Gozal* is a **fledgling**, primarily a young dove
-but extended to any young bird; where the two are contrasted (Rabbi Yaakov
-Kamenetsky, Rabbi Shmuel Ashkenazi) the *efroach* is the younger, still tied to
-its mother, and the *gozal* the older, already able to fly in some limited way. *Pargit* is a
-Rabbinic word for a **young chicken**. *Nipol* is, per Rabbeinu Gershom and Rambam, a **fallen nestling**, defined
-by the halachic case, not the species. The whole point of a passage may be
-which stage is meant.
+"flowered" out of its egg. *Gozal* is a **fledgling**. Ibn Janach and Radak take
+it as primarily a young dove, widened to any young bird; Rabbi Yehonasan HaKohen
+of Lunel holds that in Biblical Hebrew it is simply a dove. Rabbi Yaakov
+Kamenetsky and Rabbi Shmuel Ashkenazi hold that the two words mark two stages in
+a small bird's maturing: the *efroach* is the younger, which still needs its
+mother, and the *gozal* the older, already able to fly in some limited way.
+*Pargit* is a Rabbinic word for a **young chicken**. Rabbeinu Gershom and Rambam
+take *nipol* as a **fallen nestling**, defined by the halachic case and not by
+the species.
 
 ## At a glance
 

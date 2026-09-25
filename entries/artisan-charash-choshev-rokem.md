@@ -22,11 +22,12 @@ words:
   - he: אמן
     tr: uman
     en: craftsman, expert
-    distinct: Onkelos's rendering of charash, common in Mishnah but not in Tanach; any craftsman (Machberes Menachem) or only an expert (Radak); in the Gemara a bloodletter or barber (Rashi), and a circumciser
+    distinct: Onkelos's rendering of choshev, common in Mishnah but not in Tanach; any craftsman (Machberes Menachem) or only an expert (Radak); in the Gemara a bloodletter or barber (Rashi), and a circumciser
 sources:
   - wiaw:11298 "Pekudai: Crafty Artisans" (2024-03-16) https://articles.ohr.edu/articles/pekudai-crafty-artisans
   - wiaw:11342 "Tazria: The Cutter" (2024-04-13) https://articles.ohr.edu/articles/tazria-the-cutter
   - wiaw:11687 "Yisro: Write it down" (2025-02-15) https://articles.ohr.edu/articles/yisro-write-it-down
+  - ms:159-crafty-artisans.md "Crafty Artisans"
 authorities: [Rashi, Rambam, Abarbanel, Rabbi Chaim Kanievsky, Shadal, Rav Hirsch, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Menachem Ibn Saruk, Rabbi Yehudah Aryeh of Carpentras, Malbim, Rabbi Yosef Kara, Ibn Ezra, Vilna Gaon, Metzudas David, Rabbi Shalom Shabazi, Targum Onkelos, Alexander Kohut, Peretz Smolenskin]
 updated: 2026-09-10
 ---
@@ -34,12 +35,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-The Torah's three words for Betzalel's and Oholiav's skills (Shemos 35:35,
-38:23) are not synonyms. *Charash* is the **craftsman** who reshapes raw
-material, wood, stone or metal. *Choshev* is the **designer**, who plans and
-combines finished materials into a figured work, hence *maaseh choshev* brocade.
-*Rokem* is the **embroiderer**, working in colors. Both are embroidery, and the
-Gemara (Yoma 72b) distinguishes them by how many faces the work shows.
+The Torah's three words for the skills of Betzalel and Oholiav (Shemos 35:35,
+38:23) are not synonyms. *Charash* is the **craftsman**, who reshapes raw wood,
+stone or metal. *Choshev* is the **designer**, who plans and combines finished
+materials into a figured work, which is why *maaseh choshev* is brocade. *Rokem*
+is the **embroiderer**, who works in colors. The Gemara (Yoma 72b) calls
+*choshev* and *rokem* both embroidery and tells them apart by how many faces the
+work shows.
 
 ## At a glance
 
@@ -48,7 +50,7 @@ Gemara (Yoma 72b) distinguishes them by how many faces the work shows.
 | חשב | choshev | designer | arranges finished materials into a figured work; weaving with two faces (Yoma 72b) |
 | רקם | rokem | embroiderer | embroiders in colors, stitching with one face (Yoma 72b) |
 | חרש | charash | craftsman | reshapes raw wood, stone or metal; from plowing, preparatory labor (Pappenheim) |
-| אמן | uman | craftsman, expert | Onkelos's word for *charash*; any craftsman (Menachem) or only an expert (Radak) |
+| אמן | uman | craftsman, expert | Onkelos's word for *choshev*; any craftsman (Menachem) or only an expert (Radak) |
 
 ## Distinctions
 
@@ -126,8 +128,7 @@ Rabbi Yehudah Aryeh of Carpentras (*Aholei Yehudah*) links *charash* to
 typically demanding much thought.
 
 ### uman (אומן)
-Targum Onkelos gives all three separate Aramaic words: *charash* becomes *uman*,
-*choshev* becomes *nagar* (a carpenter in Modern Hebrew), *rokem* becomes
+Targum Onkelos gives all three separate Aramaic words: *charash* becomes *nagar* (a carpenter in Modern Hebrew), *choshev* becomes *uman*, *rokem* becomes
 *tzayar* (a painter in Modern Hebrew). None of the three is in Tanach, but
 *uman* is common in Mishnah (Bikkurim 3:3, Pesachim 4:6, Kiddushin 4:14,
 Sanhedrin 3:4, Avodah Zarah 5:7, Erachin 6:3, Taharos 7:3), and its close
@@ -200,5 +201,7 @@ Rabbi Reuven Chaim Klein, "[Pekudai: Crafty Artisans](https://articles.ohr.edu/a
 Rabbi Reuven Chaim Klein, "[Tazria: The Cutter](https://articles.ohr.edu/articles/tazria-the-cutter)," *What's in a Word?*, Ohr Somayach, 13 April 2024.
 
 Rabbi Reuven Chaim Klein, "[Yisro: Write it down](https://articles.ohr.edu/articles/yisro-write-it-down)," *What's in a Word?*, Ohr Somayach, 15 February 2025.
+
+Rabbi Reuven Chaim Klein, "Crafty Artisans," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
 Cited in the essay: Bereishis 4:22; Shemos 22:17, 26:1, 26:31, 28:11, 31:5, 35:33, 35:35, 38:23; Shoftim 5:30, 16:2; Shmuel I 23:9; Shmuel II 5:11; Melachim II 12:12, 24:14, 24:16; Yeshayahu 3:3, 44:12-13; Yirmiyahu 29:2; Yechezkel 17:3; Mishlei 3:29; Iyov 4:8; Shir HaShirim 7:2; Ezra 3:7; Divrei HaYamim I 22:15, II 24:12; Shabbos 133b; Taanis 21b; Yoma 72b; Gittin 88a; Bava Basra 21a with Rashi; Sanhedrin 38a; Rambam, *Hilchos Klei HaMikdash* 8:15; Ibn Janach's introduction to *Sefer HaDikduk*; Dr. Alexander Kohut, *Aruch HaShalem*, citing Peretz Smolenskin.

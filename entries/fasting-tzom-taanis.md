@@ -27,11 +27,17 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Tzom* is the Biblical word for a **fast**, usually abstaining from food; *taanis* is
-the Mishnaic word for a **fast day**, built on *inui*, **affliction**, and so
-wider than food alone. The words are not free variants, and two approaches to
-what separates them are given below; on the first, *Tzom Gedaliah* and
-*Taanis Esther* carry their words for a reason. *Inui* is affliction, of which fasting is one form.
+*Tzom* is the Biblical word for a **fast**, usually abstaining from food.
+*Taanis*, the Mishnaic word for a **fast day**, is built on *inui*,
+**affliction**, of which fasting is one form, and so it is wider than food
+alone. The words are not free variants, and there are two approaches to what
+separates them. Rabbi Akiva Shlomo Deutsch-Dayan of Geneva holds that a *tzom*
+is a fast required by law and a *taanis* one declared *ad hoc* or kept as a
+custom, not strictly obligatory, which is why *Tzom Gedaliah* and *Taanis
+Esther* carry the words they do. Rabbi Avraham Etiel Gurwitz holds that *tzom*
+is the undertaking to refrain from food and drink, and *taanis* the acceptance
+of a day as halachically distinct, a distinction that rules out eating and
+drinking.
 
 ## At a glance
 

@@ -35,11 +35,12 @@ updated: 2026-09-22
 ## Bottom line
 
 *Mitzrayim* is **Egypt**, and also the name of the man from whom the Egyptians
-descend. *Patros* is properly **Upper Egypt** or the Patrusim who came from
-Mitzrayim; the *paytanim* use it, and *Ludim*, *Anamim*, and *Lehavim*, for Egypt
-as a whole, it seems by poetic license, not because the words are synonyms.
-*Rahav* is a name for Egypt, a word meaning haughty, and the name of its
-heavenly minister; *eretz Cham*, the Land of Cham, is Tehillim's name for it.
+descend. *Patros* is properly **Upper Egypt**, or the Patrusim who came from
+Mitzrayim. The *paytanim* use it for Egypt as a whole, as they use *Ludim*,
+*Anamim*, and *Lehavim*, and Rabbi Klein concludes that they seem to do so by
+poetic license, not because the words are synonyms. *Rahav*, a word meaning
+haughty, is a name for Egypt and for its heavenly minister. *Eretz Cham*, the
+Land of Cham, is Tehillim's name for Egypt.
 
 ## At a glance
 

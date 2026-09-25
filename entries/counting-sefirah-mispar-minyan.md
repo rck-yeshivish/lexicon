@@ -42,14 +42,15 @@ updated: 2026-09-10
 
 ## Bottom line
 
-On Rabbi Yaakov Tzvi Mecklenburg's reading, *sofer* / *sefirah* is a count where
-each unit is marked and matters in itself, and *mispar* is a number that sets a
-limit. *Moneh* / *minyan* is a count whose point is the total; the single unit is
-not necessarily significant on its own. *Sefirah* is **counting**,
-with qualitative weight where the sense is the daily obligation; *moneh* is to
-**count** or **tally**, and *minyan* a **tally** or, in the shul sense, a
-**quorum**. The Torah's choice of *sofer* for *Sefiras HaOmer* is deliberate,
-and it differs from the *moneh* of the Kohen Gadol's sprinklings.
+Rabbi Yaakov Tzvi Mecklenburg holds that *mispar* is a number that sets a limit,
+and he suggests that *sofer* / *sefirah* is a count in which something extra is
+done or required to mark each unit. *Moneh* / *minyan* is a count whose point is
+the total; the single unit is not necessarily significant on its own. *Sefirah*
+is **counting**, and where the daily obligation is meant it carries qualitative
+weight; *moneh* is to **count** or **tally**, and *minyan* is a **tally** or, in
+the shul sense, a **quorum**. The Torah's choice of *sofer* for *Sefiras HaOmer*
+is deliberate, and that count differs from the *moneh* of the Kohen Gadol's
+sprinklings.
 
 ## At a glance
 

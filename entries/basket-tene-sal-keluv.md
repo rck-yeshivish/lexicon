@@ -43,8 +43,10 @@ updated: 2026-09-10
 
 *Sal* is the ordinary **basket**, and for Rabbi Pappenheim a **bread basket**.
 *Tene* is the **fruit basket** of bikkurim, which for him was typically woven
-loosely so the air could move through it. *Keluv* holds something alive or ripening, so a **basket** for figs and a **cage** for birds; *dud* is a basket or a pot by context, and *kalkalah* is the
-large Mishnaic **hamper**.
+loosely so the air could move through it. *Keluv* is a **basket**, for figs in
+one pasuk and for birds being fattened in the other, and from that second use
+Modern Hebrew made it a **cage**. *Dud* is a basket or a pot by context, and
+*kalkalah* is the large Mishnaic **hamper**.
 
 ## At a glance
 

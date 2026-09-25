@@ -25,10 +25,11 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Both verbs mean **draw water**, and the difference is effort. *Dalah* is
-drawing from a deep well, lowering the pail and hauling it up: **draw up** or
-**draw out** (Malbim). *Shoev* is drawing without effort, most commonly where
-the water is already at hand, from a spring or surface pool: plain **draw**.
+Both verbs mean **draw water**. Malbim explains that they differ in effort, and
+Shadal offers a similar explanation. *Dalah* is drawing from a deep well,
+lowering the pail and hauling it up: **draw up** or **draw out**. *Shoev* is
+drawing without effort, most commonly where the water is already at hand, from a
+spring or surface pool: plain **draw**.
 
 ## At a glance
 

@@ -24,13 +24,14 @@ updated: 2026-09-22
 
 ## Bottom line
 
-Both mean **hyperbole**, and Chazal ostensibly use them interchangeably in the same sugya
-(Tamid 29a; Chullin 90b); Rabbi Eliyahu HaBachur says outright that they mean the
-same thing. *Divrei havai* are **words of hyperbole** or **a manner of
-speech**, and a *guzma* is **an overstatement**. Rabbi Yaakov Emden: a statement called a
-*guzma* is literally true, and it is only its plain implication that overshoots.
-Rabbi Menachem Azariah of Fano: *havai* marks something to be taken
-seriously, though not necessarily literally.
+Both mean **hyperbole**. Chazal ostensibly use them interchangeably in the same
+sugya (Tamid 29a; Chullin 90b), and Rabbi Eliyahu HaBachur says outright that
+they mean the same thing. *Divrei havai* are **words of hyperbole** or **a
+manner of speech**, and a *guzma* is **an overstatement**. Rabbi Yaakov Emden
+holds that when Chazal call a statement *guzma* or *divrei havai*, it is still
+literally true, and only its plain implication overshoots. Rabbi Menachem
+Azariah of Fano reads *havai* as marking something to be taken seriously, though
+not necessarily literally.
 
 ## At a glance
 

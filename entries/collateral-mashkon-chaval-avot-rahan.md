@@ -36,11 +36,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Mashkon* is the general **collateral** or **pledge**. *Chaval* is the Biblical
-verb for **distraining**, seizing a pledge by force once payment is due. *Avot*
-is a **pledge** handed over by agreement. *Rahan* is security **deposited up
-front**. *Apoteiki* is property **designated** for collection on default and
-never surrendered. *Chaval* is taken, *avot* and *rahan* given.
+*Mashkon* is the general word for **collateral** or a **pledge**. *Chaval* is
+the Biblical verb for **distraining**: the creditor seizes a pledge by force
+(Rabbi Moshe Tedeschi-Ashkenazi), once payment has fallen due (Rashi). *Avot* is
+a **pledge** handed over by agreement (Tedeschi-Ashkenazi). *Rahan* is security
+**deposited up front** (Tosafos Yom Tov). *Apoteiki* is property **designated**
+for collection on default and never surrendered. Under *chaval* the pledge is
+taken; an *avot* or a *rahan* is given.
 
 ## At a glance
 

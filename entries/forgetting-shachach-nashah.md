@@ -25,14 +25,14 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Shachach* is the ordinary word, over a hundred times in Tanach and the word
-Devarim uses for every warning not to forget: **forget**. *Nashah* is rare and,
-on the reading of Malbim and Rav Hirsch, heavier: **forget entirely, put out of
-mind for good**. Malbim: what is *shachach* can still be recalled, what is
-*nashah* cannot. Rav Hirsch adds the moral note, that *nashah* attaches to a man
-who held the thing lightly, so he bears more of the blame for the forgetting.
-Rabbi Eliyahu Katz disagrees with both of them and denies that there is any
-difference at all.
+*Shachach* is the ordinary word, found over a hundred times in Tanach, and the
+word Devarim uses for every warning not to forget: **forget**. *Nashah* is rare,
+and Malbim and Rav Hirsch both read it as the heavier word. For Malbim it is to
+**forget entirely, put out of mind for good**: what is *shachach* can still be
+recalled, and what is *nashah* cannot. Rav Hirsch gives it a moral note, that
+*nashah* attaches to a man who held the thing lightly, so he bears more of the
+blame for the forgetting. Rabbi Eliyahu Katz disagrees with both of them and
+denies that there is any difference at all.
 
 ## At a glance
 
@@ -118,8 +118,7 @@ On the root itself:
 
 - Default: *shachach* = **forget**. Reserve the heavier English for *nashah*.
 - *Nashah* standing alone (Bereishis 41:51): "Hashem has made me **forget**
-  entirely," or "has put out of my mind." Menashe's name carries the finality;
-  a bare "forget" loses why Yosef chose the rarer word.
+  entirely," or "has put out of my mind." On Malbim's reading Menashe's name carries the finality, though Rabbi Eliyahu Katz holds that *nashah* is simply the Aramaic way of saying *shachach*.
 - The two in one pasuk (Devarim 32:18): the Hebrew moves from *teshi* to
   *vatishkach*, so do not render both with the same English verb. "You grew
   unmindful of the Rock that bore you, and forgot the God Who brought you

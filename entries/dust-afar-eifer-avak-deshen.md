@@ -34,11 +34,14 @@ updated: 2026-09-22
 
 *Afar* is **dirt** or **soil**, the general word, and the one that can grow
 things. *Eifer* is **ashes**, what fire leaves, and it grows nothing. *Avak* is
-**dust**, fine powder produced by pulverizing rather than by burning. *Deshen* is
-a narrower word for ashes, tied by Rabbi Pappenheim to fat and by Rabbi Yehuda
-Leib Shapira-Frankfurter to the Mikdash. The difference between *afar* and
-*eifer* is fertility, which is what makes it significant that the Torah calls
-the ashes of the Parah Adumah *afar* and not *eifer*.
+**dust**, fine powder produced by pulverizing rather than by burning. *Deshen*
+is a narrower word for ashes, and the authorities differ over which ashes it
+names: for Rabbi Eliezer Lipman Lichtenstein it is what is burnt while fire
+still glows inside it, for Rabbi Yehuda Leib Shapira-Frankfurter the ashes of
+the avodah in the Mikdash, and for Rabbi Pappenheim only animal ash, named for
+the fat left in it. Since what separates *afar* from *eifer* is fertility, it is
+significant that the Torah calls the ashes of the Parah Adumah *afar* and not
+*eifer*.
 
 ## At a glance
 

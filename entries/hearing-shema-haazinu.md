@@ -25,12 +25,15 @@ updated: 2026-09-22
 ## Bottom line
 
 *Haazinu* is from *ozen*, an ear: **give ear**, the plain physical act of
-listening. *Shema* is **hear** in the fuller sense, taking in what is said and
-understanding it (Malbim), or hearkening in answer to a call (Rokeach). On
-distance, the Sifrei has *haazinu* for what is near and *shema* for what is far;
-Chizkuni, Abarbanel and Rabbi Yitzchak Arama hold the reverse. Devarim 32:1 and
-Yeshayahu 1:2 assign the two Hebrew verbs to heaven and earth in opposite order,
-and both distance readings are offered to explain that reversal.
+listening. *Shema* is **hear** in the fuller sense, carrying a measure of
+intellectual or emotional grasp of what is heard (Malbim), or hearkening in
+answer to a call (Rokeach). The Sifrei distinguishes them by distance, *haazinu*
+for what is near and *shema* for what is far; Chizkuni, Abarbanel and Rabbi
+Yitzchak Arama define them the other way round. Devarim 32:1 and Yeshayahu 1:2
+give the two verbs to heaven and earth in opposite order, and each side explains
+that reversal by its own reading. Some of the Baalei HaTosafos hold that the two
+words are interchangeable, used for poetic effect, though most meforshim
+distinguish them.
 
 ## At a glance
 

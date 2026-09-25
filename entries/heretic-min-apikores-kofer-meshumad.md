@@ -36,15 +36,15 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Rambam gives a taxonomy (*Hilchos Teshuvah* 3:6-9). *Min*
+In colloquial speech the Hebrew words for a heretic overlap, but in Rambam's
+codification (*Hilchos Teshuvah* 3:6-9) each carries a specific meaning. *Min*
 is a **sectarian**, wrong about Hashem Himself. *Apikores* is a **scoffer**,
-wrong about prophecy, and in practice one who insults Torah and its scholars.
-*Kofer* is a **denier**, wrong about the Torah, techiyas hameisim or Moshiach.
-*Meshumad* is an **apostate**, one who has left Klal Yisrael for another faith
-or is notorious for deliberate transgression. *Mumar* is the tamer word the
-censors sometimes substituted for *meshumad*, a **convert-out**. In colloquial
-speech the terms overlap, but in Rambam's codification each carries a specific
-meaning.
+wrong about prophecy, and in the word's settled usage one who insults the Torah
+and those who learn it. *Kofer* is a **denier**, wrong about the Torah, techiyas
+hameisim or Moshiach. *Meshumad* is an **apostate**: one who has left Klal
+Yisrael for another faith, or who is notorious for deliberate transgression.
+*Mumar*, a **convert-out**, is the tamer word the censors sometimes substituted
+for *meshumad*.
 
 ## At a glance
 
@@ -209,7 +209,7 @@ sounds milder than being destroyed.
 - משומד / מומר: "apostate" and "convert-out," never one word for both. Where a
   source turns on which is graver, say which view you follow: Rabbi Shmuel David
   Luzzatto has *meshumad* the coerced-then-willing one and *mumar* the freely
-  willing one; Chasam Sofer has them the other way about.
+  willing one; Chasam Sofer makes the *mumar* anyone who has exchanged even one mitzvah for a passing consideration, and the *meshumad* one who rejects the whole Torah.
 - Trap: the berachah against heretics. Where the text reads *malshinim*, render
   "informers," noting that some argue this is a censored form of the older nusach
   *meshumadim*, which some still say.

@@ -27,12 +27,14 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Shalem* is **complete**, **whole**: nothing is now lacking, measured as a
-quantity (Rabbi Shlomo Pappenheim), and having more than enough does not
-disqualify it. *Tam* / *tamim* is **whole** in quality: an exact match with
-nothing missing and nothing extra (Rabbeinu Bachya; Pappenheim); of a korban
-**unblemished**, of a person **wholehearted** or **wholesome**, of the Torah
-**perfect**. *Shleimus* is **completeness** or **wholeness**.
+*Shalem* is **complete**, **whole**: for Rabbi Shlomo Pappenheim, complete in
+quantity, with nothing now lacking. Having more than enough does not disqualify
+it. *Tam* / *tamim* is **whole** in quality, an exact match with nothing missing
+and nothing extra (Rabbeinu Bachya; Pappenheim). Of a korban it means
+**unblemished**, of a person **wholehearted** or **wholesome**, and of the Torah
+**perfect**. Rabbi Shlomo Aharon Wertheimer takes a similar line but holds that
+*tam* includes quantitative completion as well. *Shleimus* is **completeness**
+or **wholeness**.
 
 ## At a glance
 

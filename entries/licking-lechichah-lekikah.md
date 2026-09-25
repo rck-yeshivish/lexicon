@@ -26,13 +26,14 @@ updated: 2026-09-22
 
 ## Bottom line
 
-Both mean **lick**, and Ibn Saruk and Radak define one by the other. Where
-they are told apart, *lekikah* is **lapping up** liquid, the dog-at-the-water sound
-(Rabbi Moshe Tedeschi-Ashkenazi); *lechichah* is **licking away** something
-firmer, an ox stripping a field bare (Bamidbar 22:4). English "lick" in the
-sense of *defeat* grew out of Bamidbar 22:4 itself; that the English word's two
-senses, smiting and licking, resemble ל-ק-ה and ל-ק-ק is something linguists
-would probably put down to chance.
+Both mean **lick**, and Ibn Saruk and Radak define one by the other. Rabbi Moshe
+Tedeschi-Ashkenazi tells them apart by sound: *lekikah* imitates the slurp of
+**lapping up** liquid, as Gideon's soldiers lapped the water like a dog, while
+*lechichah*, a harder sound, is **licking away** something less liquid, as an ox
+strips a field bare (Bamidbar 22:4). English "lick" in the sense of *defeat*
+grew out of Bamidbar 22:4 itself; linguists would probably put it down to chance
+that the English word's two senses, smiting and licking, resemble ל-ק-ה and
+ל-ק-ק.
 
 ## At a glance
 

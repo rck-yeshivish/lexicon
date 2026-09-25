@@ -33,14 +33,17 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Arur* is the strong, unrestricted curse: **cursed, a curse** with nothing
-specified, calling down whatever may come (the Vilna Gaon and Rabbi Mecklenburg;
-Malbim runs *arur* the other way, and Rabbeinu Efrayim makes *arah* the limited curse against the all-embracing *kavah*, see below). *Kelalah* is the weaker word, rooted
-in *kal*, light: **disparagement**, or a **curse** that must name what it wishes
-on its target. *Allah* is the curse that invokes Hashem by name (Radak) or, for Rabbi
-Mecklenburg, one laid down conditionally: **oath-curse, imprecation**. *Kavah* is the curse pronounced
-in public with the victim named outright. *Arur* and *kelalah* are not one
-word; Shemos 22:27 uses both of them in a single pasuk.
+The Vilna Gaon and Rabbi Mecklenburg make *arur* the strong, unrestricted curse:
+**cursed, a curse** with nothing specified, calling down whatever may come.
+Malbim reads *arur* the other way, as a curse that falls on one specific thing
+of the victim's, and Rabbeinu Efrayim makes *arah* a limited curse and *kavah*
+an all-embracing one. The Vilna Gaon roots *kelalah* in *kal*, light, and makes
+it the weaker word, a **disparagement**; for Rabbi Mecklenburg it is a **curse**
+that must name what it wishes on its target. *Allah* is the curse that invokes
+Hashem by name (Radak) or, for Rabbi Mecklenburg, one laid down conditionally:
+**oath-curse, imprecation**. Malbim explains *kavah* as the curse pronounced in
+public with the victim named outright. *Arur* and *kelalah* are not one word;
+Shemos 22:27 uses both of them in a single pasuk.
 
 ## At a glance
 

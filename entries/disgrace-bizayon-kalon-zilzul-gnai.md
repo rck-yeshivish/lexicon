@@ -31,13 +31,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Four words for putting something down. *Kalon* treats a person as a
-lightweight, worth less than he is: **dishonor, disgrace**. *Bizayon* is
-stronger, treating him as worth nothing at all: **contempt, disparagement**
-(Rabbi Shlomo Pappenheim). *Zilzul* is cheapening, selling low what should be
-dear: **making light of, cheapening**. *Gnai* is post-biblical and is simply the
-opposite of praise (Rambam): **disgrace, discredit**. *Kalon* lowers a value,
-*bizayon* cancels it.
+Four words for putting something down. *Kalon* treats a person as a lightweight,
+worth less than he is: **dishonor, disgrace**. *Bizayon*, **contempt,
+disparagement**, is stronger: where *kalon* lowers a man's value, *bizayon*
+cancels it and treats him as worth nothing at all (Rabbi Shlomo Pappenheim).
+*Zilzul* is cheapening, selling low what should be dear: **making light of,
+cheapening**. *Gnai* is post-biblical, and Rambam defines it simply as the
+opposite of praise: **disgrace, discredit**.
 
 ## At a glance
 

@@ -26,12 +26,14 @@ updated: 2026-09-22
 
 ## Bottom line
 
-In English both words are **ark**, and in Scripture they do not overlap:
-*teivah* is Noach's ark and the basket of the infant Moshe, *aron* is the Ark of
-the Covenant and Yosef's coffin. *Teivah* is an **ark** or **basket** (on the two
-proposals offered below, a floating vessel or a container for a living person),
-and *aron* an **ark**, **chest**, or **coffin**. In Rabbinic Hebrew the two words are used almost interchangeably, so a Mishnaic
-*teivah* may well be an *aron*.
+In English both words are **ark**, but in Tanach they do not overlap: *teivah*
+is Noach's ark and the basket of the infant Moshe, and *aron* is the Ark of the
+Covenant and Yosef's coffin. *Teivah* is an **ark** or **basket**, and *aron* an
+**ark**, **chest**, or **coffin**. Two readings of the difference are proposed
+from that usage, and neither is settled: that a *teivah* is a container kept
+afloat on water, or that it holds a living person. In Rabbinic Hebrew the two
+words are used almost interchangeably, so a Mishnaic *teivah* may well be an
+*aron*.
 
 ## At a glance
 

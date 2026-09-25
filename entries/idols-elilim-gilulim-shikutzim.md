@@ -63,12 +63,13 @@ Ten words, and they are not interchangeable. *Pesel* is the idol
 **disqualified** from legitimate worship, *masechah* a **molten image**,
 *matzeivah* a **standing pillar** that cannot move of itself. *Elilim* are
 **nothings** (or hollow things), *gilulim* **dung-idols**, *shikutzim*
-**abominations**, *terafim* things that can **rot**. *Atzabim* are, literally,
-**bones**, idols made of parts, or the things that grieve their worshippers. *Chamanim* are named from *chamah*, the sun, because
-they are left standing outside in it. *Asherim* are the idols that get their
-**validation** only from others, or, on the Raavad's reading, that must be
-propped back up by others. Unlike the ten Names
-of Hashem, which name one Being, these ten name different things and different
+**abominations**, *terafim* things that can **rot**. *Atzabim* are literally
+**bones**: idols made of parts, as a body is of bones. For Malbim they are the
+things that grieve their worshippers. *Chamanim* are named from *chamah*, the
+sun, because they are left standing outside in it. *Asherim* are idols that get
+their **validation** only from others, or, as the Raavad reads it, idols that
+must be propped back up by others. As Maharitatz points out, the ten Names of
+Hashem name one Being, but these ten name different things and different
 reproaches.
 
 ## At a glance

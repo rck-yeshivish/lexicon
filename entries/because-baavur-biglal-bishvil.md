@@ -28,12 +28,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Biglal* is the backward-looking "because": a reason that **already exists** and
-justifies the act, so it means **on account of** or **because of**. *Baavur* is
-the forward-looking one: the reason **does not yet exist** and is the intended
-outcome, so it means **in order that** or **so that**. *Bishvil* is
-post-Biblical, usually equal to *biglal*, and is the everyday word in modern
-speech.
+Rabbi Wolf Heidenheim, Rabbi Yaakov Tzvi Mecklenburg and the Malbim all separate
+the two Biblical words the same way. *Biglal* is the backward-looking "because":
+a reason that **already exists** and justifies the act, so it means **on account
+of** or **because of**. *Baavur* is the forward-looking one: the reason **does
+not yet exist** and is the intended outcome, so it means **in order that** or
+**so that**. *Bishvil* is post-Biblical, usually equal to *biglal*, and is the
+everyday word in modern speech.
 
 ## At a glance
 

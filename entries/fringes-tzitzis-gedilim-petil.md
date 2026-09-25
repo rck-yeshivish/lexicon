@@ -13,7 +13,7 @@ words:
   - he: גדילים
     tr: gedilim
     en: braided cords
-    distinct: the same strings named for the braided third, thickened by twisting so it seems to have grown (Radak, Rav Hirsch); or the strings expanding the garment's edge (Rabbi Yosef Kimchi)
+    distinct: the same strings named for the braided third (Radak, Rav Hirsch), thickened by twisting so it seems to have grown (Rav Hirsch); or the strings expanding the garment's edge (Rabbi Yosef Kimchi)
   - he: פתיל
     tr: petil
     en: thread
@@ -43,12 +43,16 @@ updated: 2026-09-22
 ## Bottom line
 
 *Tzitzis* are the **fringes**, named for what protrudes and is therefore seen.
-*Gedilim* are the same strings named, on the reading of Radak and Rav Hirsch,
-for the **braided** third that is thickened by twisting. *Petil* is the single
-**thread** of *techeiles*, named for snug twisting and, in Rav Hirsch's reading,
-for its separateness. *Tallis* is the **four-cornered garment** that carries them, and it is Rabbinic Hebrew only. *Kruspidin* is the
-Targum's Aramaic for *tzitzis* and *gedilim*, a Greek loanword for the **hem or
-fringe** of a garment. *Tzitzis* and *tallis* are not interchangeable.
+*Gedilim* are the same strings, named, on the reading of Radak and Rav Hirsch,
+for the **braided** third. Rav Hirsch explains that twisting thickens the braid
+so that it seems to have grown; Rabbi Yosef Kimchi instead has the strings
+expand the garment's edge. *Petil* is the single **thread** of *techeiles*,
+named for snug twisting or, in Rav Hirsch's reading, for its separateness.
+*Tallis* is the **four-cornered garment** that carries them, a word found only
+in Rabbinic Hebrew. *Kruspidin* is the Targum's Aramaic for *tzitzis* and
+*gedilim*. Rabbi Binyamin Mussafia takes it as a Greek loanword for the **hem or
+fringe** of a garment; Dr. Alexander Kohut prefers Persian. *Tzitzis* and
+*tallis* are not interchangeable.
 
 ## At a glance
 

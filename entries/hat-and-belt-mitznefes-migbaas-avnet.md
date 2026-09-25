@@ -40,13 +40,14 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Migbaas* is the ordinary *kohen*'s **headdress**, *mitznefes* the *kohen
-gadol*'s **turban**, and *kova* possibly a **hard hat** or **helmet** rather than a hat: every one of its six appearances in *Tanach* is a soldier's. For
-belts, *avnet* is the **sash** of the priestly service, *chagor* the general
-**belt** for anything that goes around the body, and *eizor* the **girdle** at
-the waist, worn by strong men. Rashi and Ramban maintain that *migbaas* and
-*mitznefes* were the same type of hat and are indeed synonyms; the others
-distinguish them.
+*Migbaas* is the ordinary *kohen*'s **headdress** and *mitznefes* the *kohen
+gadol*'s **turban**. *Kova* is possibly a **hard hat** or **helmet** rather than
+a hat, since every one of its six appearances in *Tanach* is part of a warrior's
+dress. Of the belts, *avnet* is the **sash** of the priestly service, *chagor*
+the general **belt** for anything that goes around the body, and *eizor* the
+**girdle** at the waist (Malbim); in *Tanach* only mighty men wear the *eizor*.
+Rashi and Ramban maintain that *migbaas* and *mitznefes* were the same type of
+hat and are simply synonyms; the other authorities distinguish them.
 
 ## At a glance
 

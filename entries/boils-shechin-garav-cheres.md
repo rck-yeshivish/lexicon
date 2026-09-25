@@ -33,12 +33,12 @@ updated: 2026-09-22
 
 ## Bottom line
 
-*Shechin* is the umbrella word: **boils**, or more exactly an **inflamed sore**, a wound
-gone hot, not a burn. The other three seem to be kinds of it. Paired, *garav* is the **moist**
-sort and *cheres* the **dry**; *garav* on its own means the dry sort (Rashi). *Yalefet*
-is the sort that **clings**, never leaving the man. *Avabuos* are the **blisters** of
-the makkah in Mitzrayim. *Garav* changes meaning depending on whether *cheres*
-stands beside it.
+*Shechin* is the umbrella word: **boils**, or more exactly an **inflamed sore**,
+a wound gone hot, not a burn. The other three seem to be kinds of it. Paired
+with *cheres*, *garav* is the **moist** sort and *cheres* the **dry**; on its
+own, *garav* is the dry sort (Rashi). *Yalefet* is the sort that **clings**,
+never leaving the man. *Avabuos* are the **blisters** of the makkah in
+Mitzrayim.
 
 ## At a glance
 
