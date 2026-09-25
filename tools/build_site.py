@@ -1625,25 +1625,25 @@ a:hover{text-decoration:underline}
 main{max-width:940px;margin:0 auto;padding:0 22px 96px}
 
 /* header ------------------------------------------------------------------ */
-header.site{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap:26px;
-  padding:12px 26px;background:color-mix(in srgb,var(--bg) 82%,transparent);
+header.site{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap:22px;
+  padding:10px 24px;background:color-mix(in srgb,var(--bg) 82%,transparent);
   backdrop-filter:saturate(180%) blur(20px);-webkit-backdrop-filter:saturate(180%) blur(20px);
   border-bottom:1px solid var(--line)}
 /* The logo, words to the right of the drawing. Its green is its own, set in
    the SVG (LOGO_INK in build_site.py), so it follows the colour scheme there. */
 .brand{flex:0 0 auto;display:block;line-height:0}
-.brand img{display:block;height:46px;width:auto}
+.brand img{display:block;height:42px;width:auto}
 .brand:hover{opacity:.75}
 .hsearch{flex:1 1 auto;position:relative;max-width:520px;margin:0 auto}
-.hsearch input{width:100%;height:40px;padding:0 14px;border:1px solid var(--line);
-  border-radius:10px;background:var(--panel);color:var(--ink);font-size:15px;outline:none}
+.hsearch input{width:100%;height:36px;padding:0 13px;border:1px solid var(--line);
+  border-radius:9px;background:var(--panel);color:var(--ink);font-size:14px;outline:none}
 .hsearch input:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
 header.bare .brand{flex:1}
-.navs{display:flex;align-items:center;gap:22px;flex:0 0 auto}
-.seg{display:inline-flex;gap:2px;padding:2px;background:var(--line);border-radius:9px;font-size:17px}
+.navs{display:flex;align-items:center;gap:18px;flex:0 0 auto}
+.seg{display:inline-flex;gap:2px;padding:2px;background:var(--line);border-radius:9px;font-size:15px}
 /* Quieter than the browse control: it is a different kind of page, not a third
    way of looking at the same list. */
-.meth{color:var(--dim);font-size:17px;font-weight:500;white-space:nowrap}
+.meth{color:var(--dim);font-size:15px;font-weight:500;white-space:nowrap}
 .meth:hover{color:var(--ink);text-decoration:none}
 .meth.on{color:var(--ink)}
 /* Frank Ruhl Libre runs small beside the interface face, so the Hebrew tabs take
@@ -1651,7 +1651,7 @@ header.bare .brand{flex:1}
    set on .seg, not on the links, so that 1.2em scales with it: set on the links,
    the phone sizes reached A-Z only and left the Hebrew at 20px beside 12.5px. */
 .seg a.ix{font-family:var(--heb);font-size:1.2em;line-height:1.15;position:relative;top:1px}
-.seg a{position:relative;padding:6px 18px;border-radius:7px;color:var(--dim);font-weight:500}
+.seg a{position:relative;padding:5px 15px;border-radius:7px;color:var(--dim);font-weight:500}
 .seg a:hover{text-decoration:none;color:var(--ink);background:rgba(255,255,255,.55)}
 .seg a.on{background:var(--panel);color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.08)}
 /* A hairline between the two segments. On an entry page neither is selected,
