@@ -60,8 +60,9 @@ Root ש-ר-ק.
   *shuruk* is related to the root because the mouth puckers to make its *oo*
   sound as though about to whistle.
 - Rabbi Klein wondered whether Hebrew ש-ר-ק, whistling, is connected to Aramaic
-  ש-ר-ק, smooth or slippery, since whistling makes a smooth sound, but his
-  language guru Rabbi Shaul Goldman rejected the supposition.
+  ש-ר-ק, smooth or slippery, since whistling makes a smooth sound, but Rabbi
+  Shaul Goldman, to whom he turns on questions of language, rejected the
+  supposition.
 
 Two uses stand opposite each other in Tanach.
 
