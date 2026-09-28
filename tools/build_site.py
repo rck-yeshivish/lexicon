@@ -1669,22 +1669,28 @@ header.bare .brand{flex:1}
    BRAND_MARK_ONLY the logo drops its words, so a 320px screen keeps two rows
    as well, and nothing scrolls sideways at any width. */
 @media (max-width:700px){
-  header.site{flex-wrap:wrap;gap:8px 10px;padding:8px 12px}
-  .brand img{height:38px}
+  header.site{flex-wrap:wrap;gap:7px 10px;padding:7px 12px}
+  .brand img{height:34px}
   .navs{gap:8px;margin-left:auto}
-  .meth{font-size:13px;padding:6px 0}
-  .seg{font-size:13px}
-  .seg a{padding:4px 9px}
+  .meth{font-size:12px;padding:7px 0}
+  .seg{font-size:12px}
+  /* The text a step smaller, the padding a step taller: the tabs were already
+     short of a comfortable tap, and they keep the height they had. */
+  .seg a{padding:5px 8px}
   .hsearch{order:3;flex:1 1 100%;max-width:none;margin:0}
-  .hsearch input{height:34px}
+  /* 16px, not the desktop 14: iOS Safari zooms the page in on any field set
+     smaller, and it stays zoomed after the search is done. It goes by the
+     field's own size, so the placeholder can stay at 14 with the header. */
+  .hsearch input{height:32px;font-size:16px}
+  .hsearch input::placeholder{font-size:14px}
 }
 @media (max-width:400px){
-  header.site{gap:8px}
-  .brand img{height:34px}
+  header.site{gap:7px 8px}
+  .brand img{height:31px}
   .navs{gap:6px}
-  .meth{font-size:12.5px}
-  .seg{font-size:12.5px}
-  .seg a{padding:4px 8px}
+  .meth{font-size:11.5px}
+  .seg{font-size:11.5px}
+  .seg a{padding:5px 7px}
 }
 
 /* home -------------------------------------------------------------------- */
