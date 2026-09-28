@@ -77,25 +77,20 @@
    "spring-gichon-shiloach-gachon",
    "garden-gan-pardes-bustan",
    "sleep-sheinah-tardeimah-tenumah",
-   "teeth-shein-mesalos-kaka",
-   "money-mammon-damim-maos",
    "nothing-hevel-rik-tohu-bohu",
    "angel-classes-kruvim-chayos-ishim",
    "poison-eres-rosh-chamat-sam-hamaves",
-   "chew-koses-loes",
-   "property-rechush-mikneh-nechasim",
    "blemish-mum-pgam-simpon"
   ],
   "noach": [
-   "destruction-churban-shemamah",
    "germany-ashkenaz-germamia-lotir",
    "month-bul-marcheshvan",
+   "sword-cherev-shelach-sakin",
    "princess-sarai-sarah-yiscah",
-   "dry-yavesh-chorev-negev",
    "ark-teivah-aron",
    "people-ivri-yisrael-yehudi",
-   "second-month-ziv-iyar",
-   "word-milah-teivah-davar",
+   "dry-yavesh-chorev-negev",
+   "destruction-churban-shemamah",
    "rain-geshem-matar-yoreh-malkosh"
   ],
   "lech-lecha": [
@@ -103,34 +98,26 @@
    "dust-afar-eifer-avak-deshen",
    "laughter-tzchok-schok",
    "tired-ayef-yaef-yagea",
-   "peace-shalom-sheket-shalvah",
-   "property-rechush-mikneh-nechasim",
-   "cattle-shor-par-egel-bakar",
-   "lottery-goral-pur-payis-cholesh"
+   "property-rechush-mikneh-nechasim"
   ],
   "vayeira": [
+   "elephant-pil-shenhav",
    "guest-oreach-ushpiz-achsanai",
-   "hebron-chevron-kiryas-arba-mamre-eshkol",
    "pushing-potzer-docheh-dochef-hadof",
    "seeing-raah-hibit-tzofeh",
    "where-ayeh-eifoh-anah",
    "word-milah-teivah-davar",
-   "ark-teivah-aron",
    "blindness-iver-suma-sagi-nahor-sanverim",
-   "elephant-pil-shenhav"
+   "ark-teivah-aron"
   ],
   "chayei-sarah": [
+   "bowing-kidah-kriah-hishtachavaah",
+   "hebron-chevron-kiryas-arba-mamre-eshkol",
    "maybe-ulai-pen",
    "old-zaken-seivah-yashish",
    "veil-tzaif-redid",
-   "drinking-shtiyah-hashkaah-gemiah",
    "love-ahavah-chibah",
-   "animal-sounds-shoeg-nohem-noer",
-   "man-adam-ish-enosh-gever",
-   "sleep-sheinah-tardeimah-tenumah",
-   "angel-classes-kruvim-chayos-ishim",
-   "animal-behemah-chayah",
-   "beast-beir-behemah-baar-bur",
+   "drinking-shtiyah-hashkaah-gemiah",
    "judgment-din-rachamim",
    "mercy-rachum-chanun-chus-chemlah"
   ],
@@ -138,31 +125,27 @@
    "activist-askan-shtadlan-macher",
    "disgrace-bizayon-kalon-zilzul-gnai",
    "nation-goy-am-leom-umah",
+   "smooth-chalak-shua-mishi",
    "youth-naar-almah-elem",
    "child-yeled-olel-roveh-ravya",
    "garment-aderet-glima-itztala",
-   "smooth-chalak-shua-mishi",
-   "unmarried-ravak-panui-bachur",
-   "shame-bushah-klimah-cherpah",
-   "angel-malach-shaliach",
-   "delay-boshesh-ichur-hismahmeah",
-   "money-mammon-damim-maos"
+   "angel-malach-shaliach"
   ],
   "vayeitzei": [
+   "almond-luz-shaked",
    "fortune-mazal-gad-mazar",
    "palace-zvul-armon-apadna-tirah",
    "rock-tzur-chalamish",
+   "sheep-and-goats-seh-keves-ayil-eiz",
    "witness-eid-sahad",
    "rock-even-sela",
    "plain-mishor-sharon-eil-kikar",
-   "almond-luz-shaked",
-   "sheep-and-goats-seh-keves-ayil-eiz",
    "altar-mizbeach-matzeivah-bamah",
    "guard-shemirah-netzirah-netirah",
-   "coins-shekel-sela-beka-darkemon",
    "child-yeled-olel-roveh-ravya",
    "horn-shofar-keren-yovel-chatzotzros",
-   "strength-koach-gevurah-ometz-chozek"
+   "strength-koach-gevurah-ometz-chozek",
+   "coins-shekel-sela-beka-darkemon"
   ],
   "vayishlach": [
    "camel-gamal-nakah-becher-kar",
@@ -171,13 +154,9 @@
    "gift-minchah-matanah-shai",
    "morning-shachar-boker-tzafra",
    "survivor-pleitah-sarid-klitah",
-   "handmaid-amah-shifchah-eved",
-   "river-nahar-yeor-nachal",
    "angel-malach-shaliach",
-   "dig-karah-chafirah-chatzivah",
-   "work-melachah-avodah",
-   "spying-latur-leragel",
-   "shame-bushah-klimah-cherpah"
+   "handmaid-amah-shifchah-eved",
+   "work-melachah-avodah"
   ],
   "vayeishev": [
    "merchant-socher-rochel-cnaani-tagar",
@@ -188,24 +167,18 @@
   "mikeitz": [
    "famine-raav-kafan-batzores",
    "waking-yekitzah-oorah",
-   "approach-gishah-kiruv",
    "explanation-peirush-beiur-hesber-pesher",
-   "fat-cheilev-shuman-pader",
-   "tying-keshirah-asirah-kafut",
-   "pressure-lachatz-dchak-negisah-atz",
    "slaughter-shechitah-zevichah-tevichah",
    "blindness-iver-suma-sagi-nahor-sanverim",
-   "trust-bitachon-machseh-tikvah",
-   "prohibition-azharah-issur-lav",
-   "rebuke-mussar-tochachah"
+   "trust-bitachon-machseh-tikvah"
   ],
   "vayigash": [
    "language-safah-lashon",
    "miser-kilay-tzaykan-kamtzan",
    "tying-keshirah-asirah-kafut",
-   "prohibition-azharah-issur-lav",
-   "famine-raav-kafan-batzores",
+   "approach-gishah-kiruv",
    "food-ochel-shever-tevuah-dagan",
+   "prohibition-azharah-issur-lav",
    "rebuke-mussar-tochachah"
   ],
   "vayechi": [
@@ -216,9 +189,7 @@
    "boats-oniah-sefinah-rafsodah",
    "grapevine-gefen-sorek-shdeimah",
    "prayer-tefillah-bakashah-techinah",
-   "throat-garon-gargeres-kaneh",
    "white-lavan-chivar-tzochar",
-   "breast-shadayim-dadim-atinim",
    "good-tov-noam-shapir",
    "people-ivri-yisrael-yehudi"
   ],
@@ -228,13 +199,13 @@
    "salvation-yeshuah-teshuah-hatzalah-purkan",
    "around-saviv-heikef-afef-chug",
    "priest-kohen-komer",
+   "wax-donag-shaavah-kira",
    "hammer-makevet-patish-kurnas",
    "wisdom-chochmah-binah-daat-tevunah",
-   "wax-donag-shaavah-kira",
-   "crying-out-tzaakah-zaakah-shaavah",
-   "wine-yayin-tirosh-chemer-shechar"
+   "crying-out-tzaakah-zaakah-shaavah"
   ],
   "shemos": [
+   "canopy-apiryon-chuppah-succah",
    "drawing-water-dalah-shoev",
    "hard-kashah-kashiach-perech",
    "here-halom-poh-heinah-zeh-koh",
@@ -243,10 +214,6 @@
    "prophet-navi-roeh-chozeh",
    "pulling-moshe-moshech-shoev-shoef",
    "splendor-tzvi-tzivyon-tzava",
-   "canopy-apiryon-chuppah-succah",
-   "forgiveness-mechilah-selichah-kapparah",
-   "stoning-sekilah-regimah",
-   "stopping-chadal-mana-chasach-kala-pasak",
    "poor-ani-evyon-dal-rash"
   ],
   "vaeira": [
@@ -257,16 +224,9 @@
    "river-nahar-yeor-nachal",
    "short-gamad-namuch-gutz-nanas",
    "because-baavur-biglal-bishvil",
-   "fire-aish-lehavah-shalheves-lapid",
-   "forgiveness-mechilah-selichah-kapparah",
-   "pulling-moshe-moshech-shoev-shoef",
    "stopping-chadal-mana-chasach-kala-pasak",
-   "platform-kan-duchan-bimah-basis",
    "linen-sheish-bahd-butz-pishtim",
-   "poor-ani-evyon-dal-rash",
-   "drawing-water-dalah-shoev",
-   "names-moshe-yered-avigdor-yekusiel",
-   "red-adom-shani-chamutz"
+   "poor-ani-evyon-dal-rash"
   ],
   "bo": [
    "darkness-choshech-afeilah",
@@ -277,32 +237,24 @@
    "standing-nitzav-amidah",
    "leading-noheg-molich-nachah-nohel",
    "coming-biah-halichah-atah",
-   "dirt-zuhamah-lichluch-tinuf-goal",
    "locust-arbeh-gazam-yelek-chasil",
    "prayer-tefillah-bakashah-techinah",
    "synonyms-davar-vayomer-vayidaber",
    "tombstone-matzeivah-tziyun-nefesh",
    "altar-mizbeach-matzeivah-bamah",
-   "curse-arur-kelalah-allah-kavah",
-   "fringes-tzitzis-gedilim-petil",
-   "anger-cheimah-ketzef-charon-rogez"
+   "fringes-tzitzis-gedilim-petil"
   ],
   "beshalach": [
    "armed-chamush-chalutz-mezuyan",
    "pile-areimah-chamarim-gadish",
    "sweet-matok-areiv-naim",
+   "window-chalon-eshnav",
    "worm-rimah-toleah",
    "cutting-bokea-korea-gozer",
    "fear-eimah-pachad-yirah-daagah",
-   "muzzle-resen-meteg-zemam",
    "scribe-sofer-lavlar",
-   "teeth-shein-mesalos-kaka",
-   "theft-genevah-gezeilah-chamas",
-   "window-chalon-eshnav",
    "spoils-shalal-bizah-malkoach",
-   "chew-koses-loes",
-   "good-tov-noam-shapir",
-   "secret-sod-raz-tamir"
+   "good-tov-noam-shapir"
   ],
   "yisro": [
    "first-person-anochi-ani",
@@ -312,7 +264,6 @@
    "washing-kevisah-rechitzah-shetifah-hadachah",
    "writing-ketivah-charut-chakuk",
    "in-laws-cham-chosen",
-   "stoning-sekilah-regimah",
    "wing-kanaf-ever-agaf",
    "bird-of-tzipor-kanaf",
    "freedom-cheirus-chofesh-dror",
@@ -325,20 +276,13 @@
    "lie-sheker-kazav-kachash",
    "master-adon-ribbon-rav",
    "theft-genevah-gezeilah-chamas",
-   "handmaid-amah-shifchah-eved",
    "beast-beir-behemah-baar-bur",
-   "camel-gamal-nakah-becher-kar",
    "dig-karah-chafirah-chatzivah",
-   "excision-karet-ariri",
-   "family-mishpachah-bayis-sheer-machaneh",
-   "cutting-bokea-korea-gozer",
+   "handmaid-amah-shifchah-eved",
    "wound-petza-chaburah-chovel",
-   "haircut-giluach-gizah-galav-sapar",
    "spying-latur-leragel",
    "explanation-peirush-beiur-hesber-pesher",
-   "shame-bushah-klimah-cherpah",
-   "telling-haggadah-sippur",
-   "border-gevul-techum-meitzar-sfar"
+   "shame-bushah-klimah-cherpah"
   ],
   "terumah": [
    "color-tzeva-gavan-ein-mareh",
@@ -349,10 +293,10 @@
    "angel-malach-shaliach"
   ],
   "tetzaveh": [
+   "belt-avnet-chagor-eizor",
    "blue-sapir-techeiles-kachol",
    "forehead-meitzach-padachat",
    "hat-migbaas-mitznefes-kova",
-   "belt-avnet-chagor-eizor",
    "purple-argaman-segol-lilach",
    "linen-sheish-bahd-butz-pishtim"
   ],
@@ -360,61 +304,53 @@
    "balsam-panag-tzari-afarsemon",
    "why-lamah-madua",
    "delay-boshesh-ichur-hismahmeah",
-   "jericho-yereicho-yericho",
-   "work-melachah-avodah",
-   "mercy-rachum-chanun-chus-chemlah",
-   "sun-and-moon-shemesh-chamah-yareach"
+   "mercy-rachum-chanun-chus-chemlah"
   ],
   "vayakhel": [
    "clothing-beged-levush-kesus-simlah",
-   "names-shlomo-koheles-agur-lemuel"
+   "names-shlomo-koheles-agur-lemuel",
+   "work-melachah-avodah"
   ],
   "pekudei": [
    "hook-vav-agmon-shfataim",
    "middle-emtza-merkaz-lev-tabur",
    "corner-peah-keren-zavit-pinah",
-   "armed-chamush-chalutz-mezuyan",
-   "artisan-charash-choshev-rokem",
-   "horn-shofar-keren-yovel-chatzotzros",
-   "good-tov-noam-shapir"
+   "artisan-charash-choshev-rokem"
   ],
   "tu-bishvat": [
    "tree-eitz-ilan"
   ],
   "four-parshiyos": [
+   "beauty-hod-hadar",
    "month-chodesh-yerach",
    "remember-zachor-pakad",
    "red-adom-shani-chamutz",
-   "beauty-hod-hadar",
    "coins-shekel-sela-beka-darkemon",
-   "grapevine-gefen-sorek-shdeimah",
-   "white-lavan-chivar-tzochar",
    "citron-hadar-etrog-tapuach",
+   "grapevine-gefen-sorek-shdeimah",
    "praise-hallel-shevach-hodaah-kilus",
+   "white-lavan-chivar-tzochar",
    "counting-sefirah-mispar-minyan"
   ],
   "purim": [
    "book-sefer-iggeret-megillah",
    "honor-kavod-yakar",
    "meal-seudah-mishteh-mesibah",
-   "silence-cheresh-shetikah-dom-chashah",
    "names-esther-hadassah",
-   "names-mordechai-petachyah-bilshan",
+   "silence-cheresh-shetikah-dom-chashah",
+   "horse-sus-rechesh-achashtranim",
    "wine-yayin-tirosh-chemer-shechar",
    "crying-out-tzaakah-zaakah-shaavah",
-   "dust-afar-eifer-avak-deshen",
    "law-din-mishpat-chok-dat",
    "lottery-goral-pur-payis-cholesh",
    "mask-masveh-masechah-partzuf",
-   "cattle-shor-par-egel-bakar",
+   "names-mordechai-petachyah-bilshan",
    "poison-eres-rosh-chamat-sam-hamaves",
-   "telling-haggadah-sippur",
    "document-gett-shtar",
    "scribe-sofer-lavlar",
    "judgment-din-rachamim",
-   "counting-sefirah-mispar-minyan",
-   "border-gevul-techum-meitzar-sfar",
-   "anger-cheimah-ketzef-charon-rogez"
+   "anger-cheimah-ketzef-charon-rogez",
+   "counting-sefirah-mispar-minyan"
   ],
   "vayikra": [
    "cold-kor-tzinah",
@@ -427,16 +363,13 @@
   "tzav": [
    "fat-cheilev-shuman-pader",
    "throat-garon-gargeres-kaneh",
-   "soul-nefesh-ruach-neshamah-chayah-yechidah",
-   "bone-etzem-gerem",
-   "explanation-peirush-beiur-hesber-pesher"
+   "soul-nefesh-ruach-neshamah-chayah-yechidah"
   ],
   "shemini": [
    "dancing-rikud-kirkur-pizuz",
    "nose-af-chotem-nichirayim",
    "species-min-zan-sug",
    "wet-lach-ratuv-raanan",
-   "heretic-min-apikores-kofer-meshumad",
    "slaughter-shechitah-zevichah-tevichah",
    "bread-lechem-kikar-challah-pat",
    "anger-cheimah-ketzef-charon-rogez",
@@ -444,37 +377,29 @@
   ],
   "tazria": [
    "circumciser-mohel-gozer-rofeh-uman",
-   "drunkenness-sove-shachar-sheichar",
-   "exaggeration-havai-guzma",
    "haircut-giluach-gizah-galav-sapar",
-   "theft-genevah-gezeilah-chamas",
    "telling-haggadah-sippur",
    "artisan-charash-choshev-rokem",
-   "border-gevul-techum-meitzar-sfar",
-   "locust-arbeh-gazam-yelek-chasil"
+   "border-gevul-techum-meitzar-sfar"
   ],
   "metzora": [
-   "leprosy-tzaraas-nega-metzora"
+   "leprosy-tzaraas-nega-metzora",
+   "thumb-bohen-gudal-agudal"
   ],
   "acharei-mos": [
    "death-mitah-petirah",
    "excision-karet-ariri",
    "uncle-dod-misaref",
    "tombstone-matzeivah-tziyun-nefesh",
-   "dig-karah-chafirah-chatzivah",
-   "cutting-bokea-korea-gozer",
-   "spying-latur-leragel",
-   "shame-bushah-klimah-cherpah"
+   "cutting-bokea-korea-gozer"
   ],
   "kedoshim": [
    "immediately-teikef-miyad-lealter-otyom",
-   "rebuke-mussar-tochachah",
    "guard-shemirah-netzirah-netirah",
    "idols-elilim-gilulim-shikutzim",
    "now-atah-na-achshav",
-   "tying-keshirah-asirah-kafut",
-   "mask-masveh-masechah-partzuf",
-   "prohibition-azharah-issur-lav"
+   "rebuke-mussar-tochachah",
+   "mask-masveh-masechah-partzuf"
   ],
   "emor": [
    "rose-shoshanah-chavatzeles-vered",
@@ -482,60 +407,47 @@
    "time-eit-zman-moed-shaah",
    "widow-almanah-alman-armalta",
    "blemish-mum-pgam-simpon",
-   "slipping-off-shemittah-chalitzah-shalaf",
-   "seven-sheva-shavua-shevuah",
-   "nothing-hevel-rik-tohu-bohu",
-   "pressure-lachatz-dchak-negisah-atz",
-   "return-shuv-chazarah"
+   "nothing-hevel-rik-tohu-bohu"
   ],
   "behar": [
    "resident-ger-toshav-ezrach",
    "trust-bitachon-machseh-tikvah",
    "document-gett-shtar",
+   "seven-sheva-shavua-shevuah",
+   "slipping-off-shemittah-chalitzah-shalaf",
    "poor-ani-evyon-dal-rash",
-   "staff-mateh-shevet-makel"
+   "staff-mateh-shevet-makel",
+   "return-shuv-chazarah",
+   "pressure-lachatz-dchak-negisah-atz"
   ],
   "bechukosai": [
    "exchange-temurah-chalifah",
    "peace-shalom-sheket-shalvah",
-   "chance-mikreh-keri-teunah-irua",
-   "completeness-tam-shalem-tamim",
-   "man-adam-ish-enosh-gever",
-   "money-mammon-damim-maos",
    "redemption-geulah-pidyon",
-   "red-adom-shani-chamutz",
-   "property-rechush-mikneh-nechasim",
-   "angel-classes-kruvim-chayos-ishim"
+   "chance-mikreh-keri-teunah-irua",
+   "money-mammon-damim-maos",
+   "property-rechush-mikneh-nechasim"
   ],
   "pesach": [
    "jumping-pesach-dilug-kefitzah",
    "cake-ugah-chararah-gluskos",
    "song-shirah-zimrah-mizmor",
    "vegetable-yerek-yarok-karpas",
-   "pressure-lachatz-dchak-negisah-atz",
-   "book-sefer-iggeret-megillah",
    "egypt-mitzrayim-patros-rahav",
    "freedom-cheirus-chofesh-dror",
-   "slipping-off-shemittah-chalitzah-shalaf",
+   "pressure-lachatz-dchak-negisah-atz",
    "telling-haggadah-sippur",
-   "approach-gishah-kiruv",
-   "speech-dibbur-amirah",
    "border-gevul-techum-meitzar-sfar",
    "linen-sheish-bahd-butz-pishtim",
-   "counting-sefirah-mispar-minyan",
    "bread-lechem-kikar-challah-pat",
-   "document-gett-shtar",
-   "scribe-sofer-lavlar"
+   "counting-sefirah-mispar-minyan"
   ],
   "omer": [
    "second-month-ziv-iyar",
    "sickle-chermesh-magal",
    "son-ben-bar",
-   "month-bul-marcheshvan",
-   "corner-peah-keren-zavit-pinah",
    "counting-sefirah-mispar-minyan",
-   "haircut-giluach-gizah-galav-sapar",
-   "rain-geshem-matar-yoreh-malkosh"
+   "haircut-giluach-gizah-galav-sapar"
   ],
   "bamidbar": [
    "stranger-zar-nachri-hedyot",
@@ -558,7 +470,6 @@
    "waving-terumah-tenufah",
    "chew-koses-loes",
    "desire-taavah-chemdah",
-   "gathering-asifah-kovetz-kehillah-agur",
    "fish-nun-kavra-shibuta",
    "fear-eimah-pachad-yirah-daagah",
    "food-ochel-shever-tevuah-dagan",
@@ -606,29 +517,16 @@
    "speech-neum-yichaveh-yabia-siach",
    "with-es-im",
    "donkey-chamor-aton-pere-ayir-pered",
-   "armed-chamush-chalutz-mezuyan",
    "curse-arur-kelalah-allah-kavah",
-   "flogging-makkot-malkut",
-   "spear-romach-chanit-kidon",
-   "child-yeled-olel-roveh-ravya",
-   "secret-sod-raz-tamir",
-   "youth-naar-almah-elem"
+   "secret-sod-raz-tamir"
   ],
   "pinchas": [
    "fasting-tzom-taanis",
    "flour-kemach-soles",
    "inheritance-nachalah-yerushah-achuzah",
    "spear-romach-chanit-kidon",
-   "basket-tene-sal-keluv",
    "cattle-shor-par-egel-bakar",
-   "dust-afar-eifer-avak-deshen",
-   "jericho-yereicho-yericho",
-   "lice-kinnim-kalmta-parosh",
-   "muzzle-resen-meteg-zemam",
-   "platform-kan-duchan-bimah-basis",
-   "lottery-goral-pur-payis-cholesh",
-   "secret-sod-raz-tamir",
-   "sun-and-moon-shemesh-chamah-yareach"
+   "platform-kan-duchan-bimah-basis"
   ],
   "matos": [
    "gold-zahav-paz-kesem-charutz",
@@ -642,13 +540,10 @@
    "jericho-yereicho-yericho",
    "kinneres-ginosar-tiveria",
    "suddenly-peta-pitom",
-   "balsam-panag-tzari-afarsemon",
-   "spear-romach-chanit-kidon",
    "thorns-kotz-dardar-sneh-charul",
    "border-gevul-techum-meitzar-sfar",
    "refusal-miun-siruv",
-   "sun-and-moon-shemesh-chamah-yareach",
-   "corner-peah-keren-zavit-pinah"
+   "sun-and-moon-shemesh-chamah-yareach"
   ],
   "shavuos": [
    "cheese-gvinah-charitz-shfot",
@@ -658,19 +553,10 @@
    "shavuos-atzeres-katzir-bikkurim",
    "sinai-chorev-gavnunim-bashan",
    "prohibition-azharah-issur-lav",
-   "phylacteries-totafos-tefillin",
-   "species-min-zan-sug",
    "speech-dibbur-amirah",
-   "tying-keshirah-asirah-kafut",
-   "telling-haggadah-sippur",
    "curse-arur-kelalah-allah-kavah",
    "seven-sheva-shavua-shevuah",
-   "prayer-tefillah-bakashah-techinah",
-   "rebuke-mussar-tochachah",
-   "anger-cheimah-ketzef-charon-rogez",
-   "counting-sefirah-mispar-minyan",
-   "border-gevul-techum-meitzar-sfar",
-   "fringes-tzitzis-gedilim-petil"
+   "anger-cheimah-ketzef-charon-rogez"
   ],
   "devarim": [
    "bed-mitah-eres",
@@ -678,27 +564,19 @@
    "exaggeration-havai-guzma",
    "tigris-chidekel-diglat",
    "trampling-romes-dorech-boss",
-   "balsam-panag-tzari-afarsemon",
    "destruction-churban-shemamah",
-   "straying-zenus-stiyah",
-   "theft-genevah-gezeilah-chamas",
-   "haircut-giluach-gizah-galav-sapar",
    "locust-arbeh-gazam-yelek-chasil",
    "path-derech-orach",
    "dry-yavesh-chorev-negev",
-   "platform-kan-duchan-bimah-basis",
-   "telling-haggadah-sippur",
-   "border-gevul-techum-meitzar-sfar"
+   "platform-kan-duchan-bimah-basis"
   ],
   "vaeschanan": [
    "directions-tzafon-darom-mizrach-maarav",
    "forgetting-shachach-nashah",
    "hearing-shema-haazinu",
    "teaching-horaah-limmud-alef",
-   "cattle-shor-par-egel-bakar",
-   "boils-shechin-garav-cheres",
    "breast-shadayim-dadim-atinim",
-   "grapevine-gefen-sorek-shdeimah",
+   "cattle-shor-par-egel-bakar",
    "rain-geshem-matar-yoreh-malkosh"
   ],
   "eikev": [
@@ -716,57 +594,37 @@
    "cutting-tools-garzen-kardum-maatzad",
    "gate-shaar-tera-bava",
    "teeth-shein-mesalos-kaka",
-   "worm-rimah-toleah",
-   "sleep-sheinah-tardeimah-tenumah",
    "anger-cheimah-ketzef-charon-rogez",
    "chew-koses-loes"
   ],
   "ki-seitzei": [
    "chick-efroach-gozal-pargit-nipol",
    "drunkenness-sove-shachar-sheichar",
-   "unmarried-ravak-panui-bachur",
-   "circumciser-mohel-gozer-rofeh-uman",
    "sibling-in-law-yavam-yevamah-giss",
-   "donkey-chamor-aton-pere-ayir-pered",
-   "corner-peah-keren-zavit-pinah",
+   "unmarried-ravak-panui-bachur",
    "in-laws-cham-chosen",
-   "wine-yayin-tirosh-chemer-shechar",
    "altar-mizbeach-matzeivah-bamah",
-   "artisan-charash-choshev-rokem",
    "platform-kan-duchan-bimah-basis"
   ],
   "ki-savo": [
    "basket-tene-sal-keluv",
    "boils-shechin-garav-cheres",
    "earth-taivel-arka-cheled",
-   "flour-kemach-soles",
    "land-eretz-adamah-ratzon",
-   "teaching-horaah-limmud-alef",
-   "will-ratzon-chefetz",
    "stopping-chadal-mana-chasach-kala-pasak",
    "dry-yavesh-chorev-negev",
-   "cattle-shor-par-egel-bakar",
    "desire-taavah-chemdah",
-   "land-eretz-adamah",
-   "rain-geshem-matar-yoreh-malkosh"
+   "land-eretz-adamah"
   ],
   "nitzavim": [
    "straying-zenus-stiyah",
-   "bed-mitah-eres",
    "strength-koach-gevurah-ometz-chozek",
-   "tree-eitz-ilan",
-   "grapevine-gefen-sorek-shdeimah",
-   "white-lavan-chivar-tzochar",
-   "red-adom-shani-chamutz"
+   "tree-eitz-ilan"
   ],
   "vayeilech": [
    "straying-zenus-stiyah",
-   "bed-mitah-eres",
    "strength-koach-gevurah-ometz-chozek",
-   "tree-eitz-ilan",
-   "grapevine-gefen-sorek-shdeimah",
-   "white-lavan-chivar-tzochar",
-   "red-adom-shani-chamutz"
+   "tree-eitz-ilan"
   ],
   "haazinu": [
    "praise-hallel-shevach-hodaah-kilus"
@@ -774,41 +632,33 @@
   "vezos-habrachah": [
    "animal-sounds-shoeg-nohem-noer",
    "betrothal-erusin-kiddushin-nissuin",
-   "child-yeled-olel-roveh-ravya",
    "animal-behemah-chayah",
    "beast-beir-behemah-baar-bur",
-   "drinking-shtiyah-hashkaah-gemiah",
-   "donkey-chamor-aton-pere-ayir-pered",
-   "youth-naar-almah-elem"
+   "drinking-shtiyah-hashkaah-gemiah"
   ],
   "tisha-bav": [
    "jerusalem-tziyon-yerushalayim",
    "mixing-iruv-mizug-dimua",
-   "whistle-shreikah-tziftzuf",
    "wall-chomah-kir-shur-kotel",
-   "horn-shofar-keren-yovel-chatzotzros",
-   "good-tov-noam-shapir"
+   "whistle-shreikah-tziftzuf"
   ],
   "yamim-noraim": [
    "advocate-meilitz-praklit-sanegor",
    "forgiveness-mechilah-selichah-kapparah",
    "trembling-raadah-retet-raash",
    "horn-shofar-keren-yovel-chatzotzros",
-   "gathering-asifah-kovetz-kehillah-agur",
    "king-melech-moshel",
+   "path-derech-orach",
    "paths-netiv-mesilah-shvil-mishol",
+   "return-shuv-chazarah",
    "sin-chet-avon-pesha",
    "trembling-chil-dachil-zachal",
    "shame-bushah-klimah-cherpah",
-   "garment-aderet-glima-itztala",
-   "path-derech-orach",
-   "return-shuv-chazarah",
-   "stopping-chadal-mana-chasach-kala-pasak",
    "delay-boshesh-ichur-hismahmeah",
    "good-tov-noam-shapir",
    "money-mammon-damim-maos",
-   "because-baavur-biglal-bishvil",
    "spoils-shalal-bizah-malkoach",
+   "because-baavur-biglal-bishvil",
    "anger-cheimah-ketzef-charon-rogez"
   ],
   "sukkos": [
@@ -816,6 +666,7 @@
    "joy-simchah-sasson-gilah",
    "drawing-water-dalah-shoev",
    "rain-geshem-matar-yoreh-malkosh",
+   "gathering-asifah-kovetz-kehillah-agur",
    "secret-sod-raz-tamir"
   ],
   "rosh-chodesh": [
@@ -824,10 +675,8 @@
   "nachamu": [
    "jerusalem-tziyon-yerushalayim",
    "mixing-iruv-mizug-dimua",
-   "whistle-shreikah-tziftzuf",
    "wall-chomah-kir-shur-kotel",
-   "horn-shofar-keren-yovel-chatzotzros",
-   "good-tov-noam-shapir"
+   "whistle-shreikah-tziftzuf"
   ],
   "rosh-hashanah": [
    "horn-shofar-keren-yovel-chatzotzros",
@@ -836,20 +685,17 @@
    "advocate-meilitz-praklit-sanegor",
    "forgiveness-mechilah-selichah-kapparah",
    "trembling-raadah-retet-raash",
-   "gathering-asifah-kovetz-kehillah-agur",
+   "path-derech-orach",
    "paths-netiv-mesilah-shvil-mishol",
+   "return-shuv-chazarah",
    "sin-chet-avon-pesha",
    "trembling-chil-dachil-zachal",
    "shame-bushah-klimah-cherpah",
-   "garment-aderet-glima-itztala",
-   "path-derech-orach",
-   "return-shuv-chazarah",
-   "stopping-chadal-mana-chasach-kala-pasak",
    "delay-boshesh-ichur-hismahmeah",
    "good-tov-noam-shapir",
    "money-mammon-damim-maos",
-   "because-baavur-biglal-bishvil",
    "spoils-shalal-bizah-malkoach",
+   "because-baavur-biglal-bishvil",
    "anger-cheimah-ketzef-charon-rogez"
   ],
   "yom-kippur": [
@@ -857,21 +703,18 @@
    "advocate-meilitz-praklit-sanegor",
    "fasting-tzom-taanis",
    "trembling-raadah-retet-raash",
-   "gathering-asifah-kovetz-kehillah-agur",
    "king-melech-moshel",
+   "path-derech-orach",
    "paths-netiv-mesilah-shvil-mishol",
+   "return-shuv-chazarah",
    "sin-chet-avon-pesha",
    "trembling-chil-dachil-zachal",
    "shame-bushah-klimah-cherpah",
-   "garment-aderet-glima-itztala",
-   "path-derech-orach",
-   "return-shuv-chazarah",
-   "stopping-chadal-mana-chasach-kala-pasak",
    "delay-boshesh-ichur-hismahmeah",
    "good-tov-noam-shapir",
    "money-mammon-damim-maos",
-   "because-baavur-biglal-bishvil",
    "spoils-shalal-bizah-malkoach",
+   "because-baavur-biglal-bishvil",
    "anger-cheimah-ketzef-charon-rogez"
   ]
  },

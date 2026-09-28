@@ -100,6 +100,7 @@ def book_groups():
             continue
         for k in keys:
             for i, essay in enumerate(emap.get(c["n"], [])):
+                essay = essay["id"] if isinstance(essay, dict) else essay
                 groups[k][essay] = max(groups[k].get(essay, 0), 1 if i == 0 else 0.5)
     groups["nachamu"] = dict(groups["tisha-bav"])
     for k in ("rosh-hashanah", "yom-kippur"):
