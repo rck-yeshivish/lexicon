@@ -2291,8 +2291,8 @@ footer p{margin:0 0 6px}
 .fb-send:disabled{opacity:.6;cursor:default}
 /* On an entry below 1100px, where "On this page" has no column, the button
    grows a left half naming the section being read, which opens the list. One
-   thing floating at the bottom, not two. It widens once the reader is into the
-   entry; above the first section it is the round button alone. The frosted
+   thing floating at the bottom, not two. It is there from the top of the
+   entry, reading "On this page" until the first section is reached. The frosted
    ground is on a layer of its own: a backdrop-filter on .fb itself would make
    it the frame for the panel's position:fixed on a phone. */
 .fb-toc{display:none;align-items:center;gap:8px;border:0;background:none;color:var(--ink);font:inherit;
@@ -2300,15 +2300,15 @@ footer p{margin:0 0 6px}
 .fb-toc svg{width:18px;height:18px;flex:0 0 auto;color:var(--accent)}
 .fb-cur{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 @media (max-width:1099px){
-  .fb.has-toc.lit{display:flex;align-items:stretch;border:1px solid var(--line);border-radius:999px;
+  .fb.has-toc{display:flex;align-items:stretch;border:1px solid var(--line);border-radius:999px;
     box-shadow:0 1px 3px rgba(60,50,30,.10),0 6px 20px rgba(60,50,30,.10)}
-  .fb.has-toc.lit::before{content:"";position:absolute;inset:0;z-index:-1;border-radius:inherit;
+  .fb.has-toc::before{content:"";position:absolute;inset:0;z-index:-1;border-radius:inherit;
     background:color-mix(in srgb,var(--panel) 86%,transparent);
     backdrop-filter:saturate(180%) blur(16px);-webkit-backdrop-filter:saturate(180%) blur(16px)}
-  .fb.has-toc.lit .fb-toc{display:flex}
-  .fb.has-toc.lit .fb-btn{border:0;border-left:1px solid var(--line);border-radius:0 999px 999px 0;
+  .fb.has-toc .fb-toc{display:flex}
+  .fb.has-toc .fb-btn{border:0;border-left:1px solid var(--line);border-radius:0 999px 999px 0;
     background:none;box-shadow:none}
-  .fb-toc:focus-visible,.fb.has-toc.lit .fb-btn:focus-visible{outline:2px solid var(--accent);outline-offset:-3px}
+  .fb-toc:focus-visible,.fb.has-toc .fb-btn:focus-visible{outline:2px solid var(--accent);outline-offset:-3px}
 }
 @media (max-width:700px){
   .fb{right:14px;bottom:calc(14px + env(safe-area-inset-bottom))}
@@ -2774,8 +2774,8 @@ function wireToc(){
     // The button names the section, not the word within it: "Distinctions"
     // fits where "Geshem (גשם) and matar" would not.
     const top = cur < 0 ? null : tops.find(a => a.parentElement.contains(links[cur]));
-    box.classList.toggle("lit", !!top);
-    if(top && label.textContent !== top.textContent) label.textContent = top.textContent;
+    const name = top ? top.textContent : "On this page";
+    if(label.textContent !== name) label.textContent = name;
     pill.setAttribute("aria-label", "On this page" + (top ? ": " + top.textContent : ""));
   };
   addEventListener("scroll", () => { if(!ticking){ ticking = true; requestAnimationFrame(spy); } }, {passive:true});
