@@ -1779,6 +1779,12 @@ header.bare .brand{flex:1}
 .ac{position:absolute;left:0;right:0;top:calc(100% + 8px);background:var(--panel);
   border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);
   overflow:hidden;text-align:left;max-height:60vh;overflow-y:auto;z-index:60}
+/* In the header the search box narrows with the window, to 247px at 780, and
+   the dropdown narrowed with it until the button in its first row ran past the
+   edge and was cut off. It keeps to the box's left edge but never goes under
+   440px, which at the narrowest such header (701px) still ends 45px short of
+   the window. Below 700 the search has a full-width row of its own. */
+@media (min-width:701px){.hsearch .ac{right:auto;width:max(100%,440px)}}
 .ac .row{display:grid;grid-template-columns:96px minmax(0,1fr) 20px;align-items:center;gap:14px;
   padding:12px 16px;cursor:pointer;border-bottom:1px solid var(--line);color:var(--ink)}
 .ac .row:hover{text-decoration:none}
