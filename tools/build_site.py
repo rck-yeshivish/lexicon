@@ -1142,7 +1142,8 @@ def entry_page(e):
         secs.insert(names.index("Where the authorities disagree"), d)
     # "On this page": one link per section the entry actually has, and under
     # Distinctions one per word, so a long entry can be crossed in a click.
-    # Shown only on wide screens; see .toc in the CSS.
+    # A column at the left on wide screens; narrower, a sheet from the bottom
+    # (see .toc in the CSS and wireToc).
     toc = []
 
     def sid(name):
@@ -1238,7 +1239,7 @@ def entry_page(e):
                       for d, label, plain in subs)
         links.append(f'<li><a href="#{i}">{html.escape(name)}</a>'
                      + (f'<ul>{sub}</ul>' if sub else "") + "</li>")
-    nav = (f'<nav class="toc" aria-label="On this page"><p class="toc-h">On this page</p>'
+    nav = (f'<nav class="toc" id="toc" aria-label="On this page"><p class="toc-h">On this page</p>'
            f'<ul>{"".join(links)}</ul></nav>')
     rail = cites.rail()
     page = (f'<div class="entry-layout{" has-rail" if rail else ""}">{nav}\n'
@@ -2058,29 +2059,52 @@ p.rad-hw bdi{font-family:var(--heb);font-size:17px;color:var(--accent)}
 .wcard[class*=" w"] .wh{color:var(--wc)}
 .pv mark.w0,bdi.w0{color:var(--w0)}.pv mark.w1,bdi.w1{color:var(--w1)}.pv mark.w2,bdi.w2{color:var(--w2)}.pv mark.w3,bdi.w3{color:var(--w3)}
 .pv mark.w4,bdi.w4{color:var(--w4)}.pv mark.w5,bdi.w5{color:var(--w5)}.pv mark.w6,bdi.w6{color:var(--w6)}.pv mark.w7,bdi.w7{color:var(--w7)}
-/* On this page. Wide screens only: on anything narrower there is no margin to
-   put it in, and a phone reader scrolls. The layout widens main just enough for
-   the rail, so the article column itself stays 760px. */
-.toc{display:none}
+/* On this page. On a wide screen a column at the left; the layout widens main
+   just enough for it, so the article column itself stays 760px. Narrower there
+   is no margin to put it in, and it opens as a sheet from the bottom instead
+   (below, with the feedback button that opens it). */
+.toc{display:none;font-size:13.5px;line-height:1.35}
+.toc-h{font-size:12px;text-transform:uppercase;letter-spacing:.07em;color:var(--faint);
+  font-weight:600;margin:0 0 10px}
+.toc ul{list-style:none;margin:0;padding:0}
+.toc li{margin:0}
+.toc a{display:block;padding:4px 0 4px 12px;border-left:2px solid var(--line);color:var(--dim)}
+.toc a:hover{color:var(--ink);text-decoration:none}
+.toc a.on{color:var(--accent);border-left-color:var(--accent)}
+.toc ul ul a{padding:3px 0 3px 22px;display:flex;align-items:baseline;gap:7px;
+  white-space:nowrap;overflow:hidden}
+.toc .tt{overflow:hidden;text-overflow:ellipsis}
+.toc bdi[lang="he"]{font-size:1.12em}
+.toc-x{display:none}
 .entry [id]{scroll-margin-top:76px}
 @media (min-width:1100px){
   main:has(.entry-layout){max-width:1030px}
   .entry-layout{display:grid;grid-template-columns:180px minmax(0,760px);gap:0 44px}
   .toc{display:block;position:sticky;top:76px;align-self:start;margin-top:52px;
-    max-height:calc(100vh - 96px);overflow-y:auto;font-size:13.5px;line-height:1.35;
-    scrollbar-width:thin}
-  .toc-h{font-size:12px;text-transform:uppercase;letter-spacing:.07em;color:var(--faint);
-    font-weight:600;margin:0 0 10px}
-  .toc ul{list-style:none;margin:0;padding:0}
-  .toc li{margin:0}
-  .toc a{display:block;padding:4px 0 4px 12px;border-left:2px solid var(--line);color:var(--dim)}
-  .toc a:hover{color:var(--ink);text-decoration:none}
-  .toc a.on{color:var(--accent);border-left-color:var(--accent)}
-  .toc ul ul a{padding:3px 0 3px 22px;display:flex;align-items:baseline;gap:7px;
-    white-space:nowrap;overflow:hidden}
-  .toc .tt{overflow:hidden;text-overflow:ellipsis}
-  .toc bdi[lang="he"]{font-size:1.12em}
+    max-height:calc(100vh - 96px);overflow-y:auto;scrollbar-width:thin}
 }
+@media (max-width:1099px){
+  .toc.open{display:block;position:fixed;left:0;right:0;bottom:0;margin:0 auto;width:min(560px,100%);z-index:90;
+    max-height:min(75vh,640px);overflow-y:auto;overscroll-behavior:contain;font-size:16px;line-height:1.35;
+    background:var(--panel);border:1px solid var(--line);border-bottom:0;border-radius:18px 18px 0 0;
+    box-shadow:0 -8px 40px rgba(20,18,14,.18);padding:0 20px calc(16px + env(safe-area-inset-bottom));
+    animation:sheet-up .2s ease-out}
+  /* The heading stays put while a long list scrolls, so the close button does. */
+  .toc.open .toc-h{position:sticky;top:0;z-index:1;display:flex;align-items:center;background:var(--panel);
+    margin:0 0 4px;padding:16px 0 10px}
+  .toc.open .toc-x{display:block;margin-left:auto;border:0;background:none;color:var(--faint);font-size:26px;
+    line-height:1;padding:0 2px;cursor:pointer}
+  /* A thumb's worth of height a row, where the column's rows are a cursor's. */
+  .toc.open a{padding:9px 0 9px 14px}
+  .toc.open ul ul a{padding:8px 0 8px 26px;font-size:15px}
+  .toc-scrim{position:fixed;inset:0;z-index:89;background:rgba(20,18,14,.32)}
+  .toc-scrim[hidden]{display:none}
+}
+@keyframes sheet-up{from{transform:translateY(28px);opacity:0}to{transform:none;opacity:1}}
+@media (prefers-reduced-motion:reduce){.toc.open{animation:none}}
+/* Under the phone header, 85px and more, a heading jumped to stood 76px down
+   and was hidden. */
+@media (max-width:700px){.entry [id]{scroll-margin-top:100px}}
 /* Pesukim panel. A citation the entry makes (Yeshayahu 45:16) is a quiet link;
    on a wide screen the panel on the right shows the pesukim cited in the part
    of the entry being read, and on anything narrower the pasuk opens under the
@@ -2217,10 +2241,31 @@ footer p{margin:0 0 6px}
 .fb-send{border:0;border-radius:9px;background:var(--accent);color:var(--panel);font:inherit;font-size:14.5px;
   font-weight:600;padding:8px 18px;cursor:pointer}
 .fb-send:disabled{opacity:.6;cursor:default}
+/* On an entry below 1100px, where "On this page" has no column, the button
+   grows a left half naming the section being read, which opens the list. One
+   thing floating at the bottom, not two. It widens once the reader is into the
+   entry; above the first section it is the round button alone. The frosted
+   ground is on a layer of its own: a backdrop-filter on .fb itself would make
+   it the frame for the panel's position:fixed on a phone. */
+.fb-toc{display:none;align-items:center;gap:8px;border:0;background:none;color:var(--ink);font:inherit;
+  font-size:14px;font-weight:500;padding:0 12px 0 15px;cursor:pointer;max-width:min(52vw,230px)}
+.fb-toc svg{width:18px;height:18px;flex:0 0 auto;color:var(--accent)}
+.fb-cur{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+@media (max-width:1099px){
+  .fb.has-toc.lit{display:flex;align-items:stretch;border:1px solid var(--line);border-radius:999px;
+    box-shadow:0 1px 3px rgba(60,50,30,.10),0 6px 20px rgba(60,50,30,.10)}
+  .fb.has-toc.lit::before{content:"";position:absolute;inset:0;z-index:-1;border-radius:inherit;
+    background:color-mix(in srgb,var(--panel) 86%,transparent);
+    backdrop-filter:saturate(180%) blur(16px);-webkit-backdrop-filter:saturate(180%) blur(16px)}
+  .fb.has-toc.lit .fb-toc{display:flex}
+  .fb.has-toc.lit .fb-btn{border:0;border-left:1px solid var(--line);border-radius:0 999px 999px 0;
+    background:none;box-shadow:none}
+  .fb-toc:focus-visible,.fb.has-toc.lit .fb-btn:focus-visible{outline:2px solid var(--accent);outline-offset:-3px}
+}
 @media (max-width:700px){
-  .fb{right:14px;bottom:14px}
+  .fb{right:14px;bottom:calc(14px + env(safe-area-inset-bottom))}
   .fb-btn{width:44px;height:44px}
-  .fb-panel{position:fixed;left:12px;right:12px;bottom:68px;width:auto;max-width:none}
+  .fb-panel{position:fixed;left:12px;right:12px;bottom:calc(68px + env(safe-area-inset-bottom));width:auto;max-width:none}
 }
 @media print{.fb{display:none}}
 .muted{color:var(--faint)}
@@ -2614,14 +2659,61 @@ function tally(){
 
 // Highlight the section being read in "On this page", and open Rendering
 // guidance when its link is followed, since it is collapsed by default.
+// Below 1100px the list has no column: the feedback button grows a half that
+// names the section being read and opens the list as a sheet from the bottom.
 function wireToc(){
   const toc = document.querySelector(".toc");
   if(!toc) return;
   const links = [...toc.querySelectorAll("a")];
   const targets = links.map(a => document.getElementById(a.getAttribute("href").slice(1)));
+  const wide = matchMedia("(min-width:1100px)");
+  let box = document.getElementById("fb");
+  if(!box){ box = document.createElement("div"); box.className = "fb"; document.body.append(box); }
+  const pill = document.createElement("button");
+  pill.type = "button";
+  pill.className = "fb-toc";
+  pill.setAttribute("aria-controls", "toc");
+  pill.setAttribute("aria-expanded", "false");
+  pill.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6.5h16M4 12h16M4 17.5h10"/></svg><span class="fb-cur"></span>';
+  box.prepend(pill);
+  box.classList.add("has-toc");
+  const label = pill.querySelector(".fb-cur");
+  const scrim = document.createElement("div");
+  scrim.className = "toc-scrim";
+  scrim.hidden = true;
+  document.body.append(scrim);
+  const x = document.createElement("button");
+  x.type = "button";
+  x.className = "toc-x";
+  x.setAttribute("aria-label", "Close");
+  x.innerHTML = "&times;";
+  toc.querySelector(".toc-h").append(x);
+  const open = (on, refocus) => {
+    toc.classList.toggle("open", on);
+    scrim.hidden = !on;
+    pill.setAttribute("aria-expanded", String(on));
+    if(on){
+      const at = toc.querySelectorAll("a.on");
+      const here = at[at.length - 1] || links[0];
+      // The sheet's own scroll, not scrollIntoView, which would move the page too.
+      toc.scrollTop = here.offsetTop - toc.clientHeight / 2;
+      here.focus({preventScroll: true});
+    } else if(refocus) pill.focus();
+  };
+  pill.addEventListener("click", () => {
+    const form = box.querySelector(".fb-panel");
+    if(form && !form.hidden) box.querySelector(".fb-x").click();
+    open(true);
+  });
+  scrim.addEventListener("click", () => open(false, true));
+  x.addEventListener("click", () => open(false, true));
+  document.addEventListener("keydown", e => { if(e.key === "Escape" && toc.classList.contains("open")) open(false, true); });
+  wide.addEventListener("change", () => open(false));
   links.forEach((a, i) => a.addEventListener("click", () => {
     if(targets[i] && targets[i].tagName === "DETAILS") targets[i].open = true;
+    if(toc.classList.contains("open")) open(false);
   }));
+  const tops = [...toc.querySelectorAll(":scope > ul > li > a")];
   let ticking = false;
   const spy = () => {
     ticking = false;
@@ -2630,6 +2722,12 @@ function wireToc(){
     // A sub-link wins over its section, and the section stays lit beside it.
     links.forEach((a, i) => a.classList.toggle("on", i === cur ||
       (cur > i && a.nextElementSibling && a.parentElement.contains(links[cur]))));
+    // The button names the section, not the word within it: "Distinctions"
+    // fits where "Geshem (גשם) and matar" would not.
+    const top = cur < 0 ? null : tops.find(a => a.parentElement.contains(links[cur]));
+    box.classList.toggle("lit", !!top);
+    if(top && label.textContent !== top.textContent) label.textContent = top.textContent;
+    pill.setAttribute("aria-label", "On this page" + (top ? ": " + top.textContent : ""));
   };
   addEventListener("scroll", () => { if(!ticking){ ticking = true; requestAnimationFrame(spy); } }, {passive:true});
   spy();
