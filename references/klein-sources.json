@@ -21552,7 +21552,7 @@
    ]
   }
  ],
- "sun-and-moon-shemesh-chamah-yareach.md": [
+ "moon-yareach-levanah-sahar.md": [
   {
    "chapter": "282-the-names-of-jericho.md",
    "chapter_title": "The Names of Jericho",
@@ -23431,6 +23431,58 @@
      "work": "Yerios Shlomo",
      "author": "Rabbi Shlomo Pappenheim",
      "english": "Rabbi Shlomo Pappenheim, *Yerios Shlomo* (ילקו\"ש ערך גע) קסת הסופר (עמ' פא-פב)"
+    }
+   ]
+  }
+ ],
+ "sun-shemesh-chamah-cheres.md": [
+  {
+   "chapter": "310-my-three-suns-and-moons.md",
+   "chapter_title": "My Three Suns (and Moons)",
+   "note": "מקורות: קסת הסופר לר\"א מרקוס, מהרשא\"ו (ערך חמה\\חרס\\שמש), ספר ברזילי (עמ' 277), פירוש הרד\"ל על פדר\"א, שירת ישראל לר' משה אב\"ע (קכח-קכט)",
+   "items": [
+    {
+     "raw": "קסת הסופר לר\"א מרקוס",
+     "head": "קסת הסופר לר\"א מרקוס",
+     "locus": "",
+     "work": "Keses HaSofer",
+     "author": "Rabbi Aharon Marcus",
+     "english": "Rabbi Aharon Marcus, *Keses HaSofer*"
+    },
+    {
+     "raw": "מהרשא\"ו (ערך חמה\\חרס\\שמש)",
+     "head": "מהרשא\"ו",
+     "locus": "ערך חמה\\חרס\\שמש",
+     "work": "Beiurei Shemos Nirdafim",
+     "author": "Rabbi Shlomo Aharon Wertheimer",
+     "sv": [
+      "חמה\\חרס\\שמש"
+     ],
+     "english": "Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim*, s.v. חמה\\חרס\\שמש"
+    },
+    {
+     "raw": "ספר ברזילי (עמ' 277)",
+     "head": "ספר ברזילי",
+     "locus": "עמ' 277",
+     "work": "Barzilai",
+     "author": "Rabbi Aharon Marcus",
+     "english": "Rabbi Aharon Marcus, *Barzilai* (עמ' 277)"
+    },
+    {
+     "raw": "פירוש הרד\"ל על פדר\"א",
+     "head": "פירוש הרד\"ל על פדר\"א",
+     "locus": "",
+     "work": "",
+     "author": "",
+     "english": ""
+    },
+    {
+     "raw": "שירת ישראל לר' משה אב\"ע (קכח-קכט)",
+     "head": "שירת ישראל לר' משה אב\"ע",
+     "locus": "קכח-קכט",
+     "work": "",
+     "author": "",
+     "english": ""
     }
    ]
   }

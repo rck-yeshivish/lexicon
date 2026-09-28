@@ -83,7 +83,7 @@
   },
   {
    "a": "anger-cheimah-ketzef-charon-rogez",
-   "b": "sun-and-moon-shemesh-chamah-yareach",
+   "b": "sun-shemesh-chamah-cheres",
    "word": "חמה / cheimah and chamah (heat)"
   },
   {
@@ -338,7 +338,7 @@
   },
   {
    "a": "boils-shechin-garav-cheres",
-   "b": "sun-and-moon-shemesh-chamah-yareach",
+   "b": "sun-shemesh-chamah-cheres",
    "word": "חרס / cheres"
   },
   {
@@ -1133,13 +1133,13 @@
   },
   {
    "a": "guest-oreach-ushpiz-achsanai",
-   "b": "path-derech-orach",
-   "word": "אורח / ארח (א-ר-ח)"
+   "b": "moon-yareach-levanah-sahar",
+   "word": "אורח / ירח via ארח (path)"
   },
   {
    "a": "guest-oreach-ushpiz-achsanai",
-   "b": "sun-and-moon-shemesh-chamah-yareach",
-   "word": "אורח / ירח via ארח (path)"
+   "b": "path-derech-orach",
+   "word": "אורח / ארח (א-ר-ח)"
   },
   {
    "a": "haircut-giluach-gizah-galav-sapar",
@@ -1263,6 +1263,11 @@
   },
   {
    "a": "idols-elilim-gilulim-shikutzim",
+   "b": "sun-shemesh-chamah-cheres",
+   "word": "חמנים / chamanim, from chamah"
+  },
+  {
+   "a": "idols-elilim-gilulim-shikutzim",
    "b": "tombstone-matzeivah-tziyun-nefesh",
    "word": "מצבה / matzeivah (נ-צ-ב)"
   },
@@ -1293,13 +1298,13 @@
   },
   {
    "a": "jericho-yereicho-yericho",
-   "b": "soul-nefesh-ruach-neshamah-chayah-yechidah",
-   "word": "ריח / reyach, רוח / ruach, ירח / yareach (ר-ח)"
+   "b": "moon-yareach-levanah-sahar",
+   "word": "ירח / yareach (י-ר-ח)"
   },
   {
    "a": "jericho-yereicho-yericho",
-   "b": "sun-and-moon-shemesh-chamah-yareach",
-   "word": "ירח / yareach (י-ר-ח)"
+   "b": "soul-nefesh-ruach-neshamah-chayah-yechidah",
+   "word": "ריח / reyach, רוח / ruach, ירח / yareach (ר-ח)"
   },
   {
    "a": "jerusalem-tziyon-yerushalayim",
@@ -1493,8 +1498,18 @@
   },
   {
    "a": "month-chodesh-yerach",
-   "b": "sun-and-moon-shemesh-chamah-yareach",
+   "b": "moon-yareach-levanah-sahar",
    "word": "ירח / yareach, yerach (י-ר-ח)"
+  },
+  {
+   "a": "moon-yareach-levanah-sahar",
+   "b": "path-derech-orach",
+   "word": "אורח / orach"
+  },
+  {
+   "a": "moon-yareach-levanah-sahar",
+   "b": "white-lavan-chivar-tzochar",
+   "word": "לבן / לבנה / lavan, levanah (ל-ב-נ)"
   },
   {
    "a": "murder-retzichah-harigah-ketilah",
@@ -1590,11 +1605,6 @@
    "a": "path-derech-orach",
    "b": "paths-netiv-mesilah-shvil-mishol",
    "word": "נתיב / מסילה / משעול / שביל / רחוב / מעגל"
-  },
-  {
-   "a": "path-derech-orach",
-   "b": "sun-and-moon-shemesh-chamah-yareach",
-   "word": "אורח / orach"
   },
   {
    "a": "path-derech-orach",
@@ -1925,11 +1935,6 @@
    "a": "strength-koach-gevurah-ometz-chozek",
    "b": "tree-eitz-ilan",
    "word": "עץ / עצם / eitz, etzem, otzem (ע-צ)"
-  },
-  {
-   "a": "sun-and-moon-shemesh-chamah-yareach",
-   "b": "white-lavan-chivar-tzochar",
-   "word": "לבן / לבנה / lavan, levanah (ל-ב-נ)"
   },
   {
    "a": "sweet-matok-areiv-naim",
