@@ -1677,6 +1677,10 @@ header.bare .brand{flex:1}
   /* The text a step smaller, the padding a step taller: the tabs were already
      short of a comfortable tap, and they keep the height they had. */
   .seg a{padding:5px 8px}
+  /* The tabs stand 28px, short of a thumb's 44. An invisible margin of 8px
+     above and below takes the tap without making the pill look bigger. */
+  .seg a::after,.meth::after{content:"";position:absolute;inset:-8px 0}
+  .meth{position:relative}
   .hsearch{order:3;flex:1 1 100%;max-width:none;margin:0}
   /* 16px, not the desktop 14: iOS Safari zooms the page in on any field set
      smaller, and it stays zoomed after the search is done. It goes by the
@@ -2028,7 +2032,10 @@ p.rad-hw bdi{font-family:var(--heb);font-size:17px;color:var(--accent)}
 .prose h2{font-size:13px;border-bottom:1px solid var(--line);padding-bottom:8px;margin:34px 0 14px}
 .prose h3{font-size:18px}
 .eyebrow{color:var(--faint);font-size:13px;text-transform:uppercase;letter-spacing:.07em;margin:0 0 8px}
-.entry h1{font-size:38px;letter-spacing:-.021em;font-weight:600;margin:0 0 6px;text-transform:capitalize}
+.entry h1{font-size:38px;line-height:1.15;letter-spacing:-.021em;font-weight:600;margin:0 0 6px;text-transform:capitalize}
+/* About is an entry and prose both, and the entry rule above, coming later,
+   took its title's 18px down to 6. The loose line height hid it until now. */
+.entry.prose h1{margin-bottom:18px}
 .heb-title{font-family:var(--heb);font-size:30px;font-weight:400;line-height:1.3;
   color:color-mix(in srgb,var(--ink) 72%,var(--bg));margin:2px 0 30px;direction:ltr;text-align:left;display:flex;flex-wrap:wrap;align-items:baseline;gap:0 28px}
 .entry h1+.glance{margin-top:34px}
@@ -2111,7 +2118,20 @@ li > .ppop{margin-inline-start:-1.4em}
     max-height:calc(100vh - 96px);overflow-y:auto;scrollbar-width:thin}
 }
 @media (prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
-@media (max-width:520px){.wcards{grid-template-columns:1fr}.wh{font-size:24px}.heb-title{font-size:26px;gap:0 22px}}
+@media (max-width:520px){.wcards{grid-template-columns:1fr}.wh{font-size:24px}.heb-title{font-size:26px;gap:0 22px}
+  /* One card a row on a phone, and at full height the median entry's five
+     words filled a screen before "In short" (the 18 of anger, four). Here the
+     English and transliteration stand at the left with the Hebrew beside them,
+     and the distinction runs under both: about a third shorter a card. */
+  .wcards{gap:8px}
+  .wcard{display:grid;grid-template-columns:minmax(0,1fr) auto;grid-template-areas:"we wh" "wt wh" "wd wd";
+    column-gap:14px;padding:9px 13px 10px}
+  .wtop{display:contents}
+  .wh{grid-area:wh;align-self:center;font-size:23px;text-align:right}
+  .we{grid-area:we;margin:0;padding:0;border:0}
+  .wt{grid-area:wt;font-size:13px;line-height:1.4}
+  .wd{grid-area:wd;font-size:13.5px;line-height:1.45;margin-top:6px;padding-top:6px;border-top:1px solid var(--line)}
+  .entry h1{font-size:31px}}
 .entry section{margin:0 0 34px}
 .entry h2{font-size:13px;text-transform:uppercase;letter-spacing:.07em;color:var(--faint);
   font-weight:600;margin:0 0 12px;padding-bottom:8px;border-bottom:1px solid var(--line)}
