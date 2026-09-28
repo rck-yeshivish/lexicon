@@ -3247,12 +3247,14 @@
     "title": "Hats and Belts",
     "share": 0.91,
     "entries": [
-     "hat-and-belt-mitznefes-migbaas-avnet.md"
+     "belt-avnet-chagor-eizor.md",
+     "hat-migbaas-mitznefes-kova.md"
     ]
    }
   ],
   "entries": [
-   "hat-and-belt-mitznefes-migbaas-avnet.md"
+   "belt-avnet-chagor-eizor.md",
+   "hat-migbaas-mitznefes-kova.md"
   ]
  },
  {
@@ -3893,7 +3895,7 @@
     "title": "Vayakhel: Myrrh & Myrtle (Part 2)",
     "share": 0.96,
     "entries": [
-     "names-mordechai-esther-hadassah.md"
+     "names-esther-hadassah.md"
     ]
    },
    {
@@ -3901,7 +3903,7 @@
     "title": "Vayakhel: Myrrh & Myrtle (Part 2)",
     "share": 0.96,
     "entries": [
-     "names-mordechai-esther-hadassah.md"
+     "names-esther-hadassah.md"
     ]
    },
    {
@@ -3909,12 +3911,13 @@
     "title": "Ki Sisa/Purim Katan: Myrrh & Myrtle (Part 1)",
     "share": 0.98,
     "entries": [
-     "names-mordechai-esther-hadassah.md"
+     "names-mordechai-petachyah-bilshan.md"
     ]
    }
   ],
   "entries": [
-   "names-mordechai-esther-hadassah.md"
+   "names-esther-hadassah.md",
+   "names-mordechai-petachyah-bilshan.md"
   ]
  },
  {

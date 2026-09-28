@@ -158,13 +158,13 @@
   },
   {
    "a": "around-saviv-heikef-afef-chug",
-   "b": "cake-ugah-chararah-gluskos",
-   "word": "עוגה / ugah (ag, circle)"
+   "b": "belt-avnet-chagor-eizor",
+   "word": "חגורה / chagorah"
   },
   {
    "a": "around-saviv-heikef-afef-chug",
-   "b": "hat-and-belt-mitznefes-migbaas-avnet",
-   "word": "חגורה / chagorah"
+   "b": "cake-ugah-chararah-gluskos",
+   "word": "עוגה / ugah (ag, circle)"
   },
   {
    "a": "around-saviv-heikef-afef-chug",
@@ -270,6 +270,21 @@
    "a": "beginning-reishis-techilah-kedem",
    "b": "window-chalon-eshnav",
    "word": "חלון / תחילה chalon / techilah (biliteral ח-ל, Pappenheim)"
+  },
+  {
+   "a": "belt-avnet-chagor-eizor",
+   "b": "betrothal-erusin-kiddushin-nissuin",
+   "word": "אזור / eizor (Rabbi Baruch HaLevi Epstein)"
+  },
+  {
+   "a": "belt-avnet-chagor-eizor",
+   "b": "garment-aderet-glima-itztala",
+   "word": "אדרת / aderes"
+  },
+  {
+   "a": "belt-avnet-chagor-eizor",
+   "b": "strength-koach-gevurah-ometz-chozek",
+   "word": "אזור / אדיר, eizor / adir (Shadal)"
   },
   {
    "a": "betrothal-erusin-kiddushin-nissuin",
@@ -1193,7 +1208,7 @@
   },
   {
    "a": "hidden-tzafun-safun-tamun-ganuz",
-   "b": "names-mordechai-esther-hadassah",
+   "b": "names-esther-hadassah",
    "word": "אסתר / הסתר (ס-ת-ר)"
   },
   {
@@ -1497,7 +1512,7 @@
    "word": "רוזנים / roznim"
   },
   {
-   "a": "names-mordechai-esther-hadassah",
+   "a": "names-esther-hadassah",
    "b": "secret-sod-raz-tamir",
    "word": "סתר / seter, Esther (ס-ת-ר)"
   },
