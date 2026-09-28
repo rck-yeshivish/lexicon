@@ -371,15 +371,29 @@ def en_rows(terms):
 # ------------------------------------------------------------------ page shells
 
 ASSETS = {"css": "app.css", "js": "app.js"}   # filled in at build time with hashed names
+# The header's light-or-dark button: both icons are there, and the palette
+# (--moon, --sun) shows the one that fits.
+THEME_ICONS = ('<svg class="i-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" '
+               'stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
+               '<path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z"/></svg>'
+               '<svg class="i-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" '
+               'stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/>'
+               '<path d="M12 2.5v2M12 19.5v2M2.5 12h2M19.5 12h2M5.3 5.3l1.4 1.4M17.3 17.3l1.4 1.4'
+               'M5.3 18.7l1.4-1.4M17.3 6.7l1.4-1.4"/></svg>')
 
-# The logo, traced from the images in brand/ by tools/trace_logo.py. The SVGs
-# there carry no colour; it goes in here, light and dark, and each goes out
-# under a hashed name like the CSS, since /assets/ is cached as immutable.
+# The logo, traced from the images in brand/ by tools/trace_logo.py. Each goes
+# out under a hashed name like the CSS, since /assets/ is cached as immutable.
+# On the pages the header and home logos are masks painted with --logo (see
+# logo_css), so they change with the reader's light or dark choice as well as
+# the device's: an <img> would follow only the device. The colour written into
+# the SVG itself is what the favicon shows, beside the browser's own chrome.
 LOGO_INK = ("#184028", "#6cc27d")   # the green of the images; the dark one was --brand
 LOGO = {}   # "wide" | "stacked" | "icon" -> (file name, width, height, svg text); filled in main()
 # Below this width the header shows the drawing alone: the words beside it
-# would come out too small to read in the room the tabs leave.
-BRAND_MARK_ONLY = 350
+# would come out too small to read in the room the tabs and the theme button
+# leave. The whole logo needs 353px beside them; narrower, it pushed the header
+# onto a third row.
+BRAND_MARK_ONLY = 352
 
 
 def logo_svg(name, icon=False):
@@ -398,6 +412,15 @@ def logo_svg(name, icon=False):
     fill = lambda c: f"path{{fill:{c}{grow.format(c)}}}"
     style = f"<style>{fill(LOGO_INK[0])}@media (prefers-color-scheme:dark){{{fill(LOGO_INK[1])}}}</style>"
     return s.replace("><path", f">{style}<path", 1), round(w / 10), round(h / 10)
+
+
+def logo_css():
+    """The logo rules that need the hashed file names and their proportions,
+    appended to the stylesheet. The URLs sit beside it in assets/."""
+    rule = lambda sel, f: (f"{sel}{{aspect-ratio:{f[1]}/{f[2]};"
+                           f"-webkit-mask-image:url({f[0]});mask-image:url({f[0]})}}")
+    return ("\n" + rule(".logo-wide", LOGO["wide"]) + "\n" + rule(".logo-stacked", LOGO["stacked"])
+            + f"\n@media (max-width:{BRAND_MARK_ONLY}px){{{rule('.brand .logo-wide', LOGO['icon'])}}}\n")
 
 
 # The feedback box posts a reader's note to a form relay (Web3Forms), which
@@ -669,6 +692,7 @@ def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;500;700&display=swap">
+<script>try{{var t=localStorage.getItem("theme");if(t==="dark"||t==="light")document.documentElement.dataset.theme=t}}catch(e){{}}</script>
 <link rel="stylesheet" href="{up}assets/{ASSETS["css"]}">
 <link rel="icon" href="{up}favicon.ico" sizes="32x32">
 <link rel="icon" href="{up}assets/{LOGO["icon"][0]}" type="image/svg+xml">
@@ -676,9 +700,7 @@ def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
 </head>
 <body data-up="{up}">
 <header class="site{'' if header_search else ' bare'}">
-  <a class="brand" href="{up}index.html" aria-label="Back to the start of What&rsquo;s in a Word?"><picture>
-    <source media="(max-width:{BRAND_MARK_ONLY}px)" srcset="{up}assets/{LOGO["icon"][0]}" width="{LOGO["icon"][1]}" height="{LOGO["icon"][2]}">
-    <img src="{up}assets/{LOGO["wide"][0]}" alt="" width="{LOGO["wide"][1]}" height="{LOGO["wide"][2]}"></picture></a>
+  <a class="brand" href="{up}index.html" aria-label="Back to the start of What&rsquo;s in a Word?"><span class="logo logo-wide"></span></a>
   {'<div class="hsearch"><input id="q" type="search" placeholder="Search Hebrew or English" autocomplete="off" spellcheck="false" dir="auto"><div id="ac" class="ac" hidden></div></div>' if header_search else ''}
   <nav class="navs">
     <span class="seg">
@@ -687,6 +709,7 @@ def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
       <a href="{up}english.html" title="Browse the English index" class="{'on' if active == 'en' else ''}">A–Z</a>
     </span>
     <a class="meth {'on' if active == 'me' else ''}" href="{up}method.html">About</a>
+    <button class="theme" type="button" aria-label="Dark mode" aria-pressed="false" title="Light or dark">{THEME_ICONS}</button>
   </nav>
 </header>
 <main>
@@ -1252,12 +1275,13 @@ def entry_page(e):
 # ------------------------------------------------------------------------ build
 
 def main():
-    for kind, text in (("css", CSS), ("js", JS)):
-        h = hashlib.sha256(text.encode("utf-8")).hexdigest()[:10]
-        ASSETS[kind] = f"app.{h}.{kind}"
     for kind, name in (("wide", "logo-wide"), ("stacked", "logo-stacked"), ("icon", "mark")):
         text, w, h = logo_svg(name, icon=kind == "icon")
         LOGO[kind] = (f"{name}.{hashlib.sha256(text.encode('utf-8')).hexdigest()[:10]}.svg", w, h, text)
+    css = CSS + logo_css()
+    for kind, text in (("css", css), ("js", JS)):
+        h = hashlib.sha256(text.encode("utf-8")).hexdigest()[:10]
+        ASSETS[kind] = f"app.{h}.{kind}"
 
     entries, words, english = collect()
     ESSAYS["n"], ESSAYS["from"] = essay_span(entries)
@@ -1340,7 +1364,7 @@ def main():
     first_taste = next((x for x in taste_pool if x["s"].startswith("wisdom-")), taste_pool[0] if taste_pool else None)
     home = f'''<section class="hero">
   <div class="banner">
-    <h1 class="wm"><img src="assets/{LOGO["stacked"][0]}" alt="What&rsquo;s in a Word? מה במילה" width="{LOGO["stacked"][1]}" height="{LOGO["stacked"][2]}"></h1>
+    <h1 class="wm"><span class="vh">What&rsquo;s in a Word? מה במילה</span><span class="logo logo-stacked" aria-hidden="true"></span></h1>
     <p class="wm-sub">Synonyms in the Hebrew Language</p>
     <p class="wm-sub wm-credit">From the essays of <span class="nw">Rabbi Reuven Chaim Klein</span></p>
     <hr class="wm-rule">
@@ -1578,7 +1602,7 @@ section, and it is deliberately not published here. Do not read a gloss on these
 pages as the rendering to use.
 """)
 
-    emit(f'assets/{ASSETS["css"]}', CSS)
+    emit(f'assets/{ASSETS["css"]}', css)
     emit(f'assets/{ASSETS["js"]}', JS)
     for name, _, _, text in LOGO.values():
         emit(f"assets/{name}", text)
@@ -1598,6 +1622,13 @@ pages as the rendering to use.
           f"{len(english)} English terms, {size/1024/1024:.1f} MB")
 
 
+# The dark palette, used twice in the CSS below (see the note there).
+DARK = ("--bg:#12110e; --panel:#1c1a16; --ink:#f3efe6; --dim:#b1aa9c; --faint:#8f887a;"
+        " --line:#2f2b24; --accent:#6cc27d; --accent-soft:#1c2a1e; --shadow:0 1px 3px rgba(0,0,0,.5);"
+        " --gold:#d9b86b; --gold-soft:#2c2616; --err:#e38b7d;"
+        " --w0:#8fb1d8; --w1:#e0a07e; --w2:#72c2b8; --w3:#c29bd0; --w4:#b8c070; --w5:#df95a8; --w6:#9aa8e6; --w7:#d9a36a;"
+        f" --logo:{LOGO_INK[1]}; --moon:none; --sun:block; color-scheme:dark")
+
 CSS = r""":root{
   /* A hint of warm paper behind white panels; the name's green is the one
      site colour (links, buttons, focus); gold marks only the together tag.
@@ -1609,13 +1640,14 @@ CSS = r""":root{
   --radius:14px; --heb:"Frank Ruhl Libre","SF Hebrew","Noto Sans Hebrew","Arial Hebrew","Times New Roman",serif;
   --gold:#8a6d2a; --gold-soft:#f2e8cf; --err:#a3372b;
   --w0:#3f6690; --w1:#98583a; --w2:#2f7a72; --w3:#7a4f86; --w4:#6d7431; --w5:#9a4a5e; --w6:#4b5aa0; --w7:#8a5a24;
+  --logo:@@LOGO@@; --moon:block; --sun:none; color-scheme:light;
 }
-@media (prefers-color-scheme:dark){:root{
-  --bg:#12110e; --panel:#1c1a16; --ink:#f3efe6; --dim:#b1aa9c; --faint:#8f887a;
-  --line:#2f2b24; --accent:#6cc27d; --accent-soft:#1c2a1e; --shadow:0 1px 3px rgba(0,0,0,.5);
-  --gold:#d9b86b; --gold-soft:#2c2616; --err:#e38b7d;
-  --w0:#8fb1d8; --w1:#e0a07e; --w2:#72c2b8; --w3:#c29bd0; --w4:#b8c070; --w5:#df95a8; --w6:#9aa8e6; --w7:#d9a36a;
-}}
+/* The dark palette applies two ways: by the device's setting unless the
+   reader has chosen light, and by the reader's choice of dark whatever the
+   device says. The choice is data-theme on <html>, set before the page draws
+   (see shell) and by the button in the header (wireTheme). */
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){@@DARK@@}}
+:root[data-theme="dark"]{@@DARK@@}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--bg);color:var(--ink);
@@ -1630,11 +1662,25 @@ header.site{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap
   padding:10px 24px;background:color-mix(in srgb,var(--bg) 82%,transparent);
   backdrop-filter:saturate(180%) blur(20px);-webkit-backdrop-filter:saturate(180%) blur(20px);
   border-bottom:1px solid var(--line)}
-/* The logo, words to the right of the drawing. Its green is its own, set in
-   the SVG (LOGO_INK in build_site.py), so it follows the colour scheme there. */
+/* The logo is a mask the colour of --logo shows through, so it turns with the
+   theme; its shape and proportions come from logo_css in build_site.py. Painted
+   as a background, it is kept when the page is printed. */
+.logo{display:block;background:var(--logo);-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;
+  -webkit-mask-size:contain;mask-size:contain;-webkit-mask-position:center;mask-position:center;
+  -webkit-print-color-adjust:exact;print-color-adjust:exact}
+.vh{position:absolute;width:1px;height:1px;margin:-1px;padding:0;border:0;overflow:hidden;
+  clip-path:inset(50%);white-space:nowrap}
 .brand{flex:0 0 auto;display:block;line-height:0}
-.brand img{display:block;height:42px;width:auto}
+.brand .logo{height:42px}
 .brand:hover{opacity:.75}
+/* Light or dark: a moon while the page is light, a sun while it is dark. */
+.theme{position:relative;display:grid;place-items:center;width:32px;height:32px;margin-left:-6px;padding:0;
+  border:0;border-radius:8px;background:none;color:var(--dim);cursor:pointer}
+.theme:hover{color:var(--ink);background:var(--line)}
+.theme:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+.theme svg{width:19px;height:19px}
+.theme .i-moon{display:var(--moon)}
+.theme .i-sun{display:var(--sun)}
 .hsearch{flex:1 1 auto;position:relative;max-width:520px;margin:0 auto}
 .hsearch input{width:100%;height:36px;padding:0 13px;border:1px solid var(--line);
   border-radius:9px;background:var(--panel);color:var(--ink);font-size:14px;outline:none}
@@ -1671,7 +1717,7 @@ header.bare .brand{flex:1}
    as well, and nothing scrolls sideways at any width. */
 @media (max-width:700px){
   header.site{flex-wrap:wrap;gap:7px 10px;padding:7px 12px}
-  .brand img{height:34px}
+  .brand .logo{height:34px}
   .navs{gap:8px;margin-left:auto}
   .meth{font-size:12px;padding:7px 0}
   .seg{font-size:12px}
@@ -1680,7 +1726,9 @@ header.bare .brand{flex:1}
   .seg a{padding:5px 8px}
   /* The tabs stand 28px, short of a thumb's 44. An invisible margin of 8px
      above and below takes the tap without making the pill look bigger. */
-  .seg a::after,.meth::after{content:"";position:absolute;inset:-8px 0}
+  .seg a::after,.meth::after,.theme::after{content:"";position:absolute;inset:-8px 0}
+  .theme{width:28px;height:28px;margin-left:-2px}
+  .theme svg{width:17px;height:17px}
   .meth{position:relative}
   .hsearch{order:3;flex:1 1 100%;max-width:none;margin:0}
   /* 16px, not the desktop 14: iOS Safari zooms the page in on any field set
@@ -1691,7 +1739,7 @@ header.bare .brand{flex:1}
 }
 @media (max-width:400px){
   header.site{gap:7px 8px}
-  .brand img{height:31px}
+  .brand .logo{height:31px}
   .navs{gap:6px}
   .meth{font-size:11.5px}
   .seg{font-size:11.5px}
@@ -1708,7 +1756,7 @@ header.bare .brand{flex:1}
 .hero .wm{margin:0 0 20px;line-height:0}
 /* Sized so the search box still sits well above the fold on a laptop: the
    drawing makes the logo nearly square, and at 290px it pushed the box to 624px. */
-.hero .wm img{display:block;margin:0 auto;width:230px;height:auto}
+.hero .wm .logo{margin:0 auto;width:230px}
 .wm-sub{color:var(--dim);font-size:12.5px;font-weight:600;margin:0;letter-spacing:.18em;text-transform:uppercase}
 .wm-rule{width:48px;height:1px;background:var(--line);margin:20px auto 26px;border:0}
 /* The credit sits under the subtitle and the rule closes the block, so it is
@@ -1716,7 +1764,7 @@ header.bare .brand{flex:1}
 .wm-credit{margin-top:11px;font-size:11.5px;font-weight:500;letter-spacing:.12em;color:var(--faint)}
 /* On a phone the credit breaks before his name, never inside it. */
 .nw{white-space:nowrap}
-@media (max-width:640px){.hero .wm img{width:200px}.wm-sub{font-size:11.5px;letter-spacing:.14em}
+@media (max-width:640px){.hero .wm .logo{width:200px}.wm-sub{font-size:11.5px;letter-spacing:.14em}
   .wm-credit{font-size:10.5px;letter-spacing:.1em}}
 .hero h1{font-size:44px;line-height:1.08;letter-spacing:-.022em;font-weight:600;margin:0 0 14px}
 .lede{color:var(--dim);font-size:17px;max-width:620px;margin:0 auto 30px}
@@ -2270,6 +2318,7 @@ footer p{margin:0 0 6px}
 @media print{.fb{display:none}}
 .muted{color:var(--faint)}
 """
+CSS = CSS.replace("@@DARK@@", DARK).replace("@@LOGO@@", LOGO_INK[0])
 
 JS = r"""// Lexicon: client-side search and browse. One data.json, fetched once.
 const UP = document.body.dataset.up || "";
@@ -2963,7 +3012,30 @@ function wireFeedback(){
   });
 }
 
+// Light or dark. The page follows the device until the reader chooses, and a
+// choice that matches the device is forgotten rather than kept, so the page
+// goes back to following it. The choice is kept per browser, and a tab open
+// on another page takes it up when it is made.
+function wireTheme(){
+  const btn = document.querySelector(".theme");
+  if(!btn) return;
+  const root = document.documentElement, sys = matchMedia("(prefers-color-scheme: dark)");
+  const dark = () => root.dataset.theme ? root.dataset.theme === "dark" : sys.matches;
+  const sync = () => btn.setAttribute("aria-pressed", String(dark()));
+  const apply = t => { if(t === "dark" || t === "light") root.dataset.theme = t; else delete root.dataset.theme; sync(); };
+  btn.addEventListener("click", () => {
+    const want = dark() ? "light" : "dark";
+    const keep = (want === "dark") !== sys.matches;
+    apply(keep ? want : null);
+    try{ keep ? localStorage.setItem("theme", want) : localStorage.removeItem("theme"); }catch(e){}
+  });
+  sys.addEventListener("change", sync);
+  addEventListener("storage", e => { if(e.key === "theme") apply(e.newValue); });
+  sync();
+}
+
 document.addEventListener("DOMContentLoaded", () => {
+  wireTheme();
   wireFeedback();
   wireWeek();
   wireHome();
