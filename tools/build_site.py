@@ -1531,15 +1531,20 @@ def main():
         # His own introduction to the column answers the same question this page
         # does, from a different source, and it is a full page of its own rather
         # than a group of synonyms. It belongs here rather than loose among the
-        # entries, so About carries the way in to it.
+        # entries, so About carries the way in to it. It sits under the opening
+        # paragraph, which names the article, where a reader meets it before
+        # the list rather than after it.
         intro = (f'<div class="method-note"><p><strong>Rabbi Klein\'s own introduction.</strong> '
-                 f'The summary above is drawn from his article in <em>Babel</em>. He opened the '
-                 f'column itself with the same question, why Hebrew should need several words for '
-                 f'one thing, and answered it with the templates the answers tend to follow. That '
-                 f'is <a href="entries/{METHOD}.html">a page of its own</a>.</p></div>')
+                 f'Four years before this article, he opened the column itself with the same '
+                 f'question, why Hebrew should need several words for one thing, and answered it '
+                 f'with the templates the answers tend to follow. That essay is '
+                 f'<a href="entries/{METHOD}.html">a page of its own</a>.</p></div>')
+        summary = md(body)
+        cut = summary.index("</p>") + len("</p>")
         emit("method.html", shell("Methodology · What’s in a Word?",
                                   f'<article class="entry prose">{tabs}'
-                                  f'<div class="pane" id="pane-summary">{md(body)}{intro}</div>'
+                                  f'<div class="pane" id="pane-summary">{summary[:cut]}{intro}'
+                                  f'{summary[cut:]}</div>'
                                   f'{pdf_pane}</article>',
                                   active="me"))
 
@@ -2224,6 +2229,8 @@ li > .ppop{margin-inline-start:-1.4em}
 .method-note{background:var(--accent-soft);border-left:3px solid var(--accent);border-radius:0 var(--radius) var(--radius) 0;
   padding:14px 18px;margin:14px 0 32px}
 .method-note p{margin:0;font-size:16px;line-height:1.55}
+/* On About the note sits between two paragraphs, not above the entry body. */
+.prose .method-note{margin:20px 0}
 /* Hebrew inside English text (a gloss in a sentence, the Also-discussed roots,
    a word card) takes the Hebrew face too, a touch larger, since a
    serif Hebrew set at the sans size reads small beside it. */

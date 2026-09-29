@@ -80,8 +80,8 @@ Every entry in `../entries/` must trace to a file here. Orthodox sources only.
 ### Klein, "Learning to differentiate between apparent synonyms" (Babel, 2020)
 - `klein-babel-2020/` holds the PDF and its extracted text. Rabbi Klein writing
   about the *method* rather than about one cluster: why the question arises, the
-  eight ways apparent synonyms differ, and the canon of rabbis who wrote lexicons
-  of difference. Distilled into `../references/how-synonyms-differ.md`, which is
+  formulae the answers follow (unnumbered in the article; the eight headings are
+  ours), and seven of the rabbis who wrote lexicons of difference. Distilled into `../references/how-synonyms-differ.md`, which is
   what the drafting brief points at.
 - It also treats several clusters directly, including the eight words for road
   and path, of which our entry currently covers only two.
