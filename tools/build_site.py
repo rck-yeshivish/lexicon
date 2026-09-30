@@ -1607,6 +1607,8 @@ section, and it is deliberately not published here. Do not read a gloss on these
 pages as the rendering to use.
 """)
 
+    emit("keyboard-test.html", keyboard_test_page())
+
     emit(f'assets/{ASSETS["css"]}', css)
     emit(f'assets/{ASSETS["js"]}', JS)
     for name, _, _, text in LOGO.values():
@@ -3057,6 +3059,135 @@ document.addEventListener("DOMContentLoaded", () => {
   if(big && window.innerWidth > 700) big.focus({preventScroll:true});
 });
 """
+
+
+# A diagnostic page, not part of the site. A reader on Android reported that
+# holding the space bar to switch the keyboard to Hebrew fails in the search
+# box, and no emulator carries the reader's own keyboard, so the test has to
+# run on the reader's phone. Three boxes separate the causes: a plain one, one with the search
+# box's attributes and no script, and the real search with the site's script.
+# Each logs what the browser reports, and the user agent says which browser
+# the link opened in. Linked from nowhere, out of the sitemap, noindex; remove
+# it once the report is answered.
+def keyboard_test_page():
+    body = """<style>
+.kbt label,.kbt .kbt-l{display:block;margin:22px 0 8px;font-weight:600}
+.kbt .kbt-in{display:block;width:100%;height:52px;margin-top:8px;padding:0 16px;font:inherit;font-size:17px;
+  font-weight:400;color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:12px}
+.kbt .kbt-in:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 4px var(--accent-soft)}
+.kbt .bigsearch{margin:0}
+.kbt-sum{margin:26px 0 10px;line-height:1.7}
+.kbt-btns{display:flex;gap:10px;margin:0 0 12px}
+.kbt-btns button{font:inherit;font-size:15px;padding:9px 16px;border-radius:999px;cursor:pointer;
+  border:1px solid var(--accent);background:var(--accent);color:var(--panel)}
+.kbt-btns button+button{background:none;color:var(--accent)}
+.kbt-log{font:12.5px/1.5 ui-monospace,Menlo,Consolas,monospace;white-space:pre-wrap;word-break:break-word;
+  background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px 14px;
+  max-height:60vh;overflow:auto;margin:0}
+</style>
+<article class="entry prose kbt">
+<h1>Keyboard test</h1>
+<p>This page helps us track down a problem with switching to the Hebrew
+keyboard on Android phones. It takes about a minute.</p>
+<ol>
+<li>Tap box 1.</li>
+<li>Switch your keyboard to Hebrew the way you usually do, by holding down the space bar.</li>
+<li>Type a Hebrew letter or two.</li>
+<li>Do the same in box 2 and in box 3. Box 3 opens a list of words; tap an
+empty spot on the page to close it.</li>
+<li>Press <b>Copy results</b> and paste them into your reply. A screenshot of this page works too.</li>
+</ol>
+<label>1. A plain box
+<input class="kbt-in" data-box="1" type="text"></label>
+<label>2. A box set up like the search box
+<input class="kbt-in" data-box="2" type="search" autocomplete="off" spellcheck="false" dir="auto"></label>
+<p class="kbt-l">3. The real search box</p>
+<div class="bigsearch">
+  <svg viewBox="0 0 24 24" class="mag" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+  <input id="q" type="search" placeholder="Type Hebrew or English&hellip;" autocomplete="off" spellcheck="false" dir="auto">
+  <div id="ac" class="ac" hidden></div>
+</div>
+<p class="kbt-sum" id="kbt-sum"></p>
+<div class="kbt-btns"><button type="button" id="kbt-copy">Copy results</button><button type="button" id="kbt-clear">Clear</button></div>
+<pre class="kbt-log" id="kbt-log"></pre>
+</article>"""
+    script = """<script>
+(() => {
+  const t0 = performance.now(), log = [];
+  const out = document.getElementById("kbt-log"), sum = document.getElementById("kbt-sum");
+  const q = document.getElementById("q");
+  const boxes = [...document.querySelectorAll(".kbt-in"), q];
+  const label = el => el === q ? "box 3" : "box " + el.dataset.box;
+  const ua = navigator.userAgent;
+  const browser = /; wv\\)/.test(ua) ? "an app's built-in browser (Android WebView)"
+    : /SamsungBrowser/.test(ua) ? "Samsung Internet"
+    : /EdgA\\//.test(ua) ? "Edge" : /Firefox\\//.test(ua) ? "Firefox"
+    : /Chrome\\//.test(ua) ? "Chrome, or a Chrome tab opened from an app" : "unknown";
+  const head = () => [
+    "Browser: " + browser,
+    "User agent: " + ua,
+    "Screen: " + innerWidth + "x" + innerHeight + ", opened " + new Date().toISOString(),
+    ""];
+  const hebrew = {};
+  const show = () => {
+    sum.innerHTML = boxes.map(b => `${label(b)}: ${hebrew[label(b)] ? "<b>Hebrew typed</b>" : "no Hebrew yet"}`).join("<br>");
+    out.textContent = head().join("\\n") + log.slice().reverse().join("\\n");
+  };
+  // A resize fires many times while the keyboard slides; one line per burst,
+  // so the log shows the keyboard opening or closing rather than every frame.
+  let lastKey = "", lastAt = 0;
+  const add = (who, what, key) => {
+    const now = performance.now();
+    const line = ((now - t0) / 1000).toFixed(2).padStart(7) + "s  " + who.padEnd(7) + "  " + what;
+    if(key && key === lastKey && now - lastAt < 500) log[log.length - 1] = line;
+    else log.push(line);
+    lastKey = key || ""; lastAt = now;
+    show();
+  };
+  const quote = s => s == null ? "" : JSON.stringify(s);
+  for(const b of boxes){
+    const who = label(b);
+    b.addEventListener("focus", () => add(who, "focus"));
+    b.addEventListener("blur", () => add(who, "blur (left the box)"));
+    b.addEventListener("keydown", e => add(who, `keydown key=${quote(e.key)} code=${e.keyCode}`));
+    b.addEventListener("compositionstart", () => add(who, "composition start"));
+    b.addEventListener("compositionend", e => add(who, "composition end " + quote(e.data)));
+    b.addEventListener("beforeinput", e => add(who, `beforeinput ${e.inputType} ${quote(e.data)}`));
+    b.addEventListener("input", () => {
+      if(/[\\u0590-\\u05FF]/.test(b.value)) hebrew[who] = true;
+      add(who, "input, box now holds " + quote(b.value));
+    });
+  }
+  addEventListener("blur", () => add("window", "blur (page lost focus)"));
+  addEventListener("focus", () => add("window", "focus (page got focus back)"));
+  addEventListener("resize", () => add("window", `resize ${innerWidth}x${innerHeight}`, "resize"));
+  if(window.visualViewport){
+    visualViewport.addEventListener("resize", () =>
+      add("screen", `visible height ${Math.round(visualViewport.height)}px (keyboard ${visualViewport.height < innerHeight - 100 ? "open" : "closed"})`, "vv"));
+  }
+  document.addEventListener("visibilitychange", () => add("page", "visibility " + document.visibilityState));
+  addEventListener("pagehide", () => add("page", "pagehide"));
+  document.getElementById("kbt-clear").addEventListener("click", () => {
+    log.length = 0; for(const k in hebrew) delete hebrew[k]; boxes.forEach(b => { b.value = ""; }); show();
+  });
+  const copy = document.getElementById("kbt-copy");
+  copy.addEventListener("click", async () => {
+    const text = head().join("\\n") + boxes.map(b => `${label(b)}: ${hebrew[label(b)] ? "Hebrew typed" : "no Hebrew"}`).join("\\n")
+      + "\\n\\n" + log.join("\\n");
+    try{ await navigator.clipboard.writeText(text); copy.textContent = "Copied"; }
+    catch(e){
+      const r = document.createRange(); r.selectNodeContents(out);
+      const s = getSelection(); s.removeAllRanges(); s.addRange(r);
+      copy.textContent = "Selected, now copy";
+    }
+    setTimeout(() => { copy.textContent = "Copy results"; }, 2500);
+  });
+  show();
+})();
+</script>"""
+    page = shell("Keyboard test · What’s in a Word?", body, header_search=False, extra_js=script)
+    return page.replace("<head>\n", '<head>\n<meta name="robots" content="noindex">\n', 1)
+
 
 HEADERS = """/*
   X-Content-Type-Options: nosniff
