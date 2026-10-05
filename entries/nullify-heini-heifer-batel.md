@@ -9,11 +9,11 @@ words:
   - he: הניא
     tr: heini
     en: restrain, hold back
-    distinct: works on what has not yet come about, stopping a plan before it is carried out (Rabbi Shlomo Aharon Wertheimer); forcing something out of existence (Malbim); its core sense to break (Menachem Ibn Saruk, Ibn Ezra) or to deny and withhold (Dunash Ibn Labrat, Rashi)
+    distinct: works on what has not yet come about, stopping a plan before it is carried out (Rabbi Shlomo Aharon Wertheimer); for Malbim, drawing the same line the other way round, forcing something out of existence; its core sense to break (Menachem Ibn Saruk, Ibn Ezra) or to deny and withhold (Dunash Ibn Labrat, Rashi)
   - he: הפר
     tr: heifer
     en: annul, break
-    distinct: cancels what already exists, crumbling it like pur, a crumb, as one tears up a binding contract (Rabbi Shlomo Aharon Wertheimer); simply ensuring something will not come to fruition, without force (Malbim)
+    distinct: cancels what already exists, crumbling it like pur, a crumb, as one tears up a binding contract (Rabbi Shlomo Aharon Wertheimer); for Malbim, the other way round, simply ensuring something will not come to fruition, without force
   - he: בטל
     tr: batel
     en: void
@@ -25,7 +25,7 @@ words:
 sources:
   - wiaw:7851 "Null and Void" (2018-07-14) https://articles.ohr.edu/articles/null-and-void
 authorities: [Rabbi Shlomo Aharon Wertheimer, Malbim, Rav Hirsch, Menachem Ibn Saruk, Dunash Ibn Labrat, Rabbi Saadia Gaon, Rashi, Ibn Ezra, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Dr. Yosaif M. Dubovick]
-updated: 2026-09-10
+updated: 2026-10-05
 ---
 # Nullify: heini / heifer / batel
 
@@ -36,15 +36,17 @@ not yet come about: **restrain**, **hold back**, stop a plan from being carried
 out. *Heifer*, in his account, works on what already exists: **annul**,
 **break**, crumble a standing legal reality out of being. That, he says, is why
 Bamidbar 30 uses both words of a husband nullifying his wife's neder: the Torah
-says *heini* of her plan and *heifer* of the vow. *Batel* is the Rabbinic word,
-apparently Aramaic in origin: **void**, and by extension **idle, futile**.
+says *heini* of her plan and *heifer* of the vow. Malbim draws the same line but
+the other way round: for him *heini* forces something out of existence, and
+*heifer* only ensures that it will not come to fruition. *Batel* is the Rabbinic
+word, apparently Aramaic in origin: **void**, and by extension **idle, futile**.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| הניא | heini | restrain, hold back | stops what has not yet come about (Wertheimer); forcing out of existence (Malbim) |
-| הפר | heifer | annul, break | breaks up what already exists, kin to *pur* (Wertheimer); without force (Malbim) |
+| הניא | heini | restrain, hold back | stops what has not yet come about (Wertheimer); the reverse, forcing out of existence (Malbim) |
+| הפר | heifer | annul, break | breaks up what already exists, kin to *pur* (Wertheimer); the reverse, ensuring it never comes to be, without force (Malbim) |
 | בטל | batel | void | Rabbinic void, apparently Aramaic; also idleness, as in *bitul Torah* |
 
 ## Distinctions
@@ -94,9 +96,7 @@ he dissolves the legal standing of the vow. The Torah says *heini* of the
 first, since what she meant to do has not yet come about, and *heifer* of the
 second, since the vow's legal reality exists and can therefore be broken.
 
-Malbim similarly explains that *heini* refers to forcing
-something out of existence, while *heifer* refers to simply ensuring that
-something will not come to fruition, without necessarily using force.
+Malbim draws the same distinction, between undoing what exists and keeping something from coming to be, but applies it the other way round: *heini* refers to forcing something out of existence, while *heifer* refers to simply ensuring that something will not come to fruition, without necessarily using force.
 
 ### batel (בטל)
 The standard Rabbinic verb for nullification: *bitul Torah*, idleness in place

@@ -9,7 +9,7 @@ words:
   - he: זקן
     tr: zaken
     en: elder
-    distinct: an elder, set at sixty (Avos 5:24), a stage before seivah (Bedersi); belongs to people and animals, not plants (Rabbi Yehuda Leib Shapira-Frankfurter); for Shadal anyone of honor and importance, whatever his age, as senior and signore
+    distinct: an elder, set at sixty (Avos 5:24), a stage before seivah (Bedersi); belongs to people and animals, not plants (Rabbi Yehuda Leib Shapira-Frankfurter); old age as the breaking down of the physical form, said of a person or of a plant (Rabbi Shlomo Pappenheim); for Shadal anyone of honor and importance, whatever his age, as senior and signore
   - he: שיבה
     tr: seivah
     en: old age
@@ -17,7 +17,7 @@ words:
   - he: ישיש
     tr: yashish
     en: the aged
-    distinct: older still, placed after seivah on Iyov 15:10 and derived from yesh, one who has existed a long time (Radak); perhaps the Mishnah's ninety (Bedersi); only four times, all in Iyov
+    distinct: older still, placed after seivah on Iyov 15:10 and derived from yesh, one who has existed a long time (Radak); perhaps the Mishnah's ninety (Bedersi); before zaken and seivah, from yesh as ish is, a man long in adulthood and now on the cusp of old age (Rabbi Shlomo Pappenheim); only four times, all in Iyov
   - he: קשיש
     tr: kashish
     en: aged
@@ -26,7 +26,7 @@ words:
     tr: yashan
     en: aged, last year's
     nk: יָשָׁן
-    distinct: old of plants and produce, not of people, set against zaken, which is for people and animals (Rabbi Yehuda Leib Shapira-Frankfurter); so too Chiddushei HaRa'ah and HaKsav VeHaKabbalah
+    distinct: old of plants and produce, not of people, set against zaken, which is for people and animals (Rabbi Yehuda Leib Shapira-Frankfurter); so too Chiddushei HaRa'ah and HaKsav VeHaKabbalah; from shanah, a year, one who has lived through many years, said of a person (Rabbi Shlomo Pappenheim)
   - he: עתיק
     tr: atik
     en: ancient
@@ -39,18 +39,22 @@ words:
 sources:
   - wiaw:8487 "The Old Man and the See" (2019-11-23) https://articles.ohr.edu/articles/the-old-man-and-the-see
   - ms:031-the-old-man-and-the-see.md "The Old Man and the See"
-authorities: [Rabbi Avraham Bedersi HaPenini, Radak, Rabbi Eliezer Reines, Rabbi Mordechai Tzvi Herzka, Rabbeinu Chananel, Rabbi Nosson of Rome, Rabbi Yehuda Leib Shapira-Frankfurter, Rashi, Bartenura, Rabbi Ernest Klein, Rabbi Shaul Goldman, Rabbi Elimelech of Lizhensk, Chiddushei HaRa'ah, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Shadal, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+authorities: [Rabbi Avraham Bedersi HaPenini, Radak, Rabbi Eliezer Reines, Rabbi Mordechai Tzvi Herzka, Rabbeinu Chananel, Rabbi Nosson of Rome, Rabbi Yehuda Leib Shapira-Frankfurter, Rashi, Bartenura, Rabbi Ernest Klein, Rabbi Shaul Goldman, Rabbi Elimelech of Lizhensk, Chiddushei HaRa'ah, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Shadal, Rabbi Eliyahu Benamozegh, Rabbi Shlomo Pappenheim]
+updated: 2026-10-05
 ---
 # Old age: zaken / seivah / yashish / yashan / atik / vatik
 
 ## Bottom line
 
-The three age words ascend: *zaken* is **an elder** (sixty); *seivah*, **old
-age** proper (seventy), comes after it (Bedersi); and *yashish*, **the aged**,
-is older still (Radak). For Shadal, though, *zaken* is anyone of honor and
-importance, whatever his age, as *senior* and *signore* are. *Yashan* is **old**
-of plants and produce, not of people ("aged," "last year's"). *Atik* is
+As Bedersi and Radak order them, the three age words ascend: *zaken* is **an
+elder** (sixty); *seivah*, **old age** proper (seventy), comes after it
+(Bedersi); and *yashish*, **the aged**, is older still (Radak). Rabbi Shlomo
+Pappenheim puts *yashish* before *zaken* and *seivah*, a man long in adulthood
+and on the cusp of old age. For Shadal, though, *zaken* is anyone of honor and importance,
+whatever his age, as *senior* and *signore* are. *Yashan* is **old** of plants
+and produce, not of people ("aged," "last year's"), for Shapira-Frankfurter;
+Pappenheim, who derives it from *shanah*, a year, says it of a person of many
+years. *Atik* is
 **ancient**, old by remoteness in time. Rabbi Reuven Chaim Klein judges Rabbi
 Ernest Klein's explanation of *vatik* the more plausible; on it *vatik* means
 **veteran** or **senior**, one of standing and reliability, and is no age word
@@ -60,11 +64,11 @@ at all.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| זקן | zaken | elder | sixty, before *seivah* (Bedersi); people and animals, not plants (Shapira-Frankfurter); anyone of standing, whatever his age (Shadal) |
+| זקן | zaken | elder | sixty, before *seivah* (Bedersi); people and animals, not plants (Shapira-Frankfurter); the physical form breaking down, in a person or a plant (Pappenheim); anyone of standing, whatever his age (Shadal) |
 | שיבה | seivah | old age | seventy, after *zaken* (Bedersi); *seva yamim*, satisfied with days (Reines) |
-| ישיש | yashish | the aged | beyond *seivah*, from *yesh* (Radak); perhaps ninety (Bedersi) |
+| ישיש | yashish | the aged | beyond *seivah*, from *yesh* (Radak); perhaps ninety (Bedersi); before *zaken* and *seivah*, long an *ish* and nearing old age (Pappenheim) |
 | קשיש | kashish | aged | Aramaic for *yashish*, the Targum's standing rendering; also renders *zaken*; from *kasheh*, hard (Rabbi Yehoshua Steinberg) |
-| ישן | yashan | aged, last year's | old of plants and produce, never of people (Shapira-Frankfurter); so too Chiddushei HaRa'ah and HaKsav VeHaKabbalah |
+| ישן | yashan | aged, last year's | old of plants and produce, never of people (Shapira-Frankfurter); so too Chiddushei HaRa'ah and HaKsav VeHaKabbalah; from *shanah*, a person of many years (Pappenheim) |
 | עתיק | atik | ancient | remote in time, from a root of moving in space; *Atik Yomin*; the source of Latin *antiquus* (Benamozegh) |
 | ותיק | vatik | veteran, senior | veteran, from Arabic *wathuqa*, firm (Rabbi Ernest Klein); dependability, not age |
 
@@ -76,6 +80,23 @@ at all.
 - Shadal (to Bereishis 50:7): anyone in a position of honor and importance,
   whatever his physical age, as Spanish *señor* and Italian *signore*, from Latin
   *senior*, and *senator* carry honor and not old age.
+
+**Where yashish stands.**
+
+- Radak (*Sefer HaShorashim*, from Iyov 15:10): after *seivah*, the last stage
+  of growing old; Bedersi suggests it may be the Mishnah's ninety.
+- Rabbi Shlomo Pappenheim: before *zaken* and *seivah*, a man who has long been
+  in the state of adulthood and is now on the cusp of old age.
+
+**Whether zaken is said of plants, and yashan of people.**
+
+- Rabbi Yehuda Leib Shapira-Frankfurter: *zaken* for people and animals,
+  *yashan* for plants; Iyov 14:8, which calls a plant's root *zaken*, is a
+  borrowed usage. *Chiddushei HaRa'ah* and HaKsav VeHaKabbalah likewise give
+  *zaken* to a person and *yashan* to a thing.
+- Rabbi Shlomo Pappenheim: *zaken* applies to a person, man or woman
+  (Bereishis 18:12-13), or to a plant (Iyov 14:8); and *yashan*, from *shanah*,
+  is a person who has lived through many years.
 
 ## Distinctions
 
@@ -95,6 +116,11 @@ seventy.
 - Rabbi Yehuda Leib Shapira-Frankfurter (*HaRechasim LeVik'ah*): *zaken* belongs
   to people and animals, not to plants; Iyov 14:8, which calls a plant's root
   *zaken*, is a borrowed usage and not the word's primary sense.
+- Rabbi Shlomo Pappenheim traces *zaken* to the two-letter root zayin-kuf, the
+  breaking down of physical things and the discharge of their core components,
+  so that *zaken* is old age marked by the breaking down of one's physical form.
+  He applies it to a person, man or woman (Bereishis 18:12-13), or to a plant
+  (Iyov 14:8), the pasuk Shapira-Frankfurter calls a borrowed usage.
 - The Targumim tend to render *zaken* either *kashish* or *sav*.
 
 ### seivah (שיבה)
@@ -110,6 +136,13 @@ Old age at seventy. Rabbi Eliezer Reines
   Iyov 15:10, so *yashish* marks a more advanced age than *seivah*.
 - Bedersi suggests it may name the Mishnah's next stage, ninety, "bent over."
 - Radak derives it from *yesh*: one who has existed a very long time.
+- Rabbi Shlomo Pappenheim also traces it to yud-shin, *yesh*, "has, is,
+  exists," the root of *ish*, a man, since a mature adult has all he needs to
+  succeed in life and stands at the height of his existence. *Yashish* is a man
+  who has remained in that state of adulthood a long time and is now on the cusp
+  of old age, the *yesh* doubled to stress how long. In line with this he puts
+  *yashish* before *zaken* and *seivah*, where Radak and Bedersi make it the last
+  stage of growing old.
 
 The word appears only four times in Tanach, all in Iyov (12:12, 15:10, 29:8,
 32:6).
@@ -132,12 +165,23 @@ its two usual renderings of *zaken*.
   or their views harden.
 
 ### yashan (ישן)
-Old of plants rather than of persons. Shapira-Frankfurter pairs it against
-*zaken*: *zaken* for people and animals, *yashan* for plants and other flora.
+For Shapira-Frankfurter it is old of plants rather than of persons, and he
+pairs it against *zaken*: *zaken* for people and animals, *yashan* for plants and
+other flora.
 
 *Zaken* is said of a person, *yashan* of a thing (*Chiddushei HaRa'ah* to
 Berachos ch. 9, and *Pekudas HaLeviim* there §11; HaKsav VeHaKabbalah to
 Bereishis 18:11, citing *Rechasim LeBik'ah*).
+
+Rabbi Shlomo Pappenheim says it of a person. He traces *yashan* to the
+two-letter root shin-nun, doubling: *shnayim*, two; *mishneh*, the second in
+command after the king; *shein*, a tooth, since most people grow two sets;
+*hishanos*, repetition (Bereishis 41:32); *sheinah*, sleep, when the mind goes
+back over all its thoughts; *shinui*, change, since what is repeated cannot
+exactly reproduce what came before; and *shanah*, a year, fixed by the sun's
+return to the same spot in the sky. *Yashan* comes from *shanah*: a person who
+may be called *yashan* has lived through many years. He also proposes yud-shin
+for *yashan*, as for *yashish*, but concludes that it comes from shin-nun.
 
 ### atik (עתיק)
 Root ayin-tav-kuf, whose primary sense in Tanach is movement in space: Avraham
@@ -180,8 +224,9 @@ having housed a pagan oracle before it became the center of Christianity.
   "elder ... old age ... the aged."
 - Where זקן and שיבה stand together, render them as an ascent, not as a synonym
   pair; on Bedersi's reading the second is the later stage.
-- *Yashan* of produce is "aged" or "last year's." Never use it of a person;
-  Shapira-Frankfurter's whole point is that people take *zaken*.
+- *Yashan* of produce is "aged" or "last year's." On Shapira-Frankfurter's
+  reading never use it of a person; his whole point is that people take
+  *zaken*. Pappenheim, deriving it from *shanah*, does say it of a person.
 - *Vatik* / *vatikin*: "veteran," "senior," "the punctilious." Writing "the old
   ones" for *vatikin* imports an age the word does not carry.
 - *Atik*: "ancient." Reserve it for remoteness in time; where the root is doing
@@ -197,4 +242,4 @@ Rabbi Reuven Chaim Klein, "[The Old Man and the See](https://articles.ohr.edu/ar
 
 Rabbi Reuven Chaim Klein, "The Old Man and the See," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: *Avos* 5:24 with Rashi and Bartenura; Shmuel I 12:2; Yeshayahu 46:4 and 28:9; Iyov 12:12, 14:8, 15:10, 29:8, 32:6; Bereishis 12:8 and 26:22; Daniel 7:9-22; Bava Metzia 109b; Radak, *Sefer HaShorashim*; Bedersi, *Chosam Tochnis* (עמ' 154-155); *HaRechasim LeVik'ah*; *Maftechos HaDamesek*; *Sefer HeAruch*; Rabbi Ernest Klein's etymological dictionary; *Noam Elimelech*, Chayei Sarah; *Chiddushei HaRa'ah* to Berachos ch. 9; HaKsav VeHaKabbalah to Bereishis 18:11; Rabbi Yehoshua Steinberg; Shadal to Bereishis 50:7; Bereishis 38:17 with Benamozegh.
+Cited in the essay: *Avos* 5:24 with Rashi and Bartenura; Shmuel I 12:2; Yeshayahu 46:4 and 28:9; Iyov 12:12, 14:8, 15:10, 29:8, 32:6; Bereishis 12:8 and 26:22; Daniel 7:9-22; Bava Metzia 109b; Radak, *Sefer HaShorashim*; Bedersi, *Chosam Tochnis* (עמ' 154-155); *HaRechasim LeVik'ah*; *Maftechos HaDamesek*; *Sefer HeAruch*; Rabbi Ernest Klein's etymological dictionary; *Noam Elimelech*, Chayei Sarah; *Chiddushei HaRa'ah* to Berachos ch. 9; HaKsav VeHaKabbalah to Bereishis 18:11; Rabbi Yehoshua Steinberg; Shadal to Bereishis 50:7; Bereishis 38:17 with Benamozegh; Bereishis 18:12-13 and 41:32; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* (שן, זק, יש) and *Yerios Shlomo* (עמ' 160-161).

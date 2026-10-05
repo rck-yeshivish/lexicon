@@ -40,8 +40,9 @@ words:
     distinct: a third Rabbinic term, in Bereishis Rabbah, for balsam with a strong smell, most likely from Greek opobalsamum, flowing fragrant, and so bound up in the end with balsamon
 sources:
   - wiaw:10824 "Ki Sisa: Awesome Balsam" (2023-03-11) https://articles.ohr.edu/articles/ki-sisa-awesome-balsam
-authorities: [Rashi, Radak, Rabbi Yosef Kara, Rabbi Eliezer of Beaugency, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Shmuel David Luzzatto, Zohar, Shoresh Yesha, Rambam, Ramban, Rabbi Saadia Gaon, Rabbi Avraham Maimuni, Rabban Shimon ben Gamliel, Rabbi Yosef Teomim-Frankel, Rabbi Shlomo Pappenheim, Rabbi Binyamin Mussafia, Rabbi Moshe ben Yekutiel of Rome, Rabbi Yosef of Saragossa, Zohar Amar, Marcus Jastrow, Alexander Kohut, Richard C. Steiner, Josephus]
-updated: 2026-09-10
+  - ms:150-awesome-balsam.md "Awesome Balsam"
+authorities: [Rashi, Radak, Rabbi Yosef Kara, Rabbi Eliezer of Beaugency, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Shmuel David Luzzatto, Zohar, Shoresh Yesha, Rambam, Ramban, Rabbi Saadia Gaon, Rabbi Avraham Maimuni, Rabban Shimon ben Gamliel, Rabbi Yosef Teomim-Frankel, Rabbi Shlomo Pappenheim, Rabbi Binyamin Mussafia, Rabbi Moshe ben Yekutiel of Rome, Rabbi Yosef of Saragossa, Zohar Amar, Marcus Jastrow, Alexander Kohut, Richard C. Steiner, Josephus, Daas Mikra]
+updated: 2026-10-05
 ---
 # Balsam: panag / tzari (nataf, ketaf) / bosem / afarsemon
 
@@ -117,9 +118,7 @@ in Yechezkel meaning balsam oil.
 *Tzari* (also *tzori* at Yechezkel 27:17, *tzri* at Bereishis 37:25) appears six
 times in Tanach: Bereishis 37:25 and
 43:11, Yirmiyahu 8:22, 46:11 and 51:8, Yechezkel 27:17. Some sort of scented
-potion used medicinally. Rabbi Klein adds that it is also possible that the name Tzeruyah,
-borne by David's sister, and the name Tzri (Divrei HaYamim I 25:3) derive from
-*tzari*. It heads the *ketores* list at *Kerisus* 6a and *Yerushalmi Yoma*
+potion used medicinally. *Daas Mikra* (to Divrei HaYamim I 1:32, among the names it relates to incense at the pasuk of Keturah) suggests that it is also possible that the name Tzeruyah, borne by David's sister, and the name Tzri (Divrei HaYamim I 25:3) derive from *tzari*. Rabbi Klein notes that the basic sense of צ-ר is a tight bundle of things. From it comes *tzarah*, distress, so called because one feels he has no options and cannot move this way or that, as though bound in place; from it too comes *tzir*, the pangs of childbirth; and from there *tzari*, a potion meant to soothe the pangs of *tzir*. It heads the *ketores* list at *Kerisus* 6a and *Yerushalmi Yoma*
 4:5 and so entered the liturgy. Rambam (*Hilchos Klei HaMikdash* 2:4) renders it
 in Arabic *al-balasan*, balsam. Its name in the incense passage is *nataf*
 (Shemos 30:34), "the one that drips," which suits balsam, whose so-called oil is
@@ -257,4 +256,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Ki Sisa: Awesome Balsam](https://articles.ohr.edu/articles/ki-sisa-awesome-balsam)," *What's in a Word?*, Ohr Somayach, 11 March 2023.
 
-Cited in the essay: Yechezkel 27:17; *Yossiphon* I ch. 38; Rashi to Yechezkel 27:17, Melachim II 20:13, Yeshayahu 39:2, *Berachos* 43a, Amos 6:6, Mishlei 27:9; Radak to Yechezkel 27:17 and *Sefer HaShorashim*; Zohar, *Bereishis* 47b, 235b, 245b-246b; Bereishis 37:25 and 43:11 with Targum Onkelos, Yirmiyahu 8:22, 46:11, 51:8; *Kerisus* 6a and *Yerushalmi Yoma* 4:5; Rambam, *Hilchos Klei HaMikdash* 2:4 and his commentary to *Sheviis* 7:6; Shemos 25:6 and 30:34 with Rashi, Ramban, Rabbi Saadia Gaon and Rabbi Avraham Maimuni; Shemos 30:22-33; *Bereishis Rabbah* 91:11, 39:1, 27:3, 30:8, 61:2; *Vayikra Rabbah* 16:1; *Eichah Rabbah* 4:18; *Megillah* 7b; *Horayos* 11b-12a, *Kerisus* 5b, *Yerushalmi Shekalim* 6:1 and *Sotah* 8:3; *Shabbos* 26a, 62b, 140a; *Yoma* 9b; *Avodah Zarah* 30a and *Yerushalmi Avodah Zarah* 3:1; *Taanis* 25a; *Bava Basra* 80b and *Rosh HaShanah* 23a; Divrei HaYamim I 25:3; Amos 7:14; Bereishis 26:34, 36:3; Melachim I 4:15; Divrei HaYamim I 7:2; Dr. Zohar Amar, *Tzimchei HaMikra*; Josephus, *Antiquities of the Jews* IV ch. 6 and XIV ch. 4 and *War of the Jews* I ch. 6 and ch. 18; Marcus Jastrow; Dr. Richard C. Steiner; Rabbi Binyamin Mussafia, *Mussaf HeAruch*; Dr. Alexander Kohut, *Aruch HaShalem*; the *Oxford English Dictionary*.
+Rabbi Reuven Chaim Klein, "Awesome Balsam," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Yechezkel 27:17; *Yossiphon* I ch. 38; Rashi to Yechezkel 27:17, Melachim II 20:13, Yeshayahu 39:2, *Berachos* 43a, Amos 6:6, Mishlei 27:9; Radak to Yechezkel 27:17 and *Sefer HaShorashim*; Zohar, *Bereishis* 47b, 235b, 245b-246b; Bereishis 37:25 and 43:11 with Targum Onkelos, Yirmiyahu 8:22, 46:11, 51:8; *Kerisus* 6a and *Yerushalmi Yoma* 4:5; Rambam, *Hilchos Klei HaMikdash* 2:4 and his commentary to *Sheviis* 7:6; Shemos 25:6 and 30:34 with Rashi, Ramban, Rabbi Saadia Gaon and Rabbi Avraham Maimuni; Shemos 30:22-33; *Bereishis Rabbah* 91:11, 39:1, 27:3, 30:8, 61:2; *Vayikra Rabbah* 16:1; *Eichah Rabbah* 4:18; *Megillah* 7b; *Horayos* 11b-12a, *Kerisus* 5b, *Yerushalmi Shekalim* 6:1 and *Sotah* 8:3; *Shabbos* 26a, 62b, 140a; *Yoma* 9b; *Avodah Zarah* 30a and *Yerushalmi Avodah Zarah* 3:1; *Taanis* 25a; *Bava Basra* 80b and *Rosh HaShanah* 23a; Divrei HaYamim I 25:3; Amos 7:14; Bereishis 26:34, 36:3; Melachim I 4:15; Divrei HaYamim I 7:2; Dr. Zohar Amar, *Tzimchei HaMikra*; Josephus, *Antiquities of the Jews* IV ch. 6 and XIV ch. 4 and *War of the Jews* I ch. 6 and ch. 18; Marcus Jastrow; Dr. Richard C. Steiner; Rabbi Binyamin Mussafia, *Mussaf HeAruch*; Dr. Alexander Kohut, *Aruch HaShalem*; the *Oxford English Dictionary*; *Daas Mikra* to Divrei HaYamim I 1:32.

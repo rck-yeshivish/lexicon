@@ -30,7 +30,7 @@ sources:
   - wiaw:8724 "Where's The Gold?" (2020-05-30) https://articles.ohr.edu/articles/wheres-the-gold
   - ms:278-wheres-the-gold.md "Where’s the Gold?"
 authorities: [Radak, Ibn Janach, Ibn Ezra, Rashi, Menachem Ibn Saruk, Donash Ibn Labrat, Ramban, Ralbag, Rabbi Yeshayah of Trani, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Moshe David Valle, Rabbi Moshe Ibn Ezra, Peirush HaRokeach, Rabbi Todros Abulafia, Rabbi Binyamin HaRofeh Anav, Maharal, Rabbi Eliezer Papo, Rabbi Pinchas Eliyahu Horowitz, Rabbi Yosef Chaim of Baghdad, Dr. Chaim Tawil, William Foxwell Albright, Dr. Shmuel Yeivin, Yanai, Rabbi Pinchas HaKohen, Rabbi Yaakov Yisrael Stahl, Midrash Tanchuma, Talmud Yerushalmi, Bamidbar Rabbah]
-updated: 2026-09-24
+updated: 2026-10-05
 ---
 # Gold: zahav / paz / kesem / charutz (betzer)
 
@@ -198,7 +198,7 @@ The *Midrash Aggadah* (ed. Buber, Bamidbar 19) says the Golden Calf was made of
 red gold, and so its atonement was a red heifer.
 
 A tradition found in the works of paytanim of Eretz Yisrael in the Byzantine
-period, such as Yanai and Rabbi Pinchas HaKohen, holds that the ornaments of
+period, such as Yanai and Rabbi Pinchas HaKohen, as Rabbi Yaakov Yisrael Stahl brings it (*Segulah* 24, Chanukah 5782), holds that the ornaments of
 the Menorah in the Mikdash miraculously gave off the appearance of coming from
 different kinds of gold of different colors: the *gevi'im* were made of green
 gold (*charutz*), the *kaftorim* of red gold (possibly *parvayim*), and the
@@ -235,4 +235,4 @@ Rabbi Reuven Chaim Klein, "[Where's The Gold?](https://articles.ohr.edu/articles
 
 Rabbi Reuven Chaim Klein, "Where’s the Gold?," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Bereishis 2:11-12 with Ramban, 10:29, 49:23-24 with Rav Hirsch; Melachim I 6 and 7, 9:28, 10:11, 10:16-18, 22:49; Divrei HaYamim I 1:23, 29:4; Divrei HaYamim II 3:6, 4, 9:10, 9:15-16; Yeshayahu 13:12; Yirmiyahu 2:22, 10:9, 51:7; Zecharyah 4:12; Tehillim 19:11 with Radak, Ibn Ezra and Rav Hirsch, 45:10, 68:14, 119:72, 119:127; Iyov 22:24-25, 28:16, 31:24, 36:19; Shir HaShirim 5:11 with Ibn Ezra; Shmuel II 6:16; Daniel 10:5; Mishlei 25:11; Yoma 44b-45a and Mishnah Yoma 4:4; Yerushalmi Yoma 4:5; Mishnah Niddah 8:1; *Tosafos* to Nedarim 32a; *Shemos Rabbah* 35:1; *Bamidbar Rabbah* 12:4; *Midrash Tanchuma*, Shemini 8; *Tikkunei Zohar* *Tikkun* 70; Rabbi Pinchas Eliyahu Horowitz, *Sefer HaBris*; Menachem Ibn Saruk; Donash Ibn Labrat; Ibn Janach; Radak; Ralbag; Rashi; Rabbi Yeshayah of Trani; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. פז and כה\כת; Rabbi Aharon Marcus, *Keses HaSofer* (בר' יא:א, עמ' שיט בר' ב:יב עמ' קמט); Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. זהב\חרוץ\פז; Rabbi Moshe David Valle; Rabbi Moshe Ibn Ezra; *Peirush HaRokeach*; Rabbi Todros Abulafia; Rabbi Binyamin HaRofeh Anav; the Maharal; Rabbi Eliezer Papo; Rabbi Yosef Chaim of Baghdad; Dr. Chaim Tawil; William Foxwell Albright; Dr. Shmuel Yeivin; Yanai; Rabbi Pinchas HaKohen; Rabbi Yaakov Yisrael Stahl; the *Oxford English Dictionary*; *Midrash Aggadah* (Buber), Bamidbar 19.
+Cited in the essay: Bereishis 2:11-12 with Ramban, 10:29, 49:23-24 with Rav Hirsch; Melachim I 6 and 7, 9:28, 10:11, 10:16-18, 22:49; Divrei HaYamim I 1:23, 29:4; Divrei HaYamim II 3:6, 4, 9:10, 9:15-16; Yeshayahu 13:12; Yirmiyahu 2:22, 10:9, 51:7; Zecharyah 4:12; Tehillim 19:11 with Radak, Ibn Ezra and Rav Hirsch, 45:10, 68:14, 119:72, 119:127; Iyov 22:24-25, 28:16, 31:24, 36:19; Shir HaShirim 5:11 with Ibn Ezra; Shmuel II 6:16; Daniel 10:5; Mishlei 25:11; Yoma 44b-45a and Mishnah Yoma 4:4; Yerushalmi Yoma 4:5; Mishnah Niddah 8:1; *Tosafos* to Nedarim 32a; *Shemos Rabbah* 35:1; *Bamidbar Rabbah* 12:4; *Midrash Tanchuma*, Shemini 8; *Tikkunei Zohar* *Tikkun* 70; Rabbi Pinchas Eliyahu Horowitz, *Sefer HaBris*; Menachem Ibn Saruk; Donash Ibn Labrat; Ibn Janach; Radak; Ralbag; Rashi; Rabbi Yeshayah of Trani; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. פז and כה\כת; Rabbi Aharon Marcus, *Keses HaSofer* (בר' יא:א, עמ' שיט בר' ב:יב עמ' קמט); Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim* s.v. זהב\חרוץ\פז; Rabbi Moshe David Valle; Rabbi Moshe Ibn Ezra; *Peirush HaRokeach*; Rabbi Todros Abulafia; Rabbi Binyamin HaRofeh Anav; the Maharal; Rabbi Eliezer Papo; Rabbi Yosef Chaim of Baghdad; Dr. Chaim Tawil; William Foxwell Albright; Dr. Shmuel Yeivin; Yanai; Rabbi Pinchas HaKohen; Rabbi Yaakov Yisrael Stahl, *Segulah* 24 (Chanukah 5782); the *Oxford English Dictionary*; *Midrash Aggadah* (Buber), Bamidbar 19.

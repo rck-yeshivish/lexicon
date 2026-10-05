@@ -22,12 +22,12 @@ words:
     tr: gever
     en: strong man
     nk: גֶּבֶר
-    distinct: man as strength, from gevurah, usually the male (Malbim); always male as against female (Ibn Ezra), against which Rabbi Yehuda Leib Edel cites gender-neutral uses; lowest in the Zohar's ranking; the adolescent for Ibn Yachya
+    distinct: man as strength, from gevurah, usually the male (Malbim); always male as against female (Ibn Ezra), against which Rabbi Yehuda Leib Edel cites gender-neutral uses; the adolescent for Ibn Yachya
 sources:
   - wiaw:8444 "Bereishet - Be a Man" (2019-10-26) https://articles.ohr.edu/articles/bereishet-be-a-man
   - ms:006-be-a-man.md "Be a Man"
 authorities: [Zohar, Malbim, Maharal of Prague, Rabbi Shlomo Pappenheim, Rav Hirsch, Vilna Gaon, Radak, Rabbi Shlomo Aharon Wertheimer, Rashi, Rabbi Yaakov Tzvi Mecklenburg, Ibn Ezra, Rabbi Yehuda Leib Edel, Ibn Yachya, Shadal, Rabbi Yitzchak ben Yosef of Pira]
-updated: 2026-09-22
+updated: 2026-10-05
 ---
 # Man: adam / enosh / ish / gever
 
@@ -39,8 +39,9 @@ means "men of standing" (Rashi). *Ish* is one individual, physically mature: **a
 man**, as against a woman or a child. *Gever* is man as strength: **man** in the
 sense of the strong male rather than generic humanity. Whether it is always male
 is disputed: Ibn Ezra holds that it is, and Rabbi Yehuda Leib Edel cites
-gender-neutral uses against him. The Zohar ranks the four: *adam* highest, then
-*enosh*, *ish* and *gever*.
+gender-neutral uses against him. The Zohar (Tazria 48a) counts four names for a
+man, *adam*, *gever*, *enosh* and *ish*, and makes *adam* the greatest; it does
+not rank the other three against one another.
 
 ## At a glance
 
@@ -85,7 +86,7 @@ The all-encompassing word: singular and plural, male and female (Bereishis
   the name *Adam* alludes to the four elements. The aleph is *avir*, air; the
   dalet is *dam*, blood, which boils like fire; the mem is *mayim*, water; and
   the whole word is *adamah*, earth.
-- The Zohar (Tazria 48a): *adam* is man at his highest potential.
+- The Zohar (Tazria 48a): *adam* is man at his highest potential. It names four levels by which a man is called, *adam*, *gever*, *enosh* and *ish*, and calls *adam* the greatest of them, without ranking the other three.
 
 ### enosh (אנוש)
 Usually man in degradation (Yeshayahu 51:12), lost hope (Iyov 14:19), or the
@@ -147,8 +148,7 @@ fire, at the height of his power), *enosh* the elder (strength diminished).
   derashah on why a pasuk says *enosh* rather than *adam*, do not let "man"
   stand for two Hebrew words; gloss the Hebrew in parentheses or vary the
   English (mankind / mortal / a man / strong man).
-- Together, a rising or falling sequence follows the Zohar's order: *adam*
-  highest, then *enosh*, *ish*, *gever*. Render so the rank is visible.
+- Together: the Zohar (Tazria 48a) puts *adam* above the other three and does not rank those three among themselves, so render *adam*'s precedence and no more.
 
 ## Notes for a project
 

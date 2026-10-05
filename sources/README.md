@@ -35,6 +35,18 @@ Every entry in `../entries/` must trace to a file here. Orthodox sources only.
   Shemos 35:7 for 35:4 in *Seeing Red*; Mishnah Pesachim 4:7 for 5:7 in *Welcome to Rooster
   City*), and for *Olives and Oil* asked that the claim that *yitzhar* is never joined to
   *zayis* stand, with Melachim II 18:32 noted as the one exception.
+  On 5 October 2026 he answered a further set. He confirmed Bereishis 49:15 for 49:14 in
+  *Good and Pleasant*, and that ח"ש in his notes is Rav Pappenheim's *Cheshek Shlomo*. He gave
+  the rule that every Midrash Rabbah reference follows the Wagshal/Moznaim numbering (see
+  CLAUDE.md rule 2). He agreed that *kira* is not at Yevamos 76a, and gave Yevamos 120a,
+  which he has added to the document. The Zohar (Tazria 48a) makes *adam* the greatest of the
+  four names and does not rank the other three; the essay's "successively lower" is withdrawn.
+  By "similarly" he means that two authorities draw the same distinction, even where they
+  assign it to the opposite words of the pair. The one-letter root that his note on Rabbi
+  Zundel Kroizer ties to *neis* is his own remark, and Rav Pappenheim parses *neis* otherwise.
+  Tzeruyah from *tzari* is *Daas Mikra*'s, to Divrei HaYamim I 1:32. His note on the root צר
+  is his own, since no one source needs naming. The paytanim's coloured gold reached him
+  through Y. Y. Stahl, *Segulah* 24 (Chanukah 5782).
 - **Split.** `python tools/split_manuscript.py` writes `chapters/`, one essay per file with
   its footnotes, and `chapters.json`. The book's outline carries the shape, and Word stores
   it two ways: a Heading style on some paragraphs, a direct `outlineLvl` on the rest. Reading
@@ -55,9 +67,12 @@ Every entry in `../entries/` must trace to a file here. Orthodox sources only.
   *Sefer HaShorashim*, Rav Pappenheim's *Cheshek Shlomo* on that root, or Rashi or Radak on
   that pasuk. `מהרשא"ו` is Rabbi Shlomo Aharon Wertheimer's *Beiurei Shemos Nirdafim*, and the
   parentheses after it name the entry there that treats those words.
-- **Use:** to correct an error the author has since fixed (a locus, a name, a date); not as
-  a source for claims the published essays do make differently. The one exception the author
-  has since allowed is an essay the published corpus does not hold at all: *My Husband, My
+- **Use:** to correct an error the author has since fixed (a locus, a name, a date), and,
+  since 5 October 2026 with the author's permission, for material the book's text adds that
+  the published essay lacks, written into the entry and attributed as the book attributes it.
+  Where the book's text and the published essay differ without one correcting the other,
+  the entry follows the book. His working notes are a separate matter, governed by the rule
+  below. An earlier exception the author allowed is an essay the published corpus does not hold at all: *My Husband, My
   Man*, *Of Demons and Spirits* and *Output Understood* are entries drawn from the chapter
   alone, and their source line is `ms:<chapter>.md`, with a `jp:` line beside it for the two of the three found published since.
   He has read the husband entry; *Of Demons and Spirits*, *Output Understood* and *Making

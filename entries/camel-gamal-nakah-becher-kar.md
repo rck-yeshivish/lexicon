@@ -2,7 +2,7 @@
 cluster: camel
 hebrew: [גמל, נאקה, בכר, בכרה, כר, כרכרות]
 roots: [ג-מ-ל, נ-ק, ב-כ-ר, כ-ר]
-translit: [gamal, gamalim, gemalim, nakah, naakah, becher, bechor, bichrah, bikhra, bichrei, kar, kirkarot, kirkaros, meinikot, meineket, hugnei, hugna, gamla]
+translit: [gamal, gamalim, gemalim, nakah, naakah, becher, bechor, bichrah, bikhra, bichrei, kar, kirkarot, kirkaros, kirkarah, meinikot, meineket, hugnei, hugna, gamla]
 english: [camel, she-camel, young camel, dromedary, swift camel]
 domain: nature
 words:
@@ -25,12 +25,12 @@ words:
   - he: כרכרות
     tr: kirkaros
     en: swift beasts
-    distinct: a prominent kind of camel (Ibn Ezra), any fast-running animal (Radak), or skipping young calves (Rabbi Yosef Bechor Shor)
+    distinct: a prominent kind of camel (Ibn Ezra), any fast-running animal (Radak), skipping young calves (Rabbi Yosef Bechor Shor), or, as kirkarah, a dromedary (David Clines)
 sources:
   - wiaw:11619 "Vayishlach: Go Camel" (2024-12-14) https://articles.ohr.edu/articles/vayishlach-go-camel
   - ms:053-go-camel.md "Go Camel"
-authorities: [Menachem Ibn Saruk, Rav Hirsch, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yitzchak Avineri, Radak, Rabbi Shlomo Pappenheim, Rashi, Ibn Janach, Rabbi Saadia Gaon, Ibn Ezra, Rabbi Yehudah Ibn Balaam, Rabbi Tanchum HaYerushalmi, Rabbi Shlomo Ibn Parchon, Rabbi Yosef Kimchi, Rabbi Yosef Bechor Shor, Rabbi Nosson of Rome, Mahari Kara, Targum, Rabbi Ernest Klein, Rabbi Aharon Marcus, Avraham Even-Shoshan, Michael Sokoloff, Kli Yakar]
-updated: 2026-09-22
+authorities: [Menachem Ibn Saruk, Rav Hirsch, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yitzchak Avineri, Radak, Rabbi Shlomo Pappenheim, Rashi, Ibn Janach, Rabbi Saadia Gaon, Ibn Ezra, Rabbi Yehudah Ibn Balaam, Rabbi Tanchum HaYerushalmi, Rabbi Shlomo Ibn Parchon, Rabbi Yosef Kimchi, Rabbi Yosef Bechor Shor, Rabbi Nosson of Rome, Mahari Kara, Targum, Rabbi Ernest Klein, Rabbi Aharon Marcus, Avraham Even-Shoshan, Michael Sokoloff, Kli Yakar, David Clines]
+updated: 2026-10-05
 ---
 # Camel: gamal / nakah / becher / kar
 
@@ -53,7 +53,7 @@ than a camel.
 | נאקה | nakah | she-camel | Mishnaic, the grown female (Shabbos 5:1, Keilim 23:2); seemingly tied to nursing, Pappenheim's נ-ק (Rabbi Reuven Chaim Klein) |
 | בכר / בכרה | becher / bichrah | young camel | newborn, load-free, and so impulsive (Rashi to Sanhedrin 52a) |
 | כר | kar | swift camel / saddle-basket | a running camel (Ibn Ezra), a saddle-basket (Ibn Ezra elsewhere), or a lamb (Rabbi Yosef Kimchi); a present (Rashi to *Niddah* 31b) |
-| כרכרות | kirkaros | swift beasts | prominent camels (Ibn Ezra), any fast animal (Radak), or skipping calves (Bechor Shor) |
+| כרכרות | kirkaros | swift beasts | prominent camels (Ibn Ezra), any fast animal (Radak), skipping calves (Bechor Shor), or a dromedary (Clines) |
 
 ## Where the authorities disagree
 
@@ -96,8 +96,10 @@ a young camel.
   swift-running animal.
 - Rabbi Yosef Bechor Shor (to Bamidbar 7:3): young female calves that skip and
   jump as though dancing.
+- David Clines's dictionary of Classical Hebrew defines *kirkarah* as "a
+  dromedary," as Sokoloff defines Targum's *hugna* (below).
 
-All three are live.
+All four are live.
 
 **Why the camel is named from ג-מ-ל.**
 - Menachem Ibn Saruk simply lists three senses of the root, growing, repaying,
@@ -219,8 +221,9 @@ Bava Kamma 80a).
   burdens.
 - *Kar* in Bereishis 31:34 must be the saddle-basket, since Rachel sits on it.
   *Kar* in Yeshayahu 16:1 is disputed; do not silently harmonize the two.
-- Do not press *gamal* into "dromedary" or "Bactrian." Tanach does not mark the
-  distinction. Sokoloff's "dromedary" is a gloss on Targum's Aramaic *hugnei*,
+- Do not press *gamal* into "dromedary" or "Bactrian." *Gamal* does not mark the
+  distinction; Clines's "dromedary" is a gloss on *kirkarah*, not on *gamal*.
+  Sokoloff's "dromedary" is a gloss on Targum's Aramaic *hugnei*,
   not on *gamal*, and even there *hugnei* is a Greek loanword for "of good
   stock"; keep the two apart.
 
@@ -234,4 +237,4 @@ Rabbi Reuven Chaim Klein, "[Vayishlach: Go Camel](https://articles.ohr.edu/artic
 
 Rabbi Reuven Chaim Klein, "Go Camel," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Bereishis 10:2, 12:16, 21:8, 24:17, 31:34, 32:16 with Rashi; Vayikra 11:18; Bamidbar 1:10, 2:20, 7:3, 7:54, 7:59, 10:12, 13:12, 17:23; Shmuel I 1:23, 24:18; Divrei HaYamim I 24:17; Yeshayahu 16:1, 18:5, 28:9, 60:6, 66:20; Yirmiyahu 2:23; Hoshea 1:8; Tehillim 7:5, 13:6, 116:12; Mishlei 31:12; Mishnah Shabbos 5:1, Keilim 23:2, Yoma 3:9, Yevamos 6:4, Shekalim 3:2; Sanhedrin 52a and 107b; Yevamos 108a and 116a; Bava Basra 5b; Kiddushin 70a; Eruvin 100b; Nedarim 20a; Kesubos 22a and 54a; Bava Kamma 80a; Yerushalmi Chagigah 2:1; *Bereishis Rabbah* 76:7; Rabbi Saadia Gaon's Tafsir; *Sefer HeAruch*; *Sifrei HaShorashim* of Ibn Janach and Radak; *Machberes HeAruch*; *HaMadrich HaMaspik*; *Aholei Yehudah*; *Keses HaSofer* to Bereishis 10:2; Even-Shoshan's concordance; Rabbi Ernest Klein; Dr. Michael Sokoloff's dictionary of Jewish Babylonian Aramaic; the Oxford English Dictionary; *Niddah* 31b with Rashi; Kli Yakar to Bereishis 24:14.
+Cited in the essay: Bereishis 10:2, 12:16, 21:8, 24:17, 31:34, 32:16 with Rashi; Vayikra 11:18; Bamidbar 1:10, 2:20, 7:3, 7:54, 7:59, 10:12, 13:12, 17:23; Shmuel I 1:23, 24:18; Divrei HaYamim I 24:17; Yeshayahu 16:1, 18:5, 28:9, 60:6, 66:20; Yirmiyahu 2:23; Hoshea 1:8; Tehillim 7:5, 13:6, 116:12; Mishlei 31:12; Mishnah Shabbos 5:1, Keilim 23:2, Yoma 3:9, Yevamos 6:4, Shekalim 3:2; Sanhedrin 52a and 107b; Yevamos 108a and 116a; Bava Basra 5b; Kiddushin 70a; Eruvin 100b; Nedarim 20a; Kesubos 22a and 54a; Bava Kamma 80a; Yerushalmi Chagigah 2:1; *Bereishis Rabbah* 76:7; Rabbi Saadia Gaon's Tafsir; *Sefer HeAruch*; *Sifrei HaShorashim* of Ibn Janach and Radak; *Machberes HeAruch*; *HaMadrich HaMaspik*; *Aholei Yehudah*; *Keses HaSofer* to Bereishis 10:2; Even-Shoshan's concordance; Rabbi Ernest Klein; Dr. Michael Sokoloff's dictionary of Jewish Babylonian Aramaic; David Clines's dictionary of Classical Hebrew; the Oxford English Dictionary; *Niddah* 31b with Rashi; Kli Yakar to Bereishis 24:14.

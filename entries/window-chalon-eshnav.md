@@ -16,8 +16,9 @@ words:
     distinct: twice in Tanach; a small window (Rabbi Yosef Kara, Meiri), a peephole narrow outside and wide within (Rid), or a latticed one (Menachem Ibn Saruk, Rabbi Moshe David Valle)
 sources:
   - wiaw:9056 "Beshalach: Through the Looking Window" (2021-01-30) https://articles.ohr.edu/articles/beshalach-through-the-looking-window
+  - ms:120-through-the-looking-window.md "Through the Looking Window"
 authorities: [Rabbi Shlomo Pappenheim, Radak, Rabbeinu Yonah Ibn Janach, Rashi, Rabbi Yosef Kara, Meiri, Rabbi Yeshayah of Trani, Rabbi Shaul Goldman, Malbim, Rabbi Shmuel Landiado, Menachem Ibn Saruk, Rabbi Moshe David Valle, Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, Shmuel Yeivin, Rabbi Aharon Marcus, Rabbi Baruch HaLevi Epstein, Rabbi Ernest Klein, Rabbi Elazar Reines, Rabbi Chaim Futernik, Abarbanel, Alshich]
-updated: 2026-09-10
+updated: 2026-10-05
 ---
 # Window: chalon / eshnav
 
@@ -77,7 +78,7 @@ window taken up below:
    the Levant showing a woman looking out from the top half of a window (the
    images were said to depict the Canaanite fertility goddess Ashtoreth), the
    bottom half typically closed with mesh or lattice bars. On his view the
-   Biblical *eshnav* is exclusively a window partly blocked with such blinds.
+   Biblical *eshnav* is specifically a window partly blocked with such blinds.
    Rabbi Reuven Chaim Klein adds that, once the word is tied to ivory images of
    women at windows, one could also consider parsing *eshnav* as a compound of
    "man" (that is, woman) and "tooth" (that is, ivory).
@@ -170,5 +171,7 @@ None yet.
 ## Sources
 
 Rabbi Reuven Chaim Klein, "[Beshalach: Through the Looking Window](https://articles.ohr.edu/articles/beshalach-through-the-looking-window)," *What's in a Word?*, Ohr Somayach, 30 January 2021.
+
+Rabbi Reuven Chaim Klein, "Through the Looking Window," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
 Cited in the essay: Shoftim 5:28 with Rashi, Rabbi Yosef Kara, Malbim, Abarbanel, Alshich and *Kli Yakar*; Mishlei 7:6 with the Meiri and Malbim; Bereishis 26:8 with *Tzror HaMor*; *Zohar* Toldos 140b; *Sefer HaIkkarim* 4:43; Radak and Ibn Janach, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Menachem Ibn Saruk; Rabbi Yeshayah of Trani; Rabbi Shaul Goldman; Rabbi Moshe David Valle; Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, *Hoil Moshe*; Shmuel Yeivin, *Leshonenu* (1959); Rabbi Aharon Marcus; Rabbi Baruch HaLevi Epstein; Rabbi Ernest Klein; Malbim, *Yair Ohr*; Rabbi Chaim Futernik; Rabbi Elazar Reines, *Shorashei Leshon HaKodesh* and *Mishlei Shlomo*.

@@ -124,8 +124,7 @@ olive oil is ideal (Rema to Orach Chaim 673:1).
 
 ### kira (קירא)
 Shabbos 20b glosses the Mishnah's *shaavah* with the seemingly Aramaic
-*keirosa*, and the Gemara uses *kira* (Bava Metzia 40a, Berachos 56b, Shabbos
-110b, 133b) and *kiri* (Pesachim 8a, Yevamos 76a). These are not Aramaic but
+*keirosa*, and the Gemara uses *kira* (Bava Metzia 40a, Berachos 56b, Shabbos 110b, 133b, Yevamos 120a) and *kiri* (Pesachim 8a). These are not Aramaic but
 loan-words from Latin *cera* and/or Greek *keros*.
 
 ### nechot (נכאת)
@@ -161,4 +160,4 @@ Rabbi Reuven Chaim Klein, "[Pick your Wax - Chanukah](https://articles.ohr.edu/a
 
 Rabbi Reuven Chaim Klein, "Pick your Wax," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Bereishis 37:25, 43:11 with Bereishis Rabbah 91:11, Targum Yonasan, Targum Neofiti and Onkelos; Rashi to Bereishis 37:25; Bereishis 38:2 with Bereishis Rabbah 85:4; Rav Hirsch to Shemos 29:20; Ramban to Shemos 30:34; Yechezkel 31:8; Michah 1:4; Tehillim 22:15, 68:3, 97:5; Mishnah Shabbos 2:1, 8:4, 22:3 and Keilim 10:2, 17:17, 24:7; Shabbos 20b, 110b, 133b; Kiddushin 70a; Bava Metzia 40a; Berachos 56b; Pesachim 8a; Yevamos 76a; Chullin 111b; Rema to Orach Chaim 673:1; Rabbi Yehoshua Steinberg, *Shorashei Leshon HaKodesh* (Warsaw 1897); Avraham Even-Shoshan's dictionary; Rabbi Dr. Ernest Klein, citing Heinrich Leberecht Fleischer; Rabbi Eliyahu HaBachur, *Meturgeman*; Rabbi Matisyahu Strashun; Ibn Janach; Professor Zohar Amar; Rabbi Avraham Vilner; Rabbi Yosef Teomim-Frankel, *Iggros Pri Megadim*.
+Cited in the essay: Bereishis 37:25, 43:11 with Bereishis Rabbah 91:11, Targum Yonasan, Targum Neofiti and Onkelos; Rashi to Bereishis 37:25; Bereishis 38:2 with Bereishis Rabbah 85:4; Rav Hirsch to Shemos 29:20; Ramban to Shemos 30:34; Yechezkel 31:8; Michah 1:4; Tehillim 22:15, 68:3, 97:5; Mishnah Shabbos 2:1, 8:4, 22:3 and Keilim 10:2, 17:17, 24:7; Shabbos 20b, 110b, 133b; Kiddushin 70a; Bava Metzia 40a; Berachos 56b; Pesachim 8a; Yevamos 120a; Chullin 111b; Rema to Orach Chaim 673:1; Rabbi Yehoshua Steinberg, *Shorashei Leshon HaKodesh* (Warsaw 1897); Avraham Even-Shoshan's dictionary; Rabbi Dr. Ernest Klein, citing Heinrich Leberecht Fleischer; Rabbi Eliyahu HaBachur, *Meturgeman*; Rabbi Matisyahu Strashun; Ibn Janach; Professor Zohar Amar; Rabbi Avraham Vilner; Rabbi Yosef Teomim-Frankel, *Iggros Pri Megadim*.

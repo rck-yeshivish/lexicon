@@ -10,19 +10,20 @@ words:
     tr: chil
     en: fear, trembling
     nk: חִיל
-    distinct: the commonest of the three in Biblical Hebrew, fear and the bodily tremors it produces, often of labor pangs; the fear of one's place in a changing order (Rav Hirsch); the whole body cramping or spasming at something frightening (Rabbi Shlomo Pappenheim)
+    distinct: the commonest of the three in Biblical Hebrew, fear and the bodily tremors it produces, often of labor pangs; the fear of one's place in a changing order (Rav Hirsch); the whole body cramping or spasming at something frightening (Rabbi Shlomo Pappenheim); quivering or shuddering in fear with an element of physical pain, like a mother's birth pangs (Shadal)
   - he: דחיל
     tr: dachil
     en: fearsome, dread
-    distinct: the Aramaic word, Targum's usual rendering of yirah, nora and pachad; either simply the Aramaic of chil, or, in light of Rav Hirsch, the general term for all fear against chil's specific one (Rabbi Klein)
+    distinct: the Aramaic word, Targum's usual rendering of yirah, nora and pachad; either simply the Aramaic of chil, or the general term for all fear against chil's specific one, Rav Hirsch's or Shadal's (Rabbi Klein)
   - he: זחל
     tr: zachal
     en: crawling, fear
     distinct: two discrete senses, fear and crawling (Menachem Ibn Saruk); at Devarim 32:24 crawling snakes (Rashi) or the fear they cause (Ibn Ezra); in the fear sense perhaps a Hebraicized dachil (Metzudas Tzion); Elihu's zachalti also read as delay (Rabbi Yosef Kara)
 sources:
   - wiaw:11544 "Nitzavim-Vayelech: Shake & Quake (Pt. 1/3)" (2024-09-21) https://articles.ohr.edu/articles/nitzavim-vayelech-shake-quake-pt-13
-authorities: [Rav Hirsch, Rabbi Shlomo Pappenheim, Targum Onkelos, Targum Yonasan, Rabbi Eliyahu HaBachur, Menachem Ibn Saruk, Rashi, Ibn Ezra, Ibn Janach, Rabbi Yosef Kara, Sforno, Metzudas Tzion, Rabbi David Golumb, Rabbi Asher Weiser, Toras Chaim, Rabbi Shaul Goldman, Dr. Tzvi Langermann]
-updated: 2026-09-10
+  - ms:336-shake-quake.md "Shake & Quake"
+authorities: [Rav Hirsch, Rabbi Shlomo Pappenheim, Targum Onkelos, Targum Yonasan, Rabbi Eliyahu HaBachur, Menachem Ibn Saruk, Rashi, Ibn Ezra, Ibn Janach, Rabbi Yosef Kara, Sforno, Metzudas Tzion, Rabbi David Golumb, Rabbi Asher Weiser, Toras Chaim, Rabbi Shaul Goldman, Dr. Tzvi Langermann, Shadal]
+updated: 2026-10-05
 ---
 # Trembling: chil / dachil / zachal
 
@@ -32,21 +33,22 @@ updated: 2026-09-10
 **trembling** that fear produces, the word Tanach often uses of a woman's labor
 pangs. For Rav Hirsch it is a specific fear, of what one's place will be in a
 changing order; for Rabbi Shlomo Pappenheim it is the whole body spasming at
-something frightening. *Dachil* is the Aramaic word, **fearsome, dread**, which
-Targum typically uses for *yirah*, *nora* and *pachad*. Rabbi Klein gives two
-possibilities: *chil* and *dachil* may simply be the Hebrew and the Aramaic
-words for the same thing, or, in light of Rav Hirsch, *chil* seems to be the
-specific fear and *dachil* the more general one. *Zachal* carries two senses in
-Tanach, **crawling** and **fear**, and the fear sense may well be the Aramaic
-*dachil* Hebraicized, since Aramaic dalet answers to Hebrew zayin (*Metzudas
-Tzion*, repeated by Rabbi David Golumb and Rabbi Asher Weiser). The piyut
-*Yarasi Befitzchi Si* sets all three in rhyme.
+something frightening; for Shadal it is quivering or shuddering in fear with an
+element of physical pain, like a mother's birth pangs. *Dachil* is the Aramaic
+word, **fearsome, dread**, which Targum typically uses for *yirah*, *nora* and
+*pachad*. Rabbi Klein gives two possibilities: *chil* and *dachil* may simply be
+the Hebrew and the Aramaic words for the same thing, or *chil* seems to be the
+specific fear, Rav Hirsch's or Shadal's, and *dachil* the more general one.
+*Zachal* carries two senses in Tanach, **crawling** and **fear**, and the fear
+sense may well be the Aramaic *dachil* Hebraicized, since Aramaic dalet answers
+to Hebrew zayin (*Metzudas Tzion*, repeated by Rabbi David Golumb and Rabbi
+Asher Weiser). The piyut *Yarasi Befitzchi Si* sets all three in rhyme.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| חיל | chil | fear, trembling | fear of one's place in a new order (Rav Hirsch); whole-body spasm (Pappenheim) |
+| חיל | chil | fear, trembling | fear of one's place in a new order (Rav Hirsch); whole-body spasm (Pappenheim); shuddering with physical pain, like birth pangs (Shadal) |
 | דחיל | dachil | fearsome, dread | Aramaic; Targum's word for *yirah*, *nora*, *pachad*; the more general fear (Rabbi Klein) |
 | זחל | zachal | crawling, fear | crawling (Rashi) or fear (Ibn Ezra); perhaps a Hebraicized *dachil* (Metzudas Tzion) |
 
@@ -79,6 +81,10 @@ this, Rabbi Shlomo Pappenheim traces *chil* to the biliteral ח-ל, "all-around
 movement," to which he traces over thirty terms, and explains *chil* as the
 cramping or spasming of the entire body in reaction to something frightening.
 
+Shadal (to Shemos 15:14) similarly gives *chil* a specific connotation:
+quivering or shuddering in fear with an element of physical pain, like a
+mother's birth pangs.
+
 ### dachil (דחיל)
 Root ד-ח-ל, absent from Biblical Hebrew but six times in the Aramaic parts of
 Daniel (2:31, 4:2, 5:19, 6:27, 7:7, 7:19), most famously the fourth beast,
@@ -91,11 +97,11 @@ On *chil* against *dachil* Rabbi Klein offers two readings.
 
 - It is quite possible that they differ simply as native Hebrew from Aramaic,
   technically meaning the same thing.
-- That said, in light of Rav Hirsch, it seems that *chil* is a specific fear,
-  that of one contemplating his place in a new paradigm, and *dachil* a more
-  general term for all sorts of fear, hence Targum's use of it for a whole slew
-  of fear-words. The second reading is his inference from Rav Hirsch's comment
-  on *chil*.
+- That said, it seems that *chil* is a specific fear, that of one
+  contemplating his place in a new paradigm (Rav Hirsch) or fear accompanied by
+  physical pain (Shadal), and *dachil* a more general term for all sorts of
+  fear, hence Targum's use of it for a whole slew of fear-words. The second
+  reading is his inference from Rav Hirsch's and Shadal's comments on *chil*.
 - Rabbi Klein adds a speculation of his own, noting that he has seen no source
   for it: the only consonantal difference between *chil* and *dachil* is the
   initial dalet, so perhaps the two are etymologically related and the latter
@@ -158,7 +164,7 @@ in Tanach. In *Haazinu*: "the rage of those who are *zochel* on the dirt"
   apt, since Saturn's motion in longitude is the slowest of the seven planets.
 - A further Rabbinic sense: when Rabbi Oshaya's face lit up in excitement, the
   Yerushalmi (*Sanhedrin* 11:4) says his face was *zachlin*, and the Midrash uses
-  *zachalin* of Bar Pedaya (*Koheles Rabbah* 8:1). Rabbi Klein suggests that
+  *zachalin* of Bar Pedaya (*Koheles Rabbah* 8:4). Rabbi Klein suggests that
   since Saturn appears in the sky as an illuminated body, perhaps its Arabic name
   is related to this sense of light.
 
@@ -190,4 +196,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Nitzavim-Vayelech: Shake & Quake (Pt. 1/3)](https://articles.ohr.edu/articles/nitzavim-vayelech-shake-quake-pt-13)," *What's in a Word?*, Ohr Somayach, 21 September 2024.
 
-Cited in the essay: Shemos 15:14 (with Rav Hirsch), 20:20 (Onkelos); Bamidbar 21:35 (Targum Yonasan); Devarim 2:25 (Onkelos), 32:24 (Rashi, Ibn Ezra, Rav Hirsch); Yeshayahu 21:3; Yirmiyahu 6:24, 22:23, 50:43; Yechezkel 30:4, 30:9; Michah 4:9, 7:17; Tehillim 48:7; Iyov 32:6 (Rashi, Ibn Ezra, *Metzudas Tzion*, Rabbi Yosef Kara, Sforno); Esther 4:4; Daniel 2:31, 4:2, 5:19, 6:27, 7:7, 7:19; Megillah 15a; Bava Basra 27b with *Toras Chaim*; Yerushalmi *Sanhedrin* 11:4; *Esther Rabbah* 7:14 and 8:3; *Koheles Rabbah* 8:1; *Tosefta Chullin* 3:25; *Eruvin* 10:6, *Bava Basra* 2:5 and 3:6, *Eduyos* 7:3 to 4, *Mikvaos* 1:8, 5:4, 5:5, *Parah* 8:8; Rabbi Shlomo Pappenheim; Rabbi Eliyahu HaBachur, *Meturgeman*; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach, *Sefer HaShorashim*; Rabbi David Golumb; Rabbi Asher Weiser; Rabbi Yekusiel bar Moshe, *Yarasi Befitzchi Si*; Rabbi Shaul Goldman and Dr. Tzvi Langermann (communications to the author).
+Rabbi Reuven Chaim Klein, "Shake & Quake," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 15:14 (with Rav Hirsch and Shadal), 20:20 (Onkelos); Bamidbar 21:35 (Targum Yonasan); Devarim 2:25 (Onkelos), 32:24 (Rashi, Ibn Ezra, Rav Hirsch); Yeshayahu 21:3; Yirmiyahu 6:24, 22:23, 50:43; Yechezkel 30:4, 30:9; Michah 4:9, 7:17; Tehillim 48:7; Iyov 32:6 (Rashi, Ibn Ezra, *Metzudas Tzion*, Rabbi Yosef Kara, Sforno); Esther 4:4; Daniel 2:31, 4:2, 5:19, 6:27, 7:7, 7:19; Megillah 15a; Bava Basra 27b with *Toras Chaim*; Yerushalmi *Sanhedrin* 11:4; *Esther Rabbah* 7:14 and 8:3; *Koheles Rabbah* 8:4; *Tosefta Chullin* 3:25; *Eruvin* 10:6, *Bava Basra* 2:5 and 3:6, *Eduyos* 7:3 to 4, *Mikvaos* 1:8, 5:4, 5:5, *Parah* 8:8; Rabbi Shlomo Pappenheim; Rabbi Eliyahu HaBachur, *Meturgeman*; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach, *Sefer HaShorashim*; Rabbi David Golumb; Rabbi Asher Weiser; Rabbi Yekusiel bar Moshe, *Yarasi Befitzchi Si*; Rabbi Shaul Goldman and Dr. Tzvi Langermann (communications to the author).

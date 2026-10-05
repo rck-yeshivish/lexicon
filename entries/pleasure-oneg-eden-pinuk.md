@@ -1,9 +1,9 @@
 ---
 cluster: pleasure
-hebrew: [עדן, עדנה, מעדנים, עדין, עונג, ענג, ענוג, פינוק, תפנוקים]
-roots: [ע-ד-ן, ע-נ-ג, פ-נ-ק]
-translit: [eden, edna, ednah, maadanim, ma'adanim, maadanei melech, adin, adinah, oneg, oneg shabbos, oneg shabbat, anug, pinuk, mefanek, mefunak, tafnukim, tafnukei]
-english: [sensual pleasure, delight of the senses, delicacies, delight, enjoyment, pampering, indulgence]
+hebrew: [עדן, עדנה, מעדנים, עדין, עונג, ענג, ענוג, פינוק, תפנוקים, הנאה]
+roots: [ע-ד-ן, ע-נ-ג, פ-נ-ק, ה-נ-י, א-ו-ה, נ-א-ה, ה-נ]
+translit: [eden, edna, ednah, maadanim, ma'adanim, maadanei melech, adin, adinah, oneg, oneg shabbos, oneg shabbat, anug, pinuk, mefanek, mefunak, tafnukim, tafnukei, hanaah, hana'ah]
+english: [sensual pleasure, delight of the senses, delicacies, delight, enjoyment, pampering, indulgence, pleasure]
 domain: emotion
 words:
   - he: עדן
@@ -22,11 +22,15 @@ words:
     tr: pinuk
     en: pampering, indulgence
     distinct: once in Tanach (Mishlei 29:21); for Pappenheim playfulness and flattery rather than pleasure, though the Targumim use pinuk words to render both oneg and eden
+  - he: הנאה
+    tr: hanaah
+    en: pleasure
+    distinct: the commonest word for pleasure in rabbinic literature, its root disputed; at core to profit, spelled with a hei to keep it apart from onaah, hence the ה-נ-י of Sefer HeAruch (Kohut); perhaps from naveh, desirable or beautiful (Rabbi Yehoshua Steinberg, who then defers to Rabbi Mecklenburg); from ה-נ, what agrees with one's senses and is willed (Rabbi Mecklenburg, and similarly Rabbi Ernest Klein)
 sources:
   - wiaw:8295 "Indulging in Pleasure" (2019-06-22) https://articles.ohr.edu/articles/indulging-in-pleasure
   - ms:312-indulging-in-pleasure.md "Indulging in Pleasure"
-authorities: [Rabbi Shlomo Pappenheim, Targum Onkelos, Radak, Ibn Ezra, Rabbi Yehuda Chalava, Rav Hirsch, Rabbi Yaakov Tzvi Mecklenburg, Sefer HaYashar, Rabbi Nissim of Marseilles]
-updated: 2026-09-22
+authorities: [Rabbi Shlomo Pappenheim, Targum Onkelos, Radak, Ibn Ezra, Rabbi Yehuda Chalava, Rav Hirsch, Rabbi Yaakov Tzvi Mecklenburg, Sefer HaYashar, Rabbi Nissim of Marseilles, Alexander Kohut, Rabbi Nosson of Rome, Rabbi Yehoshua Steinberg, Rabbi Ernest Klein]
+updated: 2026-10-05
 ---
 # Pleasure: eden / oneg / pinuk
 
@@ -42,7 +46,9 @@ though it may come through good food. Rav Hirsch explains *oneg* differently, as
 being surrounded by favorable conditions. *Pinuk* is **pampering, indulgence**.
 Pappenheim takes it as playfulness and flattery rather than pleasure; Rabbi
 Klein observes that this fits its one pasuk but does not account for the
-Targumim, which use *pinuk* words to render both *oneg* and *eden*.
+Targumim, which use *pinuk* words to render both *oneg* and *eden*. *Hanaah* is
+the commonest word for **pleasure** in rabbinic literature, and its root is
+disputed.
 
 ## At a glance
 
@@ -52,6 +58,7 @@ Targumim, which use *pinuk* words to render both *oneg* and *eden*.
 | מעדנים | maadanim | delicacies | delicacies of a king's table, *maadanei melech* |
 | עונג | oneg | delight, enjoyment | delight of the soul, even through the body (Pappenheim); favorable surroundings (Rav Hirsch) |
 | פינוק | pinuk | pampering, indulgence | playfulness and flattery, not pleasure (Pappenheim); Targum's word for *oneg* and *eden* |
+| הנאה | hanaah | pleasure | the commonest rabbinic word for pleasure; root disputed, ה-נ-י (Kohut on *Sefer HeAruch*) or ה-נ, the agreeable (Mecklenburg) |
 
 ## Distinctions
 
@@ -128,6 +135,34 @@ which consistently use *pinuk* words to render *oneg* and *eden*: *anug* becomes
 on looking into it found that *finicky* comes from English *fine* instead. Go
 figure.)
 
+### hanaah (הנאה)
+The commonest word for pleasure in rabbinic literature, in all its
+conjugations. Its etymology and literal meaning are debated, and there is no
+consensus on its root; some even say the word is Greek.
+
+- Alexander Kohut (1842 to 1894) theorizes that its core meaning is to profit.
+  Since it could be confused with *onaah*, in essence profiting by cheating
+  someone, which carries a negative sense, the two were given different
+  spellings: *hanaah* always with a hei, *onaah* with an alef. Kohut uses this
+  to explain why Rabbi Nosson of Rome (1035 to 1106), in *Sefer HeAruch*, seems to
+  take the root of *hanaah* as ה-נ-י.
+- Ibn Ezra (to Shir HaShirim 1:4, as Rabbi Klein gives the reference) and Radak
+  (to Tehillim 33:1) suggest that *naveh* or *neos*, fitting or suitable, is
+  from א-ו-ה, desire (as in *taavah* and *ivah*), so that *naveh* is what is
+  desirable. Radak suggests alternatively that the root of *naveh* is נ-א-ה,
+  beautiful. Rabbi Yehoshua Steinberg of the Veromemanu Foundation suggests
+  that *hanaah* comes from one of these two etymologies, but then defers to
+  Rabbi Mecklenburg.
+- Rabbi Yaakov Tzvi Mecklenburg puts the root of *hanaah* at ה-נ. *Hein* and
+  *hineh*, from that root, do not mean "behold"; they are a transition word
+  joining a cause to its effects, like "because" or "since." As a corollary
+  they also mean agreement or willingness, which tend to be requisites for a
+  cause to bring about an effect. *Hanaah* in the sense of pleasure comes from
+  the same root: what is pleasurable is what one considers agreeable, because
+  it agrees with one's senses, and whose coming about one even wills. Rabbi
+  Dr. Ernest Klein, in *A Comprehensive Etymological Dictionary of the Hebrew
+  Language for Readers of English*, takes a similar approach.
+
 ## Rendering guidance
 
 - עונג שבת: "delight in Shabbos" or "Shabbos delight"; never "Shabbos pleasures" as
@@ -155,4 +190,4 @@ Rabbi Reuven Chaim Klein, "[Indulging in Pleasure](https://articles.ohr.edu/arti
 
 Rabbi Reuven Chaim Klein, "Indulging in Pleasure," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Rabbi Shlomo Pappenheim on ע-ד, ע-נ-ג and פ-נ-ק; Bereishis 18:12 with Targum Onkelos, Radak, Ibn Ezra, and Rabbi Yehuda Chalava; Bereishis 49:20; Tehillim 36:9, 37:4, 37:11; Yirmiyahu 51:34; Eichah 4:5; Yeshayahu 47:8, 58:13, 66:11; Devarim 15:14, 28:54; Iyov 22:26; Shir HaShirim 7:7; Mishlei 29:21; Rav Hirsch on *oneg* and *anak*; Rabbi Yaakov Tzvi Mecklenburg to Devarim 15:14; the Targumim on *anug* and *maadanei melech*; *Mah Yedidus*; *Sefer HaYashar*; Rabbi Nissim of Marseilles, *Maaseh Nissim* p. 271.
+Cited in the essay: Rabbi Shlomo Pappenheim on ע-ד, ע-נ-ג and פ-נ-ק; Bereishis 18:12 with Targum Onkelos, Radak, Ibn Ezra, and Rabbi Yehuda Chalava; Bereishis 49:20; Tehillim 36:9, 37:4, 37:11; Yirmiyahu 51:34; Eichah 4:5; Yeshayahu 47:8, 58:13, 66:11; Devarim 15:14, 28:54; Iyov 22:26; Shir HaShirim 7:7; Mishlei 29:21; Rav Hirsch on *oneg* and *anak*; Rabbi Yaakov Tzvi Mecklenburg to Devarim 15:14, and *HaKsav VeHaKabbalah* to Bereishis 15:3 and 16:2; the Targumim on *anug* and *maadanei melech*; *Mah Yedidus*; *Sefer HaYashar*; Rabbi Nissim of Marseilles, *Maaseh Nissim* p. 271; Alexander Kohut, *Aruch HaShalem* s.v. הני/הנה; Rabbi Nosson of Rome, *Sefer HeAruch*; Ibn Ezra to Shir HaShirim 1:4; Radak to Tehillim 33:1; Rabbi Yehoshua Steinberg; Rabbi Ernest Klein, *A Comprehensive Etymological Dictionary of the Hebrew Language for Readers of English*.

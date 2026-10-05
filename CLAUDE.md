@@ -47,6 +47,13 @@ the protocol for looking a word up.
    most often two digits transposed or one digit out. Search that way before
    giving up: Vayikra 22:17 has no *et* and looked unsalvageable, and the verse
    he meant was 22:14.
+
+   Midrash Rabbah is the exception to checking against another text. Every
+   Midrash Rabbah reference he gives follows the numbering of the
+   Wagshal/Moznaim edition, which differs from Sefaria's and from others, so a
+   Midrash Rabbah locus is never renumbered to match another edition. Four that
+   had been (Koheles Rabbah 8:4, Bereishis Rabbah 12:12, Bamidbar Rabbah 20:21,
+   Eichah Rabbah 2:48) are back as he gives them.
 3. **Disputes stay disputes.** Name each view and its holder. The Bottom line
    says the authorities differ and does not choose between them. Never smooth a
    machlokes into one answer.

@@ -39,7 +39,9 @@ For one entry, with its source article open beside it:
    articles mix Hebrew and English versification, and at least one wrong locus
    was repeated in four places within a single entry, carrying a quotation the
    verse does not contain. Where book names were converted to Hebrew, the
-   numbers were not always converted with them.
+   numbers were not always converted with them. Midrash Rabbah is the
+   exception: Rabbi Klein numbers it by the Wagshal/Moznaim edition, and it is
+   never renumbered against another (see CLAUDE.md rule 2).
    A count the article gives is checked by occurrences, not by pesukim. It
    said *peresh* appears seven times and listed six pesukim, and the count was
    right: Malachi 2:3 has it twice. Counting the loci instead of the words

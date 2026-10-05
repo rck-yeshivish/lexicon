@@ -25,7 +25,7 @@ words:
   - he: פלטין
     tr: paltin
     en: palace
-    distinct: the late Hebrew palace, the cognate of English palace, from Rome's Palatium hill; or, by another derivation, from Latin praetorium, a governor's residence
+    distinct: the late Hebrew palace, the cognate of English palace, from Rome's Palatium hill; or, as Jastrow derives paltrin, from Latin praetorium, a governor's residence
   - he: טרקלין
     tr: traklin
     en: palace
@@ -33,8 +33,8 @@ words:
 sources:
   - wiaw:8941 "Castle in the Sky" (2020-11-28) https://articles.ohr.edu/articles/castle-in-the-sky
   - ms:046-castle-in-the-sky.md "Castle in the Sky"
-authorities: [Rav Hirsch, Radak, Targum, Ibn Janach, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rashi, Ibn Ezra, Rabbi Dovid Tzvi Hoffmann, Rabbi David Chaim Chelouche, Rabbi Ernest Klein, Dr. Chaim Tawil]
-updated: 2026-09-22
+authorities: [Rav Hirsch, Radak, Targum, Ibn Janach, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rashi, Ibn Ezra, Rabbi Dovid Tzvi Hoffmann, Rabbi David Chaim Chelouche, Rabbi Ernest Klein, Dr. Chaim Tawil, Marcus Jastrow]
+updated: 2026-10-05
 ---
 # Palace: zvul / armon / apadna / tirah (paltin)
 
@@ -164,7 +164,7 @@ The late Hebrew word (Sanhedrin 2:3, 10:5), the cognate of the English *palace*.
 English *palace*, *palatium*, in the sense of a vast and luxurious residence
 belonging to an important person, comes ultimately from the proper name
 Palatium, one of the hills of ancient Rome on which the imperial palaces were
-built. A renowned language scholar derives the late Hebrew
+built. Jastrow derives the late Hebrew
 *paltrin* rather from the Latin *praetorium*, the official residence of a Roman
 governor or general, apparently through the interchange of lamed and reish.
 
@@ -213,4 +213,4 @@ Rabbi Reuven Chaim Klein, "[Castle in the Sky](https://articles.ohr.edu/articles
 
 Rabbi Reuven Chaim Klein, "Castle in the Sky," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Bereishis 30:20, 25:16, 31:18, 35:26, 46:15; Melachim I 8:13, 16:18; Melachim II 15:25; Divrei HaYamim II 6:2; Yeshayahu 63:15, 13:22; Chavakuk 3:11; Yechezkel 19:7, 25:4, 46:23; Mishlei 18:19; Eichah 2:5; Michah 5:4; Yirmiyahu 49:27; Daniel 11:45; Shir HaShirim 8:9; Tehillim 69:26; Divrei HaYamim I 6:39; Chagigah 12b; Rashi to Bava Metzia 35a, Bava Basra 6b, Shabbos 77b; Berachos 56a, Kesubos 91b, 50b, Bava Kamma 21a; Mishnah Sanhedrin 2:3, 10:5; Rav Hirsch to Bereishis 30:20; Ibn Ezra to Bereishis 25:16; Bamidbar 31:10; Shoftim 9; Yehoshua 10:13; *Rosh Hashanah* 17a; Rabbi Dovid Tzvi Hoffmann; Rabbi Ernest Klein; Dr. Chaim Tawil; Avos 4:16.
+Cited in the essay: Bereishis 30:20, 25:16, 31:18, 35:26, 46:15; Melachim I 8:13, 16:18; Melachim II 15:25; Divrei HaYamim II 6:2; Yeshayahu 63:15, 13:22; Chavakuk 3:11; Yechezkel 19:7, 25:4, 46:23; Mishlei 18:19; Eichah 2:5; Michah 5:4; Yirmiyahu 49:27; Daniel 11:45; Shir HaShirim 8:9; Tehillim 69:26; Divrei HaYamim I 6:39; Chagigah 12b; Rashi to Bava Metzia 35a, Bava Basra 6b, Shabbos 77b; Berachos 56a, Kesubos 91b, 50b, Bava Kamma 21a; Mishnah Sanhedrin 2:3, 10:5; Rav Hirsch to Bereishis 30:20; Ibn Ezra to Bereishis 25:16; Bamidbar 31:10; Shoftim 9; Yehoshua 10:13; *Rosh Hashanah* 17a; Rabbi Dovid Tzvi Hoffmann; Rabbi Ernest Klein; Dr. Chaim Tawil; Jastrow on *paltrin*; Avos 4:16.

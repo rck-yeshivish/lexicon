@@ -16,8 +16,9 @@ words:
     distinct: almond, as in Arabic (Rabbi Saadia Gaon), and on Rabbi Klein's hedged upshot the Aramaic word for what shaked names in Hebrew; hazel (Rashi, Tosafos); the silverleaf poplar in another version of Rabbi Saadia Gaon; related to the cedar (Menachem Ibn Saruk); never Onkelos's rendering of shaked
 sources:
   - wiaw:9436 "Almonds in the Bible" (2021-11-13) https://articles.ohr.edu/articles/almonds-in-the-bible
+  - ms:048-all-about-almonds.md "All About Almonds"
 authorities: [Rabbi Saadia Gaon, Radak, Ibn Ezra, Menachem Ibn Saruk, Rashi, Tosafos, Ibn Janach, Rabbi Shlomo Pappenheim, Midrash Sechel Tov, Targum Onkelos, Targum Yonasan, Targum Neofiti, Rabbi J. D. Eisenstein, Avraham Even-Shoshan, Gary Rendsburg, Joshua D. Klein, Solomon Löwisohn]
-updated: 2026-09-10
+updated: 2026-10-05
 ---
 # Almond: luz / shaked
 
@@ -155,8 +156,8 @@ Luz in the land of the Hittites (Shoftim 1:23 to 26).
   be said to elude the *malach hamaves*.
 
 The *luz* bone, said to be the kernel from which a person is revived at
-*techiyas hameisim* and nurtured only through *melaveh malkah* (*Mateh Moshe*
-513), belongs to the same word.
+*techiyas hameisim* (*Vayikra Rabbah* 18:1) and nurtured only through *melaveh
+malkah* (*Mateh Moshe* 513), belongs to the same word.
 
 ## Rendering guidance
 
@@ -186,4 +187,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Almonds in the Bible](https://articles.ohr.edu/articles/almonds-in-the-bible)," *What's in a Word?*, Ohr Somayach, 13 November 2021.
 
-Cited in the essay: Bereishis 24:65, 28:19, 30:37 to 38, 37:19, 43:11; Shemos 25:33 to 34, 37:19 to 20; Bamidbar 17:23; Shoftim 1:23 to 26; Yirmiyahu 1:11 to 12 with Rashi; Yechezkel 36:35; Zecharyah 2:8; Koheles 12:5 in Targum; Bechoros 8a with Rashi and Tosafos; Yerushalmi Taanis 4:5; *Bereishis Rabbah* 69:8; Midrash *Sechel Tov*; *Mateh Moshe* 513; Targum Onkelos, Targum Yonasan and Targum Neofiti to Bereishis 43:11 and Bamidbar 17:23; Radak and Ibn Ezra to Bereishis 30:37, citing Rabbi Saadia Gaon; *Machberes Menachem*; Even-Shoshan's dictionary; Dr. Gary Rendsburg; Dr. Joshua D. Klein; Solomon Löwisohn.
+Rabbi Reuven Chaim Klein, "All About Almonds," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 24:65, 28:19, 30:37 to 38, 37:19, 43:11; Shemos 25:33 to 34, 37:19 to 20; Bamidbar 17:23; Shoftim 1:23 to 26; Yirmiyahu 1:11 to 12 with Rashi; Yechezkel 36:35; Zecharyah 2:8; Koheles 12:5 in Targum; Bechoros 8a with Rashi and Tosafos; Yerushalmi Taanis 4:5; *Bereishis Rabbah* 69:8; Midrash *Sechel Tov*; *Vayikra Rabbah* 18:1; *Mateh Moshe* 513; Targum Onkelos, Targum Yonasan and Targum Neofiti to Bereishis 43:11 and Bamidbar 17:23; Radak and Ibn Ezra to Bereishis 30:37, citing Rabbi Saadia Gaon; *Machberes Menachem*; Even-Shoshan's dictionary; Dr. Gary Rendsburg; Dr. Joshua D. Klein; Solomon Löwisohn.

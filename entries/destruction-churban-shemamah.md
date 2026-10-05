@@ -18,14 +18,15 @@ words:
   - he: שממה
     tr: shemamah
     en: desolation
-    distinct: the utter desolation of a land, more severe than churban (Malbim); destruction that shows, so whoever sees it stands dumbfounded (Mecklenburg), joining the root's two senses of ruin and astonishment (Radak)
+    distinct: the utter desolation of a land, more severe than churban (Malbim); destruction that shows, so whoever sees it stands dumbfounded (Mecklenburg), joining the root's two senses of ruin and astonishment (Radak); a portmanteau of shem, name, and mah, what, said of a thing that has lost the shape and form its name held together (Rabbi Moshe Shapiro)
   - he: שם
     nk: שָׁם
 sources:
   - wiaw:7366 "Words of Destruction" (2017-07-29) https://articles.ohr.edu/articles/words-of-destruction
   - wiaw:9775 "On Dry Land" (2022-07-09) https://articles.ohr.edu/articles/on-dry-land
-authorities: [Malbim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Radak, Ibn Ezra, Rabbi Chaim of Volozhin, Shoresh Yesha]
-updated: 2026-09-10
+  - ms:298-words-of-destruction.md "Words of Destruction"
+authorities: [Malbim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Radak, Ibn Ezra, Rabbi Chaim of Volozhin, Shoresh Yesha, Rabbi Moshe Shapiro]
+updated: 2026-10-05
 ---
 # Destruction: churban / shemamah
 
@@ -44,7 +45,7 @@ sanctuaries waste (*vahashimosi*)."
 |---|---|---|---|
 | חורבן | churban | destruction | milder, of a city (Malbim); cut off from its lifeline, perhaps intact (Pappenheim) |
 | חרבה | charbah | ruin | a waste; land barren because cut off from rain (Pappenheim) |
-| שממה | shemamah | desolation | the severer word (Malbim); visible ruin that leaves the onlooker dumbfounded (Mecklenburg) |
+| שממה | shemamah | desolation | the severer word (Malbim); visible ruin that leaves the onlooker dumbfounded (Mecklenburg); *shem* plus *mah*, a thing whose name is now "what?" (Rabbi Moshe Shapiro) |
 
 ## Distinctions
 
@@ -60,6 +61,9 @@ Root ח-ר-ב.
   looking destroyed. On the same logic an arid land is a *charbah*, its
   barrenness owing not to a defect in the soil but to its being cut off from
   rain.
+- Rabbi Moshe Shapiro (1935 to 2017): *cherev*, a sword, is spelled with the
+  same letters as *charev*, to destroy, because just as a sword disconnects
+  things otherwise connected, so destruction causes such a disconnection.
 - *Shoresh Yesha* takes the core of ח-ר-ב as destruction, the opposite of
   something living and thriving, which accounts for the root's other senses:
   *cherev*, the sword, is the implement that brings destruction about, and
@@ -72,6 +76,11 @@ Root ש-מ-ם.
 
 - Malbim: the general term for the utter desolation of a land, and more severe
   than *churban*.
+- Rabbi Moshe Shapiro: *shemamah* is a portmanteau of *shem*, name, and *mah*,
+  what. A thing's name stands for its shape and form, which hold the matter it
+  is made of together as one whole, and the name gives it meaning. What is
+  destroyed loses its shape and form and is left an incoherent assemblage of
+  matter, of which one might exclaim that its name is "what?"
 - Rabbi Yaakov Tzvi Mecklenburg (1785 to 1865): *shemamah* is specifically
   destruction that shows, so a land or building physically wrecked is *shamem*,
   because whoever sees it registers the ruin at once. Radak (*Sefer
@@ -130,4 +139,6 @@ Rabbi Reuven Chaim Klein, "[Words of Destruction](https://articles.ohr.edu/artic
 
 Rabbi Reuven Chaim Klein, "[On Dry Land](https://articles.ohr.edu/articles/on-dry-land)," *What's in a Word?*, Ohr Somayach, 9 July 2022.
 
-Cited in the essay: Vayikra 26:31; Tehillim 137:1; Radak, *Sefer HaShorashim* s.v. שמם; Ibn Ezra on *shahm* as desolation; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Rabbi Chaim of Volozhin, *Nefesh HaChaim* 1:4; *Shoresh Yesha*.
+Rabbi Reuven Chaim Klein, "Words of Destruction," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Vayikra 26:31; Tehillim 137:1; Radak, *Sefer HaShorashim* s.v. שמם; Ibn Ezra on *shahm* as desolation; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Rabbi Chaim of Volozhin, *Nefesh HaChaim* 1:4; *Shoresh Yesha*; Rabbi Moshe Shapiro.
