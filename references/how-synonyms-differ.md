@@ -72,25 +72,22 @@ win." *Pen* means the speaker rejects it and hopes it will not happen: "I'll buy
 insurance, because maybe I'll get sick." See [ulai and
 pen](entries/maybe-ulai-pen.html).
 
-**7. Two languages.** In most places Tanach calls a tree *eitz*, but sometimes
-it says *ilan*. Look closely and all six times are in the Aramaic part of Daniel
-(4:7 to 4:23). *Ilan* is Aramaic, not Hebrew, so the two are not truly
-synonyms, even though they mean the same thing. After Tanach, Aramaic's pull on
-Hebrew was strong enough that *ilan* became the usual word for tree in the
-Hebrew of *Chazal*, and *eitz* came to mean wood. Hebrew also borrows a word
-from another language now and then, often a Semitic one, to make a point or for
-poetic effect, and such a word may mean exactly what the Hebrew word does. See
-[eitz and ilan](entries/tree-eitz-ilan.html).
+**7. Words from another language.** Two words can mean exactly the same thing
+and still not be true synonyms, because they come from different languages. In
+most places Tanach calls a tree *eitz*, but sometimes it says *ilan*. Look
+closely and all six times are in the Aramaic part of Daniel (4:7 to 4:23):
+*ilan* is Aramaic, not Hebrew. After Tanach, Aramaic's pull on Hebrew was strong
+enough that *ilan* became the usual word for tree in the Hebrew of *Chazal*, and
+*eitz* came to mean wood. Hebrew sometimes borrows a word to make a point or for
+poetic effect, often from another Semitic language, and later Hebrew writing
+borrows from Greek, Latin, German and even English. Either way, the borrowed
+word can stand beside a native one as if the two were synonyms, but their
+different origins show they are not quite the same. See [eitz and
+ilan](entries/tree-eitz-ilan.html).
 
-**8. Borrowed words.** Later Hebrew writing borrows from Greek, Latin, German
-and even English. Such a word can stand beside a native Hebrew one as if the
-two were synonyms, but their different origins show they are not quite the
-same.
-
-**One more: an old word replaced.** Sometimes history simply replaces one word
-with another that means the same thing, and the older word may still turn up
-now and then beside the newer one. Here the two words do mean the same; one is
-just older.
+**8. An old word replaced.** Sometimes, over time, a word falls out of use and
+another that means the same thing takes its place. The older word may still
+turn up on rare occasions, alongside the newer one.
 
 ## The rabbis who wrote on synonyms
 

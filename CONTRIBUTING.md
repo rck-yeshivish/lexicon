@@ -34,8 +34,7 @@ Read `references/how-synonyms-differ.md` once. It lists the eight ways apparent
 synonyms actually differ, drawn from Rabbi Klein's own account of the method:
 general and specific, the same thing seen from different sides, stronger and
 weaker, the act and what it leaves behind, different settings, the speaker's
-attitude, two languages, and borrowed words. A ninth case, an old word replaced
-by a newer one, is no difference in meaning at all.
+attitude, words from another language, and an old word replaced by a newer one.
 
 Ask which one is at work before writing. It keeps a distinction from being
 invented where the real answer is one of these, and it gives the reader the
