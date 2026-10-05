@@ -1,9 +1,9 @@
 ---
 cluster: dancing
-hebrew: [ריקוד, כרכור, פיזוז, פזז, רקד, מרקד, מכרכר, מפזז]
+hebrew: [ריקוד, כרכור, פיזוז, פזז, רקד, מרקד, מכרכר, מפזז, מחול, הידוס]
 roots: [ר-ק-ד, כ-ר-כ-ר, כ-ר, פ-ז-ז, פ-ז, ר-צ-ד]
-translit: [rikud, rikkud, rikod, rekidah, miraked, mirakedin, kirkur, micharker, mecharker, micharkerin, mifazez, mefazez, mifazezin, paz, tiratzdun, kefitzah]
-english: [dance, whirl, caper, prance, leap]
+translit: [rikud, rikkud, rikod, rekidah, miraked, mirakedin, kirkur, micharker, mecharker, micharkerin, mifazez, mefazez, mifazezin, paz, tiratzdun, kefitzah, machol, hidus, mihades]
+english: [dance, whirl, caper, prance, leap, dance circle]
 domain: action
 words:
   - he: ריקוד
@@ -20,8 +20,9 @@ words:
     distinct: the wild, fast part of the dance (Metzudas David); the hands and fingers moving with the feet (Rashbam, Rabbi Tanchum HaYerushalmi); the extra verb at Shmuel II 6:16, the wildness that galled Michal (Rabbi Zev Atlas)
 sources:
   - wiaw:11784 "Shemini: Dancing Away" (2025-04-26) https://articles.ohr.edu/articles/shemini-dancing-away
-authorities: [Talmud Yerushalmi, Rabbi Aharon Marcus, Rabbi Moshe Tedeschi-Ashkenazi, Menachem Ibn Saruk, Radak, Rabbi Shlomo Pappenheim, Rabbi Yosef Kara, Rabbi Tanchum HaYerushalmi, Rabbeinu Yonah Ibn Janach, Rabbeinu Avraham ben Shlomo, Targum, Rambam, Rabbi Yehudah Aryeh of Carpentras, Metzudas David, Rabbi Zev Atlas, Rashbam, Shadal, Yehoshua Yaron]
-updated: 2026-09-10
+  - ms:188-dancing-away.md "Dancing Away"
+authorities: [Talmud Yerushalmi, Rabbi Aharon Marcus, Rabbi Moshe Tedeschi-Ashkenazi, Menachem Ibn Saruk, Radak, Rabbi Shlomo Pappenheim, Rabbi Yosef Kara, Rabbi Tanchum HaYerushalmi, Rabbeinu Yonah Ibn Janach, Rabbeinu Avraham ben Shlomo, Targum, Rambam, Rabbi Yehudah Aryeh of Carpentras, Metzudas David, Rabbi Zev Atlas, Rashbam, Shadal, Yehoshua Yaron, Sefer HeAruch, Rabbi Nosson Av HaYeshiva]
+updated: 2026-10-05
 ---
 # Dancing: rikud / kirkur / pizuz
 
@@ -83,7 +84,8 @@ root ר-צ-ד, a *hapax*.
 
 The Gemara's uses of *rikud* are worth knowing: the Satan dances between the
 horns of a black ox coming out of the marsh in Nisan (*Berachos* 33a, *Pesachim*
-112b); the *yetzer hara* for idolatry is "still dancing among us" (*Yoma* 69b,
+112b), and of Vashti's end the Gemara says that the Satan came, danced among
+them and killed her (*Megillah* 11b); the *yetzer hara* for idolatry is "still dancing among us" (*Yoma* 69b,
 *Sanhedrin* 64a); and the Angel of Death, who told Rabbi Yehoshua ben Levi that a
 man should not stand among a group of women returning from a funeral, because he
 dances and arrives ahead of them. Since the Satan, the *yetzer hara* and the
@@ -165,6 +167,17 @@ accede to the wife of Potifar.
 - *Bamidbar Rabbah* 4:20 seems to read David's *mifazez* the same way, of the
   rhythmic jingling of his golden garments as he swayed.
 
+### machol (מחול) and hidus (הידוס)
+Two more words for dancing. *Machol* is specifically a dance circle. *Hidus*,
+Aramaic or Mishnaic Hebrew, is dancing too, said especially of chickens dancing
+about (Mishnah *Bava Kamma* 2:1; *Bava Kamma* 17b-18b); *Sefer HeAruch* and
+Rabbi Nosson Av HaYeshiva read the Mishnah there as *michades* instead of
+*mihades*. The Yerushalmi (*Peah* 1:1) has Rabbi Shmuel bar Rav Yitzchak
+dancing, *mihades*, before a wedding canopy, where the Bavli (*Kesubos* 17a)
+tells it with *miraked*. The Bavli there also relates that Rabbi Yehudah bar
+Ilai would dance before a bride holding myrtle branches, and Rabbi Klein
+suggests that *hadas*, myrtle, may somehow be cognate with *hidus*.
+
 ## Rendering guidance
 
 - Shmuel II 6:14 "David was whirling with all his might before Hashem"; 6:16
@@ -191,4 +204,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Shemini: Dancing Away](https://articles.ohr.edu/articles/shemini-dancing-away)," *What's in a Word?*, Ohr Somayach, 26 April 2025.
 
-Cited in the essay: Bereishis 11:9, 13:10, 49:4, 49:24; Shemos 24:7; Shmuel II 6:12-23, particularly 6:14 and 6:16; Divrei HaYamim I 15:29; Yeshayahu 13:21; Tehillim 29:6, 68:17, 114:4, 114:6; Koheles 3:4; Mishnah *Beitzah* 5:2, *Sukkah* 5:4, *Shabbos* 7:2, *Shevi'is* 5:9, *Gittin* 5:9, *Menachos* 11:3; Yerushalmi *Beitzah* 5:2; *Berachos* 33a, *Pesachim* 112b, *Yoma* 69b, *Sanhedrin* 64a, *Bava Basra* 16a, *Shabbos* 55b and 88a, *Kesubos* 112a, *Megillah* 29a; *Bamidbar Rabbah* 4:20; Rambam, *Hilchos Lulav* 8:13-14; Radak, *Sefer HaShorashim*; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik*; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim* and *Hoil Moshe*; Mr. Yehoshua Yaron, *Mevo L'Midrash HaLashon*; Shadal to Bereishis 11:9 and 13:10.
+Rabbi Reuven Chaim Klein, "Dancing Away," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Bereishis 11:9, 13:10, 49:4, 49:24; Shemos 24:7; Shmuel II 6:12-23, particularly 6:14 and 6:16; Divrei HaYamim I 15:29; Yeshayahu 13:21; Tehillim 29:6, 68:17, 114:4, 114:6; Koheles 3:4; Mishnah *Beitzah* 5:2, *Sukkah* 5:4, *Shabbos* 7:2, *Shevi'is* 5:9, *Gittin* 5:9, *Menachos* 11:3, *Bava Kamma* 2:1; Yerushalmi *Beitzah* 5:2, *Peah* 1:1; *Berachos* 33a, *Pesachim* 112b, *Yoma* 69b, *Sanhedrin* 64a, *Bava Basra* 16a, *Shabbos* 55b and 88a, *Kesubos* 17a and 112a, *Bava Kamma* 17b-18b, *Megillah* 11b and 29a; *Bamidbar Rabbah* 4:20; Rambam, *Hilchos Lulav* 8:13-14; Radak, *Sefer HaShorashim*; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik*; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim* and *Hoil Moshe*; Mr. Yehoshua Yaron, *Mevo L'Midrash HaLashon*; Shadal to Bereishis 11:9 and 13:10; *Sefer HeAruch*; Rabbi Nosson Av HaYeshiva.

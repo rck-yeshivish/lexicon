@@ -28,7 +28,7 @@ sources:
   - wiaw:9464 "Seeking Salvation" (2021-11-27) https://articles.ohr.edu/articles/seeking-salvation
   - ms:084-seeking-salvation.md "Seeking Salvation"
 authorities: [Rabbi Yitzchak Eliyahu Landau of Dubno, Rav Hirsch, Rabbi Shlomo Pappenheim, Sefer HeAruch, Rashi, Tosafos, Peirush HaRokeach, Malbim, Rabbi Yechiel Michel Heilpern, Rabbi Chanoch Zundel of Bialystok, Radak, Ibn Janach]
-updated: 2026-09-22
+updated: 2026-10-05
 ---
 # Salvation: yeshuah / teshuah / hatzalah / purkan
 
@@ -124,7 +124,7 @@ means to slip something off (*porek*), an apt description of how the Jews of the
 Chanukah story shook off the yoke of Syrian-Greek domination and asserted their
 own political independence. Given the word's association with financial
 transactions, Rabbi Yitzchak Eliyahu Landau of Dubno explains that in *Al
-HaNissim* it is deliverance from financial ruin.
+HaNissim* it is specifically deliverance from financial ruin.
 
 ## Rendering guidance
 

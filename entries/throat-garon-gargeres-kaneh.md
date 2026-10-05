@@ -26,8 +26,8 @@ words:
 sources:
   - wiaw:9745 "The Gorgeous Windpipe" (2022-06-25) https://articles.ohr.edu/articles/the-gorgeous-windpipe
   - ms:182-the-gorgeous-windpipe.md "The Gorgeous Windpipe"
-authorities: [Malbim, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Ibn Ezra, Rabbi Moshe Kimchi, Rashi, Rambam, Rabbi Yom Tov Lipmann Heller, Rabbi Binyamin Mussafia, Rabbi Yaakov Emden, Rabbi Tanchum HaYerushalmi, Rabbi Yaakov Weil, Rabbi Amitai Ben-David, Rabbi Yosef de Bonne of Stadthagen, Rabbi Meir Batzri, Shach, Pri Megadim, Rabbi Immanuel Chai Ricci]
-updated: 2026-09-22
+authorities: [Malbim, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Ibn Ezra, Rabbi Moshe Kimchi, Rashi, Rambam, Rabbi Yom Tov Lipmann Heller, Rabbi Binyamin Mussafia, Rabbi Yaakov Emden, Rabbi Tanchum HaYerushalmi, Rabbi Yaakov Weil, Rabbi Amitai Ben-David, Rabbi Yosef de Bonne of Stadthagen, Rabbi Meir Batzri, Shach, Pri Megadim, Rabbi Immanuel Chai Ricci, Shimon Mayerfeld]
+updated: 2026-10-05
 ---
 # Throat: garon / gargeres / kaneh (against veshet)
 
@@ -87,6 +87,8 @@ it must be the windpipe.
   difference, filing both under the seventh category of the two-letter ג-ר.
 - Ibn Ezra (to Mishlei 1:9) and Rabbi Moshe Kimchi (to Iyov 40:16) say the
   *gargeres* surrounds the *garon*, without spelling out what that means.
+  (Shimon Mayerfeld points out that the commentary to Mishlei usually ascribed
+  to Ibn Ezra was in fact written by Rabbi Moshe Kimchi.)
 
 **Are gargeres and kaneh the same organ?**
 
@@ -175,15 +177,15 @@ goal of sanctifying Hashem's name.
 Rabbi Klein notes the uncanny resemblance of *garon*/*gargeres* to Old French
 *gorge*, throat, which may come from Latin *gurges*, whirlpool, the ancestor of
 English *gorge*, *engorge*, *regurgitate*, *garget*, *gargle*, *gurgle*,
-*gargoyle*, *gargantuan* (from Spanish *garganta*, throat), *gorget* and
-*gorgeous*. Tempting as an etymological link is, he suggests onomatopoeia may be
-at play as well, the gimmel-reish sounds being the sound of gargling; Rabbi
-Mussafia's *Mussaf HeAruch* expressly links the Greek and Latin words for throat
-to *gargeres*. Latin *gula*, throat (whence *gullet* and *gluttony*), resembles
-them too, lamed interchanging with reish; and the Midrash reads *gulas* in "the
-*gulas* runs after gold" (Koheles 12:6) as the *gargeres*, by that same
-interchange, making the pasuk about appetite squandering money (*Vayikra Rabbah*
-18:1, *Koheles Rabbah* 12:6).
+*garrulous*, *gargoyle*, *gargantuan* (from Spanish *garganta*, throat),
+*gorget* and *gorgeous*. Tempting as an etymological link is, he suggests
+onomatopoeia may be at play as well, the gimmel-reish sounds being the sound of
+gargling; Rabbi Mussafia's *Mussaf HeAruch* expressly links the Greek and Latin
+words for throat to *gargeres*. Latin *gula*, throat (whence *gullet* and
+*gluttony*), resembles them too, lamed interchanging with reish; and the Midrash
+reads *gulas* in "the *gulas* runs after gold" (Koheles 12:6) as the *gargeres*,
+by that same interchange, making the pasuk about appetite squandering money
+(*Vayikra Rabbah* 18:1, *Koheles Rabbah* 12:6).
 
 ## Rendering guidance
 
@@ -212,4 +214,4 @@ Rabbi Reuven Chaim Klein, "[The Gorgeous Windpipe](https://articles.ohr.edu/arti
 
 Rabbi Reuven Chaim Klein, "The Gorgeous Windpipe," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Yeshayahu 3:16, 58:1; Yirmiyahu 2:25; Yechezkel 16:11; Tehillim 5:10, 69:4, 115:7, 149:6; Mishlei 1:9, 3:3, 3:22, 6:21; Iyov 40:16; Eichah 1:11; Koheles 12:6; Mishnah *Chullin* 2:1, 2:4, 3:1-4, 10:4, *Tamid* 4:3, *Negaim* 10:9, *Niddah* 10:8, *Taharos* 7:9; *Pesachim* 108a; *Taanis* 5b; *Chullin* 18a-19a, 21a, 28a-29a, 30b, 32b, 40b, 44a, 45a, 50a, 54a, 57b, 85b, 103b; *Vayikra Rabbah* 18:1; *Koheles Rabbah* 12:6; Targum to Eichah 1:11; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Ezra to Mishlei 1:9; Rabbi Moshe Kimchi to Iyov 40:16; Rashi to Mishlei 1:9 and *Chullin* 18a; Malbim, *Sefer HaCarmel* s.v. גרון; Rabbi Shlomo Pappenheim; Rambam, commentary to the Mishnah, *Taharos* 7:9; Rabbi Yom Tov Lipmann Heller, *Tosafos Yom Tov* to *Taharos* 7:9; Rabbi Binyamin Mussafia, *Mussaf HeAruch*; Rabbi Yaakov Emden, *Lechem Shamayim*; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik* s.v. גרגר; Rabbi Yaakov Weil; Rabbi Amitai Ben-David, *Sichas Chullin* to *Chullin* 18a, 44a, 45a; *Shach*, *Yoreh Deah* 21:1, with *Pri Megadim*, *Siftei Daas*; Rabbi Yosef de Bonne of Stadthagen; Rabbi Meir Batzri; *Hon Ashir* to *Eduyos* 1:1.
+Cited in the essay: Yeshayahu 3:16, 58:1; Yirmiyahu 2:25; Yechezkel 16:11; Tehillim 5:10, 69:4, 115:7, 149:6; Mishlei 1:9, 3:3, 3:22, 6:21; Iyov 40:16; Eichah 1:11; Koheles 12:6; Mishnah *Chullin* 2:1, 2:4, 3:1-4, 10:4, *Tamid* 4:3, *Negaim* 10:9, *Niddah* 10:8, *Taharos* 7:9; *Pesachim* 108a; *Taanis* 5b; *Chullin* 18a-19a, 21a, 28a-29a, 30b, 32b, 40b, 44a, 45a, 50a, 54a, 57b, 85b, 103b; *Vayikra Rabbah* 18:1; *Koheles Rabbah* 12:6; Targum to Eichah 1:11; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Ezra to Mishlei 1:9; Rabbi Moshe Kimchi to Iyov 40:16; Rashi to Mishlei 1:9 and *Chullin* 18a; Malbim, *Sefer HaCarmel* s.v. גרון; Rabbi Shlomo Pappenheim; Rambam, commentary to the Mishnah, *Taharos* 7:9; Rabbi Yom Tov Lipmann Heller, *Tosafos Yom Tov* to *Taharos* 7:9; Rabbi Binyamin Mussafia, *Mussaf HeAruch*; Rabbi Yaakov Emden, *Lechem Shamayim*; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik* s.v. גרגר; Rabbi Yaakov Weil; Rabbi Amitai Ben-David, *Sichas Chullin* to *Chullin* 18a, 44a, 45a; *Shach*, *Yoreh Deah* 21:1, with *Pri Megadim*, *Siftei Daas*; Rabbi Yosef de Bonne of Stadthagen; Rabbi Meir Batzri; *Hon Ashir* to *Eduyos* 1:1; Shimon Mayerfeld.

@@ -26,8 +26,8 @@ sources:
   - wiaw:8959 "To Be a Wise Guy (Part 1 of 2)" (2020-12-12) https://articles.ohr.edu/articles/to-be-a-wise-guy-part-1-of-2
   - wiaw:8969 "Miketz: To Be a Wise Guy (Part 2 of 2)" (2020-12-19) https://articles.ohr.edu/articles/miketz-to-be-a-wise-guy-part-2-of-2
   - ms:083-to-be-a-wise-guy.md "To Be a Wise Guy"
-authorities: [Rashi, Rabbi Ovadia Bartenura, Rashbatz, Rabbeinu Yonah, Radak, Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Pappenheim, Vilna Gaon, Malbim, Maharsha, Maharal, Ramchal, Rabbi Chaim of Volozhin, Rabbi Shmuel Yaakov Burnstein, Rabbi Chaim Friedlander, Rabbi Yaakov Chaim Sofer, Rabbi Eliyahu Tzion Sofer, Rabbi Shlomo Brevda, Rabbi Chaim Soloveitchik, Rabbi Shaul Levi Mortera, Michael G. Samet, Robert J. Sternberg]
-updated: 2026-09-22
+authorities: [Rashi, Rabbi Ovadia Bartenura, Rashbatz, Rabbeinu Yonah, Radak, Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Pappenheim, Vilna Gaon, Malbim, Maharsha, Maharal, Ramchal, Rabbi Chaim of Volozhin, Rabbi Shmuel Yaakov Burnstein, Rabbi Chaim Friedlander, Rabbi Yaakov Chaim Sofer, Rabbi Eliyahu Tzion Sofer, Rabbi David Feinstein, Rabbi Shlomo Brevda, Rabbi Chaim Soloveitchik, Rabbi Shaul Levi Mortera, Michael G. Samet, Robert J. Sternberg]
+updated: 2026-10-05
 ---
 # Wisdom: chochmah / binah (tevunah) / daat
 
@@ -120,6 +120,15 @@ Root ב-י-ן.
   the Oral Torah while they had the Written Torah before them in the Septuagint;
   Rabbi Klein adds that this is why *Maoz Tzur* calls the Jewish people *bnei
   binah* in telling of the victory over the Greeks.
+- Rabbi David Feinstein (d. 2020) asks why Yosef is called *navon* before
+  *chacham* (Bereishis 41:33, 41:39), though in general the *navon* should
+  follow from the *chacham*. He explains that no existing *chochmah* could meet
+  the problem Pharaoh's dream raised: no king had ever dreamt of a coming
+  famine, and no nation had ever stockpiled in years of plenty against a later
+  famine. Yosef is therefore described first as a *navon*, able to draw on other
+  knowledge to set up a new policy for managing public resources, and only once
+  he had established this new body of knowledge could he be recognised as a
+  *chacham* as well.
 
 *Binah* against *tevunah*: most authorities use them almost interchangeably.
 - Rabbi Pappenheim, who admits he has seen no source on the difference, proposes
@@ -170,7 +179,9 @@ Kesubos 5a); the Maharal (*Chiddushei Aggados* to Kiddushin 30a and Avodah Zarah
 this model, Rabbi Klein explains, *chochmah* is knowledge received from others,
 *binah* knowledge intuited from what one already knows with little outside
 input, and *daat* the balance that harmonises them, the product of raw
-*chochmah* processed through *binah*.
+*chochmah* processed through *binah*. The intuition of *binah* is often
+associated with women, who are said to be weaker in *daat* (Kiddushin 80b) but
+stronger in *binah* (Niddah 45b).
 Ramchal (introduction to *Klach Pischei Chochmah*) calls *daat* the offspring of
 the two, and Rabbi Shaul Levi Mortera (1596 to 1660) writes that *chochmah* is
 acquired, *binah* natural, and *daat* their synthesis. Dr. Michael G. Samet, a
@@ -217,4 +228,4 @@ Rabbi Reuven Chaim Klein, "[Miketz: To Be a Wise Guy (Part 2 of 2)](https://arti
 
 Rabbi Reuven Chaim Klein, "To Be a Wise Guy," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Bereishis 4:1, 41:33, 41:39; Shemos 31:3 with Rashi; Shemos 31:6; Devarim 1:13 with Rashi and the *Sifrei*; Devarim 4:6; Shmuel II 13:3; Melachim I 3:12 with Radak; Yeshayahu 3:3, 19:8, 30:18, 40:20; Yirmiyahu 4:22; Chavakuk 1:15, 2:3; Tehillim 58:6; Mishlei 1:5 with Rashi; Mishlei 1:1 (*Chemdah Genuzah*), 1:8, 2:2-3, 2:5, 2:6 and 10:13 with the Vilna Gaon; Iyov 32:4, 40:25; Rus 2:1; Daniel 12:12; Avos 3:17 with Rashi, Bartenura, Rabbeinu Yonah and Rashbatz; Avos 4:1; Tamid 32a; Chagigah 12a with Rashi; Chagigah 14a; Bava Basra 25b; Shabbos 31a with Rashi; Kesubos 5a with Maharsha; Kiddushin 30a and Avodah Zarah 19b with the Maharal's *Chiddushei Aggados*; Bava Kamma 92b with the Vilna Gaon's *Biurei Aggados*; Yerushalmi Berachos 5:2; Shemos Rabbah 41:3; Eichah Rabbah 2:48; *Zohar* Vayakhel 201a; *Matok MiDvash* to *Zohar* Yisro 85a; Maharal, *Tiferes Yisrael* ch. 56; *Eitz Chaim*, *Shaar HaAmidah* ch. 11; Ramchal, introduction to *Klach Pischei Chochmah*; *Nefesh HaChaim* 1:6; Rabbi Avraham Bedersi HaPenini; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. חך, בן; Malbim, *Yair Ohr* (אות חי"ת, סימן טו), and *Sefer HaCarmel* s.v. חכמה\בינה\דעת; Rabbi Shmuel Yaakov Burnstein; Rabbi Chaim Friedlander; Rabbi Yaakov Chaim Sofer; Rabbi Eliyahu Tzion Sofer; Rabbi Shlomo Brevda, *Leil Shimurim* p. 26; Rabbi Shaul Levi Mortera, *Givas Shaul*; *Maoz Tzur*; Robert J. Sternberg's Triarchic Theory of Intelligence; Chasam Sofer, *Toras Moshe* to Koheles 12:9.
+Cited in the essay: Bereishis 4:1, 41:33, 41:39; Shemos 31:3 with Rashi; Shemos 31:6; Devarim 1:13 with Rashi and the *Sifrei*; Devarim 4:6; Shmuel II 13:3; Melachim I 3:12 with Radak; Yeshayahu 3:3, 19:8, 30:18, 40:20; Yirmiyahu 4:22; Chavakuk 1:15, 2:3; Tehillim 58:6; Mishlei 1:5 with Rashi; Mishlei 1:1 (*Chemdah Genuzah*), 1:8, 2:2-3, 2:5, 2:6 and 10:13 with the Vilna Gaon; Iyov 32:4, 40:25; Rus 2:1; Daniel 12:12; Avos 3:17 with Rashi, Bartenura, Rabbeinu Yonah and Rashbatz; Avos 4:1; Tamid 32a; Chagigah 12a with Rashi; Chagigah 14a; Bava Basra 25b; Shabbos 31a with Rashi; Kesubos 5a with Maharsha; Kiddushin 30a and Avodah Zarah 19b with the Maharal's *Chiddushei Aggados*; Kiddushin 80b; Niddah 45b; Bava Kamma 92b with the Vilna Gaon's *Biurei Aggados*; Yerushalmi Berachos 5:2; Shemos Rabbah 41:3; Eichah Rabbah 2:48; *Zohar* Vayakhel 201a; *Matok MiDvash* to *Zohar* Yisro 85a; Maharal, *Tiferes Yisrael* ch. 56; *Eitz Chaim*, *Shaar HaAmidah* ch. 11; Ramchal, introduction to *Klach Pischei Chochmah*; *Nefesh HaChaim* 1:6; Rabbi Avraham Bedersi HaPenini; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. חך, בן; Malbim, *Yair Ohr* (אות חי"ת, סימן טו), and *Sefer HaCarmel* s.v. חכמה\בינה\דעת; Rabbi Shmuel Yaakov Burnstein; Rabbi Chaim Friedlander; Rabbi Yaakov Chaim Sofer; Rabbi Eliyahu Tzion Sofer; Rabbi David Feinstein, *Kol Dodi* on the Torah; Rabbi Shlomo Brevda, *Leil Shimurim* p. 26; Rabbi Shaul Levi Mortera, *Givas Shaul*; *Maoz Tzur*; Robert J. Sternberg's Triarchic Theory of Intelligence; Chasam Sofer, *Toras Moshe* to Koheles 12:9.

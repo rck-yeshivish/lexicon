@@ -21,8 +21,8 @@ words:
 sources:
   - wiaw:7572 "The Pharaoh and the King" (2018-01-06) https://articles.ohr.edu/articles/the-pharaoh-and-the-king
   - ms:087-the-pharaoh-and-the-king.md "The Pharaoh and the King"
-authorities: [Rashi, Radak, Rabbi Ovadia of Bartenura, Ibn Ezra, Zohar, Rabbeinu Bachya, Rav Chaim Kanievsky, Abarbanel, Rabbi Avraham Menachem Rappaport, Rabbi Eliezer ben Eliyahu Ashkenazi, Chasam Sofer, Rabbi Shimshon of Ostropoli, Shadal, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+authorities: [Rashi, Radak, Rabbi Ovadia of Bartenura, Ibn Ezra, Zohar, Rabbeinu Bachya, Rav Chaim Kanievsky, Abarbanel, Rabbi Avraham Menachem Rappaport, Rabbi Eliezer ben Eliyahu Ashkenazi, Chasam Sofer, Rabbi Shimshon of Ostropoli, Shadal, Rabbi Eliyahu Benamozegh, Artapanus]
+updated: 2026-10-05
 ---
 # The Egyptian monarch: Paroh / Melech Mitzrayim
 
@@ -129,10 +129,12 @@ scholars identify Paroh Melol with Pharaoh Pepi II, whose
 alternate name was Merire. Melol's successor was his son Paroh Adikam, also
 called Adikam Achuz because *achuz* means "short" in Egyptian and he stood one
 *amah* tall (see also Moed Katan 18a); he was a short, ugly fellow whose beard
-reached to his ankles, and the Exodus took place in his reign. On *Sefer
-HaYashar*'s account *Paroh* and *Melech Mitzrayim* were originally two different
-titles held by different people, later, it seems, merged into one office, which
-still does not explain the Torah's alternation.
+reached to his ankles, and the Exodus took place in his reign. According to
+Artapanus, the Paroh at the time of Moshe's birth was Palmanothes, and it was
+his son-in-law Chenephres who persecuted the Jews. On *Sefer HaYashar*'s
+account *Paroh* and *Melech Mitzrayim* were originally two different titles
+held by different people, later, it seems, merged into one office, which still
+does not explain the Torah's alternation.
 
 ## Rendering guidance
 
@@ -160,4 +162,4 @@ Rabbi Reuven Chaim Klein, "[The Pharaoh and the King](https://articles.ohr.edu/a
 
 Rabbi Reuven Chaim Klein, "The Pharaoh and the King," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Shemos 2:23, 6:11, 6:13, 6:29, 14:8; Bereishis 10:13, 26:9, 41:1, 41:10, 41:46; Melachim I 3:1; Yechezkel 29:2; Yirmiyahu 44:30; Tehillim 34:1; Ezra 6:14; Moed Katan 18a; *Zohar*, *Shemos* 17a and 19b; Rabbeinu Bachya to Bereishis 41:1; Abarbanel; *Maaseh Hashem*; *Sefer HaYashar*; Chasam Sofer, beginning of Bo; Shadal to Bereishis 12:15; Benamozegh, *Eim LaMikra* to Bereishis 12:15; Yirmiyahu 46:25.
+Cited in the essay: Shemos 2:23, 6:11, 6:13, 6:29, 14:8; Bereishis 10:13, 26:9, 41:1, 41:10, 41:46; Melachim I 3:1; Yechezkel 29:2; Yirmiyahu 44:30; Tehillim 34:1; Ezra 6:14; Moed Katan 18a; *Zohar*, *Shemos* 17a and 19b; Rabbeinu Bachya to Bereishis 41:1; Abarbanel; *Maaseh Hashem*; *Sefer HaYashar*; Artapanus; Chasam Sofer, beginning of Bo; Shadal to Bereishis 12:15; Benamozegh, *Eim LaMikra* to Bereishis 12:15; Yirmiyahu 46:25.

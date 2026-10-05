@@ -33,7 +33,7 @@ words:
 sources:
   - wiaw:90003 "Rule of Thumb" (2019-03-19) https://groups.google.com/g/whats-in-a-word/c/_5Ps72u72D0
 authorities: [Rashi, Toras Kohanim, Tosafos, Rambam, Rabbi Baruch HaLevi Epstein, Rabbeinu Bachya, Rabbi Shimshon of Shantz, Abarbanel, Targum, Midrash Tanchuma]
-updated: 2026-09-14
+updated: 2026-10-05
 ---
 # Thumb: bohen / gudal / agudal / zikfa / ravravta / ilyon
 
@@ -94,7 +94,7 @@ versions read *gudal*). Haughty, conspicuous women walked "heel beside *gudal*"
 (Shabbos 62b, Yoma 9b), in small steps, one heel never passing the other foot's big
 toe. Hogras ben Levi, criticized in the Mishnah (Yoma 3:11) for not teaching his art
 of song, put his *gudal* in his mouth according to the Gemara (Yoma 38b) and his
-*agudal* according to Shir HaShirim Rabbah (to Shir HaShirim 3:6); from this and
+*agudal* according to Shir HaShirim Rabbah 3:9; from this and
 other sources the two may be used interchangeably. Rabbi Baruch HaLevi Epstein (1860
 to 1940) explains the doublet as another case of an aleph added at the start of a
 Hebrew word, as *ezroa* (Iyov 31:22) beside *zeroa*, arm.
@@ -138,4 +138,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Rule of Thumb](https://groups.google.com/g/whats-in-a-word/c/_5Ps72u72D0)," *What's in a Word?*, 19 March 2019.
 
-Cited in the essay: Shemos 29:20 (Rashi, Abarbanel); Vayikra 8:23 (Toras Kohanim, Rabbeinu Bachya), 14:14 (Rashi), 14:17, 14:25, 14:28; Devarim 22:12, 26:19, 28:1; Iyov 31:22; Mishnah Oholos 13:1 (Rabbi Shimshon of Shantz), Niddah 8:1, Yoma 2:1, 3:11; Rambam, commentary to Mishnah Shabbos 8:1; Berachos 55b (Rashi); Shabbos 62b; Pesachim 109a, 110a (Rashi); Eruvin 10b; Yoma 9b, 38b; Kesubos 5b (Rashi, Tosafos); Gittin 69a (Rashi); Shir HaShirim Rabbah to Shir HaShirim 3:6; Midrash Tanchuma, Ki Savo 4; Rabbi Baruch HaLevi Epstein.
+Cited in the essay: Shemos 29:20 (Rashi, Abarbanel); Vayikra 8:23 (Toras Kohanim, Rabbeinu Bachya), 14:14 (Rashi), 14:17, 14:25, 14:28; Devarim 22:12, 26:19, 28:1; Iyov 31:22; Mishnah Oholos 13:1 (Rabbi Shimshon of Shantz), Niddah 8:1, Yoma 2:1, 3:11; Rambam, commentary to Mishnah Shabbos 8:1; Berachos 55b (Rashi); Shabbos 62b; Pesachim 109a, 110a (Rashi); Eruvin 10b; Yoma 9b, 38b; Kesubos 5b (Rashi, Tosafos); Gittin 69a (Rashi); Shir HaShirim Rabbah 3:9; Midrash Tanchuma, Ki Savo 4; Rabbi Baruch HaLevi Epstein.

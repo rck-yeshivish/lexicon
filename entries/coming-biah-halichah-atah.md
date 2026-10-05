@@ -23,8 +23,9 @@ words:
 sources:
   - wiaw:9039 "Bo: Come To Pharaoh" (2021-01-23) https://articles.ohr.edu/articles/bo-come-to-pharaoh
   - wiaw:6817 "Introduction - Synonyms in the Hebrew Language" (2016-06-25) https://articles.ohr.edu/articles/introduction-synonyms-in-the-hebrew-language
-authorities: [Baal HaTurim, Hadar Zekeinim, Moshav Zekeinim, Ramban, Zohar, Rabbi Elimelech of Lizhensk, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rav Hirsch, Malbim, Rabbi Menachem Mendel Kasher]
-updated: 2026-09-10
+  - ms:104-come-to-pharaoh.md "Come To Pharaoh"
+authorities: [Baal HaTurim, Hadar Zekeinim, Moshav Zekeinim, Ramban, Zohar, Rabbi Elimelech of Lizhensk, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rav Hirsch, Malbim, Rabbi Menachem Mendel Kasher, Targum, Rabbi Eliyahu HaBachur, Chaim Tawil]
+updated: 2026-10-05
 ---
 # Coming: bo (biah) / lech (halichah) / atah
 
@@ -113,6 +114,16 @@ a finding.
 Rabbi Klein adds that a Biblical concordance would have to be consulted to see
 how well any of these theories pans out.
 
+*Azal*, in the sense of going, appears four times in Hebrew passages of Tanach
+(Devarim 32:36, Shmuel I 9:7, Iyov 14:11, Mishlei 20:14) and seven times in
+Aramaic ones (Daniel 2:17, 2:24, 6:19-20; Ezra 5:8, 4:23, 5:15). The Targumim
+typically render *lech*/*halichah* and its cognates by *azal*, and generally
+render *bo*/*biah* by *atah*, or, where it means entering, by *al*/*alil*.
+Rabbi Eliyahu HaBachur notes an exception: where *lech* is in the imperative,
+the Targum sometimes renders it *atah* instead of *azal* (see Melachim II
+10:16, Bereishis 37:27). *Lech el Pharaoh* (Shemos 7:15), though, the Targum
+renders with a form of *azal*.
+
 ### atah (אתה)
 A biblical word for coming (Devarim 33:2, Yeshayahu 21:12), appearing in both
 the Hebrew and the Aramaic portions of Tanach.
@@ -133,6 +144,8 @@ distinguishes them at once; hence *es*, the particle that links a verb to its
 object and sometimes means "with," and *os* ("sign"), which links sign to
 signified. *Atah* on this reading is the traveler finally joined to his
 destination, as against *biah*, which can still have him on the road. Rabbi
+Pappenheim likens the difference between *biah* and *atah* to that between
+*kiruv* and *gishah* (see [approach](approach-gishah-kiruv.html)). Rabbi
 Klein adds a suggestion of his own: perhaps the finality of *atah* is hinted in its
 root's being the first and *last* letters of the aleph-beis, while *biah* has the
 first and the second. The same root yields *tav* ("mark"), which serves as a
@@ -140,8 +153,10 @@ border distinguishing a thing from the rest: Yechezkel saw Hashem command an
 angel to make a *tav* on the foreheads of the righteous who bemoaned the
 abominations in Yerushalayim, which the Gemara (Shabbos 55a) explains to mean
 writing the letter tav on them, and the *os* given to Kayin (Bereishis 4:15) is
-what some explain to be that same letter. In the
-original *Ivri* script the letter tav was written in the shape of the English
+what some explain to be that same letter. The letter tav thus plays not only a
+semantic role but a semiotic one, as a symbol or sign (see Dr. Chaim Tawil's
+explanation of the order of the nations in Amos's prophecy as meant to form an
+x). In the original *Ivri* script the letter tav was written in the shape of the English
 letter *x* (and the Greek *chi*), and Rabbi Klein draws the parallel: as X marks
 the spot and stands for
 what is missing, as in algebra, the tav too marks a thing off as distinguished.
@@ -173,4 +188,6 @@ Rabbi Reuven Chaim Klein, "[Bo: Come To Pharaoh](https://articles.ohr.edu/articl
 
 Rabbi Reuven Chaim Klein, "[Introduction: Synonyms in the Hebrew Language](https://articles.ohr.edu/articles/introduction-synonyms-in-the-hebrew-language)," *What's in a Word?*, Ohr Somayach, 25 June 2016.
 
-Cited in the essay: Shemos 10:1, 7:26, 9:1, 8:15; Bereishis 29:9, 37:19, 4:15; Devarim 33:2; Yeshayahu 21:12; Zohar Bo 34a; Shabbos 55a; Ramban to Shemos 8:15; *Baal HaTurim*, *Hadar Zekeinim*, and *Moshav Zekeinim* on the makkos pesukim; Rabbi Elimelech of Lizhensk; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; Rav Hirsch; Rabbi Menachem Mendel Kasher; Malbim, *Yair Ohr*.
+Rabbi Reuven Chaim Klein, "Come To Pharaoh," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
+
+Cited in the essay: Shemos 10:1, 7:26, 9:1, 8:15, 7:15; Bereishis 29:9, 37:19, 4:15, 37:27; Devarim 33:2, 32:36; Yeshayahu 21:12; Shmuel I 9:7; Melachim II 10:16; Iyov 14:11; Mishlei 20:14; Daniel 2:17, 2:24, 6:19-20; Ezra 5:8, 4:23, 5:15; Zohar Bo 34a; Shabbos 55a; Ramban to Shemos 8:15; *Baal HaTurim*, *Hadar Zekeinim*, and *Moshav Zekeinim* on the makkos pesukim; Rabbi Elimelech of Lizhensk; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; Rav Hirsch; Rabbi Menachem Mendel Kasher; Malbim, *Yair Ohr*; the Targumim; Rabbi Eliyahu HaBachur; Dr. Chaim Tawil on the order of the nations in Amos.
