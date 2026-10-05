@@ -98,10 +98,12 @@ Insights into apparent synonyms are scattered through rabbinic writing, from
 the Talmud to our own day, and some rabbis wrote whole books on the subject.
 Where a thesaurus such as J. I. Rodale's *The Synonym Finder* gathers words that
 mean the same, these books show how such words differ. The article names seven
-of these rabbis, and most entries on this site cite at least one of them:
+of these rabbis, and most entries on this site cite at least one of them. It
+names only Bedersi's book; the works given for the others come from Rabbi
+Klein's other writing.
 
 - **Rabbi Avraham Bedersi HaPenini** (1230 to 1300), *Chosam Tochnis*
-- **Rabbi Shlomo Pappenheim** of Breslau (1714 to 1814), *Cheshek Shlomo* and
+- **Rabbi Shlomo Pappenheim** of Breslau (1740 to 1814), *Cheshek Shlomo* and
   *Yerios Shlomo*
 - **Rabbi Eliyahu Kramer of Vilna, the Vilna Gaon** (1720 to 1797), cited from his
   commentaries, most often on Mishlei
