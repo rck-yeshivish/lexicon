@@ -32,14 +32,19 @@ For each line:
 
 Read `references/how-synonyms-differ.md` once. It lists the eight ways apparent
 synonyms actually differ, drawn from Rabbi Klein's own account of the method:
-general against specific, the same thing from a different angle, degree along a
-scale, act against result, scope or setting, the speaker's stance, different
-language, and loanword against native word.
+general and specific, the same thing seen from different sides, stronger and
+weaker, the act and what it leaves behind, different settings, the speaker's
+attitude, two languages, and borrowed words. A ninth case, an old word replaced
+by a newer one, is no difference in meaning at all.
 
 Ask which one is at work before writing. It keeps a distinction from being
 invented where the real answer is one of these, and it gives the reader the
-shape of the answer as well as the answer. If none fits and no authority draws
-the line, say the sources do not separate the words. That is a finding.
+shape of the answer as well as the answer. Name it in the prose in ordinary
+words: *the general term against three specific kinds*, *the act against what it
+leaves behind*, *Hebrew against Aramaic*. Where the true account is that one
+word replaced another, say so rather than manufacture a difference. If none
+fits and no authority draws the line, say the sources do not separate the
+words. That is a finding.
 
 ## Hard rules
 

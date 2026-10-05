@@ -1534,11 +1534,11 @@ def main():
         # entries, so About carries the way in to it. It sits under the opening
         # paragraph, which names the article, where a reader meets it before
         # the list rather than after it.
-        intro = (f'<div class="method-note"><p><strong>Rabbi Klein\'s own introduction.</strong> '
-                 f'Four years before this article, he opened the column itself with the same '
-                 f'question, why Hebrew should need several words for one thing, and answered it '
-                 f'with the templates the answers tend to follow. That essay is '
-                 f'<a href="entries/{METHOD}.html">a page of its own</a>.</p></div>')
+        intro = (f'<div class="method-note"><p><strong>Rabbi Klein\'s first column.</strong> '
+                 f'In 2016, four years before this article, he opened <em>What\'s in a Word?</em> '
+                 f'with the same question, why Hebrew would need two words for one idea, and a '
+                 f'short list of the usual answers. That essay has '
+                 f'<a href="entries/{METHOD}.html">its own page</a>.</p></div>')
         summary = md(body)
         cut = summary.index("</p>") + len("</p>")
         emit("method.html", shell("Methodology · What’s in a Word?",
