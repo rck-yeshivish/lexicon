@@ -1381,7 +1381,8 @@ def main():
 </section>
 <section class="how" aria-label="How it works">
   <ol class="how-steps">
-    <li><b>The idea</b>Two Hebrew words almost never mean exactly the same thing: near-synonyms each carry a shade of their own.</li>
+    <li><b>The idea</b>Two Hebrew words almost never mean exactly the same thing: near-synonyms each carry a shade of their own.
+      <a class="how-more" href="method.html">The eight ways they differ<span class="chev" aria-hidden="true">›</span></a></li>
     <li><b>The sources</b>Rashi, Radak, Malbim, Rav Hirsch and many others say where the line between them falls.</li>
     <li><b>The page</b>Each group sets out every word&rsquo;s meaning, who says what, and where they disagree.</li>
   </ol>
@@ -1805,6 +1806,11 @@ header.bare .brand{flex:1}
 .how-steps b{display:block;color:var(--accent);font-size:12.5px;text-transform:uppercase;letter-spacing:.07em;
   font-weight:600;margin-bottom:4px}
 .how-steps b::before{content:counter(step) " \00b7  "}
+/* The idea is what About sets out at length, so its step is the way in. */
+.how-more{display:block;margin-top:6px;font-size:14px;font-weight:600;color:var(--accent)}
+.how-more:hover{text-decoration:none}
+.how-more .chev{margin-left:6px;display:inline-block;transition:transform .15s}
+.how-more:hover .chev{transform:translateX(3px)}
 /* On a phone the three steps stack, so the label runs into its line instead of
    sitting over it: three lines a step became two, and the questions come up a
    screen sooner. */
