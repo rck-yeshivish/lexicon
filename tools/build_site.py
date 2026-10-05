@@ -1534,8 +1534,8 @@ def main():
         # entries, so About carries the way in to it. It sits under the opening
         # paragraph, which names the article, where a reader meets it before
         # the list rather than after it.
-        intro = (f'<div class="method-note"><p><strong>Rabbi Klein\'s first column.</strong> '
-                 f'In 2016, four years before this article, he opened <em>What\'s in a Word?</em> '
+        intro = (f'<div class="method-note"><p><strong>The column\'s first essay.</strong> '
+                 f'In 2016, four years before this article, <em>What\'s in a Word?</em> opened '
                  f'with the same question, why Hebrew would need two words for one idea, and a '
                  f'short list of the usual answers. That essay has '
                  f'<a href="entries/{METHOD}.html">its own page</a>.</p></div>')

@@ -2,31 +2,27 @@
 
 What follows is our summary of Rabbi Reuven Chaim Klein's article "Learning to
 differentiate between apparent synonyms," *Babel: The Language Magazine*, May
-2020, pages 30 to 33. The article itself is his, and worth reading in full.
-Rabbi Klein writes the weekly column *What's in a Word?* at
+2020, pages 30 to 33. The article itself is his, and worth reading in full. He
+writes the weekly column *What's in a Word?* at
 [ohr.edu](https://articles.ohr.edu/categories/whats-in-a-word), and is a
 founding editor of the [Veromemanu Foundation](https://biblicalhebrewetymology.com).
 
 ## The question
 
-As a boy in Los Angeles, Rabbi Klein wondered why one street was called an
-avenue, another a boulevard, a third a way and a fourth simply a street. Who
-decided which name went with which road? Hebrew raises the same question, and
-more sharply. It has at least eight words for a road or path, and many other
-sets of words that seem to mean one thing.
-
 Jewish tradition sees Hebrew as a holy tongue whose words express the essence
 of what they describe. The Kabbalists pointed out that the Hebrew for "word" and
 for "thing" is the same, *davar*, reflecting the view that everything in
-Creation is a Divine word crystallized into material form. But if every word
-carries a meaning of its own, why would Tanach, the Mishnah and the Gemara need
-several words for one idea? More than one would be redundant.
+Creation is a Divine word crystallized into material form. Yet Tanach, the
+Mishnah and the Gemara are full of words that seem to mean one thing; Hebrew
+has at least eight words for a road or path alone. If every word carries a
+meaning of its own, why would the language need several for one idea? More
+than one would be redundant.
 
 Many rabbinic scholars answered that Hebrew has no true synonyms at all. Words
 that look alike turn out, on a closer look, to differ, and the ways they differ
-follow a handful of patterns. Once we know the patterns, Rabbi Klein suggests,
-we can bring them to apparent synonyms in any language. He does not number
-them; the eight below are our arrangement of what he says, with his examples.
+follow a handful of patterns. Once we know the patterns, we can bring them to
+apparent synonyms in any language. The article does not number them; the list
+of eight below is ours.
 
 ## Eight ways the words differ
 
@@ -107,13 +103,10 @@ of these rabbis, and most entries on this site cite at least one of them:
 - **Rabbi Avraham Bedersi HaPenini** (1230 to 1300), *Chosam Tochnis*
 - **Rabbi Shlomo Pappenheim** of Breslau (1714 to 1814), *Cheshek Shlomo* and
   *Yerios Shlomo*
-- **Rabbi Eliyahu Kramer of Vilna, the Vilna Gaon** (1720 to 1797), cited by
-  Rabbi Klein from his commentaries, most often on Mishlei
+- **Rabbi Eliyahu Kramer of Vilna, the Vilna Gaon** (1720 to 1797), cited from his
+  commentaries, most often on Mishlei
 - **Rabbi Yehuda Leib Edel** (1760 to 1828), *Afikei Yehudah*
 - **Rabbi Meir Leibush Weiser, the Malbim** (1809 to 1879), *Yair Ohr*
 - **Rabbi Shimon Dovber Analak** of Siedlce (1848 to 1907), *Imrei Rashad*, in
   its section *Shem MiShimon*
 - **Rabbi Shlomo Aharon Wertheimer** (1866 to 1935), *Beiurei Shemos Nirdafim*
-
-The article names only Bedersi's book; the others come from Rabbi Klein's other
-writing.
