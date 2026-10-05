@@ -9,7 +9,7 @@ founding editor of the [Veromemanu Foundation](https://biblicalhebrewetymology.c
 
 ## The question
 
-Jewish tradition sees Hebrew as a holy tongue whose words express the essence
+Jewish tradition sees Hebrew as a holy language whose words express the essence
 of what they describe. The Kabbalists pointed out that the Hebrew for "word" and
 for "thing" is the same, *davar*, reflecting the view that everything in
 Creation is a Divine word crystallized into material form. Yet Tanach, the
@@ -95,12 +95,10 @@ just older.
 ## The rabbis who wrote on synonyms
 
 Insights into apparent synonyms are scattered through rabbinic writing, from
-the Talmud to our own day, and some rabbis wrote whole books on the subject.
+the time of the Talmud to our own day, and some rabbis wrote whole books on the subject.
 Where a thesaurus such as J. I. Rodale's *The Synonym Finder* gathers words that
 mean the same, these books show how such words differ. The article names seven
-of these rabbis, and most entries on this site cite at least one of them. It
-names only Bedersi's book; the works given for the others come from Rabbi
-Klein's other writing.
+of these rabbis, and most entries on this site cite at least one of them.
 
 - **Rabbi Avraham Bedersi HaPenini** (1230 to 1300), *Chosam Tochnis*
 - **Rabbi Shlomo Pappenheim** of Breslau (1740 to 1814), *Cheshek Shlomo* and
