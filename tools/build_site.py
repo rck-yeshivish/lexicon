@@ -663,6 +663,57 @@ def gloss_block(part, heading=True, summary=False, with_sense=True):
     return f'<div class="rad-en" dir="ltr" lang="en">{head}{line}{more}</div>'
 
 
+def pap(root):
+    """The guide's English for Rav Pappenheim's entry on these letters, or {}."""
+    k = root_key(root)
+    return next((g for h, g in CHESHEK_GLOSS["glosses"].items() if root_key(h) == k), {})
+
+
+def pap_english(g, summary=False, with_sense=True):
+    """His entry in English, in the shape and classes Radak's English uses."""
+    if summary:
+        more = "".join(f'<details class="rad-en-d"><summary>{en_text(m["h"])}</summary>'
+                       f'<p class="rad-en-b">{en_text(m["t"])}</p></details>' for m in g["more"])
+        more = f'<div class="rad-en-l">{more}</div>' if more else ""
+    else:
+        more = "".join(f'<div class="rad-en-p"><p class="rad-en-t">{en_text(m["h"])}</p>'
+                       f'<p class="rad-en-b">{en_text(m["t"])}</p></div>' for m in g["more"])
+    line = f'<p class="rad-en-s">{en_text(g["sense"])}</p>' if with_sense else ""
+    return (f'<div class="rad-en" dir="ltr" lang="en"><p class="rad-en-h">In English, our account of '
+            f'his entry</p>{line}{more}</div>')
+
+
+def pap_pages(root):
+    k = root_key(root)
+    r = next((r for h, r in CHESHEK["roots"].items() if root_key(h) == k), None)
+    return r["pages"] if r else None
+
+
+def pap_html(root):
+    """The roots page's panel for one of his roots. The row carries the sense."""
+    g = pap(root)
+    if not g:
+        return ""
+    pages = pap_pages(root)
+    where = (f'<p class="pap-where">Printed pages {pages[0]} to {pages[1]} of the edition.</p>'
+             if pages else "")
+    return pap_english(g, with_sense=False) + where
+
+
+def pap_section(e):
+    """His entries on the entry's roots, beside Radak's at the foot of the page."""
+    roots = [r for r in sorted(e.get("roots", []), key=root_sort) if pap(r) and not radak(r)]
+    if not roots:
+        return ""
+    blocks = "".join(f'<h4><a href="../roots.html#r-{root_key(r)}" dir="rtl" lang="he">'
+                     f'{html.escape(r)}</a></h4>{pap_english(pap(r), summary=True)}' for r in roots)
+    one = len(roots) == 1
+    return (f'<details class="radak pap" id="s-pap"><summary>'
+            f'<h2>Rav Pappenheim on {"this root" if one else "these roots"}</h2>'
+            f'<span class="guide-hint">Cheshek Shlomo</span></summary>'
+            f'{blocks}<p class="radak-credit">{CHESHEK_CREDIT}</p></details>')
+
+
 def radak_opening(text, n=120):
     """The first words of an entry, cut at a space so nothing breaks mid-word."""
     if len(text) <= n:
@@ -787,6 +838,17 @@ GLOSS = {"meta": {}, "glosses": {}}
 # The pesukim he cites that the entries do not (references/radak-pesukim.json,
 # from tools/fetch_radak_pesukim.py). The entries' own store answers first.
 RADAK_PESUKIM = {"meta": {}, "verses": {}}
+# Rav Pappenheim's Cheshek Shlomo, mapped by tools/split_cheshek.py
+# (references/cheshek-shlomo.json), and the guide's English for it
+# (references/cheshek-gloss.json). His roots are of two letters where Radak's
+# are of three, so his English fills the two-letter rows Radak leaves empty,
+# and a three-letter row he derives from one of them points to it. The Hebrew
+# is the 2017 edition's and waits on its editor's permission, so only the
+# English shows.
+CHESHEK = {"meta": {}, "roots": {}}
+CHESHEK_GLOSS = {"meta": {}, "glosses": {}}
+CHESHEK_CREDIT = ('Rav Shlomo Pappenheim, <em>Cheshek Shlomo</em> (Shorashim), first printed from his '
+                  'manuscript by Moshe Tzuriel, Bnei Brak 5777. The English is our account of his entry.')
 RADAK_CREDIT = ('Radak, <em>Sefer HaShorashim</em>, Berlin 1847. Public domain, '
                 'digitised by <a href="https://www.sefaria.org/">Sefaria</a> '
                 'from the National Library of Israel.')
@@ -1134,7 +1196,7 @@ def entry_page(e):
     # "other" is the catch-all domain and tells a reader nothing, so it gets no label.
     title = e["cluster"]
     eyebrow = '<p class="eyebrow">method</p>\n' if e["slug"] == METHOD else "" if e["domain"] == "other" else f'<p class="eyebrow">{html.escape(e["domain"])}</p>\n'
-    radak_block = radak_section(e)
+    radak_block = radak_section(e) + pap_section(e)
     parts = [f'''<article class="entry">
 {anchors}
 {eyebrow}<h1>{html.escape(title)}</h1>''']
@@ -1301,7 +1363,8 @@ def main():
             v.sort(key=lambda x: x[0].lower())
     for name, store in (("pesukim.json", PESUKIM), ("talmud.json", TALMUD),
                         ("shorashim.json", SHORASHIM), ("radak-gloss.json", GLOSS),
-                        ("radak-pesukim.json", RADAK_PESUKIM)):
+                        ("radak-pesukim.json", RADAK_PESUKIM), ("cheshek-shlomo.json", CHESHEK),
+                        ("cheshek-gloss.json", CHESHEK_GLOSS)):
         f = ROOT / "references" / name
         if f.exists():
             store.update(json.loads(f.read_text(encoding="utf-8")))
@@ -1456,6 +1519,14 @@ def main():
             '<line x1="5" y1="12" x2="19" y2="12"></line>'
             '<line class="rexp-v" x1="12" y1="5" x2="12" y2="19"></line></svg></span>')
     rrows = []
+    # The three-letter roots Rav Pappenheim derives from one of his two-letter
+    # roots, each pointing to that root's row where the page carries it.
+    row_name = {root_key(r): r for r in rmap}
+    pap_from = {}
+    for h, g in CHESHEK_GLOSS["glosses"].items():
+        for d in g.get("derives", []):
+            if root_key(h) in row_name:
+                pap_from.setdefault(root_key(d), []).append(root_key(h))
     for r in sorted(rmap, key=root_sort):
         links = " &middot; ".join(f'<a href="entries/{s}.html">{html.escape(c)}</a>' for c, s in rmap[r])
         first = root_key(r)[:1]
@@ -1481,27 +1552,44 @@ def main():
                f'<span class="rad" dir="rtl" lang="he">{html.escape(radak_opening(text))}</span>'
                if text and not under else
                f'<span class="rad none">{"One" if n == 1 else "Two"}-letter root, '
-               f'no entry of his</span>' if n < 3 else '<span class="rad"></span>')
-        rrows.append(f'<div class="r{" has-rad" if text else ""}" data-l="{first}" data-k="{root_key(r)}"'
-                     f'{" tabindex=0 role=button aria-expanded=false" if text else ""}>'
+               f'not in Radak</span>' if n < 3 else '<span class="rad"></span>')
+        # Radak has no entry for a root of two letters, and Rav Pappenheim's
+        # whole scheme is built on them, so his English fills the row.
+        g = {} if text else pap(r)
+        if g:
+            rad = (f'<span class="rad sense"><span class="who">Rav Pappenheim</span>'
+                   f'{en_text(g["sense"])}</span>')
+        ptr = pap_from.get(root_key(r), []) if n >= 3 else []
+        if ptr:
+            to = " and ".join(f'<a href="#r-{k}" dir="rtl" lang="he">{html.escape(row_name[k])}</a>'
+                              for k in ptr)
+            rad = (rad[:-len("</span>")] + f'<span class="pap-ptr" dir="ltr" lang="en">'
+                   f'Rav Pappenheim takes it from {to}</span></span>')
+        opens = (bool(text) and not under) or bool(g)
+        rrows.append(f'<div class="r{" has-rad" if text or g else ""}" data-l="{first}" data-k="{root_key(r)}"'
+                     f'{" data-who=pap" if g else ""}'
+                     f'{" tabindex=0 role=button aria-expanded=false" if text or g else ""}>'
                      f'<span class="h" id="r-{root_key(r)}" dir="rtl" lang="he">{html.escape(r)}</span>'
                      f'<span class="tx rlinks">{links}</span>{rad}'
-                     f'{chev if text and not under else "<span></span>"}</div>')
+                     f'{chev if opens else "<span></span>"}</div>')
     roots_body = f'''<section class="browse">
   <h1>Roots</h1>
-  <p class="lede">Every root the entries name, and the groups whose words come from it. Beside each root is what Radak gives it in <em>Sefer HaShorashim</em>; open the row for the rest of his entry, in English and in his own Hebrew.</p>
+  <p class="lede">Every root the entries name, and the groups whose words come from it. Beside each root is what Radak gives it in <em>Sefer HaShorashim</em>; open the row for the rest of his entry, in English and in his own Hebrew. A root of two letters, which Radak does not treat, has Rav Pappenheim&rsquo;s <em>Cheshek Shlomo</em> instead, in English, where it is written.</p>
   <div class="letters heb">{letters}</div>
   <p class="count" id="count">{len(rmap):,} roots</p>
   <div class="rhead" aria-hidden="true"><span>Root</span><span>Groups</span><span>Radak, <em>Sefer HaShorashim</em><span class="rhint">open a row for his entry, in English and his Hebrew</span></span></div>
   <div id="list" class="rows roots">{"".join(rrows)}</div>
   <p class="radak-credit">{RADAK_CREDIT} The pesukim he cites are from
     Sefaria: {pesukim_credit()}.</p>
+  {f'<p class="radak-credit">{CHESHEK_CREDIT}</p>' if CHESHEK_GLOSS["glosses"] else ""}
 </section>'''
     chunks = {}
     for r in rmap:
         text = radak(r)
         if text:
             chunks.setdefault(root_key(r)[:1], {})[root_key(r)] = radak_html(r)
+        elif pap(r):
+            chunks.setdefault(root_key(r)[:1], {})[root_key(r)] = pap_html(r)
     verses = {}
     for r in rmap:
         e = SHORASHIM["roots"].get(root_key(r)) or {}
@@ -1931,6 +2019,10 @@ header.bare .brand{flex:1}
 .rad.points{font:400 14px/1.5 var(--ui);color:var(--faint);text-align:left}
 .rad.points a{font-size:16px;color:var(--dim)}
 .rad.none{font:400 13.5px/1.5 var(--ui);color:var(--faint);font-style:italic;text-align:left}
+.rad .who{font:600 10.5px/1.5 var(--ui);text-transform:uppercase;letter-spacing:.07em;color:var(--faint);margin-right:8px}
+.pap-ptr{display:block;direction:ltr;text-align:left;font:400 13.5px/1.5 var(--ui);color:var(--faint);margin-top:2px}
+.pap-ptr a{font-family:var(--heb);font-size:16px;color:var(--dim)}
+.pap-where{font:400 13px/1.5 var(--ui);color:var(--faint);margin:0}
 /* It sits inside his Hebrew, which is RTL, so a narrow block would be held to
    the right; these margins keep the English at the left edge of the card. It
    takes the same measure as his Hebrew below it, so the two end on the same
@@ -2647,13 +2739,36 @@ function wireRoots(){
     el.className = "rad-open";
     // The chunk already carries his Hebrew and its English as two columns, each
     // with its own direction, so it is not wrapped in one right-to-left block.
-    el.innerHTML = `<p class="rad-who">Radak, <em>Sefer HaShorashim</em>, on the root `
+    const who = row.dataset.who === "pap"
+      ? `Rav Shlomo Pappenheim, <em>Cheshek Shlomo</em>, on the root `
+      : `Radak, <em>Sefer HaShorashim</em>, on the root `;
+    el.innerHTML = `<p class="rad-who">${who}`
       + `<bdi lang="he">${row.querySelector(".h").textContent}</bdi></p>${text}`;
     row.after(el);
     wireCites(el, letter, "");
     row.setAttribute("aria-expanded", "true");
   };
-  list.addEventListener("click", e => {
+  list.addEventListener("click", async e => {
+    // A pointer to another row ("Rav Pappenheim takes it from כר") may lead to
+    // a letter the strip is not showing, so show that letter, then go there.
+    const jump = e.target.closest('a[href^="#r-"]');
+    if(jump){
+      const head = document.getElementById(decodeURIComponent(jump.getAttribute("href").slice(1)));
+      const to = head && head.closest(".r");
+      if(to){
+        e.preventDefault();
+        if(to.hidden){
+          const b = document.querySelector(`.ltr[data-l="${to.dataset.l}"]`);
+          if(b) b.click();
+        }
+        if(to.classList.contains("has-rad") && to.getAttribute("aria-expanded") !== "true") await open(to);
+        // just under the sticky header, its panel opening below it; instant,
+        // since the page scrolls smoothly and the letter's rows have only just
+        // been redrawn, which cut a smooth scroll short
+        window.scrollTo({top: to.getBoundingClientRect().top + scrollY - 120, behavior: "instant"});
+      }
+      return;
+    }
     const row = e.target.closest(".r.has-rad");
     if(row && !e.target.closest("a")) open(row);
   });

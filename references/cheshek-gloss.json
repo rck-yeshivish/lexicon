@@ -3,7 +3,8 @@
   "work": "Rabbi Shlomo Pappenheim, Cheshek Shlomo (Shorashim)",
   "brief": "CHESHEK-BRIEF.md",
   "keyed": "by the root as references/cheshek-shlomo.json keys it",
-  "status": "draft: written and checked by agents against his text; not yet read by a person"
+  "status": "draft: written and checked by agents against his text; not yet read by a person",
+  "derives": "three-letter roots, finals folded, that his entry derives from this root; the roots page points from each to it"
  },
  "glosses": {
   "כר": {
@@ -117,6 +118,14 @@
      "h": "מכר, the price of hire",
      "t": "The noun with a suffix: ונתתי מכרם (Bamidbar 20:19), I will pay their price, that is, what is paid to hire wells of water. ורחק מפנינים מכרה (Mishlei 31:10), her price is far beyond pearls: the sum fitting to give a woman of valor hired as a wife is far beyond pearls. Taking a wife is not like acquiring other goods, which a man may do with as he pleases; taking a wife is like hire, for the woman's own person stays in her own domain and not in her husband's, except for what touches the marriage. Without the suffix the noun is מכרה, as ומכרה מלח (Tzefaniah 2:9), and a salt pit, on the pattern of מקרה, a happening."
     }
+   ],
+   "derives": [
+    "נכר",
+    "כרה",
+    "מכר",
+    "כרת",
+    "ככר",
+    "כרכ"
    ]
   },
   "בל": {
@@ -270,6 +279,12 @@
      "h": "מבול, the Flood",
      "t": "From all these senses of בל comes מבול: הנני מביא את המבול (Bereishis 6:17), behold, I am bringing the Flood. It is called מבול from wearing out and rot, for it wore everything out; from blending, for it confounded everything; from יובל, for it carried everything off; and from נבלי שמים (Iyov 38:37), the flasks of heaven, and from יבלי מים (Yeshayahu 44:4), streams of water, as the aggadah expounds."
     }
+   ],
+   "derives": [
+    "אבל",
+    "נבל",
+    "יבל",
+    "בלה"
    ]
   },
   "עד": {
@@ -399,6 +414,10 @@
      "h": "תעודה, attestation",
      "t": "Another noun of the event from עדות is תעודה: וזאת התעודה בישראל (Rus 4:7), and this was the attestation in Yisrael, that is, doing a certain act is testimony that the dealing is concluded; צור תעודה חתום תורה בלמודי (Yeshayahu 8:16), bind up the testimony, seal the Torah among My disciples; and לתורה ולתעודה (Yeshayahu 8:20), to the Torah and to the testimony, that is, to testimony. The difference between עדות and תעודה he sets out at the root בן."
     }
+   ],
+   "derives": [
+    "יעד",
+    "עדנ"
    ]
   },
   "אף": {
@@ -476,6 +495,9 @@
      "h": "Na'af and mena'ef",
      "t": "Na'af in the light form differs from mena'ef in the heavy, and no'efes from mena'efes. The light: מות יומת הנואף והנואפת, \"the adulterer and the adulteress shall surely be put to death\" (Vayikra 20:10). The heavy: זרע מנאף ותזנה, \"seed of an adulterer, and she played the harlot\" (Yeshayahu 57:3); כן דרך אשה מנאפת, \"so is the way of an adulterous woman\" (Mishlei 30:20). The light form is what he undergoes from the woman; the heavy is the things he does so that the woman is moved by him to desire, such as winking with his eyes. So a woman moved by the man is called no'efes, in the light form, and one who uses deeds and gestures to rouse the man's longing is mena'efes, in the heavy."
     }
+   ],
+   "derives": [
+    "אפה"
    ]
   },
   "ער": {
@@ -597,6 +619,13 @@
      "h": "ער, cunning without the mem",
      "t": "The sense of ערמה is found without the mem as well: ער וענה מאהלי יעקב (Malachi 2:12), the one awake and the one who answers, from the tents of Yaakov, that is, diligent and sharp, whose mind is awake. It is like עצם, the shutting of the eyes, found with a mem, ועצם עיניו (Yeshayahu 33:15), and shuts his eyes, and also without it, עצה עיניו (Mishlei 16:30), he shuts his eyes, with one sense; so too ערם and ער."
     }
+   ],
+   "derives": [
+    "ערה",
+    "ערמ",
+    "ערר",
+    "נער",
+    "תער"
    ]
   },
   "בא": {
@@ -662,6 +691,9 @@
      "h": "Two stages, ל and ב, make בא",
      "t": "A quality that comes from outside must pass two stages. First the motion, in which it moves to cleave to its bearer: the preparation and the act before the attachment. Then the attachment itself, the point of time at which it takes hold and is complete, the outcome of the motion before it. The letter ל marks the motion that comes before, which the logicians call מאמר לו, the category of to it, motion toward some point, matter or state; the letter ב marks the attachment once complete, which they call מאמר בו, the category of in it. German says both with its word for in: of one walking in the city, געהט אין דער שטאט, geht in der Stadt, he walks in the city, and of one going to the city, געהט אין דיא שטאט, geht in die Stadt, he goes into the city; it tells the two apart by the article, die or der, the word der, which Rav Pappenheim labels genitive, meaning the inside of the city. So ב serves for the cleaving of a quality to its bearer, from within or from outside, and from its use for what comes from outside the language made the word בא, to come: the verb that gathers both stages. Before the joining is complete the one coming is in motion toward the boundary he heads for, in the category of to it; once he has cleaved to that boundary he passes out of the category of to it into the category of in it, and the verb that holds both is called בא."
     }
+   ],
+   "derives": [
+    "נבא"
    ]
   },
   "גז": {
@@ -707,6 +739,10 @@
      "h": "Its companion, the yelek",
      "t": "Its companion, in וילק ואין מספר (Tehillim 105:34), and yelek without number, is named from מליקה, nipping, since it nips the greens; or from the sense of ילקו הכלבים (Melachim I 21:19), the dogs shall lick, which is to be explained under the root לק."
     }
+   ],
+   "derives": [
+    "גזז",
+    "גזמ"
    ]
   },
   "שב": {
@@ -776,6 +812,12 @@
      "h": "שאב: drawing water",
      "t": "For stopping plain natural motion there is the verb שאב, drawing water: יוצאות לשאוב מים (Bereishis 24:13), coming out to draw water; עד שואב מימיך (Devarim 29:10), to the one who draws your water; ושאבתם מים בששון (Yeshayahu 12:3), you shall draw water in joy. Water brought into a vessel is stopped from flowing and moving with its natural motion. So the three are set apart by the motion each stops: שביה the movement of choice and will, שבת occupation and work, שאב the plain motion of nature; and Rav Pappenheim calls שאב close to שביה, in which the captive is stopped from the movement of his own choice."
     }
+   ],
+   "derives": [
+    "ישב",
+    "נשב",
+    "שבה",
+    "שבת"
    ]
   },
   "עם": {
@@ -837,6 +879,11 @@
      "h": "The root: ע, movement",
      "t": "The root of עם is the ayin alone, whose basic sense is movement, as set out under the root עה. The added mem makes it movement at one time, that is, existence at one time (in German, being at the same time, simultaneity), since the sign of existence is movement, and movement is in time, time being its foundation. So עם falls on the existence of two things under one relation: they share in the movement of what befalls them, that is, in existence, this one's lot like that one's."
     }
+   ],
+   "derives": [
+    "נעמ",
+    "עממ",
+    "עמת"
    ]
   },
   "גר": {
@@ -914,6 +961,11 @@
      "h": "גור, a cub",
      "t": "From dwelling, the young of wild beasts is גור: גור אריה יהודה (Bereishis 49:9), \"Yehudah is a lion's cub\"; רבתה גוריה (Yechezkel 19:2), \"she reared her cubs\"; היניקו גוריהן (Eichah 4:3), \"they suckled their young\". It is called גור because it dwells in its den and its hole and does not yet go out to roam the land for prey, the grown beasts bringing it food. So ותעל אחד מגריה כפיר היה וילמד לטרף טרף (Yechezkel 19:3), \"she brought up one of her cubs, he became a young lion and learned to tear prey\": she brought one of her cubs up out of the hole, and it grew and became a כפיר, the lion that roams the villages, the כפרים, for food, and only afterwards learned to prey. Since the young lion preys more fiercely than the old, the tribes are likened, where preying is meant, to a lion's cub, a young lion, even though as long as it is a cub it does not prey."
     }
+   ],
+   "derives": [
+    "אגר",
+    "גרמ",
+    "גרנ"
    ]
   }
  }
