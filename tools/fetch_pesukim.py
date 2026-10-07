@@ -54,7 +54,7 @@ def cited():
         m = re.search(r"^hebrew:\s*\[(.*)\]", text, re.M)
         words = {refs.bare(h.strip()) for h in m.group(1).split(",")} if m else set()
         body = text.split("\n---\n", 1)[1]
-        for _s, _e, kind, _b, _n, pieces in refs.find(body.replace("\n", " ")):
+        for _s, _e, kind, _b, _n, pieces in refs.find(body.replace("\n", " "), entry=p.stem):
             for _, _, ks in pieces:
                 if kind in ("bavli", "yerushalmi"):
                     daf = next(k for k in ks if " on " not in k)

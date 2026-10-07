@@ -1,0 +1,3051 @@
+{
+ "_note": "Citations whose commentator the site cannot tell by pattern, each read in its entry and judged (2026-10-07). Each row is an entry, the words just before a list of citations, and whose comment the list is: the citation then opens his comment, not the pasuk or the Gemara. An empty list means the citation is the pasuk's or the Gemara's own. tools/cite_commentators.py lists what is left to judge.",
+ "cites": [
+  {
+   "entry": "activist-askan-shtadlan-macher",
+   "before": " that is subject to controversy (Rashi to Shavuos ",
+   "cite": "Bava Metzia 14a",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "activist-askan-shtadlan-macher",
+   "before": "ר, and reads the word as rebellion, contravening (",
+   "cite": "Ezra 4:15, 4:19",
+   "by": []
+  },
+  {
+   "entry": "activist-askan-shtadlan-macher",
+   "before": "tends to other transactions including shidduchim (",
+   "cite": "Kesubos 8a",
+   "by": []
+  },
+  {
+   "entry": "activist-askan-shtadlan-macher",
+   "before": "renders pitui, seducing or convincing, as shadal (",
+   "cite": "Shemos 22:15",
+   "by": [
+    "Targum Onkelos"
+   ]
+  },
+  {
+   "entry": "activist-askan-shtadlan-macher",
+   "before": "15), and Rashi (there, and to ",
+   "cite": "Yoma 35b",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "almond-luz-shaked",
+   "before": "se, since he renders shaked consistently as segd (",
+   "cite": "Bereishis 43:11",
+   "by": [
+    "Targum Onkelos"
+   ]
+  },
+  {
+   "entry": "almond-luz-shaked",
+   "before": "gum Onkelos, Targum Yonasan and Targum Neofiti to ",
+   "cite": "Bereishis 43:11",
+   "by": [
+    "Targum Onkelos",
+    "Targum Yonasan"
+   ]
+  },
+  {
+   "entry": "angel-malach-shaliach",
+   "before": "he core meaning of shadar as rebelling (eshtadur, ",
+   "cite": "Ezra 4:15, 4:19",
+   "by": []
+  },
+  {
+   "entry": "animal-behemah-chayah",
+   "before": " favors Ibn Ezra and Radak and doubts Ramban from ",
+   "cite": "Bava Kamma 19b",
+   "by": []
+  },
+  {
+   "entry": "animal-sounds-shoeg-nohem-noer",
+   "before": "Rashi cites the list, in whole or in part, to ",
+   "cite": "Yeshayahu 8:19 and 29:4",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "approach-gishah-kiruv",
+   "before": "Targum Yerushalmi renders an ox goring as yigash (",
+   "cite": "Shemos 21:28",
+   "by": []
+  },
+  {
+   "entry": "approach-gishah-kiruv",
+   "before": "Targum renders both by kiruv cognates (",
+   "cite": "Bereishis 18:23, 33:6, 44:18",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "armed-chamush-chalutz-mezuyan",
+   "before": "Ramban reads the peshat at ",
+   "cite": "Shemos 13:18",
+   "by": [
+    "Ramban"
+   ]
+  },
+  {
+   "entry": "artisan-charash-choshev-rokem",
+   "before": "er or barber, and the word means a bloodletter in ",
+   "cite": "Taanis 21b",
+   "by": []
+  },
+  {
+   "entry": "artisan-charash-choshev-rokem",
+   "before": "Rashi (following ",
+   "cite": "Gittin 88a",
+   "by": []
+  },
+  {
+   "entry": "balsam-panag-tzari-afarsemon",
+   "before": "Rashi cites this (to ",
+   "cite": "Yechezkel 27:17",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "balsam-panag-tzari-afarsemon",
+   "before": "11 with Targum Onkelos, ",
+   "cite": "Yirmiyahu 8:22, 46:11, 51:8",
+   "by": []
+  },
+  {
+   "entry": "basket-tene-sal-keluv",
+   "before": "r harvesting dates (Rashi and Rabbeinu Gershom to ",
+   "cite": "Bava Basra 33b",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "bed-mitah-eres",
+   "before": " some sources arisah is conjugated as a verb (see ",
+   "cite": "Berachos 37b",
+   "by": []
+  },
+  {
+   "entry": "betrothal-erusin-kiddushin-nissuin",
+   "before": "kiddush in the sense of preparing or designating (",
+   "cite": "Shemos 19:10",
+   "by": []
+  },
+  {
+   "entry": "blue-sapir-techeiles-kachol",
+   "before": " (to Berachos) and Tosafos and Tosafos HaRosh (to ",
+   "cite": "Chullin 47b",
+   "by": [
+    "Tosafos"
+   ]
+  },
+  {
+   "entry": "boats-oniah-sefinah-rafsodah",
+   "before": "Radak (Sefer HaShorashim) traces tzi (",
+   "cite": "Yeshayahu 33:21",
+   "by": []
+  },
+  {
+   "entry": "boats-oniah-sefinah-rafsodah",
+   "before": ", and Rashi glosses ilfa as sefinah in one place (",
+   "cite": "Avodah Zarah 10b",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "boats-oniah-sefinah-rafsodah",
+   "before": "place (Avodah Zarah 10b) and as oniah in another (",
+   "cite": "Eruvin 53b",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "boats-oniah-sefinah-rafsodah",
+   "before": " Chaim) gives as an example of Rashi's remark (to ",
+   "cite": "Shabbos 103b",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "boils-shechin-garav-cheres",
+   "before": "means heat at root, as the Targum renders vecham (",
+   "cite": "Melachim I 1:2",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "boils-shechin-garav-cheres",
+   "before": "Rashi, from ",
+   "cite": "Bechoros 41a",
+   "by": []
+  },
+  {
+   "entry": "bone-etzem-gerem",
+   "before": "rgum renders sabosi, I brought about, as garamti (",
+   "cite": "Shmuel I 22:22",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "book-sefer-iggeret-megillah",
+   "before": "ut quoting Ritva directly, and uses it to explain ",
+   "cite": "Megillah 19a",
+   "by": []
+  },
+  {
+   "entry": "book-sefer-iggeret-megillah",
+   "before": "own work he uses it of his rebbi's commentary (to ",
+   "cite": "Gittin 82a",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "border-gevul-techum-meitzar-sfar",
+   "before": " (Sefer HaShorashim) adds givlim, \"stonecutters\" (",
+   "cite": "Melachim I 5:32",
+   "by": []
+  },
+  {
+   "entry": "border-gevul-techum-meitzar-sfar",
+   "before": "Targum uses it likewise (",
+   "cite": "Bereishis 49:13",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "border-gevul-techum-meitzar-sfar",
+   "before": "etween the boundaries\" and keep \"straits\" for the ",
+   "cite": "Tehillim 118:5",
+   "by": []
+  },
+  {
+   "entry": "bowing-kidah-kriah-hishtachavaah",
+   "before": " Targum generally renders hishtachavaah as sagid (",
+   "cite": "Bereishis 18:2, 23:7, 23:12,   24:26",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "bowing-kidah-kriah-hishtachavaah",
+   "before": "t that \"face\" appears with hishtachavaah as well (",
+   "cite": "Yeshayahu 49:23",
+   "by": []
+  },
+  {
+   "entry": "breast-shadayim-dadim-atinim",
+   "before": "ed by Rabbi Menachem ben Shimon of Posquieres (to ",
+   "cite": "Yechezkel 23:3",
+   "by": []
+  },
+  {
+   "entry": "cake-ugah-chararah-gluskos",
+   "before": "Rashi and the Mechilta's gloss on ugah (to ",
+   "cite": "Shemos 12:39",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "cake-ugah-chararah-gluskos",
+   "before": "Rashi and the Mechilta (to ",
+   "cite": "Shemos 12:39",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "canopy-apiryon-chuppah-succah",
+   "before": "Rashi to Succah ",
+   "cite": "Shemos 35:12",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "chance-mikreh-keri-teunah-irua",
+   "before": "Malbim illustrates the distinction from ",
+   "cite": "Shemos 21:13",
+   "by": [
+    "Malbim"
+   ]
+  },
+  {
+   "entry": "cheese-gvinah-charitz-shfot",
+   "before": "n, Rashi, and Machberes Menachem read cheese, and ",
+   "cite": "Bechoros 6b",
+   "by": []
+  },
+  {
+   "entry": "cheese-gvinah-charitz-shfot",
+   "before": "at resembles threshing, and threshing is charutz (",
+   "cite": "Yeshayahu 10:22, 28:27",
+   "by": []
+  },
+  {
+   "entry": "cheese-gvinah-charitz-shfot",
+   "before": "le still being processed, and charitz is cutting (",
+   "cite": "Iyov 14:5",
+   "by": []
+  },
+  {
+   "entry": "cheese-gvinah-charitz-shfot",
+   "before": "Tzion tie the word to ש-ף, rubbing and massaging (",
+   "cite": "Iyov   33:21",
+   "by": []
+  },
+  {
+   "entry": "chew-koses-loes",
+   "before": "m renders the biblical nikkudim, food provisions (",
+   "cite": "Yehoshua 9:5, 9:12",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "chew-koses-loes",
+   "before": "os Berachos 149) and Rav Hai Gaon (Sefer HaNer to ",
+   "cite": "Berachos 42a",
+   "by": []
+  },
+  {
+   "entry": "chew-koses-loes",
+   "before": "Rashi twice defines it by the other word, to ",
+   "cite": "Pesachim 39b",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "chick-efroach-gozal-pargit-nipol",
+   "before": "A cryptic remark of Ibn Ezra at ",
+   "cite": "Devarim 32:11",
+   "by": [
+    "Ibn Ezra"
+   ]
+  },
+  {
+   "entry": "chick-efroach-gozal-pargit-nipol",
+   "before": "both identify it as a dove there), \"fledgling\" at ",
+   "cite": "Devarim 32:11",
+   "by": []
+  },
+  {
+   "entry": "chick-efroach-gozal-pargit-nipol",
+   "before": "Where Targum Yonasan renders efroach as gozal (",
+   "cite": "Devarim 22:6",
+   "by": [
+    "Targum Yonasan"
+   ]
+  },
+  {
+   "entry": "chick-efroach-gozal-pargit-nipol",
+   "before": "h, twice) with Targum Yonasan and Targum Onkelos, ",
+   "cite": "Iyov 39:30",
+   "by": []
+  },
+  {
+   "entry": "chick-efroach-gozal-pargit-nipol",
+   "before": "9 with Targum Onkelos and ",
+   "cite": "Devarim 32:11",
+   "by": []
+  },
+  {
+   "entry": "child-yeled-olel-roveh-ravya",
+   "before": "Onkelos usually renders yeled as ravya (",
+   "cite": "Bereishis 21:8, 21:16",
+   "by": [
+    "Onkelos"
+   ]
+  },
+  {
+   "entry": "child-yeled-olel-roveh-ravya",
+   "before": "et at the single appearance of yaldah in Chumash (",
+   "cite": "Bereishis 34:4",
+   "by": []
+  },
+  {
+   "entry": "child-yeled-olel-roveh-ravya",
+   "before": "gum renders bachur with cognates of revi/ravya at ",
+   "cite": "Rus 3:10",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "child-yeled-olel-roveh-ravya",
+   "before": "Rashi translates rivah/riviysa as naarah (",
+   "cite": "Shabbos 127b",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "child-yeled-olel-roveh-ravya",
+   "before": "Shabbos 127b, Kesubos 62b, Sanhedrin 109b) but at ",
+   "cite": "Sotah 26a",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "child-yeled-olel-roveh-ravya",
+   "before": "me places uses tali/talya for yeled and for naar (",
+   "cite": "Megillah 5b",
+   "by": []
+  },
+  {
+   "entry": "child-yeled-olel-roveh-ravya",
+   "before": "Onkelos' ulemta at ",
+   "cite": "Bereishis 34:4",
+   "by": [
+    "Onkelos"
+   ]
+  },
+  {
+   "entry": "circumciser-mohel-gozer-rofeh-uman",
+   "before": "ords of gozer, and renders Tzipporah's vatichros (",
+   "cite": "Shemos 4:25",
+   "by": [
+    "Targum Onkelos"
+   ]
+  },
+  {
+   "entry": "citron-hadar-etrog-tapuach",
+   "before": " the Rambam hold that the Torah's pri eitz hadar (",
+   "cite": "Vayikra 23:40",
+   "by": [
+    "Ibn Ezra"
+   ]
+  },
+  {
+   "entry": "coins-shekel-sela-beka-darkemon",
+   "before": " beka is a full shekel? He renders beka as tikla (",
+   "cite": "Bereishis 24:22",
+   "by": [
+    "Onkelos"
+   ]
+  },
+  {
+   "entry": "color-tzeva-gavan-ein-mareh",
+   "before": "form or likeness (Targum of k'demus, ",
+   "cite": "Tehillim 58:5",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "color-tzeva-gavan-ein-mareh",
+   "before": "5), color, and topic or subject (Targum of inyan, ",
+   "cite": "Koheles 1:13, 2:23",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "color-tzeva-gavan-ein-mareh",
+   "before": "a'im as a single garment made of many colors, and ",
+   "cite": "Yirmiyahu 12:9",
+   "by": []
+  },
+  {
+   "entry": "color-tzeva-gavan-ein-mareh",
+   "before": "Targum renders tachash as sasgevana (to ",
+   "cite": "Bamidbar 4:6",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "coming-biah-halichah-atah",
+   "before": "um sometimes renders it atah instead of azal (see ",
+   "cite": "Melachim II 10:16",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "coriander-gad-kusbarta",
+   "before": "Ibn Ezra (both commentaries to ",
+   "cite": "Shemos 16:31",
+   "by": [
+    "Ibn Ezra"
+   ]
+  },
+  {
+   "entry": "corner-peah-keren-zavit-pinah",
+   "before": "5), and Onkelos renders it, like the rest, zavit (",
+   "cite": "Shemos 26:23",
+   "by": [
+    "Onkelos"
+   ]
+  },
+  {
+   "entry": "corner-peah-keren-zavit-pinah",
+   "before": "dge/end,\" and Onkelos renders this one zavit too (",
+   "cite": "Shemos 38:5",
+   "by": [
+    "Onkelos"
+   ]
+  },
+  {
+   "entry": "corner-peah-keren-zavit-pinah",
+   "before": "for corner, which Onkelos likewise renders zavit (",
+   "cite": "Shemos 25:12",
+   "by": [
+    "Onkelos"
+   ]
+  },
+  {
+   "entry": "crying-out-tzaakah-zaakah-shaavah",
+   "before": "17 with Rashi and ",
+   "cite": "Iyov 40:17",
+   "by": []
+  },
+  {
+   "entry": "cutting-tools-garzen-kardum-maatzad",
+   "before": "sinnu and the Aramaic chatzina (Targum Yonasan to ",
+   "cite": "Yoma 37b",
+   "by": []
+  },
+  {
+   "entry": "cutting-tools-garzen-kardum-maatzad",
+   "before": "Radak, Sefer HaShorashim, and to ",
+   "cite": "Shmuel I 13:20",
+   "by": [
+    "Radak"
+   ]
+  },
+  {
+   "entry": "dancing-rikud-kirkur-pizuz",
+   "before": "ith an inflection of sivuv, \"around.\" (Shadal, to ",
+   "cite": "Bereishis 11:9 and 13:10",
+   "by": [
+    "Shadal"
+   ]
+  },
+  {
+   "entry": "dancing-rikud-kirkur-pizuz",
+   "before": " HaShorashim) and Rabbeinu Avraham ben Shlomo (to ",
+   "cite": "Shmuel II 6:16",
+   "by": []
+  },
+  {
+   "entry": "delay-boshesh-ichur-hismahmeah",
+   "before": "Targum renders the bland food of ",
+   "cite": "Iyov 6:6",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "delay-boshesh-ichur-hismahmeah",
+   "before": "1, while Rashi proves it from ",
+   "cite": "Shoftim 5:28",
+   "by": []
+  },
+  {
+   "entry": "demon-sheid-lilis-ruach",
+   "before": "nd Rashi with it, read Boaz's fright at midnight (",
+   "cite": "Rus 3:8",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "dig-karah-chafirah-chatzivah",
+   "before": ", and why Yitzchak's servants first karah a well (",
+   "cite": "Bereishis 26:25",
+   "by": []
+  },
+  {
+   "entry": "directions-tzafon-darom-mizrach-maarav",
+   "before": "certain healing properties of the north wind (see ",
+   "cite": "Yevamos 72a",
+   "by": []
+  },
+  {
+   "entry": "dirt-zuhamah-lichluch-tinuf-goal",
+   "before": "escribe the spiritual grime of forbidden food (to ",
+   "cite": "Daniel 1:8",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "disgrace-bizayon-kalon-zilzul-gnai",
+   "before": "whom striking at Mordechai alone was beneath him (",
+   "cite": "Esther 3:6",
+   "by": []
+  },
+  {
+   "entry": "document-gett-shtar",
+   "before": "Tosafos Chachmei Anglia (",
+   "cite": "Gittin 2a",
+   "by": []
+  },
+  {
+   "entry": "donkey-chamor-aton-pere-ayir-pered",
+   "before": "ut Radak (Michlol, Shaar Dikduk HaPe'alim, and to ",
+   "cite": "Shmuel II 19:27",
+   "by": [
+    "Radak"
+   ]
+  },
+  {
+   "entry": "donkey-chamor-aton-pere-ayir-pered",
+   "before": " for the wild ass runs through the Bavli as well (",
+   "cite": "Berachos 9b",
+   "by": []
+  },
+  {
+   "entry": "donkey-chamor-aton-pere-ayir-pered",
+   "before": "g that Onkelos calls the Eimim people giants too (",
+   "cite": "Devarim 2:10-11",
+   "by": [
+    "Onkelos"
+   ]
+  },
+  {
+   "entry": "drinking-shtiyah-hashkaah-gemiah",
+   "before": "Rashi's comparison rests on the Gemara (",
+   "cite": "Shabbos 77a",
+   "by": []
+  },
+  {
+   "entry": "drunkenness-sove-shachar-sheichar",
+   "before": "ashi (to Bava Basra 15b) and Rabbi Yosef Kara (to ",
+   "cite": "Yeshayahu 1:22",
+   "by": []
+  },
+  {
+   "entry": "drunkenness-sove-shachar-sheichar",
+   "before": "i seems to treat it as a general term for drinks (",
+   "cite": "Yeshayahu   1:22",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "egypt-mitzrayim-patros-rahav",
+   "before": " baalei Tosafos had a tradition extending this to ",
+   "cite": "Shemos 14:10 and 14:25",
+   "by": []
+  },
+  {
+   "entry": "egypt-mitzrayim-patros-rahav",
+   "before": "with Tosafos Chitzoniyos (in Shitah Mekubetzes to ",
+   "cite": "Bechoros 5b",
+   "by": []
+  },
+  {
+   "entry": "egypt-mitzrayim-patros-rahav",
+   "before": "s to Shabbos 51b, and see Rabbeinu Nissim Gaon to ",
+   "cite": "Shabbos 90b",
+   "by": []
+  },
+  {
+   "entry": "egypt-mitzrayim-patros-rahav",
+   "before": "ular form of the name that Tanach sometimes uses (",
+   "cite": "Melachim II 19:24",
+   "by": []
+  },
+  {
+   "entry": "eleven-achad-asar-ashtei-asar",
+   "before": "s ashtei as a cognate of ashtanosav, \"his plans\" (",
+   "cite": "Tehillim 146:4",
+   "by": []
+  },
+  {
+   "entry": "excision-karet-ariri",
+   "before": "re not affected by his karet (Tosafos Yeshanim to ",
+   "cite": "Yevamos 2a",
+   "by": []
+  },
+  {
+   "entry": "excision-karet-ariri",
+   "before": "Tosafos and Tosafos Yeshanim to ",
+   "cite": "Yevamos 2a",
+   "by": [
+    "Tosafos"
+   ]
+  },
+  {
+   "entry": "family-mishpachah-bayis-sheer-machaneh",
+   "before": "lains that in \"you and your bayis shall rejoice\" (",
+   "cite": "Devarim 14:26",
+   "by": []
+  },
+  {
+   "entry": "fasting-tzom-taanis",
+   "before": "Nonetheless, Radak (Sefer HaShorashim, and to ",
+   "cite": "Melachim I 21:9",
+   "by": [
+    "Radak"
+   ]
+  },
+  {
+   "entry": "fat-cheilev-shuman-pader",
+   "before": "nkelos renders it with a form of shuman / shemen (",
+   "cite": "Bereishis 4:4",
+   "by": [
+    "Onkelos"
+   ]
+  },
+  {
+   "entry": "fat-cheilev-shuman-pader",
+   "before": "ashi often defines the Gemara's tarba as cheilev (",
+   "cite": "Shabbos 133b, 136b",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "first-person-anochi-ani",
+   "before": "Ibn Ezra relates anochi to anach, a plumb line (",
+   "cite": "Amos 7:7-8",
+   "by": []
+  },
+  {
+   "entry": "fish-dag-dagah",
+   "before": "105b, Gittin 69b) and by extension brine as such (",
+   "cite": "Shabbos 110b",
+   "by": []
+  },
+  {
+   "entry": "fish-dag-dagah",
+   "before": "and tzachanta (Rashi to Succah ",
+   "cite": "Sanhedrin 49a",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "fish-dag-dagah",
+   "before": "Rashi identifies tarit as tuna (",
+   "cite": "Megillah 6a",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "fish-dag-dagah",
+   "before": "a), and likewise sultanit and the Spanish kulyis (",
+   "cite": "Shabbos 39a",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "fish-nun-kavra-shibuta",
+   "before": "pe is that of a sea-fish, and Rashi (there and to ",
+   "cite": "Kesubos 39a",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "fish-nun-kavra-shibuta",
+   "before": "ere and to Kesubos 39a), his son-in-law Rivan (to ",
+   "cite": "Yevamos 12b",
+   "by": []
+  },
+  {
+   "entry": "flour-kemach-soles",
+   "before": "The Aramaic semida Rashi glosses as soles (",
+   "cite": "Shabbos 110b",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "food-ochel-shever-tevuah-dagan",
+   "before": "renders ochel, bar, shever and dagan all as avur (",
+   "cite": "Bereishis 41:35, 42:1",
+   "by": [
+    "Onkelos"
+   ]
+  },
+  {
+   "entry": "food-ochel-shever-tevuah-dagan",
+   "before": "oes the same to both words in the single pasuk of ",
+   "cite": "Amos 8:5",
+   "by": [
+    "Targum Yonasan"
+   ]
+  },
+  {
+   "entry": "food-ochel-shever-tevuah-dagan",
+   "before": "Radak, Sefer HaShorashim, and to ",
+   "cite": "Yehoshua 5:11",
+   "by": [
+    "Radak"
+   ]
+  },
+  {
+   "entry": "forehead-meitzach-padachat",
+   "before": "Tosafos HaShalem (to ",
+   "cite": "Shemos 39:28",
+   "by": []
+  },
+  {
+   "entry": "forehead-meitzach-padachat",
+   "before": "Rashi glosses padachat as meitzach at ",
+   "cite": "Shabbos 151b",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "forever-olam-netzach-selah-vaed",
+   "before": " by Rashi, Meiri and other classical meforshim to ",
+   "cite": "Tehillim 3:3",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "forever-olam-netzach-selah-vaed",
+   "before": "Rashi's own account of ",
+   "cite": "Eruvin 54a",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "forgetting-shachach-nashah",
+   "before": "so Tosafos Chachmei Anglia to ",
+   "cite": "Kiddushin 24a",
+   "by": []
+  },
+  {
+   "entry": "forgetting-shachach-nashah",
+   "before": "d his cousin Rabbeinu Bachya ibn Chalava (each to ",
+   "cite": "Bereishis 41:51",
+   "by": [
+    "Rabbeinu Bachya"
+   ]
+  },
+  {
+   "entry": "fortune-mazal-gad-mazar",
+   "before": "ether (Rashi glosses the first with the second at ",
+   "cite": "Bereishis 30:11",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "freedom-cheirus-chofesh-dror",
+   "before": "Rashi, following ",
+   "cite": "Rosh Hashanah 9b",
+   "by": []
+  },
+  {
+   "entry": "freedom-cheirus-chofesh-dror",
+   "before": "ee it does not reckon with being caught (see also ",
+   "cite": "Beitzah 24a",
+   "by": []
+  },
+  {
+   "entry": "fringes-tzitzis-gedilim-petil",
+   "before": "ealed vessel whose contents are saved from tumah (",
+   "cite": "Bamidbar 19:15",
+   "by": []
+  },
+  {
+   "entry": "fringes-tzitzis-gedilim-petil",
+   "before": "Rashi (to Sanhedrin 44a, and see ",
+   "cite": "Bechoros 34b",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "fringes-tzitzis-gedilim-petil",
+   "before": "niel's netilas min ar'a, \"lifted from the earth\" (",
+   "cite": "Daniel   7:4",
+   "by": []
+  },
+  {
+   "entry": "fringes-tzitzis-gedilim-petil",
+   "before": "gum Onkelos uses of a young person coming of age (",
+   "cite": "Bereishis 8:21",
+   "by": [
+    "Targum Onkelos"
+   ]
+  },
+  {
+   "entry": "garden-gan-pardes-bustan",
+   "before": "Rashi in places (to ",
+   "cite": "Eruvin 25b",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "garment-aderet-glima-itztala",
+   "before": "Targum Onkelos renders aderes at ",
+   "cite": "Bereishis 25:25",
+   "by": [
+    "Targum Onkelos"
+   ]
+  },
+  {
+   "entry": "garment-aderet-glima-itztala",
+   "before": "Targum Yonasan at ",
+   "cite": "Yehoshua 7:21 and 7:24",
+   "by": [
+    "Targum Yonasan"
+   ]
+  },
+  {
+   "entry": "garment-aderet-glima-itztala",
+   "before": "renders Achan's Babylonian aderes by it, and Rav (",
+   "cite": "Sanhedrin 44a",
+   "by": []
+  },
+  {
+   "entry": "garment-aderet-glima-itztala",
+   "before": "Rashi there (and at ",
+   "cite": "Bechoros 34b",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "garment-aderet-glima-itztala",
+   "before": "ty between the two words, which Rashi equates (to ",
+   "cite": "Sanhedrin 44a",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "gate-shaar-tera-bava",
+   "before": "In the Gemara Rashi renders it shaar (",
+   "cite": "Moed Katan 22a",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "gate-shaar-tera-bava",
+   "before": "haar (Moed Katan 22a) or, far more often, pesach (",
+   "cite": "Shabbos 32a",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "germany-ashkenaz-germamia-lotir",
+   "before": "y simply \"Asia\" (Targum Yerushalmi and Neofiti to ",
+   "cite": "Bereishis 10:3",
+   "by": []
+  },
+  {
+   "entry": "germany-ashkenaz-germamia-lotir",
+   "before": "Targum Rav Yosef to ",
+   "cite": "Divrei HaYamim I 1:6",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "germany-ashkenaz-germamia-lotir",
+   "before": "ut Targum pseudo-Yonasan and Targum Yerushalmi to ",
+   "cite": "Bereishis 10:2",
+   "by": [
+    "Targum Yonasan"
+   ]
+  },
+  {
+   "entry": "germany-ashkenaz-germamia-lotir",
+   "before": "2, and Targum Rav Yosef to ",
+   "cite": "Divrei HaYamim I 1:5",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "germany-ashkenaz-germamia-lotir",
+   "before": "Rashi calls German leshon Ashkenaz (",
+   "cite": "Sukkah 17a",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "germany-ashkenaz-germamia-lotir",
+   "before": "Gittin 55b, Bava Metzia 73b, Chullin 93a), and on ",
+   "cite": "Kesubos 77a",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "germany-ashkenaz-germamia-lotir",
+   "before": "er brother the Rashbam on \"my masters in Lothar\" (",
+   "cite": "Bava Basra 150b, 158b",
+   "by": [
+    "Rashbam"
+   ]
+  },
+  {
+   "entry": "gold-zahav-paz-kesem-charutz",
+   "before": "Rabbi Moshe Ibn Ezra holds that in ",
+   "cite": "Iyov 31:24",
+   "by": []
+  },
+  {
+   "entry": "gold-zahav-paz-kesem-charutz",
+   "before": "ban on the good gold of Havilah along the Pishon (",
+   "cite": "Bereishis 2:11-12",
+   "by": [
+    "Ramban"
+   ]
+  },
+  {
+   "entry": "gold-zahav-paz-kesem-charutz",
+   "before": " can be borrowed for anything clean and pristine (",
+   "cite": "Yirmiyahu 51:7",
+   "by": []
+  },
+  {
+   "entry": "good-tov-noam-shapir",
+   "before": "of place, approval, something \"good in his eyes\" (",
+   "cite": "Vayikra 10:20",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "good-tov-noam-shapir",
+   "before": "me Targum texts read takin), and physical beauty (",
+   "cite": "Bereishis 6:2",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "grapevine-gefen-sorek-shdeimah",
+   "before": "ted (Ibn Janach and Radak make a similar point at ",
+   "cite": "Yeshayahu 37:27",
+   "by": [
+    "Radak"
+   ]
+  },
+  {
+   "entry": "guard-shemirah-netzirah-netirah",
+   "before": "The difficulty on Malbim is ",
+   "cite": "Shir HaShirim 1:6",
+   "by": []
+  },
+  {
+   "entry": "guest-oreach-ushpiz-achsanai",
+   "before": "rrences), and which also gives orchah, a caravan (",
+   "cite": "Bereishis 37:25",
+   "by": []
+  },
+  {
+   "entry": "haircut-giluach-gizah-galav-sapar",
+   "before": "Targum Yonasan uses forms of galav for giluach (",
+   "cite": "Vayikra 19:27",
+   "by": [
+    "Targum Yonasan"
+   ]
+  },
+  {
+   "entry": "haircut-giluach-gizah-galav-sapar",
+   "before": "nts of it again for razors and cutting elsewhere (",
+   "cite": "Yehoshua 5:2",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "haircut-giluach-gizah-galav-sapar",
+   "before": "Rashi and Mahari Kara (to ",
+   "cite": "Yechezkel 5:1",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "haircut-giluach-gizah-galav-sapar",
+   "before": "ot standing, and that the Targumic maspar, razor (",
+   "cite": "Bamidbar 6:5",
+   "by": [
+    "Onkelos",
+    "Targum Yonasan"
+   ]
+  },
+  {
+   "entry": "haircut-giluach-gizah-galav-sapar",
+   "before": "the metzora must be shaved smooth \"like a gourd\" (",
+   "cite": "Sotah 16a",
+   "by": []
+  },
+  {
+   "entry": "hammer-makevet-patish-kurnas",
+   "before": " parts alike, but Rashi glosses makeves by it (to ",
+   "cite": "Yirmiyahu 10:4",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "hammer-makevet-patish-kurnas",
+   "before": "and as Targum confirms by rendering both arzafta (",
+   "cite": "Shoftim 4:21 and 5:26",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "hammer-makevet-patish-kurnas",
+   "before": "a, Gittin 56b), which Rashi defines as kurnas (to ",
+   "cite": "Berachos 34a",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "hebron-chevron-kiryas-arba-mamre-eshkol",
+   "before": " Rashi reads it each way in a different place (to ",
+   "cite": "Bereishis 23:2",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "hebron-chevron-kiryas-arba-mamre-eshkol",
+   "before": "gainst this, Tosefta d'Targum and the Peshitta to ",
+   "cite": "Yehoshua 15:13-14 and   21:11",
+   "by": []
+  },
+  {
+   "entry": "here-halom-poh-heinah-zeh-koh",
+   "before": "a Leib Shapira-Frankfurter (HaRechasim LeVikah to ",
+   "cite": "Bereishis 16:13",
+   "by": []
+  },
+  {
+   "entry": "here-halom-poh-heinah-zeh-koh",
+   "before": "Targum renders it halcha (",
+   "cite": "Shemos 3:5",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "here-halom-poh-heinah-zeh-koh",
+   "before": "Targum renders it hacha (",
+   "cite": "Bereishis 19:12, 22:5",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "heretic-min-apikores-kofer-meshumad",
+   "before": " Onkelos uses for Yosef recognizing his brothers (",
+   "cite": "Bereishis 42:8",
+   "by": [
+    "Targum Onkelos"
+   ]
+  },
+  {
+   "entry": "hidden-tzafun-safun-tamun-ganuz",
+   "before": "m uses Aramaic inflections of it to render otzar (",
+   "cite": "Yeshayahu 39:6",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "honor-kavod-yakar",
+   "before": "Targum tends to render כ-ב-ד, both \"heavy\" (",
+   "cite": "Shemos 4:10, 7:14",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "honor-kavod-yakar",
+   "before": "kov ben Meir was called Rabbeinu Tam for ish tam (",
+   "cite": "Bereishis 25:27",
+   "by": []
+  },
+  {
+   "entry": "hook-vav-agmon-shfataim",
+   "before": "m uses it for shfataim, and for agmon at least at ",
+   "cite": "Iyov 40:26",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "hook-vav-agmon-shfataim",
+   "before": "Targum uses ankliyot to render shfataim at ",
+   "cite": "Yechezkel 40:43",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "hook-vav-agmon-shfataim",
+   "before": "Targum renders agmon differently in ",
+   "cite": "Yeshayahu 9:13 and 19:15",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "jericho-yereicho-yericho",
+   "before": " the title to Tzoar, as does Targum Yerushalmi to ",
+   "cite": "Devarim 34:3",
+   "by": []
+  },
+  {
+   "entry": "jericho-yereicho-yericho",
+   "before": "ich is how timros comes to mean columns of smoke (",
+   "cite": "Yoel 3:3",
+   "by": []
+  },
+  {
+   "entry": "jericho-yereicho-yericho",
+   "before": "Targum Yerushalmi to ",
+   "cite": "Devarim 34:3",
+   "by": []
+  },
+  {
+   "entry": "jerusalem-tziyon-yerushalayim",
+   "before": "the Targum reads ",
+   "cite": "Tehillim 133:1",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "jerusalem-tziyon-yerushalayim",
+   "before": "The Targum reads shevet achim gam yachad (",
+   "cite": "Tehillim 133:1",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "kidneys-kilayos-atzeh-tuchos",
+   "before": "ay deep inside, which fits Ibn Ezra's reading (to ",
+   "cite": "Tehillim 7:10",
+   "by": [
+    "Ibn Ezra"
+   ]
+  },
+  {
+   "entry": "kidneys-kilayos-atzeh-tuchos",
+   "before": "Ibn Ezra elsewhere (to ",
+   "cite": "Shemos 23:25",
+   "by": [
+    "Ibn Ezra"
+   ]
+  },
+  {
+   "entry": "kidneys-kilayos-atzeh-tuchos",
+   "before": "e and the word a cognate of כ-ל-ה, \"to long for\" (",
+   "cite": "Shmuel II   13:39",
+   "by": []
+  },
+  {
+   "entry": "king-melech-moshel",
+   "before": " Ezra, on ki laHashem hameluchah umoshel bagoyim (",
+   "cite": "Tehillim 22:29",
+   "by": [
+    "Ibn Ezra"
+   ]
+  },
+  {
+   "entry": "law-din-mishpat-chok-dat",
+   "before": "Onkelos renders mishpat as din (",
+   "cite": "Shemos 21:1",
+   "by": [
+    "Onkelos"
+   ]
+  },
+  {
+   "entry": "law-din-mishpat-chok-dat",
+   "before": "Targum uses it for chok (",
+   "cite": "Vayikra 18:3",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "leading-noheg-molich-nachah-nohel",
+   "before": "ankfurter's great-nephew, puts it a third way (to ",
+   "cite": "Shemos 13:17",
+   "by": [
+    "Rav Hirsch"
+   ]
+  },
+  {
+   "entry": "level-madreigah-maalah-sulam",
+   "before": "Rashi defines sulam with maalos (to ",
+   "cite": "Bava Metzia 25a",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "level-madreigah-maalah-sulam",
+   "before": "va Metzia 25a, Sukkah 53b) and with madreigos (to ",
+   "cite": "Beitzah 36a",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "level-madreigah-maalah-sulam",
+   "before": "19 with Rashi and Targum Yonasan, and ",
+   "cite": "Divrei HaYamim II 9:18",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "lice-kinnim-kalmta-parosh",
+   "before": "sh and a kinah, see Tosafos and Tosafos HaRosh to ",
+   "cite": "Shabbos 12a",
+   "by": [
+    "Tosafos"
+   ]
+  },
+  {
+   "entry": "linen-sheish-bahd-butz-pishtim",
+   "before": " indeed spells the French coton with kuf and tes (",
+   "cite": "Berachos 28b",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "locust-arbeh-gazam-yelek-chasil",
+   "before": " and the commentary printed under Rashi's name to ",
+   "cite": "Divrei HaYamim I 13:8",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "love-ahavah-chibah",
+   "before": "ahavah (in Hebrew the root is usually mercy, save ",
+   "cite": "Tehillim 18:2",
+   "by": []
+  },
+  {
+   "entry": "magic-lahat-lat-ittim",
+   "before": "edrin 67b) as Rashi and Ramban explain it, lahat (",
+   "cite": "Shemos 7:11",
+   "by": []
+  },
+  {
+   "entry": "magic-lahat-lat-ittim",
+   "before": "derives it from the biliteral ל-ט, \"clandestine\" (",
+   "cite": "Shmuel I 18:22",
+   "by": []
+  },
+  {
+   "entry": "magic-lahat-lat-ittim",
+   "before": "Ibn Ezra points to ",
+   "cite": "Shoftim 4:21",
+   "by": []
+  },
+  {
+   "entry": "marsh-achu-agam-bitzah",
+   "before": "Rashi renders bitzah as maresc (to ",
+   "cite": "Yechezkel 47:11",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "mask-masveh-masechah-partzuf",
+   "before": "c, finding apparent cognates of it in the Gemara (",
+   "cite": "Kesubos 60a, 62b",
+   "by": []
+  },
+  {
+   "entry": "merchant-socher-rochel-cnaani-tagar",
+   "before": "21 as most commentators read it, and, with Rashi, ",
+   "cite": "Yechezkel 16:29",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "merchant-socher-rochel-cnaani-tagar",
+   "before": "Rashi, consistently and in many places (to ",
+   "cite": "Vayikra 19:16",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "merchant-socher-rochel-cnaani-tagar",
+   "before": "Targum Onkelos and Targum pseudo-Yonasan to ",
+   "cite": "Bereishis 38:2",
+   "by": [
+    "Targum Onkelos"
+   ]
+  },
+  {
+   "entry": "merchant-socher-rochel-cnaani-tagar",
+   "before": "Targum also uses it for socher (",
+   "cite": "Melachim I 10:28",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "merchant-socher-rochel-cnaani-tagar",
+   "before": " maleh, \"full,\" yet Rashi defines it as sechorah (",
+   "cite": "Pesachim 53b",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "merchant-socher-rochel-cnaani-tagar",
+   "before": "ines it as sechorah (Pesachim 53b), as pragmatia (",
+   "cite": "Shabbos 56a",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "merchant-socher-rochel-cnaani-tagar",
+   "before": "him 53b), as pragmatia (Shabbos 56a), or as both (",
+   "cite": "Sotah 47b",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "mercy-rachum-chanun-chus-chemlah",
+   "before": "gloss to Tosafos, ",
+   "cite": "Rosh Hashanah 17b",
+   "by": []
+  },
+  {
+   "entry": "middle-emtza-merkaz-lev-tabur",
+   "before": "Even where Targum and Rashi render besoch (",
+   "cite": "Bereishis 2:9",
+   "by": [
+    "Targum",
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "miser-kilay-tzaykan-kamtzan",
+   "before": "der the biliteral כ-ל but classes it with nochel (",
+   "cite": "Malachi 1:14",
+   "by": []
+  },
+  {
+   "entry": "miser-kilay-tzaykan-kamtzan",
+   "before": "Rashi has another gloss elsewhere (to ",
+   "cite": "Sotah 41b",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "miser-kilay-tzaykan-kamtzan",
+   "before": "ere in some places Rashi again reaches for atzar (",
+   "cite": "Menachos 86a",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "miser-kilay-tzaykan-kamtzan",
+   "before": "Targum uses it for arbeh (",
+   "cite": "Mishlei 30:27",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "miser-kilay-tzaykan-kamtzan",
+   "before": "nger (Rashi to Sanhedrin 16a and to Ein Yaakov on ",
+   "cite": "Berachos 3b",
+   "by": []
+  },
+  {
+   "entry": "money-mammon-damim-maos",
+   "before": "endering of the Biblical mechir, usually \"price\" (",
+   "cite": "II Shmuel 24:24",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "money-mammon-damim-maos",
+   "before": " also holds damim to be Hebrew (citing Rashbam at ",
+   "cite": "Shemos 22:1",
+   "by": [
+    "Rashbam"
+   ]
+  },
+  {
+   "entry": "month-bul-marcheshvan",
+   "before": "rankel (1727-1792), on Radak's gloss of bul eitz (",
+   "cite": "Yeshayahu 44:19",
+   "by": [
+    "Radak"
+   ]
+  },
+  {
+   "entry": "month-bul-marcheshvan",
+   "before": "Targum pseudo-Yonasan to ",
+   "cite": "Bereishis 7:11",
+   "by": [
+    "Targum Yonasan"
+   ]
+  },
+  {
+   "entry": "morning-shachar-boker-tzafra",
+   "before": "on into the day, though Wertheimer hesitates over ",
+   "cite": "Bereishis 22:3",
+   "by": []
+  },
+  {
+   "entry": "morning-shachar-boker-tzafra",
+   "before": "ng out and discerning, as Ibn Ezra says outright (",
+   "cite": "Tehillim 63:2",
+   "by": [
+    "Ibn Ezra"
+   ]
+  },
+  {
+   "entry": "morning-shachar-boker-tzafra",
+   "before": "Ibn Ezra and Radak (both to ",
+   "cite": "Bereishis 1:5",
+   "by": [
+    "Ibn Ezra",
+    "Radak"
+   ]
+  },
+  {
+   "entry": "murder-retzichah-harigah-ketilah",
+   "before": "e renders ketilah, in both languages, as harigah (",
+   "cite": "Ovadiah 1:9",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "muzzle-resen-meteg-zemam",
+   "before": "9, and Targum's rendering both by zemam (",
+   "cite": "Yeshayahu 30:28",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "muzzle-resen-meteg-zemam",
+   "before": "5, Targum Yonasan and Targum Yerushalmi (to ",
+   "cite": "Bereishis 13:7",
+   "by": [
+    "Targum Yonasan"
+   ]
+  },
+  {
+   "entry": "names-esther-hadassah",
+   "before": "Targum Sheini, Targum and Biur HaGra to ",
+   "cite": "Esther 2:7",
+   "by": [
+    "Targum Sheini",
+    "Targum"
+   ]
+  },
+  {
+   "entry": "names-mordechai-petachyah-bilshan",
+   "before": "alluded to in mar dror, Onkelos's mira dachya (",
+   "cite": "Chullin 139b",
+   "by": []
+  },
+  {
+   "entry": "names-moshe-yered-avigdor-yekusiel",
+   "before": "aon applies to his shielding them after Taveirah (",
+   "cite": "Bamidbar 11:2",
+   "by": []
+  },
+  {
+   "entry": "names-moshe-yered-avigdor-yekusiel",
+   "before": "Vilna Gaon and Targum Rav Yosef to ",
+   "cite": "Divrei HaYamim I 4:18",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "names-shlomo-koheles-agur-lemuel",
+   "before": "prophecy given to David before the birth puts it (",
+   "cite": "Divrei HaYamim I 22:9",
+   "by": []
+  },
+  {
+   "entry": "names-shlomo-koheles-agur-lemuel",
+   "before": "to Eruvin 19a) and Tosafos and Tosafos Shantz (to ",
+   "cite": "Avodah Zarah 17a",
+   "by": [
+    "Tosafos"
+   ]
+  },
+  {
+   "entry": "names-shlomo-koheles-agur-lemuel",
+   "before": "Tosafos and Tosafos Shantz to ",
+   "cite": "Avodah Zarah 17a",
+   "by": [
+    "Tosafos"
+   ]
+  },
+  {
+   "entry": "names-yosef-yehosef-avreich-tzafnas-paneach",
+   "before": "n on David's \"I am today rach and anointed king\" (",
+   "cite": "Shmuel II   3:39",
+   "by": [
+    "Targum Yonasan"
+   ]
+  },
+  {
+   "entry": "names-yosef-yehosef-avreich-tzafnas-paneach",
+   "before": " a way resembling a king, though Rashi elsewhere (",
+   "cite": "Menachos 38b",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "names-yosef-yehosef-avreich-tzafnas-paneach",
+   "before": "rom aryeh, the lion to which Yehudah is compared (",
+   "cite": "Bereishis 49:9",
+   "by": []
+  },
+  {
+   "entry": "nose-af-chotem-nichirayim",
+   "before": "Rashi glosses af now with nichirayim (to ",
+   "cite": "Shemos 15:8",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "nose-af-chotem-nichirayim",
+   "before": "ot נ-ח-ר, which also yields snorting and braying (",
+   "cite": "Iyov 39:20",
+   "by": []
+  },
+  {
+   "entry": "nothing-hevel-rik-tohu-bohu",
+   "before": "ng-vapor.\" The Ran (Rabbeinu Nissim of Gerona, to ",
+   "cite": "Bereishis 4:1",
+   "by": []
+  },
+  {
+   "entry": "nothing-hevel-rik-tohu-bohu",
+   "before": "for naught (larik), as your enemies will eat it\" (",
+   "cite": "Vayikra 26:16",
+   "by": []
+  },
+  {
+   "entry": "nothing-hevel-rik-tohu-bohu",
+   "before": "Targum Onkelos renders bohu of ",
+   "cite": "Bereishis 1:2",
+   "by": [
+    "Targum Onkelos"
+   ]
+  },
+  {
+   "entry": "nothing-hevel-rik-tohu-bohu",
+   "before": "Targum pseudo-Yonasan and Targum Neofiti (to ",
+   "cite": "Bereishis 1:2",
+   "by": [
+    "Targum Yonasan"
+   ]
+  },
+  {
+   "entry": "nothing-hevel-rik-tohu-bohu",
+   "before": "elos, Targum pseudo-Yonasan and Targum Neofiti to ",
+   "cite": "Bereishis 1:2",
+   "by": [
+    "Targum Onkelos"
+   ]
+  },
+  {
+   "entry": "nothing-hevel-rik-tohu-bohu",
+   "before": "the Ran to ",
+   "cite": "Bereishis 4:1",
+   "by": []
+  },
+  {
+   "entry": "nothing-hevel-rik-tohu-bohu",
+   "before": "i Saadia Gaon, Ibn Ezra and Rabbi Moshe Kimchi to ",
+   "cite": "Iyov 26:7",
+   "by": [
+    "Ibn Ezra"
+   ]
+  },
+  {
+   "entry": "old-zaken-seivah-yashish",
+   "before": "Radak (Sefer HaShorashim, from ",
+   "cite": "Iyov 15:10",
+   "by": []
+  },
+  {
+   "entry": "old-zaken-seivah-yashish",
+   "before": "m) places yashish after seivah on the strength of ",
+   "cite": "Iyov 15:10",
+   "by": []
+  },
+  {
+   "entry": "path-derech-orach",
+   "before": "tination, the tzaddik is said to guard the orach (",
+   "cite": "Mishlei 2:20",
+   "by": []
+  },
+  {
+   "entry": "peace-shalom-sheket-shalvah",
+   "before": "and Rashi in Sefer HaPardes finds the allusion in ",
+   "cite": "Yeshayahu 32:18",
+   "by": []
+  },
+  {
+   "entry": "peace-shalom-sheket-shalvah",
+   "before": "created, and Rashi (Sefer HaPardes) finds them in ",
+   "cite": "Yeshayahu 32:18",
+   "by": []
+  },
+  {
+   "entry": "pharaoh-paroh-melech-mitzrayim",
+   "before": "of Rashi's commentary he makes the point again at ",
+   "cite": "Bereishis 41:10",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "phylacteries-totafos-tefillin",
+   "before": "Raza, Baal HaTurim there), and Noam Elimelech (to ",
+   "cite": "Bamidbar   18:8",
+   "by": []
+  },
+  {
+   "entry": "pile-areimah-chamarim-gadish",
+   "before": "Rav Hirsch (1808-1888, to ",
+   "cite": "Bereishis 2:25",
+   "by": [
+    "Rav Hirsch"
+   ]
+  },
+  {
+   "entry": "place-makom-atar-duchta",
+   "before": "shi himself glosses atar with makom elsewhere (to ",
+   "cite": "Daniel 2:38",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "plague-dever-mageifah-negef",
+   "before": "\" or \"striking\" where Rashi's sense is the point (",
+   "cite": "Shemos 21:22",
+   "by": []
+  },
+  {
+   "entry": "plain-mishor-sharon-eil-kikar",
+   "before": "9, as Rashi notes there too), the Gad plain Baal (",
+   "cite": "Yehoshua 11:17, 12:7, 13:5",
+   "by": []
+  },
+  {
+   "entry": "plain-mishor-sharon-eil-kikar",
+   "before": "bi Yosef Kara and pseudo-Rashbam, gloss sharon in ",
+   "cite": "Shir HaShirim 2:1",
+   "by": [
+    "Ibn Ezra"
+   ]
+  },
+  {
+   "entry": "plain-mishor-sharon-eil-kikar",
+   "before": "Shadal and Rabbi David Tzvi Hoffmann to ",
+   "cite": "Bereishis 25:20",
+   "by": [
+    "Shadal"
+   ]
+  },
+  {
+   "entry": "poison-eres-rosh-chamat-sam-hamaves",
+   "before": "4), and Targum Rishon to ",
+   "cite": "Esther 2:21",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "poison-eres-rosh-chamat-sam-hamaves",
+   "before": "Targum Yonasan renders nashchisah etz belachmo (",
+   "cite": "Yirmiyahu 11:19",
+   "by": [
+    "Targum Yonasan"
+   ]
+  },
+  {
+   "entry": "poison-eres-rosh-chamat-sam-hamaves",
+   "before": " (Midrash Tanchuma, Beshalach 18, and Mechilta to ",
+   "cite": "Shemos 15:22",
+   "by": []
+  },
+  {
+   "entry": "poison-eres-rosh-chamat-sam-hamaves",
+   "before": "Rashi himself (to ",
+   "cite": "Shabbos 62b",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "pressure-lachatz-dchak-negisah-atz",
+   "before": "Rabbi Posen, from the Targum, takes it at ",
+   "cite": "Bereishis 19:15",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "pressure-lachatz-dchak-negisah-atz",
+   "before": "k, as with Bilam's foot pressed against the wall (",
+   "cite": "Bamidbar 22:25",
+   "by": [
+    "Onkelos"
+   ]
+  },
+  {
+   "entry": "pressure-lachatz-dchak-negisah-atz",
+   "before": ", as in the prohibition against pressuring a ger (",
+   "cite": "Shemos 22:20",
+   "by": [
+    "Onkelos"
+   ]
+  },
+  {
+   "entry": "pressure-lachatz-dchak-negisah-atz",
+   "before": "Onkelos renders ",
+   "cite": "Devarim 26:7",
+   "by": [
+    "Onkelos"
+   ]
+  },
+  {
+   "entry": "pressure-lachatz-dchak-negisah-atz",
+   "before": "Targum Neofiti renders nogsei as dachkoi (",
+   "cite": "Shemos 5:14",
+   "by": []
+  },
+  {
+   "entry": "pressure-lachatz-dchak-negisah-atz",
+   "before": "and the Targum known as Yonatan renders lo yigos (",
+   "cite": "Devarim 15:2",
+   "by": [
+    "Targum Yonasan"
+   ]
+  },
+  {
+   "entry": "pressure-lachatz-dchak-negisah-atz",
+   "before": "Rashi and Machberes Menachem to ",
+   "cite": "Shoftim 16:16",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "priest-kohen-komer",
+   "before": "of Yosef's mercy welling up when he saw Binyamin (",
+   "cite": "Bereishis 43:30",
+   "by": []
+  },
+  {
+   "entry": "princess-sarai-sarah-yiscah",
+   "before": "h HaRokeach and Rabbeinu Efrayim bar Shimshon (to ",
+   "cite": "Bereishis 11:29",
+   "by": [
+    "Baal HaTurim"
+   ]
+  },
+  {
+   "entry": "princess-sarai-sarah-yiscah",
+   "before": "Ibn Ezra and Rabbi Shmuel David Luzzatto (to ",
+   "cite": "Bereishis 11:29",
+   "by": [
+    "Ibn Ezra"
+   ]
+  },
+  {
+   "entry": "princess-sarai-sarah-yiscah",
+   "before": "sh HaRokeach and Rabbeinu Efrayim bar Shimshon to ",
+   "cite": "Bereishis 11:29",
+   "by": [
+    "Baal HaTurim"
+   ]
+  },
+  {
+   "entry": "prohibition-azharah-issur-lav",
+   "before": "ying two very distinct senses, warning and light (",
+   "cite": "Yechezkel 8:2",
+   "by": []
+  },
+  {
+   "entry": "prophet-navi-roeh-chozeh",
+   "before": "Radak says the same at ",
+   "cite": "Shmuel I   9:9",
+   "by": [
+    "Radak"
+   ]
+  },
+  {
+   "entry": "prophet-navi-roeh-chozeh",
+   "before": "Targum Onkelos and Rasag (both to ",
+   "cite": "Shemos 7:1",
+   "by": [
+    "Targum Onkelos"
+   ]
+  },
+  {
+   "entry": "pulling-moshe-moshech-shoev-shoef",
+   "before": " HaRokeach, Moshav Zekanim and Midrash HaGadol to ",
+   "cite": "Shemos 2:10",
+   "by": [
+    "Rashi",
+    "Rashbam",
+    "Ibn Ezra",
+    "Shadal",
+    "Chizkuni",
+    "Rav Hirsch"
+   ]
+  },
+  {
+   "entry": "pushing-potzer-docheh-dochef-hadof",
+   "before": "Metzudas Tzion (there, and to ",
+   "cite": "Shir HaShirim 5:2",
+   "by": [
+    "Metzudas Tzion"
+   ]
+  },
+  {
+   "entry": "rain-geshem-matar-yoreh-malkosh",
+   "before": "Building on Rashi's account of mabul (to ",
+   "cite": "Bereishis 6:17",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "rebellion-pesha-meridah-meri",
+   "before": "e story of Meisha, Targum renders pasha as mored (",
+   "cite": "Melachim II 8:22",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "rebellion-pesha-meridah-meri",
+   "before": "Where Rashi's opening to Korach (",
+   "cite": "Bamidbar 16:1",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "red-adom-shani-chamutz",
+   "before": "d Rabbi Avraham Maimuni (in their commentaries to ",
+   "cite": "Shemos 25:4",
+   "by": [
+    "Ibn Ezra"
+   ]
+  },
+  {
+   "entry": "red-adom-shani-chamutz",
+   "before": "shim), and Radak (in his Sefer HaShorashim and to ",
+   "cite": "Yeshayahu 63:1",
+   "by": [
+    "Radak"
+   ]
+  },
+  {
+   "entry": "red-adom-shani-chamutz",
+   "before": "and Radak himself agrees that timchatz (",
+   "cite": "Tehillim 68:24",
+   "by": []
+  },
+  {
+   "entry": "red-adom-shani-chamutz",
+   "before": "Rashbam and Chizkuni also cite ",
+   "cite": "Melachim II 3:22",
+   "by": []
+  },
+  {
+   "entry": "red-adom-shani-chamutz",
+   "before": "bn Ezra makes similarly in his Long Commentary to ",
+   "cite": "Shemos 2:3",
+   "by": [
+    "Ibn Ezra"
+   ]
+  },
+  {
+   "entry": "red-adom-shani-chamutz",
+   "before": "Rashi uses the Old French russ to render adom (",
+   "cite": "Bereishis 25:25",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "red-adom-shani-chamutz",
+   "before": "aadia Gaon, Ibn Ezra and Rabbi Avraham Maimuni to ",
+   "cite": "Shemos 25:4",
+   "by": [
+    "Ibn Ezra"
+   ]
+  },
+  {
+   "entry": "red-adom-shani-chamutz",
+   "before": "Ibn Ezra, Long Commentary to ",
+   "cite": "Shemos 2:3",
+   "by": [
+    "Ibn Ezra"
+   ]
+  },
+  {
+   "entry": "red-adom-shani-chamutz",
+   "before": "Ibn Ezra and Mahari Kara to ",
+   "cite": "Eichah 4:5",
+   "by": [
+    "Ibn Ezra"
+   ]
+  },
+  {
+   "entry": "refusal-miun-siruv",
+   "before": " Mahari Kara and others compare salonim to silon (",
+   "cite": "Yechezkel 28:24",
+   "by": []
+  },
+  {
+   "entry": "refusal-miun-siruv",
+   "before": "The Targum renders vayima'en as vesarev at ",
+   "cite": "Bereishis 37:35, 39:8, 48:19",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "refusal-miun-siruv",
+   "before": "pically renders mi'un as siruv, does not do so at ",
+   "cite": "Shemos 22:16",
+   "by": [
+    "Onkelos"
+   ]
+  },
+  {
+   "entry": "refusal-miun-siruv",
+   "before": "Rabbi Yaakov Dienna (Patshegen, Sefer HaYair), to ",
+   "cite": "Shemos 22:16",
+   "by": []
+  },
+  {
+   "entry": "remember-zachor-pakad",
+   "before": "tically explains that Hashem's remembering Noach (",
+   "cite": "Bereishis 8:1",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "remember-zachor-pakad",
+   "before": "lings, as with zachor es asher asah lecha Amalek (",
+   "cite": "Devarim 25:17",
+   "by": []
+  },
+  {
+   "entry": "resident-ger-toshav-ezrach",
+   "before": "f Kimchi (in Sefer Zikaron) and Radak himself (to ",
+   "cite": "Yechezkel 25:7",
+   "by": [
+    "Radak"
+   ]
+  },
+  {
+   "entry": "river-nahar-yeor-nachal",
+   "before": "\" is a poor default for nachal, because Malbim at ",
+   "cite": "Yeshayahu 19:5",
+   "by": [
+    "Malbim"
+   ]
+  },
+  {
+   "entry": "rooster-gever-sechvi-tarnegol",
+   "before": "36), Radak (Sefer HaShorashim and to ",
+   "cite": "Tehillim 73:7",
+   "by": [
+    "Radak"
+   ]
+  },
+  {
+   "entry": "rope-chevel-chut-avot",
+   "before": "33a), who reasons that since the anaf etz avot of ",
+   "cite": "Vayikra 23:40",
+   "by": []
+  },
+  {
+   "entry": "rope-chevel-chut-avot",
+   "before": "Targum Onkelos renders petil (",
+   "cite": "Bamidbar 15:38",
+   "by": [
+    "Targum Onkelos"
+   ]
+  },
+  {
+   "entry": "rope-chevel-chut-avot",
+   "before": "38) as chut, and Rav Hirsch ties gadil (",
+   "cite": "Devarim 22:12",
+   "by": []
+  },
+  {
+   "entry": "scribe-sofer-lavlar",
+   "before": "Rashi defines each by the other (",
+   "cite": "Sotah 20a",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "second-month-ziv-iyar",
+   "before": "elos renders the rays of glory from Moshe's face (",
+   "cite": "Shemos 34:29",
+   "by": [
+    "Onkelos"
+   ]
+  },
+  {
+   "entry": "second-month-ziv-iyar",
+   "before": "renders the glory of Hashem filling all creation (",
+   "cite": "Yeshayahu 6:3",
+   "by": [
+    "Targum Yonasan"
+   ]
+  },
+  {
+   "entry": "secret-sod-raz-tamir",
+   "before": "albim also derive roznim, noblemen and ministers (",
+   "cite": "Shoftim   5:3",
+   "by": []
+  },
+  {
+   "entry": "secret-sod-raz-tamir",
+   "before": "listic razin contained there (Tosafos HaShalem to ",
+   "cite": "Shemos 25:10",
+   "by": []
+  },
+  {
+   "entry": "secret-sod-raz-tamir",
+   "before": "Targum uses it for tamun (",
+   "cite": "Bereishis 35:4",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "seven-sheva-shavua-shevuah",
+   "before": "Onkelos renders the oath verb at ",
+   "cite": "Bereishis 24:9",
+   "by": [
+    "Onkelos"
+   ]
+  },
+  {
+   "entry": "shame-bushah-klimah-cherpah",
+   "before": "0), finds the shame sense of this root already in ",
+   "cite": "Tzefaniah 2:1",
+   "by": []
+  },
+  {
+   "entry": "sheep-and-goats-seh-keves-ayil-eiz",
+   "before": "renders it tayish, adult male goat, in one place (",
+   "cite": "Bereishis   31:10",
+   "by": [
+    "Targum Onkelos"
+   ]
+  },
+  {
+   "entry": "short-gamad-namuch-gutz-nanas",
+   "before": " word Rashi and Radak used in glossing gamadim at ",
+   "cite": "Yechezkel 27:11",
+   "by": [
+    "Rashi",
+    "Radak"
+   ]
+  },
+  {
+   "entry": "sibling-in-law-yavam-yevamah-giss",
+   "before": "sh Lakish was married to Rabbi Yochanan's sister (",
+   "cite": "Bava Metzia 84a",
+   "by": []
+  },
+  {
+   "entry": "sign-oht-mofet",
+   "before": "Ramban cites the Sifrei (to ",
+   "cite": "Bamidbar 6:3",
+   "by": []
+  },
+  {
+   "entry": "silence-cheresh-shetikah-dom-chashah",
+   "before": "Targum calls Pharaoh's chartumim the charshei (to ",
+   "cite": "Shemos 7:22",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "silence-cheresh-shetikah-dom-chashah",
+   "before": "rgum's Aramaic renderings of cheresh-based words (",
+   "cite": "Bereishis 24:21",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "sin-chet-avon-pesha",
+   "before": "robably based on Rashi's comment, the Vilna Gaon (",
+   "cite": "Mishlei 1:10, 13:6",
+   "by": []
+  },
+  {
+   "entry": "sleep-sheinah-tardeimah-tenumah",
+   "before": " reads it, tentatively, as Rav Hirsch's point (to ",
+   "cite": "Bereishis 24:1",
+   "by": [
+    "Rav Hirsch"
+   ]
+  },
+  {
+   "entry": "sleep-sheinah-tardeimah-tenumah",
+   "before": "ashem to take his life he sat under a rosem tree (",
+   "cite": "I Melachim 19:4",
+   "by": []
+  },
+  {
+   "entry": "sleep-sheinah-tardeimah-tenumah",
+   "before": "Malbim (1809-1879, to ",
+   "cite": "Yeshayahu 5:27",
+   "by": [
+    "Malbim"
+   ]
+  },
+  {
+   "entry": "sleep-sheinah-tardeimah-tenumah",
+   "before": " Aramaicized form of the Hebrew sheinah, sheinsa (",
+   "cite": "Bereishis 2:21",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "slipping-off-shemittah-chalitzah-shalaf",
+   "before": "Targum Yonasan, though, renders the chalitzah of ",
+   "cite": "Devarim 25:9",
+   "by": [
+    "Targum Yonasan"
+   ]
+  },
+  {
+   "entry": "slipping-off-shemittah-chalitzah-shalaf",
+   "before": "nasan renders the verb of the chalitzah ceremony (",
+   "cite": "Devarim 25:9",
+   "by": [
+    "Targum Yonasan"
+   ]
+  },
+  {
+   "entry": "slipping-off-shemittah-chalitzah-shalaf",
+   "before": " and the loans a lender lets go (shamot, tashmet, ",
+   "cite": "Devarim 15:2-3",
+   "by": []
+  },
+  {
+   "entry": "slipping-off-shemittah-chalitzah-shalaf",
+   "before": "ot further to escaping danger or fleeing trouble (",
+   "cite": "Bereishis 19:17",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "slipping-off-shemittah-chalitzah-shalaf",
+   "before": "nd Targum Yonasan there with Targum Rav Yosef (to ",
+   "cite": "Divrei HaYamim I 1:20",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "smooth-chalak-shua-mishi",
+   "before": "8 on Tosafos' reading), eyelid onto eyelid (",
+   "cite": "Yeshayahu 6:10, 32:3",
+   "by": []
+  },
+  {
+   "entry": "soul-nefesh-ruach-neshamah-chayah-yechidah",
+   "before": "Ibn Ezra (Shitah Acheres to ",
+   "cite": "Bereishis 2:7",
+   "by": []
+  },
+  {
+   "entry": "soul-nefesh-ruach-neshamah-chayah-yechidah",
+   "before": "of desire, the Torah attributes man's sins to it (",
+   "cite": "Vayikra 5:1, 5:15, 22:6",
+   "by": []
+  },
+  {
+   "entry": "soul-nefesh-ruach-neshamah-chayah-yechidah",
+   "before": "non-kosher predatory bird often translated \"owl\" (",
+   "cite": "Vayikra 11:18",
+   "by": []
+  },
+  {
+   "entry": "species-min-zan-sug",
+   "before": "al (Rabbi Shmuel David Luzzatto, 1800 to 1865, to ",
+   "cite": "Shemos 20:4",
+   "by": [
+    "Shadal"
+   ]
+  },
+  {
+   "entry": "species-min-zan-sug",
+   "before": "one unified sound (see also Ibn Ezra, Sefas Yeser ",
+   "cite": "Tehillim 150:4",
+   "by": [
+    "Ibn Ezra"
+   ]
+  },
+  {
+   "entry": "speech-dibbur-amirah",
+   "before": "erses the force of the two, and the Vilna Gaon to ",
+   "cite": "Bamidbar 22:5",
+   "by": []
+  },
+  {
+   "entry": "speech-dibbur-amirah",
+   "before": "and Rashi himself (to ",
+   "cite": "Vayikra 10:19",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "speech-dibbur-amirah",
+   "before": " that Ibn Ezra and Rabbi Yoel Ibn Shuaib (both to ",
+   "cite": "Tehillim 19:4",
+   "by": [
+    "Ibn Ezra"
+   ]
+  },
+  {
+   "entry": "speech-dibbur-amirah",
+   "before": "Ibn Ezra and Rabbi Yoel Ibn Shuaib to ",
+   "cite": "Tehillim 19:4",
+   "by": [
+    "Ibn Ezra"
+   ]
+  },
+  {
+   "entry": "splendor-tzvi-tzivyon-tzava",
+   "before": "Radak (there, and to ",
+   "cite": "Yeshayahu 13:19",
+   "by": [
+    "Radak"
+   ]
+  },
+  {
+   "entry": "spring-gichon-shiloach-gachon",
+   "before": "Yerushalayim, far smaller, is also called Gichon (",
+   "cite": "Melachim I 1:33",
+   "by": []
+  },
+  {
+   "entry": "spring-gichon-shiloach-gachon",
+   "before": "chon of Bereishis, adducing Targum's Shilucha (to ",
+   "cite": "Melachim I 1:33",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "standing-nitzav-amidah",
+   "before": "though Metzudas David holds the two synonymous at ",
+   "cite": "Divrei HaYamim II 20:17",
+   "by": [
+    "Metzudas David"
+   ]
+  },
+  {
+   "entry": "standing-nitzav-amidah",
+   "before": "e root ע-ת-ד, which gives atid, prepared, future (",
+   "cite": "Bereishis 28:13",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "standing-nitzav-amidah",
+   "before": "Malbim, Yair Ohr and to ",
+   "cite": "Divrei HaYamim II 20:17",
+   "by": [
+    "Malbim"
+   ]
+  },
+  {
+   "entry": "stoning-sekilah-regimah",
+   "before": "Targum, translation (",
+   "cite": "Ezra 4:7",
+   "by": []
+  },
+  {
+   "entry": "stopping-chadal-mana-chasach-kala-pasak",
+   "before": "Onkelos renders chasach as mana (",
+   "cite": "Bereishis 20:6, 22:16, 39:9",
+   "by": [
+    "Onkelos"
+   ]
+  },
+  {
+   "entry": "stopping-chadal-mana-chasach-kala-pasak",
+   "before": "Rashi at ",
+   "cite": "Bereishis 18:11",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "stopping-chadal-mana-chasach-kala-pasak",
+   "before": "Malbim, Ayeles HaShachar 461, to ",
+   "cite": "Vayikra 2:13 and 26:6",
+   "by": [
+    "Malbim"
+   ]
+  },
+  {
+   "entry": "stranger-zar-nachri-hedyot",
+   "before": "Ibn Ezra (long commentary to ",
+   "cite": "Shemos 21:2",
+   "by": [
+    "Ibn Ezra"
+   ]
+  },
+  {
+   "entry": "stranger-zar-nachri-hedyot",
+   "before": "Peirush Yonatan to Targum Yonatan to ",
+   "cite": "Bereishis 42:7",
+   "by": [
+    "Targum Yonasan"
+   ]
+  },
+  {
+   "entry": "stranger-zar-nachri-hedyot",
+   "before": "Ibn Ezra, long commentary to ",
+   "cite": "Shemos 21:2",
+   "by": [
+    "Ibn Ezra"
+   ]
+  },
+  {
+   "entry": "strength-koach-gevurah-ometz-chozek",
+   "before": "Malbim elsewhere (to ",
+   "cite": "Yeshayahu 28:2",
+   "by": [
+    "Malbim"
+   ]
+  },
+  {
+   "entry": "strength-koach-gevurah-ometz-chozek",
+   "before": "Malbim, Yair Ohr and to ",
+   "cite": "Yeshayahu 28:2",
+   "by": [
+    "Malbim"
+   ]
+  },
+  {
+   "entry": "sword-cherev-shelach-sakin",
+   "before": "shi resorts to Arabic rather than cite machlifim (",
+   "cite": "Ezra 1:9",
+   "by": []
+  },
+  {
+   "entry": "sword-cherev-shelach-sakin",
+   "before": "to Yoma 36a) asks the same, adding kalil yachlof (",
+   "cite": "Yeshayahu 2:18",
+   "by": []
+  },
+  {
+   "entry": "table-shulchan-petora-taka-tavla",
+   "before": "Rashi glosses it shulchan (",
+   "cite": "Berachos 46b",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "teaching-horaah-limmud-alef",
+   "before": "mud are stages, not synonyms, and Shadal finds in ",
+   "cite": "Melachim II 12:3",
+   "by": []
+  },
+  {
+   "entry": "teaching-horaah-limmud-alef",
+   "before": "Shadal reads ",
+   "cite": "Melachim II 12:3",
+   "by": []
+  },
+  {
+   "entry": "teaching-horaah-limmud-alef",
+   "before": "on that basis he and Radak suggest that talpiyos (",
+   "cite": "Shir HaShirim 4:4",
+   "by": []
+  },
+  {
+   "entry": "teeth-shein-mesalos-kaka",
+   "before": "Radak (Sefer HaShorashim), and the Biur HaGra (to ",
+   "cite": "Mishlei 31:9",
+   "by": []
+  },
+  {
+   "entry": "teeth-shein-mesalos-kaka",
+   "before": "safos there) reads gallal as something rock hard (",
+   "cite": "Ezra 5:8, 6:4",
+   "by": []
+  },
+  {
+   "entry": "theft-genevah-gezeilah-chamas",
+   "before": "13), which Rashi, following ",
+   "cite": "Sanhedrin 108a",
+   "by": []
+  },
+  {
+   "entry": "thorns-kotz-dardar-sneh-charul",
+   "before": ", among them Rashi and Mahari Kara, take salonim (",
+   "cite": "Yechezkel   2:6",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "thorns-kotz-dardar-sneh-charul",
+   "before": "a metathesis of dochak (pressure), and Ramban (to ",
+   "cite": "Chullin 59a",
+   "by": [
+    "Ramban"
+   ]
+  },
+  {
+   "entry": "thorns-kotz-dardar-sneh-charul",
+   "before": "e typically made of thorns, so mesuchah, a fence (",
+   "cite": "Michah 7:4",
+   "by": []
+  },
+  {
+   "entry": "thorns-kotz-dardar-sneh-charul",
+   "before": "enty, give lists without sansan and with nahalol (",
+   "cite": "Yeshayahu 7:19",
+   "by": []
+  },
+  {
+   "entry": "thorns-kotz-dardar-sneh-charul",
+   "before": "Ibn Ezra, long commentary to ",
+   "cite": "Shemos 3:2",
+   "by": [
+    "Ibn Ezra"
+   ]
+  },
+  {
+   "entry": "thorns-kotz-dardar-sneh-charul",
+   "before": "Ramban to ",
+   "cite": "Chullin 59a",
+   "by": [
+    "Ramban"
+   ]
+  },
+  {
+   "entry": "throw-hashlachah-zerikah-hazayah-ramah",
+   "before": "Rashi and Maharal to ",
+   "cite": "Shemos 9:8",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "thumb-bohen-gudal-agudal",
+   "before": "i explains zikfa as gudal, and in the parallel in ",
+   "cite": "Pesachim 110a",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "thumb-bohen-gudal-agudal",
+   "before": "ravravta in Rashi's version (the word is also in ",
+   "cite": "Eruvin 10b",
+   "by": []
+  },
+  {
+   "entry": "tigris-chidekel-diglat",
+   "before": " Onkelos and Rashi read it, against the Yarden of ",
+   "cite": "Bamidbar 34:12",
+   "by": []
+  },
+  {
+   "entry": "tigris-chidekel-diglat",
+   "before": "s Chidekel as Diglat, and Targum uses it again at ",
+   "cite": "Nachum 1:12",
+   "by": [
+    "Targum"
+   ]
+  },
+  {
+   "entry": "tigris-chidekel-diglat",
+   "before": "Targum Neofiti to ",
+   "cite": "Bereishis 2:14",
+   "by": []
+  },
+  {
+   "entry": "tigris-chidekel-diglat",
+   "before": "Abarbanel, Shadal and Torah Temimah to ",
+   "cite": "Bereishis 2:14",
+   "by": [
+    "Abarbanel",
+    "Shadal"
+   ]
+  },
+  {
+   "entry": "trampling-romes-dorech-boss",
+   "before": "same ways as the other two, and Rashi, explaining ",
+   "cite": "Tehillim 60:14",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "trembling-chil-dachil-zachal",
+   "before": "Onkelos renders chil at ",
+   "cite": "Shemos 15:14",
+   "by": [
+    "Onkelos"
+   ]
+  },
+  {
+   "entry": "trembling-chil-dachil-zachal",
+   "before": "/Ibn Ezra dispute occurs at the third occurrence, ",
+   "cite": "Michah   7:17",
+   "by": [
+    "Rashi",
+    "Ibn Ezra"
+   ]
+  },
+  {
+   "entry": "trembling-chil-dachil-zachal",
+   "before": "Ibn Ezra compares ",
+   "cite": "Iyov 32:6",
+   "by": []
+  },
+  {
+   "entry": "trembling-raadah-retet-raash",
+   "before": "Aramaic for ra'adah (Onkelos renders the ra'ad of ",
+   "cite": "Shemos 15:15",
+   "by": [
+    "Onkelos"
+   ]
+  },
+  {
+   "entry": "trembling-raadah-retet-raash",
+   "before": "echerad as ziyah both when the mountain trembled (",
+   "cite": "Shemos 19:18",
+   "by": [
+    "Onkelos"
+   ]
+  },
+  {
+   "entry": "trembling-raadah-retet-raash",
+   "before": "ssage calls for it, as in b'rogez racheim tizkor (",
+   "cite": "Chavakuk 3:2",
+   "by": []
+  },
+  {
+   "entry": "trust-bitachon-machseh-tikvah",
+   "before": "Malbim, from ",
+   "cite": "Chagigah 16b",
+   "by": []
+  },
+  {
+   "entry": "tying-keshirah-asirah-kafut",
+   "before": "Rashi explains it once with asirah (",
+   "cite": "Daniel 3:20",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "tying-keshirah-asirah-kafut",
+   "before": "ara Rashi again sometimes defines it with asirah (",
+   "cite": "Sukkah 31a",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "underworld-gehinnom-sheol-shachat-avadon",
+   "before": "Tosafos cite sources reading alukah, the leech of ",
+   "cite": "Mishlei 30:15",
+   "by": []
+  },
+  {
+   "entry": "unmarried-ravak-panui-bachur",
+   "before": " uses the two words together, revakim penuyim (to ",
+   "cite": "Shemos 12:30",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "vegetable-yerek-yarok-karpas",
+   "before": "d specifies green (see also Midrash Lekach Tov to ",
+   "cite": "Esther 1:6",
+   "by": []
+  },
+  {
+   "entry": "waking-yekitzah-oorah",
+   "before": "Malbim also reads ",
+   "cite": "Chavakuk 2:19",
+   "by": [
+    "Malbim"
+   ]
+  },
+  {
+   "entry": "wall-chomah-kir-shur-kotel",
+   "before": "ich sense shur has there, and Radak reads shor at ",
+   "cite": "Bereishis 49:6",
+   "by": [
+    "Radak"
+   ]
+  },
+  {
+   "entry": "wall-chomah-kir-shur-kotel",
+   "before": "Rashi seems unsure at ",
+   "cite": "Bereishis 49:22",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "waving-terumah-tenufah",
+   "before": "Ibn Ezra (long commentary to ",
+   "cite": "Shemos 29:27",
+   "by": [
+    "Ibn Ezra"
+   ]
+  },
+  {
+   "entry": "waving-terumah-tenufah",
+   "before": "follows Bechor Shor's synonymy, but Rabbi Lev (to ",
+   "cite": "Shemos 29:27",
+   "by": []
+  },
+  {
+   "entry": "waving-terumah-tenufah",
+   "before": "ply \"donation,\" following Rashi's \"separation\" at ",
+   "cite": "Shemos 25:2",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "waving-terumah-tenufah",
+   "before": "Ibn Ezra, long commentary to ",
+   "cite": "Shemos 29:27",
+   "by": [
+    "Ibn Ezra"
+   ]
+  },
+  {
+   "entry": "waving-terumah-tenufah",
+   "before": "nkelos with Rabbi Yaakov Zev Lev's Me'at Tzari to ",
+   "cite": "Shemos 29:24 and 29:27",
+   "by": [
+    "Targum Onkelos"
+   ]
+  },
+  {
+   "entry": "wax-donag-shaavah-kira",
+   "before": "h, wax, and Targum Yonasan and Targum Neofiti (to ",
+   "cite": "Bereishis 37:25 and 43:11",
+   "by": [
+    "Targum Yonasan"
+   ]
+  },
+  {
+   "entry": "wet-lach-ratuv-raanan",
+   "before": "Ibn Ezra compares lechi chamor teriyah (",
+   "cite": "Shoftim 15:15",
+   "by": []
+  },
+  {
+   "entry": "where-ayeh-eifoh-anah",
+   "before": "plied to Adam hiding after his sin, the ayekah of ",
+   "cite": "Bereishis 3:9",
+   "by": []
+  },
+  {
+   "entry": "whistle-shreikah-tziftzuf",
+   "before": "Radak (Sefer HaShorashim, and to ",
+   "cite": "Zecharyah 10:8",
+   "by": [
+    "Radak"
+   ]
+  },
+  {
+   "entry": "white-lavan-chivar-tzochar",
+   "before": " Aharon Marcus notes, renders it \"sweet wine.\" In ",
+   "cite": "Shoftim 5:10",
+   "by": []
+  },
+  {
+   "entry": "white-lavan-chivar-tzochar",
+   "before": "s, Rashi translates it back into Hebrew as lavan (",
+   "cite": "Berachos 28a",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "white-lavan-chivar-tzochar",
+   "before": "o tzachor nor too ruddy, explain it as white, and ",
+   "cite": "Sotah   12a",
+   "by": []
+  },
+  {
+   "entry": "wilderness-midbar-aravah-tziyah",
+   "before": "lling creature, often rendered jackal or ostrich (",
+   "cite": "Yeshayahu 13:21, 34:14",
+   "by": []
+  },
+  {
+   "entry": "wilderness-midbar-aravah-tziyah",
+   "before": "bim there refers the reader to his distinction at ",
+   "cite": "Yeshayahu 35:1",
+   "by": [
+    "Malbim"
+   ]
+  },
+  {
+   "entry": "will-ratzon-chefetz",
+   "before": "Targum Onkelos uses it for cheshek (",
+   "cite": "Bereishis 34:8",
+   "by": [
+    "Targum Onkelos"
+   ]
+  },
+  {
+   "entry": "will-ratzon-chefetz",
+   "before": "Targum Onkelos renders cheshek (",
+   "cite": "Devarim 7:7",
+   "by": [
+    "Targum Onkelos"
+   ]
+  },
+  {
+   "entry": "window-chalon-eshnav",
+   "before": "43, and Abarbanel and Alshich to ",
+   "cite": "Shoftim 5:28",
+   "by": [
+    "Abarbanel"
+   ]
+  },
+  {
+   "entry": "window-chalon-eshnav",
+   "before": " reading that departs from this is Kli Yakar's to ",
+   "cite": "Shoftim 5:28",
+   "by": [
+    "Kli Yakar"
+   ]
+  },
+  {
+   "entry": "wine-yayin-tirosh-chemer-shechar",
+   "before": "22), Radak (Sefer HaShorashim), Tosafos Rid to ",
+   "cite": "Yoma   76b",
+   "by": []
+  },
+  {
+   "entry": "wine-yayin-tirosh-chemer-shechar",
+   "before": "the Targum called Yonasan render yayin v'shechar (",
+   "cite": "Bamidbar 6:3",
+   "by": [
+    "Targum Onkelos"
+   ]
+  },
+  {
+   "entry": "wine-yayin-tirosh-chemer-shechar",
+   "before": "ord to taaniyah va'aniyah, \"wailing and moaning\" (",
+   "cite": "Yeshayahu 29:2",
+   "by": []
+  },
+  {
+   "entry": "wine-yayin-tirosh-chemer-shechar",
+   "before": " as binging on wine, as the two words are used in ",
+   "cite": "Mishlei 23:20",
+   "by": []
+  },
+  {
+   "entry": "wine-yayin-tirosh-chemer-shechar",
+   "before": "osef Bechor Shor, take mel'ayah as grain (compare ",
+   "cite": "Devarim 22:9",
+   "by": []
+  },
+  {
+   "entry": "wine-yayin-tirosh-chemer-shechar",
+   "before": "drink\" carries Rabbi Moshe Ibn Ezra's wide sense (",
+   "cite": "Vayikra   10:9",
+   "by": []
+  },
+  {
+   "entry": "wine-yayin-tirosh-chemer-shechar",
+   "before": "8) is wine for Targum Yonasan and Ohel Moed, with ",
+   "cite": "Bamidbar 18:27",
+   "by": []
+  },
+  {
+   "entry": "with-es-im",
+   "before": "aKabbalah, Rabbi Mecklenburg's own commentary, to ",
+   "cite": "Devarim 5:4",
+   "by": [
+    "HaKsav VeHaKabbalah"
+   ]
+  },
+  {
+   "entry": "witness-eid-sahad",
+   "before": "For Malbim, the eid of ",
+   "cite": "Iyov 16:19",
+   "by": [
+    "Malbim"
+   ]
+  },
+  {
+   "entry": "worm-rimah-toleah",
+   "before": "oot as ת-ל-ע, which also yields mesalos, \"teeth\" (",
+   "cite": "Iyov 29:17",
+   "by": []
+  },
+  {
+   "entry": "wound-petza-chaburah-chovel",
+   "before": "On Rashi's reading (to ",
+   "cite": "Shemos 21:25",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "wound-petza-chaburah-chovel",
+   "before": "y Ibn Ezra after Rashi's view (long commentary to ",
+   "cite": "Shemos 21:25",
+   "by": [
+    "Ibn Ezra"
+   ]
+  },
+  {
+   "entry": "wound-petza-chaburah-chovel",
+   "before": "Ibn Ezra repeats this in his short commentary to ",
+   "cite": "Shemos 21:25",
+   "by": [
+    "Ibn Ezra"
+   ]
+  },
+  {
+   "entry": "wound-petza-chaburah-chovel",
+   "before": "Rav Hirsch elsewhere (to ",
+   "cite": "Shemos 18:21",
+   "by": [
+    "Rav Hirsch"
+   ]
+  },
+  {
+   "entry": "wound-petza-chaburah-chovel",
+   "before": "en he explains chaburah with a cognate of chovel (",
+   "cite": "Yeshayahu 1:6",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "wound-petza-chaburah-chovel",
+   "before": "eration for a laceration, a bruise for a bruise\" (",
+   "cite": "Shemos   21:25",
+   "by": []
+  },
+  {
+   "entry": "writing-ketivah-charut-chakuk",
+   "before": "Rav Hirsch makes a similar point (to ",
+   "cite": "Shemos 32:2, 32:15",
+   "by": [
+    "Rav Hirsch"
+   ]
+  },
+  {
+   "entry": "writing-ketivah-charut-chakuk",
+   "before": "er commentators, Rashi and Rashbam among them (to ",
+   "cite": "Shemos 32:16",
+   "by": [
+    "Rashi",
+    "Rashbam"
+   ]
+  },
+  {
+   "entry": "youth-naar-almah-elem",
+   "before": " were thirteen when the Torah calls them ne'arim (",
+   "cite": "Bereishis 25:27",
+   "by": [
+    "Rashi"
+   ]
+  },
+  {
+   "entry": "youth-naar-almah-elem",
+   "before": "wed gives one, as Rashi does for Yaakov and Esav (",
+   "cite": "Bereishis 25:27",
+   "by": [
+    "Rashi"
+   ]
+  }
+ ]
+}

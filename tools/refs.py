@@ -1,6 +1,9 @@
 """Find Tanach and Mishnah citations in entry text, and match a cluster's words
 inside a pasuk. Shared by fetch_pesukim.py (which fetches the texts) and
 build_site.py (which links the citations and draws the pesukim panel)."""
+import html
+import json
+import pathlib
 import re
 
 TANACH = {
@@ -159,25 +162,63 @@ _, TANACH_SUBJECT_RX, TANACH_COMM_NAME = _subject_rx(TANACH_COMMENTARIES)
 WITH_RX = re.compile(r"\s*,?\s*(?:(?:with|and)\s+(?:the\s+)?(%s)|\((%s)\))" % (_COMMS, _COMMS))
 # One citation earlier in the same list, with what joins it to the next.
 _REF = r"(?:(?:%s)\s+)?\d+(?::\d+)?[ab]?(?:\s*[-–]\s*\d+(?::\d+)?[ab]?)?" % _alt(set(TANACH) | set(MISHNAH))
-LIST_STEP = re.compile(r"(?<![\w:])%s\s*(?:,\s*and|,|\s+and(?:\s+to)?)\s+$" % _REF)
+LIST_STEP = re.compile(r"(?<![\w:])%s\s*(?:,\s*and(?:\s+to)?|,|\s+and(?:\s+to)?)\s+$" % _REF)
+
+# The citations the pattern above cannot place, each read in its entry and
+# judged (tools/cite_commentators.py lists the ones not yet judged). The
+# entries say it too many ways for a pattern: "Rashi renders bitzah as maresc
+# (to Yechezkel 47:11)" is Rashi's comment, while "Tosafos point out that face
+# appears with hishtachavaah as well (Yeshayahu 49:23)" is the pasuk's. Each
+# row is an entry, the words just before a list of citations, and whose
+# comment the list is, or no one's.
+CITED_BY = pathlib.Path(__file__).resolve().parent.parent / "references" / "cite-commentators.json"
+_BY = {}
+if CITED_BY.exists():
+    for _r in json.loads(CITED_BY.read_text(encoding="utf-8"))["cites"]:
+        _BY.setdefault(_r["entry"], []).append(_r)
 
 
-def subject(before, tanach=False):
+def plain(s):
+    """Text as a reader sees it, the same from an entry's markdown and from the
+    page built from it: no tags, no emphasis, a link's words only."""
+    s = html.unescape(re.sub(r"<[^>]+>", "", s))
+    s = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", s)
+    return re.sub(r"\s+", " ", s.replace("*", ""))
+
+
+def list_head(before):
+    """The text before the first citation of the list this one ends, as a
+    reader sees it: "Rashi to Bamidbar 22:5, *Berachos* 46b, " gives "Rashi to "."""
+    pre = plain(before[-600:])
+    while True:
+        m = LIST_STEP.search(pre)
+        if not m:
+            return pre
+        pre = pre[:m.start()]
+
+
+def judged(entry, head):
+    """The row of CITED_BY for the list whose list_head() this is, if judged.
+    Where one row's words end another's, the longer is the one meant."""
+    return max((r for r in _BY.get(entry, []) if r["before"] and head.endswith(r["before"])),
+               key=lambda r: len(r["before"]), default=None)
+
+
+def subject(before, tanach=False, entry=None):
     """The commentators a citation belongs to, from the text before it: "Rashi
     to Beitzah 4a", "Ibn Ezra to Shemos 23:27", and every citation further along
     such a list ("Rashi to Bamidbar 22:5, Berachos 46b, Beitzah 29b"). A list
     ends at a semicolon or a full stop, so in "Rashi to Yoma 75a; Gittin 70a"
     Gittin is the Gemara's. Where Rashi only follows the Gemara ("Rashi, from
-    Bechoros 41a"; "Rashi (following Gittin 88a)") the daf is not his."""
+    Bechoros 41a"; "Rashi (following Gittin 88a)") the daf is not his. A list
+    judged in CITED_BY is as judged."""
     names, rx, name = ((TANACH_COMMENTARIES, TANACH_SUBJECT_RX, TANACH_COMM_NAME) if tanach
                        else (COMMENTARIES, SUBJECT_RX, COMM_NAME))
-    pre = before[-400:]
-    while True:
-        m = LIST_STEP.search(pre)
-        if not m:
-            break
-        pre = pre[:m.start()]
-    m = rx.search(pre)
+    head = list_head(before)
+    row = judged(entry, head) if entry else None
+    if row is not None:
+        return list(dict.fromkeys(names[c] for c in row["by"] if c in names))
+    m = rx.search(head)
     return list(dict.fromkeys(names[c] for c in name.findall(m.group(1) or m.group(2)))) if m else []
 
 # A citation is a book followed by chapter:verse, a range (16-17), and any
@@ -205,7 +246,7 @@ def keys_for(book, ch, v1, v2):
     return [f"{book}.{ch}.{v}" for v in range(v1, v2 + 1)]
 
 
-def find(text, lead=""):
+def find(text, lead="", entry=None):
     """[(start, end, kind, sefaria_book, name, [(piece_start, piece_end, [keys])])]
     for each citation run, in text order. kind is tanach, mishnah, bavli or
     yerushalmi. A run can hold several references to one book ("Yeshayahu
@@ -218,13 +259,13 @@ def find(text, lead=""):
     is a commentary's.
     lead is the text just before this text where it was cut from a longer one
     (a run of a page between two tags), so that a commentator named there is
-    seen."""
+    seen. entry is the entry's file name, for the lists judged in CITED_BY."""
     out = []
     before = lambda m: text[max(0, m.start() - 20):m.start()]
     for m in TANACH_RX.finditer(text):
         book = TANACH[m.group(1)]
         # "Rashi to Bereishis 13:3": his comment on the pasuk first, then the pasuk.
-        subj = subject(lead + text[:m.start()], tanach=True)
+        subj = subject(lead + text[:m.start()], tanach=True, entry=entry)
         pieces = []
         for p in PIECE.finditer(text, m.start(1) + len(m.group(1)), m.end()):
             keys = keys_for(book, int(p.group(1)), int(p.group(2)), int(p.group(3)) if p.group(3) else None)
@@ -249,7 +290,7 @@ def find(text, lead=""):
         if NOT_BAVLI.search(before(m)):
             continue
         book = BAVLI[m.group(1)]
-        subj = subject(lead + text[:m.start()])
+        subj = subject(lead + text[:m.start()], entry=entry)
         # Otherwise a commentator the citation is "with", then one named in the
         # words just before it, then Rashi and Tosafos.
         w = WITH_RX.match(text, m.end())

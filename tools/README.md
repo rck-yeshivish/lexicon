@@ -48,6 +48,14 @@ later corrections are written down. Drop it on the old one and run these three.
 
 ## Occasional
 
+- **`cite_commentators.py`** after new entries land. A citation the entry gives
+  as a commentator's opens his comment on the site, not the pasuk or the
+  Gemara. The plain forms ("Rashi to Beitzah 4a") are found by pattern; the
+  rest ("Rashi renders *bitzah* as *maresc* (to Yechezkel 47:11)") have to be
+  read, and are judged once in `references/cite-commentators.json`. This lists
+  the ones still to judge, each with its sentence; `--stale` lists judged rows
+  an edit has orphaned. Run `fetch_pesukim.py` after adding rows, so the
+  comments they name are on hand.
 - **`lookup.py <term>`** searches entries then the raw corpus, by Hebrew
   (nikud stripped), transliteration, or English.
 - **`find_dupes.py`** near-duplicate source articles (the column reruns pieces

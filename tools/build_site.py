@@ -281,6 +281,7 @@ def collect():
             "roots": fm.get("roots", []),
             "sources": fm.get("sources", []),
             "bottom_md": bottom,
+            "words": list(per.values()),
             "sections": secs,
         }
         entries.append(e)
@@ -862,12 +863,23 @@ STOP = set()
 STOP_AT = 12
 
 
+def skeleton(t):
+    """A transliteration's consonants, so that the forms of one word meet:
+    midaleg and doleg hold dilug's, kofetz is kefitzah's."""
+    t = re.sub(r"[^a-z]", "", t.lower())
+    for a, b in (("sh", "S"), ("ch", "C"), ("kh", "C"), ("tz", "Z"), ("ts", "Z"), ("ph", "f")):
+        t = t.replace(a, b)
+    t = re.sub(r"h$", "", re.sub(r"[aeiou]", "", t))
+    return re.sub(r"(.)\1", r"\1", t)
+
+
 class Cites:
     """Links an entry's Tanach and Mishnah citations and gathers what the
     pesukim panel shows for each: the text, with the entry's own words marked."""
 
     def __init__(self, e, wmap=None):
         self.wmap = wmap or {}
+        self.slug = e.get("slug")
         self.words = []
         for h in e["hebrew"]:
             b = refs.bare(h)
@@ -876,7 +888,31 @@ class Cites:
             root = next((refs.root_letters(r) for r in e["roots"]
                          if refs.matches_root(b, refs.root_letters(r))), None)
             self.words.append((show_heb(h), b, root))
+        # Each word's transliteration as its consonants, to tell which of the
+        # words a sentence citing a source is about: "a man permitted to jump
+        # over graves is *midaleg* (Berachos 19b)" is about dilug.
+        tr = {refs.bare(w["he"]): w.get("tr", "") for w in e.get("words", [])}
+        self.skel = [(skeleton(t), disp) for disp, hb, _ in self.words
+                     for t in re.split(r"\s*[/,]\s*", tr.get(hb, "")) if skeleton(t)]
+        # A source the body cites for one word, and the word: the same source
+        # in the Sources list, with no sentence of its own, is taken the same way.
+        self.about_src = {}
         self.cards = {}
+
+    def about(self, before, ems):
+        """The word the sentence ending in `before` is about: the nearest of its
+        italic words (`ems`, each with where it starts in `before`) whose
+        consonants are one of the entry's words."""
+        start = max(before.rfind(". "), before.rfind("; "))
+        for pos, text in reversed(ems):
+            if pos < start:
+                break
+            for w in reversed(re.findall(r"[A-Za-z'’]+", text)):
+                es = skeleton(w)
+                for hs, disp in self.skel:
+                    if es == hs or (len(hs) >= 3 and hs in es):
+                        return disp
+        return None
 
     def mark(self, word):
         return self.match(word)[0]
@@ -914,11 +950,11 @@ class Cites:
         return [[piece, self.mark(piece)] for w in text.split(" ")
                 for piece in re.split(r"(?<=־)", w) if piece]
 
-    def card(self, label, keys, kind):
+    def card(self, label, keys, kind, about=None):
         # Every citation the site recognises is a link. Where its text cannot
         # be shown (no segment of the amud holds the entry's word, a mishnah
         # numbered differently), the card offers the text on Sefaria instead.
-        c = self.text_card(label, keys, kind)
+        c = self.text_card(label, keys, kind, about)
         if c:
             return c
         # A citation of Rashi or Tosafos opens their comment on the daf or the
@@ -936,7 +972,7 @@ class Cites:
         return {"l": label, "w": [], "t": [],
                 "u": "https://www.sefaria.org/" + urllib.parse.quote(refs.sefaria(ref).replace(" ", "_"))}
 
-    def text_card(self, label, keys, kind):
+    def text_card(self, label, keys, kind, about=None):
         src = keys[0]
         # A commentator's comments on a pasuk are taken as the segments of an
         # amud are: those holding the entry's words, and only his.
@@ -959,22 +995,42 @@ class Cites:
             # Within one source, a segment holding the word itself comes before
             # one holding only another word of its root, which in an amud of
             # Aramaic is as often chance (ריח, ירחי for א-ר-ח).
-            for src in tries:
+            def hits_in(src):
                 segs = (TALMUD["passages"].get(src) if talmud else COMMENTS.get(src)) or []
                 # "link": Sefaria has his comment, but not in Hebrew.
                 segs = segs if isinstance(segs, list) else []
                 hits = [(i, self.tokens(s)) for i, s in enumerate(segs)]
-                hits = [(i, t) for i, t in hits if any(m for _, m in t)]
+                return segs, [(i, t) for i, t in hits if any(m for _, m in t)]
+
+            # Of the segments that qualify, the two holding the most of the
+            # entry's words, as the amud orders them: נעמן גר תושב היה holds
+            # two, and is more likely the passage than one holding גר alone.
+            def best(pool):
+                return sorted(sorted(pool, key=lambda x: (-len({m for _, m in x[1] if m}), x[0]))[:2])
+            # Where the sentence citing it says which word it is cited for, the
+            # first source with that word answers, and the segments holding it.
+            pick = None
+            if about:
+                for src in tries:
+                    segs, hits = hits_in(src)
+                    hits = best([(i, t) for i, t in hits if any(m == about for _, m in t)])
+                    if hits:
+                        pick = src, segs, hits
+                        break
+            for src in ([] if pick else tries):
+                segs, hits = hits_in(src)
                 own = [(i, t) for i, t in hits if any(self.match(w)[1] for w, m in t if m)]
-                hits = (own or hits)[:2]
+                hits = best(own or hits)
                 # A Targum is shown whole: it is the one pasuk, and its Aramaic
                 # is what it is cited for, though the word is seldom in it.
                 if not hits and not talmud and src.split(" on ")[0] in refs.TARGUMIM:
                     hits = [(i, self.tokens(s)) for i, s in enumerate(segs)]
                 if hits:
+                    pick = src, segs, hits
                     break
-            else:
+            if not pick:
                 return None
+            src, segs, hits = pick
             if " on " in src:
                 label = f'{refs.COMMENTARY_NAME.get(src.split(" on ")[0], src.split(" on ")[0])}, {label}'
             toks = []
@@ -1001,7 +1057,9 @@ class Cites:
         # lead is the text before this run of it, its tags dropped, so that a
         # commentator set in italics ("<em>Tosafos</em> to Nedarim 32a") is
         # still seen as the one cited.
-        out, skip, lead = [], 0, ""
+        # block is the text of the paragraph so far, and ems its italic words
+        # with where each starts in it, for the word a citation is about.
+        out, skip, lead, block, ems, em = [], 0, "", "", [], False
         for p in re.split(r"(<[^>]+>)", fragment):
             if p.startswith("<"):
                 if re.match(r"<(a|h2|h3)[\s>]", p):
@@ -1009,12 +1067,16 @@ class Cites:
                 elif re.match(r"</(a|h2|h3)>", p):
                     skip = max(0, skip - 1)
                 elif re.match(r"</?(p|li|ul|ol|td|th|tr|table|blockquote|div)[\s>]", p):
-                    lead = ""
+                    lead, block, ems = "", "", []
+                em = p.startswith("<em") or (em and not p.startswith("</em"))
                 out.append(p)
                 continue
-            runs = refs.find(p, html.unescape(lead)) if not skip else []
+            if em:
+                ems.append((len(block), p))
+            runs = refs.find(p, html.unescape(lead), self.slug) if not skip else []
             lead = (lead + p)[-400:]
             if not runs:
+                block += p
                 out.append(p)
                 continue
             s, pos = [], 0
@@ -1022,15 +1084,31 @@ class Cites:
                 for n, (ps, pe, keys) in enumerate(pieces):
                     a = start if n == 0 else ps
                     k = "|".join(keys)
+                    label = p[a:pe] if n == 0 else f"{name} {p[ps:pe]}"
                     if k not in self.cards:
-                        label = p[a:pe] if n == 0 else f"{name} {p[ps:pe]}"
                         self.cards[k] = self.card(label, keys, kind)
+                    # Which passage of an amud, or which of a commentator's
+                    # comments, is the one about the word its sentence names; a
+                    # source with no sentence of its own (the Sources list) is
+                    # about what the body cited it for.
+                    if kind in ("bavli", "yerushalmi") or " on " in keys[0]:
+                        plain = next(x for x in keys if " on " not in x)
+                        about = self.about(block + p[:a], ems) or self.about_src.get(plain)
+                        if about:
+                            self.about_src.setdefault(plain, about)
+                            kp = f"{k}@{about}"
+                            if kp not in self.cards:
+                                c = self.card(label, keys, kind, about)
+                                self.cards[kp] = c if c != self.cards[k] else None
+                            if self.cards[kp]:
+                                k = kp
                     if not self.cards[k]:
                         continue
                     s.append(p[pos:a])
                     s.append(f'<a class="cite" href="#" data-k="{html.escape(k)}">{p[a:pe]}</a>')
                     pos = pe
             s.append(p[pos:])
+            block += p
             out.append("".join(s))
         return "".join(out)
 
