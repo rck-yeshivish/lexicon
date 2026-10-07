@@ -42,7 +42,7 @@ sources:
   - wiaw:7409 "Elul 2: Now!" (2017-09-09) https://articles.ohr.edu/articles/elul-2-now
   - ms:200-now-and-forthwith.md "Now and Forthwith!"
 authorities: [Rabbi Eliyahu HaBachur, Rabbi Binyamin Mussafia, Rabbi Wolf Heidenheim, Marcus Jastrow, Targum Onkelos]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Now: atah / na / achshav (and the Aramaic ke'an, hashta, ha'idna)
 
@@ -99,7 +99,7 @@ both *atah* and *na*. Jastrow argues, as he does for *achshav*, that *ke'an* too
 is a contraction or abbreviation, here of the Aramaic *ke'idana*, "according to
 this time," and that the related *ke'don* is the same.
 
-Onkelos also uses *ke'an* for the Hebrew *koh*: *ad koh*, "until now" (Shemos
+Onkelos also uses *ke'an* for the Hebrew [*koh*](here-halom-poh-heinah-zeh-koh.html#%D7%9B%D7%94): *ad koh*, "until now" (Shemos
 7:16), becomes *ad ke'an*, so that *koh* too can mean "now."
 
 ### hashta (השתא)

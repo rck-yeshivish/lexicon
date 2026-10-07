@@ -38,7 +38,7 @@ sources:
   - wiaw:90001 "The Sword of Methusaleh" (2018-10-11) https://groups.google.com/g/whats-in-a-word/c/zywT24_4uaM
   - ms:010-the-sword-of-methusaleh.md "The Sword of Methusaleh"
 authorities: [Midrash, Peirush HaRokeach, Sifsei Kohen, Imrei Noam, Zera Beirech, Radak, Rabbi Shlomo Pappenheim, Malbim, Rabbi Eliyahu HaBachur, Rabbi Avraham Vilner, Rashi, Rabbeinu Shimshon of Shantz, Rabbi Reuven Margolios, Rabbi David Kamin, Ritva, Bartenura, Rabbi Yisrael Lipschitz, Tashbetz, Moshe Oussi]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Sword and knife: cherev / shelach / sayif / sakin / maacheles / chalaf
 
@@ -76,7 +76,7 @@ Arabic (Rashi, Rabbeinu Shimshon of Shantz) or Greek (Bartenura).
   (Yeshayahu 2:18), the future cutting down of idols.
 
 **The origin of *sakin*.**
-- Rabbi Shlomo Pappenheim: related to *sikim*, a kind of thorn (Bamidbar 33:55),
+- Rabbi Shlomo Pappenheim: related to [*sikim*](thorns-kotz-dardar-sneh-charul.html#%D7%A1%D7%99%D7%9B%D7%99%D7%9E), a kind of thorn (Bamidbar 33:55),
   for the likeness of knives to thorns.
 - Rabbi Klein suggests the root ס-ך, to spread or smear, as a table knife spreads
   butter; or perhaps *sakanah*, danger, the risk of a knife fight or other misuse.
@@ -85,7 +85,7 @@ Arabic (Rashi, Rabbeinu Shimshon of Shantz) or Greek (Bartenura).
 
 ### cherev (חרב)
 - Rabbi Shlomo Pappenheim of Breslau (1740 to 1814) relates *cherev* to
-  *churban*, the destruction of something not itself damaged but cut off from an
+  [*churban*](destruction-churban-shemamah.html#%D7%97%D7%95%D7%A8%D7%91%D7%A0), the destruction of something not itself damaged but cut off from an
   outside element it needs to flourish: an intact but abandoned town, or
   *charbah*, a dry land infertile not through its own fault but for want of
   water from outside. The sword, an ancient tool for reducing a population,

@@ -28,7 +28,7 @@ sources:
   - wiaw:11066 "Taking Collateral" (2023-08-26) https://articles.ohr.edu/articles/taking-collateral
   - wiaw:10974 "Shelach: Learning the Ropes" (2023-06-10) https://articles.ohr.edu/articles/shelach-learning-the-ropes
 authorities: [Rashi, Vilna Gaon, Malbim, Rabbi Shlomo Aharon Wertheimer, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Ibn Ezra, Rav Saadia Gaon, Rashbam, Rav Hirsch, Rabbi Moshe Tedeschi-Ashkenazi, Rambam, Rabbi Yaakov Berger, Yitzchak Ber Levinsohn, Rabbi David Chaim Chelouche, Yoel Florsheim, Rabbi Baruch Schönfeld, Rabbi Shlomo Pappenheim]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Wound: petza / chaburah (chovel)
 
@@ -86,7 +86,7 @@ piercing, which is why Rashi defines *petza* as an open wound.
 - In light of Rashi, Malbim (to Yeshayahu 1:6) and Rabbi Shlomo Aharon
   Wertheimer (1866 to 1935) derive it from *chibbur*, "connection," the blood
   pooling beneath the skin; Rabbi Klein places it with the other offshoots of
-  ח-ב-ר, *chibbur*, *chaver* and *chover*, all sharing the sense of joining
+  ח-ב-ר, *chibbur*, [*chaver*](friend-reya-chaver-amit.html#%D7%97%D7%91%D7%A8) and *chover*, all sharing the sense of joining
   together.
 - Alternatively, he suggests, since a Hebrew root can sometimes carry both an
   idea and its opposite, ח-ב-ר may here mean "splitting," the body split open
@@ -106,7 +106,7 @@ the interchange of ayin and hei: the ground opened for Kayin's burial (Bereishis
 - The maskilic scholar Yitzchak Ber Levinsohn (1788 to 1860), in *Shorashei
   Levanon*, relates *petza* to *botzea*, "cut open," as bread is cut in Rabbinic
   Hebrew, on the interchange of the labials peh and beis.
-- Ibn Janach and Radak define *petza* with *bokea*, "breaking open"; though they
+- Ibn Janach and Radak define *petza* with [*bokea*](cutting-bokea-korea-gozer.html#%D7%91%D7%A7%D7%99%D7%A2%D7%94), "breaking open"; though they
   do not say so, Rabbi Klein suggests they may have seen the two as related,
   through peh and beis and through the neighbouring tzadi and kuf.
 - Rabbi David Chaim Chelouche (1920 to 2016), the late Chief Rabbi of Netanya,

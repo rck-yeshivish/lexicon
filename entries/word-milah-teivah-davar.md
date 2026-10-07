@@ -25,7 +25,7 @@ sources:
   - wiaw:9405 "Words for Words" (2021-10-23) https://articles.ohr.edu/articles/words-for-words
   - ms:027-words-for-words.md "Words for Words"
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Yosef Teomim-Frankel, Rabbi Shlomo Zalman of Hanau, Rokeach, Rabbeinu Efrayim, Rabbi Yehuda Leib Shapira-Frankfurter, Ibn Janach, Radak, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Shimon Yehuda Leib Goldblit, Alexander Kohut, Rabbi Moshe Shapiro, Rabbi Akiva Tatz, Rabbi Matityahu Glazerson, Faigy Peritzman, Yerushalmi]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Word: milah / teivah / davar
 
@@ -71,7 +71,7 @@ On the etymology there are two lines.
   adds that *milah* comes from מ-ל-ל, "speech," the root of Sarah's *millel*
   (Bereishis 21:7) and of David HaMelech's *mi yemallel gevuros Hashem*
   (Tehillim 106:2). Rabbi Klein adds that *millel* is the standard Targumic
-  rendering of *amirah*, and that the Eretz Yisrael saying in *Megillah* 18a, a
+  rendering of [*amirah*](speech-dibbur-amirah.html#%D7%90%D7%9E%D7%99%D7%A8%D7%94), and that the Eretz Yisrael saying in *Megillah* 18a, a
   *milah* is worth a sela and silence two, sets *milah* against *shesikah*,
   which also implies that it refers to speech. On this reading, he explains, a
   *milah* is the smallest unit of speech with a meaning of its own, as against
@@ -83,7 +83,7 @@ On the etymology there are two lines.
   sentence.
 
 ### millel (מלל) as a verb
-How does *millel* differ from *amirah*, *dibbur*, *sichah*, *ne'um*, *yechaveh*
+How does *millel* differ from *amirah*, *dibbur*, *sichah*, [*ne'um*](speech-neum-yichaveh-yabia-siach.html#%D7%A0%D7%90%D7%9E), *yechaveh*
 and *yabia*?
 
 - *Peirush HaRokeach* and *Siddur HaRokeach*: *millel* is speaking elaborately
@@ -99,7 +99,7 @@ and *yabia*?
 ### teivah (תיבה)
 In Tanach *teivah* is an ark or chest: Noach's *teivah* (Bereishis 6 to 9), and
 the basket in which Moshe Rabbeinu was placed (Shemos 2:3). In Mishnaic Hebrew
-it is the shul's ark, or the table (*bimah*) on which the Torah is laid for
+it is the shul's ark, or the table ([*bimah*](platform-kan-duchan-bimah-basis.html#%D7%91%D7%99%D7%9E%D7%94)) on which the Torah is laid for
 reading.
 
 - HaBachur brings his proof that *teivah* is the written word from *Yevamos*

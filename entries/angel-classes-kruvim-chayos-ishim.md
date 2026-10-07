@@ -61,7 +61,7 @@ sources:
   - wiaw:8444 "Bereishet - Be a Man" (2019-10-26) https://articles.ohr.edu/articles/bereishet-be-a-man
   - ms:143-cherubic-children-and-other-angels.md "Cherubic Children and Other Angels"
 authorities: [Rambam, the anonymous commentator to Rambam, the school of Rabbi Elazar Rokeach of Worms, Orchos Chaim, Kolbo, Masechta Atzilus, Rabbi Moshe ibn Chaviv, Rabbi Dovid Luria, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Mordechai Shlomo Movshovitz, Rashi, Ramban, Shadal, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-24
+updated: 2026-10-06
 ---
 # Angel classes: kruvim / chayos / ofanim / erelim / ishim
 
@@ -98,7 +98,7 @@ Dovid Luria, though, understands *Pirkei d'Rabbi Eliezer* to hold *kruvim* and
 - Rambam's ten are as above.
 - The *Orchos Chaim* (*Seder Tefillas Shabbos Shacharis* §2) and the *Kolbo*
   (§37) cite the tradition as nine, dropping *malachim*, *elohim*, *bnei
-  elohim*, and *ishim*, and adding *galgalim*, *irin*, and *kadishin*.
+  elohim*, and [*ishim*](man-adam-ish-enosh-gever.html#%D7%90%D7%99%D7%A9), and adding *galgalim*, *irin*, and *kadishin*.
 - The kabbalistic *Masechta Atzilus* has ten that follow Rambam but replace
   *chayos* and *elohim* with *shananim* and *tarshishim*.
 - Rabbi Moshe ibn Chaviv notes that angels are also called *abirim* (Tehillim
@@ -115,7 +115,7 @@ highest of all *created* entities in the Upper Realms.
   as what "some explain": they appeared to Yechezkel in the form of *chayos*,
   wild animals, because in this world man stands at the peak of creation and
   animals do not, so the highest of the angels appeared as animals to teach the
-  *navi* that even the highest creature Above is as an animal beside Hashem.
+  [*navi*](prophet-navi-roeh-chozeh.html#%D7%A0%D7%91%D7%99%D7%90) that even the highest creature Above is as an animal beside Hashem.
 - Alternatively they are so called because through them the *chiyus*, the
   life-force, is given to all lower creations.
 

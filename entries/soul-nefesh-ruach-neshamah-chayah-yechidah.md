@@ -34,7 +34,7 @@ sources:
   - wiaw:8768 "Anatomy of a Soul (Part 2 of 3)" (2020-07-04) https://articles.ohr.edu/articles/anatomy-of-a-soul-part-2-of-3
   - wiaw:8779 "The Chayah and Yechidah (Part 3 of 3)" (2020-07-11) https://articles.ohr.edu/articles/the-chayah-and-yechidah-part-3-of-3
 authorities: [Rambam, Raavad, Rashi, Rashbam, Radak, Ibn Ezra, Rabbeinu Yonah, Targum Onkelos, Maharsha, Vilna Gaon, Rabbi Chaim of Volozhin, Rabbi Yosef Karo, Rabbi Yitzchak Karo, Shelah, Rabbi Alexander Sender Shor, Rabbi Yaakov Yehoshua Falk, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Reuven Margolios, Ibn Janach, Shoresh Yesha, Rabbi Yaakov Kamenetsky]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Soul: nefesh / ruach / neshamah / chayah / yechidah
 
@@ -167,7 +167,7 @@ person's likings and wants (Mishlei 29:11, Yeshayahu 19:3) and his temperament
   air is light and almost indiscernible, *ruach* is the soul as something
   abstract and undetectable by the physical senses. From the same root he
   explains *revach*, open space, which is typically filled with air, and
-  *yareach*, the moon, so called because its movements control the winds.
+  [*yareach*](moon-yareach-levanah-sahar.html#%D7%99%D7%A8%D7%97), the moon, so called because its movements control the winds.
 - Rav Hirsch (to Bereishis 8:21, Shemos 30:25) relates *ruach* to *reyach*,
   smell (ר-י-ח), and compares *reichayim*, millstone, and *rokach*,
   pulverization (ר-ק-ח, yud and kuf interchanging): *reyach* is primarily the
@@ -284,7 +284,7 @@ Rabbi Klein holds that *yechidah* in the sense of soul does not appear in
 Tanach, and that the word occurs there once (Shoftim 11:34), of Yiftach's
 daughter, an only child, meaning something unique and unparalleled. Rabbi
 Pappenheim's lexical work concerns Biblical Hebrew, but Rabbi Klein draws on it
-for *yechidah*: Pappenheim explains ח-ד as singularity or unification, as in *echad*,
+for *yechidah*: Pappenheim explains ח-ד as singularity or unification, as in [*echad*](one-echad-achad-chad.html#%D7%90%D7%97%D7%93),
 one, and *yachad*, together, a single unit made of sub-units joined as one;
 *chad* or *chidud*, sharp, since its force is focused on one point; and
 *chidah*, a riddle, which requires sharpening the mind and bringing all its

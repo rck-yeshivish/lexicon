@@ -26,7 +26,7 @@ sources:
   - wiaw:10810 "Parshas Bo: Please Stand Up" (2023-01-28) https://articles.ohr.edu/articles/parshas-bo-please-stand-up
   - ms:043-stoned-and-high-altars.md "Stoned and High Altars"
 authorities: [Rashi, Ramban, Radak, Rabbi Yonah Ibn Janach, Rabbi Avraham Maimuni, Zohar, Rabbi Elimelech of Lizhensk, Sifrei, Mishnah Zevachim, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, the Vilna Gaon, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Altar: mizbeach / matzeivah / bamah
 
@@ -52,7 +52,7 @@ contrasts the commanded *mizbeach* with the hated *matzeivah*.
 
 **Is a matzeivah an altar?**
 
-1. **Yes, an altar of one stone.** Rashi: *matzeivah* means exactly what
+1. **Yes, an altar of one stone.** Rashi: [*matzeivah*](idols-elilim-gilulim-shikutzim.html#%D7%9E%D7%A6%D7%91%D7%94) means exactly what
    *mizbeach* means, except that a *matzeivah* is erected from a single stone
    while a *mizbeach* is built from several. On this reading Devarim 16:22, "you
    shall not erect for yourselves a *matzeivah*, which Hashem your God hates,"
@@ -123,7 +123,7 @@ exactly is forbidden (above).
 
 ### bamah (במה)
 Literally a high place, hence a private altar, since these were commonly built
-on higher ground; it is related to *bimah*, the raised platform from
+on higher ground; it is related to [*bimah*](platform-kan-duchan-bimah-basis.html#%D7%91%D7%99%D7%9E%D7%94), the raised platform from
 which the Torah is read. Rabbi Shlomo Pappenheim traces *bamah* to the
 biliteral root ב-ם, the conglomeration and meeting point of multiple parties: a
 *bamah* is a site at which many people gathered in communal worship, and it

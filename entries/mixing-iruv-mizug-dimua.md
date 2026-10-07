@@ -22,7 +22,7 @@ words:
 sources:
   - wiaw:11480 "Devarim: All Mixed Up" (2024-08-10) https://articles.ohr.edu/articles/devarim-all-mixed-up
 authorities: [Menachem Ibn Saruk, Rabbeinu Yonah Ibn Janach, Rashi, Tosafos, Ibn Ezra, Radak, Ramban, Maharal, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Shimon Dov Ber Analak of Shidlitz, Rabbi Meir Posner, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Vilna Gaon, Rabbi Dovid Tzvi Hoffmann, Rabbi Kalonymos Kalman Epstein, Rabbi Yisroel Yaakov Algazi, Rabbi Eliyahu Menachem Margulies, Rabbi Moshe Shapiro, Ritva, Rashba, Maharsha, Yaavetz]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Mixing: iruv / mizug / dimua (and dimah, navoch)
 
@@ -96,7 +96,7 @@ uses; they read *dimah* as implying something wet, terumah being the one tithe
 that may be taken from produce already in liquid form. Rabbi Meir Posner (*Beis
 Meir* to Even HaEzer §67) defends Rashi: the Torah may name a thing in
 anticipation of a later enactment. This is reminiscent of Kesubos 10b, which
-reads *almanah* against the *manah* of a widow's kesubah. And Rashi to Pesachim 44a treats the
+reads [*almanah*](widow-almanah-alman-armalta.html#%D7%90%D7%9C%D7%9E%D7%A0%D7%94) against the *manah* of a widow's kesubah. And Rashi to Pesachim 44a treats the
 one-in-a-hundred rule as Biblical anyway.
 
 ### dimah (דמעה), tear

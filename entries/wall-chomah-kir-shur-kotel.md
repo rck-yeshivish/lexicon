@@ -40,7 +40,7 @@ words:
 sources:
   - wiaw:8373 "Remembering the Wall" (2020-07-25) https://articles.ohr.edu/articles/remembering-the-wall
 authorities: [Rabbi Shlomo of Urbino, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Raavan, Rav Hirsch, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehudah Aryeh of Carpentras, Rashi, Ibn Ezra, Ibn Janach, Radak, Rabbi Yitzchok of Volozhin, Rabbi Moshe Zacuto, Rabbi Ernest Klein]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Wall: chomah / kir / shur / cheil / chayitz / kotel
 
@@ -76,7 +76,7 @@ Pappenheim's two-letter roots help bring out the nuances.
 Over 130 appearances, always a wall surrounding a city or a large and important
 building.
 - Rabbi Pappenheim, like Menachem Ibn Saruk, traces it to the two-letter root
-  ח-ם, which he explains as primarily heat: from it *milchamah*, the culmination
+  ח-ם, which he explains as primarily heat: from it [*milchamah*](war-milchamah-krav-pulmus.html#%D7%9E%D7%9C%D7%97%D7%9E%D7%94), the culmination
   of a heated clash of parties, and so, he suggests, perhaps *chomah*, whose
   main purpose is to protect a city from warfare; or else because the wall might
   block cool winds and keep the city warm.
@@ -84,7 +84,7 @@ building.
   also related to sight, as the Aramaic ח-מ-ה is seeing (see Targum Yonasan to
   Shemos 14:31), and Rav Hirsch (to Bereishis 49:22) makes a similar point.
 - Rabbi Yaakov Tzvi Mecklenburg (*HaKsav VeHaKabbalah*) connects it to
-  *cheimah*, anger, and *chamah*, sun, on the point that a wall sets a city
+  [*cheimah*](anger-cheimah-ketzef-charon-rogez.html#%D7%97%D7%9E%D7%94), anger, and [*chamah*](sun-shemesh-chamah-cheres.html#%D7%97%D7%9E%D7%94), sun, on the point that a wall sets a city
   apart from all beyond it; Rav Hirsch (to Bereishis 21:15) puts *cheimes*, a
   flask, in the same family, since it encloses and protects what is inside it.
 
@@ -93,7 +93,7 @@ About 74 appearances as "wall." Most grammarians take the root as ק-י-ר; some
 drop the yud.
 
 - Rabbi Yehudah Aryeh of Carpentras (*Ohalei Yehuda*) links *kir* to
-  *kor*/*kar*, cold, a wall that gives shade to cool off under.
+  [*kor*](cold-kor-tzinah.html#%D7%A7%D7%95%D7%A8)/*kar*, cold, a wall that gives shade to cool off under.
 - Rabbi Pappenheim works from the two-letter ק-ר, the strong impact of weight or
   velocity: *korah*, a beam, and *tikrah*, a ceiling, whose horizontal timbers
   press down on the supports beneath. On that reading *kir* is originally the
@@ -120,9 +120,9 @@ Yirmiyahu 5:10 and Iyov 24:11), but common in the Targumim as *shura*, rendering
   the focal point of a plant's growth; *yashar*, the shortest way to a point;
   *shir*, a composition holding to one theme. *Shur* in the sense of seeing
   belongs here too, since sight, unlike the other senses, can be aimed at one
-  point (Bamidbar 23:9, 24:17; Iyov 35:5). With it go *teshurah*, a gift for one
+  point (Bamidbar 23:9, 24:17; Iyov 35:5). With it go [*teshurah*](gift-minchah-matanah-shai.html#%D7%AA%D7%A9%D7%95%D7%A8%D7%94), a gift for one
   who greets ("sees") a dignitary; *nesher*, the eagle that sees far; and
-  *sheirus*, service, overseeing a master's needs (or, alternatively,
+  [*sheirus*](work-melachah-avodah.html#%D7%A9%D7%99%D7%A8%D7%95%D7%AA), service, overseeing a master's needs (or, alternatively,
   straightening out the household or staying straightforward with the master's
   wishes). For *shur* as "wall" he offers two links: a wall built in a straight
   line (*yashar*), as against a *chomah* that encircles; or a tall wall used as

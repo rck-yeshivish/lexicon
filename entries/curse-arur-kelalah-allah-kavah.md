@@ -27,7 +27,7 @@ sources:
   - wiaw:11413 "Shavuos: Getting Dirty" (2024-06-08) https://articles.ohr.edu/articles/shavuos-getting-dirty
   - ms:267-a-collection-of-curses.md "A Collection of Curses"
 authorities: [Vilna Gaon, Rabbi Yaakov Tzvi Mecklenburg, Malbim, Radak, Rav Hirsch, Rabbeinu Efrayim ben Shimshon, Shadal, Shadal]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Curse: arur / kelalah / allah / kavah
 
@@ -91,12 +91,12 @@ Shemos 22:27 uses both of them in a single pasuk.
   the misfortune about.
 - Rabbi Mecklenburg disagrees: an *allah* is a conditional curse, laid down with
   a stipulation, as in "whoever does such and such shall be cursed."
-- Rav Hirsch (to Tehillim 14:3) relates א-ל-ה to א-ל-ח, the root of *elach*,
+- Rav Hirsch (to Tehillim 14:3) relates א-ל-ה to א-ל-ח, the root of [*elach*](dirt-zuhamah-lichluch-tinuf-goal.html#%D7%90%D7%9C%D7%97),
   becoming soiled, through the interchange of *hei* and *ches*: *allah*
   describes a conflict in which one person wishes ill on another, much as
   *elach* describes the conflict or incompatibility created when one element is
   introduced into another.
-- Shadal (to Bereishis 24:41): *alah* is an oath with a curse, *shevuah* an oath
+- Shadal (to Bereishis 24:41): *alah* is an oath with a curse, [*shevuah*](vow-neder-shevuah-nedavah.html#%D7%A9%D7%91%D7%95%D7%A2%D7%94) an oath
   even without one, both in Hashem's Name, and *alah* derives from *Eloah*,
   which Rabbi Klein takes to mean calling for closer Divine scrutiny of a man,
   which almost always ends in judging him unfavorably. Shadal (to Shemos 22:27):

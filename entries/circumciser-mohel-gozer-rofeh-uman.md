@@ -27,7 +27,7 @@ sources:
   - wiaw:11342 "Tazria: The Cutter" (2024-04-13) https://articles.ohr.edu/articles/tazria-the-cutter
   - ms:189-the-cutter.md "The Cutter"
 authorities: [Rashi, Rabbeinu Chananel, Rabbeinu Gershom, Targum Onkelos, Rabbi Shlomo Pappenheim, Shadal, Rabbi Yissachar Tamar, Rabbi David Zacut Modena, Rabbi Dov Kook, Solomon Dubno, Wilhelm Gesenius, Alexander Kohut, Shach, Chasam Sofer]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Circumciser: mohel / gozer / rofeh / uman
 
@@ -63,7 +63,7 @@ to מ-ה-ל, which occurs once in Tanach, a *hapax legomenon* at Yeshayahu 1:22,
   (*Tikkun Sofrim* to Bereishis 17:13, printed in *Netivos HaShalom* alongside
   Moses Mendelssohn's *Beiur*), who holds that the two roots simply exist in two
   different strands of the language. (As an aside, Rabbi Shlomo Pappenheim
-  traces *mal* and *milah* to the biliteral מ-ל but *mahul* to the biliteral
+  traces *mal* and [*milah*](cutting-bokea-korea-gozer.html#%D7%9E%D7%99%D7%9C%D7%94) to the biliteral מ-ל but *mahul* to the biliteral
   ה-ל.)
 - The other approach bridges them. Shadal (to Yeshayahu 1:22) observes that in
   both Arabic and Latin idiom one is said to kill, slaughter, wound or cut wine
@@ -143,7 +143,7 @@ allusion to the 210 years the Jews were in Egypt.
 
 ### rofeh (רופא) and uman (אומן)
 Roots ר-פ-א, "heal," and א-מ-ן, "craft." A talmid chacham may not live in a
-city that has no *rofeh* and no *uman* (Bava Basra 21a; Sanhedrin 17b); Rashi
+city that has no *rofeh* and no [*uman*](artisan-charash-choshev-rokem.html#%D7%90%D7%9E%D7%A0) (Bava Basra 21a; Sanhedrin 17b); Rashi
 there takes *rofeh* as a circumciser for Jewish children and *uman* as a
 bloodletter or barber. Where no Jewish circumciser is at hand, the Gemara
 weighs an Aramean *rofeh* against a Kusi one (Avodah Zarah 26b; Menachos 42a).

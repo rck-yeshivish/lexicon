@@ -34,7 +34,7 @@ words:
 sources:
   - wiaw:10931 "Showing Teeth" (2023-04-22) https://articles.ohr.edu/articles/showing-teeth
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Shoresh Yesha, Rabbi David Chaim Chelouche, Rabbi Moshe Tedeschi-Ashkenazi, Shadal, Rashi, Biur HaGra, Ibn Parchon, Tosafos, Rabbeinu Chananel, Rabbeinu Gershom, Rabbi Nosson of Rome, Rambam, Dr. Daniel Vainstub, Dr. Alexander Kohut]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Teeth: shein / mesalos (malteos) / kaka / nivi / gallal / chit
 
@@ -89,13 +89,13 @@ us "stun the teeth" of the wicked son.
 - Rabbi Shlomo Pappenheim gives the two-letter root the sense "double," and
   gathers under it *shnayim* ("two"), *shanah* ("repeat"), *shinun*
   ("sharpening," a repeated rubbing), *shoneh* ("change," since what is repeated
-  inevitably changes), *sheinah* ("sleep," when the mind goes over the day's
-  thoughts a second time), *shanah* ("year"), and *yashan* ("old"); *shein*
+  inevitably changes), [*sheinah*](sleep-sheinah-tardeimah-tenumah.html#%D7%A9%D7%99%D7%A0%D7%94) ("sleep," when the mind goes over the day's
+  thoughts a second time), *shanah* ("year"), and [*yashan*](old-zaken-seivah-yashish.html#%D7%99%D7%A9%D7%A0) ("old"); *shein*
   belongs because most people grow two sets of teeth.
 - *Shoresh Yesha* argues that *shein* is more closely related to *shinun*:
   chewing, like sharpening, is a repetitive motion, meant to break the food
   down.
-- Rabbi David Chaim Chelouche (1920 to 2016) links ש-ן to ס-ן (*sneh*,
+- Rabbi David Chaim Chelouche (1920 to 2016) links ש-ן to ס-ן ([*sneh*](thorns-kotz-dardar-sneh-charul.html#%D7%A1%D7%A0%D7%94),
   thornbush), the thorns on a branch resembling sharp teeth.
 
 ### mesalos (מתלעות) and malteos (מלתעות)

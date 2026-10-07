@@ -40,7 +40,7 @@ words:
 sources:
   - wiaw:11687 "Yisro: Write it down" (2025-02-15) https://articles.ohr.edu/articles/yisro-write-it-down
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Rashi, Rashbam, Rabbi Moshe Zacuto, Rabbi Eliyahu HaBachur, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Rabbi Ernest Klein, Rabbi Shaul Goldman, Rabbi Tzadok HaKohen of Lublin, Rabbi Shem Tov Gaguine, Rabbi Yitzchak Ginsburgh, Rabbi Yehuda HaLevi, Rabbi Meshullam bar Kalonymus]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Writing: ketivah / charut / charushah / chakuk / pasal / pituach
 
@@ -114,7 +114,7 @@ The writing on the Luchos is *charut* (Shemos 32:16). The classical
 lexicographers, Ibn Saruk, Ibn Janach and Radak, take it from ח-ר-ת, which
 occurs only here, a *hapax legomenon*. That unique word in the context of the
 Luchos is likely what led Chazal (Eruvin 54a; *Shemos Rabbah* 32:1; *Shir
-HaShirim Rabbah* 8:3; and elsewhere) to connect *charus* with *cheirus*,
+HaShirim Rabbah* 8:3; and elsewhere) to connect *charus* with [*cheirus*](freedom-cheirus-chofesh-dror.html#%D7%97%D7%99%D7%A8%D7%95%D7%AA),
 freedom, and to explain in various ways how the Torah's strictures are freedom
 rather than servitude.
 
@@ -165,7 +165,7 @@ something through a hole; in later Hebrew, rhyming and versification).
 - Rabbi Shlomo Pappenheim explains *chakuk* too as writing by engraving: digging
   small grooves with a metal stylus into a wooden or stone surface to represent
   letters (or pictures, pictographs, hieroglyphs). This is for him the core
-  meaning of the biliteral ח-ק. He derives from it *chok*, the statute whose
+  meaning of the biliteral ח-ק. He derives from it [*chok*](law-din-mishpat-chok-dat.html#%D7%97%D7%A7), the statute whose
   reason is not widely known: because the rationale is not obvious, the exact
   rules must be written down to preserve them, or they are likely to be
   forgotten. As a corollary the legislator is a *mechokek* (Bereishis 49:10;
@@ -187,7 +187,7 @@ Named among the words for the writing on the Luchos, but technically
 them for Moshe carving the second Luchos (Shemos 34:1, 34:4; Devarim 10:1,
 10:3), once for hewing stones for the Beis HaMikdash (Melachim I 5:32) and once
 for hewing an idol (Chavakuk 2:18). The overwhelming majority of the root's
-occurrences are the nouns *pesel* and *pesilim*, idols. The discarded shavings
+occurrences are the nouns [*pesel*](idols-elilim-gilulim-shikutzim.html#%D7%A4%D7%A1%D7%9C) and *pesilim*, idols. The discarded shavings
 of a hewn object are disqualified from the finished piece, which is why *pasul*
 in the halachic sense means disqualified from a given purpose; and since the
 Torah disqualifies idols from ritual use, the finished idol is itself called a
@@ -241,7 +241,7 @@ Modern Hebrew coinages. The Arabic *rasama* (drawing, describing) and *rashama*
 (marking, designating) are said to be loanwords from the Biblical Aramaic.
 
 Rabbi Shlomo Pappenheim (in both *Yerios Shlomo* and *Cheshek Shlomo*) traces
-the word to the biliteral ר-ש, whose chief offshoot is *rosh*, head. With a
+the word to the biliteral ר-ש, whose chief offshoot is [*rosh*](beginning-reishis-techilah-kedem.html#%D7%A8%D7%90%D7%A9), head. With a
 final mem it becomes *resham*: writing only the main points, the headlines, of a
 discourse, notes rather than a full transcript.
 

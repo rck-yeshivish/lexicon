@@ -22,7 +22,7 @@ words:
 sources:
   - wiaw:8735 "A Coriander Conundrum" (2020-06-06) https://articles.ohr.edu/articles/a-coriander-conundrum
 authorities: [Targum Onkelos, Targum Yonasan, Menachem Ibn Saruk, Radak, Rashi, Rashbam, Ralbag, Ibn Ezra, Rabbi Yehudah Ibn Balaam, Rav Hai Gaon, Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Krinsky, Rabbi David Golumb, Rabbeinu Chananel, Rabbi Nosson of Rome, Tosafos Rabbeinu Elchanan, Tosafos HaRosh, Nimukei Yosef, Wilhelm Gesenius]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Coriander: gad / kusbarta (and gudgedaniyos)
 
@@ -57,7 +57,7 @@ white.
 - Rabbi Shlomo Pappenheim reads the two-letter root ג-ד as attachment or
   connection, and gathers under it *gad* (a spiritual force attached to a
   particular thing), *gid* (a sinew, which holds parts of the body together),
-  *gedud* (a squad joined into one unit), and *haggadah* (setting new
+  *gedud* (a squad joined into one unit), and [*haggadah*](telling-haggadah-sippur.html#%D7%94%D7%92%D7%93%D7%94) (setting new
   information into a larger narrative); on the same logic *meged* (Devarim
   33:13-14), *megadim* (Shir HaShirim 4:13), and *migdanos* (Bereishis 24:53)
   are sweet foods, which the palate wants to attach itself to, and he suggests
@@ -69,14 +69,14 @@ white.
   from the Hebrew *gadad*, to cut, in allusion to the wrinkled and furrowed look
   of the seeds.
 - Rabbi Golumb makes one further suggestion of his own: read *gad* backwards as
-  *dag*, fish, so that the "fish seed" of the man is caviar, an especially
+  [*dag*](fish-dag-dagah.html#%D7%93%D7%92), fish, so that the "fish seed" of the man is caviar, an especially
   notable and prominent food.
 
 Against coriander, Rabbi Yehudah Ibn Balaam in the name of Rav Hai Gaon: *zera
 gad* is mustard seed. Ibn Ezra (both commentaries to Shemos 16:31, and to
 Bamidbar 11:7) brings this alongside coriander and says he does not know which is
 right. Rabbi Yehuda Leib Krinsky (*Yahel Ohr*) explains Ibn Ezra's reasoning:
-*gad* is akin to *gedi*, the smallest of the goats, so it could make sense that among seeds it names
+*gad* is akin to [*gedi*](sheep-and-goats-seh-keves-ayil-eiz.html#%D7%92%D7%93%D7%99), the smallest of the goats, so it could make sense that among seeds it names
 the mustard seed, which Chazal use as the standard for the smallest seed.
 
 - On the color: Rashi (to Shemos 16:31), the Rashbam, and Radak all say the

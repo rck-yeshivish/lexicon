@@ -26,7 +26,7 @@ words:
 sources:
   - wiaw:11010 "Pinchas: Piercing Spears" (2023-07-08) https://articles.ohr.edu/articles/pinchas-piercing-spears
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Moshe Tedeschi-Ashkenazi, Ohalei Yehuda, Rav Hirsch, Rabbi Shlomo Pappenheim, Shoresh Yesha, Rambam, Rabbi Ernest Klein, Rabbi Yehoshua Steinberg, Rabbi Tanchum HaYerushalmi, Targum, Rabbi Shmuel Krauss, HALOT, Dr. Raphael Sappan, Avraham Even-Shoshan, Elimelech Klein]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Spear: romach / chanit / kidon (alunki)
 
@@ -76,7 +76,7 @@ rabbinic **lance**.
   Alternatively, *Ohalei Yehuda*: REISH-MEM ("high, lift, remove") with CHES-YUD
   (*chai*, "life"), a remover of life.
 - Rav Hirsch (to Shemos 15:1, Bamidbar 25:7) follows the triliteralists'
-  REISH-MEM-CHES but hears in it the similar *ramah*, "throwing, shooting," CHES
+  REISH-MEM-CHES but hears in it the similar [*ramah*](throw-hashlachah-zerikah-hazayah-ramah.html#%D7%A8%D7%9E%D7%94), "throwing, shooting," CHES
   interchanging with HEI; in his view, it seems, the *romach* is used by
   throwing, not generally by stabbing.
 
@@ -98,7 +98,7 @@ rabbinic **lance**.
   CHES-NUN-HEI ("camping, resting, store"); Menachem Ibn Saruk, a biliteralist,
   does not list the word at all.
 - Rabbi Shlomo Pappenheim (1740 to 1814), a biliteralist: CHES-NUN, camping as
-  against travelling, the weapon commonly found in the *machaneh* and used for
+  against travelling, the weapon commonly found in the [*machaneh*](family-mishpachah-bayis-sheer-machaneh.html#%D7%9E%D7%97%D7%A0%D7%94) and used for
   military purposes.
 - Then three more: Rabbi Tedeschi-Ashkenazi, from CHES-NUN-HEI, the spear often
   stabbed into the ground where it would be "camped"; *Shoresh Yesha*, from the
@@ -123,7 +123,7 @@ from place to place that has collectively halted and made camp, and so a
 military camp, many individuals working together to capture enemy territory or
 defend the homeland; *anachnu*, parsed as *ana* (cognate with *ani*, *anochi*)
 plus *chnu*, "we who are camping together"; *chen*, favor, since one who finds
-favor is granted room to "camp out" in another's thoughts; and *techinah* and
+favor is granted room to "camp out" in another's thoughts; and [*techinah*](prayer-tefillah-bakashah-techinah.html#%D7%AA%D7%97%D7%99%D7%A0%D7%94) and
 *tachanun*, petitions to be granted *chen*.
 
 ### kidon (כידון)

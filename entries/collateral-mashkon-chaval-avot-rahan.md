@@ -31,7 +31,7 @@ words:
 sources:
   - wiaw:11066 "Taking Collateral" (2023-08-26) https://articles.ohr.edu/articles/taking-collateral
 authorities: [Rabbi Eliyahu HaBachur, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi-Ashkenazi, Rav Hirsch, Rashi, Tosafos Yom Tov, Rambam, Sefer HeAruch, Daniel Sperber]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Collateral: mashkon / chaval / avot / rahan / apoteiki
 
@@ -122,7 +122,7 @@ the verb five times, all in Devarim (15:6, 15:8, 24:10).
 
 - Rashi (Bava Kamma 115a) glosses it *mashkon*.
 - Rav Hirsch (to Shemos 22:25, Devarim 15:6, Tehillim 2:3) and
-  Tedeschi-Ashkenazi both tie *avot* to *eved*, tes and dalet interchanging: an
+  Tedeschi-Ashkenazi both tie *avot* to [*eved*](handmaid-amah-shifchah-eved.html#%D7%A2%D7%91%D7%93), tes and dalet interchanging: an
   *eved* is tied down to his master's whims and stripped of his freedom, and so
   the borrower is bound to his lender, whom the pasuk itself calls his master
   (Mishlei 22:7); an *avot*, likewise, is an item detained by the creditor, its
@@ -144,7 +144,7 @@ afterward marry a Kohen.
   given for a debt already owed, *rahan* is what a would-be borrower places with
   a would-be lender so that he will trust him enough to lend, which he finds
   implicit in the Rambam (*Hilchos Maaser Sheini* 3:18).
-- Rav Hirsch (to Tehillim 37:35) links it to *raanan*, "fresh": as freshness is
+- Rav Hirsch (to Tehillim 37:35) links it to [*raanan*](wet-lach-ratuv-raanan.html#%D7%A8%D7%A2%D7%A0%D7%A0), "fresh": as freshness is
   continuous moisture, so *rahan* stays with the creditor until the debt is paid
   in full.
 

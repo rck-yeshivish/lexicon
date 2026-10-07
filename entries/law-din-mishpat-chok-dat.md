@@ -34,7 +34,7 @@ sources:
   - ms:255-laws-and-orders.md "Laws and Orders"
   - ms:176-do-the-din.md "Do the Din"
 authorities: [Rabbi Avraham Bedersi, Ibn Janach, Targum Onkelos, Rabbi Yosef Nechemias, Ibn Ezra, Rabbi Moshe Chalavah, Rabbi Shmuel Laniado, Maharal of Prague, Rabbi Yosef Zecharia Stern, Rabbi Shlomo Aharon Wertheimer, Rabbi Tzadok HaKohen of Lublin, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Nissim of Marseilles, Menachem Ibn Saruk, Ibn Parchon, Ramban, Rashi, Abarbanel, Rav Hirsch, Shadal, Rabbi Moshe Tedeschi, Abu Omar Ibn Yaqwi, Rabbi Eliyahu Benamozegh, Peirush HaRokeach, Rambam, Rabbeinu Bachya, Ibn Yachya, Radak, Rabbi Eliyahu Menachem Margules, Rabbi Moshe Shapiro, Rabbi Yisrael Salanter, Rabbi Berachiah Beirach Shapiro, Zohar, Rabbi Yaakov Tzvi Mecklenburg, Shemos Rabbah, Old Midrash Tanchuma, Yalkut Shimoni, Gesenius, Avraham Even-Shoshan, Yehoshua Yaron, Benjamin J. Noonan, Rabbi Shlomo Astruc]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Law: din / mishpat / chok / dat / nimus
 
@@ -76,8 +76,8 @@ Root ח-ק-ק, "engrave." The pair is set by the pesukim: "this is the *chok* of
 Torah" of the parah adumah (Bamidbar 19:2), "there He placed for them *chok* and
 *mishpat*" at Marah (Shemos 15:25), and "you shall do My *mishpatim* and
 safeguard My *chukim*" (Vayikra 18:4-5). Yoma 67b on that last: *chukim* are the
-mitzvos the *yetzer hara* mocks as pointless (pork, *shaatnez*, *chalitzah*, the
-*metzora*, the *sa'ir la'azazel*); the Gemara raises the possibility that they
+mitzvos the *yetzer hara* mocks as pointless (pork, *shaatnez*, [*chalitzah*](slipping-off-shemittah-chalitzah-shalaf.html#%D7%97%D7%9C%D7%99%D7%A6%D7%94), the
+[*metzora*](leprosy-tzaraas-nega-metzora.html#%D7%9E%D7%A6%D7%95%D7%A8%D7%A2), the *sa'ir la'azazel*); the Gemara raises the possibility that they
 really are pointless and answers from the end of the pasuk, "I am Hashem, I
 promulgated them (*chakaktiv*)," and you have no license to second-guess them.
 Rambam (*Shemonah Perakim* 6, *Moreh* 3:26) follows the sugya closely: *chukim*
@@ -103,7 +103,7 @@ is why the word is so often joined to "forever" (Shemos 12:14, 30:21; Vayikra
 
 - Rabbi Eliyahu Menachem Margules (*Emunas Eliezer*): *chok* does not inherently
   mean a mitzvah with no known reason, but carries that implication through
-  *chakuk*, engraved. Obedience out of rational understanding is conditional and
+  [*chakuk*](writing-ketivah-charut-chakuk.html#%D7%97%D7%A7%D7%95%D7%A7), engraved. Obedience out of rational understanding is conditional and
   lasts only while the reason holds; obedience out of commitment to Hashem's
   will is unconditional and so more engraved in the person, and the Mishnah's
   love that depends on nothing and is never lost (Avos 5:16) is the parallel.
@@ -270,7 +270,7 @@ everything is included in it.
 **אשדת (Devarim 33:2).** The word is obscure, and Bible critics have dealt with
 it by a heretical emendation of the penultimate letter.
 
-- The Masoretic tradition reads it as two words, *aish* and *dat*, and on that
+- The Masoretic tradition reads it as two words, [*aish*](fire-aish-lehavah-shalheves-lapid.html#%D7%90%D7%A9) and *dat*, and on that
   reading Ramban has a religion of fire, Onkelos a Torah given through fire, and
   Rashi the primordial Torah written in fire.
 - Abarbanel has two faces to Torah, a fire that burns up sinners and a *dat*, a
@@ -284,10 +284,10 @@ it by a heretical emendation of the penultimate letter.
   the ever-changing contours of a raging fire, which answer to the ever-shifting
   circumstances of life, the Torah being the gift that supplies guidance for
   every kind of situation. Hirsch further suggests, on the interchange of dalet
-  and tav, a phonetic tie between *dat* and *dod*, an uncle being a close
+  and tav, a phonetic tie between *dat* and [*dod*](uncle-dod-misaref.html#%D7%93%D7%95%D7%93), an uncle being a close
   relative charged with the sort of help one expects from a parent, the
   implication being that Hashem gave the Torah as that kind of support against
-  the *aish* of life; he suggests connecting *dud*, a pot, and *dad*, a breast,
+  the *aish* of life; he suggests connecting [*dud*](basket-tene-sal-keluv.html#%D7%93%D7%95%D7%93), a pot, and *dad*, a breast,
   as well.
 
 A second stream takes אשדת as written, without splitting it.

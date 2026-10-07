@@ -37,7 +37,7 @@ sources:
   - wiaw:9877 "Trusting and Relying on G-d" (2022-09-10) https://articles.ohr.edu/articles/trusting-and-relying-on-g-d-2
   - ms:274-tribesmen-stick-together.md "Tribesmen Stick Together"
 authorities: [Malbim, Rashi, Rabbi Shlomo Aharon Wertheimer, Vilna Gaon, Rabbi Yehuda ibn Kuraish, Rabbi Yaakov Lorberbaum of Lissa, Rabbi Yaakov Tzvi Mecklenburg, Shadal, Rabbi Zev HaKohen Hoberman, Rabbi Shlomo Pappenheim, Ohel Moed, Rabbi Levi Yitzchak of Berditchev, Radak]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Staff and tribe: mateh / shevet / mishenes / makel / sharvit / choter
 
@@ -136,7 +136,7 @@ of these distinctions, of stick and of tribe alike, Rabbi Shlomo of Urbino's
 - *Ohel Moed* writes twice that *shevet* is *mateh*.
 
 ### mishenes (משענת)
-A walking stick on which an elderly person can lean (*mishan* means "lean" or
+A walking stick on which an elderly person can lean ([*mishan*](trust-bitachon-machseh-tikvah.html#%D7%9E%D7%A9%D7%A2%D7%A0) means "lean" or
 "rely"): a cane.
 
 - Wertheimer: also of wood, and necessarily an especially thick branch, since a

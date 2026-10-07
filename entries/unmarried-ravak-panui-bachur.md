@@ -24,7 +24,7 @@ words:
 sources:
   - wiaw:11069 "Single Guys" (2023-09-02) https://articles.ohr.edu/articles/single-guys
 authorities: [Rashi, Tosafos, Rambam, Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Matnos Kehunah, Radak, Rabbi Yehudah Aryeh of Carpentras, Dr. Alexander Kohut, Rabbi Dr. Ernest Klein]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Unmarried man: ravak / panui / bachur
 
@@ -71,7 +71,7 @@ one blanket. In the context of these restrictions the commentators dispute what
   supports their view.
 
 Some versions of the Targum to Tehillim 148:12 also render *bachur* as *ravak*,
-though ours have an Aramaic variant of *elem* there. Rabbi Eliyahu HaBachur
+though ours have an Aramaic variant of [*elem*](child-yeled-olel-roveh-ravya.html#%D7%A2%D7%9C%D7%9E) there. Rabbi Eliyahu HaBachur
 (1469 to 1549, also known as Elias Levita) does not list *ravak* in his lexicon
 of Targumic Aramaic, *Meturgeman*, though the word appears in the Targum at
 least once.
@@ -128,8 +128,8 @@ through the two-letter root פ-ן, whose core he identifies as "frontside,
 surface." Its chief derivatives are *panim*/*pnei* ("face") and *pnim*
 ("interior"), the most important facets of a thing, and the Biblical verb
 *panah*, turning so that a different side, the most prestigious flank, faces
-front. He also gathers under it *ofan* ("wheel," which turns a vehicle), *pinah*
-("corner," where one turns to follow a perimeter) and *pen* ("lest," of an
+front. He also gathers under it *ofan* ("wheel," which turns a vehicle), [*pinah*](corner-peah-keren-zavit-pinah.html#%D7%A4%D7%99%D7%A0%D7%94)
+("corner," where one turns to follow a perimeter) and [*pen*](maybe-ulai-pen.html#%D7%A4%D7%A0) ("lest," of an
 uncertain outcome with several sides to it), and suggests that *peninim* are
 either a gemstone polished so that its faces and vertices show, or jewels hidden
 *penimah*, inside. Rabbi Reuven Chaim Klein glosses *peninim* as more accurately

@@ -22,7 +22,7 @@ words:
 sources:
   - wiaw:11245 "Yisro: Stairs to Above" (2024-02-03) https://articles.ohr.edu/articles/yisro-stairs-to-above
 authorities: [Rambam, Rashi, pseudo-Rashi, Targum Yonasan, Targum Rav Yosef, Menachem Ibn Saruk, Yonah Ibn Janach, Shlomo Ibn Parchon, Radak, Rav Hirsch, Rabbi Yitzchak of Zeldin (Shoresh Yesha), Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Wilhelm Gesenius, Rabbi Dr. Ernest Klein, Avraham Even-Shoshan, Chaim Tawil, Benno Landsberger, Kohut, Brown-Driver-Briggs]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Level: madreigah / maalah / sulam
 
@@ -75,7 +75,7 @@ other Biblical derivative; twice in Tanach (Yechezkel 38:20, Shir HaShirim 2:14)
 and twice in the Mishnah (Kilayim 6:2, Sheviis 3:8), each pair carrying one
 plural and one singular.
 
-- Rav Hirsch (to Bereishis 6:9, Tehillim 25:4): conceptually akin to *derech*, a
+- Rav Hirsch (to Bereishis 6:9, Tehillim 25:4): conceptually akin to [*derech*](path-derech-orach.html#%D7%93%D7%A8%D7%9B), a
   path that carries a person to his destination, which Rabbi Reuven Chaim Klein
   takes as implying that ד-ר-ג and ד-ר-ך are kin, possibly through the
   interchange of gimmel and kaf.
@@ -119,7 +119,7 @@ Zavim 3:1, 4:3). Scholars have proposed various etymologies for the root.
   reading the mem is part of the root and *sulam* means much what *maalos* and
   *madreigos* mean.
 - The more conservative approach takes *sulam* from Hebrew ס-ל-ל, paved, whence
-  *mesilah*, with the final mem paragogic and so no part of the root, which puts
+  [*mesilah*](paths-netiv-mesilah-shvil-mishol.html#%D7%9E%D7%A1%D7%99%D7%9C%D7%94), with the final mem paragogic and so no part of the root, which puts
   *sulam* on the same footing as *madreigah*, a path up; so Rav Hirsch (to
   Bereishis 28:12, Bamidbar 20:19, Tehillim 84:6), Gesenius, Kohut, and the
   *Enhanced Brown-Driver-Briggs*.

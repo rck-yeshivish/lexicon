@@ -30,7 +30,7 @@ sources:
   - wiaw:8724 "Where's The Gold?" (2020-05-30) https://articles.ohr.edu/articles/wheres-the-gold
   - ms:278-wheres-the-gold.md "Where’s the Gold?"
 authorities: [Radak, Ibn Janach, Ibn Ezra, Rashi, Menachem Ibn Saruk, Donash Ibn Labrat, Ramban, Ralbag, Rabbi Yeshayah of Trani, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Moshe David Valle, Rabbi Moshe Ibn Ezra, Peirush HaRokeach, Rabbi Todros Abulafia, Rabbi Binyamin HaRofeh Anav, Maharal, Rabbi Eliezer Papo, Rabbi Pinchas Eliyahu Horowitz, Rabbi Yosef Chaim of Baghdad, Dr. Chaim Tawil, William Foxwell Albright, Dr. Shmuel Yeivin, Yanai, Rabbi Pinchas HaKohen, Rabbi Yaakov Yisrael Stahl, Midrash Tanchuma, Talmud Yerushalmi, Bamidbar Rabbah]
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 # Gold: zahav / paz / kesem / charutz (betzer)
 
@@ -166,7 +166,7 @@ from Ophir, and according to Dr. Chaim Tawil the word itself is said to derive
 from Akkadian *kutimmu* and Sumerian *kudim*, "goldsmith." Modern Hebrew's
 *katom*, orange, comes from the same root, and *tapuz*, the fruit, contracts
 *tapuach zahav*, the golden apple of Mishlei 25:11. (English *orange* is related
-to the Hebrew and Aramaic *esrog*/*trunga*, both from Old Persian *narang* for
+to the Hebrew and Aramaic [*esrog*](citron-hadar-etrog-tapuach.html#%D7%90%D7%AA%D7%A8%D7%95%D7%92)/*trunga*, both from Old Persian *narang* for
 citrus fruits, and per the *Oxford English Dictionary* the initial *o-* in the
 English form was probably influenced by the place name Orange, of the House of
 Orange.)

@@ -25,7 +25,7 @@ words:
 sources:
   - wiaw:6963 "Of Oaths and Promises" (2016-10-01) https://articles.ohr.edu/articles/of-oaths-and-promises
 authorities: [Chazal (Nedarim 2b)]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Vow: neder / shevuah / nedavah
 
@@ -77,7 +77,7 @@ speaker. It can be positive or negative and can face the past or the future: I
 swear I will do, I swear I will not do, I swear I did, I swear I did not. Beis
 din can also impose two further kinds in litigation, one on a litigant to back
 his claim and one on a subpoenaed witness who says he has nothing to testify.
-Every valid *shevuah* must be kept or must be true.
+Every valid [*shevuah*](seven-sheva-shavua-shevuah.html#%D7%A9%D7%91%D7%95%D7%A2%D7%94) must be kept or must be true.
 
 There is also a forbidden kind, outlawed by the third of the Aseres HaDibros,
 which forbids taking Hashem's name in vain and refers to four types of vain oath: swearing to what is plainly false

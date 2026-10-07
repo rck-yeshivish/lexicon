@@ -31,7 +31,7 @@ sources:
   - wiaw:11327 "Shemini: The Nosey Truth" (2024-04-06) https://articles.ohr.edu/articles/shemini-the-nosey-truth
   - ms:064-slaughtering-and-butchering.md "Slaughtering and Butchering"
 authorities: [Malbim, Ralbag, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rabbi Yonah Ibn Janach, Rashi, Ibn Ezra, Ramban, Targum Onkelos, Rabbi Binyamin Mussafia, Mahari Assad, Rabbi Elazar Rokeach of Worms, Shadal, Sifrei]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Slaughter: shechitah / zevichah / tevichah (tabach)
 
@@ -99,7 +99,7 @@ Root ש-ח-ט.
 Rabbi Binyamin Mussafia relates the rabbinic *nechirah*, stabbing an animal in
 its neck (the typical Noahide way of killing an animal, as opposed to properly
 slaughtering it), to *chor*, a hole, because it too involves making a hole;
-Rabbi Shlomo Pappenheim derives *nichirayim*, nostrils, from the same *chor*, a
+Rabbi Shlomo Pappenheim derives [*nichirayim*](nose-af-chotem-nichirayim.html#%D7%A0%D7%97%D7%99%D7%A8%D7%99%D7%9E), nostrils, from the same *chor*, a
 nostril being a hole in one's face.
 
 Shadal (to Bereishis 9:3 and Shemos 23:18): *shachat* is related to *sachat*,

@@ -35,7 +35,7 @@ sources:
   - wiaw:10720 "Toldos: The Doers and Fighters" (2022-11-26) https://articles.ohr.edu/articles/toldos-the-doers-and-fighters
   - ms:050-angels-and-agents.md "Angels and Agents"
 authorities: [Radak, Rabbi Shlomo Pappenheim, Malbim, Ralbag, Rambam, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Yaakov Lorberbaum of Lissa, Vilna Gaon, Rashi, Bereishis Rabbah, the anonymous commentator to Rambam, the school of Rabbi Elazar Rokeach of Worms, Ramban, Hadar Zekeinim, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-24
+updated: 2026-10-06
 ---
 # Angel / messenger: malach / shaliach / tzir
 
@@ -79,7 +79,7 @@ Malbim one who must also report back.
   required to report back. From this primary sense the word is applied to the
   angels Hashem *sends* on various undertakings, some of them to work miracles
   or carry word to prophets.
-- The anonymous commentator to Rambam explains that *malachim* names all the
+- The anonymous commentator to Rambam explains that [*malachim*](angel-classes-kruvim-chayos-ishim.html#%D7%9E%D7%9C%D7%90%D7%9B%D7%99%D7%9E) names all the
   ranks of angels in general and also one rank in particular, the sixth of the
   ten Rambam lists (*Hilchos Yesodei HaTorah* 2:7), as *Taharos* names both an
   order of the Mishnah and a masechta within it; the school of the Rokeach takes
@@ -87,14 +87,14 @@ Malbim one who must also report back.
 - Ralbag, throughout his commentary to Tanach, consistently tries to explain
   every *malach* mentioned as a prophet and not an angel (and see Rambam, Moreh
   Nevuchim 2:6, for his view of angelology).
-- Mecklenburg: *malach* is kin to *melachah*, creative labor, an agent carrying
+- Mecklenburg: *malach* is kin to [*melachah*](work-melachah-avodah.html#%D7%9E%D7%9C%D7%90%D7%9B%D7%94), creative labor, an agent carrying
   out a task.
 - Rav Hirsch: *melachah* is the thinking man's power to realize his ideas
   through work; *malach* is that power personified in a proxy; and the word
   sometimes names Hashem Himself, who is ever engaged in the *melachah* of
   creation.
 - Rav Hirsch (to Bereishis 48:16, s.v. *hamalach hagoel*) also suggests that
-  perhaps *malach* derives from *melech*, a force that acts and prevails; this
+  perhaps *malach* derives from [*melech*](king-melech-moshel.html#%D7%9E%D7%9C%D7%9B), a force that acts and prevails; this
   force does not act on its own authority, but bears within itself the letter
   aleph, the hidden sign of another personality that guides and blesses it,
   quite literally "My Name is within him" (Shemos 23:21).
@@ -137,7 +137,7 @@ as rebelling (*eshtadur*, Ezra 4:15, 4:19) and theorizes that it is a cognate of
 *Hadar Zekeinim* (to Devarim 33:14) writes that *geresh* (literally what is
 driven outward from the plant) in the sense of produce is a metathesized form of
 *sheger* (שגר), except that *sheger* refers to fauna and *geresh* to flora.
-Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bamidbar 36:4) adds that *sarigim*,
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bamidbar 36:4) adds that [*sarigim*](grapevine-gefen-sorek-shdeimah.html#%D7%A9%D7%A8%D7%99%D7%92),
 shoots, may also be related to *sheger*.
 
 ## Rendering guidance

@@ -27,7 +27,7 @@ sources:
   - wiaw:11489 "Nursing from the Good" (2024-08-17) https://articles.ohr.edu/articles/nursing-from-the-good
   - wiaw:8287 "On Clouds" (2019-06-15) https://articles.ohr.edu/articles/on-clouds
 authorities: [Menachem Ibn Saruk, Ibn Janach, Shlomo Ibn Parchon, Radak, Rabbi Shlomo Pappenheim, Rashi, Dunash, Malbim, Rabbeinu Chananel, Rabbi Menachem ben Shimon of Posquieres, Ralbag, Rabbi Shlomo of Urbino, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Nosson of Rome, Pseudo-Rasag, Rabbi Shaul Goldman, Shadal, Wilhelm Gesenius, Daas Mikra, Mitchell First, Chaim Tawil, David J. A. Clines, Rabbi Yaakov Chaim Sofer, Peirush HaRokeach]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Breast: shadayim / dadim / atinim (ziz)
 
@@ -62,7 +62,7 @@ Parchon, Radak) traces it to the two-letter root ש-ד. Rabbi Shlomo Pappenheim
 takes the core of ש-ד as abnormality, a departure from the ordinary: the mammary
 glands secrete nourishing milk, unlike any other limb. He derives from the same
 root *shoded* (to plunder, taking or using something outside its normal way),
-*sheid* (a demon, which disrupts the natural order), and *shidah/shidos*
+[*sheid*](demon-sheid-lilis-ruach.html#%D7%A9%D7%93) (a demon, which disrupts the natural order), and *shidah/shidos*
 (Koheles 2:8), nimble dancers who move like *sheidim*.
 
 - In Bereishis 49:25 Yaakov blesses Yosef with "blessings of *shadayim* and
@@ -107,8 +107,8 @@ Four times in Tanach: Yechezkel 23:3, 23:8, 23:21, and Mishlei 5:19.
   *dadim* means exactly what *shadayim* means, from the two-letter root ד-ד.
 - Rabbi Shlomo Pappenheim traces it to the single letter dalet, whose sense he
   takes as separation and protrusion: the breasts protrude and stand apart from
-  the body. He puts in the same family *dud* (pot) and *dudaim*, shaped like
-  *dadim*; *dod* and *dodah*, branching off the family line, with *dod* (a
+  the body. He puts in the same family [*dud*](basket-tene-sal-keluv.html#%D7%93%D7%95%D7%93) (pot) and *dudaim*, shaped like
+  *dadim*; [*dod*](uncle-dod-misaref.html#%D7%93%D7%95%D7%93) and *dodah*, branching off the family line, with *dod* (a
   beloved) and *yedid*; *niddah*, separated from her husband; *nadan/nedunya*, a
   dowry set apart from one's property; *nadan*, a sheath; and *yad*, the hand
   separating out from the body's sides.

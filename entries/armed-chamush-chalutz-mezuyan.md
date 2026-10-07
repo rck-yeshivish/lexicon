@@ -26,7 +26,7 @@ words:
 sources:
   - wiaw:11613 "Bishalach: Armed and Ready" (2024-01-27) https://articles.ohr.edu/articles/bishalach-armed-and-ready
 authorities: [Rashi, Ramban, Menachem Ibn Saruk, Yonah Ibn Janach, Shlomo Ibn Parchon, Radak, Ibn Ezra, Rabbi Yehudah Ibn Balaam, Rashbam, Daas Zekeinim, Malbim, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Shlomo of Urbino, Korban HaEidah, Torah Temimah, Rabbi Chaim Kanievsky, Baal HaTurim, Rabbi Ernest Klein, Wilhelm Gesenius, David Curwin, Rabbi Elimelech Bleiberg, Rabbi Itamar Habshush, David Assaf, Yisrael Bartel]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Armed: chamush / chalutz / mezuyan
 
@@ -114,7 +114,7 @@ ready for a fight at a moment's notice.
 - Rashbam, Ibn Ezra, *Daas Zekeinim*, Radak and others by *chamesh*, that he
   impose a fifth as tax (also implied in Ibn Saruk's *Machberes Menachem*).
 - Ibn Janach reads it as a third thing, related to the Arabic *chamus*, hidden,
-  a cognate of the Hebrew *kamus*.
+  a cognate of the Hebrew [*kamus*](secret-sod-raz-tamir.html#%D7%9B%D7%9E%D7%95%D7%A1).
 
 ### chalutz (חלוץ)
 Seventeen occurrences in the military sense, mostly Bamidbar (31:5, 32:21,

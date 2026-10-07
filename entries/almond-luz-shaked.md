@@ -18,7 +18,7 @@ sources:
   - wiaw:9436 "Almonds in the Bible" (2021-11-13) https://articles.ohr.edu/articles/almonds-in-the-bible
   - ms:048-all-about-almonds.md "All About Almonds"
 authorities: [Rabbi Saadia Gaon, Radak, Ibn Ezra, Menachem Ibn Saruk, Rashi, Tosafos, Ibn Janach, Rabbi Shlomo Pappenheim, Midrash Sechel Tov, Targum Onkelos, Targum Yonasan, Targum Neofiti, Rabbi J. D. Eisenstein, Avraham Even-Shoshan, Gary Rendsburg, Joshua D. Klein, Solomon Löwisohn]
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 # Almond: luz / shaked
 
@@ -66,7 +66,7 @@ pun to Yirmiyahu: "What do you see, Yirmiyahu? And I said, I see a *makel
 shaked*. And Hashem said to me, you have seen well, for *shoked ani al devari
 la'asoso*" (Yirmiyahu 1:11 to 12). Rashi: just as the *shaked* is overly
 attentive to bear fruit before every other tree, so is Hashem attentive to carry
-out what He told the *navi*. The Yerushalmi (Taanis 4:5) paraphrases the *shaked*
+out what He told the [*navi*](prophet-navi-roeh-chozeh.html#%D7%A0%D7%91%D7%99%D7%90). The Yerushalmi (Taanis 4:5) paraphrases the *shaked*
 of that pasuk with *luz*.
 
 In Modern Hebrew *shaked* also has an anatomical sense, as *luz* does, but not

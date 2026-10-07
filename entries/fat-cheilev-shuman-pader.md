@@ -27,7 +27,7 @@ sources:
   - wiaw:11314 "Tzav: Good Fat, Bad Fat" (2024-03-30) https://articles.ohr.edu/articles/tzav-good-fat-bad-fat
   - ms:184-good-fat-bad-fat.md "Good Fat, Bad Fat"
 authorities: [Rashi, Ramban, Rabbeinu Bachya, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Rav Hirsch, Chizkuni, Menachem Ibn Saruk, Radak, Ibn Ezra, Rashbam, Rabbi Shlomo of Urbino, Rabbeinu Gershom, Rabbi Saadia Gaon, Ibn Janach, Ibn Parchon, Rabbi Eliyahu HaBachur, Rabbi David Chaim Chelouche, Rabbi Shaul Goldman, Rambam, Tosafos Yom Tov, Sefer HeAruch, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Fat: cheilev / shuman / pader / tarba
 
@@ -103,7 +103,7 @@ times in Tanach by Even Shoshan's concordance.
 Not in Tanach at all; it enters with the Mishnah (*Kerisus* 4:1).
 
 - Rabbi Shlomo Aharon Wertheimer ties it to the biblical root shin-mem-nun,
-  oily, familiar from *shemen*.
+  oily, familiar from [*shemen*](oil-shemen-yitzhar.html#%D7%A9%D7%9E%D7%A0).
 - Rashi (Chullin 45b): *cheilev* is the general Hebrew word covering both
   forbidden and permitted fats, and *shuman* was coined by Chazal for the
   permitted fats specifically, so that the two could be told apart. Mammals do

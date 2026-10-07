@@ -26,7 +26,7 @@ words:
 sources:
   - wiaw:8478 "Where are You" (2019-11-16) https://articles.ohr.edu/articles/where-are-you
 authorities: [Rabbi Shlomo Pappenheim of Breslau, Rabbi Shlomo Aharon Wertheimer, Rashi, Rabbi Eliyahu Mizrachi, Radak, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Uriel Frank]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Where: ayeh (ey) / eifoh / anah
 
@@ -99,7 +99,7 @@ Examples are *ayeh* (Bereishis 18:9), its cognate *ayekah* (Bereishis 3:9) and
 *ey* (Bereishis 4:9, to Kayin about Hevel).
 
 ### eifoh (איפה)
-Rashi to Iyov 38:4: a compound of *ey*, "which," and *poh*, "here," so that the
+Rashi to Iyov 38:4: a compound of *ey*, "which," and [*poh*](here-halom-poh-heinah-zeh-koh.html#%D7%A4%D7%94), "here," so that the
 question is literally "which here?" The Aramaic *heicha* and *heichan* are built
 the same way, from *hei*, "which," and *ka* or *kan*, "here." English "where"
 is somewhat reminiscent, as if *w* for "which" plus "here," but

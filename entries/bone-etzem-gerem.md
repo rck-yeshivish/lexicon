@@ -19,7 +19,7 @@ words:
 sources:
   - wiaw:10785 "Them Bones and Themselves" (2023-01-07) https://articles.ohr.edu/articles/them-bones-and-themselves
 authorities: [Menachem Ibn Saruk, Rashi, Ralbag, Ramban, Rav Hirsch, Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Yaakov Emden, Rabbi Eliyahu HaBachur, Rambam, Rabbi Tanchum HaYerushalmi, Rabbeinu Bachya, Metzudas Tzion, Tosafos, Rabbi David Chaim Chelouche]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Bone: etzem / gerem
 
@@ -101,7 +101,7 @@ enemies "and their bones *yigarem*."
   the teeth and sucking out the marrow, leaving the bone bare (see also Rashi to
   Yechezkel 23:34).
 
-**Germani (Negaim 2:1).** The Mishnah says the whitest shade of *tzaraas* looks
+**Germani (Negaim 2:1).** The Mishnah says the whitest shade of [*tzaraas*](leprosy-tzaraas-nega-metzora.html#%D7%A6%D7%A8%D7%A2%D7%AA) looks
 dim on the skin of a *germani*.
 
 - Rambam (commentary to the Mishnah) and Rabbi Tanchum HaYerushalmi (*HaMadrich
@@ -127,7 +127,7 @@ bones. Menachem Ibn Saruk lists five senses of ע-צ-ם: bone; a visible hue
 (Shemos 24:10; Eichah 4:7; Tehillim 139:15); strength (Bereishis 26:16; Shemos
 1:7, 1:9; Yeshayahu 40:29, 41:21; Tehillim 38:20); shutting the eye (Yeshayahu
 29:10, 33:15); and the thing itself (Bereishis 7:13; Shemos 12:41). Rabbi Shlomo
-Pappenheim joins *etzem* to *atzum*, strong, and to *eitz*, a tree, since the
+Pappenheim joins *etzem* to *atzum*, strong, and to [*eitz*](tree-eitz-ilan.html#%D7%A2%D7%A6), a tree, since the
 bone is the hard part of the body as the trunk is of the tree, against the
 flimsier growths; Ramban (to Vayikra 23:28) had already said that a thing's
 *etzem* is its strongest point.
@@ -154,7 +154,7 @@ juice); Rabbi David Chaim Chelouche argues the same from the marrow.
 Two further terms belong here. *Garmei shamayim*, the celestial bodies, in
 Rambam's *Moreh Nevuchim* and other works rendered from Judeo-Arabic, are
 independent "selves" in the heavens. And *hagramah* (*Chullin* 9a), cutting at
-the wrong point of the animal's throat so that the *shechitah* is invalid, may
+the wrong point of the animal's throat so that the [*shechitah*](slaughter-shechitah-zevichah-tevichah.html#%D7%A9%D7%97%D7%99%D7%98%D7%94) is invalid, may
 belong to *gerem* as well (see Rashi to Melachim II 9:13 and *Maggid Mishnah*,
 Hilchos *Shechitah* 3:12).
 

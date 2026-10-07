@@ -31,7 +31,7 @@ sources:
   - wiaw:7251 "When Just Counting Doesn't Count" (2017-05-13) https://articles.ohr.edu/articles/when-just-counting-doesnt-count
   - ms:190-haircut-time.md "Haircut Time"
 authorities: [Rav Hirsch, Rabbi David Golumb, Rabbi Shlomo Pappenheim, Radak, Rabbi Nosson of Rome, Rabbi Eliyahu HaBachur, Rashi, Mahari Kara, Rabbi Avraham Abulafia, Dr. Alexander Kohut, Dr. Chaim Tawil, Rabbi Yaakov Tzvi Mecklenburg, the Rogatchover Gaon]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Haircut: giluach / gizah / galav / sapar
 
@@ -58,13 +58,13 @@ typically of an animal's wool, and is a cut that leaves something standing.
 
 ### giluach (גילוח)
 Root ג-ל-ח, some twenty-three appearances in Tanach, thirteen of them in Chumash,
-the largest share of them in the *metzora* and Nazir purification passages
+the largest share of them in the [*metzora*](leprosy-tzaraas-nega-metzora.html#%D7%9E%D7%A6%D7%95%D7%A8%D7%A2) and Nazir purification passages
 (Vayikra 14:8 and 14:9, Bamidbar 6:9, 6:18 and 6:19).
 
 - Rav Hirsch (to Bereishis 9:21), on the interchange of hei, ayin and ches,
   groups ג-ל-ה (*gilui*, reveal), ג-ל-ע (*gala*, open) and ג-ל-ח under one
   theme of exposing and bringing forward: to shave is to *expose* the skin the
-  hair had covered. He reads *ta'ar*, razor, from ע-ר-ה the same way, laying
+  hair had covered. He reads [*ta'ar*](razor-taar-morah.html#%D7%AA%D7%A2%D7%A8), razor, from ע-ר-ה the same way, laying
   bare.
 - Rabbi David Golumb (*Targumna* to Vayikra 14:9) adds a second strand: ג-ל-ח
   is ח-ג-ל by metathesis, and ח-ג-ל a form of ע-ג-ל, "round," so *giluach*
@@ -96,7 +96,7 @@ different works:
    remnant standing, stubble. He takes the core sense of the two-letter ג-ז as
    trimming that leaves part attached and part detached, and reads the whole
    family from it: *geiz* (Tehillim 72:6), the grass left after mowing; *gozez*
-   (Bereishis 38:12, 31:19), shearing wool from sheep; *gazam*, a grasshopper
+   (Bereishis 38:12, 31:19), shearing wool from sheep; [*gazam*](locust-arbeh-gazam-yelek-chasil.html#%D7%92%D7%96%D7%9E), a grasshopper
    that eats some of the produce and leaves the rest;
    *geza*, a tree with its top cut off; *gazis*, hewn stone, part shaved down and
    the rest intact.
@@ -130,7 +130,7 @@ you take" (Yechezkel 5:1).
   peeling.
 - Rabbi David Golumb (*Targumna* to Bamidbar 21:29) argues that *galav* is a
   metathesized form of *gvul*, border, which may be better understood in light
-  of the possible connection between *sapar* and *sfar* below.
+  of the possible connection between *sapar* and [*sfar*](border-gevul-techum-meitzar-sfar.html#%D7%A1%D7%A4%D7%A8) below.
 
 ### sapar (ספר)
 Absent from Tanach, standard in the Targumim and the Mishnah, and the everyday
@@ -162,7 +162,7 @@ as scissors (Keilim 13:1).
   (Sotah 16a), which scissors cannot do. Golumb (to Shemos 9:29 and Vayikra
   14:9) further reads the string ס-פ-ר as "circle" or "round," asserting that
   all these words are related to the Greek *sphere*, circle: *l'saper* and
-  *sippur*, telling a story that gets traction as it goes around and around;
+  [*sippur*](telling-haggadah-sippur.html#%D7%A1%D7%A4%D7%95%D7%A8), telling a story that gets traction as it goes around and around;
   *sfar*, a border city surrounded by its protecting wall; and *sapar*, the
   barber who cuts around the head from one ear to the other.
 - The Rogatchover (*Tzafnas Paneach* to Bereishis 41:14): the Targum renders

@@ -44,7 +44,7 @@ sources:
   - wiaw:7592 "Army of Grasshoppers" (2018-01-20) https://articles.ohr.edu/articles/army-of-grasshoppers
   - wiaw:9756 "Empty Exaggerations" (2022-07-02) https://articles.ohr.edu/articles/empty-exaggerations
 authorities: [Rashi, Radak, Malbim, Meiri, Rabbi Shmuel ben Meshullam of Gerona, Rav Chaim Kanievsky, Rabbi Menachem Tzioni, Rabbeinu Bachya, Peirush HaRokeach, Rav Saadia Gaon, Ralbag, Ramban, Midrash HaGadol, Midrash Sechel Tov, Targum, Rabbi Richard Jacobs, Rabbi Shlomo Pappenheim]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Locust: arbeh / gazam / yelek / chasil (and the kosher four)
 
@@ -81,7 +81,7 @@ and other orthoptera. Nine words refer to grasshoppers: *arbeh*, *gazam*,
 *tzlatzel* is another possible one.
 
 ### arbeh (ארבה)
-The eighth *makkah* (Shemos 10:14, "before it there was never an *arbeh* like
+The eighth [*makkah*](flogging-makkot-malkut.html#%D7%9E%D7%9B%D7%94) (Shemos 10:14, "before it there was never an *arbeh* like
 it, and after it there will not be so"). Radak: named for its multitudes, from
 *harbeh*. *Arbeh* names one particular species and also serves as the umbrella
 for every kind. It heads the four permitted species of Vayikra 11:22 (*arbeh*,
@@ -91,7 +91,7 @@ as *govai*, as does the Targum to Yoel.
 ### gazam (גזם)
 - Radak: from *gozez*, because it cuts the grain. First in Yoel's sequence: the
   *gazam* eats, and what it leaves the *arbeh* eats (Yoel 1:4).
-- Targum: *zachala*, a crawling thing (compare Devarim 32:24, where the word
+- Targum: [*zachala*](trembling-chil-dachil-zachal.html#%D7%96%D7%97%D7%9C), a crawling thing (compare Devarim 32:24, where the word
   means a snake).
 - Rabbi Shlomo Pappenheim puts *gazam* under the biliteral ג-ז, shaving or
   trimming in a way that leaves some parts attached and some detached, alongside
@@ -125,7 +125,7 @@ Chagavim* 2. The Gemara (Chullin 63b) says there are eight hundred kinds of
 ### tzfoni (צפוני)
 Yoel 2:20, God's own promise if the Jewish People repent their sins and pray:
 "I will distance the *tzfoni* from you." Rashi and Radak: another word for these
-pests, so called because they usually migrate from the north (*tzafon*) of Eretz
+pests, so called because they usually migrate from the north ([*tzafon*](directions-tzafon-darom-mizrach-maarav.html#%D7%A6%D7%A4%D7%95%D7%A0)) of Eretz
 Yisrael.
 
 ### tzlatzel (צלצל)

@@ -23,7 +23,7 @@ sources:
   - wiaw:9523 "Put in Place" (2022-01-08) https://articles.ohr.edu/articles/put-in-place
   - ms:106-put-in-place.md "Put in Place"
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Moshe Zuriel, Rabbi Avraham Shick of Slonim (Eshed HaNechalim), Even-Shoshan concordance, Rabbi Elazar Rokeach of Worms]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Placing: natan / sam / shat
 
@@ -65,7 +65,7 @@ Placing into a spot specifically designated for it, deliberately, as part of a
 larger plan or system, but with no implication about how long it stays. Rabbi
 Shlomo Pappenheim traces it to the biliteral ס-ם (sin and samech interchange),
 whose core sense is putting a thing in its place. From the same root he derives
-*samim* (potions and elixirs, commonly kept in designated places), *bosem* and *besamim*
+*samim* (potions and elixirs, commonly kept in designated places), [*bosem*](balsam-panag-tzari-afarsemon.html#%D7%91%D7%95%D7%A9%D7%9E) and *besamim*
 (fragrances, commonly made from *samim*, though the beis is normally a radical
 in his system), and *osem* (Devarim 28:8, Mishlei 3:10), the storehouse where
 *samim* are commonly kept. He also derives the Mishnaic *siman* ("sign") from it, a sign

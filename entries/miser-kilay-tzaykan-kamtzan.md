@@ -23,7 +23,7 @@ sources:
   - wiaw:9734 "On Misers and Cheapskates" (2022-06-18) https://articles.ohr.edu/articles/on-misers-and-cheapskates
   - ms:067-on-misers-and-cheapskates.md "On Misers and Cheapskates"
 authorities: [Radak, Ibn Janach, Rabbi Shlomo Pappenheim, Ibn Ezra, Rashi, Mahari Kara, Rabbi Eliezer of Beaugency, Menachem Ibn Saruk, Rabbeinu Chananel, Rabbi Ernest Klein, Rashbam, Rabbi Chaim of Friedberg, Maharal, Orchos Tzaddikim, Rabbeinu Yonah, Solomon Rabinowitz, Mendele Mocher Seforim, Alexander Kohut, the Gemara, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Miser: kilay / tzaykan / kamtzan
 
@@ -155,7 +155,7 @@ yield in the years of plenty; Radak (there and in *Sefer HaShorashim*): from a
 minimal seeding the land gave three-finger loads of produce. This too relates to
 *kemitzah* as smallest measure.
 
-The Aramaic *kamtza* seems to belong here too. Targum uses it for *arbeh*
+The Aramaic *kamtza* seems to belong here too. Targum uses it for [*arbeh*](locust-arbeh-gazam-yelek-chasil.html#%D7%90%D7%A8%D7%91%D7%94)
 (Mishlei 30:27), *yelek* (Nachum 3:15-16) and *chagav* (Bamidbar 13:33, Yeshayahu
 40:22), all grasshoppers, and this perhaps relates to *kemitzah* and *kamtzan*
 in that a single grasshopper out of a whole swarm is a small quantity from

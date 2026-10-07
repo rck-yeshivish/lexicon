@@ -23,7 +23,7 @@ sources:
   - wiaw:8400 "Forms of Forgiveness" (2019-09-21) https://articles.ohr.edu/articles/forms-of-forgiveness
   - ms:339-forms-of-forgiveness.md "Forms of Forgiveness"
 authorities: [Rabbi Eliyahu HaBachur, Rabbi Moshe Meth, Rabbi Yitzchak Eizik of Tirna, Rabbi Aharon Fuld, Rabbi Moshe Yitzchak Avigdor, Rabbi Yehuda Aszad, Rabbi Shlomo Pappenheim, Rabbi Yechezkel Landau, Malbim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Ernest Klein, Rabbi Dosa the Greek, Rabbi Zev Hoberman, Rabbi Eliyahu Menachem Margulies, the Vilna Gaon, Rabbi Yitzchak Hutner]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Forgiveness: mechilah / selichah / kapparah
 
@@ -77,7 +77,7 @@ Gaon, he gives each word its own object: *selichah* forgives the infraction,
 
 - Rabbi Margulies, following the Vilna Gaon: *selichah* forgives the infraction
   itself, *mechilah* is Hashem forgoing the slight to His honor. So *mechilah*
-  goes with *pesha* and the relation of servant to king, *selichah* with *chet*
+  goes with [*pesha*](rebellion-pesha-meridah-meri.html#%D7%A4%D7%A9%D7%A2) and the relation of servant to king, *selichah* with *chet*
   and the relation of son to father. He ties *mechilah* to *machol*, a circle
   around a central point: every Jew holds a point of pure intent, and Rabbi
   Yitzchak Hutner (*Pachad Yitzchak*, Yom Kippur 25:2) explains that Hashem
@@ -120,8 +120,8 @@ Hebrew Language* calls of uncertain etymology.
   30:3), which Targum renders cancel, nullify.
 - Rabbi Shlomo Pappenheim proposes that many three-letter roots opening with
   *mem* are really the remaining two letters with the *mem* flipping the sense
-  to its opposite (*chok* engrave, *machak* erase; *leitz* scorn, *meilitz*
-  defend; *na* movement, *mana* withholding; *rad* rule, *marad* rebel, and
+  to its opposite ([*chok*](law-din-mishpat-chok-dat.html#%D7%97%D7%A7) engrave, *machak* erase; *leitz* scorn, [*meilitz*](advocate-meilitz-praklit-sanegor.html#%D7%9E%D7%9C%D7%99%D7%A6)
+  defend; *na* movement, [*mana*](stopping-chadal-mana-chasach-kala-pasak.html#%D7%9E%D7%A0%D7%A2) withholding; *rad* rule, *marad* rebel, and
   more). Pappenheim himself does not apply this to *mechilah*; Rabbi Reuven
   Chaim Klein suggests that perhaps we may: ח-ל is primarily hollowing out, and
   in many cases profaning something holy by emptying it, and a Jew who sins

@@ -37,7 +37,7 @@ sources:
   - wiaw:11433 "Shelach: Message on a Pole" (2024-06-29) https://articles.ohr.edu/articles/shelach-message-on-a-pole
   - ms:243-message-on-a-pole.md "Message on a Pole"
 authorities: [Rabbi Yaakov Tzvi Mecklenburg, Zohar, Rabbeinu Yonah Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Shlomo of Urbino, Rav Hirsch, Rambam, Rashi, Rabbi Ernest Klein, Rabbi Tzvi Matisyahu Abrahams, Midrash Tanchuma, Mechilta, Even Shoshan, Doron Yaakov, Rabbi Zundel Kroizer]
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 # Pole: mot / bad / neis / toren / shapud
 
@@ -80,8 +80,8 @@ Roots:
 - the triliteralists Ibn Janach and Radak, each in his *Sefer HaShorashim*,
   מ-ו-ט.
 - The medieval biliteralist Menachem Ibn Saruk (*Machberes Menachem*), the
-  two-letter מ-ט, which also yields *tamut* (slipping), *mateh* (staff),
-  *matteh* (tribe), *mitah* (bed) and Aramaic *mata* (touching), so that for him
+  two-letter מ-ט, which also yields *tamut* (slipping), [*mateh*](staff-mateh-shevet-makel.html#%D7%9E%D7%98%D7%94) (staff),
+  *matteh* (tribe), [*mitah*](bed-mitah-eres.html#%D7%9E%D7%98%D7%94) (bed) and Aramaic *mata* (touching), so that for him
   the middle vav is extraneous.
 - The Enlightenment-era biliteralist Rabbi Shlomo Pappenheim takes even the
   *mem* as extraneous and works from ט-ה, whose core sense is changing the

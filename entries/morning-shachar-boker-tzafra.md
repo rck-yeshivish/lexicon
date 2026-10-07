@@ -29,7 +29,7 @@ sources:
   - wiaw:8518 "Good Morning Sunshine" (2019-12-14) https://articles.ohr.edu/articles/good-morning-sunshine
   - ms:051-good-morning-sunshine.md "Good Morning Sunshine"
 authorities: [Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Alkabetz, Rashi, Rabbi Menachem Ibn Saruk, Ibn Ezra, Radak, Rabbi Wolf Heidenheim, Peirush HaRokeach, Zohar, Vilna Gaon, Rabbi Moshe Shapiro, Rabbi Eliyahu HaBachur, Ramban, Rabbi Aharon Marcus, Rabbi Yaakov Zev Lev, Rabbi Moshe Kosover of Beit Chilkiyah, Thomas Fuller, Shadal, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Morning: shachar / boker (tzafra, kritzuta)
 
@@ -129,7 +129,7 @@ cantillation system) the Targum splits them, *boker* as *tzafra* and *shachar* a
 *kritzuta*. *Tzafra* is the standard Aramaic for morning in the Gemara; Rashi's
 greeting was *tzafra d'mareh tav*.
 
-*Tzafra* and *tzipor* (bird) are clearly linked, but, as Rabbi Klein concludes,
+*Tzafra* and [*tzipor*](bird-of-tzipor-kanaf.html#%D7%A6%D7%99%D7%A4%D7%95%D7%A8) (bird) are clearly linked, but, as Rabbi Klein concludes,
 it is hard to say which came first.
 - Ramban (Vayikra 14:4): *tzipor* comes from *tzafra*, since birds wake early
   and chirp.

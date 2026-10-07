@@ -27,7 +27,7 @@ sources:
   - wiaw:8000 "Like a Rock (Part 2)" (2018-11-24) https://articles.ohr.edu/articles/like-a-rock-part-2
   - ms:042-like-a-rock.md "Like a Rock"
 authorities: [Malbim, Rabbi Immanuel Chai Ricci, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus, Aaron Kahn, Shadal]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Rock: even / sela
 
@@ -60,7 +60,7 @@ be one. *Zevachim*
 separate prohibition of offering one outside it. Rabbi Yosi holds this applies
 only to one who erected an altar especially for the purpose and offered on it;
 Rabbi Shimon disagrees and holds that even one who offered on an *even* or a
-*sela* has violated the prohibition, though it was not an actual altar. What,
+[*sela*](rock-tzur-chalamish.html#%D7%A1%D7%9C%D7%A2) has violated the prohibition, though it was not an actual altar. What,
 then, is the difference between an *even* and a *sela*?
 
 ### even (אבן)

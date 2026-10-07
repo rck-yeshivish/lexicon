@@ -29,7 +29,7 @@ sources:
   - wiaw:8744 "Kneading the Dough" (2020-06-13) https://articles.ohr.edu/articles/kneading-the-dough
   - ms:247-kneading-the-dough.md "Kneading the Dough"
 authorities: [Ibn Janach, Radak, Rabbeinu Meyuchas bar Eliyahu, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus, Rabbi Nosson of Rome, Rav Hirsch, Rabbi Yachya ben Shalom Kohen, Rabbi Yitzchak Ratzabi, Rabbi Shlomo Pappenheim, Rabbi Baruch HaLevi Epstein, Shadal, Abarbanel]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Dough: arisah / batzek / issah
 
@@ -57,7 +57,7 @@ prevails is left open.
 ## Distinctions
 
 ### arisah (עריסה)
-The word Tanach always uses for dough when the mitzvah of *challah* is in view
+The word Tanach always uses for dough when the mitzvah of [*challah*](bread-lechem-kikar-challah-pat.html#%D7%97%D7%9C%D7%94) is in view
 (Bamidbar 15:20-21, Nechemiah 10:38, Yechezkel 44:30).
 
 - Rabbi Nosson of Rome (*Sefer HeAruch*): the root ע-ר-שׂ/ע-ר-ס, from which
@@ -96,8 +96,8 @@ Yirmiyahu 7:18, Hoshea 7:4, Shmuel II 13:8).
   called *arisah*, before it becomes *batzek*.
 - Separately, Rabbi Aharon Marcus theorizes that every three-letter root
   containing *beis* and *kuf*, wherever the third letter falls, turns on
-  breaking through (*boker*, *bezek*, *barak*, *bohak*, *bakesh*, *badek*,
-  *bokea*, *bakar*), and assumes *batzek* belongs there too: the cracks that
+  breaking through ([*boker*](morning-shachar-boker-tzafra.html#%D7%91%D7%95%D7%A7%D7%A8), *bezek*, *barak*, *bohak*, *bakesh*, *badek*,
+  [*bokea*](cutting-bokea-korea-gozer.html#%D7%91%D7%A7%D7%99%D7%A2%D7%94), *bakar*), and assumes *batzek* belongs there too: the cracks that
   appear in leavening dough and make it look broken.
 
 ### issah (עיסה)
@@ -106,7 +106,7 @@ Not in Tanach as "dough" at all; it is the Mishnah's standard word (Challah
 understand it as a cognate of the *ayin*-*sin*/*samech* root, from
 which come "squeeze" (Yechezkel 23:3) and "trample"
 (Malachi 3:21), dough being something that must be kneaded and so is in a sense
-squeezed and trampled; the same root gives *assis*, juice (Yoel 4:18, Yeshayahu
+squeezed and trampled; the same root gives [*assis*](wine-yayin-tirosh-chemer-shechar.html#%D7%A2%D7%A1%D7%99%D7%A1), juice (Yoel 4:18, Yeshayahu
 49:26, Shir HaShirim 8:2), and the Modern Hebrew *issui*, massage, where the
 masseuse squeezes and kneads. Pappenheim and Marcus further connect the root to
 *asiyah*, making. In short, these scholars hold that *issah* differs slightly
@@ -122,8 +122,8 @@ extra *reish*, a letter added to enhance the flowery beauty of the language
 without changing the sense, in ways he says we can no longer discern, our long
 exiles having dulled us to the nuances of the ancient language. He cites
 Pseudo-Rashi to Divrei HaYamim I 18:5, that *Darmesek* and *Damesek* mean the
-same thing and so do *sharvit* and *shevet*, and adds a bevy of further cases,
-including the Aramaic *kursa*/*kisei*, *markoles*/*makoles* and *zutra*/*zuta*,
+same thing and so do [*sharvit*](staff-mateh-shevet-makel.html#%D7%A9%D7%A8%D7%91%D7%99%D7%98) and *shevet*, and adds a bevy of further cases,
+including the Aramaic [*kursa*](chair-kisse-keis-kursa.html#%D7%9B%D7%95%D7%A8%D7%A1%D7%90)/*kisei*, *markoles*/*makoles* and *zutra*/*zuta*,
 and the name of Uzziah king of Yehudah, also called Azariah (see also *Hagahos
 Rashash* to Rosh Hashanah 26a).
 

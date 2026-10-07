@@ -27,7 +27,7 @@ sources:
   - wiaw:8953 "Pick your Wax - Chanukah" (2020-12-05) https://articles.ohr.edu/articles/pick-your-wax-chanukah
   - ms:082-pick-your-wax.md "Pick your Wax"
 authorities: [Rav Hirsch, Rabbi Yehoshua Steinberg, Avraham Even-Shoshan, Rabbi Ernest Klein, Heinrich Leberecht Fleischer, Rabbi Eliyahu HaBachur, Rabbi Matisyahu Strashun, Ibn Janach, Professor Zohar Amar, Targum Onkelos, Targum Yonasan, Targum Neofiti, Ramban, Rabbi Avraham Vilner, Rabbi Yosef Teomim-Frankel, Rashi, Rema]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Wax: donag / shaavah / kira (nechot)
 
@@ -113,7 +113,7 @@ and three in Keilim (10:2, 17:17, 24:7); never in Tanach. Shabbos 20b defines it
 as *pesulta d'duvsha*, the refuse of honey, that is, the honeycomb left over
 from honey-making, the source of beeswax. Both *shaavah* and the Targum's
 *sheieita* seem to derive from the two-letter root SHIN-AYIN, "smooth" (compare
-*shua*), which fits the silky feel of hardened wax; so where *donag* looks to
+[*shua*](smooth-chalak-shua-mishi.html#%D7%A9%D7%95%D7%A2)), which fits the silky feel of hardened wax; so where *donag* looks to
 pliability, light or translucence, *shaavah* seems to look to texture. Targum
 renders *donag* in Tehillim as *shaavah* all three times; at Michah 1:4 it has
 *sheieita*, which Rabbi Eliyahu HaBachur (*Meturgeman*) suggests is a mistake

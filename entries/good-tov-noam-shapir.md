@@ -30,7 +30,7 @@ sources:
   - wiaw:9992 "Nitzavim/Vayelech/RH: The Shofar's Horn" (2022-09-17) https://articles.ohr.edu/articles/nitzavimvayelechrh-the-shofars-horn
   - wiaw:10060 "Nitzavim/Vayelech/RH: The Shofar's Horn" (2022-09-24) https://articles.ohr.edu/articles/nitzavimvayelechrh-the-shofars-horn-2
 authorities: [Rabbi Eliyahu HaBachur, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Rav Hirsch, Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Avraham Bedersi, Rabbi Shaul Goldman, Rabbi Reuven Chaim Klein, Vilna Gaon]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Good: tov / noam / shapir (shefer)
 
@@ -72,7 +72,7 @@ Root נ-ע-ם.
   *im*, "with": a person tends to bond with what he finds pleasant, so *noam* is
   the pull toward a thing one wishes to join; in *Cheshek Shlomo* he reduces it
   further to ע, movement.
-- The Vilna Gaon: *naim*/*noam* is visual appeal, as against *matok*, sweet,
+- The Vilna Gaon: [*naim*](sweet-matok-areiv-naim.html#%D7%A0%D7%A2%D7%99%D7%9E)/*noam* is visual appeal, as against *matok*, sweet,
   which is gustatory appeal. Rabbi Pappenheim argues against him that these words
   name no physical property at all but the transcendental pleasure one derives
   from enjoying something sweet, so that *matok* and *areiv* are the physical and
@@ -82,7 +82,7 @@ Root נ-ע-ם.
 - Ibn Janach and Radak (*Sefer HaShorashim*) define both *noam* and *shapir* as
   *yofi*.
 - Menachem Ibn Saruk (*Machberes Menachem*) defines *shapir* as *noam* and
-  *noam* as *hadar*, beauty.
+  *noam* as [*hadar*](beauty-hod-hadar.html#%D7%94%D7%93%D7%A8), beauty.
 - Bedersi, in *Chosam Tochnis*, the first known book that tries to distinguish
   Hebrew synonyms: *noam* is *yofi*, beauty. Rabbi Klein, saying it seems to him
   that Bedersi means this and admitting he is probably reading too much in:
@@ -110,8 +110,8 @@ correct or that a thing meets the standard.
   surname Shapiro or Shapira to *shapir*, though historians presume it more
   plausibly comes from the German town Speyer.)
 - Rav Hirsch (to Bereishis 5:1, 49:11), on the interchange of shin and sin and
-  of beis and peh, connects *shefer*/*shapir* with *sefer*, a book, a composite
-  of sub-parts brought together coherently, *mispar* and *sofer*, number and
+  of beis and peh, connects *shefer*/*shapir* with [*sefer*](book-sefer-iggeret-megillah.html#%D7%A1%D7%A4%D7%A8), a book, a composite
+  of sub-parts brought together coherently, [*mispar*](counting-sefirah-mispar-minyan.html#%D7%9E%D7%A1%D7%A4%D7%A8) and [*sofer*](scribe-sofer-lavlar.html#%D7%A1%D7%95%D7%A4%D7%A8), number and
   counting, and *shover*, breaking. He surmises that *shefer* is beauty as the
   overall property of a thing of many parts brought together in an orderly and
   pleasing way, and so differs from *yofi*: *shefer* is inward beauty, the

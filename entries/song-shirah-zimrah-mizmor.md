@@ -23,7 +23,7 @@ sources:
   - wiaw:8681 "PESACH: Sing and Song" (2020-04-04) https://articles.ohr.edu/articles/pesach-sing-and-song
   - ms:224-sing-and-song.md "Sing and Song"
 authorities: [Ibn Ezra, Radak, Sforno, Vilna Gaon, Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Yehuda Leib Edel, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yitzchak Hutner, Chasam Sofer, Rabbi Yaakov Haber, Rabbi Immanuel Frances, Rashi, Rabbeinu Efrayim ben Shimshon, Rabbi Nachman of Breslov, Rabbi Elimelech of Lizhensk (Noam Elimelech), Maharal of Prague, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Rabbi Shimon Dov Ber Analak, Rabbi Shimshon Pincus, Cyrus Gordon]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Song: shirah / zimrah / mizmor
 
@@ -91,7 +91,7 @@ Root ש-י-ר.
 - Rabbi Shlomo Pappenheim (1740-1814) connects *shir* to *yashar*, straight: a
   song follows a straight path in holding one theme without deviating, so its
   beginning and end are linked as variations on the one theme.
-- Rabbi Shimon Dov Ber Analak of Siedlce (1848-1907): from *shur*, a wall, since
+- Rabbi Shimon Dov Ber Analak of Siedlce (1848-1907): from [*shur*](wall-chomah-kir-shur-kotel.html#%D7%A9%D7%95%D7%A8), a wall, since
   a song is built of many lines carefully arranged as a wall is of bricks, and
   pull one out and the edifice may fall; which is also why a *sher* is a
   circular piece of jewelry, a round thing having to be fully intact to be

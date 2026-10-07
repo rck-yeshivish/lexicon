@@ -32,7 +32,7 @@ sources:
   - wiaw:11178 "Vayigash: Say it Clear (Part 2/2)" (2023-12-23) https://articles.ohr.edu/articles/vayigash-say-it-clear-part-22
   - wiaw:10832 "Mishpatim: Boorish Animals" (2023-02-18) https://articles.ohr.edu/articles/mishpatim-boorish-animals
 authorities: [Radak, Malbim, Ibn Janach, Menachem Ibn Saruk, Donash Ibn Labrat, Shadal, Rav Hirsch, Rabbi Avraham Bedersi, Rabbi Yehudah Aryeh of Carpentras, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Eliyahu HaBachur, Rabbi Shlomo Ibn Melech, Rabbi Avraham Vilner, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Reuven Subar, Rashi, Rashbam, Rabbeinu Tam, Rambam, Maharal, Meiri, Rabbi Tzvi Hirsch Ferber, Alexander Kohut, Rabbi Chaim Gelernter, Rabbi Ernest Klein, Rabbi Dr. Asher Weiser]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Explanation: peirush / beiur / hesber / pesher / pitaron
 
@@ -60,7 +60,7 @@ and *pitaron* are **interpretation**, the solving of an enigma, and in Tanach
 ## Distinctions
 
 ### peirush (פירוש)
-Root פ-ר-ש (kin to *parashah*, *prishah*, *parush*, *parash*, *peresh*; and to
+Root פ-ר-ש (kin to *parashah*, *prishah*, *parush*, *parash*, [*peresh*](excrement-tzoah-peresh-galal-zevel.html#%D7%A4%D7%A8%D7%A9); and to
 *perushim*, which in the Mishnah, Yadayim 4:6 to 8, names the Torah-loyal Jews
 against the antinomian *Tzedokim*, and today the non-Chassidic Yerushalmim of
 the Old Yishuv).
@@ -136,9 +136,9 @@ means greeting people so cheerfully that they think you are glad to see them.
   separate pieces of information and joins them into one complete, logical
   thought, so that one who puts his hope in Hashem concludes intellectually that
   He is the One who powers all of creation; by the interchange of beis and peh
-  Rav Hirsch connects *sover* to *sofer*, counting, likewise a mental joining,
+  Rav Hirsch connects *sover* to [*sofer*](scribe-sofer-lavlar.html#%D7%A1%D7%95%D7%A4%D7%A8), counting, likewise a mental joining,
   and by the interchange of sin/samech with tzadi to *tzover*, gathering, the
-  verb behind *tzibbur*.
+  verb behind [*tzibbur*](public-rabim-tzibbur-parhessya-pumbi.html#%D7%A6%D7%99%D7%91%D7%95%D7%A8).
 
 Rabbi Reuven Subar, whose surname may or may not be related to the word, proposes
 a way of splitting *hesber* from *beiur*: both relieve perplexity, but *beiur*
@@ -188,7 +188,7 @@ On the etymology of *poser*, the classical lexicographers take the triliteral
   firstborn who opens the mother's womb and reveals her motherhood realized, and
   a *pitaron* likewise opens a closed communication to reveal its inner meaning;
   and he conjectures (to Shemos 25:39) that *kaftor*, a button, may be a
-  portmanteau of *kafut*, tied up, and *pitaron*/*poser*, opened, since buttons
+  portmanteau of [*kafut*](tying-keshirah-asirah-kafut.html#%D7%9B%D7%A4%D7%95%D7%AA), tied up, and *pitaron*/*poser*, opened, since buttons
   are made to open and close.
 - Rabbi Avraham Bedersi (*Chosam Tochnis*) takes the trouble to clarify that
   *poser* is not a synonym of the Aramaic-Persian *patshegen* (Esther 3:14, 4:8,
@@ -228,7 +228,7 @@ otherwise.
 - Rabbi Eliyahu HaBachur (*Sefer HaTishbi*, and in his glosses to Radak's *Sefer
   HaShorashim*) relates *pesher* to *poser* by the interchange of shin and tav,
   a Hebrew shin often becoming an Aramaic tav (*shemonah*/*tamnei*,
-  *shor*/*tor*, *yeshivah*/*metivta*), which seems to point the opposite way,
+  [*shor*](cattle-shor-par-egel-bakar.html#%D7%A9%D7%95%D7%A8)/*tor*, *yeshivah*/*metivta*), which seems to point the opposite way,
   making *pesher* Hebrew and *pitaron* Aramaic. Bachur alternatively suggests
   that *pesher* is *peirush* metathesized, shin and reish trading places, an
   explanation offered as well by Rabbi Shlomo Ibn Melech (*Michlal Yofi* to

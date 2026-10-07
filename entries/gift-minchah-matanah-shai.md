@@ -34,7 +34,7 @@ sources:
   - wiaw:7982 "The Gift of Giving" (2018-12-01) https://articles.ohr.edu/articles/the-gift-of-giving
   - ms:052-the-gift-of-giving.md "The Gift of Giving"
 authorities: [Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Rabbi Yaakov Tzvi Mecklenburg, Radak, Rabbi Avraham Bedersi HaPenini, Rabbi Avraham ben Chaim Ibn Ramoch, Malbim, Midrash Shocher Tov, Rabbi Eliyahu HaBachur, Moshe Halbertal, Shadal, Rashi]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Gift: minchah / matanah / shai / teshurah / eshkar / doron
 
@@ -142,7 +142,7 @@ Twice in Tanach (Tehillim 72:10, Yechezkel 27:15) and obscure.
 - Rabbi Avraham ben Chaim Ibn Ramoch: a *minchah* is gold, silver, and precious
   stones while an *eshkar* is choice fruits, which, Rabbi Klein suggests, seems
   to mean inedible against edible, and which might explain the link to
-  *sheichar*.
+  [*sheichar*](drunkenness-sove-shachar-sheichar.html#%D7%A9%D7%9B%D7%A8).
 - Wertheimer: an *eshkar* is a gift whose worth is aesthetic rather than
   monetary or useful, a gift that "bribes" the recipient, so to speak, into
   overrating it, leaving him as though intoxicated (*shikur*) and unable to

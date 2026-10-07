@@ -21,7 +21,7 @@ words:
 sources:
   - wiaw:10761 "Famishing Famines" (2022-12-31) https://articles.ohr.edu/articles/famishing-famines
 authorities: [Menachem Ibn Saruk, Rashi, Radak, Ibn Ezra, Rabbi Shmuel Masnuth, Rabbi Yosef Kimchi, Ralbag, Rabbi Shimon ben Tzemach Duran, Rabbi Yehudah Aryeh of Carpentras, Rabbi Shlomo Pappenheim, Vilna Gaon, Rabbi Shlomo Aharon Wertheimer, Rabbi Eliyahu HaBachur, Rabbi Moshe Zidel]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Famine: ra'av / kafan / batzores
 
@@ -94,7 +94,7 @@ The readings:
   stricken place, as Avraham, Yitzchak, and Yaakov each did because of a
   famine. In line with this, *Ohalei Yehuda* also notes that *kafan* can mean
   scattering or spreading out. In that sense, it is possible that *kafan* is a
-  metathesis of *kanaf* (wing), which a bird spreads to fly.
+  metathesis of [*kanaf*](wing-kanaf-ever-agaf.html#%D7%9B%D7%A0%D7%A4) (wing), which a bird spreads to fly.
 - Rabbi Shlomo Pappenheim offers a similar explanation: from the biliteral כ-ף,
   receptacle, which yields *kaf* (palm), *kofef* (bending, the act that turns a
   palm into a receptacle), *akifah* (enforcement, which compels others to bend
@@ -137,7 +137,7 @@ and twice as *ultzana* (33:19, 37:19). The Targum to Iyov, Mishlei, and Tehillim
 is written in a different style from the other Targumim, its language closer to
 the Syriac dialect of Aramaic, so it is not surprising that it sometimes uses a
 different Aramaic word for "famine" there. As an aside, *ultzan*/*ultzana* seem to
-derive from the Hebrew root א-ל-ץ, the root of Biblical *alatz*.
+derive from the Hebrew root א-ל-ץ, the root of Biblical [*alatz*](pressure-lachatz-dchak-negisah-atz.html#%D7%90%D7%9C%D7%A6).
 
 ## Rendering guidance
 

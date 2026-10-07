@@ -27,7 +27,7 @@ sources:
   - wiaw:8584 "That's a Flogging" (2020-02-01) https://articles.ohr.edu/articles/thats-a-flogging
   - ms:111-thats-a-flogging.md "That’s a Flogging"
 authorities: [Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Ibn Chayyuj, Rabbi Yonah Ibn Janach, Radak, Rabbi Eliyahu HaBachur, Rabbi Naftali HaKohen Katz, Rabbi Shmuel Taieb, Tiferes Yisrael, Rabbi Elazar Rokeach, Avraham Even-Shoshan, Zohar, Rabbi Moshe Shapiro]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Flogging: makkot / malkut (lakah)
 
@@ -109,7 +109,7 @@ Makkos*, literally ten strikings. This is the word the Torah uses for the
 court's flogging (Devarim 25:2-3), and, for Rabbi Naftali HaKohen Katz, hence
 the masechta's name.
 
-The Zohar (Bamidbar 145b): *makkah* is from *koh*, so. Rabbi Moshe Shapiro
+The Zohar (Bamidbar 145b): *makkah* is from [*koh*](here-halom-poh-heinah-zeh-koh.html#%D7%9B%D7%94), so. Rabbi Moshe Shapiro
 builds on this: the prophets opened with *koh amar Hashem*, and the meaning of
 what they saw was often unclear and left to their interpretation; so a *makkah*
 always carries a Divine message to the one struck, whose meaning is not always

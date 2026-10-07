@@ -30,7 +30,7 @@ sources:
   - wiaw:11687 "Yisro: Write it down" (2025-02-15) https://articles.ohr.edu/articles/yisro-write-it-down
   - ms:159-crafty-artisans.md "Crafty Artisans"
 authorities: [Rashi, Rambam, Abarbanel, Rabbi Chaim Kanievsky, Shadal, Rav Hirsch, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Menachem Ibn Saruk, Rabbi Yehudah Aryeh of Carpentras, Malbim, Rabbi Yosef Kara, Ibn Ezra, Vilna Gaon, Metzudas David, Rabbi Shalom Shabazi, Targum Onkelos, Alexander Kohut, Peretz Smolenskin]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Artisan: charash / choshev / rokem
 
@@ -77,7 +77,7 @@ Neither the Gemara nor these commentators say what *charash* means here.
   *krum*, a membrane overlaying what is beneath. Later technique let one stitch
   the picture into the cloth itself, but the craftsman kept the old name; later
   still came the ability to form shapes within the weaving, work demanding real
-  planning, and that craftsman is a *choshev*, cognate with *machshavah*.
+  planning, and that craftsman is a *choshev*, cognate with [*machshavah*](thought-machshavah-hirhur-raayon.html#%D7%9E%D7%97%D7%A9%D7%91%D7%94).
 - Rav Hirsch (to Shemos 26:1) runs parallel, linking ר-ק-ם to ר-ג-ם by the
   interchange of kuf and gimmel: just as *regem* is stoning a man by piling
   stones on him, so the *rokem*'s embroidered foreground appears piled on its
@@ -129,7 +129,7 @@ Rabbi Yehudah Aryeh of Carpentras (*Aholei Yehudah*) links *charash* to
 typically demanding much thought.
 
 ### uman (אומן)
-Targum Onkelos gives all three separate Aramaic words: *charash* becomes *nagar* (a carpenter in Modern Hebrew), *choshev* becomes *uman*, *rokem* becomes
+Targum Onkelos gives all three separate Aramaic words: *charash* becomes *nagar* (a carpenter in Modern Hebrew), *choshev* becomes [*uman*](circumciser-mohel-gozer-rofeh-uman.html#%D7%90%D7%95%D7%9E%D7%A0), *rokem* becomes
 *tzayar* (a painter in Modern Hebrew). None of the three is in Tanach, but
 *uman* is common in Mishnah (Bikkurim 3:3, Pesachim 4:6, Kiddushin 4:14,
 Sanhedrin 3:4, Avodah Zarah 5:7, Erachin 6:3, Taharos 7:3), and its close

@@ -28,7 +28,7 @@ sources:
   - wiaw:9595 "Vayakhel (Shabbat Shekalim)" (2022-02-26) https://articles.ohr.edu/articles/vayakhel-shabbat-shekalim
   - wiaw:7990 "Like a Rock (Part 1)" (2018-11-17) https://articles.ohr.edu/articles/like-a-rock-part-1
 authorities: [Targum Onkelos, Targum Yonasan, Rashi, Ramban, Rambam, Rashbam, Ibn Ezra, Radak, Sefer HaChinuch, Rabbi Menachem Azariah of Fano, Rabbi Yaakov Zev Lev, Rabbi David Schlussel of Munkatch, Rabbi David Cohen, Rabbi Elazar Rokach of Amsterdam, Rabbi Asher Gvirer, Rabbi Elazar HaKallir]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Coins: shekel / sela / beka (darkemon)
 
@@ -102,7 +102,7 @@ Bava Metzia 4:3, Bechoros 8:2-8, and many more) and the Biblical "rock, bedrock"
 Torah's *shekel* is stated by Rabbi Chanina in Yerushalmi Kiddushin 1:3, "all the
 *shekalim* in the Torah are *selaim*," and in Bechoros 50a, where Rava defines the
 *sela d'oraisa* from Shemos 30:13 and Rabbi Chanina is cited as saying that all
-unspecified *kesef* in the Torah is a *sela*. It shows in how the Mishnah cites pesukim: the
+unspecified [*kesef*](money-mammon-damim-maos.html#%D7%9B%D7%A1%D7%A4) in the Torah is a *sela*. It shows in how the Mishnah cites pesukim: the
 five *shekalim* of pidyon haben (Bamidbar 18:16) are five *selaim* in Bechoros,
 the two *shekalim* of the asham (Vayikra 5:15) two *selaim* in Kerisos. Rashi (to Bechoros 5a), Rambam (Hilchos Arachin 4:3, Hilchos Shekalim
 1:2), and *Sefer HaChinuch* (mitzvah 355) state the equation plainly; Onkelos and
@@ -133,7 +133,7 @@ half-*shekel*, so, Rabbi Klein reasons, it does not make much sense to
 identify a *beka* with the *darkemon* coin; that is why he presumes that Targum
 Yonasan used the word only in the general sense of "coin." Modern Hebrew
 *darkon*, "passport," is from
-*derech*, the documentation for travel on the road, and seems unrelated to the
+[*derech*](path-derech-orach.html#%D7%93%D7%A8%D7%9B), the documentation for travel on the road, and seems unrelated to the
 Mishnaic *darkon*. As for the coins themselves,
 scholars are unsure which are meant, but typically associate these words with
 the Persian *daric* and the Greek *drachma*; the latter name was taken into

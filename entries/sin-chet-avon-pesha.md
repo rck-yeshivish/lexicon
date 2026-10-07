@@ -29,7 +29,7 @@ sources:
   - wiaw:9245 "Revolting Revolutions" (2021-06-12) https://articles.ohr.edu/articles/revolting-revolutions
   - ms:338-degrees-of-sin.md "Degrees of Sin"
 authorities: [Rashi, Vilna Gaon, Rabbi Yechezkel Landau, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Malbim, Peirush HaRokeach, Rabbi Netanel Weil, Rambam, Rabbi Yosef Babad, Rabbi Elazar Menachem Mann Shach, Rabbi Yaakov Tzvi Mecklenburg, Radak, Ibn Ezra, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Sin: chet / avon / pesha (aveirah)
 
@@ -60,7 +60,7 @@ kind of sin and means simply "sin." *Aveirah*, the Rabbinic catch-all, is
 In the Yom Kippur confessionals we mimic the vidui of the Kohen Gadol in the
 Beis HaMikdash. The Mishnah (*Yoma* 4:2) relates that
 when the Kohen Gadol confessed his own sins and his household's he admitted
-specifically to three kinds: *chet*, *avon* and *pesha*. These are different degrees of sin, and the Gemara (Yoma
+specifically to three kinds: *chet*, *avon* and [*pesha*](rebellion-pesha-meridah-meri.html#%D7%A4%D7%A9%D7%A2). These are different degrees of sin, and the Gemara (Yoma
 36b) explains *chet* as an inadvertent sin, the state of mind called *shogeg*,
 *avon* as a wanton or intentional sin, *meizid*, and *pesha* as a sin of
 rebellion. There are, however, other ways of explaining the differences.
@@ -145,7 +145,7 @@ of wrongdoing.
   ע-ב-ר, which means "passes" in a physical sense, the idea being that a man
   morally passes over his own thoughts so as not to focus on the nefariousness
   of his deeds.
-- Ibn Ezra (to Tehillim 78:59): *evrah*, anger, is from crossing, what provokes
+- Ibn Ezra (to Tehillim 78:59): [*evrah*](anger-cheimah-ketzef-charon-rogez.html#%D7%A2%D7%91%D7%A8%D7%94), anger, is from crossing, what provokes
   wrath having crossed the limit of forbearance. From this, Rabbi Eliyahu
   Benamozegh (*Eim LaMikra* to Devarim 3:26) explains *aveirah*, sin, as passing
   beyond the bounds the Torah sets.

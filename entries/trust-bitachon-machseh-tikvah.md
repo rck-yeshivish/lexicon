@@ -54,7 +54,7 @@ sources:
   - wiaw:9877 "Trusting and Relying on G-d" (2022-09-10) https://articles.ohr.edu/articles/trusting-and-relying-on-g-d-2
   - wiaw:11178 "Vayigash: Say it Clear (Part 2/2)" (2023-12-23) https://articles.ohr.edu/articles/vayigash-say-it-clear-part-22
 authorities: [Rabbeinu Bachya Ibn Pakuda, Malbim, Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Moshe Tzuriel, Peirush HaRokeach, Rabbi Moshe Wolfson, Rav Hirsch]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Trust: bitachon / machseh / tikvah / tocheles / chikui / semichah / mishan / saad / sever / kesel
 
@@ -125,8 +125,8 @@ looking-to**, and *kesel* is **assurance** that nothing bad will happen
 *Somech* is "next to," hence leaning.
 - Malbim, from Chagigah 16b (one leans on the korban with all his weight):
   *semichah* is leaning with all one's might, *mishan* only partly.
-- Pappenheim: *mishan* is from ש-ע, enjoyment (with *sha'ashua*, *yeshuah*,
-  *shav'ah*): the satisfaction of being supported; a *mishenes* is the
+- Pappenheim: *mishan* is from ש-ע, enjoyment (with *sha'ashua*, [*yeshuah*](salvation-yeshuah-teshuah-hatzalah-purkan.html#%D7%99%D7%A9%D7%95%D7%A2%D7%94),
+  *shav'ah*): the satisfaction of being supported; a [*mishenes*](staff-mateh-shevet-makel.html#%D7%9E%D7%A9%D7%A2%D7%A0%D7%AA) is the
   walking-stick, a great satisfaction to the elderly who struggle to walk.
   Pappenheim also divides *somech* from *mishan*: *somech* is any leaning or
   relying, even when done willingly and not forced (Moshe on Yehoshua, Devarim

@@ -23,7 +23,7 @@ sources:
   - wiaw:8654 "Laborious Work and Angelic Creativity" (2020-03-21) https://articles.ohr.edu/articles/laborious-work-and-angelic-creativity
   - wiaw:7512 "Angels and Agents" (2017-12-02) https://articles.ohr.edu/articles/angels-and-agents
 authorities: [Radak, Ramban, Abarbanel, Rabbi Yitzchak Shmuel Reggio, Rabbi Aharon Leib Steinman, Rabbi Naftali Hertz Wessely, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Moshe Alshich, Rabbi Tzvi Yehuda Kook, Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Rabbi Yoel Teitelbaum of Satmar, Tosafists, Peirush HaRokeach, Rabbi Shmuel David Ungar]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Work: melachah / avodah (sheirus)
 
@@ -56,7 +56,7 @@ Shlomo Pappenheim), and, turned toward Heaven, the **service** of Hashem.
 ## Distinctions
 
 ### melachah (מלאכה)
-Root ל-א-ך, kin to *malach* (Rav Hirsch; Rabbi Tzvi Yehuda Kook; the Satmar
+Root ל-א-ך, kin to [*malach*](angel-malach-shaliach.html#%D7%9E%D7%9C%D7%90%D7%9B) (Rav Hirsch; Rabbi Tzvi Yehuda Kook; the Satmar
 Rav). The Torah forbids *melachah* on Shabbos (Shemos 20:10, 31:14-15, 35:2;
 Vayikra 23:3; Devarim 5:14), and Hashem rested on the seventh day from all
 *melachah* (Bereishis 2:2-3). Radak (*Sefer HaShorashim*) gives the root of
@@ -101,7 +101,7 @@ similar to Radak's, Rabbi Shlomo Pappenheim gives the root of *malach* as ל-ך,
   is all the more so since the Aron carried its bearers (Sotah 35a).
 
 ### avodah (עבודה)
-Root ע-ב-ד, *eved*.
+Root ע-ב-ד, [*eved*](handmaid-amah-shifchah-eved.html#%D7%A2%D7%91%D7%93).
 - Ramban: labor that does not lead directly to bodily pleasure.
 - Reggio: any act of labor, whether or not it changes an object.
 - Steinman: the *gavra* side, the worker and his effort.

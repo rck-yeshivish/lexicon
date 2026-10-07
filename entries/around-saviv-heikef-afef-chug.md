@@ -27,7 +27,7 @@ sources:
   - wiaw:7530 "Around in Concentric Circles" (2017-12-09) https://articles.ohr.edu/articles/around-in-concentric-circles
   - ms:080-around-in-concentric-circles.md "Around in Concentric Circles"
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Radak, Rabbi Yom Tov Lipmann Heller, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Wolf Heidenheim, Sefer HeAruch, Rabbi Chelouche]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Around: saviv / heikef / afef / chug
 
@@ -76,12 +76,12 @@ Hebrew's *sevivon*, a dreidel, Rabbi Klein explains, belongs here rather than
 under *heikef*, since a top may stop mid-rotation and never finish its last circle.
 
 Radak, with the Targumim, gives the Aramaic equivalent of ס-ב-ב as *sachor*; from
-it a *socheirah*, a round shield (Tehillim 91:4), and a *socher*, a merchant, who
+it a *socheirah*, a round shield (Tehillim 91:4), and a [*socher*](merchant-socher-rochel-cnaani-tagar.html#%D7%A1%D7%95%D7%97%D7%A8), a merchant, who
 travels about to sell his wares.
 
 ### heikef (היקף)
 Always a complete circuit. The circumference of a circle is its *heikef*, and the
-seven circuits around the *bimah* on Sukkos and Simchas Torah are *hakafos*
+seven circuits around the [*bimah*](platform-kan-duchan-bimah-basis.html#%D7%91%D7%99%D7%9E%D7%94) on Sukkos and Simchas Torah are *hakafos*
 because they ought to be complete circuits. Pappenheim connects *kafah*/*kafui*, congealed or
 frozen, to *heikef*: such a substance is completely closed within the bounds of
 its present state and cannot shift shape as easily as a liquid does.
@@ -89,20 +89,20 @@ its present state and cannot shift shape as easily as a liquid does.
 ### afef (עפף)
 "*Afafuni chevlei maves...* and I would call in the name of Hashem, please
 Hashem, save my soul" (Tehillim 116:3 to 4). Malbim: the encircling of *afef*
-always carries a negative sense, and the root is bound up with *pe'ah*, a corner
+always carries a negative sense, and the root is bound up with [*pe'ah*](corner-peah-keren-zavit-pinah.html#%D7%A4%D7%90%D7%94), a corner
 (plural *pe'os*), because it is an enveloping from every corner at once.
 
 ### chug / chag (חוג / חג)
 - Radak: a *chug* is what orbits around another body, as a planet does.
 - Malbim: *chug* or *machug* is a circle considered from its center.
 
-A *chagorah*, a belt, is named for encircling the body.
+A [*chagorah*](belt-avnet-chagor-eizor.html#%D7%97%D7%92%D7%95%D7%A8), a belt, is named for encircling the body.
 
 - On *chag* as a festival, Rabbi Yom Tov Lipmann Heller: the word's original
   sense is a circle, evoking the circles of dance that mark a *yom tov* (*Sefer
   HeAruch* and Radak to Shmuel I 30:16 read similarly). On that basis he
   explains why, of the three the Torah calls a *chag*, the Mishnah's plain
-  *chag* is Sukkos: it is the festival most identified with *simchah* (Devarim
+  *chag* is Sukkos: it is the festival most identified with [*simchah*](joy-simchah-sasson-gilah.html#%D7%A9%D7%9E%D7%97%D7%94) (Devarim
   16:15), and so with dancing.
 - Rabbi Yaakov Tzvi Mecklenburg differs slightly: *chag* evokes the festive gait
   of the *olei regel* going up to Yerushalayim.
@@ -112,7 +112,7 @@ Chanukah is never called a *chag*, which is why the customary greeting is not
 an illuminating Chanukah.
 
 Rabbi Wolf Heidenheim: since *ches* and *ayin* sometimes interchange, *chag* is the same
-word as *ag*, circle. Hence *ugah*, a round food such as a cake; *agil*, an
+word as *ag*, circle. Hence [*ugah*](cake-ugah-chararah-gluskos.html#%D7%A2%D7%95%D7%92%D7%94), a round food such as a cake; *agil*, an
 earring; and the Mishnah's account of Choni HaMe'agel, who *ag ugah*, drew a
 circle and stood inside it (Taanis 3:8).
 

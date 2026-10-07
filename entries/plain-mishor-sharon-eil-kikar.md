@@ -37,7 +37,7 @@ sources:
   - wiaw:7815 "Let Them Eat Bread" (2018-06-23) https://articles.ohr.edu/articles/let-them-eat-bread
   - wiaw:8941 "Castle in the Sky" (2020-11-28) https://articles.ohr.edu/articles/castle-in-the-sky
 authorities: [Rashi, Ibn Ezra, Targum Onkelos, Bereishis Rabbah, Ramban, Ibn Janach, Radak, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Rav Hirsch, Chizkuni, Rabbi Shmuel Masnuth, Rabbi Hai Gaon, Sefer HeAruch, Rabbi Shlomo of Urbino, Rambam, Rabbi Yeshayah of Trani, Rabbi Yosef Kara, pseudo-Rashbam, Shadal, Rabbi David Tzvi Hoffmann, Rabbi Ernest Klein, Rabbi Aharon Marcus, Even-Shoshan concordance]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Plain: mishor / sharon / eil / kikar (avel, padan)
 
@@ -94,7 +94,7 @@ plain of the Yarden, as a **grassland plain**, and *avel* as a bare **prairie**.
   sowing nor pasture, while *eil* / *eilonei* is a plain that matters in its own
   right, a fertile biome fit for crops or grazing. He grounds this in א-ל as
   "power," alluded to in the Zohar (*Vayera* 97b) reading *eilonei* as *tokef*;
-  the same root gives *ayil* (the ram, the strongest member of an otherwise weak
+  the same root gives [*ayil*](sheep-and-goats-seh-keves-ayil-eiz.html#%D7%90%D7%99%D7%9C) (the ram, the strongest member of an otherwise weak
   ovicaprine family; see also *HaKsav VeHaKabbalah* to Vayikra 1:9), *alyah*
   (its especially fatty tail, as though its power came from there), and *elah* /
   *alon* (trees with especially thick roots and hard, strong wood).
@@ -102,7 +102,7 @@ plain of the Yarden, as a **grassland plain**, and *avel* as a bare **prairie**.
   the same direction.
 - On Elon Moreh, Avraham's first stop on entering the land (Bereishis 12:6), Ibn
   Ezra reads *elon* simply as trees or forest, or as field or plain, and Rav
-  Hirsch there expands it, relating *elon* to the Aramaic *ilan* ("tree") and to
+  Hirsch there expands it, relating *elon* to the Aramaic [*ilan*](tree-eitz-ilan.html#%D7%90%D7%99%D7%9C%D7%A0) ("tree") and to
   *elah* and *alon*, and reading the aleph-(yud)-lamed string generally as "the
   power to develop and move forward," close to Mecklenburg's understanding,
   which he extends to a plain that stretches a great distance or paves a level
@@ -178,7 +178,7 @@ Bereishis.
   surmises that *padan* possibly derives from the Akkadian *padanu*, "road" or
   "garden."
 - Rabbi Shlomo Pappenheim traces the word instead to the biliteral פ-ד,
-  redemption or freedom (as in *pidyon* and *pedus*), and suggests that *padan*
+  redemption or freedom (as in [*pidyon*](redemption-geulah-pidyon.html#%D7%A4%D7%93%D7%99%D7%95%D7%A0) and *pedus*), and suggests that *padan*
   denotes an independent region that had its own sovereignty or was free from
   paying imperial taxes, so that Padan Aram (Bereishis 31:18, 35:26, 46:15) is
   the Free State of Aram, as against other polities in the Aram area.

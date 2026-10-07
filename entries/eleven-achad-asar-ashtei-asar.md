@@ -22,7 +22,7 @@ sources:
   - wiaw:7864 "The Number Eleven" (2018-07-21) https://articles.ohr.edu/articles/the-number-eleven
   - ms:294-the-number-eleven.md "The Number Eleven"
 authorities: [Rabbi Yonah Ibn Janach, Ibn Ezra, Radak, Peirush HaRokeach, Rabbi Meir Mintzberg, the Gemara, Zohar, Rabbi Aharon Marcus, Rabbi Shlomo Pappenheim]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Eleven: achad-asar / ashtei-asar
 
@@ -81,7 +81,7 @@ it included, the text says *achad asar*; where only the eleventh member of a set
 is meant and the rest are disregarded, it says *ashtei asar*. Rabbi Klein is not
 quite sure what this means, but suggests that perhaps the Rokeach is drawing the distinction
 between the ordinal eleventh (*ashtei asar*) and the numeral eleven (*achad
-asar*), on the model of *rishon* against *echad* and *revi'i* against *arba*.
+asar*), on the model of [*rishon*](beginning-reishis-techilah-kedem.html#%D7%A8%D7%90%D7%A9%D7%95%D7%A0) against *echad* and *revi'i* against *arba*.
 
 In support of that suggestion he notes that archaeologists found the word
 *ashtei* meaning "first" in Ugaritic, in a funerary inscription concerning

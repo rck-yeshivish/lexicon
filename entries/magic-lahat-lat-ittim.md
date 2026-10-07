@@ -24,7 +24,7 @@ sources:
   - wiaw:10804 "Vaera: The Trick of Magi" (2023-01-21) https://articles.ohr.edu/articles/vaera-the-trick-of-magi
   - ms:096-the-trick-of-magi.md "The Trick of Magi"
 authorities: [Targum Onkelos, Rashi, Ramban, Ibn Ezra, Radak, Ibn Janach, Menachem Ibn Saruk, Tosafists (Moshav Zekenim), Rabbi Avraham Saba, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Saadia Gaon, Rabbeinu Chananel, Rabbi Avraham Maimuni, Ralbag, Rabbi David HaNaggid, Rabbi Yehuda HaLevi, Vilna Gaon, Rabbi Shes ben Yefes, Igeres Shmuel, Rabbi Yehudah Provencal, Rabbi Moshe Shapiro]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Magic: lahat / lat (ittim)
 
@@ -64,7 +64,7 @@ first plague, and that is what the meforshim are commenting on.
    Shlomo Pappenheim (*Yerios Shlomo*) likewise makes them one thing, the speed
    and dexterity of a conjuror's hand.
 2. **Two distinct modalities.** The Gemara (Sanhedrin 67b) reads *lat* as the
-   use of *sheidim* and *lahat* as *kishuf*. What that means is itself
+   use of [*sheidim*](demon-sheid-lilis-ruach.html#%D7%A9%D7%93) and *lahat* as *kishuf*. What that means is itself
    disputed: Rashi (to Sanhedrin 67b), the practitioner acts himself versus
    sending *sheidim*; the Tosafists (*Moshav Zekenim* to Shemos 7:11), sleight
    of hand versus compelling *sheidim*; Rabbi Avraham Saba (*Tzror HaMor*),

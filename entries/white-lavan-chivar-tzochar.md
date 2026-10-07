@@ -28,7 +28,7 @@ sources:
   - wiaw:11743 "Pekudai: Seeing Red (Part 2/3)" (2025-03-29) https://articles.ohr.edu/articles/pekudai-seeing-red-part-23
   - ms:075-white-is-light.md "White is Light"
 authorities: [Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Rashi, Rabbi Saadia Gaon, Ibn Ezra, Ramban, Shadal, Ibn Janach, Rid, Ralbag, Rabbi Moshe Chalavah, Rabbi Yosef Nechemias, Rabbi Avraham Bedersi, Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, Rabbi Shmuel de Ucceda, Rashba, Radal, Rabbi Benzion Chaim Lubetzky, Rabbi Dovberish Rosenberg, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yitzchak of Zeldin, Menachem Ibn Saruk, Peshitta, Targum Yonasan, Rabbi Matisyahu Strashun, Rabbi Binyamin Rabinowitz-Teomim, Rabbi Aharon Marcus, David J. A. Clines, Rabbi Ernest Klein, Marcus Jastrow, Rabbi Eliyahu Benamozegh, Rabbeinu Hillel]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # White: lavan / chivar / tzochar (chelbon)
 
@@ -90,7 +90,7 @@ and Yechezkel 27:18 the whole question is whether the word means white at all.
   *tzochar* to "pristine" or "clean," which in his view shows the core meaning
   is not quite white. Those are Radal's (1798 to 1855) tie to *tzach*, clean,
   clear, pristine, and Rabbi Benzion Chaim Lubetzky's (d. 1945) rearrangement of
-  צ-ח-ר into ר-ח-ץ, *rechitzah*, washing, both suggested independently by Rabbi
+  צ-ח-ר into ר-ח-ץ, [*rechitzah*](washing-kevisah-rechitzah-shetifah-hadachah.html#%D7%A8%D7%97%D7%99%D7%A6%D7%94), washing, both suggested independently by Rabbi
   Dovberish Rosenberg of Zurich in *Davar Tov*.
 - Continuing from *tzach*, Rabbi Tedeschi (*Otzar Nirdafim*) and Rabbi Yehudah
   Aryeh of Carpentras (*Aholei Yehuda*) read it as a portmanteau of *tzach* and
@@ -108,7 +108,7 @@ and Yechezkel 27:18 the whole question is whether the word means white at all.
   several sages).
 - The Peshitta, and Rashi in the name of Menachem (*Machberes Menachem*), read
   it as fatty or oily, a way of saying the wine was of especially good quality,
-  which seems to relate it to *cheilev*.
+  which seems to relate it to [*cheilev*](fat-cheilev-shuman-pader.html#%D7%97%D7%9C%D7%91).
 - Radak: a place-name, an area in Aram that produced quality wine, which Rabbi
   Tedeschi identifies as Chalab, also known as Aleppo or Aram Tzova. A
   tradition, cited by a twelfth-century rabbi, holds that Aleppo was called
@@ -121,7 +121,7 @@ and Yechezkel 27:18 the whole question is whether the word means white at all.
 
 ### lavan (לבן)
 Root ל-ב-ן for all the classical lexicographers, which makes it kin to
-*leveinah* (brick), *levanah* (the moon), *livneh* (white poplar or styrax), and
+[*leveinah*](rock-even-sela.html#%D7%9C%D7%91%D7%A0%D7%94) (brick), [*levanah*](moon-yareach-levanah-sahar.html#%D7%9C%D7%91%D7%A0%D7%94) (the moon), *livneh* (white poplar or styrax), and
 *levonah* (frankincense). *Leveinah* appears twelve times in Tanach, mostly in
 Shemos of the bricks the enslaved Jews had to make, with a verb for preparing
 bricks (Bereishis 11:3; Shemos 5:7, 5:14). Verb forms of *lavan* mean both
@@ -141,9 +141,9 @@ of Yiddish and Modern Hebrew *leben*.
 Rabbi Shlomo Pappenheim (1740 to 1814) takes a wildly different approach. In
 his system two-letter cores take on hei, aleph, mem, nun, tav, yud or vav to make
 three-letter roots, so the final nun of *lavan* is not part of the core, and it
-goes back to ל-ב, the root of *lev*: heart, and so "middle"; *lavi*, the
+goes back to ל-ב, the root of [*lev*](middle-emtza-merkaz-lev-tabur.html#%D7%9C%D7%91): heart, and so "middle"; [*lavi*](lion-aryeh-kfir-lavi-layish.html#%D7%9C%D7%91%D7%99%D7%90), the
 lioness, courageous of heart; *levivos*, wafers that sustain the heart or are
-shaped like one; *lahav*, flame, which pumps heat from a center as the heart
+shaped like one; [*lahav*](fire-aish-lehavah-shalheves-lapid.html#%D7%9C%D7%94%D7%91), flame, which pumps heat from a center as the heart
 pumps blood; *leveinah*, a brick, fired in a kiln; and *malbein*, kiln. Many
 objects placed in a hot oven become white-hot, so whiteness reflects the effects
 of fire, which is why Rabbinic Hebrew calls heating a metal *libbun*. Radak in
@@ -157,7 +157,7 @@ also *albumen*, *album* and perhaps Albania.
 
 The Mishnah (Negaim 2:1) calls the fair-skinned man *Germani*, against the dark
 *Kushi*. Rabbeinu Hillel of Greece, on the Sifrei (vol. 1, p. 190), explains the
-word from *gerem*, bone, which is white; others take *Germani* as German, a
+word from [*gerem*](bone-etzem-gerem.html#%D7%92%D7%A8%D7%9E), bone, which is white; others take *Germani* as German, a
 white-skinned people.
 
 ### chivar (חיור)
@@ -210,7 +210,7 @@ and hei, which matches *zerach*, shining. Rabbi Reuven Chaim Klein adds, as his 
 suggestion with no source he has seen, that this Tzochar may have been named
 for his great-grandfather Lavan, both names meaning white.
 
-Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 32:25) connects *shachar*
+Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 32:25) connects [*shachar*](morning-shachar-boker-tzafra.html#%D7%A9%D7%97%D7%A8)
 with *tzachar*, shin and tzadi interchanging.
 
 Another approach relates *tzachar* to red. David J. A. Clines' *A Dictionary of
@@ -223,7 +223,7 @@ dictionary defines *tzachor* as "glistening" and "light reddish."
 ### chelbon (חלבון) and chalav (חלב)
 Yaakov's blessing to Yehudah speaks of whiteness of teeth from *chalav* (Bereishis
 49:12). Rabbi Matisyahu Strashun (1817 to 1885)
-and Rabbi Binyamin Rabinowitz-Teomim argue that the pair *yayin* and *chalav*
+and Rabbi Binyamin Rabinowitz-Teomim argue that the pair [*yayin*](wine-yayin-tirosh-chemer-shechar.html#%D7%99%D7%99%D7%A0) and *chalav*
 there means not wine and milk but red wine and white wine; see also Targum to
 Shir HaShirim 5:1, which likewise renders *chalav* there as white wine.
 

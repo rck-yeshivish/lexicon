@@ -22,7 +22,7 @@ sources:
   - wiaw:9396 "Seeking Completion" (2021-10-16) https://articles.ohr.edu/articles/seeking-completion
   - ms:298-words-of-destruction.md "Words of Destruction"
 authorities: [Rabbeinu Bachya, Malbim, Rabbi Shlomo Pappenheim, Zohar, Kedushat Levi, Targum Onkelos, Sefer HaBahir, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rabbi Avraham Bedersi, Rabbi Moshe Sofer, Rabbi Shimon Dov Ber Analak]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Completeness: tam / tamim / shalem
 
@@ -82,7 +82,7 @@ that the two are synonymous, at least colloquially.
 
 ### shalem (שלם)
 Pappenheim traces it to the biliteral ש-ל, removed, cast away (*shal* your
-shoes, Shemos 3:5; *sheol*, *shalal*, *shalvah*, each a taking-away). *Shalem*
+shoes, Shemos 3:5; [*sheol*](underworld-gehinnom-sheol-shachat-avadon.html#%D7%A9%D7%90%D7%95%D7%9C), [*shalal*](spoils-shalal-bizah-malkoach.html#%D7%A9%D7%9C%D7%9C), *shalvah*, each a taking-away). *Shalem*
 is the completion reached when everything removed has been returned: right
 now, nothing is lacking. *Shalom* likewise: every factor needed for
 well-being present. Pappenheim allows that *tam* and *shalem* may colloquially

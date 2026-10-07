@@ -23,7 +23,7 @@ sources:
   - wiaw:7839 "A Heritage of Inheritance" (2018-07-07) https://articles.ohr.edu/articles/a-heritage-of-inheritance
   - ms:270-a-heritage-of-inheritance.md "A Heritage of Inheritance"
 authorities: [Malbim, Shadal, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Inheritance: nachalah / yerushah / achuzah
 
@@ -77,7 +77,7 @@ Root י-ר-ש.
   steward was seemingly destined to inherit everything, and the word he used was
   *yoresh* (Bereishis 15:3) and not *nochel*.
 - Rabbi Shlomo Pappenheim and Rabbi Yaakov Tzvi Mecklenburg: the root is
-  reish-shin, allied to *rosh*, since the heir becomes the head of the estate he
+  reish-shin, allied to [*rosh*](beginning-reishis-techilah-kedem.html#%D7%A8%D7%90%D7%A9), since the heir becomes the head of the estate he
   takes over. The English *inherit* comes from the Latin *inhereditare*, "to be
   appointed as heir," on which reckoning too the one who inherits assumes the
   deceased's position of power.

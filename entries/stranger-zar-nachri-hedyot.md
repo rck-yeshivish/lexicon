@@ -26,7 +26,7 @@ words:
 sources:
   - wiaw:9192 "Strange Aliens" (2021-05-01) https://articles.ohr.edu/articles/strange-aliens
 authorities: [Ibn Ezra, Vilna Gaon, Rabbi Shlomo Aharon Wertheimer, Malbim, Sefer Chassidim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Targum Onkelos, Targum Yonatan, Peirush Yonatan, Mechilta, Yair, Me'at Tzari, Oxford English Dictionary]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Stranger: zar / nachri (chiloni, hedyot)
 
@@ -57,7 +57,7 @@ distinct from the leader, the amateur as distinct from the craftsman, and, in
 ## Distinctions
 
 ### zar (זר)
-- Ibn Ezra (long commentary to Shemos 21:2): *zar* implies someone of the
+- Ibn Ezra (long commentary to Shemos 21:2): [*zar*](resident-ger-toshav-ezrach.html#%D7%96%D7%A8) implies someone of the
   speaker's own nation but a different tribe within it. The same understanding
   can be gleaned from the Vilna Gaon's comments to Mishlei 27:2.
 - Malbim: a *zar* is from the familiar locality but counts as strange with

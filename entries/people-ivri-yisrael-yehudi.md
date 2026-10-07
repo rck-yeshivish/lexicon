@@ -24,7 +24,7 @@ sources:
   - wiaw:7961 "Names of a People" (2018-10-20) https://articles.ohr.edu/articles/names-of-a-people
   - wiaw:8553 "Jacob's Three Names" (2020-01-11) https://articles.ohr.edu/articles/jacobs-three-names
 authorities: [Bereishis Rabbah, Pesikta Rabbasi, Shemos Rabbah, Rabbeinu Bachya, Rabbi Dr. Norman Lamm]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Names of the Jewish people: Ivri / Yisrael / Yehudi
 
@@ -83,7 +83,7 @@ plane than a free man, so the older, lower name suits him.
 people over two thousand. It is Yaakov's second name used as a patronym, so the
 nation is *Yisrael* or the sons of *Yisrael*. Yaakov received the name from
 Esav's angel at the crossing of the Yabok: *Yisrael*, because he lords (*sar*)
-over angels (*elohim*, or *el* for short) and over men (Bereishis 32:29); Hashem
+over angels ([*elohim*](angel-classes-kruvim-chayos-ishim.html#%D7%90%D7%9C%D7%94%D7%99%D7%9E), or *el* for short) and over men (Bereishis 32:29); Hashem
 Himself later confirmed it by also giving him the name (Bereishis 35:10). Through most of Tanach this, and
 not *Ivri*, is what the people are called, and this follows from Rabbeinu
 Bachya's point, since it is the name of the higher standing. "Israelite"
@@ -105,7 +105,7 @@ h-sound, and Old French *giu*, which dropped the d-sound, comes the English
 *Ioudaios* is in the so-called Moschos
 Inscription, a stele erected in honor of the Greek gods by a Jew turned Hellene
 named Moschos. The name itself is Leah's: she called her fourth son Yehudah, the
-forebear of the Davidic line, as an expression of *hodaah*, thanks to Hashem for
+forebear of the Davidic line, as an expression of [*hodaah*](praise-hallel-shevach-hodaah-kilus.html), thanks to Hashem for
 granting her a fourth son (Bereishis 29:35). Rabbi
 Dr. Norman Lamm, debating a radical secular Israeli who denied the Jewishness of
 the State of Israel, is reported to have answered that one who speaks of French

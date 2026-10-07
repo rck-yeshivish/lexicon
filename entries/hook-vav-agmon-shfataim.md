@@ -26,7 +26,7 @@ sources:
   - wiaw:9565 "On Hooks and Hangers" (2022-02-05) https://articles.ohr.edu/articles/on-hooks-and-hangers
   - ms:156-on-hooks-and-hangers.md "On Hooks and Hangers"
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rashi, Rabbi Shlomo of Urbino, Abarbanel, Rabbi Eliezer of Beaugency, Targum Onkelos, Shadal, A. E. Silverstone, Rabbi Moshe Yitzchak Ashkenazi Tedeschi]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Hook: vav / agmon / shfataim (ankliyot)
 
@@ -95,7 +95,7 @@ not trouble us, Rabbi Klein remarks, since in this Greek word the two letters
 interchange anyway.
 
 Rabbi Moshe Yitzchak Ashkenazi Tedeschi (*Hoil Moshe* to Yechezkel 40:43):
-*unkelin* comes from ע-ק-ל with a nun added, as *sha'ananim* and *shenanim*.
+*unkelin* comes from ע-ק-ל with a nun added, as [*sha'ananim*](peace-shalom-sheket-shalvah.html#%D7%A9%D7%90%D7%A0%D7%A0) and *shenanim*.
 
 ### agmon (אגמון)
 Five appearances (Iyov 40:26, 41:12; Yeshayahu 9:13, 19:15, 58:5). This is the
@@ -103,7 +103,7 @@ third biblical word, one that Rabbi Shlomo of Urbino does not explicitly list as
 a synonym of *vav* and *shfataim*.
 - *Machberes Menachem* defines it as a cane with a hooked top.
 - Radak takes it as a kind of reed, reading א-ג-ם against ג-מ-א by metathesis,
-  from which *gome*, reed.
+  from which [*gome*](marsh-achu-agam-bitzah.html#%D7%92%D7%9E%D7%90), reed.
 - Rabbi Shlomo Pappenheim works the same ground from the two-letter root ג-ם,
   absorbent or spongy matter: *agam* is a swamp, which soaks up water and stays
   wet; *gome* is the spongy reed that grows there; *agmon* is primarily a

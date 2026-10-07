@@ -18,7 +18,7 @@ words:
 sources:
   - wiaw:11123 "Lech Lecha: Eighth Month" (2023-10-28) https://articles.ohr.edu/articles/lech-lecha-eighth-month
 authorities: [Rashi, Radak, Ramban, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Rid, Rav Hirsch, Rabbi Shlomo Pappenheim, Pri Megadim, Rabbi Aharon Marcus, Rabbi Moshe Shapiro, Aruch HaShulchan, Nachalas Shivah, Pri Chadash, Rabbi Chizkiyahu Medini, Rabbi Betzalel Stern, Rabbi Zecharia HaRofeh, Sefer HaKushyos, Rabbi Yisrael of Ruzhin, Rabbi Ernest Klein, Rabbi Dr. Ari Zivotofsky, Rabbi Shaul Goldman, Maharal, Rabbi Chaim Dov Lieman, Rabbi Yosef Chaim of Baghdad, Alexander Kohut, Avraham Epstein, Johannes Buxtorf]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # The eighth month: Bul / Marcheshvan (mabul, geshem)
 
@@ -47,7 +47,7 @@ deserve blessing.
   clods with the first rains; *bolel*, one must mix fodder indoors because
   nothing is left in the field.
 - Rabbi Yeshayah of Trani (the Rid, to Melachim I 6:38) and Ibn Saruk (who
-  traces the name to the biliteral ב-ל): from *yevul*, produce, the month when
+  traces the name to the biliteral ב-ל): from [*yevul*](food-ochel-shever-tevuah-dagan.html#%D7%99%D7%91%D7%95%D7%9C), produce, the month when
   the crop is already gathered in.
 - Pappenheim, elaborating on that same biliteral root: from *bilui*, wearing
   out, the eighth month falling in the autumn, when the plants and leaves grow
@@ -77,7 +77,7 @@ inscriptions were found there was much speculation in traditional sources about
 the name, some sages taking the *mar* as separate.
 
 - Those who parse it: Rabbi Yechiel Michel Epstein (1829-1907) in the *Aruch
-  HaShulchan*, who speculates that *mar* means switch, as in *temurah*, for
+  HaShulchan*, who speculates that *mar* means switch, as in [*temurah*](exchange-temurah-chalifah.html#%D7%AA%D7%9E%D7%95%D7%A8%D7%94), for
   Yeravam's switching the seventh month for the eighth (according to this, *mar*
   is also a double entendre for the bitterness his act brought on the Jewish
   People afterward), though he concludes that we cannot expound the month-names
@@ -132,10 +132,10 @@ the king refers to the month Bul.
 
 - Old Assyrian and Babylonian inscriptions name the eighth month Arahsamna
   (Akkadian *warahsamna*), which scholars parse as *arah*, cognate with the
-  Hebrew *yerach*, month, plus *samna*, cognate with *shemonah*, eight, so that
+  Hebrew [*yerach*](month-chodesh-yerach.html#%D7%99%D7%A8%D7%97), month, plus *samna*, cognate with *shemonah*, eight, so that
   the name means "eighth month"; this seems to be the most widely accepted
   etymology of Marcheshvan. Rabbi Dr. Ernest Klein follows it, explaining that
-  the mem of the Babylonian form turned into a vav, much as Hebrew *argaman*
+  the mem of the Babylonian form turned into a vav, much as Hebrew [*argaman*](purple-argaman-segol-lilach.html#%D7%90%D7%A8%D7%92%D7%9E%D7%A0)
   becomes Aramaic *argavan*, and Rabbi Dr. Ari Zivotofsky notes in support that
   Yemenite Jews pronounce the name Marach-Shwan rather than Mar-Cheshvan.
 - But the scholar Avraham Epstein (1841-1918) questions the theory, since no
@@ -145,7 +145,7 @@ the king refers to the month Bul.
   *yerach*) together with the Tyrian deity Eshmun, who may himself have been
   named for being eighth in birth order, depending on which version of the myth
   one takes.
-- Rabbi Shaul Goldman suggests instead a link to *shemen* and the olive
+- Rabbi Shaul Goldman suggests instead a link to [*shemen*](oil-shemen-yitzhar.html#%D7%A9%D7%9E%D7%A0) and the olive
   pressing.
 
 In Jewish numerology seven is a complete unit and eight the new beginning past a
@@ -185,7 +185,7 @@ Rashi (to Bereishis 6:17): a *mabul* wastes everything (*bilui*), confounds ever
 (The English *mobile* is not related to *movil* but comes from the
 Latin *movere*, which also gives *move*.) Building on Rashi, Rabbi Moshe Shapiro
 (1935-2017) explains that the very same waters that come down from Heaven serve either as
-a destructive *mabul* or as a constructive *geshem*, the difference lying in whether the
+a destructive *mabul* or as a constructive [*geshem*](rain-geshem-matar-yoreh-malkosh.html#%D7%92%D7%A9%D7%9E), the difference lying in whether the
 people deserve that Hashem's rain function as an influx of blessing or the opposite (see
 Rashi to Bereishis 7:12). He further explains *geshem* itself as an expression of
 connection between Heaven and earth, plainly in that rain falls from the one to the

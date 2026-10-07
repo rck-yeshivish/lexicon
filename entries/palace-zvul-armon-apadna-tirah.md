@@ -35,7 +35,7 @@ sources:
   - wiaw:8941 "Castle in the Sky" (2020-11-28) https://articles.ohr.edu/articles/castle-in-the-sky
   - ms:046-castle-in-the-sky.md "Castle in the Sky"
 authorities: [Rav Hirsch, Radak, Targum, Ibn Janach, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rashi, Ibn Ezra, Rabbi Dovid Tzvi Hoffmann, Rabbi David Chaim Chelouche, Rabbi Ernest Klein, Dr. Chaim Tawil, Marcus Jastrow]
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 # Palace: zvul / armon / apadna / tirah (paltin)
 
@@ -125,7 +125,7 @@ Its origin is disputed.
 An Arabic cognate, *fadan*, means palace or high tower.
 
 Rabbi Pappenheim traces *apadna* to the biliteral פ-ד, redemption or freedom
-(as in *pidyon*, *pedus*). From that root he takes *eifod*, the vestment worn by
+(as in [*pidyon*](redemption-geulah-pidyon.html#%D7%A4%D7%93%D7%99%D7%95%D7%A0), *pedus*). From that root he takes *eifod*, the vestment worn by
 those who were free and unindentured (Shmuel I 2:18, Shmuel II 6:14); an
 *apadna* is accordingly the luxurious home of a free man. He extends this,
 suggesting that *padan* is a region with its own sovereignty or exempt from
@@ -145,7 +145,7 @@ the same as *armon*.
   straight down); a *tirah* is typically built by arranging rows of boards.
 - Radak likewise derives *tirah* from *tur*, adding that such structures are
   typically built of rows of hewn stone.
-- Rabbi Pappenheim offers a second route from the same root, through *netirah*
+- Rabbi Pappenheim offers a second route from the same root, through [*netirah*](guard-shemirah-netzirah-netirah.html#%D7%A0%D7%98%D7%99%D7%A8%D7%94)
   (guarding, keeping watch), since watching over something requires keeping
   one's thoughts straight on it without deviating; related are *tahor* (pure, a
   state kept only by watching) and *iter* (shut, so closely guarded that it is

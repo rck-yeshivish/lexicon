@@ -41,7 +41,7 @@ sources:
   - wiaw:8487 "The Old Man and the See" (2019-11-23) https://articles.ohr.edu/articles/the-old-man-and-the-see
   - ms:031-the-old-man-and-the-see.md "The Old Man and the See"
 authorities: [Rabbi Avraham Bedersi HaPenini, Radak, Rabbi Eliezer Reines, Rabbi Mordechai Tzvi Herzka, Rabbeinu Chananel, Rabbi Nosson of Rome, Rabbi Yehuda Leib Shapira-Frankfurter, Rashi, Bartenura, Rabbi Ernest Klein, Rabbi Shaul Goldman, Rabbi Elimelech of Lizhensk, Chiddushei HaRa'ah, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Shadal, Rabbi Eliyahu Benamozegh, Rabbi Shlomo Pappenheim]
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 # Old age: zaken / seivah / yashish / yashan / atik / vatik
 
@@ -113,7 +113,7 @@ seventy.
   Latin *senior*, and *senator*, carry honor and not old age.
 - *Noam Elimelech* (Chayei Sarah): a tzaddik is called *zaken* even when young,
   because he sees himself as a man of advanced age who may die at any moment,
-  and that thought keeps him in constant *teshuvah*.
+  and that thought keeps him in constant [*teshuvah*](return-shuv-chazarah.html#%D7%AA%D7%A9%D7%95%D7%91%D7%94).
 - Rabbi Yehuda Leib Shapira-Frankfurter (*HaRechasim LeVik'ah*): *zaken* belongs
   to people and animals, not to plants; Iyov 14:8, which calls a plant's root
   *zaken*, is a borrowed usage and not the word's primary sense.
@@ -176,7 +176,7 @@ Bereishis 18:11, citing *Rechasim LeBik'ah*).
 
 Rabbi Shlomo Pappenheim says it of a person. He traces *yashan* to the
 two-letter root shin-nun, doubling: *shnayim*, two; *mishneh*, the second in
-command after the king; *shein*, a tooth, since most people grow two sets;
+command after the king; [*shein*](teeth-shein-mesalos-kaka.html#%D7%A9%D7%A0), a tooth, since most people grow two sets;
 *hishanos*, repetition (Bereishis 41:32); *sheinah*, sleep, when the mind goes
 back over all its thoughts; *shinui*, change, since what is repeated cannot
 exactly reproduce what came before; and *shanah*, a year, fixed by the sun's

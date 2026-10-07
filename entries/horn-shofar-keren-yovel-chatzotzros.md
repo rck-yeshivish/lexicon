@@ -34,7 +34,7 @@ sources:
   - wiaw:8505 "The Ovine and Caprine Families" (2019-12-07) https://articles.ohr.edu/articles/the-ovine-and-caprine-families
   - ms:342-the-shofars-horn.md "The Shofar’s Horn"
 authorities: [Ramban, Ran, Ritva, Rav Hirsch, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Ibn Janach, Radak, Rambam, Mabit, Chasam Sofer, Aruch LaNer, Avraham Even-Shoshan, Rabbi Ernest Klein, Ohalei Yehudah]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Horn: shofar / keren / yovel / chatzotzros
 
@@ -65,7 +65,7 @@ its being *called* a *keren*.
 ### shofar (שופר)
 The Mishnah (*Rosh Hashanah* 3:2) disqualifies a bovine horn for the mitzvah,
 and the Gemara there, in both Bavli and Yerushalmi, grounds that in the bovine
-horn's being called a *keren* (Devarim 33:17; see also *Gittin* 2:3, *Keilim*
+horn's being called a [*keren*](corner-peah-keren-zavit-pinah.html#%D7%A7%D7%A8%D7%A0) (Devarim 33:17; see also *Gittin* 2:3, *Keilim*
 11:7) and not a *shofar*, while the ram's horn is called both, or at least is
 not called a *keren*. Why should a word disqualify if both words mean "horn"?
 
@@ -82,7 +82,7 @@ the Mishnah (*Shabbos* 2:4; *Keilim* 14:5, 17:17; *Parah* 5:4, 5:8, 6:1, 9:2;
 The traditional derivation is from ש-פ-ר, pleasant, beautiful, good (Bereishis
 49:21, Tehillim 16:6, Iyov 26:13), cognate with the Aramaic *shfar*, three times
 in Tanach (Daniel 3:32, 4:24, 6:2); Targum regularly renders *yafeh* and *tov*
-with *shapir*. *Vayikra Rabbah* 29:6, on the shofar of Rosh Hashanah (Tehillim
+with [*shapir*](good-tov-noam-shapir.html#%D7%A9%D7%A4%D7%99%D7%A8). *Vayikra Rabbah* 29:6, on the shofar of Rosh Hashanah (Tehillim
 81:4), works exactly this way: along with the mitzvah of shofar Hashem told us
 *shapru maaseichem*, better your deeds, in Tishrei. *Bereishis Rabbah* 98:17
 reads Naftali's "*imrei shefer*" (Bereishis 49:21) of Devorah, who descended from
@@ -100,7 +100,7 @@ Yisrael through Torah and mitzvos, since she bore Moshe (*Sifrei Behaaloscha* 78
   Shapiro to *shapir*, though historians argue it more likely comes from the
   name of the German town Speyer.
 - Rav Hirsch (to Bereishis 5:1, 49:11), on shin/sin and beis/peh interchange,
-  groups *shefer* with *sefer*, *mispar*, *sofer*, and *shover*: a *sefer* is a
+  groups *shefer* with [*sefer*](book-sefer-iggeret-megillah.html#%D7%A1%D7%A4%D7%A8), [*mispar*](counting-sefirah-mispar-minyan.html#%D7%9E%D7%A1%D7%A4%D7%A8), [*sofer*](scribe-sofer-lavlar.html#%D7%A1%D7%95%D7%A4%D7%A8), and *shover*: a *sefer* is a
   composite whole made of parts fitted together coherently, counting and number
   highlight the individual units within a whole system, and *shover* breaks the
   parts off the whole. From that he surmises that *shefer* is beauty as the fit
@@ -142,9 +142,9 @@ wide below like the horn (*Shekalim* 2:1, 6:1, 6:5, with Rambam's commentary).
 
 Rabbi Shlomo Pappenheim reduces it to the biliteral ק-ר, forceful impact from
 weight or speed: *korah* (beam) and *tikrah* (ceiling), whose weight bears on
-the supports; *kir* (wall); *kiryah* (city); *kurei* (a web, a wall for
+the supports; [*kir*](wall-chomah-kir-shur-kotel.html#%D7%A7%D7%99%D7%A8) (wall); *kiryah* (city); *kurei* (a web, a wall for
 catching insects); *krum* (a covering membrane); *kor* and *kar* (cold,
-temperatures clashing with the body's warmth); *mikreh* and *keri* (a man
+temperatures clashing with the body's warmth); [*mikreh*](chance-mikreh-keri-teunah-irua.html#%D7%9E%D7%A7%D7%A8%D7%94) and *keri* (a man
 colliding with new circumstances); and *keren*, for the force of its goring.
 
 Rabbi Moshe Shapiro, without explicitly invoking Rabbi Pappenheim, builds the
@@ -167,7 +167,7 @@ lived after sinning on Rosh HaShanah.
 
 ### yovel (יובל)
 Also a horn (Shemos 19:13), and in some pesukim the animal it came from
-(Yehoshua 6:4-13); the Gemara (Rosh Hashanah 26a) points out that *yovel* also
+(Yehoshua 6:4-13); the Gemara (Rosh Hashanah 26a) points out that [*yovel*](sheep-and-goats-seh-keves-ayil-eiz.html#%D7%99%D7%95%D7%91%D7%9C) also
 means "ram." Because the fiftieth year of the shemittah cycle is
 consecrated and proclaimed with the shofar, the year itself is *yovel* (Vayikra
 25:10-15, 25:50, 27:17-31), whence English "jubilee." Since the *yovel* horn was

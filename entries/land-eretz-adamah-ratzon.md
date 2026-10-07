@@ -22,7 +22,7 @@ words:
 sources:
   - wiaw:9346 "Seasoning the Land" (2021-08-28) https://articles.ohr.edu/articles/seasoning-the-land
 authorities: [Avos d'Rabbi Nasan, Bereishis Rabbah, Radak, Netziv, Rabbi Toviah ben Eliezer, Rabbi Shaul Mortera, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rav Tzvi Yehuda Kook, Midrash Mishlei, Rashi]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Land: eretz / adamah (and ratzon)
 
@@ -49,11 +49,11 @@ so there are seven words for the earth: *eretz*, *adamah*, *arka*, *charavah*,
 
 ## Where the authorities disagree
 
-**What the "running" in *eretz* is.** Five readings, all working from the same
+**What the "running" in [*eretz*](land-eretz-adamah.html#%D7%90%D7%A8%D7%A6) is.** Five readings, all working from the same
 root.
 
 1. The land's own eagerness. Bereishis Rabbah 5:8: at creation the land *wanted*
-   (*ratzah*) to do Hashem's *ratzon*, and so *ran* to cover as much surface as
+   (*ratzah*) to do Hashem's [*ratzon*](will-ratzon-chefetz.html#%D7%A8%D7%A6%D7%95%D7%A0), and so *ran* to cover as much surface as
    it could until He told it to stop. Avos d'Rabbi Nasan (version 2, ch. 43)
    reads *eretz* from *ritzah* the same way, taking the connection to highlight
    the land's role as Hashem's loyal servant, with the mashal of a king's
@@ -86,7 +86,7 @@ the Torah an unqualified *eretz* is the Holy Land and *adamah* the Diaspora.
   of his on these two words: *adamah* is restricted to the topmost strata of the
   crust while *eretz* can reach deeper. The two are given one after the other,
   not set against each other. Rav Tzvi Yehuda Kook distinguishes *ratzon* from
-  *chefetz*, and Rabbi Klein then draws the parallel himself: *eretz* likewise
+  [*chefetz*](desire-taavah-chemdah.html#%D7%97%D7%A4%D7%A6), and Rabbi Klein then draws the parallel himself: *eretz* likewise
   takes in what lies beneath the surface, while *adamah*, from DALET-MEM,
   likeness, he associates with superficiality, the neighbour of *dimyon*,
   imagination or delusion, which may resemble reality without being it.

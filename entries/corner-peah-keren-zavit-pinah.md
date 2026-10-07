@@ -46,7 +46,7 @@ sources:
   - wiaw:10883 "Vayikra: Turning the Corner (Part 2/2)" (2023-03-25) https://articles.ohr.edu/articles/vayikra-turning-the-corner-part-22
   - ms:158-turning-the-corner.md "Turning the Corner"
 authorities: [Rabbi Shlomo Pappenheim, Malbim, Radak, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Rabbi David Chaim Chelouche, Menachem Ibn Saruk, Ibn Janach, Rashba, Rabbi Yitzchak Zev Yadler, Rabbi Yishmael ben Chachamon, Targum Onkelos, Rashi, Mahari Kara, Shadal, Mordechai Zer-Kavod, Rabbi Benzion Chaim Lubetzky, Avi Hurvitz, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Corner: peah / keren / zavit / pinah / miktzoa / katzeh
 
@@ -83,7 +83,7 @@ as *zavit*, and *peah* too at the corners of the Shulchan.
 The commonest biblical word for corner, roughly eighty-five occurrences, but in
 most of them it names a cardinal direction (Shemos 27:9; Bamidbar 35:5), usually
 alongside a word for north, south, east or west, where Onkelos generally gives
-*rucha*/*ruach*; in the four instances where it means "corner" as opposed to
+*rucha*/[*ruach*](soul-nefesh-ruach-neshamah-chayah-yechidah.html#%D7%A8%D7%95%D7%97); in the four instances where it means "corner" as opposed to
 "direction" (the *peah* of the head and of the beard, Vayikra 19:27, and the
 *peah* of the field, Vayikra 19:9, 23:22) he leaves it untranslated. For the
 four rings on the four *peah* of the Shulchan (Shemos 25:26, 37:13) Onkelos
@@ -107,13 +107,13 @@ Mishnah widens it to any corner while keeping the biblical altar sense
 7:3, *Middos* 3:2-3, 4:3, 4:5, *Keilim* 17:9-10).
 
 - Malbim: the core sense is the horn that bulges from the head, borrowed for
-  anything projecting outward, so a ray of sunlight is a *keren* and a corner is
+  anything projecting outward, so a ray of sunlight is a [*keren*](horn-shofar-keren-yovel-chatzotzros.html#%D7%A7%D7%A8%D7%A0) and a corner is
   a *keren* because it juts from an otherwise smooth surface. Rabbi Mecklenburg
   (*HaKsav VeHaKabbalah* to Shemos 27:2, Vayikra 4:7) makes a similar point, and
   Radak even insinuates a connection between the Hebrew *keren* and the Latin
   *cornu*, from which the English "corner" derives by way of French.
 - Pappenheim instead traces it to KUF-REISH, "strong impact," which yields
-  *korah*, *tikrah* and *kir*, weight-bearing points of impact; a corner is
+  *korah*, *tikrah* and [*kir*](wall-chomah-kir-shur-kotel.html#%D7%A7%D7%99%D7%A8), weight-bearing points of impact; a corner is
   where two sides collide.
 
 ### zavit (זוית)
@@ -128,7 +128,7 @@ palace (Tehillim 144:12), and Yisrael drinking "like the corners of the Altar"
   corners (Radak and Mahari Kara there).
 
 Onkelos uses *zavit* to render several of the other corner words. Pappenheim
-links *zavit* to *ziv* (radiance), and offers two ways of making the connection.
+links *zavit* to [*ziv*](second-month-ziv-iyar.html#%D7%96%D7%95) (radiance), and offers two ways of making the connection.
 
 - The first, as Rabbi Yehoshua Steinberg of the Veromemanu Foundation explains
   him, seems to be that turning a corner is a change of direction, and a shiny
@@ -172,7 +172,7 @@ where Onkelos gives *zavit*, and twenty-eight more times in Tanach.
   *pinah*. Hence a *pinah* must be built stronger than the rest, being exposed,
   and hence leaders are *pinos* (Shoftim 20:2; Shmuel I 14:38), men required to
   be of better quality than the rest. He derives it from PEH-NUN,
-  "front/surface," the root of *panim* and of *panah*, to turn and face: at a
+  "front/surface," the root of [*panim*](anger-cheimah-ketzef-charon-rogez.html#%D7%A4%D7%A0%D7%99%D7%9E) and of *panah*, to turn and face: at a
   *pinah* one must turn to keep following the perimeter; *peninim* (precious
   stones) he suggests reading the same way, a gem polished so its faces and
   their corners show. The Rashba (responsa vol. 4 §278) presumes that *pinah*
@@ -225,8 +225,8 @@ below, in front or behind, and *peah* one at the side, a distinction Rabbi Klein
 says frankly he is not sure he understands. He relates *katzin* (officer) to
 *katzeh* as he relates *paas* to *peah*. Other words from the root include
 *miketz*/*keitz*, *katz* (being disgusted, since the disgusted man feels the
-thing will bring about the end of his life), *ketzitzah*, *kayitz*, *yekitzah*
-and *kotz*; the full family is set out in [waking](waking-yekitzah-oorah.html).
+thing will bring about the end of his life), [*ketzitzah*](cutting-bokea-korea-gozer.html#%D7%A7%D7%A6%D7%99%D7%A6%D7%94), *kayitz*, *yekitzah*
+and [*kotz*](thorns-kotz-dardar-sneh-charul.html#%D7%A7%D7%95%D7%A6); the full family is set out in [waking](waking-yekitzah-oorah.html).
 
 Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 47:2): *katzin* comes from
 *katzeh*, because the *katzin* is the visible face of an armed force, and so

@@ -26,7 +26,7 @@ sources:
   - wiaw:9694 "The Year of Seven (Part 2 of 2)" (2022-05-21) https://articles.ohr.edu/articles/the-year-of-seven-part-2-of-2
   - ms:340-real-teshuvah-return-to-sender.md "Real Teshuvah: Return to Sender"
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Menachem Ricanati, Rabbeinu Bachya, Rabbi David Ibn Zimra, Rabbi Yosef Ibn Kaspi, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Return: shuv (teshuvah) / chazarah
 
@@ -69,10 +69,10 @@ settling in a place creates a home base one always comes back to.
 - Pappenheim adds a second sense that carries the whole idea of *teshuvah*: ש-ב
   can mean reverting to one's **natural** state even where that was never one's
   prior state. So *Shabbos* is a return to man's natural condition of rest even
-  for someone who has never rested; so too *lasheves*, to sit, and *shevi* /
+  for someone who has never rested; so too *lasheves*, to sit, and [*shevi*](spoils-shalal-bizah-malkoach.html#%D7%A9%D7%91%D7%99) /
   *shevuyah*, a captive whose freedom of movement has been curtailed by his
   captors, as if stuck in a position of rest.
-- Rabbi Yaakov Tzvi Mecklenburg also traces *Shabbos*, together with *shavua*,
+- Rabbi Yaakov Tzvi Mecklenburg also traces *Shabbos*, together with [*shavua*](seven-sheva-shavua-shevuah.html#%D7%A9%D7%91%D7%95%D7%A2),
   week, to ש-ב, returning, along a different path: as a *shevuyah*, a captive,
   is stuck within a closed system that repeats itself and constantly returns to
   the beginning, so *Shabbos* and *shavua* are circular periods of time that
@@ -112,12 +112,12 @@ amends, in the same way that *hashavah* and *lehashiv* fill holes previously
 created by thievery or by a question.
 
 Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Vayikra 16:4, 23:24; Bamidbar 36:4)
-reads *yovel* as a word of return. It means carrying, specifically carrying a
+reads [*yovel*](horn-shofar-keren-yovel-chatzotzros.html#%D7%99%D7%95%D7%91%D7%9C) as a word of return. It means carrying, specifically carrying a
 thing back to its original place, as in the Yovel year fields that were sold go
 back to the families that are their rightful owners. He ties it to Yom Kippur in
 two ways: the Yovel is proclaimed on Yom Kippur, for land and slaves to go back
 to their former state, and it alludes to *teshuvah*, by which the sinner goes
-back to his pristine, innocent state. So too produce is *yevul*, the field's way
+back to his pristine, innocent state. So too produce is [*yevul*](food-ochel-shever-tevuah-dagan.html#%D7%99%D7%91%D7%95%D7%9C), the field's way
 of returning to the farmer many times over what he put into it.
 
 ### chazarah (חזרה)

@@ -27,7 +27,7 @@ sources:
   - wiaw:9745 "The Gorgeous Windpipe" (2022-06-25) https://articles.ohr.edu/articles/the-gorgeous-windpipe
   - ms:182-the-gorgeous-windpipe.md "The Gorgeous Windpipe"
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Ibn Ezra, Rabbi Moshe Kimchi, Rashi, Rambam, Rabbi Yom Tov Lipmann Heller, Rabbi Binyamin Mussafia, Rabbi Yaakov Emden, Rabbi Tanchum HaYerushalmi, Rabbi Yaakov Weil, Rabbi Amitai Ben-David, Rabbi Yosef de Bonne of Stadthagen, Rabbi Meir Batzri, Shach, Pri Megadim, Rabbi Immanuel Chai Ricci, Shimon Mayerfeld]
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 # Throat: garon / gargeres / kaneh (against veshet)
 
@@ -72,7 +72,7 @@ against *veshet*, the **food pipe**.
    windpipe because the Adam's apple on it is the neck's most prominent feature.
    This belongs to his treatment of the two-letter root ג-ר as dragging or
    temporary lodging, which yields *ger* (a sojourner), *goren* (the grain's
-   temporary home), *nigar* (water gathered), *gerem* (the bone that houses
+   temporary home), *nigar* (water gathered), [*gerem*](bone-etzem-gerem.html#%D7%92%D7%A8%D7%9E) (the bone that houses
    marrow), and *garger* (the grape that houses its juice); on that account
    *garon* is where food temporarily lodges on the way to the stomach.
 
@@ -99,7 +99,7 @@ it must be the windpipe.
    Rabbi Klein concludes, the three terms are synonymous but reflect different
    stages of the language.
 2. **No, two parts of one organ.** Rabbi Yaakov Weil, in his classic work on
-   *shechitah*: *gargeres* is the ring-like exterior structure, *kaneh* the inner
+   [*shechitah*](slaughter-shechitah-zevichah-tevichah.html#%D7%A9%D7%97%D7%99%D7%98%D7%94): *gargeres* is the ring-like exterior structure, *kaneh* the inner
    membrane. Rabbi Amitai Ben-David (*Sichas Chullin* to *Chullin* 18a, 44a, 45a)
    finds precedent in Rashi (to *Chullin* 18a), who seems to take *kaneh* as the
    inner membrane specifically. The distinction is practical: the Mishnah

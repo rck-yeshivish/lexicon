@@ -27,7 +27,7 @@ words:
 sources:
   - wiaw:11139 "Vayeitzei: Testify!" (2023-11-25) https://articles.ohr.edu/articles/vayeitzei-testify
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Shlomo Ibn Parchon, Malbim, Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Shadal, Rabbi Yehudah Aryeh of Carpentras, Rabbi Avraham Kobernick, Herschell Filipowsky, Ángel Sáenz-Badillo, Rabbi Yosef Kerman]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Witness: eid / sahad (and kadosh)
 
@@ -61,7 +61,7 @@ Klein reads that difference as a statement about how Judaism views martyrdom.
 
 **What separates eid from sahad.** In Iyov 16:19 they stand in parallel ("my
 witness is in Heaven, my *sahad* on high"), Iyov poetically using *sahad* as the
-counterpart of *eid*.
+counterpart of [*eid*](sign-oht-mofet.html#%D7%A2%D7%93).
 - Malbim (there) posits a difference: *eid* attests to Iyov's upright conduct
   with other people, *sahad* to his piety before Hashem.
 - Rabbi Shlomo Aharon Wertheimer (1866 to 1935), generally: *eid* relates to
@@ -78,8 +78,8 @@ counterpart of *eid*.
   offshoots.
 - Rabbi Shlomo Pappenheim (1740 to 1814; *Yerios Shlomo*, *Cheshek Shlomo*)
   makes the core "connecting one thing to another," as in *ad*, "until," in
-  time, place or condition; hence *moed*, a meeting; *eidah*, a congregation;
-  *adi*, an adornment joined to what it beautifies; and *eden*, enjoyment, which
+  time, place or condition; hence [*moed*](time-eit-zman-moed-shaah.html#%D7%9E%D7%95%D7%A2%D7%93), a meeting; [*eidah*](gathering-asifah-kovetz-kehillah-agur.html#%D7%A2%D7%93%D7%94), a congregation;
+  *adi*, an adornment joined to what it beautifies; and [*eden*](pleasure-oneg-eden-pinuk.html#%D7%A2%D7%93%D7%A0), enjoyment, which
   joins the one who enjoys to the thing enjoyed. Testimony connects an event to
   the one responsible for it.
 - Rabbi Shlomo Ibn Parchon (twelfth century; *Machberes HeAruch*) derives *eid*
@@ -107,7 +107,7 @@ counterpart of *eid*.
   blend of *zeh*, "this" (sin or samech for zayin), and *eid*, which in some
   ways is like Shadal, since it too relates the two words.
 - In the edition of *Machberes Menachem* published by Herschell Filipowsky (1816
-  to 1872), Menachem defines *eid* as *sa'ad*, which fits Rav Hirsch; in the
+  to 1872), Menachem defines *eid* as [*sa'ad*](trust-bitachon-machseh-tikvah.html#%D7%A1%D7%A2%D7%93), which fits Rav Hirsch; in the
   unpublished edition prepared by Professor Ángel Sáenz-Badillo (1940 to 2013),
   he defines it as *sahad*, which is less novel.
 

@@ -26,7 +26,7 @@ sources:
   - wiaw:9795 "Matot: The Names of Jericho" (2022-07-23) https://articles.ohr.edu/articles/matot-the-names-of-jericho
   - ms:310-my-three-suns-and-moons.md "My Three Suns (and Moons)"
 authorities: [Rabbi Aharon Marcus, Menachem Ibn Saruk, Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Doniel Baron, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-28
+updated: 2026-10-06
 ---
 # Moon: yareach / levanah / sahar
 
@@ -68,9 +68,9 @@ it is simply a word sometimes used for the moon.
   trace *yareach* to the triliteral root י-ר-ח, and *reiach*, smell, to a
   different root, ר-י-ח.
 - Rabbi Shlomo Pappenheim sees both as derivatives of the biliteral ר-ח, air,
-  whose commonest form is *ruach*, wind: the moon is called *yareach* because
+  whose commonest form is [*ruach*](soul-nefesh-ruach-neshamah-chayah-yechidah.html#%D7%A8%D7%95%D7%97), wind: the moon is called *yareach* because
   its movements somehow control the *ruach*, the tides and winds.
-- Rabbi Aharon Marcus relates *yareach* to *orach*, a path, for the moon's
+- Rabbi Aharon Marcus relates *yareach* to [*orach*](path-derech-orach.html#%D7%90%D7%95%D7%A8%D7%97), a path, for the moon's
   orbital path in the heavens.
 
 **Whether the staged history is admissible.** Rabbi Aharon Marcus holds that the

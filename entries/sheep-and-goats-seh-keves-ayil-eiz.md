@@ -66,7 +66,7 @@ sources:
   - wiaw:8505 "The Ovine and Caprine Families" (2019-12-07) https://articles.ohr.edu/articles/the-ovine-and-caprine-families
   - ms:047-the-ovine-and-caprine-families.md "The Ovine and Caprine Families"
 authorities: [Rabbi Shlomo Pappenheim, Rabbi David Ibn Zimra, Abarbanel, Rav Hirsch, Rambam, Rashi, Radak, Ibn Ezra, Ibn Parchon, Rabbi Yeshayah of Trani, Turei Zahav, Panei'ach Raza, Baal HaTurim, Peirush HaRokeach, Netziv, Rabbi Shmuel Strashun, Malbim, Rabbi Meir Simcha of Dvinsk, Rabbi Aharon Marcus, Rabbi Yisrael David Miller of Grodno, Ramban, Rabbi Yosef Chiyyun, Rabbi Meir Mazuz, Aruch HaShulchan HeAsid, Pesikta Rabbasi, Peirush HaTur HaAruch, Rabbi Elazar Rokeach of Worms]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Sheep and goats: seh / tzon / eiz / tayish / gedi / seir / rachel / ayil / keves / kesev / tleh / atud
 
@@ -168,13 +168,13 @@ Yevamos 121b); the difference between that term and *ayil*
 is not readily apparent. Rabbi Yisrael David Miller of Grodno (1839-1913)
 suggests Chazal use it where a reader might otherwise confuse *ayil* with *ayal*,
 a deer or hart; others have suggested it distinguishes a castrated from an
-uncastrated ram. The Gemara (Rosh Hashanah 26a) points out that *yovel* too means
+uncastrated ram. The Gemara (Rosh Hashanah 26a) points out that [*yovel*](horn-shofar-keren-yovel-chatzotzros.html#%D7%99%D7%95%D7%91%D7%9C) too means
 ram, borrowed then for the ram's horn (Yehoshua 6:4-5) and then for the fiftieth
 year when such a horn is blown; the English "jubilee" derives from *yovel*.
 
 ### keves (כבש) and kesev (כשב)
 *Keves* / *kivsah* is a sheep within its first year (*Parah* 1:3). *Pesikta
-Rabbasi* expounds *keves* as though from *kevisah*, laundering, the sacrificial
+Rabbasi* expounds *keves* as though from [*kevisah*](washing-kevisah-rechitzah-shetifah-hadachah.html#%D7%9B%D7%91%D7%99%D7%A1%D7%94), laundering, the sacrificial
 lamb washing away sin. In fourteen places the Torah writes *kesev* / *kisbah*
 instead. Three readings:
 - Ibn Parchon, Rabbi Yeshayah of Trani, Radak, Ibn Ezra and other authorities cite
@@ -218,7 +218,7 @@ The word whose meaning is most obscured.
   either species.
 
 So *atud* might be any goat, or an extra-large adult goat, or a fat young sheep,
-or any male of either species. Related fatling words: *karim* (Devarim 32:14;
+or any male of either species. Related fatling words: [*karim*](camel-gamal-nakah-becher-kar.html#%D7%9B%D7%A8) (Devarim 32:14;
 Yechezkel 27:21; Yirmiyahu 51:40), perhaps male sheep specifically, which
 Pappenheim traces to kaf-reish, digging, after the ditches that bordered rich
 pasture; and *meri* / *meriim*, fattened sheep and goats per Rashi to Yeshayahu

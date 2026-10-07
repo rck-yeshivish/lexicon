@@ -26,7 +26,7 @@ sources:
   - wiaw:11627 "Vayeshev: The Hebrew Hammers (Part 1/2)" (2024-12-21) https://articles.ohr.edu/articles/vayeshev-the-hebrew-hammers-part-12
   - wiaw:11634 "Miketz: The Hebrew Hammers (Part 2/2)" (2024-12-28) https://articles.ohr.edu/articles/miketz-the-hebrew-hammers-part-22
 authorities: [Ibn Janach, Ibn Parchon, Radak, Menachem Ibn Saruk, Rashi, Rabbeinu Gershom, Rabbi Nosson of Rome, Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yitzchak Avineri, Rabbi Binyamin Mussafia, Rokeach, Rabbi Avraham Saba, Alshich, Shelah, Vilna Gaon, Chasam Sofer, Ramak, Maggid of Kozhnitz, Rabbi Yochanan Treves, Rabbi Ernest Klein, Dr. Alexander Kohut, Abraham Kahana, Rabbi Eliyahu Shmuel Hartom]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Hammer: makeves / patish / kurnas (and halmus)
 
@@ -78,7 +78,7 @@ whether *kurnas* is a big or a small *makeves*.
   Rabbeinu Gershom and Rabbi Nosson of Rome (*Sefer HeAruch*), that his forehead
   and back-head protrude outwardly so that his head looks like a *makeves*.
 - Rashi takes a slightly different approach, seeing *makavan* as another word
-  for *kardum*, a hatchet.
+  for [*kardum*](cutting-tools-garzen-kardum-maatzad.html#%D7%A7%D7%A8%D7%93%D7%9E), a hatchet.
 
 **Whether Maccabee means "hammer."**
 
@@ -157,8 +157,8 @@ as *kurnas*, and Targum to Tehillim 73:10. There is also an Arabic cognate,
   break".
 - Rabbi Shlomo Pappenheim (*Yerios Shlomo*, *Cheshek Shlomo*) reduces it to the
   biliteral ה-ל, "spreading out," as in *yahel* (light diffusing), *yahalom*,
-  *mahul* (a thick liquid diluted through a thinner one), *hallel* and
-  *tehillah*, *halah* and *halom*, and *ohel* (a tent spread over its pegs), so
+  *mahul* (a thick liquid diluted through a thinner one), [*hallel*](praise-hallel-shevach-hodaah-kilus.html) and
+  *tehillah*, *halah* and [*halom*](here-halom-poh-heinah-zeh-koh.html#%D7%94%D7%9C%D7%95%D7%9E), and *ohel* (a tent spread over its pegs), so
   *halmah* is smashing that scatters the pieces; Pappenheim does not say so
   explicitly, but Rabbi Reuven Chaim Klein adds that *halmus* is then the
   instrument that brings that about.

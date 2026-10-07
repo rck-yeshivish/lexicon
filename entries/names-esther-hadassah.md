@@ -19,7 +19,7 @@ sources:
   - wiaw:11286 "Vayakhel: Myrrh & Myrtle (Part 2)" (2024-03-09) https://articles.ohr.edu/articles/vayakhel-myrrh-myrtle-part-2
   - wiaw:11326 "Vayakhel: Myrrh & Myrtle (Part 2)" (2024-03-09) https://articles.ohr.edu/articles/vayakhel-myrrh-myrtle-part-2-2
 authorities: [Rashi, Ibn Ezra, Ralbag, Maharsha, Vilna Gaon, Sefer HeAruch, Targum Sheini, Chachmei Tzarfas, Rabbi Avigdor Katz, Rabbi Tanchum HaYerushalmi, Rabbi Yitzchak Arama, Rabbi Shlomo Alkabetz, Rabbi Eliezer Ashkenazi, Rabbi Yaakov Emden, Rabbi Yosef Nechemias, Rabbi Yekusiel Yehuda Halberstam, Rabbi Meir Mazuz, Rabbi Refael Berdugo, Rabbi Dovid Oppenheim, Rabbi Tzadok HaKohen of Lublin, Pri Megadim, Melechet Shlomo, Rabbi Yitzchak Epstein, Yitzchak Ber Levinsohn, Dr. Herbert C. Dobrinsky]
-updated: 2026-09-28
+updated: 2026-10-06
 ---
 # Names of Esther: Esther / Hadassah
 
@@ -43,7 +43,7 @@ hidden, or from Istahar, the name the gentiles gave her.
 **Which was her real name.** Megillah 13a gives three Tannaim.
 - Rabbi Meir: her name was Esther, and Hadassah is a description, the righteous
   being likened to a *hadas* (Zecharyah 1:8).
-- Rabbi Yehuda: her name was Hadassah, and Esther is from *nistar*, since she
+- Rabbi Yehuda: her name was Hadassah, and Esther is from [*nistar*](hidden-tzafun-safun-tamun-ganuz.html#%D7%A0%D7%A1%D7%AA%D7%A8), since she
   hid her people (Esther 2:20); Rabbi Avigdor Katz adds that Mordechai hid her
   from the king's men.
 - Rabbi Nechemiah: Hadassah was her name, and the nations called her Esther
@@ -101,7 +101,7 @@ the name Hadassah.
   complexion the color of a myrtle leaf (Rabbi Klein notes that Venus was
   anciently taken for a green planet, which may fit the Istahar connection), and
   Ben Azzai there gives her average stature, neither tall as a *lulav* nor stout
-  as an *esrog*.
+  as an [*esrog*](citron-hadar-etrog-tapuach.html#%D7%90%D7%AA%D7%A8%D7%95%D7%92).
 - Rabbi Refael Berdugo cites an unknown source that Herod's daughter had an
   especially pleasant body odor, put down to her mother's eating esrogim while
   carrying her, and on that basis *speculates* that Esther was called Hadassah

@@ -20,7 +20,7 @@ sources:
   - wiaw:9581 "Between Books and Scrolls" (2022-02-19) https://articles.ohr.edu/articles/between-books-and-scrolls
   - ms:121-scribes-to-count-on.md "Scribes to Count On"
 authorities: [Rashi, Rabbi Eliyahu HaBachur, Rabbi Yehuda Aryeh Blau, Rabbi Shmuel Krauss, Raymond P. Dougherty, Rabbeinu Chananel, Tosafos]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Scribe: sofer / lavlar
 
@@ -67,7 +67,7 @@ rabbinic scholars of the last century.
 ### sofer (סופר)
 Root ס-פ-ר, a root that carries a wide range of senses: book, story, to tell or
 relate, number, to count, sapphire, spherical, haircut, border, and more. At its
-plainest a *sofer* is one who produces a *sefer*. Professor Raymond P.
+plainest a *sofer* is one who produces a [*sefer*](book-sefer-iggeret-megillah.html#%D7%A1%D7%A4%D7%A8). Professor Raymond P.
 Dougherty of Yale explains how the word grows out of the core meaning "to
 count": counting is primarily a mental process, but memory is fallible, so there
 must be recourse to a written tally or record, and from these secondary meanings

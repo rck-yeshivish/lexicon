@@ -24,7 +24,7 @@ words:
 sources:
   - wiaw:11898 "Voeschanan - A Time to Whistle" (2025-08-09) https://articles.ohr.edu/articles/voeschanan-a-time-to-whistle
 authorities: [Rashi, Radak, Rabbi Shlomo Ibn Parchon, Menachem Ibn Saruk, Ibn Janach, Rabbi Moshe Kimchi, Rabbi Shlomo Pappenheim, Ibn Ezra, Maharsha, Rabbi Avraham Palagi, Rabbi Shlomo Tapiero, Ramban, Rema, Aruch HaShulchan, Tur, Rabbi Yaakov Berger, Rabbi Shaul Goldman, Rabbi Yissachar Shlomo Teichtal, Rabbi Amitai Ben-David, the Lubavitcher Rebbe, Rashaz, Rabbi Efrayim Greenblatt, Chazon Ish, Rabbi Chaim Kanievsky, Rabbi Yosef Yitzchok Lerner]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Whistle: shreikah / tziftzuf
 
@@ -134,7 +134,7 @@ Yeshayahu (8:19, 10:14, 29:4, 38:14). A noun of the same four letters,
 - Menachem Ibn Saruk instead reads it as the doubled biliteral צ-ף, and Rabbi
   Shlomo Pappenheim (*Cheshek Shlomo*), implicitly following him, writes at
   length on that root: its core is something that spreads on top of something
-  else, giving *tzofeh* and *mitzpeh* (a gaze spread over a wide field), then
+  else, giving [*tzofeh*](seeing-raah-hibit-tzofeh.html#%D7%A6%D7%95%D7%A4%D7%94) and *mitzpeh* (a gaze spread over a wide field), then
   *tzipiyah* (waiting, the man in trouble looking in every direction for his
   rescuer), and then *tziftzuf*, the bird's sound as the voice of its
   anticipation of its mate or its next meal.
@@ -143,7 +143,7 @@ Yeshayahu (8:19, 10:14, 29:4, 38:14). A noun of the same four letters,
 since the mouth is narrowed as in whistling: speaking quickly, constantly, low.
 It can also mean verbal pattering, and could refer to blabbering about rumors. Rashi and
 Ramban (to Vayikra 14:4) use it for the mindless prattling, typified by
-*lashon hara*, for which a person might be punished with *tzaraas*. Asked how that squares with "whistling,"
+*lashon hara*, for which a person might be punished with [*tzaraas*](leprosy-tzaraas-nega-metzora.html#%D7%A6%D7%A8%D7%A2%D7%AA). Asked how that squares with "whistling,"
 Rabbi Shaul Goldman explained that the original sense is bird-noise, also used
 for babbling or any speech meant to be audible but almost always
 unintelligible; that is the descriptive sense. Rabbi Klein adds that it
@@ -161,7 +161,7 @@ and that he is convinced English *cheep* is connected to the *tzif* of *tziftzuf
 ### Whistling as a practice
 - The late Lubavitcher Rebbe encouraged his followers to whistle to express
   elated happiness, and perhaps to symbolize, or even bring about, the impending
-  *geulah*. Rabbi Klein traces this to the Rashaz, who taught (*Ohr Torah* to
+  [*geulah*](redemption-geulah-pidyon.html#%D7%92%D7%90%D7%95%D7%9C%D7%94). Rabbi Klein traces this to the Rashaz, who taught (*Ohr Torah* to
   Bereishis 49:11) that the *shuruk*, the vowel tied to *shreikah*, has three
   dots one below the other because a person should lower himself to the
   self-effacement of recognizing that he is nothing before Hashem, a level said

@@ -29,7 +29,7 @@ sources:
   - wiaw:10709 "Chayei Sarah: Take a Drink" (2022-11-12) https://articles.ohr.edu/articles/chayei-sarah-take-a-drink
   - wiaw:9126 "Vayakhel/Pekudei: Animal Sounds" (2021-03-13) https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds
 authorities: [Rabbi Aharon Marcus, Rabbi Shlomo Pappenheim, Shadal, Menachem Ibn Saruk, Ibn Chayyuj, Ibn Janach, Radak, Rashi, Rav Hirsch, Rabbi Ernest Klein, Antoine-Chrysostome Quatremere de Quincy, Vilna Gaon]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Drinking: lishtos / lehashkos (mashkeh) / hagmieini
 
@@ -86,10 +86,10 @@ and watered (*hishkah*) the face of the earth" (Bereishis 2:6).
 - Rabbi Aharon Marcus: from the biliteral ש-ק, movement. So *teshukah* is the
   motivation that sets a man moving, *shok* is the thigh that moves the leg,
   *shuk* is the marketplace everyone strives toward, *meshek gevim* (Yeshayahu
-  33:4) is the marching of locusts in unison, *shaked*, diligence or the almond
+  33:4) is the marching of locusts in unison, [*shaked*](almond-luz-shaked.html#%D7%A9%D7%A7%D7%93), diligence or the almond
   tree, is consistent and diligent movement, and
   Eliezer as Avraham's *meshek* (Bereishis 15:2) is the manager who keeps a
-  household in motion. The opposite pole of the same root is *sheket*, the
+  household in motion. The opposite pole of the same root is [*sheket*](peace-shalom-sheket-shalvah.html#%D7%A9%D7%A7%D7%98), the
   stillness of no movement at all.
 - Rabbi Shlomo Pappenheim: the same biliteral ש-ק, but its core is making
   consecutive sounds. *Shokek* is roaring, sound after sound like a metronome;
@@ -102,7 +102,7 @@ and watered (*hishkah*) the face of the earth" (Bereishis 2:6).
 - Shadal: the root ש-ו-ק means liquid first of all, and the verb *lehashkos*, to
   pour into a mouth or onto a field, is the action most bound up with liquid;
   from thirst, the natural desire, came *teshukah* for desire of any kind, and
-  from the *shok shok* of pouring came the sound sense, with *shokek* the noise
+  from the *shok shok* of pouring came the sound sense, with [*shokek*](animal-sounds-shoeg-nohem-noer.html#%D7%A9%D7%95%D7%A7%D7%A7) the noise
   of a hungry, tired bear on the hunt, *shok* the thigh both moving and sounding,
   and *shuk* the busy noisy market. On *meshek* (Bereishis 15:2) he agrees it is
   the manager who directs the household's movement and logistics, notes it
@@ -140,7 +140,7 @@ me drink."
   *aleph* or an *ayin* and adduces the pasuk of *hagmieini* as proof for the
   *aleph*.
 - Rabbi Shlomo Pappenheim instead traces it to the biliteral ג-ם, spongy or
-  absorbent material, which gives *gome*, the spongy reed of marshy wetlands:
+  absorbent material, which gives [*gome*](marsh-achu-agam-bitzah.html#%D7%92%D7%9E%D7%90), the spongy reed of marshy wetlands:
   the request is to drink the way a reed soaks up water.
 
 Rabbi Reuven Chaim Klein offers two further possibilities of his own.

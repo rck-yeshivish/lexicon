@@ -22,7 +22,7 @@ words:
 sources:
   - wiaw:6774 "Energizing the Tired and Exhausted" (2017-10-28) https://articles.ohr.edu/articles/energizing-the-tired-and-exhausted
 authorities: [Rid, Radak, Malbim, Rabbi Yosef of Saragossa, Rabbi Shlomo Aharon Wertheimer, Rabbi Shimon Schwab]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Tired: ayef / yaef / yagea
 
@@ -53,7 +53,7 @@ actions, where *ayef* comes from the persistence of an action.
 
 - Some explain that they do not: the two are one word by metathesis, the ayin
   and yud trading places. Rabbi Yeshayah of Trani, the Rid, compares the case to
-  another well-known pair of metathetical synonyms, *kesev* and *keves*, both
+  another well-known pair of metathetical synonyms, [*kesev*](sheep-and-goats-seh-keves-ayil-eiz.html#%D7%9B%D7%A9%D7%91) and *keves*, both
   "lamb" in Tanach.
 - Rabbi Shimon Schwab says they differ in degree, and reads the morning berachah
   accordingly: on the surface its wording simply follows Yeshayahu's, but he

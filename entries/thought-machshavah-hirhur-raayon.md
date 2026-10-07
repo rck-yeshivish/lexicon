@@ -23,7 +23,7 @@ sources:
   - wiaw:7082 "A Word for a Thought" (2017-01-07) https://articles.ohr.edu/articles/a-word-for-a-thought
   - ms:230-a-word-for-a-thought.md "A Word for a Thought"
 authorities: [Vilna Gaon, Rashi, Ramban, Rabbi Meir HaLevi Abulafia, Rabbi Pinchas HaLevi Horowitz, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Thought: machshavah / hirhur / raayon
 
@@ -76,7 +76,7 @@ Root ה-ר-ר (Rabbinic).
 
 ### raayon (רעיון)
 There is ample reason, Rabbi Klein grants, to take *raayon* as one's
-intellectual will: Hebrew *tzadi* commonly becomes Aramaic *ayin*, so *ratzon*
+intellectual will: Hebrew *tzadi* commonly becomes Aramaic *ayin*, so [*ratzon*](will-ratzon-chefetz.html#%D7%A8%D7%A6%D7%95%D7%A0)
 is Aramaic *raavon*, spelled almost exactly like *raayon*, which would seem to
 suggest a connection.
 

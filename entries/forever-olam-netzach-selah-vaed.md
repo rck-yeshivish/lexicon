@@ -30,7 +30,7 @@ sources:
   - wiaw:7633 "Forever and Ever" (2018-02-10) https://articles.ohr.edu/articles/forever-and-ever
   - ms:130-forever-and-ever.md "Forever and Ever"
 authorities: [Rashi, Rabbi Menachem Ibn Saruk, Rabbi Yosef Kimchi, Maharsha, Rabbi Avraham ben Ezriel of Vienna, Rabbi Avraham ben Natan HaYarchi, Abudraham, Rabbi Yitzchak Abuhab, Rabbi Shlomo Aharon Wertheimer, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Radak, Malbim, Meiri, Ibn Ezra, Rabbi Aviad Sar-Shalom Basilea, Rabbi Yaakov Emden, Rabbi Chaim Friedlander, Shadal]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Forever: olam / netzach / selah / va'ed
 
@@ -69,7 +69,7 @@ Root ע-ל-ם.
   time is the field on which each creature strives to rise above where it
   stands, and Yovel is called *le'olam* because in it the slave rises to his
   master's free status.
-- Rabbi Shlomo Pappenheim reads *ne'elam*, "hidden," from the same *al*: what is
+- Rabbi Shlomo Pappenheim reads [*ne'elam*](hidden-tzafun-safun-tamun-ganuz.html#%D7%A0%D7%A2%D7%9C%D7%9E), "hidden," from the same *al*: what is
   above one's range of perception is hidden from him.
 - Shadal (to Shemos 15:18): *olam* is a point in time that is unknown,
   *ne'elam*, whether future or past.
@@ -104,7 +104,7 @@ Root ס-ל-ה.
   the Gemara's reading; Rabbi Yaakov Emden defended him, that Radak gives the
   *pshat* and the tradition gives the deeper sense.
 - Some scholars, cited in the *Encyclopaedia Judaica* (13:1322) and in
-  Mandelkern's concordance, derive *selah* from *sal*, a basket, and read it as
+  Mandelkern's concordance, derive *selah* from [*sal*](basket-tene-sal-keluv.html#%D7%A1%D7%9C), a basket, and read it as
   the direction to beat a basket-shaped drum.
 - Ibn Ezra: *selah* affirms that what was just said is true, roughly "so it is."
 - Mecklenburg himself ties *selah* to *suleh* (Iyov 28:16), which denotes

@@ -37,7 +37,7 @@ sources:
   - wiaw:10974 "Shelach: Learning the Ropes" (2023-06-10) https://articles.ohr.edu/articles/shelach-learning-the-ropes
   - ms:248-growing-the-fringes.md "Growing the Fringes"
 authorities: [Rashi, Malbim, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Rav Hirsch, Ibn Janach, Ibn Parchon, Radak, Rabbi Yosef Kimchi, Rabbi Nosson of Rome, Rav Matzliach Gaon, Rabbeinu Bachya, Rabbi Nosson Shapiro, Rabbi Eliyahu HaBachur, Rabbi Binyamin Mussafia, Rabbi Tanchum HaYerushalmi, Rabbi Ernest Klein, Dr. Alexander Kohut, David Curwin, Rabbi Dr. Seth Mandel, Rabbi Shaul Goldman, Ramban, Rashbam, Rabbi Avraham Maimuni, Rabbi Moshe HaDarshan, Rabbeinu Chaim Paltiel, Paneach Raza, Baal HaTurim, Targum Onkelos, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Fringes: tzitzis / gedilim / petil / tallis / kruspidin
 
@@ -93,8 +93,8 @@ In Mishnaic Hebrew the shreds of foreskin left after a milah are *tzitzin*
 - Menachem Ibn Saruk (*Machberes Menachem*) implies the same monoliteral root,
   although he does not actually list *tzitzis* as a declension of it.
 - Rav Hirsch (to Shemos 28:36), by his phonetic method, links צ-י-ץ to ש-י-ש
-  (*sasson*, gladness as the outward showing of inner happiness) and to ז-י-ז
-  (*ziz*, the mammary gland as the outward showing of the inner motherly
+  ([*sasson*](joy-simchah-sasson-gilah.html#%D7%A9%D7%A9%D7%95%D7%A0), gladness as the outward showing of inner happiness) and to ז-י-ז
+  ([*ziz*](breast-shadayim-dadim-atinim.html#%D7%96%D7%99%D7%96), the mammary gland as the outward showing of the inner motherly
   instinct to provide nourishment), so that *tzitz* is what protrudes from a
   surface and becomes visible to all; he notes this is close to the "growth"
   sense, a plant flourishing outward from its seed.
@@ -121,11 +121,11 @@ Parchon, Radak) put it in ג-ד-ל, the root of *gadol*.
 
 - Ibn Janach defines *gedilim* as *tzitzis*.
 - Radak refines it to free-hanging *tzitzis*.
-- Ibn Parchon defines it by *petil*; Ibn Saruk by *chut*, "string."
+- Ibn Parchon defines it by *petil*; Ibn Saruk by [*chut*](rope-chevel-chut-avot.html#%D7%97%D7%95%D7%98), "string."
 
 - Rav Hirsch (to Bamidbar 15:38): a braided rope is a *gedil* because braiding
   makes it thicker than a single string, so it appears to have "grown" and
-  become "bigger." He notes parenthetically that the Rabbinic *gudal* ("thumb")
+  become "bigger." He notes parenthetically that the Rabbinic [*gudal*](thumb-bohen-gudal-agudal.html#%D7%92%D7%95%D7%93%D7%9C) ("thumb")
   names the thickest finger, not the longest.
 - Radak's father, Rabbi Yosef Kimchi (*Sefer HaGalui*), takes the other path:
   the strings "expand" the edge of the garment beyond the fabric itself.
@@ -145,7 +145,7 @@ appears in three pesukim, *tzitzis* in two of them (Bamidbar 15:38, 15:39) and
 and one third braid.
 
 ### petil (פתיל)
-The word belongs to *techeiles*. The Midrash (Bamidbar Rabbah 18:3) explains why
+The word belongs to [*techeiles*](blue-sapir-techeiles-kachol.html#%D7%AA%D7%9B%D7%9C%D7%AA). The Midrash (Bamidbar Rabbah 18:3) explains why
 Korach's rebellion is set beside the parashah of *tzitzis*: Korach argued that a
 *tallis* made entirely of *techeiles* is exempt from *tzitzis*, and Moshe held
 it is obligated (see Menachos 41b).
@@ -156,7 +156,7 @@ pasil*, the tightly sealed vessel whose contents are saved from tumah (Bamidbar
 19:15); a string is made by twisting fibers snugly together. Rav Hirsch (to
 Bereishis 30:8, Bamidbar 15:38) reads the root as "separateness" instead,
 comparing ב-ד-ל (*havdalah*), ב-ת-ל (*besulah*, a woman separated out from the
-normal course of events), and ב-ט-ל (*batel*, excluded from the realm of the
+normal course of events), and ב-ט-ל ([*batel*](nullify-heini-heifer-batel.html#%D7%91%D7%98%D7%9C), excluded from the realm of the
 relevant): the *techeiles* thread is bound into the *tzitzis* yet stands apart
 from them, since it alone is dyed. The name Naftali is tied to this root
 explicitly (Bereishis 30:8), Rachel saying she had now intertwined her own fate
@@ -165,7 +165,7 @@ his belt according to some commentators, such as Ibn Janach, Rabbi Avraham
 Maimuni and Rashbam, or his cloak according to Radak; others read it as his
 *tallis*/*tzitzis* (Rabbi Moshe HaDarshan, *Bereishis Rabbasi* to 38:25, and
 Rabbeinu Chaim Paltiel to 38:18 in the name of Rashbam), which Ramban (to 38:18)
-rejects. Some commentators explain that it was his *tefillin*, since *petil* can be
+rejects. Some commentators explain that it was his [*tefillin*](phylacteries-totafos-tefillin.html#%D7%AA%D7%A4%D7%99%D7%9C%D7%99%D7%A0), since *petil* can be
 read as an anagram of *tefillin* (see *Paneach Raza* and *Baal HaTurim* to 38:18).
 In Mishnaic Hebrew *petilah* is a lamp wick, in some ways just a string
 fastened in place to hold a fire (Shabbos 2:4-5, Beitzah 4:4, Keilim 3:2), and

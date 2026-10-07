@@ -20,7 +20,7 @@ words:
 sources:
   - wiaw:10810 "Parshas Bo: Please Stand Up" (2023-01-28) https://articles.ohr.edu/articles/parshas-bo-please-stand-up
 authorities: [Rabbi Tzvi Elimelech Shapiro of Dinov, Rashi, Bereishis Rabbah, Targum, Targum Sheini, Rabbi Shlomo Pappenheim, Malbim, Radak, Metzudas David, Rabbi Shimon Dov Ber Analak, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rambam]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Standing: nitzav / amidah
 
@@ -79,7 +79,7 @@ river's edge before makkas dam (Shemos 7:15).
   was purposefully set up standing so as to be used later for going up and down.
   Rabbi Klein notes that this dovetails with the Midrash and the Targumim.
   Pappenheim traces *nitzav* to the biliteral צ-ב, standing or stationing, whence
-  *yatziv* (true, well-grounded), *tzvi* (desire, what remains in one's mind as
+  *yatziv* (true, well-grounded), [*tzvi*](will-ratzon-chefetz.html#%D7%A6%D7%91%D7%99) (desire, what remains in one's mind as
   though constantly standing before one), *tzava* (an army, men stationed in
   formation), *tzavah* (bloated, stuck in place), *tzav* (turtle, whose shell makes it look swollen) and *tzav*
   (covered wagon, shaped like a turtle). Parts of this are cited by Rabbi Yaakov
@@ -93,7 +93,7 @@ river's edge before makkas dam (Shemos 7:15).
   term for the posture, *nitzav* standing with a telos, waiting or anticipating
   something (applied at Shemos 18:13-14, below).
 - Wertheimer (1866 to 1935): *nitzav* is prolonged, continuous standing, which
-  is why an erected stone is a *matzeivah*, meant to stand in place a long time.
+  is why an erected stone is a [*matzeivah*](altar-mizbeach-matzeivah-bamah.html#%D7%9E%D7%A6%D7%91%D7%94), meant to stand in place a long time.
 
 Rabbi Tzvi Elimelech Shapiro of Dinov (1783 to 1841), who himself concedes that
 there are multiple counter-proofs: *nitzav* is standing anew (a man who had been

@@ -87,7 +87,7 @@ sources:
   - wiaw:11413 "Shavuos: Getting Dirty" (2024-06-08) https://articles.ohr.edu/articles/shavuos-getting-dirty
   - wiaw:11527 "Sukkot: Shake & Quake (Pt. 3/3)" (2024-10-19) https://articles.ohr.edu/articles/sukkot-shake-quake-pt-33
 authorities: [Rabbeinu Efrayim, Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo of Urbino, Malbim, Rabbi Shlomo Pappenheim, Peirush HaRokeach, Vilna Gaon, Ibn Janach, Ibn Ezra, Radak, Eitz Yosef, Rambam, Rabbi Avraham Maimuni, Rashi, Menachem, Rabbeinu Tam, Targum Yonatan, Donash, Rabbi Yosef Kimchi, Rav Hirsch, Shadal, Rashbam]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Anger: kaas / cheimah / charon / evrah / zaam / ketzef / rogez / af
 
@@ -138,7 +138,7 @@ on the object of the anger, others on its effects, and others on its cause.
 ### kaas (כעס)
 Root כ-ע-ס. The commonest, most generic term (Shmuel I 1:6, Iyov 6:2).
 
-- Rabbeinu Efrayim: a metathesis of *eches*, poison in the heart.
+- Rabbeinu Efrayim: a metathesis of [*eches*](poison-eres-rosh-chamat-sam-hamaves.html#%D7%A2%D7%9B%D7%A1), poison in the heart.
 - Malbim: anger pent up in the heart and never brought out into action.
 - Pappenheim: the simplest, lowest grade.
 - Rashi (to Shabbos 62b) runs the metathesis the other way, taking *eches* as a
@@ -187,7 +187,7 @@ Iyov 3:17, Melachim II 19:27. Elsewhere "shaking" and "fear."
 - Shadal (to Bereishis 45:24, Shemos 15:14): primarily physical shaking or
   trembling, then applied metaphorically to any emotional agitation or
   disturbance, even if not from fear.
-- Rashbam (to Bereishis 45:24): in Biblical Aramaic *rogez* denotes specifically
+- Rashbam (to Bereishis 45:24): in Biblical Aramaic [*rogez*](trembling-raadah-retet-raash.html#%D7%A8%D7%92%D7%96) denotes specifically
   anger or wrath. In rabbinic usage a *ragzan* is a person prone to anger
   (Shabbos 156a, Kiddushin 40b).
 
@@ -214,7 +214,7 @@ Yirmiyahu 15:17, Zecharyah 1:12.
   "to curse", and in an anger context it names an effect of rage, the angry man
   cursing his object as long as the anger lasts.
 - Vilna Gaon: suppressed anger, held back from showing outwardly.
-- Rav Hirsch (to Tehillim 7:12) relates ז-ע-ם to ז-ה-ם, *zuhamah*, filth, by
+- Rav Hirsch (to Tehillim 7:12) relates ז-ע-ם to ז-ה-ם, [*zuhamah*](dirt-zuhamah-lichluch-tinuf-goal.html#%D7%96%D7%95%D7%94%D7%9E%D7%94), filth, by
   the interchange of hei and ayin: *zaam* is the rejection of another in the eyes
   of the beholder, as *zuhamah* too is something to be rejected.
 

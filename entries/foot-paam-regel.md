@@ -24,7 +24,7 @@ sources:
   - wiaw:7828 "Foot Festivals" (2018-06-30) https://articles.ohr.edu/articles/foot-festivals
   - ms:266-foot-festivals.md "Foot Festivals"
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Targum Onkelos, Rashi, Ibn Ezra, Ramban, Rabbi Shmuel Dovid Walkin, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Foot: paam / regel
 
@@ -51,7 +51,7 @@ elsewhere it is usually the limb.
 ## Distinctions
 
 ### paam (פעם)
-Malbim: the core sense is **corner**, close to *peah*. The four *paamosav* at
+Malbim: the core sense is **corner**, close to [*peah*](corner-peah-keren-zavit-pinah.html#%D7%A4%D7%90%D7%94). The four *paamosav* at
 the bottom of the Aron (Shemos 25:12) are its four corners, and a man's feet are
 called *paam* because they sit at his lower corner. On this reading *paam*
 appears to be synonymous with *regel*, which is what makes the doublet in
@@ -60,7 +60,7 @@ work: *raglei ani, paamei dalim*, the feet of the poor, the feet of the
 destitute.
 
 Rabbi Shlomo Pappenheim derives *paam* from the biliteral פ-ע, whose words all
-denote steady, repeated motion or sound: *efeh*, the cry of a woman in labor
+denote steady, repeated motion or sound: [*efeh*](snake-nachash-saraph-tanin-peten.html#%D7%90%D7%A4%D7%A2%D7%94), the cry of a woman in labor
 (Yeshayahu 42:14) and the steady noise of the rattlesnake; *po'em*, the steady
 beat of the heart (Bereishis 41:8); *paamon*, a bell, named for the sound of the
 clapper striking its hollow shell. A foot earns

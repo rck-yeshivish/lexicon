@@ -79,7 +79,7 @@ points out that *shenhabim* is a semantic cognate of the Akkadian *sinni piri*,
 
 ### pil (פיל)
 Absent from Tanach. Fairly common from the Mishnah on: Kilayim 8:6, in sorting which
-creatures count as a *behemah* and which as a *chayah*, and repeatedly in the
+creatures count as a [*behemah*](animal-behemah-chayah.html#%D7%91%D7%94%D7%9E%D7%94) and which as a *chayah*, and repeatedly in the
 Gemara, in Aramaic as *pila*. Chazal use it for the outer bound of the
 impossible, the elephant passing through the eye of a needle, in proving that a
 man dreams only of what he has seen or thought of (Berachos 55b); they debate

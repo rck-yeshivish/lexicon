@@ -31,7 +31,7 @@ sources:
   - wiaw:11821 "Bamidbar/Shavuot: Coincidence or Happenstance? (Part 1/2)" (2025-05-31) https://articles.ohr.edu/articles/bamidbarshavuot-coincidence-or-happenstance-part-12
   - wiaw:11822 "Naso: Coincidence or Happenstance? (Part 2/2)" (2025-06-07) https://articles.ohr.edu/articles/naso-coincidence-or-happenstance-part-22
 authorities: [Rabbi Shlomo Pappenheim, Malbim, Rav Hirsch, Rashi, Rabbi Shaul Goldman, Stephen B. Chapman]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Chance: mikreh / keri / te'unah / i'rua
 
@@ -77,7 +77,7 @@ every case of *mikreh*.
 
 Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) takes the biliteral ק-ר to mean
 "strong impact," and gathers under it *korah* (beam) and *tikrah* (ceiling),
-*kir* (wall), *kiryah* (city), *kurei* (spider web), *krum* (membrane), and
+[*kir*](wall-chomah-kir-shur-kotel.html#%D7%A7%D7%99%D7%A8) (wall), *kiryah* (city), *kurei* (spider web), *krum* (membrane), and
 *kor* (cold, the clash of temperatures against the body's warmth). On that
 reading a *mikreh* is the sudden collision of a person with a new set of
 circumstances. He treats *kara* / *kriyah* (calling) as the same biliteral with
@@ -128,7 +128,7 @@ inadvertent killer together so that each receives his due.
   illustrates the distinction from Shemos 21:13: Hashem does not transport the
   killer to the Ir Miklat, He assembles the circumstances that will send him
   there.
-- The same root א-נ-ה yields *anah*, "where?", of an unknown location, and Rabbi
+- The same root א-נ-ה yields [*anah*](where-ayeh-eifoh-anah.html#%D7%90%D7%A0%D7%94), "where?", of an unknown location, and Rabbi
   Shaul Goldman accounts for the pairing by saying that *te'unah* looks not so
   much at an event's causes or effects as at the unpredictability of its landing
   place, the arbitrary "where" of it.
@@ -165,9 +165,9 @@ On that model he reads the Hebrew back. By phonetic shift and the interchange of
 reish with lamed and hei with ayin, ק-ר-ה may also relate to ק-ל-ע, to sling or
 hurl, the image of a projectile striking a target, which the Talmudic Aramaic
 *ikla*, someone who happens to arrive somewhere, seems to corroborate. The same
-roots reach the ground itself: *karka*, a doubling of ק-ר, is land, and so is
+roots reach the ground itself: [*karka*](earth-taivel-arka-cheled.html#%D7%A7%D7%A8%D7%A7%D7%A2), a doubling of ק-ר, is land, and so is
 the Biblical Aramaic *arka*, which appears once (Yirmiyahu 10:11). The standard
-Aramaic for land is *ar'a*, cognate to Hebrew *eretz* with the tzadi becoming an
+Aramaic for land is *ar'a*, cognate to Hebrew [*eretz*](land-eretz-adamah.html#%D7%90%D7%A8%D7%A6) with the tzadi becoming an
 ayin, and its root is the root of *i'ra*/*i'rua*, so that an *i'rua* is, at root, something landing on the ground; other uses of א-ר-ע
 in Targumic Aramaic mean ruin or collapse. He adds that *kara*/*kriyah*/*vayikra*,
 primarily to call or proclaim, may also suggest deliberately summoning an event,

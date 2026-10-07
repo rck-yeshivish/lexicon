@@ -28,7 +28,7 @@ sources:
   - wiaw:9245 "Revolting Revolutions" (2021-06-12) https://articles.ohr.edu/articles/revolting-revolutions
   - ms:249-revolting-revolutions.md "Revolting Revolutions"
 authorities: [Rashi, Midrash Tanchuma, Rabbi Shlomo Pappenheim, Targum, Rabbi Yonah Ibn Janach, Radak, Machberes Menachem (Rabbi Menachem Ibn Saruk), Rav Hirsch, Rabbi Aharon Marcus, Sifrei, Shadal]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Rebellion: pesha / meridah / meri (mamre)
 
@@ -104,7 +104,7 @@ Bereishis 14:4, Melachim II 18:20, Yeshayahu 36:5, Yechezkel 2:3.)
 ### meri and mamre (מרי, ממרה)
 Moshe calls the nation *mamrim* for refusing Hashem's word (Devarim 9:7, 9:24,
 31:27); the Mishnah's renegade elder who defies the Sanhedrin is a *zaken mamre*
-(*Sanhedrin* 11:2); the Gemara's apostate is a *mumar* (*Shabbos* 69a, 87a,
+(*Sanhedrin* 11:2); the Gemara's apostate is a [*mumar*](heretic-min-apikores-kofer-meshumad.html#%D7%9E%D7%95%D7%9E%D7%A8) (*Shabbos* 69a, 87a,
 *Eruvin* 69a-b, *Yevamos* 47b); and the rebellious son is a *ben sorer u'moreh*
 (Devarim 21:18), *moreh* being a cognate of *mamre*.
 
@@ -120,9 +120,9 @@ Rabbi Shlomo Pappenheim develops מ-ר as changing, switching, clearing one thin
 away so another can take its place, and lists: *mohar* (bride price, given in
 exchange for a woman's maidenhood), *maher* (quickly, constantly changing
 motion), *mar* (bitter, a taste
-the palate wants replaced), *morah* (razor, which clears hair so new hair
-replaces it), *temurah* (transferring *kedushah* from one *korban* to another),
-and *amirah* (speech, the exchange of ideas, the parties alternating). *Meri*
+the palate wants replaced), [*morah*](razor-taar-morah.html#%D7%9E%D7%95%D7%A8%D7%94) (razor, which clears hair so new hair
+replaces it), [*temurah*](exchange-temurah-chalifah.html#%D7%AA%D7%9E%D7%95%D7%A8%D7%94) (transferring *kedushah* from one *korban* to another),
+and [*amirah*](speech-dibbur-amirah.html#%D7%90%D7%9E%D7%99%D7%A8%D7%94) (speech, the exchange of ideas, the parties alternating). *Meri*
 and *mamre* are then the reaction to something unpalatable: whatever a man
 repudiates because it does not agree with his sensibilities. Applied to a ruler,
 it is switching out his word for another's and installing someone else in his

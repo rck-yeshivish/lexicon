@@ -28,7 +28,7 @@ sources:
   - wiaw:9308 "The Ultimate Teacher" (2021-07-24) https://articles.ohr.edu/articles/the-ultimate-teacher
   - ms:302-the-ultimate-teacher.md "The Ultimate Teacher"
 authorities: [Ibn Janach, Radak, Menachem Ibn Saruk, Malbim, Shadal, Rav Hirsch, Rabbi Shlomo Pappenheim, Vilna Gaon]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Teaching: hora'ah / limmud / alef (and hadrachah)
 
@@ -62,7 +62,7 @@ lessons.
 ### hora'ah (הוראה)
 - Ibn Janach and Radak: from the root yud-reish-hei, which yields three
   meanings, throwing (*yarah vayam*, Shemos 15:4), teaching (*yoreh dei'ah*,
-  Yeshayahu 28:9), and rain (*yoreh* and *moreh*, Devarim 11:14; Yoel 2:23).
+  Yeshayahu 28:9), and rain ([*yoreh*](rain-geshem-matar-yoreh-malkosh.html#%D7%99%D7%95%D7%A8%D7%94) and *moreh*, Devarim 11:14; Yoel 2:23).
 - Menachem Ibn Saruk traces these to the one-letter root reish and adds a fourth
   sense, spittle or bodily discharge (*rir*, *rar*: Vayikra 15:3; Shmuel I
   21:14; Iyov 6:6).
@@ -167,7 +167,7 @@ Malbim's contrast term. The common thread of *hora'ah* and *limmud* is the
 imparting of new knowledge (and, Rabbi Klein adds, ostensibly of *alef*). The
 *madrich*, a guide, counselor or coach, gives *hadrachah*, counsel that guides
 the student in the practical application of what he already knows, laying out a
-*derech*, a path, for him to follow; he is not necessarily providing new
+[*derech*](path-derech-orach.html#%D7%93%D7%A8%D7%9B), a path, for him to follow; he is not necessarily providing new
 information as such.
 
 ## Rendering guidance

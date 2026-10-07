@@ -23,7 +23,7 @@ words:
 sources:
   - wiaw:11327 "Shemini: The Nosey Truth" (2024-04-06) https://articles.ohr.edu/articles/shemini-the-nosey-truth
 authorities: [Menachem Ibn Saruk, Rabbeinu Yonah Ibn Janach, Radak, Rabbi Aharon Marcus, Rashi, Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yehudah Ibn Balaam, Rabbi Yosef Kara, Ibn Ezra, Zohar, Maharsha, Rabbi Binyamin Mussafia, Rabbi Moshe Yair Weinstock, Rabbi Shlomo Ibn Parchon, Peirush HaRokeach, Rabbi David Conforte, Ben Ish Chai, Rabbi Avraham Nissan Orenstein, Prof. Edward Yechezkel Kutscher]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Nose: af / chotem / nichirayim
 
@@ -116,7 +116,7 @@ to anger (*Avos* 4:1, 5:2).
 ### chotem (חוטם)
 Not in Tanach; standard in the Mishnah. Identifying a dead man so his widow may
 remarry requires seeing his *chotem* (*Yevamos* 16:3); it appears twice in the
-*tzaraas* discussion of which limbs are susceptible (*Nega'im* 6:7-8), and in
+[*tzaraas*](leprosy-tzaraas-nega-metzora.html#%D7%A6%D7%A8%D7%A2%D7%AA) discussion of which limbs are susceptible (*Nega'im* 6:7-8), and in
 whether nasal fluid makes produce susceptible to *tumah* (*Machshirin* 6:5).
 Plural, it is unmistakably nostrils: the two pipe-holes at the southwest corner
 of the Mizbeiach "like two thin *chotmin*" (*Middos* 3:2), and the two *chotmim*
@@ -175,7 +175,7 @@ Once in Tanach: "from his nostrils goes forth smoke" (Iyov 41:12).
   and *nichirayim* is a tributary of *chor*, since a nostril is a hole in the
   face. He derives two further words from it: *charon*, anger, from the flaring
   nostrils, and *charum* (Vayikra 21:18), the blemish of a drooping nose. Rabbi
-  Binyamin Mussafia adds the rabbinic *nechirah*, killing an animal by stabbing
+  Binyamin Mussafia adds the rabbinic [*nechirah*](slaughter-shechitah-zevichah-tevichah.html#%D7%A0%D7%97%D7%99%D7%A8%D7%94), killing an animal by stabbing
   the neck, also a hole.
 
 David's warrior Nachrai (Shmuel II 23:37, Divrei HaYamim I 11:39) appears to

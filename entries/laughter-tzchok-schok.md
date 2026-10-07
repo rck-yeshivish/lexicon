@@ -19,7 +19,7 @@ sources:
   - wiaw:8903 "A Laughing Matter" (2020-10-31) https://articles.ohr.edu/articles/a-laughing-matter
   - ms:020-a-laughing-matter.md "A Laughing Matter"
 authorities: [Menachem Ibn Saruk, Ibn Janach, Rabbi Shlomo Pappenheim, Rav Hirsch, Malbim, Onkelos, Rashi, Rabbeinu Bachya, Rabbi Shmuel Feivish Kahane, Rabbi Yehuda Moscato, Rabbi Shmuel Borenstein, Vilna Gaon, Arizal, the Ran]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Laughter: tzchok / s'chok
 
@@ -74,7 +74,7 @@ thing. See also Malbim to Shoftim 16:25, where Shimshon is brought out to
 "play."
 
 Rav Hirsch (to Bereishis 17:17) further ties
-*tzchok* and *s'chok* to *tzaakah* and *zaakah*, crying out, on the
+*tzchok* and *s'chok* to [*tzaakah*](crying-out-tzaakah-zaakah-shaavah.html#%D7%A6%D7%A2%D7%A7%D7%94) and *zaakah*, crying out, on the
 interchange of ches and ayin. All four, he says, are man's reaction to a gap
 between what he sees and what he expected: a child in an adult's wig may make us
 laugh, an old man in a diaper may make us weep, and both are the same reflex
@@ -99,7 +99,7 @@ ones:
 
 - Rabbeinu Bachya (to Bereishis 17:19, Bamidbar 32:3): the name is really
   *Yitzchak*, and the nevi'im sometimes wrote it with a sin to hint that
-  Yitzchak embodies *din*, likened to a raging fire, *aish*. Rabbi Klein adds on
+  Yitzchak embodies [*din*](judgment-din-rachamim.html#%D7%93%D7%99%D7%A0), likened to a raging fire, [*aish*](fire-aish-lehavah-shalheves-lapid.html#%D7%90%D7%A9). Rabbi Klein adds on
   his own account that Pappenheim derives *aish* from the monoliteral shin,
   which he takes as solidifying the connection.
 - Rabbi Shmuel Feivish Kahane, a seventeenth century sage, in *Leket Shmuel*,
@@ -111,7 +111,7 @@ A further approach has it that the name, or at least its spelling, changed or
 will change.
 
 - Rabbi Yehuda Moscato (1530 to 1593): in the future the name will change from
-  *Yitzchak* to *Yischak*, since sin stands for *sasson* and *simchah*, and it
+  *Yitzchak* to *Yischak*, since sin stands for [*sasson*](joy-simchah-sasson-gilah.html#%D7%A9%D7%A9%D7%95%D7%A0) and *simchah*, and it
   appears only four times in Tanach as a hint that it comes into its own only
   once the four exiles are complete.
 - Rabbi Shmuel Borenstein (1855 to 1926) uses a variation of that to settle an

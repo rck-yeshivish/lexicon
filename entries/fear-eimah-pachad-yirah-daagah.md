@@ -27,7 +27,7 @@ sources:
   - wiaw:9228 "Fishy Words (Part 1/2)" (2021-05-29) https://articles.ohr.edu/articles/fishy-words-part-12
   - ms:115-afraid-of-fright-or-ready-to-fight.md "Afraid of Fright or Ready to Fight"
 authorities: [Rashi, Ibn Ezra, Rabbi Shlomo Aharon Wertheimer, Beis HaLevi, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Ibn Janach, Radak, Abarbanel, Abudarham]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Fear: eimah / pachad / yirah (morah) / daagah
 
@@ -64,7 +64,7 @@ Either way, Rabbi Klein observes, a man reacts differently to hearing news of a
 threat than to meeting one, and Hebrew registers those differing fight-or-flight
 responses in two otherwise synonymous words.
 
-Abudarham (on the Rosh HaShanah *machzor*): *eimah* is more intense than
+Abudarham (on the Rosh HaShanah [*machzor*](book-sefer-iggeret-megillah.html#%D7%9E%D7%97%D7%96%D7%95%D7%A8)): *eimah* is more intense than
 *pachad*, so only the loftier parts of creation, the earth, the heavens, the
 great sea creatures and man, have *eimah*, while all other creatures have
 *pachad*.
@@ -95,13 +95,13 @@ Root י-ר-א.
 Root ד-א-ג.
 - Rashi (Yoma 75a): fear of losing something one has; Rashi (Gittin 70a): fear
   of the arrival of a frightening situation, such as famine or invasion. Shlomo
-  HaMelech's counsel, דאגה בלב איש ישחנה (Mishlei 12:25): speak it out to
+  HaMelech's counsel, דאגה בלב [איש](man-adam-ish-enosh-gever.html#%D7%90%D7%99%D7%A9) ישחנה (Mishlei 12:25): speak it out to
   others, for worry confined to finite words loses its limitlessness; on the
   second reading, distract oneself with other matters.
 - Beis HaLevi: worry over what is foreseen as certain.
 - Wertheimer: the despondency of one steeped in anxious fright; Rabbi Klein notes that this echoes Franklin Delano Roosevelt's
   inaugural line that the only thing we have to fear is fear itself.
-- Rabbi Shlomo Pappenheim connects *daagah* to the biliteral ד-ג of *dag*, fish:
+- Rabbi Shlomo Pappenheim connects *daagah* to the biliteral ד-ג of [*dag*](fish-dag-dagah.html#%D7%93%D7%92), fish:
   it is a minimally justified apprehension, the worrier seeing only some signs
   of a possible danger, as the fisherman (*dayag*, *davag*) picks his spot on
   vague signs with no solid reason to think there will really be fish there.

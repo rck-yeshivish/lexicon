@@ -21,7 +21,7 @@ sources:
   - wiaw:8364 "Beds of the Righteous" (2019-08-10) https://articles.ohr.edu/articles/beds-of-the-righteous
   - ms:297-beds-of-the-righteous.md "Beds of the Righteous"
 authorities: [Ramchal, Menachem Ibn Saruk, Radak, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rashbam, Rabbi Nosson of Rome, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Aviad Sar-Shalom Basilea, Rabbi Tzvi Hirsch Kaidanover, Dr. Richard C. Steiner, Rabbi Yehoshua Alt]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Bed: mitah / eres (arisah)
 
@@ -53,8 +53,8 @@ The common word. The root is disputed:
 - Radak (*Sefer HaShorashim*) gives mem-tes-tes or נ-ט-ה.
 - Rabbi Shlomo Pappenheim (*Yerios Shlomo*, *Cheshek Shlomo*) gives tes-hei.
 - Rabbi Aharon Marcus suggests the single letter tes, which he reads as movement
-  to the side, gathering under it *stiyah* (deviation), *natah* (to incline),
-  *titah* (turn aside), *tata* (broom), *tach* (plastering), *taah* (erred), and
+  to the side, gathering under it [*stiyah*](straying-zenus-stiyah.html#%D7%A1%D7%98%D7%99%D7%94) (deviation), *natah* (to incline),
+  *titah* (turn aside), *tata* (broom), *tach* (plastering), [*taah*](straying-toeh-taut.html#%D7%AA%D7%A2%D7%94) (erred), and
   more.
 
 Every one of these yields the same sense: to incline or stretch out, which is
@@ -132,7 +132,7 @@ the Aramaic with a samech, letters that often interchange. Readings:
 In short, on these readings *mitah* is the bed of the righteous and *eres* the
 bed of the wicked.
 
-The Torah's use of *arisah* for the dough of *challah* (Bamidbar 15:21) has been
+The Torah's use of *arisah* for the dough of [*challah*](bread-lechem-kikar-challah-pat.html#%D7%97%D7%9C%D7%94) (Bamidbar 15:21) has been
 read by some as a deliberate echo of *eres*: as one consecrates his dough and
 sets it aside for the Kohen, so must a man consecrate his bed, either by giving
 himself to Hashem's service the moment he wakes, before he rises, or by keeping

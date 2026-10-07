@@ -35,7 +35,7 @@ sources:
   - wiaw:9338 "Sort of Siblings" (2021-08-21) https://articles.ohr.edu/articles/sort-of-siblings
   - wiaw:11024 "Don't Trample On Me" (2023-07-22) https://articles.ohr.edu/articles/dont-trample-on-me
 authorities: [Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Rabbi Yaakov Emden, Rabbi Tzvi Hirsch Ferber, Rabbi Baruch HaLevi Epstein, Rabbi Menachem Kasher, Rashi, Rambam, Rabbi Ernest Klein, Even Shoshan, Professor Edward Yechezkel Kutscher, Max Weinreich, Julius Pokorny]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Platform: kan / duchan / bimah / basis / itztaba
 
@@ -74,7 +74,7 @@ the vessel of blood on Yom Kippur (Yoma 5:3-4). Rabbi Shlomo Pappenheim (*Cheshe
 Shlomo*) traces it to the two-letter root כ-ן, base or basis, physical or
 abstract, and gathers under it *kein* (yes) and *nachon* (correct), which
 affirm that a thing has a valid footing, and *tochnis* (plan) and *hachanah*
-(preparation), the footing of any serious undertaking. He derives *kohen* from
+(preparation), the footing of any serious undertaking. He derives [*kohen*](priest-kohen-komer.html#%D7%9B%D7%94%D7%A0) from
 the same root, the one charged with seeing that the preparations for the avodah
 are in order, and *kavanah*, the mental preparation before a task.
 
@@ -93,7 +93,7 @@ Birkas Kohanim, even outside the Mikdash (Shabbos 118b, Rosh Hashanah 28b and
 - Rabbi Eliyahu HaBachur (*Sefer HaTishbi*) already had to say that *duchan* is
   a noun and not a verb.
 - Rabbi Yaakov Emden (*Ezer Ohr*, his glosses to *Sefer HaTishbi*): *duchan* is
-  a cognate of the Aramaic *duchta*, place, a designated place for Kohanim and
+  a cognate of the Aramaic [*duchta*](place-makom-atar-duchta.html#%D7%93%D7%95%D7%9B%D7%AA%D7%90), place, a designated place for Kohanim and
   Leviim to stand.
 - Rabbi Tzvi Hirsch Ferber (*Kerem Tzvi* to Bamidbar 6:23) gives two other
   readings: a portmanteau of the Greek prefix *du-*, double, with the Biblical
@@ -140,7 +140,7 @@ has hexed linguists and historians like Max Weinreich for generations.
   that account *bimah* is not an original Hebrew word and does not even come
   from a Semitic language.
 - Professor Edward Yechezkel Kutscher (*Milim V'Toldoteihen*) draws the
-  consequence: *bimah* is not related at all to the Biblical Hebrew *bamah*, for
+  consequence: *bimah* is not related at all to the Biblical Hebrew [*bamah*](altar-mizbeach-matzeivah-bamah.html#%D7%91%D7%9E%D7%94), for
   all that a *bamah* is a high place used for sacrificial worship and so
   resembles what a *bimah* is. *Bamah*, he writes, is a native Hebrew word,
   appearing over a hundred times in Tanach and attested in other Semitic
@@ -163,7 +163,7 @@ serving as the base for a forbidden one and thereby becoming forbidden itself
 - The loan is from the Latin and Greek *basis*, base, step, pedestal, foot,
   going, the forebear of English *basis*, *base* and *basic*, and, through the
   interchangeability of *s* and *t*, of *diabetes* and *acrobat* as well.
-- Rabbi Shlomo Pappenheim instead traces *basis* to ב-ס, the root of *boss*, to
+- Rabbi Shlomo Pappenheim instead traces *basis* to ב-ס, the root of [*boss*](trampling-romes-dorech-boss.html#%D7%91%D7%95%D7%A1), to
   trample: the base is the bottom part of an object on which the rest of it
   rests, and so is conceptually similar to the ground one treads on, which lies
   at the bottom with something more significant on top of it.

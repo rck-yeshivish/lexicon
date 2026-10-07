@@ -30,7 +30,7 @@ sources:
   - wiaw:7302 "Spy versus Spy" (2017-06-17) https://articles.ohr.edu/articles/spy-versus-spy
   - ms:341-an-utter-embarrassment.md "An Utter Embarrassment"
 authorities: [Radak, Rabbeinu Yonah, Rabbi Avraham Bedersi, Rabbi David Chaim Chelouche, Rabbi David Golumb, Malbim, Rav Hirsch, Isaac Satanow, Rabbi Shlomo Aharon Wertheimer, Rabbi Yehuda Leib Edel, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Eliyahu HaBachur, Maggid of Kozhnitz, Maharal, Rabbi Yosef Kimchi, Rabbi Yaakov Tzvi Mecklenburg, the Vilna Gaon]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Shame: bushah / klimah / cherpah (chafrah)
 
@@ -155,7 +155,7 @@ Root ח-ר-ף / ח-פ-ר.
   *charufah* (Vayikra 19:20), a conjugation of *cherpah*, because she is placed
   in a humiliating position, having no matrimonial bond to the man for whom she
   is designated.
-- Rabbi Yaakov Tzvi Mecklenburg relates *chafirah*, digging, to *cherpah*,
+- Rabbi Yaakov Tzvi Mecklenburg relates [*chafirah*](dig-karah-chafirah-chatzivah.html#%D7%97%D7%A4%D7%99%D7%A8%D7%94), digging, to *cherpah*,
   disgrace: in the sense of digging for information, *chafirah* has a negative
   connotation, as if one were searching out negative information about another
   to bring it to light, and the spies' *vayachperu* (Devarim 1:22) refers to
@@ -163,7 +163,7 @@ Root ח-ר-ף / ח-פ-ר.
 
 Shapira-Frankfurter does not himself address *cherpah*/*chafrah*. Rabbi Klein
 offers his own conjecture: that the root ח-פ-ר may be related to ח-ו-ר
-(*chivar*, "white") through the interchange of peh and vav, since shame whitens
+([*chivar*](white-lavan-chivar-tzochar.html#%D7%97%D7%99%D7%95%D7%A8), "white") through the interchange of peh and vav, since shame whitens
 the face, so that *cherpah* would be no more than a metathesized *chafrah*.
 
 ### The Aramaic
@@ -176,7 +176,7 @@ the Maggid of Kozhnitz (Rabbi Yisroel Hopstein, 1737 to 1814) to read *chassid* 
 one ashamed at the thought that he could accomplish anything on his own without
 Hashem's help.
 
-The root כ-ס-ף also yields *kesef* ("silver, money") and *nichsaf* ("desiring").
+The root כ-ס-ף also yields [*kesef*](money-mammon-damim-maos.html#%D7%9B%D7%A1%D7%A4) ("silver, money") and *nichsaf* ("desiring").
 The Maharal (*Netivos Olam*, *Nesiv HaOsher*, ch. 2) ties those two together:
 man's drive to accrue more and more money derives from his desire to become
 rich. Radak's father, Rabbi Yosef Kimchi (1105 to 1170), finds the shame sense of

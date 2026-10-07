@@ -28,7 +28,7 @@ sources:
   - wiaw:8754 "All About Hair" (2020-06-20) https://articles.ohr.edu/articles/all-about-hair
   - ms:252-all-about-hair.md "All About Hair"
 authorities: [Rashi, Ibn Janach, Ibn Parchon, Ibn Ezra, Radak, Rabbi Eliyahu HaBachur, Tosafos Yom Tov, Rabbi Avraham Meir Israel, Rabbi Dr. Jared Greenblatt, Rabbi Dr. Alexander Kohut, Rabbi Yoel Sirkes]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Hair: saar / mazia / binta / nimah
 
@@ -76,7 +76,7 @@ Its etymology is disputed.
 
 - Rabbi Dr. Jared Greenblatt argues that it is related to the Syriac and Aramaic
   *ma'azia*, goat hair (Targum Onkelos to Shemos 25:4, 26:7, 35:6), plainly a
-  cognate of *eiz*, and that in later permutations the *zayin* doubled, giving
+  cognate of [*eiz*](sheep-and-goats-seh-keves-ayil-eiz.html#%D7%A2%D7%96), and that in later permutations the *zayin* doubled, giving
   *mazia*, as if the *ayin* had dropped.
 - Rabbi Dr. Alexander Kohut contends the opposite, that *mazia* is unrelated to
   *ma'azia* and derives instead from Old Persian, noting its relation to the Old
@@ -87,7 +87,7 @@ the one appearance of this Aramaic word in Tanach; others, including Ibn Janach,
 Ibn Parchon, Ibn Ezra and Radak, explain *mezei* differently.
 
 *Mazia* is used of Mordechai asking Haman to cut his hair (Megillah 16a), of
-Rabbi Akiva picking the straw out of Rachel's hair (Nedarim 50a), of a certain butcher letting his hair grow as *teshuvah* (Sanhedrin 25a), of the shaving of the
+Rabbi Akiva picking the straw out of Rachel's hair (Nedarim 50a), of a certain butcher letting his hair grow as [*teshuvah*](return-shuv-chazarah.html#%D7%AA%D7%A9%D7%95%D7%91%D7%94) (Sanhedrin 25a), of the shaving of the
 *yefas to'ar* (Targum Yonasan to Devarim 21:12), and of the wife of On ben Pelet
 uncovering her hair to keep Korach's men away (Sanhedrin 109b to 110a; On is
 listed with Korach's entourage at Bamidbar 16:1 and then drops out of the

@@ -22,7 +22,7 @@ words:
 sources:
   - wiaw:10740 "Vayishlach: Enter the Gate" (2022-12-03) https://articles.ohr.edu/articles/vayishlach-enter-the-gate
 authorities: [Rashi, Shadal, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Eliyahu HaBachur, Meiri, Tosafos Yom Tov, Rabbi Shmuel Ibn Tibbon, Rabbi Yitzchak Frank, Rabbi Uriel Frank, Rabbi Jeremy Steinberg]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Gate: shaar / tera / bava
 
@@ -127,7 +127,7 @@ Gemara Rashi renders it *shaar* (Moed Katan 22a) or, far more often, *pesach*
   plain force of the letter as a prefix; to it he assigns *navuv*, hollowed
   through (Shemos 27:8), the Mishnaic *biv*, the pipe into which waste flows
   (Eruvin 8:10), and the family of *bo* and *biah*, coming in, hence *mavoy*,
-  *tevuah*, and *navi*. Shadal adds *levav*, the heart, and *bavas ayin*, the
+  [*tevuah*](food-ochel-shever-tevuah-dagan.html#%D7%AA%D7%91%D7%95%D7%90%D7%94), and [*navi*](prophet-navi-roeh-chozeh.html#%D7%A0%D7%91%D7%99%D7%90). Shadal adds *levav*, the heart, and *bavas ayin*, the
   pupil; Rabbi Klein suggests why: possibly because the heart sits deep inside
   the chest, and the pupil is a hole light enters through. Menachem Ibn Saruk
   had filed *bavas ayin* and *yevavah*, weeping, under either the one-letter

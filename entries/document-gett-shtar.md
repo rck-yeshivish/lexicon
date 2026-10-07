@@ -37,7 +37,7 @@ sources:
   - wiaw:9581 "Between Books and Scrolls" (2022-02-19) https://articles.ohr.edu/articles/between-books-and-scrolls
   - ms:208-divorce-bills-and-other-documents.md "Divorce Bills and other Documents"
 authorities: [Rashi, Rabbeinu Tam, Tosafos, Rambam, Maharsha, Maharam Shiff, Elyah Rabbah, Tosafos Yom Tov, Rabbi Eliyahu HaBachur, Rabbi Yisrael Yaakov Algazi, Vilna Gaon, Rabbi Chaim of Friedburg, Rabbi Meir Mazuz, Rabbi Chaim Kanievsky, Rabbi Yehoshua Boaz, Chasam Sofer, Levush, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Aryeh Leib Tzintz, Rabbi David Tzvi Fetene, Rabbi Eliezer Herstik, Chaim Tawil, Ritva, Ramban, Dr. Michael Sokoloff]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Document: gett / shtar (and the biblical sefer kerisus)
 
@@ -71,7 +71,7 @@ divorce; *gett shichrur*, a "*gett* of freedom," a slave's writ of emancipation;
 10a; Bava Kamma 95a; Bava Basra 160a). Rashi (Gittin 65b) and Rambam
 (Commentary to the Mishnah, Gittin 2:5) record that the default *gett* in
 colloquial terms is a bill of divorce. Rabbi Yisrael Yaakov Algazi adds, as an
-aside, that every *shtar* can also be called a *gett* but not every *gett* a
+aside, that every [*shtar*](book-sefer-iggeret-megillah.html#%D7%A9%D7%98%D7%A8) can also be called a *gett* but not every *gett* a
 *shtar*, and rules from that principle that communal enactments explicitly said
 to govern a *shtar* do not apply to a *gett*. Why this word, and why for
 divorce, is the subject of a long disagreement.
@@ -143,7 +143,7 @@ disputed.
   are related.
 - Dr. Chaim Tawil defines the biblical *shoter* as a "record-keeper" or
   "organizing officer" and connects the root to the Akkadian verb *sataru*, "to
-  write"; on his account both *shoter* and *sofer* mean a scribe in Akkadian,
+  write"; on his account both *shoter* and [*sofer*](scribe-sofer-lavlar.html#%D7%A1%D7%95%D7%A4%D7%A8) mean a scribe in Akkadian,
   the former specifically a civil servant who is an official scribe, the latter
   any scribe at all.
 

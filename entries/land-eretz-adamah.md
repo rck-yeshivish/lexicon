@@ -21,7 +21,7 @@ sources:
   - wiaw:9346 "Seasoning the Land" (2021-08-28) https://articles.ohr.edu/articles/seasoning-the-land
   - ms:250-the-land-down-under.md "The Land Down Under"
 authorities: [Vilna Gaon, Malbim, Rabbeinu Bachya, Ritva, Rabbi Yechiel Michel Moravsky of Lublin, Rabbi Yisrael Lipschitz, Maharshal, Rabbi Yitzchok Dov Bamberger, Pri Megadim, Rabbi Yaakov Chaim Sofer, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Shadal]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Land: eretz / adamah
 
@@ -49,10 +49,10 @@ layer. The Maharshal holds the reverse: *eretz* is limited to the surface, and
   construct it names a particular nation's land, so "country" fits it well; an
   unqualified *eretz* often means Eretz Yisrael in particular.
 - Malbim: *eretz* takes in the whole planet, from the surface down to the
-  innermost core, while *adamah* generally means only the crust whose dirt is
+  innermost core, while [*adamah*](land-eretz-adamah-ratzon.html#%D7%90%D7%93%D7%9E%D7%94) generally means only the crust whose dirt is
   farmed.
 
-Bereishis Rabbah 5:8 relates *eretz* to *ratzon* and *ratz*, running: when the
+Bereishis Rabbah 5:8 relates *eretz* to [*ratzon*](will-ratzon-chefetz.html#%D7%A8%D7%A6%D7%95%D7%A0) and [*ratz*](fleeing-nas-boreach.html#%D7%A8%D7%A6), running: when the
 world was created the land wanted to do Hashem's will, and ran to cover as much
 of the earth's surface as it could until Hashem told it to stop.
 

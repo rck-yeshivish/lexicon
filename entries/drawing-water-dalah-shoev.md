@@ -20,7 +20,7 @@ sources:
   - wiaw:10786 "Shemos: Drawing Water" (2023-01-14) https://articles.ohr.edu/articles/shemos-drawing-water
   - wiaw:11200 "Shemos: Pulling & Drawing" (2024-01-06) https://articles.ohr.edu/articles/shemos-pulling-drawing
 authorities: [Ibn Chayyuj, Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Moshe Tedeschi-Ashkenazi (Hoil Moshe), Malbim, Shadal, Rabbi Chaim Kanievsky, Wilhelm Gesenius, Targum Onkelos, Ramban, Rabbi Yaakov Berger]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Drawing water: dalah / shoev
 
@@ -95,7 +95,7 @@ Dalia is not a traditional name among Ashkenazim and does not recommend giving
 it unless one's family already has a specific custom to use it.
 
 Rabbi Klein adds a thought of his own about the mirror root ל-ד, "birth," which
-gives *yalad*, *toldos*, *valad* and *yeled*: ל-ד and ד-ל look to him like exact
+gives *yalad*, *toldos*, *valad* and [*yeled*](child-yeled-olel-roveh-ravya.html#%D7%99%D7%9C%D7%93): ל-ד and ד-ל look to him like exact
 opposites, since drawing water applies an outside force pulling the water out of
 where it was, while birth is an inside force pushing the child out, and to him
 the contrast is reflected in the order of the consonants themselves.
@@ -108,7 +108,7 @@ HaShoeivah* celebrations in the Beis HaMikdash, which attended the drawing of
 the water for the Sukkos Water Libation. In the language of Chazal a magnetized
 stone is an *even shoeves*, literally a stone that draws (Sotah 47a; Sanhedrin
 107b; Avodah Zarah 44a), and in Modern Hebrew a vacuum cleaner is a *sha'avak*,
-a portmanteau of *shoev*, draws, and *avak*, dust.
+a portmanteau of [*shoev*](pulling-moshe-moshech-shoev-shoef.html#%D7%A9%D7%90%D7%91), draws, and [*avak*](dust-afar-eifer-avak-deshen.html#%D7%90%D7%91%D7%A7), dust.
 
 - Malbim: *shoev* is drawing into a bucket without any effort, most commonly
   from a spring or waterhole, where the water is at the surface and needs no

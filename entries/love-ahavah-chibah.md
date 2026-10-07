@@ -31,7 +31,7 @@ sources:
   - wiaw:10714 "True Love (Part 1/2)" (2023-11-11) https://articles.ohr.edu/articles/true-love-part-12
   - wiaw:10983 "True Love (Part 2/2)" (2023-11-18) https://articles.ohr.edu/articles/true-love-part-22
 authorities: [Rav Hirsch, Rabbi Eliyahu Lopian, Rav Dessler, Rabbi Shlomo Pappenheim, Rabbi Yitzchak of Zeldin, Rabbi Pinchas Eliyahu Horowitz, Rabbi Meir Ibn Gabbai, Orchos Tzadikim, Rabbi Avraham Erlanger, Rabbi Yehoshua Steinberg, Menachem Ibn Saruk, Rabbi Yehuda Chayyuj, Ibn Janach, Ibn Parchon, Radak, Rashi, Ibn Ezra, Ibn Ramoch, Rabbi Yosef Kara, Rabbi Yitzchak Avineri, Shadal, Rabbi Benzion Chaim Lubetzky, Rabbi Yosef Zechariah Stern, Rabbi Yehuda Leib Maimon-Fishman, Rabbi Yehuda Leib Edel, Rabbi David Chaim Chelouche, Rabbi Shaul Goldman, Wilhelm Gesenius, HALOT, BDB, Professor Saul Levin, Dr. Oswald Szemerényi, Rabbi Shlomo Luria, Rabbi Yaakov Margolis of Regensburg, HaMabit, Peirush HaRokeach, Moshav Zekanim, Yechiel Michel Pines, Rabbi Tzvi Yehuda Kook]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Love: ahavah / chibah / rechim / agav
 
@@ -68,7 +68,7 @@ Parchon, Radak).
   as ה-ב, *hav*, to give (a biliteral that appears over thirty times in Tanach,
   and is cognate with the Biblical Aramaic *yahav*): *ahavah* is giving oneself
   over to another and striving to bring him as close as can be. Hirsch sets it
-  against its antonym *sinah*, hatred, which he ties to *sneh*, a thorn: the
+  against its antonym *sinah*, hatred, which he ties to [*sneh*](thorns-kotz-dardar-sneh-charul.html#%D7%A1%D7%A0%D7%94), a thorn: the
   hater wants to be a thing people keep away from, while for *ahavah* the other
   party's very existence is a necessity. Rabbi Eliyahu Lopian (*Lev Eliyahu*
   vol. 1 p. 110) teaches the same from the mussar side: most people take love
@@ -84,7 +84,7 @@ Parchon, Radak).
 - Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) weighs *hav* and rejects it,
   reading the root as א-ב, "primary cause," as in *av* and *avah* (to desire):
   *ahavah* is the awakening of desire in a positive direction, its antonym
-  *eivah* (with *oyev*, "enemy") the same desire turned negative. Professor Saul
+  *eivah* (with [*oyev*](enemy-oyev-soneh-tzar.html#%D7%90%D7%95%D7%99%D7%91), "enemy") the same desire turned negative. Professor Saul
   Levin adds that perhaps *oyev* is itself a cognate of *ahavah*, both words
   being ways of dealing passionately with an outsider, the one romantically and
   the other bellicosely.
@@ -92,11 +92,11 @@ Parchon, Radak).
   lover's "give, give" (Mishlei 30:15, the leech), or a metathesis of *avah*.
 - *Sefer HaBris* (Rabbi Pinchas Eliyahu Horowitz): love is the expansion of the
   soul and its joy in what pleases it, desired above all else.
-- Rabbi Meir Ibn Gabbai: *ahavah* and *echad* are both thirteen in gematria;
+- Rabbi Meir Ibn Gabbai: *ahavah* and [*echad*](one-echad-achad-chad.html#%D7%90%D7%97%D7%93) are both thirteen in gematria;
   love is the longing of two to become one.
 
 *Sefer HaBris* also treats *ahavah* at length, sorting its kinds and its
-interplay with *yirah*, and dwelling on the Mishnah's distinction (Avos 5:16)
+interplay with [*yirah*](fear-eimah-pachad-yirah-daagah.html#%D7%99%D7%A8%D7%90%D7%94), and dwelling on the Mishnah's distinction (Avos 5:16)
 between love that depends on a matter and love that does not; he applies his
 definition both to loving Hashem (Devarim 6:5) and to loving a fellow Jew
 (Vayikra 19:18).
@@ -104,7 +104,7 @@ definition both to loving Hashem (Devarim 6:5) and to loving a fellow Jew
 The root appears close to 250 times in Tanach, in most cases for the verb or the
 abstract noun. In three cases the plural *ahavim* means concrete expressions of
 love, verbal or physical (Mishlei 5:19, 7:18; Hoshea 8:9). One passage fits none
-of these: Shir HaShirim 3:10 describes the *apiryon* as *ratzuf ahavah*, "paved
+of these: Shir HaShirim 3:10 describes the [*apiryon*](canopy-apiryon-chuppah-succah.html#%D7%90%D7%A4%D7%A8%D7%99%D7%95%D7%A0) as *ratzuf ahavah*, "paved
 with *ahavah*," where the word seems to name a material rather than an emotion.
 
 - *HALOT* (Koehler and Baumgartner) argues that in this context *ahavah* is
@@ -116,7 +116,7 @@ with *ahavah*," where the word seems to name a material rather than an emotion.
 An approach first suggested by the German philologist Wilhelm Gesenius and later
 partly adopted by *HALOT* ties *ahavah* to the Arabic *habba*, "to breathe
 heavily" or "to be excited"; on that basis Gesenius connects *ahavah*, *hav*,
-*avah*, *chibah* and *hevel*, implying that all are onomatopoeic renderings of
+*avah*, *chibah* and [*hevel*](nothing-hevel-rik-tohu-bohu.html#%D7%94%D7%91%D7%9C), implying that all are onomatopoeic renderings of
 heavy breathing.
 
 ### chibah (חיבה) and chaviv (חביב)
@@ -130,7 +130,7 @@ Tehillim 18:2, rendering *erchamcha*, uses a cognate of *chibah*.
   same root *chov* (a debt, since the debtor may try to hide from the creditor,
   or since the lender could be said to hide his assets by handing them over for
   a time), *machavas* (a frying pan, deep enough to hide what is in it) and
-  *chavis* (a barrel, closed on every side).
+  [*chavis*](vessel-pach-kankan-kad-chavis.html#%D7%97%D7%91%D7%99%D7%AA) (a barrel, closed on every side).
 - Rabbi Benzion Chaim Lubetzky (*Midrash Safah Echas*): *chibah* is love kept
   inside and not necessarily expressed outwardly. Rabbi Klein notes that this
   seems to differ from *ahavah*, which tends to outward expression.
@@ -152,7 +152,7 @@ authority's, but it leaves the *chibah*-versus-*ahavah* distinction an open
 question.
 
 ### rechim (רחים)
-Root ר-ח-ם. In Hebrew usually mercy (*racheim*, *rachamim*), the womb
+Root ר-ח-ם. In Hebrew usually mercy (*racheim*, [*rachamim*](mercy-rachum-chanun-chus-chemlah.html#%D7%A8%D7%97%D7%9E%D7%99%D7%9E)), the womb
 (*rechem*), or a bird (*racham*, Vayikra 11:18; Devarim 14:17). The one clear
 exception is ארחמך ה' (Tehillim 18:2), which the commentators, among them Ibn
 Janach, Rashi, Ibn Ezra, Radak, and Ibn Ramoch, all render "I will love You."

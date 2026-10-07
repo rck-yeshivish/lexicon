@@ -39,7 +39,7 @@ sources:
   - wiaw:9228 "Fishy Words (Part 1/2)" (2021-05-29) https://articles.ohr.edu/articles/fishy-words-part-12
   - ms:242-fishy-words.md "Fishy Words"
 authorities: [Rashi, Zohar, Rabbeinu Bachya, Rabbi Avraham bar Chiya HaNasi, Ibn Ezra, Malbim, Rabbi Mordechai Gimpel Yaffe, Menachem Ibn Saruk, Ibn Janach, Ibn Chayyuj, Radak, Rabbi Yehudah Ibn Balaam, Rabbi Shlomo Pappenheim, Rabbi Samson Raphael Hirsch, Rabbi Aharon Marcus, Sefer HeAruch, Rabbeinu Gershom, Rashbam, Rabbi David Golumb, Rabbi Moshe Batzri, Moshe Raanan, Shadal]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Fish: dag / dagah
 
@@ -77,7 +77,7 @@ Radak treat the vav in *davag* as root-letter. In Nechemiah 13:16 the word is
 written דאג though read *dag*: Ibn Ezra (there and in *Sefer Tzachus*) takes the
 root as triliteral ד-י-ג or ד-ו-ג with an aleph standing in for the middle
 letter; the commentary attributed to Rasag (Pseudo-Rasag) there reads the aleph
-as a derashah, that trading on Shabbos brought extra *da'agah*, worry, into the world.
+as a derashah, that trading on Shabbos brought extra [*da'agah*](fear-eimah-pachad-yirah-daagah.html#%D7%93%D7%90%D7%92%D7%94), worry, into the world.
 
 ### dagah (דגה)
 - Chazal (Nedarim 51b): *dag* is a big fish; *dagah* covers big and small alike.
@@ -157,7 +157,7 @@ Gershom and Rashbam to Bava Basra 73b) and elsewhere small fish (Rashi to
 Horayos 12a, Berachos 44b, Kesubos 105b); and *tzachanta* (Rashi to Succah 18a,
 Sanhedrin 49a), which Yerushalmi Nedarim 6:3 gives as the Bavel name for the
 *tarit*. On *munini*: Rabbi David Golumb parses it as a diminutive mem plus the
-Aramaic *nun*, fish; Rabbi Moshe Batzri as a contraction of *mei nuna*, fish
+Aramaic [*nun*](fish-nun-kavra-shibuta.html#%D7%A0%D7%95%D7%A0), fish; Rabbi Moshe Batzri as a contraction of *mei nuna*, fish
 water. Rashi identifies *tarit* as tuna (Megillah 6a, Berachos 44a), and likewise
 *sultanit* and the Spanish *kulyis* (Shabbos 39a, Chullin 66a). On the species: ichthyologists, mentioned by Dr. Moshe Raanan, identify *gildna*
 with the flathead grey mullet (*Mugil cephalus*) or with gilt-head bream

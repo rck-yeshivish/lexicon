@@ -21,7 +21,7 @@ sources:
   - wiaw:8217 "Pesach: Telling the Story" (2019-04-13) https://articles.ohr.edu/articles/pesach-telling-the-story
   - wiaw:9642 "Haircut Time" (2022-04-02) https://articles.ohr.edu/articles/haircut-time
 authorities: [Ramban, Rashi, Ibn Ezra, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehuda Leib Edel, Rabbi Eliyahu HaBachur, Netziv, Rabbi Dovid Abudraham, Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Moshe Shapiro, Peirush HaRokeach, Rabbi Chaim Soloveitchik, Brisker Rav, Rabbi Aryeh Pomeranchik, Rabbi Yechiel Michel Feinstein, Rabbi Nosson Gestetner, Rabbi Dr. Ari Bergmann, Alshich, Rabbi David Golumb]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Telling: haggadah (maggid) / sippur (misaper)
 
@@ -139,9 +139,9 @@ tying the narrative to mitzvos in force.
 **Wholeness.**
 
 - Rav Moshe Shapiro: everything from ס-פ-ר is interrelated, and *sippur* is
-  joining many details into a single whole, the "story." A *sefer* binds its
-  contents into one entity; a *sfar*, a border, of a country or a city, closes
-  everything within it into one unit; *mispar* and *sofer*, number and counting,
+  joining many details into a single whole, the "story." A [*sefer*](book-sefer-iggeret-megillah.html#%D7%A1%D7%A4%D7%A8) binds its
+  contents into one entity; a [*sfar*](border-gevul-techum-meitzar-sfar.html#%D7%A1%D7%A4%D7%A8), a border, of a country or a city, closes
+  everything within it into one unit; *mispar* and [*sofer*](scribe-sofer-lavlar.html#%D7%A1%D7%95%D7%A4%D7%A8), number and counting,
   are the system in which the numbers are bound together in an orderly, logical
   way. Rabbi Klein adds that telling and counting are paired in other languages
   too: in German and Yiddish (*zahlen*, to count), and in English *tell*, *tale*
@@ -151,7 +151,7 @@ tying the narrative to mitzvos in force.
   the core meaning of ס-פ-ר as "circle" or "round," relating the words to the
   Greek *sphere*: *l'saper* and *sippur* describe the way a story gains traction
   as people go around and around telling it; a city on the *sfar*, the border,
-  is typically surrounded by a protecting wall; and a *sapar*, barber, cuts the
+  is typically surrounded by a protecting wall; and a [*sapar*](haircut-giluach-gizah-galav-sapar.html#%D7%A1%D7%A4%D7%A8), barber, cuts the
   hair from one ear to the other in a circular motion.
 
 - Rabbi Pomeranchik also reports from the Brisker Rav in Rav Chaim's name two
@@ -177,7 +177,7 @@ tying the narrative to mitzvos in force.
   the mitzvah on it; the Torah's *v'higadta* teaches only *how* to tell, not the
   purpose.
 - Rabbi Mecklenburg offers a similar explanation: a hallmark of *sippur* is
-  explaining something clearly, and the word is related to *sapir*, the blue
+  explaining something clearly, and the word is related to [*sapir*](blue-sapir-techeiles-kachol.html#%D7%A1%D7%A4%D7%99%D7%A8), the blue
   gem. Hashem's administration of the world is like the clear blue sky,
   sometimes clouded when the wicked obscure His role; spelling it out clearly
   clears the clouds away. According to this, the term *sippur* fits the telling

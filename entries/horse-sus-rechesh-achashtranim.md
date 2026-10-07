@@ -28,7 +28,7 @@ sources:
   - wiaw:10842 "Purim/Trumah: Speedy Horsepower (Part 1/2)" (2023-02-11) https://articles.ohr.edu/articles/purimtrumah-speedy-horsepower-part-12
   - wiaw:10843 "Purim/Titzaveh: Speedy Horsepower (Part 2/2)" (2023-02-11) https://articles.ohr.edu/articles/purimtitzaveh-speedy-horsepower-part-22
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbeinu Bachya, Rabbi Avraham Saba, Rabbi Yaakov Ashkenazi of Janow, Maharal, Ralbag, Ibn Ezra, Rabbi Moshe Ibn Chalava, Ohalei Yehuda, Rabbeinu Nissim of Gerona, Rav Saadia Gaon, Rabbi Yosef Kimchi, Rabbi Tuviah ben Eliezer, Rashi, Rabbi Ernest Klein, Rambam, Rabbi Shlomo Sirilio, Rabbi Yosef Kara, Peirush HaRokeach, Targum Sheini, Rabbi Eliyahu HaBachur, Rabbi Yaakov Daniel Amash, Wilhelm Gesenius, Naftali Tur-Sinai, Solomon Rabinowitz, Dr. Alexander Kohut, Dr. Dan Shapira]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Horse: sus / rechesh / achashtranim / remachim
 
@@ -62,7 +62,7 @@ Many commentators take *achashtranim* to be **mules** and *remachim* the
 - Some unspecific swift-running animal, not necessarily a horse, since Esther
   8:10 and Melachim I 5:8 list *rechesh* beside *sus* (Radak, who elsewhere
   identifies it with the mules).
-- A permutation of *rechush*, property, so the king's own horses (Ibn Ezra,
+- A permutation of [*rechush*](property-rechush-mikneh-nechasim.html#%D7%A8%D7%9B%D7%95%D7%A9), property, so the king's own horses (Ibn Ezra,
   Rabbi Moshe Ibn Chalava; Solomon Rabinowitz of New York, d. 1943, in *Sefer
   HaMishkalim*, reads *rechush* in Ezra 1:4 the other way about, as the
   *rechesh* horse rather than ordinary property).
@@ -136,7 +136,7 @@ Yeshayahu 38:14 the same word is a bird.
   biliteral SAMECH-SAMECH.
 - Rabbi Shlomo Pappenheim offers two: in *Yerios Shlomo*, the one-letter root
   SAMECH, repellence, yielding *nisah*, fleeing, the animal one flees on; in
-  *Cheshek Shlomo*, SIN-SIN, liveliness, the root of *sasson*.
+  *Cheshek Shlomo*, SIN-SIN, liveliness, the root of [*sasson*](joy-simchah-sasson-gilah.html#%D7%A9%D7%A9%D7%95%D7%A0).
 - Rav Hirsch (to Bereishis 1:21) reads SAMECH-VAV-SAMECH alongside
   ZAYIN-VAV-ZAYIN, SIN-VAV-SIN, and TZADI-VAV-TZADI as degrees of movement:
   *zuz*, the most basic shifting; *sasson*, the active movement of joy; *tzitz*,
@@ -176,7 +176,7 @@ coming from the Aramaic *rechesh*.
 Targum Sheini (to Esther 6:10) and *Peirush HaRokeach* (to Esther 9:4) give the
 king's horse the name Shifrigaz, which Rabbi Eliyahu HaBachur vocalizes in
 *Meturgeman* as Shfargaz.
-- Rabbi Yaakov Daniel Amash derives Shifrigaz from a portmanteau of *shapir*,
+- Rabbi Yaakov Daniel Amash derives Shifrigaz from a portmanteau of [*shapir*](good-tov-noam-shapir.html#%D7%A9%D7%A4%D7%99%D7%A8),
   beautiful, and *gaz*, transporting (see Rashi to Tehillim 90:10): the horse
   was apparently beautiful, and a horse's work is to carry its rider.
 - Dr. Alexander Kohut (1842-1894), in *Aruch HaShalem*, renders the name on

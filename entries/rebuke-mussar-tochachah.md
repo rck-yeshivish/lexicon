@@ -19,7 +19,7 @@ sources:
   - wiaw:7260 "Burke and Rebuke" (2017-05-20) https://articles.ohr.edu/articles/burke-and-rebuke
   - wiaw:10970 "All Tied Up" (2023-06-03) https://articles.ohr.edu/articles/all-tied-up
 authorities: [Vilna Gaon, Malbim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Rebuke: mussar / tochachah
 
@@ -90,7 +90,7 @@ Root י-ס-ר.
   certain expectations. Rabbi Yaakov Tzvi Mecklenburg likewise: *mussar* is
   tying, since it gives a man the power to tie down his *yetzer* and hold his
   desires in check.
-- Malbim, on *asirah*, tying down without the consent of what is tied (as a
+- Malbim, on [*asirah*](tying-keshirah-asirah-kafut.html#%D7%90%D7%A1%D7%99%D7%A8%D7%94), tying down without the consent of what is tied (as a
   captive is detained against his will), relates it to *yissurin*, suffering,
   which likewise comes upon a person against his will.
 

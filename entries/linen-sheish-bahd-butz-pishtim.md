@@ -36,7 +36,7 @@ sources:
   - wiaw:11353 "Metzorah/Shabbos HaGadol: Veggies for the Dipping" (2024-04-20) https://articles.ohr.edu/articles/metzorahshabbos-hagadol-veggies-for-the-dipping
   - ms:148-is-cotton-a-type-of-linen.md "Is Cotton a Type of Linen?"
 authorities: [Ralbag, Abarbanel, Rambam, Daas Zekeinim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Zev Lev, Rabbi Moshe Mordechai Schulsinger, Steipler Gaon, Rabbi Dov Landau, Rashi, Professor Edward Yechezkel Kutscher, Sir Godfrey Rolles Driver, Rabbi Saadia Gaon, Ibn Janach, Ibn Ezra, Radak, Rabbi Yosef Nechemias, Targum Rishon, Targum Sheini, Rabbi Ernest Klein, Rabbi Yosef Karo, Rabbi Eliyahu Benamozegh, Rabbi Eliyahu Benamozegh, Avi Hurvitz]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Linen: sheish / bahd / butz / pishtim
 
@@ -88,8 +88,8 @@ The flax plant and the fiber it yields.
 Two readings explain why Yoma 71b has to prove that *sheish* means linen.
 
 - The Steipler Gaon (in a letter to Rabbi Moshe Mordechai Schulsinger, *Mishmar
-  HaLevi*): *sheish* names a **color**, whitish, exactly as *techeiles*,
-  *argaman* and *shni tolaas* in the Mishkan passages name colors and not
+  HaLevi*): *sheish* names a **color**, whitish, exactly as [*techeiles*](blue-sapir-techeiles-kachol.html#%D7%AA%D7%9B%D7%9C%D7%AA),
+  [*argaman*](purple-argaman-segol-lilach.html#%D7%90%D7%A8%D7%92%D7%9E%D7%A0) and *shni tolaas* in the Mishkan passages name colors and not
   materials; tradition supplies that those three are wool, and the Gemara has to
   establish that *sheish* is linen.
 - Rabbi Dov Landau, to the same question: *sheish* is a general term for any
@@ -136,7 +136,7 @@ linen that grows in watery soil like that of a *bitzah*.
 ### cotton (כותנה, צמר גפן)
 Not a Biblical category. Cotton simply did not exist in the ancient Near East,
 so it makes sense that there would be no Biblical word for it. Some linguists
-argue that *karpas* (Esther 1:6) is a loanword from Persian, where it meant a
+argue that [*karpas*](vegetable-yerek-yarok-karpas.html#%D7%9B%D7%A8%D7%A4%D7%A1) (Esther 1:6) is a loanword from Persian, where it meant a
 cotton garment; the Latin *carbasus* and the Greek *karpasos* likewise refer to
 a cotton garment. Beside *chur* and *techeiles* there, *karpas* is fairly
 clearly some sort of fabric, and which sort is disputed.

@@ -25,7 +25,7 @@ words:
 sources:
   - wiaw:10930 "Chair of Thrones" (2023-04-22) https://articles.ohr.edu/articles/chair-of-thrones
 authorities: [Radak, Rabbi Shlomo Pappenheim, Rabbi Avraham Abulafia, Rav Hirsch, Rabbi David Chaim Chelouche, Rabbi Eliyahu HaBachur, Rashi, Rambam, Rabbi Menachem Mendel of Shklov, Rabbi Ernest Klein, Minchas Shai, Chaim Tawil]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Chair: kisse / kisseh / keis / kursa (kathedra)
 
@@ -55,9 +55,9 @@ Mishnah.
 
 - The classical lexicographers take it as the triliteral כ-ס-א.
 - Rabbi Shlomo Pappenheim traces it to the biliteral כ-ס, "covering," which for
-  him also yields *kisui*, *michaseh*, *kesus* (clothing), *kos* (a covered
-  cup), *kis* (a pocket), *meches* (a tax paid into the king's pocket),
-  *nechasim* and *michsah*.
+  him also yields *kisui*, *michaseh*, [*kesus*](clothing-beged-levush-kesus-simlah.html#%D7%9B%D7%A1%D7%95%D7%AA) (clothing), *kos* (a covered
+  cup), *kis* (a pocket), [*meches*](tax-mas-meches.html#%D7%9E%D7%9B%D7%A1) (a tax paid into the king's pocket),
+  [*nechasim*](property-rechush-mikneh-nechasim.html#%D7%A0%D7%9B%D7%A1%D7%99%D7%9E) and *michsah*.
 
 **What the "covering" covers.**
 
@@ -65,7 +65,7 @@ Mishnah.
   (*mukaf*) but something that envelopes (*makif*), Hashem's all-encompassing
   Providence.
 - Rav Hirsch (to Bereishis 41:40) reads it the other way: *kisse* is kin to
-  *kisui*, *katzeh* and *miktzoa*, all about cutting off, so a throne raises a
+  *kisui*, [*katzeh*](corner-peah-keren-zavit-pinah.html#%D7%A7%D7%A6%D7%94) and *miktzoa*, all about cutting off, so a throne raises a
   man above the rest and puts him out of reach. Hirsch gets there through the
   interchange of kaf with kuf, samech with tzadi, and aleph with hei and ayin.
 - Rabbi David Chaim Chelouche similarly explains that the king is set apart,
@@ -118,7 +118,7 @@ for Me? And which is the place of My resting?" (Yeshayahu 66:1).
   HaMikdash is called the seat of Hashem's glory because prophecy issues from
   there.
 - Rabbi Menachem Mendel of Shklov, if Rabbi Klein understood him correctly,
-  similarly connects *kisse* to *ani*, kaf and samech following yud and nun, so
+  similarly connects *kisse* to [*ani*](first-person-anochi-ani.html#%D7%90%D7%A0%D7%99), kaf and samech following yud and nun, so
   that the throne connotes the Selfhood of Hashem rather than what merely
   emanates from Him; he bolsters it by noting that the Aramaic *kursa* shares
   its three letters with *keres*, the Aramaic of *beten*, so that as the *keres*

@@ -19,7 +19,7 @@ sources:
   - wiaw:11831 "Behaaloscha: Chew That" (2025-06-14) https://articles.ohr.edu/articles/behaaloscha-chew-that
   - wiaw:10931 "Showing Teeth" (2023-04-22) https://articles.ohr.edu/articles/showing-teeth
 authorities: [Rashi, Maharsha, Radak, Yonah Ibn Janach, Menachem Ibn Saruk, Mahari Kara, Rabbi Shlomo Pappenheim, Ohr Zarua, Rabbeinu Chananel, Rav Hai Gaon, Rabbi Moshe Tedeschi-Ashkenazi, Shadal, Rema, Ravyah, Rabbi Matzliach Mazuz, Rabbi Meir Mazuz, Rabbi Yitzchak Barda, Rabbi Avi Kobernick, Rabbi Ernest Klein, Rabbi Yaakov Yehudah Zilberberg, Dr. Asher Weiser, Samuel Krauss, Dr. A. Weiss]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Chewing: koses / lo'es
 
@@ -142,7 +142,7 @@ in Targum (to Koheles 12:3); beyond that its origin is obscure.
   teacher Shadal notes there; *malitin*, force-feed, Mishnah *Shabbos* 24:3),
   and relates these roots as well to ל-ע-ס.
 - Rabbi Avi Kobernick (*Hipuch Otiyos*) offers a speculative metathesis of
-  ס-ל-ע, rock: a *sela* is what will not break down, and *lo'es* is precisely
+  ס-ל-ע, rock: a [*sela*](rock-tzur-chalamish.html#%D7%A1%D7%9C%D7%A2) is what will not break down, and *lo'es* is precisely
   breaking down.
 
 ### Are they synonyms?

@@ -19,7 +19,7 @@ words:
 sources:
   - wiaw:7644 "The Beauty of Adar" (2018-02-17) https://articles.ohr.edu/articles/the-beauty-of-adar
 authorities: [Sefer HaKushyos, Rabbi Shlomo of Urbino, Vilna Gaon, Rabbi Moshe Shapiro, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shmuel David Luzzatto, Malbim, Rabbi Simcha Maimon, Sifrei, Rav Hirsch]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Beauty: hod / hadar (adar)
 
@@ -55,7 +55,7 @@ Root ה-ו-ד.
   (Bamidbar 27:20) is no physical gift but the unseeable spiritual beauty Moshe
   passed to Yehoshua. Rabbi Simcha Maimon: hence "the face of Moshe is like the
   sun, the face of Yehoshua like the moon" (Bava Basra 75a), Yehoshua's *hod*
-  being received, as the moon's is. The same root gives *hodaah*, admission and
+  being received, as the moon's is. The same root gives [*hodaah*](praise-hallel-shevach-hodaah-kilus.html), admission and
   thanksgiving: one recognizes what he knows deep down to be true and lets it
   come to the front by saying it aloud, so again *hod* is what lies beneath.
 - Sifrei (Devarim 33:17): *hod* is the quality of kingship, the full
@@ -68,7 +68,7 @@ Root ה-ו-ד.
 Root ה-ד-ר.
 - Vilna Gaon: reflected beauty, the moon's light whose true source is the sun;
   *hadras panim* is the visible beauty of the face.
-- Rabbi Moshe Shapiro: Aramaic *hadar* means "to return", apt for the moon,
+- Rabbi Moshe Shapiro: Aramaic [*hadar*](citron-hadar-etrog-tapuach.html#%D7%94%D7%93%D7%A8) means "to return", apt for the moon,
   which sends back what it receives.
 - Rabbi Mecklenburg citing Shadal: kin to the Aramaic for going backwards, since
   one who beholds a thing in its full glory recoils in awe.
@@ -99,9 +99,9 @@ Klein concludes, between glory and clothing.
 
 ### The wider cluster
 Rabbi Shlomo of Urbino (*Ohel Moed*) lists ten words for beauty: *yofi*, *hod*,
-*hadar*, *adar*, *naeh* (*naaveh*), *ziv*, *ziz*, *tzvi*, *shefer* (*shapir*),
-*tov*. This entry settles only *hod* and *hadar*; *shefer* and *tov* are in the
-*tov* / *noam* / *shapir* entry, *tzvi* in the *ratzon* entry. *Ziv*, radiance,
+*hadar*, *adar*, *naeh* (*naaveh*), [*ziv*](second-month-ziv-iyar.html#%D7%96%D7%95), [*ziz*](breast-shadayim-dadim-atinim.html#%D7%96%D7%99%D7%96), [*tzvi*](will-ratzon-chefetz.html#%D7%A6%D7%91%D7%99), *shefer* (*shapir*),
+[*tov*](good-tov-noam-shapir.html#%D7%98%D7%95%D7%91). This entry settles only *hod* and *hadar*; *shefer* and *tov* are in the
+*tov* / *noam* / *shapir* entry, [*tzvi*](splendor-tzvi-tzivyon-tzava.html#%D7%A6%D7%91%D7%99) in the *ratzon* entry. *Ziv*, radiance,
 is the old name of Iyar.
 
 ## Rendering guidance

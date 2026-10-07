@@ -51,7 +51,7 @@ sources:
   - babel:2020 "Learning to differentiate between apparent synonyms" (2020-05) sources/klein-babel-2020/synonyms-in-language.txt
   - wiaw:11024 "Don't Trample On Me" (2023-07-22) https://articles.ohr.edu/articles/dont-trample-on-me
 authorities: [Vilna Gaon, Malbim, Rabbi Tzvi Hirsch Shlez, Rabbi Shlomo Aharon Wertheimer, Zohar, Rabbi Shlomo Pappenheim, Radak, Rashi, Rabbi Moshe Shapiro, Rabbi Moshe Tedeschi-Ashkenazi]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Path: derech / orach
 
@@ -91,7 +91,7 @@ the Righteous"; *Mesillas Yesharim*, "Paths of the Just"; *Derech Hashem*, "Way
 of God"; *Nesivos Shalom*, "The Lanes of Peace."
 
 ### derech (דרך)
-Root ד-ר-ך, related to *dorech*, to tread, which also means to tread the
+Root ד-ר-ך, related to [*dorech*](trampling-romes-dorech-boss.html#%D7%93%D7%95%D7%A8%D7%9B), to tread, which also means to tread the
 winepress (Yeshayahu 63:2); Rashi (Devarim 33:29): to tread on one's enemies, to
 subdue them underfoot.
 - Vilna Gaon: a *derech* is wide and open to the public.
@@ -136,7 +136,7 @@ intercity road and a *rechov* specifically an intracity one.
 Two distinctions, both drawn against *derech*.
 
 - First, others explain that a *derech* denotes the longer and/or wider road and
-  a *netiv* the shorter and/or narrower one.
+  a [*netiv*](paths-netiv-mesilah-shvil-mishol.html#%D7%A0%D7%AA%D7%99%D7%91) the shorter and/or narrower one.
 - Second, an approach found in the Zohar: a *derech* is open to the public,
   while a *netiv* is for private use and is open only to select individuals.
 

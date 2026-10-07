@@ -30,7 +30,7 @@ sources:
   - wiaw:8816 "Peace and Quiet" (2020-08-08) https://articles.ohr.edu/articles/peace-and-quiet
   - ms:211-peace-and-quiet.md "Peace and Quiet"
 authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Malbim, Rav Hirsch, Ibn Janach, Radak, Rashi, Ibn Ezra, Ramban, Chasam Sofer]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Peace: shalom / shalvah / sheket / shaanan
 
@@ -85,7 +85,7 @@ Shlomo HaMelech, whose very name is a cognate of *shalom*.
 Root ש-ל-ם.
 
 - Pappenheim takes it back to ש-ל, removed or taken away (שַׁל נעליך, Shemos
-  3:5; *sheol*, *shalal*): *shalem* is that from which nothing removed is still
+  3:5; [*sheol*](underworld-gehinnom-sheol-shachat-avadon.html#%D7%A9%D7%90%D7%95%D7%9C), [*shalal*](spoils-shalal-bizah-malkoach.html#%D7%A9%D7%9C%D7%9C)): *shalem* is that from which nothing removed is still
   missing, complete, and *shalom* is having every good needed for prosperity
   with nothing lacking. Elsewhere he defines it as the absence of friction among
   multiple parties; Hashem is *Adon HaShalom* (Maariv of Shabbos) and *Melech
@@ -100,7 +100,7 @@ Root ש-ל-ם.
 ### shalvah (שלוה)
 
 - Root ש-ל-ה, from Pappenheim's ש-ל: the state in which every disturbance has
-  been removed; hence *moshel* and *memshalah*, the rulers whose task is to keep
+  been removed; hence [*moshel*](king-melech-moshel.html#%D7%9E%D7%95%D7%A9%D7%9C) and *memshalah*, the rulers whose task is to keep
   it.
 - Bedersi ranks it with *shalom*.
 - Wertheimer groups the two as total peace.

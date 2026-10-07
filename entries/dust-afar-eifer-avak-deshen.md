@@ -26,7 +26,7 @@ sources:
   - wiaw:8467 "Dirt, Dust and Ashes" (2019-11-09) https://articles.ohr.edu/articles/dirt-dust-and-ashes
   - ms:018-dirt-dust-and-ashes.md "Dirt, Dust, and Ashes"
 authorities: [Netziv, Beis Shammai, Beis Hillel, Zohar, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus, Rabbi Yehuda Leib Edel, Rabbi Shlomo Aharon Wertheimer, Rabbi Eliezer Lipman Lichtenstein, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbeinu Efrayim ben Shimshon, Bartenura]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Dust: afar / eifer / avak / deshen
 
@@ -92,10 +92,10 @@ interchangeable in some contexts.
 Ashes, the product of burning. Rabbi Pappenheim traces it to the biliteral פ-ר,
 "breaking a thing down into smaller components," so *eifer* is matter reduced to
 particles by fire. From the same root he derives *peirurim* (crumbs), *parur* (a
-pot for crumbs and small grains), *pur* (the box for drawing lots, shaped like a
-*parur*), *pri* (fruit, a microcosm of the tree it comes from), *par* and *parah*
+pot for crumbs and small grains), [*pur*](lottery-goral-pur-payis-cholesh.html#%D7%A4%D7%95%D7%A8) (the box for drawing lots, shaped like a
+*parur*), *pri* (fruit, a microcosm of the tree it comes from), *par* and [*parah*](cattle-shor-par-egel-bakar.html#%D7%A4%D7%A8)
 (cattle kept for breeding), *pe'er* and *tiferes* (a beauty that resolves into
-many aspects), *hafarah* (dissolving a vow), *primah* (tearing a garment into
+many aspects), *hafarah* (dissolving a vow), [*primah*](cutting-bokea-korea-gozer.html#%D7%A4%D7%A8%D7%99%D7%9E%D7%94) (tearing a garment into
 shreds), and *tefirah* (sewing, which repairs what *primah* did).
 
 The Netziv reads Avraham's *afar va'eifer* (Bereishis 18:27) as a double disclaimer before tefillah: some tefillos are answered in the

@@ -29,7 +29,7 @@ sources:
   - wiaw:11594 "Toldot: Noble Clothes" (2024-11-30) https://articles.ohr.edu/articles/toldot-noble-clothes
   - wiaw:11856 "Korach: Growing the Fringes (Part 2/2)" (2025-06-28) https://articles.ohr.edu/articles/korach-growing-the-fringes-part-22
 authorities: [Targum Onkelos, Targum Yonasan, Rashi, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Nosson of Rome, Rabbi David Golumb, Rav Hirsch, Rabbi Eliyahu HaBachur, Rabbi Yosef Chaim of Baghdad, Dr. Michael Sokoloff, Dr. Alexander Kohut, David Curwin, Rabbi Dr. Seth Mandel, Rabbi Tanchum HaYerushalmi]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Outer garment: aderes / glima / itztala / tachrich
 
@@ -67,17 +67,17 @@ the Yarden with it (Melachim II 2:8), and Elisha takes up the *aderes* that fell
 from him as the sign of the succession (Melachim II 2:13-14).
 
 Rashi (Zecharyah 13:4) and Ibn Janach and Radak in their respective *Sifrei
-HaShorashim* define *aderes* as a *tallis*, a shawl.
+HaShorashim* define *aderes* as a [*tallis*](fringes-tzitzis-gedilim-petil.html#%D7%98%D7%9C%D7%99%D7%AA), a shawl.
 
-- Radak ties it to the root aleph-dalet-reish, *adir*, greatness and power: the
+- Radak ties it to the root aleph-dalet-reish, [*adir*](strength-koach-gevurah-ometz-chozek.html#%D7%90%D7%93%D7%99%D7%A8), greatness and power: the
   *aderes* displays its wearer's importance.
 - Rabbi Shlomo Pappenheim treats the opening aleph and closing tav as accretions
   and traces the word to the two-letter element dalet-reish, freedom from
-  restraint, whose family he gives as *dror* (emancipation), *dardar* (a thorn
+  restraint, whose family he gives as [*dror*](freedom-cheirus-chofesh-dror.html#%D7%93%D7%A8%D7%95%D7%A8) (emancipation), [*dardar*](thorns-kotz-dardar-sneh-charul.html#%D7%93%D7%A8%D7%93%D7%A8) (a thorn
   growing wild on ownerless ground), *dirah* (a home, where a man may act as he
   wishes), *dor* (a generation, the span of one's residence in this world),
   *medurah* (a bonfire spreading unchecked), *doher* (a horse's neighing when
-  let out to roam), *neder* (an obligation freely self-imposed), and *adir*
+  let out to roam), [*neder*](vow-neder-shevuah-nedavah.html#%D7%A0%D7%93%D7%A8) (an obligation freely self-imposed), and *adir*
   (unrestrained power). He offers two ways to fit the *aderes* into this: either
   it hangs loosely on the body, unlike fitted clothing, or only the *adirim*
   wear it.
@@ -105,18 +105,18 @@ Shabbos 77b expounds *glima* as "made like a *golem*."
   resembles a *golem*.
 
 Rashi's own glosses vary. Once he defines *glima* as *aderes* (Shabbos 10a),
-once as *sudar* (Bava Metzia 47a), in at least one place as *tachrichin*, where
+once as [*sudar*](veil-tzaif-redid.html#%D7%A1%D7%95%D7%93%D7%A8) (Bava Metzia 47a), in at least one place as *tachrichin*, where
 the sugya concerns a corpse's clothing (Shabbos 150b), but in the great majority
 of places as *tallis* (Shabbos 110b, 138b; Eruvin 94a, 96b, 102b; Kesubos 79b;
 Bava Kamma 119b; Bava Metzia 28a, 114b; Bava Basra 128a; Sanhedrin 7a; Chullin
 127a).
 
 Rabbi David Golumb (*Targumna* to Bereishis 49:26) and Rav Hirsch (Vayikra
-13:59; Tehillim 139:16) suggest a connection between *glima* and *klimah*,
+13:59; Tehillim 139:16) suggest a connection between *glima* and [*klimah*](shame-bushah-klimah-cherpah.html),
 humiliation, through the interchange of gimmel and kaf. Rav Hirsch explains: as
 a *golem* lacks shape, so the humiliated man feels stripped of his form, part of
 his humanity taken from him. Rabbi Golumb notes the parallel to Chazal's reading
-of *levush* as *lo bushah*, no shame.
+of [*levush*](clothing-beged-levush-kesus-simlah.html#%D7%9C%D7%91%D7%95%D7%A9) as *lo bushah*, no shame.
 
 - As for the word's outside origins, Dr. Michael Sokoloff, in his dictionary of
   Jewish Babylonian Aramaic, relates *glima* to an apparent Akkadian cognate
@@ -164,7 +164,7 @@ standing for the duties of the role; he lists as further English parallels
 *defrocking* (from *frock*).
 
 ### tachrich (תכריך)
-Mordechai is dressed in a *tachrich* of *butz* and *argaman* (Esther 8:15). The
+Mordechai is dressed in a *tachrich* of [*butz*](linen-sheish-bahd-butz-pishtim.html#%D7%91%D7%95%D7%A6) and [*argaman*](purple-argaman-segol-lilach.html#%D7%90%D7%A8%D7%92%D7%9E%D7%A0) (Esther 8:15). The
 root kaf-reish-kaf means to wrap or surround, and gives Rabbinic *krach*, a
 walled city, and Modern Hebrew *karich*, a wrap. Targum to Esther 8:15 renders
 *tachrich* as *glima*, another garment one wraps around oneself. In Rabbinic

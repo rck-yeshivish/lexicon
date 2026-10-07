@@ -31,7 +31,7 @@ sources:
   - wiaw:11580 "Lech Lecha: The Princess' Gaze (Part 1/2)" (2024-11-09) https://articles.ohr.edu/articles/lech-lecha-the-princess-gaze-part-12
   - wiaw:11581 "Vayera: The Princess' Gaze (Part 2/2)" (2024-11-16) https://articles.ohr.edu/articles/vayera-the-princess-gaze-part-22
 authorities: [Rashi, Rabbi Shlomo Pappenheim, Maharal, Maharsha, Abarbanel, Rabbi Shlomo Astruc, Rabbi David Luria, Rabbi Shmuel David Luzzatto, Kli Yakar, Rav Hirsch, Rabbeinu Nissim, Baal HaTurim, Peirush HaRokeach, Rabbeinu Efrayim bar Shimshon, Ibn Ezra, Rabbi Avraham Abba Herczl, Rabbi Shabsai Bass, Rabbi Eliyahu Benamozegh, Rabbi Yaakov Emden, Rabbi Yosef Chaim of Baghdad, Rabbi Aharon Marcus, Chasam Sofer, Rabbi Eliyahu HaBachur, Septuagint, Philo of Alexandria, Josephus, Dr. Alexander Kohut, Rabbi Shaul Goldman, Rabbi Yosef Kerman, Professor Grant W. Smith]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Princess: Sarai / Sarah / Yiscah
 
@@ -61,7 +61,7 @@ identification.
 ### sar (שר) and serarah (שררה)
 The base word: prince, officer, minister. Rabbi Shlomo Pappenheim (*Cheshek
 Shlomo*) traces it, sin and samech interchanging, to the two-letter ס-ר,
-removal, and to its branch *asirah*, imprisonment, which removes a man's freedom
+removal, and to its branch [*asirah*](tying-keshirah-asirah-kafut.html#%D7%90%D7%A1%D7%99%D7%A8%D7%94), imprisonment, which removes a man's freedom
 to move; a *sar* is so called because his authority limits how those under him
 may move and act. The abstract noun *serarah*, rulership, is the word Philo and Rashi use
 in explaining the name Sarah.
@@ -139,7 +139,7 @@ Rabbi Shmuel David Luzzatto (to Bereishis 11:29) doubt the identification.
 
 - On the name itself, the Gemara gives two readings, both seemingly from ס-כ-ה,
   to gaze in Rabbinic Hebrew (a root Rabbi Eliyahu HaBachur's *Meturgeman* shows
-  the Targumim using to render *habatah*, *hashkafah*, *tzofeh*, *shur* and
+  the Targumim using to render *habatah*, *hashkafah*, [*tzofeh*](seeing-raah-hibit-tzofeh.html#%D7%A6%D7%95%D7%A4%D7%94), *shur* and
   *hover*): she gazed (*sachta*) with ruach hakodesh, or all gazed (*sachin*) at
   her beauty.
 - Dr. Alexander Kohut (*Aruch HaShalem*) likewise connects that root to the

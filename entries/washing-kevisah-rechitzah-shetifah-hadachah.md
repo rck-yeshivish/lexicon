@@ -34,7 +34,7 @@ words:
 sources:
   - wiaw:9544 "Laundering and Cleaning" (2022-01-22) https://articles.ohr.edu/articles/laundering-and-cleaning
 authorities: [Rashi, Rambam, Radak, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi, Menachem Ibn Saruk, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Shlomo HaKohen of Vilna, Netziv, Sefer HaShem, Pesikta Rabbasi]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Washing: kevisah / rechitzah / shetifah / hadachah / merikah (kinuach)
 
@@ -78,7 +78,7 @@ only, is **wiping**. Vayikra 6:21 (*merikah*, *shetifah*) and Yeshayahu 4:4
   a surface, *kevisah* drives the water through and through, as it must with
   cloth.
 - Rabbi Aharon Marcus (1843 to 1916) theorizes that כ-ב-ס means both launder and
-  young sheep (*keves*), alluding to the washing of the sheep's wool. He further
+  young sheep ([*keves*](sheep-and-goats-seh-keves-ayil-eiz.html#%D7%9B%D7%91%D7%A9)), alluding to the washing of the sheep's wool. He further
   relates *rachel*, ewe, to *rechitzah*, since Hebrew lamed apparently becomes
   tzadi in Akkadian, in allusion to the same process, and finds a hint in Shir
   HaShirim 6:6, which uses both words in one pasuk. Rabbi Klein writes that he
@@ -94,7 +94,7 @@ have been for cleanliness alone.
   Onkelos, who renders *v'chibsu* as *v'yichavrun*, "they shall whiten," not his
   usual rendering for laundering that purifies.
 - The Netziv (Rabbi Naftali Tzvi Yehudah Berlin, 1817 to 1893) makes the same
-  point, adding that the pasuk says *simlah*, not *beged*, implying outer
+  point, adding that the pasuk says [*simlah*](clothing-beged-levush-kesus-simlah.html#%D7%A9%D7%9E%D7%9C%D7%94), not *beged*, implying outer
   clothes only; tumah would not stop at the outer layer, so he infers that this
   was laundering in honor of the day.
 

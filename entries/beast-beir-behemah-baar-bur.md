@@ -34,7 +34,7 @@ sources:
   - wiaw:9126 "Vayakhel/Pekudei: Animal Sounds" (2021-03-13) https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds
   - ms:134-boorish-animals.md "Boorish Animals"
 authorities: [Rabbi Yonah Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehudah Aryeh of Carpentras, Rashi, Rav Hirsch, Rabbi Yehuda Leib Edel, Malbim, Rabbi Eliyahu HaBachur, Rabbi Dr. Asher Weiser, Tashbetz, Bartenura, Rabbi Yaakov Yechiel Weinberg, Rabbi David Chaim Chelouche, Rabbi Shlomo Yehuda Rapoport, Rabbi Shet bar Yefet, Mitchell First, Hillel Halkin, Rabbi Aharon Marcus, Pri Megadim]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Beast and boor: be'ir / behemah / chayah / ba'ar / bur
 
@@ -154,7 +154,7 @@ parses as a metathesized form of *boel* and Beor as a form of *be'ir* (*Meor
 Ha'Afeilah* to Bamidbar 22:2; *Yad Ramah* to Sanhedrin 105a).
 
 ### behemah (בהמה) and chayah (חיה)
-- Rav Hirsch: *behemah* is related to *bamah*, an elevation or platform, since
+- Rav Hirsch: *behemah* is related to [*bamah*](altar-mizbeach-matzeivah-bamah.html#%D7%91%D7%9E%D7%94), an elevation or platform, since
   the animal subservient to man carries his menial work and so lifts him toward
   loftier things; alternatively animals are the lower rung of life, figuratively
   trodden upon by their servility to man, and he compares ב-ה-ם to פ-ע-ם,

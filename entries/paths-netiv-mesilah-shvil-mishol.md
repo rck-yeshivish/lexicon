@@ -35,7 +35,7 @@ sources:
   - wiaw:7917 "On the Straight and Narrow" (2018-09-01) https://articles.ohr.edu/articles/on-the-straight-and-narrow
   - ms:334-ways-and-means.md "Ways and Means"
 authorities: [Rabbi Meshullam, Rabbeinu Bachya, Vilna Gaon, Malbim, Zohar, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Rabbi Moshe Shapiro, Rav Hirsch]
-updated: 2026-09-24
+updated: 2026-10-06
 ---
 # Paths: netiv / rechov / mesilah / maagal / mishol / shvil
 
@@ -120,11 +120,11 @@ of the foot (Melachim I 20:10, Yeshayahu 40:12), so a footpath.
   and reads it as the track foxes cut through a vineyard as they partially
   destroy it (Shir HaShirim 2:15).
 - Rav Hirsch (to Devarim 32:24, on *zochalei afar*): in the language of Chazal
-  *zachal* is the slow flow of water along the ground, whence *mazchilah*, a
+  [*zachal*](trembling-chil-dachil-zachal.html#%D7%96%D7%97%D7%9C) is the slow flow of water along the ground, whence *mazchilah*, a
   roof's gutter (Eruvin 99b), and so the motion of a snake going on its belly.
   Perhaps close to it are *sho'al* (Melachim I 20:10), the sole of the foot;
   *mishol hakeramim* (Bamidbar 22:24), a narrow path no wider than the sole of a
-  foot, on which one can walk only step by step; and *shual* and *shachal*,
+  foot, on which one can walk only step by step; and *shual* and [*shachal*](lion-aryeh-kfir-lavi-layish.html#%D7%A9%D7%97%D7%9C),
   animals that slip through and pass along *misholim* (and see his commentary to
   Bamidbar 22:24).
 
@@ -139,7 +139,7 @@ of the foot (Melachim I 20:10, Yeshayahu 40:12), so a footpath.
 - Pappenheim gives the same explanations and supports them from a clever
   observation: *eikev* means both heel and "because," and on the strength of
   that double meaning the Rabbis took *shvil*, the road of ankles or heels, the
-  same way, giving *bishvil*, "for the sake of."
+  same way, giving [*bishvil*](because-baavur-biglal-bishvil.html#%D7%91%D7%A9%D7%91%D7%99%D7%9C), "for the sake of."
 
 ## Rendering guidance
 

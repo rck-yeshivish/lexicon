@@ -24,7 +24,7 @@ sources:
   - wiaw:8563 "My Dear Deer" (2020-01-18) https://articles.ohr.edu/articles/my-dear-deer
   - ms:095-my-dear-deer.md "My Dear Deer"
 authorities: [Rashi, Radak, Ritva (Rabbi Yom Tov of Seville), Ibn Ezra, Ralbag, Rav Saadia Gaon, Targum, Rabbeinu Gershom, Rabbi Nosson of Rome, Rabbi Eliyahu HaBachur (Elias Levita), Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rav Hirsch, Rabbi Chaim Friedlander, Midrash Shocher Tov, Rabbi Eliyahu Benamozegh, Michelangelo Lanci]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Root צ-ב (splendor, desire, consent, army): tzvi / tzivyon / tzava
 
@@ -52,11 +52,11 @@ plain reading, and "the Land of the Deer" in the derashos of Chazal.
 
 - Rashi (to Yeshayahu 4:2): beauty.
 - Radak (there, and to Yeshayahu 13:19): desire and glory, Bavel being the
-  *tzvi* of kingdoms as the most desired place and the pride of the Chaldeans.
+  [*tzvi*](will-ratzon-chefetz.html#%D7%A6%D7%91%D7%99) of kingdoms as the most desired place and the pride of the Chaldeans.
 
 At Yechezkel 7:20, where the people took the "*tzvi* of Hashem's ornament," the
 Beis HaMikdash, and turned it into an abominable place of idolatry: Targum
-renders *tzvi* there as *chedvah*, "delight," and Radak as *pe'er* and *yofi*.
+renders *tzvi* there as [*chedvah*](joy-simchah-sasson-gilah.html#%D7%97%D7%93%D7%95%D7%94), "delight," and Radak as *pe'er* and *yofi*.
 At Yirmiyahu 3:19, the "heritage of *tzvi*," Targum again has "delight" and
 Radak an expression of desire.
 
@@ -94,7 +94,7 @@ Kingdom of Israel has withered (Yeshayahu 28:1, 28:4), while Hashem remains an
 *ateres tzvi* for the righteous remnant (28:5). The Land bears three parallel
 titles of desire: *eretz chefetz* (Malachi 3:12), *eretz chemdah* (Yirmiyahu
 3:19; Zecharyah 7:14; Tehillim 106:24), and *eretz hatzvi* (Daniel 11:16,
-11:41). Since *chefetz* and *chemdah* are forms of desire, so is *tzvi*.
+11:41). Since [*chefetz*](desire-taavah-chemdah.html#%D7%97%D7%A4%D7%A6) and *chemdah* are forms of desire, so is *tzvi*.
 
 ### tzvi as deer (צבי)
 The kosher wild animal of Devarim 14:5.
@@ -118,7 +118,7 @@ means "good," goodness being something both desirable and beautiful.
 - Rabbi Shlomo Pappenheim takes the root as "standing" (Bereishis 24:13; Shemos
   2:4; Devarim 29:9). *Yatziv* stands on established bases; *tzvi* as desire is
   what remains in a man's thoughts as though constantly standing before him. He
-  derives with these: *matzeivah*, a monument erected to mark a tomb or a cultic
+  derives with these: [*matzeivah*](altar-mizbeach-matzeivah-bamah.html#%D7%9E%D7%A6%D7%91%D7%94), a monument erected to mark a tomb or a cultic
   place of idolatry; *tzava*, a standing army ready to take orders, as against a
   more haphazard militia that has to be assembled; *tzavah*, the act of bloating
   (Bamidbar 5:21-22), since something swollen and distended is less likely to

@@ -36,7 +36,7 @@ sources:
   - wiaw:8846 "A Basket Case" (2020-09-05) https://articles.ohr.edu/articles/a-basket-case
   - wiaw:10020 "A Basket Case" (2022-09-17) https://articles.ohr.edu/articles/a-basket-case-2
 authorities: [Rav Hirsch, Rabbi Aharon Marcus, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Ernest Klein, Rabbi David Chaim Chelouche, Rabbi Tanchum HaYerushalmi, Rashi, Rashbam, Rabbeinu Gershom, Targum Onkelos, Chaim Tawil]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Basket: tene / sal / keluv
 
@@ -64,14 +64,14 @@ Modern Hebrew made it a **cage**. *Dud* is a basket or a pot by context, and
 
 **What the root ס-ל means.**
 - Rav Hirsch (to Bamidbar 19:20; Tehillim 3:3): *sal* is literally "to lift," a
-  basket being what helps a man lift and carry, and he places *sulam*, *solelah*
-  (a siege mound) and *mesilah* (a road that climbs) in the same ס-ל family.
-  Rabbi Aharon Marcus's theory of *sela* fits this: he proposed that in every
+  basket being what helps a man lift and carry, and he places [*sulam*](level-madreigah-maalah-sulam.html#%D7%A1%D7%95%D7%9C%D7%9E), *solelah*
+  (a siege mound) and [*mesilah*](path-derech-orach.html#%D7%9E%D7%A1%D7%99%D7%9C%D7%94) (a road that climbs) in the same ס-ל family.
+  Rabbi Aharon Marcus's theory of [*sela*](rock-tzur-chalamish.html#%D7%A1%D7%9C%D7%A2) fits this: he proposed that in every
   word whose root is the biliteral ס-ל the samech stands in for an ayin that
   follows it, so the root is really ע-ל, what is above (*al*, *lemalah*) or
-  ascends (*oleh*, *aliyah*), and *sela* is a rock that comes up out of the
+  ascends (*oleh*, *aliyah*), and [*sela*](rock-even-sela.html#%D7%A1%D7%9C%D7%A2) is a rock that comes up out of the
   ground.
-- Rabbi Shlomo Pappenheim reads ס-ל as repeated action instead: *mesilah* is a
+- Rabbi Shlomo Pappenheim reads ס-ל as repeated action instead: [*mesilah*](paths-netiv-mesilah-shvil-mishol.html#%D7%9E%D7%A1%D7%99%D7%9C%D7%94) is a
   road because many have trodden it, and one who twists his hair over and over
   is *misalsel* (Rosh Hashanah 26b), so *sal* is a bread basket, an item in
   constant daily use (Bereishis 40:16, Vayikra 8:2). Pappenheim himself admits
@@ -83,7 +83,7 @@ Modern Hebrew made it a **cage**. *Dud* is a basket or a pot by context, and
 **Where tene comes from.**
 - Rabbi Pappenheim: the aleph is not root, the root being ט-ן, and the word
   names a basket typically woven with gaps so that air reaches the fruit and
-  keeps it from spoiling; from the same root he takes *eitun* (Mishlei 7:16),
+  keeps it from spoiling; from the same root he takes [*eitun*](rope-chevel-chut-avot.html#%D7%90%D7%98%D7%95%D7%A0) (Mishlei 7:16),
   cloth woven loosely enough to breathe, and Rabbi Yaakov Tzvi Mecklenburg adds
   that the ט-ן in *shaatnez* likewise carries weaving.
 - Rabbi Aharon Marcus keeps the link to *eitun* but holds both are of Egyptian

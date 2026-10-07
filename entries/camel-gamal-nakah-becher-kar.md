@@ -31,7 +31,7 @@ sources:
   - wiaw:11619 "Vayishlach: Go Camel" (2024-12-14) https://articles.ohr.edu/articles/vayishlach-go-camel
   - ms:053-go-camel.md "Go Camel"
 authorities: [Menachem Ibn Saruk, Rav Hirsch, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yitzchak Avineri, Radak, Rabbi Shlomo Pappenheim, Rashi, Ibn Janach, Rabbi Saadia Gaon, Ibn Ezra, Rabbi Yehudah Ibn Balaam, Rabbi Tanchum HaYerushalmi, Rabbi Shlomo Ibn Parchon, Rabbi Yosef Kimchi, Rabbi Yosef Bechor Shor, Rabbi Nosson of Rome, Mahari Kara, Targum, Rabbi Ernest Klein, Rabbi Aharon Marcus, Avraham Even-Shoshan, Michael Sokoloff, Kli Yakar, David Clines]
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 # Camel: gamal / nakah / becher / kar
 
@@ -83,7 +83,7 @@ a young camel.
   from the saddle the name passed to the animal.
 - Ibn Janach (*Sefer HaShorashim*) makes *kar* a young camel outright.
 - Radak (*Sefer HaShorashim*) cites his father Rabbi Yosef Kimchi that *kar* is
-  a *keves*, a young sheep, not a camel at all.
+  a [*keves*](sheep-and-goats-seh-keves-ayil-eiz.html#%D7%9B%D7%91%D7%A9), a young sheep, not a camel at all.
 - Rabbi Shlomo Pappenheim leaves the camel aside and ties *kar* to כ-ר, digging:
   a *kar* is a fertile field, marked out by ditches dug round it, and *karim*
   are the fattened animals that graze there.
@@ -123,7 +123,7 @@ All four are live.
 - Rabbi Yehudah Aryeh of Carpentras (*Aholei Yehudah*) offers several
   etymologies; the best, to Rabbi Klein, is a compound: *gav* (body, inside)
   plus *maleh* (full), the beast that fills itself before a long crossing. Rabbi
-  Klein finds the other three less compelling: from *gamad* (a dwarf, the
+  Klein finds the other three less compelling: from [*gamad*](short-gamad-namuch-gutz-nanas.html#%D7%92%D7%9E%D7%93) (a dwarf, the
   camel's opposite), from *gav* plus *mal* (he notes it is unclear whether
   *Aholei Yehudah* means "cut" or "speaking"), and from *giben* (humpbacked) on
   the interchange of mem with beis and lamed with nun. *Aholei Yehudah* also

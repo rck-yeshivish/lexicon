@@ -28,7 +28,7 @@ sources:
   - wiaw:7396 "Elul 1: Trends in Time" (2017-09-02) https://articles.ohr.edu/articles/elul-1-trends-in-time
   - ms:204-trends-in-time.md "Trends in Time"
 authorities: [Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Maharal of Prague, Malbim, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Moshe Isserles, Rabbi Yaakov Emden, Targumim, Shadal]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Time: eit / zman / moed / shaah
 
@@ -122,7 +122,7 @@ Root ע-ת.
   time, how long a thing lasts (explained under the root זם); *moed* is one
   thing's being at the time of another, from *va'ad*, and answers when (under
   עד); *eis* is the sequence of time, one thing after another, and also answers
-  when. As *atah*, you, the one present, comes from *es*, the sign of the
+  when. As [*atah*](now-atah-na-achshav.html#%D7%A2%D7%AA%D7%94), you, the one present, comes from *es*, the sign of the
   object, so *atah*, now, the present time, comes from *eis*.
 - Others: *zman* is a span, *eit* a point within it.
 - Wertheimer: *eit* is somewhat more specific than *zman*, less so than *moed*.

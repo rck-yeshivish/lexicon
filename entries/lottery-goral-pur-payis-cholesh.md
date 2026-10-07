@@ -37,7 +37,7 @@ sources:
   - wiaw:10974 "Shelach: Learning the Ropes" (2023-06-10) https://articles.ohr.edu/articles/shelach-learning-the-ropes
   - ms:167-playing-the-lottery.md "Playing the Lottery"
 authorities: [Maharitatz (Rabbi Yom Tov Tzahalon), Rabbi Yaakov Lorberbaum of Lissa, Midrash Lekach Tov, Rashbam, Ibn Ezra, Ramban, Rabbi Yosef ben Yosef Ibn Nachmias, Rabbi Shlomo Pappenheim, Tosafos Yom Tov, Meiri, Sefer HeAruch, Rabbi Shlomo HaAdani (Meleches Shlomo), Rabbi Yosef Yishai Rain, Rabbi Levi Yitzchak of Berditchev]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Lottery: goral / pur / payis / cholesh
 
@@ -102,10 +102,10 @@ Two dissenting lines.
 
 Rabbi Shlomo Pappenheim mentions the authorities who call *pur* Persian and
 disagrees with them: *pur* is Hebrew, from the biliteral פ-ר,
-"breaking something down into smaller components": *perurim* (crumbs), *eifer*
+"breaking something down into smaller components": *perurim* (crumbs), [*eifer*](dust-afar-eifer-avak-deshen.html#%D7%90%D7%A4%D7%A8)
 (ash), *parur* (a pot for crumbs and small grains), *pri* (fruit, a microcosm
 broken off the tree), *pe'er* and *tiferes* (an all-encompassing beauty that
-breaks down into aspects), *hafarah* (nullifying a vow), *primah* (tearing a
+breaks down into aspects), *hafarah* (nullifying a vow), [*primah*](cutting-bokea-korea-gozer.html#%D7%A4%D7%A8%D7%99%D7%9E%D7%94) (tearing a
 garment into shreds), and *tefirah* (sewing, which repairs what *primah* did).
 On his reading a *pur* is the box shaped like a *parur* into which the wooden or
 stone lots were put; in Mishnaic Hebrew that box is the *kalpi*.
@@ -149,7 +149,7 @@ a word derived from the Greek *kalpe* / *kalpis*, an urn used for
 drawing lots; in Modern Hebrew it is the ballot box at government elections. *Chevel* ("portion") is a synonym of
 *goral*; the Midrash (*Yalkut Shimoni*, Shemos §265, and *Pesikta d'Rav Kahana*
 §3:1) counts four words for lots in Tanach, *cholesh*, *pur*, *goral* and
-*chevel*, and says all four will be used against the sons of Eisav: *cholesh*
+[*chevel*](rope-chevel-chut-avot.html#%D7%97%D7%91%D7%9C), and says all four will be used against the sons of Eisav: *cholesh*
 when Yehoshua weakened Amalek (*vayachalosh*, Shemos 17:13), *pur* and *goral*
 in the Purim victory, and in time to come a *chevel*, since the birthpangs of the
 Messianic arrival are called *chevlei leidah* (Hoshea 13:13). Rabbi Shlomo

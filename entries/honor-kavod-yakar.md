@@ -18,7 +18,7 @@ words:
 sources:
   - wiaw:11724 "Ki Sisa/Purim: Heavy Honors" (2025-03-15) https://articles.ohr.edu/articles/ki-sisapurim-heavy-honors
 authorities: [Rabbi Eliyahu HaBachur, Rabbi Yehudah Aryeh of Carpentras, Rabbi Shlomo Pappenheim, Malbim, Rabbi Avraham Vilner, Rabbi Benzion Meir Chai Uziel, Rabbi Baruch HaLevi Epstein, Rabbi Yosef Shaul Nathansohn, Yad Ramah, Maharsha, Aruch L'Ner, Rabbi Efrayim Zalman Margulies, Sfas Emes, Rabbi Zvi Hirsch Chajes, Rabbi Eliezer Harstik, Rabbi Naftali Maskileison, Rabbi Dr. Ephraim Kanarfogel]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Honor: kavod / yakar
 
@@ -107,7 +107,7 @@ Sanhedrin 38b). Rabbi Uziel (glosses to Megillah 9a) objects to that reading of
 Sanhedrin: *yakar* exists in Hebrew too, where it means "precious." *Yad Ramah*
 himself offers an alternative elucidation of the sugya, that the Gemara's proof
 was from *re'echa*, "Your thoughts," which he takes as a cognate of the Aramaic
-*ra'ayon*, "idea."
+[*ra'ayon*](thought-machshavah-hirhur-raayon.html#%D7%A8%D7%A2%D7%99%D7%95%D7%A0), "idea."
 
 Why the Amora chose 1:20 and not 1:4, where *yikar* already appears:
 

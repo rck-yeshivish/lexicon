@@ -25,7 +25,7 @@ words:
 sources:
   - wiaw:9275 "Flour Power" (2021-07-03) https://articles.ohr.edu/articles/flour-power
 authorities: [Rashi, Rashbam, Ibn Ezra, Radak, Rabbeinu Yonah Ibn Janach, Menachem Ibn Saruk, Donash Ibn Labrat, Ibn Sheshes, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Yehudah Aryeh of Carpentras]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Flour: kemach / soles
 
@@ -109,8 +109,8 @@ the *soles*. Rashi (Bava Metzia 87a) states plainly that *soles* is better than
 mixed dough left in Eretz Yisrael.
 
 Rabbi Shlomo Pappenheim traces *soles* to the biliteral ס-ל, repeated action:
-*mesilah* is a road much trodden, *misalsel* (Rosh Hashanah 26b) is one who
-twists his hair over and over, and *sal* is the bread basket (Bereishis 40:16,
+[*mesilah*](path-derech-orach.html#%D7%9E%D7%A1%D7%99%D7%9C%D7%94) is a road much trodden, *misalsel* (Rosh Hashanah 26b) is one who
+twists his hair over and over, and [*sal*](basket-tene-sal-keluv.html#%D7%A1%D7%9C) is the bread basket (Bereishis 40:16,
 Vayikra 8:2), in daily use. So, he proposes, *soles* is either the flour precious enough to
 be kept in a *sal* rather than dumped in a sack like *kemach*, or the flour
 named for the repeated pressing and grinding that produces it.

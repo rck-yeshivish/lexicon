@@ -25,7 +25,7 @@ sources:
   - wiaw:10820 "Yisro: Murder He Wrote" (2023-02-11) https://articles.ohr.edu/articles/yisro-murder-he-wrote
   - ms:127-murder-he-wrote.md "Murder He Wrote"
 authorities: [Rashbam, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi, Abarbanel, Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Galblum, Rabbi Nathan Adler, Menachem Ibn Saruk, Rashi, Targum Onkelos, Sefer Yeraim, Sefer HaChochmah, Rabbi Aharon Marcus, Rabbi Yaakov Berger, Ohr Chadash]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Murder: retzichah / harigah / ketilah
 
@@ -132,14 +132,14 @@ Root ה-ר-ג.
 
 - Rabbi Pappenheim traces it to the biliteral ר-ג, subduing something completely
   by closing or choking it off, since the killer subdues his victim in the most
-  absolute way there is; from the same root he takes *regimah*, stoning, and
+  absolute way there is; from the same root he takes [*regimah*](stoning-sekilah-regimah.html#%D7%A8%D7%92%D7%99%D7%9E%D7%94), stoning, and
   *arigah*, weaving.
 - Rav Hirsch (to Shemos 35:25) hints at the same *harigah*/*arigah* link, and
   (to Bereishis 30:27) connects ה-ר-ג with ע-ר-ג, "desiring/yearning".
 - *Ohr Chadash* (to Bamidbar 14:10): the base of the root *harag* is ר-ג, and
   reversed it is the root *arag*.
 - Rabbi Aharon Marcus takes the ר-ג family further, to *regev* (a clump of
-  dirt), *regel* (foot), *rogez* (anger) and *regesh* (feeling), all of them
+  dirt), [*regel*](foot-paam-regel.html#%D7%A8%D7%92%D7%9C) (foot), [*rogez*](trembling-raadah-retet-raash.html#%D7%A8%D7%92%D7%96) (anger) and *regesh* (feeling), all of them
   bound up, in one way or another, with subduing, conquering or trampling.
 
 ### ketilah (קטילה)

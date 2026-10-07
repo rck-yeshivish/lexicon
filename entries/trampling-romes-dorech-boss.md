@@ -26,7 +26,7 @@ words:
 sources:
   - wiaw:11024 "Don't Trample On Me" (2023-07-22) https://articles.ohr.edu/articles/dont-trample-on-me
 authorities: [Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Shlomo Ibn Parchon, Rabbi Yosef Kimchi, Radak, Ramban, Rashi, Rav Hirsch, Malbim, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Shlomo Pappenheim, Ibn Chayyuj, Rabbi Yisroel Zev Horowitz, Oxford English Dictionary]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Trampling: romes / dorech / boss (remes)
 
@@ -85,7 +85,7 @@ Saruk, Ibn Janach, Ibn Parchon, Radak) trace *romes* to ר-מ-ס.
   trampling the courtyard, their presence rendering it purposeless.
 - Rabbi Moshe Tedeschi-Ashkenazi (*Otzar Nirdafim*) instead relates both words
   to the ground being walked on, each time by ignoring one letter of the root:
-  *derech* from *rach*, soft ground that a man treads into a path for others,
+  [*derech*](path-derech-orach.html#%D7%93%D7%A8%D7%9B) from *rach*, soft ground that a man treads into a path for others,
   *romes* from *ram*, ground higher than usual, which needs more force to stomp
   flat and fashion a path.
 
@@ -99,7 +99,7 @@ Both readings stand.
   on and usually walked on, *boss* on something not necessarily already destined
   to be trodden on, so that the act registers the walker's feeling that it is
   not important enough to avoid stepping on.
-- Tedeschi expresses a similar sentiment, relating *boss* to *boz*/*bizayon* by
+- Tedeschi expresses a similar sentiment, relating *boss* to *boz*/[*bizayon*](disgrace-bizayon-kalon-zilzul-gnai.html#%D7%91%D7%96%D7%99%D7%95%D7%A0) by
   the interchange of samech and zayin: stepping on something to show disgust
   with it and besmirch it.
 
@@ -137,7 +137,7 @@ Words related to *boss* appear a little over ten times: Yeshayahu 14:19, 14:25,
   its aleph extraneous: an owner fills it hoping the animal will overeat and
   fatten, and the animal often ends up stepping on the leftover food,
   disregarding its importance (he contrasts people, who store leftovers for a
-  later meal). And Rabbinic *basis*, a base or pedestal (Shabbos 47a, 117a,
+  later meal). And Rabbinic [*basis*](platform-kan-duchan-bimah-basis.html#%D7%91%D7%A1%D7%99%D7%A1), a base or pedestal (Shabbos 47a, 117a,
   120b, 125b, 142a; Pesachim 83a; Avodah Zarah 8b; Chullin 125a), the bottom
   part on which the rest of the object rests, like the ground that is trodden
   with something more significant on top of it.

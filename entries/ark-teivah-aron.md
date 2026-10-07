@@ -21,7 +21,7 @@ sources:
   - wiaw:9405 "Words for Words" (2021-10-23) https://articles.ohr.edu/articles/words-for-words
   - ms:011-a-tale-of-two-arks.md "A Tale of Two Arks"
 authorities: [Rabbi Aharon Marcus, Ibn Janach, Radak, Rav Hirsch, Ibn Ezra]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Ark: teivah / aron
 
@@ -64,7 +64,7 @@ temporary domicile.
 
 Ibn Ezra (to Bereishis 6:14): Noach's ark was an ark and not a boat, which is
 why it is called a *teivah*, a chest. It was not shaped like a boat, so the
-pasuk does not call it a *sefinah* or an *oniyah*, and it had no oars, so it is
+pasuk does not call it a [*sefinah*](boats-oniah-sefinah-rafsodah.html#%D7%A1%D7%A4%D7%99%D7%A0%D7%94) or an *oniyah*, and it had no oars, so it is
 not a *shayit*.
 
 ### aron (ארון)
@@ -79,7 +79,7 @@ public fast day, and another Mishnah (Megillah 3:1) rules that the proceeds of a
 sold shul may buy only a *teivah* or something holier than a *teivah*. The
 commentators discuss whether that *teivah* is the shul's Holy Ark, which houses
 the Sifrei Torah, or the table on which a Sefer Torah is laid to be read, known
-as the *bimah*; either way it is neither afloat nor holding a living person, which
+as the [*bimah*](platform-kan-duchan-bimah-basis.html#%D7%91%D7%99%D7%9E%D7%94); either way it is neither afloat nor holding a living person, which
 defeats the definitions offered above. The Talmud
 Yerushalmi (Shekalim 6:1) goes further: the *Aron HaBris* was built of three
 *teivos*, two of gold and one of wood nested so that every exposed surface was

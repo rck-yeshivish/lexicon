@@ -35,7 +35,7 @@ sources:
   - wiaw:9473 "Wake-up Time" (2021-12-04) https://articles.ohr.edu/articles/wake-up-time
   - ms:025-the-man-with-enough-light.md "The Man with Enough Light"
 authorities: [Rabbi Shlomo Pappenheim, Shoresh Yesha, Zohar, Rabbi Mordechai HaKohen of Tzfas, Kli Yakar, Rashbam, Malbim, Shadal, Rav Hirsch, Rabbi Yehoshua Trunk of Kutna, Rabbi Shmuel Borenstein of Sochatchov, Rabbi Yehoshua Steinberg, Immanuel Vilkovsky, Fred Rosner, Evyatar Cohen, Chaim Tawil]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Blindness: iver / suma / sagi nahor / sanverim
 
@@ -71,7 +71,7 @@ crowding Lot's door, and twice at Melachim II 6:18.
 - **Shadal**: a contraction of *sonei ohr*, "hater of light," an
   over-sensitivity to light (photophobia); the term primarily names one who
   cannot tolerate light and was borrowed to mean blindness.
-- **Rav Hirsch**: *sneh*, a thorn, with *ohr*, a blind man as though his eye had
+- **Rav Hirsch**: [*sneh*](thorns-kotz-dardar-sneh-charul.html#%D7%A1%D7%A0%D7%94), a thorn, with *ohr*, a blind man as though his eye had
   been poked with a thorn.
 - **Rabbi Yehoshua Trunk of Kutna**: multiplied vision, seeing not double but
   many (the medical term is polyplopia), leaving the men at Lot's

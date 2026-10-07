@@ -20,7 +20,7 @@ sources:
   - wiaw:8257 "Boys and Bars" (2019-05-25) https://articles.ohr.edu/articles/boys-and-bars
   - ms:227-boys-and-bars.md "Boys and Bars"
 authorities: [Malbim, Rabbi Yaakov Margolis, Maharshal, Maharik, Rema, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Meir Simcha of Dvinsk, Rabbi David Ovadiah, Rabbi Alexander Sender Feuerstein, Rabbi Meir Mintzberg, Rabbi Yehuda ben Kalonymos of Speyer, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Son: ben / bar
 
@@ -46,9 +46,9 @@ that second sense a lesson for the *bar mitzvah* boy.
 The Hebrew word, and the word of Tanach. Rabbi Shlomo Pappenheim of Breslau
 (1740-1814) traces it, as is his way, to the two-letter root ב-ן, building and
 producing: children are produced from their parents' marriage. From the same
-root he brings *binyan* (building), the building materials *even* (stone) and
+root he brings *binyan* (building), the building materials [*even*](rock-tzur-chalamish.html#%D7%90%D7%91%D7%A0) (stone) and
 *teven* (straw), *avnayim* (a birthing chair, which helps the birthing along),
-and *binah*/*tevunah* (understanding), which are the products of contemplation
+and [*binah*](wisdom-chochmah-binah-daat-tevunah.html#%D7%91%D7%99%D7%A0%D7%94)/*tevunah* (understanding), which are the products of contemplation
 and thought. He holds that *bas* (daughter) is also from ב-ן and should really
 be spelled *banas*, as it is in other Semitic languages, the nun generally
 dropping out in the singular and returning in the plural *banos*.
@@ -66,7 +66,7 @@ pasuk that uses *bar*, and Malbim there argues that the word is Hebrew and means
 a *baraisa* is a Tannaic teaching from outside the Mishnah. Rabbi Pappenheim
 traces this second sense to the two-letter root ב-ר, exclusion or separation:
 *bar* is grain separated from its chaff, *bor*/*boris* is a cleaning agent used
-to separate and exclude filth, and *bari* (against *shema*) is a sort of
+to separate and exclude filth, and *bari* (against [*shema*](maybe-ulai-pen.html#%D7%A9%D7%9E%D7%90)) is a sort of
 certainty in which all other options have been conclusively excluded; to which
 Rabbi Klein adds the common *bar minan*, "except from us." On Rabbi Pappenheim's
 reading *bar* means son because the child was separated from his mother's person by the act of

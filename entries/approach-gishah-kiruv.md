@@ -20,7 +20,7 @@ sources:
   - wiaw:11889 "Chukas: Words for War" (2025-07-05) https://articles.ohr.edu/articles/chukas-words-for-war
   - ms:065-coming-closer.md "Coming Closer"
 authorities: [Rabbi Yehuda Leib Shapira-Frankfurter, Malbim, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Ramban, Rambam, Abarbanel, Rabbi Yehudah Aryeh of Carpentras, Menachem Ibn Saruk, Ibn Janach, Radak]
-updated: 2026-09-24
+updated: 2026-10-06
 ---
 # Approach: gishah / kiruv
 
@@ -95,7 +95,7 @@ into contact: Targum Yerushalmi renders an ox goring as *yigash* (Shemos 21:28),
 and a boat scraping the seabed in shallow water is *goshesh* (Bava Kamma 116b;
 Bava Metzia 79b). The same root gives *gush*, a compacted clod of earth (Iyov
 7:5), which Rabbi Shlomo Pappenheim suggests may lie behind the name Goshen,
-the one part of Egypt with packed soil rather than sand, and behind *geshem*: in
+the one part of Egypt with packed soil rather than sand, and behind [*geshem*](rain-geshem-matar-yoreh-malkosh.html#%D7%92%D7%A9%D7%9E): in
 medieval usage any solid whose particles are bound tight, hence *gashmiyus*, and
 in the sense of rain, the thick drops that fall from a dense cloud. Rabbi Yehudah
 Aryeh of Carpentras (*Ohalei Yehuda*) ties *geshem* to *gishah* the other way:
@@ -103,7 +103,7 @@ the drops never do approach one another as they fall.
 
 ### kiruv (קירוב)
 Root ק-ר-ב, with *karov* "near" and *korban* the offering. The root also gives
-*krav*, war. The classical lexicographers (Menachem Ibn Saruk, Ibn Janach, Radak)
+[*krav*](war-milchamah-krav-pulmus.html#%D7%A7%D7%A8%D7%91), war. The classical lexicographers (Menachem Ibn Saruk, Ibn Janach, Radak)
 present approaching, innards and war as distinct meanings of ק-ר-ב, but Rabbi
 Klein finds the line blurrier: the closer one approaches something, the nearer one
 comes to entering its perimeter and reaching its innards, and in battle the

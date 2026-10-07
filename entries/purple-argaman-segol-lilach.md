@@ -26,7 +26,7 @@ sources:
   - wiaw:9575 "The Color Purple" (2022-02-12) https://articles.ohr.edu/articles/the-color-purple
   - ms:146-the-color-purple.md "The Color Purple"
 authorities: [Rambam, Raavad, Bartenura, Rabbi Avraham Maimuni, Rabbi Tanchum HaYerushalmi, Radak, Rasag, Rashi, Ibn Ezra, Menachem Ibn Saruk, Rabbi Yosef Kurkis, Rabbi Yosef Karo, Rabbi Yechiel Michel Epstein, Rabbi Eliyahu HaBachur, Rabbi Ernest Klein, Zohar, Ohalei Yehudah, Chaim Tawil, William Foxwell Albright, Athalya Brenner-Idan, Rav Hirsch]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Purple: argaman / argavan / segol / lilach
 
@@ -70,7 +70,7 @@ in Tanach.
 2. **Several colors woven together.** Raavad, Rambam's famed interlocutor,
    disagrees: *argaman* is something made of two or three colors woven (*arug*)
    together. Rabbi Yosef Kurkis and Rabbi Yosef Karo clarify that he read the
-   word as a portmanteau of א-ר-ג, weaving, as in *arigah*, with *min*, species,
+   word as a portmanteau of א-ר-ג, weaving, as in *arigah*, with [*min*](species-min-zan-sug.html#%D7%9E%D7%99%D7%A0), species,
    so the word reflects a panoply of colors rather than one. The Zohar (*Idra
    Rabbah* 141b, and see *Zohar Terumah* 139a) *seems* likewise to take it as a
    hue of red that includes other shades as well.

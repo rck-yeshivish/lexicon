@@ -33,7 +33,7 @@ words:
 sources:
   - wiaw:90003 "Rule of Thumb" (2019-03-19) https://groups.google.com/g/whats-in-a-word/c/_5Ps72u72D0
 authorities: [Rashi, Toras Kohanim, Tosafos, Rambam, Rabbi Baruch HaLevi Epstein, Rabbeinu Bachya, Rabbi Shimshon of Shantz, Abarbanel, Targum, Midrash Tanchuma]
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 # Thumb: bohen / gudal / agudal / zikfa / ravravta / ilyon
 
@@ -71,7 +71,7 @@ to Kesubos 5b, and Rambam's commentary to Mishnah Shabbos 8:1). Two resolutions:
 
 **Which finger is the *gudal*, and why is it so called?** Most commentators take
 it as the thumb; Rabbeinu Bachya (to Vayikra 8:23) cites an anonymous view that it
-is the little finger, related to *gedilim*, fringes (Devarim 22:12). As the thumb:
+is the little finger, related to [*gedilim*](fringes-tzitzis-gedilim-petil.html#%D7%92%D7%93%D7%99%D7%9C%D7%99%D7%9E), fringes (Devarim 22:12). As the thumb:
 - Rabbi Shimshon of Shantz (to Oholos 13:1) and Rabbeinu Bachya (to Vayikra 8:23):
   from ג-ד-ל, the root of *gadol*, big, as the thumb is generally the thickest.
 - Abarbanel (to Shemos 29:20): the two words mark different features of the thumb.
@@ -82,7 +82,7 @@ is the little finger, related to *gedilim*, fringes (Devarim 22:12). As the thum
 
 ### bohen (בהן)
 The Torah's word for the right thumb and big toe that receive blood and oil in
-purifying the *metzora* (Vayikra 14:14, 14:17, 14:25, 14:28) and blood in
+purifying the [*metzora*](leprosy-tzaraas-nega-metzora.html#%D7%9E%D7%A6%D7%95%D7%A8%D7%A2) (Vayikra 14:14, 14:17, 14:25, 14:28) and blood in
 consecrating Aharon and his sons (Shemos 29:20; Vayikra 8:23). Abarbanel: it is
 spelled like *bahen*, "on them," for the thumb's special role over the other
 fingers, and was borrowed from the thumb for the similar big toe.

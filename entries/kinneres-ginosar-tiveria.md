@@ -21,7 +21,7 @@ words:
 sources:
   - wiaw:8351 "The Shining Sea of Galilee" (2019-08-03) https://articles.ohr.edu/articles/the-shining-sea-of-galilee
 authorities: [Rabbi Nosson of Rome, Rashi, Tosafos, Bereishis Rabbah, Rabbi Yosef Karo, Rabbi Moshe ben Yosef of Trani, Josephus, Jastrow, Dr. Dov Ginzberg]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Kinneres: Kinneret / Ginosar / Yamah shel Tiveria
 
@@ -71,7 +71,7 @@ together on the beis din of Tzefas.
   the natural hot springs there, and *Rakas*, "empty," because even the empty
   and unlearned among its people were as full of mitzvos as a pomegranate is of
   seeds. For the name Tiveria itself the Gemara gives two accounts: the city
-  sits at the *tabur*, the navel of Eretz Yisrael, in importance rather than in
+  sits at the [*tabur*](middle-emtza-merkaz-lev-tabur.html#%D7%98%D7%91%D7%95%D7%A8), the navel of Eretz Yisrael, in importance rather than in
   geography, and the name is *tovah re'iyasah*, "its sight is good," which
   Tosafos explains as its beauty, its gardens and orchards.
 

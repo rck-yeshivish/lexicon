@@ -28,7 +28,7 @@ sources:
   - wiaw:8444 "Bereishet - Be a Man" (2019-10-26) https://articles.ohr.edu/articles/bereishet-be-a-man
   - ms:006-be-a-man.md "Be a Man"
 authorities: [Zohar, Malbim, Maharal of Prague, Rabbi Shlomo Pappenheim, Rav Hirsch, Vilna Gaon, Radak, Rabbi Shlomo Aharon Wertheimer, Rashi, Rabbi Yaakov Tzvi Mecklenburg, Ibn Ezra, Rabbi Yehuda Leib Edel, Ibn Yachya, Shadal, Rabbi Yitzchak ben Yosef of Pira]
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 # Man: adam / enosh / ish / gever
 
@@ -62,7 +62,7 @@ The all-encompassing word: singular and plural, male and female (Bereishis
 - Malbim: *adam* behaves like a proper name, which is why it never takes a
   plural or feminine form; "two adams" is as wrong as "two Reuvens."
 - On the root, some explain that he was called Adam because *adam* comes from
-  *adamah*, ground, and he was created from the earth. But all the animals too
+  [*adamah*](land-eretz-adamah.html#%D7%90%D7%93%D7%9E%D7%94), ground, and he was created from the earth. But all the animals too
   were created from the earth (Bereishis 1:24), and *adam* is never used of
   them, so why is he the one called Adam?
 - The Maharal answers that the name ties him to the ground as a reminder that
@@ -78,10 +78,10 @@ The all-encompassing word: singular and plural, male and female (Bereishis
   echo through creation.
 - Rav Hirsch: from *hadom*, footstool, for man was meant to sit at Hashem's
   footstool as His deputy, so to speak.
-- Rabbi Yaakov Tzvi Mecklenburg: the *adamah* link marks man's pull toward the
+- Rabbi Yaakov Tzvi Mecklenburg: the [*adamah*](land-eretz-adamah-ratzon.html#%D7%90%D7%93%D7%9E%D7%94) link marks man's pull toward the
   material, so *adam* names the great distance he can travel toward the
   spiritual.
-- Shadal (to Bereishis 1:26): *adam* is from *adom*, red, because man's reddish
+- Shadal (to Bereishis 1:26): *adam* is from [*adom*](red-adom-shani-chamutz.html#%D7%90%D7%93%D7%95%D7%9E), red, because man's reddish
   skin is left bare where other creatures are covered in hair or fur.
 - Rabbi Yitzchak ben Yosef of Pira, a student of the Rashba (to Bereishis 3:20):
   the name *Adam* alludes to the four elements. The aleph is *avir*, air; the
@@ -95,7 +95,7 @@ pursuit of bodily pleasure (Tehillim 104:15); the angels who argued against
 giving man the Torah called him *enosh* (Tehillim 8:5).
 - Radak (*Sefer HaShorashim*): the root א-נ-ש means weak and sickly.
 - Rabbi Shlomo Pappenheim: from נ-ש, "moved from its natural condition"
-  (*nosheh*, *nashah*, *anush*), so *enosh* is man whose powers are, in some
+  (*nosheh*, [*nashah*](forgetting-shachach-nashah.html#%D7%A0%D7%A9%D7%94), *anush*), so *enosh* is man whose powers are, in some
   ways, weak beside greater spiritual beings.
 - Wertheimer: *enosh* is *ish* with a diminutive nun.
 - The Vilna Gaon: the image of Hashem held fully only for Adam and Sheis; it was
@@ -123,14 +123,14 @@ curtain (Shemos 26:3).
 ### gever (גבר)
 - Ibn Ezra (to Shemos 10:11): always a male as against a female.
 - Rabbi Yehuda Leib Edel disputes this and cites gender-neutral uses.
-- Malbim: from *gevurah*, so it recalls strength and potency and usually means
+- Malbim: from [*gevurah*](strength-koach-gevurah-ometz-chozek.html#%D7%92%D7%91%D7%95%D7%A8%D7%94), so it recalls strength and potency and usually means
   the male.
 
 A woman in power may be called by a cognate, *gevirah* (Yirmiyahu 13:18) or
 *geveres* (Yeshayahu 47:5), queen, queen-mother, mistress, lady of the house.
 
 Ibn Yachya reads the four as life stages: *adam* the child (nearest the ground),
-*gever* the adolescent (physical strength arrives), *ish* the adult (from *aish*,
+*gever* the adolescent (physical strength arrives), *ish* the adult (from [*aish*](fire-aish-lehavah-shalheves-lapid.html#%D7%90%D7%A9),
 fire, at the height of his power), *enosh* the elder (strength diminished).
 
 ## Rendering guidance

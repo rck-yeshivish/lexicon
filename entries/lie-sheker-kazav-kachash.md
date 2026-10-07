@@ -24,7 +24,7 @@ sources:
   - wiaw:9080 "Mishpatim: Feeding the Lie" (2021-02-13) https://articles.ohr.edu/articles/mishpatim-feeding-the-lie
   - ms:132-feeding-the-lie.md "Feeding the Lie"
 authorities: [Rabbi Yosef Albo, Rabbi Yehuda Leib Edel, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Vilna Gaon, Rabbeinu Yosef Bechor Shor, Rabbi Yehuda Leib Shapira-Frankfurter, Malbim, Rabbi Yonah Wilheimer, Rabbi Shlomo Aharon Wertheimer, Shadal]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Falsehood: sheker / kazav / kachash
 
@@ -113,7 +113,7 @@ Usually rendered "denial," and forbidden in the same pasuk as *sheker* (Vayikra
   is spoken, while a *kachash* is contradicted before it is uttered, said into
   the teeth of the other party's claim.
 - Rav Hirsch (to Vayikra 5:21, 19:11, Devarim 9:7) makes it a false *reaction*
-  to another's claim, and contrasts it with *ka'as*, anger (taking ches with
+  to another's claim, and contrasts it with [*ka'as*](anger-cheimah-ketzef-charon-rogez.html#%D7%9B%D7%A2%D7%A1), anger (taking ches with
   ayin and shin with samech as interchangeable): *ka'as* is a real and warranted
   response to another's wrongdoing, *kachash* a manufactured response of denial
   to another's warranted claim.

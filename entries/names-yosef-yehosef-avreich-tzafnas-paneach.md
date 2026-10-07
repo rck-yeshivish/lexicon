@@ -27,7 +27,7 @@ sources:
   - wiaw:10750 "Vayeshev: The Amazing Multi-Named Joseph" (2022-12-17) https://articles.ohr.edu/articles/vayeshev-the-amazing-multi-named-joseph
   - ms:057-the-amazing-multi-named-joseph.md "The Amazing Multi-Named Joseph"
 authorities: [Rashi, Targum Onkelos, Targum Yonasan, Ibn Chayyuj, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Levi Yitzchak of Berditchev, Rambam, Chasam Sofer, Ibn Ezra, Rabbi Eliyahu HaBachur, Taz (Divrei Dovid), Rabbi Chaim Vital, Sefer Russiana, Pittsburgher Rebbe, Rabbi Chaim Kanievsky, Rabbi Mordechai Gross, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Names of Yosef: Yosef / Yehosef / Tzafnas Paneach / Avreich
 
@@ -129,7 +129,7 @@ shoulders while the choshen reads *Yosef* (see *Minchas Chinuch* 99).
 - and Rashi (to Shabbos 53a) explaining the amora Shmuel's nickname Aryoch as
   royal, the *rach* of it being the Latin for king, since he was expert in civil
   law and in that role functioned in a way resembling a king, though Rashi
-  elsewhere (Menachos 38b) derives Aryoch from *aryeh*, the lion to which
+  elsewhere (Menachos 38b) derives Aryoch from [*aryeh*](lion-aryeh-kfir-lavi-layish.html#%D7%90%D7%A8%D7%99%D7%94), the lion to which
   Yehudah is compared (Bereishis 49:9). The name Aryoch is borne in Tanach by
   the king of Elasar, one of the four kings Avraham fought (Bereishis 14:1,
   14:9), and by a minister of Nevuchadnetzar (Daniel 2:14, 2:15, 2:24-25).
@@ -141,9 +141,9 @@ shoulders while the choshen reads *Yosef* (see *Minchas Chinuch* 99).
   Radak: to add. Rachel exclaims *asaf* (Hashem has gathered up my disgrace) and
   names him *Yosef* (may Hashem add me another son), Bereishis 30:23-24.
 - Rabbi Shlomo Pappenheim treats the yud as extraneous and takes the core as
-  ס-ף, "end," which yields *sof* (an end), *sayif* (a sword, which ends a life),
-  *safah* (a lip, edge, or riverbank), *saf* (a threshold, a domain's edge), and
-  *asifah* (gathering, which redraws a set's boundaries). Adding, on this
+  ס-ף, "end," which yields *sof* (an end), [*sayif*](sword-cherev-shelach-sakin.html#%D7%A1%D7%99%D7%99%D7%A4) (a sword, which ends a life),
+  [*safah*](language-safah-lashon.html#%D7%A9%D7%A4%D7%94) (a lip, edge, or riverbank), *saf* (a threshold, a domain's edge), and
+  [*asifah*](gathering-asifah-kovetz-kehillah-agur.html#%D7%90%D7%A1%D7%99%D7%A4%D7%94) (gathering, which redraws a set's boundaries). Adding, on this
   reading, is extending an end to where it had not reached.
 
 The name *Yosef* appears more than 200 times in Tanach of him and of his

@@ -20,7 +20,7 @@ sources:
   - wiaw:9039 "Bo: Come To Pharaoh" (2021-01-23) https://articles.ohr.edu/articles/bo-come-to-pharaoh
   - ms:003-flying-sparks.md "Introduction: Synonyms in the Hebrew Language"
 authorities: [Malbim, Ibn Ezra, Vilna Gaon, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Tosafos, Zohar, Afarkesta DeAnya, Sifrei]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Synonyms: the method (davar, vayomer / vayidaber, melucha / moshel, ba / atah)
 
@@ -59,7 +59,7 @@ carries a concept of its own, which one who knows the language fully would never
 exchange for another.
 
 *Sifrei* (Naso 23) says the Torah speaks in two expressions for one thing, and
-gives *yayin* and *shechar*, *os* and *mofes*, *zevichah* and *shechitah*,
+gives [*yayin*](wine-yayin-tirosh-chemer-shechar.html#%D7%99%D7%99%D7%A0) and *shechar*, *os* and *mofes*, [*zevichah*](slaughter-shechitah-zevichah-tevichah.html#%D7%96%D7%91%D7%99%D7%97%D7%94) and *shechitah*,
 *kemitzah* and *haramah*, *amukah* and *shefelah*.
 
 ### vayomer (ויאמר) and vayidaber (וידבר)
@@ -76,7 +76,7 @@ ruling whether or not his people object to him. See
 length.
 
 ### ba (בא) and atah (אתה)
-Devarim 33:2: "Hashem *ba* from Sinai... and He *atah* from the holy
+Devarim 33:2: "Hashem *ba* from Sinai... and He [*atah*](coming-biah-halichah-atah.html#%D7%90%D7%AA%D7%94) from the holy
 multitudes."
 
 - The *meforshim*: the two words mean the same, but the first is Hebrew and the
@@ -91,7 +91,7 @@ multitudes."
 - Rabbi Yaakov Tzvi Mecklenburg reads *bo el Paroh* (Shemos 10:1) as "bring
   [this message] to Pharaoh," since *l'havi*, to bring, is itself a conjugation
   of *bo*: to bring a thing from one place to another is to cause it to go. In
-  the same vein Rabbi Shlomo Pappenheim derives *navi*, a prophet, from the
+  the same vein Rabbi Shlomo Pappenheim derives [*navi*](prophet-navi-roeh-chozeh.html#%D7%A0%D7%91%D7%99%D7%90), a prophet, from the
   two-letter root of *bo*, because a *navi* brings Hashem's words to those who
   hear him.
 - Rabbi Shlomo Pappenheim and Rabbi Aharon Marcus trace *bo* and *biah* to the

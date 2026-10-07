@@ -22,7 +22,7 @@ sources:
   - wiaw:6999 "Don't be a Behemah or a Chayah!" (2016-11-12) https://articles.ohr.edu/articles/dont-be-a-behemah-or-a-chayah
   - wiaw:9126 "Vayakhel/Pekudei: Animal Sounds" (2021-03-13) https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds
 authorities: [Ibn Ezra, Radak, Ramban, Netziv, Rabbi Chaim Kanievsky, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Animal: behemah / chayah
 
@@ -48,7 +48,7 @@ before they are descriptions: *cheilev* is forbidden only in a *behemah*, and
 ### behemah (בהמה)
 - Ibn Ezra and Radak: the domesticated animals, which live with people and have
   a use for them, whether for their meat or as beasts of burden. Among the
-  kosher species, *behemah* is limited to three families, the same three that
+  kosher species, [*behemah*](beast-beir-behemah-baar-bur.html#%D7%91%D7%94%D7%9E%D7%94) is limited to three families, the same three that
   alone may be brought as *korbanos*: the bovine, ovine and caprine families,
   that is cattle, sheep, and goats. The category takes in more than the kosher, though: non-kosher animals such as pigs, camels, and donkeys are seemingly
   *behemos* as well, which is why the sacrificial list alone does not define the

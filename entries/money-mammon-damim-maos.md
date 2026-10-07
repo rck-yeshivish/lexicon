@@ -37,7 +37,7 @@ sources:
   - wiaw:11394 "Bechukosai: All About Money" (2024-06-01) https://articles.ohr.edu/articles/bechukosai-all-about-money
   - wiaw:9907 "An Utter Embarrassment" (2022-09-17) https://articles.ohr.edu/articles/an-utter-embarrassment
 authorities: [Rabbi Nosson of Rome, Rabbi Eliyahu HaBachur, Rabbi Ernest Klein, Rabbi Shlomo Pappenheim, Rashi, Rashbam, Ibn Ezra, Ibn Janach, Radak, Chida, Rabbi Yitzchok Schmelkes, Rabbi Shlomo Zalman Ehrenreich, Rabbi Chaim of Friedberg, Rabbi Yaakov Emden, Rabbi Azaria Figo, Rabbi Eliezer Herstik, Pri Megadim, Rabbi Shimon Yehuda Leib Goldblit, Theo Vennemann, Maharal]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Money: mammon / damim / maos (zuz, kesef, mechir)
 
@@ -73,7 +73,7 @@ the exemption of one liable to death from monetary payment (Kesubos 3:2), and
 Rabbi Yishmael's advice that one who wants to grow wise should occupy himself
 with *dinei mammonos* (Bava Basra 10:8). Rabbi Nosson of Rome (*Sefer HeAruch*)
 and Rabbi Eliyahu HaBachur (*Sefer HaTishbi*, *Meturgeman*): *mammon* is
-Targum's standard Aramaic for the Biblical *hon* (wealth) and *rechush*
+Targum's standard Aramaic for the Biblical *hon* (wealth) and [*rechush*](property-rechush-mikneh-nechasim.html#%D7%A8%D7%9B%D7%95%D7%A9)
 (property). Etymologies:
 
 - *Bamidbar Rabbah* 22:8 reads it as *mah atah moneh, eino klum*, what are you
@@ -119,12 +119,12 @@ worth. Etymology:
 - Rabbi Ernest Klein writes that *damim* in the sense of money probably derives
   from ד-מ-ה, being like or equal to something else. Rabbi Shlomo Pappenheim
   builds that root out as "similarity, resemblance": *domeh*, *demus*, *dimyon*
-  (imagination, which may resemble reality without truly reflecting it), *adam*
+  (imagination, which may resemble reality without truly reflecting it), [*adam*](man-adam-ish-enosh-gever.html#%D7%90%D7%93%D7%9E)
   (created in the image of Hashem, Bereishis 1:27, in that he resembles Him in
   some ways); and since to call two things merely similar already rules out
   their being exactly equal, similarity implies incongruity, whence
-  *dom*/*domeim* (quiet, inactive, the incongruity between a mind that goes on
-  working and an outward activity that has stopped) and *adamah* (ground, which
+  [*dom*](silence-cheresh-shetikah-dom-chashah.html#%D7%93%D7%95%D7%9E)/*domeim* (quiet, inactive, the incongruity between a mind that goes on
+  working and an outward activity that has stopped) and [*adamah*](land-eretz-adamah.html#%D7%90%D7%93%D7%9E%D7%94) (ground, which
   stays passive while the plants in it grow). Pappenheim himself never ties any
   of this to *damim* as money, his work being confined to Biblical Hebrew; the
   step, that money likewise *resembles* commodities in that its value can stand
@@ -170,7 +170,7 @@ time; the Tosafists (*Daas Zekeinim* to Bamidbar 32:1) have a version in which
 money perverts justice. *Zuz* likewise began as a coin and widened; *Bamidbar
 Rabbah* 22:8: liquid assets move (*zaz*) out of one man's hand into another's
 quickly. A *maneh*, the mina, is a coin worth a hundred *zuz*, and ostensibly
-from the same root as *moneh* (counting, appointing), *manah* (portion, lot),
+from the same root as [*moneh*](counting-sefirah-mispar-minyan.html#%D7%9E%D7%95%D7%A0%D7%94) (counting, appointing), *manah* (portion, lot),
 *minyan* (number, quorum) and *mammon* itself; they also seem related to the name of the idolatrous deity Meni (Yeshayahu 65:11), who
 was said to allot a man his destiny.
 

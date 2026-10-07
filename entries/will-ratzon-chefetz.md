@@ -25,7 +25,7 @@ words:
 sources:
   - wiaw:8573 "Running on Willpower" (2020-01-25) https://articles.ohr.edu/articles/running-on-willpower
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Tzvi Yehuda Kook, Rabbi Aharon Yehuda Leib Margolios, Malbim, Rabbi Avraham Bedersi HaPenini, Rabbi Yehuda Leib Edel, Vilna Gaon, Targum Onkelos]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Will: ratzon / chefetz / tzvi
 
@@ -59,7 +59,7 @@ that persists.
 Root ר-צ-ה.
 - Rabbi Aharon Marcus (1843 to 1916) ties it to *ratz*, running: a man runs with
   greater determination and resolve toward what he wants; the Midrash (Bereishis
-  Rabbah 5:8) folds *eretz*, *ratz* and *ratzon* into one idea, the Land running
+  Rabbah 5:8) folds [*eretz*](land-eretz-adamah.html#%D7%90%D7%A8%D7%A6), *ratz* and *ratzon* into one idea, the Land running
   to do Hashem's will until He told it to stop.
 - Rabbi Pappenheim: *ratzon* is a simple "want," the milder of the pair.
 - Malbim: *ratzon* is the mind's intellectual wanting, the exercise of free
@@ -72,7 +72,7 @@ Root ר-צ-ה.
   Klein draws the consequence that the mitzvos, called *retzon Hashem*, would on
   Rabbi Edel's view be means to Hashem's ends, and finds the point in the
   Mishnah (Makkos 3:16), where Rabbi Chananya ben Akashya cites Yeshayahu 42:21:
-  Hashem's final will (*chefetz*), to give Yisrael merit, fuels His intermediate
+  Hashem's final will ([*chefetz*](desire-taavah-chemdah.html#%D7%97%D7%A4%D7%A6)), to give Yisrael merit, fuels His intermediate
   will (*ratzon*), the mitzvos.
 
 Aramaic *raavon* (the Hebrew tzadi commonly becomes an ayin); Targum Onkelos
@@ -112,7 +112,7 @@ human case, and that if Hashem wants something He perforce chooses to want it.
   the *taavah* / *chemdah* entry).
 
 ### tzvi (צבי)
-- Rabbi Pappenheim (1740 to 1814) derives *tzvi*, the desirable, from the root
+- Rabbi Pappenheim (1740 to 1814) derives [*tzvi*](splendor-tzvi-tzivyon-tzava.html#%D7%A6%D7%91%D7%99), the desirable, from the root
   צ-ב, "standing": the desirable thing stays in one's thoughts as though
   constantly standing before him, so *tzvi* is a continuous, perhaps obsessive,
   yearning over an extended time, as against a fleeting want.

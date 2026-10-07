@@ -27,7 +27,7 @@ sources:
   - wiaw:8167 "The True Blue" (2019-03-09) https://articles.ohr.edu/articles/the-true-blue
   - ms:145-the-true-blue.md "The True Blue"
 authorities: [Rashi, Ramban, Rabbeinu Bachya, Targum, Bamidbar Rabbah, Frankie Snyder, Aharon Demsky, Rabbeinu Yonah, Tosafos]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Blue: sapir / techeiles / kachol
 
@@ -51,7 +51,7 @@ eyes, and the word's range runs to dark and black.
 **What shade techeiles is.**
 
 - Rashi (to Bamidbar 15:38 and Shemos 25:4) defines *techeiles* as wool dyed
-  with the blood of the chilazon, and calls its color *yarok*, which in his
+  with the blood of the chilazon, and calls its color [*yarok*](vegetable-yerek-yarok-karpas.html#%D7%99%D7%A8%D7%95%D7%A7), which in his
   usage is a catch-all covering the band from orange to violet, with yellow,
   green, blue and indigo in between, so his definition does not settle the
   shade.

@@ -23,7 +23,7 @@ sources:
   - wiaw:11106 "Enter the Garden (Part 2 of 2)" (2023-09-30) https://articles.ohr.edu/articles/enter-the-garden-part-2-of-2
   - ms:007-enter-the-garden.md "Enter the Garden"
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rashi, Rashbam, Rabbi Yosef Kara, Metzudas Tzion, Ibn Ezra, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Yehudah Aryeh of Carpentras, Rabbi Avraham Bedersi, Rabbi Yedaiah HaPenini, Rabbi Shlomo Aharon Wertheimer, Rabbi David Luria, Rabbi Eliyahu HaBachur, Rabbi Ernest Klein, Dr. Alexander Kohut, Rabbi Shaul Goldman, Rabbi Hai Gaon, Arizal, Ramak, Rema, Rambam]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Garden: gan / pardes / bustan
 
@@ -151,8 +151,8 @@ plants both *ginos* and *pardeisim*, which suggests the two are not one word:
   with *hidus*, dancing (the *mihades* chicken of Bava Kamma 2:1), since an
   orchard's trees seem to leap and dance heavenward above the low plants of a
   field; or, dropping the final samech, *pri* with *rar* (flows) or *dar*
-  (dwells), each on a stated letter change, or with *hadar* (beautiful); or else
-  *pri* with *dash* (threshing, separating) or *datz* (*ditzah*, happiness), the
+  (dwells), each on a stated letter change, or with [*hadar*](beauty-hod-hadar.html#%D7%94%D7%93%D7%A8) (beautiful); or else
+  *pri* with *dash* (threshing, separating) or *datz* ([*ditzah*](joy-simchah-sasson-gilah.html#%D7%93%D7%99%D7%A6%D7%94), happiness), the
   samech interchanging with shin or tzadi.
 - Against all of these, the word seems to be built on a four-letter root. Many
   grammarians, Ibn Ezra and Rabbi Eliyahu HaBachur among them, hold that a
@@ -169,7 +169,7 @@ plants both *ginos* and *pardeisim*, which suggests the two are not one word:
 - As a place rather than a plot: Chagigah 14b, the four who entered the
   *Pardes*, which Rashi explains as Heaven, a notion reflected in the Christian
   idea of Paradise as in the Heavens. The Arizal reads *PaRDeS* as *pshat*,
-  *remez*, *drush*, *sod*; the Ramak puts *rayah* for *remez*, the Rema *seser*
+  *remez*, *drush*, [*sod*](secret-sod-raz-tamir.html#%D7%A1%D7%95%D7%93); the Ramak puts *rayah* for *remez*, the Rema *seser*
   for *sod*; for the Rambam see Yesodei HaTorah 4:13, Talmud Torah 1:12 and
   *Moreh Nevuchim* 2:30-32. Chazal also read Avraham's *eshel* (Bereishis
   21:33), ordinarily taken as a single tree and possibly a tamarisk, as a whole

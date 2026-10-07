@@ -41,7 +41,7 @@ sources:
   - wiaw:9503 "Moses' Many Names" (2021-12-25) https://articles.ohr.edu/articles/moses-many-names
   - wiaw:11200 "Shemos: Pulling & Drawing" (2024-01-06) https://articles.ohr.edu/articles/shemos-pulling-drawing
 authorities: [Vayikra Rabbah, Shemos Rabbah, Radak, Vilna Gaon, Targum Rav Yosef, Ibn Ezra, Rabbi Chaim Shmuelevitz, Rabbi Gedaliah Ibn Yachya, Rabbi Moshe Teitelbaum, Rabbi Chanoch Henoch Teitelbaum of Sassov, Zayis Raanan, Dr. Alexander Beider, Rashbam, Rabbi Yehuda Ibn Chayyuj, Rabbi Yonah Ibn Janach, Menachem Ibn Saruk, Rashi]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Names of Moshe: Moshe / Yered / Avigdor / Chever / Avi-Socho / Yekusiel / Avi-Zanoach
 
@@ -81,7 +81,7 @@ Himself call him only **Moshe**, the name Basyah gave him.
   mean his pleading with Hashem after the Eigel.
 - Avi-Socho has two: from *socheh*, a gazer or seer, a codeword for prophecy, so
   that he is father of the nevi'im in that he reached a level of prophecy none
-  of his successors matched; and Megillah 13a, that he was a *succah* over
+  of his successors matched; and Megillah 13a, that he was a [*succah*](canopy-apiryon-chuppah-succah.html#%D7%A1%D7%95%D7%9B%D7%94) over
   Israel by the abundance of his merits (see *Targum Rav Yosef* there), which
   the Vilna Gaon applies to his shielding them after Taveirah (Bamidbar 11:2).
 
@@ -130,7 +130,7 @@ meaning "raising" in Egyptian. Rabbi Klein knows of no other source for it.
 ### The four additional names
 *Vayikra Rabbah* adds four beyond the six of Divrei HaYamim I 4:18, bringing the
 count to ten. **Toviah**, because at his birth his mother "saw him, that he was
-good" (*tov*, Shemos 2:2). Most people today say Tuviah, though Tanach vowelizes
+good" ([*tov*](good-tov-noam-shapir.html#%D7%98%D7%95%D7%91), Shemos 2:2). Most people today say Tuviah, though Tanach vowelizes
 it Toviah; Dr. Alexander Beider notes in his *Dictionary of Ashkenazi Given
 Names* that scholars do not know what caused the vowel shift. Others in Tanach
 seemingly bear the name: the head of a family that returned with Zerubavel (Ezra 2:60,

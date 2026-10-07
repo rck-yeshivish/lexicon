@@ -20,7 +20,7 @@ words:
 sources:
   - wiaw:8622 "Foreheads and Fadihot" (2020-02-29) https://articles.ohr.edu/articles/foreheads-and-fadihot
 authorities: [Targum Yonasan, Rashi, Ritva, Tosafos Yeshanim, Tosafos HaShalem, Rav Hai Gaon, Rabbeinu Chananel, Sefer HeAruch, Rabbi Zecharia Aghmati, Rabbi Shlomo Pappenheim, Rabbi David Chaim Chelouche, Rabbi Yaakov Yehuda Zilberberg, Rabbi Yehoshua Steinberg, Rabbi Yosef de Jong, Rabbi Shaul Goldman, Alexander Kohut]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Forehead: meitzach / padachat
 
@@ -63,7 +63,7 @@ to Shemos 28:38 renders it *padachta*. On the root:
 
 ### The problem at Shemos 28:38
 Most commentators hold the *tzitz* was worn above the forehead, on the place
-where *tefillin* are laid, which sits badly with a pasuk that puts it "on
+where [*tefillin*](phylacteries-totafos-tefillin.html#%D7%AA%D7%A4%D7%99%D7%9C%D7%99%D7%A0) are laid, which sits badly with a pasuk that puts it "on
 Aharon's *meitzach*."
 
 - The *Chiddushei HaRitva* and *Tosafos Yeshanim* (to Yoma 71b) give two
@@ -105,7 +105,7 @@ logical candidate. Others argue for a Semitic or even a Hebrew basis:
 
 - Rabbi Yaakov Yehuda Zilberberg de Kassif, by metathesis, groups three roots
   that use *peh*, *dalet*, and *ches* in different orders: *dachaf*, to push,
-  *pachad*, fear, and *padachat*. Haste and confusion often push their way to
+  [*pachad*](fear-eimah-pachad-yirah-daagah.html#%D7%A4%D7%97%D7%93), fear, and *padachat*. Haste and confusion often push their way to
   the forefront of a man's emotions so that fear becomes his dominant feeling,
   and that inner fear is in turn pushed outward and often shows on his forehead.
 - Rabbi Chelouche argues that *padachat* can be understood as a cognate of

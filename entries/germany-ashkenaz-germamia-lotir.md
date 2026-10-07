@@ -31,7 +31,7 @@ sources:
   - wiaw:11563 "Noach: Ashkenaz and Teutonic Jews" (2024-11-02) https://articles.ohr.edu/articles/noach-ashkenaz-and-teutonic-jews
   - ms:014-ashkenaz-and-teutonic-jews.md "Ashkenaz and Teutonic Jews"
 authorities: [Shadal, Filosseno Luzzatto, Targum Yerushalmi, Targum Rav Yosef, Vilna Gaon, Rabbi Binyamin Mussafia, Rashi, Rabbeinu Tam, Rashbam, Maharshal, Rabbi Yaakov Emden, Rabbeinu Efrayim, Radak, Rabbi Aryeh Kaplan, Rabbi Aharon Marcus, Rabbi Yosef Prager, Rabbi Ernest Klein, Wilhelm Gesenius, Brown-Driver-Briggs, Alfred Jones, David L. Gold, Rainer Josef Barzen]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Names for Germany: Ashkenaz / Germamia / Lotir / Almenia
 
@@ -101,12 +101,12 @@ is *Germaniya*.
 Reuven Chaim Klein consulted, only two parse the word as though it were natively
 Hebrew or Semitic.
 
-- Rabbi Yaakov Emden (*Eim L'Binah*) reads it as a portmanteau of *mishkan* and
+- Rabbi Yaakov Emden (*Eim L'Binah*) reads it as a portmanteau of [*mishkan*](sanctuary-mishkan-mikdash.html#%D7%9E%D7%A9%D7%9B%D7%A0) and
   *ziv*, ostensibly the dwelling place of the crown jewels of Klal Yisrael;
   Rabbi Yaakov Emden himself lived in the area colloquially called Ashkenaz.
 - The second is Alfred Jones, *The Proper Names of the Old Testament Scriptures
   Expounded and Illustrated* (London, 1856), who claims it means "so fire is
-  scattered," from *aish*, the letter kaf, and *nazah*; Rabbi Reuven Chaim Klein
+  scattered," from [*aish*](fire-aish-lehavah-shalheves-lapid.html#%D7%90%D7%A9), the letter kaf, and *nazah*; Rabbi Reuven Chaim Klein
   would like to know Jones's source and what other etymologies have been
   proposed.
 

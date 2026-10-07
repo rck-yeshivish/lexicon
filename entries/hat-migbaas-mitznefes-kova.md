@@ -23,7 +23,7 @@ sources:
   - wiaw:7195 "Hats and Belts" (2017-03-25) https://articles.ohr.edu/articles/hats-and-belts
   - ms:147-hats-and-belts.md "Hats and Belts"
 authorities: [Meiri, Vilna Gaon, Abarbanel, Rambam, Rashi, Ramban, Tosafos HaRosh, Josephus, Rabbi Avigdor Miller]
-updated: 2026-09-28
+updated: 2026-10-06
 ---
 # Hat: migbaas / mitznefes / kova
 
@@ -46,7 +46,7 @@ type of hat and are simply synonyms; the other authorities distinguish them.
 ## Where the authorities disagree
 
 **Whether migbaas and mitznefes are two hats.**
-- The Meiri and the Vilna Gaon: two hats. The ordinary *kohen*'s *migbaas* is
+- The Meiri and the Vilna Gaon: two hats. The ordinary [*kohen*](priest-kohen-komer.html#%D7%9B%D7%94%D7%A0)'s *migbaas* is
   a plain hat (Meiri), pre-sewn (Vilna Gaon); the *kohen gadol*'s *mitznefes*
   is a long cloth he winds around his head.
 - Others: both were wrapped, and the *mitznefes* is distinguished by reaching
@@ -70,7 +70,7 @@ Root ג-ב-ע.
 - The Meiri ties *migbaas* to *kova* (roots ג-ב-ע and כ-ב-ע) because the
   ordinary *kohen*'s hat is a plain one.
 - The Vilna Gaon: a *migbaas* comes pre-sewn, ready to put on.
-- Abarbanel connects the word to *givah*, a hill, because the hat carried two
+- Abarbanel connects the word to [*givah*](mountain-har-givah-pisgah.html#%D7%92%D7%91%D7%A2%D7%94), a hill, because the hat carried two
   hill-like humps on top and tied under the chin.
 - Rabbi Avigdor Miller: a hat means dignity. *Migbaas* is from *givah*, a hill,
   since it raises the head and makes a hill on top of it, and *pa'arei

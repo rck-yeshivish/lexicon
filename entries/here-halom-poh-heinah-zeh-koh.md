@@ -34,7 +34,7 @@ sources:
   - wiaw:11665 "Shemot: Here We Go" (2025-01-18) https://articles.ohr.edu/articles/shemot-here-we-go
   - ms:092-here-we-go.md "Here we go"
 authorities: [Rabbi Avraham Bedersi, Rabbi Shmuel David Luzzatto, Rav Hirsch, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Radak, Ibn Janach, Menachem Ibn Saruk, Rabbi Shlomo Ibn Parchon, Maharsha, HaKsav VeHaKabbalah, Rabbi Yosef Grayever, Rabbi Chaim Yehoshua Kasovsky, Dr. Lawrence Resnick, Rabbi Eliezer Cohn, Targum, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Here: halom / poh / heinah / zeh / koh (kan)
 
@@ -76,7 +76,7 @@ a general area, and *koh* as **thereabouts**, near here rather than here itself.
   as an important, special place, against the other words in the cluster, which
   can carry a banal or prosaic "here."
 - In a similar vein, Rav Hirsch (to Bereishis 16:13) pairs ה-ל-ם (breaking or
-  beating, as with a hammer) with *paam*: as a *paam* is one beat in the
+  beating, as with a hammer) with [*paam*](foot-paam-regel.html#%D7%A4%D7%A2%D7%9E): as a *paam* is one beat in the
   continuum of time, *halom* is one step in the continuum of space, marking a
   place one may be marching to as finally "here." Dr. Lawrence Resnick sums up
   Rav Hirsch: *halom* never means "here," it means "hither," a single spatial

@@ -23,7 +23,7 @@ sources:
   - wiaw:10897 "Shemini: Types of Species" (2023-04-15) https://articles.ohr.edu/articles/shemini-types-of-species
   - ms:186-types-of-species.md "Types of Species"
 authorities: [Rabbeinu Yonah Ibn Janach, Radak, Shadal, Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Rav Hirsch, Rav Saadia Gaon, Ibn Ezra, Donash Ibn Labrat, Menachem Ibn Saruk, Rashi, pseudo-Rashi, Ralbag, Targum, Rabbi Yehoshua Steinberg, Ramban, Rabbeinu Nissim of Gerona, Rambam, Rabbi Moshe Ibn Tibbon, Rabbi Shmuel Ibn Tibbon, Ramchal, Professor Avi Hurvitz, Dr. Menachem Zvi Kaddari, Rabbi Shimon Lavie, Rabbi Yeshayah of Trani]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Species: min / zan / sug
 
@@ -82,14 +82,14 @@ they could not categorize, "for they did not know what it was" (Shemos 16:15).
   65:11).
 - Rabbi Shlomo Pappenheim (1740 to 1814) takes the two-letter root מ-ן as
   "creating order out of causes and effects." One group of its derivatives is
-  headed by *moneh* and *minyan*, counting, which creates mathematical order by
+  headed by [*moneh*](counting-sefirah-mispar-minyan.html#%D7%9E%D7%95%D7%A0%D7%94) and *minyan*, counting, which creates mathematical order by
   quantifying a set of givens; *min* derives from it too, since it likewise
   determines what belongs in one grouping and what is excluded (in Rabbi Klein's
   colloquial gloss, what "counts" and what does not). Like Shadal, Pappenheim
   connects *temunah* to *min*, on his own reasoning: a *temunah* is a relatively
   vague picture that may show a certain species without being the image of any
   one individual in it, as a drawing shows a cow but not which cow. (See also
-  Rav Hirsch to Shemos 20:4, who distinguishes *pesel* from *temunah*.)
+  Rav Hirsch to Shemos 20:4, who distinguishes [*pesel*](idols-elilim-gilulim-shikutzim.html#%D7%A4%D7%A1%D7%9C) from *temunah*.)
 
 *Minnim* at Tehillim 150:4, "praise Him with *minnim* and pipe," is the only
 appearance of the instrument, possibly a *hapax legomenon*, and it is contested.
@@ -129,7 +129,7 @@ in Tanach, Targum renders it *zan*. The Aramaic *zan* clearly means "type" or
 "sort"; the Hebrew is more debatable.
 
 - "Our storehouses full, producing from *zan* to *zan*" (Tehillim 144:13): Rav
-  Hirsch (there) seems unsure whether the Hebrew *zan* is related to *mazon*,
+  Hirsch (there) seems unsure whether the Hebrew *zan* is related to [*mazon*](food-ochel-shever-tevuah-dagan.html#%D7%9E%D7%96%D7%95%D7%A0),
   "sustenance," and means types of nourishing food, as Menachem and Rashi
   explain, or to the Aramaic *zan*, meaning more broadly types of food, as Ibn
   Janach explains.
@@ -149,7 +149,7 @@ Rabbi Pappenheim, whose way is to set aside Aramaic meanings as far as possible
 in favor of uniquely Hebrew explanations, ignores the possibility of a Hebrew
 *zan* equal to the Aramaic and derives both Hebrew forms from the two-letter ז-ן,
 sustenance and the fulfillment of needs: the first *zan* from *mazon*; the
-second as related to *zenus*, lust (a vice that comes from overindulging in
+second as related to [*zenus*](straying-zenus-stiyah.html#%D7%96%D7%A0%D7%95%D7%AA), lust (a vice that comes from overindulging in
 sustenance), since it was a type of spice that served as an aphrodisiac (see
 *Bava Kamma* 16b).
 

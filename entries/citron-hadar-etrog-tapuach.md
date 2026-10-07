@@ -31,7 +31,7 @@ sources:
   - wiaw:10055 "The Beautiful Citron" (2022-09-24) https://articles.ohr.edu/articles/the-beautiful-citron
   - wiaw:7644 "The Beauty of Adar" (2018-02-17) https://articles.ohr.edu/articles/the-beauty-of-adar
 authorities: [Ibn Ezra, Rambam, Ramban, Raavyah, Baal HaTurim, Rabbeinu Tam, Targum Onkelos, Targum Yonasan, Ra'ah, Ritva, Meiri, Rabbeinu Bachya, Tashbetz, Rabbi Moshe Mintz, Rabbi Meir Mazuz, Chazon Ish, Rabbi David Kochavi of Estelle, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Dr. Zohar Amar, Dr. Michael Sokoloff, Alexander Kohut, Malbim]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Citron: hadar / esrog / tapuach
 
@@ -60,7 +60,7 @@ means that verse alone or every *tapuach* in Tanach is unclear.
 
 **How hadar comes to mean the citron.**
 - Chazal (Sukkah 35a, Yerushalmi Sukkah 3:5, Sifra to Vayikra 23:40) give four
-  routes: *hadar* modifies fruit and tree alike, so the fruit must taste like
+  routes: [*hadar*](beauty-hod-hadar.html#%D7%94%D7%93%D7%A8) modifies fruit and tree alike, so the fruit must taste like
   its wood, as the citron's somehow does; *hadar* from *dir*, a corral, since a
   corral holds animals of every size and the citron tree often carries blossoms
   and full-grown fruit at once; *ha-dar*, "the one that dwells," the citron
@@ -81,7 +81,7 @@ is the Raavyah's, on the kesubah formula in which a groom writes that his bride
 may collect from "the better *arag* of my property": *arag* is an expression of
 desirability, since Targum renders *nechmad* as *ragig* (Onkelos to Bereishis
 2:9 and 3:6; Targum to Mishlei 21:20), and
-*taavah* likewise at Devarim 5:18, and *arag* is a cognate of that term. The
+[*taavah*](desire-taavah-chemdah.html#%D7%AA%D7%90%D7%95%D7%94) likewise at Devarim 5:18, and *arag* is a cognate of that term. The
 Ramban, the Raavyah's younger contemporary, adds that *esrog* too is a cognate
 of *arag* and *ragig*, so that *esrog* is rightly "the desirable fruit"; since
 *hadar* and *nechmad* come to the same thing, *pri eitz

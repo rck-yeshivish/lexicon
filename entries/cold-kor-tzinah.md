@@ -23,7 +23,7 @@ sources:
   - wiaw:9482 "Freezing Cold" (2021-12-11) https://articles.ohr.edu/articles/freezing-cold
   - ms:178-freezing-cold.md "Freezing Cold"
 authorities: [Rashi, Ibn Ezra, Radak, Rabbi Yosef Kimchi, Rabbi Moshe Kimchi, Rabbi Yeshayah of Trani, Rashbam, Abarbanel, Rabbi Yosef Nechemias, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi David Golumb, Rabbi Yehoshua Steinberg, Shoresh Yesha]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Cold: kor / tzinah
 
@@ -54,8 +54,8 @@ five times more (Nachum 3:17; Mishlei 25:20; Iyov 24:7, 37:9; Tehillim 147:17,
 separate entry, קרה. Rabbi Shlomo Pappenheim traces *kor* and *kar* to the biliteral
 ק-ר, a strong impact from concentrated mass or speed. Coldness fits because the
 body holds itself warm, so meeting something cold is a collision of opposed
-temperatures. The same root gives *mikreh* and *keri*, occurrence, the sudden
-collision of a person with new circumstances; and *kir* (wall), *korah* (beam)
+temperatures. The same root gives [*mikreh*](chance-mikreh-keri-teunah-irua.html#%D7%9E%D7%A7%D7%A8%D7%94) and *keri*, occurrence, the sudden
+collision of a person with new circumstances; and [*kir*](wall-chomah-kir-shur-kotel.html#%D7%A7%D7%99%D7%A8) (wall), *korah* (beam)
 and *tikrah* (ceiling), all of them points where weight bears down.
 
 On the scale: Pappenheim holds *kor* is the extreme, felt only on the coldest
@@ -96,7 +96,7 @@ David Golumb (*Targumna* to Shemos 17:1) explains as a notably cold place; the
 an ice box keeping the manna cold; and *tzinim* in Mishlei 22:5, thorns to most
 commentators but cold to Rabbi Yosef Nechemias and to Radak in *Sefer
 HaShorashim*. Bamidbar 33:55 warns that the remaining Canaanites will be
-*sikim* in your eyes and *tzninim* in your sides: most read both as kinds of
+[*sikim*](thorns-kotz-dardar-sneh-charul.html#%D7%A1%D7%99%D7%9B%D7%99%D7%9E) in your eyes and *tzninim* in your sides: most read both as kinds of
 thorn, but Rashbam ties *tzninim* to *tzinah*, cold. Rashbam does not say how
 that fits the context; Rabbi Klein suggests, as his own reading, that the Torah
 may mean a sharp, stinging coldness that vexes a man and hampers what he can

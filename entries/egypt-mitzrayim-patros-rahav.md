@@ -28,7 +28,7 @@ sources:
   - wiaw:11449 "Chukas: Out in Public" (2024-07-13) https://articles.ohr.edu/articles/chukas-out-in-public
   - ms:219-escape-from-patros.md "Escape from Patros"
 authorities: [Radak, Rashi, Ibn Ezra, Ramban, Rabbeinu Bachya, Chizkuni, Midrash Sechel Tov, Bereishis Rabbah, Maharzu, Peirush HaRokeach, Rabbi Yehuda HaChassid, Sefer Chassidim, Hadar Zekeinim, Ateres Zekeinim, Rabbi Elazar Rokeach of Worms, Rabbi Chaim Vital, Rid, Tosafos, Rabbeinu Tam, Rabbeinu Chananel, Rabbeinu Nissim Gaon, Shitah Mekubetzes, Rabbi Aharon Marcus, Rabbi Shlomo Ibn Gabirol, Shadal, Solomon Löwisohn, Alexander Kohut, Shulamit Elitzur, Rabbi Shlomo Pappenheim, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Egypt: Mitzrayim / Patros / Rahav (Matzor, Kaftor, eretz Cham)
 
@@ -132,13 +132,13 @@ probably no deeper meaning in these substitutions. HaKallir does the same with
 times (Bereishis 10:13, Yechezkel 27:10 and 30:5, Divrei HaYamim I 1:11,
 Yirmiyahu 46:9). Rashi (to 10:13, and possibly to Yeshayahu 13:8) presumes a
 connection between *Lehavim* and the root LAMED-HEI-BES, flame or blade, saying
-that their faces resembled a *lahav* without explaining what that means. Ibn
+that their faces resembled a [*lahav*](fire-aish-lehavah-shalheves-lapid.html#%D7%9C%D7%94%D7%91) without explaining what that means. Ibn
 Gabirol's *Azharos* reads "I desired you and loved, I redeemed you from Lahav",
 and in some versions "from Rahav".
 
 ### Rahav (רהב), Matzor (מצור), and eretz Cham (ארץ חם)
 *Rahav* as a name for Egypt: Rashi to Bereishis 40:23, Chizkuni to 43:32, Radak
-to Tehillim 87:4; in *divrei Chazal* Rahav is the *sar* of Egypt and of the sea
+to Tehillim 87:4; in *divrei Chazal* Rahav is the [*sar*](princess-sarai-sarah-yiscah.html#%D7%A9%D7%A8) of Egypt and of the sea
 (Bava Basra 74b, *Bamidbar Rabbah* 18:22, Zohar *Terumah* 170b, Zohar Chadash
 *Bishalach* 38b). The word means confident, strong, haughty, an apt description
 of the Egyptian mentality, and Rabbi Aharon Marcus surmises that it is a
@@ -171,7 +171,7 @@ Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 6:10): Egypt was called
 
 Two early forms of the word turn up in Chazal: a language called Gipti (Shabbos
 115a to 115b, Megillah 18a), which seems to be Coptic; and the parsing of
-*totafos* (Devarim 6:8, 11:18) as *tot*, two in Kapti, plus *pat*, two in Afriki
+[*totafos*](phylacteries-totafos-tefillin.html#%D7%98%D7%95%D7%98%D7%A4%D7%95%D7%AA) (Devarim 6:8, 11:18) as *tot*, two in Kapti, plus *pat*, two in Afriki
 (Sanhedrin 4b, Zevachim 37b, Menachos 34b), where the consensus takes Kapti for
 Coptic and Afriki for Phrygian. The Romani were once thought to have come from
 Egypt, hence "Gyptians" and eventually "Gypsies," though anthropologists now

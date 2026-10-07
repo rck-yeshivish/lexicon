@@ -28,7 +28,7 @@ sources:
   - wiaw:11200 "Shemos: Pulling & Drawing" (2024-01-06) https://articles.ohr.edu/articles/shemos-pulling-drawing
   - ms:094-pulling-drawing.md "Pulling & Drawing"
 authorities: [Rashi, Rashbam, Radak, Ibn Janach, Ibn Chayyuj, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi David Chaim Chelouche, Rabbi Shlomo Aharon Wertheimer, Ramban, Rabbi Menachem ben Shlomo (Midrash Sechel Tov), Rabbi Shlomo Ibn Parchon, Rabbi Moshe Alshich, Chizkuni, Peirush HaRokeach, Peirush HaTur, Midrash HaGadol, Shadal, Rabbi Shlomo Zalman Ehrenreich, Rabbi Menachem Mendel Kasher (Torah Shleimah), Moshav Zekanim, Rabbi Yaakov Berger, Ibn Ezra, Mahari Kara, Kli Yakar, Targum Onkelos]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Pulling and drawing: moshe / moshech / shoev / shoef
 
@@ -75,21 +75,21 @@ own, מ-ש-י. Rabbi Shlomo Pappenheim accounts for the tie between *meshi* and
   roots. He theorizes about triliteral roots that open with a *mem*: in many of
   them the semantic core is the two letters after the *mem*, and the *mem*
   itself flips that core to its exact opposite. His examples: ח-ק, engrave,
-  against מחק, erase; ל-ץ, scorn, against מליץ, justification or defense; ע-ד,
+  against מחק, erase; ל-ץ, scorn, against [מליץ](advocate-meilitz-praklit-sanegor.html#%D7%9E%D7%9C%D7%99%D7%A6), justification or defense; ע-ד,
   connecting to an end-goal, against מעד, slipping or tripping, which sets one
   off-goal; ר-ד, governing, against מרד, rebellion; ש-ל, excluded from one's
-  domain, against מושל, included in one's dominion; and נ-ע, movement, against
+  domain, against [מושל](synonyms-davar-vayomer-vayidaber.html#%D7%9E%D7%95%D7%A9%D7%9C), included in one's dominion; and נ-ע, movement, against
   מונע, withholding or stopping. On that rubric *moshe* rests on ש-ה, which he
   traces further to the monoliteral ש, "equalize," whence *shaveh* (equal),
   *shav* (futile, equally purposeless however one looks at it), *nosheh* (a
-  loan, which equates the property of lender and borrower), *shaanan* (utter
-  tranquility, a uniform state) and *shoah*/*shayit* (utter destruction,
+  loan, which equates the property of lender and borrower), [*shaanan*](peace-shalom-sheket-shalvah.html#%D7%A9%D7%90%D7%A0%D7%A0) (utter
+  tranquility, a uniform state) and *shoah*/[*shayit*](thorns-kotz-dardar-sneh-charul.html#%D7%A9%D7%99%D7%AA) (utter destruction,
   likewise uniform); so *moshe* is the polar opposite, disrupting a thing's
   prior uniformity and equilibrium by shaking it up. *Moshech* rests on ש-ך, "to
   be settled or positioned properly," whence *shochen* (dwelling), *shachen*
-  (neighbor), *mashkon* (collateral, an item temporarily housed by the lender),
+  (neighbor), [*mashkon*](collateral-mashkon-chaval-avot-rahan.html#%D7%9E%D7%A9%D7%9B%D7%95%D7%A0) (collateral, an item temporarily housed by the lender),
   *keshoch*/*shechachah* (quelling, anger abating back to one's normal state),
-  *shechem* (shoulder, a limb positioned to connect neck and upper arm),
+  [*shechem*](shoulder-shechem-katef.html#%D7%A9%D7%9B%D7%9E) (shoulder, a limb positioned to connect neck and upper arm),
   *eshech* (testes, positioned within the sac) and *neshech* (biting, the teeth
   coming together as they naturally want to); so *moshech* interrupts that
   well-groundedness to pull a thing from its place. Pappenheim does recognize a
@@ -100,7 +100,7 @@ own, מ-ש-י. Rabbi Shlomo Pappenheim accounts for the tie between *meshi* and
 
 - Rav Hirsch (to Bereishis 24:65, Devarim 28:22): the water being drawn into and
   filling the bucket, and Targum Onkelos bears this out, typically rendering
-  *shoev* as *mamlei*, a cognate of *mimaleh*, "filling."
+  [*shoev*](drawing-water-dalah-shoev.html#%D7%A9%D7%90%D7%91) as *mamlei*, a cognate of *mimaleh*, "filling."
 - Rabbi Yaakov Berger of Kiryat Sefer, in his unpublished *Milon Leshon Mikra*,
   infers from Ramban (Bereishis 24:17) that the core act is the lowering of the
   bucket into the well to bring back water.

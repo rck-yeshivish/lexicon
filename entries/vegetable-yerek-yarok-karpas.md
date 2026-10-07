@@ -22,7 +22,7 @@ words:
 sources:
   - wiaw:11353 "Metzorah/Shabbos HaGadol: Veggies for the Dipping" (2024-04-20) https://articles.ohr.edu/articles/metzorahshabbos-hagadol-veggies-for-the-dipping
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rashi, Rabbi Avraham Bedersi, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Saadia Gaon, Ibn Parchon, Ibn Ezra, Rabbi Tanchum HaYerushalmi, Ralbag, Ibn Yachya, Rabbi Yosef Nechemias, Rabbi Baruch Epstein, Rabbi Dr. Ernest Klein, Aquila, Dr. Alexander Kohut, Rabbi Shaul Goldman, Rabbi Alan Yuter, Rabbeinu Manoach, Maharil, Ibn Shuaib, Ben Ish Chai, Rabbi Shmuel of Falaise, Rabbi Yosef Tuv-Elem, Rabbi Yaakov Yisroel Stahl]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Vegetable and green: yerek / yarok / karpas
 
@@ -119,7 +119,7 @@ Arabic.
 ### karpas (כרפס), the word in Esther
 At Achashverosh's banquet the decorations are *chur, karpas, u'secheiles*
 (Esther 1:6). In context, Rabbi Reuven Chaim Klein says, *karpas* fairly clearly refers to
-some sort of fabric, since *chur* and *techeiles* are white and bluish fabrics.
+some sort of fabric, since *chur* and [*techeiles*](blue-sapir-techeiles-kachol.html#%D7%AA%D7%9B%D7%9C%D7%AA) are white and bluish fabrics.
 What sort is disputed:
 
 - Targum Rishon and Targum Sheini associate *karpas* with *karti*, leek, which
@@ -162,7 +162,7 @@ Where Rabbi Shmuel of Falaise got the word: some early Ashkenazi sources give li
 of vegetables for the first dipping, often including *karpasa*. *Machzor Vitri*
 cites such a list in the name of Rashi's *Seder HaPesach*. In the generation
 before Rashi, Rabbi Yosef Tuv-Elem (Bonfils) wrote the piyut *Elokei HaRuchos*,
-the laws of Pesach in rhyme, whose list includes *karpasa* and *kusbarta*;
+the laws of Pesach in rhyme, whose list includes *karpasa* and [*kusbarta*](coriander-gad-kusbarta.html#%D7%9B%D7%95%D7%A1%D7%91%D7%A8%D7%AA%D7%90);
 Ashkenazim traditionally say it on Shabbos HaGadol, and Rabbi Shmuel of Falaise
 wrote a commentary on it (printed in *Ohr Zarua*, *Hilchos Pesachim* §256). It
 seems that he simply Hebraized the Aramaic *karpasa* of *Elokei HaRuchos*. So, Rabbi Reuven Chaim Klein concludes, *karpas* does not mean "vegetable"; it was one example of
@@ -171,9 +171,9 @@ a specific vegetable for the first dipping, listed beside many alternatives.
 Derashos on the word:
 
 - Rabbi Yaakov Moelin (1365 to 1427) in *Sefer Maharil*, and others, read
-  *karpas* as *perech* metathesized plus a samech worth sixty, sixty myriads of
+  *karpas* as [*perech*](hard-kashah-kashiach-perech.html#%D7%A4%D7%A8%D7%9B) metathesized plus a samech worth sixty, sixty myriads of
   Jewish men at backbreaking labor.
-- Others parse *kar* plus *pas*: *kar* as sale (Rosh HaShanah 26a) or rulership
+- Others parse [*kar*](camel-gamal-nakah-becher-kar.html#%D7%9B%D7%A8) plus *pas*: *kar* as sale (Rosh HaShanah 26a) or rulership
   (Yeshayahu 16:1), *pas* as Yosef's *kesones pasim* (Bereishis 37:3), the coat
   that led to the sale that brought Yaakov's family down to Mitzrayim (Rabbeinu
   Manoach; Ibn Shuaib to Tzav; *Ben Ish Chai*, Year 1, Tzav §32).

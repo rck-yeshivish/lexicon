@@ -27,7 +27,7 @@ sources:
   - wiaw:9092 "Purim: Fake Faces" (2021-02-20) https://articles.ohr.edu/articles/purim-fake-faces
   - wiaw:8198 "Top Ten Words for Idols" (2019-03-30) https://articles.ohr.edu/articles/top-ten-words-for-idols
 authorities: [Rabbi Shlomo Ibn Parchon, Rabbi Yehuda Chayyuj, Ibn Janach, Radak, Rashi, Rashbam, Ibn Ezra, Chizkuni, Menachem Ibn Saruk, Donash Ibn Labrat, Rambam, Rabbi Shlomo Pappenheim, Rabbi Ephraim Lenchitz, Rabbi Zerach Eidlitz, Rabbeinu Chananel, Sefer Chassidim, Tosefos Yom Tov, Rabbi Binyamin Mussafia, Rabbi Moshe Chagiz, Rema, Rabbi Yuzpa Shamash, the Rash, Rabbi Dr. Ernest Klein, Avraham Even-Shoshan, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Mask: masveh / masechah / partzuf (suto)
 
@@ -62,13 +62,13 @@ the Purim custom call it wearing *partzufim*.
 - Donash Ibn Labrat, Menachem's famous interlocutor, takes *suto* as *kesuso*,
   "his covering," with a missing KAF.
 
-**Where *masechah* as "mask" comes from.**
+**Where [*masechah*](idols-elilim-gilulim-shikutzim.html#%D7%9E%D7%A1%D7%9B%D7%94) as "mask" comes from.**
 - Ibn Janach and Radak: the root is NUN-SAMECH-KAF, *nesech*, pouring, hence
   molten metal. The same root also carries "hiding" and "covering," and those
   senses, Rabbi Reuven Chaim Klein suggests, would be the bridge to a mask.
 - Alternatively, he offers, the word may be tied to MEM-SAMECH-KAF, mixing, both
   of liquids (Yeshayahu 5:22, Mishlei 9:2, 9:5) and of threads into cloth
-  (*masach*, a curtain; *masechet*, Shoftim 16:13-14), which would make
+  ([*masach*](curtain-parochet-masach-vilon-pargod.html#%D7%9E%D7%A1%D7%9B), a curtain; *masechet*, Shoftim 16:13-14), which would make
   *masechah* and *masveh* near neighbours after all. That root, he adds, seems
   to be congruent with the more familiar MEM-ZAYIN-GIMMEL, "to mix" or "dilute,"
   samech and zayin being interchangeable and kaf and gimmel likewise.

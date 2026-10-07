@@ -27,7 +27,7 @@ sources:
   - wiaw:11677 "Bo: Follow the Leader (Part 1/2)" (2025-02-01) https://articles.ohr.edu/articles/bo-follow-the-leader-part-12
   - wiaw:11678 "Beshalach: Follow the Leader (Part 2/2)" (2025-02-08) https://articles.ohr.edu/articles/beshalach-follow-the-leader-part-22
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Malbim, Rav Hirsch, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Shimon Goldblit, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Yaakov Tzvi Mecklenburg, Rabbi David Chaim Chelouche, Rabbi Yosef Grayever, Rabbi Ezra Reuven Dangoor, Rabbi Yosef Shapotshnick, Menachem Ibn Saruk, Ibn Janach, Ibn Parchon, Radak, Rabbi Shmuel Yehudah Steiger, Yehoshua Yaron, Rabbi Shmuel Ibn Tibbon, Shadal, Rabbi Shlomo of Urbino, Mahari Mintz, Rabbi Yaakov Emden, Pele Yoetz, Sdei Chemed]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Leading: noheg / molich / nachah / nohel
 
@@ -115,7 +115,7 @@ rabbinic usage it is a custom, a settled habit that a person, family, or
 community holds to consistently, and so a rubric that "leads" a man in how to
 act. And just as *noheg* has a dark side, so does *minhag*: many have decried
 customs raised above their worth or plainly problematic, and pointed
-homiletically to *minhag* spelled backwards yielding *gehinnom* (responsa Mahari
+homiletically to *minhag* spelled backwards yielding [*gehinnom*](underworld-gehinnom-sheol-shachat-avadon.html#%D7%92%D7%99%D7%94%D7%A0%D7%95%D7%9E) (responsa Mahari
 Mintz §66, Rabbi Yaakov Emden's *Migdal Oz*, *Beis Middos, Aliyas Vatranus*;
 *Pele Yoetz* s.v. *minhag*; *Sdei Chemed* Klalim Maareches Mem §38).
 
@@ -129,7 +129,7 @@ is not the root's own sense at all but a borrowed or ancillary one. The same
 holds for *yolech* where Hashem "led" the sea with a strong east wind through
 the night (Shemos 14:21), taking charge of a force of nature for the sake of the
 morning's miracle. Though the mem of *molich* is plainly no part of the root,
-Shadal (to Bereishis 36:31) derives *melech*, king, from *molich*, in the sense
+Shadal (to Bereishis 36:31) derives [*melech*](king-melech-moshel.html#%D7%9E%D7%9C%D7%9B), king, from *molich*, in the sense
 that a king leads his people in a given direction. Rabbi
 Shlomo of Urbino's lexicon of Hebrew synonyms *Ohel Moed* lists fifty-seven
 synonyms of *melech* in Biblical Hebrew, all naming a position of leadership or
@@ -197,12 +197,12 @@ On the root:
   *ohel*, a tent, which separates a private space out of a public one; *hilula*,
   a wedding in Talmudic Aramaic, marriage separating a woman from every man but
   her husband, though in later kabbalistic usage the word means the celebration
-  of a yahrzeit; *hallel* and *tehillah*, praise being a way of saying that what
+  of a yahrzeit; [*hallel*](praise-hallel-shevach-hodaah-kilus.html) and *tehillah*, praise being a way of saying that what
   is praised stands out and apart; *holelus*, foolishness, an unworthy pursuit
   one ought to separate from; *hilulim* (Vayikra 19:24), the fourth-year fruits
   set apart to be brought to the Beis HaMikdash; *ahal*, aloe, a fragrance that
   carries farther than others and so is classed separately; *halah*, henceforth,
-  marking off a stretch of time or space; *halom*, here, a place set apart by
+  marking off a stretch of time or space; [*halom*](here-halom-poh-heinah-zeh-koh.html#%D7%94%D7%9C%D7%95%D7%9E), here, a place set apart by
   its importance; *yahal* and *halo*, illumination, since spreading light lets a
   person tell one object from another; and *halmah*, breaking, smashing a thing
   into separate parts.

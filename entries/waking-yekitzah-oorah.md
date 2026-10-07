@@ -18,7 +18,7 @@ sources:
   - wiaw:9473 "Wake-up Time" (2021-12-04) https://articles.ohr.edu/articles/wake-up-time
   - ms:061-wake-up-time.md "Wake-up Time"
 authorities: [Rabbi Shlomo Pappenheim, Rav Hirsch, Malbim, Radak, Ibn Chayyuj, Ibn Janach, Menachem Ibn Saruk, Rabbi Aharon Marcus, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yechezkel Pannet, Shoresh Yesha, Rashi, Tosafos, Targum, Rabbi Nissim of Marseilles]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Waking: yekitzah / oorah
 
@@ -87,11 +87,11 @@ or a drunkard waking from his stupor (Bereishis 9:24; Mishlei 23:35; Tehillim
   *ohr* (skin) is the part of the body left exposed, *ervah* is the exposing of
   what should be covered, and a sleeper, eyes shut, has nothing revealed to him,
   so waking is *oorah*, an entire world now revealed to him. A blind man is an
-  *iver* because it is as though he sleeps a permanent sleep, or (a second
+  [*iver*](blindness-iver-suma-sagi-nahor-sanverim.html#%D7%A2%D7%95%D7%A8) because it is as though he sleeps a permanent sleep, or (a second
   suggestion there) because it is as though a layer of skin sits over his eyes.
 - Pappenheim works the same biliteral ע-ר and reaches "revealing" too, but
   applies it differently: the sleeper's powers are hidden, he appears inert and
-  motionless, and waking reveals them; on that basis he explains *noer*, a
+  motionless, and waking reveals them; on that basis he explains [*noer*](animal-sounds-shoeg-nohem-noer.html#%D7%A0%D7%95%D7%A2%D7%A8), a
   lion's roar, as an outburst that reveals what was in him.
 - Rabbi Nissim of Marseilles (*Maaseh Nissim* p. 268): the *kosnos or* are the
   Torah, which wakes a man to what he should attend to, *or* as in *er*,
@@ -104,7 +104,7 @@ dozing. The concept is alluded to in
 5:2): a man can be in *oorah* while he is still, technically, asleep.
 
 Rabbi Yaakov Tzvi Mecklenburg (1785 to 1865) explains that certain angels are
-called *irin* from *er*, "awake," since they are always awake and cognizant of
+called [*irin*](angel-classes-kruvim-chayos-ishim.html#%D7%A2%D7%99%D7%A8%D7%99%D7%A0) from *er*, "awake," since they are always awake and cognizant of
 man's deeds.
 
 The Targumim always render cognates of *yekitzah* by cognates of *oorah*, so

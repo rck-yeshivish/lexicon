@@ -36,7 +36,7 @@ sources:
   - wiaw:9126 "Vayakhel/Pekudei: Animal Sounds" (2021-03-13) https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds
   - ms:328-animal-sounds.md "Animal Sounds"
 authorities: [Donash Ibn Labrat, Menachem Ibn Saruk, Rashi, Rabbi Nosson of Rome (Sefer HeAruch), Vilna Gaon, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Yechiel Michel Stern, Rabbi David Chaim Chelouche, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Aharon Marcus]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Animal sounds: shoeg / nohem / yehegeh / noer (shokek, nohek)
 
@@ -133,10 +133,10 @@ the pasuk says of the horse, *yasis bechoach* (Iyov 39:21).
 ### Rabbi Pappenheim's biliteral roots
 Beyond the lion's four, Rabbi Pappenheim traces several of these verbs to their
 core two-letter roots. *Goeh*, a cow's moo, comes from ג-ע, exertion to the point
-of exhaustion, which also gives *yagea* (tired), *yegiyah* (toiling) and *geviyah*
+of exhaustion, which also gives [*yagea*](tired-ayef-yaef-yagea.html#%D7%99%D7%92%D7%A2) (tired), *yegiyah* (toiling) and *geviyah*
 (expiration, death), since a cow exerts much effort in letting out those moos.
 *Mitzaftzef*, chirping, comes from צ-ף, the root behind *mitzapeh* and *zipui*
-(coating), *tzofeh* (gaze) and *tzipiyah* (anticipation), the bird's chirp
+(coating), [*tzofeh*](seeing-raah-hibit-tzofeh.html#%D7%A6%D7%95%D7%A4%D7%94) (gaze) and *tzipiyah* (anticipation), the bird's chirp
 expressing its anticipation and hope for its mate or its food. *Novayach*,
 barking, comes from ב-ח, sound that travels through the air, whose only other
 derivative is the first word of *avchas cherev*, the swooshing of a sword
@@ -151,7 +151,7 @@ Root נ-ע-ר. In Tanach it appears once, of a lion cub (Yirmiyahu 51:38); in
 Berachos 3a it is the donkey's bray. Rabbi Nosson of Rome (*Sefer HeAruch*)
 resolves this: the verb properly belongs to the cub, and Chazal used it of a
 donkey in a borrowed sense. Rabbi Pappenheim's ע-ר, "revealing," is the root
-behind *ohr* (skin, the visible part of the body), *ervah* (nakedness), *taar*
+behind *ohr* (skin, the visible part of the body), *ervah* (nakedness), [*taar*](razor-taar-morah.html#%D7%AA%D7%A2%D7%A8)
 (a razor, which reveals the skin), *ar* (an enemy who reveals his enmity), and
 *eir* (awake, when one's powers are suddenly on display).
 
@@ -177,7 +177,7 @@ speaker: the animal just makes sounds, man has the unique ability to produce
 understandable sounds through speech.
 
 ### Two cautions from Rabbi Klein
-Donash also writes in that passage that a rooster (*gever*) is *tzorayach*, but
+Donash also writes in that passage that a rooster ([*gever*](rooster-gever-sechvi-tarnegol.html#%D7%92%D7%91%D7%A8)) is *tzorayach*, but
 that understanding seems to rest on a mistaken reading of Tzefaniah 1:14 and
 Yeshayahu 42:13, which use *tzorayach* for the battle cry of a *gibbor*, a human
 warrior, not of a *gever*. And printed editions of Donash read *nohem* for the

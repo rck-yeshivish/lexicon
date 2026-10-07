@@ -26,7 +26,7 @@ words:
 sources:
   - wiaw:7426 "Forthwith in the Fourth Dimension" (2017-09-16) https://articles.ohr.edu/articles/forthwith-in-the-fourth-dimension
 authorities: [Maharal of Prague, Rabbi Yishaya Pick-Berlin, Rabbi Yaakov Emden, Rabbi Emmanuel Chai Ricci, Rabbi Betzalel Ronsberg, Rav Hai Gaon, Sefer HeAruch, Rashi, Rashba]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Immediately: teikef / miyad / le'alter / otyom
 
@@ -62,7 +62,7 @@ Klein's governing idea, which he says may help shed light on some of the set:
 the joining of space and time, an idea the Maharal of Prague (1525-1609) had
 already expressed long before the space-time continuum entered physics in the
 last hundred years, is reflected in Hebrew, where some words (and even some
-English ones) carry both a spatial and a temporal meaning; *olam* (the whole
+English ones) carry both a spatial and a temporal meaning; [*olam*](forever-olam-netzach-selah-vaed.html#%D7%A2%D7%95%D7%9C%D7%9E) (the whole
 world / forever) and *lifnei* and *acharei* (before and after, in place and in
 time) work the same way.
 

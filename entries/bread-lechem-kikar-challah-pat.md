@@ -39,7 +39,7 @@ sources:
   - wiaw:11276 "Titzaveh: Wet Words" (2024-02-24) https://articles.ohr.edu/articles/titzaveh-wet-words
   - ms:256-let-them-eat-bread.md "Let Them Eat Bread"
 authorities: [Radak, Rabbi Nosson of Rome, Targum Onkelos, Rabbi Dr. Guy Matalon, Jastrow, Ibn Ezra, Netziv, Rabbi Shlomo Pappenheim, Rabbi Elimelech of Lizhensk, Shadal]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Bread: lechem / kikar / challah / pat (rifta, nahamah)
 
@@ -77,7 +77,7 @@ Root ל-ח-ם.
   staple is meat, so *lahm* is meat. On that reading, Rabbi Klein adds,
   historians cannot settle the original meaning of Beis Lechem (Bethlehem),
   which could be read "House of Bread" or "House of Meat."
-- The same root gives *lochem*, to wage war, and *milchamah*; wars were often
+- The same root gives *lochem*, to wage war, and [*milchamah*](war-milchamah-krav-pulmus.html#%D7%9E%D7%9C%D7%97%D7%9E%D7%94); wars were often
   fought over the food supply, and the root also carries soldering or pressing
   things together, which fits both bread, whose parts are fused in baking, and
   combatants closing with each other on a battlefield.
@@ -101,7 +101,7 @@ The word seems literally to mean a circle. In Tanach it most commonly means a
 talent of gold or silver, and secondarily a valley ringed by mountains; loaves
 being commonly round in shape, it came also to mean a loaf, in the phrase *kikar
 lechem* (Shemos 29:23, Shoftim 8:5, Shmuel I 10:3, Yirmiyahu 37:21, Mishlei
-6:26, Divrei HaYamim I 16:3). The Mishnah later shortens the phrase to *kikar*
+6:26, Divrei HaYamim I 16:3). The Mishnah later shortens the phrase to [*kikar*](cake-ugah-chararah-gluskos.html#%D7%9B%D7%9B%D7%A8)
 alone, and there *kikar* for bread is frequent, where in Tanach it is not.
 
 ### challah (חלה)

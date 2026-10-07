@@ -34,7 +34,7 @@ sources:
   - wiaw:7758 "Stop! It's Shavuot!" (2018-05-19) https://articles.ohr.edu/articles/stop-itas-shavuot
   - ms:206-the-seventh-year-of-slipping-away.md "The Seventh Year of Slipping Away"
 authorities: [Ibn Ezra, Ramban, Rashi, Rasag, Ralbag, Targum Onkelos, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Rav Hirsch, Sefer HaChinuch, Rabbi Moshe Elyakim Briah Hopstein, Rabbi Alter HaLevi Hilowitz, Rabbi Moshe Zuriel, Rabbi Yitzchok Avigdor Lubchansky, Shelah, Brown-Driver-Briggs, Maharal, Rabbi Eliyahu Menachem Margulies, Vayikra Rabbah]
-updated: 2026-09-24
+updated: 2026-10-06
 ---
 # Seven: sheva / sheviis / shavua / shabbos / shevuah
 
@@ -92,7 +92,7 @@ the authorities Rabbi Klein brings tie it to *sheva*, though they differ on why.
   to Shabbos, which lends the day's name to the whole; *shavua*, from *sheva*, is
   any seven-day stretch and need not begin on Sunday.
 - Rabbi Dr. Alter HaLevi Hilowitz presumes that *shavua* too means the calendar
-  week, and draws a consequence: if the *shavuos* counted to the festival are
+  week, and draws a consequence: if the [*shavuos*](shavuos-atzeres-katzir-bikkurim.html#%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA) counted to the festival are
   calendar weeks, the count would always begin on a Sunday, which is the
   heretical Tzedoki position; on his account the name Shavuos lends credence to
   it, and that is why Chazal refrained from using it and called the festival
@@ -114,7 +114,7 @@ the authorities Rabbi Klein brings tie it to *sheva*, though they differ on why.
    animals (Bereishis 21:23-33) or a multiple of seven
    (Divrei HaYamim II 15:11-15), so that, Rabbi Klein concludes, it seems the
    number seven was somehow associated with affirming the oath taken, and all
-   oaths came to be called *shevuah* in consequence. *Sefer HaChinuch* (mitzvah
+   oaths came to be called [*shevuah*](vow-neder-shevuah-nedavah.html#%D7%A9%D7%91%D7%95%D7%A2%D7%94) in consequence. *Sefer HaChinuch* (mitzvah
    330) explains the connection between *shevuah* and *sheva*: repeating a
    thing seven times strengthens that speech act and symbolizes its everlasting
    value. Onkelos renders the oath verb at Bereishis 24:9
@@ -143,7 +143,7 @@ the authorities Rabbi Klein brings tie it to *sheva*, though they differ on why.
    to Avos 5:15) sets out three worlds, each with its number: This World, which
    we experience, is four; the Highest World, the Divine world of direct
    emanations from Hashem, is ten; and the Middle World, the celestial world of
-   the *mazalos*, which joins This World to the Highest World as the conduit for
+   the [*mazalos*](fortune-mazal-gad-mazar.html#%D7%9E%D7%96%D7%9C), which joins This World to the Highest World as the conduit for
    Hashem's influx of *shefa*, is seven. Lying between four and ten, seven also
    connotes connecting This World to a higher purpose, a man using his free will
    to choose goodness and holiness, and following such connections reveals the

@@ -24,7 +24,7 @@ sources:
   - wiaw:8644 "Better Late Than …….." (2020-03-14) https://articles.ohr.edu/articles/better-late-than-aeuraeur
   - wiaw:9907 "An Utter Embarrassment" (2022-09-17) https://articles.ohr.edu/articles/an-utter-embarrassment
 authorities: [Rashi, Malbim, Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Avraham Saba, Rav Hirsch, Rabbi David Golumb, Rabbi Aharon Marcus, Rabbi Chanoch Zundel of Bialystok, Piskei HaRosh, Talmidei Rabbeinu Yonah, Maadanei Yom Tov, Isaac Satanow]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Delay: boshesh / ichur / hismahmeah
 
@@ -78,7 +78,7 @@ deliberately staying to bask in Torah.
   upon hours.
 - Malbim similarly, a lateness beyond the lateness.
 - Rabbi Shlomo Pappenheim: *boshesh* is the delay one ought to be ashamed of,
-  tying it directly to *bushah*.
+  tying it directly to [*bushah*](shame-bushah-klimah-cherpah.html#%D7%91%D7%95%D7%A9%D7%94).
 
 The Midrash (*Bereishis Rabbah* 18:6) parses *boshesh* as *ba'u shesh sha'os*,
 "six hours have come," the people reckoning that midday had passed and Moshe was

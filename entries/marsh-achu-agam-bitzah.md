@@ -33,7 +33,7 @@ sources:
   - wiaw:9031 "Marshes, Marshes, Marshes" (2021-01-16) https://articles.ohr.edu/articles/marshes-marshes-marshes
   - ms:099-marshes-marshes-marshes.md "Marshes, Marshes, Marshes"
 authorities: [Rashi, Ramban, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Moshe ben Shem Tov Gabbai, Ibn Janach, Radak, Rabbi Shlomo Aharon Wertheimer, Rabbi Avraham Meir HaKohen Glanzer, Shadal]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Marsh: achu / agam / bitzah (suf)
 
@@ -104,7 +104,7 @@ ground, from *botz*, mud (Yirmiyahu 38:22).
   mucus-like consistency, whose commonest derivative is *beitzah*, an egg,
   typically gooey inside (the singular *beitzah* never appears in Tanach, only
   the plural *beitzim*, as at Devarim 22:6). Mud fits: not pourable like water,
-  not solid either. He also puts *butz* here (Esther 1:6, 8:15, Yechezkel
+  not solid either. He also puts [*butz*](linen-sheish-bahd-butz-pishtim.html#%D7%91%D7%95%D7%A6) here (Esther 1:6, 8:15, Yechezkel
   27:16), linen from flax grown in wet ground like a *bitzah*'s.
 - Rashi renders *bitzah* as *maresc* (to Yechezkel 47:11, Iyov 8:11, *Bava
   Metzia* 74a), and the Talmudic *bitzaim* / *bitzaei mayim*, spelled with an

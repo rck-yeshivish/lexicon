@@ -21,7 +21,7 @@ words:
 sources:
   - wiaw:9795 "Matot: The Names of Jericho" (2022-07-23) https://articles.ohr.edu/articles/matot-the-names-of-jericho
 authorities: [Rashi, Radak, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Josephus, Yossiphon, Rabbeinu Yoel, Peirush HaRokeach, Rabbi Menachem Azaria of Fano, Rabbi Yedidya Tia Weil, Rabbi David Luria, Rabbi Shimon Schwab, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rashash]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Jericho: Yereicho / Yericho (Ir HaTmarim, reyach, yareyach)
 
@@ -103,7 +103,7 @@ that he has seen no source that explicitly ties this to the city's name.
 - Ibn Saruk, Ibn Janach and Radak keep them separate, ר-י-ח for scent and י-ר-ח for the
   moon.
 - Pappenheim derives both from the biliteral ר-ח, air, whose commonest manifestation is
-  *ruach*, wind: because air is light and all but imperceptible, *ruach* is also the soul
+  [*ruach*](soul-nefesh-ruach-neshamah-chayah-yechidah.html#%D7%A8%D7%95%D7%97), wind: because air is light and all but imperceptible, *ruach* is also the soul
   and whatever else is spiritual and beyond the physical senses, and *reyach* is
   accordingly the perception no other sense can register, travelling within the *ruach*;
   the moon is called *yareyach* because its movements somehow control the *ruach*, the

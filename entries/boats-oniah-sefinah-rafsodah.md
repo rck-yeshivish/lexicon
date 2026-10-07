@@ -36,7 +36,7 @@ sources:
   - wiaw:10940 "Bamidbar: Out in the Wild" (2023-05-20) https://articles.ohr.edu/articles/bamidbar-out-in-the-wild
   - ms:076-boats-ships-and-nautical-rhapsody.md "Boats, Ships, and Nautical Rhapsody"
 authorities: [Rashi, Radak, Ibn Ezra, Ralbag, Malbim, Rav Hirsch, Rabbi Shlomo Pappenheim, Rambam, Abarbanel, Sumchos, Rabbi Yaakov ben Yehudah Chazzan of London, Rabbi Dr. Daniel Sperber, Raphael Patai, Chaim Tawil, Shoresh Yesha, Menachem Ibn Saruk, the Vilna Gaon]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Boats: oniah / sefinah / rafsodah (and the smaller craft)
 
@@ -83,7 +83,7 @@ pulling in different directions: from *saf*, a liquid receptacle it resembles in
 shape (Shemos 12:22; Shmuel II 17:28); from *safah*, "edge," since when not in use
 it is typically housed at a port along the sea's edge; from its being less seaworthy than
 an *oniah*, so that it must be kept closer to shore and is unsuitable for
-deep-sea work; or from *tzafun*/*safun*, "hidden" or "embedded," since goods were
+deep-sea work; or from *tzafun*/[*safun*](hidden-tzafun-safun-tamun-ganuz.html#%D7%A1%D7%A4%D7%95%D7%A0), "hidden" or "embedded," since goods were
 typically packed away and carried on it (Devarim 33:19 with Abarbanel there). Only the third would make the two words differ, and Pappenheim himself only
 suggests it. Rabbi Klein adds that he
 seems to recall commentators explaining *safun* of the hull being immersed, and
@@ -126,7 +126,7 @@ Pappenheim traces it to the biliteral א-ן, "where," since a ship goes where th
 water pushes it, so a watcher asks where it is bound; Rav Hirsch (to Bereishis
 16:8) says only that the *oniah* brings a person to a "where."
 
-Abarbanel (to Bereishis 6:14-22): Noach was told to build a *teivah*, shaped
+Abarbanel (to Bereishis 6:14-22): Noach was told to build a [*teivah*](ark-teivah-aron.html#%D7%AA%D7%99%D7%91%D7%94), shaped
 like a chest, since it had none of the mast, sail and oars of a *sefinah* or an
 *oniyah*.
 
@@ -164,12 +164,12 @@ the Old Danish *rafft*, a stick or beam.
 *Avarah*, the ferry (Shmuel II 19:19), from *l'avor*, appears in the Gemara as
 *ma'abara* or *mavra* (Shabbos 32a, Bava Kamma 116a). *Siros dugah* are fishing
 boats (Rashi and Radak to Amos 4:2), the Mishnaic equivalent being *dugit* (Bava
-Basra 73a); Rabbi Dr. Daniel Sperber derives *dugit* from *dag*, fish, and
+Basra 73a); Rabbi Dr. Daniel Sperber derives *dugit* from [*dag*](fish-dag-dagah.html#%D7%93%D7%92), fish, and
 identifies it with the fisherman's boat the Greeks called a *lembus*. *Tzi* and
 *tzim* are the large ships (Rashi to Bamidbar 24:24, Yeshayahu 23:13, and
 *Sanhedrin* 106a), which Malbim adds are typically warships, built big and
 strong. Radak (*Sefer HaShorashim*) traces *tzi* (Yeshayahu 33:21) and *tzim*
-(Bamidbar 24:24) to the same root as *tziyah*, parched land, without explaining
+(Bamidbar 24:24) to the same root as [*tziyah*](wilderness-midbar-aravah-tziyah.html#%D7%A6%D7%99%D7%94), parched land, without explaining
 the link; *Shoresh Yesha* explains it either that on the high seas there are only
 water and ships, so that as a *tziyah* is the opposite of a watered land, a *tzi*
 is the opposite of water, or that a hull's function is to keep the water out,

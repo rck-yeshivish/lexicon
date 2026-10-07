@@ -36,7 +36,7 @@ sources:
   - wiaw:11743 "Pekudai: Seeing Red (Part 2/3)" (2025-03-29) https://articles.ohr.edu/articles/pekudai-seeing-red-part-23
   - wiaw:11763 "Vayikra: Seeing Red (Part 3/3)" (2025-04-05) https://articles.ohr.edu/articles/vayikra-seeing-red-part-33
 authorities: [Radak, Ibn Janach, Menachem Ibn Saruk, Ibn Ezra, Mahari Kara, Rabbi Saadia Gaon, Rabbi Avraham Maimuni, Raavad, Rash M'Shantz, Meiri, Malbim, Rashbam, Chizkuni, Ramban, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi-Ashkenazi, Shadal, Rabbi Eliyahu HaBachur, Rabbi Tanchum HaYerushalmi, Rashi, pseudo-Rashi, Rema, Sefer HeAruch, Rabbeinu Chananel, Ohr HaChaim, Rabbi Yaakov Hibbert, Rabbi Yosef Noach Wilkover, Midrash Chefetz, Meor HaAfeilah, Rabbi Ernest Klein, Marcus Jastrow, David J. A. Clines, Alexander Kohut]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Red: adom / shani / chamutz (and the rest)
 
@@ -73,7 +73,7 @@ in some later sources *seems* to mean **brown**. *Chachlilei* is a drinker's
 
 **Whether *chachlilei* is red.** Rabbi Moshe Tedeschi-Ashkenazi makes it the
 reddened white of the eye, from *kalil*, "crown"; others,
-like Ramban (to Bereishis 49:12), connect the word instead to *kachol*, blue.
+like Ramban (to Bereishis 49:12), connect the word instead to [*kachol*](blue-sapir-techeiles-kachol.html#%D7%9B%D7%97%D7%95%D7%9C), blue.
 
 ## Distinctions
 
@@ -82,7 +82,7 @@ Root א-ד-ם. The adjective appears nine times in Tanach (Esav's lentil stew,
 Bereishis 25:30; the beloved's complexion, Shir HaShirim 5:10; *parah adumah*,
 Bamidbar 19:2), with *admoni*, "ruddy," three times, of Esav and of Dovid
 HaMelech (Bereishis 25:25; Shmuel I 16:12, 17:42), and *adamdam*, "reddish," six
-times of *tzaraas* discolorations in Vayikra 13-14. The verb forms, "to redden"
+times of [*tzaraas*](leprosy-tzaraas-nega-metzora.html#%D7%A6%D7%A8%D7%A2%D7%AA) discolorations in Vayikra 13-14. The verb forms, "to redden"
 or "to dye red," appear ten times, a plurality of them the red-dyed hides of the
 Mishkan (Shemos 25:5, 26:14, 35:7, 35:23, 36:19, 39:34), with Yeshayahu's
 metaphor of sins red as crimson (Yeshayahu 1:18) and Nachum's shields reddened
@@ -92,8 +92,8 @@ Mars, the red planet; *adamdemes*, rubella in Modern Hebrew; and Edom, the secon
 name of Esav and his descendants, on account of the red lentils (Bereishis
 25:30).
 
-Rav Hirsch (to Bereishis 1:26) turns the usual derivation around: *adamah* comes
-from *adam*, and not *adam* from *adamah*, since being formed of the earth is
+Rav Hirsch (to Bereishis 1:26) turns the usual derivation around: [*adamah*](land-eretz-adamah.html#%D7%90%D7%93%D7%9E%D7%94) comes
+from *adam*, and not *adam* from [*adamah*](land-eretz-adamah-ratzon.html#%D7%90%D7%93%D7%9E%D7%94), since being formed of the earth is
 nothing peculiar to man, the animals sharing it. What sets man apart is a
 corporeal body joined to a supernal soul, which makes him the more like Hashem,
 who is wholly incorporeal. On that reading *adam* is tied to *adom*: red lies at
@@ -120,7 +120,7 @@ from a worm, since *tola'as* is the Hebrew for worm (see Yerushalmi *Kilayim* 9:
 and Malbim to Yeshayahu 1:18). Pseudo-Rashi (Divrei HaYamim II 2:6) writes that
 *carmil*, or *carmel* in Ibn Janach's and Radak's *Sefer HaShorashim*, refers to
 the same crimson cloth as *tola'as shani*, and Rabbi Moshe Tedeschi-Ashkenazi
-sees that word as related to *rimah*, another kind of worm.
+sees that word as related to [*rimah*](worm-rimah-toleah.html#%D7%A8%D7%99%D7%9E%D7%94), another kind of worm.
 
 The English *crimson* runs on the same idea: it derives from the
 Proto-Indo-European root *kwrmi-*, "worm" or "mite," reaching English by way of
@@ -173,7 +173,7 @@ also has *adumim* horses (6:2), Radak adds that *chamutz* / *amutz* differs from
 
 - Rabbi Moshe Tedeschi-Ashkenazi clarifies that the shade of *amutz* resembles
   the color of a chestnut, what we might call burgundy. He also *suggests* that
-  the root א-מ-ץ in the sense of strength (*ometz* / *amatz*) may derive from
+  the root א-מ-ץ in the sense of strength ([*ometz*](strength-koach-gevurah-ometz-chozek.html#%D7%90%D7%9E%D7%A6) / *amatz*) may derive from
   this meaning, since in girding one's strength the red blood inside begins to
   boil in the red parts of the innards; Rabbi Reuven Chaim Klein remarks that he
   is not sure what this means.
@@ -196,7 +196,7 @@ Chizkuni also cite Melachim II 3:22 to that effect.
 
 ### seruk (שרוק) and the rouge words
 *Seruk*: Zecharyah's other vision of red horses calls them *susim adumim serukim*
-(Zecharyah 1:8); *sorek* is a high-quality red grape (Bereishis 49:11, Yeshayahu
+(Zecharyah 1:8); [*sorek*](grapevine-gefen-sorek-shdeimah.html#%D7%A9%D7%95%D7%A8%D7%A7) is a high-quality red grape (Bereishis 49:11, Yeshayahu
 5:2, 16:8, Yirmiyahu 2:21). This word looks like *zerach*
 in another way, since it *seems* cognate to the Arabic *sharaqa*, "shining
 brightly," and the Persian *sorkh*, "red" or "scarlet," which again links shining
@@ -248,7 +248,7 @@ Granada, originally *al hamra*, "the red [palace]." Rabbi Ernest Klein writes
 that Hebrew *chemar*, asphalt or bitumen, is so called for its reddish-brown
 color, and explains *chomer*, matter or material, as originally referring to
 clay, which has a reddish hue, a point Ibn Ezra makes similarly in his Long
-Commentary to Shemos 2:3. Klein further *suggests* that *chamor*, donkey, and
+Commentary to Shemos 2:3. Klein further *suggests* that [*chamor*](donkey-chamor-aton-pere-ayir-pered.html#%D7%97%D7%9E%D7%95%D7%A8), donkey, and
 *yachmur*, roebuck, derive from this word for red, in the sense of a red animal,
 adducing as a parallel the Spanish *burro*, which he holds derives ultimately
 from Late Latin *burrus*, "red," itself a corruption of Greek *purros*,
@@ -317,7 +317,7 @@ interchangeability of reish and lamed, *al* serving as the definite article as i
 does in Arabic, so that the word means "*the* color," red sticking out more than
 other colors and so being the superlative color. Separately, various Yemenite
 exegetes (*Midrash Chefetz* and *Meor Ha'Afeilah* to Shemos 25:4) follow the
-approach that *argaman* is a shade of red and then must explain how it differs
+approach that [*argaman*](purple-argaman-segol-lilach.html#%D7%90%D7%A8%D7%92%D7%9E%D7%A0) is a shade of red and then must explain how it differs
 visually from *tola'as shani*, which is also red: *argaman* is a yellowish red,
 perhaps nearer what we would call orange, while *tola'as shani* is the stronger,
 deeper red.

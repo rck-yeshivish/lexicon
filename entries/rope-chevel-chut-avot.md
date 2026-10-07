@@ -38,7 +38,7 @@ words:
 sources:
   - wiaw:10974 "Shelach: Learning the Ropes" (2023-06-10) https://articles.ohr.edu/articles/shelach-learning-the-ropes
 authorities: [Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Abarbanel, Targum Yonasan, Targum Onkelos, Malbim, Rashi, Rav Hirsch, Rabbi David Chaim Chelouche, Rabbi Amitai Ben-David, Rabbi Ernest Klein]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Rope: chevel / chut / avot (kevel, eitun, meitar, moseirah)
 
@@ -83,7 +83,7 @@ Shimshon snaps the thick ropes off his arms as though they were thread.
 **Whether the spies' rope and Rachav's marker were the same object.** The
 narrative uses three words: Rachav lowered the spies through the window on a
 *chevel* (Yehoshua 2:15), and the sign she was to tie
-in the window is a *tikvah* or *chut* (2:18, 2:21). Abarbanel argues that the
+in the window is a [*tikvah*](trust-bitachon-machseh-tikvah.html#%D7%AA%D7%A7%D7%95%D7%94) or *chut* (2:18, 2:21). Abarbanel argues that the
 *chevel* the spies descended on was the very *chut* Rachav tied as a sign, even
 though the pesukim use two different words. The commentators connect *tikvah*
 with *kav*, straight, a plumb line.
@@ -108,7 +108,7 @@ Yerushalayim, the *Gesher HaMeitarim*.
 
 - Radak: ropes of high-grade Egyptian linen.
 - Rabbi Shlomo Pappenheim: not a cord at all, but cloth sewn full of holes, from
-  the same biliteral root as *tene*, a wicker basket.
+  the same biliteral root as [*tene*](basket-tene-sal-keluv.html#%D7%98%D7%A0%D7%90), a wicker basket.
 
 **Whether *kevel* belongs here.** Rabbi Reuven Chaim Klein notes that he has not
 seen it stated explicitly, but it seems to him that *kevel* and *chevel* are

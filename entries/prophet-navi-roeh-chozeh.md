@@ -24,7 +24,7 @@ sources:
   - wiaw:8052 "Prophets and Visionaries" (2018-12-29) https://articles.ohr.edu/articles/prophets-and-visionaries
   - ms:091-prophets-and-visionaries.md "Prophets and Visionaries"
 authorities: [Rashi, Rashbam, Ibn Ezra, Rabbi Yonah Ibn Janach, Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Malbim, Vilna Gaon, Rabbi Aharon Marcus, Targum Onkelos, Rasag, Bereishis Rabbah, Chasam Sofer]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Prophet: navi / roeh / chozeh
 
@@ -83,7 +83,7 @@ something else, such as "Nobite"; if the *aleph* is not part of the root, then i
 is possible the seal really was the prophet's.
 
 *Bereishis Rabbah* (44:6), on *hayah dvar Hashem el Avram bamachazeh*: prophecy
-is called by ten names, among them *chazon*, *hatafah*, *dibbur*, *amirah*,
+is called by ten names, among them *chazon*, *hatafah*, [*dibbur*](speech-dibbur-amirah.html#%D7%93%D7%99%D7%91%D7%95%D7%A8), *amirah*,
 *tzivui*, *masa*, *mashal*, *melitzah* and *chidah*. Which is the harshest?
 Rabbi Eliezer says *chazon*, Rabbi Yochanan says *dibbur*, and the Rabbanan say
 *masa*.
@@ -116,10 +116,10 @@ there are two ranks. *Roeh* is the Hebrew word for one who sees and belongs to
 the earliest prophets, whose visions were sharp; *chozeh* is the Aramaic word
 for one who sees, and later prophets bear the Aramaic term because Hebrew is
 considered the more spiritually attuned language, so the Aramaic marks a vision less
-clearly grasped. Accordingly the earlier prophet's vision is a *mareh* and the
+clearly grasped. Accordingly the earlier prophet's vision is a [*mareh*](color-tzeva-gavan-ein-mareh.html#%D7%9E%D7%A8%D7%90%D7%94) and the
 later prophet's a *chazon* or *machazeh*. *Machazeh* denotes a
 lower level of prophecy; Rabbi Aharon Marcus points out that this
-is the type Avraham Avinu experienced before his *milah* (Bereishis 15:1) and,
+is the type Avraham Avinu experienced before his [*milah*](cutting-bokea-korea-gozer.html#%D7%9E%D7%99%D7%9C%D7%94) (Bereishis 15:1) and,
 later, the heathen prophet Bilaam (Bamidbar 24:4, 24:16).
 
 ### navi as spokesman (Shemos 7:1)

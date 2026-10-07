@@ -27,7 +27,7 @@ sources:
   - wiaw:9070 "Yitro: Just Winging It" (2021-02-06) https://articles.ohr.edu/articles/yitro-just-winging-it
   - ms:180-fowl-language-and-poultry.md "Fowl Language and Poultry"
 authorities: [Rashi, Radak, Rabbi Yom Tov Lipman Heller, Sifri, Rambam, Ramban, Rabbi Chanoch Zundel of Bialystok, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Bird: of / tzipor / kanaf
 
@@ -63,10 +63,10 @@ Rashi reads *kol kanaf* as including what *kol tzipor* had not covered.
 
 **Which way the name runs.**
 
-- Ramban (to Vayikra 14:4): *tziporim* are named for *tzafra*, the morning, when
+- Ramban (to Vayikra 14:4): *tziporim* are named for [*tzafra*](morning-shachar-boker-tzafra.html#%D7%A6%D7%A4%D7%A8%D7%90), the morning, when
   they rouse and chirp.
 - Rabbi Aharon Marcus (*Keses HaSofer* to Bereishis 7:14): the reverse. *Tzipor*
-  is named for the *tziftzuf*, chirping, of most kinds, and the morning is
+  is named for the [*tziftzuf*](whistle-shreikah-tziftzuf.html#%D7%A6%D7%A4%D7%A6%D7%95%D7%A4), chirping, of most kinds, and the morning is
   called *tzafra* for them.
 
 ## Distinctions
@@ -105,7 +105,7 @@ criterion: the Torah simply lists the non-kosher birds (Vayikra 11:13-19), and i
 is the Mishnah (Chullin 3:6) that reveals the criterion, that any predatory bird
 is non-kosher. So Ramban's *tzipor* and Rambam's kosher *tzipor* turn out to
 describe the same creature.
-The *mussar* he draws: one who trusts that Hashem provides can rest; one who
+The [*mussar*](rebuke-mussar-tochachah.html#%D7%9E%D7%95%D7%A1%D7%A8) he draws: one who trusts that Hashem provides can rest; one who
 believes only in his own hands is never at ease.
 
 Rabbi Aharon Marcus (*Keses HaSofer* to Bereishis 7:14): *tzipor* is named for

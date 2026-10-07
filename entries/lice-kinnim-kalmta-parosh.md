@@ -31,7 +31,7 @@ words:
 sources:
   - wiaw:11666 "VaEra: Lice Ain't Nice" (2025-01-25) https://articles.ohr.edu/articles/vaera-lice-aint-nice
 authorities: [Ibn Janach, Menachem Ibn Saruk, Ibn Parchon, Radak, Rashbam, Ibn Ezra, Rabbi Shlomo Pappenheim, Rav Hirsch, Targum Onkelos, Targum Yonasan, Rashi, Metzudas Tzion, Malbim, Rabbi Dovid Tzvi Hoffmann, Tosafos, Tosafos HaRosh, Sefer HeAruch, Rabbi Nosson of Rome, Ludovicus de Dieu, Shadal, Rosenmuller, Gesenius, Avraham Even-Shoshan, Alexander Kohut, Peretz Smolenskin, Chaim Tawil, Daniel Vainstub, Rabbi Dr. Yitzchak Greenblatt, Rabbi Shaul Goldman]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Lice: kinnim / kinam / kinah (kalmta, parosh)
 
@@ -61,8 +61,8 @@ possibility at Yeshayahu 51:6, and others took it up, Malbim among them.
 **Where kinnim comes from.** Both readings run through Pappenheim's biliteral
 כ-ן, whose core sense he gives as "base", the root of *kein* and *nachon* (a
 claim resting on a valid basis), *tochnis* and *hachanah* (the groundwork of
-any undertaking), *kohen* (who sees to the preparations for the *avodah*),
-*kavanah*, and *kan*, a stand or base on which a thing rests.
+any undertaking), [*kohen*](priest-kohen-komer.html#%D7%9B%D7%94%D7%A0) (who sees to the preparations for the [*avodah*](work-melachah-avodah.html#%D7%A2%D7%91%D7%95%D7%93%D7%94)),
+*kavanah*, and [*kan*](platform-kan-duchan-bimah-basis.html#%D7%9B%D7%A0), a stand or base on which a thing rests.
 
 1. **From kinui, an epithet.** Rabbi Shlomo Pappenheim (*Cheshek Shlomo*): a
    *kinui* is a linguistic base for referring to something without saying its
@@ -110,7 +110,7 @@ die *kein*", and Bamidbar 13:33, "and so were we *kein* in their eyes".
   there; Avraham Even-Shoshan favors it in his concordance of Biblical Hebrew,
   as does Rabbi Dovid Tzvi Hoffmann (to Shemos 8:12).
 - At Bamidbar 13:33 it is Malbim who, in light of all that, suggests reading
-  *kein* as "louse": the *meraglim* felt themselves grasshoppers in their own
+  *kein* as "louse": the [*meraglim*](spying-latur-leragel.html#%D7%9E%D7%A8%D7%92%D7%9C%D7%99%D7%9E) felt themselves grasshoppers in their own
   eyes and as insignificant as lice in the giants'.
 
 ## Distinctions

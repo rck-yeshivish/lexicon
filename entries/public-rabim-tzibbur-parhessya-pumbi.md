@@ -30,7 +30,7 @@ words:
 sources:
   - wiaw:11449 "Chukas: Out in Public" (2024-07-13) https://articles.ohr.edu/articles/chukas-out-in-public
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Eliyahu HaBachur, Sefer HeAruch, Rabbi David Golumb, Rav Hirsch, Rabbi Ernest Klein]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Public: b'rabim / b'tzibbur / parhessya / pirsum / b'pumbi
 
@@ -73,7 +73,7 @@ midst of the *rabim* I will praise Him" (Tehillim 109:30). The Mishnah's *yadua
 l'rabim*, a vow known to the masses (Gittin 4:7), is the same usage.
 
 Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) traces *rabim* to the biliteral
-ר-ב, which he defines as quantitative increase: *rav*/*harbeh* (many), *arbeh*
+ר-ב, which he defines as quantitative increase: *rav*/*harbeh* (many), [*arbeh*](locust-arbeh-gazam-yelek-chasil.html#%D7%90%D7%A8%D7%91%D7%94)
 (grasshoppers, since locusts tend to swarm in multitudes), *arubah* (a sunroof or
 skylight, letting in much light), *rahav* (haughtiness, more self-pride than is
 normal), and *ribo* (a myriad, an inflated number that sometimes equals ten

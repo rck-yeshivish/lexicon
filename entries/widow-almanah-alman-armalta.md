@@ -26,7 +26,7 @@ sources:
   - wiaw:11817 "Emor: A Window into Widows (Part 1/2)" (2025-05-17) https://articles.ohr.edu/articles/emor-a-window-into-widows-part-12
   - wiaw:11816 "Behar/Bechukosai: A Window into Widows (Part 2/2)" (2025-05-24) https://articles.ohr.edu/articles/beharbechukosai-a-window-into-widows-part-22
 authorities: [Ibn Janach, Radak, Rabbi Shlomo Ibn Parchon, Rav Hirsch, Theological Dictionary of the Old Testament, Rav Chana of Baghdad, Chasam Sofer, Rabbi Yaakov Tzvi Mecklenburg, Ritva, Rashi, Rabbi Betzalel Ashkenazi, Rabbi Yehuda Aryeh of Modena, Rabbi Shmuel Strashun, Peirush HaRokeach, Ben Yehoyada, Zohar, Rabbi Aharon Berechiah of Modena, Rabbi Mordechai Spielman, Targum Yonasan, Rabbi Saadia Gaon, Rabbi Yehudah Ibn Balaam, Mahari Kara, Abarbanel, Malbim, Ibn Ezra, Ibn Kaspi, Rabbi Shlomo Eiger, Rabbi David Chaim Chelouche, Rambam, Rabbi Shabsai Frankel, Rabbi Ernest Klein, Jacob Barth, Theodor Noldeke, Rudolf Ruzicka]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Widow: almanah / alman / armalta (karmelis)
 
@@ -63,7 +63,7 @@ The readings:
 
 1. **From א-ל-ם, muteness.** Ibn Janach (*Sefer HaShorashim*): the widow is left
    muted, with nobody to argue for her if anyone fights with her, and the nun is
-   the agent suffix, as *rachamim* yields *rachaman*. Radak (*Sefer
+   the agent suffix, as [*rachamim*](judgment-din-rachamim.html#%D7%A8%D7%97%D7%9E%D7%99%D7%9E) yields *rachaman*. Radak (*Sefer
    HaShorashim*), Rabbi Shlomo Ibn Parchon (*Machberes HeAruch*), and Rav
    Hirsch (to Shemos 22:21) cite it approvingly. Menachem Ibn Saruk omits
    *almanah* and *alman* from *Machberes Menachem* entirely, so there is no way
@@ -80,7 +80,7 @@ The readings:
    part (*manah*) of him is not (*al*). The Chasam Sofer makes clear that his
    reading is homiletic, since on the literal plane there is no basis for
    expounding Biblical nouns so; he illustrates it ironically, that one cannot
-   derive *lechem* from *milchamah* and rule that a man may not eat bread until
+   derive [*lechem*](bread-lechem-kikar-challah-pat.html#%D7%9C%D7%97%D7%9E) from [*milchamah*](war-milchamah-krav-pulmus.html#%D7%9E%D7%9C%D7%97%D7%9E%D7%94) and rule that a man may not eat bread until
    he has fought over it (though some exegetes have offered
    comparable explanations of *lechem*).
 4. **From "deserted."** Rabbi Shlomo Eiger (*Gilyon Maharsha* to Kesubos 2a),

@@ -20,7 +20,7 @@ sources:
   - wiaw:10907 "Acharei Mos: Confronting Death" (2024-05-04) https://articles.ohr.edu/articles/acharei-mos-confronting-death
   - ms:193-confronting-death.md "Confronting Death"
 authorities: [Rabbi Yehuda Chayyuj, Ibn Janach, Rabbi Shlomo Ibn Parchon, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Moshe Shapiro, Rabbi Avraham Chaim Schor, Shadal]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Death: mitah / petirah (nifter)
 
@@ -71,7 +71,7 @@ names the conclusion of life and says nothing of what follows. Even the wicked
 have a *mitah*.
 
 Shadal (to Bereishis 25:8): *misah* is the general word; *geviah* is the death
-of the body and *asifah* the death of the soul.
+of the body and [*asifah*](gathering-asifah-kovetz-kehillah-agur.html#%D7%90%D7%A1%D7%99%D7%A4%D7%94) the death of the soul.
 
 ### petirah (פטירה), nifter (נפטר)
 Root פ-ט-ר, "exit": in Tanach the firstborn animal that exits its mother's womb

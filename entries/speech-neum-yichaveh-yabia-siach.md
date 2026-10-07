@@ -26,7 +26,7 @@ words:
 sources:
   - wiaw:9266 "Balaam's Numa" (2021-06-26) https://articles.ohr.edu/articles/balaams-numa
 authorities: [Menachem Ibn Saruk, Ibn Janach, Ibn Chayyuj, Radak, Rabbi Shlomo Pappenheim, Peirush HaRokeach, Siddur HaRokeach, Rabbeinu Efrayim, Sefer HeAruch, Rabbi Gershon Shaul Yom Tov Lipmann Heller, Rabbi Yechezkel Landau, Rabbi Binyamin Mussafia, Ibn Ezra, Abudraham, Dr. Shlomo Mandelkorn, Ernst Daniel Goldschmidt, Oxford English Dictionary]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Speech: ne'um / yichaveh / yabia / siach
 
@@ -120,11 +120,11 @@ On the Yom Kippur *Mussaf piyyut* "*zechor... namta*":
 
 - Abudraham reads *namta* as a cognate of *ne'um*.
 - Pappenheim objects that it cannot possibly be read as *namta*, since that
-  would mean "You who slumbered," from the noun *tenumah*, "sleep"; he suggests
+  would mean "You who slumbered," from the noun [*tenumah*](sleep-sheinah-tardeimah-tenumah.html#%D7%AA%D7%A0%D7%95%D7%9E%D7%94), "sleep"; he suggests
   *ne'umta* if the poet meant to follow a biblical Hebrew style, or *numisa* if
   a rabbinic one, and he mentions and endorses an alternate version registering
   the word as *sachta*, a cognate of *sichah*. That alternate version is also
-  found in the *machzor* edited by Ernst Daniel Goldschmidt (1895 to 1972).
+  found in the [*machzor*](book-sefer-iggeret-megillah.html#%D7%9E%D7%97%D7%96%D7%95%D7%A8) edited by Ernst Daniel Goldschmidt (1895 to 1972).
 - Rabbi Landau nevertheless concludes that *namta* as "You said" is also
   correct.
 

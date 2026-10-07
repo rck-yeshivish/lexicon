@@ -31,7 +31,7 @@ sources:
   - wiaw:9642 "Haircut Time" (2022-04-02) https://articles.ohr.edu/articles/haircut-time
   - wiaw:8217 "Pesach: Telling the Story" (2019-04-13) https://articles.ohr.edu/articles/pesach-telling-the-story
 authorities: [Rashi, Targum Onkelos, Mahari Kara, Ibn Ezra, Rabbi Yehuda Ibn Kuraish, Radak, Rav Hirsch, HaKsav VeHaKabbalah, Rabbi Shlomo Pappenheim, Rabbi Yehoshua Steinberg, Rabbi David Golumb, Rabbi Avraham Rivlin, Rabbi Benzion Chaim Lubetzki, Ramak, Rabbi Saadia Gaon, Rabbi Avraham Yitzchok Shain, Rabbi Pinchas of Koretz, Rabbi Ernest Klein, Wilhelm Gesenius, Rabbi Moshe Shapiro]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Border: gevul / techum / meitzar / sfar
 
@@ -70,7 +70,7 @@ Rav Hirsch (to Shemos 7:27): *gevul* at its core is the whole area within the bo
 with frogs (Shemos 7:27) and brings locusts into his *gevul* (Shemos 10:4);
 chametz is forbidden "in all your borders" (Shemos 13:7). The frogs fill the whole country, and the last two cases likewise take in a whole country (see *Yerios
 Shlomo* p. 836 and *HaKsav VeHaKabbalah* to Shemos 13:7). Rav Hirsch links
-*gevul* to *yevul*, produce, what one brings inside one's bounds, on the
+*gevul* to [*yevul*](food-ochel-shever-tevuah-dagan.html#%D7%99%D7%91%D7%95%D7%9C), produce, what one brings inside one's bounds, on the
 gimmel/yud interchange.
 
 Radak (*Sefer HaShorashim*) adds *givlim*, "stonecutters" (Melachim I 5:32),
@@ -167,7 +167,7 @@ The etymology is not immediately clear.
   cities are typically surrounded all around by a city wall that protects them
   from invasion.
 - Rabbi Moshe Shapiro holds that all words from ס-פ-ר are interrelated: as a
-  *sippur* joins many details into one holistic unit, a *sfar*, whether the
+  [*sippur*](telling-haggadah-sippur.html#%D7%A1%D7%A4%D7%95%D7%A8) joins many details into one holistic unit, a *sfar*, whether the
   border of a country or the city limits, confines everything within it and
   makes it one unit.
 - Ramak (*Pardes Rimonim*, shaar 8 ch. 2) uses *sfar* to explain *sefirah*: as a

@@ -23,7 +23,7 @@ sources:
   - wiaw:7579 "Plague of Plagues" (2018-01-13) https://articles.ohr.edu/articles/plague-of-plagues
   - ms:098-plague-of-plagues.md "Plague of Plagues"
 authorities: [Rashi, Abarbanel, Rabbeinu Chananel, Malbim, Rabbi Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Yair Chaim Bachrach (Chavos Yair), Rabbi Chaim Kanievsky]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Plague: dever / mageifah / negef
 
@@ -66,7 +66,7 @@ words does not lie in the extent of their impact. Rabbi Chaim Kanievsky holds
 ## Distinctions
 
 ### dever (דבר)
-The fifth *makkah*, the sudden death of Egypt's horses, donkeys, camels, cattle
+The fifth [*makkah*](flogging-makkot-malkut.html#%D7%9E%D7%9B%D7%94), the sudden death of Egypt's horses, donkeys, camels, cattle
 and sheep, and the word Moshe uses twice in warning about the tenth (Shemos 5:3,
 9:15). That *dever* denotes a plague bringing death finds support in the cognate
 languages: in other Semitic languages words spelled DBR mean "death."

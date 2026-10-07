@@ -26,7 +26,7 @@ words:
 sources:
   - wiaw:11793 "Tazria/Metzora: Spot on (Tzar'at)" (2025-05-03) https://articles.ohr.edu/articles/tazriametzora-spot-on-tzarat
 authorities: [Arizal, Rav Hirsch, Rabbi Shlomo Pappenheim, Ibn Ezra, Rabbi Yonah Ibn Janach, Menachem Ibn Saruk, Radak, Peirush HaRokeach, Rabbi Menachem Deutsch, Rabbi Shlomo Tzvi Shick, Rabbi Eliezer Perlmutter, Shadal, Rabbi Moshe David Valle, Rabbi Yehudah Aryeh of Carpentras, Rabbi Tzvi Hirsch Ferber, Rabbi Avi Kobernick, Midrash Tadshe, pseudo-Rashi, Moshe Ossi, Gesenius, Alfred Jones]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Leprosy: tzaraas / nega / tzarua / metzora
 
@@ -166,12 +166,12 @@ carries touching (*nogea*), reaching (*hagaah*), and striking (*naga*).
   נ-ג-ע with נ-ג-ח, ayin interchanging with ches: *negichah*, goring, is a
   violent impact, *negiah* can be the lightest touch, and a *nega* is the nexus
   between a man and a Divine message meant to rouse him to teshuvah.
-- The chassidishe adage on *nega* and *oneg*, the same letters reordered, turns
+- The chassidishe adage on *nega* and [*oneg*](pleasure-oneg-eden-pinuk.html#%D7%A2%D7%95%D7%A0%D7%92), the same letters reordered, turns
   on where one puts the *ayin*, that is, on how the eye sees what has come.
 
 ### tzarua (צרוע) and metzora (מצורע)
 Both are declensions of צ-ר-ע. *Tzarua* appears five times (Vayikra 13:44-45,
-14:3, 22:4; Bamidbar 5:2), for instance where a leper may not eat *terumah*
+14:3, 22:4; Bamidbar 5:2), for instance where a leper may not eat [*terumah*](waving-terumah-tenufah.html#%D7%AA%D7%A8%D7%95%D7%9E%D7%94)
 (Vayikra 22:4) or must be sent from the camp (Bamidbar 5:2); *metzora* appears fifteen, including the
 opening of the purification laws (Vayikra 14:2), Naaman (Melachim II 5:1),
 Geichazi (5:27), and Uziyahu (Melachim II 15:5, Divrei HaYamim II 26:21-23). The

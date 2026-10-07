@@ -21,7 +21,7 @@ words:
 sources:
   - wiaw:9723 "More Cheese Please" (2022-06-04) https://articles.ohr.edu/articles/more-cheese-please
 authorities: [Rabbi Shimshon of Ostropoli, Ralbag, Rabbi Saadia Gaon, Radak, Abarbanel, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Avi Kobernick, Targum Yonasan, Rashi, Menachem Ibn Saruk, Ibn Janach, Rabbi Yosef Kara, Metzudas Tzion, Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, Radal, Rabbi Shmuel Yaffe-Ashkenazi, Rabbi Avraham ben Shlomo, Rabbi Avraham Maskileison, Rabbi Chaim Dov Rabinowitz, Rema, Pri Megadim, Rabbi Yosef Nissim Ben-Adahan, Alexander Kohut, Josephus]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Cheese: gvinah / charitz / shfot
 
@@ -66,16 +66,16 @@ Rabbi Shlomo Pappenheim reduces ג-ב-ן to the biliteral ג-ב, a bulge, someth
 sticking out and plainly seen. Its plainest derivative is *gav*, the back or
 outside of a vessel or a hand, and also the eyebrow (Vayikra 14:9), conspicuous
 on the face. So *giben* is one whose *gav* (back) is humped or whose *gav*
-(brow) is misshapen; *gavnunim* are bulging mountains; *gvinah* is cheese
+(brow) is misshapen; [*gavnunim*](sinai-chorev-gavnunim-bashan.html) are bulging mountains; *gvinah* is cheese
 because it too heaps up. Under the same biliteral he puts *gavoah* (high,
-visible from afar), *negev* (dry highland), *geveh* (surface pools, higher than
+visible from afar), [*negev*](directions-tzafon-darom-mizrach-maarav.html#%D7%A0%D7%92%D7%91) (dry highland), *geveh* (surface pools, higher than
 an underground spring), *govai* (grasshoppers, which haunt the *geveh*), and
 *yogvim* (those who trap them).
 
 - Rabbi Aharon Marcus works the same biliteral ג-ב, which he argues comes in
   turn from the monoliteral ג, but defines it as height: *gavoah*; *gibor*, who
   rises above his enemies; *gabachas* (Vayikra 13:41-42), the bald patch at the
-  top of the forehead; *givah*, a hill; *elgavish* (Yechezkel 13:11, 13:13,
+  top of the forehead; [*givah*](mountain-har-givah-pisgah.html#%D7%92%D7%91%D7%A2%D7%94), a hill; *elgavish* (Yechezkel 13:11, 13:13,
   38:22), hail, falling from on high. He also brings in the Arabic *jabal*,
   "mountain," from which the Hebrew *gvul*, "border," possibly derives, that too
   being a feature that runs upward. He adds ג-ב-ן here as a hump, without saying

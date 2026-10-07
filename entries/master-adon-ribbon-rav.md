@@ -26,7 +26,7 @@ sources:
   - wiaw:7153 "Rabbi of Robbers" (2017-02-25) https://articles.ohr.edu/articles/rabbi-of-robbers
   - ms:138-rabbi-of-robbers.md "Rabbi of Robbers"
 authorities: [Targum Onkelos, Vilna Gaon, Rabbi Aharon Leib Steinman, Rabbi Baruch Aryeh HaLevi Fischer, Tosafos Yom Tov, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Master: adon / ribbon / rav
 
@@ -63,7 +63,7 @@ Universe, while *ribbon*/*rav* is not His Name as such, but only a description
 of His role toward particular elements of Creation.
 
 Tosafos Yom Tov (to *Bava Kamma* 5:6, end): *adon* is said of a slave's master,
-and *baal* is not.
+and [*baal*](husband-ish-baal.html#%D7%91%D7%A2%D7%9C) is not.
 
 Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 38:17): Latin *don* comes
 from *adon*, and from *don* came *domnus*, *dominus*, with an added mem beside

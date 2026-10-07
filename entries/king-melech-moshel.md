@@ -22,7 +22,7 @@ sources:
   - wiaw:6817 "Introduction - Synonyms in the Hebrew Language" (2016-06-25) https://articles.ohr.edu/articles/introduction-synonyms-in-the-hebrew-language
   - ms:337-divine-dictator-or-populist-king.md "Divine Dictator or Populist King"
 authorities: [Vilna Gaon, Rabbi Moshe Soloveitchik of Switzerland, Ibn Ezra, Avi Hurvitz, Rabbi Eliyahu Benamozegh, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # King: melech / moshel
 
@@ -69,7 +69,7 @@ Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 14:18 and Shemos 4:10, p.
 67 in Zini's edition): *melech* may come from Aramaic *mamlach*, counsellor, as
 *nimlach* in the Gemara, and he cites the commentary ascribed to the Rashbam (to
 Tehillim 2:2) saying the same, a work in fact written by Isaac Satanow. He also
-considers that *melech* is related to *malach*, since a king is the people's
+considers that *melech* is related to [*malach*](angel-malach-shaliach.html#%D7%9E%D7%9C%D7%90%D7%9B), since a king is the people's
 agent.
 
 ### moshel (מושל)
@@ -98,7 +98,7 @@ Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Shemos 4:10, p. 66 in Zini's
 edition): *moshel* is related to *mashal*, since the first leaders were those
 who could address and rebuke the people clearly by means of parables. Other
 words of speech are likewise tied to leadership: *he'emarta*, *yisamru kol
-poalei aven*, *yadber amim tachteinu*. On p. 68 he writes that *davar* is a
+poalei aven*, *yadber amim tachteinu*. On p. 68 he writes that [*davar*](word-milah-teivah-davar.html#%D7%93%D7%91%D7%A8) is a
 title of rule in Avestan Persian and suggests it may be related to Hebrew
 *davar*.
 

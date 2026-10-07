@@ -30,7 +30,7 @@ words:
 sources:
   - wiaw:11413 "Shavuos: Getting Dirty" (2024-06-08) https://articles.ohr.edu/articles/shavuos-getting-dirty
 authorities: [Rabbi Shlomo Pappenheim, Rav Hirsch, Radak, Menachem Ibn Saruk, Rabbeinu Yonah Ibn Janach, Donash Ibn Labrat, Rabbi Tanchum HaYerushalmi, Rabbi Yehoshua Steinberg, Rabbi Yaakov Emden, Rashi, Rambam, Rabbi Shimon of Shantz, Rabbi Shaul Goldman, Rabbi Shlomo Ibn Parchon, Shadal, Rabbi Tzemach Duran, Pseudo-Rashbam, Alexander Kohut, Wilhelm Gesenius]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Dirt: zuhamah / lichluch / tinuf / go'al / elach
 
@@ -72,7 +72,7 @@ Root א-ל-ח; three occurrences in Tanach (Iyov 15:16, Tehillim 14:3, 53:4).
   lach*), so *elach* is an unwanted liquid sullying something else.
 - The classical lexicographers, among them Menachem Ibn Saruk, Yonah Ibn Janach
   and Radak, trace the term to the full triliteral root א-ל-ח.
-- Rav Hirsch (to Tehillim 14:3) links it to א-ל-ה, which yields *allah*,
+- Rav Hirsch (to Tehillim 14:3) links it to א-ל-ה, which yields [*allah*](curse-arur-kelalah-allah-kavah.html#%D7%90%D7%9C%D7%94),
   "curse," through the interchange of *hei* and *ches*: both name a clash in
   which one party is set against the other.
 
@@ -128,12 +128,12 @@ Thirteen occurrences in Tanach, on Even-Shoshan's concordance.
   excrement (Tzefaniah 3:1), blood (Yeshayahu 59:3, Eichah 4:14). Daniel refused
   to *defile* himself (*yisga'al*) with the king's food (Daniel 1:8); Hashem's
   garments are *befouled* (*ega'alti*) with Edom's blood (Yeshayahu 63:3).
-- Rabbi Yehoshua Steinberg ties it to *geulah* and *go'el* under ג-(א)-ל: a
+- Rabbi Yehoshua Steinberg ties it to [*geulah*](redemption-geulah-pidyon.html#%D7%92%D7%90%D7%95%D7%9C%D7%94) and *go'el* under ג-(א)-ל: a
   single axis of nearness and distance, with *go'al* naming what one distances
   oneself from and redemption naming the drawing near; he also links ג-ע-ל,
   "repugnant," through the interchange of *aleph* and *ayin*.
 - Pappenheim, taking a slightly different approach, ties it to the two-letter
-  ג-ל, "round," through *galal*, the typically round pellets of animal droppings
+  ג-ל, "round," through [*galal*](excrement-tzoah-peresh-galal-zevel.html#%D7%92%D7%9C%D7%9C), the typically round pellets of animal droppings
   that no one disputes are filth.
 
 ### zuhamah (זוהמה)
@@ -147,12 +147,12 @@ Root ז-ה-ם, once in Tanach: to the sick man food looks like *zuhamah* (Iyov
 - Donash Ibn Labrat: *zuhamah* is specifically the bad *smell* of something
   dirty, while *tinuf* is plain soiling; an Arabic cognate, *zahuma*, likewise
   refers to something dirty or smelly.
-- Rav Hirsch (to Tehillim 7:12) relates ז-ה-ם to ז-ע-ם, *za'am*, anger or curse:
+- Rav Hirsch (to Tehillim 7:12) relates ז-ה-ם to ז-ע-ם, [*za'am*](anger-cheimah-ketzef-charon-rogez.html#%D7%96%D7%A2%D7%9E), anger or curse:
   both name a thing rejected by the beholder.
 
 In the Mishnah it covers a blemished, foul-smelling animal (*Bechoros* 6:12),
 fish odor removed by an onion (*Terumos* 10:1), and treating saplings before
-*shevi'is* (*Shevi'is* 2:4; manure per Rabbi Shimon of Shantz, foul-smelling oil
+[*shevi'is*](seven-sheva-shavua-shevuah.html#%D7%A9%D7%91%D7%99%D7%A2%D7%99%D7%AA) (*Shevi'is* 2:4; manure per Rabbi Shimon of Shantz, foul-smelling oil
 to repel insects per Rambam; see also Rabbi Tzemach Duran's responsa *Yachin
 U'Boaz* I §114). The Gemara: one should use cold water for *mayim acharonim*,
 because hot water is less effective at removing the *zuhamah* from the hands

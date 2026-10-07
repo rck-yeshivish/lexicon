@@ -34,7 +34,7 @@ sources:
   - wiaw:9554 "Digging Deeper" (2022-01-29) https://articles.ohr.edu/articles/digging-deeper
   - ms:246-spy-versus-spy.md "Spy versus Spy"
 authorities: [Rabbi Yaakov Tzvi Mecklenburg (HaKsav VeHaKabbalah), Midrash, Pseudo-Philo, David Curwin, Dr. Isaac Elchanan Mozeson, Rav Hirsch, Shadal, Rabbi Levi Yitzchok of Berditchev]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Spying: latur / leragel (tarim, meraglim)
 
@@ -82,8 +82,8 @@ Rabbi Levi Yitzchok of Berditchev (*Kedushas Levi*, beginning of Shelach) reads
   explore the land, expected to report something positive.
 - Shadal (to Bamidbar 13:2): *tur* and *toar* are related to turning, since to
   draw an outline one must turn around its corners; so *vayasuru* is going about
-  looking everywhere, as also in *lo sasuru*. *Meragel* is from *regel*, going
-  about on foot, and is related to *rochel* and *rachil*.
+  looking everywhere, as also in *lo sasuru*. *Meragel* is from [*regel*](foot-paam-regel.html#%D7%A8%D7%92%D7%9C), going
+  about on foot, and is related to [*rochel*](merchant-socher-rochel-cnaani-tagar.html#%D7%A8%D7%95%D7%9B%D7%9C) and *rachil*.
 
 ### leragel (רגל) and meraglim (מרגלים)
 The search for weakness and vulnerability (Mecklenburg). Devarim, which Moshe
@@ -91,8 +91,8 @@ spoke about forty years later, describes the men's actions with other words:
 *veyachperu lanu es haaretz* (Devarim 1:22) and *vayeraglu osah* (Devarim 1:24).
 
 - The first is the verb of digging, the deliberate mining of damning
-  information, and Rabbi Mecklenburg points out that *chafirah*, digging, is
-  related to *cherpah*, disgrace: here, digging for negative information about
+  information, and Rabbi Mecklenburg points out that [*chafirah*](dig-karah-chafirah-chatzivah.html#%D7%97%D7%A4%D7%99%D7%A8%D7%94), digging, is
+  related to [*cherpah*](shame-bushah-klimah-cherpah.html#%D7%97%D7%A8%D7%A4%D7%94), disgrace: here, digging for negative information about
   the Land.
 - Rav Hirsch understands *chafirah* as digging so deep that one reaches the
   depths of the earth and can bring up the spring waters embedded there. Beyond

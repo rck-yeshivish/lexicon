@@ -32,7 +32,7 @@ sources:
   - wiaw:9234 "Fun with Fish (Part 2/2)" (2021-06-05) https://articles.ohr.edu/articles/fun-with-fish-part-22
   - wiaw:7321 "Slithering Serpents and Sea Snakes - Part 1" (2017-07-01) https://articles.ohr.edu/articles/slithering-serpents-and-sea-snakes-part-1
 authorities: [Rashi, Rivan, Meiri, Tosafos, Radak, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Ron Yosef Chaim Masoud Abuchatzeira, Rabbi Avraham Rivlin, Rabbi Nissim Paniri, Rabbi Aryeh Moshe Teicholtz, Rabbi Yitzchak Yishaya Weiss, Minchas Chinuch, Marcus Jastrow, Zohar Amar, Ari Zivotofsky, Vilna Gaon]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Fish: nun / kavra / shibuta (sandal, tanin, nin)
 
@@ -60,7 +60,7 @@ general or one particular kind remains unclear (Tosafos to Moed Katan 11a).
 **Which came first, nun or nin.**
 
 - Rav Hirsch (to Bereishis 1:21): *nun* derives from *nin*, offspring, the fish
-  named for its fruitfulness; he compares this to *dag*, which primarily denotes
+  named for its fruitfulness; he compares this to [*dag*](fish-dag-dagah.html#%D7%93%D7%92), which primarily denotes
   fecundity.
 - Rabbi Ron Yosef Chaim Masoud Abuchatzeira: the reverse. Berachos 20a teaches
   that fish are fruitful and multiply in large quantities because the ayin hara
@@ -152,7 +152,7 @@ Bereishis 1:21, the sea-monsters of the fifth day.
 - Rav Hirsch (to Bereishis 1:21) also suggests that *tannin* derives from *nun*,
   but adds that *nun* itself derives from *nin*, offspring (in Modern Hebrew,
   great-grandchild), comparing this to *dag*, whose primary sense is fecundity.
-- The Vilna Gaon writes that *nachash* is to land as *tanin* is to sea, an
+- The Vilna Gaon writes that *nachash* is to land as [*tanin*](snake-nachash-saraph-tanin-peten.html#%D7%AA%D7%A0%D7%99%D7%A0) is to sea, an
   analogy which suggests that *tanin* is a sea snake (possibly an eel or
   something similar).
 - Rashi (to Bereishis 1:21 and Niddah 22b) simply writes that a *tanin* is a big

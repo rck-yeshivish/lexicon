@@ -33,7 +33,7 @@ sources:
   - wiaw:8422 "Return to Sender: The True Meaning of Teshuva" (2019-10-05) https://articles.ohr.edu/articles/return-to-sender-the-true-meaning-of-teshuva
   - ms:117-take-your-booty.md "Take Your Booty"
 authorities: [Rashi, Rabbi Avraham Bedersi HaPenini, Maharal, Radak, Rabbi Yaakov Chaim Sofer, Vilna Gaon, Malbim, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Targum Onkelos, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Baruch HaLevi Epstein, Menachem Ibn Saruk, Ibn Janach, Rabbi Shmuel Ibn Tibbon, the Rosh, Rabbi Eliyahu Benamozegh, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Spoils of war: shalal / baz (bizah) / malkoach / shevi / ad
 
@@ -110,7 +110,7 @@ person bare when taken.
 - The Vilna Gaon (*Biur HaGra* to Yeshayahu 10:6) writes that plunder typically
   occurs in stages: first the valuables are taken, and those are *shalal*; then
   even the less important items, and those are *bizah*, a word related to
-  *bizayon* (disgrace, disparagement) because they are not as prized as the
+  [*bizayon*](disgrace-bizayon-kalon-zilzul-gnai.html#%D7%91%D7%96%D7%99%D7%95%D7%A0) (disgrace, disparagement) because they are not as prized as the
   first; finally everything left is sometimes taken away, so that the enemy is
   totally bereft.
 - The Gra also explains (*Biur HaGra* to Divrei HaYamim II 14:13) that *bizah*

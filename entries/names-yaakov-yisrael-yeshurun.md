@@ -23,7 +23,7 @@ sources:
   - wiaw:8553 "Jacob's Three Names" (2020-01-11) https://articles.ohr.edu/articles/jacobs-three-names
   - ms:070-jacobs-three-names.md "Jacob’s Three Names"
 authorities: [Rashi, Ramban, Rabbeinu Bachya, Maharal, Maharsha, Vilna Gaon, Ohr HaChaim, Rav Hirsch, Rabbi Elimelech of Lizhensk, Rabbi Yaakov Tzvi Mecklenburg, Chasam Sofer, Megaleh Amukos, Arizal, Zohar, Noda BiYehudah, Rabbi Meir Simcha of Dvinsk, Rabbi Nosson Kamenetsky, Rabbi Shes ben Yefes, Rabbi Yitzchak ben Yosef of Pira]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Names of Yaakov: Yaakov / Yisrael / Yeshurun
 
@@ -74,14 +74,14 @@ charge that Yaakov means crooked dealing; Rabbeinu Bachya takes it instead from
 - Rabbeinu Bachya: from *shur*, to gaze, since they came nearest to gazing on
   the Shechinah at Har Sinai.
 - The Vilna Gaon: from *shir*, song, for the shirah at the Sea.
-- Rabbi Yaakov Tzvi Mecklenburg: from *shirah* as a name of the Torah (Devarim
+- Rabbi Yaakov Tzvi Mecklenburg: from [*shirah*](song-shirah-zimrah-mizmor.html#%D7%A9%D7%99%D7%A8%D7%94) as a name of the Torah (Devarim
   31:19), since they alone accepted it.
 - *Chemdas HaChemdah* (to Devarim 32:15): from seeing, which sharpens Moshe's
   rebuke, since they saw every miracle and would still choose other gods; at
   33:5 and 33:26 the same work takes it from *yashar*, Hashem being with them
   only while they act uprightly.
 - Maharal (*Tiferes Yisrael* ch. 11): Yaakov as the perfect mean, balancing the
-  *chessed* of Avraham and the *gevurah* of Yitzchak.
+  *chessed* of Avraham and the [*gevurah*](strength-koach-gevurah-ometz-chozek.html#%D7%92%D7%91%D7%95%D7%A8%D7%94) of Yitzchak.
 
 **Whether Yeshurun is a name of the Jewish People at all.** The Maharsha holds that
 *Yeshurun* is a Name of Hashem, and ascribes the view to Rashi. Rabbi Yechezkel Landau
@@ -131,7 +131,7 @@ pain, the name *Yisrael* of greatness.
 
 ### Yisrael (ישראל)
 Bereishis 32:29, the angel of Esav at the Yabok: he "lords" (*sar*) over angels
-(*elohim*, or *el* for short) and over men, confirmed by Hashem Himself at Bereishis
+([*elohim*](angel-classes-kruvim-chayos-ishim.html#%D7%90%D7%9C%D7%94%D7%99%D7%9E), or *el* for short) and over men, confirmed by Hashem Himself at Bereishis
 35:10. Rabbeinu Bachya: the
 earlier name was not withdrawn, so *Yisrael* is an addition and both remain in force.
 

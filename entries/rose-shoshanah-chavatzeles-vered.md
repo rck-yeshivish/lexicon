@@ -25,7 +25,7 @@ words:
 sources:
   - wiaw:11391 "Emor: Rose by Another Name" (2024-05-18) https://articles.ohr.edu/articles/emor-rose-by-another-name
 authorities: [Rashi, Radak, Ibn Ezra, Ibn Janach, Menachem Ibn Saruk, Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Shlomo of Urbino, Rabbi Shlomo Aharon Wertheimer, Matnos Kehunah, Eitz Yosef, Maharzu, Peirush HaRokeach, Peirush Chachmei Tzarfas, Targum, Rav Yehudai Gaon, Rav Hai Gaon, Rabbi Saadia Gaon, Rabbi Shemaryah ben Elchanan, Rabbeinu Yonah, Rabbi Eliyahu HaBachur, Rabbi Yaakov Emden, Rambam, Rabbi Yosef Karo, Rabbi Massoud Chai Rokach, Rabbi Yirmiyahu Low, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Daniel Frisch, Sefer HeAruch, Rabbi Ernest Klein, Zohar Amar]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Rose: shoshanah / chavatzeles / vered (narkis)
 
@@ -148,7 +148,7 @@ saw a stain like a *shoshanah adumah*. Shoshanah has been a Jewish woman's name
 since the Second Temple period, on the strength of the story of a woman named
 Shoshanah appended to the Septuagint's Daniel, and the English Sue, Susan and
 Suzanna all derive from it. Rabbi Yehudah Aryeh of Carpentras
-(*Aholei Yehudah*) connects *shoshanah* to *sasson*, gladness, on the interchange
+(*Aholei Yehudah*) connects *shoshanah* to [*sasson*](joy-simchah-sasson-gilah.html#%D7%A9%D7%A9%D7%95%D7%A0), gladness, on the interchange
 of sin and shin: a beautiful, fragrant flower gladdens whoever meets it.
 
 ### chavatzeles (חבצלת)
@@ -159,7 +159,7 @@ a *chavatzeles*" (35:1).
   Yosef*, and *Maharzu*, and also *Peirush HaRokeach*, parse it as ח-ב (hidden)
   plus *tzel* (shadow): the young flower's beauty is still hidden in its own
   shade.
-- *Shir HaShirim Rabbah* 2:1 reads it as *chaviv* (dear) plus *tzel*, and
+- *Shir HaShirim Rabbah* 2:1 reads it as [*chaviv*](love-ahavah-chibah.html#%D7%97%D7%91%D7%99%D7%91) (dear) plus *tzel*, and
   develops several ways in which comparing Israel to the *chavatzeles* is
   praise.
 - Rabbi Moshe Tedeschi-Ashkenazi (*Hoil Moshe*) sees the string *batzel*, an

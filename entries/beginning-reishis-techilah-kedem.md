@@ -32,7 +32,7 @@ words:
 sources:
   - wiaw:11562 "Bereishis: In the Beginning..." (2024-10-26) https://articles.ohr.edu/articles/bereishis-in-the-beginning
 authorities: [Rashi, Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Netziv, Maharal, the Vilna Gaon, Malbim, Rabbi Zev Hoberman, Rabbi Shaul Goldman, Targum Onkelos, Targum Yerushalmi]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Beginning: reishis / techilah / kedem (rishon, rosh)
 
@@ -93,17 +93,17 @@ as the biliteral reish-shin. Indeed, *rishon* is once spelled with a yud (Iyov
 has *reish* (thirteen times in the Aramaic of Daniel; *reish galusa*, *reish
 mesivta*, Reish Lakish), where Biblical Aramaic still spells it with an aleph
 like the Hebrew *rosh* and later Aramaic replaces that aleph with a yud. Under
-that biliteral Rabbi Pappenheim gathers *yerushah* (the heir
-becomes the head of the estate), *tirosh* (new wine, foremost in quality and at
+that biliteral Rabbi Pappenheim gathers [*yerushah*](inheritance-nachalah-yerushah-achuzah.html#%D7%99%D7%A8%D7%95%D7%A9%D7%94) (the heir
+becomes the head of the estate), [*tirosh*](wine-yayin-tirosh-chemer-shechar.html#%D7%AA%D7%99%D7%A8%D7%95%D7%A9) (new wine, foremost in quality and at
 the start of its existence), *rishayon*/*reshus* (authority), *reshes* (a net,
 by which a hunter gains mastery over an animal), *rosheh* (weak, easily
-subjugated), and *rash* (destitute, so browbeaten that anything rules him).
+subjugated), and [*rash*](poor-ani-evyon-dal-rash.html#%D7%A8%D7%A9) (destitute, so browbeaten that anything rules him).
 
 *Reishis* carries importance as well as order. The Netziv (*Meromei Sadeh* to
 Chullin 136b) uses this to resolve the Tosafists' difficulty. *Terumah* is called
 *reishis* (Bamidbar 15:20-21; Devarim 18:4) and the Gemara derives that one may
 not consecrate his whole crop, since a remnant must stay ordinary; yet *reishis
-hagez* (Devarim 18:4) carries no such requirement. The Netziv: in *terumah*,
+hagez* (Devarim 18:4) carries no such requirement. The Netziv: in [*terumah*](waving-terumah-tenufah.html#%D7%AA%D7%A8%D7%95%D7%9E%D7%94),
 *reishis* means importance, so the tithe is taken from the choicest produce of
 the field, and importance is relative, so something must be left unimportant
 beside it; in the shearing, *reishis* means only first in succession, so the
@@ -139,7 +139,7 @@ each: "the *reishis* of wisdom is fear of Hashem" (Tehillim 111:10) against "the
 
 - Maharal (*Nesivos Olam*, *Nesiv Yiras Hashem* ch. 1): Shlomo HaMelech's
   *techilah* makes *yiras Hashem* and wisdom inseparable, one continuum, as the
-  Mishnah has it, no *yirah* without wisdom and no wisdom without *yirah* (Avos
+  Mishnah has it, no [*yirah*](fear-eimah-pachad-yirah-daagah.html#%D7%99%D7%A8%D7%90%D7%94) without wisdom and no wisdom without *yirah* (Avos
   3:17); this serves his agenda in Mishlei of elevating wisdom. David HaMelech's
   *reishis* instead marks *yiras Hashem* as the important element and the goal of
   wisdom, without which wisdom has no worth.

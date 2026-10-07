@@ -31,7 +31,7 @@ sources:
   - ms:123-heat-with-the-in-laws.md "Heat with the In-laws"
   - ms:122-g-ds-best-friend.md "G-d’s Best Friend"
 authorities: [Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Menachem Azariah of Fano, Pri Megadim, Rabbi Shimon Pollack, Rabbi Yonah Ibn Janach, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-24
+updated: 2026-10-06
 ---
 # In-laws: cham and chamos / chosen and choseness
 
@@ -62,7 +62,7 @@ The wife's words. Yehudah is called Tamar's
 
 - Rav Hirsch: in a traditional patriarchal society, where marriage is viewed as
   a woman leaving her parents' family and joining her husband's, his relatives
-  stand around her like a *chomah*, a wall; hence *cham* and *chamos*.
+  stand around her like a [*chomah*](wall-chomah-kir-shur-kotel.html#%D7%97%D7%95%D7%9E%D7%94), a wall; hence *cham* and *chamos*.
 - Rabbi Shlomo Pappenheim reads the same letters as the biliteral ח-ם, hot: a
   bride must stress the warm love she receives from her new relatives in order
   to honor her husband, and love is spoken of metaphorically as fire (Shir
@@ -81,7 +81,7 @@ hate each other). From the mother-in-law's title the matching word for the
 wife's father-in-law was formed, and from there the pair spread to a husband's
 in-laws as well.
 
-Ibn Janach (s.v. חמה): *chamos*, mother-in-law, is related to *cheimah*, anger.
+Ibn Janach (s.v. חמה): *chamos*, mother-in-law, is related to [*cheimah*](anger-cheimah-ketzef-charon-rogez.html#%D7%97%D7%9E%D7%94), anger.
 
 ### chosen (חותן) and choseness (חותנת)
 The husband's words, and cognate with *chasan*. Yisro is called Moshe's *chosen*

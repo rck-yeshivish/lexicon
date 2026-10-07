@@ -42,7 +42,7 @@ sources:
   - wiaw:10824 "Ki Sisa: Awesome Balsam" (2023-03-11) https://articles.ohr.edu/articles/ki-sisa-awesome-balsam
   - ms:150-awesome-balsam.md "Awesome Balsam"
 authorities: [Rashi, Radak, Rabbi Yosef Kara, Rabbi Eliezer of Beaugency, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Shmuel David Luzzatto, Zohar, Shoresh Yesha, Rambam, Ramban, Rabbi Saadia Gaon, Rabbi Avraham Maimuni, Rabban Shimon ben Gamliel, Rabbi Yosef Teomim-Frankel, Rabbi Shlomo Pappenheim, Rabbi Binyamin Mussafia, Rabbi Moshe ben Yekutiel of Rome, Rabbi Yosef of Saragossa, Zohar Amar, Marcus Jastrow, Alexander Kohut, Richard C. Steiner, Josephus, Daas Mikra]
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 # Balsam: panag / tzari (nataf, ketaf) / bosem / afarsemon
 
@@ -101,7 +101,7 @@ in Yechezkel meaning balsam oil.
   Teomim-Frankel (*Iggros Pri Megadim* letter 2) takes that as support for
   reading *tzari* as something else (Rashi's "theriaca").
 - Rabbi Moshe Tedeschi-Ashkenazi and Rabbi Shmuel David Luzzatto, in their
-  commentaries to Yechezkel, tie *panag* to *pinuk*, pleasure or indulgence, by
+  commentaries to Yechezkel, tie *panag* to [*pinuk*](pleasure-oneg-eden-pinuk.html#%D7%A4%D7%99%D7%A0%D7%95%D7%A7), pleasure or indulgence, by
   the interchange of gimmel and kuf; ironically, for all their opposition to
   Kabbalah, their reading can be corroborated from the Zohar (*Bereishis* 47b,
   235b, 245b-246b), which likewise links *panag* to *tafnukim*.
@@ -110,7 +110,7 @@ in Yechezkel meaning balsam oil.
   somehow interchangeable.
 - Dr. Zohar Amar of Bar Ilan University, in *Tzimchei HaMikra*, gathers a
   further list of explanations from the commentators: cassia, wax (making
-  *panag* a synonym of *donag*), honeycomb, edible grass, rice, millet, some
+  *panag* a synonym of [*donag*](wax-donag-shaavah-kira.html#%D7%93%D7%95%D7%A0%D7%92)), honeycomb, edible grass, rice, millet, some
   sort of pastry or baked good, a kind of wheat, and a place name (so that the
   pasuk would mean wheat from there).
 
@@ -182,7 +182,7 @@ On how *bosem* became *balsamon*, there are three attempts.
   interchange of shin and sin.
 - Dr. Alexander Kohut (*Aruch HaShalem*) dismissed that on the ground that
   *baal shemen* appears nowhere else, and argued instead for the Hebrew *boles*,
-  cutting, which occurs once in Tanach (Amos 7:14), together with *shemen*, oil.
+  cutting, which occurs once in Tanach (Amos 7:14), together with [*shemen*](oil-shemen-yitzhar.html#%D7%A9%D7%9E%D7%A0), oil.
 
 ### afarsemon (אפרסמון) and opopalsamun
 *Afarsemon* (also *afarsema*) is the commonest Rabbinic word for balsam oil. It
@@ -213,7 +213,7 @@ to Mishlei 27:9).
   *afarsemon* and *balsam* show as the same etymon.
 - Alternatively, *afarsemon* may have come into Persian directly from the Hebrew
   *bosem*, with bet for peh and an added reish.
-- Rabbi Yosef Teomim-Frankel roots the word instead in the Hebrew *pirsum* or
+- Rabbi Yosef Teomim-Frankel roots the word instead in the Hebrew [*pirsum*](public-rabim-tzibbur-parhessya-pumbi.html#%D7%A4%D7%A8%D7%A1%D7%95%D7%9E) or
   *mefursam*, publicized, since balsam's good scent made it well known
   throughout the ancient world.
 

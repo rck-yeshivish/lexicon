@@ -44,7 +44,7 @@ words:
 sources:
   - wiaw:9581 "Between Books and Scrolls" (2022-02-19) https://articles.ohr.edu/articles/between-books-and-scrolls
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Ritva, Rabbeinu Tam, Rabbi Shmuel Strashun, Rabbi Elimelech of Lizhensk, Rabbi Moshe Shapiro, Rabbi Shlomo Aharon Wertheimer, Rabbi Yosef Dov Soloveitchik, Rabbi Jose Faur, Radak, the Vilna Gaon, Rabbi Eliyahu HaBachur, Rabbi Binyamin Mussafia, Rabbi Daniel Sperber, Rabbi Ernest Klein, Rabbi Moshe Chaim Leiter, Raymond P. Dougherty, Avi Hurvitz]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Book: sefer / iggeret / megillah (gilayon, shtar, machzor, kuntres)
 
@@ -87,8 +87,8 @@ where the word is a book or written document plainly.
   border guards a country by making one clear it to enter, the Torah guards Klal
   Yisrael in their closeness to Hashem.
 - Rabbi Moshe Shapiro takes the whole ס-פ-ר family as unifying disparate parts:
-  *sippur* joins details into one narrative, *sfar* binds a territory into one
-  polity, *mispar* and *sofer* bind numbers into one ordered system, and a
+  [*sippur*](telling-haggadah-sippur.html#%D7%A1%D7%A4%D7%95%D7%A8) joins details into one narrative, *sfar* binds a territory into one
+  polity, *mispar* and [*sofer*](scribe-sofer-lavlar.html#%D7%A1%D7%95%D7%A4%D7%A8) bind numbers into one ordered system, and a
   *sefer* binds all it contains into one entity, and this holds of all books, sifrei kodesh among them.
 - Professor Raymond P. Dougherty of Yale wrote to explain how *sefer* grows out
   of the core sense "to count": counting is a mental act, memory is unreliable,
@@ -100,7 +100,7 @@ explains the city Dvir being renamed Kiryas Sefer (Shoftim 1:11).
 
 ### megillah (מגילה)
 Rabbi Shlomo Pappenheim traces it to the biliteral ג-ל, round, with *gal* (a
-heap), *golel* (to roll), *galgal* (wheel), *gulgoles* (skull), and *magal*
+heap), *golel* (to roll), *galgal* (wheel), *gulgoles* (skull), and [*magal*](sickle-chermesh-magal.html#%D7%9E%D7%92%D7%9C)
 (sickle): a *megillah* is sheets of parchment sewn together and rolled up. He
 puts *gilayon* here too, a single sheet written on and rolled, whence the blank
 margins of a document and then the glosses written in them.
@@ -142,7 +142,7 @@ from which he concludes that reading Esther today, with the taamim but with the
 scroll first unfolded entire, is a synthesis or compromise of *iggeret* and
 *sefer*.
 
-Ritva distinguishes *shtar* from *iggeret* by durability: a *shtar* is written
+Ritva distinguishes [*shtar*](document-gett-shtar.html#%D7%A9%D7%98%D7%A8) from *iggeret* by durability: a *shtar* is written
 to last, ostensibly so as to serve as evidence of what it records, while an
 *iggeret* is not. Rabbi Yosef Dov Soloveitchik applies the same sort of axis to
 *sefer* against *iggeret* (see Yirmiyahu 32:14), though without quoting Ritva
@@ -170,7 +170,7 @@ On etymology the authorities split.
 - Rabbi Shlomo Pappenheim offers a similar understanding, a document moved about
   a province so as to publicize its contents thoroughly, which is closer still
   to Rabbi Faur.
-- Rabbi Shlomo Aharon Wertheimer derives it instead from *agur*, a collection
+- Rabbi Shlomo Aharon Wertheimer derives it instead from [*agur*](names-shlomo-koheles-agur-lemuel.html#%D7%90%D7%92%D7%95%D7%A8), a collection
   stored long term, so an *iggeret* is a document meant to be preserved, which
   on the surface, Rabbi Reuven Chaim Klein says, seems to contradict Rabbi Faur
   and Rabbi Soloveitchik.

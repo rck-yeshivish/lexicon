@@ -45,7 +45,7 @@ sources:
   - wiaw:8304 "Names of the Underworld" (2019-06-29) https://articles.ohr.edu/articles/names-of-the-underworld
   - ms:155-solomons-seven-names.md "Solomon’s Seven Names"
 authorities: [Rabbi Yehoshua ben Levi, Targum Sheini, Rashi, Ibn Ezra, Ralbag, Rabbi Yeshayah of Trani (the Rid), Tosafos, Tosafos Shantz, Midrash Agur, Maharal]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Names of Shlomo HaMelech: Shlomo / Koheles / Agur / Lemuel (Yedidyah, Yakeh, Isiel)
 
@@ -79,9 +79,9 @@ justification for exceeding the Torah's limits on a king.
 
 **What *Shlomo* means.**
 
-- The Midrash reads it from *shalem*, complete, because he oversaw the
+- The Midrash reads it from [*shalem*](completeness-tam-shalem-tamim.html#%D7%A9%D7%9C%D7%9E), complete, because he oversaw the
   completion of the Beis HaMikdash.
-- *Targum Sheini* reads it from *shalom*, because peace and quiet were to
+- *Targum Sheini* reads it from [*shalom*](peace-shalom-sheket-shalvah.html#%D7%A9%D7%9C%D7%95%D7%9E), because peace and quiet were to
   prevail for Israel in his days, which is how the prophecy given to David
   before the birth puts it (Divrei HaYamim I 22:9).
 
@@ -92,7 +92,7 @@ of his reign.
 **Why *Koheles*.**
 
 - The Midrash: because his teachings were delivered in gatherings, from
-  *hakhel*, *kahal*, *kehillah*, as it says "then Shlomo gathered" (Melachim I
+  *hakhel*, *kahal*, [*kehillah*](gathering-asifah-kovetz-kehillah-agur.html#%D7%A7%D7%94%D7%99%D7%9C%D7%94), as it says "then Shlomo gathered" (Melachim I
   8:1).
 - Rashi (to Koheles 1:1): because he gathered up many forms of wisdom into
   himself.

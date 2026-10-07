@@ -27,7 +27,7 @@ sources:
   - wiaw:7195 "Hats and Belts" (2017-03-25) https://articles.ohr.edu/articles/hats-and-belts
   - ms:147-hats-and-belts.md "Hats and Belts"
 authorities: [Malbim, Mishnah Berurah, Rashi, Tosafos, Rabbi Aharon Marcus, Shadal]
-updated: 2026-09-28
+updated: 2026-10-06
 ---
 # Belt: avnet / chagor / eizor
 
@@ -52,7 +52,7 @@ could refer to pants as well as to a belt. *Sinar* is post-Biblical, a special
 
 ## Distinctions
 
-The setting: the regular *kohen* wears four garments, pants, a belt, a hat and a
+The setting: the regular [*kohen*](priest-kohen-komer.html#%D7%9B%D7%94%D7%A0) wears four garments, pants, a belt, a hat and a
 tunic; the *kohen gadol* wears four more, a breastplate, an apron, a robe and a
 head-plate (Mishnah Yoma 7:5). By some opinions the *kohen gadol* does not wear
 the same type of belt as the regular *kohen*.
@@ -71,7 +71,7 @@ Root ח-ג-ר.
 - Rashi (to Shabbos 120a) and Tosafos (to Shabbos 59b) seem to understand that
   a *chagorah* is a belt worn inside one's clothing, while an *eizor* is a belt
   worn on top of one's clothing.
-- Rabbi Aharon Marcus argues that the root of *chagorah* is *chug*, a circle,
+- Rabbi Aharon Marcus argues that the root of *chagorah* is [*chug*](around-saviv-heikef-afef-chug.html#%D7%97%D7%95%D7%92), a circle,
   which may be related to *chag*, a festival, because on festivals celebrants
   dance in a circle.
 
@@ -85,10 +85,10 @@ Because it is fastened tightly, girding an *eizor* becomes a figure for
 performing a feat of strength, and in *Tanach* it is worn only by mighty men,
 never by women or children.
 
-Shadal (to Shemos 15:6 and 15:11) explains *adir* as the Aramaic form of
+Shadal (to Shemos 15:6 and 15:11) explains [*adir*](strength-koach-gevurah-ometz-chozek.html#%D7%90%D7%93%D7%99%D7%A8) as the Aramaic form of
 *eizor*, Hebrew zayin often becoming dalet in Aramaic: *adir* is
 all-encompassing power, just as an *eizor* is a belt that entirely encompasses
-the circumference of the body. The same is true of *aderes*, a cloak, which
+the circumference of the body. The same is true of [*aderes*](garment-aderet-glima-itztala.html#%D7%90%D7%93%D7%A8%D7%AA), a cloak, which
 likewise encompasses the body.
 
 In Modern Hebrew *eizor* means an area or region, in the way English speaks of

@@ -39,7 +39,7 @@ sources:
   - wiaw:11276 "Titzaveh: Wet Words" (2024-02-24) https://articles.ohr.edu/articles/titzaveh-wet-words
   - ms:187-wet-words.md "Wet Words"
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Ibn Parchon, Rabbi Moshe Tedeschi-Ashkenazi, Rashi, Ibn Ezra, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi, Rav Hirsch, Rabbi Yosef Kara, Rabbi Yosef Kimchi, Sforno, Metzudas Tzion, Malbim, Rabbi Nosson of Rome, Marcus Jastrow, Alexander Kohut, Ralbag, Rema, Ben Yehoyada, Rabbi Chaim Kanievsky]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Wetness: lach / ratuv / ra'anan / rutfash / tofeach / mefulam
 
@@ -97,7 +97,7 @@ The word is a case study in root theory.
   moisture itself, and hangs a family on it: *lechi*, the cheek, a concentration
   of inner moisture, and from the cheek's likeness to a flat board *luach*, a
   board (in Rabbinic Hebrew *lechi* is also the upright post of an *eruv*);
-  *lechem*, bread or meat, which sustains and restores inner moisture; and
+  [*lechem*](bread-lechem-kikar-challah-pat.html#%D7%9C%D7%97%D7%9E), bread or meat, which sustains and restores inner moisture; and
   *melach*, salt, which draws liquid out, as in salting meat. The name of the
   Lechi paramilitary group is an acronym of *lochamei cheirus Yisrael* and has
   nothing to do with the word.
@@ -185,7 +185,7 @@ that perhaps an item dripping wet expands in its dimensions.
 Three appearances in the Bavli, with no known relatives for the ostensible root
 peh-lamed-mem in Biblical or Mishnaic Hebrew, with one possible exception
 (below): *mefulamos* fish accepted from a gentile on Yom Tov (Beitzah 24b);
-*bohu* as the *mefulamos* stones sunk in the deep from which water flowed
+[*bohu*](nothing-hevel-rik-tohu-bohu.html#%D7%91%D7%94%D7%95) as the *mefulamos* stones sunk in the deep from which water flowed
 (Chagigah 12a); and *mefulamos* stones, quarried from the sea bed and so
 untouched by any tool, fit for the mizbeach (Zevachim 54a; see Rabbi Chaim
 Kanievsky's *Derech Chochmah* to the Rambam, *Hilchos Beis HaBechirah* 1:92).

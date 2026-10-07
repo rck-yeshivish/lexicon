@@ -19,7 +19,7 @@ sources:
   - wiaw:8271 "Karet and Ariri" (2019-06-01) https://articles.ohr.edu/articles/karet-and-ariri
   - ms:196-karet-and-ariri.md "Karet and Ariri"
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Chaim of Volozhin, Ramban, Rabbeinu Bachya, Ibn Ezra, Rashi, Riva, Shadal, Rabbi Shlomo Astruc]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Excision: karet / ariri
 
@@ -79,7 +79,7 @@ The age at which "early death" is measured is itself disputed.
   gazing at the uncovered vessels, together with Bamidbar 8:25, that the Levi'im
   served only to fifty.
 - Moed Katan 28a: even a death between fifty and sixty is *karet*; Rav Yosef
-  made a *seudah* on turning sixty, no longer liable, and even past sixty a
+  made a [*seudah*](meal-seudah-mishteh-mesibah.html#%D7%A1%D7%A2%D7%95%D7%93%D7%94) on turning sixty, no longer liable, and even past sixty a
   sudden death can be *karet*.
 - Ibn Ezra (Bereishis 17:14): death before fifty two, or else the death of one's
   descendants, so that his memory is wiped out entirely and his legacy is what
@@ -107,7 +107,7 @@ are not affected by his *karet* (Tosafos Yeshanim to Yevamos 2a).
 Shadal (to Bereishis 15:2): *ariri* is bare, without descendants.
 
 Rabbi Shlomo Astruc (to Bereishis 15:1): Avraham's *holech ariri* (15:2), with
-an ayin, is related to *arur*, cursed, with an aleph, alluding to Eliezer's
+an ayin, is related to [*arur*](curse-arur-kelalah-allah-kavah.html#%D7%90%D7%A8%D7%95%D7%A8), cursed, with an aleph, alluding to Eliezer's
 cursed descent, which unfitted him to be Avraham's heir.
 
 ## Rendering guidance

@@ -40,7 +40,7 @@ sources:
   - wiaw:11562 "Bereishis: In the Beginning..." (2024-10-26) https://articles.ohr.edu/articles/bereishis-in-the-beginning
   - ms:172-pick-your-poison.md "Pick your Poison"
 authorities: [Rashi, Ibn Ezra, Radak, Vilna Gaon, Rabbi Yeshayah of Trani, Rabbeinu Efrayim, Rabbi Shlomo Pappenheim, Rabbi Shlomo of Urbino, Rabbi Menachem Azariah of Fano, Targum Rishon, Targum Sheini, Midrash Sechel Tov, Midrash Aggadah, Daas Zekeinim, Rabbi Yehuda Feliks, Yossiphon, Mechilta, Midrash Tanchuma, Dr. Alexander Kohut, Rabbi Ernest Klein, Avraham Even-Shoshan, Comprehensive Aramaic Lexicon, Rav Hirsch, Targum Yonasan]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Poison: eres / sam hamaves / rosh / chamat / ra'al
 
@@ -133,7 +133,7 @@ sama demosa bemeichleih*, let us cast deadly poison into his food.
   both the plant kingdom and the animal kingdom.
 
 *Chamat* (Devarim 32:33, Tehillim 58:5) is poison named for what a snake emits
-when its *cheimah* is aroused.
+when its [*cheimah*](anger-cheimah-ketzef-charon-rogez.html#%D7%97%D7%9E%D7%94) is aroused.
 
 ### ra'al (רעל) and tarelah (תרעלה)
 Nachum 2:4, Zecharyah 12:2; *tarelah* in Tehillim 60:5, Yeshayahu 51:17, 51:22.
@@ -180,7 +180,7 @@ Others explain *eches* as "dog."
 - Dr. Alexander Kohut was the first to note that Rashi's reading of *eches* as
   snake venom was likely informed by the Greek *echis*, viper, and *echis* does
   seem to appear in rabbinic literature in that sense, since the Midrash renders
-  *efeh*, a Biblical snake, as *echis* (*Midrash Tanchuma*, *Beshalach* 18, and
+  [*efeh*](snake-nachash-saraph-tanin-peten.html#%D7%90%D7%A4%D7%A2%D7%94), a Biblical snake, as *echis* (*Midrash Tanchuma*, *Beshalach* 18, and
   *Mechilta* to Shemos 15:22).
 - Rashi himself (to Shabbos 62b) gives a different etymology of *eches*: a
   metathesis of *ka'as*, anger, since a snake emits venom only when angered.

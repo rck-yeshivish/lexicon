@@ -30,7 +30,7 @@ words:
 sources:
   - wiaw:11889 "Chukas: Words for War" (2025-07-05) https://articles.ohr.edu/articles/chukas-words-for-war
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Theological Dictionary of the Old Testament, Netziv, Rabbi Yehudah Aryeh of Carpentras, Rabbi Binyamin Mussafia, Matnos Kehunah, Rabbi Nosson of Rome, Dr. Alexander Kohut, Rabbeinu Gershom, Rashba, Rashbam, Rashi, Rabbi Shaul Goldman]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # War: milchamah / krav / pulmus (tarunya, kenigia)
 
@@ -66,7 +66,7 @@ the Rashba define it as war, and the Rashbam as hunting, which the Greek
 ## Distinctions
 
 ### milchamah (מלחמה), lochem (לוחם)
-Almost unanimously traced to the root ל-ח-ם, which also yields *lechem* (bread)
+Almost unanimously traced to the root ל-ח-ם, which also yields [*lechem*](bread-lechem-kikar-challah-pat.html#%D7%9C%D7%97%D7%9E) (bread)
 and meat.
 - Menachem Ibn Saruk (*Machberes Menachem*) lists the three senses as separate
   declensions without insinuating any link between them.
@@ -79,17 +79,17 @@ and meat.
 - Rav Hirsch (to Bereishis 3:19, 10:9, 14:2) reads the root as struggle,
   especially for survival: man struggles against nature for his bread and
   against his fellow who would take it, and *milchamah* is that second struggle
-  between parties; by his phonetic etymology he links ל-ח-ם to ל-א-ם (*leom*,
+  between parties; by his phonetic etymology he links ל-ח-ם to ל-א-ם ([*leom*](nation-goy-am-leom-umah.html#%D7%9C%D7%90%D7%95%D7%9E),
   nation), the existential fight of a polity to survive.
 
 Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) takes a totally different approach,
 deriving *lechem* and *milchamah* from the two-letter core ח-ם. Rabbi Klein calls this noteworthy, since Pappenheim generally holds that a biliteral core
 joins only with ה, א, מ, נ, ת, י, or ו to form a three-letter root, and here he
-has it join an initial lamed. The core is heat: *cham*, hot; *cheimah*, anger
+has it join an initial lamed. The core is heat: *cham*, hot; [*cheimah*](anger-cheimah-ketzef-charon-rogez.html#%D7%97%D7%9E%D7%94), anger
 heated up; *chamah*, the sun; *chaman*, an idol in the shape of the sun; *chum*,
 brown, the color of what looks sunburnt; *chemah*, butter, made by agitating and
 so heating milk; *cheimas*, a flask for butter or like a butter vat; and
-*chami*/*chamos*, parents-in-law, who shower a daughter-in-law with warm love.
+*chami*/[*chamos*](in-laws-cham-chosen.html#%D7%97%D7%9E), parents-in-law, who shower a daughter-in-law with warm love.
 Bread is baked by heat, and two sides go to war only once matters have heated to
 the point of fighting.
 
@@ -120,9 +120,9 @@ lexicographers (Ibn Saruk, Ibn Janach, Radak) present as three distinct senses.
   near to the mizbeach and, in a metaphysical sense, bringing the one who offers
   it near to Hashem, and it is used of relations, two people coming together
   (Bereishis 20:4, Vayikra 18:6, Devarim 22:14, Yeshayahu 8:3).
-- Rav Hirsch (to Tehillim 140:2) relates *akrav*, the scorpion, with an added
+- Rav Hirsch (to Tehillim 140:2) relates [*akrav*](thorns-kotz-dardar-sneh-charul.html#%D7%A2%D7%A7%D7%A8%D7%91), the scorpion, with an added
   initial ayin, since it is always poised to attack.
-- Rabbi Yehudah Aryeh of Carpentras (*Aholei Yehudah*) links *garav*, a kind of
+- Rabbi Yehudah Aryeh of Carpentras (*Aholei Yehudah*) links [*garav*](boils-shechin-garav-cheres.html#%D7%92%D7%A8%D7%91), a kind of
   boil, to *krav* by the interchange of gimmel and kuf: it itches so fiercely
   that a man feels impelled to wage war on himself scratching it, even to
   bleeding.

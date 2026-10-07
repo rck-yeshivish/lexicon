@@ -71,7 +71,7 @@ sources:
   - wiaw:9809 "Of Thorns and Thistles" (2022-08-06) https://articles.ohr.edu/articles/of-thorns-and-thistles
   - wiaw:9482 "Freezing Cold" (2021-12-11) https://articles.ohr.edu/articles/freezing-cold
 authorities: [Rabbi Shlomo of Urbino, Menachem Ibn Saruk, Yonah Ibn Janach, Radak, Rashi, Rabbi Saadia Gaon, Ibn Ezra, Rabbi Shlomo Pappenheim, Rav Hirsch, Vilna Gaon, Ohalei Yehuda, Shoresh Yesha, Rabbi Aharon Marcus, Rabbi Yehoshua Steinberg, Ramban, Donash Ibn Labrat, Mahari Kara, Rabbi Avraham ben Shlomo, Rabbi David Chaim Chelouche, Malbim, Rabbi David Golumb, Rabbi Yaakov Yehudah de Kassif, Yaakov Reifman, Rabbi Yechiel Michel Stern, Metzudas Tzion, Rashbam, Rabbi Yosef Nechemias]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Thorns: kotz / dardar / sneh / charul (and the rest of the twenty)
 
@@ -119,13 +119,13 @@ HaYamim I 4:8).
 - The triliteralists Ibn Janach and Radak read ק-ו-ץ.
 - Menachem Ibn Saruk, a biliteralist, reads ק-ץ.
 - Rabbi Shlomo Pappenheim, another biliteralist, gives ק-ץ the core sense of the
-  end or conclusion of a thing (*keitz*, *ketzeh*, *katz*, *ketzitzah*,
-  *kayitz*, *yekitzah*, *katzin*), so *kotz* is named for its many sharp ends.
+  end or conclusion of a thing (*keitz*, *ketzeh*, *katz*, [*ketzitzah*](cutting-bokea-korea-gozer.html#%D7%A7%D7%A6%D7%99%D7%A6%D7%94),
+  *kayitz*, [*yekitzah*](waking-yekitzah-oorah.html#%D7%99%D7%A7%D7%99%D7%A6%D7%94), *katzin*), so *kotz* is named for its many sharp ends.
 
 ### dardar (דרדר)
 Twice, both times in the phrase *kotz v'dardar* of two different kinds of thorn
 (Bereishis 3:18, Hoshea 10:8).
-- Rabbi Pappenheim: from ד-ר, movement without hindrance, whence *dror*,
+- Rabbi Pappenheim: from ד-ר, movement without hindrance, whence [*dror*](freedom-cheirus-chofesh-dror.html#%D7%93%D7%A8%D7%95%D7%A8),
   freedom; the *dardar* is an edible thorn growing in open, ownerless ground
   such as deserts.
 - The Yemenite scholar Rabbi Avraham ben Shlomo (to Shoftim 8:7), without
@@ -165,7 +165,7 @@ Rabbi Klein reasons, would somehow recall a thorn.
 - Rav Hirsch (to Tehillim 91:4) relates צ-ן to ש-ן, through the interchange of
   tzadi and shin, sharpness, as in *v'shinantam* and *shen*.
 - Rabbi Pappenheim takes the core sense of צ-ן as thorn outright, whence
-  *tzinah* (a spiked weapon), *tzinah* (sharp cold) and *tznumah* (grain damaged
+  [*tzinah*](cold-kor-tzinah.html#%D7%A6%D7%A0%D7%94) (a spiked weapon), *tzinah* (sharp cold) and *tznumah* (grain damaged
   by cold).
 - Where most commentators take *sikim* and *tzninim* as kinds of thorn, Rashbam
   (to Bamidbar 33:55) relates *tzninim* to *tzinah* in the sense of cold,
@@ -183,7 +183,7 @@ Rabbi Klein reasons, would somehow recall a thorn.
   thorns stuck in one's person, or clearing thorns from a place before one can
   enter it.
 - Rabbi Pappenheim offers a more creative account: ס-ר is removing something
-  from its place, *yissurin* and *mussar* are affliction meant to remove a
+  from its place, *yissurin* and [*mussar*](rebuke-mussar-tochachah.html#%D7%9E%D7%95%D7%A1%D7%A8) are affliction meant to remove a
   person from his sinful state, and thorns are *sirim*, in a borrowed sense, as
   instruments of affliction.
 
@@ -245,15 +245,15 @@ kuf, connects to the Moabite god Kemosh, with a kaf.)
 (Melachim I 12:11, 12:14; Divrei HaYamim II 10:11, 10:14) the commentators take
 it as flogging sticks with thorn-like spikes resembling scorpions. Rav Hirsch
 (to Tehillim 140:2-4) holds that four-letter animal names beginning with ayin
-are triliteral roots with the ayin added (*atalef*, *achshuv*, *akavish*,
-*achbar*, *akrav*), so *akrav* is from ק-ר-ב, ever ready for *krav*, battle.
+are triliteral roots with the ayin added (*atalef*, [*achshuv*](snake-nachash-saraph-tanin-peten.html#%D7%A2%D7%9B%D7%A9%D7%95%D7%91), *akavish*,
+*achbar*, *akrav*), so *akrav* is from ק-ר-ב, ever ready for [*krav*](war-milchamah-krav-pulmus.html#%D7%A7%D7%A8%D7%91), battle.
 *Akrav* seems to mean thorns only in a borrowed sense. (Whether Maaleh
 Akrabim, Bamidbar 34:4, Yehoshua 15:3, Shoftim 1:36, has to do with thorns or
 scorpions is unclear.)
 
 *Bashah*, once (Iyov 31:40), which the commentaries understand as a thorn weed
 from its pairing with *choach*. Rabbi Pappenheim: from ב-ש, cessation of
-movement, whose main derivative is *bushah*, shame, and from it words of ill repute, *ba'ash*
+movement, whose main derivative is [*bushah*](shame-bushah-klimah-cherpah.html#%D7%91%D7%95%D7%A9%D7%94), shame, and from it words of ill repute, *ba'ash*
 (putrid) and *be'ushim* (poor grapes); Rabbi Klein would add, possibly, the
 Aramaic *bisha*, bad.
 
@@ -268,7 +268,7 @@ too, though not all commentators agree.
 *Sikim* (Bamidbar 33:55) is the fence-thorn:
 - Radak in *Sefer HaShorashim* notes that fences were typically made of thorns,
   so *mesuchah*, a fence (Michah 7:4, Yechezkel 28:13, Mishlei 15:19, Yeshayahu
-  5:5), shares its root ש-ו-ך, and in his father's name derives *sakin*, knife
+  5:5), shares its root ש-ו-ך, and in his father's name derives [*sakin*](sword-cherev-shelach-sakin.html#%D7%A1%D7%9B%D7%99%D7%A0), knife
   (once, Mishlei 23:2), from *sikim* too.
 - Rav Hirsch (to Bamidbar 33:55) links the fence sense to *sugah*/*siyag* by the
   interchange of kaf and gimmel.
@@ -283,7 +283,7 @@ related to *sneh*, since palm branches are thorny, a point also made by Rabbi
 Pappenheim, Malbim (to Yechezkel 17:4) and Rabbi Yaakov Yehudah (Zilberberg) de
 Kassif (1914 to 2003).
 
-- *Saravim* (Yechezkel 2:6): many commentators read it from *siruv*, refusal or
+- *Saravim* (Yechezkel 2:6): many commentators read it from [*siruv*](refusal-miun-siruv.html#%D7%A1%D7%99%D7%A8%D7%95%D7%91), refusal or
   rebellion.
 - Donash Ibn Labrat makes it a thorn like *salonim*, and Rashi, citing him, adds
   offhand that there are twenty words for thorn.
@@ -293,7 +293,7 @@ Yaakov Reifman and Rabbi Yechiel Michel Stern, the Rav of Ezras Torah, explainin
 Rashi's twenty, give lists without *sansan* and with *nahalol* (Yeshayahu 7:19)
 instead. *Nahalol* is read three ways: a thorn (*Machberes Menachem*, Mahari
 Kara); lowly trees that bear no fruit (Radak, there and in *Sefer HaShorashim*;
-Metzudas Tzion); or, for Rabbi Pappenheim, from *nohel*/*menahel*, the place a
+Metzudas Tzion); or, for Rabbi Pappenheim, from [*nohel*](leading-noheg-molich-nachah-nohel.html#%D7%A0%D7%94%D7%9C)/*menahel*, the place a
 shepherd leads his young animals. Rabbi Avraham ben Shlomo (to Shoftim 8:7)
 cites Chazal for seventeen words, but his list drops *tzinim*, *akrav*, *bashah*
 and *sirpad* and adds *maluach*, *masuchah*, *pirchach* and *arar*; he also

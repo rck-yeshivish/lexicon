@@ -32,7 +32,7 @@ sources:
   - wiaw:9338 "Sort of Siblings" (2021-08-21) https://articles.ohr.edu/articles/sort-of-siblings
   - ms:320-sorts-of-siblings.md "Sorts of Siblings"
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Wolf Heidenheim, Ibn Ezra, Meshech Chochmah, Rabbi Eliyahu HaBachur, Rabbi Tanchum HaYerushalmi, Ritva, Nimukei Yosef, Rabbi Yaakov Emden, Ibn Janach, Radak, Pri Megadim, Rabbi Moshe ben Yitzchak ben HaNesiah, Rabbi Yitzchak of Chernigov]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Sibling-in-law: yavam / yevamah / giss
 
@@ -67,11 +67,11 @@ woman's sister's husband, a man's wife's brother and a man's sister's husband.
   breaks down into two monoliteral roots, the beis of "in, through" and the mem
   of "them," so that the two-letter root denotes the conglomeration and meeting
   point of several parties. *Bamah*, the private altar, he derives from it as a
-  site where many gathered in communal worship; *bamah* also means "high place,"
+  site where many gathered in communal worship; [*bamah*](altar-mizbeach-matzeivah-bamah.html#%D7%91%D7%9E%D7%94) also means "high place,"
   which many commentators take to be the word's original meaning, since such
   gatherings were usually held at elevated spots to be seen. Pappenheim then sets
   *yavam* against the other in-law terms: a spouse has only one father-in-law and
-  one mother-in-law, so *choten* / *chosenes* and *cham* / *chamos* are always
+  one mother-in-law, so *choten* / *chosenes* and *cham* / [*chamos*](in-laws-cham-chosen.html#%D7%97%D7%9E) are always
   limited to one person, whereas marriage can bring any number of siblings-in-law
   at once, a kind of mass gathering of family.
 - Rabbi Yaakov Tzvi Mecklenburg (1785-1865) cites Pappenheim but ultimately

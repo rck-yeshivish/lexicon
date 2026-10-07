@@ -30,7 +30,7 @@ words:
 sources:
   - wiaw:9368 "Calling the Defender - Vayelech / Yom Kippur" (2021-09-11) https://articles.ohr.edu/articles/calling-the-defender-vayelech-yom-kippur
 authorities: [Rashi, Machzor Vitri, Rambam, Rabbeinu Chananel, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rashbatz, Tiferet Yisrael, Melechet Shlomo, Rabbi Eliyahu HaBachur, Rabbi Yaakov Yehuda Zilberberg, Rabbeinu Elyakim, Moshav Zekanim, Rabbi Yaakov bar Shimshon, Chaim Tawil]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Advocate: meilitz / praklit / sanegor (and kategor)
 
@@ -116,7 +116,7 @@ Also a loanword.
 - Rabbi Klein notes that it might be more accurately spelled *synagor*, being
   made of the Greek *syn* (together, same), the element in English *synonym*,
   *syntax*, *synagogue* and *synthesis*, and *agor* (gathering place, assembly),
-  which he says is possibly related to the Hebrew *agur*, gathering. The
+  which he says is possibly related to the Hebrew [*agur*](gathering-asifah-kovetz-kehillah-agur.html#%D7%90%D7%92%D7%A8), gathering. The
   *synegoros* in Ancient Greece was a legal expert who argued before the
   assembly on a defendant's behalf.
 - From an exegetical perspective many sources take it as a contraction of *sani*

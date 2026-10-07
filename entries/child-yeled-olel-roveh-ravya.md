@@ -37,7 +37,7 @@ sources:
   - wiaw:8922 "Chayei Sarah: Boys and Girls (Part 1)" (2020-11-14) https://articles.ohr.edu/articles/chayei-sarah-boys-and-girls-part-1
   - wiaw:8505 "The Ovine and Caprine Families" (2019-12-07) https://articles.ohr.edu/articles/the-ovine-and-caprine-families
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yonah Ibn Janach, Radak, Rashi, Midrash Tadshe, Rabbi Eliyahu HaKohen of Izmir, Rabbi Meir Simcha of Dvinsk, Targum Onkelos, Rabbi Yaakov Kamenetsky, Rashbatz, Bartenura, Rav Hirsch]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Child: yeled / olel / roveh / elem (and Aramaic ravya, talya)
 
@@ -80,7 +80,7 @@ themselves, see [youth](youth-naar-almah-elem.html).
 - Pappenheim's account runs *olel*, growing through childhood, then *elem*.
 - *Midrash Tadshe* (ch. 6) instead sets *elem* after *naar* and inserts *roveh*
   between them, listing the stages of life as *yeled*, *naar*, *roveh*, *elem*,
-  *ish*, *sav*, *zaken*. In the Midrash's list *yeled* is the earliest stage.
+  [*ish*](man-adam-ish-enosh-gever.html#%D7%90%D7%99%D7%A9), *sav*, [*zaken*](old-zaken-seivah-yashish.html#%D7%96%D7%A7%D7%A0). In the Midrash's list *yeled* is the earliest stage.
 
 **How old a yeled is.**
 - Pappenheim: not necessarily any specific age, and Yishmael is called a *yeled*
@@ -88,7 +88,7 @@ themselves, see [youth](youth-naar-almah-elem.html).
 - Rashi (to Erachin 18b) on the Mishnah's *yeled* (*Erachin* 4:4): anyone from
   twenty to sixty, as against *zaken*, over sixty.
 - Rabbi Eliyahu HaKohen of Izmir cites anonymous "sages of astrology" who put
-  *yeled* at two to five, *naar* at five to eight, and *bachur* at eight to
+  *yeled* at two to five, *naar* at five to eight, and [*bachur*](unmarried-ravak-panui-bachur.html#%D7%91%D7%97%D7%95%D7%A8) at eight to
   eighteen.
 
 **The Aramaic correspondences.** They do not line up. Onkelos usually renders
@@ -119,18 +119,18 @@ Heavenly Court.
 
 - Both from Pappenheim's biliteral ע-ל, "on top", the root behind *al*, *elyon*,
   *l'maalah*, *oleh*, *aleh* (a leaf, which grows on the branch), *ol* (a yoke,
-  placed on the animal), *me'il* (a tunic worn over other clothes), and *na'al*
+  placed on the animal), [*me'il*](clothing-beged-levush-kesus-simlah.html#%D7%9E%D7%A2%D7%99%D7%9C) (a tunic worn over other clothes), and *na'al*
   (a shoe worn on the foot). An *olel* is the child already weaned from his
   mother's milk who now gets himself up to find or ask for food; he grows
   through childhood until he is an *elem*, grown up to nearly his full size.
 - According to many commentators, *elem* and *almah* are related instead to
-  *eilum* and *ne'elam*, hidden; Rav Hirsch (to Bereishis 13:15) explains that
+  *eilum* and [*ne'elam*](hidden-tzafun-safun-tamun-ganuz.html#%D7%A0%D7%A2%D7%9C%D7%9E), hidden; Rav Hirsch (to Bereishis 13:15) explains that
   an *elem* is a young *naar* who has not yet matured, so that his potential
   remains hidden and unrealized.
 
 ### naar (נער), for the contrast
 Pappenheim's root here is ע-ר, revealing: *va'te'ar* for emptying a jug and so
-revealing its bottom (Bereishis 24:20), *ohr* (skin), *ervah* (nakedness), *taar*
+revealing its bottom (Bereishis 24:20), *ohr* (skin), *ervah* (nakedness), [*taar*](razor-taar-morah.html#%D7%AA%D7%A2%D7%A8)
 (a razor, which reveals the skin), *ar* (an enemy who shows his enmity openly),
 and *eir* (awake, since a sleeper's powers are hidden and waking reveals them). A
 *naar* is the adolescent whose powers suddenly show, as though he had just woken
@@ -143,7 +143,7 @@ origins, offers what he calls the straightforward etymologies: *ravya*, *reva*
 and their cognates are clearly derived from the two-letter ר-ב, to grow in
 Aramaic (see Targum to
 Bereishis 25:27), so a boy or girl is one still growing; *talya* and *talyasa*
-seem to him related to *tleh*, a young goat, the same doubling that gives
+seem to him related to [*tleh*](sheep-and-goats-seh-keves-ayil-eiz.html#%D7%98%D7%9C%D7%94), a young goat, the same doubling that gives
 English "kid" both senses, ostensibly because both run around wildly. Rav Hirsch (to Bereishis 30:32)
 writes that *tleh* itself refers to a young human as well as a young lamb, just as English "kid" means both a young goat and a young child. Targum
 in some places uses *tali/talya* for *yeled* and for *naar* (Megillah 5b; *Dikdukei Sofrim* to

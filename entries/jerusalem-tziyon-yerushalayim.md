@@ -22,7 +22,7 @@ words:
 sources:
   - wiaw:7874 "Twin Cities: Zion and Jerusalem" (2018-07-28) https://articles.ohr.edu/articles/twin-cities-zion-and-jerusalem
 authorities: [Rabbi Ashtori HaParchi, Radbaz, Rabbi Elazar Azkiri, Rashi, Vilna Gaon, Ibn Ezra, Radak, Dunash ibn Labrat, Midrash Socher Tov, Rabbi Yosef Tuv-Elem, Zohar, Rabbi Yechiel Michel Tukachinsky, Rogatchover Gaon, Targum]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Jerusalem: Tziyon / Yerushalayim (Ir David, tziyun)
 
@@ -59,7 +59,7 @@ synecdoche, the part naming the whole, may be the more accurate term.
   Tanach is not always an adjoining city but at times a neighborhood inside
   Yerushalayim.
 - The Zohar (*Idra Zuta* 296b) says the two are two spiritual levels, one the
-  aspect of *rachamim* and the other the aspect of *din*, which Rabbi Klein
+  aspect of [*rachamim*](judgment-din-rachamim.html#%D7%A8%D7%97%D7%9E%D7%99%D7%9E) and the other the aspect of *din*, which Rabbi Klein
   takes as suggesting that both names denote one physical place.
 
 **Where Har Tziyon is.** Tehillim 48:3 places it *yarkesei tzafon*, in the
@@ -129,7 +129,7 @@ cities, and Rabbi Klein's illustration is Buda and Pest becoming Budapest.
 Rabbi Tukachinsky: at Yoel 4:17 and Tehillim 2:6 *tziyon* names the Beis
 HaMikdash, and at Yeshayahu 51:3 it names Klal Yisrael. In those places it is
 not a proper name at all but a common noun meaning "outstanding," derived from
-*tziyun*.
+[*tziyun*](tombstone-matzeivah-tziyun-nefesh.html#%D7%A6%D7%99%D7%95%D7%A0).
 
 ## Rendering guidance
 

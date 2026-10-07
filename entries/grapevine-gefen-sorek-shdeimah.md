@@ -29,7 +29,7 @@ sources:
   - wiaw:11743 "Pekudai: Seeing Red (Part 2/3)" (2025-03-29) https://articles.ohr.edu/articles/pekudai-seeing-red-part-23
   - ms:074-through-the-grapevine.md "Through the Grapevine"
 authorities: [Rabbi Shlomo of Urbino, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Shoresh Yesha, Rashi, Rabbeinu Bachya, Ibn Ezra, Ohalei Yehuda, Targum Yonasan, Rabbi Yitzchak Ibn Ghiyyat, Rabbi Shmuel ben Chofni Gaon, Maharsha, Rivan, Shitah Mekubetzes, Sechel Tov, Arugas HaBosem, Rabbi Elazar Rokeach of Worms]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Grapevine: gefen / sorek / shdeimah (sarig)
 
@@ -90,7 +90,7 @@ same thing.
   ג-פ-ן.
 - Pappenheim derives it from the biliteral ג-ף, outward protrusion, with *gaf*
   (side, Mishlei 9:3), a bird's wing, *guf* (the body as the outward projection
-  of the person), *mageifah* (a plague spreading by contact), and *agaf* (a
+  of the person), [*mageifah*](plague-dever-mageifah-negef.html#%D7%9E%D7%92%D7%A4%D7%94) (a plague spreading by contact), and [*agaf*](wing-kanaf-ever-agaf.html#%D7%90%D7%92%D7%A4) (a
   flank of troops spread like wings; in Modern Hebrew a department within a
   larger body).
 - *Shoresh Yesha*, implicitly invoking the gimmel and kaf interchange, relates
@@ -129,14 +129,14 @@ a *magufah*, a sealed jar, to keep its taste and strength. Rashi (to Yirmiyahu
 Rabbeinu Bachya (to Devarim 32:14): *enav* is the single grape; the grapes
 hanging together are an *eshkol* in the Torah's language and a *parkil* in the
 language of Chazal (*Sukkah* 10a); what the clusters hang from is a *gefen*
-while attached and a *zemorah* once cut, as in *vayichresu misham zemorah
+while attached and a [*zemorah*](pole-mot-bad-neis-toren-shapud.html#%D7%96%D7%9E%D7%95%D7%A8%D7%94) once cut, as in *vayichresu misham zemorah
 ve'eshkol anavim echad* (Bamidbar 13:23). At Bamidbar 13:23 he brings a Midrash
 (Zohar, Shelach 160b) that it is a *zemorah* while attached and a *mot* once
 cut.
 
 ### shdeimah (שדמה)
 See the dispute above. Pappenheim's route to it runs through the biliteral ש-ד,
-whose core sense he gives as abnormality: *shoded* (commandeering), *sheid* (a
+whose core sense he gives as abnormality: *shoded* (commandeering), [*sheid*](demon-sheid-lilis-ruach.html#%D7%A9%D7%93) (a
 demon, said to disrupt the natural order), *shidah* and *shidos* (Koheles 2:8,
 women who danced as swiftly as *sheidim*), and *shad* (the gland whose
 secreting of nourishment departs from what other body parts do). From that last

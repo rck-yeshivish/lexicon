@@ -20,7 +20,7 @@ sources:
   - wiaw:8857 "The Strong Ones" (2020-09-12) https://articles.ohr.edu/articles/the-strong-ones
   - ms:181-the-kidneys-advisory.md "The Kidneys Advisory"
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Chaim Hirschensohn, Rabbi Betzalel Stern, Rabbi Moshe Shapiro, Rabbi Nissim of Marseilles]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Tree: eitz / ilan
 
@@ -47,7 +47,7 @@ berachos.
 Countless times in Tanach: *eitz hadaas*, *eitz hachaim*, *atzei shittim*,
 *atzei levanah*.
 
-- Rabbi Shlomo Pappenheim relates it to *atzum*, strong, and *etzem*, bone, as
+- Rabbi Shlomo Pappenheim relates it to *atzum*, strong, and [*etzem*](bone-etzem-gerem.html#%D7%A2%D7%A6%D7%9E), bone, as
   it denotes the strength and durability of a tree, against other, flimsy forms
   of flora such as grass.
 - Rabbi Moshe Shapiro finds a common theme in all words containing ע-ץ: an

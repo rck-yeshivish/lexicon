@@ -28,7 +28,7 @@ sources:
   - wiaw:9199 "Behar - Bechukotai: Settled Citizens" (2021-05-08) https://articles.ohr.edu/articles/behar-bechukotai-settled-citizens
   - ms:209-settled-citizens.md "Settled Citizens"
 authorities: [Malbim, Rav Hirsch, Ibn Ezra, Rabbi Yaakov Tzvi Mecklenburg, Radak, Rabbi Moshe Kimchi, Rabbi Yosef Kimchi, Menachem Ibn Saruk, Yonah Ibn Janach, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Eliyahu HaBachur, Rashi, Ramban, Mizrachi, Rabbi Yisrael Yaakov Algazi, Rabbi Shmuel Modiliano, Rabbi David Chaim Chelouche, Shadal, Rabbi Eliyahu Benamozegh, Rabbi Yitzchak Shmuel Reggio, Rabbi Dr. Eliyahu Rachamim Zini, Giambattista Vico]
-updated: 2026-09-24
+updated: 2026-10-06
 ---
 # Resident: ger / toshav / ezrach (zar)
 
@@ -63,14 +63,14 @@ Malbim: a *ger* is one living in a land other than his own homeland, whether
 far from it (Bereishis 15:13, Shemos 18:3) or near (Shoftim 19:1, 19:16).
 
 - Rav Hirsch (to Bereishis 12:14, 23:4) takes the biliteral ג-ר as "detachment
-  from one's roots," and gathers under it *ger*, *gur* (a lion cub, newly weaned
+  from one's roots," and gathers under it *ger*, [*gur*](lion-aryeh-kfir-lavi-layish.html#%D7%92%D7%95%D7%A8) (a lion cub, newly weaned
   and detached from its mother), *gur* (fear, the ground yanked out from under
   one), and *megurah* (or *megirah*, "closet/drawer" in Modern Hebrew), a silo
   for storing harvested grain already detached from the ground.
 - Ibn Ezra (to Bereishis 15:13, 23:4, Tehillim 37:35) likewise reads *ger* as an
   expression of disconnection.
 - Rabbi Yaakov Tzvi Mecklenburg (1785-1865) offers two other derivations: from
-  *megirah* / *agurah*, gathering, since the *ger* has now gathered himself into
+  *megirah* / [*agurah*](gathering-asifah-kovetz-kehillah-agur.html#%D7%90%D7%92%D7%A8), gathering, since the *ger* has now gathered himself into
   his newfound land and community; and from *girui*, irritation or instigation,
   for the *ger*'s knack for instigating a fight against his natural desires and
   overcoming them.
@@ -167,7 +167,7 @@ that his descendants would remain there even after his death.
 - Rabbi Shlomo Pappenheim (*Cheshek Shlomo* s.v. גר) also takes it from
   *zerichah*, but in the sense that the verb *zarach* marks the first revealing
   of any thing, as *v'hatzaraas zarchah b'mitzcho* (Divrei HaYamim II 26:19). So
-  the sun's first appearance on the horizon is called *mizrach*, *mizrach
+  the sun's first appearance on the horizon is called [*mizrach*](directions-tzafon-darom-mizrach-maarav.html#%D7%9E%D7%96%D7%A8%D7%97), *mizrach
   hashemesh* (Yehoshua 1:15), and *zerichah* is said not of the sun once it is
   already shining on the earth but only of its first coming out on the horizon.
   One who lives in the land of his birth is therefore an *ezrach*, present in the
@@ -185,7 +185,7 @@ that his descendants would remain there even after his death.
   east, so a legitimate citizen properly oriented in society is likewise called
   an easterner, an *ezrach*, while one who leaves the confines of civilization
   and sojourns beyond the pale of settlement is branded a stranger or an
-  occidental, in Hebrew a *ger* or a *zar*.
+  occidental, in Hebrew a *ger* or a [*zar*](stranger-zar-nachri-hedyot.html#%D7%96%D7%A8).
 - Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Shemos 12:49 and Vayikra 19:34):
   *ezrach* in the Chumash is the Jewish inhabitant of Eretz Yisrael. He argues
   at length against Rabbi Yitzchak Shmuel Reggio, for whom the *ezrach* is the

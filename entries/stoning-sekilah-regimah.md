@@ -23,7 +23,7 @@ sources:
   - wiaw:10935 "Emor: Getting Stoned" (2023-05-06) https://articles.ohr.edu/articles/emor-getting-stoned
   - ms:205-getting-stoned.md "Getting Stoned"
 authorities: [Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Yosef Kimchi, Rashi, Targum, Meiri, Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Yaakov Tzvi Mecklenburg, Yashar, Rabbi Yehuda Leib Shapira-Frankfurter, Sefer HaChochmah, Rav Hirsch, Rabbi Yehoshua Steinberg, Rabbi Yaakov Berger, Ohalei Yehuda, Rabbi Aharon Marcus, Rabbi Avi Kobernick, Rabbi Yitzchak Ginsburgh, Mishnas Rabbi Eliezer, Ibn Ezra, Abarbanel, Avraham Shmuel Herschberg, Rabbi Refael Gruskin, Rabbi Chaim Hirschensohn, Rabbi Yaakov Yehudah Zilberberg Di Kasif, Rabbi Binyamin Kohen-Shauli, Rabbi Yaakov Loyfer, Noonan]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Stoning: sekilah / regimah (margeimah, regem)
 
@@ -106,7 +106,7 @@ rid of stones rather than using them.
 Twenty occurrences in the sense of stoning to death: for approaching Har Sinai
 (Shemos 19:13), the ox that kills a person (Shemos 21:28-29, 21:32), the
 idolater (Devarim 17:5) and the one who incites to idolatry (Devarim 13:11), the
-betrothed *naarah* who commits adultery and her paramour (Devarim 22:21, 22:24).
+betrothed [*naarah*](youth-naar-almah-elem.html#%D7%A0%D7%A2%D7%A8) who commits adultery and her paramour (Devarim 22:21, 22:24).
 It is also used where nobody dies: Moshe tells Pharaoh the Egyptians would stone
 the Jews for slaughtering their gods (Shemos 8:22); "a little more and they will
 stone me" (Shemos 17:4); Dovid HaMelech's similar fear (Shmuel I 30:6); and
@@ -134,10 +134,10 @@ those present.
 
 - Pappenheim treats the mem as non-essential and traces the word to biliteral
   ר-ג, subduing: the stoned man is overwhelmed by the stones, which stop his
-  functioning; *harigah*, killing, subdues in the most absolute way, and
+  functioning; [*harigah*](murder-retzichah-harigah-ketilah.html#%D7%94%D7%A8%D7%99%D7%92%D7%94), killing, subdues in the most absolute way, and
   *arigah*, weaving, holds threads immobile.
 - Rabbi Aharon Marcus (1843 to 1916) extends the string ר-ג to *regev* (clod),
-  *regel* (foot), *rogez* (anger) and *regesh* (feeling), all tied to subduing,
+  [*regel*](foot-paam-regel.html#%D7%A8%D7%92%D7%9C) (foot), [*rogez*](trembling-raadah-retet-raash.html#%D7%A8%D7%92%D7%96) (anger) and *regesh* (feeling), all tied to subduing,
   conquering or trampling.
 - Tedeschi compares *regel*, *ragan* (complain), *raga* (terrify, thrash) and
   *regesh* (tumult), words of strong, even violent, movement, and so makes

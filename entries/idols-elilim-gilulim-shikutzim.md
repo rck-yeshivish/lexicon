@@ -54,7 +54,7 @@ sources:
   - wiaw:8198 "Top Ten Words for Idols" (2019-03-30) https://articles.ohr.edu/articles/top-ten-words-for-idols
   - wiaw:11687 "Yisro: Write it down" (2025-02-15) https://articles.ohr.edu/articles/yisro-write-it-down
 authorities: [Avos d'Rabbi Nosson, Malbim, Maharitatz, Rashi, Rabbeinu Nissim, Ritva, Ibn Ezra, Ramban, Rabbi Shlomo Pappenheim, Rabbi Eliyahu Benamozegh, Rabbeinu Shimshon of Shantz, Pirush HaRaavad, Rav Achai Gaon, Netziv, Rav Hirsch]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Idols: elilim / pesel / masechah / matzeivah / atzabim / gilulim / terafim / shikutzim / chamanim / asherim
 
@@ -164,7 +164,7 @@ From *sheketz*, an abomination; the plain sense is that they are abominable.
 
 ### chamanim (חמנים)
 
-- From *chamah*, the sun, because they are left standing outdoors in the sun.
+- From [*chamah*](sun-shemesh-chamah-cheres.html#%D7%97%D7%9E%D7%94), the sun, because they are left standing outdoors in the sun.
 - Rav Achai Gaon (680-752) in *She'iltos d'Rav Achai Gaon* gives a different
   reason: they die as animals do. The Netziv, Rabbi Naftali Tzvi Yehudah Berlin
   (1816-1893), explains the connection: a person who dies is customarily buried

@@ -22,7 +22,7 @@ words:
 sources:
   - wiaw:7927 "Straying from the Path" (2018-09-08) https://articles.ohr.edu/articles/straying-from-the-path
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Moshe Shapiro, Rabbi Aharon Marcus]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Straying from a path: zenus / stiyah
 
@@ -56,7 +56,7 @@ the side, so that *chet*, sin, is a straying.
 Straying from the paths of righteousness can be understood as deviance from the
 proper path, as
 children who reject the Torah they were taught are colloquially "off the
-*derech*." *Zonah*, colloquially a prostitute, literally refers to one who has
+[*derech*](path-derech-orach.html#%D7%93%D7%A8%D7%9B)." *Zonah*, colloquially a prostitute, literally refers to one who has
 strayed from a certain set of expectations. A *zonah* whom a kohen may not marry
 (Vayikra 21:7) is, for that issur, any woman who had relations with someone
 forbidden to her. Near Moshe's death Hashem tells him that the people will stray
@@ -68,7 +68,7 @@ theistic infidelity.
 
 Rabbi Shlomo Pappenheim of Breslau (1740 to 1814) traces *zenus*, promiscuity,
 to the biliteral ז-ן, the nucleus of the words for sustenance: in bentching
-Hashem is He who sustains (*zan*) all of Creation, and *mazon*, food, is
+Hashem is He who sustains (*zan*) all of Creation, and [*mazon*](food-ochel-shever-tevuah-dagan.html#%D7%9E%D7%96%D7%95%D7%A0), food, is
 essential to sustaining life. He proposes that an over-abundance of *mazon*, a
 very physical substance, draws a person toward wholly physical endeavors, and this leads to
 lustful desires. Excess physical energy generally finds its outlet in strenuous
@@ -108,7 +108,7 @@ tes denotes movement to the side, that is, straying, as shown by *stiyah*
 (plastering), *taah* (erred), and more. Most significantly, he argues that the
 active letter of *chet*, sin, is its middle tes, so that to sin is to move to
 the side, off the proper path. He adds that *avon* is related to *ivvus*,
-warped, the sinner being on a warped or contorted path, and *pesha* to *posea*,
+warped, the sinner being on a warped or contorted path, and [*pesha*](rebellion-pesha-meridah-meri.html#%D7%A4%D7%A9%D7%A2) to *posea*,
 takes a step, the sinner having taken steps in the wrong direction.
 
 ## Rendering guidance

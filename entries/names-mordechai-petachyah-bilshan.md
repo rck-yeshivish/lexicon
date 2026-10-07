@@ -22,7 +22,7 @@ words:
 sources:
   - wiaw:11285 "Ki Sisa/Purim Katan: Myrrh & Myrtle (Part 1)" (2024-03-02) https://articles.ohr.edu/articles/ki-sisapurim-katan-myrrh-myrtle-part-1
 authorities: [Ibn Ezra, Maharsha, Keren Orah, Peirush HaRokeach, Torah Temimah, Rabbi Yehonatan Eybeschutz, Rabbi Chaim Palagi, Rambam, Dr. Alexander Kohut]
-updated: 2026-09-28
+updated: 2026-10-06
 ---
 # Names of Mordechai: Mordechai / Petachyah / Bilshan
 
@@ -64,7 +64,7 @@ him; others make Malachi a different man.
 
 - One opinion in Megillah 15a has the navi Malachi be Mordechai himself, called
   Malachi because he was viceroy to the Persian king, *mishneh l'melech*, Rabbi
-  Klein presuming that *malachi* is read as kin to *melech*; that would give him
+  Klein presuming that *malachi* is read as kin to [*melech*](king-melech-moshel.html#%D7%9E%D7%9C%D7%9B); that would give him
   three names, Mordechai, Petachyah and Malachi.
 - Other opinions there make Malachi an alternate name for Ezra, or a separate
   man altogether, and the Rambam, in his introduction to *Yad HaChazakah*,

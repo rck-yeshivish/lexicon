@@ -26,7 +26,7 @@ words:
 sources:
   - wiaw:8157 "Raise the Curtain" (2019-03-02) https://articles.ohr.edu/articles/raise-the-curtain
 authorities: [Rashi, Rabbi Shlomo Pappenheim, Shoresh Yesha, Sefer HeAruch, Rav Hai Gaon, Rabbi Ernest Klein]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Curtain: paroches / masach / vilon / pargod
 
@@ -112,7 +112,7 @@ the *pargod* a call for everyone else to return except him, and the Yom Kippur
 Mussaf piyut has Rabbi Yishmael ben Elisha ascending and reporting what he heard
 from beyond the *pargod* about the decree of the Ten Martyrs. In similar
 contexts Rashi defines it twice, at *Bava Metzia* 59a as the separation between
-Hashem and the *malachim*, and at *Berachos* 18b as the separation between
+Hashem and the [*malachim*](angel-malach-shaliach.html#%D7%9E%D7%9C%D7%90%D7%9B), and at *Berachos* 18b as the separation between
 Hashem and His Holy Presence.
 
 - Rabbi Ernest Klein derives *pargod* from the Greek *paragaudos*/*paragaudion*

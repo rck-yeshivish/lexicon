@@ -52,7 +52,7 @@ sources:
   - wiaw:11205 "Vaera: The Vertically-Challenged" (2024-01-13) https://articles.ohr.edu/articles/vaera-the-vertically-challenged
   - ms:210-the-poor-and-unfortunate.md "The Poor and Unfortunate"
 authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Yehuda Kalatz, Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Shlomo Pappenheim, Rabbi Yair Chaim Bachrach, Rabbi Moshe Sternbuch, Rabbi Yechiel Michel Epstein, Rav Chaim Kanievsky, Rabbi Avraham ben Yitzchak HaLevi Tamach, Midrash Tanchuma, Midrash Mishlei, Vayikra Rabbah, Dr. Leon Aryeh Feldman, Rabbi Moshe Tedeschi-Ashkenazi (Hoil Moshe), Menachem Ibn Saruk, Wilhelm Gesenius, Ibn Janach, Radak, Ibn Chayyuj, Rabbi Dr. Ernest Klein, Rabbi Eliyahu HaBachur, Thomas Lambdin, Dr. Chaim Tawil]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Poverty: ani / evyon / misken / rash / dal / dach / mach / heilech
 
@@ -96,7 +96,7 @@ The Midrashim (*Midrash Tanchuma*, *Behar* §3; *Midrash Mishlei* ch. 22;
   poverty: an *ani* is poor but still has his pride and keeps up a normal front,
   while an *evyon* has given up all pretense of self-sufficiency.
 - Rabbi Avraham Bedersi HaPenini (1230-1300) derives *ani* (with an ayin) from
-  *inui*, affliction: strictly it is anyone afflicted by anything, though in
+  [*inui*](fasting-tzom-taanis.html#%D7%A2%D7%99%D7%A0%D7%95%D7%99), affliction: strictly it is anyone afflicted by anything, though in
   nearly every context the affliction is financial.
 - Rabbi Yehuda Kalatz (*Sefer HaMussar*), a late fifteenth-century scholar
   exiled from Spain to North Africa: the *ani* works hard his whole life and
@@ -146,7 +146,7 @@ Related to *sakanah*, danger: the forced austerity endangers his life.
 - Dr. Chaim Tawil lists *misken* as Akkadian, with no relation to ס-כ-נ, danger.
 
 ### rash (רש)
-Tied to *yerushah*, inheritance, in two directions.
+Tied to [*yerushah*](inheritance-nachalah-yerushah-achuzah.html#%D7%99%D7%A8%D7%95%D7%A9%D7%94), inheritance, in two directions.
 
 - One: property dispossessed by others, so that he has lost everything.
 - Two, as Wertheimer suggests: a poor man son of a poor man, who never knew
@@ -178,11 +178,11 @@ illness has made him thin.
 - Bedersi offers an alternative: the *mach* need not have a low income at all,
   but is pressed by obligations beyond his means.
 - Pappenheim traces the root to the kaf element of striking, one struck by bad
-  *mazal*.
+  [*mazal*](fortune-mazal-gad-mazar.html#%D7%9E%D7%96%D7%9C).
 - Others give the root as מ-ו-ך (Ibn Janach and Radak), מ-כ-ך (Ibn Chayyuj) or
   מ-ך (Menachem Ibn Saruk).
 - Rabbi Dr. Ernest Klein, echoing Rabbi Eliyahu Bachur's *Sefer HaTishbi*,
-  explains the Rabbinic *namuch*, low, as a secondary base form of the nifal of
+  explains the Rabbinic [*namuch*](short-gamad-namuch-gutz-nanas.html#%D7%A0%D7%9E%D7%95%D7%9B), low, as a secondary base form of the nifal of
   *mach*: the grammatical nun denotes one who has become lowered, and the
   resulting word came to be treated as though the nun were part of the root.
 

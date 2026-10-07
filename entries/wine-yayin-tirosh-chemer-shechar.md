@@ -33,7 +33,7 @@ sources:
   - wiaw:9616 "Words for Wine (Part 1)" (2022-03-12) https://articles.ohr.edu/articles/words-for-wine-part-1
   - wiaw:9632 "Words for Wine (Part 2)" (2022-03-26) https://articles.ohr.edu/articles/words-for-wine-part-2
 authorities: [Rashi, Radak, Ramban, Rabbi Yosef Kimchi, Menachem Ibn Saruk, Rabbeinu Yonah Ibn Janach, Rabbi Moshe Ibn Ezra, Ibn Ezra, Rabbi Yehudah Ibn Balaam, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Yaakov Emden, Rabbeinu Elyakim, Rabbeinu Bachya, Rabbi Avraham Bedersi, Rabbi Yosef Kara, the Vilna Gaon, Maharal, Maharil, Rabbi Shlomo of Urbino, Rabbi Dr. Yehuda Felix, Rambam, Rashbam, Rabbi Yosef Bechor Shor, Ritva, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yosef Nechemias, Rabbi David Chaim Chelouche, Rabbi Yaakov Yosef Katz of Polonne, Rabbi Yitzchak of Zeldin, Rabbi Yitzchak Sarim, Edward Yechezkel Kutscher]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Wine: yayin / tirosh / chemer / shechar
 
@@ -95,7 +95,7 @@ Dr. Edward Kutscher took it for a kind of wine).
   freshly squeezed juice before fermentation, the stage he also finds in *dam
   anavim*, "the blood of grapes," in that pasuk, and Rabbi Dr. Yehuda Felix
   (1921 to 2004) likewise concludes it is grape juice not yet fermented. On
-  Hoshea 4:11, which rebukes *zenus*, *yayin* and *tirosh*, Rabbi Yosef Kara
+  Hoshea 4:11, which rebukes [*zenus*](straying-zenus-stiyah.html#%D7%96%D7%A0%D7%95%D7%AA), *yayin* and *tirosh*, Rabbi Yosef Kara
   reads overindulgence in both old wine and new, and Radak adds that excess new
   wine is especially harmful because it intoxicates faster than aged wine.
 - (2) **Sweetness and hour.** The Vilna Gaon (to Hoshea 4:11): the rebuke is
@@ -149,7 +149,7 @@ is no longer current (responsa *Divrei Malkiel* 6:18).
   "red," derives from Arabic *khamr*, "wine," itself clearly related to
   *chemer*.
 - Rabbi Aharon Marcus departs slightly: the core meaning is "brown," so *chemer*
-  is wine's reddish-brown color, and *chamor*, the donkey, and *yachmur*
+  is wine's reddish-brown color, and [*chamor*](donkey-chamor-aton-pere-ayir-pered.html#%D7%97%D7%9E%D7%95%D7%A8), the donkey, and *yachmur*
   (Devarim 14:5; Melachim I 5:3) are brownish beasts; the core is the biliteral
   ח-ם, source of *chum*, "brown," and *cham*, "hot" (the link between these two,
   Rabbi Klein suggests, may be that what burns in great heat often turns brown).
@@ -165,7 +165,7 @@ is no longer current (responsa *Divrei Malkiel* 6:18).
 - Rav Hirsch (to Bereishis 1:22-23, 11:3) links *amar* with aleph, *chemer*, and
   *amar* with ayin through the interchange of aleph, ches and ayin, and takes the
   core of ח-מ-ר (as in *chomer*, matter) as the joining of many components into
-  one: *omer*, a bundle of stalks; *chamarim*, heaps; *amar*, speech built of
+  one: [*omer*](pile-areimah-chamarim-gadish.html#%D7%A2%D7%9E%D7%A8), a bundle of stalks; *chamarim*, heaps; *amar*, speech built of
   many words on one theme. So *chemer* (there and to Devarim 32:14) is wine that
   has already fermented, its like particles clinging together into a new entity.
 
@@ -202,11 +202,11 @@ Over 140 appearances in its forms (*yayn* in construct).
   alleges, the ancient Greeks were known as plunderers, thieves and plagiarists;
   he goes so far as to claim that everything in ancient Greek poetry, mythology
   and philosophy was either stolen or wholly untrue.
-- Midrash Tanchuma (Shemini 5): *yayin* has the *gematria* 70, that of *sod*,
+- Midrash Tanchuma (Shemini 5): *yayin* has the *gematria* 70, that of [*sod*](secret-sod-raz-tamir.html#%D7%A1%D7%95%D7%93),
   "secret," for when wine enters the secret leaves (see also Sanhedrin 38a).
 
 ### tirosh (תירוש)
-Under forty appearances, mostly paired with *dagan* in an agricultural setting.
+Under forty appearances, mostly paired with [*dagan*](food-ochel-shever-tevuah-dagan.html#%D7%93%D7%92%D7%A0) in an agricultural setting.
 According to archaeologists, the idolaters of ancient Canaan and Ugarit deified
 wine and named their wine-god Tirosh, and the scholarly *Dictionary of Deities
 and Demons in the Bible* has an entry on him.
@@ -264,15 +264,15 @@ donkey, be reincarnated as one, and come to proposition one in the marketplace
   on wine, as the two words are used in Mishlei 23:20. From that alone *sove*
   would mean "drunk," as Ibn Janach and Radak explain it in their *Sefer
   HaShorashim*.
-- But in Yeshayahu 1:22, "your *sava* is diluted with water," the Targum, Rashi
+- But in Yeshayahu 1:22, "your [*sava*](drunkenness-sove-shachar-sheichar.html#%D7%A1%D7%91%D7%90) is diluted with water," the Targum, Rashi
   (to Bava Basra 15b) and Rabbi Yosef Kara take *sava* as wine, and Ibn Janach
   and Radak agree on that verse (see also Rashi to Avodah Zarah 71a: *savyuta*,
   wine merchants).
 - Rabbi Yosef Nechemias (to Mishlei 23:20): since drunkards are called *sovim*,
   *sava* came to mean wine itself.
 - Rabbi Pappenheim traces *sove* to the biliteral ס-ב, circling, since the
-  drunkard circles the streets for his next drink (so *sivuv*, *saviv*,
-  *mesibah*, *seivah*, *saba*).
+  drunkard circles the streets for his next drink (so *sivuv*, [*saviv*](around-saviv-heikef-afef-chug.html#%D7%A1%D7%91%D7%99%D7%91),
+  [*mesibah*](meal-seudah-mishteh-mesibah.html#%D7%9E%D7%A1%D7%99%D7%91%D7%94), [*seivah*](old-zaken-seivah-yashish.html#%D7%A9%D7%99%D7%91%D7%94), *saba*).
 - *Ohalei Yehuda* relates *sava* to its homonym שבע, satiated: wine satisfies
   hunger, or conversely strong wine does not quench thirst, and on that last
   point he even considers a link to *tzamah*, thirst, through the interchange of

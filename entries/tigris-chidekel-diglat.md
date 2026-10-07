@@ -22,7 +22,7 @@ words:
 sources:
   - wiaw:11903 "Devarim: The Sharp River" (2025-08-02) https://articles.ohr.edu/articles/devarim-the-sharp-river
 authorities: [Targum Onkelos, Rashi, Rabbi Saadia Gaon, Abarbanel, Rabbi Naftali HaKohen Katz, Rabbi Binyamin Mussafia, Shadal, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Baruch HaLevi Epstein, Rabbi Refael Mamo, Rabbi Matzliach Mazuz, Josephus, Rabbi Levi ben Avraham, Rabbi Nissim of Marseilles, Targum Neofiti, Wilhelm Gesenius, Rabbi Ernest Klein, Isidore of Seville, Dr. Alexander Kohut]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Tigris: Chidekel / Diglat (ha'dekel, tigras)
 
@@ -75,7 +75,7 @@ not the river, though Abarbanel and Rabbi Binyamin Mussafia tie the river's name
 - Rabbi Aharon Marcus (*Keses HaSofer* to Bereishis 2:11, *Barzilai* p. 127)
   takes *Chidekel* as an ancient Hebrew four-letter word, though Hebrew roots
   generally have three letters or fewer, and conjectures that its core is ח-ד-ק
-  with a lamed added at the end, on the model of *barzel*, *karsul*, *chanamal*,
+  with a lamed added at the end, on the model of *barzel*, *karsul*, [*chanamal*](locust-arbeh-gazam-yelek-chasil.html#%D7%97%D7%A0%D7%9E%D7%9C),
   *arafel*, *carmel*, *chargol* and *givol*; how he relates ח-ד-ק to the river
   is not so clear.
 - *Torah Temimah* explains the Gemara's derashah from the same rarity: because
@@ -146,7 +146,7 @@ to change it.
   notes the similarity of those two roots: a *degel* is a standard seen from
   afar, a palm a tall tree seen from a distance.
 - Rabbi Reuven Chaim Klein adds that the river might connect to ד-ק-ל, and maybe
-  even to ד-ג-ן, *dagan*, grain, since its water let both grow in the fertile
+  even to ד-ג-ן, [*dagan*](food-ochel-shever-tevuah-dagan.html#%D7%93%D7%92%D7%A0), grain, since its water let both grow in the fertile
   crescent.
 
 ### Tiglat-Pileser

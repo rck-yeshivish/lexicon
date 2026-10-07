@@ -22,7 +22,7 @@ words:
 sources:
   - wiaw:11584 "Chayei Sarah: All Wrapped Up" (2024-11-23) https://articles.ohr.edu/articles/chayei-sarah-all-wrapped-up
 authorities: [Targum Onkelos, Targum Yonasan, Targum Yerushalmi, Rabbi Menachem ben Shlomo, Rabbi Yehudah Aryeh of Carpentras, Rabbi Saadia al Damari, Rabbi Avraham Vilner, Rabbi Yaakov Zev Lev, Rabbi Yehoshua Steinberg, Rabbi Yitzchak Ratzabi, Ibn Saruk, Ibn Janach, Gesenius, Shadal, Rav Hirsch, Samuel Shaviv, Sefer HeAruch, Ibn Ezra, Radak, Metzudas Tzion, Rabbi Shlomo Pappenheim, Rambam, Rabbi Ernest Klein]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Veil: tza'if / redid
 
@@ -141,7 +141,7 @@ On the name:
   gives it its name, since *merudad*, from ר-ד-ד, is what has been beaten down
   or subdued until very thin (see Targum Onkelos to Shemos 39:3).
 - Rabbi Yehudah Aryeh of Carpentras first offers something similar and then
-  suggests parsing *redid* as *ra'ah* (see) and *dod* (beloved), a *redid* being
+  suggests parsing *redid* as [*ra'ah*](seeing-raah-hibit-tzofeh.html#%D7%A8%D7%90%D7%94) (see) and [*dod*](uncle-dod-misaref.html#%D7%93%D7%95%D7%93) (beloved), a *redid* being
   the ornament whose wearing exudes closeness by beautifying the wearer.
 
 Rabbi Shlomo Pappenheim traces *redid* to the biliteral ר-ד, whose core sense is

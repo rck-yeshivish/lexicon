@@ -25,7 +25,7 @@ sources:
   - wiaw:6916 "My Three Suns (and Moons)" (2016-09-03) https://articles.ohr.edu/articles/my-three-suns-and-moons
   - ms:310-my-three-suns-and-moons.md "My Three Suns (and Moons)"
 authorities: [Rabbi Aharon Marcus, Tashbetz, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-28
+updated: 2026-10-06
 ---
 # Sun: shemesh / chamah / cheres
 
@@ -109,7 +109,7 @@ sometimes means the sun, and in Sanskrit *jama* means sun.
 Rabbi Aharon Marcus reads the three words for the
 [moon](moon-yareach-levanah-sahar.html) the same way, and the two sets
 somewhat parallel each other. The moon too is called only the small luminary at
-creation. Its first name, *yareach*, from *orach*, a path, was coined in the
+creation. Its first name, [*yareach*](month-chodesh-yerach.html#%D7%99%D7%A8%D7%97), from [*orach*](path-derech-orach.html#%D7%90%D7%95%D7%A8%D7%97), a path, was coined in the
 same fight against idolatry as *shemesh*, and like *shemesh* it was later taken
 up as the name of a god, Yarikh. Its later names, *levanah* and *sahar*, name it
 by its color and its shape, as *chamah* and *cheres* name the sun by its heat and

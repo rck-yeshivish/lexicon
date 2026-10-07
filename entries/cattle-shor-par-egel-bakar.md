@@ -43,7 +43,7 @@ sources:
   - wiaw:9308 "The Ultimate Teacher" (2021-07-24) https://articles.ohr.edu/articles/the-ultimate-teacher
   - ms:271-bovine-words-cows-and-cowboys.md "Bovine Words: Cows and Cowboys"
 authorities: [Rabbi Eliezer HaKallir, Peirush HaRokeach, Rabbeinu Efrayim, Rabbi Zalman Hanau, Rabbi Shlomo Pappenheim, Rashi, Radak, Rabbi Yonah Merzbach, the Vilna Gaon, Rabbi Yehoshua Steinberg, Julian Mason, Malbim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Eliyahu Benamozegh, Shadal]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Cattle: shor / par / egel / aleph / bakar
 
@@ -106,7 +106,7 @@ The classical pair, male and female.
   thing into smaller parts, whence *peirurim* (crumbs), *eifer* (ash), *parur*
   (a pot for crumbs and small grains), *pri* (a fruit, a microcosm of the tree
   that comes off it), *pe'er* and *tiferes* (an all-encompassing beauty made of
-  many aspects), *hafarah* (dissolving a vow), *primah* (tearing a garment into
+  many aspects), *hafarah* (dissolving a vow), [*primah*](cutting-bokea-korea-gozer.html#%D7%A4%D7%A8%D7%99%D7%9E%D7%94) (tearing a garment into
   shreds), and *tefirah* (sewing, which repairs *primah*). Since *pri* is
   reproduction, the *par* is the fertile male, unlike the *shor*, and the
   *parah* is almost always kept for exactly what her name says, calving and

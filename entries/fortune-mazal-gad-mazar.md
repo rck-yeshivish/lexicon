@@ -24,7 +24,7 @@ sources:
   - wiaw:10730 "Vayetzei: Gad Luck to You" (2022-11-26) https://articles.ohr.edu/articles/vayetzei-gad-luck-to-you
   - ms:045-gad-luck-to-you.md "Gad Luck to You"
 authorities: [Rashi, Ibn Janach, Radak, Menachem Ibn Saruk, Ibn Ezra, Ramban, Ralbag, Rabbi Saadia Gaon, Rabbi Moshe Kimchi, Dunash Ibn Labrat, Rabbi Yitzchak the Blind, Rabbi Yosef Gikatilla, Tiferes Yisrael, Ramchal, Rabbi Shlomo Pappenheim, Rabbi Yosef Grayever, Rabbi Yehudah Aryeh of Carpentras, Rabbi Eliyahu Katz, Rav Hirsch, Ernest Klein, Chaim Tawil, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Fortune: mazal / gad / mazar
 
@@ -119,7 +119,7 @@ Aramaic *gada* appears in the Gemara for the spiritual force behind a physical
 thing: one who worships the mountain against one who worships "the *gada* of the
 mountain" (Chullin 40a), and "the bed of the *gada*," a bed left unused in honor
 of the house's *mazal* (Nedarim 56a with the Ran and *Sefer HeAruch*).
-- *Shoresh Yesha* links *gad* to *haggadah*, "telling," on the pagan notion that
+- *Shoresh Yesha* links *gad* to [*haggadah*](telling-haggadah-sippur.html#%D7%94%D7%92%D7%93%D7%94), "telling," on the pagan notion that
   the stars and constellations can tell a man his future.
 - Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Bereishis 30:11): the ancients held
   that the joining together of stars could bring good or catastrophe, and *gad*
@@ -145,7 +145,7 @@ also addresses the contradictory senses.
 
 *Gadish*, a pile brimming with produce, appears four times in Tanach (Shemos
 22:5; Iyov 5:26 and 21:32; Shoftim 15:5) and many times in the Mishnah. Most lexicographers trace it to the triliteral ג-ד-ש,
-but Rabbi Yehudah Aryeh of Carpentras (*Ohalei Yehudah*) suggests that *gadish*
+but Rabbi Yehudah Aryeh of Carpentras (*Ohalei Yehudah*) suggests that [*gadish*](pile-areimah-chamarim-gadish.html#%D7%92%D7%93%D7%99%D7%A9)
 is really *gad* ("luck," *mazal*) plus *yesh* ("there is"), an allusion to the
 source of overflowing abundance.
 
@@ -154,9 +154,9 @@ The single occurrence is Hashem's rebuke to Iyov (38:32).
 
 - Rabbi Shlomo Pappenheim derives it from the biliteral ז-ר, "estrangement,
   disconnection," the root of *zar* (a stranger), *mamzer*, *nazir*, and
-  *nezer*, and of a second family headed by *zoreh*, "to scatter or throw":
+  [*nezer*](crown-keter-atarah-nezer.html#%D7%A0%D7%96%D7%A8), and of a second family headed by *zoreh*, "to scatter or throw":
   *zorer* (a sneeze, which flings liquid from the nose), *zohar* (light, which
-  scatters), *azharah* (a warning, which enlightens a man as to what is expected
+  scatters), [*azharah*](prohibition-azharah-issur-lav.html#%D7%90%D7%96%D7%94%D7%A8%D7%94) (a warning, which enlightens a man as to what is expected
   of him), *mazor* (a remedy spread on a wound), and *zerem* (a current). On
   that reading *mazar* belongs with *zerem*, the heavenly forces regulating the
   flow of water.

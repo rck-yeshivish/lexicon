@@ -27,7 +27,7 @@ sources:
   - wiaw:10940 "Bamidbar: Out in the Wild" (2023-05-20) https://articles.ohr.edu/articles/bamidbar-out-in-the-wild
   - ms:293-thats-amore.md "That’s Amore!"
 authorities: [Rashi, Rabbi Yaakov Tzvi Mecklenburg, Maharal, Moshav Zekanim, Zohar, Sefer HaChochmah, Rabbi Elazar Rokeach of Worms, Rabbeinu Bachya, Vilna Gaon, Rabbi Pinchas Horowitz of Frankfurt, Netziv, Malbim, Rabbi Moshe Feinstein, Rabbi Shmuel Jaffa-Ashkenazi of Istanbul, Rabbi Shlomo Pappenheim, Rabbi Wolf Heidenheim, Ibn Ezra, Rabbi Yoel Ibn Shuaib, Rav Hirsch, Rav Saadia Gaon, Dunash ibn Labrat, Raavan, Rabbi Yonah Isaac Neiman of Makow, Rabbi Shmuel Shmelka Horowitz of Nikolsburg, Rabbi Kalonymus Kalman Epstein of Krakow, Rabbi Yaakov Yosef of Ostrog, Rabbi Shimon Maryles of Jaroslaw, Sifsei Chachamim, Bartenura, Targum, Menachem Ibn Saruk, Radak, Yalkut Shorashim, Rabbi Eliyahu Benamozegh, Rabbi Yitzchak bar Yakar, Rabbeinu Efrayim ben Shimshon, Rabbi Levi Yitzchak of Berditchev]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Speech: dibbur / amirah
 
@@ -103,7 +103,7 @@ Root ד-ב-ר.
   (Devarim 32:2; see Yechezkel 21:2, Iyov 29:22), so *dibah* is malice that
   flows and drips from the speaker's mouth.
 - Rabbi Yitzchak bar Yakar (on the Yom Kippur prayer *umah nesaper lefanecha
-  shochen shechakim*): *sippur* is the kind of saying that implies the most
+  shochen shechakim*): [*sippur*](telling-haggadah-sippur.html#%D7%A1%D7%A4%D7%95%D7%A8) is the kind of saying that implies the most
   knowledge on the speaker's part.
 
 ### amirah (אמירה)
@@ -184,7 +184,7 @@ Malbim's two approaches feed the same question.
   have been absolute and forceful, since only Hashem can break them, while the
   Decalogue connotes a more malleable reality, some prohibitions being
   legitimately suspendable in certain circumstances. Rabbi Moshe Feinstein (1895
-  to 1986) uses the exact opposite reasoning to explain why *tzitzis*, essentially optional, opens with *vayomer* rather
+  to 1986) uses the exact opposite reasoning to explain why [*tzitzis*](fringes-tzitzis-gedilim-petil.html#%D7%A6%D7%99%D7%A6%D7%99%D7%AA), essentially optional, opens with *vayomer* rather
   than the usual *vayedaber* (Bamidbar 15:37).
 - On Malbim's second approach, with Jaffa-Ashkenazi, Rabbi Klein argues that
   verbosity is a rhetorical device for making sure an audience understands, so
@@ -201,7 +201,7 @@ were said in harsh, demanding terms even if objectively they were not, so the
 Decalogue, which lays out Hashem's expectations of us, is *Dibros*; whereas the
 *Asarah Maamaros* that created the world are Hashem's gift, and a gift is taken
 as an expression of love, a *maamar*. (In Talmudic usage *maamar* denotes a form
-of marriage instituted by the Rabbis as a prelude to consummating *yibbum*.)
+of marriage instituted by the Rabbis as a prelude to consummating [*yibbum*](sibling-in-law-yavam-yevamah-giss.html#%D7%99%D7%99%D7%91%D7%95%D7%9E).)
 
 ### he'emarta / he'emircha (האמרת / האמירך) and chativah (חטיבה)
 Devarim 26:17-18.

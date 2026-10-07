@@ -26,7 +26,7 @@ sources:
   - wiaw:10695 "Prime Property" (2022-11-05) https://articles.ohr.edu/articles/prime-property
   - wiaw:11394 "Bechukosai: All About Money" (2024-06-01) https://articles.ohr.edu/articles/bechukosai-all-about-money
 authorities: [Rav Hirsch, Ramban, Radak, Ibn Ezra, Rabbi Shlomo Pappenheim, Midrash Sechel Tov, Rabbi Aharon Marcus, Rabbi Shmuel de Ucedah, Rabbi Shimon Yehuda Leib Goldblit, Shoresh Yesha, Ohalei Yehudah, Solomon Rabinowitz, Naftali Tur-Sinai, Gerald Leonard Cohen, Rabbi Nosson of Rome, Rabbi Eliyahu HaBachur]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Property: rechush / mikneh / nechasim
 
@@ -88,7 +88,7 @@ word in the Mishnah, where *rechush* and *mikneh* do not appear at all.
   12:6), so he may have said *rechus*. Marcus adds that in many ancient
   languages the letters equivalent to *shin* and *lamed* are interchangeable,
   which leads him to claim that the root of *rechush* is also the original
-  source of ר-כ-ל, whence *rochel*, a merchant.
+  source of ר-כ-ל, whence [*rochel*](merchant-socher-rochel-cnaani-tagar.html#%D7%A8%D7%95%D7%9B%D7%9C), a merchant.
 
 ## Distinctions
 
@@ -105,7 +105,7 @@ and *mikneh* always appear in the singular.
   pursuit of wealth, whereby a man seeks to accrue as much as he can and tie all
   of it together into one net worth.
 - The Hebrew scholar Naftali Torczyner/Tur-Sinai (1886-1973) offers a slightly
-  different approach, taking *rechush* as ultimately derived from *rechesh*, a
+  different approach, taking *rechush* as ultimately derived from [*rechesh*](horse-sus-rechesh-achashtranim.html#%D7%A8%D7%9B%D7%A9), a
   type of horse: since livestock was the crux of a man's possessions in the
   ancient world, *rechush* later expanded into a general term for everything he
   owned. *Ohalei Yehudah* understands that *rechesh* itself relates back to
@@ -124,8 +124,8 @@ KUF-NUN(-HEI), which also yields *miknah* and *kinyan*, acquisition.
   the measuring stick of how rich he was. Dr. Gerald Leonard Cohen (Missouri
   University of Science and Technology) notes in his *Comments on Etymology*
   that the importance of livestock can be seen in the fact that of the first
-  three letters of the alphabet, two refer to domesticated animals: *aleph*
-  means "ox," and *gimmel* is related to *gamal*, "camel."
+  three letters of the alphabet, two refer to domesticated animals: [*aleph*](cattle-shor-par-egel-bakar.html#%D7%90%D7%9C%D7%A4)
+  means "ox," and *gimmel* is related to [*gamal*](camel-gamal-nakah-becher-kar.html#%D7%92%D7%9E%D7%9C), "camel."
 - Rabbi Shlomo Pappenheim gives KUF-NUN the core sense of a minimal dwelling,
   whence *ken*, a bird's nest, and *kinyan*, which often shifts an item from one
   domain into another; *mikneh* is then either the commercially central asset (a
@@ -158,9 +158,9 @@ dozens more).
   Yesha*).
 - Rabbi Shlomo Pappenheim likewise traces *nechasim* to the biliteral
   KAF-SAMECH, whose core meaning is placing something on top of something else:
-  *kisui*; *kesus*, clothing, which covers the skin; *kos*, a cup that has a
+  *kisui*; [*kesus*](clothing-beged-levush-kesus-simlah.html#%D7%9B%D7%A1%D7%95%D7%AA), clothing, which covers the skin; *kos*, a cup that has a
   cover; *kisei*, a chair that has a cover; *kis*, a pocket, a covered
-  container; *meches*, tax, monies that fall into the government's *kis*; and
+  container; [*meches*](tax-mas-meches.html#%D7%9E%D7%9B%D7%A1), tax, monies that fall into the government's *kis*; and
   *michsah*, the central pot of funds into which the partners in a korban Pesach
   pool their monies (Shemos 12:4). *Nechasim* is then what one puts into one's
   pocket, whether literally or figuratively; or, alternatively, what one covers

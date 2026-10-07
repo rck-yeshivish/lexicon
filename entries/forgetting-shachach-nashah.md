@@ -19,7 +19,7 @@ words:
 sources:
   - wiaw:8389 "Forget About It" (2019-09-14) https://articles.ohr.edu/articles/forget-about-it
 authorities: [Rashi, Menachem Ibn Saruk, Ibn Chayyuj, Rabbeinu Yonah Ibn Janach, Radak, Zohar, Tosafos Chachmei Anglia, Rabbeinu Bachya ibn Chalava, Rabbi Yehuda Chalava, Rabbi Binyamin Mussafia, Rabbi Shmuel HaLevi, Rabbi Avraham Menachem Rappaport, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi-Ashkenazi, Malbim, Rav Hirsch, Rabbi Eliyahu Katz, Rabbi Yekusiel Yehudah Teitelbaum of Sighet, Rabbi Moshe Shapiro, Daas Mikra, Robert Alter]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Forgetting: shachach / nashah
 
@@ -98,7 +98,7 @@ On the root itself:
   out of its place in the mind; on that root he also puts *gid hanasheh* (the
   sinew that moves from its place), *nosheh* (a lender, who moves his money out
   of his hand), *anush* (a sickly man, whose health has been displaced) and
-  *enosh* (mankind, weak beside higher beings). Elsewhere he derives *teshi*
+  [*enosh*](man-adam-ish-enosh-gever.html#%D7%90%D7%A0%D7%95%D7%A9) (mankind, weak beside higher beings). Elsewhere he derives *teshi*
   from ת-ש, weakening.
 - Rabbi Moshe Tedeschi-Ashkenazi (*Hoil Moshe*) makes weakening the primary
   sense of נ-ש itself.

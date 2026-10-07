@@ -20,7 +20,7 @@ words:
 sources:
   - wiaw:11422 "Behaaloscha: Lift & Wave" (2024-06-22) https://articles.ohr.edu/articles/behaaloscha-lift-wave
 authorities: [Rashi, Ibn Ezra, Ramban, Rabbeinu Avraham ben HaRambam, Rabbi Yosef Bechor Shor, Peirush HaRokeach, Baal HaTurim, Targum Onkelos, Rambam, Zohar, Sefer HaChinuch, Rabbi Shlomo Pappenheim, Rav Hirsch, Meshech Chochmah, HaKsav VeHaKabbalah, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yaakov Zev Lev, Rabbi Yehuda Kalats, Rabbi Yehoshua Steinberg, Yonah Ibn Janach, Rabbi Shmuel Botnick]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Waving: terumah / tenufah
 
@@ -131,15 +131,15 @@ respectively. Ibn Janach (introduction to *Sefer HaRikmah*) and the Rambam
 *terumah* is treated as part of the root, hence *torem*.
 
 Rabbi Shlomo Pappenheim on ר-ו-ם, core meaning height and esteem: *ram*,
-*marom*, *re'em*, *ramah* (an arcing throw upward), *mirmah* (a crooked rather
-than straight way of acting), *rimah* (the worm that seems to hover above the
+*marom*, *re'em*, [*ramah*](throw-hashlachah-zerikah-hazayah-ramah.html#%D7%A8%D7%9E%D7%94) (an arcing throw upward), *mirmah* (a crooked rather
+than straight way of acting), [*rimah*](worm-rimah-toleah.html#%D7%A8%D7%99%D7%9E%D7%94) (the worm that seems to hover above the
 ground) and *rimon* (the fruit especially prone to the *rimah*). *Terumah* is
 lifting one item up out of the rest of one's possessions to give it as a tithe
 or gift for a higher purpose.
 
 Rabbi Shlomo Pappenheim on נ-ו-ף, core meaning upward movement: *l'hanif* (to
 lift, especially a sickle), *l'nofef* (to wave), *nafah* (a sifter), *nof* (the
-top branch), *anaf* (a form of anger), *anafah* (a bird), *niuf*
+top branch), [*anaf*](anger-cheimah-ketzef-charon-rogez.html#%D7%90%D7%A0%D7%A4) (a form of anger), *anafah* (a bird), *niuf*
 (licentiousness). If both roots mean lifting, what separates the words? His
 resolution: *terumah* is specifically the up-down axis, while *tenufah* is the
 more general term covering either axis. The idea is borne out in the *nafah*, a

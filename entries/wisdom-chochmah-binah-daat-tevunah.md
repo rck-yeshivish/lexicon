@@ -28,7 +28,7 @@ sources:
   - wiaw:8969 "Miketz: To Be a Wise Guy (Part 2 of 2)" (2020-12-19) https://articles.ohr.edu/articles/miketz-to-be-a-wise-guy-part-2-of-2
   - ms:083-to-be-a-wise-guy.md "To Be a Wise Guy"
 authorities: [Rashi, Rabbi Ovadia Bartenura, Rashbatz, Rabbeinu Yonah, Radak, Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Pappenheim, Vilna Gaon, Malbim, Maharsha, Maharal, Ramchal, Rabbi Chaim of Volozhin, Rabbi Shmuel Yaakov Burnstein, Rabbi Chaim Friedlander, Rabbi Yaakov Chaim Sofer, Rabbi Eliyahu Tzion Sofer, Rabbi David Feinstein, Rabbi Shlomo Brevda, Rabbi Chaim Soloveitchik, Rabbi Shaul Levi Mortera, Michael G. Samet, Robert J. Sternberg]
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 # Wisdom: chochmah / binah (tevunah) / daat
 
@@ -106,7 +106,7 @@ Root ב-י-ן.
   excludes the irrelevant, telling one datum from another, and so reaches new
   conclusions.
 - Pappenheim: from ב-ן, building (*boneh*; *even* and *teven*, building
-  materials; *ben* and *bas*; *avnayim*, the birthing stool); *binah* builds on
+  materials; [*ben*](son-ben-bar.html#%D7%91%D7%A0) and *bas*; *avnayim*, the birthing stool); *binah* builds on
   an idea by applying it elsewhere and extrapolating. (English *maven* comes
   from *meivin* by way of Yiddish.)
 - Malbim: the abstract counterpart of *chochmah*, the faculty that reads an

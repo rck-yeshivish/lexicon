@@ -28,7 +28,7 @@ sources:
   - wiaw:7366 "Words of Destruction" (2017-07-29) https://articles.ohr.edu/articles/words-of-destruction
   - wiaw:9359 "Seasoning the Land (Part 2) - Nitzavim / Rosh Hashanah:" (2021-09-04) https://articles.ohr.edu/articles/seasoning-the-land-part-2-nitzavim-rosh-hashanah
 authorities: [Vilna Gaon, Rashi, Sefer HaChochmah, Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Tanchum HaYerushalmi, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Shoresh Yesha, Rabbi Avraham Maimuni, Radak, Rabbi Aharon Marcus, Rabbi Eliyahu HaBachur, Rabbi Yaakov Zev Lev, Rabbi Yehuda Leib Shapira-Frankfurter, Ibn Ezra, Rav Hirsch, Peirush HaRokeach, Avos d'Rabbi Nasan, Midrash Mishlei]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Dry: yavesh / chorev / negev
 
@@ -69,7 +69,7 @@ among them "sword," "destruction, desolation," and "dry."
   whose upper surface crusted over," at *yavshah* it was dry land as it ought to
   be.
 - *Sefer HaChochmah* (ascribed to Rabbi Elazar Rokeach of Worms) writes that in
-  general *yabashah* is a place truly dry, while *chareivah* is a muddy place
+  general [*yabashah*](earth-taivel-arka-cheled.html#%D7%99%D7%91%D7%A9%D7%94) is a place truly dry, while *chareivah* is a muddy place
   still dripping with moisture.
 
 The Malbim offers a similar explanation and adds the ordering proof: in every pasuk
@@ -91,7 +91,7 @@ Rabbi Shlomo Pappenheim gives two accounts.
 - In *Cheshek Shlomo* and in one place in *Yerios Shlomo* he takes the
   difference as quantitative, as above.
 - Elsewhere in *Yerios Shlomo* he makes it qualitative, keyed to the two kinds
-  of moisture he distinguishes under *ratuv* and *lach*: *chorev* is dryness on
+  of moisture he distinguishes under [*ratuv*](wet-lach-ratuv-raanan.html#%D7%A8%D7%98%D7%95%D7%91) and *lach*: *chorev* is dryness on
   the outside, *yavesh* is an interior empty of liquid, and in either case it
   does not matter whether the thing was ever wet before. A marsh can be called
   *charavah*, its surface firm enough to walk on, and can never be called
@@ -135,7 +135,7 @@ absorbing the water of the Mabul after the flood ended (or, according to
 
 ### yavesh (יבש), yabashah (יבשה)
 Pappenheim: the root is ב-ש, delay or withholding, as in *boshesh Moshe laredes*
-(Shemos 32:1), Moshe's return withheld from the people, and as in *bushah*, where
+(Shemos 32:1), Moshe's return withheld from the people, and as in [*bushah*](shame-bushah-klimah-cherpah.html#%D7%91%D7%95%D7%A9%D7%94), where
 a man withholds his face from the public. *Yavesh* is accordingly the withholding
 of the flourishing a thing should have shown; in plants that often comes of dryness,
 and from there the word covers anything drained of its life-giving liquid. Case
@@ -147,7 +147,7 @@ completing a project, and claims that this original sense is still known to us
 through Akkadian. It shows, he says, in two Hebrew roots: י-ב-ש, dryness, which
 seemingly denotes the end or completion of the drying process, and ב-ש-ל, giving *bishul* as cooking
 and *bishul* as ripening (Bereishis 40:10), the completion of preparing food.
-He also supposes that the *shin* of ב-ש stands for *aish*, fire, alluding to the
+He also supposes that the *shin* of ב-ש stands for [*aish*](fire-aish-lehavah-shalheves-lapid.html#%D7%90%D7%A9), fire, alluding to the
 part heat plays in cooking, ripening and drying alike. His completion sense
 dovetails with the Vilna Gaon and Malbim on *yavesh* as completely dry.
 
@@ -162,7 +162,7 @@ and elsewhere).
 Rabbi Eliyahu HaBachur (*Meturgeman*) observes an asymmetry in Targum: it may
 leave *charev* as *charev* (Yeshayahu 19:5) and *yavesh* as *yavesh* (Bereishis
 8:14, Shemos 14:22, Yeshayahu 19:5, Iyov 14:11, Tehillim 102:12), and it may
-render *charev* as *negev* (Bereishis 8:13, Tehillim 106:9, Iyov 14:11) or as
+render *charev* as [*negev*](directions-tzafon-darom-mizrach-maarav.html#%D7%A0%D7%92%D7%91) (Bereishis 8:13, Tehillim 106:9, Iyov 14:11) or as
 *yavesh* (Bereishis 7:22, Shemos 14:21), but it never renders *yavesh* as
 *negev*. Rabbi Yaakov Zev Lev (*Me'at Tzari* to Bereishis 8:13) offers a partial
 resolution: *negev* cannot carry the total dryness of *yavesh*, only the partial

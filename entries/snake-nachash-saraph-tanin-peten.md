@@ -51,7 +51,7 @@ sources:
   - wiaw:9234 "Fun with Fish (Part 2/2)" (2021-06-05) https://articles.ohr.edu/articles/fun-with-fish-part-22
   - ms:260-slithering-serpents-and-sea-snakes.md "Slithering Serpents and Sea Snakes"
 authorities: [Avos d'Rabbi Nassan, Rabbi Shlomo Aharon Wertheimer, Rashi, Rabbi Aharon Marcus, Rabbi Shlomo Ibn Parchon, Rabbi Yonah Ibn Janach, Rabbi Yosef Bechor Shor, Vilna Gaon, Malbim, Radak, Mahari Kara, Rabbi Shalom Buzaglo, Rabbi Natan Nata Shapiro, Rabbi Shlomo Pappenheim, Rabbi Avigdor the Frenchman, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yechiel Heilpern, Rabbi Elazar Rokeach of Worms, Rabbi Yaakov Yisroel Stahl, Mitchell First, Rav Hirsch, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Snake: nachash / saraph / tanin / tzefa / efeh / achshuv / peten / shephiphon
 
@@ -123,7 +123,7 @@ Mitchell First points out that the English word *serpent* bears a close
 resemblance to *saraph*.
 
 ### tanin (תנין)
-- The Vilna Gaon: *nachash* is to land as *tanin* is to sea. The analogy
+- The Vilna Gaon: *nachash* is to land as [*tanin*](fish-nun-kavra-shibuta.html#%D7%AA%D7%A0%D7%99%D7%A0) is to sea. The analogy
   suggests that *nachash* is a land snake and *tanin* a sea snake, possibly an
   eel or something similar.
 - Rashi (Bereishis 1:21 and Niddah 22b), on the other hand, simply writes that a
@@ -157,7 +157,7 @@ Bava Basra 74b reads as the female and male Leviasan respectively.
   (1585-1633) in *Megaleh Amukos* has the two words representing the male and
   female forces of evil, *efeh* the female and *nachash* the male, which agrees
   with Ibn Parchon.
-- The Midrash calls the *efeh* a snake called an *eches* (it is unclear in which
+- The Midrash calls the *efeh* a snake called an [*eches*](poison-eres-rosh-chamat-sam-hamaves.html#%D7%A2%D7%9B%D7%A1) (it is unclear in which
   language), believed able to kill a flying bird just by looking at its shadow;
   in Modern Hebrew *eches* is an adder or rattlesnake.
 - Rabbi Shlomo Pappenheim of Breslau (1740-1814): the letters פ-ע in the root

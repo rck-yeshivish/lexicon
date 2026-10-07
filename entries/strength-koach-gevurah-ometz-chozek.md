@@ -55,7 +55,7 @@ sources:
   - ms:325-the-strong-ones.md "The Strong Ones"
   - ms:161-the-beauty-of-adar.md "The Beauty of Adar"
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Edel, Rav Hirsch, Metzudas David, Maharsha, Rabbi J. B. Soloveitchik, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Aharon Wertheimer, Vilna Gaon, Malbim, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Dr. Asher Weiser, Rabbi Moshe Shapiro, Rabbi Aharon Marcus, Rabbi Naftali Hertz Wessely, Rabbi Yerucham Levovitz, Rabbi Shlomo of Urbino, Yonah Wilheimer, Rashi, Rambam, Tosafos, Targum, Shadal, Rabbi Eliyahu Benamozegh, Aruch, Pri Toar]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Strength: koach / gevurah / chozek / ometz (otzem, oz, eitan, adir, kabir, takif)
 
@@ -134,7 +134,7 @@ Pappenheim).
   punishing them (see Yoma 69b), and for this reason He is often called *Gibbor*
   (see Yirmiyahu 32:18 and the daily liturgy).
 - Rabbi Shapira-Frankfurter (below) makes *gevurah* physical strength.
-- Shadal (to Shemos 15:1): *gever* comes from *gavah*, since one higher and more
+- Shadal (to Shemos 15:1): [*gever*](man-adam-ish-enosh-gever.html#%D7%92%D7%91%D7%A8) comes from *gavah*, since one higher and more
   exalted than another usually overpowers him.
 
 ### chozek (חזק) and ometz (אמץ)
@@ -167,7 +167,7 @@ people say it to Yehoshua (1:18); David says it to Shlomo (Divrei HaYamim I
    will is properly *ometz*.
 6. Rabbi Shlomo Pappenheim of Breslau (1740 to 1814): *ometz* is from מ-ץ,
    sucking or squeezing (*mitz*, juice; *metzitzah*, sucking), a person
-   squeezing out every last ounce of energy. Red horses are *amutzim*
+   squeezing out every last ounce of energy. Red horses are [*amutzim*](red-adom-shani-chamutz.html#%D7%90%D7%9E%D7%95%D7%A6)
    (Zecharyah 6:3) because their exertion brings their blood to the surface of
    the skin, as if squeezed out, coloring even their hair red.
 
@@ -238,7 +238,7 @@ elsewhere to identify Eitan HaEzrachi (Tehillim 89:1) with Avraham, the
 15a). Rabbi Klein holds that five words for power, *eitan*, *koach*, *gevurah*,
 *adir* and *kabir*, are not true synonyms.
 
-- *Nachal eitan* (Devarim 21:4): for Rashi *nachal* is a valley or wadi and
+- *Nachal eitan* (Devarim 21:4): for Rashi [*nachal*](river-nahar-yeor-nachal.html#%D7%A0%D7%97%D7%9C) is a valley or wadi and
   *eitan* strong or hard, a rocky place; for Rambam (Hilchos Rotzeach 9:2)
   *nachal* is a river and *eitan* strong-flowing.
 - Rabbi Edel, without referring to either, reconciles their views: *eitan* is
@@ -259,7 +259,7 @@ person a firm, strongly anchored stalwart, as hard to budge as rock.
 
 Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Vayikra 23:24): Tishrei is *yerach
 ha'eisanim*, as in *vayashav hayam lifnos boker le'eisano* (Shemos 14:27),
-because in it we begin to return through *teshuvah* to our pristine, unblemished
+because in it we begin to return through [*teshuvah*](return-shuv-chazarah.html#%D7%AA%D7%A9%D7%95%D7%91%D7%94) to our pristine, unblemished
 selves; and the Avos are called *eisanim* because they reached that state.
 
 Rabbi Pappenheim admits he is unsure how to break the word down.
@@ -292,12 +292,12 @@ components are equally powerful. The *Pri Toar* (Yoreh De'ah 19:10) relates
   8:2, 93:4). Rabbi Pappenheim traces *adir* to ד-ר, freedom of motion without
   limitation or constriction. Hashem is certainly free of subjection to any
   other force, having created everything.
-- Rabbi Edel: *adir* is related to *adar*/*hadar*, beauty and glory, since
+- Rabbi Edel: *adir* is related to *adar*/[*hadar*](beauty-hod-hadar.html#%D7%94%D7%93%D7%A8), beauty and glory, since
   Hashem's acts of strength bring Him honor and glory by showing man His
   omnipotence.
 - Shadal (to Shemos 15:6): *adir* is the Aramaic form of *ezor*, Hebrew zayin
   often becoming dalet in Aramaic, because *adir* is power that encompasses
-  everything, as a belt encircles the body; so too *aderes*, a cloak that goes
+  everything, as a belt encircles the body; so too [*aderes*](garment-aderet-glima-itztala.html#%D7%90%D7%93%D7%A8%D7%AA), a cloak that goes
   around it.
 - Rabbi Moshe Shapiro (Shekalim 5754): *adir* is the level at which a thing's
   strength is one with its very being. A power one has gathered and acquired is
@@ -318,7 +318,7 @@ components are equally powerful. The *Pri Toar* (Yoreh De'ah 19:10) relates
 *Takif*: the standard Aramaic of the Targumim for *chozek* and *oz*, and also a
 Hebrew word in Tanach (see Esther 9:29, 10:2; Koheles 4:12; Daniel 4:27).
 
-- Rabbi Pappenheim traces it to ק-ף, a complete circle (*hakafah*/*heikef*,
+- Rabbi Pappenheim traces it to ק-ף, a complete circle (*hakafah*/[*heikef*](around-saviv-heikef-afef-chug.html#%D7%94%D7%99%D7%A7%D7%A4),
   circumference, encircle; *kafah*/*kafui*, frozen, since the outer perimeter of
   a liquid freezes first; he also relates *kof*, monkey, to this root but admits
   he does not know how to explain the connection). His etymology recalls his

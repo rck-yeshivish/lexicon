@@ -32,7 +32,7 @@ words:
 sources:
   - wiaw:11363 "Pesach: Eating Cake" (2024-04-27) https://articles.ohr.edu/articles/pesach-eating-cake
 authorities: [Rashi, Mechilta D'Rabbi Yishmael, Targum, Ibn Ezra, Shadal, Rabbi Shalom Shabazi, Rabbi Yehuda Aszad, Rabbi Shimon Sofer of Erloi, Rabbi Chizkiyah Medini, Rabbi Binyamin Mussafia, Rabbi Ernest Klein, Rabbi Aharon Marcus, Rabbi Yechiel Michel Epstein, Rabbi Yitzchak of Pira, Rabbi Shaul Goldman, Dr. Tamar Katzir, Alexander Kohut, HALOT, Avraham Even-Shoshan, Julius Pokorny, Tosafos]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Cake: ugah / chararah / kikar / gluskos
 
@@ -107,7 +107,7 @@ Rashi (41a) calls a round water pit; the *ugiyos* one may not make around a grap
 Chol HaMoed (Moed Katan 1:1), small round water pits; and Choni HaMe'agel's *ug ugah*,
 the circle he drew and would not leave until rain fell (Taanis 23a). Philologists such
 as Shadal (to
-Bereishis 18:6) and Dr. Alexander Kohut (*Aruch HaShalem*) relate *ugah* to *chugah*,
+Bereishis 18:6) and Dr. Alexander Kohut (*Aruch HaShalem*) relate *ugah* to [*chugah*](around-saviv-heikef-afef-chug.html#%D7%97%D7%95%D7%92),
 circle or circuit; others, like Rabbi Aharon Marcus, connect it to *igul*.
 
 *Chararah* itself is in the Mishnah a baked good of some sort (*Shabbos* 1:10, *Bava

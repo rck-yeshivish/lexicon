@@ -24,7 +24,7 @@ words:
 sources:
   - wiaw:9005 "Shemot: Hard Work and Hard Hearts" (2021-01-09) https://articles.ohr.edu/articles/shemot-hard-work-and-hard-hearts
 authorities: [Rabbi Shlomo of Urbino, Targum Onkelos, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rashi, Rabbi Shlomo Pappenheim, Ibn Ezra, Radak, Rabbi Shlomo Ibn Melech, Metzudas Tzion, Rabbi Saadia Gaon, Toras Kohanim]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Hard: kashah / kashiach / perech
 
@@ -120,7 +120,7 @@ of the Gemara is the question that breaks a chain of reasoning.
 - Rav Hirsch (to Shemos 1:13 and 26:31) takes the breaking as separating: the
   Egyptians drafted Yisrael as laborers in order to break the homogeneity of
   Egyptian society and create a class difference between themselves and the
-  Jews, and he ties *perech* to *paroches*, the curtain separating the Kodesh
+  Jews, and he ties *perech* to [*paroches*](curtain-parochet-masach-vilon-pargod.html#%D7%A4%D7%A8%D7%95%D7%9B%D7%AA), the curtain separating the Kodesh
   from the Kodesh HaKodashim.
 - A second line reads *perech* as uselessness, what crumbles to waste and serves
   no purpose: *Toras Kohanim* (to Vayikra 25:43) defines the forbidden *perech*

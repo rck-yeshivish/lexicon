@@ -34,7 +34,7 @@ sources:
   - wiaw:8439 "Succot - the Majestic Holiday of Gathering" (2019-10-12) https://articles.ohr.edu/articles/succot-aeur-the-majestic-holiday-of-gathering
   - ms:343-the-majestic-holiday-of-gathering.md "The Majestic Holiday of Gathering"
 authorities: [Rashi, Radak, Malbim, Vilna Gaon, Rabbi Yehuda Leib Edel, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Aharon Wertheimer, Rabbi Elazar Rokeach of Worms, Rabbi Zev Leff]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Gathering: asifah / kovetz / aggudah / kehillah / eidah / agur
 
@@ -108,10 +108,10 @@ The first two agree that *asifah* brings in.
 ### aggudah (אגודה)
 More than assembly: the gathered are tied into one, physically (three of the four
 species bound for the lulav, Succah 11b, 13a) or by an agreement binding people's
-fates. Rabbi Shlomo Pappenheim traces it to ג-ד, attaching, whence *gad*, a
+fates. Rabbi Shlomo Pappenheim traces it to ג-ד, attaching, whence [*gad*](fortune-mazal-gad-mazar.html#%D7%92%D7%93), a
 spiritual force attached to a particular physical entity; *gid*, the sinew that
 holds the parts of the body together; *gedud*, a squad joined as one; and
-*haggadah*, presenting new information by weaving it into a broader narrative.
+[*haggadah*](telling-haggadah-sippur.html#%D7%94%D7%92%D7%93%D7%94), presenting new information by weaving it into a broader narrative.
 
 ### kehillah (קהילה)
 Rabbi Shlomo Pappenheim: used of human beings only, never of animals or objects,
@@ -134,7 +134,7 @@ as one in his days.
 - Rabbi Avraham Bedersi: inanimate objects only, wine (Devarim 28:39) or silver
   (Shmuel I 2:36), while *asifah*, *kovetz* and *kehillah* also take living
   things.
-- Rabbi Shlomo Pappenheim's root is ג-ר, temporary residence, whence *ger*, a
+- Rabbi Shlomo Pappenheim's root is ג-ר, temporary residence, whence [*ger*](resident-ger-toshav-ezrach.html#%D7%92%D7%A8), a
   sojourner, and *goren*, the granary that houses the grain until its processing
   is done; and, in the gathering sense, *gargir*, a grape with the juice
   gathered inside it, and the small coin *geirah* (Shemos 30:13), also called

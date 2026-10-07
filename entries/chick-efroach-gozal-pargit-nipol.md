@@ -26,7 +26,7 @@ words:
 sources:
   - wiaw:9906 "Ki Saytzei: Flowering Chicklings" (2022-09-10) https://articles.ohr.edu/articles/ki-saytzei-flowering-chicklings
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Ibn Ezra, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rav Hirsch, Rabbi Yehuda Aryeh Leib of Carpentras, Rabbi Yehonasan HaKohen of Lunel, Rabbi Yitzchak Sarim, Rabbi Shlomo Kohen of Lissa, Rabbi Yaakov Kamenetsky, Rabbi Shmuel Ashkenazi, Rashi, Rabbeinu Gershom, Rambam, Rabbi Shlomo Ganzfried, Rabbi Nosson of Rome, Rabbi Ernest Klein, Rabbi Dr. Asher Weiser, Dr. Moshe Raanan, Academy of the Hebrew Language]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Chick: efroach / gozal / pargit / nipol
 
@@ -68,7 +68,7 @@ then Iyov 39:30 and Tehillim 84:4; three times in the Mishnah (*Shabbos* 18:2,
   ahead of it before it flowers into a mature bird.
 - Rabbi Aharon Marcus reduces the root to the two-letter core פ-ר, spawning off
   into segments.
-- Rav Hirsch (to Bereishis 16:11) groups it with *para*, *pere*, *parah*,
+- Rav Hirsch (to Bereishis 16:11) groups it with *para*, [*pere*](donkey-chamor-aton-pere-ayir-pered.html#%D7%A4%D7%A8%D7%90), [*parah*](cattle-shor-par-egel-bakar.html#%D7%A4%D7%A8),
   *bara*, *barach* and *barah*, all turning on unhindered movement and so on
   growth.
 

@@ -48,7 +48,7 @@ sources:
   - wiaw:8304 "Names of the Underworld" (2019-06-29) https://articles.ohr.edu/articles/names-of-the-underworld
   - ms:251-names-of-the-underworld.md "Names of the Underworld"
 authorities: [Rabbi Yehoshua ben Levi, Rashi, Ibn Ezra, Malbim, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi HaPenini, Ibn Janach, Radak, Rav Hirsch, Rabbi Aharon Marcus, Tosafos, Maharsha, Maharal, Rabbi Chaim of Volozhin, Rabbi Yitzchak Abuhab, Rabbi Tzvi Matisyahu Abrahams, Rabbi J. D. Eisenstein, the Vulgate, Rabbi Avraham bar Chiya]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Underworld: Gehinnom / sheol / shachat / avadon
 
@@ -140,7 +140,7 @@ Tehillim 16:10, 55:24. In many pesukim *shachat* means simply a pit.
 Tehillim 40:3, literally "the Pit of Noise."
 
 - Rabbi Yonah Ibn Janach and others explain that *shaon* (a ruckus of noise) and
-  *sha'anan* (quiet) are related, an example of the common phenomenon in which
+  [*sha'anan*](peace-shalom-sheket-shalvah.html#%D7%A9%D7%90%D7%A0%D7%A0) (quiet) are related, an example of the common phenomenon in which
   Hebrew words of diametrically opposed meaning sometimes have related roots. In
   light of this, Rabbi Klein suggests, *bor shaon* might actually mean the Pit
   of Silence, where one can no longer complain or even speak after death.
@@ -151,7 +151,7 @@ Tehillim 40:3, literally "the Pit of Noise."
 ### tit hayaven (טיט היון)
 Tehillim 40:3 (alongside *bor shaon*), literally "slimy mud." Gehinnom holds a man as quicksand does, and
 the dead lie in the grave without moving. Rabbi Pappenheim: *hayaven* from י-ן,
-trickery, a root related to *onaah* (profiting by cheating another) and to *yayin*
+trickery, a root related to *onaah* (profiting by cheating another) and to [*yayin*](wine-yayin-tirosh-chemer-shechar.html#%D7%99%D7%99%D7%A0)
 (wine, which deceives by tasting good and then taking a man's mind); quicksand
 deceives likewise, looking like ground a man can walk on. Rav Hirsch (to
 Bereishis 9:20) and Rabbi Aharon Marcus (*Keses HaSofer* to Bereishis 10:2) say
@@ -173,13 +173,13 @@ sugya makes more sense.
 
 ### Variant lists
 - *Midrash Hallel* (*Otzar Midrashim* p. 134) drops *bor shaon* and *eretz
-  hatachtis* and adds *gehinnom* and *tziyah* (place of desolation).
+  hatachtis* and adds *gehinnom* and [*tziyah*](wilderness-midbar-aravah-tziyah.html#%D7%A6%D7%99%D7%94) (place of desolation).
 - *Midrash Din HaKever* (p. 94) has *be'er shaon* for *bor shaon*, *bor
   hatachtis* (the underpit) for *eretz hatachtis*, and *chatzar maves*
   (Courtyard of Death) for *tzalmaves*.
 - The Targumic Tosefta (start of Yechezkel) has *dumah* (literally, quiet) for
   *bor shaon* (in kabbalistic sources *Dumah* is the angel set over Gehinnom),
-  *arka* for *eretz hatachtis* (Aramaic for earth, see Yirmiyahu 10:11), and
+  [*arka*](earth-taivel-arka-cheled.html#%D7%90%D7%A8%D7%A7%D7%90) for *eretz hatachtis* (Aramaic for earth, see Yirmiyahu 10:11), and
   *gehinnom* for *tzalmaves*.
 
 ### gehinnom (גיהנום) and tophet (תפת)

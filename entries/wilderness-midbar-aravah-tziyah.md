@@ -22,7 +22,7 @@ words:
 sources:
   - wiaw:10940 "Bamidbar: Out in the Wild" (2023-05-20) https://articles.ohr.edu/articles/bamidbar-out-in-the-wild
 authorities: [Radak, Yonah Ibn Janach, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Malbim, the Vilna Gaon, Metzudas David, Rav Hirsch, Rabbeinu Meyuchas ben Eliyahu, Rabbi Tzvi Matisyahu Abrahams, Shoresh Yesha, Yair Ohr, Wycliffe Bible, Tyndale Bible, King James Version]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Wilderness: midbar / aravah / tziyah
 
@@ -57,7 +57,7 @@ About 270 occurrences, often bound to a place-name (*Midbar Sinai*, *Sin*,
 *Paran*, *Shur*, *Kadesh*, *Damesek*, *Ein-Gedi*, *Yehudah*). Ibn Janach (990
 to 1050) and Radak (*Sefer HaShorashim*) trace it to ד-ב-ר. Menachem Ibn Saruk
 does not explicitly trace *midbar* there, but lists six senses of that root:
-*dibbur* (speech), *yadber* (to lead, or to exterminate), *dever* (plague),
+[*dibbur*](speech-dibbur-amirah.html#%D7%93%D7%99%D7%91%D7%95%D7%A8) (speech), *yadber* (to lead, or to exterminate), [*dever*](plague-dever-mageifah-negef.html#%D7%93%D7%91%D7%A8) (plague),
 *dvar* (concerning), *devorah* (bee), and *dvir* (inner sanctum).
 - Radak joins the first two: animals are led by the speech of the one in charge,
   and he implies that a *midbar* is at core the far pasture to which shepherds
@@ -76,7 +76,7 @@ does not explicitly trace *midbar* there, but lists six senses of that root:
 ### aravah (ערבה)
 Sixty occurrences, sometimes as a place-name (*Arvos Moav*, *Arvos Yericho*).
 All the early lexicographers, Ibn Saruk included, explicitly trace it to ע-ר-ב,
-of which Menachem lists eleven senses: *erev* (evening), *areiv* (sweet,
+of which Menachem lists eleven senses: *erev* (evening), [*areiv*](sweet-matok-areiv-naim.html#%D7%A2%D7%A8%D7%91) (sweet,
 pleasant), *aravah* (willow), *areiv* (guarantor), *eiruv* (connection,
 mixture), *erev* (the woof of a fabric), *arov* (the mixture of wild animals),
 *erev* or *Arav* (Arabia), *oreiv* (raven), *aravos* (a name of the heavens),
@@ -129,15 +129,15 @@ Rabbi Shlomo Pappenheim, implicitly following Menachem's monoliteral צ, defines
 the core as "exiting, going out": a *tziyah* is dry and desolate, land whose
 liquid and inhabitants have gone out of it. So too *matzah*, dry, its moisture
 gone, and *metzitzah*, drawing liquid out; he connects *tzi*, the ship, as the
-vessel for going out from one's home base. He also gathers *na'atz* (anger
-that bubbles out), *tzo'ah* (excrement), *atz* (pressure to leave one's
-situation), *yatza*, *tze'etza* (offspring), *tzon* (a flock, whose nature is
+vessel for going out from one's home base. He also gathers [*na'atz*](anger-cheimah-ketzef-charon-rogez.html#%D7%A0%D7%90%D7%A6) (anger
+that bubbles out), [*tzo'ah*](excrement-tzoah-peresh-galal-zevel.html#%D7%A6%D7%95%D7%90%D7%94) (excrement), *atz* (pressure to leave one's
+situation), *yatza*, *tze'etza* (offspring), [*tzon*](sheep-and-goats-seh-keves-ayil-eiz.html#%D7%A6%D7%90%D7%A0) (a flock, whose nature is
 to leave its corral), *tzitz* / *netz* (a bud), *nitzotz* (a spark),
-*tzitzis*, and *metziah* (finding, seeing something out in the open).
+[*tzitzis*](fringes-tzitzis-gedilim-petil.html#%D7%A6%D7%99%D7%A6%D7%99%D7%AA), and [*metziah*](chance-mikreh-keri-teunah-irua.html#%D7%9E%D7%A6%D7%99%D7%90%D7%94) (finding, seeing something out in the open).
 
 Tehillim 107:33-35 pairs *midbar* with *midbar* and *tziyah* with *tzimaon*, a
 thirsty place, implying a connection between those two words; Rabbi Klein
-suggests this might hint that *tzom*, fasting, and *tzamei*, thirsty, also
+suggests this might hint that [*tzom*](fasting-tzom-taanis.html#%D7%A6%D7%95%D7%9E), fasting, and *tzamei*, thirsty, also
 belong to the monoliteral צ, though Pappenheim himself assigns them to the
 biliteral צ-ם.
 

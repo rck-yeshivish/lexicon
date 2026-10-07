@@ -25,7 +25,7 @@ sources:
   - wiaw:6817 "Introduction - Synonyms in the Hebrew Language" (2016-06-25) https://articles.ohr.edu/articles/introduction-synonyms-in-the-hebrew-language
   - ms:104-come-to-pharaoh.md "Come To Pharaoh"
 authorities: [Baal HaTurim, Hadar Zekeinim, Moshav Zekeinim, Ramban, Zohar, Rabbi Elimelech of Lizhensk, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rav Hirsch, Malbim, Rabbi Menachem Mendel Kasher, Targum, Rabbi Eliyahu HaBachur, Chaim Tawil]
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 # Coming: bo (biah) / lech (halichah) / atah
 
@@ -75,7 +75,7 @@ Etymologically, *l'havi* ("to bring") is a conjugation of *bo*, since bringing
 a thing is causing it to come; on that basis Rabbi Yaakov Tzvi Mecklenburg
 suggests reading *bo el Pharaoh* as "bring [the following message] to
 Pharaoh." Rabbi Shlomo Pappenheim
-derives *navi* from the same two-letter root ב-א, since a navi brings Hashem's
+derives [*navi*](prophet-navi-roeh-chozeh.html#%D7%A0%D7%91%D7%99%D7%90) from the same two-letter root ב-א, since a navi brings Hashem's
 words to his listeners. Rabbi Pappenheim adds that *biah* covers both
 reaching the destination ("I came home") and the
 approach to it ("I am coming home"). Hence Rachel is described as "coming" while

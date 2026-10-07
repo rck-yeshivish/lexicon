@@ -19,7 +19,7 @@ sources:
   - wiaw:8714 "Old Switcheroo" (2020-05-23) https://articles.ohr.edu/articles/old-switcheroo
   - ms:215-the-old-switcheroo.md "The Old Switcheroo"
 authorities: [Rabbi Yisrael Yaakov Algazi, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Malbim, Ibn Chayyuj, Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Shes ben Yefes, Rabbi Gavriel Wolf Margolios]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Exchange: temurah / chalifah
 
@@ -74,7 +74,7 @@ a biliteralist, simply מ-ר. Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) defines
 מ-ר as "getting rid of a thing so that another can take its place," and derives
 *mohar* (given in exchange for a woman's maidenhood), *maher* (what does not
 stay in one state), *mar* (a taste the palate rejects and wants replaced),
-*morah* (the razor that clears the way for new hair), and *amirah* (speech,
+[*morah*](razor-taar-morah.html#%D7%9E%D7%95%D7%A8%D7%94) (the razor that clears the way for new hair), and [*amirah*](speech-dibbur-amirah.html#%D7%90%D7%9E%D7%99%D7%A8%D7%94) (speech,
 where the parties alternate between listening and speaking).
 
 ### chalifah (חליפה)
@@ -86,7 +86,7 @@ The Torah's second verb in the same prohibition.
 - Rav Hirsch: *chelef*/*chalifah* is at bottom moving a thing out of one place or
   state into another, whether or not anything takes its place. Yeshayahu 2:18
   uses *yachalof* for idols simply vanishing. The slaughtering knife is a
-  *chalaf* because it moves an animal from living to dead. (Others maintain that *chalaf* in the sense of knife comes from the
+  [*chalaf*](sword-cherev-shelach-sakin.html#%D7%97%D7%9C%D7%A4) because it moves an animal from living to dead. (Others maintain that *chalaf* in the sense of knife comes from the
   Arabic *chalaf*, "sharp," which is itself likely derived from the Hebrew
   *charif*, the r-sound and the l-sound being often interchangeable.) And because
   the word

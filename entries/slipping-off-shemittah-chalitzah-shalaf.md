@@ -31,7 +31,7 @@ words:
 sources:
   - wiaw:9682 "The Year of Slipping Away (Part 1 of 2)" (2022-05-14) https://articles.ohr.edu/articles/the-year-of-slipping-away-part-1-of-2
 authorities: [Rabbi Yonah Ibn Janach, Radak, Ibn Ezra, Rashi, Ramban, Rabbi Shlomo Pappenheim, Shoresh Yesha, Rabbi Moshe ben HaNessiah Britannico, Rabbi Yosef Chaim of Baghdad, Vayikra Rabbah, Targum Yonasan, Targum Rav Yosef, Rabbi Ernest Klein, Joseph Klausner]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Slipping off: shemittah / chalitzah / shalaf / shal
 
@@ -96,7 +96,7 @@ notes the *shlif* was *tied* to the animal).
   alternate version of the Midrash below that used *shalaf* where ours uses a
   cognate of *shemittah*.
 
-**What alatz means.** Delilah "pressed" (*alatz*) Shimshon to give up the secret
+**What alatz means.** Delilah "pressed" ([*alatz*](pressure-lachatz-dchak-negisah-atz.html#%D7%90%D7%9C%D7%A6)) Shimshon to give up the secret
 of his super-human strength (Shoftim 16:16).
 
 - Ramban (to Bereishis 32:25) reads the aleph of *alatz* as interchangeable with
@@ -146,15 +146,15 @@ places).
 Root ח-ל-ץ.
 
 - The Midrash (*Vayikra Rabbah* 34:15) gives four senses: slipping, as in the
-  *yevamah* drawing the shoe off her brother-in-law's foot (Devarim 25:9);
-  arming, since the soldiers of Israel are *chalutzim* (Devarim 3:18); saving,
+  [*yevamah*](sibling-in-law-yavam-yevamah-giss.html#%D7%99%D7%91%D7%9E%D7%94) drawing the shoe off her brother-in-law's foot (Devarim 25:9);
+  arming, since the soldiers of Israel are [*chalutzim*](armed-chamush-chalutz-mezuyan.html#%D7%97%D7%9C%D7%95%D7%A6) (Devarim 3:18); saving,
   from "*chaltzeini* from an evil man" (Tehillim 140:2); and letting rest, from
   the Shabbos tefillah *retzei v'hachalitzeinu*. Three of these run parallel to
   senses of *shemittah*, and the Gemara itself uses a cognate of *shemittah* for
   the *chalitzah* act: the *yevamah* becomes permitted to others with the
   *shemittah* of most of the heel (*Yevamos* 102a).
 - Pappenheim's unifying sense is extraction from within: the foot out of the
-  shoe, the *tzaraas*-stricken stones out of the wall (Vayikra 14:40, 14:43),
+  shoe, the [*tzaraas*](leprosy-tzaraas-nega-metzora.html#%D7%A6%D7%A8%D7%A2%D7%AA)-stricken stones out of the wall (Vayikra 14:40, 14:43),
   the soldiers drawn out from the nation for the war with Midian (Bamidbar
   31:3), who are then the *chalutzim* (Bamidbar 32:30, Devarim 3:18).
 

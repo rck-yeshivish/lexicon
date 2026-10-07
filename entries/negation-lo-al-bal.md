@@ -24,7 +24,7 @@ words:
 sources:
   - wiaw:10949 "Naso/Shavuos: Just Say No" (2023-05-27) https://articles.ohr.edu/articles/nasoshavuos-just-say-no
 authorities: [Rashi, Machberes Menachem, Rabbi Yishaya Pick-Berlin, Rabbi Chizkiyah Medini, Rabbi Betzalel Ashkenazi, Rabbi Meir HaMeili, Rabbi Reuven Margolios, Rabbi Ber Oppenheimer, Rabbi Aharon Maggid, Rabbi Eliyahu Gutmacher, Rabbi Avraham Eliezer Hirshawitz, Rabbi Yisroel Rubin, Rabbi Eli Silberstein, Rabbi Shlomo Pappenheim, Chasam Sofer]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Negation: lo / al / bal
 
@@ -127,9 +127,9 @@ source until he later saw Rabbi Pick.
 
 ### The root ב-ל
 Rabbi Shlomo Pappenheim gives the two-letter root ב-ל two core senses,
-negation and loss of form: *bli*, *hevel*, *aval*, *bilui*, *neveilah*,
-*neivel*, *naval*, *teiveil*, *yevul*. A second family from the same root turns
-on mixing: *balal*, *tavlul*, *tevel*, *tavlin*, *aveil*, *behalah*, *yovel*,
+negation and loss of form: *bli*, [*hevel*](nothing-hevel-rik-tohu-bohu.html#%D7%94%D7%91%D7%9C), *aval*, *bilui*, [*neveilah*](corpse-peger-neveilah-challal.html#%D7%A0%D7%91%D7%9C%D7%94),
+*neivel*, *naval*, *teiveil*, [*yevul*](food-ochel-shever-tevuah-dagan.html#%D7%99%D7%91%D7%95%D7%9C). A second family from the same root turns
+on mixing: *balal*, *tavlul*, *tevel*, *tavlin*, *aveil*, *behalah*, [*yovel*](horn-shofar-keren-yovel-chatzotzros.html#%D7%99%D7%95%D7%91%D7%9C),
 *mabul*.
 
 ## Rendering guidance

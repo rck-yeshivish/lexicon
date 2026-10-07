@@ -36,7 +36,7 @@ sources:
   - wiaw:11119 "Bereishit: Sleepy Words (Part 1/2)" (2023-09-25) https://articles.ohr.edu/articles/bereishit-sleepy-words-part-12
   - wiaw:11120 "Sleepy Words (Part 2/2)" (2023-10-19) https://articles.ohr.edu/articles/sleepy-words-part-22
 authorities: [Ibn Chayyuj, Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Yitzchak Zeldin, Ibn Ezra, Peirush HaRokeach, Rambam, Rabbi Moshe Sternbuch, Rabbi Shlomo Aharon Wertheimer, Rabbi Yosef Nechemias, the Vilna Gaon, Rabbi Avraham Bedersi, Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, Malbim, Netziv, Rabbi Ezra Reuven Dangoor, Rabbi Avraham Zacut, Shadal, Rabbi Chaim Vital, Aderet, Rabbi Chaim Kanievsky, Targum Onkelos, Radal, Yidei Moshe, HaKsav VeHaKabbalah, Rema, Alexander Kohut, Rabbi Yitzchak Greenblatt]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Sleep: sheinah / tardeimah / tenumah (linah, durmitah)
 
@@ -80,7 +80,7 @@ readings stand.
   ש-ן, whose core meaning Rabbi Shlomo Pappenheim defines as "doubling"
   (*shnayim*, *shanah* to repeat, *shinun* sharpening by repeated rubbing,
   *shinui* change, *shein* the tooth because most people grow two sets, *shanah*
-  the year, *yashan* the old); *sheinah* belongs there because a sleeping man
+  the year, [*yashan*](old-zaken-seivah-yashish.html#%D7%99%D7%A9%D7%A0) the old); *sheinah* belongs there because a sleeping man
   rehashes the day's thoughts a second time.
 - Rav Hirsch: *sheinah* is ordinary sleep, the senses weakened and languid but
   not wholly severed, and he groups *yashein* with *yashan*, *ishon laylah*
@@ -106,7 +106,7 @@ All the early lexicographers, Ibn Saruk this time included, give ר-ד-ם.
 - Rabbi Shlomo Pappenheim derives it from the biliteral ר-ד, descending or
   downward movement (*yeridah*), the root of *rodeh* (governing by keeping
   subordinates down so they cannot assert themselves, Bereishis 1:28; Vayikra
-  25:43) and *meridah* (rebellion, the plebs breaking free of that yoke);
+  25:43) and [*meridah*](rebellion-pesha-meridah-meri.html#%D7%9E%D7%A8%D7%99%D7%93%D7%94) (rebellion, the plebs breaking free of that yoke);
   *tardeimah* is accordingly sleep that overpowers a man and lords itself over
   him, taking him unwilling in the middle of whatever else he was doing, and
   Rabbi Moshe Yitzchak Tedeschi-Ashkenazi (1821-1898) reads it similarly.
@@ -129,7 +129,7 @@ Megillah 2:2) is its diminutive, formed by doubling the two core consonants, and
 the Gemara defines it (Megillah 18b): *nim velo nim, tir velo tir* (*nim* being
 an Aramaic form of *tenumah*, *tir* "awake"), a state in which a man called by
 name answers, cannot give a logical answer to a question, but can recognize a
-correct one. Rabbi Tedeschi-Ashkenazi ties the word to *ne'um*, "the word of,"
+correct one. Rabbi Tedeschi-Ashkenazi ties the word to [*ne'um*](speech-neum-yichaveh-yabia-siach.html#%D7%A0%D7%90%D7%9E), "the word of,"
 since one in that state can still talk coherently; he reads *sheinah*, by
 contrast, as onomatopoeia, its original form *yashein* deriving from the snoring
 sound a sleeper makes.
@@ -152,7 +152,7 @@ saw he was a mere mortal.
   Adam would not feel the rib removed, and (to Bereishis 15:12) explains that
   Hashem brought a *tardeimah* on Avraham before the Bris Bein HaBesarim so that
   he would not wake before receiving the whole prophecy.
-- Rambam (*Hilchos Teshuvah* 3:4) sets the two together in the *shofar* charge:
+- Rambam (*Hilchos Teshuvah* 3:4) sets the two together in the [*shofar*](horn-shofar-keren-yovel-chatzotzros.html#%D7%A9%D7%95%D7%A4%D7%A8) charge:
   awake, sleepers, from your *sheinah*, and let the slumberers rouse themselves
   from your *tardeimah*, search your deeds and return in teshuvah. Rabbi Moshe
   Sternbuch (Chief Rabbi of Jerusalem) infers two types of sinner from that

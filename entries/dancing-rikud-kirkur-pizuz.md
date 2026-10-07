@@ -23,7 +23,7 @@ sources:
   - wiaw:11784 "Shemini: Dancing Away" (2025-04-26) https://articles.ohr.edu/articles/shemini-dancing-away
   - ms:188-dancing-away.md "Dancing Away"
 authorities: [Talmud Yerushalmi, Rabbi Aharon Marcus, Rabbi Moshe Tedeschi-Ashkenazi, Menachem Ibn Saruk, Radak, Rabbi Shlomo Pappenheim, Rabbi Yosef Kara, Rabbi Tanchum HaYerushalmi, Rabbeinu Yonah Ibn Janach, Rabbeinu Avraham ben Shlomo, Targum, Rambam, Rabbi Yehudah Aryeh of Carpentras, Metzudas David, Rabbi Zev Atlas, Rashbam, Shadal, Yehoshua Yaron, Sefer HeAruch, Rabbi Nosson Av HaYeshiva]
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 # Dancing: rikud / kirkur / pizuz
 
@@ -61,7 +61,7 @@ HaSho'evah* (*Sukkah* 5:4), and the melachah of sifting (*Shabbos* 7:2; also
 *Shevi'is* 5:9, *Gittin* 5:9, *Menachos* 11:3), possibly because the
 side-to-side shake of a sieve looks like the side-to-side motion of a dancer.
 - The Yerushalmi (*Beitzah* 5:2), on the Shabbos ban, defines *rikud* as a jump
-  that leaves one foot on the ground, against *kefitzah*, where both feet leave
+  that leaves one foot on the ground, against [*kefitzah*](jumping-pesach-dilug-kefitzah.html#%D7%A7%D7%A4%D7%99%D7%A6%D7%94), where both feet leave
   it.
 - Rabbi Aharon Marcus reads the root as *reish*, movement, plus *kuf*, fixed or
   entrenched, which fits the Yerushalmi: one foot moves, one stays down.
@@ -110,7 +110,7 @@ the Aron.
   since young calves and sheep tend to move in circles rather than straight
   lines, and dancing likewise usually means circular motion. Rabbi Yosef Kara
   (to Shmuel II 6:16) bears this out, glossing *micharker* with an inflection of
-  *sivuv*, "around." (Shadal, to Bereishis 11:9 and 13:10, writes that *kikar*,
+  *sivuv*, "around." (Shadal, to Bereishis 11:9 and 13:10, writes that [*kikar*](bread-lechem-kikar-challah-pat.html#%D7%9B%D7%9B%D7%A8),
   "circle," derives from *kikur* the way Bavel derives from *bilbul*.)
 - Rabbi Tanchum HaYerushalmi (*HaMadrich HaMaspik*) derives the dancing word
   from *kar*, a young camel, whose gait looks like dancing.
@@ -119,7 +119,7 @@ the Aron.
   *kirkarim* because their movement resembles a dancer's.
 
 ### pizuz (פיזוז), the verb mifazez (מפזז)
-Root פ-ז-(ז), which also yields *paz*, fine gold, and a sense of spreading or
+Root פ-ז-(ז), which also yields [*paz*](gold-zahav-paz-kesem-charutz.html#%D7%A4%D7%96), fine gold, and a sense of spreading or
 strengthening.
 - Targum (to Shmuel II 6:16) renders *mifazez* with some sort of Aramaic form of
   *miraked*.

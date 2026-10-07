@@ -28,7 +28,7 @@ sources:
   - wiaw:8883 "Holy Matrimony" (2020-10-03) https://articles.ohr.edu/articles/holy-matrimony
   - ms:329-holy-matrimony.md "Holy Matrimony"
 authorities: [Rabbanan Savorai, Tosafos, Rashi, Rav Hirsch, Rabbi Yitzchak Vana, Rabbi Alexander Sender Shor, Rabbi Elazar Moshe Horowitz, Taz, Rabbi Aharon HaLevi of Barcelona, Rabbi Yosef Ibn Ezra, Rabbi Eliezer Ashkenazi, Rabbi Shalom Mansoura, Rabbi Yitzchak Ratzabi, Rabbi Baruch HaLevi Epstein, Shamma Friedman, Michael Satlow, Rabbi Immanuel Chai Ricci]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Betrothal: erusin / kiddushin / nissuin (hekdesh, shidduchin)
 
@@ -68,18 +68,18 @@ is betrothed to Klal Yisrael as a wife to her husband (*Berachos* 57a,
   reads א-ר-ש as equivalent to א-ר-ז, since sin/samech and zayin interchange,
   and א-ר-ז is something packed tightly (Yechezkel 27:24; modern Hebrew
   *arizah*, a package), and Rabbi Epstein adds that א-ר-ז is related by
-  metathesis to *eizor*, a tight belt. Alternatively, Rabbi Ratzabi suggests,
+  metathesis to [*eizor*](belt-avnet-chagor-eizor.html#%D7%90%D7%96%D7%95%D7%A8), a tight belt. Alternatively, Rabbi Ratzabi suggests,
   Rabbi Mansoura may mean a simpler metathesis with no letter replaced:
   transpose the last two letters and get א-ס-ר, to tie or bind, the betrothed
   woman being tied to her husband and released only by a get or by his death.
-- Rabbi Yitzchak Vana: *arusah* is from *eres*, poison, since one who approaches
+- Rabbi Yitzchak Vana: *arusah* is from [*eres*](poison-eres-rosh-chamat-sam-hamaves.html#%D7%90%D7%A8%D7%A1), poison, since one who approaches
   her illicitly incurs the death penalty as from a snake or scorpion.
 - Another Yemenite scholar cited by Rabbi Ratzabi: *arusah* as in *aris*, a
   sharecropper who holds a partial claim, since the betrothed husband has a
   partial claim on her (adultery applies) but not a full one (he does not yet
   inherit her).
 - Rabbi Ratzabi's own two suggestions turn on the interchange of aleph and ayin:
-  ע-ר-ס, to mix (as in *arisah*, kneaded dough), for the joining of man and
+  ע-ר-ס, to mix (as in [*arisah*](dough-arisah-batzek-issah.html#%D7%A2%D7%A8%D7%99%D7%A1%D7%94), kneaded dough), for the joining of man and
   wife, or *eres*, a bed.
 
 ### kiddushin (קידושין)

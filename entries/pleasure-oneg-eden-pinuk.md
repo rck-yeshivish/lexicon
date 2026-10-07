@@ -67,7 +67,7 @@ Rabbi Shlomo Pappenheim of Breslau (1740-1814) holds that *eden* and *oneg* both
 name enjoyment, whether or not the enjoyment is ultimately good for a person,
 and that *eden* is primarily physical pleasure, that of the five senses: taste,
 hearing, smell, sight and touch. Its root is ע-ד-ן, which he traces to ע-ד,
-joining or connecting (as in *ad*, *yaad*, *eidah*, *vaad*, *moed*, *eidus*):
+joining or connecting (as in *ad*, *yaad*, [*eidah*](gathering-asifah-kovetz-kehillah-agur.html#%D7%A2%D7%93%D7%94), *vaad*, [*moed*](time-eit-zman-moed-shaah.html#%D7%9E%D7%95%D7%A2%D7%93), *eidus*):
 physical pleasure forges a connection between the one enjoying and the object
 enjoyed. Rabbi Klein adds that a careful look at usage in Tanach shows *eden/ednah*
 almost exclusively concerning taste and touch, which fits Pappenheim, since
@@ -148,7 +148,7 @@ consensus on its root; some even say the word is Greek.
   take the root of *hanaah* as ה-נ-י.
 - Ibn Ezra (to Shir HaShirim 1:5) and Radak
   (to Tehillim 33:1) suggest that *naveh* or *neos*, fitting or suitable, is
-  from א-ו-ה, desire (as in *taavah* and *ivah*), so that *naveh* is what is
+  from א-ו-ה, desire (as in [*taavah*](desire-taavah-chemdah.html#%D7%AA%D7%90%D7%95%D7%94) and *ivah*), so that *naveh* is what is
   desirable. Radak suggests alternatively that the root of *naveh* is נ-א-ה,
   beautiful. Rabbi Yehoshua Steinberg of the Veromemanu Foundation suggests
   that *hanaah* comes from one of these two etymologies, but then defers to

@@ -32,7 +32,7 @@ sources:
   - wiaw:9658 "Pesach: Putting Pressure" (2022-04-16) https://articles.ohr.edu/articles/pesach-putting-pressure
   - wiaw:9682 "The Year of Slipping Away (Part 1 of 2)" (2022-05-14) https://articles.ohr.edu/articles/the-year-of-slipping-away-part-1-of-2
 authorities: [Rabbi Eliezer Ashkenazi, Rabbi Shlomo Pappenheim, Rabbi Shimon Schwab, Rabbi Refael Binyamin Posen, Malbim, Targum Onkelos, Targum Yonatan, Targum Neofiti, Rashi, Menachem Ibn Saruk, Ramban, Radak, Ibn Janach, Bereishis Rabbah, Rabbi Moshe ben HaNessiah, Rabbi Yosef Chaim of Baghdad]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Pressure: lachatz / d'chak / negisah / atz / alatz
 
@@ -124,8 +124,8 @@ Yonatan renders *lo yigos* (Devarim 15:2), the lender forbidden to press for his
 debt after shemittah, with a *d'chak* cognate as well.
 
 - Pappenheim traces *negisah* to the biliteral ג-ש, closeness, notwithstanding
-  the sin: *gishah* (drawing as near as possible), *gush* (a tightly packed
-  clump), *geshem* (rain from clouds of highly concentrated vapor), and he even
+  the sin: [*gishah*](approach-gishah-kiruv.html#%D7%92%D7%99%D7%A9%D7%94) (drawing as near as possible), *gush* (a tightly packed
+  clump), [*geshem*](rain-geshem-matar-yoreh-malkosh.html#%D7%92%D7%A9%D7%9E) (rain from clouds of highly concentrated vapor), and he even
   suggests Goshen, the one region the Jews were allowed to settle, for its
   compact dirt against the rest of Mitzrayim, which was apparently sandier. So
   *negisah* is marked by repeated encounters between the one pressing and the
@@ -149,7 +149,7 @@ Bereishis 19:15, *vayaitzu hamalachim b'Lot*.
 Once in Tanach: Delilah pressing Shimshon for the secret of his strength
 (Shoftim 16:16), a hapax as Rashi and *Machberes Menachem* both note.
 - Targum there renders it *d'chak*.
-- Ramban (to Bereishis 32:25) treats the aleph of *alatz* as interchangeable
+- Ramban (to Bereishis 32:25) treats the aleph of [*alatz*](slipping-off-shemittah-chalitzah-shalaf.html#%D7%90%D7%9C%D7%A6) as interchangeable
   with the ches of *chalatz*, itself a metathesis of *lachatz*; Radak in *Sefer
   HaShorashim* likewise associates *alatz* with *lachatz*.
 - Chazal (Sotah 9b; *Bereishis Rabbah* 52:12) explain *alatz* differently, as

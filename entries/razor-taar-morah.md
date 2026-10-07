@@ -20,7 +20,7 @@ sources:
   - wiaw:7768 "Razor's Edge" (2018-05-26) https://articles.ohr.edu/articles/razors-edge
   - ms:234-razors-edge.md "Razor’s Edge"
 authorities: [Targum, Rashi, Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Bamidbar Rabbah]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Razor: taar / morah
 
@@ -58,8 +58,8 @@ Hirsch's reading. Two further etymologies are given.
 - Rashi (to Shoftim 13:5) ties *morah* to י-ר-ה, "shoots" or "throws away,"
   because the razor throws the hair away, so to speak.
 - Rabbi Shlomo Pappenheim takes the root as מ-ר, transferring or switching, the
-  root of *temurah* (which attempts to transfer *kedushah* from one animal to
-  another) and *mumar* (one who rejects Judaism and switches to another
+  root of [*temurah*](exchange-temurah-chalifah.html#%D7%AA%D7%9E%D7%95%D7%A8%D7%94) (which attempts to transfer *kedushah* from one animal to
+  another) and [*mumar*](heretic-min-apikores-kofer-meshumad.html#%D7%9E%D7%95%D7%9E%D7%A8) (one who rejects Judaism and switches to another
   religion): shaving away hair paves the way for a new batch to replace what was
   cut.
 

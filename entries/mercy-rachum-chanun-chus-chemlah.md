@@ -36,7 +36,7 @@ sources:
   - wiaw:10983 "True Love (Part 2/2)" (2023-11-18) https://articles.ohr.edu/articles/true-love-part-22
   - ms:152-mercy-or-pity.md "Mercy or Pity"
 authorities: [Rabbeinu Bachya, Rashi, Rabbi Yosef Bechor-Shor, gloss to Tosafos, Rabbi Elazar Rokeach of Worms, Rabbi Avraham bar Chaim Ibn Ramoch, Malbim, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Yitzchak Avineri, Rabbi Moshe Shapiro, Rabbi Moshe de Leon, Rabbeinu Efrayim ben Shimshon]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Mercy: rachum / chanun / chus / chemlah
 
@@ -86,7 +86,7 @@ Hashem, these are presented as such.
   sense, for his own.
 - Bechor-Shor: *rachum* is for the poor, mercy that lifts one out of a dismal
   situation.
-- Gloss to Tosafos (Rosh Hashanah 17b): *rachamim* is Hashem withholding a
+- Gloss to Tosafos (Rosh Hashanah 17b): [*rachamim*](judgment-din-rachamim.html#%D7%A8%D7%97%D7%9E%D7%99%D7%9E) is Hashem withholding a
   calamity before it falls.
 - Rabbi Elazar Rokeach of Worms: *rachum* acts beyond the letter of the law
   (others explain the opposite: *rachum* only for one who asks for mercy).
@@ -96,7 +96,7 @@ Hashem, these are presented as such.
   form of suffering.
 - Malbim: *rachmanus* applies only to an intelligent being; one pities a child
   or an animal differently from an adult.
-- Rabbi Klein, setting *rachamim* against *din*: under *rachamim* the focus is
+- Rabbi Klein, setting *rachamim* against [*din*](law-din-mishpat-chok-dat.html#%D7%93%D7%99%D7%A0): under *rachamim* the focus is
   on the Giver, who gives an influx of His good without asking whether the
   receiver deserves it, while under *din* the focus is on the receiver and the
   flow is measured by what he deserves. Tradition ties the four-letter Name to
@@ -115,7 +115,7 @@ Hashem, these are presented as such.
   that after a sin a man survives to live another day and is not punished at
   once. *Rachum* is spelled as *rechem*, the womb, where the child grows until
   it is ready to enter the world; so *rachamim* shelters the sinner from
-  punishment until he can do full *teshuvah* and erase the sin. The letters of
+  punishment until he can do full [*teshuvah*](return-shuv-chazarah.html#%D7%AA%D7%A9%D7%95%D7%91%D7%94) and erase the sin. The letters of
   *rechem* also spell *machar*, tomorrow: Hashem's mercy lets the sinner see
   tomorrow.
 - Rabbeinu Efrayim ben Shimshon (to Bereishis 29:31): a husband has *rachamim*

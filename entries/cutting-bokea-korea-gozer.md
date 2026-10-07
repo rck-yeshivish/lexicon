@@ -75,7 +75,7 @@ sources:
   - wiaw:8271 "Karet and Ariri" (2019-06-01) https://articles.ohr.edu/articles/karet-and-ariri
   - ms:114-cut-it-out.md "Cut it out!"
 authorities: [Rabbi Yitzchok Meir Alter of Ger, Shulchan Aruch HaRav, Rabbi Shmuel Borenstein of Sochatchov, Rabbi Shlomo Pappenheim, Rav Hirsch, Shadal]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Cutting: bokea / korea / gozer (and the wider family)
 
@@ -149,7 +149,7 @@ something that tears easily.
 Tehillim 136:13 calls the sea "cut into cuts" (*l'gezarim*), and Maariv thanks
 Hashem for passing His children between the *gizrei* Yam Suf.
 
-- Rabbi Pappenheim gives two accounts, in two separate discussions: *gozer* is
+- Rabbi Pappenheim gives two accounts, in two separate discussions: [*gozer*](circumciser-mohel-gozer-rofeh-uman.html#%D7%92%D7%95%D7%96%D7%A8) is
   precision cutting with an instrument, so that whatever is deliberately cut out
   of a larger whole is *nigzar* or a *gizrah*; and *gozer* is the sawing motion
   of a blade applied continuously, drawn back and forth until it has cut through
@@ -166,7 +166,7 @@ Rabbi Pappenheim and others trace *gozer* to the biliteral ג-ז, primarily
 "shaving" or "trimming," a cut that leaves part attached and part detached:
 *geiz*, the grass left after trimming (Tehillim 72:6); *gozez*, shearing wool
 (Bereishis 31:19, 38:12); *gezel*, robbing a man of one possession and leaving
-the rest intact; *gazam*, the grasshopper that eats some produce and leaves the
+the rest intact; [*gazam*](locust-arbeh-gazam-yelek-chasil.html#%D7%92%D7%96%D7%9E), the grasshopper that eats some produce and leaves the
 rest; *geza*, a tree whose top has been truncated; *gazis*, hewn stone, part
 shaved down and the rest left in place. The Modern Hebrew *gezer* ("carrot") is
 not directly related, being derived from the Arabic word for that root vegetable, *jazar*

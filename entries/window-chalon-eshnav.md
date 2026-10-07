@@ -18,7 +18,7 @@ sources:
   - wiaw:9056 "Beshalach: Through the Looking Window" (2021-01-30) https://articles.ohr.edu/articles/beshalach-through-the-looking-window
   - ms:120-through-the-looking-window.md "Through the Looking Window"
 authorities: [Rabbi Shlomo Pappenheim, Radak, Rabbeinu Yonah Ibn Janach, Rashi, Rabbi Yosef Kara, Meiri, Rabbi Yeshayah of Trani, Rabbi Shaul Goldman, Malbim, Rabbi Shmuel Landiado, Menachem Ibn Saruk, Rabbi Moshe David Valle, Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, Shmuel Yeivin, Rabbi Aharon Marcus, Rabbi Baruch HaLevi Epstein, Rabbi Ernest Klein, Rabbi Elazar Reines, Rabbi Chaim Futernik, Abarbanel, Alshich]
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 # Window: chalon / eshnav
 
@@ -130,9 +130,9 @@ Thirty-one appearances.
   ח-ל, circular movement and the empty space inside a circle. He puts a wide
   family under that root: *chalil*, the hollow flute; *machol*, a dance in a
   ring; *chalom*, a dream, thoughts going round and round in the mind;
-  *chillul*, the void left where holiness was; *challal*, a corpse emptied of
+  *chillul*, the void left where holiness was; [*challal*](corpse-peger-neveilah-challal.html#%D7%97%D7%9C%D7%9C), a corpse emptied of
   its life-force; *choli* and *machalah*, a sickness that affects the body all
-  around; and *cheil*, the short wall around a higher wall that leaves an empty
+  around; and [*cheil*](wall-chomah-kir-shur-kotel.html#%D7%97%D7%99%D7%9C), the short wall around a higher wall that leaves an empty
   space between them. In *Yerios Shlomo* he explains that *chalon* belongs here
   because a window is essentially an empty space or hole in a wall, and in
   *Cheshek Shlomo* he adds that *chalon* is specifically a round window, tying

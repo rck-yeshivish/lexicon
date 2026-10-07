@@ -50,7 +50,7 @@ sources:
   - wiaw:9228 "Fishy Words (Part 1/2)" (2021-05-29) https://articles.ohr.edu/articles/fishy-words-part-12
   - ms:069-a-biblical-feast.md "A Biblical Feast"
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Menachem Ibn Saruk, Ibn Chayyuj, Ibn Janach, Radak, Rav Hirsch, Meiri, Rabbeinu Bachya, Peirush HaRokeach, Rabbi Yitzchok of Volozhin, Ramban, Rabbi Yehuda HaChassid, Rabbi Avraham Rivlin, Rabbi Yechezkel Weinfeld, Targum Onkelos, Targum Yonasan, Seder Berachos]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Food: ochel / mazon / yevul / tevuah / tenuvah / dagan / bar / shever
 
@@ -132,7 +132,7 @@ they have been ripened, reaped, and heaped into a smooth pile (see Rashi to
 beginning).
 
 - Pappenheim traces *dagan* to the biliteral ד-ג, fecundity and quantitative
-  increase, the root of *dag*, fish: grains are an especially fertile plant,
+  increase, the root of [*dag*](fish-dag-dagah.html#%D7%93%D7%92), fish: grains are an especially fertile plant,
   since one seed can beget grains with many more seeds, just as one fish can
   father many more little fish.
 - Menachem Ibn Saruk, Ibn Janach and Radak all see *dagan* as deriving from its

@@ -36,7 +36,7 @@ sources:
   - wiaw:9110 "Ki Tisa: Remember Forever" (2021-03-06) https://articles.ohr.edu/articles/ki-tisa-remember-forever
   - wiaw:10897 "Shemini: Types of Species" (2023-04-15) https://articles.ohr.edu/articles/shemini-types-of-species
 authorities: [the Vilna Gaon, Rabbi Wertheimer, Rabbi Shlomo Pappenheim of Breslau, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Moshe Shapiro, Malbim]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Counting: sefirah (sofer, mispar) / moneh (minyan)
 
@@ -82,19 +82,19 @@ so, as Rabbi Klein notes, this approach ostensibly does not account for how
 ### sofer, sefirah, mispar (ספר, ספירה, מספר)
 Root ס-פ-ר. Rabbi Yaakov Tzvi Mecklenburg: *mispar* is a number in its limiting
 function. The Torah caps flogging at a *mispar* (Devarim 25:2), which the
-mesorah gives as thirty-nine; the Aramaic *sfar* is a nation's border, which
+mesorah gives as thirty-nine; the Aramaic [*sfar*](border-gevul-techum-meitzar-sfar.html#%D7%A1%D7%A4%D7%A8) is a nation's border, which
 limits its territory, and the Aramaic *sapar* is a barber, who limits the growth
 of the hair. On this reading the Torah says *tisperu* for the Omer (Vayikra
 23:15-16) because that counting is itself bounded, running only until the morrow
 of the seventh week. Mecklenburg suggests a second dimension: *sefirah* is a count in which each unit calls for something extra, a count of quality as well as quantity. The goal of a *sefirah* count includes improving oneself, cleansing oneself of impurities; and
-he connects *sefirah* to *sapir*, the sapphire, since the counting cleanses a
+he connects *sefirah* to [*sapir*](blue-sapir-techeiles-kachol.html#%D7%A1%D7%A4%D7%99%D7%A8), the sapphire, since the counting cleanses a
 person as a precious gem is free of impurities.
 
 Rabbi Moshe Shapiro explains that all words from ס-פ-ר are interrelated and
 refer to unifying disparate parts: *sippur* joins many details into a single
 narrative; a *sfar*, a border, confines everything within it and makes it one
 unit; a *sefer* binds all the contents recorded in it into one entity; and
-*mispar* and *sofer*, number and counting, are the system in which the numbers
+*mispar* and [*sofer*](scribe-sofer-lavlar.html#%D7%A1%D7%95%D7%A4%D7%A8), number and counting, are the system in which the numbers
 are all bound together in an organized and logical way.
 
 The name *Sefiras HaOmer* comes from the count's joining
@@ -125,7 +125,7 @@ sprinkling necessarily carries weight on its own.
 
 ### mifkad (מפקד)
 Root פ-ק-ד. A third family for counting and numbering, *poked*/*mifkad*.
-Malbim holds that *pakad* denotes remembering something in order to take some
+Malbim holds that [*pakad*](remember-zachor-pakad.html#%D7%A4%D7%A7%D7%93) denotes remembering something in order to take some
 action; so understood, it primarily means remembering something in order to
 attend to it, and the most basic way of attending to a thing is to determine
 whether it is actually present, hence *pakad* means both "to count" (Bamidbar

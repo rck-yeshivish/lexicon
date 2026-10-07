@@ -28,7 +28,7 @@ sources:
   - wiaw:8922 "Chayei Sarah: Boys and Girls (Part 1)" (2020-11-14) https://articles.ohr.edu/articles/chayei-sarah-boys-and-girls-part-1
   - wiaw:8933 "Toldot: Boys and Girls (Part 2)" (2020-11-21) https://articles.ohr.edu/articles/toldot-boys-and-girls-part-2
 authorities: [Rashi, Rabbi Eliyahu Mizrachi, Radak, Ibn Ezra, Rav Hirsch, Peirush HaRokeach, Rabbeinu Efrayim ben Shimshon, Rabbi Shimon Dov Ber Analak, Chizkuni, Rabbi Yonah Ibn Janach, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Youth: naar (naarah) / elem (almah)
 
@@ -69,7 +69,7 @@ exactly the same thing, *naarah* being Hebrew and *almah* Aramaic.
 The Torah calls Rivkah a *naarah* (Bereishis 24:14, 24:16, 24:28, 24:55, 24:57),
 a *besulah* (24:16) and an *almah* (24:43). With *yaldah*, the most common word
 for a girl, that makes four words, each with a masculine counterpart (*naar*,
-*bachur*, *elem*, *yeled*), and Rabbi Klein maintains that they are not true
+[*bachur*](unmarried-ravak-panui-bachur.html#%D7%91%D7%97%D7%95%D7%A8), [*elem*](child-yeled-olel-roveh-ravya.html#%D7%A2%D7%9C%D7%9E), *yeled*), and Rabbi Klein maintains that they are not true
 synonyms.
 
 ### naar / naarah (נער, נערה)
@@ -140,7 +140,7 @@ older *naarah*, so that both words fit her; this works best if she was three
 when she was chosen for Yitzchak.
 
 According to many commentators, *elem* and *almah* are related to *eilum* and
-*ne'elam*, hidden.
+[*ne'elam*](hidden-tzafun-safun-tamun-ganuz.html#%D7%A0%D7%A2%D7%9C%D7%9E), hidden.
 
 - Rav Hirsch (to Bereishis 13:15) explains that an *elem* is a young *naar* who
   has not yet matured or developed, his potential still hidden and unrealized.
@@ -166,7 +166,7 @@ ways.
 
 For Rabbi Shimon Dov Ber Analak, *elem* names not the adolescent's tenacity but
 his sheer power and strength. In that sense of "energetic" it is related to
-*alim*, with an aleph, the standard Targum for *ometz* and *amitz*, strong or
+*alim*, with an aleph, the standard Targum for [*ometz*](strength-koach-gevurah-ometz-chozek.html#%D7%90%D7%9E%D7%A6) and *amitz*, strong or
 resilient.
 
 - *Chizkuni* (to Bereishis 24:43) contends that *naarah* and *almah* mean

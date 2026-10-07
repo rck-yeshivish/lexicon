@@ -26,7 +26,7 @@ sources:
   - wiaw:10810 "Parshas Bo: Please Stand Up" (2023-01-28) https://articles.ohr.edu/articles/parshas-bo-please-stand-up
   - ms:194-on-the-tombstone.md "On the Tombstone"
 authorities: [Rabbi Yechiel Michel Tukachinsky, Rabbi Shlomo Zalman Ehrenreich, Rabbi Moshe Shick, Rabbi Asher Pollak, Rabbi Eliyahu Katz, Rashi, Rabbi Shlomo Aharon Wertheimer, Hon Ashir, Meleches Shlomo]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Tombstone: matzeivah / tziyun / nefesh
 
@@ -56,11 +56,11 @@ desire to go on serving Hashem, which death cut off.
 - Rabbi Yechiel Michel Tukachinsky (*Gesher HaChaim*): three purposes, as above.
 - Others explain instead that all three reflect the deceased's desire to
   continue serving Hashem and keeping the mitzvos had he remained alive:
-  *matzeivah*, which also names the single-stone altar, says he wished to go on
+  [*matzeivah*](altar-mizbeach-matzeivah-bamah.html#%D7%9E%D7%A6%D7%91%D7%94), which also names the single-stone altar, says he wished to go on
   worshipping Hashem and was forced to stop because he died; *tziyun*,
   "remarkable" or "outstanding," the word Tanach uses in the parts written after
   the *matzeivah*-altar became forbidden, says he strove for excellence
-  throughout his life and death cut that pursuit off; and *nefesh*, related to
+  throughout his life and death cut that pursuit off; and [*nefesh*](soul-nefesh-ruach-neshamah-chayah-yechidah.html#%D7%A0%D7%A4%D7%A9), related to
   will (see Rashi to Bereishis 23:8), conjures the departed's will to do good.
 
 **What the matzeivah is really named for.**

@@ -39,7 +39,7 @@ sources:
   - wiaw:9723 "More Cheese Please" (2022-06-04) https://articles.ohr.edu/articles/more-cheese-please
   - ms:291-the-mountain-of-many-names.md "The Mountain of Many Names"
 authorities: [Midrash, Zohar, Rabbi Yehudah HaLevi, Rabbi Berachiah Baruch Shapiro, Rabbi Naftali Katz, Rabbi Shlomo Pappenheim, Alexander Kohut, Shadal]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Mount Sinai: Sinai / Chorev / Har HaElokim / Bashan / Gavnunim / Chemed
 
@@ -130,11 +130,11 @@ the Torah (Shemos 21 onward).
   *gavnunim* just means mountainous or hilly.
 
 ### Har Chemed (הר חמד)
-Hashem desired (*chemdah*) to rest His Presence on that mountain in particular
+Hashem desired ([*chemdah*](desire-taavah-chemdah.html#%D7%97%D7%9E%D7%93%D7%94)) to rest His Presence on that mountain in particular
 (Tehillim 68:17).
 
 ### Chorev (חורב)
-The name alludes to *cherev*, a sword: the Sanhedrin's authority to carry out
+The name alludes to [*cherev*](sword-cherev-shelach-sakin.html#%D7%97%D7%A8%D7%91), a sword: the Sanhedrin's authority to carry out
 capital punishment comes from the Torah received at Sinai.
 
 Shadal (to Shemos 3:1): Chorev and Sinai are two different mountains, or two

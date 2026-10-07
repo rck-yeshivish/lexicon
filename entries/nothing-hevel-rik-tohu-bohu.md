@@ -49,7 +49,7 @@ sources:
   - wiaw:9138 "A Perfect Sacrifice" (2021-03-20) https://articles.ohr.edu/articles/a-perfect-sacrifice
   - wiaw:8696 "Blemished Imperfections" (2020-05-09) https://articles.ohr.edu/articles/blemished-imperfections
 authorities: [Rabbi Avraham Bedersi, Shadal, Malbim, Rabbi Avraham Dovid Kobernick, Menachem Ibn Saruk, Rabbi Yitzchak Zeldin, Ran, Seder Rav Amram Gaon, Martin Luther, John Calvin, Rashi, Targum Onkelos, Targum pseudo-Yonasan, Targum Neofiti, Sefer HaBahir, Zohar, Ramban, Ralbag, Abarbanel, Rabbi Nissim of Marseilles, Rabbi Avraham bar Chiyya HaNasi, Rabbi Shlomo Pappenheim, Rabbi Moshe Botarel, Rabbi Levi ben Shlomo of Lunel, Radak, Rabbi Saadia Gaon, Ibn Ezra, Rabbi Moshe Kimchi, Rabbi Shabsai Donnolo, Sefer Yetzirah, Rabbeinu Bachya, Maharsham, Avraham Even-Shoshan, Rabbi Binyamin Mussafia, Rabbi Yair Chaim Bachrach, Rabbi Yehudah Aryeh of Carpentras, Rabbi Ernest Klein, Wilhelm Gesenius, Rabbi Alexander Hool, Rav Hirsch]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Nothing: hevel / rik / tohu / bohu (efes, blimah, meumah, klum)
 
@@ -141,9 +141,9 @@ the biliteral root ב-ל, defined as "negation" and "loss of form," and derives 
 whole family of words from it: *bli*, "without," a negation; *aval*, "but," the
 negation of a previous clause; *bilui*, "worn out," by which something loses its
 form; *teivel*, "the physical world," because all physical entities are subject
-to wear and tear; *neveilah*, an animal carcass, a decomposing dead creature;
+to wear and tear; [*neveilah*](corpse-peger-neveilah-challal.html#%D7%A0%D7%91%D7%9C%D7%94), an animal carcass, a decomposing dead creature;
 *neivel*, a leather flask made from the skin of a *neveilah*; *naval*, an
-uncouth person, one who has lost his human form; and *yevul*, "produce,"
+uncouth person, one who has lost his human form; and [*yevul*](food-ochel-shever-tevuah-dagan.html#%D7%99%D7%91%D7%95%D7%9C), "produce,"
 because it can easily rot and decompose if not properly preserved, or because
 it comes from seeds that decompose to give way to what grows from them. Along
 the same lines he explains *hevel* as something "futile," which has almost no
@@ -162,11 +162,11 @@ certain materials that create heat, which are said to "add *hevel*" to them
 power; Rabbi Reuven Chaim Klein adds that the same is true of bad air and hot air.
 
 Rabbi Avraham Dovid Kobernick compares ה-ב-ל to its metathesized counterparts
-ב-ל-ה (*bilui*, "wearing out") and ל-ה-ב (*lahav*, "flame"), explaining that all
+ב-ל-ה (*bilui*, "wearing out") and ל-ה-ב ([*lahav*](fire-aish-lehavah-shalheves-lapid.html#%D7%9C%D7%94%D7%91), "flame"), explaining that all
 three are expressions of destruction and nothingness: *hevel* is something that
 is right now "nothing," *bilui* something on its way to becoming "nothing," and
 *lahav* that which consumes things and turns them into "nothing." He contrasts
-these with their polar opposite, ל-ב (*lev*, "heart"), the mechanism that keeps
+these with their polar opposite, ל-ב ([*lev*](middle-emtza-merkaz-lev-tabur.html#%D7%9C%D7%91), "heart"), the mechanism that keeps
 things alive and running.
 
 Returning to the name Hevel, Rabbi Reuven Chaim Klein holds that Adam and Chavah's son was
@@ -204,7 +204,7 @@ substance. The related *reikam*, "naught," with the added final mem, likewise
 describes an act or utterance performed "for no reason." He lists many other
 words from this root: *reik*, "empty," of something that is supposed to be full
 but is now devoid of content; *rak*, "but, only," of what is exceptional or lies
-outside the norm, as though emptied or separated from the rest; *merikah*,
+outside the norm, as though emptied or separated from the rest; [*merikah*](washing-kevisah-rechitzah-shetifah-hadachah.html#%D7%9E%D7%A8%D7%99%D7%A7%D7%94),
 "rinsing, washing," which empties something of all dirty particles; *tamrukin*,
 "cosmetics," treatments that rinse the body of all impurities to leave it clean
 and pristine; *marak*, "soup, broth," a liquid whose substance was distilled
@@ -213,7 +213,7 @@ from the body; *rakos*, "slender, skinny," the body emptied of flesh and fat;
 *rekes*, "temple," the area above the cheeks between the eyes and the side of
 the head, typically described as not fleshy or fatty; *rakik*, "wafer," a thin,
 brittle flatbread or cake not fried in oil, and so lean rather than fatty; and
-more (*yerek*, *yarok*, *yerakrak*, *rikmah* and *rokem*).
+more ([*yerek*](vegetable-yerek-yarok-karpas.html#%D7%99%D7%A8%D7%A7), *yarok*, *yerakrak*, *rikmah* and [*rokem*](artisan-charash-choshev-rokem.html#%D7%A8%D7%A7%D7%9E)).
 
 Targum Onkelos renders *bohu* of Bereishis 1:2 as *reikanya*, an
 Aramaicization of *reik*, a cognate of *rik*.
@@ -236,7 +236,7 @@ tradition, the line containing *hevel varik* has often been excised by censors.
 
 Although *Aleinu* as we have it reads "the seat of His honor (*yikaro*) is in
 the Heavens above," some sources claim an old custom, found in *Seder Rav Amram
-Gaon*, of refraining from saying *yikaro*, an inflection of the Aramaic *yakar*,
+Gaon*, of refraining from saying *yikaro*, an inflection of the Aramaic [*yakar*](honor-kavod-yakar.html#%D7%99%D7%A7%D7%A8),
 "honor," because it is an anagram of *varik*, and of saying its Hebrew synonym
 *kevodo* instead.
 

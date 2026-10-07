@@ -18,7 +18,7 @@ sources:
   - wiaw:11411 "The Shiny Month" (2024-05-25) https://articles.ohr.edu/articles/the-shiny-month
   - ms:228-the-shiny-month.md "The Shiny Month"
 authorities: [Ibn Ezra, Radak, Rabbi Shlomo Pappenheim, Rashi, Maharil, Terumas HaDeshen, Rabbi Yaakov Margolis, Shulchan Aruch, Rema, Nachalas Shivah, Beis Shmuel, Aruch HaShulchan, Megaleh Amukos, Rabbi Eliezer Hagar of Vizhnitz, Sefer HaKushyos, Rabbi Yosef Kara, Maharal, Maharsha, Rabbi Moshe Shapiro, Rabbi Shimshon of Ostropoli, Chasam Sofer, Rabbi Mordechai Nachman Aronovsky, Rabbi Dovid Jungreis, Moshe Escott]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # The second month: Ziv / Iyar
 
@@ -171,7 +171,7 @@ with one yud and once with two, but the prevailing view writes two. The gematria
 of *Iyar* equals *erech*, length, a line running from a point of origin to a
 destination, in time (*orech yamim*) as in space. In *Sefer Yetzirah* the twelve
 months parallel the twelve simple letters, and Iyar's is the vav, which joins
-and extends; Iyar, the one month all of whose days are *sefirah*, is the bridge
+and extends; Iyar, the one month all of whose days are [*sefirah*](counting-sefirah-mispar-minyan.html#%D7%A1%D7%A4%D7%99%D7%A8%D7%94), is the bridge
 from Nissan to Sivan, joining *Yetzias Mitzrayim* to the close of the fifty
 days.
 

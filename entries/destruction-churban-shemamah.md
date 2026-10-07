@@ -27,7 +27,7 @@ sources:
   - wiaw:9775 "On Dry Land" (2022-07-09) https://articles.ohr.edu/articles/on-dry-land
   - ms:298-words-of-destruction.md "Words of Destruction"
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Radak, Ibn Ezra, Rabbi Chaim of Volozhin, Shoresh Yesha, Rabbi Moshe Shapiro]
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 # Destruction: churban / shemamah
 
@@ -62,7 +62,7 @@ Root ח-ר-ב.
   looking destroyed. On the same logic an arid land is a *charbah*, its
   barrenness owing not to a defect in the soil but to its being cut off from
   rain.
-- Rabbi Moshe Shapiro (1935 to 2017): *cherev*, a sword, is spelled with the
+- Rabbi Moshe Shapiro (1935 to 2017): [*cherev*](sword-cherev-shelach-sakin.html#%D7%97%D7%A8%D7%91), a sword, is spelled with the
   same letters as *charev*, to destroy, because just as a sword disconnects
   things otherwise connected, so destruction causes such a disconnection.
 - *Shoresh Yesha* takes the core of ח-ר-ב as destruction, the opposite of
@@ -91,7 +91,7 @@ Root ש-מ-ם.
   *Shemamah* is destruction in the eye of the beholder.
 
 ### the two words on the Beis HaMikdash
-Just as a man's *neshamah* is his lifeline to the Upper
+Just as a man's [*neshamah*](soul-nefesh-ruach-neshamah-chayah-yechidah.html#%D7%A0%D7%A9%D7%9E%D7%94) is his lifeline to the Upper
 Realms, so the Beis HaMikdash below was joined to a corresponding Mikdash above
 that served as its lifeline. Rabbi Chaim of Volozhin (*Nefesh HaChaim* 1:4)
 asserts that the Jewish sinners whose misdeeds brought on the Churban were far

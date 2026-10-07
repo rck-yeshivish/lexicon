@@ -24,7 +24,7 @@ sources:
   - wiaw:9039 "Bo: Come To Pharaoh" (2021-01-23) https://articles.ohr.edu/articles/bo-come-to-pharaoh
   - ms:108-the-sign-is-coming.md "The Sign is Coming…"
 authorities: [Ramban, Sifrei, Midrash Lekach Tov, Rabbi Shlomo Aharon Wertheimer, Radak, Sforno, Abarbanel, Rabbi Shmuel Ibn Tibbon, Malbim, Rabbi Avraham Menachem HaKohen Rappaport, Rabbi Shlomo Pappenheim, Rabbi Elimelech of Lizhensk]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Sign: oht / mofet
 
@@ -144,9 +144,9 @@ manifest itself.
   letter of the aleph-beis is called an *oht* because it is a sign representing a
   certain sound; all of these suggest that an *oht* can be a sign within the
   confines of nature.
-- Rabbi Shlomo Pappenheim (1740-1814) contrasts *oht* with *eid*: an *oht* is
+- Rabbi Shlomo Pappenheim (1740-1814) contrasts *oht* with [*eid*](witness-eid-sahad.html#%D7%A2%D7%93): an *oht* is
   simply a reminder, while an *eid* serves to remind and to spur one into
-  action. He also traces *asah* (אתה), "come" (Devarim 33:2), to the single letter ת, which stands
+  action. He also traces *asah* ([אתה](coming-biah-halichah-atah.html#%D7%90%D7%AA%D7%94)), "come" (Devarim 33:2), to the single letter ת, which stands
   for bordering because it closes the aleph-beis: a border links two bodies and
   also distinguishes between them. Words from this root relate to bordering
   and connecting, and so an *oht* forms a connection between the sign and the

@@ -24,7 +24,7 @@ sources:
   - wiaw:9809 "Of Thorns and Thistles" (2022-08-06) https://articles.ohr.edu/articles/of-thorns-and-thistles
   - ms:259-biblical-refuseniks.md "Biblical Refuseniks"
 authorities: [Menachem Ibn Saruk, Donash Ibn Labrat, Rashi, Radak, Rambam, Bartenura, Tosafos Yom Tov, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Yaakov Dienna, Oxford English Dictionary, Mahari Kara, Dr. Alexander Kohut, Jastrow, Targum Onkelos]
-updated: 2026-09-24
+updated: 2026-10-06
 ---
 # Refusal: mi'un / siruv
 
@@ -70,13 +70,13 @@ Rabbi Shlomo Pappenheim of Breslau (1740-1814) derives *mi'un* from *ein* /
 ### siruv (סירוב)
 A hapax at best, and even that instance is not universally agreed upon. When
 Hashem tells Yechezkel not to fear repercussions from the people over his
-prophecies, He calls them *saravim* and *salonim* (Yechezkel 2:6). The
+prophecies, He calls them *saravim* and [*salonim*](thorns-kotz-dardar-sneh-charul.html#%D7%A1%D7%9C%D7%95%D7%A0) (Yechezkel 2:6). The
 commentators agree that *salonim* are a kind of thorn; on *saravim* there are
 two approaches.
 
 - Menachem Ibn Saruk (920-970), Rashi (1040-1105), Radak (1160-1234) and others
   explain that the people were "rebels" and "refusers," and Menachem goes so far
-  as to define *meridah* by *sarvanus* and *saravanim* by *mardus*; on their
+  as to define [*meridah*](rebellion-pesha-meridah-meri.html#%D7%9E%D7%A8%D7%99%D7%93%D7%94) by *sarvanus* and *saravanim* by *mardus*; on their
   reading this is the only instance in Tanach of the root ס-ר-ב in the sense of
   refusing.
 - Menachem's famous interlocutor Donash Ibn Labrat (920-990) disagrees with that
@@ -91,7 +91,7 @@ two approaches.
 
 In that same perek Hashem uses forms of *meri* /
 *meridah* six times and Targum renders each with a cognate of *siruv*; and
-where Yechezkel 2:3 uses *pesha* for rebellion, Targum renders it with an
+where Yechezkel 2:3 uses [*pesha*](sin-chet-avon-pesha.html#%D7%A4%D7%A9%D7%A2) for rebellion, Targum renders it with an
 Aramaicized *meridah*. Rabbi Eliyahu HaBachur (1469-1549) points out in *Sefer
 HaTishbi* and *Meturgeman* that most instances of the Hebrew *meridah*, *meri*
 and *mi'un* in the Torah are rendered by the Targumim as *siruv*. The Targum

@@ -23,7 +23,7 @@ sources:
   - wiaw:7572 "The Pharaoh and the King" (2018-01-06) https://articles.ohr.edu/articles/the-pharaoh-and-the-king
   - ms:087-the-pharaoh-and-the-king.md "The Pharaoh and the King"
 authorities: [Rashi, Radak, Rabbi Ovadia of Bartenura, Ibn Ezra, Zohar, Rabbeinu Bachya, Rav Chaim Kanievsky, Abarbanel, Rabbi Avraham Menachem Rappaport, Rabbi Eliezer ben Eliyahu Ashkenazi, Chasam Sofer, Rabbi Shimshon of Ostropoli, Shadal, Rabbi Eliyahu Benamozegh, Artapanus]
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 # The Egyptian monarch: Paroh / Melech Mitzrayim
 
@@ -74,7 +74,7 @@ point.
   Yirmiyahu 46:25, once the king and once the deity.
 - Chasam Sofer (beginning of Bo, explaining a saying of Rabbi Shimshon of
   Ostropoli): Hashem turned the letters of Paroh's name, peh to beis and ayin to
-  aleph, making it *arbeh* for the plague of locusts.
+  aleph, making it [*arbeh*](locust-arbeh-gazam-yelek-chasil.html#%D7%90%D7%A8%D7%91%D7%94) for the plague of locusts.
 
 ### Melech Mitzrayim (מלך מצרים)
 The King of Egypt, the office as the nation's head. It appears close to fifty

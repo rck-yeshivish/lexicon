@@ -24,7 +24,7 @@ sources:
   - wiaw:11544 "Nitzavim-Vayelech: Shake & Quake (Pt. 1/3)" (2024-09-21) https://articles.ohr.edu/articles/nitzavim-vayelech-shake-quake-pt-13
   - ms:336-shake-quake.md "Shake & Quake"
 authorities: [Rav Hirsch, Rabbi Shlomo Pappenheim, Targum Onkelos, Targum Yonasan, Rabbi Eliyahu HaBachur, Menachem Ibn Saruk, Rashi, Ibn Ezra, Ibn Janach, Rabbi Yosef Kara, Sforno, Metzudas Tzion, Rabbi David Golumb, Rabbi Asher Weiser, Toras Chaim, Rabbi Shaul Goldman, Dr. Tzvi Langermann, Shadal]
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 # Trembling: chil / dachil / zachal
 
@@ -90,7 +90,7 @@ mother's birth pangs.
 Root ד-ח-ל, absent from Biblical Hebrew but six times in the Aramaic parts of
 Daniel (2:31, 4:2, 5:19, 6:27, 7:7, 7:19), most famously the fourth beast,
 *dechilah*, "scary" (Daniel 7:7). Targum typically uses this root to render
-Hebrew *yirah*, *nora* and *pachad* (for examples, Rabbi Eliyahu HaBachur,
+Hebrew [*yirah*](fear-eimah-pachad-yirah-daagah.html#%D7%99%D7%A8%D7%90%D7%94), *nora* and *pachad* (for examples, Rabbi Eliyahu HaBachur,
 *Meturgeman*); Onkelos renders *chil* at Shemos 15:14 and *chalu* at Devarim 2:25
 with *dachla*.
 
@@ -142,7 +142,7 @@ in Tanach. In *Haazinu*: "the rage of those who are *zochel* on the dirt"
   and there Rashi too reads fear.
 - Fear as *dachil*: it might well be that *zochel* in the fear sense is the cognate of *dachil*, since in many cases
   Aramaic dalet answers to Hebrew zayin, as in *dachar*/*zachar* (male),
-  *deroa*/*zeroa* (arm), *dahav*/*zahav* (gold); it is then quite possible that
+  *deroa*/*zeroa* (arm), *dahav*/[*zahav*](gold-zahav-paz-kesem-charutz.html#%D7%96%D7%94%D7%91) (gold); it is then quite possible that
   *zochel* is simply a Hebraicized *dachil*, the same meaning and the same
   etymology. The point is made by *Metzudas Tzion* (to Iyov 32:6) and repeated by
   rabbinic philologists such as Rabbi David Golumb and Rabbi Asher Weiser.

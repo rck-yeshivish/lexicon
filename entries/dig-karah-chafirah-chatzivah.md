@@ -26,7 +26,7 @@ sources:
   - wiaw:7302 "Spy versus Spy" (2017-06-17) https://articles.ohr.edu/articles/spy-versus-spy
   - ms:137-digging-deeper.md "Digging Deeper"
 authorities: [Malbim, Ibn Ezra, Ibn Ramoch, Meiri, Rabbi Yaakov Tzvi Mecklenburg, Netziv, Rav Hirsch, Rabbi Shaul Bruch, Rabbi Shlomo Pappenheim, Rabbi Yosef Kara, the Gemara, Rabbi Yitzchak Isaac Chaver]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Dig: karah / chafirah / chatzivah
 
@@ -100,15 +100,15 @@ Bava Basra 2:12).
   *nochri*, the foreigner one does not recognize, and *mechirah*, the commercial
   dealing that makes parties recognize one another, or by which a seller
   estranges himself from what he hands over. *Kur*, a furnace or kiln dug into
-  the ground; whence *kiyor*, a washing vessel shaped like a *kur*, *kikar*, a
+  the ground; whence *kiyor*, a washing vessel shaped like a *kur*, [*kikar*](bread-lechem-kikar-challah-pat.html#%D7%9B%D7%9B%D7%A8), a
   talent, the metal a *kur* processes at one time, *kirah*/*kirayim*, an oven
-  likewise dug in, and *kikar*, a loaf typically baked in a *kirah*. *Kar*, a
+  likewise dug in, and [*kikar*](plain-mishor-sharon-eil-kikar.html#%D7%9B%D7%9B%D7%A8), a loaf typically baked in a *kirah*. *Kar*, a
   fertile field whose borders were typically marked by digging ditches around
   it; whence *karim*, the fat animals that feed on it, *kor*, the measure of
-  grain a typical such field yields, *kikar*, an especially large *kar* with
+  grain a typical such field yields, [*kikar*](cake-ugah-chararah-gluskos.html#%D7%9B%D7%9B%D7%A8), an especially large *kar* with
   lush pasture, *kreiti*, knights granted fiefdoms over such lands, *ikar*, the
   peasant who works them, and *kerem*, a vineyard, land ripe for planting vines.
-  And *kares*, cutting, since digging breaks the parts of the earth apart from
+  And [*kares*](cutting-bokea-korea-gozer.html#%D7%9B%D7%A8%D7%AA), cutting, since digging breaks the parts of the earth apart from
   one another as cutting separates piece from piece.
 - The Gemara (*Sotah* 13a), in the name of Rabbi Shimon ben Yehotzadak: *kirah*
   means only selling, for in the coastal towns they call selling *kirah*.
@@ -128,7 +128,7 @@ Bava Kamma 5:5, Bava Basra 2:12).
   busybody).
 - Mecklenburg: in the sense of digging for information *chafirah* carries a
   negative color, hunting for something discreditable, and may be kin to
-  *cherpah*, disgrace (see the shame entry). In Moshe's retelling the spies'
+  [*cherpah*](shame-bushah-klimah-cherpah.html#%D7%97%D7%A8%D7%A4%D7%94), disgrace (see the shame entry). In Moshe's retelling the spies'
   mission is described as *veyachperu lanu es haaretz* (Devarim 1:22), the verb
   of digging, used of deliberately mining damning information, and Mecklenburg takes it there as
   their digging for negative information about the Land.

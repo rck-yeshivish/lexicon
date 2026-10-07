@@ -24,7 +24,7 @@ sources:
   - wiaw:7620 "G-d's Best Friend" (2018-02-03) https://articles.ohr.edu/articles/g-ds-best-friend
   - ms:122-g-ds-best-friend.md "G-d’s Best Friend"
 authorities: [Rabbi Elazar Rokeach of Worms, Rabbi Shlomo Aharon Wertheimer, Rashi, Maharsha, Targum Onkelos, Rabbi Mattisyahu HaYitzhari, Rabbi Shlomo Pappenheim]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Friend: reya / chaver / amis
 
@@ -100,7 +100,7 @@ you.
 
 Rabbi Mattisyahu HaYitzhari (on *Avos* 6:1): a *rei'a* is one who cleaves to his
 fellow and whose thoughts never part from him, in study, in public affairs, or
-in bodily matters; the word is from *ra'ayon*, thought (Koheles 1:17; Tehillim
+in bodily matters; the word is from [*ra'ayon*](thought-machshavah-hirhur-raayon.html#%D7%A8%D7%A2%D7%99%D7%95%D7%A0), thought (Koheles 1:17; Tehillim
 139:2, 139:17). So *bechol eis ohev harei'a, ve'ach letzarah yivaled* (Mishlei
 17:17): a true *rei'a* loves at every time, and hurries to his friend's trouble
 as though born that moment to be his brother. He reads *rei'im ahuvim* in the

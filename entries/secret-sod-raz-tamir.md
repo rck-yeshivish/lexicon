@@ -33,7 +33,7 @@ sources:
   - wiaw:10130 "Sukkos - Bereishis - Revealing the Secret" (2022-10-08) https://articles.ohr.edu/articles/sukkos-bereishis-revealing-the-secret
   - wiaw:11006 "Balak: Muzzled Up" (2023-07-01) https://articles.ohr.edu/articles/balak-muzzled-up
 authorities: [Ibn Janach, Radak, Rav Hirsch, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rashi, Malbim, Rabbi Avi Kobernick, Rabbi Eliyahu HaBachur, Rabbi Ernest Klein, Targum, Chida, Rabbi Dov Kook, Chassidei Ashkenaz, Rabbi Yitzchak Ibn Ghiyyat, Rabbi Elazar Lipa Gartenhaus, Academy of the Hebrew Language]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Secret: sod / raz / tamir (kamus, dvar seter)
 
@@ -165,15 +165,15 @@ the Sanskrit *rahasya*, both said to go back to Proto-Indo-Iranian *rajh*.
   5:3; Yeshayahu 40:23; Tehillim 2:2; Mishlei 8:15, 14:28, 31:4), from the same
   root, since such aristocrats were often privy to information the common people
   were not (see also Malbim to Mishlei 14:28 and *Shoresh Yesha*).
-- Rav Hirsch (to Tehillim 2:2) instead connects *roznim* to *resen*, the
+- Rav Hirsch (to Tehillim 2:2) instead connects *roznim* to [*resen*](muzzle-resen-meteg-zemam.html#%D7%A8%D7%A1%D7%A0), the
   mouthpiece put into a horse's or donkey's mouth to control it, through the
   interchange of samech and zayin: the *roznim* lead the government just as the
   *resen* leads an animal.
 
 Rabbi Reuven Chaim Klein suggests, as his own proposal, reading *raz* as a
-metathesis of *zar*, strange or foreign, since the information is withheld from
+metathesis of [*zar*](stranger-zar-nachri-hedyot.html#%D7%96%D7%A8), strange or foreign, since the information is withheld from
 others and so estranged from them. Rabbi Dov Kook of Tiberias mentions that the
-gematria of *raz*/*zar* equals that of *rahav*, the angelic representative of
+gematria of *raz*/[*zar*](resident-ger-toshav-ezrach.html#%D7%96%D7%A8) equals that of [*rahav*](egypt-mitzrayim-patros-rahav.html#%D7%A8%D7%94%D7%91), the angelic representative of
 Egypt, and of *bahar*, "at the mountain," the term for the mitzvos given at Har
 Sinai; Rabbi Klein says plainly that he has not merited to understand the secret
 behind those connections.

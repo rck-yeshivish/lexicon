@@ -21,7 +21,7 @@ words:
 sources:
   - wiaw:10994 "Chukas: The Right Site" (2023-06-17) https://articles.ohr.edu/articles/chukas-the-right-site
 authorities: [Targum Onkelos, Rashi, Rashbam, Rabbeinu Yosef Bechor Shor, Ibn Ezra, Eichah Rabbah, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Toviah ben Eliezer, Rabbeinu Meyuchas, Rabbi Menachem Ricanati, Rabbi Eliyahu HaBachur, Rabbi Yaakov Yehudah de Kassif, Rabbi Aharon Marcus, Rabbi Dr. Ernest Klein, Rabbi Dr. Yitzchak Greenblatt, Rabbi Joseph Perles, Dr. Alexander Kohut, Rabbi Shaul Goldman, HaKsav VeHaKabbalah]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Place: makom / atar / duchta
 
@@ -82,7 +82,7 @@ On *derech ha'atarim* itself the commentators split.
 
 - Most (*Eichah Rabbah* 1:21, Targum Onkelos, Menachem Ibn Saruk, Rashi,
   Rashbam, Rabbeinu Yosef Bechor Shor, Ibn Ezra, Radak) treat the ALEPH as
-  extraneous to the core root and read the word from *la'tur*, "to spy," so the
+  extraneous to the core root and read the word from [*la'tur*](spying-latur-leragel.html#%D7%AA%D7%95%D7%A8), "to spy," so the
   phrase names the route the Ten Spies had taken close to four decades earlier,
   entering the land from the south.
 - A second group (Rabbi Toviah ben Eliezer in *Pesikta Zutrata / Midrash Lekach

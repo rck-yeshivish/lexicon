@@ -28,7 +28,7 @@ sources:
   - wiaw:7009 "Fowl Language and Poultry" (2016-11-19) https://articles.ohr.edu/articles/fowl-language-and-poultry
   - ms:124-just-winging-it.md "Just Winging It"
 authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Rabbeinu Yonah Ibn Janach, Radak, Rashi, Rashbam, Chaim Tawil, Shadal]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Wing: kanaf / ever / agaf
 
@@ -85,7 +85,7 @@ itself.
   high that it is out of sight, as the thief works unseen.
 - Rabbi Pappenheim (*Yerios Shlomo*) assigns *kanaf* to the biliteral כ-ף but
   offers no thematic link, and his exposition of כ-ף as "receptacle" in *Cheshek
-  Shlomo* (whence *kaf*, the palm, and *kapayim*, the heavens draped over the
+  Shlomo* (whence *kaf*, the palm, and [*kapayim*](clouds-anan-av-eid-nasi-chaziz.html#%D7%9B%D7%A4), the heavens draped over the
   horizon like a dome) does not mention *kanaf* at all. Rabbi Klein surmises, in
   the absence of an explanation from Rabbi Pappenheim, that *kanaf* would then
   be the limb by which a bird reaches toward the *kapayim*.
@@ -97,8 +97,8 @@ itself.
   as of *ever*, is not root. He gives ג-ף the core sense of outward protrusion,
   apt for a wing, and puts in the same family *gap* or *guf*, the body, a
   person's outward projection as against the soul within, which, he also
-  suggests, is a person's means of moving about as wings are a bird's; *negef*
-  and *mageifah*, disease that spreads outward; and *gefen*, the cluster of
+  suggests, is a person's means of moving about as wings are a bird's; [*negef*](plague-dever-mageifah-negef.html#%D7%A0%D7%92%D7%A4)
+  and *mageifah*, disease that spreads outward; and [*gefen*](grapevine-gefen-sorek-shdeimah.html#%D7%92%D7%A4%D7%A0), the cluster of
   grapes spreading from its stem like wings.
 - Menachem Ibn Saruk compares the triliteral כ-נ-ף with the biliteral ג-ף: as
   *kanaf* means a wing and also the periphery of a place, so *gaf* in Mishlei

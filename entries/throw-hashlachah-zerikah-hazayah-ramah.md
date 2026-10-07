@@ -26,7 +26,7 @@ words:
 sources:
   - wiaw:8528 "A Real Toss Up" (2019-12-21) https://articles.ohr.edu/articles/a-real-toss-up
 authorities: [Rabbi Shlomo Pappenheim, Ramban, Maharal, Rashbam, Rashi, Malbim, Rabbi Yehoshua Hartman, Rabbi Moshe Shapiro, Menachem Ibn Saruk, Ibn Janach, Radak, Targum, Rabbi Ernest Klein, Avraham Even-Shoshan]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Throwing: hashlachah / zerikah / hazayah / ramah
 
@@ -87,11 +87,11 @@ pronunciation ches and chaf sound alike).
 - Linguists propose a similar theory, cited by Ernest Klein and Avraham
   Even-Shoshan in their dictionaries: the rare *shaphel* conjugation, in which
   an initial *shin* is not part of the root but denotes creating the situation
-  the root names (compare *shiabud* from עבד, *shichrur* from חרות, and Modern
+  the root names (compare *shiabud* from עבד, *shichrur* from [חרות](freedom-cheirus-chofesh-dror.html#%D7%97%D7%A8%D7%95%D7%AA), and Modern
   Hebrew *shichpul* and *shichtuv*). On that theory *hashlachah* comes from the
   two-letter root for going, and the *shin* makes it causing something to go
   from one place to another by throwing. Rabbi Moshe Shapiro applies the same
-  *shaphel* pattern to *shapir*, from *tiferes*/*pe'er*. (A folk etymology ties
+  *shaphel* pattern to [*shapir*](good-tov-noam-shapir.html#%D7%A9%D7%A4%D7%99%D7%A8), from *tiferes*/*pe'er*. (A folk etymology ties
   the surname Shapiro to *shapir*; historians derive it more likely from the
   German town Speyer.)
 

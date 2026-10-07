@@ -27,7 +27,7 @@ sources:
   - wiaw:11160 "Vayeshev: Mercantile Man" (2023-12-09) https://articles.ohr.edu/articles/vayeshev-mercantile-man
   - ms:060-mercantile-man.md "Mercantile Man"
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rashi, Rashbam, Ramban, Ibn Ezra, Ralbag, Malbim, Meiri, Metzudas Tzion, Rabbi Avraham Bedersi, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Shimon Yehuda Leib Goldblit, Rabbi Yosef Nechemias, Rabbi David Chaim Chelouche, Rabbi Eliyahu HaBachur, Rabbi Shlomo Fischer, Alexander Kohut, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Merchant: socher / rochel / cnaani (and tagar)
 
@@ -98,7 +98,7 @@ Root ס-ח-ר, about sixteen times in Tanach, with verbs for trading and nouns f
 merchandise; the Midianite *socharim* who passed by Yosef's pit and, the pasuk
 implies, bought him and sold him to the Yishmaelim (Bereishis 37:28). The root
 also carries "around": *secharchar* (Tehillim 38:11), round-going movement, and
-modern Hebrew *secharchoret*, dizziness; Targum's usual rendering of *saviv* is
+modern Hebrew *secharchoret*, dizziness; Targum's usual rendering of [*saviv*](around-saviv-heikef-afef-chug.html#%D7%A1%D7%91%D7%99%D7%91) is
 *s'chor*; and Chazal have the warning to a nazir who nears a vineyard, *lech
 lech, sechor sechor*, "go, go, around, around, do not approach the vineyard"
 (*Shabbos* 13a and parallels).
@@ -106,7 +106,7 @@ lech, sechor sechor*, "go, go, around, around, do not approach the vineyard"
   two unrelated meanings in one root.
 - Radak bridges them, since a merchant typically travels around.
 - Rabbi Moshe Tedeschi-Ashkenazi (1821-1898) suggests that perhaps *socher*
-  derives instead from *sahar*, "moon," the ches and hei interchanging, since
+  derives instead from [*sahar*](moon-yareach-levanah-sahar.html#%D7%A1%D7%94%D7%A8), "moon," the ches and hei interchanging, since
   just as the full moon is seen as a complete circle, so the *socher* goes
   around in a circuit selling his wares.
 
@@ -118,7 +118,7 @@ Seventeen times, mostly in Yechezkel, with a feminine *rocheles*. The adjacent
 taken for tale-mongers, carrying news and rumor from one town to the next.
 
 - Rashi (to Vayikra 19:16) reads the *kaf* as interchangeable with *gimmel*,
-  linking *rochel* to *regel*, "foot," and *meragel*, "spy"; Rabbi Avraham
+  linking *rochel* to [*regel*](foot-paam-regel.html#%D7%A8%D7%92%D7%9C), "foot," and *meragel*, "spy"; Rabbi Avraham
   Bedersi (*Chosam Tochnis*) explains that a merchant has in some ways to
   function like a spy, going place to place to scout out the best merchandise to
   buy and sell.

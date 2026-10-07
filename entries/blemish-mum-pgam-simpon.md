@@ -27,7 +27,7 @@ sources:
   - wiaw:11087 "An Article About Nothing (Part 2 of 2)" (2023-09-16) https://articles.ohr.edu/articles/an-article-about-nothing-part-2-of-2
   - ms:203-blemished-imperfections.md "Blemished Imperfections"
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Ernest Klein, Rav Hirsch, Rabbi Eliyahu HaBachur, Rashi, Sefer HeAruch, Rabbi Binyamin Mussafia, Rabbi Yaakov Dienna, Rabbi Yehudah Aryeh of Carpentras, Wilhelm Gesenius, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Blemish: mum / pgam / simpon
 
@@ -56,7 +56,7 @@ to a rule about voidable kiddushin, not a rule about bodies.
 The Torah's word for the defect that disqualifies a kohen from serving or an
 animal from the mizbeach, with its two lists at Vayikra 21:16 to 23 and 22:17 to
 25. Rabbi Shlomo Pappenheim (1740 to 1814): the source is the biliteral מ-ם, the
-smallest quantity, which gives *meumah*, "something," usually in the
+smallest quantity, which gives [*meumah*](nothing-hevel-rik-tohu-bohu.html#%D7%9E%D7%90%D7%95%D7%9E%D7%94), "something," usually in the
 negative, *lo meumah*, nothing at all (Bereishis 30:31, 39:23; Melachim I
 10:21). A *mum*, then, is a "something" whose presence or absence leaves the
 thing short of perfect: either lacking what completes it or carrying an extra

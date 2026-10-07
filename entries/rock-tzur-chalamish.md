@@ -29,7 +29,7 @@ sources:
   - wiaw:8000 "Like a Rock (Part 2)" (2018-11-24) https://articles.ohr.edu/articles/like-a-rock-part-2
   - ms:042-like-a-rock.md "Like a Rock"
 authorities: [Rabbi Shlomo Pappenheim, Malbim, Rabbi Yosef Kimchi, Rabbi Chaim Vital, Rabbi Yisrael Menachem Mendel Sacharov, Rabbi Chaim Friedlander, Rambam, Rabbi Moshe Teitelbaum, Radak, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Rock: tzur / chalamish (against sela)
 
@@ -56,7 +56,7 @@ with Rabbi Chaim Vital's calling a *tzur* the stone that gives fire.
 ## Distinctions
 
 ### tzur (צור)
-Both Rabbi Shlomo Pappenheim and Malbim: a *tzur* is harder than a *sela*.
+Both Rabbi Shlomo Pappenheim and Malbim: a *tzur* is harder than a [*sela*](rock-even-sela.html#%D7%A1%D7%9C%D7%A2).
 
 - For Rabbi Pappenheim the hardest types of rock are called *tzur*, and he ties
   the word to *tzarur*, cluster or bundle, since its components are packed so
@@ -75,7 +75,7 @@ hard that water in it is impossible. This fits neatly, Rabbi Klein says, with
 Rabbi Chaim Vital (1543-1620), who wrote that a *tzur*, or *tzur hachalamish*,
 is the stone that produces fire: a stone with water in it certainly could
 not make fire. Rabbi Yisrael Menachem Mendel Sacharov (d. 1966) points out that
-*hatzur* has the same gematria as *aish*, fire.
+*hatzur* has the same gematria as [*aish*](fire-aish-lehavah-shalheves-lapid.html#%D7%90%D7%A9), fire.
 
 Then the extended senses.
 - Rambam (*Moreh Nevuchim* 1:16): *tzur* means a mountain and a kind of hard

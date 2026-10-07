@@ -38,7 +38,7 @@ words:
 sources:
   - wiaw:9359 "Seasoning the Land (Part 2) - Nitzavim / Rosh Hashanah:" (2021-09-04) https://articles.ohr.edu/articles/seasoning-the-land-part-2-nitzavim-rosh-hashanah
 authorities: [Avos d'Rabbi Nasan, Metzudas Tzion, Malbim, Rashi, Rabbi Shlomo Pappenheim, Rabbi Yom Tov Tzahalon, Rabbi Shmuel Yaffe-Ashkenazi, Midrash Mishlei, Rabban Shimon ben Gamliel, Bereishis Rabbah, Radak, Ibn Ezra, Yerushalmi Shabbos, Rabbi David Chaim Chelouche, Rav Hirsch, Rabbi Avraham Bedersi]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Earth: taivel / arka / cheled (charavah, yabashah)
 
@@ -70,9 +70,9 @@ building or a sea.
 
 ## Where the authorities disagree
 
-**What *taivel* is against *eretz*.**
+**What *taivel* is against [*eretz*](land-eretz-adamah.html#%D7%90%D7%A8%D7%A6).**
 
-- Where the two stand together (Tehillim 90:2, 24:1), *Metzudas Tzion*: *eretz*
+- Where the two stand together (Tehillim 90:2, 24:1), *Metzudas Tzion*: [*eretz*](land-eretz-adamah-ratzon.html#%D7%90%D7%A8%D7%A6)
   is the uninhabited parts and *taivel* the inhabited.
 - Malbim similarly: *eretz* is the globe entire, *taivel* only what is settled.
 - Rashi (to Tehillim 24:1): *eretz* is Eretz Yisrael and *taivel* the rest of
@@ -120,7 +120,7 @@ them what to answer Babylonian pressure to serve idols.
 ### cheled (חלד) and chedel (חדל)
 *Cheled* (Tehillim 49:2) and *chedel* (Yeshayahu 38:11) seem to be metathesized
 forms of one word (see Ibn Ezra to Tehillim 39:6).
-- Radak (*Sefer HaShorashim*) makes both roots synonyms of *zman*, time,
+- Radak (*Sefer HaShorashim*) makes both roots synonyms of [*zman*](time-eit-zman-moed-shaah.html#%D7%96%D7%9E%D7%A0), time,
   presumably because the word bears on the ephemeral, temporary nature of This
   World and those who live in it.
 - Yerushalmi Shabbos 14:1: "dwellers of *cheled*" likens people to the weasel,
@@ -129,7 +129,7 @@ forms of one word (see Ibn Ezra to Tehillim 39:6).
   enjoy them (compare Taanis 23a).
 - Rabbi David Chaim Chelouche: CHES-LAMED, beginning, with LAMED-DALET, birth,
   since a man knows the day of his birth and not of his death.
-- Rav Hirsch (to Bereishis 11:8, Tehillim 17:14) ties in *chadal*, to cease, and
+- Rav Hirsch (to Bereishis 11:8, Tehillim 17:14) ties in [*chadal*](stopping-chadal-mana-chasach-kala-pasak.html#%D7%97%D7%93%D7%9C), to cease, and
   *chaludah*, rust: metal wears out, and so does a man.
 
 ### charavah (חרבה) and yabashah (יבשה)
@@ -146,7 +146,7 @@ Rabbinic Hebrew it came to be almost synonymous with *eretz* and *adamah*.
 
 ### The four and the seasons
 Rabban Shimon ben Gamliel (Bereishis Rabbah 13:12) ties four of the names to
-the seasons: *eretz* to spring, when the land brings forth (*ratz*) its produce;
+the seasons: *eretz* to spring, when the land brings forth ([*ratz*](fleeing-nas-boreach.html#%D7%A8%D7%A6)) its produce;
 *taivel* to summer, when the produce rots; *adamah* to autumn, when the ground
 breaks into clods; *arka* to winter, when the land is empty (*reik*).
 

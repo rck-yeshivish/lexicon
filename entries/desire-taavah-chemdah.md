@@ -25,7 +25,7 @@ sources:
   - wiaw:9346 "Seasoning the Land" (2021-08-28) https://articles.ohr.edu/articles/seasoning-the-land
   - ms:239-deleterious-desires.md "Deleterious Desires"
 authorities: [Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Malbim, Rabbi Tzvi Yehuda Kook, Rashi, Rabbi Eliyahu Benamozegh, Shadal, the Dubno Maggid, Rabbi Shlomo Aharon Wertheimer]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Desire: taavah / chemdah / chefetz
 
@@ -61,14 +61,14 @@ Yaakov*.
 
 **What chefetz is, against cheshek.**
 
-- Rabbi Klein: *chefetz* sits between *taavah* and *chemdah*, the food's own
+- Rabbi Klein: [*chefetz*](will-ratzon-chefetz.html#%D7%97%D7%A4%D7%A6) sits between *taavah* and *chemdah*, the food's own
   value joined to the eater's appetite.
 - The *Ohel Yaakov* of the Dubno Maggid (to Bereishis 34:19): *chefetz* is
   wanting a thing for no quality in it but from a strong inner pull without
   reason, while *cheshek* is wanting it for the gain one sees in it; so the
   Torah moves from *cheshek* to *chefetz* in Shechem's desire for Dinah.
 - HaKsav VeHaKabbalah (to Devarim 21:12): *cheshek* is the desire without logic.
-- Rabbi Shlomo Aharon Wertheimer (s.v. חשק, חפץ, רצון): others hold the
+- Rabbi Shlomo Aharon Wertheimer (s.v. חשק, [חפץ](land-eretz-adamah-ratzon.html#%D7%97%D7%A4%D7%A6), רצון): others hold the
   opposite of the *Ohel Yaakov*.
 
 ## Distinctions

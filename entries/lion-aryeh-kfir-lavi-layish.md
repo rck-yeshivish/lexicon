@@ -38,7 +38,7 @@ words:
 sources:
   - wiaw:8039 "Crouching Lion, Hidden Blessing" (2018-12-22) https://articles.ohr.edu/articles/crouching-lion-hidden-blessing
 authorities: [Rabbi Yochanan, Rabbi Levi, Tikkunei Zohar, Rabbi Menachem Azariah of Fano, Rabbi Chaim Palagi, Rashi, the Vilna Gaon, Baal HaTurim, Radak, Abarbanel, Rabbi Yosef Ibn Kaspi, Rashbam, Rabbi Yechiel Michel Stern, Rabbi Yeshayah of Trani, Rabbi Pinchas Eliyahu Horowitz, Rabbi Shlomo Pappenheim]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Lion: aryeh / kfir / lavi / layish (shachal, shachatz, gur)
 
@@ -75,14 +75,14 @@ Rabbi Yochanan (Sanhedrin 95a): Tanach has six words for a lion, *ari*, *kfir*,
 20) adds a seventh, *gur aryeh*, and explains each; a like tradition is in *Avos
 d'Rabbi Nasan*, version 2, ch. 43.
 
-- *Ari*, because everyone fears it, and *yirah* has the same letters. *Tikkunei
+- *Ari*, because everyone fears it, and [*yirah*](fear-eimah-pachad-yirah-daagah.html#%D7%99%D7%A8%D7%90%D7%94) has the same letters. *Tikkunei
   Zohar* 122a: *aryeh* rearranged is *re'iyah*, sight, the sense lions correspond
   to.
-- *Kfir*, because whoever sees a lion denies (*kofer*) his own life. Others read
+- *Kfir*, because whoever sees a lion denies ([*kofer*](heretic-min-apikores-kofer-meshumad.html#%D7%9B%D7%95%D7%A4%D7%A8)) his own life. Others read
   it from כ-פ-ר, to cover, as in the *kapores* over the Aron, for the mane that
   covers it.
 - *Lavi*, because a lion's roar seizes men's hearts (*levavos*). Rabbi Menachem
-  Azariah of Fano: because it eats the heart (*lev*) of its prey first.
+  Azariah of Fano: because it eats the heart ([*lev*](middle-emtza-merkaz-lev-tabur.html#%D7%9C%D7%91)) of its prey first.
 - *Layish*, because its teeth knead (*lash*) a man's skin like dough.
 - *Shachal*, because men fall sick (*choleh*) from fear before it.
 - *Shachatz*, because its teeth are sharp as arrows (*cheitz*).

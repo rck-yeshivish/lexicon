@@ -21,7 +21,7 @@ sources:
   - wiaw:11218 "Bo: Filling your Phylacteries" (2024-01-20) https://articles.ohr.edu/articles/bo-filling-your-phylacteries
   - ms:112-filling-your-phylacteries.md "Filling your Phylacteries"
 authorities: [Targum Onkelos, Targum Yonasan, Targum Neofiti, Peshitta, Ibn Ezra, Tosafos, Ibn Janach, Radak, Rashbam, Zohar, Rabbi Yaakov Tzvi Mecklenburg, Menachem Ibn Saruk, Rashi, Chizkuni, Rabbi Yosef Bechor Shor, Rabbi Yissocher Ber Eilenberg, Rabbi Mordechai Yaffe, Daas Mikra, Rabbi Shlomo Pappenheim, Rabbi Akiva, Rabbeinu Chaim Paltiel, Rabbi Avraham Saba, Abarbanel, Professor Hubert Grimme, Professor Jeffrey H. Tigay, the Rosh, the Tur, Maharal, Rabbi Yaakov Emden, Tiferes Yisrael, Rabbi Nosson of Rome, Sefer HeAruch, Rabbi Eliyahu HaBachur, Dr. Alexander Kohut, Pri Megadim, Rabbi Mordechai Abadi, Paneach Raza, Baal HaTurim, Noam Elimelech, Professor Moshe Weinfeld, Rabbi Pinchas Avraham Meyers, Rabbi Moshe Rachamim Shayo, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Phylacteries: totafos / tefillin
 
@@ -66,7 +66,7 @@ own, ט-ט-ף, which occurs nowhere in Tanach but here; so too Rashbam (to Shemo
 13:9) and possibly the Zohar (Bo 43a). Rabbi Yaakov Tzvi Mecklenburg (1785-1865)
 develops it: the tefillin are an ornament, a Jew's way of announcing to the world
 that he is proud to stand in Hashem's service. This also explains why the Gemara
-(Megillah 16b) sees *yakar* (Esther 8:16), "precious, honorable," as a reference
+(Megillah 16b) sees [*yakar*](honor-kavod-yakar.html#%D7%99%D7%A7%D7%A8) (Esther 8:16), "precious, honorable," as a reference
 to tefillin.
 
 **Something that has to do with seeing.** Tosafos' second suggestion, adopted by
@@ -101,7 +101,7 @@ is secondary or subordinate to a main element: *taf*, the children secondary to
 the household's master and mistress; a *tipah*, the small insignificant droplet
 that falls from a larger body of liquid; *matif*, prophetic or hortatory speech
 delivered in a controlled, slow way that resembles slowly falling drops; and (in
-*Yerios Shlomo*) *tinuf* (dirtiness), with a middle nun added, since what soils an
+*Yerios Shlomo*) [*tinuf*](dirt-zuhamah-lichluch-tinuf-goal.html#%D7%98%D7%99%D7%A0%D7%95%D7%A4) (dirtiness), with a middle nun added, since what soils an
 object is secondary to the object. A *totefes* on this reading is a sort of hat
 fastened on the head with straps, the hat being the main frontispiece and the
 straps merely secondary. He then concludes: the Torah is saying the head tefillin

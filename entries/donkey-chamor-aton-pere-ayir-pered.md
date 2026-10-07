@@ -38,7 +38,7 @@ sources:
   - wiaw:11871 "Balak: An Asinine Essay (Part 1/2)" (2025-07-12) https://articles.ohr.edu/articles/balak-an-asinine-essay-part-12
   - wiaw:11869 "Pinchas: An Asinine Essay (Part 2/2)" (2025-07-19) https://articles.ohr.edu/articles/pinchas-an-asinine-essay-part-22
 authorities: [Radak, Rashi, Rashbam, Rav Hirsch, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Shadal, Rabbi David Chaim Chelouche, Rav Hai Gaon, Rabbi Yehoshua Steinberg, Rabbi Aharon Marcus, Ibn Ezra, Targum Onkelos, Rabbi Ernest Klein, Rabbi Yehuda ben Simon]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Donkey: chamor / aton / pere / ayir / pered
 
@@ -120,7 +120,7 @@ quintessentially Semitic word, with parallels in Aramaic and Syriac (*atana*),
 Ugaritic (*atnt*), Arabic (*atan*) and Akkadian (*atanu*), all meaning "jenny".
 It remains an open question why Semitic has two separate root-words for the male
 and female donkey when the male and female of other animals often take one root,
-as with *par* and *parah*, *egel* and *eglah*, *keves* and *kivsah*.
+as with *par* and [*parah*](cattle-shor-par-egel-bakar.html#%D7%A4%D7%A8), *egel* and *eglah*, [*keves*](sheep-and-goats-seh-keves-ayil-eiz.html#%D7%9B%D7%91%D7%A9) and *kivsah*.
 
 - Rabbi David Chaim Chelouche (*Ohr Chadash* to Bereishis 12:16) proposes that
   *aton* derives from *es*, the particle that generally carries no meaning of
@@ -142,7 +142,7 @@ Two dissents, both resting on *chamor* itself being usable for a female.
   the domesticated female too, its young being an *ayir* (Bereishis 49:11).
 - Pappenheim (*Cheshek Shlomo*) rejects the feminine reading for the same reason
   and offers a stage of life: from ת ("sign, boundary") comes א-ת, the joining
-  of separate units, whence *es* and *atah*; *eisan* is strength from parts
+  of separate units, whence *es* and [*atah*](coming-biah-halichah-atah.html#%D7%90%D7%AA%D7%94); *eisan* is strength from parts
   tightly joined, and *aton* is the donkey at its full strength.
 
 ### pere (פרא) and arud (ערוד)
@@ -155,7 +155,7 @@ should have. Biblical Aramaic has *aradaya* once (Daniel 5:21), and Targumic
 Aramaic always renders *pere* as *arud*. Mishnaic Hebrew uses *arud*, not *pere*:
 crossing a *chamor* with an *arud* is forbidden despite their likeness (Kilayim
 1:6), and Rabbi Akiva sets the time for *Shema* by when one can tell an *arud*
-from a *chamor* (Berachos 9b). The Mishnah calls an *arud* a *chayah* (Kilayim
+from a *chamor* (Berachos 9b). The Mishnah calls an *arud* a [*chayah*](animal-behemah-chayah.html#%D7%97%D7%99%D7%94) (Kilayim
 8:6), matching Radak, and *arud* for the wild ass runs through the Bavli as well
 (Berachos 9b; Rosh Hashanah 3a; Bava Kamma 37a; Chullin 59a; Menachos 103b). The
 *arud* of Berachos 33a and Chullin 127a is an unrelated homonym, a poisonous
@@ -172,9 +172,9 @@ Zecharyah calls Mashiach "riding on a *chamor* and on an *ayir* the son of
 The classical lexicographers trace *ayir* to the triliteral ע-י-ר, but
 Pappenheim treats the *yud* as inessential and reads ע-ר, "revealing" (so *ir*,
 a city with squares open to the public; *ohr*, the skin that is revealed;
-*ervah*, nakedness; *taar*, the razor that reveals the skin; *ar*, an enemy who
+*ervah*, nakedness; [*taar*](razor-taar-morah.html#%D7%AA%D7%A2%D7%A8), the razor that reveals the skin; *ar*, an enemy who
 reveals his enmity; and *eir*, awake, since a sleeper's abilities show only on
-waking): as *naar* is the stage at which a youth's potential suddenly reveals
+waking): as [*naar*](youth-naar-almah-elem.html#%D7%A0%D7%A2%D7%A8) is the stage at which a youth's potential suddenly reveals
 itself, *ayir* is the adolescent donkey whose strength as a pack animal is now
 being revealed. In rabbinic usage the value shifts: Rashi (to Rosh Hashanah 3a)
 takes *ayir* as a young horse, and Rashbam (to Bava Basra 78b) gives *sayach*
@@ -218,7 +218,7 @@ father Tzivon's donkeys (Bereishis 36:24).
   Onkelos calls the Eimim people giants too (Devarim 2:10-11).
 
 On the name: Rashi (to Bereishis 36:24), following Chullin 7b, connects it to
-*eimah*, fear, although the word has no *aleph*, because the *yeimim* were
+[*eimah*](fear-eimah-pachad-yirah-daagah.html#%D7%90%D7%99%D7%9E%D7%94), fear, although the word has no *aleph*, because the *yeimim* were
 dangerous animals people feared; Pappenheim similarly ties it to the biliterals
 י-ם and ה-ם, which he defines as wildness or chaos; and Rabbi Yehuda ben Simon
 in the Yerushalmi reads it as Greek, a form of *hemionos*, from *hemi-*, half,

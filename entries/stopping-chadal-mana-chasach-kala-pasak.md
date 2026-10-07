@@ -33,7 +33,7 @@ sources:
   - wiaw:9359 "Seasoning the Land (Part 2) - Nitzavim / Rosh Hashanah:" (2021-09-04) https://articles.ohr.edu/articles/seasoning-the-land-part-2-nitzavim-rosh-hashanah
   - ms:103-stop-it.md "Stop It!"
 authorities: [Rabbi Yosef Grayever, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Malbim, Targum Onkelos, Rashi, Rabbi Yaakov Toledano, Rabbi Rafael Binyamin Posen, Rav Hirsch]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Stopping: chadal / mana / chasach / kala / pasak
 
@@ -153,7 +153,7 @@ and so they do (9:33), and Pharaoh sees they have ceased and hardens his heart
 - Rabbi Shlomo Pappenheim derives *mana* from the biliteral נ-ע, movement (as in
   *tenuah*), on his theory that in many roots an initial mem inverts the sense of the
   two-letter root that follows: ח-ק engrave against מחק erase, ל-ץ scorn against
-  מליץ defend, ר-ד rule against מרד rebel, so *mana* is the opposite of motion.
+  [מליץ](advocate-meilitz-praklit-sanegor.html#%D7%9E%D7%9C%D7%99%D7%A6) defend, ר-ד rule against מרד rebel, so *mana* is the opposite of motion.
 - Rabbi Shlomo Pappenheim (*Cheshek Shlomo* s.v. נע): *chasach* and *mana* are
   both withholding from joining, transitive and taking a mem. *Chasach* is
   mostly for the good, holding back from what is unnatural or unfit (*va'echsoch

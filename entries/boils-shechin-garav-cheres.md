@@ -27,7 +27,7 @@ sources:
   - wiaw:11523 "Ki Savo: No More Boils" (2024-09-21) https://articles.ohr.edu/articles/ki-savo-no-more-boils
   - ms:323-no-more-boils.md "No More Boils"
 authorities: [Rashi, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Avraham Bedersi, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yitzchak of Zeldin, Rabbi Natan Borgel, Rabbi Ernest Klein, David A. Clines, Rabbi Eliyahu Benamozegh, Mahari Kara]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Boils: shechin / garav / cheres / yalefet (avabuos)
 
@@ -96,7 +96,7 @@ of Biblical Hebrew renders *garav* "eczema" and *cheres* "itch.")
   interchanging. This would refer to the brownish color of a *shechin* spot on
   the skin.
 - Rabbi Shlomo Pappenheim: from the biliteral ש-ח, bending, which yields
-  *hishtachavaah* and *shuchah*, *shichah* and *shachas*, pits and caves cramped
+  [*hishtachavaah*](bowing-kidah-kriah-hishtachavaah.html#%D7%94%D7%A9%D7%AA%D7%97%D7%95%D7%95%D7%99%D7%94) and *shuchah*, *shichah* and *shachas*, pits and caves cramped
   enough that a man inside must bend, and from there *meshichah*, anointing,
   since oil softens what is hard and makes it bendable, so that the skin of one
   struck with *shechin* looks smeared with a poisonous emollient; he traces

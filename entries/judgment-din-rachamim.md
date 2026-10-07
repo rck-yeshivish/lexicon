@@ -22,7 +22,7 @@ sources:
   - wiaw:11715 "Tetzaveh/Purim: Do the Din" (2025-03-08) https://articles.ohr.edu/articles/tetzavehpurim-do-the-din
   - wiaw:10983 "True Love (Part 2/2)" (2023-11-18) https://articles.ohr.edu/articles/true-love-part-22
 authorities: [Ramban, the Kabbalists, Rabbi Reuven Chaim Klein, Rabbi Shlomo Pappenheim, Rav Hirsch]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Divine judgment: din / rachamim (tekiah / teruah)
 
@@ -70,7 +70,7 @@ province, the area under one common court system).
 ### rachamim (רחמים)
 The first philanthropist in the mashal hands out money without asking who is
 receiving it. The focus stays on the giver, so the giving is steady and does not
-depend on desert. That is *rachamim*, and tradition associates the four-letter
+depend on desert. That is [*rachamim*](mercy-rachum-chanun-chus-chemlah.html#%D7%A8%D7%97%D7%9E%D7%99%D7%9E), and tradition associates the four-letter
 Name with it. The Kabbalists sometimes express the same pair as *duchra* and
 *nukva*, and as *mashpia* and *mekabel*, influencer and recipient. In Rabbi
 Klein's imagery the sun, always the same disc and always emitting its own

@@ -19,7 +19,7 @@ sources:
   - wiaw:9153 "Pesach: The Sickle and the Exile" (2021-03-27) https://articles.ohr.edu/articles/pesach-the-sickle-and-the-exile
   - ms:225-the-sickle-and-the-exile.md "The Sickle and the Exile"
 authorities: [Sifrei, Targum, Radak, Rambam, Rav Hirsch, Rabbi David Chaim Chelouche, Rabbi Moshe David Valle, Rabbi Chaim Vital, Rabbi Shlomo Pappenheim, Dr. Shmuel Yeivin, Dr. Shlomo Mandelkorn, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Sickle: chermesh / magal
 
@@ -77,13 +77,13 @@ Roots proposed:
   מ-ש ("move"), since the tool cuts, that is, creates a hole in the grain, and
   lets it be moved from where it stood.
 - Dr. Shmuel Yeivin (1896-1982), the Israeli archaeologist, further suggests
-  that *chermesh* is related to *chalamish*, flintstone, given the
+  that *chermesh* is related to [*chalamish*](rock-tzur-chalamish.html#%D7%97%D7%9C%D7%9E%D7%99%D7%A9), flintstone, given the
   interchangeability of reish and lamed, and proposes on that basis that
   perhaps the *chermesh* was a cruder harvesting tool made of stone, from the
   earlier Stone Age, while the *magal* was a more advanced version of the same
   tool made of metal, from the Bronze or Iron Age.
 - Rabbi Moshe David Valle (1697-1777), the Italian mekubal: a portmanteau of
-  *cherem* and *aish*, associating *chermesh* with the realm of din, as against
+  *cherem* and [*aish*](fire-aish-lehavah-shalheves-lapid.html#%D7%90%D7%A9), associating *chermesh* with the realm of din, as against
   *magal*, which he takes as alluding to the realm of rachamim. Alternatively he
   reads *chermesh* as an acronym for *chafetz retzono marbeh sheilaso*, that the
   more a man tries to attain all his wants the needier he ends up.
@@ -127,9 +127,9 @@ up in the nevi'im, while Devarim uses the more archaic *chermesh*.
 
 Rabbi Shlomo Pappenheim of Breslau (1740-1814): the root is ג-ל, whose primary
 sense is "round," whence *gal* (a heap of stones in a circular formation),
-*galgal* (wheel) and *megillah* (a scroll, which is rolled up); the *magal*
+*galgal* (wheel) and [*megillah*](book-sefer-iggeret-megillah.html#%D7%9E%D7%92%D7%99%D7%9C%D7%94) (a scroll, which is rolled up); the *magal*
 belongs there because the sickle's blade is curved and almost forms a circle. He
-traces *galus* and *geulah* to the same two-letter root. Rabbi Klein calls
+traces *galus* and [*geulah*](redemption-geulah-pidyon.html#%D7%92%D7%90%D7%95%D7%9C%D7%94) to the same two-letter root. Rabbi Klein calls
 Pappenheim's own way of connecting those two to the core sense of ג-ל a bit
 complex, suggests instead that the connection lies in the cyclical nature of
 the exile-redemption-exile pattern that prevails until the final geulah, and

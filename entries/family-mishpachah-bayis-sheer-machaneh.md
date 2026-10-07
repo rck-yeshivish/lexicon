@@ -32,7 +32,7 @@ words:
 sources:
   - wiaw:9448 "Family Matters" (2021-11-20) https://articles.ohr.edu/articles/family-matters
 authorities: [Menachem Ibn Saruk, Ibn Janach, Ibn Chayyuj, Radak, Rashi, Rabbi Shlomo Pappenheim, Rabbi Samson Raphael Hirsch, Rabbi Yehudah Aryeh of Carpentras, HaKtav V'HaKabbalah, Rabbi Aharon Marcus, Rabbi Zev Hoberman, Rambam, Sefer HeAruch, Rabbi Eliyahu HaBachur, Rabbi Gedaliah Lipschutz, Rabbi Eliezer Herstik, Alexander Kohut]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Family: mishpachah / bayis / machaneh / she'er
 
@@ -61,7 +61,7 @@ an **entourage** or retinue, human or angelic.
 ### mishpachah (משפחה)
 
 - Ibn Saruk, Ibn Janach, and Radak trace it to ש-פ-ח but split the root's sense
-  in two, unconnected: "maidservant" (*shifchah*) and "family/clan"
+  in two, unconnected: "maidservant" ([*shifchah*](handmaid-amah-shifchah-eved.html#%D7%A9%D7%A4%D7%97%D7%94)) and "family/clan"
   (*mishpachah*).
 - Rabbi Yehudah Aryeh of Carpentras (*Ohalei Yehuda*), tracing the word instead
   to the root sin/samech-peh-ches, reads a single core sense of "attachment": a
@@ -105,7 +105,7 @@ later *tachanah* (bus stop), *chanayah* (parking lot), and *chanus*
 ### she'er (שאר)
 Ibn Saruk gives three senses: remnant, food, and flesh. Radak takes the last two
 to be related, seemingly finding the commonality in "meat," a staple food
-that is also flesh; this is comparable to *lechem*, which means
+that is also flesh; this is comparable to [*lechem*](bread-lechem-kikar-challah-pat.html#%D7%9C%D7%97%D7%9E), which means
 food in general and sometimes meat in particular. "Relative" grows out of the
 "flesh" sense (Vayikra 18:6), presumably because kin share a common fleshy
 source in one common forebear, as Adam said of Chavah, "bone of my bones and
@@ -140,7 +140,7 @@ On its origin:
   Eliezer Herstik objects that he fails to see how this clarifies the word's
   meaning.
 - Rambam (*Moreh Nevuchim* 2:6) says it is the Greek for "camp" (rendered
-  *machaneh* in the standard Hebrew, *tzava* in the Kapach edition), and *Sefer
+  *machaneh* in the standard Hebrew, [*tzava*](splendor-tzvi-tzivyon-tzava.html#%D7%A6%D7%91%D7%90) in the Kapach edition), and *Sefer
   HaAruch* defines it as a company of soldiers.
 - Rabbi Eliyahu HaBachur (*Sefer HaTishbi*) reads it with an initial feh rather
   than peh and a chirik under the mem rather than a patach, and on that reading

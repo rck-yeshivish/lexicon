@@ -37,7 +37,7 @@ words:
 sources:
   - wiaw:8287 "On Clouds" (2019-06-15) https://articles.ohr.edu/articles/on-clouds
 authorities: [Talmud Yerushalmi, Midrash Tehillim, Bereishis Rabbah, Rashi, Ibn Ezra, Rabbeinu Bachya, Sefer HaChochmah, Peirush HaRokeach, Rabbi Shlomo Pappenheim, Rabbi Shlomo of Urbino, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Rabbi Yehudah Ibn Balaam, Midrash Lekach Tov, Metzudas Tzion, Rabbi Yaakov Chaim Sofer, Zohar]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Clouds: anan / av / eid / nasi / chaziz
 
@@ -145,7 +145,7 @@ commentators, Rashi among them, and
 by *Midrash Chuppas Eliyahu Rabbah*, which counts six synonyms; *Metzudas Tzion*
 explains that clouds are a *kippah* over one's head. Pappenheim and others
 dissent, taking *kapayim* as the sky as a whole. Rabbi Yaakov Chaim Sofer points
-to an eighth possible synonym: *Peirush HaRokeach* on Bereishis 49:25 reads *shadayim* there as
+to an eighth possible synonym: *Peirush HaRokeach* on Bereishis 49:25 reads [*shadayim*](breast-shadayim-dadim-atinim.html#%D7%A9%D7%93%D7%99%D7%9E) there as
 clouds emptying out water the way a nursing mother's breasts empty out milk.
 
 ## Rendering guidance

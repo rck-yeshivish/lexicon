@@ -18,7 +18,7 @@ sources:
   - wiaw:7061 "Olives and Oil" (2016-12-24) https://articles.ohr.edu/articles/olives-and-oil
   - ms:079-olives-and-oil.md "Olives and Oil"
 authorities: [Menachem Ibn Saruk, Radak, Rabbi Yosef Kimchi, Ibn Ezra, Rashi, Rabbi Yitzchak Zev Yadler, Chizkuni, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-23
+updated: 2026-10-06
 ---
 # Oil: shemen / yitzhar
 
@@ -48,7 +48,7 @@ Three possible ways of differentiating the words, and they do not reduce to
 one; none is chosen over the others.
 
 1. **By species.** Menachem Ibn Saruk defines *yitzhar* as olive oil, while
-   *shemen* answers to *shuman* and *shamen*, fat, and names the fatty,
+   *shemen* answers to [*shuman*](fat-cheilev-shuman-pader.html#%D7%A9%D7%95%D7%9E%D7%A0) and *shamen*, fat, and names the fatty,
    glyceride property of oil. On that basis Rabbi Klein argues, as his own
    inference rather than Ibn Saruk's stated distinction, that *yitzhar* means
    olive oil by definition and *shemen* may mean oil of any kind. The phrase

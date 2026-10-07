@@ -30,7 +30,7 @@ words:
 sources:
   - wiaw:11006 "Balak: Muzzled Up" (2023-07-01) https://articles.ohr.edu/articles/balak-muzzled-up
 authorities: [Radak, Rashi, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi, Rabbi Moshe Tedeschi-Ashkenazi, Rav Hirsch, Rabbi Yehudah Aryeh of Carpentras, Rabbi Aharon Marcus, Rabbi Yehoshua Steinberg, Rabbi Yaakov Tzvi Mecklenburg, Shadal, Rabbi Amitai Ben-David, Menachem Ibn Saruk, Yonah Ibn Janach, Shlomo Ibn Parchon, Dr. David J. A. Clines, Dr. Alexander Kohut]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Muzzle: resen / meteg / zemam (prumbia, afsar)
 
@@ -83,7 +83,7 @@ four as the mouthpiece (Yeshayahu 30:28, Iyov 30:11, Iyov 41:5, Tehillim 32:9).
   samech/zayin interchange: the *roznim* steer the state as the *resen* steers
   the beast.
 - Rabbi Yehudah Aryeh of Carpentras (*Ohalei Yehuda*) reads it as a portmanteau
-  of *ratz* and *ein*, "no running."
+  of [*ratz*](fleeing-nas-boreach.html#%D7%A8%D7%A6) and *ein*, "no running."
 
 ### meteg (מתג)
 Also five occurrences (Shmuel II 8:1, Melachim II 19:28, Yeshayahu 37:29,
@@ -92,7 +92,7 @@ Mishlei 26:3, Tehillim 32:9).
   the animal, and he notes that it is not built like a *resen*, without fully
   explaining how they differ.
 - *Ohalei Yehuda* offers two etymologies by letter-interchange: gimmel for kuf,
-  linking *meteg* to *matok* (sweet), since control of one's beast is desirable
+  linking *meteg* to [*matok*](sweet-matok-areiv-naim.html#%D7%9E%D7%AA%D7%95%D7%A7) (sweet), since control of one's beast is desirable
   and enjoyable to the rider (Rabbi Klein adds his own version: just as a man
   wants to keep something sweet in his mouth, so does a rider want to keep the
   *meteg* in his horse's mouth); or mem for nun with gimmel for kuf, linking it
@@ -126,7 +126,7 @@ together, Targum to Tehillim 32:9 distinguishes them: *meteg* becomes *zemama*,
 ### zemam (זמם)
 The Aramaic and rabbinic term for the muzzle. The Torah forbids muzzling an
 animal at its work (Devarim 25:4), and the Mishnah (*Terumos* 9:3), ruling that
-one threshing *terumah* should hang a basket of the same species from the
+one threshing [*terumah*](waving-terumah-tenufah.html#%D7%AA%D7%A8%D7%95%D7%9E%D7%94) should hang a basket of the same species from the
 animal's neck so that it not be restrained from eating, uses the verb *zomem*
 for muzzling. *Bereishis Rabbah* 41:5, Targum Yonasan and Targum Yerushalmi (to
 Bereishis 13:7), relating the tradition Rashi cites there, all use cognates of
@@ -139,7 +139,7 @@ licentious scheme of Vayikra 18:17 and 20:14.
 
 - Rabbi Shlomo Pappenheim: the core of biliteral ז-ם is "intellectual decision,"
   yielding *zamam*, *yuzma*, *zimah* (the mind's decision to do wrong), *nezem*
-  (the nose-ring that entices toward *zimah*) and even *zman*, time being
+  (the nose-ring that entices toward *zimah*) and even [*zman*](time-eit-zman-moed-shaah.html#%D7%96%D7%9E%D7%A0), time being
   graspable only by the intellect; he does not connect the muzzle.
 - Rabbi Yaakov Tzvi Mecklenburg opens the way to a bridge: an intellectual
   decision **closes off** the other options, and so *nezem* is the ring that

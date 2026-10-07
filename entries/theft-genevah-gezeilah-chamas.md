@@ -27,7 +27,7 @@ sources:
   - wiaw:8613 "Stealing and Robbing" (2020-02-22) https://articles.ohr.edu/articles/stealing-and-robbing
   - ms:133-stealing-and-robbing.md "Stealing and Robbing"
 authorities: [Bereishis Rabbah, Rambam, S'ma, Rashi, Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Netziv, Rabbi Ernest Klein, Dr. Chaim Tawil, Kesef Mishneh, Lechem Mishneh, Even HaAzel, Rabbi Moshe Ibn Ezra, Shadal]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Theft: genevah / gezeilah / chamas / listim
 
@@ -101,7 +101,7 @@ penalties. (By Torah tradition the *lo tignov* of the Aseres HaDibros, Shemos
 - Rabbi Shlomo Pappenheim and others give the two-letter ג-ז the sense of
   shaving or trimming, a cut that leaves some parts attached and some detached:
   *geiz* (the grass left after trimming, Tehillim 72:6), *gozez* (shearing,
-  Bereishis 31:19, 38:12), *gazam* (a locust that eats some produce and leaves
+  Bereishis 31:19, 38:12), [*gazam*](locust-arbeh-gazam-yelek-chasil.html#%D7%92%D7%96%D7%9E) (a locust that eats some produce and leaves
   the rest), *geza* (a tree with its top cut off), *gazis* (hewn stone). Rabbi
   Pappenheim does not explicitly connect *gezel* to this root, since the lamed
   does not fit his theory; Rabbi Reuven Chaim Klein argues it fits all the same,

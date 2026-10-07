@@ -32,7 +32,7 @@ words:
 sources:
   - wiaw:11205 "Vaera: The Vertically-Challenged" (2024-01-13) https://articles.ohr.edu/articles/vaera-the-vertically-challenged
 authorities: [Rashbam, Radak, Sefer HeAruch, Rashi, Mahari Kara, Rabbi Yehoshua Steinberg, Targum Yonasan, Rabbi Eliyahu HaBachur, Ibn Janach, Ibn Chayyuj, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Binyamin Mussafia, Rabbi Dr. Ernest Klein, Dr. Alexander Kohut, Professor Michael Sokoloff]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Shortness of stature: gamad / namuch / gutz / nanas
 
@@ -107,11 +107,11 @@ word for a short person.
 Not in Tanach; several times in the Mishnah (*Kilayim* 4:7, *Eruvin* 9:1,
 *Zevachim* 1:2), and like *gamad* used of anything low, a short fence as readily
 as a short man. Rabbi Dr. Ernest Klein, echoing Bachur's *Sefer HaTishbi*, explains
-*namuch* as a secondary base form of the *nifal* of biblical *mach*, poor or
+*namuch* as a secondary base form of the *nifal* of biblical [*mach*](poor-ani-evyon-dal-rash.html#%D7%9E%D7%9B), poor or
 lowered: the grammatical nun prefixed to *mach* denotes one who has become
 lowered, and the resulting word, which Bachur vocalizes *namoch*, is then handled
 as though the nun belonged to the root. The comparison is to the Rabbinic
-*terumah*, derived from the biblical reish-(vav)-mem of raising and lifting and
+[*terumah*](waving-terumah-tenufah.html#%D7%AA%D7%A8%D7%95%D7%9E%D7%94), derived from the biblical reish-(vav)-mem of raising and lifting and
 then treated as though the initial tav were root. The root of *mach* itself is
 given as mem-vav-kaf (Ibn Janach and Radak), mem-kaf-kaf (Ibn Chayyuj), mem-kaf
 (Ibn Saruk), or a bare kaf (Rabbi Pappenheim). For more on *mach*, see Rabbi
@@ -121,7 +121,7 @@ entry here on the words for poverty.
 ### gutz (גוץ)
 Neither biblical nor Mishnaic, but used several times in the Gemara, masculine
 *gutz* and feminine *gutza*. Yevamos 106b discusses the halachic differences in
-*chalitzah* where the man or the woman is of especially short stature. Bava
+[*chalitzah*](slipping-off-shemittah-chalitzah-shalaf.html#%D7%97%D7%9C%D7%99%D7%A6%D7%94) where the man or the woman is of especially short stature. Bava
 Metzia 59a cites a popular adage, that if your wife is short you should crouch
 down to listen to her. Bava Metzia 27b rules that a corpse being merely tall or
 short is not enough of a clue to confirm the identity of the deceased. Megillah

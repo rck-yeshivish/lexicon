@@ -24,7 +24,7 @@ sources:
   - wiaw:10970 "All Tied Up" (2023-06-03) https://articles.ohr.edu/articles/all-tied-up
   - ms:287-brilliant-prohibitions.md "Brilliant Prohibitions"
 authorities: [Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Ibn Parchon, Rabbi Avraham Maimuni, Rabbeinu Efrayim, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Yehuda Ibn Chayyuj, Rabbi Jose Faur, Malbim, Rasag]
-updated: 2026-09-24
+updated: 2026-10-06
 ---
 # Prohibition: azharah / issur / lav
 
@@ -77,13 +77,13 @@ punishment aspect (for example, *Yevamos* 3b and *Sifrei Naso* 1).
   Shavuos list both kinds of mitzvah, positive commandments alongside the prohibitions.
 
 Not everybody agrees that the root is the triliteral ז-ה-ר. Some trace the word
-to the two-letter ז-ר, estrangement, as in *zar*; others go as far as the single
+to the two-letter ז-ר, estrangement, as in [*zar*](stranger-zar-nachri-hedyot.html#%D7%96%D7%A8); others go as far as the single
 letter *zayin*.
 
 - One cognate is in fact spelled without the *hei*, "and you shall warn
   (*ve'hizartem*) the Children of Israel from their impurities" (Vayikra 15:31),
   and Rabbeinu Efrayim touches on this point in noting that to warn a person is
-  to tell him to make himself *zar*, estranged, from the thing he has been
+  to tell him to make himself [*zar*](resident-ger-toshav-ezrach.html#%D7%96%D7%A8), estranged, from the thing he has been
   warned against.
 - Rabbi Shlomo Pappenheim of Breslau similarly works from ז-ר, one group of
   whose derivatives is headed by *zoreh*, to scatter (Shemos 32:20, Vayikra
@@ -105,7 +105,7 @@ Rabbi Aharon Marcus traces *zohar* to the monoliteral root *zayin*, which he
 takes as the visual revelation of what the eye can see, the Hebrew words derived
 from it belonging to the realm of the ocular: *zeh*, "this," which by rabbinic
 tradition always refers to something perceivable by sight; *zach*, pure;
-*zahav*, gold, shiny and sparkling; *ziv*, countenance, which dazzles the eyes;
+[*zahav*](gold-zahav-paz-kesem-charutz.html#%D7%96%D7%94%D7%91), gold, shiny and sparkling; *ziv*, countenance, which dazzles the eyes;
 *zikim*/*zekukin*, sparks of fire, which glitter and shimmer; *zanav*, tail, and
 *ozen*, ear, both of which protrude and are quite visible; and *chazah*, either
 vision itself or *chazeh*, the chest, a very visible part of the body. *Zohar*

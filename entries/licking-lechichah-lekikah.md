@@ -21,7 +21,7 @@ sources:
   - wiaw:11448 "Balak: Lick It Up" (2024-07-20) https://articles.ohr.edu/articles/balak-lick-it-up
   - ms:261-lick-it-up.md "Lick It Up"
 authorities: [Menachem Ibn Saruk, Ibn Chayyuj, Ibn Janach, Radak, Ibn Parchon, Rabbi Shlomo of Urbino, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Yaakov Berger, Rabbi Yaakov Yehudah Zilberberg, Rabbi Asher Weiser, Ibn Ezra, Yefet ben Ali, Baal HaTurim, Wilhelm Gesenius, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Licking: lechichah / lekikah
 
@@ -83,7 +83,7 @@ fulfilled 22:38).
 
 - Rabbi Pappenheim gives the biliteral core as "detaching something small from
   something larger," since a lick takes only a little at a time; on that core he
-  groups *yelek*, the grasshopper that typically feeds by *lekikah* (Nachum
+  groups [*yelek*](locust-arbeh-gazam-yelek-chasil.html#%D7%99%D7%9C%D7%A7), the grasshopper that typically feeds by *lekikah* (Nachum
   3:16; Yoel 1:4, 2:25), for which Ibn Ezra (to Yoel 1:4) cites a similar
   explanation in the name of the Karaite exegete Yefet ben Ali; *melikah*, the
   Kohen detaching a bird's head from its body with his finger, the head being

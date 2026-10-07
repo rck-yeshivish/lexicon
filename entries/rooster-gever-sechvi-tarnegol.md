@@ -28,7 +28,7 @@ sources:
   - wiaw:9288 "Welcome to Rooster City" (2021-07-10) https://articles.ohr.edu/articles/welcome-to-rooster-city
   - ms:277-welcome-to-rooster-city.md "Welcome to Rooster City"
 authorities: [Targum Yonasan, Rabbeinu Efrayim, Peirush HaRokeach, Siddur HaRokeach, Rabbeinu Bachya, Rabbi Menachem Tziyyoni, Ibn Janach, Rabbeinu Chananel, Rashi, Ibn Ezra, Radak, Rosh, Tur, Abudarham, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Rabbi Meir HaLevi Abulafia, Rabbi Chaim Futernik, Rabbi Yehuda Felix, Daas Mikra, Rabbi Ernest Klein, Jessica Lamont]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Rooster: gever / sechvi / ziz sadai / tarnegol
 
@@ -94,7 +94,7 @@ deity: the men of Bavel brought Sukkos Benos and the men of Kutha made Nergal
   letters of *nergal*, or *nergal* is from *ragil*, frequent, since the
   rooster is understood to copulate most often.
 - The Yerushalmi (Avodah Zarah 3:2) understands Nergal differently, as a
-  foot-shaped idol, from *regel*, treating the nun as not integral to the core
+  foot-shaped idol, from [*regel*](foot-paam-regel.html#%D7%A8%D7%92%D7%9C), treating the nun as not integral to the core
   meaning.
 - On the strength of the Sanhedrin passage Rabbi Chaim Futernik surmises that
   *sechvi* in the sense of rooster is itself related to the name Sukkos Benos.
@@ -102,7 +102,7 @@ deity: the men of Bavel brought Sukkos Benos and the men of Kutha made Nergal
 ## Distinctions
 
 ### gever (גבר)
-Root ג-ב-ר, seemingly a cognate of *gevurah*. Rabbeinu Efrayim: a rooster is
+Root ג-ב-ר, seemingly a cognate of [*gevurah*](strength-koach-gevurah-ometz-chozek.html#%D7%92%D7%91%D7%95%D7%A8%D7%94). Rabbeinu Efrayim: a rooster is
 called *gever* because its voice is distinct among birds as a man's is from a
 woman's. The Mishnah uses "the call of the *gever*" three times for daybreak
 (Yoma 1:8, Sukkah 5:4, Tamid 1:2, and see Yoma 20b), and Targum Yonasan (to

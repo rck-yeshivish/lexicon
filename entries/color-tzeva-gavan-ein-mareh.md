@@ -27,7 +27,7 @@ sources:
   - wiaw:11705 "Terumah: Color Me" (2025-03-01) https://articles.ohr.edu/articles/terumah-color-me
   - ms:141-color-me.md "Color Me"
 authorities: [Radak, Rashi, Malbim, Shadal, Maharal, Raavad I, Rambam, Menachem Ibn Saruk, Rabbi Nosson of Rome, Rabbi Eliyahu HaBachur, Rabbi Aharon Fuld, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Rabbi Shmuel Yehudah Steiger, Rabbi Meir Hellman, Rabbi Shalom Pushinsky, Rabbi Ernest Klein, Alexander Kohut, Aharon Aaronsohn, Gershom Scholem]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Color: tzeva / gavan / ein / mareh
 
@@ -64,7 +64,7 @@ both name a thing's natural look, while *tzeva* is an artificial color produced 
 or dyeing.
 
 **How wide ein reaches.** Raavad I (*Emunah HaRamah* 1:6) explains why it means
-color: the eye is the organ that detects color, exactly as *lashon* (tongue) and
+color: the eye is the organ that detects color, exactly as [*lashon*](language-safah-lashon.html#%D7%9C%D7%A9%D7%95%D7%A0) (tongue) and
 *safah* (lip) came to mean language. The Maharal (*Gur Aryeh* to Vayikra 13:5)
 likewise takes *ein* to mean color primarily, and adds that it can name any
 property by which one thing is compared to another, even where nothing
@@ -121,9 +121,9 @@ hundred and sixty-five colors are its *tzivonim* (*Tanchuma Tazria* 2; see
 *Bereishis Rabbah* 7:4). A man who is superficial or two-faced is sometimes
 called *tzavua*, literally colored, because, as Rashi explains (to *Sotah* 22b), the
 color of the outside does not match the inside. Rambam uses the root for dyeing
-the hair black (*Avodah Zarah* 12:10), the coloring of *tzitzis* (*Tzitzis*
+the hair black (*Avodah Zarah* 12:10), the coloring of [*tzitzis*](fringes-tzitzis-gedilim-petil.html#%D7%A6%D7%99%D7%A6%D7%99%D7%AA) (*Tzitzis*
 2:3), dyeing on Shabbos (*Shabbos* 9:13), red spotting (*Issurei Biah* 9:36 and
-*Metamei Mishkav U'Moshav* 4:11), and *shemittah* fruit used for dyeing
+*Metamei Mishkav U'Moshav* 4:11), and [*shemittah*](slipping-off-shemittah-chalitzah-shalaf.html#%D7%A9%D7%9E%D7%99%D7%98%D7%94) fruit used for dyeing
 (*Shemittah* 5:1).
 
 Gershom Scholem ("Colours and Their Symbolism in Jewish Tradition and
@@ -158,13 +158,13 @@ its color until it is inseparable from it.
   control what he grasps, which is why the plagues are "the finger of Hashem"
   (Shemos 8:15) and the Luchos are written with His Finger (Shemos 31:18).
 - Rabbi Shmuel Yehudah Steiger (*Avnei Shayish*) reads the two-letter string צ-ב
-  throughout as binding and gathering: *tzava* (an army gathered), *tzover*
-  (collecting), *tzibbur* (a public), and here the colorant bound to the cloth.
+  throughout as binding and gathering: [*tzava*](splendor-tzvi-tzivyon-tzava.html#%D7%A6%D7%91%D7%90) (an army gathered), *tzover*
+  (collecting), [*tzibbur*](public-rabim-tzibbur-parhessya-pumbi.html#%D7%A6%D7%99%D7%91%D7%95%D7%A8) (a public), and here the colorant bound to the cloth.
 
 ### ein (עין)
 The construct of *ayin*, eye. In many cases it names the picture the eye holds,
 and in some cases one aspect of it, the thing's color: the manna whose color was like the color of
-*bedolach*, *eino k'ein habedolach* (Bamidbar 11:7), and the *tzaraas* spot that
+*bedolach*, *eino k'ein habedolach* (Bamidbar 11:7), and the [*tzaraas*](leprosy-tzaraas-nega-metzora.html#%D7%A6%D7%A8%D7%A2%D7%AA) spot that
 "stands in its color" without lightening or darkening (Vayikra 13:5). Rambam,
 who sometimes uses *tzeva* for colors and coloring, in other cases consistently
 uses *ein*: the *galgalim* have no physical

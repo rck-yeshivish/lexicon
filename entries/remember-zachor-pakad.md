@@ -22,7 +22,7 @@ sources:
   - wiaw:9110 "Ki Tisa: Remember Forever" (2021-03-06) https://articles.ohr.edu/articles/ki-tisa-remember-forever
   - ms:163-parshas-zachor-remember-forever.md "Parshas Zachor: Remember Forever"
 authorities: [Rabbi Moshe Ibn Ezra, Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo of Urbino, Rabbi Saadia ben David Al-Dhamari, Rashbatz, Rabbi Moshe de Leon, Rabbi Naftali Hertz Treves, Kedushas Levi, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Asher Weiser, Rashi, Kli Yakar, Shadal, the Rokeach, Mahari Kara, Rashbam, Chizkuni, Sforno]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Remember: zachor / pakad
 
@@ -67,7 +67,7 @@ Root ז-כ-ר.
 - The Rokeach (*Peirush HaRokeach*, Shemos, p. 118) sets four verbs in a row.
   *Zechirah* is of what one has seen, as *lema'an tizkor es yom tzeischa*
   (Devarim 16:3) and *zachor es yom haShabbos*. *Shemirah* is keeping for a
-  time, as *ve'aviv shamar es hadavar* (Bereishis 37:11); *netirah*, keeping for
+  time, as *ve'aviv shamar es hadavar* (Bereishis 37:11); [*netirah*](guard-shemirah-netzirah-netirah.html#%D7%A0%D7%98%D7%99%D7%A8%D7%94), keeping for
   a later time, as *lo sitor* (Vayikra 19:18); and *netzirah*, guarding at every
   moment until the thing is needed, as *netzor beni mitzvas avicha* (Mishlei
   6:20) and *yitzrenhu ke'ishon eino* (Devarim 32:10). In his siddur (pp. 372,

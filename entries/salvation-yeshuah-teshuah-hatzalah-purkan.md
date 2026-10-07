@@ -29,7 +29,7 @@ sources:
   - wiaw:9464 "Seeking Salvation" (2021-11-27) https://articles.ohr.edu/articles/seeking-salvation
   - ms:084-seeking-salvation.md "Seeking Salvation"
 authorities: [Rabbi Yitzchak Eliyahu Landau of Dubno, Rav Hirsch, Rabbi Shlomo Pappenheim, Sefer HeAruch, Rashi, Tosafos, Peirush HaRokeach, Malbim, Rabbi Yechiel Michel Heilpern, Rabbi Chanoch Zundel of Bialystok, Radak, Ibn Janach]
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 # Salvation: yeshuah / teshuah / hatzalah / purkan
 
@@ -63,8 +63,8 @@ answer to our prayers and efforts.
   cry for salvation, a prayer rather than a complaint.
 - Rabbi Shlomo Pappenheim: the biliteral ש-ע underlies *yeshuah*, *teshuah*, and
   *shav'ah*, and its core is enjoyment and pleasure (so too *sha'ashua*, playful
-  or delightful; *mishan*, leaning and relying, the satisfaction of being
-  supported by another; and *sha'ah*, an hour, a unit of time a person gives to
+  or delightful; [*mishan*](trust-bitachon-machseh-tikvah.html#%D7%9E%D7%A9%D7%A2%D7%A0), leaning and relying, the satisfaction of being
+  supported by another; and [*sha'ah*](time-eit-zman-moed-shaah.html#%D7%A9%D7%A2%D7%94), an hour, a unit of time a person gives to
   a task he wants to do).
 - Rabbi Klein offers an alternative of his own, that the core of ש-ע may be
   "smoothness," here the uninterrupted passage from prayer to salvation.
@@ -90,7 +90,7 @@ salvation through military victory over outside conquerors.
 Bava Kamma 80a mentions a ceremony called *Yeshua HaBen* without saying what it
 is. *Sefer HeAruch* and Rashi explain it as the festive meal of a *pidyon haben*
 (see also Tosafos there), on the grounds that the Targumim render cognates of
-both *yeshuah* and *pidyon* with words of *purkan*.
+both *yeshuah* and [*pidyon*](redemption-geulah-pidyon.html#%D7%A4%D7%93%D7%99%D7%95%D7%A0) with words of *purkan*.
 
 ### hatzalah (הצלה)
 - Peirush HaRokeach: only a partial or temporary respite from oppression, not a

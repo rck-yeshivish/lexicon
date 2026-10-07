@@ -28,7 +28,7 @@ sources:
   - wiaw:7176 "Party Hardy" (2017-03-11) https://articles.ohr.edu/articles/party-hardy
   - ms:166-party-hardy.md "Party Hardy"
 authorities: [Radak, Rabbi Tzaddok HaKohen of Lublin, Rashi, Rashbam, Rabbi Levi Yitzchok of Berditchev, Shadal, Rabbi Eliyahu Benamozegh, Ohr Zarua]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Meal: seudah / mishteh / mesibah
 
@@ -58,7 +58,7 @@ word focuses on one thing: the bread, the wine, or the posture.
 ### seudah (סעודה)
 Not a biblical word, though it is the word for each of the three meals of
 Shabbos (*Shabbos* 117b). Radak (*Sefer HaShorashim*): Chazal modified the
-biblical *saad* to form *seudah*. *Saad* is supporting or sustaining, both in a
+biblical [*saad*](trust-bitachon-machseh-tikvah.html#%D7%A1%D7%A2%D7%93) to form *seudah*. *Saad* is supporting or sustaining, both in a
 rhetorical way (a proof that supports an argument) and in a physical way (food
 that sustains the body). In a handful of places Tanach uses the verb *saad*
 with bread: *v'lechem levav enosh yis'ad* (Tehillim 104:15), *s'ad libcha pas
@@ -88,7 +88,7 @@ together, and *potes*, drinking.
   the defining element of an enjoyable, joyous *seudah* is the wine.
 - Shadal (to Bereishis 19:3): a *mishteh* is a light evening meal whose main
   course was wine, against the heavier afternoon meal called *seudah* or
-  *lechem*.
+  [*lechem*](bread-lechem-kikar-challah-pat.html#%D7%9C%D7%97%D7%9E).
 - Rabbi Levi Yitzchok of Berditchev (1740-1810, *Kedushas Levi*, Parshas
   Vayeira) reads *mishteh* as a meal of gladness, and on that basis explains
   that the party to which Esther invited Haman and Achashverosh is called a

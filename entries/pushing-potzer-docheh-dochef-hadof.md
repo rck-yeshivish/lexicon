@@ -30,7 +30,7 @@ words:
 sources:
   - wiaw:11128 "Vayera: Getting Pushy" (2023-11-04) https://articles.ohr.edu/articles/vayera-getting-pushy
 authorities: [Rav Hirsch, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Malbim, Menachem Ibn Saruk, Ibn Janach, Radak, Rashi, Rabbi David Abudarham, Rabbi Yosef Kimchi, Rabbi David Golumb, Ramban, Targum Yonasan, Metzudas Tzion, Shadal, Rabbi Abraham Grego, Norbert Pearlroth, David L. Gold]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Pushing: potzer / docheh / dochef / hadof / dofek
 
@@ -117,7 +117,7 @@ being pushed around or coerced, and some of these words carry both.
 
 **What the men of Givah did at the door.** *Mitdapkim* (Shoftim 19:22):
 
-- Targum Yonasan uses a cognate of *dchak*, the people pushing the door to break
+- Targum Yonasan uses a cognate of [*dchak*](pressure-lachatz-dchak-negisah-atz.html#%D7%93%D7%97%D7%A7), the people pushing the door to break
   it open.
 - *Metzudas Tzion* (there, and to Shir HaShirim 5:2) explains that they were
   more gently knocking, to convince the host to open up.
@@ -138,7 +138,7 @@ Yirmiyahu 23:12. Inflections of ד-ח-ה appear eleven times in Tanach, as
 Even-Shoshan lists them, mostly in Tehillim. Rabbi Shlomo Pappenheim takes ד-ח as
 the core, meaning "push," and reads most of its family as pushing something out of place:
 *nidach*/*nidchei* (Devarim 22:1, Yeshayahu 11:12, 27:13), a refugee or rejected
-person, one pushed away from his homeland; *hadachah*, rinsing, water pushing
+person, one pushed away from his homeland; [*hadachah*](washing-kevisah-rechitzah-shetifah-hadachah.html#%D7%94%D7%93%D7%97%D7%94), rinsing, water pushing
 filth away; *dochan*, rice or millet, grain-like granules extracted by pushing
 them out of their husks. Rav Hirsch (to Bereishis 20:13) compares
 *docheh* to *toeh* (becoming lost), on the interchange of dalet with tav and

@@ -22,7 +22,7 @@ words:
 sources:
   - wiaw:11307 "Vayikra: The Kidneys Advisory" (2024-03-23) https://articles.ohr.edu/articles/vayikra-the-kidneys-advisory
 authorities: [Rashi, Rashbam, Radak, Ibn Ezra, Ibn Janach, Menachem Ibn Saruk, Ramban, Rav Hirsch, Chizkuni, Rabbeinu Bachya, Shadal, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Elazar Rokeach of Worms, Rabbi Shes ben Yefes HaRofeh, Rabbi Avraham Ibn Ramoch, Metzudas Tzion, Chochmas Manoach, Targum Onkelos, Daas Mikra, Brown-Driver-Briggs, David J. A. Clines, Rabbi Natan Slifkin]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Kidneys: kilayos / atzeh / tuchos
 
@@ -89,7 +89,7 @@ transplants.)
   *Daas Mikra* (to Iyov 38:36), the Brown-Driver-Briggs Hebrew lexicon, and
   David J. A. Clines' *Dictionary of Classical Hebrew*.
 
-Part of the question turns on whether the *sechvi* beside it (Iyov 38:36) is the
+Part of the question turns on whether the [*sechvi*](rooster-gever-sechvi-tarnegol.html#%D7%A9%D7%9B%D7%95%D7%99) beside it (Iyov 38:36) is the
 heart or a rooster.
 
 **Where *tuchos* comes from.**

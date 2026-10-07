@@ -26,7 +26,7 @@ words:
 sources:
   - wiaw:9428 "Disgraceful Disparagement" (2021-11-06) https://articles.ohr.edu/articles/disgraceful-disparagement
 authorities: [Rashi, Rambam, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi David Chaim Chelouche, Rabbi Ernest Klein, Maggid of Kozhnitz]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Disgrace: bizayon / kalon / zilzul / gnai
 
@@ -59,12 +59,12 @@ times marks a man writing something off entirely: Eisav after selling the
 birthright (Bereishis 25:34), which Rashi reads as his mocking and repudiating
 the service of Hashem, and Haman, for whom striking at Mordechai alone was
 beneath him (Esther 3:6). Malachi turns the same root on Kohanim who despise
-(*bozei*) the *avodah* with blemished offerings (Malachi 1:6-8), and Hashem
+(*bozei*) the [*avodah*](work-melachah-avodah.html#%D7%A2%D7%91%D7%95%D7%93%D7%94) with blemished offerings (Malachi 1:6-8), and Hashem
 turns it back on Eisav through Ovadiah, *bazui atah me'od* (Ovadiah 1:2). Rabbi
-Pappenheim groups *bizah*, plunder, under the same core: property taken without
+Pappenheim groups [*bizah*](spoils-shalal-bizah-malkoach.html#%D7%91%D7%96%D7%94), plunder, under the same core: property taken without
 paying for it is cheap in the taker's eyes. Rabbi David Chaim Chelouche, late
 Chief Rabbi of Netanya, holds that *bizayon* can be understood as a cognate of
-*bushah* on the interchange of *zayin* and *shin*.
+[*bushah*](shame-bushah-klimah-cherpah.html#%D7%91%D7%95%D7%A9%D7%94) on the interchange of *zayin* and *shin*.
 
 ### kalon (קלון)
 Root ק-ל-ן, from the biliteral ק-ל, which Rabbi Pappenheim defines as the
@@ -75,7 +75,7 @@ a lightweight, not worth the honor due him. The verbal cognates carry that
 sense: Hagar making light of Sarah once she conceived (Bereishis 16:4), the
 court officer who degrades a criminal by exceeding the count of lashes (Devarim
 25:3), and the child who slights his parents (Devarim 27:16). Rabbi Pappenheim
-draws two further words off the same core: *kelalah*, a curse, which is at
+draws two further words off the same core: [*kelalah*](curse-arur-kelalah-allah-kavah.html#%D7%A7%D7%9C%D7%9C%D7%94), a curse, which is at
 bottom the dismissal of a man as unimportant and undeserving of the good Hashem
 has for him, and *kilkul*, spoilage, a thing that has fallen so far in value
 that almost nothing of it is left.

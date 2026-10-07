@@ -26,7 +26,7 @@ words:
 sources:
   - wiaw:9785 "In the Middle" (2022-07-16) https://articles.ohr.edu/articles/in-the-middle
 authorities: [Menachem Ibn Saruk, Rabbeinu Yonah Ibn Janach, Rabbi Shlomo Ibn Parchon, Radak, Rabbi Eliyahu HaBachur, Rabbi Shmuel Ibn Tibbon, Rabbi David Golumb, Rabbi Ernest Klein, Rabbi Yehoshua Steinberg, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Shlomo Pappenheim, Ramban, Avraham Even-Shoshan]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Middle: emtza / merkaz / lev / tabur
 
@@ -117,8 +117,8 @@ life. Rabbi Aharon Marcus (*Keses HaSofer* there) similarly gives the core
 sense as gathering and attaching, tying two things together being a way of
 gathering them into one entity, and a mountain range being mountains attached
 to each other geographically; on interchanges of letters he derives from the
-same root *rechush* and *neches*/*nechasim* (property, what a man accrues) and
-*rochel* (a merchant, who gathers up commodities to sell, the samech and lamed
+same root [*rechush*](property-rechush-mikneh-nechasim.html#%D7%A8%D7%9B%D7%95%D7%A9) and *neches*/*nechasim* (property, what a man accrues) and
+[*rochel*](merchant-socher-rochel-cnaani-tagar.html#%D7%A8%D7%95%D7%9B%D7%9C) (a merchant, who gathers up commodities to sell, the samech and lamed
 interchange being attested in various ancient languages, most notably
 Egyptian). From all of this, Rabbi Reuven Chaim Klein concludes, it seems the root's
 principal sense is tying together; the knot is where the connection is
@@ -138,14 +138,14 @@ the *lev* of the seas (Shemos 15:8; Yechezkel 27:4, 27:25-27, 28:2, 28:8;
 Tehillim 46:3), and the *lev* of the heavens (Devarim 4:11), though trees, waters and heavens have no literal hearts. Rabbi Shlomo
 Pappenheim (1740-1814): the biliteral ל-ב means heart, and in
 the borrowed sense *lev* is whatever sits at the center or plays a central part
-in a process. He puts a wide family on this root: *lavi* (lion, since fear
+in a process. He puts a wide family on this root: [*lavi*](lion-aryeh-kfir-lavi-layish.html#%D7%9C%D7%91%D7%99%D7%90) (lion, since fear
 comes of blood massing in the heart and lions apparently have small hearts, so
 are less prone to fear), *levivah* (a wafer, in modern Hebrew a latke, called
 so either because it sustains a man's heart or because it was a heart-shaped
-delicacy), and by way of *lahav*/*lehavah* (flame, which comes from the middle
-of a fire) a whiteness cluster: *leveinah* (brick, made by being placed in a
-kiln fire), *lavan* (white, the color things put into fire often turn),
-*levanah* (the moon, white against the reddish sun), *livneh* (Populus alba, a
+delicacy), and by way of [*lahav*](fire-aish-lehavah-shalheves-lapid.html#%D7%9C%D7%94%D7%91)/*lehavah* (flame, which comes from the middle
+of a fire) a whiteness cluster: [*leveinah*](rock-even-sela.html#%D7%9C%D7%91%D7%A0%D7%94) (brick, made by being placed in a
+kiln fire), [*lavan*](white-lavan-chivar-tzochar.html#%D7%9C%D7%91%D7%A0) (white, the color things put into fire often turn),
+[*levanah*](moon-yareach-levanah-sahar.html#%D7%9C%D7%91%D7%A0%D7%94) (the moon, white against the reddish sun), *livneh* (Populus alba, a
 white tree), *Levanon* (the region where the *livneh* commonly grows) and
 *levonah* (frankincense, a whitish resin).
 

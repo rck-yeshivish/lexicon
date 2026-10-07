@@ -26,7 +26,7 @@ sources:
   - wiaw:9416 "The City of Four" (2021-10-30) https://articles.ohr.edu/articles/the-city-of-four
   - ms:029-the-city-of-four-and-more.md "The City of Four and More"
 authorities: [Bereishis Rabbah, Rashi, Radak, Ibn Ezra, Daas Zekeinim, Rabbeinu Efrayim, Rabbeinu Bachya Ibn Chalava, Rabbi Yehuda Ibn Chalava, Rabbi Avraham Maimuni, Rabbi Avraham Menachem Rappaport, Targum Yonasan, Rabbi Dr. Moshe Zidel, Rabbi Chaim Kanievsky, Rabbi David Zvi Hoffmann, Peshitta, Rabbi Shes ben Yefes]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Hebron: Chevron / Kiryas Arba / Mamre / Eshkol
 
@@ -100,7 +100,7 @@ the common noun "four." Two answers.
   interchange to ע-פ-ר, dust, the root of Ephron. He also leans on comparative
   evidence: the Akkadian *turbu'u* means "dust" and its root answers to Hebrew
   ר-ע-ב, and a possible Hebrew cognate, *rova*, seems to be twinned with
-  *avak*, dust (see Bamidbar 23:10). Zidel then theorizes a step further,
+  [*avak*](dust-afar-eifer-avak-deshen.html#%D7%90%D7%91%D7%A7), dust (see Bamidbar 23:10). Zidel then theorizes a step further,
   deriving *Chevron* itself from Ephron, ayin interchanging with ches and bet
   with peh, so that Kiryas Arba and Chevron would both be ways of tying the
   city to Ephron.

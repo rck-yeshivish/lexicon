@@ -28,7 +28,7 @@ sources:
   - wiaw:10698 "Be My Guest" (2022-11-12) https://articles.ohr.edu/articles/be-my-guest
   - ms:023-be-my-guest.md "Be My Guest"
 authorities: [Menachem Ibn Saruk, Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rashi, Rabbeinu Chananel, Tosafos, Rabbi Eliyahu HaBachur, Rabbi Yaakov Emden, Rabbi Shimon Yehuda Leib Goldblit, Rabbi Yitzchak Avineri, Rabbi Dr. Ernest Klein, Rabbi Avi Kobernick, Rabbi Yaakov Chaim Sofer, Rabbi Dr. Alexander Kohut, Rabbi Shmuel Krauss, Ludwig Koehler, Walter Baumgartner, Michael Sokoloff]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Guest: oreach / ushpiz / achsanai
 
@@ -72,7 +72,7 @@ from Middle Persian.
 ### oreach (אורח)
 Four occurrences (Shoftim 19:17, Shmuel II 12:4, Yirmiyahu 9:1, 14:8). Menachem
 Ibn Saruk, Ibn Janach and Radak trace it to א-ר-ח, whose commonest derivative is
-*orach*, a road or path (about sixty occurrences), and which also gives *orchah*,
+[*orach*](path-derech-orach.html#%D7%90%D7%95%D7%A8%D7%97), a road or path (about sixty occurrences), and which also gives *orchah*,
 a caravan (Bereishis 37:25, Yeshayahu 21:13). Ibn Janach and Radak: an *oreach*
 is so called because he travels an *orach* and is put up along the way. Ibn
 Janach translates *oreach* outright into the rabbinic *achsanai*.
@@ -88,7 +88,7 @@ comes from the same string.
 
 Rabbi Shlomo Pappenheim assigns all four (*oreach*, *orach*, *orchah*,
 *aruchah*) to the biliteral ר-ח, "air, space," alongside *revach* (open space),
-*ruach* (wind), *rei'ach* (smell, which travels in air), *yarei'ach* (the moon,
+[*ruach*](soul-nefesh-ruach-neshamah-chayah-yechidah.html#%D7%A8%D7%95%D7%97) (wind), *rei'ach* (smell, which travels in air), *yarei'ach* (the moon,
 whose movements somehow govern the tides and winds), and *memarei'ach*
 (smoothing, which squeezes out air). An *orach* is a wide road
 with *revach* in it; an *oreach* travels it; an *aruchah* is the meal set out in

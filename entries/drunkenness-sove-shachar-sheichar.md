@@ -27,7 +27,7 @@ words:
 sources:
   - wiaw:11520 "Ki Seitzei: Getting Drunk" (2024-09-14) https://articles.ohr.edu/articles/ki-seitzei-getting-drunk
 authorities: [Menachem Ibn Saruk, Rabbi Shlomo of Urbino, Malbim, Rabbi Shlomo Pappenheim, Rabbi Moshe Tzuriel, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Yehudah Aryeh of Carpentras, Rav Hirsch, Rabbi Shimon Yehuda Leib Goldblit, Rabbi Shlomo Aharon Wertheimer, Rabbi Yosef Kara, Rabbi Yosef Nechemias, Rabbi Dr. Asher Weiser, Dr. Lawrence Resnick, Rashi, Radak, Rambam, Ramban, Rabbi Aharon Marcus]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Drunkenness: sove / shachar (sheichar)
 
@@ -70,7 +70,7 @@ the drink that does it.
   for berachos.)
 - Rabbi Moshe Tedeschi-Ashkenazi (*Otzar Nirdafim*) takes the same ס-ב
   differently: people sitting *around* a table drinking together, which would
-  make *sove* kin to *mesibah*.
+  make *sove* kin to [*mesibah*](meal-seudah-mishteh-mesibah.html#%D7%9E%D7%A1%D7%99%D7%91%D7%94).
 - Rabbi Yehudah Aryeh of Carpentras (*Aholei Yehudah*), Rav Hirsch (to Bereishis
   24:25 and Devarim 21:19), Rabbi Shimon Yehuda Leib Goldblit (*Leshon
   Chachamim*) and Rabbi Dr. Asher Weiser (*Mikra V'Lashon*) all tie ס-ב-א to its
@@ -127,7 +127,7 @@ substances besides wine (*Nazir* 4a, *Kerisus* 13b, Ramban to Vayikra 10:9). In
 Rabbinic Hebrew *sheichar* is what we call beer or mead (*Pesachim* 3:1).
 
 - Rav Hirsch (to Shemos 13:12) makes a comment Rabbi Klein calls somewhat
-  cryptic, connecting *shachar* with *sheger*, *shir* and *sheker* on the
+  cryptic, connecting *shachar* with *sheger*, *shir* and [*sheker*](lie-sheker-kazav-kachash.html#%D7%A9%D7%A7%D7%A8) on the
   interchangeability of *kaf*, *gimmel*, *yud* and *kuf*: all of them name
   something born from oneself, and Rav Hirsch gives no further detail. Dr.
   Lawrence Resnick (*1,000 Words*, which elucidates Rav Hirsch's word

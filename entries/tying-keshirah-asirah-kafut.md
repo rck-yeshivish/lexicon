@@ -44,7 +44,7 @@ words:
 sources:
   - wiaw:10970 "All Tied Up" (2023-06-03) https://articles.ohr.edu/articles/all-tied-up
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehuda Ibn Chayyuj, Rabbi Eliyahu HaBachur, Rav Hirsch, Radak, Rabbi Yosef Kimchi (Radak's father), Rashi, Chizkuni, Rabbi Yaakov Berger, Dr. Michael Sokoloff, Rabbi Aharon Marcus]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Tying: keshirah / asirah / kafut (ketirah, tzror, akeidah)
 
@@ -79,7 +79,7 @@ Hebrew shin to Aramaic tav, presuming tav and tes interchange.
 ## Distinctions
 
 ### keshirah (קשירה)
-Root ק-ש-ר, sixty appearances in Tanach. Concrete: tying *tefillin* to the arm
+Root ק-ש-ר, sixty appearances in Tanach. Concrete: tying [*tefillin*](phylacteries-totafos-tefillin.html#%D7%AA%D7%A4%D7%99%D7%9C%D7%99%D7%A0) to the arm
 (Devarim 6:8, 11:18), the red string tied to the hand of Yehudah's son
 (Bereishis 38:28), the rope in Rachav's window (Yehoshua 2:18, 2:21). Figurative:
 Yaakov's soul "tied" to Binyamin's, as Yehudah put it (Bereishis 44:30), and
@@ -103,16 +103,16 @@ inaccessible, and compares the English "my hands are tied."
 - Malbim: the main difference from *keshirah* is that *asirah* is done without
   the consent of what is tied, as a captive is tied down against his will; so he
   relates it to *yissurin*, suffering, which likewise comes upon a man against
-  his will, and to *issur*, where one's actions may be precluded, by law or by
+  his will, and to [*issur*](prohibition-azharah-issur-lav.html#%D7%90%D7%99%D7%A1%D7%95%D7%A8), where one's actions may be precluded, by law or by
   nature, against his will.
 - Rabbi Shlomo Pappenheim ties the root to the biliteral samech-reish,
   "removal," since one who is tied down has his freedom of movement removed;
   that the aleph of *assur* is superfluous was already noted by Rabbi Yehuda Ibn
   Chayyuj, who adduces *beis hasurim* (Koheles 4:14) as the equivalent of *beis
   ha'asurim*.
-- Rabbi Yaakov Tzvi Mecklenburg similarly relates *mussar* to tying, since it
+- Rabbi Yaakov Tzvi Mecklenburg similarly relates [*mussar*](rebuke-mussar-tochachah.html#%D7%9E%D7%95%D7%A1%D7%A8) to tying, since it
   gives a man the ability to tie down his *yetzer hara*.
-- Rabbi Klein also raises the notion that *erusin* may be a metathesized form of
+- Rabbi Klein also raises the notion that [*erusin*](betrothal-erusin-kiddushin-nissuin.html#%D7%90%D7%99%D7%A8%D7%95%D7%A1%D7%99%D7%A0) may be a metathesized form of
   *asirah*.
 
 ### ketirah (קטירה)
@@ -121,7 +121,7 @@ Root ק-ט-ר. In Hebrew this root is smoke or incense; in Aramaic it is tying
 Aramaic of Daniel: literally tied (Daniel 5:6), and twice of a riddle or enigma,
 figuratively tied in a knot that has to be opened (Daniel 5:12, 5:16). Rabbi
 Eliyahu HaBachur (*Meturgeman*) had already noted that it is Targum's standard
-rendering of *keshirah*. In many words Hebrew shin becomes Aramaic tav (*shor*,
+rendering of *keshirah*. In many words Hebrew shin becomes Aramaic tav ([*shor*](cattle-shor-par-egel-bakar.html#%D7%A9%D7%95%D7%A8),
 *tor*); on that basis Rabbi Yaakov Berger of Kiryat Sefer (*Milon Leshon
 HaMikra*) writes that it makes sense for ק-ש-ר to become ק-ט-ר in Aramaic,
 presuming tav and tes interchange. On the one Hebrew cognate (Yechezkel 46:22)
@@ -139,7 +139,7 @@ Hagar, belongs here.
   Bereishis 25:1).
 - Rav Hirsch (to Bereishis 25:1) relates the name to *keshirah*, and goes
   further, connecting her first name Hagar, by the interchange of hei, aleph and
-  ches, to *agur* (gathered in) and *chagurah* (a belt), both of something tied
+  ches, to [*agur*](gathering-asifah-kovetz-kehillah-agur.html#%D7%90%D7%92%D7%A8) (gathered in) and *chagurah* (a belt), both of something tied
   or inward-looking, cut off from the outside.
 
 ### kafut (כפות)
@@ -161,7 +161,7 @@ Etymology, two proposals.
   gathers *kaf* (palm), *kofef* (bending, what turns a palm into a receptacle),
   *akifah* (enforcement, bending others to an authority), *kippah* (dome, a
   palm-like structure), *kofeh* (overturning a vessel, making a dome-like
-  space), and *kafan* (famine, which bends a man's stature); *kefiyah* for him
+  space), and [*kafan*](famine-raav-kafan-batzores.html#%D7%9B%D7%A4%D7%A0) (famine, which bends a man's stature); *kefiyah* for him
   is suppressing dissent so that another bends.
 - Dr. Michael Sokoloff, in his dictionary of Jewish Babylonian Aramaic, instead
   connects *kafut* to the quadriliteral Aramaic root כ-ר-פ-ת, found once in the

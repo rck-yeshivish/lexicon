@@ -20,7 +20,7 @@ words:
 sources:
   - wiaw:11902 "Matos-Masei: The Wormy Place" (2025-07-26) https://articles.ohr.edu/articles/matos-masei-the-wormy-place
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Ibn Parchon, Rabbi Shlomo Pappenheim, Rav Hirsch, Malbim, Netziv, Vilna Gaon, Rabbi Binyamin Rivlin, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Shlomo Aharon Wertheimer, Rabbi Eliyahu HaBachur, Rashbam, Rabbi Yehudah Aryeh of Carpentras, Rabbi David Chaim Chelouche, Rabbi Shaul Goldman, Alfred Jones]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Worm: rimah / toleah (tola'as)
 
@@ -100,7 +100,7 @@ On which of those senses yields "maggot," the authorities split.
   a worm fells a cedar with its mouth, so Klal Yisrael fells nations with its
   mouth, through tefillah.
 - Ibn Saruk, Ibn Janach, Radak and Ibn Parchon all take the root as ת-ל-ע, which
-  also yields *mesalos*, "teeth" (Iyov 29:17; Yoel 1:6; Mishlei 30:14). The link
+  also yields [*mesalos*](teeth-shein-mesalos-kaka.html#%D7%9E%D7%AA%D7%9C%D7%A2%D7%95%D7%AA), "teeth" (Iyov 29:17; Yoel 1:6; Mishlei 30:14). The link
   to teeth, Rabbi Klein notes, is not insignificant, since the Midrash makes the
   worm's mouth its outstanding feature, and *Midrash Sechel Tov* (to Shemos
   16:24) states the difference that way: *rimah* do not eat or drink, while
@@ -155,7 +155,7 @@ Tola is also a name, borne by a son of Yissachar (Bereishis 46:13; Bamidbar
   at least appear to; *toleah* plainly come from outside to consume it.
 - Malbim (to Yeshayahu 14:11): *rimah* have not yet left the place where they
   were generated, *toleah* can already move about. Elsewhere (*Yair Ohr*, on
-  *adam* versus *enosh*) he has *rimah* as worms infesting something rotting and
+  [*adam*](man-adam-ish-enosh-gever.html#%D7%90%D7%93%D7%9E) versus *enosh*) he has *rimah* as worms infesting something rotting and
   *toleah* as worms as such.
 
 ## Rendering guidance

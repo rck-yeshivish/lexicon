@@ -18,7 +18,7 @@ sources:
   - wiaw:9756 "Empty Exaggerations" (2022-07-02) https://articles.ohr.edu/articles/empty-exaggerations
   - ms:296-empty-exaggerations.md "Empty Exaggerations"
 authorities: [Rashi, Rabbeinu Tam, Rabbi Eliezer of Metz, Rabbeinu Nissim, Tosafos Yeshanim, Rabbi Eliyahu HaBachur, Rabbi Binyamin Mussafia, Rabbi Yaakov Emden, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Aryeh Leib Feinstein, Rabbi Shmuel Jaffa-Ashkenazi, Rabbi Yissachar Ber Eilenberg, Rabbi Eliyahu HaKohen of Izmir, Rabbi Menachem Azariah of Fano, Rabbi Meir Pozna, Rabbi Ami, Alexander Kohut]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Exaggeration: havai / guzma
 
@@ -107,7 +107,7 @@ On where the word comes from:
   HaAruch*) hold it is a Greek loanword. Rabbi Klein reports that after some
   searching he could not pin down any specific Greek word behind it, and for that
   reason prefers to assume a Semitic origin.
-- In Biblical Hebrew the root ג-ז-ם appears only five times: three as *gazam*, a
+- In Biblical Hebrew the root ג-ז-ם appears only five times: three as [*gazam*](locust-arbeh-gazam-yelek-chasil.html#%D7%92%D7%96%D7%9E), a
   type of grasshopper (Yoel 1:4, 2:25; Amos 4:9), and twice as the proper name
   Gazam, whose family were among the Nesinim who came up with Zerubavel (Ezra
   2:48, Nechemiah 7:51). In rabbinic Aramaic the root took on the further sense
@@ -144,7 +144,7 @@ Rabbi Klein notes one more expression for exaggeration, *petumei milei*,
 Chazal's examples are from the Mishnah, and the Gemara calls some or all of them
 *divrei havai* or *guzma*: the *tamid* drinking from a golden cup (Tamid 3:4),
 three hundred *kor* of ash sometimes piled on the Mizbeach (Tamid 2:2), the
-Golden Vine that took three hundred Kohanim to move (Middos 3:8), the *paroches*
+Golden Vine that took three hundred Kohanim to move (Middos 3:8), the [*paroches*](curtain-parochet-masach-vilon-pargod.html#%D7%A4%D7%A8%D7%95%D7%9B%D7%AA)
 that took three hundred Kohanim to immerse (Shekalim 8:5).
 
 - Rabbi Yissachar Ber Eilenberg notes that these are a sample of rabbinic

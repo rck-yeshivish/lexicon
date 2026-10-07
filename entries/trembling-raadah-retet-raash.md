@@ -31,7 +31,7 @@ sources:
   - wiaw:11526 "Yom Kippur: Shake & Quake (Pt. 2/3)" (2024-10-12) https://articles.ohr.edu/articles/yom-kippur-shake-quake-pt-23
   - wiaw:11527 "Sukkot: Shake & Quake (Pt. 3/3)" (2024-10-19) https://articles.ohr.edu/articles/sukkot-shake-quake-pt-33
 authorities: [Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Shlomo Pappenheim, Radak, Rabbeinu Yonah Ibn Janach, Menachem Ibn Saruk, Rabbi Avraham Bedersi, Rabbi Yosef Kimchi, Rabbi Shlomo Ibn Parchon, Rashi, Rashbam, Shadal, Rabbi Reuven Landau, Targum Onkelos, Targum Yonasan, Baal HaTurim, Rabbi Mordechai Kohen of Safed, Avraham Even-Shoshan]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Trembling: ra'adah / ziyah / retet (ra'ash, rogez, ga'ash)
 
@@ -67,7 +67,7 @@ three in one pasuk.
 
 - Rabbi Shlomo Aharon Wertheimer: *ra'adah* primarily refers to a shaking felt
   within the body and not discernible to an onlooker (Daniel 10:11, *omadti
-  marid*), against *chil*, which he claims refers to tremors that can be seen,
+  marid*), against [*chil*](trembling-chil-dachil-zachal.html#%D7%97%D7%99%D7%9C), which he claims refers to tremors that can be seen,
   except in cases such as Tehillim 55:5, where the *chil* is explicitly in the
   heart.
 - Malbim: *ra'adah* is quaking in fear specifically where inner fear grows so
@@ -98,7 +98,7 @@ Shlomo Ibn Parchon (*Machberes HeAruch*), and others.
 **The order of intensity in Shmuel II 22:8 (Tehillim 18:8).**
 
 - Malbim, as cited in *Sefer HaCarmel*, reads the pasuk as ascending: *ga'ash* a
-  subtler movement than *ra'ash*, and *ra'ash* less intense than *rogez*. In his
+  subtler movement than *ra'ash*, and *ra'ash* less intense than [*rogez*](anger-cheimah-ketzef-charon-rogez.html#%D7%A8%D7%95%D7%92%D7%96). In his
   *Yair Ohr* he writes that *ga'ash* is a little extra movement and *ra'ash*
   more than that, in line with the *Sefer HaCarmel* citation.
 - Rabbi Reuven Landau (*Degel Machaneh Reuven* §61) writes just the opposite on

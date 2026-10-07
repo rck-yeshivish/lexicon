@@ -22,7 +22,7 @@ sources:
   - toi:behar-making-mountains-out-of-hills "Behar: Making Mountains Out of Hills" (2019-05-15) https://blogs.timesofisrael.com/behar-making-mountains-out-of-hills
   - ms:306-making-mountains-out-of-hills.md "Making Mountains out of Hills"
 authorities: [the Vilna Gaon, Radak, Malbim, Rabbi Eliyahu Margules, Dr. Chaim Tawil, Ibn Ezra, Bereishis Rabbah, Rabbi Eliyahu Benamozegh]
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 # Mountain: har / givah (pisgah)
 
@@ -87,11 +87,11 @@ within them (see Devarim 8:9; Iyov 28:2).
 
 Chazal liken *har* to *herayon*, pregnancy (*Bereishis Rabbah* 68:2).
 
-Dr. Chaim Tawil: the Aramaic *tur*, mountain, is related to *tzurim* (Bamidbar
+Dr. Chaim Tawil: the Aramaic *tur*, mountain, is related to [*tzurim*](rock-tzur-chalamish.html#%D7%A6%D7%95%D7%A8) (Bamidbar
 23:9), tzadi and tes interchanging.
 
 Rabbi Eliyahu Benamozegh (*Eim LaMikra* to Devarim 12:2): *har* is also related
-to *horaah*, teaching, since a mountain is a landmark seen from afar that shows
+to [*horaah*](teaching-horaah-limmud-alef.html#%D7%94%D7%95%D7%A8%D7%90%D7%94), teaching, since a mountain is a landmark seen from afar that shows
 the traveller his way. So *har* can stand for both parent and teacher, alluding
 to Chazal's likening of one's parents to one's teachers.
 
@@ -105,8 +105,8 @@ point is what makes the *givah* fit to stand for it. Rabbi Eliyahu Margules ties
 inside it, so the *givah* is the receiving one.
 
 The receptive force also engulfs the influential one (see Yirmiyahu 31:21), as a
-range of *givaos* surrounds the *har*, and this is why a *kallah* circles her
-*chosson* seven times under the *chuppah*.
+range of *givaos* surrounds the *har*, and this is why a [*kallah*](curse-arur-kelalah-allah-kavah.html) circles her
+*chosson* seven times under the [*chuppah*](canopy-apiryon-chuppah-succah.html#%D7%97%D7%95%D7%A4%D7%94).
 
 ### pisgah (פסגה)
 
