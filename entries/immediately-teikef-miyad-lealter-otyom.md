@@ -4,6 +4,7 @@ hebrew: [תיכף, מיד, לאלתר, אותיום, על אתר]
 roots: [ת-כ-ף, י-ד, א-ת-ר]
 translit: [teikef, tekef, techef, miyad, mi'yad, miyyad, lealter, le'alter, alter, otyom, ot yom, evteos, al atar]
 english: [immediately, straightaway, forthwith, on the spot, right after]
+search: [forever, immediately following, infinity]
 domain: time
 words:
   - he: תיכף

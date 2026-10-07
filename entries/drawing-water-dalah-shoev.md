@@ -4,6 +4,7 @@ hebrew: [דלה, שאב, דלי, דליות, דל]
 roots: [ד-ל-ה, ש-א-ב, ד-ל, ש-ב]
 translit: [dalah, dalo, daloh, dilitani, yidlenah, shoev, shoeiv, shaav, shoevet, ushavtem, dli, deli, daliyot, daliyos, dalia, dal, dildul]
 english: [draw, draw up, draw out, lift up, bucket, pail, branches, poor]
+search: [collect, drew water, lap up]
 domain: action
 words:
   - he: דלה

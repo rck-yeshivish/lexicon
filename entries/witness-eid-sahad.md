@@ -4,6 +4,7 @@ hebrew: [עד, עדות, סהד, קדוש]
 roots: [ע-ד, ס-ה-ד, ק-ד-ש]
 translit: [eid, ed, eidim, eidus, eidut, eidos, sahad, sahed, sahadei, sahaduta, sahadusa, kadosh, kedoshim, muad]
 english: [witness, testimony, warning, martyr]
+search: [give testimony, testify]
 domain: speech
 words:
   - he: עד

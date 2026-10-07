@@ -4,6 +4,7 @@ hebrew: [מין, אפיקורוס, כופר, משומד, מומר]
 roots: [מ-י-ן, כ-פ-ר, ש-מ-ד, מ-ו-ר]
 translit: [min, minim, minus, minut, apikores, apikoros, epikoros, apikorsim, kofer, kofrim, kefirah, meshumad, meshumadim, meshuamad, mumar, mumarim, shmad, shemad]
 english: [sectarian, heretic, scoffer, denier, apostate, convert-out]
+search: [secular]
 domain: society
 words:
   - he: מין

@@ -4,6 +4,7 @@ hebrew: [מלחמה, לוחם, קרב, פולמוס, טרוניא, קניגיא]
 roots: [ל-ח-ם, ח-ם, ק-ר-ב]
 translit: [milchamah, milchama, lochem, locheim, krav, kerav, pulmus, pulmos, batrunya, tarunya, tironya, kenigia, kenigi, kinigia]
 english: [war, battle, combat, campaign, tyranny, hunt]
+search: [conflict, fight, struggle]
 domain: action
 words:
   - he: מלחמה

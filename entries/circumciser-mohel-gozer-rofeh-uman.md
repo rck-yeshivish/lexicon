@@ -4,6 +4,7 @@ hebrew: [מוהל, גוזר, רופא, אומן]
 roots: [מ-ה-ל, מ-ו-ל, ג-ז-ר, ר-פ-א, א-מ-ן]
 translit: [mohel, mohala, mohalin, mal, milah, mahul, gozer, gozeir, guzraya, gezeirah, rofeh, rofe, uman, umana, umna]
 english: [circumciser, cutter, physician, practitioner]
+search: [doctor]
 domain: ritual
 words:
   - he: מוהל

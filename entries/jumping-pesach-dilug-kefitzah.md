@@ -4,6 +4,7 @@ hebrew: [פסח, דילוג, קפיצה, פיסח]
 roots: [פ-ס-ח, ד-ל-ג, ק-פ-ץ]
 translit: [pesach, pesah, poseach, piseach, pisei'ach, dilug, dilluk, doleg, midaleg, kefitzah, kefitza, kofetz, mikapetz, kefitzas haderech, kefitzat haderech]
 english: [skipping, jumping, leaping, passing over, lame]
+search: [jump, Passover, skip]
 domain: action
 words:
   - he: דילוג

@@ -4,6 +4,7 @@ hebrew: [צחוק, שחוק, יצחק, ישחק, מצחק]
 roots: [צ-ח-ק, ש-ח-ק]
 translit: [tzchok, tzechok, tzchoq, metzachek, vayitzchak, yitzchak, schok, sechok, sechoq, yischak, yishak, mesachek, sasson, simchah]
 english: [laughter, laughing, play, sport, mockery, derision]
+search: [chortle, chuckle, laugh]
 domain: emotion
 words:
   - he: צחוק

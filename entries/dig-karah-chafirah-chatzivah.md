@@ -4,6 +4,7 @@ hebrew: [כרה, חפר, חפירה, חצב, חציבה, הכרה]
 roots: [כ-ר-ה, ח-פ-ר, ח-צ-ב, נ-כ-ר]
 translit: [karah, kara, korah, chafirah, chafira, chofer, chafar, chatzivah, chatziva, chotzev, hakarah, hakara, chafran, bor]
 english: [dig, begin to dig, dig out, dig through, hew, quarry, search out]
+search: [dug, pit]
 domain: action
 words:
   - he: כרה

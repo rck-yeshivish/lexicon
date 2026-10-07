@@ -4,6 +4,7 @@ hebrew: [לחץ, דחק, נגישה, נוגשים, אץ, אלץ]
 roots: [ל-ח-ץ, ד-ח-ק, נ-ג-ש, ג-ש, א-ץ, צ, א-ל-ץ, ל-ץ]
 translit: [lachatz, lochatzim, lochatz, dchak, dechak, d'chak, negisah, negisha, nogsim, noges, yigos, nosheh, atz, atzim, vayaitzu, alatz, vateiltzeihu]
 english: [pressure, squeeze, crowding, pressing, driving, urging]
+search: [strong arm]
 domain: action
 words:
   - he: לחץ

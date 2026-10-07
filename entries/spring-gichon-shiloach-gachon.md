@@ -4,6 +4,7 @@ hebrew: [גיחון, שילוח, גחון, נגיחה, שלח]
 roots: [ג-ו-ח, ש-ל-ח, ג-ח, נ-ג-ח]
 translit: [gichon, gihon, shiloach, shiloah, shelach, shilucha, gachon, gochon, negichah, negicha, mei shiloach, siloam]
 english: [Gichon, Shiloach, belly, spring, wellspring, goring]
+search: [Gichon River, Nile River, Orontes River, Shiloach River]
 domain: nature
 words:
   - he: שלח

@@ -273,6 +273,10 @@ def collect():
             "hebrew": fm.get("hebrew", []),
             "translit": fm.get("translit", []),
             "english": fm.get("english", []),
+            # English a reader might type that is not the entry's own gloss (a
+            # synonym, a slang word): found by the search box, never shown as a
+            # rendering, so it stays out of the A to Z list and INDEX.md.
+            "search": fm.get("search", []),
             "authorities": fm.get("authorities", []),
             "roots": fm.get("roots", []),
             "sources": fm.get("sources", []),
@@ -1337,7 +1341,8 @@ def main():
     english.sort(key=lambda x: (x["e"].lower(), x["c"]))
     emap = {e["slug"]: {"c": e["cluster"],
                         "a": e["translit"],      # searchable: most transliterations live here
-                        "g": e["english"]}
+                        "g": e["english"],
+                        **({"x": e["search"]} if e["search"] else {})}
             for e in entries}
     data = {
         "built": datetime.date.today().isoformat(),
@@ -2446,6 +2451,9 @@ function search(q, limit=12){
       else if(en.startsWith(k)) out.push([2 + own(w), w]);
       else if(t.includes(k) || en.includes(k)) out.push([3 + own(w), w]);
       else if((e.g || []).some(x => foldLat(x) === k)) out.push([2.5 + own(w), w]);
+      // a search-only word (the entry's search: list): just below its own glosses
+      else if((e.x || []).some(x => foldLat(x) === k)) out.push([2.7 + own(w), w]);
+      else if((e.x || []).some(x => foldLat(x).startsWith(k))) out.push([4.5 + own(w), w]);
       else if(g.includes(k)) out.push([5 + own(w), w]);
       else if(foldLat(e.c).includes(k)) out.push([6 + own(w), w]);
     }

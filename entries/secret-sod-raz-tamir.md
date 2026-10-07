@@ -4,6 +4,7 @@ hebrew: [סוד, רז, רזא, טמיר, כמוס, דבר סתר, סתר, רמז
 roots: [ס-ו-ד, ר-ז, ט-מ-ר, כ-מ-ס, ס-ת-ר, ר-ז-ם]
 translit: [sod, sohd, sodos, sodot, raz, roz, raza, razin, tamir, tomir, tumrah, kamus, komus, sod kamus, dvar seter, devar seter, seter, remez, rezem, roznim, sod haibbur, Raziel]
 english: [secret, counsel, council, hidden matter, mystery, hidden, stored away, hint]
+search: [advice, basis, foundation]
 domain: other
 words:
   - he: סוד

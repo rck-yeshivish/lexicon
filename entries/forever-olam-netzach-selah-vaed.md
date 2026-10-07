@@ -4,6 +4,7 @@ hebrew: [עולם, נצח, סלה, ועד, עד]
 roots: [ע-ל-ם, נ-צ-ח, ס-ל-ה, ע-ד]
 translit: [olam, leolam, le'olam, netzach, netzah, selah, sela, vaed, va'ed, vaad, ad, suleh, tzach]
 english: [forever, everlasting, perpetual, eternity, for all time]
+search: [always]
 domain: time
 words:
   - he: עולם

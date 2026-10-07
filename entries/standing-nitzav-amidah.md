@@ -4,6 +4,7 @@ hebrew: [נצב, עמידה, עומד, התיצב, מצבה]
 roots: [צ-ב, נ-צ-ב, ע-מ-ד]
 translit: [nitzav, nitzavim, nitzavta, hisyatzvu, hityatzvu, vatetatzav, mutzav, matzeivah, matzeva, amidah, amida, omed, imdu, amdah, yatziv]
 english: [standing, stationed, taking up a position, remaining standing]
+search: [planted, stood up]
 domain: body
 words:
   - he: עמידה

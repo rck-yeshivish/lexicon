@@ -4,6 +4,7 @@ hebrew: [זבול, ארמון, אפדנא, טירה, פלטין, טרקלין]
 roots: [ז-ב-ל, א-ר-ם, ר-ו-ם, פ-ד, ט-ר]
 translit: [zvul, zevul, yizbeleini, zevel, armon, almon, apadna, apadena, padan, tirah, tira, tur, turim, netirah, paltin, paltrin, traklin, teraklin, triklin]
 english: [palace, castle, fortress, citadel, lofty abode]
+search: [manor, mansion]
 domain: other
 words:
   - he: זבול

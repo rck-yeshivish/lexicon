@@ -4,6 +4,7 @@ hebrew: [תרומה, תנופה, נפה, נופת, ענף, אנף, רמות]
 roots: [ר-ו-ם, נ-ו-ף, ת-ר-ם]
 translit: [terumah, teruma, terumos, terumot, torem, tenufah, tenufa, tenufos, lehanif, lenofef, nafah, nof, nofes, nofet, anaf, anafah, niuf, ramos, ramot, trei mimeah]
 english: [waving, elevation, lifting, raising, separation, donation, tithe]
+search: [lift, wave]
 domain: ritual
 words:
   - he: תנופה

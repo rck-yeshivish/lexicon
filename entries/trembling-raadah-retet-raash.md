@@ -4,6 +4,7 @@ hebrew: [רעדה, זיע, זעוה, רתת, רטט, רעש, רגז, געש, ח�
 roots: [ר-ע-ד, ז-ע, ר-ת-ת, ר-ט, ר-ע-ש, ר-ג-ז, ג-ע-ש, ח-ר-ד]
 translit: [raadah, raada, raad, vatirad, marid, ziyah, ziya, zia, zeiyah, zeya, zaavah, zavaah, za, retet, reteta, yirtat, mirtat, raash, ra'ash, rogez, ragaz, ragzan, gaash, ga'ash, chareid, chared, charadah, vayecherad]
 english: [trembling, shuddering, quaking, quivering, agitation, tumult]
+search: [afraid, fear, quake, scared, shake, terrified, tremble, tremors]
 domain: emotion
 words:
   - he: רעדה

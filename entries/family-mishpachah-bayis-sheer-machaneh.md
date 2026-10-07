@@ -4,6 +4,7 @@ hebrew: [משפחה, בית, מחנה, שאר, שפחה, פמליא]
 roots: [ש-פ-ח, ב-י-ת, ח-נ-ה, ש-א-ר]
 translit: [mishpachah, mishpacha, mishpocho, bayis, bayit, bayti, machaneh, machane, sheer, sheair, shear, shifchah, shifcha, pamalia, pamalya, pamilia, tachanah, chanayah, sapachas, sapachat]
 english: [family, household, camp, kinsman, relative, entourage]
+search: [dwelling, house]
 domain: society
 words:
   - he: שפחה

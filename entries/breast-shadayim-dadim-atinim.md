@@ -4,6 +4,7 @@ hebrew: [שדים, שד, דדים, דד, עטינים, זיז, לשד]
 roots: [ש-ד, ד-ד, ד, ע-ט, ז-ז]
 translit: [shadayim, shadaim, shad, shod, dadim, dad, atinim, atin, itinim, ziz, zeez, lshad, leshad, sheid, shed, bizaya, byziou]
 english: [breast, breasts, teat, udder, nipple, bosom]
+search: [shoot, throw]
 domain: body
 words:
   - he: שדים

@@ -4,6 +4,7 @@ hebrew: [שקל, סלע, בקע, דרכמון]
 roots: [ש-ק-ל, ס-ל-ע, ב-ק-ע]
 translit: [shekel, shekalim, sela, selah, selaim, sila, beka, bekah, darkemon, darkon, adarchon, tikla, taklin]
 english: [shekel, sela, half-shekel, coin]
+search: [measure, weigh]
 domain: quantity
 words:
   - he: שקל

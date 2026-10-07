@@ -4,6 +4,7 @@ hebrew: [גבר, שכוי, זיז שדי, תרנגול]
 roots: [ג-ב-ר, ס-ך, ז-י-ז, ת-ר-נ-ג-ל]
 translit: [gever, gevurah, sechvi, sekhvi, sechavi, ziz sadai, ziz saday, tarnegol, tarnegola, tarnegol bara, socheh, soche, nergal, sukkos benos, tar-lugallu, lugal, tor]
 english: [rooster, cock, heart, mind, skull, wild fowl]
+search: [chicken, hen]
 domain: nature
 words:
   - he: גבר

@@ -4,6 +4,7 @@ hebrew: [גבול, תחום, מיצר, מצרים, ספר, גבלים]
 roots: [ג-ב-ל, ת-ח-ם, צ-ר, ס-פ-ר]
 translit: [gevul, gvul, gvulim, techum, techoma, techumin, meitzar, metzar, mitzarim, meitzarim, bein hametzarim, sfar, sefar, sefarah, givlim, gvilim, sefirah]
 english: [border, boundary, territory, limit, frontier, straits]
+search: [Egypt]
 domain: society
 words:
   - he: גבול

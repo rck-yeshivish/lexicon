@@ -4,6 +4,7 @@ hebrew: [צעיף, רדיד, רדידים, עיפא, סודר]
 roots: [צ-ע-ף, ר-ד-ד, ר-ד, ע-ף]
 translit: [tzaif, tza'if, tzeif, tzanif, redid, radid, redidim, merudad, eifa, eipha, sudar, sudarin]
 english: [veil, shawl, wrap, headcloth, cloak]
+search: [headwrap, mask, scarf]
 domain: other
 words:
   - he: צעיף

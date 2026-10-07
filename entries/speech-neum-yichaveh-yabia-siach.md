@@ -4,6 +4,7 @@ hebrew: [נאם, יחוה, יביע, שיח, שיחה]
 roots: [נ-א-ם, ח-ו-ה, נ-ב-ע, ש-ו-ח]
 translit: [neum, ne'um, num, nam, namta, neumta, numita, numati, nimati, numasi, nimasi, numeinu, neimah, vayinamu, yichaveh, achaveh, yabia, abiah, mabua, novea, siach, sichah, sicha, yasiach, asichah, lasuach]
 english: [declaration, utterance, oracle, declare, express, pour forth, converse, muse]
+search: [said, says, word]
 domain: speech
 words:
   - he: נאם

@@ -4,6 +4,7 @@ hebrew: [רומס, דורך, בוס, רמש]
 roots: [ר-מ-ס, ד-ר-ך, ב-ו-ס, ב-ס, ר-מ-ש]
 translit: [romes, ramas, remos, tirmos, romsem, dorech, darach, tidroch, derech, boss, bos, bus, tavus, remes, basis, eivus]
 english: [trample, tread, step on, crush underfoot]
+search: [stomp]
 domain: action
 words:
   - he: רומס

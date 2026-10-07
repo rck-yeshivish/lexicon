@@ -4,6 +4,7 @@ hebrew: [גרזן, קרדם, מעצד, כשיל, כילפות]
 roots: [ג-ר-ז, ג-ר-ז-ן, ג-ז-ר, ע-צ-ד]
 translit: [garzen, garzan, kardum, kardom, kordom, kardumo, kardumim, kardumot, kardumos, maatzad, maatzadim, kashil, keilapot, keilapos, kilapot, chatzina, kurnas, kornas]
 english: [axe, pick, adze, adze-axe, mattock, large axe, hatchet]
+search: [saw, scissor, snipper]
 domain: other
 words:
   - he: גרזן

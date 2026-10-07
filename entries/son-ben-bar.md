@@ -4,6 +4,7 @@ hebrew: [בן, בר, בת, ברת, בנות]
 roots: [ב-ן, ב-ר]
 translit: [ben, bar, bat, bas, banos, barat, beris, bar mitzvah, bas mitzvah, bar minan, binyan, binah, tevunah, avnayim]
 english: [son, daughter, child of]
+search: [boy]
 domain: society
 words:
   - he: בן

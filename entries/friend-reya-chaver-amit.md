@@ -4,6 +4,7 @@ hebrew: [רע, רעה, חבר, עמית, רעיה]
 roots: [ר-ע, ח-ב-ר, ע-מ-ת]
 translit: [reya, rea, reah, reyah, reiacha, rayacha, reiati, rayati, chaver, chaveir, chavrei, chibur, chibbur, amit, amis, teruah, kosel raua]
 english: [friend, companion, confidant, fellow, associate, acquaintance, colleague]
+search: [buddy, confidante, pal]
 domain: society
 words:
   - he: עמית

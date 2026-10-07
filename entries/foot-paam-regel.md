@@ -4,6 +4,7 @@ hebrew: [פעם, רגל, פעמון, פעמותיו, מונים]
 roots: [פ-ע, פ-ע-ם, ר-ג-ל]
 translit: [paam, paamim, peamim, paamosav, paamotav, paamon, poem, regel, raglayim, regalim, shalosh regalim, shalosh peamim, efeh, monim, aseres monim]
 english: [foot, step, corner, time, instance, pilgrimage festival, instances]
+search: [leg]
 domain: body
 words:
   - he: פעם

@@ -4,6 +4,7 @@ hebrew: [שמחה, ששון, גילה, גיל, רינה, רנה, דיצה, חד�
 roots: [ש-מ-ח, ש-ו-ש, ג-י-ל, ר-נ-ן, ד-ו-ץ, ח-ד-ה]
 translit: [simchah, simcha, sasson, sason, sosson, gilah, gila, gil, rinah, rina, ditzah, ditza, chedvah, chedva, yagon, aveilus, aveilut, anachah]
 english: [joy, gladness, rejoicing, exultation, burst of joy, joyous song, mirth, delight]
+search: [glad, happy]
 domain: emotion
 words:
   - he: שמחה

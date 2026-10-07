@@ -4,6 +4,7 @@ hebrew: [עברי, עבר, ישראל, בני ישראל, יהודי, יהודה
 roots: [ע-ב-ר, ש-ר-ה, י-ד-ה]
 translit: [ivri, ivriim, ivrim, ever, eved ivri, yisrael, bnei yisrael, yisroel, yehudi, yehudim, yehudah, yehuda, hodaah]
 english: [Hebrew, Israelite, Jew, the other side, Judah]
+search: [jews]
 domain: society
 words:
   - he: עברי

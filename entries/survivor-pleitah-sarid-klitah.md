@@ -4,6 +4,7 @@ hebrew: [פליטה, פליט, שריד, קליטה, מקלט, שרד]
 roots: [פ-ל-ט, ש-ר-ד, ק-ל-ט]
 translit: [pleitah, pleita, peleitah, palit, palet, pelet, sarid, sridah, seridah, srad, serad, klitah, kelitah, kelet, kolet, kalut, miklat]
 english: [refugee, survivor, remnant, refuge, rescue by expulsion, rescue by reception]
+search: [salvation, saving, survival]
 domain: action
 words:
   - he: פליטה

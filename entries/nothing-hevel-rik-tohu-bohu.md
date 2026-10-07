@@ -4,6 +4,7 @@ hebrew: [הבל, ריק, אפס, תהו, בהו, בלימה, מאומה, כלו�
 roots: [ה-ב-ל, ב-ל, ר-י-ק, ר-ק, א-פ-ס, פ-ס, ס-ף, ת-ה-ה, ת, ב, מ-ה, מ-ם, ב-ל-ם]
 translit: [hevel, hevle, havel, rik, reik, reikanya, larik, varik, reikam, efes, afes, tohu, sohu, bohu, vohu, toheh, tohe, tahiya, bahiya, blimah, blima, bli, meumah, meuma, meum, klum, mah, mahshehu, kolshehu, tehom]
 english: [futility, vanity, emptiness, for naught, formless, void, nothing, anything, nothingness]
+search: [blemish, imperfection, pointlessness, vacuum]
 domain: other
 words:
   - he: הבל
@@ -55,29 +56,28 @@ updated: 2026-09-10
 ## Bottom line
 
 All of these are Hebrew words for "nothing," separated by nuances. *Hevel* and
-*rik*, which *Aleinu* pairs as what the other nations serve, denote the
-impotence and powerlessness of their imagined deities. Rabbi Avraham Bedersi
-makes *hevel* the less intense of the two, something that does exist but has no
-purpose, and *rik* something that does not even exist. For Shadal *hevel* is
-what appears valuable on the surface and is ultimately shown to be worthless, a
-**futility**, and *rik* is toiling for a result that yields nothing, labor **for
-naught**. Malbim takes the exact opposite approach: *hevel* is total
-"nothingness," and *rik* is what has some value on the surface until one digs
-deeper. Rabbi Shlomo Pappenheim traces each to its two-letter root: *rik* (ר-ק,
-emptying) is what is completely lacking in import, as though emptied of its very
-substance, and *hevel* (ב-ל, negation) is what is futile, somewhat substantial
-but still mostly useless. *Efes*, the "nothing" of *Aleinu*'s "nothing exists
-besides Him," means "nothing" or "non-existent" in Tanach and also "but,
-however." Menachem Ibn Saruk treats that last sense as distinct, while Radak
-implies that all its meanings are interrelated. *Tohu* and *bohu*, both commonly
-translated "nothingness," describe the state of the world before the Six Days of
-Creation. The commentators read them in many ways and divide, among other
-things, over which is matter and which is form: Ramban takes *tohu* as matter
-and *bohu* as form, and Ralbag the exact opposite. Rabbi Reuven Chaim Klein
-holds that *blimah*, *meumah* and *klum* are etymologically related, all going
-back to *mah*, "what." *Meumah* means "nothing" and can also mean "anything,"
-because Hebrew allows double negatives; *klum*, its Rabbinic counterpart, also
-means "nothing."
+*rik*, which *Aleinu* pairs as what the other nations serve, denote the impotence
+and powerlessness of their imagined deities. Rabbi Avraham Bedersi makes *hevel*
+the less intense of the two, something that does exist but has no purpose, and
+*rik* something that does not even exist. For Shadal *hevel* is what appears
+valuable on the surface and is ultimately shown to be worthless, a **futility**,
+and *rik* is toiling for a result that yields nothing, labor **for naught**.
+Malbim takes the exact opposite approach: *hevel* is total "nothingness," and
+*rik* is what has some value on the surface until one digs deeper. Rabbi Shlomo
+Pappenheim traces each to its two-letter root: *rik* (ר-ק, emptying) is what is
+completely lacking in import, as though emptied of its very substance, and
+*hevel* (ב-ל, negation) is what is futile, somewhat substantial but still mostly
+useless. *Efes*, the "nothing" of *Aleinu*'s "nothing exists besides Him," means
+"nothing" or "non-existent" in Tanach and also "but, however." Menachem Ibn Saruk
+treats that last sense as distinct, while Radak implies that all its meanings are
+interrelated. *Tohu* and *bohu*, both commonly translated "nothingness," describe
+the state of the world before the Six Days of Creation. The commentators read
+them in many ways and divide, among other things, over which is matter and which
+is form: Ramban takes *tohu* as matter and *bohu* as form, and Ralbag the exact
+opposite. Rabbi Reuven Chaim Klein holds that *blimah*, *meumah* and *klum* are
+etymologically related, all going back to *mah*, "what." *Meumah* means "nothing"
+and can also mean "anything," because Hebrew allows double negatives; *klum*, its
+Rabbinic counterpart, also means "nothing."
 
 ## At a glance
 

@@ -4,6 +4,7 @@ hebrew: [דין, משפט, חק, חוק, דת, נימוס]
 roots: [ד-י-ן, ש-פ-ט, ח-ק-ק, ד-ת, נ-מ-ס]
 translit: [din, deen, mishpat, mishpot, chok, chuk, chukim, chukkim, chukos, chukot, mishpatim, dat, das, dos, dati, nimus, nimmus, nimusim, baal din, gmar din, dina dmalchusa dina, aish dat, eish das]
 english: [law, judgment, verdict, statute, decree, ordinance, edict, custom, rule]
+search: [judgement, religion, ruling]
 domain: society
 words:
   - he: חק

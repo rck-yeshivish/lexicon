@@ -4,6 +4,7 @@ hebrew: [אהבה, אהוב, אוהב, רחים, רחימו, חיבה, חביב,
 roots: [א-ה-ב, ר-ח-ם, ח-ב-ה, ע-ג-ב]
 translit: [ahavah, ahava, ahuv, ahuvah, ohev, ahavim, rechim, r'chim, rechimu, rachim, dechilu urechimu, chibah, chiba, chibbah, chaviv, chavivus, chavivut, chovev, agav, agavim, ugav]
 english: [love, fondness, affection, endearment, dear, beloved, lust]
+search: [friendship]
 domain: emotion
 words:
   - he: אהבה

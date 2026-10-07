@@ -4,6 +4,7 @@ hebrew: [לחיכה, לקיקה, חיך, ילק, מליקה]
 roots: [ל-ח-ך, ל-ק-ק, ל-ק, ח-ך]
 translit: [lechichah, lechicha, lechikhah, lichach, lakak, lekikah, lekika, yalok, yaloku, milakekim, lakeku, cheich, chech, cheikh, yelek, melikah, melika, lahak, lahakat]
 english: [lick, lap up, lick away, lick clean]
+search: [slurp]
 domain: action
 words:
   - he: לחיכה

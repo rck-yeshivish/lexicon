@@ -4,6 +4,7 @@ hebrew: [אסתר, הדסה]
 roots: [ס-ת-ר, ה-ד-ס]
 translit: [esther, ester, istahar, hadassah, hadasa, hadas, assa]
 english: [Esther, Hadassah]
+search: [Mordechai, myrrh, myrtle]
 domain: other
 words:
   - he: אסתר

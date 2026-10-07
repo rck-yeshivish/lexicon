@@ -4,6 +4,7 @@ hebrew: [סבא, שכר, שיכרון, שכר, זולל]
 roots: [ס-ב-א, ש-כ-ר, ז-ל-ל]
 translit: [sove, soveh, sova, sava, savim, sovim, savaim, savyuta, shachar, shikor, shikur, shikaron, shichrus, shichrut, sheichar, shechar, zollel, zolel]
 english: [swilling, drinking to excess, drunkenness, getting drunk, strong drink, gluttony]
+search: [blotto, drunk, get drunk, intoxicated, plastered, wasted]
 domain: action
 words:
   - he: סבא

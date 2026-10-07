@@ -4,6 +4,7 @@ hebrew: [נפש, רוח, נשמה, חיה, יחידה]
 roots: [נ-פ-ש, ר-ו-ח, נ-ש-ם, ח-י-ה, י-ח-ד]
 translit: [nefesh, nefesh chayah, ruach, ruach hakodesh, neshamah, neshama, nishmas chaim, nishmat chaim, chayah, chaya, yechidah, yechida, vayinafash, neshimah]
 english: [soul, life-soul, spirit, higher soul, breath of life, life-force, singular soul]
+search: [blood, life, self, wind]
 domain: other
 words:
   - he: נפש

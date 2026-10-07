@@ -4,6 +4,7 @@ hebrew: [השלכה, זריקה, הזיה, רמה]
 roots: [ש-ל-ך, ז-ר-ק, נ-ז-ה, ר-מ-ה]
 translit: [hashlachah, hashlacha, vayashlech, vatashlech, zerikah, zerika, zarak, zarko, hazayah, hazaya, ramah, rama]
 english: [throw away, drop, cast, throw, sprinkle, hurl, shoot]
+search: [chuck, toss]
 domain: action
 words:
   - he: השלכה

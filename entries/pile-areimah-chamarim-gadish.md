@@ -4,6 +4,7 @@ hebrew: [ערמה, חמרים, גדיש, עמר, חמר, ערום]
 roots: [ע-ר-ם, ח-מ-ר, ג-ד-ש, ע-מ-ר, ע-ר]
 translit: [areimah, aremah, aremot, areimos, chamarim, chomer, cheimar, chamran, gadish, omer, amar, eir, armon, arum]
 english: [pile, heap, stack, sheaf, bundle, mound]
+search: [bale]
 domain: quantity
 words:
   - he: ערמה

@@ -4,6 +4,7 @@ hebrew: [עוגה, חררה, ככר, חלה, גלוסקא, קוגל, פשטיד�
 roots: [ע-ו-ג, ח-ר-ר, כ-כ-ר, ח-ל-ל]
 translit: [ugah, ugot, ugos, ugiyah, ugiyot, ug ugah, chararah, charara, kikar, kikar lechem, challah, challas lechem, gluskos, gluskin, gluska, gluskaos, kugel, kigel, kigul, pashtida]
 english: [cake, flat round loaf, loaf, fine bread, roll]
+search: [circular, matzah, round]
 domain: other
 words:
   - he: עוגה

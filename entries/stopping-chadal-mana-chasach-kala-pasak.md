@@ -4,6 +4,7 @@ hebrew: [חדל, מנע, חשך, כלא, פסק]
 roots: [ח-ד-ל, מ-נ-ע, ח-ש-ך, כ-ל-א, פ-ס-ק, נ-ע]
 translit: [chadal, chodel, vechadal, mana, mona, timna, chasach, chosech, chasachta, kala, kele, vayikaleh, tichla, pasak, posek]
 english: [cease, stop, withhold, hold back, spare, detain, cut off]
+search: [desist]
 domain: action
 words:
   - he: חדל

@@ -4,6 +4,7 @@ hebrew: [נתיב, רחוב, מסילה, מעגל, משעול, שביל]
 roots: [נ-ת-ב, ר-ח-ב, ס-ל-ל, ע-ג-ל, ש-ע-ל, ש-ב-ל]
 translit: [netiv, nesiv, netivot, nesivos, rechov, rechovot, rechovos, mesilah, mesila, maslul, maagal, magal, mishol, mish'ol, shvil, shvill, shevil, bishvil, shevel, shual]
 english: [path, street, highway, roundabout way, footpath, trail]
+search: [avenue, road, way]
 domain: other
 words:
   - he: רחוב

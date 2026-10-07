@@ -4,6 +4,7 @@ hebrew: [כבוד, יקר]
 roots: [כ-ב-ד, י-ק-ר]
 translit: [kavod, kovod, koved, kaved, kabed, l'chabed, lechabed, kibud, kibbud, yakar, yekar, yikar, y'kar, yakir, yekarah, yikrah, v'yikar, veyikar, yakrus]
 english: [honor, esteem, glory, precious, preciousness, rare, dear, costly]
+search: [clean, expensive, heavy, honorable, important, liver, refreshments, repast, snack, sweep, valuable, weighty]
 domain: society
 words:
   - he: כבוד

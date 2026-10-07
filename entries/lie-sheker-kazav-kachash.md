@@ -4,6 +4,7 @@ hebrew: [שקר, כזב, כחש, אמת]
 roots: [ש-ק-ר, כ-ז-ב, כ-ח-ש]
 translit: [sheker, shekker, kazav, kozev, chazav, kachash, kichesh, michachesh, emes, emet, shikur]
 english: [falsehood, lie, deceit, fabrication, denial]
+search: [disappoint, falsity, underdeliver, underperform]
 domain: speech
 words:
   - he: שקר

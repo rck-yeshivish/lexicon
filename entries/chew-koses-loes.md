@@ -4,6 +4,7 @@ hebrew: [כסס, כסיסה, לעס, לעיסה, יקוסס, כסנין, קסק�
 roots: [כ-ס-ס, ק-ס-ס, ק-ס, ל-ע-ס]
 translit: [koses, kosses, kas, kesisah, kesisa, kisisah, lachus, lo'es, loes, leisah, leisa, leiseh, kiskusei, kaskasa, lekaskes, kisnin, kesanin, yikoses, keset, kisam]
 english: [chew, chewing, munch, masticate, crunch, gnaw]
+search: [mastication]
 domain: body
 words:
   - he: כסס

@@ -4,6 +4,7 @@ hebrew: [אדום, שני, תולעת שני, חמוץ, אמוץ, שרוק, חו
 roots: [א-ד-ם, ש-נ-י, ח-מ-ץ, א-מ-ץ, ש-ר-ק, ח-ו-ם, ס-מ-ק, ז-ה-ר]
 translit: [adom, adum, adumah, admoni, adamdam, odem, shani, shni, tolaas shani, tolaat shani, tola, chamutz, chamutzim, amutz, amutzim, seruk, serukim, sorek, chum, shachum, chachlilei, chamar, sumak, sumka, samka, zehoris, zehorit, gichor, sarak, sikra]
 english: [red, crimson, ruddy, pink, dark red, bloodshot, chestnut]
+search: [Mars, ruby]
 domain: nature
 words:
   - he: אדום

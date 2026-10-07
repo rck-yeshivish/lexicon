@@ -4,6 +4,7 @@ hebrew: [שמיטה, חליצה, שלף, של, אלץ]
 roots: [ש-מ-ט, ח-ל-ץ, ש-ל-ף, נ-ש-ל, א-ל-ץ]
 translit: [shemittah, shmita, shemitah, shamat, hishmit, chalitzah, chalitza, chalatz, chalutzim, chalatzayim, shalaf, shalof, shlif, shal, alatz, alitz]
 english: [releasing, slipping away, extracting, drawing out, removing, pressing]
+search: [sabbatical year, seventh year, shmitta]
 domain: action
 words:
   - he: שמיטה

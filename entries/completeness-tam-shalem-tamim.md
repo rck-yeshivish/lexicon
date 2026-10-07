@@ -4,6 +4,7 @@ hebrew: [תם, תמים, תמימות, שלם, שלמות, שלום]
 roots: [ת-מ-ם, ש-ל-ם]
 translit: [tam, tamim, temimah, temimos, temimot, temimus, temimut, tom, tumah, shalem, shaleim, shalaim, shleimus, shleimut, shelemus, shelemut, sheleimus, shalom, shelim, leshalem]
 english: [complete, whole, wholeness, completeness, unblemished, wholehearted, wholesome, perfect]
+search: [even up, pay, simple]
 domain: other
 words:
   - he: תם

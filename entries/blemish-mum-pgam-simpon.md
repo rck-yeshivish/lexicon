@@ -4,6 +4,7 @@ hebrew: [מום, מאומה, פגם, סימפון, פג]
 roots: [מ-ם, א-ם, פ-ג-ם, פ-ג, ס-מ-פ-ן]
 translit: [mum, moom, mumin, meumah, meuma, pgam, pegam, pagum, pogem, pogemet, taam lifgam, pag, vayafag, simpon, simfon, sumponia]
 english: [blemish, defect, flaw, deficiency, nick, cancellation]
+search: [imperfection, nothing]
 domain: other
 words:
   - he: מום

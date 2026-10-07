@@ -4,6 +4,7 @@ hebrew: [פצע, חבורה, חובל, חברבורות]
 roots: [פ-צ-ע, פ-צ-ה, ח-ב-ר, ח-ב-ל]
 translit: [petza, peza, potzeh, potzea, chaburah, chabura, chavurah, chovel, choveil, chaval, chavarburos, chavarburot]
 english: [open wound, laceration, bruise, contusion, to injure]
+search: [bleeding, grouping, injury, wounding]
 domain: body
 words:
   - he: פצע

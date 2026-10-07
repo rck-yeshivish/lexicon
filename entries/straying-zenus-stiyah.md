@@ -4,6 +4,7 @@ hebrew: [זנות, זנה, סטיה, שטה, סוטה, שוטה, שטן, שיט�
 roots: [ז-נ-ה, ז-ן, ש-ט, ס-ט, ט]
 translit: [zenus, zenut, zanah, zonah, vezanu, zan, mazon, stiyah, setiyah, sotah, soteh, shoteh, shtus, shtut, satan, saton, shitah, shittim]
 english: [straying, deviance, promiscuity, deviating, wayward, adversary, method]
+search: [path, road, street, trail, way]
 domain: action
 words:
   - he: זנות

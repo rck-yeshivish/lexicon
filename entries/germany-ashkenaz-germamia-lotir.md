@@ -4,6 +4,7 @@ hebrew: [אשכנז, גרממיא, גרמניא, לותיר, אלמניא, גו�
 roots: []
 translit: [ashkenaz, ashkenazi, ashkenazic, leshon ashkenaz, germamia, germania, germaniya, lotir, lothar, lotharingia, almenia, alemania, gomer, tedeschi, yekke]
 english: [Ashkenaz, Germany, Germania, Lothar, Alemannia]
+search: [German]
 domain: society
 words:
   - he: אשכנז

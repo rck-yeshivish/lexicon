@@ -4,6 +4,7 @@ hebrew: [ממון, דמים, מעות, זוז, כסף, מחיר, הון, רכו�
 roots: [מ-נ-ה, א-מ-ן, ד-מ-ה, ז-ו-ז, כ-ס-ף, מ-כ-ר]
 translit: [mammon, mamon, mammonos, mammonot, damim, damin, dmei, demei, maos, maot, maah, zuz, zuzim, kesef, mechir, mecher, hon, rechush, geirah, gera, maneh, maos chitim]
 english: [money, funds, price, value, cash, coin, silver]
+search: [counting, currency, deposit, legal tender, trust]
 domain: society
 words:
   - he: ממון

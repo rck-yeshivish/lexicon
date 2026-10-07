@@ -4,6 +4,7 @@ hebrew: [שחר, בוקר, צפרא, קריצתא, שחרות, שחור]
 roots: [ש-ח-ר, ב-ק-ר, צ-פ-ר, ק-ר-ץ]
 translit: [shachar, shakhar, shacharis, shacharit, boker, boqer, tzafra, tsafra, kritzuta, kritzin, kritizin, shachara, shacharus, shacharut, shachor, ayeles hashachar, ayelet hashachar]
 english: [dawn, daybreak, morning, first light]
+search: [sunrise]
 domain: time
 words:
   - he: בוקר

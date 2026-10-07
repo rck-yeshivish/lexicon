@@ -4,6 +4,7 @@ hebrew: [חלק, שוע, שעיע, משעי, שעשוע]
 roots: [ח-ל-ק, ש-ע]
 translit: [chalak, chelkat, chelkas, chaluk, shua, shoa, shiiya, shia, mishi, mishei, lemishi, sha, shaashua, shaatnez, shatnez, glatt]
 english: [smooth, slippery, smoothed, plastered, daubed, delight]
+search: [slidey]
 domain: other
 words:
   - he: חלק

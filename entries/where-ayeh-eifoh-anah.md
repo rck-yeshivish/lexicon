@@ -4,6 +4,7 @@ hebrew: [אי, איה, איכה, איפה, אן, אנה, לאן, מאין]
 roots: [א-י, א-פ-ה, א-ן]
 translit: [ey, ei, ayeh, aye, ayeka, ayekah, eifoh, eifo, eifah, an, anah, ana, lean, lan, meayin, mei'ayin, ee, aniyah, aniah]
 english: [where, where is, whither, to where, from where, which]
+search: [here]
 domain: other
 words:
   - he: איה

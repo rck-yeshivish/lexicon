@@ -4,6 +4,7 @@ hebrew: [נוהג, מוליך, נחה, נהל, מנהג, מנהיג, מנהל]
 roots: [נ-ה-ג, ה-ג, ה-ל-ך, נ-ח-ה, נ-ח, נ-ה-ל, ה-ל, נ-ה]
 translit: [noheg, nohaig, nihag, vayinhag, yinhagu, manhig, minhag, nahag, hege, molich, yolech, holech, nachah, nacham, nachisa, lanchosam, nechei, nocheh, nohel, neihalta, vayenahaleim, esnahalah, menahel, hanhalah, menuchah, nachas]
 english: [lead, drive, guide, take, conduct, sustain]
+search: [driver, leader, manager, puller]
 domain: action
 words:
   - he: נוהג

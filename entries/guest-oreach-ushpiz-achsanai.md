@@ -4,6 +4,7 @@ hebrew: [אורח, אושפיז, אכסנאי, אכסניה, ארוחה, אור�
 roots: [א-ר-ח, ר-ח, כ-ס-ן]
 translit: [oreach, orach, orchim, orcha, aruchah, arucha, ushpiz, ushpizin, ushpiza, ushpizchan, ashpaz, ishpuz, achsanai, achsenai, achsanya, achsanyah, achsania]
 english: [guest, wayfarer, host, lodging, inn, meal, way, caravan]
+search: [visitor]
 domain: society
 words:
   - he: אורח

@@ -4,6 +4,7 @@ hebrew: [גוי, עם, לאום, אומה]
 roots: [ג-ו-י, ע-מ-ם, ל-א-ם, א-מ-ם]
 translit: [goy, goyim, am, ammim, leom, leum, leumim, leomim, om, umah, ummah, umim, gviah]
 english: [nation, people, kingdom, tribe]
+search: [ethnicity]
 domain: society
 words:
   - he: גוי

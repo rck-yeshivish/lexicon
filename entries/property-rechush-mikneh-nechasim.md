@@ -4,6 +4,7 @@ hebrew: [רכוש, מקנה, נכסים, רכש, כיס]
 roots: [ר-כ-ש, ק-נ-ה, כ-ס-ה, ר-כ-ס]
 translit: [rechush, rechus, rachash, reches, mikneh, miknei, miknah, kinyan, nechasim, nechasin, neches, nechosim, kisui, kis, kesus, meches]
 english: [property, possessions, livestock, assets]
+search: [chattel, items, stuff, wealth]
 domain: society
 words:
   - he: רכוש

@@ -4,6 +4,7 @@ hebrew: [גמל, נאקה, בכר, בכרה, כר, כרכרות]
 roots: [ג-מ-ל, נ-ק, ב-כ-ר, כ-ר]
 translit: [gamal, gamalim, gemalim, nakah, naakah, becher, bechor, bichrah, bikhra, bichrei, kar, kirkarot, kirkaros, kirkarah, meinikot, meineket, hugnei, hugna, gamla]
 english: [camel, she-camel, young camel, dromedary, swift camel]
+search: [beast of burden]
 domain: nature
 words:
   - he: גמל

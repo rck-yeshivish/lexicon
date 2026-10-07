@@ -4,6 +4,7 @@ hebrew: [ילד, ילדה, עולל, רובה, עלם, טליא, רביא]
 roots: [י-ל-ד, ל-ד, ע-ל, ע-ר, ר-ב, ט-ל-ה]
 translit: [yeled, yaldah, yalad, valad, toldos, toldot, olel, olal, roveh, rovah, reva, ravya, rivah, riviysa, ulema, ulemta, tali, talya, talyasa, tleh, elem, almah]
 english: [child, toddler, youngster, boy, girl, lad]
+search: [maiden, youth]
 domain: society
 words:
   - he: ילד

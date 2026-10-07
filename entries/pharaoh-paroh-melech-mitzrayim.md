@@ -4,6 +4,7 @@ hebrew: [פרעה, מלך מצרים, פרעה מלך מצרים]
 roots: [פ-ר-ע, מ-ל-ך]
 translit: [paroh, pharaoh, paro, melech mitzrayim, melech mitzraim, paroh melech mitzrayim, poel ra, peh ra, shishak, necho, chafra, melol, adikam]
 english: [Pharaoh, King of Egypt]
+search: [king]
 domain: society
 words:
   - he: פרעה

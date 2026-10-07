@@ -4,6 +4,7 @@ hebrew: [תאוה, חמדה, חפץ]
 roots: [א-ו-ה, ח-מ-ד, ח-פ-ץ]
 translit: [taavah, ta'avah, taava, tayvah, tayvuh, taivah, taavos, hitavu, hisavu, chemdah, chemda, chemed, chamad, nechmad, chafetz, chefetz, chefets]
 english: [craving, lust, appetite, coveting, desire]
+search: [covet, yearn]
 domain: emotion
 words:
   - he: תאוה

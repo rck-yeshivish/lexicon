@@ -4,6 +4,7 @@ hebrew: [נחלה, ירושה, אחוזה, יורש]
 roots: [נ-ח-ל, י-ר-ש, א-ח-ז]
 translit: [nachalah, nachala, nochel, yerushah, yerusha, yoresh, achuzah, achuza, achuzas nachalah, reshus, reshut]
 english: [inheritance, patrimony, holding, ancestral holding, heir]
+search: [bequeathal]
 domain: society
 words:
   - he: נחלה

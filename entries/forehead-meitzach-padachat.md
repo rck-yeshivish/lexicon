@@ -4,6 +4,7 @@ hebrew: [מצח, פדחת, ציץ, צח]
 roots: [מ-צ-ח, צ-ח, פ-ד-ח]
 translit: [meitzach, metzach, meizach, mitzcho, padachat, padachas, padachta, pedachat, tzach, netzach, nitzachon, azut metzach, azus meitzach]
 english: [forehead, brow, top of the head]
+search: [top of head]
 domain: body
 words:
   - he: מצח

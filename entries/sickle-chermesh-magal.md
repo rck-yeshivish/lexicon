@@ -4,6 +4,7 @@ hebrew: [חרמש, מגל]
 roots: [ח-ר-ם, ג-ל, ח-ר, מ-ש]
 translit: [chermesh, chermeish, magal, maggal, magla, magal yad, magal kotzer]
 english: [sickle, scythe, reaping hook]
+search: [reaper]
 domain: other
 words:
   - he: חרמש

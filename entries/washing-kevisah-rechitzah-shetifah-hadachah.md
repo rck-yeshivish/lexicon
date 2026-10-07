@@ -4,6 +4,7 @@ hebrew: [כביסה, רחיצה, שטיפה, הדחה, מריקה, תמרוק, �
 roots: [כ-ב-ס, ר-ח-ץ, ש-ט-ף, ד-ו-ח, מ-ר-ק, ק-נ-ח]
 translit: [kevisah, kevissah, kibbus, vchibsu, rechitzah, rechitza, rachatz, shetifah, shtifah, shataf, shutaf, hadachah, hadacha, hediach, merikah, merika, marak, tamruk, tamrukim, kinuach, kinuah]
 english: [laundering, washing, bathing, sluicing, rinsing, scouring, wiping]
+search: [bath, clean, launder, rinse, wash]
 domain: action
 words:
   - he: כביסה

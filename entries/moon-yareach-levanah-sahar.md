@@ -4,6 +4,7 @@ hebrew: [ירח, לבנה, סהר]
 roots: [י-ר-ח, א-ר-ח, ל-ב-ן, ס-ה-ר]
 translit: [yareach, yaraiach, yerach, orach, oreach, levanah, levana, lavan, sahar, sohar, saharonim, maor]
 english: [moon, the white one, crescent]
+search: [sun]
 domain: nature
 words:
   - he: ירח

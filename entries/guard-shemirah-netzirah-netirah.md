@@ -4,6 +4,7 @@ hebrew: [שמירה, נצירה, נטירה]
 roots: [ש-מ-ר, נ-צ-ר, נ-ט-ר]
 translit: [shemirah, shmirah, shemira, shomer, shamar, tishmor, netzirah, netzira, notzer, yitzrenhu, yitzruni, yintzoru, netirah, netira, notrah, natarti, lo titor, netur]
 english: [guard, watch, safeguard, keep, preserve, wait, hold on to, harbor]
+search: [grudge, overseer, protect, revenge]
 domain: action
 words:
   - he: שמירה

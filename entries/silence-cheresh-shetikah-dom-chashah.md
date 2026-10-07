@@ -4,6 +4,7 @@ hebrew: [חרש, שתיקה, דום, חשה, הס]
 roots: [ח-ר-ש, ש-ת-ק, ד-ו-ם, ח-ש-ה, ה-ס]
 translit: [cheresh, cheiresh, hachareish, tacharishi, tacharishun, charishah, choresh, chorshah, shetikah, shtikah, shatak, dom, vayidom, dumiyah, chashah, lachashot, lachashos, hass, has, hasket, ilem]
 english: [silence, quiet, stillness, hush, holding one's peace]
+search: [hushing, stoppage]
 domain: speech
 words:
   - he: חרש

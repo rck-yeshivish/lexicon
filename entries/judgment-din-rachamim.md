@@ -4,6 +4,7 @@ hebrew: [דין, רחמים, תקיעה, תרועה, אלקים]
 roots: [ד-י-ן, ר-ח-ם, ת-ק-ע, ר-ו-ע]
 translit: [din, rachamim, tekiah, tekiyah, teruah, teruos, teruot, Elokim, HaElokim, mashpia, mekabel, mesikas hadin, metikat hadin]
 english: [judgment, mercy, unbroken blast, broken blast, giver, receiver]
+search: [Day Of Judgment, Rosh Hashana, Yom Kippur]
 domain: other
 words:
   - he: דין

@@ -4,6 +4,7 @@ hebrew: [עוף, ציפור, כנף, צפרא]
 roots: [ע-ו-ף, צ-פ-ר, כ-נ-ף]
 translit: [of, ohf, oaf, tzipor, tzippor, tsipor, kanaf, canaf, tzafra, tzipparim]
 english: [bird, fowl, winged creature, songbird]
+search: [wing]
 domain: nature
 words:
   - he: עוף

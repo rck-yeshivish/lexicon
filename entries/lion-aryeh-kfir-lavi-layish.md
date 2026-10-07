@@ -4,6 +4,7 @@ hebrew: [ארי, אריה, כפיר, לביא, ליש, שחל, שחץ, גור]
 roots: [א-ר-י, כ-פ-ר, ל-ב-א, ל-י-ש, ש-ח-ל, ש-ח-ץ, ג-ו-ר]
 translit: [ari, aryeh, arye, kfir, kefir, lavi, laviyah, layish, laish, shachal, shachatz, gur, gur aryeh, namer]
 english: [lion, lion cub, young lion, lioness, leopard]
+search: [tiger]
 domain: nature
 words:
   - he: אריה

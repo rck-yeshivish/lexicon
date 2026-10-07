@@ -4,6 +4,7 @@ hebrew: [גישה, קירוב]
 roots: [נ-ג-ש, ק-ר-ב]
 translit: [gishah, gisha, vayigash, higish, higishah, nigash, kiruv, keiruv, karov, hikriv, nikrav, korban]
 english: [approach, draw near, come close]
+search: [near]
 domain: action
 words:
   - he: גישה

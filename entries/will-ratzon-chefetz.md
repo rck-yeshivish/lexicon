@@ -4,6 +4,7 @@ hebrew: [רצון, חפץ, צבי]
 roots: [ר-צ-ה, ח-פ-ץ, צ-ב-ה]
 translit: [ratzon, ratson, razon, rotzeh, rotze, retzono, retzoncha, retzon Hashem, chefetz, chefets, chafetz, chofetz, chafatzti, chafetzim, chafatzim, tzvi, tzevi, tzavi, tzvei, raavon, ra'avon, cheshek]
 english: [will, want, desire, yearning]
+search: [crave, yearn]
 domain: emotion
 words:
   - he: רצון

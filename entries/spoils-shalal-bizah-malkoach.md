@@ -4,6 +4,7 @@ hebrew: [שלל, בז, בזה, מלקוח, שבי, עד, עדי]
 roots: [ש-ל, ש-ל-ל, ב-ז, ב-ז-ז, ל-ק-ח, ש-ב-ה, ע-ד]
 translit: [shalal, shallal, baz, bizah, biza, bizas, bizat, malkoach, malkoah, shevi, shvi, ad, adi, shelilah, shelili]
 english: [spoils, booty, plunder, loot, captives, live captives, ornaments]
+search: [treasure]
 domain: society
 words:
   - he: שלל

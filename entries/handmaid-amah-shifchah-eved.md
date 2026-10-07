@@ -4,6 +4,7 @@ hebrew: [אמה, שפחה, עבד]
 roots: [א-מ-ה, ש-פ-ח, ע-ב-ד]
 translit: [amah, amahot, ama, shifcha, shifchah, shefachot, shifchot, eved, eved ivri, avadim]
 english: [maidservant, handmaid, bondwoman, slave]
+search: [manservant, servant]
 domain: society
 words:
   - he: אמה

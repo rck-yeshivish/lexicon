@@ -4,6 +4,7 @@ hebrew: [עני, אביון, מסכן, רש, דל, דך, מך, איש תככים
 roots: [ע-נ-י, א-ב-ה, ס-כ-ן, י-ר-ש, ד-ל-ל, ד-כ-ך, מ-כ-ך, ת-כ-ך, ה-ל-ך]
 translit: [ani, oni, evyon, evyonim, misken, miskein, rash, dal, dakh, dach, mach, mak, ish techachim, ish tochachim, heilech, helech, matanos laevyonim, matanot laevyonim, inui, taav, sakanah, deli]
 english: [poor, destitute, needy, unfortunate, dispossessed, crushed, downtrodden, wanderer]
+search: [impoverished]
 domain: society
 words:
   - he: עני

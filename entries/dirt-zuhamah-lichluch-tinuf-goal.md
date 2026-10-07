@@ -4,6 +4,7 @@ hebrew: [זוהמה, לכלוך, טינוף, אלח, גועל]
 roots: [ז-ה-ם, ל-ח, ט-נ-ף, א-ל-ח, ג-א-ל]
 translit: [zuhamah, zuhama, zohamah, mezuham, lichluch, likhlukh, lichluchis, tinuf, tinof, tinofet, tinofes, nitanfu, elach, ne'elach, goal, goel, gaal, yitgaal]
 english: [filth, grime, soiling, defilement, contamination]
+search: [dirtiness, soiled]
 domain: body
 words:
   - he: אלח

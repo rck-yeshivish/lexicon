@@ -4,6 +4,7 @@ hebrew: [פאה, קרן, זוית, פינה, מקצוע, קצה, אתיק, דמ�
 roots: [פ-א-ה, ק-ר-ן, ז-ו-י, פ-נ-ה, ק-צ-ע, ק-צ-ה, נ-ת-ק, א-ת-י-ק]
 translit: [peah, pe'ah, peot, peyot, paat, keren, qeren, karnayim, zavit, zavis, zaviyot, pinah, pina, pinos, pinot, miktzoa, miktzo'a, mikztoa, ketzia, ketziah, katzeh, katze, ketzot, ketzavot, atik, asik, demeshek, ziv, rosh pinah, keren zavit]
 english: [corner, edge, side, angle, cornerstone, prominence]
+search: [mouth]
 domain: other
 words:
   - he: פאה

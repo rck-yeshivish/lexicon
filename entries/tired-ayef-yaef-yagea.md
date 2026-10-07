@@ -4,6 +4,7 @@ hebrew: [עיף, יעף, יגע]
 roots: [ע-י-ף, י-ע-ף, י-ג-ע]
 translit: [ayef, ayeif, yaef, yaeif, yaaf, yagea, yagia, yaga, yegiah]
 english: [tired, weary, faint, exhausted, spent]
+search: [sleepy]
 domain: body
 words:
   - he: עיף

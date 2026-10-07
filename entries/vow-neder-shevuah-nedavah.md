@@ -4,6 +4,7 @@ hebrew: [נדר, שבועה, נדבה, קונם, נדרים, שבועות]
 roots: [נ-ד-ר, ש-ב-ע, נ-ד-ב]
 translit: [neder, nedarim, shevuah, shevuot, shevuos, nedavah, nedavos, konam, korban]
 english: [vow, oath, freewill offering, pledge]
+search: [promise]
 domain: speech
 words:
   - he: נדר

@@ -4,6 +4,7 @@ hebrew: [דונג, שעוה, קירא, נכאת]
 roots: [ד-נ-ג, ש-ע, ק-י-ר, נ-כ-א]
 translit: [donag, donog, shaavah, shaava, shayva, sheava, kira, kiri, keirosa, kerosa, nechot, nechos, nchot, sheieita, shaavita, shaaf]
 english: [wax, beeswax, candle wax, spice]
+search: [ear lobe]
 domain: nature
 words:
   - he: דונג

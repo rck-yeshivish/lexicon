@@ -4,6 +4,7 @@ hebrew: [צור, חלמיש, סלע, אבן]
 roots: [צ-ו-ר, ח-ל-מ-ש, ס-ל-ע]
 translit: [tzur, tzor, tzurim, tzarur, tzorer, tzayir, chalamish, halamish, sela, selah, even, ehven]
 english: [flintrock, hard rock, flint, crag, stone, source, bedrock]
+search: [boulder]
 domain: nature
 words:
   - he: צור

@@ -4,6 +4,7 @@ hebrew: [חורבן, חרבה, שממה, שמם, שם]
 roots: [ח-ר-ב, ש-מ-ם]
 translit: [churban, chorban, churban habayis, churban habayit, charbah, charba, chorvah, chareiv, shemamah, shmamah, shemama, shamem, vahashimosi, vehashimoti, mishtomem, shahm, sham]
 english: [destruction, ruin, desolation, devastation]
+search: [abandoned, destroy]
 domain: other
 words:
   - he: חורבן

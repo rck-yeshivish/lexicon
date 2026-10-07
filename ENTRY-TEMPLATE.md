@@ -4,6 +4,7 @@ hebrew: [<unpointed Hebrew words, e.g. בושה, כלימה, חרפה>]
 roots: [<root letters with hyphens, e.g. ב-ו-ש, כ-ל-ם, ח-ר-ף>]
 translit: [<every plausible transliteration, Ashkenazi and Sephardi, e.g. bushah, busha, klimah, kelimah, cherpah, cherpa>]
 english: [<the English glosses used in the Bottom line, e.g. shame, humiliation, disgrace>]
+search: [<optional: other English a reader might type, e.g. abashed, mortified>]   # search box only; never shown as a rendering, not in INDEX.md or the A to Z list
 domain: <one of: emotion, cognition, speech, body, action, nature, ritual, society, time, quantity, other>
 words:                    # one item per Hebrew word: its OWN English and what sets it apart.
   - he: <Hebrew word, unpointed>        # This block feeds the Hebrew headword table in INDEX.md,

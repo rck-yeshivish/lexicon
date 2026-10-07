@@ -4,6 +4,7 @@ hebrew: [רציחה, הריגה, קטילה, מיתה]
 roots: [ר-צ-ח, ה-ר-ג, ק-ט-ל]
 translit: [retzichah, retzicha, rotzeach, ratzach, tirtzach, harigah, hariga, harag, haragta, ketilah, ketila, katal, tiktol, katla, mitah]
 english: [murder, killing, slaying, striking down]
+search: [kill]
 domain: action
 words:
   - he: רציחה

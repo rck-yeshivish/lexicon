@@ -4,6 +4,7 @@ hebrew: [תבל, ארקא, חלד, חדל, חרבה, יבשה, קרקע]
 roots: [ב-ל, א-ר-ק, ח-ל-ד, ח-ד-ל, ח-ר-ב, י-ב-ש]
 translit: [taivel, tevel, teivel, arka, arah, ara, cheled, chedel, chuldah, chaludah, charavah, yabashah, yabasha, karka, tavlin, metubal]
 english: [inhabited world, land, transient world, dry land, floor]
+search: [dirt, ground]
 domain: nature
 words:
   - he: תבל

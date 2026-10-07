@@ -4,6 +4,7 @@ hebrew: [הוד, הדר, אדר]
 roots: [ה-ו-ד, ה-ד-ר, א-ד-ר]
 translit: [hod, hodaah, hoda'ah, karnei hod, hod malchus, hod malchut, hadar, hadras panim, hadrat panim, hadar malchus, hadar malchut, eitz hadar, etz hadar, adar, hod v'hadar, hod vehadar]
 english: [splendor, majesty, glory, inner glory, outward glory]
+search: [radiance]
 domain: other
 words:
   - he: הוד

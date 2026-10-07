@@ -4,6 +4,7 @@ hebrew: [ספר, אגרת, מגילה, גליון, שטר, מחזור, קונט�
 roots: [ס-פ-ר, א-ג-ר, ג-ל, ג-ר, ח-ז-ר, כ-ת-ב]
 translit: [sefer, seforim, sfar, sofer, sippur, mispar, iggeret, igros, igeret, megillah, megilla, megillos, megillot, gilayon, gilyon, shtar, shetar, machzor, machzorim, kuntres, kuntreis, ksav, ktav, mitzchaf]
 english: [book, scroll, letter, epistle, document, deed, codex, pamphlet, sheet]
+search: [contract]
 domain: other
 words:
   - he: ספר

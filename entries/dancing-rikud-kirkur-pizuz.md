@@ -4,6 +4,7 @@ hebrew: [ריקוד, כרכור, פיזוז, פזז, רקד, מרקד, מכרכ�
 roots: [ר-ק-ד, כ-ר-כ-ר, כ-ר, פ-ז-ז, פ-ז, ר-צ-ד]
 translit: [rikud, rikkud, rikod, rekidah, miraked, mirakedin, kirkur, micharker, mecharker, micharkerin, mifazez, mefazez, mifazezin, paz, tiratzdun, kefitzah, machol, hidus, mihades]
 english: [dance, whirl, caper, prance, leap, dance circle]
+search: [jump, sift]
 domain: action
 words:
   - he: ריקוד

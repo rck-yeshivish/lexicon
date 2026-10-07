@@ -4,6 +4,7 @@ hebrew: [שלום, שלוה, שקט, השקט, שאנן, שלאנן, שלו, ש�
 roots: [ש-ל-ם, ש-ל-ה, ש-ק-ט, ש-א-ן]
 translit: [shalom, sholom, shalem, shaleim, shalvah, shalva, shalev, shaleiv, shalu, sheket, shekes, hashket, hashkeit, shaanan, sha'anan, shalanan, betach, nachas, nachat]
 english: [peace, wholeness, tranquility, ease, quiet, stillness, calm, serenity]
+search: [appeasement]
 domain: emotion
 words:
   - he: שלום

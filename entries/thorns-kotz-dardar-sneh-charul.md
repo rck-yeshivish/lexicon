@@ -4,6 +4,7 @@ hebrew: [קוץ, חוח, סלון, סירים, דרדר, אטד, חדק, שמי�
 roots: [ק-ץ, ח-ח, ס-ל, ס-ר, ד-ר, א-ט-ד, ח-ד-ק, ש-מ-ר, ש-א-ה, ב-ר-ק, ח-ר-ל, ק-מ-ש, ק-ר-ב, ש-ו-ך, ס-ן]
 translit: [kotz, kotzim, koutz, choach, chochim, choah, salon, salonim, silon, sneh, s'neh, sirim, seerim, dardar, atad, chedek, chadek, shamir, shayit, shayis, barkan, charul, kimosh, akrav, akravim, sikim, sansan, sirpad, tzninim, tzinim, bashah, saravim]
 english: [thorn, thistle, brier, nettle, bramble, thornbush, scorpion]
+search: [edge, end, spikes, thistles]
 domain: nature
 words:
   - he: קוץ

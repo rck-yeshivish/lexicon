@@ -4,6 +4,7 @@ hebrew: [גיהנום, שאול, אבדון, שחת, בור שאון, טיט ה�
 roots: [ש-ל, א-ב-ד, ש-ח, ש-א-ן, י-ן]
 translit: [gehinnom, gehinom, sheol, shol, avadon, avaddon, shachat, shachas, beer shachat, bor shaon, tit hayaven, tzalmavet, tzalmaves, eretz tachtit, eretz hatachtit, eretz chittit, tophet, tofet, alukah, dumah]
 english: [Gehinnom, grave, pit, destruction, shadow of death, underworld]
+search: [hell, purgatory]
 domain: other
 words:
   - he: שאול

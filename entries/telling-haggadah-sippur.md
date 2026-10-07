@@ -4,6 +4,7 @@ hebrew: [הגדה, מגיד, להגיד, והגדת, תגיד, הגיד, ספו�
 roots: [נ-ג-ד, ג-ד, ס-פ-ר]
 translit: [haggadah, hagadah, higid, lehagid, maggid, magid, vehigadeta, vehigadata, tageid, tagid, aggadah, agadah, sippur, sipur, lesaper, misaper, mesaper, tesaper, tisaper, sefer, sfar, mispar, sofer, sapir, gid, gad, neged]
 english: [tell, relate, declare, recount, narrate, the telling]
+search: [story, storyteller]
 domain: speech
 words:
   - he: הגדה

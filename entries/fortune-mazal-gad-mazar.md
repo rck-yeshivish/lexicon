@@ -4,6 +4,7 @@ hebrew: [מזל, גד, מזר]
 roots: [נ-ז-ל, ג-ד, ז-ר]
 translit: [mazal, mazel, mazalos, mazalot, mazaltov, gad, gada, mazar, mazaros, mazarot]
 english: [constellation, destiny, fortune]
+search: [fate, luck]
 domain: nature
 words:
   - he: מזל

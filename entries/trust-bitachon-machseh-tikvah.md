@@ -4,6 +4,7 @@ hebrew: [בטחון, בטח, מחסה, תקוה, תוחלת, חכוי, סמיכ�
 roots: [ב-ט-ח, ח-ס-ה, ח-ס, ק-ו-ה, ק-ו, י-ח-ל, ח-כ-ה, ס-מ-ך, ש-ע-ן, ש-ע, ס-ע-ד, ש-ב-ר, כ-ס-ל]
 translit: [bitachon, bitochon, betach, boteach, machseh, machaseh, chasah, lachasos, lachasot, tikvah, tikva, kaveh, mekaveh, tocheles, tochelet, yachel, meyachel, chikui, chakeh, mechakeh, semichah, semicha, somech, mishan, mish'an, mishenes, saad, sa'ad, soed, seudah, sever, seiver, kesel, kesil]
 english: [trust, confidence, refuge, hope, expectation, waiting, leaning, reliance, support, security]
+search: [faith]
 domain: emotion
 words:
   - he: בטחון

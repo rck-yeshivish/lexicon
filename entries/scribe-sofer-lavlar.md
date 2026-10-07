@@ -4,6 +4,7 @@ hebrew: [סופר, סופרים, לבלר, ספרא]
 roots: [ס-פ-ר]
 translit: [sofer, sofeir, sofrim, soferim, safra, lavlar, livlar, libler, libellarius, libellus, liblarios]
 english: [scribe, scribes, the Sofrim, the early Sages]
+search: [calligrapher, copyist]
 domain: society
 words:
   - he: סופר

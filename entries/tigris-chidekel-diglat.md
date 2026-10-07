@@ -4,6 +4,7 @@ hebrew: [חדקל, דגלת, הדקל, תיגרס, דקל]
 roots: [ח-ד-ק-ל, ד-ג-ל, ד-ק-ל]
 translit: [chidekel, chidakel, hiddekel, chiddekel, diglat, diglas, deglat, hadekel, tigras, tigris, dekel]
 english: [Tigris, palm tree]
+search: [Euphrates River, Tigris River]
 domain: nature
 words:
   - he: חדקל

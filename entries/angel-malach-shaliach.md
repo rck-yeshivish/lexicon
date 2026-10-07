@@ -4,6 +4,7 @@ hebrew: [מלאך, שליח, ציר, משחית, שלח, מלאכה, שגר, ש�
 roots: [ל-א-ך, ל-ך, מ-ל-א-ך, ש-ל-ח, צ-י-ר, צ-ר, ש-ג-ר, ש-ד-ר]
 translit: [malach, mal'ach, malachim, malochim, shaliach, shliach, sheliach, shluchim, shelichus, shlichut, tzir, tzirim, mashchis, mashchit, shadar, shagar, shagrir, melachah, malachah]
 english: [angel, messenger, agent, emissary, envoy, proxy]
+search: [sent]
 domain: other
 words:
   - he: מלאך

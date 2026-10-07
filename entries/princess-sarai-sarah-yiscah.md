@@ -4,6 +4,7 @@ hebrew: [שרי, שרה, יסכה, שר, שררה, נסיכה]
 roots: [ש-ר-ר, ש-ר-ה, ס-כ-ה, נ-ס-ך]
 translit: [sarai, saray, sarah, sara, yiscah, yiskah, iscah, sar, sarim, serarah, srarah, nesichah, nesicha, sachta, sachin, histakel, sichah]
 english: [my princess, princess, prince, rulership, gazing, the one gazed upon]
+search: [minister]
 domain: society
 words:
   - he: שר

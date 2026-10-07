@@ -4,6 +4,7 @@ hebrew: [עתה, נא, עכשיו, כען, כדון, השתא, האידנא, ע�
 roots: [ע-ת, נ-א, ע-ד-ן]
 translit: [atah, ata, attah, na, achshav, achshov, achshaiv, kean, kaan, kedon, kadon, hashta, hashata, ha shaata, haidna, haidana, ha idana, eit, es, idan, idana]
 english: [now, at present, nowadays, at this hour]
+search: [presently]
 domain: time
 words:
   - he: עתה

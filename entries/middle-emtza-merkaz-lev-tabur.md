@@ -4,6 +4,7 @@ hebrew: [אמצע, מרכז, לב, טבור, רכס, אליבא]
 roots: [א-מ-צ-ע, ר-כ-ז, ר-כ-ס, ל-ב, ט-ב-ר]
 translit: [emtza, emtzai, metzia, metziyata, merkaz, merkazi, rikuz, lev, leiv, libo, tabur, tibur, rechasim, rachasim, aliba, aliba dhilchisa]
 english: [middle, center, midst, heart, core, navel]
+search: [midpoint]
 domain: other
 words:
   - he: אמצע

@@ -4,6 +4,7 @@ hebrew: [תיבה, ארון]
 roots: [ת-ב-ה, א-ר-ן]
 translit: [teivah, teiva, tevah, teva, aron, oron, aronos, aronot]
 english: [ark, box, chest, basket, coffin, closet]
+search: [boat]
 domain: other
 words:
   - he: תיבה

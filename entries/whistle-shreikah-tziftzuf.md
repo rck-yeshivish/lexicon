@@ -4,6 +4,7 @@ hebrew: [שריקה, צפצוף, משרוקיתא, שרקרק, רחם, שורק]
 roots: [ש-ר-ק, צ-פ-צ-ף, צ-ף]
 translit: [shreikah, shrekah, sherikah, sharak, sharku, yishrok, tishrok, sharakrak, mashrokita, mashrokisa, tziftzuf, tzaftzuf, mitzaftzef, tzaftzafah, racham, shuruk, shurek]
 english: [whistle, hiss, chirp, twitter, prattle, piping]
+search: [whistling]
 domain: speech
 words:
   - he: שריקה

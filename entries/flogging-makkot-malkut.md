@@ -4,6 +4,7 @@ hebrew: [מכה, מכות, מלקות, לקה]
 roots: [נ-כ-ה, ל-ק-ה]
 translit: [makkah, maka, makkot, makkos, malkut, malkus, malkuyot, lakah, laka, lokeh, makkot mardut, makkos mardus]
 english: [blow, wound, plague, lashes, flogging]
+search: [flog, hit, lash, strike, whip]
 domain: action
 words:
   - he: מכה

@@ -4,6 +4,7 @@ hebrew: [מגבעת, מצנפת, כובע]
 roots: [ג-ב-ע, צ-נ-ף, כ-ב-ע]
 translit: [migbaas, migbaat, migbaot, migbaos, mitznefes, mitznefet, tznif, tzonef, kova, koba]
 english: [headdress, turban, cap, helmet, hard hat]
+search: [belt]
 domain: ritual
 words:
   - he: מגבעת

@@ -4,6 +4,7 @@ hebrew: [שוב, תשובה, השבה, חזרה, שבת]
 roots: [ש-ב, ש-ו-ב, ח-ז-ר]
 translit: [shuv, shuva, shuvah, teshuva, teshuvah, hashava, hashavah, lehashiv, chazar, chozer, chazara, chazarah, shabbos, shabbat, shevi, chazir]
 english: [return, repentance, revert, turn back, go back, retrace]
+search: [answer]
 domain: action
 words:
   - he: שוב

@@ -4,6 +4,7 @@ hebrew: [נער, נערה, עלם, עלמה, נערים]
 roots: [נ-ע-ר, ע-ל-ם]
 translit: [naar, na'ar, naarah, na'arah, nearim, elem, almah, alma, alamos, alim, neelam, eilum]
 english: [youth, lad, young man, young woman, maiden, attendant]
+search: [boy, child, girl]
 domain: society
 words:
   - he: נער

@@ -4,6 +4,7 @@ hebrew: [צבי, צביון, צבא, צב, יציב]
 roots: [צ-ב-ה, צ-ב, צ-ב-א]
 translit: [tzvi, tzevi, tsvi, tzvi tiferes, ateres tzvi, tzivyon, tzva, tzava, tzavah, tzav, yatziv, eretz hatzvi, tvi]
 english: [splendor, glory, beauty, desire, delight, deer, gazelle, legion, army]
+search: [buck, dear]
 domain: other
 words:
   - he: צבי

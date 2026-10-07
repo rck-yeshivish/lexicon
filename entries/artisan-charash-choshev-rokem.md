@@ -4,6 +4,7 @@ hebrew: [חרש, חשב, רקם, אמן, חרש]
 roots: [ח-ר-ש, ח-ש-ב, ר-ק-ם, א-מ-ן]
 translit: [charash, choresh, charashim, choshev, maaseh choshev, rokem, roikem, rikmah, uman, oman, aman, cheiresh, cheresh, machshavah, cheshbon]
 english: [craftsman, artisan, designer, brocader, embroiderer, master craftsman]
+search: [craftsmen, skilled, talented]
 domain: action
 words:
   - he: חשב

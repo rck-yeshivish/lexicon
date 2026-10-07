@@ -4,6 +4,7 @@ hebrew: [נון, כוורא, שיבוטא, סנדל, תנין, נין]
 roots: [נ-ו-ן, כ-ו-ר, ש-ב-ט, ת-נ-ן, נ-י-ן]
 translit: [nun, nuna, nuni, kavra, kevara, shibuta, shibbuta, sandal, tanin, taninim, tannin, nin, dag, dagah]
 english: [fish, sea monster, offspring]
+search: [piscine]
 domain: nature
 words:
   - he: נון

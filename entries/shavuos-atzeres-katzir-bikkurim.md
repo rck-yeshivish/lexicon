@@ -4,6 +4,7 @@ hebrew: [שבועות, עצרת, קציר, ביכורים, חמישים, קהל,
 roots: [ש-ב-ע, ע-צ-ר, ק-צ-ר, ב-כ-ר, ק-ה-ל]
 translit: [shavuos, shavuot, chag hashavuos, chag hashavuot, atzeres, atzeret, asartha, chag hakatzir, katzir, katzeer, bikkurim, yom habikkurim, yom hachamishim, yom hakahal, chag hatene, tene, shavua, shavuim]
 english: [Festival of Weeks, Assembly, Festival of the Harvest, Day of the First Fruits, the Fiftieth Day, Day of the Congregation, Festival of the Basket]
+search: [week]
 domain: ritual
 words:
   - he: שבועות

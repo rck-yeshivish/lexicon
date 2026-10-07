@@ -4,6 +4,7 @@ hebrew: [בעיר, בהמה, חיה, בער, בור]
 roots: [ב-ע-ר, ב-ה-ם, ה-מ-ה, ח-י-ה, ע-ר]
 translit: [beir, be'ir, beira, behemah, beheimah, behema, chayah, chaya, baar, ba'ar, bur, boor, bor, beer, biur]
 english: [beast, domesticated animal, wild animal, brute, boor, ignoramus]
+search: [animal]
 domain: nature
 words:
   - he: בעיר

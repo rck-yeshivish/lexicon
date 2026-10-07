@@ -4,6 +4,7 @@ hebrew: [גניבה, גנב, גזילה, גזלן, חמס, חמסן, חמצן, �
 roots: [ג-נ-ב, ג-ז, ג-ז-ל, ח-מ-ס, ח-מ-ץ]
 translit: [genevah, genivah, geneivah, ganav, gannav, gezeilah, gezelah, gezel, gazlan, gozel, chamas, chamsan, chometz, chamtzan, listim, listin, lilastem]
 english: [stealing, theft, robbery, plunder, violence, extortion, brigand]
+search: [thievery]
 domain: action
 words:
   - he: גניבה

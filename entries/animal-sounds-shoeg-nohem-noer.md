@@ -4,6 +4,7 @@ hebrew: [שואג, נוהם, יהגה, נוער, שוקק, נוהק]
 roots: [ש-א-ג, נ-ה-ם, ה-ג-ה, נ-ע-ר, ש-ו-ק, נ-ה-ק]
 translit: [shoeg, shoeig, shaag, nohem, noheim, naham, yehegeh, yehgeh, hegeh, noer, noeir, naar, shokek, shokeik, nohek, noheik, goeh, tzohel, mitzaftzef, novayach, oreg, behemah, beheimah]
 english: [roar, growl, bellow, bray, moan, moo, neigh, chirp, bark]
+search: [bark bark, bow wow, cock a doodle do, hav hav, meow, ruff ruff]
 domain: nature
 words:
   - he: שואג

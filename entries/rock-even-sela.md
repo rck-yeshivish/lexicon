@@ -4,6 +4,7 @@ hebrew: [אבן, סלע, לבנה]
 roots: [א-ב-ן, ס-ל-ע, ל-ב-ן]
 translit: [even, ehven, avanim, avnei, sela, selah, slaim, selaim, leveinah, levenah]
 english: [stone, rock, crag, brick]
+search: [boulder]
 domain: nature
 words:
   - he: אבן

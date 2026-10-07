@@ -4,6 +4,7 @@ hebrew: [אחו, אגם, ביצה, סוף, גומא, בוץ, גמא]
 roots: [א-ח-ו, ג-ם, ב-ץ, ס-ו-ף]
 translit: [achu, achoo, agam, agama, agamim, bitzah, bitza, bitzaim, bitzaei mayim, botz, butz, suf, sof, gome, gomeh]
 english: [marsh, marshland, swamp, pond, mire, mud, reed, papyrus]
+search: [lake]
 domain: nature
 words:
   - he: בוץ

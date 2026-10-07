@@ -4,6 +4,7 @@ hebrew: [כילי, צייקן, קמצן, קמיצה, קומץ]
 roots: [כ-ל, כ-י-ל, כ-ו-ל, נ-כ-ל, צ-ק, ק-מ-ץ]
 translit: [kilay, keilay, kili, tzaykan, tzaikan, tzaykanim, tzaykanut, kamtzan, kamtzanut, kemitzah, kemitza, kometz, komatz, kamtza, likematzim]
 english: [miser, cheapskate, stingy, tightfisted, penny-pincher]
+search: [curmudgeon]
 domain: society
 words:
   - he: כילי

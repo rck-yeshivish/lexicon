@@ -4,6 +4,7 @@ hebrew: [כליות, עצה, טוחות]
 roots: [כ-ל-ה, ע-צ-ה, ט-ו-ח]
 translit: [kilayos, kilayot, kilyah, kulya, atzeh, aitzeh, tuchos, tuchot]
 english: [kidneys, innermost thoughts, loins]
+search: [adrenaline, kidney]
 domain: body
 words:
   - he: כליות

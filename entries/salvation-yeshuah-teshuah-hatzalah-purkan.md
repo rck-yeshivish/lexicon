@@ -4,6 +4,7 @@ hebrew: [ישועה, תשועה, הצלה, פורקן, שועה, מושיע, מ�
 roots: [י-ש-ע, ש-ו-ע, נ-צ-ל, צ-ל, פ-ר-ק, ש-ע]
 translit: [yeshuah, yeshua, yeshuos, yeshuot, teshuah, teshua, teshuos, teshuot, hatzalah, hatzala, hatzolah, matzil, moshia, purkan, purkana, shavah, shaavah, shav'ah]
 english: [salvation, deliverance, rescue, redemption, saving, victory]
+search: [redeem, save]
 domain: action
 words:
   - he: ישועה

@@ -4,6 +4,7 @@ hebrew: [גאולה, פדיון, פדות, גואל, פודה, גאל, פדה, �
 roots: [ג-א-ל, פ-ד-ה, פ-ד-ע]
 translit: [geulah, ge'ulah, geula, goel, go'el, pidyon, pidyan, pedus, pedut, podeh, padah, ga'al, goel hadam, purkan]
 english: [redemption, deliverance, ransom, redeem, buy back]
+search: [salvation]
 domain: action
 words:
   - he: פדיון

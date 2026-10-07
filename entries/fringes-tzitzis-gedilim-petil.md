@@ -4,6 +4,7 @@ hebrew: [ציצית, ציץ, גדילים, גדיל, פתיל, טלית, כרו�
 roots: [צ, צ-י-ץ, ג-ד-ל, פ-ת-ל, ט-ל-ל]
 translit: [tzitzis, tzitzit, tzitz, tzitzin, gedilim, gedilin, gadil, gedil, gudal, petil, pesil, petilah, tallis, tallit, taliyos, taliyot, matlis, matlit, kruspedin, kruspidin, kruspeda, itztala, techeiles, techelet]
 english: [fringes, braided cords, thread, four-cornered garment, hem]
+search: [blue, royal blue, sky blue]
 domain: ritual
 words:
   - he: ציצית

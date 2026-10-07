@@ -4,6 +4,7 @@ hebrew: [לח, רטוב, רענן, רטפש, טופח, מפולם, טריה]
 roots: [ל-ח, ר-ט-ב, ר-ע-ן, ר-ט-פ-ש, ט-פ-ח, פ-ל-ם]
 translit: [lach, leicho, lachim, ratuv, ratov, yirtavu, rotev, roteiv, raanan, ra'anan, rutfash, tofeach, tofei'ach, mefulam, mefulamot, mefulamos, marak, lechi, luach, lechem, melach, teriyah, teriya, triyah]
 english: [moist, wet, soaked, fresh, sodden, damp, moist wound]
+search: [liquidy, sopping]
 domain: nature
 words:
   - he: לח

@@ -4,6 +4,7 @@ hebrew: [דרך, ארח, אורח, אורחות, רחוב, נתיב, נתיבה,
 roots: [ד-ר-ך, א-ר-ח, ר-ח-ב, נ-ת-ב, ס-ל-ל, ע-ג-ל, ש-ע-ל, ש-ב-ל]
 translit: [derech, derekh, derachim, drachim, dorech, doreich, orach, orah, orchos, orchot, orchoth, oreach, oreiach, aruchah, arucha, rechov, rehov, rchov, rechovos, rechovot, nativ, netiv, nesiv, nasiv, nesivos, netivot, nesivah, mesilah, mesillah, messilah, mesilos, mesillot, maagal, magal, maagalim, maagalei, mishol, mishaol, mishalim, shvil, shvill, shevil, shvilim, sheviley, igul, shafel]
 english: [way, road, path, street, paved road, footpath, circular path, downhill path]
+search: [avenue, trail]
 domain: other
 words:
   - he: דרך

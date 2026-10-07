@@ -4,6 +4,7 @@ hebrew: [מדרגה, מדרגות, מעלה, מעלות, סולם, דרגא]
 roots: [ד-ר-ג, ע-ל-ה, ס-ל-ם]
 translit: [madreigah, madreiga, madrega, madregah, madreigos, madreigot, madregot, maalah, ma'alah, maala, maalos, maalot, ma'alot, sulam, darga, dargin, maalyuta, shir hamaalos, shir hamaalot]
 english: [level, step, stair, ascent, degree, terrace, ladder]
+search: [staircase, stairs]
 domain: other
 words:
   - he: מעלה

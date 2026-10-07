@@ -4,6 +4,7 @@ hebrew: [הניא, יניא, הפר, הפרה, בטל, בטלה, פור, נא]
 roots: [נ-ו-א, פ-ר-ר, ב-ט-ל]
 translit: [heini, heni, yani, hafarah, hafaras nedarim, heifer, hefer, batel, bittul, bitul, bitul chametz, batalah, pur, na]
 english: [nullify, annul, void, restrain, withhold, break]
+search: [annulment, nullification]
 domain: action
 words:
   - he: הניא

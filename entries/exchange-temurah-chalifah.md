@@ -4,6 +4,7 @@ hebrew: [תמורה, חליפה, חלף, המר ימיר]
 roots: [מ-ר, מ-ו-ר, מ-י-ר, ח-ל-ף]
 translit: [temurah, temura, hamer yamir, yamir, vayamiru, chalifah, chalifa, chalipha, chelef, chalaf, yachalof]
 english: [substitution, exchange, replacement, swap]
+search: [replace, switch]
 domain: action
 words:
   - he: תמורה

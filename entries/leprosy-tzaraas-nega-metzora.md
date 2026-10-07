@@ -4,6 +4,7 @@ hebrew: [צרעת, נגע, צרוע, מצורע, צרעה]
 roots: [צ-ר-ע, נ-ג-ע, ג-ע]
 translit: [tzaraas, tzaraat, tzara'at, nega, nego, negaim, negoim, tzarua, tzaruah, metzora, metzoras, metzoraas, tzirah]
 english: [leprosy, affliction, spot, plague-spot, leper, hornet]
+search: [touch]
 domain: body
 words:
   - he: צרעת

@@ -4,6 +4,7 @@ hebrew: [טוב, נעם, נעים, שפר, שפיר]
 roots: [ט-ו-ב, נ-ע-ם, ש-פ-ר]
 translit: [tov, tob, tovah, noam, no'am, naim, na'im, neimah, ne'imah, na'eimah, neimim, ne'imim, shapir, shappir, shafir, shefer, shafer, shafrah, imrei shefer, imrei shafer]
 english: [good, pleasant, pleasantness, fine, fitting, well, beautiful]
+search: [nice]
 domain: other
 words:
   - he: טוב

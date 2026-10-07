@@ -4,6 +4,7 @@ hebrew: [חיל, חלחל, דחיל, זחל, אזחיל, זחלתי]
 roots: [ח-ל, ד-ח-ל, ז-ח-ל]
 translit: [chil, chal, chalu, chalchalah, vatischalchal, dachil, dechilah, dachla, dachalah, dachilu, zochel, zachal, zachalti, azchil, zochalin, dichilu urechimu]
 english: [trembling, dread, fear, crawling, writhing]
+search: [afraid, quake, scared, shake, terrified, tremble]
 domain: emotion
 words:
   - he: חיל

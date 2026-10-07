@@ -4,6 +4,7 @@ hebrew: [שתיה, השקאה, משקה, הגמיאיני, תשוקה, שוקק,
 roots: [ש-ת-ה, ש-ת, ש-ק, ג-מ-א, ג-ם]
 translit: [shtiyah, shesiyah, lishtos, lishtot, hashkaah, lehashkos, lehashkot, hishkah, mashkeh, hagmieini, hagmiini, gemiah, gemia, teshukah, teshuka, shokek, meshek, shok, shuk, sheket, neshikah, lugma, legimah]
 english: [drink, drinking, give to drink, water, beverage, let me sip, swallow]
+search: [gulp, guzzle]
 domain: action
 words:
   - he: שוקק

@@ -4,6 +4,7 @@ hebrew: [אדם, אנוש, איש, גבר, אנשים, גבירה, גברת]
 roots: [א-ד-ם, ד-מ-ה, א-נ-ש, נ-ש-ה, א-י-ש, י-ש, ג-ב-ר]
 translit: [adam, odom, enosh, anosh, ish, eesh, gever, gevar, anashim, anoshim, gevirah, geveret, giveret, adamah, hadom, gevurah]
 english: [man, mankind, human being, mortal, person, a man, adult male, male]
+search: [people, persons]
 domain: society
 words:
   - he: אדם

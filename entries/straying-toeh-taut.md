@@ -4,6 +4,7 @@ hebrew: [תעה, תועה, תועים, טעה, טעות, מטעה, טעותא]
 roots: [ת-ע-ה, ט-ע-ה]
 translit: [taah, ta'ah, toeh, to'eh, toim, toeim, toah, taut, ta'ut, taus, hitah, hitu, matteh, tavata, taavasa]
 english: [stray, go astray, be lost, err, make a mistake, mislead]
+search: [lost, mistaken]
 domain: cognition
 words:
   - he: תעה

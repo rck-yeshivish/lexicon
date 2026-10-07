@@ -4,6 +4,7 @@ hebrew: [כרובים, חיות, אופנים, אראלים, חשמלים, שר�
 roots: [כ-ר-ב, ח-י-ה, א-פ-ן, א-ר-ל, ח-ש-מ-ל, ש-ר-ף, מ-ל-א-ך, א-י-ש, ע-י-ר]
 translit: [kruvim, keruvim, keruv, kruv, chayos, chayot, chayos hakodesh, ofanim, ophanim, ofan, erelim, erel, chashmalim, chashmal, serafim, seraphim, malachim, malach, elohim, elokim, bnei elohim, ishim, irin, kadishin, galgalim, ravia, abirim]
 english: [cherubim, living beings, wheels, angels, fiery ones, watchers]
+search: [children]
 domain: other
 words:
   - he: חיות

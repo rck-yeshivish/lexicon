@@ -4,6 +4,7 @@ hebrew: [שיר, שירה, זמר, זמרה, מזמור, זמירות, שיר מ
 roots: [ש-י-ר, ז-מ-ר]
 translit: [shir, sheer, shirah, shira, shiros, shirot, zemer, zimrah, zimra, zimras, zimrat, zmiros, zemiros, zemirot, mizmor, mizmor shir, shir mizmor, zomer, pesukei dezimra, klezmer, klei zemer]
 english: [song, sing, music, melody, tune, hymn, psalm, instrumental music]
+search: [ditty]
 domain: speech
 words:
   - he: שירה

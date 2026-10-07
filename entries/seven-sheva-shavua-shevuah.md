@@ -4,6 +4,7 @@ hebrew: [שבע, שביעית, שבוע, שבת, שבועה, שבויה]
 roots: [ש-ב-ע, ש-ב-ת, ש-ב]
 translit: [sheva, sheviis, sheviit, shviis, shavua, shavuah, shavuos, shavuot, shabbos, shabbat, shabbatos, shevuah, shvuah, shevuyah, shvuyah, shivasayim, shivatayim]
 english: [seven, the seventh year, week, seven-year cycle, Shabbos, oath, captive]
+search: [seventh year, shmitta]
 domain: time
 words:
   - he: שבע

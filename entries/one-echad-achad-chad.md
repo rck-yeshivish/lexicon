@@ -4,6 +4,7 @@ hebrew: [אחד, אחת, אח, חד, חדה]
 roots: [א-ח-ד, ח-ד, א-ח]
 translit: [echad, echod, achad, achat, achas, echat, echas, ach, chad, chadah, chada, yachad, chidah, chidud]
 english: [one, a single one, one of, the one, unique]
+search: [single, unified, unity]
 domain: quantity
 words:
   - he: אחד

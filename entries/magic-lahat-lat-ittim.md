@@ -4,6 +4,7 @@ hebrew: [להט, לט, אטים]
 roots: [ל-ה-ט, ל-ט, ל-א-ט, א-ט]
 translit: [lahat, lahad, lat, laat, lot, ittim, ittym, itim]
 english: [sleight of hand, secret arts, incantation, flame]
+search: [magi, magician, necromancer, occult, sorcerer, whisper, wizard]
 domain: ritual
 words:
   - he: להט

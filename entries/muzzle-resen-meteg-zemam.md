@@ -4,6 +4,7 @@ hebrew: [רסן, מתג, זמם, פרומביא, אפסר, זמה]
 roots: [ר-ס-ן, ר-ס, מ-ת-ג, ז-מ-ם, ז-ם]
 translit: [resen, ressen, meteg, metheg, zemam, zemama, zomem, zamam, zimah, zimma, prumbia, prumbiya, perumbia, afsar, ifsar, nezem, roznim]
 english: [muzzle, bit, bridle, reins, halter, plot, scheme]
+search: [mouthpiece]
 domain: other
 words:
   - he: רסן

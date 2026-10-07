@@ -4,6 +4,7 @@ hebrew: [מיתה, מות, מת, פטירה, נפטר, פטור, נח נפשיה
 roots: [מ-ו-ת, מ-ת, פ-ט-ר]
 translit: [mitah, misah, mita, mavet, maves, mos, mot, meis, met, meit, meisim, metim, petirah, petira, nifter, niftar, patur, peter rechem, nach nafshei, nach nafsheih]
 english: [death, died, dying, passing, passed away, departed]
+search: [exempt, expired]
 domain: other
 words:
   - he: מיתה

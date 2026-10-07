@@ -4,6 +4,7 @@ hebrew: [אבנט, חגור, חגורה, אזור, סינר]
 roots: [ח-ג-ר, א-ז-ר]
 translit: [avnet, avneit, chagor, chagorah, chagora, chagurah, eizor, aizor, ezor, sinar]
 english: [sash, belt, girdle, waistband]
+search: [hat]
 domain: ritual
 words:
   - he: אבנט

@@ -4,6 +4,7 @@ hebrew: [עת, זמן, מועד, שעה, עתיד, מזומן]
 roots: [ע-ת, ז-מ-ן, י-ע-ד, ש-ע-ה, ע-ת-ד]
 translit: [eit, eis, et, es, ittim, itim, zman, zeman, zmanim, moed, moeid, moadim, moados, shaah, sha'ah, shoah, shaos, shaot, bechol eit uvechol shaah, ish itti, atid, asid, mizuman, mezuman]
 english: [time, a time, season, appointed time, set time, hour]
+search: [invited, prepared, ready]
 domain: time
 words:
   - he: זמן

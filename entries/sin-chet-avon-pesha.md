@@ -4,6 +4,7 @@ hebrew: [חטא, עון, פשע, עבירה]
 roots: [ח-ט-א, ע-ו-ה, פ-ש-ע, ע-ב-ר]
 translit: [chet, cheit, chait, chatas, chatat, chataim, chatati, chatasi, avon, aavon, avonos, avonot, aviti, avisi, pesha, peshaim, pashati, pashasi, aveirah, aveira, averah, aveiros, aveirot, avaryan, shogeg, meizid, mezid]
 english: [sin, inadvertent sin, iniquity, willful sin, rebellious sin, transgression]
+search: [rebellion]
 domain: action
 words:
   - he: חטא

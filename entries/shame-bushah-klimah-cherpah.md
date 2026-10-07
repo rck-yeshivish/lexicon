@@ -4,6 +4,7 @@ hebrew: [בושה, כלימה, חרפה, חפרה]
 roots: [ב-ו-ש, כ-ל-ם, ח-ר-ף, ח-פ-ר]
 translit: [bushah, busha, boshet, klimah, kelimah, klima, cherpah, cherpa, charfah, chafrah, chofer, nehama dkisufa, kisufa, bahat]
 english: [shame, humiliation, disgrace, mortification]
+search: [abashed, embarrassment]
 domain: emotion
 words:
   - he: בושה

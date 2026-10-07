@@ -4,6 +4,7 @@ hebrew: [ספיר, תכלת, כחול, כרתי]
 roots: [ס-פ-ר, כ-ח-ל]
 translit: [sapir, sappir, sampiryon, sanpiryon, techeilet, techeiles, techelet, kachol, kochla, kachla, michchol, makchol, karti, kartei]
 english: [sapphire, blue gem, sky-blue dye, dark, kohl, indigo]
+search: [sky blue]
 domain: nature
 words:
   - he: ספיר

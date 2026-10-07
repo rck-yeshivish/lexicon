@@ -4,6 +4,7 @@ hebrew: [רחום, רחמים, רחמנות, חנון, חן, חנינה, חוס,
 roots: [ר-ח-ם, ח-נ-ן, ח-ו-ס, ח-ס, ח-מ-ל]
 translit: [rachum, rachamim, rachamin, rachmanus, rachmanut, chanun, chanan, chein, chen, chaninah, chus, chas, chas veshalom, chemlah, chemla, chomel]
 english: [mercy, compassion, grace, favor, pity, sparing, caring]
+search: [love]
 domain: emotion
 words:
   - he: רחום

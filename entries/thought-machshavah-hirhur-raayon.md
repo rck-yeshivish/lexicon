@@ -4,6 +4,7 @@ hebrew: [מחשבה, הרהור, רעיון]
 roots: [ח-ש-ב, ה-ר-ר, ר-ע-ה]
 translit: [machshavah, machshava, machashavah, machshavos, machshavot, hirhur, hirhurim, harhor, raayon, ra'ayon, rayon, raayonos, raayonot, hogeh, higayon, higgayon]
 english: [thought, idea, notion, musing, inner words]
+search: [conception]
 domain: cognition
 words:
   - he: מחשבה

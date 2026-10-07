@@ -4,6 +4,7 @@ hebrew: [ראשית, תחילה, ראשון, ראש, קדם]
 roots: [ר-א-ש, ר-ש, ח-ל-ל, ח-ל, ק-ד-ם, ק-ד]
 translit: [reishis, reishit, breishis, bereishit, rishon, rishonah, rosh, reish, techilah, techila, techilas, lehaschil, lechatchilah, lechatchila, kedem, kodem, kadam, kadmin, kadimah, kamma, kodkod]
 english: [beginning, first, foremost, head, onset, outset, before, east]
+search: [start of process, start of sequence]
 domain: time
 words:
   - he: ראשית

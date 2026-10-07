@@ -4,6 +4,7 @@ hebrew: [צעקה, זעקה, שועה, שוועה]
 roots: [צ-ע-ק, ז-ע-ק, ש-ו-ע]
 translit: [tzaakah, tzeakah, tzaaka, tzaak, vayitzak, zaakah, zeakah, zaaka, vayizak, shaavah, shavah, shaava, shivah, shava, yeshuah, tzaar]
 english: [cry out, outcry, cry for help, plea]
+search: [exclaim]
 domain: speech
 words:
   - he: צעקה

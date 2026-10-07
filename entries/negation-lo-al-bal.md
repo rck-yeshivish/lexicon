@@ -4,6 +4,7 @@ hebrew: [לא, אל, בל, בלי, בלתי]
 roots: [ל-א, א-ל, ב-ל]
 translit: [lo, al, bal, bli, b'li, bilti, bilui, blo, b'lo]
 english: [not, do not, shall not, without, the prohibition of]
+search: [don't, lav]
 domain: speech
 words:
   - he: לא

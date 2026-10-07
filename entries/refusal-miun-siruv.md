@@ -4,6 +4,7 @@ hebrew: [מיאון, סירוב, מרי, מרידה, סרבן, סרבים, סל�
 roots: [מ-א-ן, ס-ר-ב, מ-ר-ה]
 translit: [miun, mieun, vayimaen, maen, meen, siruv, seiruv, sarvan, sarvanim, saravim, misarev, misharev, sarvanus, meri, meridah, merida, salonim]
 english: [refuse, refusal, decline, rebel, rebellion, pester]
+search: [deny]
 domain: speech
 words:
   - he: מיאון

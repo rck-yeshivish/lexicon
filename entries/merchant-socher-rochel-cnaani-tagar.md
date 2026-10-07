@@ -4,6 +4,7 @@ hebrew: [סוחר, רוכל, כנעני, תגר]
 roots: [ס-ח-ר, ר-כ-ל, כ-נ-ע, ת-ג-ר]
 translit: [socher, socharim, sechorah, rochel, rocheles, rochelet, rochlim, cnaani, knaani, kenaani, cnaanit, tagar, tagara, tagarim, pragmatia, prakmatia]
 english: [merchant, wholesaler, peddler, trader]
+search: [Canaanite, vendor]
 domain: society
 words:
   - he: סוחר

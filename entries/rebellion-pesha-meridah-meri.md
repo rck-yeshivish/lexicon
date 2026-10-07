@@ -4,6 +4,7 @@ hebrew: [פשע, מרידה, מרי, ממרה, מורה, מורד]
 roots: [פ-ש-ע, מ-ר-ד, ר-ד, מ-ר-ה, מ-ר-ר, מ-ר]
 translit: [pesha, pasha, poshea, nifsha, vayifsha, meridah, mered, mored, moredes, yamreh, meri, mamre, mamrim, moreh, mumar, zaken mamre, merudim, rodeh, mar]
 english: [rebellion, revolt, defiance, negligence, insubordination]
+search: [mutiny, perfidy]
 domain: society
 words:
   - he: פשע

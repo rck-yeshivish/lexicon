@@ -4,6 +4,7 @@ hebrew: [סביב, היקף, עפף, חוג, חג]
 roots: [ס-ב-ב, נ-ק-ף, ע-ו-ף, ח-ו-ג]
 translit: [saviv, sovev, sivuv, sevivon, sav, saba, soveh, heikef, hekef, haikef, hakafah, hakafot, hakafos, kafui, afef, afefuni, chug, machug, chag, chagorah, ugah, agil, sachor, socher]
 english: [around, about, encircle, circuit, circumference, circle, envelop, orbit]
+search: [circuitous, enclosed, revolve, surround]
 domain: other
 words:
   - he: סביב

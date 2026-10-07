@@ -4,6 +4,7 @@ hebrew: [יבם, יבמה, ייבום, גיס, גיסה, חתן, במה]
 roots: [י-ב-ם, ב-ם, ג-ס, ח-ת-ן]
 translit: [yavam, yevamah, yevamos, yevamot, yibbum, yibum, giss, gis, gass, agiss, gisa, gissa, gissim, choten, chosen, bamah, gassus, gassut ruach]
 english: [brother-in-law, sister-in-law, levirate marriage, father-in-law, private altar, high place]
+search: [brother in law, sibling of spouse, sister in law, spouse of sibling]
 domain: society
 words:
   - he: יבם

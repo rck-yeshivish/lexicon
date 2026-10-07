@@ -4,6 +4,7 @@ hebrew: [אדרת, גלימא, איצטלא, תכריך, טלית, גולם]
 roots: [א-ד-ר, ג-ל-ם, כ-ר-ך, ט-ל-ל]
 translit: [aderet, aderes, adderet, glima, gelima, gelem, itztala, itztela, istala, istalvan, itztala drabbanan, tachrich, tachrichin, tachrichim, tallit, tallis, golem, adir, adirim, sudar]
 english: [mantle, cloak, robe, wrap, shroud, shawl]
+search: [cape, coat, fringe, gown]
 domain: society
 words:
   - he: אדרת

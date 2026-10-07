@@ -4,6 +4,7 @@ hebrew: [כהן, כהנים, כומר, כמרים, נכמרו, מכמר]
 roots: [כ-ן, כ-ה-ן, כ-מ-ר]
 translit: [kohen, kohanim, komer, komrim, kemarim, nichmeru, nichmaru, michmar, komer shel anavim, hachanah, nachon]
 english: [priest, idolatrous priest, priest of an idol, temple functionary]
+search: [chaplain, cohen, deacon, pastor]
 domain: ritual
 words:
   - he: כהן

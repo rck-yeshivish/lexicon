@@ -4,6 +4,7 @@ hebrew: [מוט, בד, נס, תורן, שפוד, זמורה]
 roots: [מ-ו-ט, מ-ט, ט-ה, ב-ד-ד, נ-ס-ס, ש-א, ת-ר, ת-ר-ן]
 translit: [mot, mott, motah, motot, motos, bad, badd, badim, baddim, neis, nes, nissim, toren, shapud, shpud, shifud, shipud, shafod, zemorah, zmorah]
 english: [carrying pole, stave, banner pole, mast, skewer, branch]
+search: [stake]
 domain: other
 words:
   - he: מוט

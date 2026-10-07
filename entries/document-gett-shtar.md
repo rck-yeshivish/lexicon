@@ -4,6 +4,7 @@ hebrew: [גט, גיטין, שטר, שטרות, ספר כריתות, ספר המ�
 roots: [ג-ט, ש-ט-ר]
 translit: [gett, get, git, gittin, gitin, shtar, shetar, shtarot, shtaros, shetarot, sefer kerisus, sefer kritut, sefer hamiknah, sefer hamikna, shoter, shotrim, sofer, kartis, chartis, karta, diska, diskah]
 english: [document, writ, bill, deed, bill of divorce, contract, card]
+search: [book, scroll]
 domain: society
 words:
   - he: גט

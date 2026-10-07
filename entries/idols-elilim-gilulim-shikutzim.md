@@ -4,6 +4,7 @@ hebrew: [אלילים, פסל, מסכה, מצבה, עצבים, גלולים, ת�
 roots: [א-ל-ל, פ-ס-ל, נ-ס-ך, נ-צ-ב, ע-צ-ב, ג-ל-ל, ת-ר-ף, ש-ק-ץ, ח-מ-ם, א-ש-ר]
 translit: [elilim, elil, pesel, pesilim, masechah, masecha, matzeivah, matzevah, matzeivos, atzabim, atzavim, gilulim, gillulim, terafim, teraphim, shikutzim, shikkutzim, sheketz, chamanim, asherim, asherah, chalulim, chalalim, megualim, glalim, ishur]
 english: [idols, graven image, molten image, pillar, images, dung-idols, abominations, sun-pillars]
+search: [idol, idolatry]
 domain: ritual
 words:
   - he: אלילים

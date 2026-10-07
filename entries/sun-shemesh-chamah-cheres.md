@@ -4,6 +4,7 @@ hebrew: [שמש, חמה, חרס]
 roots: [ש-מ-ש, ח-ם, ח-ר-ס]
 translit: [shemesh, shamash, shimush, chamah, chama, chamanim, cheres, charas, maor]
 english: [sun, the hot one]
+search: [moon]
 domain: nature
 words:
   - he: שמש

@@ -4,6 +4,7 @@ hebrew: [בקיעה, קריעה, גזירה, חתיכה, בתר, נתח, פתי�
 roots: [ב-ק-ע, ק-ר-ע, ג-ז-ר, ח-ת-ך, ב-ת-ר, נ-ת-ח, פ-ת-ת, מ-ו-ל, פ-ל-ח, ק-ט-ב, פ-ר-ם, ג-ד-ע, ק-צ-ץ, ק-ט-ף, כ-ר-ת]
 translit: [bokea, bekiah, bakia, korea, kriah, kriyah, keriah, gozer, gezirah, gzeirah, gizrah, gezarim, chatichah, chaticha, chotech, batar, beter, besarim, netach, nituach, minateach, petitah, pat, pita, milah, mohel, mohl, poleach, pelach, ketev, primah, porem, gada, geda, ketzitzah, ketifah, kares, karet]
 english: [splitting, tearing, cutting, severing, chopping, slicing]
+search: [split]
 domain: action
 words:
   - he: בקיעה

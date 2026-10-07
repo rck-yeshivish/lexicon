@@ -4,6 +4,7 @@ hebrew: [מליץ, מליץ יושר, פרקליט, סניגור, קטגור, מ
 roots: [מ-ל-ץ, ל-ו-ץ, ל-ץ]
 translit: [meilitz, melitz, meilitz yosher, melitz yosher, praklit, peraklit, paraklet, parakilit, sanegor, sanigor, synagor, kategor, kateigor, katigor, kitrug, meltzar, meltzer, leitzanut, leitz, leitzan]
 english: [defender, advocate, intercessor, character witness, accuser, prosecutor, go-between]
+search: [defense attorney]
 domain: society
 words:
   - he: מליץ

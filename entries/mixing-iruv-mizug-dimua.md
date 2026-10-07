@@ -4,6 +4,7 @@ hebrew: [עירוב, מזיגה, דימוע, דמעה, זג, נבוך, בוכה,
 roots: [ע-ר-ב, מ-ז-ג, ז-ג, ד-מ-ע, ב-ך, נ-ח-ם]
 translit: [iruv, eiruv, irbuv, taarovet, taaruvos, hisarvu, vayisarvu, mizug, mezigah, mazug, mozeg, limzog, mazeg, zag, dimua, dima, dimah, dimaos, dimaot, bdema, navoch, nevuchim, navochah, bocheh, nechamah, nechama]
 english: [mixing, intermingling, blending, diluting, admixture, tear, confusion, weeping, consolation]
+search: [blended, crying, tears]
 domain: action
 words:
   - he: עירוב

@@ -4,6 +4,7 @@ hebrew: [שכם, כתף]
 roots: [ש-כ-ם, כ-ת-ף]
 translit: [shechem, shchem, sh'chem, katef, kasef, kesef, k'sefayim, kesefos, lehashkim, hashkamah]
 english: [shoulder, upper back, shoulder blade, side, portion]
+search: [allotment, package, parcel]
 domain: body
 words:
   - he: שכם

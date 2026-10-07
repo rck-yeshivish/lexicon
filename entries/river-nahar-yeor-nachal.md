@@ -4,6 +4,7 @@ hebrew: [נהר, נהרות, יאור, יאורים, נחל, נחלים]
 roots: [נ-ה-ר, ה-ר, י-א-ר, ר, נ-ח-ל, ח-ל]
 translit: [nahar, neharot, neharos, yeor, yeior, yor, yeorim, yeorot, nachal, nachalim, nechalim, nachlei]
 english: [river, canal, stream, brook, wadi, watercourse]
+search: [creek, river valley, valley]
 domain: nature
 words:
   - he: נהר

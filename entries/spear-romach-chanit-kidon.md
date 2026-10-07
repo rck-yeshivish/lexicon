@@ -4,6 +4,7 @@ hebrew: [רמח, חנית, כידון, אלונקי]
 roots: [ר-מ-ח, ח-נ-ה, כ-י-ד, א-ל-נ-ק]
 translit: [romach, romcha, chanit, chanis, kidon, keedon, alunki, alunkei]
 english: [spear, lance, pike, javelin, dart]
+search: [hunting knife]
 domain: other
 words:
   - he: רמח

@@ -4,6 +4,7 @@ hebrew: [תור, רגל, מרגלים, תרים, חפר]
 roots: [ת-ו-ר, ר-ג-ל, ח-פ-ר]
 translit: [tor, tur, latur, lasur, tarim, ragel, leragel, meragel, meraglim, merag'lim, veyachperu, vayachperu, chafirah, cherpah]
 english: [scout, scout out, spy, spies, dig, dig up]
+search: [search]
 domain: action
 words:
   - he: תור

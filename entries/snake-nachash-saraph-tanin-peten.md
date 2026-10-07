@@ -4,6 +4,7 @@ hebrew: [נחש, שרף, תנין, צפע, צפעוני, אפעה, עכשוב, �
 roots: [נ-ח-ש, ש-ר-ף, ת-נ-ן, צ-פ-ע, א-פ-ע, ע-כ-ש, פ-ת-ן, ש-פ-ף]
 translit: [nachash, nahash, saraph, saraf, seraph, tanin, tannin, tzefa, tzifoni, tzefoni, efeh, ef'eh, achshuv, achshub, peten, pesen, shephiphon, shefifon, akalaton, lachash, eches]
 english: [snake, serpent, viper, adder, asp, sea serpent, fiery serpent]
+search: [jump]
 domain: nature
 words:
   - he: נחש

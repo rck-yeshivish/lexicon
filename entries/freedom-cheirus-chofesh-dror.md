@@ -4,6 +4,7 @@ hebrew: [חירות, חופש, דרור, חורים, חרות]
 roots: [ח-ר-ר, ח-פ-ש, ד-ר-ר, ח-ו-ר]
 translit: [cheirus, cheirut, cheiruseinu, cheiruteinu, chofesh, chofshi, chofshit, dror, deror, chorim, chorin, charus, charut, bnei chorin, shichrur]
 english: [freedom, liberty, release, emancipation, free of obligation, unowned]
+search: [ownerlessness]
 domain: society
 words:
   - he: דרור

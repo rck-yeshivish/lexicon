@@ -4,6 +4,7 @@ hebrew: [שער, שערה, שערא, מזיא, בינתא, נימא]
 roots: [ש-ע-ר, מ-ז-י, ב-נ-ת, נ-י-ם]
 translit: [saar, sear, se'ar, saarah, searah, saara, sara, mazia, maziya, maazia, binta, binsa, bintah, nimah, nima, nimin]
 english: [hair, a hair, strand, lock, head of hair, thread, string]
+search: [bald]
 domain: body
 words:
   - he: שער

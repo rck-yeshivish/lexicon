@@ -4,6 +4,7 @@ hebrew: [עץ, אילן, אילנא]
 roots: [ע-ץ, ע-צ-ם, א-י-ל-ן]
 translit: [eitz, etz, atzei, eitzim, ilan, ilana, ilanos, ilanot, atzum, etzem]
 english: [tree, wood, timber]
+search: [strength]
 domain: nature
 words:
   - he: עץ

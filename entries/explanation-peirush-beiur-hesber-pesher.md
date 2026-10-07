@@ -4,6 +4,7 @@ hebrew: [פירוש, ביאור, הסבר, פשר, פתרון, פותר, באר,
 roots: [פ-ר-ש, ב-א-ר, ב-ר, ס-ב-ר, ש-ב-ר, פ-ש-ר, פ-ת-ר]
 translit: [peirush, perush, pirush, beiur, biur, be'ur, ba'er, hesber, hesbeir, hasbarah, masbir, svara, sevara, pesher, peisher, pshar, psharah, pitaron, pisaron, poter, poseir, meforash]
 english: [explanation, commentary, elucidation, clarification, interpretation, solution, reasoning]
+search: [meaning]
 domain: speech
 words:
   - he: פירוש

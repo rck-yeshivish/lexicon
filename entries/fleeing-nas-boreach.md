@@ -4,6 +4,7 @@ hebrew: [נס, ניסה, בורח, בריחה, רץ, ערק]
 roots: [נ-ו-ס, ב-ר-ח, ר-ו-ץ, ע-ר-ק, נ-ס-ע]
 translit: [nas, nos, nisah, nissah, vayanusu, veyanusu, boreach, borach, bericha, brichah, ratz, arak, azil, nasa]
 english: [flee, run away, escape, take flight, run]
+search: [retreat]
 domain: action
 words:
   - he: נס

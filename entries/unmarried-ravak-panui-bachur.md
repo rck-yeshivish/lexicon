@@ -4,6 +4,7 @@ hebrew: [רווק, פנוי, פנויה, מופנה, בחור, ריק]
 roots: [ר-י-ק, פ-ן, פ-נ-ה, ב-ח-ר]
 translit: [ravak, ravok, revakim, panui, penuyah, penuiah, mufneh, mufnah, pnai, penai, bachur, bochur, bachurim, reik, elem]
 english: [unmarried man, bachelor, single, unattached, available, young man]
+search: [single man]
 domain: society
 words:
   - he: רווק

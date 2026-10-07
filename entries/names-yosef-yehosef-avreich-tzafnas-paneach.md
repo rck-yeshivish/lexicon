@@ -4,6 +4,7 @@ hebrew: [יוסף, יהוסף, צפנת פענח, אברך, רך]
 roots: [י-ס-ף, ס-ף, צ-פ-ן, ב-ר-ך, ר-כ-ך]
 translit: [yosef, yoseif, yehosef, yehoseif, tzafnas paneach, tzafnat paneach, paneach, paneiach, avreich, avrech, avreikh, rach, rakot, rakos, harakah, aryoch, asaf, sof]
 english: [Yosef, Yehosef, revealer of mysteries, father to the king, young sage]
+search: [Joseph]
 domain: other
 words:
   - he: יוסף

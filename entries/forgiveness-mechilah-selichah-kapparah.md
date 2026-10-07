@@ -4,6 +4,7 @@ hebrew: [מחילה, סליחה, כפרה]
 roots: [מ-ח-ל, ס-ל-ח, כ-פ-ר]
 translit: [mechilah, mechila, mechilas, mechilat, mochel, mocheil, mechal, selichah, selicha, soleach, solei'ach, selach, salachti, selichos, selichot, kapparah, kappara, kaparah, kapara, mechaper, mechapeir, kaper, kippur, kippurim, kapporet, kapores, kofer, kapparos, kapparot]
 english: [forgiveness, pardon, atonement]
+search: [forgive]
 domain: action
 words:
   - he: סליחה

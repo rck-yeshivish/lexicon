@@ -4,6 +4,7 @@ hebrew: [מרדכי, פתחיה, בלשן]
 roots: [פ-ת-ח, ל-ש-ן]
 translit: [mordechai, mordecai, merodach, petachyah, pesachyah, bilshan, malachi]
 english: [Mordechai, Petachyah, Bilshan]
+search: [Esther, myrrh, myrtle]
 domain: other
 words:
   - he: מרדכי

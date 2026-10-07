@@ -4,6 +4,7 @@ hebrew: [גילוח, גזיזה, גלב, ספר, מגלב, מספרים, תער]
 roots: [ג-ל-ח, ג-ז-ז, ג-ל-ב, ס-פ-ר]
 translit: [giluach, gilu'ach, galach, gizah, geziza, gezizah, gozez, geiz, galav, gallav, maglev, sapar, saper, lesaper, tisporet, misparayim, misperet, maspar, taar, ta'ar]
 english: [shaving, haircutting, shearing, barber, razor]
+search: [shave]
 domain: action
 words:
   - he: גילוח

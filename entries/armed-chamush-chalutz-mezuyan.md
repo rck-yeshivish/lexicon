@@ -4,6 +4,7 @@ hebrew: [חמוש, חלוץ, מזוין, זין, ויירק, חומש, חלצי�
 roots: [ח-מ-ש, ח-ל-ץ, ז-י-ן, ז-ן, ר-ק, א-ז-ן]
 translit: [chamush, chamushim, chomesh, chimesh, chalutz, chalutzim, chalatzim, chalitzah, mezuyan, mezuyanim, zayin, klei zayin, neshek, vayarek, azenecha, azeinecha, zariz, tachmoshes]
 english: [armed, arms, weapon, vanguard, mustered, equipped]
+search: [bearing weapons, one-fifth, packing heat]
 domain: action
 words:
   - he: חמוש

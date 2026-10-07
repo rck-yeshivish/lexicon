@@ -4,6 +4,7 @@ hebrew: [עסק, עשק, עסקן, עוסק, שדל, שתדלן, השתדלות,
 roots: [ע-ס-ק, ע-ש-ק, ש-ד-ל, ש-ד-ר]
 translit: [esek, eisek, osek, iska, issuk, askan, asakan, hitasku, hisasku, shadal, shadlan, shtadlan, shtadlanus, hishtadlus, hishtadlut, hishtadel, shadar, mishtadar, eshtadur, macher]
 english: [communal activist, intercessor, effort, dealing, business, doer]
+search: [busybody, fighter]
 domain: society
 words:
   - he: עסקן

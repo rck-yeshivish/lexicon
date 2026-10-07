@@ -4,6 +4,7 @@ hebrew: [מקרה, קרי, תאונה, אירוע, מציאה]
 roots: [ק-ר-ה, ק-ר, א-נ-ה, א-ר-ע, מ-צ-א]
 translit: [mikreh, mikre, keri, keriy, kri, koreh, korot, karahu, vayiker, teunah, teuna, teunat, inah, iruah, irua, ira, metziah, metzia, motzaot]
 english: [occurrence, happenstance, chance, accident, event, mishap, finding]
+search: [coincidence, randomness]
 domain: other
 words:
   - he: מקרה

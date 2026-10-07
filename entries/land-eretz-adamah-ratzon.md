@@ -4,6 +4,7 @@ hebrew: [ארץ, אדמה, רצון, חפץ]
 roots: [ר-ץ, ד-ם, ר-צ-ה, ח-פ-ץ]
 translit: [eretz, aretz, ratz, ratzah, ratzon, ritzah, adamah, adama, domeh, domem, dimyon, chefetz, chafetzim]
 english: [land, ground, will, desire]
+search: [dirt, earth]
 domain: nature
 words:
   - he: ארץ

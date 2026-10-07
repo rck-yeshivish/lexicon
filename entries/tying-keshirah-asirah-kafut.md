@@ -4,6 +4,7 @@ hebrew: [קשירה, אסירה, קטירה, כפות, צרור, עקידה, ח�
 roots: [ק-ש-ר, א-ס-ר, ק-ט-ר, כ-פ-ת, צ-ר-ר, ע-ק-ד, ח-ב-ש, ח-ת-ל]
 translit: [keshirah, keshira, kesher, kasher, asirah, asira, assur, asir, issur, isur, ketirah, ketira, katir, kafut, kafus, kefiyah, kefiya, tzror, tzeror, tzarot, tzaros, akeidah, akeida, chavishah, chavisha, chitul, tachboshet]
 english: [tie, bind, fasten, tie down, bind against the will, wrap]
+search: [knot]
 domain: action
 words:
   - he: קשירה

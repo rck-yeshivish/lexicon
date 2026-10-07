@@ -4,6 +4,7 @@ hebrew: [אוכל, מזון, יבול, תבואה, תנובה, דגן, בר, ש�
 roots: [א-כ-ל, כ-ל, ז-ו-ן, ז-ן, י-ב-ל, ב-ל, ב-ו-א, ב-א, נ-ו-ב, ד-ג-ן, ב-ר, ש-ב-ר]
 translit: [ochel, ochl, maachal, machal, mazon, mezonos, mezonot, yevul, yvul, tevuah, tvuah, tenuvah, tnuvah, dagan, degan, bar, shever, sever, shover, avur, avor, niv sefasayim]
 english: [food, sustenance, produce, crop, grain, provisions]
+search: [chow, feast, grub, meal]
 domain: nature
 words:
   - he: אוכל

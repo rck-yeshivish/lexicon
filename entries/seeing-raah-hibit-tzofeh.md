@@ -4,6 +4,7 @@ hebrew: [ראה, הביט, משקיף, השקיף, צופה, שור, מציץ, �
 roots: [ר-א-ה, נ-ב-ט, ש-ק-ף, צ-פ-ה, ש-ו-ר, צ-ו-ץ, ש-ג-ח]
 translit: [raah, ra'ah, roeh, hibit, hibbit, habatah, hashkafah, mashkif, hishkif, tzofeh, tzofim, mitzapeh, shur, shar, metzitz, meitzitz, mashgiach, hashgachah]
 english: [see, look, gaze, peer, peek, watch, oversee, anticipate]
+search: [envision, examine, observe, seer's vision, stare]
 domain: cognition
 words:
   - he: ראה

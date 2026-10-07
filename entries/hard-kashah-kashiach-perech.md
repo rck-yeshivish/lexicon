@@ -4,6 +4,7 @@ hebrew: [קשה, קשיח, פרך, מקשה, הקש, קושיא, פרוכת]
 roots: [ק-ש-ה, ק-ש, ק-ש-ח, פ-ר-ך]
 translit: [kashah, kasha, kashe, akasheh, kashiach, kashiah, perech, parech, porech, mikshah, miksha, hekesh, hekeish, kushya, kashya, kash, kishu, keshet, mokesh, pircha, nifrechet, parochet, paroches]
 english: [hard, harsh, rigid, difficult, cruel, breaking, back-breaking, pointless]
+search: [challenging, tough]
 domain: other
 words:
   - he: קשה

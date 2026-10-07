@@ -4,6 +4,7 @@ hebrew: [כתיבה, חרות, חרט, חרושה, חקוק, פסל, פיתוח,
 roots: [כ-ת-ב, ח-ר-ת, ח-ר-ט, ח-ר-ש, ח-ק-ק, ח-ק, פ-ס-ל, פ-ת-ח, ג-ל-ף, ר-ש-ם]
 translit: [ketivah, kesivah, ktov, kasav, katav, vayikatev, charut, charus, cheirut, cheirus, cheret, cheres, chartumim, charushah, charusha, chakuk, chakukah, chok, chukim, mechokek, pasal, pesel, pesilim, pasul, pituach, pituchei chotam, pitchei chosam, galif, gelufah, resham, roshem, reshimah, rashum, mirsham]
 english: [write, engrave, inscribe, incise, hew, emboss, note down]
+search: [carve, compose, scribble]
 domain: speech
 words:
   - he: כתיבה

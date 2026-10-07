@@ -4,6 +4,7 @@ hebrew: [זקן, שיבה, ישיש, קשיש, ישן, עתיק, ותיק]
 roots: [ז-ק-ן, ש-י-ב, י-ש-ש, ק-ש-ש, י-ש-ן, ע-ת-ק, ו-ת-ק]
 translit: [zaken, zakein, seivah, seiva, sevah, yashish, kashish, yashan, atik, vatik, vasik, vatikin, vasikin, sav, saba, seva yamim]
 english: [elder, old age, aged, ancient, senior, veteran, stale]
+search: [elderly, old]
 domain: time
 words:
   - he: זקן

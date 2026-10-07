@@ -4,6 +4,7 @@ hebrew: [רבים, ציבור, פרהסיא, פרסום, פומבי, צנעא]
 roots: [ר-ב, צ-ב-ר, פ-ר-ס]
 translit: [rabim, b'rabim, rav, harbeh, ribo, arbeh, aruvah, rahav, tzibbur, tzibur, b'tzibbur, parhessya, farhessya, parhesia, pirsum, pirsumei nisa, pumbi, b'pumbi, tzina, b'tzina, tzanua]
 english: [in public, publicly, the community, the congregation, publicity, public spectacle]
+search: [many, society]
 domain: society
 words:
   - he: רבים

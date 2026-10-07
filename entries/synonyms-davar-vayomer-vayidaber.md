@@ -4,6 +4,7 @@ hebrew: [דבר, ויאמר, וידבר, מלוכה, מושל, בא, אתה]
 roots: [ד-ב-ר, א-מ-ר, מ-ל-ך, מ-ש-ל, ב-ו-א, א-ת-ה]
 translit: [davar, devarim, vayomer, va'yomer, amirah, vayidaber, va'yedaber, dibbur, meluchah, melucha, moshel, ba, bo, atah, asah]
 english: [word, thing, said, spoke, kingship, ruler, came]
+search: [come, king]
 domain: other
 words:
   - he: דבר

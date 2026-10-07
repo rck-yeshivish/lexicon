@@ -4,6 +4,7 @@ hebrew: [אפרוח, גוזל, פרגית, ניפול]
 roots: [פ-ר-ח, ג-ז-ל, נ-פ-ל]
 translit: [efroach, efroah, efroch, gozal, gozel, gozla, pargit, pargis, pargiyot, pargiyos, nipol, naful, nafil]
 english: [hatchling, fledgling, nestling, young dove, chick, chicken]
+search: [baby chicken]
 domain: nature
 words:
   - he: אפרוח

@@ -4,6 +4,7 @@ hebrew: [חם, חמות, חתן, חותן, חותנת, מחותנים]
 roots: [ח-ם, ח-ת, ח-ת-ן]
 translit: [cham, chami, chamos, chamot, chosen, choten, chosni, chotni, choseness, chotenet, chasan, chatan, mechutanim, mechutan, mori vchami]
 english: [father-in-law, mother-in-law, parents-in-law, groom]
+search: [father in law, husband's parents, mother in law, wife's parents]
 domain: society
 words:
   - he: חתן

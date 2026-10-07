@@ -4,6 +4,7 @@ hebrew: [גר, תושב, אזרח, זר, ישיבה, דירה]
 roots: [ג-ר, י-ש-ב, ש-ב, ז-ר-ח, ז-ו-ר, ד-ו-ר]
 translit: [ger, gerim, gur, lagur, garti, toshav, toshavim, ezrach, ezrachi, zar, zarim, yeshivah, yeshiva, dirah, dira, madour, dayar, megurah, ger toshav, ger tzedek]
 english: [sojourner, resident, native, citizen, stranger, convert]
+search: [dweller, settler]
 domain: society
 words:
   - he: גר

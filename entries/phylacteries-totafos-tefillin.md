@@ -4,6 +4,7 @@ hebrew: [טוטפות, טוטפת, תפילין, תפילה, נטיפות]
 roots: [ט-ט-ף, ט-ף, פ-ל-ל, ת-פ-ל, פ-ת-ל]
 translit: [totafot, totafos, totefes, totafta, tefillin, tefilin, tefillah, tefilah, tefillav, netifos, ptil, pesil]
 english: [phylacteries, tefillin, frontlets, head-ornament]
+search: [ornament]
 domain: ritual
 words:
   - he: תפילה
