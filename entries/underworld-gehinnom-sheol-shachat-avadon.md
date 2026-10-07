@@ -48,7 +48,7 @@ sources:
   - wiaw:8304 "Names of the Underworld" (2019-06-29) https://articles.ohr.edu/articles/names-of-the-underworld
   - ms:251-names-of-the-underworld.md "Names of the Underworld"
 authorities: [Rabbi Yehoshua ben Levi, Rashi, Ibn Ezra, Malbim, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi HaPenini, Ibn Janach, Radak, Rav Hirsch, Rabbi Aharon Marcus, Tosafos, Maharsha, Maharal, Rabbi Chaim of Volozhin, Rabbi Yitzchak Abuhab, Rabbi Tzvi Matisyahu Abrahams, Rabbi J. D. Eisenstein, the Vulgate, Rabbi Avraham bar Chiya]
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 # Underworld: Gehinnom / sheol / shachat / avadon
 
@@ -132,7 +132,7 @@ Tehillim 16:10, 55:24. In many pesukim *shachat* means simply a pit.
   ensnare the righteous; he also explains *shachat* as an expression of
   *hashchasah*, destruction, since the body rots in the grave.
 - Rabbi Pappenheim: root ש-ח, bending, since one stuck in so cramped a place
-  must bend; from the same root *hishtachavah* (bowing, bending one's posture)
+  must bend; from the same root [*hishtachavah*](bowing-kidah-kriah-hishtachavaah.html#%D7%94%D7%A9%D7%AA%D7%97%D7%95%D7%95%D7%99%D7%94) (bowing, bending one's posture)
   and *mashach* (anointing, since oil softens a hard thing and makes it
   pliable).
 

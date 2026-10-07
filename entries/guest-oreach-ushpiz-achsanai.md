@@ -28,7 +28,7 @@ sources:
   - wiaw:10698 "Be My Guest" (2022-11-12) https://articles.ohr.edu/articles/be-my-guest
   - ms:023-be-my-guest.md "Be My Guest"
 authorities: [Menachem Ibn Saruk, Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rashi, Rabbeinu Chananel, Tosafos, Rabbi Eliyahu HaBachur, Rabbi Yaakov Emden, Rabbi Shimon Yehuda Leib Goldblit, Rabbi Yitzchak Avineri, Rabbi Dr. Ernest Klein, Rabbi Avi Kobernick, Rabbi Yaakov Chaim Sofer, Rabbi Dr. Alexander Kohut, Rabbi Shmuel Krauss, Ludwig Koehler, Walter Baumgartner, Michael Sokoloff]
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 # Guest: oreach / ushpiz / achsanai
 
@@ -88,7 +88,7 @@ comes from the same string.
 
 Rabbi Shlomo Pappenheim assigns all four (*oreach*, *orach*, *orchah*,
 *aruchah*) to the biliteral ר-ח, "air, space," alongside *revach* (open space),
-[*ruach*](soul-nefesh-ruach-neshamah-chayah-yechidah.html#%D7%A8%D7%95%D7%97) (wind), *rei'ach* (smell, which travels in air), *yarei'ach* (the moon,
+[*ruach*](soul-nefesh-ruach-neshamah-chayah-yechidah.html#%D7%A8%D7%95%D7%97) (wind), *rei'ach* (smell, which travels in air), [*yarei'ach*](moon-yareach-levanah-sahar.html#%D7%99%D7%A8%D7%97) (the moon,
 whose movements somehow govern the tides and winds), and *memarei'ach*
 (smoothing, which squeezes out air). An *orach* is a wide road
 with *revach* in it; an *oreach* travels it; an *aruchah* is the meal set out in

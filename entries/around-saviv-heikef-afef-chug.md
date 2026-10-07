@@ -27,7 +27,7 @@ sources:
   - wiaw:7530 "Around in Concentric Circles" (2017-12-09) https://articles.ohr.edu/articles/around-in-concentric-circles
   - ms:080-around-in-concentric-circles.md "Around in Concentric Circles"
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Radak, Rabbi Yom Tov Lipmann Heller, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Wolf Heidenheim, Sefer HeAruch, Rabbi Chelouche]
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 # Around: saviv / heikef / afef / chug
 
@@ -66,7 +66,7 @@ its center; for Radak it is what orbits another body.
 
 Pappenheim adds that *saviv* words usually do mean full circles, and reads a
 family of words that way: *siv*, the fibrous bast wrapped around a palm's
-branches; *soveh*, a drunkard (Devarim 21:20, Mishlei 23:20, Yeshayahu 56:12),
+branches; [*soveh*](drunkenness-sove-shachar-sheichar.html#%D7%A1%D7%91%D7%90), a drunkard (Devarim 21:20, Mishlei 23:20, Yeshayahu 56:12),
 who does his rounds of the taverns (to taste different sorts of drink, or to
 keep the bartenders from recognizing him, or because he has used up his credit
 in one shop and must drink at the next); *sav*, an old man (Iyov 15:10), and

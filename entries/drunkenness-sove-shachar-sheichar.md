@@ -27,7 +27,7 @@ words:
 sources:
   - wiaw:11520 "Ki Seitzei: Getting Drunk" (2024-09-14) https://articles.ohr.edu/articles/ki-seitzei-getting-drunk
 authorities: [Menachem Ibn Saruk, Rabbi Shlomo of Urbino, Malbim, Rabbi Shlomo Pappenheim, Rabbi Moshe Tzuriel, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Yehudah Aryeh of Carpentras, Rav Hirsch, Rabbi Shimon Yehuda Leib Goldblit, Rabbi Shlomo Aharon Wertheimer, Rabbi Yosef Kara, Rabbi Yosef Nechemias, Rabbi Dr. Asher Weiser, Dr. Lawrence Resnick, Rashi, Radak, Rambam, Ramban, Rabbi Aharon Marcus]
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 # Drunkenness: sove / shachar (sheichar)
 
@@ -109,7 +109,7 @@ occurs nineteen times in Tanach on Even-Shoshan's biblical concordance; the noun
 *shikaron*, drunkenness, appears in three places (Yirmiyahu 13:13; Yechezkel
 23:33 and 39:19), and is also the name of a town in Yehudah's territory
 (Yehoshua 15:11); post-biblical *shikur*, a drunkard, is the etymon of the
-Yiddish *shikker*. The noun *sheichar*, the beverage that renders one drunk,
+Yiddish *shikker*. The noun [*sheichar*](wine-yayin-tirosh-chemer-shechar.html#%D7%A9%D7%9B%D7%A8), the beverage that renders one drunk,
 appears twenty-three times.
 
 - Rabbi Moshe Tedeschi-Ashkenazi: strictly it is any intoxicating drink, but in

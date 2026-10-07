@@ -19,7 +19,7 @@ sources:
   - wiaw:8271 "Karet and Ariri" (2019-06-01) https://articles.ohr.edu/articles/karet-and-ariri
   - ms:196-karet-and-ariri.md "Karet and Ariri"
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Chaim of Volozhin, Ramban, Rabbeinu Bachya, Ibn Ezra, Rashi, Riva, Shadal, Rabbi Shlomo Astruc]
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 # Excision: karet / ariri
 
@@ -44,7 +44,7 @@ penalty, attaching only to the forbidden marriages.
 ### karet (כרת)
 Root כ-ר-ת. Rabbi Shlomo Pappenheim (*Yerios Shlomo*, in a treatment of more
 than fifteen Hebrew words for cutting): *karet* is the general word for cutting,
-whether or not the cut actually severs. So a *get* is a *sefer krisus* (Devarim
+whether or not the cut actually severs. So a [*get*](document-gett-shtar.html#%D7%92%D7%98) is a *sefer krisus* (Devarim
 24:1), a document of cutting, since marriage joins two into one and ending it
 tears one body in two. A covenant, too, is *karat*, "cut," from the ancient rite
 of cutting animals in half and having the parties to the agreement walk between

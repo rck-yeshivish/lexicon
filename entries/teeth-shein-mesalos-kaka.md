@@ -34,7 +34,7 @@ words:
 sources:
   - wiaw:10931 "Showing Teeth" (2023-04-22) https://articles.ohr.edu/articles/showing-teeth
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Shoresh Yesha, Rabbi David Chaim Chelouche, Rabbi Moshe Tedeschi-Ashkenazi, Shadal, Rashi, Biur HaGra, Ibn Parchon, Tosafos, Rabbeinu Chananel, Rabbeinu Gershom, Rabbi Nosson of Rome, Rambam, Dr. Daniel Vainstub, Dr. Alexander Kohut]
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 # Teeth: shein / mesalos (malteos) / kaka / nivi / gallal / chit
 
@@ -161,7 +161,7 @@ mouth too, but means speech.)
 
 ### gallal (גלל)
 Achiyah HaShiloni foretold the destruction of the House of Yeravam, that they
-would be consumed "as the *gallal* consumes until it is wholly gone" (Melachim I
+would be consumed "as the [*gallal*](excrement-tzoah-peresh-galal-zevel.html#%D7%92%D7%9C%D7%9C) consumes until it is wholly gone" (Melachim I
 14:10), and Bava Kamma 2b takes *gallal* as "tooth," in context any damage like
 that done by the tooth. Three explanations of the connection:
 - Rabbeinu Chananel (cited by Tosafos there) reads *gallal* as something rock

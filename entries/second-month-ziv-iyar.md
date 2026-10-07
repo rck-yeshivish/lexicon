@@ -18,7 +18,7 @@ sources:
   - wiaw:11411 "The Shiny Month" (2024-05-25) https://articles.ohr.edu/articles/the-shiny-month
   - ms:228-the-shiny-month.md "The Shiny Month"
 authorities: [Ibn Ezra, Radak, Rabbi Shlomo Pappenheim, Rashi, Maharil, Terumas HaDeshen, Rabbi Yaakov Margolis, Shulchan Aruch, Rema, Nachalas Shivah, Beis Shmuel, Aruch HaShulchan, Megaleh Amukos, Rabbi Eliezer Hagar of Vizhnitz, Sefer HaKushyos, Rabbi Yosef Kara, Maharal, Maharsha, Rabbi Moshe Shapiro, Rabbi Shimshon of Ostropoli, Chasam Sofer, Rabbi Mordechai Nachman Aronovsky, Rabbi Dovid Jungreis, Moshe Escott]
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 # The second month: Ziv / Iyar
 
@@ -166,7 +166,7 @@ Sinai (Bamidbar 10:11), when Moshe would say "Arise, Hashem, and let Your enemie
 be scattered" (Bamidbar 10:35).
 
 Rabbi Moshe Shapiro, on the Maharal (*Nesiv HaTorah* ch. 12): Iyar is written
-with two yuds. Some hold a *get* written in Iyar must be written twice, once
+with two yuds. Some hold a [*get*](document-gett-shtar.html#%D7%92%D7%98) written in Iyar must be written twice, once
 with one yud and once with two, but the prevailing view writes two. The gematria
 of *Iyar* equals *erech*, length, a line running from a point of origin to a
 destination, in time (*orech yamim*) as in space. In *Sefer Yetzirah* the twelve

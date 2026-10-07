@@ -29,7 +29,7 @@ sources:
   - wiaw:9464 "Seeking Salvation" (2021-11-27) https://articles.ohr.edu/articles/seeking-salvation
   - ms:084-seeking-salvation.md "Seeking Salvation"
 authorities: [Rabbi Yitzchak Eliyahu Landau of Dubno, Rav Hirsch, Rabbi Shlomo Pappenheim, Sefer HeAruch, Rashi, Tosafos, Peirush HaRokeach, Malbim, Rabbi Yechiel Michel Heilpern, Rabbi Chanoch Zundel of Bialystok, Radak, Ibn Janach]
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 # Salvation: yeshuah / teshuah / hatzalah / purkan
 
@@ -57,7 +57,7 @@ future troubles on top of the saving. *Purkan* (Aramaic, the Targum's word for
 ### yeshuah (ישועה) and teshuah (תשועה)
 Both are tied to crying out: they name the aspect of salvation that is Hashem's
 answer to our prayers and efforts.
-- Rav Hirsch (to Shemos 14:13) suggests that *shav'ah*, crying out, is the act
+- Rav Hirsch (to Shemos 14:13) suggests that [*shav'ah*](crying-out-tzaakah-zaakah-shaavah.html#%D7%A9%D7%95%D7%A2%D7%94), crying out, is the act
   of yearning for a *teshuah*; unlike other words for crying out, which may be
   no more than a verbalizing of one's suffering, *shav'ah* is an unmistakable
   cry for salvation, a prayer rather than a complaint.

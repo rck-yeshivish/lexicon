@@ -34,7 +34,7 @@ sources:
   - wiaw:8439 "Succot - the Majestic Holiday of Gathering" (2019-10-12) https://articles.ohr.edu/articles/succot-aeur-the-majestic-holiday-of-gathering
   - ms:343-the-majestic-holiday-of-gathering.md "The Majestic Holiday of Gathering"
 authorities: [Rashi, Radak, Malbim, Vilna Gaon, Rabbi Yehuda Leib Edel, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Aharon Wertheimer, Rabbi Elazar Rokeach of Worms, Rabbi Zev Leff]
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 # Gathering: asifah / kovetz / aggudah / kehillah / eidah / agur
 
@@ -101,7 +101,7 @@ The first two agree that *asifah* brings in.
   of the righteous.
 - Rabbi Zev Leff: *asifah* is a physical gathering of many bodies, and an *edah*
   a gathering united by one idea, all testifying to one thing or aiming at one
-  goal, *ya'ad*, tied to *edus*.
+  goal, *ya'ad*, tied to [*edus*](witness-eid-sahad.html#%D7%A2%D7%93%D7%95%D7%AA).
 
 ## Distinctions
 

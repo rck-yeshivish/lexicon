@@ -26,7 +26,7 @@ sources:
   - wiaw:10695 "Prime Property" (2022-11-05) https://articles.ohr.edu/articles/prime-property
   - wiaw:11394 "Bechukosai: All About Money" (2024-06-01) https://articles.ohr.edu/articles/bechukosai-all-about-money
 authorities: [Rav Hirsch, Ramban, Radak, Ibn Ezra, Rabbi Shlomo Pappenheim, Midrash Sechel Tov, Rabbi Aharon Marcus, Rabbi Shmuel de Ucedah, Rabbi Shimon Yehuda Leib Goldblit, Shoresh Yesha, Ohalei Yehudah, Solomon Rabinowitz, Naftali Tur-Sinai, Gerald Leonard Cohen, Rabbi Nosson of Rome, Rabbi Eliyahu HaBachur]
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 # Property: rechush / mikneh / nechasim
 
@@ -159,7 +159,7 @@ dozens more).
 - Rabbi Shlomo Pappenheim likewise traces *nechasim* to the biliteral
   KAF-SAMECH, whose core meaning is placing something on top of something else:
   *kisui*; [*kesus*](clothing-beged-levush-kesus-simlah.html#%D7%9B%D7%A1%D7%95%D7%AA), clothing, which covers the skin; *kos*, a cup that has a
-  cover; *kisei*, a chair that has a cover; *kis*, a pocket, a covered
+  cover; [*kisei*](chair-kisse-keis-kursa.html#%D7%9B%D7%A1%D7%90), a chair that has a cover; *kis*, a pocket, a covered
   container; [*meches*](tax-mas-meches.html#%D7%9E%D7%9B%D7%A1), tax, monies that fall into the government's *kis*; and
   *michsah*, the central pot of funds into which the partners in a korban Pesach
   pool their monies (Shemos 12:4). *Nechasim* is then what one puts into one's

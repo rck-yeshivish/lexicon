@@ -17,7 +17,7 @@ words:
 sources:
   - wiaw:8913 "Elephants Galore" (2020-11-07) https://articles.ohr.edu/articles/elephants-galore
 authorities: [Targum, Rashi, Radak, Metzudos, Ralbag, Rabbi Yosef Karo, Abarbanel, Rabbeinu Yonah Ibn Janach, Rabbeinu Efrayim ben Shimshon, HaKallir, Rabbi Avraham ben Shlomo, Rabbi Yosef Bechor Shor, Rabbi Menashe ben Israel, Rabbi Ernest Klein, Rabbi Yehoshua Steinberg, Rabbi Yechiel Michel Stern, Chaim Tawil]
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 # Elephant: pil / shenhav
 
@@ -60,7 +60,7 @@ the precious materials or the exotic animals.
   the clauses on either side of it.
 - Rabbeinu Yonah Ibn Janach (*Sefer HaShorashim*) suggests that it is a compound
   of two words stuck together, without explaining himself; Rabbi Reuven Chaim
-  Klein takes it as safe to assume that Ibn Janach means *shen*, tooth, plus
+  Klein takes it as safe to assume that Ibn Janach means [*shen*](teeth-shein-mesalos-kaka.html#%D7%A9%D7%A0), tooth, plus
   *hav*, gives, so that *shenhav* would be the beast that "gives" teeth, and
   that on that reading Ibn Janach too seems to mean the animal rather than the
   ivory.

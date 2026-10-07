@@ -55,7 +55,7 @@ sources:
   - ms:325-the-strong-ones.md "The Strong Ones"
   - ms:161-the-beauty-of-adar.md "The Beauty of Adar"
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Edel, Rav Hirsch, Metzudas David, Maharsha, Rabbi J. B. Soloveitchik, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Aharon Wertheimer, Vilna Gaon, Malbim, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Dr. Asher Weiser, Rabbi Moshe Shapiro, Rabbi Aharon Marcus, Rabbi Naftali Hertz Wessely, Rabbi Yerucham Levovitz, Rabbi Shlomo of Urbino, Yonah Wilheimer, Rashi, Rambam, Tosafos, Targum, Shadal, Rabbi Eliyahu Benamozegh, Aruch, Pri Toar]
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 # Strength: koach / gevurah / chozek / ometz (otzem, oz, eitan, adir, kabir, takif)
 
@@ -295,7 +295,7 @@ components are equally powerful. The *Pri Toar* (Yoreh De'ah 19:10) relates
 - Rabbi Edel: *adir* is related to *adar*/[*hadar*](beauty-hod-hadar.html#%D7%94%D7%93%D7%A8), beauty and glory, since
   Hashem's acts of strength bring Him honor and glory by showing man His
   omnipotence.
-- Shadal (to Shemos 15:6): *adir* is the Aramaic form of *ezor*, Hebrew zayin
+- Shadal (to Shemos 15:6): *adir* is the Aramaic form of [*ezor*](belt-avnet-chagor-eizor.html#%D7%90%D7%96%D7%95%D7%A8), Hebrew zayin
   often becoming dalet in Aramaic, because *adir* is power that encompasses
   everything, as a belt encircles the body; so too [*aderes*](garment-aderet-glima-itztala.html#%D7%90%D7%93%D7%A8%D7%AA), a cloak that goes
   around it.

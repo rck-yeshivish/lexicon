@@ -21,7 +21,7 @@ words:
 sources:
   - wiaw:8351 "The Shining Sea of Galilee" (2019-08-03) https://articles.ohr.edu/articles/the-shining-sea-of-galilee
 authorities: [Rabbi Nosson of Rome, Rashi, Tosafos, Bereishis Rabbah, Rabbi Yosef Karo, Rabbi Moshe ben Yosef of Trani, Josephus, Jastrow, Dr. Dov Ginzberg]
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 # Kinneres: Kinneret / Ginosar / Yamah shel Tiveria
 
@@ -44,7 +44,7 @@ surrounding region, and none of these sources uses it.
 
 ## Where the authorities disagree
 
-**Which name to write in a get.** A *get* must name the city where it is written
+**Which name to write in a get.** A [*get*](document-gett-shtar.html#%D7%92%D7%98) must name the city where it is written
 and fix its location by the nearest body of water, so a *get* written in Tiveria
 must name this lake. Which of its three names is the correct one was disputed at
 length between Rabbi Yosef Karo and Rabbi Moshe ben Yosef of Trani, who sat

@@ -24,7 +24,7 @@ sources:
   - wiaw:10730 "Vayetzei: Gad Luck to You" (2022-11-26) https://articles.ohr.edu/articles/vayetzei-gad-luck-to-you
   - ms:045-gad-luck-to-you.md "Gad Luck to You"
 authorities: [Rashi, Ibn Janach, Radak, Menachem Ibn Saruk, Ibn Ezra, Ramban, Ralbag, Rabbi Saadia Gaon, Rabbi Moshe Kimchi, Dunash Ibn Labrat, Rabbi Yitzchak the Blind, Rabbi Yosef Gikatilla, Tiferes Yisrael, Ramchal, Rabbi Shlomo Pappenheim, Rabbi Yosef Grayever, Rabbi Yehudah Aryeh of Carpentras, Rabbi Eliyahu Katz, Rav Hirsch, Ernest Klein, Chaim Tawil, Rabbi Eliyahu Benamozegh]
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 # Fortune: mazal / gad / mazar
 
@@ -125,7 +125,7 @@ of the house's *mazal* (Nedarim 56a with the Ran and *Sefer HeAruch*).
   that the joining together of stars could bring good or catastrophe, and *gad*
   is that grouping, a constellation acting on the world.
 - Rabbi Shlomo Pappenheim derives it from the biliteral ג-ד, "attaching" or
-  "connecting," which also yields *agudah*/*egged*/*iggud*, *gid* (the sinew
+  "connecting," which also yields [*agudah*](gathering-asifah-kovetz-kehillah-agur.html#%D7%90%D7%92%D7%95%D7%93%D7%94)/*egged*/*iggud*, *gid* (the sinew
   holding the body's parts together), *gedud* (a squad of soldiers joined
   together), *meged* (delicacies, which the palate wants to attach itself to),
   and *haggadah* (presenting new information by integrating it into a broader

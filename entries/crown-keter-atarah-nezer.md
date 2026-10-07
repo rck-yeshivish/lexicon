@@ -32,7 +32,7 @@ sources:
   - wiaw:6876 "A Crown is a Crown" (2016-07-30) https://articles.ohr.edu/articles/a-crown-is-a-crown
   - ms:235-a-crown-is-a-crown.md "A Crown is a Crown"
 authorities: [Malbim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Zev Leff, Rabbi Shlomo Pappenheim]
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 # Crown: keter / atarah / nezer
 
@@ -105,7 +105,7 @@ the top of a thing is a *zer*, as the *zer zahav saviv* (Shemos 25:11). The
 *zeres*, a span, is a measure that goes around, like the circumference of a head
 or an arm (*zeres orko vezeres rachbo*, Shemos 28:16), and *orchi veriv'i
 zeirisa* (Tehillim 139:3) is surrounding as a *nezer* does. Perhaps, from the
-separateness of rank that *nezer* denotes, *ezor*, a belt, belongs here too
+separateness of rank that *nezer* denotes, [*ezor*](belt-avnet-chagor-eizor.html#%D7%90%D7%96%D7%95%D7%A8), a belt, belongs here too
 (Melachim II 1:8; Iyov 12:18).
 
 ### klil (כליל) and tag (תג)

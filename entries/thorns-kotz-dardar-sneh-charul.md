@@ -71,7 +71,7 @@ sources:
   - wiaw:9809 "Of Thorns and Thistles" (2022-08-06) https://articles.ohr.edu/articles/of-thorns-and-thistles
   - wiaw:9482 "Freezing Cold" (2021-12-11) https://articles.ohr.edu/articles/freezing-cold
 authorities: [Rabbi Shlomo of Urbino, Menachem Ibn Saruk, Yonah Ibn Janach, Radak, Rashi, Rabbi Saadia Gaon, Ibn Ezra, Rabbi Shlomo Pappenheim, Rav Hirsch, Vilna Gaon, Ohalei Yehuda, Shoresh Yesha, Rabbi Aharon Marcus, Rabbi Yehoshua Steinberg, Ramban, Donash Ibn Labrat, Mahari Kara, Rabbi Avraham ben Shlomo, Rabbi David Chaim Chelouche, Malbim, Rabbi David Golumb, Rabbi Yaakov Yehudah de Kassif, Yaakov Reifman, Rabbi Yechiel Michel Stern, Metzudas Tzion, Rashbam, Rabbi Yosef Nechemias]
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 # Thorns: kotz / dardar / sneh / charul (and the rest of the twenty)
 
@@ -163,7 +163,7 @@ Rabbi Klein reasons, would somehow recall a thorn.
 - *Tzninim* (Bamidbar 33:55): *Ohalei Yehuda* relates it to *sneh*, most likely
   through the interchange of tzadi and samech.
 - Rav Hirsch (to Tehillim 91:4) relates צ-ן to ש-ן, through the interchange of
-  tzadi and shin, sharpness, as in *v'shinantam* and *shen*.
+  tzadi and shin, sharpness, as in *v'shinantam* and [*shen*](teeth-shein-mesalos-kaka.html#%D7%A9%D7%A0).
 - Rabbi Pappenheim takes the core sense of צ-ן as thorn outright, whence
   [*tzinah*](cold-kor-tzinah.html#%D7%A6%D7%A0%D7%94) (a spiked weapon), *tzinah* (sharp cold) and *tznumah* (grain damaged
   by cold).

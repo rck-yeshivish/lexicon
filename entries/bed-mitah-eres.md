@@ -21,7 +21,7 @@ sources:
   - wiaw:8364 "Beds of the Righteous" (2019-08-10) https://articles.ohr.edu/articles/beds-of-the-righteous
   - ms:297-beds-of-the-righteous.md "Beds of the Righteous"
 authorities: [Ramchal, Menachem Ibn Saruk, Radak, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rashbam, Rabbi Nosson of Rome, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Aviad Sar-Shalom Basilea, Rabbi Tzvi Hirsch Kaidanover, Dr. Richard C. Steiner, Rabbi Yehoshua Alt]
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 # Bed: mitah / eres (arisah)
 
@@ -63,7 +63,7 @@ Greek, where *kline*, a bed, derives from *klino*, to incline, slant or bend,
 and this Greek root underlies the English *recline*, *incline*, *climax*,
 *climate* and *clinic*.
 
-Rabbi Yehoshua Alt relates *shemitah* to *mitah*: as a man rests on a bed and
+Rabbi Yehoshua Alt relates [*shemitah*](slipping-off-shemittah-chalitzah-shalaf.html#%D7%A9%D7%9E%D7%99%D7%98%D7%94) to *mitah*: as a man rests on a bed and
 does nothing else, in the *shemitah* year the field is not worked, and rests.
 
 - Malbim, in one place: *mitah* is any piece of furniture one lies or reclines
@@ -91,7 +91,7 @@ the Aramaic with a samech, letters that often interchange. Readings:
   is ostensibly derived, is an expression of mixture. Building on that,
   other commentators explain that *arisah*, dough (Bamidbar 15:21), the biblical
   equivalent of the
-  Mishnaic *isah*, belongs to the same root, dough being ingredients kneaded
+  Mishnaic [*isah*](dough-arisah-batzek-issah.html#%D7%A2%D7%99%D7%A1%D7%94), belongs to the same root, dough being ingredients kneaded
   together. Rabbi Yaakov
   Tzvi Mecklenburg and Rav Hirsch point out that in some sources *arisah* is
   conjugated as a

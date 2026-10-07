@@ -26,7 +26,7 @@ words:
 sources:
   - wiaw:8157 "Raise the Curtain" (2019-03-02) https://articles.ohr.edu/articles/raise-the-curtain
 authorities: [Rashi, Rabbi Shlomo Pappenheim, Shoresh Yesha, Sefer HeAruch, Rav Hai Gaon, Rabbi Ernest Klein]
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 # Curtain: paroches / masach / vilon / pargod
 
@@ -75,7 +75,7 @@ Presence.
 - Rashi (to Shemos 26:36, and see Shemos 35:12): a *masach* is the curtain
   covering the entrance to a building or a room.
 - Rabbi Shlomo Pappenheim derives it from ס-ך, "covering," the root behind
-  *sukkah* (covered with *sechach*) and the Modern Hebrew *maseichah* ("mask,"
+  *sukkah* (covered with *sechach*) and the Modern Hebrew [*maseichah*](mask-masveh-masechah-partzuf.html#%D7%9E%D7%A1%D7%9B%D7%94) ("mask,"
   covering the face). A *masach* is thus a screen that keeps a thing from the
   eyes of onlookers, and more broadly any thick cloth used for protection,
   whether laid over something as a cover (Shmuel II 17:19, Tehillim 105:39) or

@@ -22,7 +22,7 @@ words:
 sources:
   - wiaw:11584 "Chayei Sarah: All Wrapped Up" (2024-11-23) https://articles.ohr.edu/articles/chayei-sarah-all-wrapped-up
 authorities: [Targum Onkelos, Targum Yonasan, Targum Yerushalmi, Rabbi Menachem ben Shlomo, Rabbi Yehudah Aryeh of Carpentras, Rabbi Saadia al Damari, Rabbi Avraham Vilner, Rabbi Yaakov Zev Lev, Rabbi Yehoshua Steinberg, Rabbi Yitzchak Ratzabi, Ibn Saruk, Ibn Janach, Gesenius, Shadal, Rav Hirsch, Samuel Shaviv, Sefer HeAruch, Ibn Ezra, Radak, Metzudas Tzion, Rabbi Shlomo Pappenheim, Rambam, Rabbi Ernest Klein]
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 # Veil: tza'if / redid
 
@@ -146,7 +146,7 @@ On the name:
 
 Rabbi Shlomo Pappenheim traces *redid* to the biliteral ר-ד, whose core sense is
 descending: *yeridah* (going down, hanging down), *marud* (a lowered, embittered state), *rodeh* (ruling, since a ruler lowers
-others beneath him), *mered* (rebellion, shaking off being lowered), *tardemah*
+others beneath him), *mered* (rebellion, shaking off being lowered), [*tardemah*](sleep-sheinah-tardeimah-tenumah.html#%D7%AA%D7%A8%D7%93%D7%9E%D7%94)
 (a sleep that falls upon a man and overtakes him), and *nerd*, the spice
 mentioned three times in Tanach (Shir HaShirim 1:12, 4:13, 4:14), which falls as sap from the plant, or overpowers by its
 scent, or brings on sleep. He then gives three ways *redid* returns to that

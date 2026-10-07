@@ -20,7 +20,7 @@ words:
 sources:
   - wiaw:11019 "Matos Masei: The Shiloach Waters" (2023-07-15) https://articles.ohr.edu/articles/matos-masei-the-shiloach-waters
 authorities: [Rashi, Radak, Ibn Janach, Rabbi Yosef Kimchi, Ibn Ezra, Rabbi Saadia Gaon, Rabbi Avraham Maimuni, Rabbi Moshe Maimon, Rabbi Meir Abulafia (Ramah), HaKosev, Targum, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Moshe Ibn Chaviv, Rabbi Yoel Teitelbaum of Satmar, Rama, Wilhelm Gesenius, Avraham Even-Shoshan, Professor Carol A. Dray, Septuagint, Radal]
-updated: 2026-09-10
+updated: 2026-10-07
 ---
 # Spring: Gichon / Shiloach / gachon
 
@@ -127,7 +127,7 @@ site of the Shiloach is known in English as the Siloam Inscription, and it
 seems the Greek name was later borrowed into Arabic, the *m* becoming *n*, to
 give *Silwan*, the name of the neighborhood just outside the Old City walls.
 
-Halachically, a *get* must identify the city where it was written by naming the
+Halachically, a [*get*](document-gett-shtar.html#%D7%92%D7%98) must identify the city where it was written by naming the
 nearest river, and the prevailing custom for *gittin* written in Yerushalayim is
 to name the Shiloach.
 

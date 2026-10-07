@@ -27,7 +27,7 @@ sources:
   - wiaw:8167 "The True Blue" (2019-03-09) https://articles.ohr.edu/articles/the-true-blue
   - ms:145-the-true-blue.md "The True Blue"
 authorities: [Rashi, Ramban, Rabbeinu Bachya, Targum, Bamidbar Rabbah, Frankie Snyder, Aharon Demsky, Rabbeinu Yonah, Tosafos]
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 # Blue: sapir / techeiles / kachol
 
@@ -107,7 +107,7 @@ Rabbinic literature the word is largely displaced by Aramaic variants,
 *sampiryon*, *sanpiryon*, *sampirinon*, *sanpirinon*, which seem to be Aramaic
 variants of the Hebrew. Etymologists admit that the ultimate
 source of the word is obscure: some claim it is a Sanskrit loanword, others
-prefer to see it as a conjugation of the Aramaic *shappir*, "beautiful" or
+prefer to see it as a conjugation of the Aramaic [*shappir*](good-tov-noam-shapir.html#%D7%A9%D7%A4%D7%99%D7%A8), "beautiful" or
 "good," applied to a gem, adapted into Greek and reborrowed from there.
 
 ### techeiles (תכלת)

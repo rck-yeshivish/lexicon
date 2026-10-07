@@ -42,7 +42,7 @@ sources:
     - jp:output-understood "Output Understood" (2021-08-25) https://jewishpress.com/output-understood/
   - ms:324-output-understood.md "Output Understood"
 authorities: [Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shmuel Strashun, Rabbi Tanchum HaYerushalmi, Rashi, Rabbi Aharon Marcus, Rabbi Yitzchak of Zeldin, Rabbi Yaakov Yehuda Zilberberg, Rabbi Shabsai Donnolo, Rabbi Shes bar Yefes, Rabbi Eliyahu Mizrachi, Rabbi Avraham Bakrat, Rabbi Eliyahu HaBachur]
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 # Excrement: tzoah / peresh / galal / zevel (ree, chara)
 
@@ -129,7 +129,7 @@ Five times in Tanach as dung (Melachim I 14:10; Yechezkel 4:12, 4:15;
 Tzefaniah 1:17; Iyov 20:7). Menachem Ibn Saruk (920 to 970) traces it to the
 biliteral ג-ל, whose core sense Rabbi Pappenheim gives as roundness: *galgal*, a
 wheel; *gulgoles*, a skull; *gal*, a heap of stones set in a circle;
-[*megillah*](book-sefer-iggeret-megillah.html#%D7%9E%D7%92%D7%99%D7%9C%D7%94), a scroll, which is rolled. So *galal* is named for the round,
+[*megillah*](book-sefer-iggeret-megillah.html#%D7%9E%D7%92%D7%99%D7%9C%D7%94), a scroll, which is rolled. So [*galal*](teeth-shein-mesalos-kaka.html#%D7%92%D7%9C%D7%9C) is named for the round,
 cylindrical form of the pellet.
 
 By a later borrowing it came to mean anything left outside that is a public

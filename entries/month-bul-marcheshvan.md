@@ -18,7 +18,7 @@ words:
 sources:
   - wiaw:11123 "Lech Lecha: Eighth Month" (2023-10-28) https://articles.ohr.edu/articles/lech-lecha-eighth-month
 authorities: [Rashi, Radak, Ramban, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Rid, Rav Hirsch, Rabbi Shlomo Pappenheim, Pri Megadim, Rabbi Aharon Marcus, Rabbi Moshe Shapiro, Aruch HaShulchan, Nachalas Shivah, Pri Chadash, Rabbi Chizkiyahu Medini, Rabbi Betzalel Stern, Rabbi Zecharia HaRofeh, Sefer HaKushyos, Rabbi Yisrael of Ruzhin, Rabbi Ernest Klein, Rabbi Dr. Ari Zivotofsky, Rabbi Shaul Goldman, Maharal, Rabbi Chaim Dov Lieman, Rabbi Yosef Chaim of Baghdad, Alexander Kohut, Avraham Epstein, Johannes Buxtorf]
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 # The eighth month: Bul / Marcheshvan (mabul, geshem)
 
@@ -82,7 +82,7 @@ the name, some sages taking the *mar* as separate.
   is also a double entendre for the bitterness his act brought on the Jewish
   People afterward), though he concludes that we cannot expound the month-names
   this way, the more so where halachah turns on it (his case: writing *Mar
-  Cheshvan* as two words in a *get*; and see *Pischei Teshuvah*, Even HaEzer
+  Cheshvan* as two words in a [*get*](document-gett-shtar.html#%D7%92%D7%98); and see *Pischei Teshuvah*, Even HaEzer
   §126:12, on a *get* that says Cheshvan rather than Marcheshvan); and Rabbi
   Chizkiyahu Medini of Hebron (1834-1904), who records that in some communities
   there is a custom not to make weddings in Marcheshvan, because *mar* at the

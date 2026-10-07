@@ -34,7 +34,7 @@ sources:
   - ms:255-laws-and-orders.md "Laws and Orders"
   - ms:176-do-the-din.md "Do the Din"
 authorities: [Rabbi Avraham Bedersi, Ibn Janach, Targum Onkelos, Rabbi Yosef Nechemias, Ibn Ezra, Rabbi Moshe Chalavah, Rabbi Shmuel Laniado, Maharal of Prague, Rabbi Yosef Zecharia Stern, Rabbi Shlomo Aharon Wertheimer, Rabbi Tzadok HaKohen of Lublin, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Nissim of Marseilles, Menachem Ibn Saruk, Ibn Parchon, Ramban, Rashi, Abarbanel, Rav Hirsch, Shadal, Rabbi Moshe Tedeschi, Abu Omar Ibn Yaqwi, Rabbi Eliyahu Benamozegh, Peirush HaRokeach, Rambam, Rabbeinu Bachya, Ibn Yachya, Radak, Rabbi Eliyahu Menachem Margules, Rabbi Moshe Shapiro, Rabbi Yisrael Salanter, Rabbi Berachiah Beirach Shapiro, Zohar, Rabbi Yaakov Tzvi Mecklenburg, Shemos Rabbah, Old Midrash Tanchuma, Yalkut Shimoni, Gesenius, Avraham Even-Shoshan, Yehoshua Yaron, Benjamin J. Noonan, Rabbi Shlomo Astruc]
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 # Law: din / mishpat / chok / dat / nimus
 
@@ -314,7 +314,7 @@ seems, slightly modified. *Nomos* underlies English *economy*, *astronomy*,
 *autonomy*, *antinomy*, *nomism*, *antinomianism* and *nomic*, and the name
 Deuteronomy is *duet*, twice, plus *nomos*, a direct Greek
 rendering of Chazal's *Mishneh Torah*. It does not appear in Tanach and appears
-once in Mishnah: a husband must tell his agent plainly to write and give a *get*,
+once in Mishnah: a husband must tell his agent plainly to write and give a [*get*](document-gett-shtar.html#%D7%92%D7%98),
 and "free her," "sustain her," "do for her as the *nimus*" or "do for her as is
 fit" are hints too vague to authorize it (Gittin 6:5), *nimus* there meaning the
 law. It occurs elsewhere in both Talmuds, as in Mordechai being "crowned by his

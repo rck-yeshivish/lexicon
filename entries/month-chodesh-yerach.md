@@ -23,7 +23,7 @@ words:
 sources:
   - wiaw:7687 "Old Month versus New Month" (2018-03-17) https://articles.ohr.edu/articles/old-month-versus-new-month
 authorities: [Malbim, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Mordechai Jaffe]
-updated: 2026-09-10
+updated: 2026-10-07
 ---
 # Month: chodesh / yerach
 
@@ -95,7 +95,7 @@ seemingly without Hashem's miraculous intervention. That, on this reading, is
 why it is the less common word.
 
 ### the practical custom
-Rabbi Mordechai Jaffe, the *Levush*: the custom is that a *get* dates the month
+Rabbi Mordechai Jaffe, the *Levush*: the custom is that a [*get*](document-gett-shtar.html#%D7%92%D7%98) dates the month
 as a *yerach* and a *kesubah* as a *chodesh*. *Yerach* carries being sent away,
 from *geresh yerachim* (Devarim 33:14); *chodesh* carries newness, and taking a
 wife is *ki yikach ish ishah chadashah* (Devarim 24:5).

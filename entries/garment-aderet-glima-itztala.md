@@ -29,7 +29,7 @@ sources:
   - wiaw:11594 "Toldot: Noble Clothes" (2024-11-30) https://articles.ohr.edu/articles/toldot-noble-clothes
   - wiaw:11856 "Korach: Growing the Fringes (Part 2/2)" (2025-06-28) https://articles.ohr.edu/articles/korach-growing-the-fringes-part-22
 authorities: [Targum Onkelos, Targum Yonasan, Rashi, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Nosson of Rome, Rabbi David Golumb, Rav Hirsch, Rabbi Eliyahu HaBachur, Rabbi Yosef Chaim of Baghdad, Dr. Michael Sokoloff, Dr. Alexander Kohut, David Curwin, Rabbi Dr. Seth Mandel, Rabbi Tanchum HaYerushalmi]
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 # Outer garment: aderes / glima / itztala / tachrich
 
@@ -128,7 +128,7 @@ An outer garment worn as a mark of status. Targum renders Achan's Babylonian
 *aderes* by it, and Rav (Sanhedrin 44a) specifies that what Achan coveted was a
 silk *itztala*; Rashi there (and at Bechoros 34b) glosses it *tallis*. It
 appears in the Mishnah at *Gittin* 6:5 as something a husband might demand as
-the condition of a *get*. In the Gemara it is nearly always a status garment: a
+the condition of a [*get*](document-gett-shtar.html#%D7%92%D7%98). In the Gemara it is nearly always a status garment: a
 silk *itztala* written into a woman's *kesubah* (Yevamos 66b; Bava Metzia 17a),
 and the rule that where one litigant stands in rags and the other in a costly
 *itztala*, the court tells the wealthy one either to dress like his opponent or

@@ -38,7 +38,7 @@ words:
 sources:
   - wiaw:10974 "Shelach: Learning the Ropes" (2023-06-10) https://articles.ohr.edu/articles/shelach-learning-the-ropes
 authorities: [Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Abarbanel, Targum Yonasan, Targum Onkelos, Malbim, Rashi, Rav Hirsch, Rabbi David Chaim Chelouche, Rabbi Amitai Ben-David, Rabbi Ernest Klein]
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 # Rope: chevel / chut / avot (kevel, eitun, meitar, moseirah)
 
@@ -73,7 +73,7 @@ Shimshon snaps the thick ropes off his arms as though they were thread.
 - Menachem Ibn Saruk (*Machberes Menachem*) treats the middle VAV as extraneous
   and reads a biliteral ח-ט.
 - Rabbi Shlomo Pappenheim builds on Menachem: ח-ט at its core is blemish or
-  deficiency, physical and spiritual both. Hence *cheit*; hence Batsheva's
+  deficiency, physical and spiritual both. Hence [*cheit*](sin-chet-avon-pesha.html#%D7%97%D7%98%D7%90); hence Batsheva's
   warning that if Shlomo does not succeed to the throne she and her son will be
   *chataim*, lacking what should be theirs (Melachim I 1:21); hence the
   intensive *l'chatei*, to clean up a deficiency, and the *korban chatas*, which

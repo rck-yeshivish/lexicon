@@ -30,7 +30,7 @@ sources:
   - wiaw:11687 "Yisro: Write it down" (2025-02-15) https://articles.ohr.edu/articles/yisro-write-it-down
   - ms:159-crafty-artisans.md "Crafty Artisans"
 authorities: [Rashi, Rambam, Abarbanel, Rabbi Chaim Kanievsky, Shadal, Rav Hirsch, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Menachem Ibn Saruk, Rabbi Yehudah Aryeh of Carpentras, Malbim, Rabbi Yosef Kara, Ibn Ezra, Vilna Gaon, Metzudas David, Rabbi Shalom Shabazi, Targum Onkelos, Alexander Kohut, Peretz Smolenskin]
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 # Artisan: charash / choshev / rokem
 
@@ -125,7 +125,7 @@ Menachem Ibn Saruk identifies five distinct meanings of the root ח-ר-ש:
 muteness, deafness, thinking, artisanship and plowing.
 
 Rabbi Yehudah Aryeh of Carpentras (*Aholei Yehudah*) links *charash* to
-*cheiresh*, mute, since this artisan generally works in silence, his craft
+[*cheiresh*](silence-cheresh-shetikah-dom-chashah.html#%D7%97%D7%A8%D7%A9), mute, since this artisan generally works in silence, his craft
 typically demanding much thought.
 
 ### uman (אומן)
