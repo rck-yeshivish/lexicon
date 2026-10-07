@@ -5,5 +5,14 @@
   // the plain whatsinaword.pages.dev.
   "name": "whatsinaword",
   "pages_build_output_dir": "site",
-  "compatibility_date": "2026-09-10"
+  "compatibility_date": "2026-09-10",
+  // The page-view counter's one-row table, read and bumped by
+  // functions/api/hit.js. See DEPLOY.md.
+  "d1_databases": [
+    {
+      "binding": "HITS",
+      "database_name": "whatsinaword-hits",
+      "database_id": "ae2ae2f7-7ab6-4ac7-b2bc-ca4131df44a5"
+    }
+  ]
 }

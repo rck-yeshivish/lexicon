@@ -4,8 +4,30 @@
     {
       "name": "site",
       "runtimeExecutable": "python",
-      "runtimeArgs": ["-m", "http.server", "8787", "--directory", "site"],
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "8787",
+        "--directory",
+        "site"
+      ],
       "port": 8787
+    },
+    {
+      "name": "pages-dev",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": [
+        "--no-install",
+        "wrangler",
+        "pages",
+        "dev",
+        "site",
+        "--port",
+        "8788",
+        "--d1",
+        "HITS=ae2ae2f7-7ab6-4ac7-b2bc-ca4131df44a5"
+      ],
+      "port": 8788
     }
   ]
 }

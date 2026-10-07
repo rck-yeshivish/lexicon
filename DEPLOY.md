@@ -44,6 +44,28 @@ It would clone the whole repository into Cloudflare's build environment, corpus
 included. GitHub already holds this repo, so building on a GitHub runner adds
 no new party to the copyrighted text, and only `site/` reaches Cloudflare.
 
+## The page-view counter
+
+The home page's footer says how many pages have been viewed since 6 October
+2026. Every page posts once to `/api/hit` as it loads, which adds one;
+`functions/api/hit.js` answers it, and `pages deploy` picks up the `functions/`
+folder from the repository root. The number lives in a one-row table in the D1
+database `whatsinaword-hits`, bound as `HITS` in `wrangler.jsonc`. Nothing about
+the visitor is kept, only the total and the date it started. A view is any page
+load that runs the script, so it counts reloads and our own visits, and not
+crawlers that skip JavaScript.
+
+To look at it or set it back:
+
+```bash
+npx wrangler d1 execute whatsinaword-hits --remote --command "SELECT * FROM hits"
+npx wrangler d1 execute whatsinaword-hits --remote --command "UPDATE hits SET n = 0, since = '<d Month yyyy>' WHERE id = 1"
+```
+
+A local `python -m http.server` preview has no counter, and the footer line
+stays hidden there. `wrangler pages dev site --d1 HITS=<database id>` runs one
+against a local copy of the table.
+
 ## A note on the URL
 
 Cloudflare Pages is now part of Workers, and a new project deploys to

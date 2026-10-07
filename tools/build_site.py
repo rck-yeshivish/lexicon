@@ -684,7 +684,7 @@ def root_map(entries):
     return out
 
 
-def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
+def shell(title, body, *, depth=0, header_search=True, active="", extra_js="", hits=False):
     up = "../" * depth
     return f"""<!doctype html>
 <html lang="en">
@@ -722,6 +722,7 @@ def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
 <footer>
   <p>Every distinction is attributed; where the authorities disagree, the entry names the views.</p>
   <p class="muted">Built on <em>What&rsquo;s in a Word?</em> by Rabbi Reuven Chaim Klein, published by Ohr Somayach since {ESSAYS["from"]}: {ESSAYS["n"]} essays, and each entry links to the essay it rests on. This is an independent rendering guide: the entries are written here, and the site is not published by or affiliated with Ohr Somayach. Parsha and Yom Tov dates from <a href="https://www.hebcal.com/">Hebcal</a> (CC BY 4.0).</p>
+  {'<p class="muted" id="hits" hidden></p>' if hits else ''}
 </footer>
 {feedback_box()}
 <script src="{up}assets/{ASSETS["js"]}"></script>
@@ -1410,7 +1411,8 @@ def main():
   <a class="card" href="roots.html"><h3>Browse Roots<span class="chev" aria-hidden="true">&rsaquo;</span></h3>
     <p><bdi lang="he">שרשים</bdi> &middot; {len(root_map(entries)):,} roots</p></a>
 </section>'''
-    emit("index.html", shell("What’s in a Word? · Synonyms in the Hebrew Language", home, header_search=False))
+    emit("index.html", shell("What’s in a Word? · Synonyms in the Hebrew Language", home, header_search=False,
+                             hits=True))
 
     letters = "".join(f'<button class="ltr" data-l="{l}">{l}</button>' for l in ALEFBET)
     he_body = f'''<section class="browse">
@@ -3057,7 +3059,23 @@ function wireTheme(){
   sync();
 }
 
+// The page-view counter (functions/api/hit.js): every page adds one as it
+// loads, and the home page's footer, the only page with a #hits line, shows
+// the total. Where there is no counter (a local preview) the line stays hidden.
+function countView(){
+  fetch(UP + "api/hit", {method: "POST", keepalive: true})
+    .then(r => r.ok ? r.json() : null)
+    .then(d => {
+      const p = document.getElementById("hits");
+      if(!p || !d || !d.n) return;
+      p.textContent = d.n.toLocaleString("en-US") + " page views since " + d.since;
+      p.hidden = false;
+    })
+    .catch(() => {});
+}
+
 document.addEventListener("DOMContentLoaded", () => {
+  countView();
   wireTheme();
   wireFeedback();
   wireWeek();
