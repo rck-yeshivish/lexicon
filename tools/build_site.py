@@ -854,6 +854,10 @@ RADAK_CREDIT = ('Radak, <em>Sefer HaShorashim</em>, Berlin 1847. Public domain, 
                 'from the National Library of Israel.')
 TALMUD = {"meta": {}, "passages": {}}
 TALMUD_COMMS = {}   # daf -> the commentaries on it held in TALMUD
+# "Rashi on Genesis.13.3" -> his comments on the pasuk, from pesukim.json:
+# [] where Sefaria has none, "link" where it has them only in another language.
+# COMMENT_META names the edition of each, as PESUKIM's "meta" does the pesukim's.
+COMMENTS, COMMENT_META = {}, {}
 STOP = set()
 STOP_AT = 12
 
@@ -875,26 +879,34 @@ class Cites:
         self.cards = {}
 
     def mark(self, word):
+        return self.match(word)[0]
+
+    def match(self, word):
+        """(the headword this word is, whether it is that word itself rather
+        than only another of its root)."""
         b = re.sub(r"[^א-ת]", "", refs.bare(word))
         if not b:
-            return ""
+            return "", False
         for disp, hb, root in self.words:
             # The headword itself, with up to two prefix letters (וְסַלּוֹנִים:
-            # ו + סלון + ים) and up to three inflection letters after it. A
-            # final א or ה is dropped first, since it goes with the ending
-            # (גרמניא, בַּגֶּרְמָנִי; כלימה, כְּלִמָּתוֹ).
+            # ו + סלון + ים) and up to three inflection letters after it, the
+            # Aramaic א among them (בְּאוּשְׁפִּיזָא). A final א or ה is
+            # dropped first, since it goes with the ending (גרמניא,
+            # בַּגֶּרְמָנִי; כלימה, כְּלִמָּתוֹ).
             for core in dict.fromkeys((hb, hb[:-1] if len(hb) > 3 and hb[-1] in "אה" else hb)):
                 i = b.find(core)
                 if i != -1 and i <= 2 and all(c in refs.PREFIX for c in b[:i]):
                     tail = b[i + len(core):]
-                    if len(tail) <= 3 and all(c in refs.SUFFIX for c in tail):
-                        return disp
+                    # A form as common as אף (also) is marked, but it is not
+                    # good evidence that the passage is the one about the word.
+                    if len(tail) <= 3 and all(c in refs.SUFFIX or c == "א" for c in tail):
+                        return disp, b not in STOP
         if b in STOP:
-            return ""
+            return "", False
         for disp, hb, root in self.words:
             if root and refs.matches_root(b, root):
-                return disp
-        return ""
+                return disp, False
+        return "", False
 
     def tokens(self, text):
         # A maqaf-joined pair (וְגַם־נִכְלְמוּ) is two tokens, so only the word
@@ -909,23 +921,56 @@ class Cites:
         c = self.text_card(label, keys, kind)
         if c:
             return c
+        # A citation of Rashi or Tosafos opens their comment on the daf or the
+        # pasuk, where Sefaria has one. Where it has none, a daf opens as the
+        # Gemara, and a pasuk shows as any other pasuk does.
+        plain = [k for k in keys if " on " not in k]
+        comms = [k for k in keys if " on " in k and (TALMUD["passages"].get(k) or COMMENTS.get(k))]
+        if " on " in keys[0] and not comms and kind == "tanach":
+            c = self.text_card(label, plain, kind)
+            if c:
+                return c
+        ref = comms[0] if " on " in keys[0] and comms else plain[0]
+        if " on " in ref:
+            label = f'{refs.COMMENTARY_NAME.get(ref.split(" on ")[0], ref.split(" on ")[0])}, {label}'
         return {"l": label, "w": [], "t": [],
-                "u": "https://www.sefaria.org/" + urllib.parse.quote(keys[0].replace(" ", "_"))}
+                "u": "https://www.sefaria.org/" + urllib.parse.quote(refs.sefaria(ref).replace(" ", "_"))}
 
     def text_card(self, label, keys, kind):
         src = keys[0]
-        if kind in ("bavli", "yerushalmi"):
+        # A commentator's comments on a pasuk are taken as the segments of an
+        # amud are: those holding the entry's words, and only his.
+        talmud = kind in ("bavli", "yerushalmi")
+        if talmud or " on " in keys[0]:
             # A whole amud will not fit a card: show the segments of it that
             # hold the entry's words (at most two), with an ellipsis for the rest.
             # Where the Gemara's text lacks them, try the commentaries on the
             # daf (the one the entry names first, then Rashi and Tosafos).
             # Any other commentary already fetched on this daf is tried last
             # (the Sources list names no commentator, but the body may have).
-            extra = [c for c in TALMUD_COMMS.get(keys[0], []) if c not in keys]
-            for src in list(keys) + extra:
-                segs = TALMUD["passages"].get(src) or []
+            # Where the citation is a commentator's own ("Rashi to Beitzah
+            # 4a"), only his comment is tried: the Gemara's text under his name
+            # would show the reader what he was not cited for.
+            daf = next(k for k in keys if " on " not in k)
+            if " on " in keys[0]:
+                tries = [k for k in keys if " on " in k]
+            else:
+                tries = list(keys) + [c for c in TALMUD_COMMS.get(daf, []) if c not in keys]
+            # Within one source, a segment holding the word itself comes before
+            # one holding only another word of its root, which in an amud of
+            # Aramaic is as often chance (ריח, ירחי for א-ר-ח).
+            for src in tries:
+                segs = (TALMUD["passages"].get(src) if talmud else COMMENTS.get(src)) or []
+                # "link": Sefaria has his comment, but not in Hebrew.
+                segs = segs if isinstance(segs, list) else []
                 hits = [(i, self.tokens(s)) for i, s in enumerate(segs)]
-                hits = [(i, t) for i, t in hits if any(m for _, m in t)][:2]
+                hits = [(i, t) for i, t in hits if any(m for _, m in t)]
+                own = [(i, t) for i, t in hits if any(self.match(w)[1] for w, m in t if m)]
+                hits = (own or hits)[:2]
+                # A Targum is shown whole: it is the one pasuk, and its Aramaic
+                # is what it is cited for, though the word is seldom in it.
+                if not hits and not talmud and src.split(" on ")[0] in refs.TARGUMIM:
+                    hits = [(i, self.tokens(s)) for i, s in enumerate(segs)]
                 if hits:
                     break
             else:
@@ -953,16 +998,22 @@ class Cites:
         return {"l": label, "w": toks, "t": found if len(found) >= 2 else [], "s": src}
 
     def link(self, fragment):
-        out, skip = [], 0
+        # lead is the text before this run of it, its tags dropped, so that a
+        # commentator set in italics ("<em>Tosafos</em> to Nedarim 32a") is
+        # still seen as the one cited.
+        out, skip, lead = [], 0, ""
         for p in re.split(r"(<[^>]+>)", fragment):
             if p.startswith("<"):
                 if re.match(r"<(a|h2|h3)[\s>]", p):
                     skip += 1
                 elif re.match(r"</(a|h2|h3)>", p):
                     skip = max(0, skip - 1)
+                elif re.match(r"</?(p|li|ul|ol|td|th|tr|table|blockquote|div)[\s>]", p):
+                    lead = ""
                 out.append(p)
                 continue
-            runs = refs.find(p) if not skip else []
+            runs = refs.find(p, html.unescape(lead)) if not skip else []
+            lead = (lead + p)[-400:]
             if not runs:
                 out.append(p)
                 continue
@@ -991,14 +1042,19 @@ class Cites:
         for k, c in used.items():
             if c.get("u"):
                 continue
-            first = c.get("s") or k.split("|")[0]
+            first = refs.sefaria(c.get("s") or k.split("|")[0])
             book = first.rsplit(".", 1)[0] if re.search(r"\.\d+[ab]$", first) else first.rsplit(".", 2)[0]
-            book = book.split(" on ")[0]
-            meta = PESUKIM["meta"].get(book) or TALMUD["meta"].get(book) or {}
+            meta = (PESUKIM["meta"].get(book) or COMMENT_META.get(book)
+                    or TALMUD["meta"].get(book.split(" on ")[0]) or {})
             if meta.get("version"):
+                # A commentary's edition is often named only "Vocalized
+                # Edition", so it says whose it is.
+                who = (c.get("s") or "").split(" on ")[0] if " on " in (c.get("s") or "") else ""
+                who = refs.COMMENTARY_NAME.get(who, who)
+                ver = f"{who}, {meta['version']}" if who and who not in meta["version"] else meta["version"]
                 lic = meta.get("license")
-                if lic and lic != "unknown" or meta["version"] not in titles:
-                    titles[meta["version"]] = lic if lic and lic != "unknown" else titles.get(meta["version"])
+                if lic and lic != "unknown" or ver not in titles:
+                    titles[ver] = lic if lic and lic != "unknown" else titles.get(ver)
         versions = [f"{t} ({l})" if l else t for t, l in titles.items()]
         data = json.dumps(used, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
         colors = json.dumps({d: self.wmap[hb] for d, hb, _ in self.words if hb in self.wmap},
@@ -1371,6 +1427,8 @@ def main():
     for key in TALMUD["passages"]:
         if " on " in key:
             TALMUD_COMMS.setdefault(key.split(" on ", 1)[1], []).append(key)
+    COMMENTS.update(PESUKIM.pop("comments", {}))
+    COMMENT_META.update(PESUKIM.pop("comment_meta", {}))
     # Counted per corpus: the Gemara texts are several times the size of the
     # pesukim, and pooling them raised the bar until כלם (all) passed again.
     verses = list(PESUKIM["verses"].values())
