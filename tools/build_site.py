@@ -3068,7 +3068,7 @@ function countView(){
     .then(d => {
       const p = document.getElementById("hits");
       if(!p || !d || !d.n) return;
-      p.textContent = d.n.toLocaleString("en-US") + " page views since " + d.since;
+      p.textContent = d.n.toLocaleString("en-US") + (d.n === 1 ? " page view" : " page views") + " since " + d.since;
       p.hidden = false;
     })
     .catch(() => {});
