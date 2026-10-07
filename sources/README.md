@@ -108,6 +108,24 @@ Every entry in `../entries/` must trace to a file here. Orthodox sources only.
 - *Babel: The Language Magazine*, May 2020, pages 30 to 33. Copyright the author
   and the magazine; held here for research use.
 
+### Rabbi Shlomo Pappenheim, *Cheshek Shlomo* (Shorashim)
+- `cheshek-shlomo/cheshek-shlomo.pdf`: *Sefer Cheshek Shlomo, Shorashim*, printed
+  for the first time from his manuscript by Moshe Tzuriel, Bnei Brak 5777, as
+  hebrewbooks.org carries it; 632 pages, the roots on printed pages 16 to 572
+  (printed page = PDF page less two). Only 39 pages of it were printed in his
+  lifetime. Rabbi Klein cites it in 131 entries, more than any other dictionary.
+- The PDF is a scan under a rough OCR layer, so the text is transcribed from the
+  page images; `CHESHEK-BRIEF.md` is the brief. `python tools/split_cheshek.py`
+  maps the book into `../references/cheshek-shlomo.json`, one row per root with
+  its pages and the OCR as a finding aid only, and keeps any transcription
+  already made. `../references/cheshek-gloss.json` holds the English.
+- His words are public domain; the edition, with the editor's punctuation,
+  bracketed insertions and footnotes, is Moshe Tzuriel's. The Hebrew goes on the
+  site only with his permission.
+- A pilot of ten roots (כר, בל, עד, אף, ער, בא, גז, שב, עם, גר) was transcribed and
+  glossed on 7 October 2026, each proofread against the pages by a second
+  reader, at about 4.1M agent tokens.
+
 ## Planned
 
 - **Radak, *Sefer HaShorashim*.** The root dictionary the column leans on most.
@@ -119,7 +137,7 @@ Every entry in `../entries/` must trace to a file here. Orthodox sources only.
   each sense. Public domain; on Sefaria with an API. Use for *mareh mekomos*
   and Rabbinic senses, not for theology.
 - **Malbim** (*Yair Ohr* / *HaCarmel* and his synonym notes in the Tanach
-  commentary), **Rabbi Shlomo Pappenheim** (*Cheshek Shlomo*, *Yeriot Shlomo*),
+  commentary), **Rabbi Shlomo Pappenheim** (*Yeriot Shlomo*; *Cheshek Shlomo* is above),
   **Rav Hirsch** (etymological comments in the Chumash commentary),
   **Vilna Gaon** (synonym distinctions scattered through his commentary on
   Mishlei and Yeshayahu). Ingest as excerpts attached to entries.

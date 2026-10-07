@@ -1,0 +1,920 @@
+{
+ "meta": {
+  "work": "Rabbi Shlomo Pappenheim, Cheshek Shlomo (Shorashim)",
+  "brief": "CHESHEK-BRIEF.md",
+  "keyed": "by the root as references/cheshek-shlomo.json keys it",
+  "status": "draft: written and checked by agents against his text; not yet read by a person"
+ },
+ "glosses": {
+  "כר": {
+   "sense": "Digging: כריה, a dig that is not deep, against חפירה, the deep one; so searching out and recognizing (הכרה), and the furnace, the field, cutting and selling.",
+   "more": [
+    {
+     "h": "Digging: כריה against חפירה",
+     "t": "כר is a verb of כריה, digging. חפירה is said of digging in depth, and כריה of the act of digging that is not deep. בור כרה ויחפרהו (Tehillim 7:16), he dug a pit and deepened it: first one digs it (כורה), and afterwards excavates it (חופר) to make it deeper."
+    },
+    {
+     "h": "Digging into a matter",
+     "t": "Since digging, חפירה and כריה alike, goes into hidden treasures, both words were borrowed for searching with the mind: one who wants to get to the bottom of a matter is called כורה וחופר, digging and excavating. From חפירה comes לחפור את הארץ (Yehoshua 2:2), to search out the land. From כריה comes ותכרו על ריעכם (Iyov 6:27), and you dig against your friend: searching your friend in thought to find a fault in him; and לא תבשו, תהכרו לי (Iyov 19:3), you are not ashamed, you dig against me: you are not ashamed to probe me for wrongdoing and blemish. Both words are said as well of what the search yields, the finding of the thing sought. From חפירה there is משם חפר אכל (Iyov 39:29), from there it searches out food, that is, it obtains the food it searched for."
+    },
+    {
+     "h": "Recognition, from כריה",
+     "t": "From כריה comes every הכרה, recognition, in Tanach. Either it is the close examination and searching of the mind to find a thing out thoroughly, as הכר לך מה עמדי (Bereishis 31:32), discern what of yours is with me; הכר נא, הכתנת בנך (Bereishis 37:32), examine now, is it your son's coat; and הכר נא למי החתמת (Bereishis 38:25), examine now, whose is the seal. Or it is the finding of what was sought, as ויכירה ויאמר כתנת בני (Bereishis 37:33), and he recognized it and said, it is my son's coat, and ויכר יהודה (Bereishis 38:26), and Yehudah recognized."
+    },
+    {
+     "h": "Recognizing faces in judgment",
+     "t": "לא תכירו פנים במשפט (Devarim 1:17), you shall not recognize faces in judgment, and לא תכיר פנים (Devarim 16:19), you shall not recognize faces, are not נשיאות פנים, showing favor, as in לא תשא פני דל (Vayikra 19:15), you shall not favor the poor man, but הכרת פנים, recognizing faces. The judge must not say that this man's face testifies of him that he is righteous or wicked, as הכרת פניהם ענתה בם (Yeshayahu 3:9), the look of their faces testifies against them; nor say, I have known this man's righteousness or wickedness for many days, and presumably in this case too he is innocent or guilty. So too כי את הבכר בן השנואה יכיר (Devarim 21:17), for he shall recognize the firstborn, the son of the hated wife: after examining and searching out to whom to give the double portion, to the son of the beloved because he is her son or to the son of the hated one because he is the firstborn, the outcome must be precedence for the firstborn. By the words of Chazal (Yevamos 47a), יכיר, יכירנו לאחרים, he shall recognize: he shall make him recognized to others; that is, he is believed when he says of him that he knows him to be the firstborn. Rav Pappenheim adds that לא תבשו, תהכרו לי (Iyov 19:3) may belong to this sense: you are not ashamed to make out against me a lineage of wickedness and wrong."
+    },
+    {
+     "h": "Recognizing is not knowing",
+     "t": "There is recognition without prior examination, as ויכר יוסף את אחיו (Bereishis 42:8), and Yosef recognized his brothers: he certainly did not first examine whether these men were his brothers or not, but recognized them the moment he saw them. Yet the whole of הכרה is finding after a search, for הכרה is not ידיעה, knowing. ידיעה is knowing a thing in itself, knowing the thing itself thoroughly. הכרה is knowing a thing as set apart from others it is mixed among, which is complete only after examining them all, when one stands clear of the rest by the signs found in it. It rests on experience, on knowledge that came before: having known the thing earlier and lost sight of it, one sees it again with the same signs and recognizes it, knowing it is the very thing already seen. Where the signs are plain and strike the eye at first glance without need of much examining, it seems to us that we did not examine at all; but it is not so, for the senses have already examined it without our setting them to it."
+    },
+    {
+     "h": "Recognition for good",
+     "t": "הכרה is said as well of the intent to take up with someone in order to do him good, as מצאתי חן בעיניך להכירני (Rus 2:10), I have found favor in your eyes that you should take notice of me. Recognizing a thing does not depend on finding favor, so the meaning is the intent to take trouble with me for my benefit, as if you knew no one but me. So too ואין לי מכיר (Tehillim 142:5), and I have no one who acknowledges me; and, in the same way, מודע לאישה (Rus 2:1), an acquaintance of her husband's, and בועז מודעתנו (Rus 3:2), Boaz our acquaintance: knowing and recognizing for good. Rav Pappenheim places here too את הבכור בן השנואה יכיר (Devarim 21:17), he shall recognize the firstborn, the son of the hated wife, and לא תכיר פנים (Devarim 16:19), you shall not recognize faces, as recognition for good."
+    },
+    {
+     "h": "כרה, the feast, and מכרה",
+     "t": "From this sense comes כרה with a tzere: ויכרה להם כרה גדולה (Melachim II 6:23), and he prepared a great feast for them, the meal people make for one another when they have become acquainted. In construct, נות כרת רעים (Tzefaniah 2:6), the grounds of the shepherds' acquaintance: a place where shepherds make one another's acquaintance. The noun of the act is מכרה, the deed through which people come together into acquaintance, as כלי חמס מכרתיהם (Bereishis 49:5), instruments of violence are their bond: the deed of the instruments of violence was their מכרה, through which they became friends and acquaintances."
+    },
+    {
+     "h": "Birthplace, dwelling, מכרה",
+     "t": "The place from which a man's lineage and connections, his doings and his worth, are known is also called מכרה, as מכרתיך ומלדתיך (Yechezkel 16:3), your origins and your birthplace; בארץ מכרותיך (Yechezkel 21:35), in the land of your origins; על ארץ מכורתם (Yechezkel 29:14), to the land of their origin. The place where a man was born is called מולדתו, his birthplace; the place where he lives as a sojourner is called מגוריו, his dwelling; the place where he does his business is called מכרה. Those with whom he trades and is acquainted are his מכרים, as איש מאת מכרו (Melachim II 12:6), each man from his acquaintance, and מאת מכריכם (Melachim II 12:8), from your acquaintances: they know one another through trade."
+    },
+    {
+     "h": "נכר: not recognized",
+     "t": "Recognition takes a nun in two ways. One is the passive verb, as ולא נכר שוע לפני-דל (Iyov 34:19), and the rich man is not recognized before the poor, and נכרו בחוצות (Eichah 4:8), recognized in the streets. The other is a nun added to the root, which gives the noun נכר, as מכל בן נכר (Bereishis 17:12), from any son of a stranger, and it means the absence of recognition. A thing not recognized is called נכר, removed from recognition, as ודשנו את המזבח (Bamidbar 4:13) is the clearing of ashes from the altar and ותשרש שרשיה (Tehillim 80:10) the taking out of roots. Rav Pappenheim gives a second reason: הכרה is rooted in כריה, searching out what is hidden, which is the wish to recognize a thing, and that wish belongs only to what is not yet recognized for what it is. It is human nature, when something strange comes before a man, to want to know it and recognize it thoroughly. So the noun נכר is itself a word of recognition, but the noun of the trying and the wish: a thing one still wishes to recognize and still strains to, that is, a thing not yet recognized."
+    },
+    {
+     "h": "נכר against זר",
+     "t": "נכר is like זר, a stranger, but זר comes from נזירות and הפרשה, separation and setting apart: one separated from something in respect of kinship. נכר comes from הכרה: one who lacks acquaintance."
+    },
+    {
+     "h": "נכרי: one of an unknown many",
+     "t": "With the yod of relation, נכרי, a foreigner, places a man among others like him: where there are many who are not recognized, each is called נכרי, one of a body of many who are not recognized, as לעם נכרי, to a foreign people, that is, to some people among the peoples that are not known; לנכרי תשיך (Devarim 23:21), to the foreigner you may lend at interest, to a man of a nation that is not known. נכר is said as well of one with whom it is not fitting to have acquaintance, as את הנכרי תגש (Devarim 15:3), the foreigner you may press, and לנכרי תשיך (Devarim 23:21): one with whom you should have no acquaintance, though you know him well. So too הסירו את אלהי הנכר (Bereishis 35:2), put away the foreign gods: gods that you must not recognize; and מנכריה אמריה החליקה (Mishlei 2:16), from the foreign woman who makes her words smooth: the woman who ought to be to you as a stranger, the reverse of ואין לי מכיר (Tehillim 142:5), I have no one who acknowledges me."
+    },
+    {
+     "h": "נכרי as plain strangeness",
+     "t": "Sometimes נכרי is used for strangeness alone, as נכרי ואל שפתיך (Mishlei 27:2), a stranger and not your own lips. It does not mean a man you do not know, or one of another people, or one you ought not know, but זר, one not related to you. Since the beginning of the pasuk already said יהללך זר ולא פיך (Mishlei 27:2), let a stranger praise you and not your own mouth, the beauty of style required נכרי in its second half, so as not to use one word twice for one matter. So too זר מעשהו... נכריה עבדתו (Yeshayahu 28:21), strange is His deed... foreign is His work, and לא יהיה בך אל זר ולא תשתחוה לאל נכר (Tehillim 81:10), there shall be no strange god among you, and you shall not bow to a foreign god."
+    },
+    {
+     "h": "The verb נכר and its forms",
+     "t": "As a verb, פן ינכרו צרימו (Devarim 32:27), lest their foes make it strange, is transitive: they would exchange the recognized thing for something foreign and strange. So too ואתתם לא תנכרו (Iyov 21:29), and their signs you do not make strange; וינכרו את המקום הזה (Yirmiyahu 19:4), and they made this place strange; ביום נכרו (Ovadiah 1:12), on the day he was made strange. The passive, בשפתו ינכר שונא (Mishlei 26:24), with his lips a hater is unrecognized: through the smoothness of his lips his hatred is not recognized. The reflexive, ויתנכר אליהם (Bereishis 42:7), and he made himself strange to them: he presented himself as a stranger; and והיא מתנכרה (Melachim I 14:5), and she is disguising herself."
+    },
+    {
+     "h": "Even a youth disguises himself",
+     "t": "All the commentators take יתנכר in גם במעלליו יתנכר נער (Mishlei 20:11) as transitive, even by his deeds a youth is known: from a child's doings one recognizes what he will become. Rav Pappenheim asks two questions of them all. What does גם, even, add: what is there besides his deeds by which he could be known? And every other reflexive form of נכר is intransitive, as ויתנכר אליהם (Bereishis 42:7) and והיא מתנכרה (Melachim I 14:5); why should this one alone be transitive? So he holds that here too it is intransitive, and נער, a youth, goes with גם: even a youth disguises himself by his deeds. Not only a grown man of full understanding disguises himself by his deeds, making himself out pure and upright when he is not; even a young child without full understanding sometimes knows how to deceive people by his deeds, like Esav, איש ציד, a man of the hunt, who knew how to deceive his father."
+    },
+    {
+     "h": "כור, the smelting furnace",
+     "t": "From הכרה comes כור, as מכור הברזל (Devarim 4:20), out of the iron furnace; וכור לזהב (Mishlei 17:3), and a furnace for gold; כור סגים כסף (Yechezkel 22:18), a furnace, the dross of silver. It is a kind of oven in which raw metals dug from the ground are melted, called כור for the recognition, since through it the pure metal, mixed at first with the earth and not recognizable, comes to be recognized; in the sense of הנני צורפם ובחנתים (Yirmiyahu 9:6), behold I will smelt them and test them. Since the furnace for melting raw iron ore needs more firing than the furnaces for other metals, iron being the hardest of them, one who escapes great distress is said to have come out of the iron furnace. Or כור is from כריה, since the earth dug from the ground is put into it; and the name may be from כריה as a pit dug to melt the metal ore in."
+    },
+    {
+     "h": "ככר and כירה, from כור",
+     "t": "From כור comes ככר: ככר זהב (Shemos 25:39), a talent of gold; ככר כסף (Melachim I 20:39), a talent of silver; ככר עפרת (Zechariah 5:7), a talent of lead. It is the weight of metal put into the furnace at one time, or the weight of metal that comes out of it at one time; compare איפה, a measure of grain that is baked at one time. From כור too come כירה and כירים, stoves: תנור וכירים (Vayikra 11:35), an oven and a stove; ככיור אש בעצים (Zechariah 12:6), like a fire-pan among wood; from כריה, a digging in the ground. Bread baked in it is called ככר, as וככר לחם אחת (Shemos 29:23), and one loaf of bread, that is, the one baked on the stove. The vessel made for washing is called כיור, as ועשית כיור נחשת (Shemos 30:18), and you shall make a copper laver, because it has the shape of a כור."
+    },
+    {
+     "h": "כר, the rich field, and ככר",
+     "t": "From כריה also comes כר, as כר נרחב (Yeshayahu 30:23), a broad pasture, and לבשו כרים הצאן (Tehillim 65:14), the pastures are clothed with flocks. It is a kind of field, very fat and moist, good for sowing and for grazing, and a trench is dug round about it to drain off the excess moisture, so it is called כר. The fat field called כר, when it is very large, is called ככר: ככר הירדן (Bereishis 13:10), the plain of the Yarden; ואת הנגב ואת הככר (Devarim 34:3), and the Negev and the plain; ומן הככר סביבות ירושלם (Nechemiah 12:28), and from the plain around Yerushalayim."
+    },
+    {
+     "h": "Siege כרים and the כרתי",
+     "t": "Because the כר is trenched round, the square plots with a trench round them that are made around a besieged city are called כרים, as ושים עליה כרים, and set כרים against it, and לשום כרים (Yechezkel 21:27), to set כרים. The picked soldiers who work at the כרים are called כרי, as לכרי ולרצים (Melachim II 11:4), to the Kari and to the runners, or כרתי, as והכרתי והפלתי (Shmuel II 8:18), and the Kereisi and the Peleisi, and על הכרתי ועל הפלתי (Shmuel II 20:23), over the Kereisi and over the Peleisi. Rav Pappenheim also suggests that the כרים made against a fortified city to throw down its walls, ושים עליה כרים (Yechezkel 4:2), and set כרים against it, take their name from the כרים of the flock, since they have horns to butt with, like the rams butting at the wall that Sefer Yosipon tells of."
+    },
+    {
+     "h": "כר, a measure of grain",
+     "t": "A kind of grain measure is also called כר, as כר סלת וששים כר קמח (Melachim I 5:2), kor of fine flour and sixty kor of meal, and מעשר הבת מן הכר (Yechezkel 45:14), the tenth of a bas from the kor. It is the measure that holds the amount of grain needed to sow a field called כר; compare איפה, the quantity for one baking. ככר כסף, a talent of silver, is likewise silver in the quantity put into the smelting furnace."
+    },
+    {
+     "h": "כרים, the flock, and its cushions",
+     "t": "The flock that grazes on the rich pasture called כר is called כרים: עם חלב כרים (Devarim 32:14), with the fat of pasture flocks; ועל הכרים ועל כל הטוב (Shmuel I 15:9), and the pasture flocks and all that was good; כיקר כרים (Tehillim 37:20), like the preciousness of pasture flocks. The singular is שלחו כר (Yeshayahu 16:1), send a sheep of the pasture flock. The saddle cloth made from the skin of a כר is also called כר, as ותשמם בכר הגמל (Bereishis 31:34), and she put them in the camel's cushion; and this is the sense of ובצבים ובפרדים ובכרכרות (Yeshayahu 66:20), and in covered wagons and on mules and in cushioned carriages: carriages dressed with cushions and coverings. Possibly כיקר כרים כלו בעשן (Tehillim 37:20), like the preciousness of כרים they are consumed in smoke, speaks of costly cushions made from the skins of the flock, which are ruined when they come into smoke, as in כי הייתי כנאד בקיטור (Tehillim 119:83), for I have become like a wineskin in the smoke."
+    },
+    {
+     "h": "כרכור, dancing",
+     "t": "A kind of dance is called כרכור, as ודוד מכרכר בכל עז (Shmuel II 6:14), and David was dancing with all his might: dancing like the sheep that graze on the כר, which have good pasture and are lively and very healthy, in the sense of וירקדם כמו עגל (Tehillim 29:6), He makes them dance like a calf, and תרקדו כאילים (Tehillim 114:6), you dance like rams. Possibly ובפרדים ובכרכרות (Yeshayahu 66:20), and on mules and in כרכרות, means carriages that leap, in the sense of ומרכבה מרקדה (Nachum 3:2), and a leaping chariot."
+    },
+    {
+     "h": "אכר and כרם",
+     "t": "From כר, a kind of field, the one who works the כר is called, with an added aleph, אכר: in respect of sowing grain, as בושו אכרים (Yirmiyahu 14:4), the farmers are ashamed, and אכר וצמדו (Yirmiyahu 51:23), the farmer and his yoke; in respect of grazing the pastures, as אכרים ונסעו בעדר (Yirmiyahu 31:23), farmers, and those who move about with the flock; and in respect of both sowing and grazing, as אכרים וכרמים (Divrei HaYamim II 26:10), farmers and vinedressers. From כר as ground fat and fine for seed comes, with an added mem, כרם, ground fine for trees, whether a vineyard of vines or an olive grove: ועד קמה ועד כרם זית (Shoftim 15:5), as far as the standing grain and the olive groves. Those who work a כרם are called כורמים, as אכרים וכרמים בהרים (Divrei HaYamim II 26:10), farmers and vinedressers in the hills, and לכרמים וליגבים (Melachim II 25:12), as vinedressers and husbandmen."
+    },
+    {
+     "h": "כרת, cutting",
+     "t": "From כר as digging comes the verb כרת, cutting: כריה cuts the soil and parts one piece from another. כרת is said of plain cutting, severing one thing from another, as ותכרת את ערלת בנה (Shemos 4:25), and she cut off her son's foreskin; ונכרתה הנפש ההיא מעמיה (Vayikra 7:27), that soul shall be cut off from its people, that is, cut off and parted from the good laid up for its people; ספר כריתות (Yeshayahu 50:1), a bill of severance; אשר נכרתו מימי הירדן (Yehoshua 4:7), that the waters of the Yarden were cut off; אשר כרתו לפני העגל אשר כרתו לשנים (Yirmiyahu 34:18), which they cut before Me, the calf that they cut in two. It is said too of a thing's coming to an end, cut off wholly from existence, as ולא יכרת כל בשר (Bereishis 9:11), and all flesh shall not be cut off; ולא תכרת הארץ ברעב (Bereishis 41:36), and the land shall not be cut off by the famine; להכרית הצפרדעים (Shemos 8:5), to cut off the frogs. And it is said of making a covenant, a cutting for good, which he explains at the root בר."
+    },
+    {
+     "h": "מכר: from כריה and from הכרה",
+     "t": "Also from כר is the verb מכר, selling, which by its forms and senses in Tanach comes from כריה and cutting and from recognition and estrangement. Reasoning bears this out: every sale has digging and cutting, since the seller cuts the thing off from the rest of his goods and from his possession, and it has recognition and estrangement, since the buyer comes into acquaintance with the thing he takes and the seller becomes a stranger to what he sold and estranged from it. Yet the language draws a difference within selling between where the sense is digging and cutting and where it is recognition and estrangement."
+    },
+    {
+     "h": "Outright sale: מכר with the mem",
+     "t": "Where the sale is complete and final, the verb is מכר with the mem, from recognition and estrangement, as וימכור את בכרתו (Bereishis 25:33), and he sold his birthright; כי מכרו מצרים (Bereishis 47:20), for the Egyptians sold; לא ימשל למכרה (Shemos 21:8), he shall have no power to sell her; וטבחו או מכרו (Shemos 21:37), and slaughtered it or sold it. The noun is ממכר, ממכר לעמיתך (Vayikra 25:14), a sale to your fellow; or מכר pointed with segols, מביאים דאג וכל מכר (Nechemiah 13:16), bringing fish and all kinds of wares, from estrangement, on the pattern of ונכר לפעלי און (Iyov 31:3), and estrangement for the workers of iniquity. From this the word serves for a complete handing over, as כי צורם מכרם (Devarim 32:30), unless their Rock had sold them; כי ביד אשה ימכר (Shoftim 4:9), for into the hand of a woman He will hand over; נכר אותו אלהים בידי (Shmuel I 23:7), Hashem has delivered him into my hand. The reflexive, יען התמכרך לעשות הרע (Melachim I 21:20), because you have sold yourself to do evil, and אשר התמכר לעשות הרע (Melachim I 21:25), who sold himself to do evil: he gave himself over to evil deeds."
+    },
+    {
+     "h": "Hire: כר without the mem",
+     "t": "Where there is no complete sale but only part of one, that is, hire, where the seller is not wholly estranged from the thing and the buyer gains no complete and final acquaintance with it, the verb comes without the mem, as כר: from digging and cutting, since he does an act of cutting in the thing but is not wholly estranged from it. Its forms then follow the verb כרה, as וגם מים תכרו מאתם (Devarim 2:6), and water too you shall acquire from them: you shall hire wells from them as a whole, to draw from them as much as you need, for it was not the practice to take water from them by measure for six hundred thousand people and their animals. The wells stayed with their owners and only the water was cut off from their possession, so the word falls under כריה. So too ואכרה לי בחמשה עשר כסף (Hoshea 3:2), so I acquired her for myself for fifteen pieces of silver, which was likewise not a purchase but hire; and יכרו עליו חברים (Iyov 40:30), will partners trade over him: commerce and dealing, where they agree among themselves how much each will lay out and how much each will earn."
+    },
+    {
+     "h": "מכר, the price of hire",
+     "t": "The noun with a suffix: ונתתי מכרם (Bamidbar 20:19), I will pay their price, that is, what is paid to hire wells of water. ורחק מפנינים מכרה (Mishlei 31:10), her price is far beyond pearls: the sum fitting to give a woman of valor hired as a wife is far beyond pearls. Taking a wife is not like acquiring other goods, which a man may do with as he pleases; taking a wife is like hire, for the woman's own person stays in her own domain and not in her husband's, except for what touches the marriage. Without the suffix the noun is מכרה, as ומכרה מלח (Tzefaniah 2:9), and a salt pit, on the pattern of מקרה, a happening."
+    }
+   ]
+  },
+  "בל": {
+   "sense": "The loss of a thing's form, not of the thing itself: from within, as it wears out and rots (בלה), or from without, as it is mixed into other things (בלל).",
+   "more": [
+    {
+     "h": "Form lost, not the thing",
+     "t": "בל is a noun, a verb and a particle, all of one sense. Its first sense is the loss of a thing's form (צורה) only, and not of the whole of it. The loss of the whole thing is כליון, destruction; a change from one form to another is השתנות, change; the loss that happens in the form itself is בל or בלה. A thing loses its form in two ways: from itself, when what upholds its form gives out and it falls to ruin; or from outside, when something comes upon it from without that spoils and confounds its form. The name בל covers both. Of the loss from within is בלה, wearing out and rot; of the loss from without, the verb בלל, mixing. Both are the loss and undoing of the thing's form, whether by its rotting or by its being mixed with other things."
+    },
+    {
+     "h": "בליה and רקבון: wearing and rot",
+     "t": "בליה, wearing out, is the start of רקבון, rot: the power that upholds the thing (כח המעמיד) begins to fail, but it is not yet wholly lost, and the thing is still fit for some use. רקבון is the end of the loss of form: the upholding power is wholly gone, the form undone altogether, and the thing good for nothing; a moist thing such as meat or fruit goes soft and turns to liquid. כרקב יבלה (Iyov 13:28), it wears away like rot, does not make the two the same. They share a cause, the failing of the upholding power, and rot takes in wearing out, since what rots was first worn; but it would not be fine speech to use one word twice, כרקב ירקב, rotting like rot, or כבלוי יבלה, wearing like wear, so the pasuk says כרקב יבלה: it begins to wear, and the rot comes at the end."
+    },
+    {
+     "h": "בלילה against עירוב",
+     "t": "עירוב, intermixing, is said of things that keep their form after they are mixed and lose nothing of it, like wheat mixed with legumes, where each stays as it was and is only joined to what is not its kind. בלילה, blending, is said of things that lose their form through the mixing, like wine in water, where the wine and the water each lose their form. בלל is used mostly of a mixture with something moist in it, moist with moist or moist with dry, since wherever there is moisture the mixing also spoils form: בלולות בשמן (Shemos 29:2), mixed with oil, and בלותי בשמן רענן (Tehillim 92:11), I am mixed with fresh oil."
+    },
+    {
+     "h": "Efraim blended among the nations",
+     "t": "אפרים בעמים הוא יתבולל (Hoshea 7:8), Efraim blends himself among the nations, does not speak of Efraim's disgrace and the ruin of its traits, but of its misfortune: it was blended among the nations and lost its form as a nation. Not so ויתערבו בגוים וילמדו מעשיהם (Tehillim 106:35), they mingled among the nations and learned their deeds, which speaks of the disgrace of individuals. בלילה and loss of form would not be right of them, since a man who mixes with other men does not lose his form by it; so the pasuk says תערובת, mingling, the mingling of traits and opinions and their coming together into one relation."
+    },
+    {
+     "h": "מלח is stirring, not mixing",
+     "t": "The verb מלח is not mixing but stirring (הגסה): ממולח טהור קדש (Shemos 30:35), well stirred, pure, holy, means that it is stirred thoroughly, so that the bottom comes up and the top goes down. So וייראו המלחים (Yonah 1:5), the sailors were afraid: the מלחים are those who stir the water with oars, as one stirs a pot. It is not mixing, since mixing applies only to a kind with what is not its kind, and not to a kind with its own kind, like water, which is all one even body. Of such things one says stirring, the movement of their parts from place to place."
+    },
+    {
+     "h": "Wearing out and withering",
+     "t": "אחרי בלותי היתה לי עדנה (Bereishis 18:12), after I have worn out, shall I have smoothness: בלותי is an infinitive of the light form, like אחרי ראותי את פניך (Bereishis 46:30), after my seeing your face, and it means after the power that upholds a woman's form for bearing children has gone from me. Of this sense is יבלו בטוב ימיהם (Iyov 21:13), they wear out their days in good: their days of ease run on in good. Likewise נבול תבול (Shemos 18:18), you will surely wither away; ועלהו לא יבול (Tehillim 1:3), and its leaf does not wither; נבלה הארץ (Yeshayahu 24:4), the earth withers; נובלת עליה (Yeshayahu 1:30), whose leaf withers; וציץ נובל (Yeshayahu 28:1), and the withering bloom."
+    },
+    {
+     "h": "Worn things",
+     "t": "שמלתך לא בלתה (Devarim 8:4), your garment did not wear out; שקים בלים, worn sacks, and ונעלות בלות, worn shoes (Yehoshua 9:4-5); בלויי סחבות (Yirmiyahu 38:11), worn-out rags; לבול עץ אסגוד (Yeshayahu 44:19), shall I bow down to a worn-out piece of wood, that is, לעץ בלוי, to wood that is worn, like בגדול זרועך (Shemos 15:16), by the greatness of Your arm; and בול is on the pattern of עול in עול ימים (Yeshayahu 65:20), an infant of days."
+    },
+    {
+     "h": "בול, the month of Cheshvan",
+     "t": "The month of Cheshvan is called בול, בירח בול (Melachim I 6:38), in the month of Bul, because in it the plants in the ground wear out and the leaves wither (נובלים) off the trees."
+    },
+    {
+     "h": "נבלה, a carcass",
+     "t": "From the same sense a dead creature is called נבלה, for the loss of its living form: a man, as לא תלין נבלתו על העץ (Devarim 21:23), his body shall not remain overnight on the tree; and other creatures, as בנבלת חיה טמאה או בנבלת בהמה טמאה או בנבלת שרץ טמא (Vayikra 5:2), the carcass of an unclean beast, or the carcass of unclean cattle, or the carcass of an unclean creeping thing. In the sense the language was coined with, every creature that has lost its living form is נבלה. The Lawgiver calls נבלה, for the prohibition of eating, clean cattle, beasts and fowl that died by themselves or were made unfit in their slaughter; and for the tumah of touching and carrying, unclean creatures, whether slaughtered or dead of themselves, and clean ones that died of themselves or were made unfit in slaughter. Clean creatures slaughtered properly do not make tamei as נבלה, even if they are found treifah."
+    },
+    {
+     "h": "נבל, a skin for drink",
+     "t": "From נבלה a leather vessel for liquids is called נבל: נבל יין (Shmuel I 1:24), a skin of wine, and ושנים נבלי יין (Shmuel I 25:18), and two skins of wine. It is named for being made from the hide of a נבלה; and once it is filled it also has the shape of the carcass's body. It is no wonder so ugly a name was lent to a vessel for drink, since in the sense the language was coined with נבלה carries no ugliness: to the one who set the language, even a kosher animal properly slaughtered for eating is נבלה once it is not alive. Had the word held any disgrace, the body of a prophet who died would not be called by it, as it is: והאריה עומד אצל הנבלה (Melachim I 13:24), and the lion standing beside the body, and נבלת איש האלהים, the body of the man of Hashem. There are also נבלים of a potter's making, named for being made in the likeness of a leather נבל; these are never called plain נבל, only נבל יוצרים (Yeshayahu 30:14), a potters' jar, and נחשבו לנבלי חרש (Eichah 4:2), they are counted as earthen jars. Plain נבל is the one made of leather."
+    },
+    {
+     "h": "נבל, the instrument",
+     "t": "A musical instrument too is called נבל, בנבל וכנור (Tehillim 150:3), with lyre and harp: either because it was made of leather like a נבל, as an instrument of leather still found today is pressed to bring out a sound; or because it was shaped like a נבל, though made of wood or some other stuff, with strings upon it."
+    },
+    {
+     "h": "The flasks of heaven",
+     "t": "ונבלי שמים מי ישכיב (Iyov 38:37), and the flasks of heaven, who lays them down: a name for rain clouds that empty out their water. ישכיב is as in השכב אותם ארצה (Shmuel II 8:2), laying them on the ground, and the clouds are called נבלים because they are full of water as skins are full of drink. Or ישכיב is ordering: who arranges the rain clouds to pour rain over a given stretch of the earth. Or נבלי שמים are clouds full of wind, like a leather נבל, and מי ישכיב is a stilling, so that they do not let the wind out all at once and lay waste the earth and all that fills it."
+    },
+    {
+     "h": "נבל, the base man",
+     "t": "As נבלה is said of the loss of the power that upholds the bodily form, so נבלה and נבל are said of the loss of the spiritual form: deeds that ruin the form of a man's glory. Either a man ruins his own honour by his deeds: עם נבל ולא חכם (Devarim 32:6), a base people and unwise; ונבל כי ישבע לחם (Mishlei 30:22), and a base man when he is sated with bread; לא יקרא לנבל נדיב (Yeshayahu 32:5), the base man shall not be called generous; על הנביאים הנבלים (Yechezkel 13:3), concerning the base prophets. Or by his deeds he blemishes and debases the honour and worth of others, and then the word comes in the heavy form: וינבל צור ישועתו (Devarim 32:15), he disgraced the Rock of his salvation, their deeds ruining the form of His honour; אל תנבל כסא כבודך (Yirmiyahu 14:21), do not disgrace the throne of Your glory, do nothing by which its glory would be blemished; בן מנבל אב (Michah 7:6), a son disgraces a father, debasing his father's honour by his deeds. The noun is נבלה, כי נבלה עשה בישראל (Bereishis 34:7), for he had done a vile thing in Yisrael. Whoever ruins his own worth or that of others is called נבל."
+    },
+    {
+     "h": "יבלת, a wart, against שומא",
+     "t": "A blemish in man and beast is called יבלת, או חרוץ או יבלת (Vayikra 22:22), or cut, or with a wart: a growth of worn flesh on the skin. It is not the שומא the Talmud speaks of, which is also a wart growing on the skin: the flesh of a שומא is not worn but healthy like the rest of the flesh, and it counts as a blemish only in women and kohanim, if hair grows on it, while the יבלת of the pasuk is worn flesh and disqualifies an animal too, as a blemish for a korban. Or יבלת is named for its end, that it will wear away and drop from the skin, as in כנבול עלה מגפן (Yeshayahu 34:4), as a leaf drops from the vine. It is a passing blemish that may be cut off, as it is said, חותכין יבלת במקדש (Eruvin 103a), a wart may be cut off in the Mikdash; but as long as it is on the skin it is a blemish."
+    },
+    {
+     "h": "תבל, the lower world",
+     "t": "The lower world is called תבל, תבל ומלואה (Tehillim 50:12), the world and all that fills it, and תבל ויושבי בה (Tehillim 24:1), the world and those who dwell in it, for its wearing out and decay: nothing in the lower world endures, unlike the heavenly bodies, which stand enduring as individuals (קיימים עומדים באיש) and have not lost their form from the six days of creation until today. The globe of the earth itself does endure as an individual, without loss of form, as it says אף תכון תבל בל תמוט (Tehillim 93:1), the world stands firm, it shall not falter; yet it is called תבל for what is upon it, which wears away and is consumed. Everything on the earth comes to be and passes away, and nothing in the host of heaven is like it."
+    },
+    {
+     "h": "יבול and בול, produce",
+     "t": "For the same reason what the earth puts forth of plants and fruit is called יבול or בול: ונתנה הארץ יבולה (Vayikra 26:4), and the earth will give its produce; ואין יבול בגפנים (Chavakuk 3:17), and there is no produce on the vines; כי בול הרים ישאו לו (Iyov 40:20), for the mountains bring him produce. They are named for wearing out and rot because plants are more prone to them than the rest of what the earth yields, metals and stones, which endure for generation after generation."
+    },
+    {
+     "h": "Confounding: בלל",
+     "t": "In the sense of mixing: ונבלה שם שפתם (Bereishis 11:7), and confound their language there, a confounding such that their tongue keeps no form of speech and language. בלותי בשמן רענן (Tehillim 92:11), I am mixed with fresh oil, is a past verb of the heavy form. The doubled form shows the strength of the mixing: סלת בלולה בשמן (Vayikra 2:5), fine flour mixed with oil, and בלול, as in בעמים הוא יתבולל (Hoshea 7:8), he blends himself among the nations."
+    },
+    {
+     "h": "בליל, fodder",
+     "t": "Fodder for animals is called בליל, from mixing: בליל חמיץ יאכלו (Yeshayahu 30:24), they shall eat seasoned fodder; אם יגעה שור על בלילו (Iyov 6:5), does an ox low over its fodder; ויבל לחמורים (Shoftim 19:21), and he gave fodder to the donkeys. It is flour or bran mixed with water."
+    },
+    {
+     "h": "תבלל, the eye blemish",
+     "t": "A blemish in a man is called תבלול, או תבלל בעינו (Vayikra 21:20), or a blending in his eye: the white fluid of the eye blended with the black."
+    },
+    {
+     "h": "תבל, a forbidden blending",
+     "t": "So too the noun תבל: תבל הוא (Vayikra 18:23), it is a confounding; תבל עשו דמיהם בם (Vayikra 20:12), they have done a confounding, their blood is upon them; and ואפי על תבליתם (Yeshayahu 10:25), and My anger upon their confounding: all from blending and jumbling. In lying with an animal there is a mixing of a kind with what is not its kind; in lying with a daughter-in-law, a confounding of the father's seed with the son's. The word is not used of lying with a father's wife, because with the daughter-in-law the mixing is more common, since she is somewhat subject to her father-in-law and heeds him whenever he wishes."
+    },
+    {
+     "h": "תבלין, spices",
+     "t": "In the language of the Chachamim the sharp seasonings put into dough and into cooked food, onions, garlic and other pungent spices, are called תבלין, from blending: their sharpness makes the taste of the dish come out and blend thoroughly."
+    },
+    {
+     "h": "אבל, a tract of land",
+     "t": "A kind of tract of land is called אבל: אבל השטים (Bamidbar 33:49), the tract of Shittim; אבל מחולה (Shoftim 7:22), the tract of Mecholah; ועד אבל כרמים (Shoftim 11:33), and as far as the tract of vineyards; ועד אבל הגדולה (Shmuel I 6:18), and as far as the great tract. To all appearance it is a tract with its borders confused, belonging to many people, where one man's border runs into and mixes with his neighbour's. Or it is a waste and desolate tract that grows no plants, in the sense of אבלה הארץ (Yirmiyahu 23:10), the land mourns, and כי אבלה אדמה (Yoel 1:10), for the ground mourns."
+    },
+    {
+     "h": "אבל, mourning, is confusion",
+     "t": "בל is said also of confusion of the spirit and of thought, and with an alef added it is אבל, mourning. אבל is not grief and lament, as it is commonly explained, but confusion and derangement of mind: the mourner's mind is unsettled and he does not know what to do, much as in מבוכה, perplexity. But in perplexity a man wants to get out of it and finds no way out, as explained earlier, while in mourning he does not try to leave his state, since the deed is done and cannot be undone; only his thoughts are confused and lack their proper order. Because wherever there is mourning there is grief, and the reverse, אבל sometimes stands for grief: נהפך לאבל מחולנו (Eichah 5:15), our dancing is turned to mourning; ומאבל ליום טוב (Esther 9:22), and from mourning to a festive day; והפכתי אבלם לששון (Yirmiyahu 31:12 in his edition), I will turn their mourning to joy. In essence תוגה, grief, and אבל are apart: grief is the work of the heart, mourning the work of thought."
+    },
+    {
+     "h": "Why mourning is mostly reflexive",
+     "t": "Hence אבל comes mostly in the reflexive: ויתאבל על בנו (Bereishis 37:34), he mourned for his son; וישמע העם את הדבר הרע הזה ויתאבלו (Shemos 33:4), the people heard this evil word and they mourned; ויתאבלו העם מאד (Bamidbar 14:39), the people mourned greatly. The mourner brings this confusion on himself, picturing what befell him again and again and confusing his thoughts by it; were he not to keep recalling it, his mind would settle and his images return to their order. Sometimes he cannot help recalling it, the evil that has come on him being so heavy that all his hope is lost and he sees no cure for his breach, and then it comes in the light form: אבלו הכהנים (Yoel 1:9), the kohanim mourn; ואבלו נאות הרועים (Amos 1:2), the shepherds' pastures mourn; ואבל כל יושב בה (Amos 8:8), and all who dwell in it mourn. Since what they live and are fed by is lost to them, mourning comes upon them against their will, and they must mourn."
+    },
+    {
+     "h": "Mourning of beasts and of the land",
+     "t": "This kind of mourning falls on animals too, when they sense their food is gone and see nothing to live on: their senses are confounded and they go about witless, as in ואבל כבנות יענה (Michah 1:8), and mourning like the ostriches. From the mourning of animals the word is lent to things with no breath of life: when a thing stops yielding the benefit and pleasantness it was made for, it is said to mourn, as though it were confounded and did not know what to do, no longer yielding what it is fit for. So אבלה נבלה הארץ (Yeshayahu 24:4), the earth mourns, it withers: it is confounded from doing its work, and it also withers, תבול, loses its form from within, as explained above. And דרכי ציון אבלות (Eichah 1:4), the roads of Tzion mourn: they no longer give road and passage to those coming to the festivals, which is what they were made for."
+    },
+    {
+     "h": "אבל beside אומלל and יבש",
+     "t": "That is why אבל is mostly joined with ואומלל, cut off, or יבש, dry, which are close to it in sense: אבלות is the confounding of a thing's makeup, אמילות its being cut off, and יבש is as it sounds, drying up. What they share is that the thing stops yielding what it has to yield: אבל תירוש אומללה גפן (Yeshayahu 24:7), the new wine mourns, the vine is cut off; אבל אומללה ארץ (Yeshayahu 33:9), the land mourns, it is cut off; עד מתי תאבל הארץ, ועשב כל השדה ייבש (Yirmiyahu 12:4), how long will the land mourn and the grass of every field dry up; אבלה הארץ יבשו נאות מדבר (Yirmiyahu 23:10), the land mourns, the pastures of the wilderness are dried up; ויאבל חל וחומה יחדיו אומללו (Eichah 2:8), rampart and wall mourn, together they are cut off."
+    },
+    {
+     "h": "בלהה, terror",
+     "t": "From בל as confusion comes בלהה, in the sense of alarm: לעת ערב והנה בלהה (Yeshayahu 17:14), at evening, and behold, terror; ספו תמו מן בלהות (Tehillim 73:19), they are swept away and finished by terrors; בעתוהו בלהות (Iyov 18:11), terrors frighten him. It is what meets a man suddenly, a thing jumbled of differing matters, so that he cannot make of it a proper and ordered picture. At first sight he is startled by such a perception when it comes on him suddenly; and when it stays with him and keeps on before him, there is no anguish greater, and it brings madness, derangement of mind and other evil illnesses, may we be spared."
+    },
+    {
+     "h": "King of terrors, firstborn of death",
+     "t": "ותצעידהו למלך בלהות (Iyov 18:14), and it marches him to the king of terrors: a name for the king of the demons, who, as the common people have it, busies himself wholly with jumbled and tangled things to trouble men. Just before, the pasuk says יאכל בדיו בכור מות (Iyov 18:13), the firstborn of death devours his limbs, a name for the prince of death, as in אף אני בכור אתנהו (Tehillim 89:28), I too will make him a firstborn; or he is called firstborn relative to those put to death by him, being of necessity first and before them in time."
+    },
+    {
+     "h": "Is בהל from the same root?",
+     "t": "It may be that בהל, which also means alarm, is from blending and confusion too, and the two are one in sense, as with כבש and כשב, a lamb, and שמלה and שלמה, a garment. Or they are two senses, and to set it apart from בלהה the heh stands in the middle of the word as an added letter, like the heh of צהל, a ringing cry, from צלצול, ringing, and of רהב, pride, from רב, much, and the other hehs added in the middle of a word, explained in their places; so in the language of the Talmud, נולד כשהוא מהול (Shabbos 135a), born circumcised, from מילה, circumcision; and ולא כהלין כתבא למקרא (Daniel 5:8), and they could not read the writing, from יכול, able."
+    },
+    {
+     "h": "בלהה against בהלה",
+     "t": "בלהה is confusion in the thing perceived, which comes as a jumble; בהלה is confusion in the one who receives it, whose thought is confounded when the thing comes on him suddenly. In בהלה the thing itself is not jumbled, but one who meets it suddenly and unprepared is at first sight thrown in his thinking, and then he settles at once. ומבלהים אותם (Ezra 4:4), and they were confounding them, is from בלהה: they fed them mixed-up reports from which they could form no true picture nor get to the substance, to keep them from the building. Against it, ויקראו בקול גדול ליראם ולבהלם (Divrei HaYamim II 32:18), they called out with a loud voice to frighten them and to alarm them, is from בהלה: the call itself was plain and ordered, but it was enough to alarm those who heard it suddenly and keep their minds from settling on whether there was anything in their words, and meanwhile they would hand over the city."
+    },
+    {
+     "h": "Haste: בהלה in Esther and Mishlei",
+     "t": "ויבהל את תמרוקיה ואת מנותיה (Esther 2:9), and he hastened her cosmetics and her portions: he ordered her gifts given suddenly, when she was not prepared for them, so that they would bring her the greater joy, as a happy thing that comes unlooked for does. נבהל להון איש רע עין (Mishlei 28:22), the man of grudging eye rushes after wealth: besides his grudging eye he has the bad trait of rushing after wealth, and that brings him to want and loss without his sensing it. One who rushes to profit until his mind is confused, how will he gain quickly? And with his eye grudging toward what is others', he is easily drawn into bad dealings that cost him money, for brokers and merchants rush him, saying there is great profit in it and he must not delay lest another get there first, and so he falls unawares into the snare of ruin."
+    },
+    {
+     "h": "יובל, the Jubilee year",
+     "t": "From blending comes יובל. The Jubilee year is called יובל for the blending and mixing of men's ranks, so that no one is left with an advantage over another, in wealth or in land: the man who yesterday was poor in property is rich today, his fields returning to him free in the Yovel, and the man who yesterday was a slave is today his own master."
+    },
+    {
+     "h": "יובל, the ram's horn",
+     "t": "The horn of the shofar blown to proclaim that the Yovel has come is called יובל after it, since it announces the Yovel: במשוך היובל המה יעלו בהר (Shemos 19:13), when the horn sounds long, they may go up the mountain. It is also called קרן היובל, the horn of the Yovel, as במשוך בקרן היובל (Yehoshua 6:5), when they sound long on the horn of the Yovel; or שופר היובל, the shofar of the Yovel, as שופרות היובלים (Yehoshua 6:13), the shofars of the yovelim, where the plural of יובלים goes back to the shofars, each one a shofar of Yovel."
+    },
+    {
+     "h": "הובלה, conveying, against הבאה",
+     "t": "As יובל is given to the Jubilee year for the mixing of ranks, so it is given to bringing: יובל שי ליהוה צבאות (Yeshayahu 18:7), a gift shall be brought to Hashem of hosts; לך יובילו מלכים שי (Tehillim 68:30), kings shall bring You a gift; לרקמות תובל למלך (Tehillim 45:15), in embroidered garments she is brought to the king. This too is from mixing, the mixing of domains and borders: when one of two things in two domains is brought to the other, its border mixes with the other's and they become one border, as explained under אתא. The difference between בא and אתא, both coming, is the very difference between הבאה, bringing, and הובלה, conveying. הבאה applies also to a bringing not yet complete, as ולמה יהוה מביא אותנו (Bamidbar 14:3), and why is Hashem bringing us, that is, in the course of bringing, and as והנה עשו בא (Bereishis 33:1), and behold, Esav was coming, in the course of coming. מוביל, conveying, applies only to a bringing already complete, when the thing conveyed has actually reached the border it was going to and the two borders have mixed and become one, like the word אתא, which also means a completed coming."
+    },
+    {
+     "h": "יבול, produce, against תבואה",
+     "t": "יבול may also be from הובלה, conveying: what the earth conveys, as in ונתנה הארץ יבולה (Vayikra 26:4), and the earth will give its produce, and ואין יבול בגפנים (Chavakuk 3:17), and there is no produce on the vines, just as תבואה, produce, is from הבאה, bringing, what the earth brings. The difference between them: יבול takes in all that the earth grows, grain and greens and grasses alike, as it says ותאכל ארץ ויבולה (Devarim 32:22), and it consumes the earth and its produce, that is, all that it yields. תבואה, said plainly, means specifically the five kinds of grain; but joined to שדה, field, as in וכל תבואת שדה (Divrei HaYamim II 31:5), and all the produce of the field, it takes in also the other plants sown for people to eat, as Chazal say (Nedarim 55a)."
+    },
+    {
+     "h": "יבל, a stream",
+     "t": "יבל also means a river: ועל יובל ישלח שרשיו (Yirmiyahu 17:8), and by a stream it sends out its roots; פלגים יבלי מים (Yeshayahu 30:25), brooks, streams of water; כערבים על יבלי מים (Yeshayahu 44:4), like willows by streams of water; על אובל אולי (Daniel 8:2), by the stream of Ulai. This too is from confusion: a river that rushes hard, its waters chasing along in a jumble, one part overtaking another; the opposite of מי השלוח ההולכים לאט (Yeshayahu 8:6), the waters of the Shiloach that go gently, whose water flows in its order."
+    },
+    {
+     "h": "מבול, the Flood",
+     "t": "From all these senses of בל comes מבול: הנני מביא את המבול (Bereishis 6:17), behold, I am bringing the Flood. It is called מבול from wearing out and rot, for it wore everything out; from blending, for it confounded everything; from יובל, for it carried everything off; and from נבלי שמים (Iyov 38:37), the flasks of heaven, and from יבלי מים (Yeshayahu 44:4), streams of water, as the aggadah expounds."
+    }
+   ]
+  },
+  "עד": {
+   "sense": "Coming together: things joined to each other, or two joined in a third that binds them. So until and for ever, meeting and set time, still, ornament, delight, witness.",
+   "more": [
+    {
+     "h": "Until: a thing joined to a limit",
+     "t": "He calls עד a noun, a verb and a particle, and all three mean ועד והתחבר דברים זה לזה, meeting and the joining of things to each other, whether they were joined from the start or join when one moves to the other. As a particle, עד marks a thing's joining to a particular limit, showing how far it reaches. The limit may be of place, עד מקום שכם עד אלון מורה (Bereishis 12:6), as far as the place of Shechem, as far as Elon Moreh; of time, עד עצם היום הזה (Vayikra 23:14), until this very day, and עד הנה (Bereishis 44:28), until now; or of a matter, עד אשר תפרה (Shemos 23:30), until you are fruitful, and עד בואכם עד המקום הזה (Devarim 1:31), until you came to this place."
+    },
+    {
+     "h": "The limit included, or left out",
+     "t": "Sometimes the limit itself belongs to what is joined to it, which is called עד ועד בכלל, until with the limit included: מראשו ועד רגליו (Vayikra 13:12), from his head to his feet, the feet included, and מיום הראשון עד יום השביעי (Shemos 12:15), from the first day until the seventh day, the seventh day too falling under the ban on chametz. So too מקטן ועד גדול (Bereishis 19:11), both small and great. Sometimes the limit stands outside it and only marks how far the thing reaches, which is called עד ולא עד בכלל, until with the limit left out: מערב עד ערב תשבתו שבתכם (Vayikra 23:32), from evening to evening you shall keep your rest, the second evening not part of the rest; ועד הים האחרון יהיה גבולכם (Devarim 11:24), up to the Western Sea shall be your border, the sea not within it except for some islands; and עד הביאכם את קרבן אלהיכם (Vayikra 23:14), until you have brought the offering of your God, since the new grain is permitted once the offering is brought. In all of these the limit is named."
+    },
+    {
+     "h": "For ever: the limit hidden",
+     "t": "To show that a thing lasts without bound or end, the limit is hidden and עד stands alone, meaning continuance up to a hidden limit that cannot be fixed: any limit one pictures is not it, and so the thing goes on always. So רם ונשא שכן עד (Yeshayahu 57:15), high and exalted, dwelling for ever; בטחו ביהוה עדי-עד (Yeshayahu 26:4), trust in Hashem for ever; and ויתפצצו הררי-עד (Chavakuk 3:6), the everlasting mountains were shattered. That is ועד, as in יהוה ימלוך לעלם ועד (Shemos 15:18), Hashem shall reign for ever and ever, which is לעולם גם עד, for ever and also without limit. Sometimes the everlasting limit is named outright, ומעולם עד-עולם אתה אל (Tehillim 90:2), from everlasting to everlasting You are God, and לדוד ולזרעו עד-עולם (Tehillim 18:51), to David and to his seed for ever, which is the limit included; sometimes both are said, עד-עולמי עד (Yeshayahu 45:17), to worlds without end, meaning worlds that go on for ever. And עד may be said of a beginning, to say that it has no limit: הזאת ידעת מני-עד (Iyov 20:4), do you know this, from of old, meaning from the hidden limit in time at which the thing began."
+    },
+    {
+     "h": "With a suffix: to",
+     "t": "With suffixes עד stands in place of אל, to: האזינה עדי בנו צפר (Bamidbar 23:18), give ear to me, son of Tzippor, where עדי is אלי, to me; עדיך כל בשר יבאו (Tehillim 65:3), to You all flesh shall come; and ועדיכם אתבונן (Iyov 32:12), and to you I gave heed."
+    },
+    {
+     "h": "עדה, to reach, and בלעדי",
+     "t": "From the particle a verb is made, עדה: לא-עדה עליו שחל (Iyov 28:8), the lion has not passed over it, meaning it did not come up to it, just as ותהינו לעלות ההרה (Devarim 1:41), and you made ready to go up the mountain, is made from הן, here. By compounding comes בלעדי, which is בל-עדי, not with me, the thing not joined to me: ויען יוסף את-פרעה לאמר, בלעדי (Bereishis 41:16), and Yosef answered Pharaoh, saying, it is not in me; and בלעדי, רק אשר אכלו הנערים (Bereishis 14:24), nothing for me, only what the young men have eaten, meaning nothing as touching me, only as what the young men ate. Without a suffix it serves as זולת, apart from: מבלעדי אישך (Bamidbar 5:20), other than your husband, a lying in which your husband has no share."
+    },
+    {
+     "h": "בעד: about, through, for",
+     "t": "With the bet of instrument and limit comes בעד: כי עצר יהוה בעד כל רחם (Bereishis 20:18), for Hashem had closed up every womb, that is, about the surface joined to the womb; בעד החלון נשקפה (Shoftim 5:28), through the window she looked out; and הבעד ערפל ישפוט? (Iyov 22:13), can He judge through the thick cloud? In construct it is always pointed with a sheva; standing alone it takes a patach, as מבעד לצמתך (Shir HaShirim 4:1), from behind your veil, and with a suffix always a patach: ויתפלל בעדך וחיה (Bereishis 20:7), and he will pray for you and you shall live; וכפר בעדך ובעד העם (Vayikra 9:7), and make atonement for yourself and for the people; and וכפר בעדו ובעד ביתו (Vayikra 16:6), and he shall make atonement for himself and for his household."
+    },
+    {
+     "h": "עדנה and עדן: until now",
+     "t": "Sometimes עד is compounded with הן and הנה, here: המה חיים עדנה (Koheles 4:2), who are alive still, as עד הנה, until now; and את אשר-עדן לא היה (Koheles 4:3), the one who has not yet been, as עד הן, likewise until now. It is the Talmud's עדיין, still."
+    },
+    {
+     "h": "The verb: two equals met in a third",
+     "t": "As a verb, עד is the joining of two equal subjects in a third, which is the limit binding them together. ונועדתי לך שם (Shemos 25:22), and I will meet with you there: the speech was shared by Hakadosh Baruch Hu and Moshe, and the Mishkan was the limit joining them. So אשר אועד לך שמה (Shemos 30:6), where I will meet with you, and ונועדתי שמה לבני ישראל (Shemos 29:43), and I will meet there with Bnei Yisrael: the revelation of the Shechinah and the appearing of Bnei Yisrael are united in the Mishkan, and so it is called אהל מועד, the Tent of Meeting. With a vav in place of the nun, ויועדו יחדו לבוא (Iyov 2:11), they arranged together to come, setting themselves a place to join; so ונועדה יחדו (Nechemiah 6:2), let us meet together, and נועד אל-בית האלהים (Nechemiah 6:10), let us meet at the house of God."
+    },
+    {
+     "h": "Two tents of meeting",
+     "t": "The name serves both the tent set apart for Hashem's speech with Moshe, ומשה יקח את-האהל ... וקרא לו אהל מועד (Shemos 33:7), and Moshe would take the tent ... and called it the Tent of Meeting, and the tent set apart for the revelation of the Shechinah to Yisrael, which is the Mishkan, בבואם אל אהל מועד (Shemos 28:43), when they come into the Tent of Meeting. So ונועדו אליך כל העדה אל פתח אהל מועד (Bamidbar 10:3), and all the congregation shall gather to you at the entrance of the Tent of Meeting, and ונועדו אליך הנשיאים (Bamidbar 10:4), and the princes shall gather to you, that is, to the bounded place where you are; and ובית מועד לכל-חי (Iyov 30:23), and the house appointed for all the living."
+    },
+    {
+     "h": "עדה, a gathering",
+     "t": "From this comes the noun עדה: ותקהל העדה (Vayikra 8:4), and the congregation was assembled, and עדת בני ישראל (Shemos 16:1), the congregation of Bnei Yisrael. Any number of people bounded to join in a bounded place, or gathered by a bounded purpose, is an עדה. So והנה עדת דבורים בגוית האריה (Shoftim 14:8), and behold, a swarm of bees in the lion's carcass: bees, gathered together in the hive for one purpose, are rightly called an עדה."
+    },
+    {
+     "h": "יעוד, designation",
+     "t": "Of the same is יעוד, bounding and appointing to a particular purpose that brings two together, which is marriage: אשר-לו יעדה והפדה... ואם-לבנו ייעדנה (Shemos 21:8-9), who designated her for himself, he shall let her be redeemed ... and if he designates her for his son. So ואל-חוף הים שם יעדה (Yirmiyahu 47:7), and to the seashore, there He has appointed it, and אנה פניך מעדות (Yechezkel 21:21), wherever your face is set."
+    },
+    {
+     "h": "מועד, the appointed time",
+     "t": "From יעוד comes מועד, time designated and bounded: והיו לאתת ולמועדים (Bereishis 1:14), and they shall be for signs and for seasons; למועד הזה בשנה האחרת (Bereishis 17:21), at this set time next year; אלה מועדי יהוה (Vayikra 23:2), these are the appointed seasons of Hashem; חסידה בשמים ידעה מועדיה (Yirmiyahu 8:7), the stork in the heavens knows her seasons. All are the bounding of time, and the bounding of the doer to a particular deed that brings time and doer together. That is התוועדות, meeting, itself: time and doer are two subjects, and the action the third that joins them. The difference between ועד, עת and זמן, meeting, time and season, he sets out at length in his Yerios Shlomo."
+    },
+    {
+     "h": "עוד, more and still",
+     "t": "From the same meeting comes עוד, excess and addition, what is joined to what is already there: עוד היום גדול (Bereishis 29:7), the day is yet long; והברד לא יהיה עוד (Shemos 9:29), and there will be no more hail; ועל הארץ מתחת אין עוד (Devarim 4:39), and on the earth below there is no other. It serves too for continuing in existence: עוד כל ימי הארץ (Bereishis 8:22), while the earth remains; לא יקרא עוד את שמך אברם (Bereishis 17:5), your name shall no longer be called Avram; עוד זה מדבר וזה בא (Iyov 1:16), while this one was still speaking, another came; and with a suffix, עודנו מדבר עמם (Bereishis 29:9), while he was still speaking with them, and הבשר עודנו בין שניהם (Bamidbar 11:33), the meat was still between their teeth. In every continuing a fresh stretch is joined to the one before, and so עוד is said of both."
+    },
+    {
+     "h": "עוד against בעוד",
+     "t": "Within continuing, עוד and בעוד differ. עוד without the bet is the full stretch: כי לימים עוד שבעה אנכי ממטיר על הארץ (Bereishis 7:4), for in seven more days I will bring rain upon the earth, the seven days running first and then the rain; עוד ארבעים יום ונינוה נהפכת (Yonah 3:4), forty more days and Nineveh is overturned, the forty days complete and then the overturning. בעוד, with the bet, is a stretch not complete: the later thing enters before the bounded time is finished and is swallowed in the earlier, as בעוד שלשת ימים ישא פרעה את-ראשך (Bereishis 40:19), within three days Pharaoh will lift up your head, the lifting falling inside the three days; and הן בעודני חי עמכם היום ממרים הייתם (Devarim 31:27), even while I am still alive with you today you have been rebellious. The bet of בעוד is the bet of within, as in בעת ההיא, at that time, and בימים ההם, in those days."
+    },
+    {
+     "h": "מעוד: from the beginning",
+     "t": "With a mem, עוד marks the start of a thing's continuing: מעודי עד-היום הזה (Bereishis 48:15), ever since I was, to this day, that is, from when my עוד, my continuing in existence, began, since a whole thing is sometimes named for its beginning. So מעודך עד-היום הזה (Bamidbar 22:30), ever since you were, to this day. The mem of מעוד is the mem of מן, from, as in מערב עד ערב, from evening to evening, מעת (Yeshayahu 48:16), from the time, and מאז היתה לגוי (Shemos 9:24), since it became a nation."
+    },
+    {
+     "h": "עודד, to keep up",
+     "t": "From עוד as continuing in existence comes the verb עודד, its dalet doubled for continuance carried far: קמנו ונתעודד (Tehillim 20:9), we have risen and stand upright; יתום ואלמנה יעודד (Tehillim 146:9), He upholds the orphan and the widow; מעודד ענוים (Tehillim 147:6), He upholds the humble: they are given continuance, long and abundant, so that whenever they are liable to stop, they go on."
+    },
+    {
+     "h": "עדי, ornament: beauty as relation",
+     "t": "From ועד comes עדי, the ornament that beautifies its wearer: ולא-שתו איש עדיו עליו (Shemos 33:4), and no man put on his ornaments; המעלה עדי זהב (Shmuel II 1:24), who put on you ornaments of gold; וככלה תעדה כליה (Yeshayahu 61:10), as a bride adorns herself with her jewels; ותעד נזמה וחליתה (Hoshea 2:15), she decked herself with her nose-ring and her jewelry. It is from meeting: the ornament and its wearer are two subjects and the sense of sight a third, where they meet and bring forth beauty and splendour. The beauty is a relation, lying neither in the ornament alone nor in the wearer alone but in the two together, when the eye takes them in and finds them suited to each other. There are ornaments not fine in themselves that look fine and splendid on the one who wears them, and fine ones that turn ugly on a man whose figure does not suit them, like נזם זהב באף חזיר (Mishlei 11:22), a gold ring in a pig's snout."
+    },
+    {
+     "h": "עד, spoil: the finery stripped",
+     "t": "The word is said of removing the ornament too: חבלי רשעים עודני (Tehillim 119:61), the bands of the wicked have stripped me, meaning they took my ornaments from me, as ודשנו את המזבח (Bamidbar 4:13), and they shall clear the ashes from the altar, is the removal of the ashes, and מפני רשעים זו שדוני (Tehillim 17:9), from the wicked who despoil me, is the taking away of my breast and what it yields. From stripping ornaments comes עד, spoil: בבקר יאכל עד (Bereishis 49:27), in the morning he devours the spoil; אז חלק עד-שלל (Yeshayahu 33:23), then spoil and plunder were divided; ליום קומי לעד (Tzefaniah 3:8), for the day I rise up to the spoil. It is a particular name for the kinds of ornaments and finery that men of war adorn themselves with, stripped from them when they are taken captive; compare שוד, which speaks both of sucking out and of robbery."
+    },
+    {
+     "h": "בגד עדים: the plunderers' garment",
+     "t": "Of the same is עדים in וכבגד עדים כל-צדקתינו (Yeshayahu 64:5), and all our righteousness is like a garment of עדים: a garment of those who plunder the finery of war, one tearing it this way and another that, until it rips. So too מעדה-בגד ביום קרה (Mishlei 25:20), a plunderers' garment on a cold day, slack and weak, which gives no warmth on a cold day; the mem is that of a noun, as in מעטה תהלה (Yeshayahu 61:3), a mantle of praise, and כל כלי מעשה (Bamidbar 31:51), every wrought article."
+    },
+    {
+     "h": "Chazal's עד: a rag, or a witness",
+     "t": "From the words of Chazal it would seem that עדים and מעדה are a rag or patch, called עדים because it is joined in, bringing the two sides of a tear together. In Masechta Niddah: בדקה עצמה בעד שלה (Niddah 14a), she examined herself with her cloth, and המשמשת בעדים (Niddah 5a), she who uses cloths, that is, a rag kept for wiping. But Rav Pappenheim finds no proof there: עד and עדים may be from testimony and seeing, since the rag one wipes with testifies whether there is blood or not; and that is why the words are found only in Niddah, while elsewhere the Talmud calls a rag סמרטוט and מטלית."
+    },
+    {
+     "h": "Or a garment made for show",
+     "t": "Perhaps בגד עדים in the pasuk is from עדי in its plain sense, a garment made for ornament, slack and light, not strong like other garments since it is made only for beauty: worn two or three times it tears, and so are all our righteous deeds, without strength. Then מעדה-בגד ביום קרה is a verb, formed like מרבה, one who increases: one who adorns himself on a cold day with a garment made for ornament, light and weak, which gives no warmth, as in וככלה תעדה כליה, as a bride adorns herself with her jewels."
+    },
+    {
+     "h": "עדן, delight of touch and taste",
+     "t": "Further from ועד come the nouns עדן ומעדן, which are pleasure and enjoyment. Of touch: היתה-לי עדנה (Bereishis 18:12), I have had delight; המלבשכם שני עם-עדנים (Shmuel II 1:24), who clothed you in scarlet with delights; מעדנות כימה (Iyov 38:31), the delights of Kimah; עדינה היושבת לבטח (Yeshayahu 47:8), you who live in pleasure, dwelling secure. Of taste: מעדני-מלך (Bereishis 49:20), dainties fit for a king; ונחל עדניך תשקם (Tehillim 36:9), and You give them drink from the river of Your delights; מלא כרשו מעדני (Yirmiyahu 51:34), he has filled his belly with my delicacies. These too are meeting, and a relation: the sweetness and pleasure lie neither in the thing tasted or felt nor in the man who tastes or feels it, but in the meeting of the two in the sense of taste or touch that brings them together, and when they are sensed as suited to each other, pleasure comes of it."
+    },
+    {
+     "h": "עדי against עדן",
+     "t": "All pleasantness comes from the suiting of the thing sensed to the sense, and that suiting works a pleasant feeling in the one who senses. So עדי and עדן are both the meeting of the thing sensed with the sense; but עדי is pleasantness as beauty, said of the pleasure of sight, and עדן is pleasantness as goodness, said of the pleasure of taste and touch. That is גן עדן, the Garden of Eden, which holds the pleasure of taste in its good fruits and the pleasure of touch in walking there, where the air is good and temperate."
+    },
+    {
+     "h": "מעד, to slip",
+     "t": "The opposite of meeting with a thing is the verb מעד, made by adding a mem: ולא מעדו קרסלי (Tehillim 18:37), and my ankles did not slip; לא תמעד אשריו (Tehillim 37:31), his steps do not slip; ומתניהם תמיד המעד (Tehillim 69:24), and make their loins continually totter; ורגל מועדת (Mishlei 25:19), and a slipping foot. It is being removed from meeting the thing one should be joined to."
+    },
+    {
+     "h": "The mem that reverses a root",
+     "t": "He gives it as a rule founded in the setting of the Hebrew language, to be kept in mind through the whole work: a two-letter root first set for meeting, joining, cleaving, agreement, binding and the like sometimes takes an added mem to mean the reverse of what it was set for. זח is moving off from being joined, as ולא יזח החשן (Shemos 28:28), and the breastplate shall not come loose, and מזח is its reverse. חק is engraving, מחק wiping out what was engraved. כר is recognizing, מכר the loss of recognition, estrangement. לט is folding, מלט ceasing to be folded. לץ is jesting, מליץ the reverse of jesting. נע is moving, מנע holding back from moving. סר is removing from, מסר handing over to. צא is going out of knowledge, מצא coming into it. רד is rule and dominion, מרד ceasing to be ruled. שך is nearness, משך the removing of nearness. So with מעד: עד is meeting, and מעד its reverse. The rule leaves out the mems that form a noun, as מקרא, a reading, מסע, a setting out, מרבה, an increase, מעשה, a deed, מעלה, an ascent, and מטה, a staff."
+    },
+    {
+     "h": "עד, witness: two unequal in a third",
+     "t": "As a noun, עד is testimony, the joining of two subjects that are not equal in a third that brings them together; the verb, by contrast, joins two equals. The deed is one subject and its doer the second, and they are unequal, one doing and the other done; the one who sees them both is the third, in whom deed and doer are joined. So wherever the Torah says עד it means two (Sotah 2b): יבאהו עד (Shemos 22:12), let him bring it as evidence; להית עד חמס (Shemos 23:1), to be a malicious witness; ועד אין בה (Bamidbar 5:13), and there is no witness against her; unless the pasuk specifies אחד, one, as ועד אחד לא יענה בנפש למות (Bamidbar 35:30), one witness shall not testify against a person that he die. Rav Pappenheim finds this right by the setting of the word: עד is not the name of one person but of the event of meeting, the meeting of the deed and its doer in the knowledge of the third. Any seeing and knowing in which a doer and his deed meet, whether of one or of many, is called עד; as one testimony suffices whether the doers are one or many and the deeds one or more, so it makes no difference whether those who see and know are one or many."
+    },
+    {
+     "h": "Lifeless witnesses; עד against אות",
+     "t": "By extension עדות is said of a thing without the breath of life: עד הגל הזה ועדה המצבה (Bereishis 31:52), this heap is witness and the pillar is witness, since here too two subjects meet in that third, which is to be a witness for them. But in full testimony the witness is one who can tell, while in testimony without life the witness is only a sign and token, to remind those who met in it to keep their terms. It is a little more than an אות, a sign: the אות is a sign to save from forgetting, the עד a sign to rouse to the deed, as והיה לאות ולעד (Yeshayahu 19:20), and it shall be for a sign and for a witness, and מה-אעידך מה אדמה-לך (Eichah 2:13), what shall I take to witness for you, what shall I liken to you, meaning what shall I set up as a witness that the like of you has happened before. Hence העידתי בכם היום את השמים ואת הארץ (Devarim 4:26), I call heaven and earth to witness against you this day, that they be like witnesses in the matter; as למען תהיה לי השירה הזאת לעד בבני ישראל (Devarim 31:19), so that this song may be a witness for Me among Bnei Yisrael."
+    },
+    {
+     "h": "עדות: mitzvos that bear witness",
+     "t": "So some mitzvos are called עדות: אלה העדת והחקים (Devarim 4:45), these are the testimonies and the statutes; עדתיך נאמנו מאד (Tehillim 93:5), Your testimonies are very sure; אשרי נוצרי עדותיו (Tehillim 119:2), fortunate are those who keep His testimonies; הט לבי אל עדותיך (Tehillim 119:32 in his edition), incline my heart to Your testimonies. They are so called because they were given to be witnesses to the events that befell the people of Israel. With a cholam, the tav of עדות is the plural ending, testimonies; with a shuruk the word is the noun of the event, the Testimony: ארון העדות (Shemos 26:33), the Ark of the Testimony; לפני העדות למשמרת (Shemos 16:34), before the Testimony, to be kept."
+    },
+    {
+     "h": "עדות as warning",
+     "t": "עדות serves too for warning, for which he gives the German, Warnung: a man makes his own words a witness to the thing he warns his fellow of, and those words are his witnesses afterwards that he warned him. So העד העד בנו האיש (Bereishis 43:3), the man solemnly warned us, that is, warned and cautioned us; רד העד בעם (Shemos 19:21), go down, warn the people; and והועד בבעליו (Shemos 21:29), and its owner has been warned. So הן עד לאומים נתתיו (Yeshayahu 55:4), behold, I have made him a witness to the peoples, meaning one who warns and cautions the nations to listen, and if they do not, בשלח יעבורו (Iyov 36:12), they shall perish by the sword. That fits only a ruler of nations: because he can punish, he can warn. So ויתן עליו את-הנזר ואת-העדות (Melachim II 11:12), and he put upon him the crown and the עדות, names the ornament the king wears as a sign that he is a witness to the nations; or עדות is from עדי, the ornaments of kingship, as the commentators explain."
+    },
+    {
+     "h": "Why the Torah is called עדות",
+     "t": "Rav Pappenheim adds that perhaps the mitzvos called עדות have the name from warning too, and that it belongs to the prohibitions, all of which were stated with warning, caution and punishment, unlike the positive mitzvos, which carry no warning except Pesach and milah, which carry kares. And the Torah as a whole is called עדות, as in לוחות העדות (Shemos 31:18), the Tablets of the Testimony, and אהל העדות (Bamidbar 18:2), the Tent of the Testimony, because the core of the Torah is its לא תעשה, its prohibitions, which outnumber the positive mitzvos and are graver, and the Torah is named for the greater part."
+    },
+    {
+     "h": "תעודה, attestation",
+     "t": "Another noun of the event from עדות is תעודה: וזאת התעודה בישראל (Rus 4:7), and this was the attestation in Yisrael, that is, doing a certain act is testimony that the dealing is concluded; צור תעודה חתום תורה בלמודי (Yeshayahu 8:16), bind up the testimony, seal the Torah among My disciples; and לתורה ולתעודה (Yeshayahu 8:20), to the Torah and to the testimony, that is, to testimony. The difference between עדות and תעודה he sets out at the root בן."
+    }
+   ]
+  },
+  "אף": {
+   "sense": "The face, its whole surface; then the nose, the face's chief feature, and anger, which marks both; from these come baking, the eifah, af \"even\", and adultery",
+   "more": [
+    {
+     "h": "The face, and apayim",
+     "t": "Af sometimes means the whole surface of the face: בזעת אפיך תאכל לחם, \"by the sweat of your face you will eat bread\" (Bereishis 3:19); וישתחו לאפיו ארצה, \"he bowed with his face to the ground\" (Bereishis 48:12); אפים ארצה, \"face to the ground\" (Bereishis 19:1). The plural apayim is for the face's two sides, right and left, and since they are never more than two it is pointed with a patach and a voiced yud, as are שנים ידים רגלים רחים, \"two, hands, feet, millstones\", things always a pair and never more; nouns of this kind are called the pair-name. So ולחנה יתן מנה אחת אפים, \"to Chanah he would give one portion of apayim\" (Shmuel I 1:5), is a fine, whole portion that has a face, as one would say a whole breast, since a portion cut up no longer has a face."
+    },
+    {
+     "h": "The nose, the face's chief feature",
+     "t": "Af is sometimes the nose alone: ויפח באפיו נשמת חיים, \"He blew into his nose the breath of life\" (Bereishis 2:7); וברוח אפיך, \"and with the wind of Your nose\" (Shemos 15:8); וריח אפך, \"and the scent of your nose\" (Shir HaShirim 7:9); אף להם ולא יריחון, \"they have a nose and do not smell\" (Tehillim 115:6). The nose is the glory of the face and its plainest sign, as Chazal say (Yevamos 120a) of testimony for an agunah, אין מעידין אלא על פרצוף פנים עם החוטם, \"one testifies only to the features of the face with the nose\". For that reason, Rav Pappenheim holds, the nose too is called af, the chief part of a thing being called by the name of the whole. באפיו, \"into his nose\", is plural for the nose's two sides and its nostrils."
+    },
+    {
+     "h": "Anger, and charon af",
+     "t": "Anger too is called af, ארור אפם, \"cursed be their anger\" (Bereishis 49:7), because anger leaves its mark on the face and the nose. When anger grows until hot air comes out of the nose it is charon af, \"burning anger\". So ארך אפים, \"slow to anger\", literally long of apayim (Mishlei 16:32), is plural for two kinds of anger: anger of the face, which is plain anger, and anger of the nose, which is charon af. It means one who is long-suffering with the middling wicked, and also with the utterly wicked who deserve charon af."
+    },
+    {
+     "h": "Afaf: the face turned on a thing",
+     "t": "The verb from af as the face is afaf, of the kind with a doubled letter, which marks intensity: אפפוני משברי מות, \"the breakers of death turned upon me\" (Shmuel II 22:5); אפפו עלי רעות, \"evils turned upon me\" (Tehillim 40:13); אפפוני מים עד נפש, \"waters turned upon me, up to the soul\" (Yonah 2:6). In all of them it is the turning of the face toward the thing, and it speaks of something bad, since whatever goes beyond the plain course points to disgrace. Its opposite is כי פנו אלי ערף ולא פנים, \"for they have turned to Me the back of the neck and not the face\" (Yirmiyahu 2:27)."
+    },
+    {
+     "h": "Afah, baking: the bread's face",
+     "t": "From af comes afah, baking: ומצות אפה, \"and he baked matzos\" (Bereishis 19:3); ויאפו את הבצק, \"and they baked the dough\" (Shemos 12:39). Baking makes a face for the dough. Raw dough has no face, its inside being like its outside; once it is baked and a skin forms over it from the fire, that is the bread's face."
+    },
+    {
+     "h": "The eifah",
+     "t": "From afah the eifah, a measure, takes its name: עשירית האיפה, \"a tenth of the eifah\" (Shemos 16:36); איפה שלמה וצדק, \"a whole and just eifah\" (Devarim 25:15). It is a vessel holding the flour or grain baked at one time for the household, for a week or a month, by the measure of a middling home. The omer holds the grain threshed from one sheaf (omer); since the omer is a tenth of the eifah, an eifah is what is threshed from ten sheaves, the true amount baked at once for a middling household in a middling oven. The eifah is a tenth of the chomer, a stack of a hundred sheaves like those made in the fields at harvest time, heaps upon heaps of the harvest sheaves: ועשירית החומר האיפה, \"and the eifah a tenth of the chomer\" (Yechezkel 45:11); והעמר עשירית האיפה, \"and the omer is a tenth of the eifah\" (Shemos 16:36)."
+    },
+    {
+     "h": "Af, \"even\": the nose that juts",
+     "t": "From af as the nose comes, by borrowing, the word af for what is new and surprising in a thing that goes beyond the plain course. When a statement gathers many subjects, af falls on the one that holds something new and remarkable: as the nose stands out on the surface of the face and makes its mark, so that remarkable thing stands out over the whole statement. That is the אף על פי, \"even though\", of Chazal's language, used when they speak of something remarkable: as the nose stands out above the mouth, so is such-and-such. Where there is a novelty upon a novelty they say אף על גב, \"even though\", literally a nose upon a back: the one is new and stands out like a back (gav), and what is new beyond it stands out further still, like a nose set upon a back."
+    },
+    {
+     "h": "Af ki in the account of the serpent",
+     "t": "אף כי אמר אלהים לא תאכלו מכל עץ הגן, \"af ki Elokim said, you shall not eat of any tree of the garden\" (Bereishis 3:1), is af of novelty: that they may not eat even of the rest of the garden's trees. It is not a question, nor even the serpent's own style of speech, but the style of the writer of the Torah, telling briefly that the serpent drew Chavah into a dispute over eating the garden's fruit, the gist of it being the serpent's contention that they were not permitted to eat even of all the other trees. So ki fits well here, as the word by which the one telling the story announces it, since ki here is used in the sense of i, \"if\"."
+    },
+    {
+     "h": "Not this only, but even that",
+     "t": "האף תספה צדיק עם רשע, \"will You even sweep away the righteous with the wicked?\" (Bereishis 18:23): it goes without saying that You do not destroy the righteous when there is no charon af, but even when there is charon af and You destroy the wicked, it is still not fitting for You to destroy the righteous with them. ואף בעונות אבותם אתם ימקו, \"and even in the sins of their fathers with them they will waste away\" (Vayikra 26:39): not only in their own sin, the new sins done by full free choice, but even in sins inherited from their fathers that have become a nature in them beyond a man's power, as when the father was an adulterer or quick to anger and it becomes the son's nature to commit adultery and to rage. Even for those they will waste away, since for all that a man has the strength to bend the shoulders of nature under the yoke of willed and reasoned choice. אף לא אל ארץ זבת חלב ודבש הביאותנו, \"you have not even brought us to a land flowing with milk and honey\" (Bamidbar 16:14): had you brought us into Eretz Yisrael after the troubles of the wilderness, then, bad and bitter as it is to suffer many troubles to inherit the land, there would still be some way to quiet the complaint; now not even this has come about, for you have completed the bad and the good is left out of reach. Wherever af is used it means afilu, \"even\", and something remarkable."
+    },
+    {
+     "h": "Af and gam in the order of the Avos",
+     "t": "וזכרתי את בריתי יעקב ואף את בריתי יצחק ואף את בריתי אברהם אזכור, \"and I will remember My covenant with Yaakov, and af My covenant with Yitzchak, and af My covenant with Avraham I will remember\" (Vayikra 26:42). Had the Avos been named in order of descent, from first to last, gam and vegam, \"also\" and \"and also\", would fit, the sense being \"this, and needless to say that\". Named from last to first, af fits, \"not only this but even that\": not only will I remember the covenant of Yaakov, near in time, but even that of Yitzchak, farther off, and even that of Avraham, farther still. In that measure the land too will be remembered, far as it is from the lands of exile, since all times and all places are one before His providence."
+    },
+    {
+     "h": "Af ki: all the more so",
+     "t": "Joined to ki, af means kol shekein, \"all the more so\": הן בעודני חי עמכם ממרים הייתם, \"while I am still alive with you, you have been rebels\" against Hashem, ואף כי אחרי מותי, \"and af ki after my death\" (Devarim 31:27); that is, all the more so you will not stop being rebels after my death, a positive that follows from a negation hidden in the statement. Af alone, \"even\", would fit only had they not rebelled in the speaker's lifetime, to say that even after his death they would not rebel. Since they did rebel in his lifetime, af alone says nothing remarkable of after his death, and so ki is added: \"should I suppose of you that even after my death you will not be rebels?\", reasoning from one opposite to the other. So too הן צדיק בארץ ישולם, אף כי רשע וחוטא, \"behold, the righteous is repaid on earth, af ki the wicked and the sinner\" (Mishlei 11:31): should one suppose that even he who is wicked and sinning is nonetheless not repaid? And ואף כי אמר אליך רחץ וטהר, \"and af ki he said to you, wash and be clean\" (Melachim II 5:13): should one suppose that even a small thing he told you, you are permitted to refuse that too?"
+    },
+    {
+     "h": "Af ki and ve'eich",
+     "t": "The midrash counts these statements among the ten kal vachomers in Scripture (Bereishis Rabbah 92:7). Rav Pappenheim distinguishes those with ve'eich, \"and how\", from those with af ki. With eich the conclusion is stated outright, positive or negative: הן בני ישראל לא שמעו אלי, ואיך ישמעני פרעה, \"behold, the Bnei Yisrael have not listened to me, and how will Pharaoh listen to me?\" (Shemos 6:12), says in so many words that Pharaoh will not listen; הן כסף אשר מצאנו, \"behold, the silver that we found\", and so on, ואיך נגנוב מבית אדוניך, \"and how would we steal from your master's house?\" (Bereishis 44:8), says outright that they would not steal. With af ki the conclusion, positive or negative, is not stated: ואף כי אחרי מותי, \"and af ki after my death\" (Devarim 31:27), does not make plain whether they will rebel or not; it follows from the hidden negation, understood of itself."
+    },
+    {
+     "h": "Gam and af",
+     "t": "Gam is said where things share in one matter: what is in one thing and also in a second, gam falls on the second. כי גם זה לך בן, \"for this one too is a son for you\" (Bereishis 35:17); הגם הלום ראיתי, \"have I here too seen\" (Bereishis 16:13); ויצו גם את השני גם את השלישי, \"he commanded also the second, also the third\" (Bereishis 32:20); גם מתמול גם משלשום, \"both since yesterday and since the day before\" (Shemos 4:10); בשגם הוא בשר, \"for he too is flesh\" (Bereishis 6:3), man too being flesh like the other living creatures; גם צאנכם גם בקרכם קחו, \"take also your flocks, also your herds\" (Shemos 12:32), as you take your little ones; וברכתם גם אותי, \"and bless me too\" (Shemos 12:32), as you bless one another, as is the custom on a festival. Af is used where the thing that shares, though it differs greatly from its fellow, still shares with it in the matter spoken of, and that is a novelty. גם כי אלך בגיא צלמות לא אירא רע, \"though I walk in the valley of the shadow of death I will fear no evil\" (Tehillim 23:4), holds a novelty, but its intent is the plain equality: in a land of peace or in the valley of death he has no fear. Had it said אף כי אלך בגיא צלמות, \"af ki I walk in the valley of the shadow of death\", its chief intent would be that even in the valley of death, more dangerous than other places, he does not fear."
+    },
+    {
+     "h": "Af gam, never gam af",
+     "t": "Where a statement holds a plain equality and an equality upon a novelty together, it says af gam: ואף גם זאת בהיותם בארץ אויביהם לא מאסתים, \"and even also this, when they are in the land of their enemies I will not have despised them\" (Vayikra 26:44). The plain equality is that they are not despised whether in their own land or in other lands; the remarkable thing is that even in the land of their enemies, where for their rebellion they deserve to be despised, still they are not. Gam marks the equality, which the statement names; af the wonder, which it does not name outright. The reverse, gam af, is not correct: gam goes back to the matter named, so af may not come between them, and one must say instead mah gam, \"all the more\"."
+    },
+    {
+     "h": "Na'af: lust written on the face",
+     "t": "From af comes na'af, adultery. As anger shows on the face, which is why anger is called af, so the lust for harlotry shows on the face, and one expert in faces knows at once who is lecherous by nature. Most of all when a woman comes toward him: at once his look changes, his lips are like a boiling pot, his cheeks burn like coals of fire, his eyes flash like torches of lightning, and the lines of his face go astray, jumbled and distorted. So na'af carries a nun, the letter that marks being acted upon, because the look of the face is acted upon and changed. Na'af then means not the act of harlotry but the look of the face drawn from the urge to it, and the act took its name from the passing look that comes of it, just as anger itself is called af for the change it works on the face."
+    },
+    {
+     "h": "Why af serves only anger and lust",
+     "t": "That is why af was borrowed only for anger and for adultery. Every other trait, pride and humility, jealousy and hatred, flattery and the like, also marks the face and testifies to its owner, yet a man can hide it and give himself a face as though he were the opposite of what he is. Not anger and lust: when the urge for either overpowers him, no stratagem helps him deny the stirring of his heart and keep his face as it was. It changes against his will, through the suddenness and force of the boiling blood that rises over all its banks and breaks out onto the face in a fierce flood."
+    },
+    {
+     "h": "Ni'uf only with a married woman",
+     "t": "Chazal say there is ni'uf only with a married woman, and Rav Pappenheim holds that this is because ni'uf speaks of the changed face of the adulterer. With a married woman the face changes far more than in other harlotry, since the adulterer bears two fears, fear of shame lest people notice him and fear of punishment from the husband if he notices; lust grows in the measure of the fear, there being no pleasure like completing a deed bound up with many dangers. So the face of one with a married woman, compounded of fear and dread with longing and lust, cannot but change into many colours, and ni'uf is said above all of a married woman."
+    },
+    {
+     "h": "Na'af and mena'ef",
+     "t": "Na'af in the light form differs from mena'ef in the heavy, and no'efes from mena'efes. The light: מות יומת הנואף והנואפת, \"the adulterer and the adulteress shall surely be put to death\" (Vayikra 20:10). The heavy: זרע מנאף ותזנה, \"seed of an adulterer, and she played the harlot\" (Yeshayahu 57:3); כן דרך אשה מנאפת, \"so is the way of an adulterous woman\" (Mishlei 30:20). The light form is what he undergoes from the woman; the heavy is the things he does so that the woman is moved by him to desire, such as winking with his eyes. So a woman moved by the man is called no'efes, in the light form, and one who uses deeds and gestures to rouse the man's longing is mena'efes, in the heavy."
+    }
+   ]
+  },
+  "ער": {
+   "sense": "Bare: what lies open to the eye with nothing screening it. From it nakedness, skin and blindness, city and forest, the heap, waking and youth, the foe, and cunning.",
+   "more": [
+    {
+     "h": "ער, against גלוי and חשף",
+     "t": "A thing open to sight with nothing screening it is ער. Taking a cover off a thing is גלוי, uncovering, whose opposite is כסוי, covering, the putting on of a cover (he refers to the root גל). Taking off a thing's peel is חשף: what the language of the Talmud calls קליפה, peeling, the holy tongue calls חשף, as חשף חשפה והשליך (Yoel 1:7), he has stripped it bare and cast it away, and the verb ויחשף יערות (Tehillim 29:9), and strips the forests bare. But a thing that is exposed of itself, not hidden from the eye and with nothing on it to cover it, is ער."
+    },
+    {
+     "h": "חשף, peeling, and its borrowings",
+     "t": "דק מחספס (Shemos 16:14), a fine thing, husk-like or peeled: either it had a husk like the husk of millet and rice, or it was like a thing whose husk had been taken off. מחשף הלבן (Bereishis 30:37), laying bare the white: peeling white strips from the white bark on the rods. From peeling the word was borrowed for other kinds of uncovering: וחשופי שת (Yeshayahu 20:4), with buttocks bared, and ולחשף מים מגבא (Yeshayahu 30:14), to skim water from a cistern, which is taking off the top surface of the water, itself like a peel."
+    },
+    {
+     "h": "עריה and עירם, bare and naked",
+     "t": "The noun for the condition is עריה, bareness: עריה תעור קשתך (Chavakuk 3:9), Your bow is laid bare, the bow uncovered and left bare. In ואת ערם ועריה (Yechezkel 16:7), and you were naked and bare, ערם is being without clothing, and עריה is lacking anything else to screen the body. He comes back to it later: עירם is said of the lack of clothing, and עריה of the lack of the body's other needs."
+    },
+    {
+     "h": "To lay bare",
+     "t": "The verbs: את-שארו הערה (Vayikra 20:19), he has laid bare his own flesh, that is, uncovered; כי ארזה ערה (Tzefaniah 2:14), for He has laid bare its cedar work, in the sense of ויחשף יערות, and strips the forests bare, and חשף חשפה, he has stripped it bare; and so פשטה וערה (Yeshayahu 32:11), strip and make yourselves bare, and אשר הערה למות נפשו (Yeshayahu 53:12), because he laid bare his soul to death."
+    },
+    {
+     "h": "ערות, shoots just come up",
+     "t": "ערות על-יאור (Yeshayahu 19:7), the shoots by the Nile: plants at the start of their showing are called ערות, a word of uncovering, since no earth covers them any longer. So ומתערה כאזרח רענן (Tehillim 37:35), showing himself like a fresh native tree: he appears at the very start of his growing like a fresh native tree. Or ומתערה is from shaking out, shaking himself out and spreading like a fresh tree; and the sense is one, since shaking out too belongs to ער and uncovering."
+    },
+    {
+     "h": "Shaking out, with and without nun",
+     "t": "What shakes itself out is left bare of what was in it, and what is shaken out of a vessel is left bare, with the vessel no longer covering it: ותער כדה אל-השקת (Bereishis 24:20), she emptied her jar into the trough, where pouring out the water left the jar bare; and תשכרי ותתערי (Eichah 4:21), you shall be drunk and lay yourself bare. The word is found with a nun, וינער (Shemos 14:27), Hashem shook out Mitzrayim, and התנערי מעפר קומי (Yeshayahu 52:2), shake yourself from the dust, arise; and without it, ותער כדה, she emptied her jar, and אל תער נפשי (Tehillim 141:8), do not pour out my soul. The waste shaken out of flax is נעורת, tow: כאשר ינתק פתיל-הנערת (Shoftim 16:9), as a strand of tow snaps, and והיה החסן לנערת (Yeshayahu 1:31), and the strong shall become tow."
+    },
+    {
+     "h": "מערה, a cave",
+     "t": "From shaking out is מערה, a cave, as וישב במערה, and he dwelt in a cave, and מערת המכפלה, the cave of Machpelah: it is so called because it is emptied out of the ground. The verb is ערו ערו עד היסוד בה (Tehillim 137:7), lay it bare, lay it bare, to its foundation; and he sets beside it כמער-איש וליות (Melachim I 7:36), by the clear space of each, with wreaths."
+    },
+    {
+     "h": "ערוה, exposure that shames",
+     "t": "From uncovering is ערוה, uncovering in a bad sense: a thing whose exposure is unseemly. לראות את-ערות הארץ (Bereishis 42:9), to see the nakedness of the land; לכסות בשר ערוה (Shemos 28:42), to cover the flesh of nakedness; ערות אביך וערות אמך (Vayikra 18:7), the nakedness of your father and the nakedness of your mother; and כי מצא בה ערות דבר (Devarim 24:1), for he has found in her an unseemly matter, which is conduct with licentiousness and exposure, the opposite of modesty."
+    },
+    {
+     "h": "ערירי, childless",
+     "t": "One lacking children or any other family tie is ערירי: ואנכי הולך ערירי (Bereishis 15:2), and I go childless, without children and without any support from family. It is an adjective from ער and uncovering: children and family are to a man like clothing and a cover to the body, and without them he stands like a naked body with no shelter."
+    },
+    {
+     "h": "ערער, the bare tree",
+     "t": "From the same sense is ערער, a tree whose leaves have fallen and whose branches have dried, standing bare: והיה כערער בערבה (Yirmiyahu 17:6), he shall be like a bare tree in the desert, and כערוער במדבר (Yirmiyahu 48:6), like a bare tree in the wilderness. So פנה אל תפלת הערער (Tehillim 102:18), He turned to the prayer of the bare one, the prayer of one like the ערער tree, cast off and forsaken by all; and the verb, ערער תתערער (Yirmiyahu 51:58), shall be utterly laid bare. It may be, Rav Pappenheim adds, that ערירי and ערער are from shaking out: one emptied and void of everything, whether of family or of natural plenty."
+    },
+    {
+     "h": "עור, skin",
+     "t": "From uncovering is עור, skin: כתנות עור (Bereishis 3:21), garments of skin; עורות גדיי העזים (Bereishis 27:16), the skins of the young goats; ועורות תחשים (Shemos 25:5), and tachash skins; הוא שמלתו לעורו (Shemos 22:26), it is his garment for his skin. It is called עור from uncovering, since it alone stands bare and all the other parts of the body are covered by it."
+    },
+    {
+     "h": "עור, blind: a skin over the eye",
+     "t": "From עור, skin, comes עור, blind, and עורון, blindness: או פקח או עור (Shemos 4:11), or seeing or blind; כי השחד יעור (Shemos 23:8), for the bribe blinds. Blindness is a skin rising over the eye: a film that forms from some fluid, congeals, spreads over the eye and blocks sight. This kind of blindness is commoner than the blindness that comes of the eye being put out or of the fluid in it drying up, and so every lack of sight is called עורון, after the skin-film, the commonest and most usual kind."
+    },
+    {
+     "h": "Tzidkiyahu's eyes, and the bribe",
+     "t": "ואת עיני צדקיהו עור (Yirmiyahu 39:7), and he blinded the eyes of Tzidkiyahu: since it does not say that he put out his eyes, as is written of Shimshon, וינקרו את עיניו (Shoftim 16:21), and they put out his eyes, and as in העיני האנשים ההם תנקר? (Bamidbar 16:14), will you put out the eyes of those men?, it seems that he did not put out Tzidkiyahu's eyes but smeared them with some drug that blinds, as though a skin were spread over them. So כי השחד יעור (Shemos 23:8) does not mean that the bribe ruins the eyes of the mind for good, so that they cannot see even at another time when there is no bribe. It means that while he takes a bribe he is blind, the bribe rising like a film over his eyes and covering the sight of the truth; at another time, with no bribe and no film to cover them, he sees well again."
+    },
+    {
+     "h": "עיר, a city, against כפר",
+     "t": "From uncovering is עיר, a city: נבנה לנו עיר (Bereishis 11:4), let us build ourselves a city; עיר חומה (Vayikra 25:29), a walled city; וערי מבצר (Yehoshua 19:35), and the fortified cities: for a city has streets and markets that stand open to everyone. The opposite of a city is כפר, a village: נלינה בכפרים (Shir HaShirim 7:12), let us lodge in the villages, a word of covering, in the sense of וכפרת אותה (Bereishis 6:14), and you shall cover it. A village has no exposed open spaces; it is like a courtyard, and so it is also called חצר: ובתי החצרים (Vayikra 25:31), and the houses of the villages, and בחצריהם ובטירותם (Bereishis 25:16), by their villages and by their encampments."
+    },
+    {
+     "h": "יער, a forest, against גן",
+     "t": "יער, a forest: יבא את רעהו ביער (Devarim 19:5), he goes into the forest with his fellow; חיתו יער (Tehillim 50:10), the beasts of the forest; כתפוח בעצי היער (Shir HaShirim 2:3), like an apple tree among the trees of the forest; יער צומח עצים (Koheles 2:6), a forest sprouting trees. Any tract of trees gathered together that bear no fruit is יער, from uncovering: since its trees carry no fruit, it stands exposed, not ringed by a fence. Its opposite is גן, a garden, from protecting and covering: a tract of fruit trees and vegetables, ringed by a fence to guard it against loss (he refers to the root גן)."
+    },
+    {
+     "h": "יער, forest honey, against דבש",
+     "t": "Honey too is called יער, after its place. Most bees' honey is found in forests, since the bees gather the honey and the wax from the blossoms of the forest's trees, and even where no hives are made for them they make hives for themselves in the forest trees. So ביערת הדבש (Shmuel I 14:27), in the comb of honey, and אכלתי יערי עם דבשי (Shir HaShirim 5:1), I have eaten my forest honey with my honey: יערי is the forest's honey, which comes from the bees, and דבשי is the honey that comes from dates."
+    },
+    {
+     "h": "תער, a razor",
+     "t": "תער, a razor: והעבירו תער על כל בשרם (Bamidbar 8:7), and let them pass a razor over all their flesh; כתער מלטש (Tehillim 52:4), like a sharpened razor. It is from uncovering, since it leaves the skin of the flesh bare of hair. The opposite is כסום יכסמו את ראשיהם (Yechezkel 44:20), they shall keep their heads trimmed, a word of covering (he refers to the root כס)."
+    },
+    {
+     "h": "תער, a sheath, from shaking out",
+     "t": "A sword's sheath is also called תער: וישלפה מתערה (Shmuel I 17:51), and he drew it from its sheath; תצא חרבי מתערה (Yechezkel 21:9), My sword shall go out of its sheath. This תער is not from uncovering, as the shaving razor is, but from shaking out: the sword shakes itself out of the sheath, which is left emptied and void of it, and so the sheath itself is called תער. It is in the sense of אריק חרבי (Shemos 15:9), I will draw my sword, meaning I will empty the sheath of the sword, and שמן תורק שמך (Shir HaShirim 1:3), your name is oil poured out, named for the vessel that is emptied. So too the German calls a sword's sheath שיידע, Scheide, a word of separating, since the sword separates from it."
+    },
+    {
+     "h": "ערום, naked, with an added mem",
+     "t": "From ער, uncovering, with a mem added, comes the adjective ערום, lacking clothing, so that one's flesh is exposed: ויהיו שניהם ערומים (Bereishis 2:25), and the two of them were naked; כי-עירם אנכי (Bereishis 3:10), for I am naked; the adjective for the masculine, and in the feminine פן-אפשיטנה ערמה (Hoshea 2:5), lest I strip her naked. Sometimes עירם is the noun for the condition: ואת ערם ועריה (Yechezkel 16:7), and you were naked and bare, and בהיותך עירם ועריה (Yechezkel 16:22), when you were naked and bare, that is, one possessed of nakedness, found in the state of nakedness."
+    },
+    {
+     "h": "ערמה, a heap, against גדיש",
+     "t": "From ערום, the lack of clothing, comes ערמה, a heap: ויבא לשכב בקצה הערמה (Rus 3:7), and he came to lie down at the end of the heap; בטנך ערמת חטים (Shir HaShirim 7:3), your belly is a heap of wheat. A pile of threshed grain is called ערמה because the grain has been stripped of the straw that was its clothing and has become naked; and the stack made of it is called ערמה because it is gathered from naked grain. The opposite is the גדיש, which is gathered from grain still in its ears."
+    },
+    {
+     "h": "נערמו מים, two readings",
+     "t": "By borrowing, וברוח אפיך נערמו מים (Shemos 15:8), and with the breath of Your nostrils the waters were heaped up: they became waves upon waves, like heaps of grain. Or it is from ערום in its plain sense: the upper waters at the surface cover the lower ones, and when the wind blew the upper waters swelled up and the lower were left naked."
+    },
+    {
+     "h": "ערמון, the branchless tree",
+     "t": "A kind of tree is called ערמון (Bereishis 30:37) because it has no branches below, only above at its top, and so stands naked and stripped of branches, like a naked man without clothing."
+    },
+    {
+     "h": "ער, waking and rousing",
+     "t": "Also from uncovering is the verb ער, rousing, waking and motion: כנשר יעיר קנו (Devarim 32:11), as an eagle stirs up its nest; עוררה את גבורתך (Tehillim 80:3), rouse Your might; עורה למה תישן (Tehillim 44:24), awake, why do You sleep?; והוא עורר את-חניתו (Shmuel II 23:18), and he roused his spear; שנאה תערר מדנים (Mishlei 10:12), hatred stirs up strife; מה תעירו ומה תעררו (Shir HaShirim 8:4), why would you wake, why would you rouse: that they not wake her from her sleep, nor rouse her to show herself. Whatever shows itself in motion and in deed, as against lying hidden and concealed within itself, is called ער."
+    },
+    {
+     "h": "נער, youth, the time of rousing",
+     "t": "From this is נער, with נערות and נעורים, youth: the time of youth, when a person is still in rousing, motion and wakefulness, as against old age, when the body's powers weaken and a person is like one drowsy and weary. So the young man is called נער, a word of rousing, in the sense of נערו כגורי אריות (Yirmiyahu 51:38), they rouse themselves like lion cubs. והנער נער (Shmuel I 1:24), and the youth was a youth, means that he had extra liveliness; and כי היה נער ואדמני (Shmuel I 17:42), for he was a youth, and ruddy, means that he had extra rousing, a thing felt in a youth's movements. The female in her youth is called נערה, just as עלם and עלמה are from עליה, rising (he refers to the root על)."
+    },
+    {
+     "h": "עיר, the foal",
+     "t": "So too עיר, the young horse and donkey: ועירם עשרה (Bereishis 32:16), and ten foals; אסרי לגפן עירה (Bereishis 49:11), binding his foal to the vine; והאלפים והעירים (Yeshayahu 30:24), the oxen and the young donkeys; ועל עיר בן אתנות (Zecharyah 9:9), and upon a foal, the son of she-donkeys. It too is named for rousing, for the extra wakefulness in it."
+    },
+    {
+     "h": "ער, the foe: two readings",
+     "t": "ער is also an enemy: ויהי ערך (Shmuel I 28:16), and has become your enemy; נשוא לשוא עריך (Tehillim 139:20), Your enemies lift it up in vain. It is from rousing and rising up, like מתקוממים, those who rise up against one: one who hates another is roused against him whenever he sees him or remembers him (he refers to the root אב). Or ער is uncovering in its plain sense, an open enemy who no longer hides his hatred: there is an enemy who covers his hatred in his heart, and when his hatred grows until he shows it to the other, he is called ער."
+    },
+    {
+     "h": "ערום, cunning: the mind awake",
+     "t": "From ער and rousing too is ערם, with ערמה, cunning, which is sharpness and wakefulness of mind. A man may have great intelligence and yet know how to use it only in its usual way, and not otherwise, by stratagem (as the matter sometimes demands, when it can be reached only by stratagem); for that he has no capacity, his mind being as though dozing and asleep, not looking about for any way to reach what he seeks. One who has the capacity and the knowledge to use his mind in different ways is called ערום, from the wakefulness and alertness of his mind, poised to spread to every side of the possible: והנחש היה ערום (Bereishis 3:1), and the serpent was cunning, since enticing the woman to do a thing whose penalty was death needed extra stratagem."
+    },
+    {
+     "h": "Cunning for good and for ill",
+     "t": "Every work of the mind has a side for praise and a side for blame: wise to do good and wise to do evil, a man of מזימה, sound design, and a man of זימה, wicked design. So ערמה has a use for blame and a use for praise. For blame: להרגו בערמה (Shemos 21:14), to kill him by guile; מפר מחשבות ערומים (Iyov 5:12), He frustrates the designs of the crafty; על-עמך יערימו סוד (Tehillim 83:4), against Your people they lay crafty counsel. For praise: ויעשו גם-המה בערמה (Yehoshua 9:4), they too acted with cunning; לתת לפתאים ערמה (Mishlei 1:4), to give prudence to the simple; וערומים יכתרו דעת (Mishlei 14:18), and the prudent are crowned with knowledge; ערום ראה רעה ונסתר (Mishlei 22:3), the prudent man sees evil and hides."
+    },
+    {
+     "h": "ער, cunning without the mem",
+     "t": "The sense of ערמה is found without the mem as well: ער וענה מאהלי יעקב (Malachi 2:12), the one awake and the one who answers, from the tents of Yaakov, that is, diligent and sharp, whose mind is awake. It is like עצם, the shutting of the eyes, found with a mem, ועצם עיניו (Yeshayahu 33:15), and shuts his eyes, and also without it, עצה עיניו (Mishlei 16:30), he shuts his eyes, with one sense; so too ערם and ער."
+    }
+   ]
+  },
+  "בא": {
+   "sense": "Coming: joining the fixed goal one moves toward, the opposite of going out. From ב, the letter of attachment, it holds both the motion to a place and the arrival in it.",
+   "more": [
+    {
+     "h": "Coming needs a fixed goal",
+     "t": "Coming is joining the boundary one is heading for, the opposite of going out (יציאה), which is parting from a boundary. It is a relative term, said only with respect to the boundary that is its end, and only where that boundary is fixed and stays in its place. Where it is not fixed, one cannot say of the one coming that his coming is complete: one may say that he drew near or approached (שקרב או נגש), but not that he came. Where it is fixed, בא is said even while he is still on the way, since he must reach it in the end: והנה עשו בא (Bereishis 33:1), and behold, Esav was coming, though he had not yet arrived; as he draws ever nearer to the fixed point, we see it as though the coming were already complete. And ביאה, coming, is said only of one who, having reached the boundary he sought, stops moving; of one who is still in motion it is not clear that the coming is complete."
+    },
+    {
+     "h": "The sun comes only when it sets",
+     "t": "So בא is said of the sun only at its setting, כי בא השמש (Bereishis 28:11), for the sun had come in, and not at its rising. From where we stand it would fit the sunrise better, since we are the boundary and the sun comes toward us; but after rising it is still in motion and does not rest, so ביאה, coming, does not apply to it. When it sets and we no longer see it moving, we may say כי באה, for it has come, as though it had found the point it sought on the western horizon and come to rest there."
+    },
+    {
+     "h": "מבוא and מבוי, the entry",
+     "t": "The noun of place is מבוא, an entry: מבוא השמש (Devarim 11:30), the going in of the sun, and מבוא העיר (Shoftim 1:24), the entry of the city. In the language of Chazal it is מבוי, as מבוי שהוא גבוה (Eruvin), an alley that is high, on the pattern of ראוי, fit, and מצוי, found; in the plural מבואות, as שתופי מבואות (Eruvin 79b), the partnerships of the alleys. A מבוי, then, is the entry of the street: not the street itself, though it takes in both; what is meant is the open space of the street through which one comes into the houses and courtyards."
+    },
+    {
+     "h": "To bring, and the verb's other forms",
+     "t": "The verb of bringing is הביא, he brought, and מובא, brought: כי הובאו בית יוסף (Bereishis 43:18), that they had been brought into Yosef's house, that is, made to come by another. The verb is never found in the simple passive, so that it should not be confused with נביא, prophet, and נבואה, prophecy. It comes without its alef, ויבו ירבעם (Melachim I 12:12), and Yeravam came, and הנני מבי עליך (Melachim I 21:21), behold, I am bringing upon you; and with a tav added, תבואתה לראש יוסף (Devarim 33:16), let it come upon the head of Yosef, and תבואתך טובה (Iyov 22:21), good will come to you."
+    },
+    {
+     "h": "תבואה, produce",
+     "t": "From the root comes תבואה, what the ground grows, grain and the fruit of trees alike: כתבואת גרן וכתבואת יקב (Bamidbar 18:30), as the yield of the threshing floor and as the yield of the winepress. It is named for the bringing forth that the earth brings. It is a noun of the verb, but not of the simple form, since it does not speak of coming; it is of the causative, which speaks of bringing. The sense is that of יבול, what the earth carries forth; see his explanation at the root בל. It is said also of the fruit of thought and deed: ותבואתי מכסף נבחר (Mishlei 8:19), and my yield is better than choice silver; תבואת רשע לחטאת (Mishlei 10:16), the yield of the wicked is for sin; תבואת שפתיו ישבע (Mishlei 18:20), with the yield of his lips he is sated."
+    },
+    {
+     "h": "Whoever loves a crowd has no yield",
+     "t": "ומי אוהב בהמון לא תבואה (Koheles 5:9), and whoever loves a crowd has no yield: the one who loves a crowd of workers to do his work, for some people love bustle and like their affairs run on a large scale. Such a man never makes a profit and gains nothing from the many hands, for ברבות הטובה רבו אוכליה (Koheles 5:10), when good increases, those who eat it increase, and his wage goes out in his loss: as the good grows with the number of workers, so grows the need to feed and keep them. The householder has no advantage כי אם ראות עיניו, but the sight of his eyes: many people reclining at his table and his house in a tumult. Better to have few workers and to work alongside them himself, for מתוקה שנת העובד (Koheles 5:11), sweet is the sleep of the worker, who enjoys the toil of his hands, whether much or little. Not so the rich man who slackens in the work because he relies on his many workers: though his provisions are plentiful, his sleep is confused and troubled."
+    },
+    {
+     "h": "נביא, the one who brings words",
+     "t": "From בא in the sense of bringing comes the noun נביא, prophet, on the pattern of נשיא, prince, and נזיר, nazirite. He is the messenger who brings the words of Hashem to the people and the words of the people to Hashem, and he is called נביא for this bringing of words, as it says והבאת אתה את הדברים אל האלהים (Shemos 18:19), and you shall bring the matters to Hashem. That is the chief condition of a prophet: that he stand so high that Hashem attends to him, makes him His messenger to tell the people His words, and receives the people's words through him. Working signs and wonders beyond nature, and knowing the future, are incidental to a prophet, for times when the hour requires them, and are not a necessary condition: many prophets prophesied of whom no miracles or foretelling became known. וידע כל ישראל כי נאמן שמואל לנביא (Shmuel I 3:20), and all Yisrael knew that Shmuel was established as a prophet, when he had not yet worked any wonder; they knew he was a prophet because Hashem had revealed Himself to him."
+    },
+    {
+     "h": "Aharon, and prophecy in song",
+     "t": "ואהרן אחיך יהיה נביאך (Shemos 7:1), and Aharon your brother shall be your prophet: the one who brings your words to Pharaoh, as a prophet brings the words of Hashem to the people, so that you are in My place and he in yours. And of the one who prophesied at the king's direction, הניבא על ידי המלך, it says הנבא על הודות והלל (Divrei HaYamim I 25:2-3), who prophesied in thanksgiving and praise: that is, who brought through songs the words of the king, and words of thanksgiving and praise to Hashem."
+    },
+    {
+     "h": "Why foretelling is called נבואה",
+     "t": "Telling the future is also called נבואה, prophecy, because it is found only among prophets and not among ordinary men. Hashem reveals His secret only to His servants the prophets (Amos 3:7), and works signs and wonders only through them, so that it should be clear to every challenger that they are His messengers, or to warn the people and set them straight in His ways."
+    },
+    {
+     "h": "נביא and רואה, prophet and seer",
+     "t": "In time people made the secondary thing the main one, held that a prophet's chief distinction was to see what is to come, and called the prophet רואה, seer. This was in the days of the Judges, when over the years the principle the nation had received from of old was shaken: that the condition of a prophet is his mission and not foretelling. Thinking foretelling the main thing, they set aside the name נביא, which speaks of bringing the mission, and called him רואה, for the seeing of the future. So כי לנביא היום יקרא לפנים הרואה (Shmuel I 9:9), for the one now called a prophet was formerly called a seer. היום, today, refers to the time Shmuel wrote his book, at the end of his life, when the name רואה had fallen away again and נביא had been chosen again as at first. Writing then, Shmuel was saying: what I now call a prophet, by the true name it had in early days, was called before, in the days of the Judges and in the years of my youth as well, a seer."
+    },
+    {
+     "h": "The root is the letter ב",
+     "t": "In the word בא the only root letter is ב, and the alef is added: it is missing in the forms above and in ויכל מהתנבות (Shmuel I 10:13), and he finished prophesying. The letter ב in itself marks the cleaving of a quality (מקרה) to the thing that bears it (נושא), that is, the boundary it is in: בי, בהם, בכם, in me, in them, in you. Since there are many ways for a quality to cleave to its bearer, ב has many uses."
+    },
+    {
+     "h": "From birth, arising, from outside",
+     "t": "Some qualities cleave from the start, as heat to fire and wetness to water, from their creation: יהיה בו מום (Vayikra 21:17), who has a blemish in him, and או תבלול בעינו (Vayikra 21:20), or a film in his eye. Some arise anew, as flowing in water that is sometimes still and sometimes running: כי יהיה בו שבר רגל (Vayikra 21:19), who has a broken leg, for the break is not from his creation. What arises may come about in place, as flowing within the water itself: כי פשה הנגע בבית (Vayikra 14:48), that the plague has spread in the house; ושער שחור צמח בו (Vayikra 13:37), and black hair has grown in it; ויהי רעב בארץ (Bereishis 12:10), and there was famine in the land. Or it may come upon the bearer from outside, as warmth comes upon water: כאשר יתן מום באדם כן ינתן בו (Vayikra 24:20), as he put a blemish in a man so shall it be put in him; ורחץ במים (Vayikra 14:8), and he shall wash in water; ודבק באשתו (Bereishis 2:24), and he shall cleave to his wife. What comes from outside sometimes comes through a means, as rinsing is done by means of water: ומורק ושטף במים (Vayikra 6:21), it shall be scoured and rinsed in water; מיד האמורי בחרבי ובקשתי (Bereishis 48:22), from the hand of the Emori with my sword and my bow; and this is what is called the ב of the instrument."
+    },
+    {
+     "h": "Within, leaning, company, time",
+     "t": "Some cleaving arises inside the bearer: והשוכב בבית (Vayikra 14:47), and one who lies in the house; בבית ובשדה (Bereishis 39:5), in the house and in the field; ובדרך לא היה (Bamidbar 9:13), and was not on the road. Some is by leaning on it: לא בקשתי אבטח (Tehillim 44:7), not in my bow do I trust; הנוגע בהר (Shemos 19:12), whoever touches the mountain. Some is by company: כי במקלי עברתי את הירדן (Bereishis 32:11), for with my staff I crossed the Yarden; בזאת יבא אהרן (Vayikra 16:3), with this shall Aharon come. Some is in time, either the time itself, בעת ההיא (Yehoshua 5:2), at that time, בימים ההם (Bereishis 6:4), in those days, ויכל אלהים ביום השביעי (Bereishis 2:2), and Hashem finished on the seventh day; or through some act in between, ובלכתך בדרך ובשכבך ובקומך (Devarim 6:7), and as you walk on the way, and as you lie down and as you rise, and ובמלאות ימי טהרה (Vayikra 12:6), and when the days of her purity are complete. The act in between may mark the time by chance, as בשכון ישראל (Bereishis 35:22), when Yisrael dwelt, וברדת הטל (Bamidbar 11:9), and when the dew came down, and בשבתך בביתך (Devarim 6:7), when you sit in your house; or be bound to the time necessarily, as ובשכבך ובקומך (Devarim 6:7), at the hour people lie down; בעלותך לראות (Shemos 34:24), when you go up to appear; באכלכם מלחם הארץ (Bamidbar 15:19), when you eat of the bread of the land; באין אלפים אבוס בר (Mishlei 14:4), where there are no oxen the trough is clean, that is, at a time when there are none; and התשחית בחמשה (Bereishis 18:28), will You destroy for the five, that is, at a time when five are lacking."
+    },
+    {
+     "h": "Joining in thought",
+     "t": "Some cleaving is a joining of things in imagination and thought: בכסף מלא יתננה לי (Bereishis 23:9), for full silver let him give it to me, an imagined joining of the act of giving to the receipt of full silver; והנותר בבשר ובלחם (Vayikra 8:32), and what is left of the flesh and of the bread, where being left over is attached to the flesh and bread by a relation in thought. So too ותדבר מרים ואהרן במשה (Bamidbar 12:1), and Miriam and Aharon spoke against Moshe; ויעבד ישראל באשה (Hoshea 12:13), and Yisrael served for a wife; כפלים בכל חטאותיה (Yeshayahu 40:2), double for all her sins; בך ארוץ גדוד (Shmuel II 22:30), by You I run against a troop; לדבקה בו (Devarim 11:22), to cleave to Him. All these, and many more, are the cleaving of a quality to its bearer: from the start or arising anew, from within the bearer itself or by coming from outside."
+    },
+    {
+     "h": "Two stages, ל and ב, make בא",
+     "t": "A quality that comes from outside must pass two stages. First the motion, in which it moves to cleave to its bearer: the preparation and the act before the attachment. Then the attachment itself, the point of time at which it takes hold and is complete, the outcome of the motion before it. The letter ל marks the motion that comes before, which the logicians call מאמר לו, the category of to it, motion toward some point, matter or state; the letter ב marks the attachment once complete, which they call מאמר בו, the category of in it. German says both with its word for in: of one walking in the city, געהט אין דער שטאט, geht in der Stadt, he walks in the city, and of one going to the city, געהט אין דיא שטאט, geht in die Stadt, he goes into the city; it tells the two apart by the article, die or der, the word der, which Rav Pappenheim labels genitive, meaning the inside of the city. So ב serves for the cleaving of a quality to its bearer, from within or from outside, and from its use for what comes from outside the language made the word בא, to come: the verb that gathers both stages. Before the joining is complete the one coming is in motion toward the boundary he heads for, in the category of to it; once he has cleaved to that boundary he passes out of the category of to it into the category of in it, and the verb that holds both is called בא."
+    }
+   ]
+  },
+  "גז": {
+   "sense": "Shearing: a cut that takes off the upper or outer part while the main body remains; unlike shaving, which is of hair alone and cuts close to the skin.",
+   "more": [
+    {
+     "h": "Shearing against shaving",
+     "t": "גלוח, shaving, is said specifically of hair, whether of the beard, the head or the rest of the body, and it is razor-like, cutting the hair close to the flesh. It may be for grooming and adornment, as ויגלח ויחלף שמלתיו (Bereishis 41:14), and he shaved and changed his garments, or for disfigurement and spoiling, as וגלחה את ראשה (Devarim 21:12), and she shall shave her head. גזיזה, shearing, is said of anything cut so that some of it remains: of hair, as ויגז את ראשו (Iyov 1:20), and he sheared his head; and of cutting the wool from the sheep, as גזזי צאנו (Bereishis 38:12), the shearers of his sheep, and לגז צאנו (Bereishis 38:13), to shear his sheep."
+    },
+    {
+     "h": "Hewn stone",
+     "t": "Cutting stones and dressing them is גזיזה as well: אבני גזית (Melachim I 5:31), hewn stones, are stones that were cut, straightened and cleared of the spurs that stuck out of them."
+    },
+    {
+     "h": "You are the One Who trims me",
+     "t": "This is the sense of ממעי אמי אתה גוזי (Tehillim 71:6), from my mother's womb You are my trimmer, on the pattern of עושי and קוני, my Maker and my Possessor. That is: from the time I came out of my mother's womb until now You have always been the One Who trims me and sets me right, as a guardian does with an infant he rears, straightening it and setting it right all the time and taking from it whatever is waste or unsightly, in the manner of הוא עשך ויכננך (Devarim 32:6), He made you and established you. גוזי is a participle of the light form."
+    },
+    {
+     "h": "Doubled and plain",
+     "t": "As a verb it sometimes comes with the zayin doubled, לגזז את צאנו (Bereishis 31:19), to shear his sheep, and sometimes plain, לגז צאנו (Bereishis 38:13), to shear his sheep."
+    },
+    {
+     "h": "Quails cut off from the sea",
+     "t": "ויגז שלוים מן הים (Bamidbar 11:31), and it cut off quails from the sea, is a quantity of quails cut off from the vast mass of them found on the seashore; for the quail is one of the birds that travel to the warm lands in the winter, and they always gather together on the shore of the sea."
+    },
+    {
+     "h": "The swift cutting off",
+     "t": "In כי גז חיש ונעפה (Tehillim 90:10), for the cutting off comes swiftly and we fly away, גז is either an intransitive verb, on the pattern of קם and שב, rose and returned, or a transitive one, on the pattern of שת in כי שת לי אלהים זרע אחר (Bereishis 4:25), for Elokim has appointed me another offspring."
+    },
+    {
+     "h": "The shearing and the fleece",
+     "t": "The noun of the verb is גז, in וראשית גז צאנך (Devarim 18:4), and the first of the fleece of your flock; with the feminine he it is גזה, in על הגזה לבדה (Shoftim 6:37), on the fleece alone."
+    },
+    {
+     "h": "Fleece and mown grass",
+     "t": "גז is also a noun in ירד כמטר על גז (Tehillim 72:6), let him come down like rain upon the mown grass, and there it is not the גז of גז צאנך (Devarim 18:4), the fleece of your flock. The גז of the flock is what is shorn off; the גז in Tehillim is the grass that remains after the cutting."
+    },
+    {
+     "h": "The gazam locust",
+     "t": "A kind of locust is called גזם: יתר הגזם אכל הארבה (Yoel 1:4), what the gazam left the arbeh ate, and והחסיל והגזם (Yoel 2:25), and the chasil and the gazam. The mem is added, as in סלעם (Vayikra 11:22), a kind of locust found on the rocks, the סלעים; so גזם is from גז, named for the way it eats, shearing the greens."
+    },
+    {
+     "h": "Its companion, the yelek",
+     "t": "Its companion, in וילק ואין מספר (Tehillim 105:34), and yelek without number, is named from מליקה, nipping, since it nips the greens; or from the sense of ילקו הכלבים (Melachim I 21:19), the dogs shall lick, which is to be explained under the root לק."
+    }
+   ]
+  },
+  "שב": {
+   "sense": "Return, to a former place or state or to the state nature calls for; and since rest is the natural state, ceasing from motion: sitting, captivity, Shabbos",
+   "more": [
+    {
+     "h": "Three kinds of return",
+     "t": "The root's basic sense is return, a going back to what came before, and it comes in three kinds. The first is back to a former place: ויצא יצוא ושוב (Bereishis 8:7), it went out, going and returning; ותשב אליו אל התבה (Bereishis 8:9), she came back to him, to the ark; ודור רביעי ישובו הנה (Bereishis 15:16), the fourth generation shall return here. The second is back to a former condition: עד אשר תשוב חמת אחיך (Bereishis 27:44), until your brother's fury turns back; שוב מחרון אפך (Shemos 32:12), turn back from Your burning anger, that is, to the goodwill there was before; והנה שבה כבשרו (Shemos 4:7), and it had gone back to being like his flesh. Both have three stations and two moves: the thing leaves its first station for a second, then leaves that and goes back to the first."
+    },
+    {
+     "h": "Return to one's natural state",
+     "t": "The third kind has two stations and one move: a thing enters the state it ought to be in, by nature or by right, though it was never there before. One born blind who is healed is said to have שב לראיתו, returned to his sight, though he never saw; since nature calls for sight, it counts as his earlier station, and blindness as a removal from it. So ההשב אשיב את בנך אל הארץ אשר יצאת משם (Bereishis 24:5), shall I bring your son back to the land you came out of?, though Yitzchak had never been there: it was the land of his fathers' birth. So too תשובו לתוכחתי (Mishlei 1:23), turn back to my rebuke, since heeding rebuke is what the soul's nature calls for; and גם אל פיהו לא ישיבנה (Mishlei 19:24), he will not even bring it back to his mouth, since the hand meeting the mouth to eat is a natural need, and so השבה, bringing back, is said of it."
+    },
+    {
+     "h": "Teshuvah in either direction",
+     "t": "ובשוב צדיק מצדקתו ועשה עול (Yechezkel 18:24), when a righteous man turns from his righteousness and does wrong, does not by its plain sense speak of one who was wicked, became righteous and then went back to his wickedness, but of one who was always righteous and became wicked. Nor is ובשוב רשע מרשעתו (Yechezkel 18:27), when a wicked man turns from his wickedness, about one who was righteous, became wicked and turned righteous again because תוהא על הראשונות, he regrets the earlier ones, the reading Chazal give by way of derash (Kiddushin 40b). Rav Pappenheim's account is that man is set in two natures that oppose each other: his good inclination binds him to be good and his evil inclination binds him to be evil. A lifelong tzaddik who turns wicked has returned to the nature that binds him to evil, and a lifelong rasha who turns righteous has returned to the nature that binds him to righteousness, so תשובה, return, is said of both."
+    },
+    {
+     "h": "Returning words: an answer",
+     "t": "There is also a return of words: וישב משה את דברי העם (Shemos 19:8), Moshe brought back the people's words; וישיבו אותם דבר (Bamidbar 13:26), they brought back word to them; משיב דברים נכוחים (Mishlei 24:26), one who gives back straight words. Speech is like a messenger sent to bring something back, and the other man's answer is like the messenger coming back to the one who sent him, so תשובה, return, fits an answer."
+    },
+    {
+     "h": "שביב: the rebounding spark",
+     "t": "With the bet doubled comes the noun שביב: ולא-יגה שביב אשו (Iyov 18:5), the spark of his fire will not shine. It is the spark of light that comes back when it falls on a hard body."
+    },
+    {
+     "h": "שובב: straying, turning back",
+     "t": "The verb שבב: וילך שובב בדרך לבו (Yeshayahu 57:17), he went on wayward in the way of his heart; שובו בנים שובבים (Yirmiyahu 3:14), return, wayward children. It is error and wandering: one who strives to reach a true goal and does not find it, since nothing he finds is the true one, and he must keep turning back and taking another road. So שובב is from תשובה, return, for he must always go back from the road he set out on. A deranged mind that cannot settle is also שובב: ושובבתיך ונתתי חחים (Yechezkel 38:4), I will turn you about and put hooks in you; משובבת מחרב (Yechezkel 38:8), turned about from the sword; ושבבתיך וששאתיך (Yechezkel 39:2), I will turn you about and lead you on."
+    },
+    {
+     "h": "שבב: a tangled road",
+     "t": "So the twisting, confused road, where no way out can be found and one must go back to where one came from, is also שבב: רעיהם התעום הרים שובבום (Yirmiyahu 50:6), their shepherds led them astray, on mountains that turned them about, mountains so tangled that no way out of them is found, going always from mountain to hill and from hill to mountain; and כי שבבים יהיה עגל שמרון (Hoshea 8:6), for the calf of Shomron shall become shevavim, meaning the roads that lead to the calf of Shomron will be confused, and the road that brings one there will not be found."
+    },
+    {
+     "h": "משבה: waywardness",
+     "t": "The noun משבה belongs with these: משבה ישראל (Yirmiyahu 3:6), wayward Israel; ארפה משובתיכם (Yirmiyahu 3:22), I will heal your waywardness; משבה נצחת (Yirmiyahu 8:5), a lasting waywardness; ארפא משובתם (Hoshea 14:5), I will heal their waywardness."
+    },
+    {
+     "h": "Rest as a return to nature",
+     "t": "From the first sense, return to what came earlier in time or to the natural state that comes first in rank, other nouns and verbs derive that all share one meaning, ceasing from motion, that is, rest, which is in truth a return to the natural state. Rest is a thing's natural state: a body is by nature at rest of itself, and rest involves no action and needs no cause to come about, while nothing moves without a cause, from outside or within, to move it. So a thing that stops moving is said to have שב, returned, to its natural state, which is rest."
+    },
+    {
+     "h": "ישב: sitting",
+     "t": "That is the verb ישב, sitting, the end of moving about and the return to rest. Sometimes it is the body not moving, the opposite of walking and standing: יושב פתח האוהל (Bereishis 18:1), sitting at the entrance of the tent; קום נא שבה (Bereishis 27:19), rise, please, sit; וכל כלי אשר תשב עליו (Vayikra 15:20), and any vessel she sits on; היושב על כסאו (Shemos 11:5), who sits on his throne."
+    },
+    {
+     "h": "ישב: staying; the תושב",
+     "t": "Sometimes it is no longer moving from place to place, and then it means staying: לשבת אברם בארץ כנען (Bereishis 16:3), of Avram's dwelling in the land of Canaan; בכל מושבותיכם (Shemos 12:20), in all your dwellings; ואשב בהר (Devarim 9:9), I stayed on the mountain; בסוכות תשבו (Vayikra 23:42), you shall dwell in sukkos; גר ותושב (Bereishis 23:4), a sojourner and a resident. One who stays in a land and fixes his dwelling there is called תושב, resident. So תשב על דמי טהרה (Vayikra 12:5), she shall remain in the blood of purity, means she shall stay."
+    },
+    {
+     "h": "שובה, שובב: stillness, settling",
+     "t": "From the end of moving about comes בשובה ונחת תושעון (Yeshayahu 30:15), in stillness and quiet you shall be saved, that is, מתון מתון (Berachos 20a), slowly, slowly, without much moving about. From this sense too is שובנו אלהי ישענו (Tehillim 85:5), settle us, Elokim of our salvation; and with the bet doubled, נפשי ישובב (Tehillim 23:3), He settles my soul, and לשובב יעקב אליו (Yeshayahu 49:5), to settle Yaakov with Him. Or it is from תשובה, return: לשובב is like להשיב, to bring back, as לרומם is like להרים, to raise, in לרומם את בית אלהינו (Ezra 9:9), to raise up the house of our Elokim."
+    },
+    {
+     "h": "נשב: the wind settles in",
+     "t": "With a nun, one of the formative letters, comes a verb נשב, from ישיבה, settling: וישב אתם אברם (Bereishis 15:11), and Avram blew them away; כי רוח יהוה נשבה בו (Yeshayahu 40:7), for the breath of Hashem blew upon it; ישב רוחו יזלו מים (Tehillim 147:18), He makes His wind blow and the waters flow. It is from settling: the wind that moves about enters and settles in the body that receives it."
+    },
+    {
+     "h": "שבה: captivity",
+     "t": "Also from the stopping of motion is the verb שבה, captivity, which stops free natural movement: כי נשבה אחיו (Bereishis 14:14), that his brother had been taken captive; כשבויות חרב (Bereishis 31:26), like captives of the sword; וישב ממנו שבי (Bamidbar 21:1), he took captives from him; שבות יעקב (Yechezkel 39:25), the captivity of Yaakov; שבות בני עמון (Yirmiyahu 49:6), the captivity of the children of Ammon. Any stopping and cessation of moving by choice and will is called שביה, captivity."
+    },
+    {
+     "h": "שבת: ceasing from work",
+     "t": "For stopping occupation and the motion of work a tav is added: שבת, ceasing, an end to activity: שבת וינפש (Shemos 31:17), He ceased and rested; ושבתה הארץ (Vayikra 25:2), the land shall rest; תשביתו שאור מבתיכם (Shemos 12:15), you shall clear leaven out of your houses, meaning an end to dealing with leaven; שבת שבתון (Shemos 31:15), a Shabbos of complete rest; שחקו על משבתיה (Eichah 1:7), they mocked at her ceasing."
+    },
+    {
+     "h": "שאב: drawing water",
+     "t": "For stopping plain natural motion there is the verb שאב, drawing water: יוצאות לשאוב מים (Bereishis 24:13), coming out to draw water; עד שואב מימיך (Devarim 29:10), to the one who draws your water; ושאבתם מים בששון (Yeshayahu 12:3), you shall draw water in joy. Water brought into a vessel is stopped from flowing and moving with its natural motion. So the three are set apart by the motion each stops: שביה the movement of choice and will, שבת occupation and work, שאב the plain motion of nature; and Rav Pappenheim calls שאב close to שביה, in which the captive is stopped from the movement of his own choice."
+    }
+   ]
+  },
+  "עם": {
+   "sense": "With: the incidental sharing one relation with the essential, or the secondary with the main; at root ע, movement, so existence at one and the same time.",
+   "more": [
+    {
+     "h": "With, and its suffixed forms",
+     "t": "He classes עם as a particle (מלה). It is the relation shared between an accident and a substance, or between a main thing and a secondary one, and it is said of the incidental party, in that it is present in the same relation the essential party is in: ויהי שם עם יהוה (Shemos 34:28), and he was there with Hashem; עם המלך (Shmuel I 20:5), with the king; באה עם הצאן (Bereishis 29:6), coming with the sheep. With suffixes: עמי, with me; עמו, with him; עמך, with you; עמם, with them, as in הולך עמם לשלחם (Bereishis 18:16), going with them to send them off; or עמהם, as in לא תלך עמהם (Bamidbar 22:12), you shall not go with them."
+    },
+    {
+     "h": "Taken out of the relation",
+     "t": "Leaving the shared relation takes the mem of removal: ויצא מעמך (Vayikra 25:41), he shall go out from with you; מעמו (Shmuel I 18:13), from with him; מעמהם, from with them. With the ayin concealed: והסיר יהוה ממך (Devarim 7:15), and Hashem will remove from you; and ממכם, from you all: ממך and ממכם are מעמך and מעמכם, from with you."
+    },
+    {
+     "h": "With the one acted upon",
+     "t": "At times עם stands as if it were the object itself, as in כחסד אשר עשיתי עמך (Bereishis 21:23), according to the kindness I did with you. That is not the sense of האיש אשר עשיתי עמו (Rus 2:19), the man with whom I worked, where both were working, he and she. Here only Avimelech acted, and Avraham received the act; yet עם is still the right word, since the kindness is an incidental act that attaches itself to Avraham's very self. So too אם תעשה עמנו רעה (Bereishis 26:29), that you do us no harm, and אשר אני עושה עמך (Shemos 34:10), which I am doing with you."
+    },
+    {
+     "h": "עם and את",
+     "t": "How עם differs from the particle את Rav Pappenheim sets out under the root את, not here."
+    },
+    {
+     "h": "The verb עמם, joined in relation",
+     "t": "From the particle the framer of the language made a verb, עמם, for the joining of accident with substance, just as ותהינו לעלות ההרה (Devarim 1:41), you made ready to go up the mountain, is made from הן, behold. ארזים לא-עממהו (Yechezkel 31:8), the cedars were not with it: they did not enter with it into one relation, which is to say לא דמו אליו, they were not like it. Likewise כל סתום לא עממוך (Yechezkel 28:3), no hidden thing stood with you, meaning there was nothing hidden. And איכה יועם זהב (Eichah 4:1), how the gold is mixed: fine gold must have nothing foreign with it and be clean of all waste and dross, so יועם names the opposite, gold mixed in with other things."
+    },
+    {
+     "h": "נעם, pleasant",
+     "t": "Adding the nun of the passive form makes the noun נעם from עם, meaning pleasantness: ואת הארץ כי נעמה (Bereishis 49:15), and the land, that it was pleasant; מה יפית ומה נעמת (Shir HaShirim 7:7), how fair you are and how pleasant."
+    },
+    {
+     "h": "Good and bad are relations",
+     "t": "As Rav Pappenheim says he has shown many times in this work, no physical good or bad is something essential in the thing that bears it; each is a relation that comes about with the receiving sense, as it agrees with that sense or opposes it. What agrees with the receiving sense is called טוב, good, and what opposes it רע, bad. So עריבות, sweetness, comes from התערבות, mixing in with the sense; טעם, taste, from נטיעה, planting (see the root טע); and נעם, pleasantness, from עמיות, being with: a good agreement and attachment with the sense. The German speaker likewise says of a thing well received \"es geht mit\", it goes with."
+    },
+    {
+     "h": "עמת, alongside",
+     "t": "The abstract noun from עם is עמת: the side that stands in one relation with the side over against it, when the two are on two sides, as לעמת המסגרת (Shemos 25:27), alongside the frame; or with the side next to it, when they are on one side, as לעמת העצה יסירנה (Vayikra 3:9), he shall remove it alongside the backbone. It is said of sharing in number, as לעמת קלעי החצר (Shemos 38:18), corresponding to the hangings of the courtyard; of order, one thing related to the next, as משמר, a watch, and לעמת משמר (Divrei HaYamim I 26:16), alongside a watch; and of quality, where one has what the other has or its opposite, as כל-עמת שבא כן ילך (Koheles 5:15), just as he came so shall he go, and גם את-זה לעמת-זה (Koheles 7:14), this one too alongside that one. Every עמת is from עם, sharing with a thing in some relation or other, and he takes עמת to mean עמיות, being with, as זולת, besides, comes from זל (see the root זל)."
+    },
+    {
+     "h": "Alongside, opposite, facing",
+     "t": "The difference between עמת, alongside; מול, in front of; נכח, facing; לקראת, toward; and נגד, opposite, he sets out at length in his Yerios Shlomo, under נגד, and not here."
+    },
+    {
+     "h": "עמית, a fellow",
+     "t": "As the noun עמת comes from עם, so does the adjective עמית: ואל אשת עמיתך (Vayikra 18:20), and to your fellow's wife; או קנה מיד עמיתך (Vayikra 25:14), or buy from your fellow's hand; ועל גבר עמיתי (Zecharyah 13:7), and against the man who is My fellow. From עם, with, it is the one who stands with you in a relation of brotherhood and friendship, or in some other civic or religious relation. Rav Pappenheim allows too that עמית may come from עם with a patach, a people, and then means in particular one's fellow who is of his own people."
+    },
+    {
+     "h": "עם, a people",
+     "t": "From עם, with, comes עם with a patach: a body of persons who share with one another some relation of quality or of character. הן עם אחד (Bereishis 11:6), they are one people; כל העם מקצה (Bereishis 19:4), all the people from every quarter; וישתחו לעם הארץ (Bereishis 23:7), and he bowed to the people of the land, where those alike in the traits of the common crowd are called together עם הארץ, the people of the land. הנמלים עם לא עז (Mishlei 30:25), the ants are a people not strong, sharing one particular quality."
+    },
+    {
+     "h": "Peoples within a people",
+     "t": "Every large body holds smaller bodies alike in a quality that does not extend over the whole kind. The men of Europe share one quality that sets them apart from the men of Africa, and so are called עם אייראפא, the people of Europe; it divides again into many peoples, the French, the Germans and the like, each set apart from the next in some way and each called a people of its own; and each people divides again into lands, families and fathers' houses, each set apart in some quality, as one might say the men of such a land are warriors and the men of such a family given to anger and strife. Each is called עם for its sharing in one particular matter."
+    },
+    {
+     "h": "Why the plural",
+     "t": "Since within every people are many smaller peoples, עם comes mostly in the plural, said of the great body: ויאסף אל עמיו (Bereishis 25:8), and he was gathered to his peoples; ונכרת מעמיו (Shemos 30:33), and he shall be cut off from his peoples; ונכרתה מעמיה (Vayikra 23:29), it shall be cut off from its peoples; לא יטמא בעל בעמיו (Vayikra 21:4), a husband shall not make himself impure among his peoples; אחריך בנימין בעממיך (Shoftim 5:14), after you, Binyamin, among your peoples."
+    },
+    {
+     "h": "The root: ע, movement",
+     "t": "The root of עם is the ayin alone, whose basic sense is movement, as set out under the root עה. The added mem makes it movement at one time, that is, existence at one time (in German, being at the same time, simultaneity), since the sign of existence is movement, and movement is in time, time being its foundation. So עם falls on the existence of two things under one relation: they share in the movement of what befalls them, that is, in existence, this one's lot like that one's."
+    }
+   ]
+  },
+  "גר": {
+   "sense": "Dragging (גרירה): a thing drawn along from place to place, not rolled; of the living, one with no fixed home who moves from place to place, a גר, sojourner.",
+   "more": [
+    {
+     "h": "Flowing slowly",
+     "t": "Of things without life, dragging is slow flowing: וכמים הנגרים (Shmuel II 14:14), \"like water that runs off\"; ויגר מזה (Tehillim 75:9), \"and He poured out of this\"; עיני נגרה (Eichah 3:49), \"my eye runs\". What moves slowly is נוזל, flowing; what comes down drop by drop is נוטף, dripping; and what comes down slowly, neither fast nor drop by drop, is said to יגר, run down. So פרץ נחל מעם גר (Iyov 28:4), \"a torrent broke out from where it trickled\": from a place where the water only ran gently, a rushing stream burst out."
+    },
+    {
+     "h": "גרם, the bone with marrow",
+     "t": "With a mem added, a bone that holds marrow is גרם, named for the marrow and the fatty juice that runs into it; a bone with no marrow is עץ, wood, since it has dried out like wood, as he explains at the root עץ. יששכר חמר גרם (Bereishis 49:14), \"Yissachar is a donkey of bone\", is a donkey whose bones have marrow in them. The verb, ועצמתיהם יגרם (Bamidbar 24:8), \"and their bones he will drain\", is doing something to their bones so as to suck out the marrow in them; and ואת חרשיה תגרמי (Yechezkel 23:34), \"and you will suck its shards dry\", is sucking out the juice that has run into them. אל גרם המעלות (Melachim II 9:13), \"onto the gerem of the steps\": the gerem is, as it seems, a kind of gutter into which the water off the roof runs."
+    },
+    {
+     "h": "גרגר, a berry",
+     "t": "So too the berry: שלשה גרגרים בראש אמיר (Yeshayahu 17:6), \"three berries at the top of the bough\". Each single berry of a fruit, into which the juice runs, is a גרגר."
+    },
+    {
+     "h": "Stones dragged about",
+     "t": "כאבני גר מנפצות (Yeshayahu 27:9), \"like stones of gir, smashed\", are stones dragged about over the face of the field with no one to gather them. The verb is והגרתי לגי אבניה (Michah 1:6), \"and I will drag her stones down into the valley\"; and from the same sense, והגרם על ידי חרב (Yirmiyahu 18:21), \"and drag them off by the power of the sword\", and וכסאו לארץ מגרתה (Tehillim 89:45), \"and his throne You dragged down to the ground\", where מגרתה is like הגרת, You dragged, the mem standing in place of a heh."
+    },
+    {
+     "h": "גרון and גרגרת, the throat",
+     "t": "גרון, the throat, is from dragging: קרא בגרון (Yeshayahu 58:1), \"call out with the throat\", so named because food and drink are dragged down from there into the belly. The windpipe, called גרגרת, bears the name too, because it is joined to the גרון: וענקים לגרגרתך (Mishlei 1:9), \"and necklaces for your neck\", since the גרגרת shows more on the outside than the גרון, which is the gullet."
+    },
+    {
+     "h": "גרה, the cud",
+     "t": "The food dragged to the throat is גרה, the cud: מעלה גרה (Vayikra 11:4), \"brings up the cud\"."
+    },
+    {
+     "h": "Small coins, גרה and אגורת",
+     "t": "A small coin is also גרה: עשרים גרה השקל (Shemos 30:13), \"the shekel is twenty gerah\". It is named for dragging, because it is dragged constantly from hand to hand and never stays fixed in its place, unlike the heavy coins that are stored away in a treasury. The same is לאגורת כסף (Shmuel I 2:36), \"for a piece of silver\", a small coin of whatever kind."
+    },
+    {
+     "h": "אגרת, a letter",
+     "t": "אגרת, as את אגרת הפורים (Esther 9:29), \"this letter of Purim\", is a writing passed through the whole country from man to man to make its matter known in public. In parentheses he adds צירקולער, a circular."
+    },
+    {
+     "h": "The saw and the carpenter",
+     "t": "The saw is מגרה, as מגררות במגרה (Melachim I 7:9), \"sawn with a saw\", named for the way it is used: not lifted like other tools but dragged over the wood, which splits apart. After this tool the language of the Talmud calls the חרש, the craftsman, נגר: נגר ולא בר נגר (Avodah Zarah 50b), \"a carpenter and not a carpenter's son\", the craftsman who works with the saw. A craftsman is always called after the tool he does most of his work with: the tailor is חייט after the חוט, the thread he sews with, and the shoemaker רצען after the מרצע, the awl; so the חרש is נגר because most of his work is with the saw."
+    },
+    {
+     "h": "אגר, gathering",
+     "t": "Also from גרר is the verb אגר, gathering: a gathering that comes by dragging, collecting different things from different places, a little at a time. אגרה בקציר מאכלה (Mishlei 6:8), \"she gathers her food in the harvest\"; אגר בקיץ (Mishlei 10:5), \"he gathers in summer\"; ויין לא תשתה ולא תאגר (Devarim 28:39), \"and wine you shall neither drink nor gather\". The noun is מגרה: נהרסו ממגרות (Yoel 1:17), \"the granaries are torn down\", and העוד הזרע במגורה (Chaggai 2:19), \"is the seed still in the granary?\", a store gathered by dragging. Sometimes the alef drops: יגרהו בחרמו (Chavakuk 1:15), \"he gathers him in his net\", that is, יאגרהו ויאספנו, he gathers and collects him; יגורו עלי עזים (Tehillim 59:4), \"the mighty gather against me\", gathered against me from every side; and על דגן ותירוש יתגוררו (Hoshea 7:14), \"over grain and wine they gather\". The noun from it is מגור, as מגור מסביב (Tehillim 31:14), \"dread on every side\", formed like מקום, place, and מרום, height."
+    },
+    {
+     "h": "גרן against מגורה",
+     "t": "With a nun added, גרן, the threshing floor: גרן ויקב (Hoshea 9:2), \"threshing floor and winepress\"; כתבואת גרן (Bamidbar 18:30), \"as the produce of the threshing floor\". It is the place where grain not yet threshed is gathered. That is how it differs from the מגורה: the מגורה is the store of threshed grain, the גרן the store of unthreshed grain and of the sheaves."
+    },
+    {
+     "h": "גור, to fear",
+     "t": "From גר in its sense of gathering, the verb גור was borrowed for fear and dread: ויגר מואב (Bamidbar 22:3), \"and Moav was in dread\"; לא תגורו מפני איש (Devarim 1:17), \"do not fear any man\". Either it is gathering in to oneself, for fear of being exposed and spreading outward; or it is the gathering and collecting of all one's thoughts so as not to come to harm, as with יראה and מורא, fear, which, as he will explain in their place, come from seeing and watching."
+    },
+    {
+     "h": "מורא against מגור",
+     "t": "מורא applies when the one afraid knows the one way he could be harmed and need only watch that way alone. מגור applies when the ways of harm are many, and he must gather all his thoughts and consider every way harm could possibly reach him. How the words of fear, מורא, מגור, חיל, אימתה ופחד (fear, dread, trembling, terror and fright), differ from each other is left to their own places."
+    },
+    {
+     "h": "גרה, provoking; and חרחור",
+     "t": "Also from dragging is the verb גרה, provoking and quarrel: אל תתגרו בם (Devarim 2:5), \"do not provoke them\"; ואל תתגר בם מלחמה (Devarim 2:9), \"and do not provoke them to war\"; מתגרת ידך (Tehillim 39:11), \"by the strife of Your hand\"; איש חמה יגרה מדון (Mishlei 15:18), \"a hot-tempered man stirs up strife\", an act that drags quarrel and strife after it. It is close to חרחור, as אל תתחר במרעים (Tehillim 37:1), \"do not grow heated over evildoers\". But חרחור is from חרון, burning anger: the intent to do something that brings on burning wrath. גירוי, provoking, is the intent to do things that will draw one's fellow into dispute, and so it is a cause that drags the quarrel after it as its result. In the language of the Talmud a cause is גורם: זה וזה גורם (Pesachim 26b), \"this and that both cause it\"; דבר הגורם לממון (Pesachim 5b), \"a thing that brings about money\"."
+    },
+    {
+     "h": "גר against תושב and אזרח",
+     "t": "Of the living, dragging gives the noun גר: כי גר יהיה זרעך (Bereishis 15:13), \"your seed will be strangers\"; גר ותושב (Bereishis 23:4), \"a stranger and a settler\"; האזרח והגר (Vayikra 16:29), \"the native and the stranger\". גר describes one who sojourns in a land not his own, the opposite of the אזרח, who was born in the land where he is. A תושב is one not born here who has taken up his dwelling like one of the land's native-born; a גר is one not born here who also has no fixed home to settle in for all the days of his life."
+    },
+    {
+     "h": "אזרח, from rising",
+     "t": "אזרח is from זריחה, rising. The verb זרח marks the first appearing of anything, as והצרעת זרחה במצחו (Divrei HaYamim II 26:19), \"and the tzaraas broke out on his forehead\"; so the sun's first appearing on the horizon is called מזרח, as מזרח השמש (Yehoshua 1:15), \"the rising of the sun\". זריחה is not said once the sun already shines on the land, only of its first coming out and appearing on the horizon. So one who lives in the land of his birth is called אזרח, one found in the place where he rose and first appeared in the world. ומתערה כאזרח רענן (Tehillim 37:35), \"spreading out like a fresh native\", means like the rising, the first appearing, of a fresh tree, which right from the start of its growth is thick and stout and full of branches; there אזרח is a word that describes, not a noun."
+    },
+    {
+     "h": "גור, to sojourn and to dwell",
+     "t": "The verb from גר: ויגר אברהם (Bereishis 21:34), \"and Avraham sojourned\"; האחד בא לגור (Bereishis 19:9), \"this one came to sojourn\"; לגור בארץ באנו (Bereishis 47:4), \"we have come to sojourn in the land\"; ארץ מגריהם (Shemos 6:4), \"the land of their sojournings\". It means dwelling that is not fixed. Sometimes it is said of fixed dwelling as well: אגורה באהלך עולמים (Tehillim 61:5), \"I will dwell in Your tent forever\"; לא יוסיפו לגור (Eichah 4:15), \"they will dwell there no more\"."
+    },
+    {
+     "h": "גור, a cub",
+     "t": "From dwelling, the young of wild beasts is גור: גור אריה יהודה (Bereishis 49:9), \"Yehudah is a lion's cub\"; רבתה גוריה (Yechezkel 19:2), \"she reared her cubs\"; היניקו גוריהן (Eichah 4:3), \"they suckled their young\". It is called גור because it dwells in its den and its hole and does not yet go out to roam the land for prey, the grown beasts bringing it food. So ותעל אחד מגריה כפיר היה וילמד לטרף טרף (Yechezkel 19:3), \"she brought up one of her cubs, he became a young lion and learned to tear prey\": she brought one of her cubs up out of the hole, and it grew and became a כפיר, the lion that roams the villages, the כפרים, for food, and only afterwards learned to prey. Since the young lion preys more fiercely than the old, the tribes are likened, where preying is meant, to a lion's cub, a young lion, even though as long as it is a cub it does not prey."
+    }
+   ]
+  }
+ }
+}

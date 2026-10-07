@@ -79,6 +79,12 @@ later corrections are written down. Drop it on the old one and run these three.
   (following Rabbi Klein's book, with its `ADJUST` list for the few plain
   misfits) and what each week shows. Run it after new entries land or the
   calendar is refetched, then `build_site.py`.
+- **`split_cheshek.py`** maps Rav Pappenheim's *Cheshek Shlomo* into
+  `references/cheshek-shlomo.json`: one row per root, found from the bold
+  headings in the PDF's text layer and kept only where they run in
+  alphabetical order, with the pages each spans. Headings the search misses
+  are read off the page images and listed in `EXTRA`. The OCR it stores is a
+  finding aid only; a rerun keeps any transcription already made.
 - **`fetch_shorashim.py [--refresh] [--retry-empty] [--reformat] [--homonyms]`**
   saves Radak's *Sefer HaShorashim* for each root of three letters or more to
   `references/shorashim.json`. Sefaria carries the Berlin 1847 edition, which
