@@ -122,6 +122,13 @@ Every entry in `../entries/` must trace to a file here. Orthodox sources only.
 - His words are public domain; the edition, with the editor's punctuation,
   bracketed insertions and footnotes, is Moshe Tzuriel's. The Hebrew goes on the
   site only with his permission.
+- `cheshek-shlomo/cheshek-shlomo-breslau-1802.pdf` is the part printed in his
+  lifetime: *Shorashim ... im HaSefer Cheshek Shlomo*, Breslau 5562, 79 pages in
+  Rashi script, roots אב through בת only. It is public domain outright, but it
+  is not the same text: its אף, for one, runs on the particle "even" (אף כי)
+  where the manuscript Tzuriel printed opens with the face and the nose and
+  runs longer. So it is a second, earlier version for the roots of א and ב,
+  not a cleaner copy of the edition.
 - A pilot of ten roots (כר, בל, עד, אף, ער, בא, גז, שב, עם, גר) was transcribed and
   glossed on 7 October 2026, each proofread against the pages by a second
   reader, at about 4.1M agent tokens.

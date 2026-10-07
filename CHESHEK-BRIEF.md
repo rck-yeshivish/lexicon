@@ -34,6 +34,9 @@ list, the entry stops there; report it.
   parentheses and the editor's square brackets.
 - No niqqud and no te'amim. The letters exactly as printed, full or defective
   spelling as the page has it.
+- The four-letter Name as ה׳, keeping any letter prefixed to it (לה׳, בה׳),
+  where the edition spells it out. The same in the English. An abbreviation the
+  page prints itself (ה') stays as printed.
 - The bold lead words that open his paragraphs (**ויקרא**, **ועניין**) in `**`.
 - A blank line between paragraphs.
 - `[p. 38]` on its own line where a new printed page begins.
