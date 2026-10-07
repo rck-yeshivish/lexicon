@@ -17,7 +17,7 @@ words:
 sources:
   - wiaw:8913 "Elephants Galore" (2020-11-07) https://articles.ohr.edu/articles/elephants-galore
 authorities: [Targum, Rashi, Radak, Metzudos, Ralbag, Rabbi Yosef Karo, Abarbanel, Rabbeinu Yonah Ibn Janach, Rabbeinu Efrayim ben Shimshon, HaKallir, Rabbi Avraham ben Shlomo, Rabbi Yosef Bechor Shor, Rabbi Menashe ben Israel, Rabbi Ernest Klein, Rabbi Yehoshua Steinberg, Rabbi Yechiel Michel Stern, Chaim Tawil]
-updated: 2026-09-10
+updated: 2026-10-06
 ---
 # Elephant: pil / shenhav
 
@@ -117,7 +117,8 @@ The sixth son of Nachor (Bereishis 22:22), whose etymology is somewhat unclear.
 - Some linguists read the name as a portmanteau of *pladot*, torches, and
   *aish*, fire, two words that stand side by side in the pasuk (Nachum 2:4);
   *pladot* itself occurs only once in Tanach and seems to be a metathesized form
-  of the more familiar *lapidot*, torches.
+  of the more familiar *lapidot*, torches (see
+  [fire](fire-aish-lehavah-shalheves-lapid.html#%D7%9C%D7%A4%D7%99%D7%93)).
 - Another tradition, from Rabbeinu Efrayim ben Shimshon, reads the name as *pil*
   plus *dash*, an elephant that threshes, an allusion to Pildash's superlative
   height, which let him "thresh" over everyone shorter than himself. That is the

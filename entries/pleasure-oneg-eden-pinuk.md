@@ -30,7 +30,7 @@ sources:
   - wiaw:8295 "Indulging in Pleasure" (2019-06-22) https://articles.ohr.edu/articles/indulging-in-pleasure
   - ms:312-indulging-in-pleasure.md "Indulging in Pleasure"
 authorities: [Rabbi Shlomo Pappenheim, Targum Onkelos, Radak, Ibn Ezra, Rabbi Yehuda Chalava, Rav Hirsch, Rabbi Yaakov Tzvi Mecklenburg, Sefer HaYashar, Rabbi Nissim of Marseilles, Alexander Kohut, Rabbi Nosson of Rome, Rabbi Yehoshua Steinberg, Rabbi Ernest Klein]
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 # Pleasure: eden / oneg / pinuk
 
@@ -146,7 +146,7 @@ consensus on its root; some even say the word is Greek.
   spellings: *hanaah* always with a hei, *onaah* with an alef. Kohut uses this
   to explain why Rabbi Nosson of Rome (1035 to 1106), in *Sefer HeAruch*, seems to
   take the root of *hanaah* as ה-נ-י.
-- Ibn Ezra (to Shir HaShirim 1:4, as Rabbi Klein gives the reference) and Radak
+- Ibn Ezra (to Shir HaShirim 1:5) and Radak
   (to Tehillim 33:1) suggest that *naveh* or *neos*, fitting or suitable, is
   from א-ו-ה, desire (as in *taavah* and *ivah*), so that *naveh* is what is
   desirable. Radak suggests alternatively that the root of *naveh* is נ-א-ה,
@@ -190,4 +190,4 @@ Rabbi Reuven Chaim Klein, "[Indulging in Pleasure](https://articles.ohr.edu/arti
 
 Rabbi Reuven Chaim Klein, "Indulging in Pleasure," *What's in a Word? Synonyms in the Hebrew Language* (book manuscript).
 
-Cited in the essay: Rabbi Shlomo Pappenheim on ע-ד, ע-נ-ג and פ-נ-ק; Bereishis 18:12 with Targum Onkelos, Radak, Ibn Ezra, and Rabbi Yehuda Chalava; Bereishis 49:20; Tehillim 36:9, 37:4, 37:11; Yirmiyahu 51:34; Eichah 4:5; Yeshayahu 47:8, 58:13, 66:11; Devarim 15:14, 28:54; Iyov 22:26; Shir HaShirim 7:7; Mishlei 29:21; Rav Hirsch on *oneg* and *anak*; Rabbi Yaakov Tzvi Mecklenburg to Devarim 15:14, and *HaKsav VeHaKabbalah* to Bereishis 15:3 and 16:2; the Targumim on *anug* and *maadanei melech*; *Mah Yedidus*; *Sefer HaYashar*; Rabbi Nissim of Marseilles, *Maaseh Nissim* p. 271; Alexander Kohut, *Aruch HaShalem* s.v. הני/הנה; Rabbi Nosson of Rome, *Sefer HeAruch*; Ibn Ezra to Shir HaShirim 1:4; Radak to Tehillim 33:1; Rabbi Yehoshua Steinberg; Rabbi Ernest Klein, *A Comprehensive Etymological Dictionary of the Hebrew Language for Readers of English*.
+Cited in the essay: Rabbi Shlomo Pappenheim on ע-ד, ע-נ-ג and פ-נ-ק; Bereishis 18:12 with Targum Onkelos, Radak, Ibn Ezra, and Rabbi Yehuda Chalava; Bereishis 49:20; Tehillim 36:9, 37:4, 37:11; Yirmiyahu 51:34; Eichah 4:5; Yeshayahu 47:8, 58:13, 66:11; Devarim 15:14, 28:54; Iyov 22:26; Shir HaShirim 7:7; Mishlei 29:21; Rav Hirsch on *oneg* and *anak*; Rabbi Yaakov Tzvi Mecklenburg to Devarim 15:14, and *HaKsav VeHaKabbalah* to Bereishis 15:3 and 16:2; the Targumim on *anug* and *maadanei melech*; *Mah Yedidus*; *Sefer HaYashar*; Rabbi Nissim of Marseilles, *Maaseh Nissim* p. 271; Alexander Kohut, *Aruch HaShalem* s.v. הני/הנה; Rabbi Nosson of Rome, *Sefer HeAruch*; Ibn Ezra to Shir HaShirim 1:5; Radak to Tehillim 33:1; Rabbi Yehoshua Steinberg; Rabbi Ernest Klein, *A Comprehensive Etymological Dictionary of the Hebrew Language for Readers of English*.

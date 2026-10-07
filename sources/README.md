@@ -47,6 +47,11 @@ Every entry in `../entries/` must trace to a file here. Orthodox sources only.
   Tzeruyah from *tzari* is *Daas Mikra*'s, to Divrei HaYamim I 1:32. His note on the root צר
   is his own, since no one source needs naming. The paytanim's coloured gold reached him
   through Y. Y. Stahl, *Segulah* 24 (Chanukah 5782).
+  On 6 October 2026 he confirmed Ibn Ezra to Shir HaShirim 1:5, the pasuk of שחורה אני
+  ונאוה, for the 1:4 of *Indulging in Pleasure*. The ח"ש גר that closes the highlighted
+  Hebrew passage at the head of *Settled Citizens* is his note to himself to look up
+  *Cheshek Shlomo* s.v. גר and work it in; the link above the passage is to an article by
+  Mitchell First, which does not contain it.
 - **Split.** `python tools/split_manuscript.py` writes `chapters/`, one essay per file with
   its footnotes, and `chapters.json`. The book's outline carries the shape, and Word stores
   it two ways: a Heading style on some paragraphs, a direct `outlineLvl` on the rest. Reading
