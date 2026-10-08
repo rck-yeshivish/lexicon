@@ -56,6 +56,16 @@ later corrections are written down. Drop it on the old one and run these three.
   the ones still to judge, each with its sentence; `--stale` lists judged rows
   an edit has orphaned. Run `fetch_pesukim.py` after adding rows, so the
   comments they name are on hand.
+- **`check_excerpts.py`** after new entries land, or after `fetch_pesukim.py`
+  brings in new texts. A card for a daf or a commentary shows the passages that
+  hold the entry's words, found by spelling, and a short word or one that only
+  shares a root is often another word: רָעָה, evil, in a passage shown for
+  *rei'a*, a friend. Each such passage is read once and judged in
+  `references/excerpt-senses.json`, and the build leaves the wrong words
+  unmarked, so the card finds the right passage or offers the text on Sefaria.
+  This runs the build and lists the passages still to judge (`--json` to save
+  them). A passage judged once keeps its verdict until Sefaria's text of it
+  changes.
 - **`lookup.py <term>`** searches entries then the raw corpus, by Hebrew
   (nikud stripped), transliteration, or English.
 - **`find_dupes.py`** near-duplicate source articles (the column reruns pieces

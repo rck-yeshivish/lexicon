@@ -859,6 +859,29 @@ TALMUD_COMMS = {}   # daf -> the commentaries on it held in TALMUD
 # [] where Sefaria has none, "link" where it has them only in another language.
 # COMMENT_META names the edition of each, as PESUKIM's "meta" does the pesukim's.
 COMMENTS, COMMENT_META = {}, {}
+# Passages of the Gemara or a commentary where a word the matching marks is not
+# the entry's word, each read and judged (references/excerpt-senses.json, listed
+# by tools/check_excerpts.py): רָעָה, evil, in a passage shown for rei'a, a
+# friend. (entry, source, segment) -> the words, bare, not to mark there.
+EXCERPT_NOT = {}
+# entry -> the words judged not the entry's in two passages or more and never
+# found to be it: רַבִּי is never ravya, a boy, nor חתול, a cat, chitul,
+# swaddling. They are left unmarked in every passage of that entry, so a card
+# does not fall from one such passage to the next.
+ENTRY_NOT = {}
+# What each card showed, for tools/check_excerpts.py: (entry, source, segment
+# number, the segment, [(word, headword, whether it is the headword itself)]).
+SHOWN = []
+
+
+def seg_id(text):
+    """A segment's fingerprint, so a judgment lapses if Sefaria's text changes."""
+    return hashlib.sha1(text.encode("utf-8")).hexdigest()[:12]
+
+
+def bare_word(word):
+    """A word's letters alone: no vowels, no punctuation, finals folded."""
+    return re.sub(r"[^א-ת]", "", refs.bare(word))
 STOP = set()
 STOP_AT = 12
 
@@ -944,11 +967,12 @@ class Cites:
                 return disp, False
         return "", False
 
-    def tokens(self, text):
+    def tokens(self, text, wrong=()):
         # A maqaf-joined pair (וְגַם־נִכְלְמוּ) is two tokens, so only the word
-        # itself is marked; a token ending in maqaf joins the next.
-        return [[piece, self.mark(piece)] for w in text.split(" ")
-                for piece in re.split(r"(?<=־)", w) if piece]
+        # itself is marked; a token ending in maqaf joins the next. A word
+        # judged not to be the entry's in this passage (`wrong`) is not marked.
+        return [[piece, "" if wrong and bare_word(piece) in wrong else self.mark(piece)]
+                for w in text.split(" ") for piece in re.split(r"(?<=־)", w) if piece]
 
     def card(self, label, keys, kind, about=None):
         # Every citation the site recognises is a link. Where its text cannot
@@ -999,7 +1023,9 @@ class Cites:
                 segs = (TALMUD["passages"].get(src) if talmud else COMMENTS.get(src)) or []
                 # "link": Sefaria has his comment, but not in Hebrew.
                 segs = segs if isinstance(segs, list) else []
-                hits = [(i, self.tokens(s)) for i, s in enumerate(segs)]
+                never = ENTRY_NOT.get(self.slug, set())
+                hits = [(i, self.tokens(s, EXCERPT_NOT.get((self.slug, src, seg_id(s)), set()) | never))
+                        for i, s in enumerate(segs)]
                 return segs, [(i, t) for i, t in hits if any(m for _, m in t)]
 
             # Of the segments that qualify, the two holding the most of the
@@ -1031,6 +1057,8 @@ class Cites:
             if not pick:
                 return None
             src, segs, hits = pick
+            SHOWN.extend((self.slug, src, i, segs[i], [(w, m, self.match(w)[1]) for w, m in t if m])
+                         for i, t in hits)
             if " on " in src:
                 label = f'{refs.COMMENTARY_NAME.get(src.split(" on ")[0], src.split(" on ")[0])}, {label}'
             toks = []
@@ -1507,6 +1535,16 @@ def main():
             TALMUD_COMMS.setdefault(key.split(" on ", 1)[1], []).append(key)
     COMMENTS.update(PESUKIM.pop("comments", {}))
     COMMENT_META.update(PESUKIM.pop("comment_meta", {}))
+    senses = ROOT / "references" / "excerpt-senses.json"
+    if senses.exists():
+        nots, kept = Counter(), set()
+        for r in json.loads(senses.read_text(encoding="utf-8"))["passages"]:
+            EXCERPT_NOT[(r["entry"], r["src"], r["seg"])] = set(r["not"])
+            nots.update((r["entry"], w) for w in r["not"])
+            kept.update((r["entry"], w) for w in r.get("kept", []))
+        for (entry, w), n in nots.items():
+            if n >= 2 and (entry, w) not in kept:
+                ENTRY_NOT.setdefault(entry, set()).add(w)
     # Counted per corpus: the Gemara texts are several times the size of the
     # pesukim, and pooling them raised the bar until כלם (all) passed again.
     verses = list(PESUKIM["verses"].values())
