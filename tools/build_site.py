@@ -1887,6 +1887,9 @@ pages as the rendering to use.
     copy("favicon.ico", ROOT / "brand" / "favicon.ico")
     copy("apple-touch-icon.png", ROOT / "brand" / "apple-touch-icon.png")
     emit("_headers", HEADERS)
+    # Google Search Console's proof of ownership; it must stay at the root.
+    emit("google3cce69507d05ac01.html",
+         "google-site-verification: google3cce69507d05ac01.html")
 
     stale = [f for f in OUT.rglob("*") if f.is_file() and f.resolve() not in written]
     for f in stale:
