@@ -2,12 +2,17 @@
 
 The site is live at **https://whatsinaword.pages.dev**
 
+It lives on the Cloudflare account `Yeshivish@gmail.com's Account`
+(`0a49ac6b67a80b90d2c1d3a3130c7b12`). It moved there on 4 November 2026 from
+`Yehron@gmail.com's Account`, keeping its address and its page-view count.
+
 Every push to `main` builds and deploys it, so ordinarily there is nothing to
-run. `site/` is generated, so to deploy by hand, build first:
+run. `site/` is generated, so to deploy by hand, build first. A login that
+reaches more than one account has to be told which, or wrangler will ask:
 
 ```bash
 python tools/build_site.py
-npx wrangler pages deploy site --project-name=whatsinaword --branch=main
+CLOUDFLARE_ACCOUNT_ID=0a49ac6b67a80b90d2c1d3a3130c7b12 npx wrangler pages deploy site --project-name=whatsinaword --branch=main
 ```
 
 It must be `pages deploy`, and the same is true in the workflow. Plain `wrangler
@@ -32,8 +37,8 @@ Actions** on GitHub:
 
 | Secret | Value |
 |---|---|
-| `CLOUDFLARE_API_TOKEN` | a token with the **Edit Cloudflare Workers** template |
-| `CLOUDFLARE_ACCOUNT_ID` | `bcb0f74507b5013b6b3188ef7a30a267` |
+| `CLOUDFLARE_API_TOKEN` | a token with the **Edit Cloudflare Workers** template, scoped to the Yeshivish account |
+| `CLOUDFLARE_ACCOUNT_ID` | `0a49ac6b67a80b90d2c1d3a3130c7b12` |
 
 Create the token at **My Profile → API Tokens → Create Token** in the
 Cloudflare dashboard.
